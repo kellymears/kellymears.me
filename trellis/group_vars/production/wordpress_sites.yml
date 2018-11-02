@@ -23,7 +23,7 @@ wordpress_sites:
     site_hosts:
       - canonical: wedding.kellymears.me
     local_path: ../wedding # path targeting local Bedrock site directory (relative to Ansible root)
-    repo: git@github.com:pixelcollective/kellymears.me.git # replace with your Git repo URL
+    repo: git@github.com:kellymears/kellymears.me.git # replace with your Git repo URL
     repo_subtree_path: wedding # relative path to your Bedrock/WP directory in your repo
     branch: master
     multisite:
