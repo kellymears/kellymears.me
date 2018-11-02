@@ -9,7 +9,7 @@ jobs:
     environment:
       host_key_checking: false
       SITE_ENV: staging
-      SITE_KEY: staging.wedding.kellymears.me
+      SITE_KEY: kellymears.me
     steps:
       - checkout
       - add_ssh_keys:
@@ -33,8 +33,8 @@ jobs:
       - image: itinerisltd/tiller:latest
     environment:
       host_key_checking: false
-      SITE_ENV: staging
-      SITE_KEY: staging.kellymears.me
+      SITE_ENV: production
+      SITE_KEY: kellymears.me
     steps:
       - checkout
       - add_ssh_keys:
@@ -59,7 +59,7 @@ jobs:
     environment:
       ANSIBLE_HOST_KEY_CHECKING: false
       SITE_ENV: production
-      SITE_KEY: kellymears.me
+      SITE_KEY: wedding.kellymears.me
     steps:
       - checkout
       - add_ssh_keys:
@@ -83,7 +83,7 @@ jobs:
       - image: itinerisltd/tiller:latest
     environment:
       ANSIBLE_HOST_KEY_CHECKING: false
-      SITE_ENV: production
+      SITE_ENV: staging
       SITE_KEY: wedding.kellymears.me
     steps:
       - checkout

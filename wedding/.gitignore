@@ -10,6 +10,10 @@ web/app/uploads/*
 web/wp
 web/.htaccess
 
+# Plugins
+!web/app/plugins/elementor-pro
+!web/app/plugins/wp-migrate-db-pro
+
 # Dotenv
 .env
 .env.*
