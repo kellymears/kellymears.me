@@ -101,24 +101,31 @@ abstract class Form_Base extends Base_Widget {
 		<div <?php echo $this->get_render_attribute_string( 'select-wrapper' . $i ); ?>>
 			<select <?php echo $this->get_render_attribute_string( 'select' . $i ); ?>>
 				<?php
-				foreach ( $options as $option ) :
-					if ( false === strpos( $option, '|' ) ) :
-						?>
-						<option value="<?php echo esc_attr( $option ); ?>"><?php echo $option; ?></option>
-						<?php
-					else :
+				foreach ( $options as $key => $option ) {
+					$option_id = $item['_id'] . $key;
+					$option_value = esc_attr( $option );
+					$option_label = esc_html( $option );
+
+					if ( false !== strpos( $option, '|' ) ) {
 						list( $label, $value ) = explode( '|', $option );
-						?>
-						<option value="<?php echo esc_attr( $value ); ?>"><?php echo $label; ?></option>
-						<?php
-					endif;
-				endforeach;
+						$option_value = esc_attr( $value );
+						$option_label = esc_html( $label );
+					}
+
+					$this->add_render_attribute( $option_id, 'value', $option_value );
+
+					if ( ! empty( $item['field_value'] ) && $option_value === $item['field_value'] ) {
+						$this->add_render_attribute( $option_id, 'selected', 'selected' );
+					}
+					echo '<option ' . $this->get_render_attribute_string( $option_id ) . '>' . $option_label . '</option>';
+				}
 				?>
 			</select>
 		</div>
 		<?php
 
-		return ob_get_clean();
+		$select = ob_get_clean();
+		return $select;
 	}
 
 	protected function make_radio_checkbox_field( $item, $item_index, $type ) {
@@ -139,11 +146,15 @@ abstract class Form_Base extends Base_Widget {
 					$element_id,
 					[
 						'type' => $type,
-						'value' => esc_attr( $option_value ),
+						'value' => $option_value,
 						'id' => $html_id,
 						'name' => $this->get_attribute_name( $item ) . ( ( 'checkbox' === $type && count( $options ) > 1 ) ? '[]' : '' ),
 					]
 				);
+
+				if ( ! empty( $item['field_value'] ) && $option_value === $item['field_value'] ) {
+					$this->add_render_attribute( $element_id, 'checked', 'checked' );
+				}
 
 				if ( $item['required'] && 'radio' === $type ) {
 					$this->add_required_attribute( $element_id );
@@ -205,6 +216,10 @@ abstract class Form_Base extends Base_Widget {
 
 		if ( ! empty( $item['placeholder'] ) ) {
 			$this->add_render_attribute( 'input' . $i, 'placeholder', $item['placeholder'] );
+		}
+
+		if ( ! empty( $item['field_value'] ) ) {
+			$this->add_render_attribute( 'input' . $i, 'value', $item['field_value'] );
 		}
 
 		if ( ! $instance['show_labels'] ) {

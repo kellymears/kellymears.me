@@ -1,7 +1,7 @@
 <?php
 namespace ElementorPro\Modules\Library\WP_Widgets;
 
-use Elementor\TemplateLibrary\Source_Local;
+use Elementor\Core\Base\Document;
 use ElementorPro\Modules\Library\Module;
 use ElementorPro\Plugin;
 
@@ -113,7 +113,7 @@ class Elementor_Library extends \WP_Widget {
 			<?php
 			$style = ' style="display:none"';
 
-			$template_type = get_post_meta( $instance['template_id'], Source_Local::TYPE_META_KEY, true );
+			$template_type = get_post_meta( $instance['template_id'], Document::TYPE_META_KEY, true );
 
 			// 'widget' is editable only from an Elementor page
 			if ( 'page' === $template_type ) {

@@ -774,7 +774,7 @@ class Search_Form extends Base {
 			var iconClass = 'fa fa-search';
 
 			if ( 'arrow' === settings.icon ) {
-				if ( elementor.config.is_rtl ) {
+				if ( elementorCommon.config.isRTL ) {
 					iconClass = 'fa fa-arrow-left';
 				} else {
 					iconClass = 'fa fa-arrow-right';

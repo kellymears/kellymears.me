@@ -5,9 +5,9 @@
 wordpress_sites:
   kellymears.me:
     site_hosts:
-      - canonical: kellymears.pix
+      - canonical: kellymears.local
         redirects:
-          - www.kellymears.pix
+          - www.kellymears.local
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: admin@example.test
     multisite:
@@ -19,7 +19,7 @@ wordpress_sites:
       enabled: false
   wedding.kellymears.me:
     site_hosts:
-      - canonical: wedding.kellymears.pix
+      - canonical: wedding.kellymears.local
     local_path: ../wedding # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: admin@example.test
     multisite:

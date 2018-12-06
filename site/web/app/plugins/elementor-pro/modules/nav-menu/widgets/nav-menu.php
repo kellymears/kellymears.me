@@ -1125,9 +1125,14 @@ class Nav_Menu extends Widget_Base {
 
 	public function handle_link_classes( $atts, $item, $args, $depth ) {
 		$classes = $depth ? 'elementor-sub-item' : 'elementor-item';
+		$is_anchor = false !== strpos( $atts['href'], '#' );
 
-		if ( in_array( 'current-menu-item', $item->classes ) ) {
-			$classes .= '  elementor-item-active';
+		if ( ! $is_anchor && in_array( 'current-menu-item', $item->classes ) ) {
+			$classes .= ' elementor-item-active';
+		}
+
+		if ( $is_anchor ) {
+			$classes .= ' elementor-item-anchor';
 		}
 
 		if ( empty( $atts['class'] ) ) {

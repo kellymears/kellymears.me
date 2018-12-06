@@ -808,7 +808,7 @@ class Blockquote extends Widget_Base {
 	}
 
 	protected function render() {
-		$settings = $this->get_settings();
+		$settings = $this->get_settings_for_display();
 
 		$tweet_button_view = $settings['tweet_button_view'];
 		$share_link = 'https://twitter.com/intent/tweet';

@@ -1,7 +1,7 @@
 <?php
 namespace ElementorPro\Modules\ThemeBuilder\Classes;
 
-use Elementor\Core\Ajax_Manager;
+use Elementor\Core\Common\Modules\Ajax\Module as Ajax;
 use Elementor\Core\Utils\Exceptions;
 use Elementor\TemplateLibrary\Source_Local;
 use ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document;
@@ -106,11 +106,11 @@ class Conditions_Manager {
 	/**
 	 * @access public
 	 *
-	 * @param Ajax_Manager $ajax_manager
+	 * @param Ajax $ajax_manager
 	 */
 	public function register_ajax_actions( $ajax_manager ) {
-		$ajax_manager->register_ajax_action( 'theme_builder_save_conditions', [ $this, 'ajax_save_theme_template_conditions' ] );
-		$ajax_manager->register_ajax_action( 'theme_builder_conditions_check_conflicts', [ $this, 'ajax_check_conditions_conflicts' ] );
+		$ajax_manager->register_ajax_action( 'pro_theme_builder_save_conditions', [ $this, 'ajax_save_theme_template_conditions' ] );
+		$ajax_manager->register_ajax_action( 'pro_theme_builder_conditions_check_conflicts', [ $this, 'ajax_check_conditions_conflicts' ] );
 	}
 
 	public function ajax_check_conditions_conflicts( $request ) {
@@ -289,7 +289,7 @@ class Conditions_Manager {
 					}
 
 					$args = [
-						'id' => $sub_id,
+						'id' => apply_filters( 'elementor/theme/get_location_templates/condition_sub_id', $sub_id, $parsed_condition ),
 					];
 
 					$condition_pass = $sub_condition_instance->check( $args );

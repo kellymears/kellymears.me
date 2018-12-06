@@ -1,5 +1,89 @@
 # Elementor Pro - by Elementor.com
 
+#### 2.2.4 - 2018-12-04
+* Fix: Global widget not saving changes ([#6340](https://github.com/pojome/elementor/issues/6340))
+* Fix: Dynamic tags support in Blockquote widget ([#6334](https://github.com/pojome/elementor/issues/6334))
+* Fix: Forms Redirect URL action when using form field values with spaces
+
+#### 2.2.3 - 2018-11-29
+* Fix: Missing "Edit Template" in Template widget ([#6271](https://github.com/pojome/elementor/issues/6271))
+* Fix: Follow menu anchors with UTF8 characters in Nav Menu
+* Fix: Show only supported templates in Template widget
+* Fix: Revert conflicting fix for a default order for WC archive
+
+#### 2.2.2 - 2018-11-28
+* Fix: Lightbox dynamic tag crashes the editor
+
+#### 2.2.1 - 2018-11-28
+* New: Added `ACF File` Dynamic tag to support text controls.
+* Tweak: Added option to hide item count bubble when cart is empty in Menu Cart widget ([#6223](https://github.com/pojome/elementor/issues/6223))
+* Tweak: Added Actions group for Lightbox and Contact URL tags
+* Tweak: Added filter `elementor_pro/dynamic_tags/shortcode/should_escape` to avoid escaping in Shortcode dynamic tag
+* Tweak: MailPoet3 integration allow Subscriber to to subscribe to multiple lists
+* Tweak: Added front-end max file size validation for upload fields
+* Tweak: Added `by-author` per Post-Type condition for theme builder
+* Fix: Template widget panel not showing the selected template ([#6271](https://github.com/pojome/elementor/issues/6271))
+* Fix: Conflict between ACF with Safari browser on Select option in Dynamic tag
+* Fix: Add post classes only for the Single template
+* Fix: Set document type as not editable for unsupported document like Global widget
+* Fix: Avoid duplicate query for current WC product query
+* Fix: Product Archive showing oldest products instead of latest
+* Fix: CSS reset in Posts widget using cards skin
+
+#### 2.2.0 - 2018-11-19
+* New: Introducing Custom Attributes ([#290](https://github.com/pojome/elementor/issues/290), [#3990](https://github.com/pojome/elementor/issues/3990))
+* New: Added evergreen option for Countdown widget ([#4459](https://github.com/pojome/elementor/issues/4459))
+* New: Added expire actions option for Countdown widget ([#5242](https://github.com/pojome/elementor/issues/5242))
+* New: Introducing Reviews widget ([#3854](https://github.com/pojome/elementor/issues/3854))
+* New: Introducing Sitemap widget ([#5594](https://github.com/pojome/elementor/issues/5594))
+* New: Added Request Parameter dynamic tag ([#4934](https://github.com/pojome/elementor/issues/4934))
+* New: Added Shortcode dynamic tag
+* New: Added Image and Video Lightbox dynamic tag
+* New: Added Contact URL dynamic tag
+* New: Added Featured Image Data dynamic tag
+* New: Added default value to each field in the Form widget ([#4268](https://github.com/pojome/elementor/issues/4268))
+* New: Added "Any Child Of" condition to template conditions ([#5321](https://github.com/pojome/elementor/issues/5321))
+* New: Added "In Child" condition to template conditions ([#5587](https://github.com/pojome/elementor/issues/5587))
+* Tweak: Added Form Redirect URL with form values ([#2564](https://github.com/pojome/elementor/issues/2564))
+* Tweak: Added default post classes to template wrapper ([#5959](https://github.com/pojome/elementor/issues/5959))
+* Tweak: Better labels for terms in Query control ([#6092](https://github.com/pojome/elementor/issues/6092))
+* Tweak: Renamed "Child Of" templates condition to "Direct Child Of"
+* Tweak: Added `elementor/theme/get_location_templates/condition_sub_id` filter hook to allow template condition translations
+* Tweak: Load the Template Library widget via Ajax for better performance
+* Tweak: Added 404 page title for Page Title dynamic tag
+* Fix: Menu Cart Toggle has # URL link ([#6141](https://github.com/pojome/elementor/issues/6141))
+* Fix: Alignment issue in Nav Menu widget ([#5790](https://github.com/pojome/elementor/issues/5790))
+* Fix: Avoid potential security risk in forms
+* Fix: Template By Author condition conflicts with 404 page
+* Fix: Restored WC Product Content widget in Single Product template
+* Fix: Theme Builder Preview URLs for date archives and 404 pages
+* Fix: Highlight active menu anchor items only when scrolled into view
+* Fix: Carousel Pagination Progress style to support new Swiper version
+
+#### 2.1.13 - 2018-11-12
+* Tweak: Added compatibility for new brand Finder in v2.3.0
+* Fix: Settings conflict when there are multiple carousels in the page
+
+#### 2.1.12 - 2018-11-05
+* Tweak: Added compatibility for the upcoming release of Elementor v2.3
+* Tweak: Better performance for Template Library widget
+* Fix: Fatal error if a taxonomy used in a dynamic field is removed ([#6029](https://github.com/pojome/elementor/issues/6029))
+* Fix: Date Time dynamic tag now respect site language ([#6001](https://github.com/pojome/elementor/issues/6001))
+* Fix: Custom CSS printed twice in the front-end
+* Fix: ACF Image field PHP warning ([#6051](https://github.com/pojome/elementor/issues/6051))
+
+#### 2.1.11 - 2018-10-22
+* New: Added ACF local fields compatibility
+* Tweak: Re-brand TypeKit by Adobe Fonts integration
+* Fix: Exclude `is_embed` from Singular condition ([#5915](https://github.com/pojome/elementor/issues/5915))
+* Fix: Avoid conflict with Ad Blockers and Share Buttons
+* Fix: Current date time dynamic tag now shows local time
+* Fix: Avoid conflict with 3rd party plugins that filter the permalink
+* Fix: Avoid PHP warning when no groups are selected for MailChimp integration
+* Fix: Avoid PHP warning if checkbox field is empty for ACF
+* Fix: Respect password protected for a WC single product template
+* Fix: Respect `order` settings for WC archive also without pagination
+
 #### 2.1.10 - 2018-10-09
 * Tweak: Added responsive alignment control for Share Buttons widget ([#5821](https://github.com/pojome/elementor/issues/5821))
 * Tweak: Added link control to Animated Headline widget

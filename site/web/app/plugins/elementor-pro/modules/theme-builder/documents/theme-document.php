@@ -209,6 +209,8 @@ abstract class Theme_Document extends Library_Document {
 
 		list( $preview_category, $preview_object_type ) = array_pad( explode( '/', $this->get_settings( 'preview_type' ) ), 2, '' );
 
+		$home_url = trailingslashit( home_url() );
+
 		switch ( $preview_category ) {
 			case 'archive':
 				switch ( $preview_object_type ) {
@@ -219,12 +221,12 @@ abstract class Theme_Document extends Library_Document {
 						$preview_url = get_author_posts_url( $preview_id );
 						break;
 					case 'date':
-						$preview_url = add_query_arg( 'year', date( 'Y' ), home_url() );
+						$preview_url = add_query_arg( 'year', date( 'Y' ), $home_url );
 						break;
 				}
 				break;
 			case 'search':
-				$preview_url = add_query_arg( 's', $this->get_settings( 'preview_search_term' ), home_url() );
+				$preview_url = add_query_arg( 's', $this->get_settings( 'preview_search_term' ), $home_url );
 				break;
 			case 'taxonomy':
 				$term = get_term( $preview_id );
@@ -240,10 +242,10 @@ abstract class Theme_Document extends Library_Document {
 						$preview_url = get_post_type_archive_link( 'post' );
 						break;
 					case 'front':
-						$preview_url = home_url();
+						$preview_url = $home_url;
 						break;
 					case '404':
-						$preview_url = add_query_arg( 'p', '0', home_url() );
+						$preview_url = add_query_arg( 'p', '-1', $home_url );
 						break;
 				}
 				break;
@@ -349,7 +351,7 @@ abstract class Theme_Document extends Library_Document {
 						break;
 					case '404':
 						$query_args = [
-							'p' => 0,
+							'p' => -1,
 						];
 						break;
 				}

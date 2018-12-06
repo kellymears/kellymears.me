@@ -91,7 +91,7 @@ class Module extends Module_Base {
 				'type' => Controls_Manager::NUMBER,
 				'default' => 0,
 				'min' => 0,
-				'max' => 100,
+				'max' => 1000,
 				'required' => true,
 				'condition' => [
 					'sticky!' => '',

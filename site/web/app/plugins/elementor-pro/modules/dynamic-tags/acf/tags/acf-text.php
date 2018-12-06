@@ -67,6 +67,7 @@ class ACF_Text extends Tag {
 
 					break;
 				case 'checkbox':
+					$value = (array) $value;
 					$values = [];
 					foreach ( $value as $item ) {
 						if ( isset( $field['choices'][ $item ] ) ) {

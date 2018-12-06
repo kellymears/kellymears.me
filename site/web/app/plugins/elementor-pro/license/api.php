@@ -9,7 +9,7 @@ class API {
 
 	const PRODUCT_NAME = 'Elementor Pro';
 
-	const STORE_URL = 'http://my.elementor.com/api/v1/licenses/';
+	const STORE_URL = 'https://my.elementor.com/api/v1/licenses/';
 	const RENEW_URL = 'https://go.elementor.com/renew/';
 
 	// License Statuses
@@ -37,7 +37,6 @@ class API {
 		);
 
 		$response = wp_remote_post( self::STORE_URL, [
-			'sslverify' => false,
 			'timeout' => 40,
 			'body' => $body_args,
 		] );
@@ -146,7 +145,7 @@ class API {
 	}
 
 	public static function get_previous_package_url() {
-		$url = 'http://my.elementor.com/api/v1/pro-downloads/';
+		$url = 'https://my.elementor.com/api/v1/pro-downloads/';
 
 		$body_args = [
 			'item_name' => self::PRODUCT_NAME,
@@ -156,7 +155,6 @@ class API {
 		];
 
 		$response = wp_remote_post( $url, [
-			'sslverify' => false,
 			'timeout' => 40,
 			'body' => $body_args,
 		] );

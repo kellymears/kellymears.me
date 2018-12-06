@@ -614,7 +614,7 @@ class Post_Info extends Base {
 		$this->add_control(
 			'text_indent',
 			[
-				'label' => __( 'Text Indent', 'elementor-pro' ),
+				'label' => __( 'Indent', 'elementor-pro' ),
 				'type' => Controls_Manager::SLIDER,
 				'range' => [
 					'px' => [

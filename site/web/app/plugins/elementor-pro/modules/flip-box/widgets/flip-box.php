@@ -1356,10 +1356,10 @@ class Flip_Box extends Base_Widget {
 					<?php endif; ?>
 
 					<?php if ( ! empty( $settings['button_text'] ) ) : ?>
-					<<?php echo $button_tag; ?> <?php echo $this->get_render_attribute_string( 'button' ); ?>>
-					<?php echo $settings['button_text']; ?>
-				</<?php echo $button_tag; ?>>
-				<?php endif; ?>
+						<<?php echo $button_tag; ?> <?php echo $this->get_render_attribute_string( 'button' ); ?>>
+						<?php echo $settings['button_text']; ?>
+						</<?php echo $button_tag; ?>>
+					<?php endif; ?>
 			</div>
 		</div>
 		</<?php echo $wrapper_tag; ?>>

@@ -195,7 +195,7 @@ class Module extends Module_Base {
 		$module = Plugin::elementor()->dynamic_tags;
 
 		$module->register_group( self::WOOCOMMERCE_GROUP, [
-			'title' => __( 'Woocommerce', 'elementor-pro' ),
+			'title' => __( 'WooCommerce', 'elementor-pro' ),
 		] );
 
 		foreach ( $tags as $tag ) {

@@ -306,7 +306,6 @@ class Media_Carousel extends Base {
 					'autoplay' => 1,
 					'rel' => 0,
 					'controls' => 0,
-					'showinfo' => 0,
 				];
 
 				$this->add_render_attribute( $element_key . '_link', 'data-elementor-lightbox-video', Embed::get_embed_url( $slide['video']['url'], $embed_url_params ) );

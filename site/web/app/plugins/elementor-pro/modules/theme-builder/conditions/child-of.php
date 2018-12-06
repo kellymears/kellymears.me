@@ -13,19 +13,27 @@ class Child_Of extends Condition_Base {
 		return 'singular';
 	}
 
+	public static function get_priority() {
+		return 40;
+	}
+
 	public function get_name() {
 		return 'child_of';
 	}
 
 	public function get_label() {
-		return __( 'Child Of', 'elementor-pro' );
+		return __( 'Direct Child Of', 'elementor-pro' );
 	}
 
 	public function check( $args ) {
+		if ( ! is_singular() ) {
+			return false;
+		}
+
 		$id = (int) $args['id'];
 		$parent_id = wp_get_post_parent_id( get_the_ID() );
 
-		return is_singular() && ( ( ! $id && 0 < $parent_id ) || ( $parent_id === $id ) );
+		return ( ( 0 === $id && 0 < $parent_id ) || ( $parent_id === $id ) );
 	}
 
 	protected function _register_controls() {

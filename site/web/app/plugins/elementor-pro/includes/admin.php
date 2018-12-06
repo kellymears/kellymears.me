@@ -149,6 +149,19 @@ class Admin {
 		return $params;
 	}
 
+	public function add_finder_items( array $categories ) {
+		$settings_url = Settings::get_url();
+
+		$categories['settings']['items']['integrations'] = [
+			'title' => __( 'Integrations', 'elementor-pro' ),
+			'icon' => 'integration',
+			'url' => $settings_url . '#tab-integrations',
+			'keywords' => [ 'integrations', 'settings', 'typekit', 'facebook', 'recaptcha', 'mailchimp', 'drip', 'activecampaign', 'getresponse', 'convertkit', 'elementor' ],
+		];
+
+		return $categories;
+	}
+
 	/**
 	 * Admin constructor.
 	 */
@@ -162,6 +175,8 @@ class Admin {
 
 		add_filter( 'plugin_action_links_' . ELEMENTOR_PLUGIN_BASE, [ $this, 'plugin_action_links' ], 50 );
 		add_filter( 'plugin_row_meta', [ $this, 'plugin_row_meta' ], 10, 2 );
+
+		add_filter( 'elementor/finder/categories', [ $this, 'add_finder_items' ] );
 
 		add_filter( 'elementor/tracker/send_tracking_data_params', [ $this, 'change_tracker_params' ], 200 );
 		add_action( 'admin_post_elementor_pro_rollback', [ $this, 'post_elementor_pro_rollback' ] );

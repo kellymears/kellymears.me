@@ -489,7 +489,6 @@ class Call_To_Action extends Base_Widget {
 				'condition' => [
 					'skin' => 'classic',
 				],
-				'separator' => 'before',
 			]
 		);
 

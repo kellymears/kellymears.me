@@ -1,6 +1,7 @@
 <?php
 namespace ElementorPro;
 
+use ElementorPro\Core\Connect;
 use Elementor\Core\Responsive\Files\Frontend as FrontendFile;
 use Elementor\Core\Responsive\Responsive;
 use Elementor\Utils;
@@ -304,10 +305,8 @@ class Plugin {
 		return $templates;
 	}
 
-	public function elementor_init() {
+	public function on_elementor_init() {
 		$this->modules_manager = new Manager();
-
-		self::elementor()->editor->add_editor_template( __DIR__ . '/includes/templates/editor.php' );
 
 		/**
 		 * Elementor Pro init.
@@ -320,12 +319,17 @@ class Plugin {
 		do_action( 'elementor_pro/init' );
 	}
 
+	public function on_elementor_editor_init() {
+		self::elementor()->common->add_template( __DIR__ . '/includes/templates/editor.php' );
+	}
+
 	private function get_responsive_templates_path() {
 		return ELEMENTOR_PRO_ASSETS_PATH . 'css/templates/';
 	}
 
 	private function setup_hooks() {
-		add_action( 'elementor/init', [ $this, 'elementor_init' ] );
+		add_action( 'elementor/init', [ $this, 'on_elementor_init' ] );
+		add_action( 'elementor/editor/init', [ $this, 'on_elementor_editor_init' ] );
 
 		add_action( 'elementor/frontend/before_register_scripts', [ $this, 'register_frontend_scripts' ] );
 
@@ -345,6 +349,8 @@ class Plugin {
 		spl_autoload_register( [ $this, 'autoload' ] );
 
 		$this->includes();
+
+		new Connect\Manager();
 
 		$this->setup_hooks();
 

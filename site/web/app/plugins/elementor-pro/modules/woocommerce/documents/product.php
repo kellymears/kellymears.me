@@ -32,6 +32,15 @@ class Product extends Single {
 		return 'single product';
 	}
 
+	public static function get_editor_panel_config() {
+		$config = parent::get_editor_panel_config();
+		$config['widgets_settings']['woocommerce-product-content'] = [
+			'show_in_panel' => true,
+		];
+
+		return $config;
+	}
+
 	protected static function get_editor_panel_categories() {
 		$categories = [
 			'woocommerce-elements-single' => [
@@ -133,6 +142,11 @@ class Product extends Single {
 		global $product;
 		if ( ! is_object( $product ) ) {
 			$product = wc_get_product( get_the_ID() );
+		}
+
+		if ( post_password_required() ) {
+			echo get_the_password_form(); // WPCS: XSS ok.
+			return;
 		}
 
 		do_action( 'woocommerce_before_single_product' );

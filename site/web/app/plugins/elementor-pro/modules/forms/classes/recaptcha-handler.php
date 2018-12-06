@@ -35,7 +35,7 @@ class Recaptcha_Handler {
 
 	public function register_admin_fields( Settings $settings ) {
 		$settings->add_section( Settings::TAB_INTEGRATIONS, 'recaptcha', [
-			'label' => __( 'reCAPTCHA', 'elementor-pro' ),
+			'label' => __( 'reCAPTCHA', 'elementor-pro' ) . ' (v2)',
 			'callback' => function() {
 				echo __( '<a target="_blank" href="https://www.google.com/recaptcha/">reCAPTCHA</a> is a free service by Google that protects your website from spam and abuse. It does this while letting your valid users pass through with ease.', 'elementor-pro' );
 			},

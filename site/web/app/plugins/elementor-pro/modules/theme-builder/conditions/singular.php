@@ -54,6 +54,6 @@ class Singular extends Condition_Base {
 	}
 
 	public function check( $args ) {
-		return is_singular() || is_404();
+		return ( is_singular() && ! is_embed() ) || is_404();
 	}
 }

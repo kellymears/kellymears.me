@@ -176,12 +176,13 @@ class Global_Widget extends Base_Widget {
 		// TODO: a better way for detection.
 		$is_publishing = false;
 
-		// Elementor >= 2.0.0 beta 4 with the method `get_current_action_data`.
-		if ( ! empty( Plugin::elementor()->ajax ) && method_exists( Plugin::elementor()->ajax, 'get_current_action_data' ) ) {
-			$ajax_data = Plugin::elementor()->ajax->get_current_action_data();
-			if ( $ajax_data && 'save_builder' === $ajax_data['action'] && DB::STATUS_PUBLISH === $ajax_data['data']['status'] ) {
-				$is_publishing = true;
-			}
+		/** @var \Elementor\Core\Common\Modules\Ajax\Module $ajax */
+		$ajax = Plugin::elementor()->common->get_component( 'ajax' );
+
+		$ajax_data = $ajax->get_current_action_data();
+
+		if ( $ajax_data && 'save_builder' === $ajax_data['action'] && DB::STATUS_PUBLISH === $ajax_data['data']['status'] ) {
+			$is_publishing = true;
 		}
 
 		if ( $is_publishing ) {

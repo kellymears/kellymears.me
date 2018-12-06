@@ -1,4 +1,4 @@
-/*! elementor-pro - v2.1.10 - 09-10-2018 */
+/*! elementor-pro - v2.2.4 - 04-12-2018 */
 #elementor-panel-get-pro-elements {
   display: none; }
 
@@ -312,4 +312,7 @@
   .elementor-conditions-select2-dropdown .select2-search--dropdown .select2-search__field {
     border-width: 0 0 1px;
     border-radius: 0; }
+
+.elementor-control.elementor-control-sitemap_items.elementor-control-type-repeater .elementor-repeater-row-tools .elementor-repeater-row-item-title span {
+  text-transform: capitalize; }
 /*# sourceMappingURL=editor-rtl.css.map */

@@ -45,16 +45,16 @@ class Price_Table extends Base_Widget {
 			[
 				'label' => __( 'Title', 'elementor-pro' ),
 				'type' => Controls_Manager::TEXT,
-				'default' => __( 'I am title', 'elementor-pro' ),
+				'default' => __( 'Enter your title', 'elementor-pro' ),
 			]
 		);
 
 		$this->add_control(
 			'sub_heading',
 			[
-				'label' => __( 'Subtitle', 'elementor-pro' ),
+				'label' => __( 'Description', 'elementor-pro' ),
 				'type' => Controls_Manager::TEXT,
-				'default' => __( 'I am subtitle', 'elementor-pro' ),
+				'default' => __( 'Enter your description', 'elementor-pro' ),
 			]
 		);
 

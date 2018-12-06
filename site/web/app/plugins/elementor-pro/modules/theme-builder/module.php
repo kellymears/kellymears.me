@@ -255,6 +255,10 @@ class Module extends Module_Base {
 		return $document instanceof Theme_Document;
 	}
 
+	public function on_elementor_editor_init() {
+		Plugin::elementor()->common->add_template( __DIR__ . '/views/panel-template.php' );
+	}
+
 	public function __construct() {
 		parent::__construct();
 
@@ -266,10 +270,10 @@ class Module extends Module_Base {
 		$this->add_component( 'preview', new Classes\Preview_Manager() );
 		$this->add_component( 'locations', new Classes\Locations_Manager() );
 
-		Plugin::elementor()->editor->add_editor_template( __DIR__ . '/views/panel-template.php' );
 		add_action( 'elementor/controls/controls_registered', [ $this, 'register_controls' ] );
 
 		// Editor
+		add_action( 'elementor/editor/init', [ $this, 'on_elementor_editor_init' ] );
 		add_filter( 'elementor_pro/editor/localize_settings', [ $this, 'localize_settings' ] );
 
 		// Admin

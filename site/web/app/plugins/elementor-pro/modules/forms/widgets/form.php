@@ -31,7 +31,7 @@ class Form extends Form_Base {
 	}
 
 	public function get_keywords() {
-		return [ 'form', 'field', 'button', 'mailchimp', 'drip', 'mailpoet', 'convertkit', 'getresponse', 'recaptcha', 'zapier', 'webhook', 'activecampaign' ];
+		return [ 'form', 'forms', 'field', 'button', 'mailchimp', 'drip', 'mailpoet', 'convertkit', 'getresponse', 'recaptcha', 'zapier', 'webhook', 'activecampaign', 'slack', 'discord', 'mailerlite' ];
 	}
 
 	protected function _register_controls() {
@@ -89,18 +89,6 @@ class Form extends Form_Base {
 				'label' => __( 'Label', 'elementor-pro' ),
 				'type' => Controls_Manager::TEXT,
 				'default' => '',
-			]
-		);
-
-		$repeater->add_control(
-			'field_value',
-			[
-				'label' => __( 'Value', 'elementor-pro' ),
-				'type' => Controls_Manager::TEXT,
-				'default' => '',
-				'condition' => [
-					'field_type' => 'hidden',
-				],
 			]
 		);
 
@@ -243,6 +231,9 @@ class Form extends Form_Base {
 			[
 				'label' => __( 'HTML', 'elementor-pro' ),
 				'type' => Controls_Manager::TEXTAREA,
+				'dynamic' => [
+					'active' => true,
+				],
 				'conditions' => [
 					'terms' => [
 						[
@@ -365,6 +356,39 @@ class Form extends Form_Base {
 				'label' => __( 'Advanced', 'elementor-pro' ),
 				'condition' => [
 					'field_type!' => 'html',
+				],
+			]
+		);
+
+		$repeater->add_control(
+			'field_value',
+			[
+				'label' => __( 'Default Value', 'elementor-pro' ),
+				'type' => Controls_Manager::TEXT,
+				'default' => '',
+				'dynamic' => [
+					'active' => true,
+				],
+				'conditions' => [
+					'terms' => [
+						[
+							'name' => 'field_type',
+							'operator' => 'in',
+							'value' => [
+								'text',
+								'email',
+								'textarea',
+								'url',
+								'tel',
+								'radio',
+								'select',
+								'number',
+								'date',
+								'time',
+								'hidden',
+							],
+						],
+					],
 				],
 			]
 		);
@@ -1189,7 +1213,7 @@ class Form extends Form_Base {
 	}
 
 	protected function render() {
-		$instance = $this->get_active_settings();
+		$instance = $this->get_settings_for_display();
 
 		$this->add_render_attribute(
 			[
@@ -1300,7 +1324,6 @@ class Form extends Form_Base {
 
 					if ( 'hidden' === $item['field_type'] ) {
 						$item['field_label'] = false;
-						$this->add_render_attribute( 'input' . $item_index, 'value', $item['field_value'] );
 					}
 					?>
 				<div <?php echo $this->get_render_attribute_string( 'field-group' . $item_index ); ?>>
@@ -1431,7 +1454,7 @@ class Form extends Form_Base {
 								break;
 
 							case 'textarea':
-								inputField = '<textarea class="elementor-field elementor-field-textual elementor-size-' + settings.input_size + ' ' + itemClasses + '" name="form_field_' + i + '" id="form_field_' + i + '" rows="' + item.rows + '" ' + required + ' ' + placeholder + '></textarea>';
+								inputField = '<textarea class="elementor-field elementor-field-textual elementor-size-' + settings.input_size + ' ' + itemClasses + '" name="form_field_' + i + '" id="form_field_' + i + '" rows="' + item.rows + '" ' + required + ' ' + placeholder + '>' + item.field_value + '</textarea>';
 								break;
 
 							case 'select':
@@ -1443,12 +1466,21 @@ class Form extends Form_Base {
 									inputField = '<div class="elementor-field elementor-select-wrapper ' + itemClasses + '">';
 									inputField += '<select class="elementor-field-textual elementor-size-' + settings.input_size + '" name="form_field_' + i + '" id="form_field_' + i + '" ' + required + multiple + size + ' >';
 									for ( var x in options ) {
+										var option_value = options[ x ];
+										var option_label = options[ x ];
+										var option_id = 'form_field_option' + i + x;
+
 										if ( options[ x ].indexOf( '|' ) > -1 ) {
 											var label_value = options[ x ].split( '|' );
-											inputField += '<option value="' + label_value[1] + '">' + label_value[0] + '</option>';
-										} else {
-											inputField += '<option value="' + options[ x ] + '">' + options[ x ] + '</option>';
+											option_label = label_value[0];
+											option_value = label_value[1];
 										}
+
+										view.addRenderAttribute( option_id, 'value', option_value );
+										if ( option_value ===  item.field_value ) {
+											view.addRenderAttribute( option_id, 'selected', 'selected' );
+										}
+										inputField += '<option ' + view.getRenderAttributeString( option_id ) + '>' + option_label + '</option>';
 									}
 									inputField += '</select></div>';
 								}
@@ -1466,14 +1498,29 @@ class Form extends Form_Base {
 									inputField = '<div class="elementor-field-subgroup ' + itemClasses + ' ' + item.inline_list + '">';
 
 									for ( var x in options ) {
+										var option_value = options[ x ];
+										var option_label = options[ x ];
+										var option_id = 'form_field_' + item.field_type + i + x;
 										if ( options[x].indexOf( '|' ) > -1 ) {
 											var label_value = options[x].split( '|' );
-											inputField += '<span class="elementor-field-option"><input type="' + item.field_type + '" value="' + label_value[1] + '" id="form_field_' + i + '-' + x + '" name="form_field_' + i + multiple + '" ' + required + '> ';
-											inputField += '<label for="form_field_' + i + '-' + x + '">' + label_value[0] + '</label></span>';
-										} else {
-											inputField += '<span class="elementor-field-option"><input type="' + item.field_type + '" value="' + options[ x ] + '" id="form_field_' + i + '-' + x + '" name="form_field_' + i + multiple + '" ' + required + '> ';
-											inputField += '<label for="form_field_' + i + '-' + x + '">' + options[ x ] + '</label></span>';
+											option_label = label_value[0];
+											option_value = label_value[1];
 										}
+
+										view.addRenderAttribute( option_id, {
+											value: option_value,
+											type: item.field_type,
+											id: 'form_field_' + i + '-' + x,
+											name: 'form_field_' + i + multiple
+										} );
+
+										if ( option_value ===  item.field_value ) {
+											view.addRenderAttribute( option_id, 'checked', 'checked' );
+										}
+
+										inputField += '<span class="elementor-field-option"><input ' + view.getRenderAttributeString( option_id ) + ' ' + required + '> ';
+										inputField += '<label for="form_field_' + i + '-' + x + '">' + option_label + '</label></span>';
+
 									}
 
 									inputField += '</div>';
@@ -1487,7 +1534,7 @@ class Form extends Form_Base {
 							case 'number':
 							case 'search':
 								itemClasses = 'elementor-field-textual ' + itemClasses;
-								inputField = '<input size="1" type="' + item.field_type + '" class="elementor-field elementor-size-' + settings.input_size + ' ' + itemClasses + '" name="form_field_' + i + '" id="form_field_' + i + '" ' + required + ' ' + placeholder + ' >';
+								inputField = '<input size="1" type="' + item.field_type + '" value="' + item.field_value + '" class="elementor-field elementor-size-' + settings.input_size + ' ' + itemClasses + '" name="form_field_' + i + '" id="form_field_' + i + '" ' + required + ' ' + placeholder + ' >';
 								break;
 							default:
 								inputField = elementor.hooks.applyFilters( 'elementor_pro/forms/content_template/field/' + item.field_type, '', item, i, settings );
