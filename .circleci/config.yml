@@ -9,7 +9,7 @@ jobs:
     environment:
       host_key_checking: false
       SITE_ENV: staging
-      SITE_KEY: staging.wedding.kellymears.me
+      SITE_KEY: wedding.kellymears.me
     steps:
       - checkout
       - add_ssh_keys:
@@ -34,7 +34,7 @@ jobs:
     environment:
       host_key_checking: false
       SITE_ENV: staging
-      SITE_KEY: staging.kellymears.me
+      SITE_KEY: kellymears.me
     steps:
       - checkout
       - add_ssh_keys:
