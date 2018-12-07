@@ -1,5 +1,4 @@
 kellymears.me ansible_host=138.68.5.29
-wedding.kellymears.me ansible_host=138.68.5.29
 
 [production]
 kellymears.me
