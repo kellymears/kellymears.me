@@ -1,7 +1,7 @@
 staging.kellymears.me ansible_host=142.93.21.156
 
 [staging]
-staging.kellymears.me
+cms.kellymears.me
 
 [web]
 staging.kellymears.me

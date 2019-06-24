@@ -1,0 +1,33 @@
+# Documentation: https://roots.io/trellis/docs/remote-server-setup/
+# `wordpress_sites` options: https://roots.io/trellis/docs/wordpress-sites
+# Define accompanying passwords/secrets in group_vars/staging/vault.yml
+
+wordpress_sites:
+  kellymears.me:
+    site_hosts:
+      - canonical: staging.kellymears.me
+    local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
+    repo: git@github.com:kellymears/kellymears.me.git # replace with your Git repo URL
+    repo_subtree_path: site # relative path to your Bedrock/WP directory in your repo
+    branch: development
+    multisite:
+      enabled: false
+    ssl:
+      enabled: true
+      provider: letsencrypt
+    cache:
+      enabled: false
+  wedding.kellymears.me:
+    site_hosts:
+      - canonical: staging.wedding.kellymears.me
+    local_path: ../wedding # path targeting local Bedrock site directory (relative to Ansible root)
+    repo: git@github.com:kellymears/kellymears.me.git # replace with your Git repo URL
+    repo_subtree_path: wedding # relative path to your Bedrock/WP directory in your repo
+    branch: development
+    multisite:
+      enabled: false
+    ssl:
+      enabled: true
+      provider: letsencrypt
+    cache:
+      enabled: false
