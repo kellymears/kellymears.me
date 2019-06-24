@@ -8,7 +8,7 @@ wordpress_sites:
       - canonical: cms.kellymears.me
     local_path: ../bedrock # path targeting local Bedrock site directory (relative to Ansible root)
     repo: git@github.com:kellymears/kellymears.me.git # replace with your Git repo URL
-    repo_subtree_path: site # relative path to your Bedrock/WP directory in your repo
+    repo_subtree_path: bedrock # relative path to your Bedrock/WP directory in your repo
     branch: development
     multisite:
       enabled: false
@@ -17,6 +17,7 @@ wordpress_sites:
       provider: letsencrypt
     cache:
       enabled: true
+
   wedding.kellymears.me:
     site_hosts:
       - canonical: staging.wedding.kellymears.me
