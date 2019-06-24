@@ -1,0 +1,19 @@
+.entry-content {
+	.wp-block-code {
+    @include blockMobileDisplay();
+    padding: 0;
+
+		code {
+			font-size: 14px;
+			line-height: 1.8;
+			padding: 0;
+      top: 0;
+      padding: 1rem 2rem;
+		}
+  }
+
+  p code {
+    background-color: #f92672;
+    color: white;
+  }
+}

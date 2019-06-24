@@ -1,0 +1,184 @@
+@font-face {
+	font-family: system-ui;
+	font-style: normal;
+	font-weight: 300;
+	src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Segoe UI Light"), local("Ubuntu Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
+@font-face {
+	font-family: system-ui;
+	font-style: italic;
+	font-weight: 300;
+	src: local(".SFNSText-LightItalic"), local(".HelveticaNeueDeskInterface-Italic"), local(".LucidaGrandeUI"), local("Segoe UI Light Italic"), local("Ubuntu Light Italic"), local("Roboto-LightItalic"), local("DroidSans"), local("Tahoma");
+}
+
+@font-face {
+	font-family: system-ui;
+	font-style: normal;
+	font-weight: 400;
+	src: local(".SFNSText-Regular"), local(".HelveticaNeueDeskInterface-Regular"), local(".LucidaGrandeUI"), local("Segoe UI"), local("Ubuntu"), local("Roboto-Regular"), local("DroidSans"), local("Tahoma");
+}
+
+@font-face {
+	font-family: system-ui;
+	font-style: italic;
+	font-weight: 400;
+	src: local(".SFNSText-Italic"), local(".HelveticaNeueDeskInterface-Italic"), local(".LucidaGrandeUI"), local("Segoe UI Italic"), local("Ubuntu Italic"), local("Roboto-Italic"), local("DroidSans"), local("Tahoma");
+}
+
+@font-face {
+	font-family: system-ui;
+	font-style: normal;
+	font-weight: 500;
+	src: local(".SFNSText-Medium"), local(".HelveticaNeueDeskInterface-MediumP4"), local(".LucidaGrandeUI"), local("Segoe UI Semibold"), local("Ubuntu Medium"), local("Roboto-Medium"), local("DroidSans-Bold"), local("Tahoma Bold");
+}
+
+@font-face {
+	font-family: system-ui;
+	font-style: italic;
+	font-weight: 500;
+	src: local(".SFNSText-MediumItalic"), local(".HelveticaNeueDeskInterface-MediumItalicP4"), local(".LucidaGrandeUI"), local("Segoe UI Semibold Italic"), local("Ubuntu Medium Italic"), local("Roboto-MediumItalic"), local("DroidSans-Bold"), local("Tahoma Bold");
+}
+
+@font-face {
+	font-family: system-ui;
+	font-style: normal;
+	font-weight: 700;
+	src: local(".SFNSText-Bold"), local(".HelveticaNeueDeskInterface-Bold"), local(".LucidaGrandeUI"), local("Segoe UI Bold"), local("Ubuntu Bold"), local("Roboto-Bold"), local("DroidSans-Bold"), local("Tahoma Bold");
+}
+
+@font-face {
+	font-family: system-ui;
+	font-style: italic;
+	font-weight: 700;
+	src: local(".SFNSText-BoldItalic"), local(".HelveticaNeueDeskInterface-BoldItalic"), local(".LucidaGrandeUI"), local("Segoe UI Bold Italic"), local("Ubuntu Bold Italic"), local("Roboto-BoldItalic"), local("DroidSans-Bold"), local("Tahoma Bold");
+}
+
+$font__body: "IBM Plex Serif", serif;
+$font__heading: 'system', sans-serif;
+$font__figcaption: $font__heading;
+
+$white: #fff;
+$black: #242424;
+$gray: #535353;
+$dark-gray: #6d6c6c;
+$twitter: #1a8bf0;
+$facebook: #3b5998;
+$linkedin: #0084bf;
+
+$color__text-heading: $black;
+$color__text-main: $black;
+
+$font__size_base: 19px;
+$font__size-ratio: 1.1;
+
+$font__size-xxs: 1em / (1.5 * $font__size-ratio);
+$font__size-xs: 1em / (1.2 * $font__size-ratio);
+$font__size-sm: 1em / (1 * $font__size-ratio);
+$font__size-md: 1em * (1.25 * $font__size-ratio);
+$font__size-mdlrg: 1em * (1.5 * $font__size-ratio);
+$font__size-lg: 1em * (1.75 * $font__size-ratio);
+$font__size-xl: 1em * (2 * $font__size-ratio);
+$font__size-xxl: 1em * (2.5 * $font__size-ratio);
+$font__size-xxxl: 1em * (5 * $font__size-ratio);
+
+$font__line-height-body: 1.8;
+$font__line-height-heading: 1.25;
+$font__line-height-pre: 1.6;
+
+$font__weight-body: 400;
+$font__weight-heading: 800;
+
+$content_width: 86%;
+$content_max-width: 700px;
+$content_mobile-width: 90%;
+
+$accent: #218799;
+$background: rgba(0,0,0,.04);
+$green: #49e2be;
+$red: #f00;
+
+$color--error: #e85c41;
+$color--success: #2cb994;
+
+$color--has-background-color-fallback: #f5f5f5;
+
+$color--background-body: #fff;
+$color--background-screen: #f1f1f1;
+$color--background-hr: #ccc;
+$color--background-button: #e6e6e6;
+$color--background-pre: #f1f1f1;
+$color--background-ins: #fff9c0;
+$color--background-input-focus: #fff;
+
+$color--background-lightbox: #fff;
+$color--background-lightbox-dark: #1c1c21;
+$color--background-lightbox-button: $black;
+$color--background-lightbox-button-dark: #dfdfe2;
+
+$color--text-screen: #21759b;
+$color--text-input: $black;
+$color--text-input-focus: $black;
+$color--text-input-placeholder: #bbb;
+$color--text-footer-a: #bbb;
+$color--link: #4169e1;
+$color--link-visited: #800080;
+$color--link-hover: #333;
+
+$color--border-button: #ccc #ccc #888;
+$color--border-button-hover: #ccc #888 #aaa;
+$color--border-button-focus: #aaa #888 #888;
+$color--border-input: #e6e6e6;
+$color--border-input-hover: #d6d6d6;
+$color--border-input-focus: #c6c6c6;
+$color--border-abbr: #e8e8e8;
+$color--border-table: #ccc;
+$color--border-footer: rgba(0, 0, 0, 0.075);
+
+$color--outline-button: #959595;
+
+// Content variables
+$content__width: 740px;
+$content__width--wide: 940px;
+$content__padding: 20px;
+$content__width--less-padding: $content__width - ($content__padding * 2);
+$content__width--wide--less-padding: $content__width--wide - ($content__padding * 2);
+$content__media-query: $content__width - 1;
+$content__media-query--wide: $content__width--wide - 1;
+$content__align--leftright-margin: $content__width / 2 - $content__padding;
+$content__align--mobile-media-query--min: 499px;
+$content__align--mobile-media-query--max: $content__align--mobile-media-query--min - 1;
+$content__align--width: 300px;
+$content__spacer: 30px;
+$content__spacer--mobile: 20px;
+
+$block__quote--border-width: 4px;
+$block__quote--cite-font: $font__figcaption;
+
+// Editor variables
+$font__size-editor--small: 17px;
+$font__size-editor--medium: 21px;
+$font__size-editor--large: 24px;
+$font__size-editor--huge: 30px;
+
+@mixin blockMobileDisplay {
+	margin-left: $content__padding;
+	margin-right: $content__padding;
+	max-width: $content__width--less-padding;
+
+	@media screen and (min-width: $content__media-query) {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@mixin blockWideDisplay {
+	margin-left: $content__padding;
+	margin-right: $content__padding;
+	max-width: $content__width--wide--less-padding;
+
+	@media screen and (min-width: $content__media-query--wide) {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
