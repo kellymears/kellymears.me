@@ -1,5 +1,5 @@
 {
-  "name": "roots/bedrock",
+  "name": "kellymears/bedrock",
   "type": "project",
   "license": "MIT",
   "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
@@ -17,7 +17,13 @@
     }
   ],
   "keywords": [
-    "bedrock", "roots", "wordpress", "stack", "composer", "vagrant", "wp"
+    "bedrock",
+    "roots",
+    "wordpress",
+    "stack",
+    "composer",
+    "vagrant",
+    "wp"
   ],
   "support": {
     "issues": "https://github.com/roots/bedrock/issues",
@@ -70,6 +76,7 @@
     "wpackagist-plugin/updraftplus": ">=1",
     "wpackagist-plugin/stream": "^3.2",
     "wpackagist-plugin/autodescription": ">=3",
+    "pixelcollective/netlify-deploy": "0.0.1",
     "wp-graphql/wp-graphql": "^0.3.3",
     "wp-graphql/wp-graphiql": "^0.3.0",
     "wp-api/basic-auth": "dev-master"
@@ -80,9 +87,15 @@
   },
   "extra": {
     "installer-paths": {
-      "web/app/mu-plugins/{$name}/": ["type:wordpress-muplugin"],
-      "web/app/plugins/{$name}/": ["type:wordpress-plugin"],
-      "web/app/themes/{$name}/": ["type:wordpress-theme"]
+      "web/app/mu-plugins/{$name}/": [
+        "type:wordpress-muplugin"
+      ],
+      "web/app/plugins/{$name}/": [
+        "type:wordpress-plugin"
+      ],
+      "web/app/themes/{$name}/": [
+        "type:wordpress-theme"
+      ]
     },
     "wordpress-install-dir": "web/wp"
   },
