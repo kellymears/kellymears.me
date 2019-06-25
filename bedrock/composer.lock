@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d6fcb5c2e30f6b8fadda56d39376eb0d",
+    "content-hash": "64c8d371b808625e56f6324619fcbb97",
     "packages": [
         {
             "name": "composer/installers",
@@ -395,22 +395,22 @@
         },
         {
             "name": "pixelcollective/netlify-deploy",
-            "version": "0.0.3",
+            "version": "0.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pixelcollective/netlify-deploy.git",
-                "reference": "232de92bb4aba55ddb1ab900d31a7373d6636a97"
+                "reference": "abddd964f193e7c36197c445cde8953466513872"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pixelcollective/netlify-deploy/zipball/232de92bb4aba55ddb1ab900d31a7373d6636a97",
-                "reference": "232de92bb4aba55ddb1ab900d31a7373d6636a97",
+                "url": "https://api.github.com/repos/pixelcollective/netlify-deploy/zipball/abddd964f193e7c36197c445cde8953466513872",
+                "reference": "abddd964f193e7c36197c445cde8953466513872",
                 "shasum": ""
             },
             "require": {
                 "guzzlehttp/guzzle": "^6.3"
             },
-            "type": "wp-plugin",
+            "type": "wordpress-plugin",
             "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
@@ -422,7 +422,7 @@
                 }
             ],
             "homepage": "https://tinypixel.dev",
-            "time": "2019-06-25T20:56:19+00:00"
+            "time": "2019-06-25T21:07:21+00:00"
         },
         {
             "name": "psr/http-message",

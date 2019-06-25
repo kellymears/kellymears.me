@@ -1,1 +1,4 @@
 mysql_root_password: "{{ vault_mysql_root_password }}" # Define this variable in group_vars/staging/vault.yml
+NETLIFY_WEBHOOK_DEVELOPMENT: "https://api.netlify.com/build_hooks/5d112d2a894e78827e09f451"
+NETLIFY_WEBHOOK_STAGING: "https://api.netlify.com/build_hooks/5d112d2a894e78827e09f451"
+NETLIFY_WEBHOOK_PRODUCTION: "https://api.netlify.com/build_hooks/5d112d2a894e78827e09f451"

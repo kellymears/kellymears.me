@@ -76,7 +76,7 @@
     "wpackagist-plugin/updraftplus": ">=1",
     "wpackagist-plugin/stream": "^3.2",
     "wpackagist-plugin/autodescription": ">=3",
-    "pixelcollective/netlify-deploy": "0.0.3",
+    "pixelcollective/netlify-deploy": "0.0.4",
     "wp-graphql/wp-graphql": "^0.3.3",
     "wp-graphql/wp-graphiql": "^0.3.0",
     "wp-api/basic-auth": "dev-master"
