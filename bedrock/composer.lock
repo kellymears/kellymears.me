@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "02cb6817e32645000760ab385faefce7",
+    "content-hash": "d6fcb5c2e30f6b8fadda56d39376eb0d",
     "packages": [
         {
             "name": "composer/installers",
@@ -395,22 +395,19 @@
         },
         {
             "name": "pixelcollective/netlify-deploy",
-            "version": "v0.0.1",
+            "version": "0.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pixelcollective/netlify-deploy.git",
-                "reference": "3a599fe442c9a4a14a5a8ed5dfd721c04683e23c"
+                "reference": "232de92bb4aba55ddb1ab900d31a7373d6636a97"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pixelcollective/netlify-deploy/zipball/3a599fe442c9a4a14a5a8ed5dfd721c04683e23c",
-                "reference": "3a599fe442c9a4a14a5a8ed5dfd721c04683e23c",
+                "url": "https://api.github.com/repos/pixelcollective/netlify-deploy/zipball/232de92bb4aba55ddb1ab900d31a7373d6636a97",
+                "reference": "232de92bb4aba55ddb1ab900d31a7373d6636a97",
                 "shasum": ""
             },
             "require": {
-                "guzzlehttp/guzzle": "^6.3"
-            },
-            "require-dev": {
                 "guzzlehttp/guzzle": "^6.3"
             },
             "type": "wp-plugin",
@@ -425,7 +422,7 @@
                 }
             ],
             "homepage": "https://tinypixel.dev",
-            "time": "2019-06-25T01:34:22+00:00"
+            "time": "2019-06-25T20:56:19+00:00"
         },
         {
             "name": "psr/http-message",
