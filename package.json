@@ -1,0 +1,15 @@
+{
+  "name": "kellymears.me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@roots/bud": "^6.5.3",
+    "@roots/bud-react": "^6.5.3",
+    "@roots/bud-swc": "^6.5.3",
+    "@roots/bud-tailwindcss": "^6.5.3",
+    "clsx": "^1.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
