@@ -1,0 +1,9 @@
+{
+  "extends": ["@roots/bud/config/tsconfig.json"],
+  "files": ["./bud.config.ts"],
+  "compilerOptions": {
+    "types": ["@roots/bud", "webpack/module"]
+  },
+  "include": ["./src"],
+  "exclude": ["./node_modules", "./dist"]
+}
