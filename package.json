@@ -1,16 +1,16 @@
 {
   "name": "kellymears.me",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
   "type": "module",
-  "dependencies": {
-    "@roots/bud": "6.17.0",
-    "@roots/bud-swc": "6.17.0",
-    "@roots/bud-tailwindcss": "6.17.0"
+  "license": "MIT",
+  "scripts": {
+    "build": "bud build --html=src/template.html",
+    "dev": "bud dev --html=src/template.html --port 3010"
   },
-  "devDependencies": {
-    "handlebars": "^4.7.8",
-    "handlebars-loader": "^1.7.3"
+  "dependencies": {
+    "@roots/bud": "6.21.0",
+    "@roots/bud-prettier": "6.21.0",
+    "@roots/bud-swc": "6.21.0",
+    "@roots/bud-tailwindcss": "6.21.0"
   }
 }

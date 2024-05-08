@@ -2,4 +2,4 @@
 # all contexts unless otherwise overridden by more specific contexts.
 [build]
   publish = "dist/"
-  command = "yarn bud build --html=src/index.html"
+  command = "yarn build"
