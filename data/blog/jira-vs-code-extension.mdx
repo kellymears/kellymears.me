@@ -1,0 +1,44 @@
+---
+title: 'The Jira VS Code extension'
+date: '2025-08-21'
+lastmod: '2025-08-21'
+tags: ['development', 'jira', 'vs code']
+draft: false
+summary: 'Making it slightly easier to work with Jira'
+images: ['/static/images/twitter-card.png']
+---
+
+My relationship with Jira has always been a bit complicated.. that's a nice way of saying "thanks, I hate it".
+But, I get why our team is using it and the value it brings to the product team. Still, I frequently find myself
+wishing we could just use Github Issues instead. 
+
+_C'est la vie._
+
+I think one of the things that rubs me wrong about Jira is the separation between the code base and the issue tracker.
+When I switch contexts between my code editor and the browser, I lose focus. I find it easier to lose track of
+what exactly I'm working on, and have to remind myself to provide updates in the associated Jira ticket. This disconnect
+makes it harder to stay in the flow of my work and can lead to frustration, missed memos, and worse output.
+
+So, I was excited to learn that [the official Atlassian VS Code extension for Jira](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode) 
+is actually quite good. It allows me to manage a lot of my Jira ticketing tasks directly from my code editor. I can 
+create, update, and transition tickets without the context switching, and I've found it's helping me to stay more focused 
+on my work and improve the quality of my communications with the team.
+
+The feature of the extension I've found the most helpful is the ticket creation suggestions that it surfaces 
+as I work in the editor. I've noticed that adding a `#todo` comment in a docblock or entering the string `issue` will 
+prompt the extension to suggest creating a ticket for it, and accepting that suggestion allows me to complete the 
+process without leaving the editor.
+
+![Jira VS Code extension](/static/images/jira-vscode-extension.png)
+
+Recently, I've been refactoring a React component to use TypeScript. It's a sizable job so I've been using the
+TypeScript `@ts-expect-error` directive to suppress type errors while the refactoring is ongoing. It's likely that I
+will not have time in the current sprint to finish all of these refactors and that some of the `@ts-expect-error` directives
+will need to persist for the time being.
+
+Using the extension, I can easily go through my work and create tickets for each of the areas that require additional attention
+to achieve type safety. Leveraging this tool, I feel a lot more confident that nothing will fall through the cracks, 
+and that the technical debt of the component will ultimately be addressed. 
+
+It's not perfect. I wish I could set a parent issue for tickets I'm creating in this way, as an example. But it goes a long way
+toward making Jira feel like a more integrated part of my development process.
