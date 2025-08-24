@@ -8,11 +8,14 @@ export default function NotFound() {
           404
         </h1>
       </div>
+
       <div className="max-w-md">
         <p className="mb-4 text-xl leading-normal font-bold md:text-2xl">
           Sorry, this URL seems wrong.
         </p>
+
         <p className="mb-8">Maybe check the homepage?</p>
+
         <Link
           href="/"
           className="focus:shadow-outline-blue inline rounded-lg border border-transparent bg-blue-600 px-4 py-2 text-sm leading-5 font-medium text-white shadow-xs transition-colors duration-150 hover:bg-blue-700 focus:outline-hidden dark:hover:bg-blue-500"
