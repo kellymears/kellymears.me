@@ -3,7 +3,7 @@
 import Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
-import tagData from 'app/tag-data.json'
+import tagData from 'app/tags.generated.json'
 import type { Blog } from 'contentlayer/generated'
 import { slug } from 'github-slugger'
 import { usePathname } from 'next/navigation'

@@ -5,9 +5,7 @@ import { allCoreContent, sortPosts } from 'pliny/utils/contentlayer'
 
 const POSTS_PER_PAGE = 5
 
-export const metadata = genPageMetadata({ title: 'Blog' })
-
-export default async function BlogPage(props: { searchParams: Promise<{ page: string }> }) {
+const Page = async () => {
   const posts = allCoreContent(sortPosts(allBlogs))
   const pageNumber = 1
   const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE)
@@ -26,3 +24,8 @@ export default async function BlogPage(props: { searchParams: Promise<{ page: st
     />
   )
 }
+
+const metadata = genPageMetadata({ title: 'Blog' })
+
+export default Page
+export { metadata }

@@ -28,6 +28,7 @@ export default function Home({ posts }) {
                         <time dateTime={date}>{formatDate(date, siteMetadata.locale)}</time>
                       </dd>
                     </dl>
+
                     <div className="space-y-5 xl:col-span-3">
                       <div className="space-y-6">
                         <div>
@@ -49,6 +50,7 @@ export default function Home({ posts }) {
                           {summary}
                         </div>
                       </div>
+
                       <div className="text-base leading-6 font-medium">
                         <Link
                           href={`/blog/${slug}`}

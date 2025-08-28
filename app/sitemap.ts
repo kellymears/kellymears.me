@@ -2,9 +2,7 @@ import siteMetadata from '@/data/siteMetadata'
 import { allBlogs } from 'contentlayer/generated'
 import { MetadataRoute } from 'next'
 
-export const dynamic = 'force-static'
-
-export default function sitemap(): MetadataRoute.Sitemap {
+const sitemap = (): MetadataRoute.Sitemap => {
   const siteUrl = siteMetadata.siteUrl
 
   const blogRoutes = allBlogs
@@ -21,3 +19,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [...routes, ...blogRoutes]
 }
+
+const dynamic = 'force-static'
+
+export default sitemap
+export { dynamic }

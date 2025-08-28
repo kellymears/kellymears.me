@@ -1,6 +1,6 @@
 import Link from '@/components/Link'
 
-export default function NotFound() {
+const Page = () => {
   return (
     <div className="flex flex-col items-start justify-start md:mt-24 md:flex-row md:items-center md:justify-center md:space-x-6">
       <div className="space-x-2 pt-6 pb-8 md:space-y-5">
@@ -26,3 +26,5 @@ export default function NotFound() {
     </div>
   )
 }
+
+export default Page

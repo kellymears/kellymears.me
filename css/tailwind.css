@@ -99,6 +99,10 @@
     & :where(code):not(pre code) {
       color: var(--color-indigo-500);
     }
+    & :where(img) {
+      border-radius: var(--radius-md);
+      width: 100%;
+    }
   }
 
   .prose-invert {

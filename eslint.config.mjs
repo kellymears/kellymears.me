@@ -6,9 +6,8 @@ import globals from 'globals'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-const compat = new FlatCompat({
-  baseDirectory: path.dirname(fileURLToPath(import.meta.url)),
-})
+const baseDirectory = path.dirname(fileURLToPath(import.meta.url))
+const compat = new FlatCompat({ baseDirectory })
 
 const config = [
   { ignores: [] },
@@ -37,7 +36,7 @@ const config = [
 
       parserOptions: {
         project: true,
-        tsconfigRootDir: __dirname,
+        tsconfigRootDir: baseDirectory,
       },
     },
 

@@ -1,15 +1,13 @@
 import siteMetadata from '@/data/siteMetadata'
 import { Metadata } from 'next'
 
-interface PageSEOProps {
+interface PageSEOProps extends Record<string, unknown> {
   title: string
   description?: string
   image?: string
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  [key: string]: any
 }
 
-export function genPageMetadata({ title, description, image, ...rest }: PageSEOProps): Metadata {
+const genPageMetadata = ({ title, description, image, ...rest }: PageSEOProps): Metadata => {
   return {
     title,
     description: description || siteMetadata.description,
@@ -30,3 +28,5 @@ export function genPageMetadata({ title, description, image, ...rest }: PageSEOP
     ...rest,
   }
 }
+
+export { genPageMetadata }

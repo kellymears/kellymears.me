@@ -9,8 +9,6 @@ import { SearchConfig, SearchProvider } from 'pliny/search'
 import { ThemeProviders } from './theme-providers'
 
 import 'css/tailwind.css'
-import 'pliny/search/algolia.css'
-import 'remark-github-blockquote-alert/alert.css'
 
 const space_grotesk = Space_Grotesk({
   subsets: ['latin'],

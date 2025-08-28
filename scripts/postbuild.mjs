@@ -1,7 +1,3 @@
-import rss from './rss.mjs'
+const postbuild = async () => await import('./rss.mjs').then(async (mod) => await mod.default())
 
-async function postbuild() {
-  await rss()
-}
-
-postbuild()
+export default postbuild()
