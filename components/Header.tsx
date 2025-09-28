@@ -1,15 +1,18 @@
 import headerNavLinks from '@/data/headerNavLinks'
 import siteMetadata from '@/data/siteMetadata'
+import clsx from 'clsx'
 import Link from './Link'
 import MobileNav from './MobileNav'
 import SearchButton from './SearchButton'
 import ThemeSwitch from './ThemeSwitch'
 
 const Header = () => {
-  let headerClass = 'flex items-center w-full bg-white dark:bg-gray-950 justify-between py-10'
-  if (siteMetadata.stickyNav) {
-    headerClass += ' sticky top-0 z-50'
-  }
+  const headerClass = clsx(
+    'flex items-center w-full bg-white dark:bg-gray-950 justify-between py-10',
+    {
+      'sticky top-0 z-50': siteMetadata.stickyNav,
+    }
+  )
 
   return (
     <header className={headerClass}>
