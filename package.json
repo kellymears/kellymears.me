@@ -11,15 +11,14 @@
     "lint": "next lint --fix --dir pages --dir app --dir components --dir lib --dir layouts --dir scripts"
   },
   "dependencies": {
-    "@headlessui/react": "2.2.0",
-    "@next/bundle-analyzer": "15.2.4",
-    "@tailwindcss/forms": "^0.5.9",
+    "@headlessui/react": "2.2.9",
+    "@next/bundle-analyzer": "15.5.4",
     "@tailwindcss/postcss": "^4.0.5",
     "@tailwindcss/typography": "^0.5.15",
     "body-scroll-lock": "^4.0.0-beta.0",
     "clsx": "^2.1.1",
     "contentlayer2": "0.5.5",
-    "esbuild": "0.25.2",
+    "esbuild": "0.25.10",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.2",
     "hast-util-from-html-isomorphic": "^2.0.0",
@@ -28,7 +27,7 @@
     "next-contentlayer2": "0.5.5",
     "next-themes": "^0.4.6",
     "pliny": "0.4.1",
-    "postcss": "^8.4.24",
+    "postcss": "8.5.6",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "reading-time": "1.5.0",
@@ -43,7 +42,7 @@
     "remark-gfm": "^4.0.0",
     "remark-github-blockquote-alert": "^1.2.1",
     "remark-math": "^6.0.0",
-    "tailwindcss": "^4.0.5",
+    "tailwindcss": "4.1.13",
     "unist-util-visit": "^5.0.0"
   },
   "devDependencies": {

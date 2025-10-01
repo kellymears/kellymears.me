@@ -8,7 +8,7 @@ import ThemeSwitch from './ThemeSwitch'
 
 const Header = () => {
   const headerClass = clsx(
-    'flex items-center w-full bg-white dark:bg-gray-950 justify-between py-10',
+    'flex items-center w-full justify-between py-4 backdrop-blur-xs border-b border-gray-200 dark:border-gray-700',
     {
       'sticky top-0 z-50': siteMetadata.stickyNav,
     }
@@ -18,14 +18,12 @@ const Header = () => {
     <header className={headerClass}>
       <Link href="/" aria-label={siteMetadata.headerTitle}>
         <div className="flex items-center justify-between">
-          <div className="hidden h-6 text-2xl font-semibold sm:block">
-            {siteMetadata.headerTitle}
-          </div>
+          <div className="h-6 text-2xl font-semibold sm:block">{siteMetadata.headerTitle}</div>
         </div>
       </Link>
 
       <div className="flex items-center space-x-4 leading-5 sm:-mr-6 sm:space-x-6">
-        <div className="no-scrollbar hidden max-w-40 items-center gap-x-4 overflow-x-auto sm:flex md:max-w-72 lg:max-w-96">
+        <div className="no-scrollbar hidden items-center gap-x-4 overflow-x-auto sm:flex md:max-w-72 lg:max-w-96">
           {headerNavLinks
             .filter((link) => link.href !== '/')
             .map((link) => (
