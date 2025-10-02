@@ -1,6 +1,7 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
 @source 'pliny';
+
 @custom-variant dark (&:where(.dark, .dark *));
 
 /* Core theme configuration */
