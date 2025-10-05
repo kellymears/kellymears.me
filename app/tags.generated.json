@@ -3,7 +3,9 @@
   "observations": 1,
   "reddit": 1,
   "resources": 1,
-  "development": 1,
+  "development": 2,
   "jira": 1,
-  "vs-code": 1
+  "vs-code": 1,
+  "functional-programming": 1,
+  "typescript": 1
 }

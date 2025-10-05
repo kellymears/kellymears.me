@@ -1,0 +1,65 @@
+---
+title: 'Sometimes I like to use a reducer'
+date: '2025-10-05'
+lastmod: '2025-10-05'
+tags: ['development', 'functional programming', 'typescript']
+draft: false
+summary: 'Just a little data transformation, as a treat.'
+images: ['/static/images/reducer-cooking.jpg']
+---
+
+I've been thinking more about reducers this past year. Specifically, why I use them sometimes, and not others.
+
+There are multiple view on reducers. [Junior developers may not really know what they are](https://www.reddit.com/r/learnjavascript/comments/s1e4g1/dont_really_understand_the_reduce_function/). This was certainly my experience.
+
+Once they come to understand them, [many developers come to use them all the time](https://redux.js.org/). Reducers are extremely versatile and can be employed in a variety of ways, plus you feel like a magician writing them early on. (Again, this was me.)
+
+Other developers [avoid them](https://github.com/sindresorhus/eslint-plugin-unicorn/blob/main/docs/rules/no-array-reduce.md), or use them sparingly. The main arguments here have to do with readability and performance. Nevertheless, I still think the reducer is a useful tool.
+
+A reducer is a succinct way to _indicate_ and _encapsulate_ transformations between different types of data. For example, if I have an `Object` with numeric values, and I want to sum those values, I think a reducer makes a ton of sense.
+
+```ts
+const data = { a: 1, b: 2, c: 3 };
+const sum = Object.values(data).reduce((a, v) => a + v, 0);
+```
+
+The alternative to this would be a `for` loop, which is certainly valid but also more verbose.
+
+```ts
+const data = { a: 1, b: 2, c: 3 };
+let sum = 0;
+for (const value of Object.values(data)) {
+  sum += value;
+}
+```
+
+In this case, I prefer the reducer mainly because it's more concise while also being more expressive. It clearly communicates the intent of transforming data (in this case we are going from an `Object` to a `number`). It's especially clear when you use `reduce` to do that (and only that).
+
+One of my colleagues uses `let` in lieu of `const` when declaring an `Record` or `Array` that will be changed within its current scope. This isn't required by the language, but it does communicate intent. It's his way of saying "this data is going to be manipulated". I was slightly confused by this at first, but now when I'm looking over his code, I've come to appreciate this stylistic choice. Just from the variable declaration alone, I know he's planning on mutating that data later.
+
+I think we can treat reducers similarly. Maybe, when reviewing my code, you see a reducer and are put off by it. But, once you understand how and why I'm using it, in subsequent reviews you will see a reducer and know immediately that I'm transforming data in some way.
+
+I also like that reducers are composable given that they are a built in method of `Array.prototype`. This means I can chain them together with other array methods:
+
+```ts
+const data = [1, 2, 3, 4, 5];
+const result = data
+  .filter((n) => n % 2 === 0)
+  .map((n) => n * 2)
+  .reduce((a, v) => a + v, 0);
+```
+
+The `for` loop equivalent of this would simply be a bummer to read and write in comparison. I'd be looking at many more lines of code and additional variables. Sometimes, a one-liner is just better. If you're worried about it being overwhelming, you can always use comments.
+
+```ts
+const data = [1, 2, 3, 4, 5];
+const result = data
+  // Keep only even numbers
+  .filter((n) => n % 2 === 0)
+  // Double each number
+  .map((n) => n * 2)
+  // Sum the numbers
+  .reduce((a, v) => a + v, 0);
+```
+
+In short, I like to use reducers when I want to take a piece of data with of one type and transform it into data of another type. They help me communicate intent, de-tangle function bodies, and, despite what n+1 twitter and medium posts might claim, I believe they make my code more readable.
