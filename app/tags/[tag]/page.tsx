@@ -1,20 +1,20 @@
 import siteMetadata from '@/data/siteMetadata'
 import ListLayout from '@/layouts/ListLayoutWithTags'
+import { allCoreContent, getAllPosts, getTagCounts, sortPosts } from '@/lib/content'
 import { genPageMetadata } from 'app/seo'
-import tagData from 'app/tags.generated.json'
-import { allBlogs } from 'contentlayer/generated'
 import { slug } from 'github-slugger'
 import { Metadata } from 'next'
-import { allCoreContent, sortPosts } from 'pliny/utils/contentlayer'
 
 const POSTS_PER_PAGE = 5
 
 const Page = async (props: { params: Promise<{ tag: string }> }) => {
   const params = await props.params
   const tag = decodeURI(params.tag)
-  const title = tag[0].toUpperCase() + tag.split(' ').join('-').slice(1)
+  const title = tag[0]!.toUpperCase() + tag.split(' ').join('-').slice(1)
+  const allPosts = await getAllPosts()
+  const tagCounts = getTagCounts(allPosts)
   const filteredPosts = allCoreContent(
-    sortPosts(allBlogs.filter((post) => post.tags && post.tags.map((t) => slug(t)).includes(tag)))
+    sortPosts(allPosts.filter((post) => post.tags && post.tags.map((t) => slug(t)).includes(tag)))
   )
   const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE)
   const initialDisplayPosts = filteredPosts.slice(0, POSTS_PER_PAGE)
@@ -29,6 +29,7 @@ const Page = async (props: { params: Promise<{ tag: string }> }) => {
       initialDisplayPosts={initialDisplayPosts}
       pagination={pagination}
       title={title}
+      tagCounts={tagCounts}
     />
   )
 }
@@ -49,7 +50,8 @@ const generateMetadata = async (props: { params: Promise<{ tag: string }> }): Pr
 }
 
 const generateStaticParams = async () => {
-  const tagCounts = tagData as Record<string, number>
+  const posts = await getAllPosts()
+  const tagCounts = getTagCounts(posts)
   const tagKeys = Object.keys(tagCounts)
   return tagKeys.map((tag) => ({ tag: encodeURI(tag) }))
 }

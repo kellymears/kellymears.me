@@ -12,7 +12,7 @@ export default function Hero() {
           Kelly Mears
         </h1>
         <p className="mt-6 max-w-2xl text-lg leading-relaxed font-light text-gray-600 sm:text-xl dark:text-gray-400">
-          Building infrastructure for mission-driven organizations. Primary author of{' '}
+          Building infrastructure for mission-driven organizations. Lead developer of{' '}
           <a
             href="https://bud.js.org"
             className="decoration-primary-500 hover:text-primary-600 dark:hover:text-primary-400 text-gray-900 underline decoration-2 underline-offset-3 transition-colors dark:text-gray-100"

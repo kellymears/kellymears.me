@@ -1,12 +1,11 @@
 import Link from '@/components/Link'
 import Tag from '@/components/Tag'
-import type { Blog } from 'contentlayer/generated'
-import { CoreContent } from 'pliny/utils/contentlayer'
-import { formatDate } from 'pliny/utils/formatDate'
+import type { BlogPost, CoreContent } from '@/lib/content'
+import { formatDate } from '@/lib/format-date'
 import siteMetadata from '@/data/siteMetadata'
 
 interface BlogCardProps {
-  post: CoreContent<Blog>
+  post: CoreContent<BlogPost>
 }
 
 export default function BlogCard({ post }: BlogCardProps) {

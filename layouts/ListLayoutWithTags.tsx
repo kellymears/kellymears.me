@@ -2,11 +2,9 @@
 
 import BlogCard from '@/components/BlogCard'
 import Link from '@/components/Link'
-import tagData from 'app/tags.generated.json'
-import type { Blog } from 'contentlayer/generated'
+import type { BlogPost, CoreContent } from '@/lib/content'
 import { slug } from 'github-slugger'
 import { usePathname } from 'next/navigation'
-import { CoreContent } from 'pliny/utils/contentlayer'
 
 interface PaginationProps {
   totalPages: number
@@ -14,10 +12,11 @@ interface PaginationProps {
 }
 
 interface ListLayoutProps {
-  posts: CoreContent<Blog>[]
+  posts: CoreContent<BlogPost>[]
   title: string
-  initialDisplayPosts?: CoreContent<Blog>[]
+  initialDisplayPosts?: CoreContent<BlogPost>[]
   pagination?: PaginationProps
+  tagCounts?: Record<string, number>
 }
 
 function Pagination({ totalPages, currentPage }: PaginationProps) {
@@ -68,11 +67,12 @@ export default function ListLayoutWithTags({
   title,
   initialDisplayPosts = [],
   pagination,
+  tagCounts,
 }: ListLayoutProps) {
   const pathname = usePathname()
-  const tagCounts = tagData as Record<string, number>
-  const sortedTags = Object.keys(tagCounts).sort((a, b) => tagCounts[b] - tagCounts[a])
-  const activeTag = pathname.startsWith('/tags/') ? decodeURI(pathname.split('/tags/')[1]) : null
+  const counts = tagCounts ?? {}
+  const sortedTags = Object.keys(counts).sort((a, b) => counts[b]! - counts[a]!)
+  const activeTag = pathname.startsWith('/tags/') ? decodeURI(pathname.split('/tags/')[1]!) : null
 
   const displayPosts = initialDisplayPosts.length > 0 ? initialDisplayPosts : posts
 
@@ -108,7 +108,7 @@ export default function ListLayoutWithTags({
               }`}
               aria-label={`View posts tagged ${tag}`}
             >
-              {tag} ({tagCounts[tag]})
+              {tag} ({counts[tag]})
             </Link>
           )
         })}

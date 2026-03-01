@@ -3,8 +3,7 @@ import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 import SectionContainer from '@/components/SectionContainer'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
-import type { Authors, Blog } from 'contentlayer/generated'
-import { CoreContent } from 'pliny/utils/contentlayer'
+import type { Author, BlogPost, CoreContent } from '@/lib/content'
 import { ReactNode } from 'react'
 
 const editUrl = (path: string) => `${siteMetadata.siteRepo}/blob/main/data/${path}`
@@ -16,8 +15,8 @@ const postDateTemplate: Intl.DateTimeFormatOptions = {
 }
 
 interface LayoutProps {
-  content: CoreContent<Blog>
-  authorDetails: CoreContent<Authors>[]
+  content: CoreContent<BlogPost>
+  authorDetails: CoreContent<Author>[]
   next?: { path: string; title: string }
   prev?: { path: string; title: string }
   children: ReactNode

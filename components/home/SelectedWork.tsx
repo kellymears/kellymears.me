@@ -11,14 +11,14 @@ interface WorkItem {
 const work: WorkItem[] = [
   {
     title: 'Carrot',
-    role: 'Engineering Specialist',
+    role: 'Senior Engineer',
     description: 'Scalable web applications for a benefits platform serving 8,000+ customers.',
     period: '2022–Present',
     href: '/work',
   },
   {
     title: 'bud.js',
-    role: 'Primary Author',
+    role: 'Lead Developer',
     description: 'Build system for the Roots ecosystem — 30+ packages, ~13k weekly downloads.',
     period: '2020–Present',
     href: '/open-source',

@@ -1,6 +1,6 @@
 import type { MDXComponents } from 'mdx/types'
-import Pre from 'pliny/ui/Pre'
-import TOCInline from 'pliny/ui/TOCInline'
+import Pre from '@/components/Pre'
+import TOCInline from '@/components/TOCInline'
 import Image from './Image'
 import Link from './Link'
 import TableWrapper from './TableWrapper'

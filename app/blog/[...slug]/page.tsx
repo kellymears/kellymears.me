@@ -4,17 +4,17 @@ import 'katex/dist/katex.css'
 import { components } from '@/components/MDXComponents'
 import siteMetadata from '@/data/siteMetadata'
 import PostLayout from '@/layouts/PostLayout'
-import type { Authors, Blog } from 'contentlayer/generated'
-import { allAuthors, allBlogs } from 'contentlayer/generated'
+import { allCoreContent, coreContent, getAllAuthors, getAllPosts, sortPosts } from '@/lib/content'
+import { MDXContent } from '@/lib/mdx'
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { MDXLayoutRenderer } from 'pliny/mdx-components'
-import { allCoreContent, coreContent, sortPosts } from 'pliny/utils/contentlayer'
 
 const Page = async (props: { params: Promise<{ slug: string[] }> }) => {
   const params = await props.params
   const slug = decodeURI(params.slug.join('/'))
-  const sortedCoreContents = allCoreContent(sortPosts(allBlogs))
+  const allPosts = await getAllPosts()
+  const allAuthorsList = await getAllAuthors()
+  const sortedCoreContents = allCoreContent(sortPosts(allPosts))
   const postIndex = sortedCoreContents.findIndex((p) => p.slug === slug)
   if (postIndex === -1) {
     return notFound()
@@ -22,11 +22,11 @@ const Page = async (props: { params: Promise<{ slug: string[] }> }) => {
 
   const prev = sortedCoreContents[postIndex + 1]
   const next = sortedCoreContents[postIndex - 1]
-  const post = allBlogs.find((p) => p.slug === slug) as Blog
+  const post = allPosts.find((p) => p.slug === slug)!
   const authorList = post?.authors || ['default']
   const authorDetails = authorList.map((author) => {
-    const authorResults = allAuthors.find((p) => p.slug === author)
-    return coreContent(authorResults as Authors)
+    const authorResults = allAuthorsList.find((p) => p.slug === author)
+    return coreContent(authorResults!)
   })
   const mainContent = coreContent(post)
   const jsonLd = post.structuredData
@@ -44,14 +44,15 @@ const Page = async (props: { params: Promise<{ slug: string[] }> }) => {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <PostLayout content={mainContent} authorDetails={authorDetails} next={next} prev={prev}>
-        <MDXLayoutRenderer code={post.body.code} components={components} toc={post.toc} />
+        <MDXContent source={post.body} components={components} />
       </PostLayout>
     </>
   )
 }
 
 const generateStaticParams = async () => {
-  return allBlogs.map((p) => ({ slug: p.slug.split('/').map((name) => decodeURI(name)) }))
+  const posts = await getAllPosts()
+  return posts.map((p) => ({ slug: p.slug.split('/').map((name) => decodeURI(name)) }))
 }
 
 const generateMetadata = async (props: {
@@ -59,20 +60,22 @@ const generateMetadata = async (props: {
 }): Promise<Metadata | undefined> => {
   const params = await props.params
   const slug = decodeURI(params.slug.join('/'))
-  const post = allBlogs.find((p) => p.slug === slug)
+  const posts = await getAllPosts()
+  const post = posts.find((p) => p.slug === slug)
   if (!post) {
     return
   }
 
+  const authors = await getAllAuthors()
   const authorList = post?.authors || ['default']
   const authorDetails = authorList.map((author) => {
-    const authorResults = allAuthors.find((p) => p.slug === author)
-    return coreContent(authorResults as Authors)
+    const authorResults = authors.find((p) => p.slug === author)
+    return coreContent(authorResults!)
   })
 
   const publishedAt = new Date(post.date).toISOString()
   const modifiedAt = new Date(post.lastmod || post.date).toISOString()
-  const authors = authorDetails.map((author) => author.name)
+  const authorNames = authorDetails.map((author) => author.name)
   let imageList = [siteMetadata.socialBanner]
   if (post.images) {
     imageList = typeof post.images === 'string' ? [post.images] : post.images
@@ -96,7 +99,7 @@ const generateMetadata = async (props: {
       modifiedTime: modifiedAt,
       url: './',
       images: ogImages,
-      authors: authors.length > 0 ? authors : [siteMetadata.author],
+      authors: authorNames.length > 0 ? authorNames : [siteMetadata.author],
     },
     twitter: {
       card: 'summary_large_image',

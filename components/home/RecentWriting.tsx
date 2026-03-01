@@ -1,12 +1,11 @@
 import Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
-import type { Blog } from 'contentlayer/generated'
-import { CoreContent } from 'pliny/utils/contentlayer'
-import { formatDate } from 'pliny/utils/formatDate'
+import type { BlogPost, CoreContent } from '@/lib/content'
+import { formatDate } from '@/lib/format-date'
 
 interface Props {
-  posts: CoreContent<Blog>[]
+  posts: CoreContent<BlogPost>[]
 }
 
 export default function RecentWriting({ posts }: Props) {

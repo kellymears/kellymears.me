@@ -3,12 +3,11 @@ import siteMetadata from '@/data/siteMetadata'
 import clsx from 'clsx'
 import Link from './Link'
 import MobileNav from './MobileNav'
-import SearchButton from './SearchButton'
 import ThemeSwitch from './ThemeSwitch'
 
 const Header = () => {
   const headerClass = clsx(
-    'flex items-center w-full justify-between py-4 backdrop-blur-sm bg-white/80 dark:bg-gray-950/80 border-b border-gray-200/60 dark:border-gray-800/60',
+    'flex items-center w-full justify-between py-4 backdrop-blur-sm bg-white/80 dark:bg-gray-950/80',
     {
       'sticky top-0 z-50': siteMetadata.stickyNav,
     }
@@ -36,7 +35,6 @@ const Header = () => {
             </Link>
           ))}
         </div>
-        <SearchButton />
         <ThemeSwitch />
         <MobileNav />
       </div>

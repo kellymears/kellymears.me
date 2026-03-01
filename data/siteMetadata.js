@@ -1,4 +1,3 @@
-/** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'Kelly Mears',
   author: 'Kelly Mears',
@@ -15,12 +14,6 @@ const siteMetadata = {
   linkedin: 'https://linkedin.com/in/kellymears',
   locale: 'en-US',
   stickyNav: true,
-  search: {
-    provider: 'kbar',
-    kbarConfig: {
-      searchDocumentsPath: `${process.env.BASE_PATH || ''}/search.json`,
-    },
-  },
 }
 
 module.exports = siteMetadata

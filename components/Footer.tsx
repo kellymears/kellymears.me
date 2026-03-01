@@ -1,10 +1,10 @@
-import SocialIcon from '@/components/social-icons'
 import Link from '@/components/Link'
+import SocialIcon from '@/components/social-icons'
 import siteMetadata from '@/data/siteMetadata'
 
 export default function Footer() {
   return (
-    <footer className="mt-16 border-t border-gray-200 pt-10 pb-8 dark:border-gray-800">
+    <footer className="mt-16 pt-10 pb-8">
       <div className="flex flex-col items-center gap-8 sm:flex-row sm:items-start sm:justify-between">
         <div className="flex flex-col items-center gap-4 sm:items-start">
           <span className="text-lg font-semibold tracking-tight text-gray-900 dark:text-gray-100">
@@ -44,7 +44,6 @@ export default function Footer() {
             <SocialIcon kind="github" href={siteMetadata.github} size={5} />
             <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size={5} />
           </div>
-          <p className="text-xs text-gray-400 dark:text-gray-500">Built with Next.js + Tailwind</p>
         </div>
       </div>
     </footer>

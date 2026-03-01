@@ -1,11 +1,11 @@
 import Image from '@/components/Image'
 import SocialIcon from '@/components/social-icons'
-import type { Authors } from 'contentlayer/generated'
+import type { Author, CoreContent } from '@/lib/content'
 import { ReactNode } from 'react'
 
 interface Props {
   children: ReactNode
-  content: Omit<Authors, '_id' | '_raw' | 'body'>
+  content: CoreContent<Author>
 }
 
 const AuthorLayout = ({ children, content }: Props) => {

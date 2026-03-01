@@ -1,11 +1,14 @@
 import siteMetadata from '@/data/siteMetadata'
-import { allBlogs } from 'contentlayer/generated'
+import { getAllPosts } from '@/lib/content'
 import { MetadataRoute } from 'next'
 
-const sitemap = (): MetadataRoute.Sitemap => {
-  const siteUrl = siteMetadata.siteUrl
+export const dynamic = 'force-static'
 
-  const blogRoutes = allBlogs
+const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
+  const siteUrl = siteMetadata.siteUrl
+  const allPosts = await getAllPosts()
+
+  const blogRoutes = allPosts
     .filter((post) => !post.draft)
     .map((post) => ({
       url: `${siteUrl}/${post.path}`,
@@ -20,7 +23,4 @@ const sitemap = (): MetadataRoute.Sitemap => {
   return [...routes, ...blogRoutes]
 }
 
-const dynamic = 'force-static'
-
 export default sitemap
-export { dynamic }

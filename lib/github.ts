@@ -82,7 +82,7 @@ export interface GitHubPageData {
 
 const FEATURED_CONFIG: Record<string, { role: string; highlight: string }> = {
   'roots/bud': {
-    role: 'Primary Author',
+    role: 'Lead Developer',
     highlight:
       '854+ PRs merged. The official build system for the Roots WordPress ecosystem — webpack, SWC, esbuild, PostCSS, and Tailwind out of the box.',
   },

@@ -1,6 +1,5 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
-@source 'pliny';
 
 @custom-variant dark (&:where(.dark, .dark *));
 
@@ -92,6 +91,35 @@
   }
 }
 
+@keyframes wave-drift {
+  0%,
+  100% {
+    transform: translate(0, 0);
+  }
+  25% {
+    transform: translate(-20px, 10px);
+  }
+  50% {
+    transform: translate(8px, -14px);
+  }
+  75% {
+    transform: translate(16px, 6px);
+  }
+}
+
+.wave-line {
+  animation: wave-drift var(--wave-duration, 80s) ease-in-out infinite;
+  animation-delay: var(--wave-delay, 0s);
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wave-line {
+    animation: none;
+    will-change: auto;
+  }
+}
+
 /*
   The default border color has changed to `currentColor` in Tailwind CSS v4,
   so we've added these compatibility styles to make sure everything still
@@ -125,15 +153,16 @@
 @layer utilities {
   .prose {
     & a {
-      color: var(--color-gray-900);
-      text-decoration-color: var(--color-primary-500);
+      color: var(--color-primary-700);
+      text-decoration-color: var(--color-primary-400);
       text-underline-offset: 3px;
       text-decoration-thickness: 2px;
       &:hover {
         color: var(--color-primary-600);
+        text-decoration-color: var(--color-primary-500);
       }
       & code {
-        color: var(--color-primary-400);
+        color: var(--color-primary-600);
       }
     }
     & :where(h1, h2) {
@@ -144,7 +173,7 @@
       font-weight: 600;
     }
     & :where(code):not(pre code) {
-      color: var(--color-indigo-500);
+      color: var(--color-primary-700);
     }
     & :where(img) {
       border-radius: var(--radius-md);
@@ -154,17 +183,18 @@
 
   .prose-invert {
     & a {
-      color: var(--color-gray-100);
-      text-decoration-color: var(--color-primary-500);
+      color: var(--color-primary-400);
+      text-decoration-color: var(--color-primary-600);
       &:hover {
-        color: var(--color-primary-400);
-      }
-      & code {
-        color: var(--color-primary-400);
+        color: var(--color-primary-300);
+        text-decoration-color: var(--color-primary-500);
       }
     }
     & :where(h1, h2, h3, h4, h5, h6) {
       color: var(--color-gray-100);
+    }
+    & :where(code):not(pre code) {
+      color: var(--color-primary-400);
     }
   }
 

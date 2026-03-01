@@ -2,13 +2,13 @@
 
 ## Project
 
-Personal site for Kelly Mears — [kellymears.me](https://kellymears.me). Built with Next.js 15 (App Router), Tailwind CSS v4, Contentlayer2 (MDX), and deployed on Netlify.
+Personal site for Kelly Mears — [kellymears.me](https://kellymears.me). Built with Next.js 16 (App Router, Turbopack), Tailwind CSS v4, next-mdx-remote (MDX), and deployed on Netlify.
 
 ## Commands
 
 ```bash
-yarn dev          # Start dev server
-yarn build        # Production build (includes contentlayer + postbuild RSS)
+yarn dev          # Start dev server (Turbopack)
+yarn build        # Production build
 yarn lint         # ESLint with auto-fix
 yarn format       # Prettier (write mode)
 ```
@@ -23,20 +23,31 @@ app/              Next.js App Router pages
   open-source/    OSS projects (bud.js, Roots ecosystem)
   blog/           Writing index + [slug] posts
   about/          Author bio (renders data/authors/default.mdx)
+  feed.xml/       RSS route handler (main feed)
+  tags/[tag]/feed.xml/  Per-tag RSS route handler
 components/       React components
   home/           Hero, SelectedWork, RecentWriting
   work/           StatsRow, Timeline, TimelineItem, MissionCallout, SkillsGrid
   oss/            ProfileStats, FeaturedProjects, FeaturedProjectCard,
                   RepositoryGrid, RepositoryCard, ContributionGrid, LanguageBreakdown
+  Pre.tsx         Code block with copy button (client component)
+  TOCInline.tsx   Table of contents from heading data
+  WaveBackground.tsx  Animated SVG wave background (client component)
 layouts/          Page layout templates (PostLayout, AuthorLayout, ListLayoutWithTags)
 lib/              Shared utilities and API clients
+  content.ts      Content data layer — reads MDX, parses frontmatter, computes metadata
+  mdx.tsx         MDXContent component wrapping next-mdx-remote/rsc with plugins
   github.ts       GitHub API client (REST + GraphQL), types, data transforms
+  format-date.ts  Intl.DateTimeFormat wrapper
+  html-escaper.ts HTML entity escaping for RSS
+  remark-code-title.ts  Adds title div above fenced code blocks
+  remark-toc-headings.ts  Extracts heading data for table of contents
 data/             Content and structured data
   blog/           MDX blog posts
   authors/        Author MDX profiles
   experience.ts   Career history (typed Experience[])
   stats.ts        Key numbers (typed Stat[])
-  siteMetadata.js Site config (title, URLs, search, social links)
+  siteMetadata.js Site config (title, URLs, social links)
   headerNavLinks.ts  Navigation items
 css/tailwind.css  Theme tokens, color palette, animations, prose overrides
 ```
@@ -49,12 +60,26 @@ css/tailwind.css  Theme tokens, color palette, animations, prose overrides
 - `@/lib/*` → `lib/*`
 - `@/css/*` → `css/*`
 
+## Content Data Layer (`lib/content.ts`)
+
+Replaces contentlayer2. Reads MDX files from `data/`, parses frontmatter via `gray-matter`, computes slug/path/readingTime/toc/structuredData.
+
+Key exports:
+- `getAllPosts()` / `getPostBySlug(slug)` — blog posts (async, module-level cached)
+- `getAllAuthors()` / `getAuthorBySlug(slug)` — author profiles
+- `sortPosts(posts)` — sort by date descending
+- `allCoreContent(posts)` — strip `body`, filter drafts in production
+- `coreContent(item)` — strip `body` from single item
+- `getTagCounts(posts)` — compute tag frequency map
+
+Types: `BlogPost`, `Author`, `CoreContent<T>`
+
 ## Design System
 
 - **Color palette**: Warm coral/amber primary, warm-toned grays (OKLCH in `css/tailwind.css`)
 - **Font**: Space Grotesk (weights 300–700)
 - **Dark mode**: `dark:` variant via `next-themes` (system preference default)
-- **Animations**: CSS-only `fade-in`, `slide-up`, `fade-slide-up`, `grow-width` keyframes; scroll-triggered via `animation-timeline: view()` (progressive enhancement)
+- **Animations**: CSS-only `fade-in`, `slide-up`, `fade-slide-up`, `grow-width`, `wave-drift` keyframes; scroll-triggered via `animation-timeline: view()` (progressive enhancement)
 - **Tags/pills**: `rounded-full bg-gray-100 px-3 py-0.5` pattern
 - **Cards**: `rounded-xl border border-gray-200 hover:border-primary-300` with hover lift (`hover:-translate-y-0.5 hover:shadow-md`)
 - **Gradient text**: `bg-gradient-to-br from-primary-500 to-primary-700 bg-clip-text text-transparent` for emphasis numbers
@@ -65,7 +90,8 @@ css/tailwind.css  Theme tokens, color palette, animations, prose overrides
 - ESLint: flat config (`eslint.config.mjs`), TypeScript + jsx-a11y + prettier integration
 - Functional components, named exports for new components
 - `'use client'` only when hooks are needed (e.g., `TimelineItem`, `MobileNav`, `ContributionGrid`)
-- Contentlayer generates types at `.contentlayer/generated` — import as `contentlayer/generated`
+- Content types from `@/lib/content` — `BlogPost`, `Author`, `CoreContent<T>`
+- Next.js 16: route segment config must use `export const dynamic = ...` (direct export), not re-export
 - Inline SVGs must have explicit `width`/`height` attributes (not just CSS classes) to prevent sizing issues in flex containers
 - Dark mode detection in client components: use MutationObserver on `document.documentElement` class, not `matchMedia('prefers-color-scheme')` (next-themes uses class-based toggling)
 
@@ -89,7 +115,7 @@ The `/open-source` page is fully API-driven from live GitHub data. Key details:
 
 ## Build Notes
 
-- Contentlayer runs during build, generates `.contentlayer/` and `app/tags.generated.json`
-- Postbuild script generates RSS feed (`scripts/postbuild.mjs`)
+- RSS feeds generated as route handlers (`app/feed.xml/route.ts`, `app/tags/[tag]/feed.xml/route.ts`)
+- `rehype-preset-minify` is incompatible with Next.js 16 (EBADF error at module evaluation) — do not re-add
 - Static export supported via `EXPORT=1` env var
 - If build fails with stale cache: `rm -rf .next && yarn build`
