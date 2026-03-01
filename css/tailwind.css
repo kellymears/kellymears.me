@@ -10,31 +10,31 @@
   --font-sans: var(--font-space-grotesk), ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
     'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 
-  /* Colors */
-  /* Copied from https://tailwindcss.com/docs/theme#default-theme-variable-reference */
-  --color-primary-50: oklch(0.971 0.014 343.198);
-  --color-primary-100: oklch(0.948 0.028 342.258);
-  --color-primary-200: oklch(0.899 0.061 343.231);
-  --color-primary-300: oklch(0.823 0.12 346.018);
-  --color-primary-400: oklch(0.718 0.202 349.761);
-  --color-primary-500: oklch(0.656 0.241 354.308);
-  --color-primary-600: oklch(0.592 0.249 0.584);
-  --color-primary-700: oklch(0.525 0.223 3.958);
-  --color-primary-800: oklch(0.459 0.187 3.815);
-  --color-primary-900: oklch(0.408 0.153 2.432);
-  --color-primary-950: oklch(0.284 0.109 3.907);
+  /* Colors — warm coral/amber palette */
+  --color-primary-50: oklch(0.98 0.01 55);
+  --color-primary-100: oklch(0.95 0.03 50);
+  --color-primary-200: oklch(0.9 0.06 48);
+  --color-primary-300: oklch(0.83 0.1 46);
+  --color-primary-400: oklch(0.78 0.14 44);
+  --color-primary-500: oklch(0.75 0.16 45);
+  --color-primary-600: oklch(0.68 0.18 40);
+  --color-primary-700: oklch(0.58 0.16 38);
+  --color-primary-800: oklch(0.48 0.13 36);
+  --color-primary-900: oklch(0.4 0.1 35);
+  --color-primary-950: oklch(0.28 0.08 34);
 
-  --color-gray-50: oklch(0.985 0.002 247.839);
-  --color-gray-100: oklch(0.967 0.003 264.542);
-  --color-gray-200: oklch(0.928 0.006 264.531);
-  --color-gray-300: oklch(0.872 0.01 258.338);
-  --color-gray-400: oklch(0.707 0.022 261.325);
-  --color-gray-500: oklch(0.551 0.027 264.364);
-  --color-gray-600: oklch(0.446 0.03 256.802);
-  --color-gray-700: oklch(0.373 0.034 259.733);
-  --color-gray-800: oklch(0.278 0.033 256.848);
-  --color-gray-900: oklch(0.21 0.034 264.665);
-  --color-gray-950: oklch(0.13 0.028 261.692);
+  /* Gray — warm undertone */
+  --color-gray-50: oklch(0.985 0.002 60);
+  --color-gray-100: oklch(0.967 0.003 60);
+  --color-gray-200: oklch(0.928 0.006 60);
+  --color-gray-300: oklch(0.872 0.01 55);
+  --color-gray-400: oklch(0.707 0.015 50);
+  --color-gray-500: oklch(0.551 0.02 50);
+  --color-gray-600: oklch(0.446 0.02 50);
+  --color-gray-700: oklch(0.373 0.02 50);
+  --color-gray-800: oklch(0.278 0.015 55);
+  --color-gray-900: oklch(0.21 0.012 60);
+  --color-gray-950: oklch(0.14 0.01 60);
 
   /* Line heights */
   --line-height-11: 2.75rem;
@@ -46,6 +46,50 @@
   --z-60: 60;
   --z-70: 70;
   --z-80: 80;
+
+  /* Animation keyframes */
+  --animate-fade-in: fade-in 0.6s ease-out both;
+  --animate-slide-up: slide-up 0.6s ease-out both;
+  --animate-fade-slide-up: fade-slide-up 0.7s ease-out both;
+  --animate-grow-width: grow-width 1s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    transform: translateY(1.5rem);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(1.5rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes grow-width {
+  from {
+    max-width: 0;
+  }
+  to {
+    max-width: 100%;
+  }
 }
 
 /*
@@ -81,7 +125,10 @@
 @layer utilities {
   .prose {
     & a {
-      color: var(--color-primary-500);
+      color: var(--color-gray-900);
+      text-decoration-color: var(--color-primary-500);
+      text-underline-offset: 3px;
+      text-decoration-thickness: 2px;
       &:hover {
         color: var(--color-primary-600);
       }
@@ -107,7 +154,8 @@
 
   .prose-invert {
     & a {
-      color: var(--color-primary-500);
+      color: var(--color-gray-100);
+      text-decoration-color: var(--color-primary-500);
       &:hover {
         color: var(--color-primary-400);
       }
@@ -117,6 +165,15 @@
     }
     & :where(h1, h2, h3, h4, h5, h6) {
       color: var(--color-gray-100);
+    }
+  }
+
+  /* Scroll-triggered animation (progressive enhancement) */
+  @supports (animation-timeline: view()) {
+    .animate-on-scroll {
+      animation: fade-slide-up linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 30%;
     }
   }
 }
