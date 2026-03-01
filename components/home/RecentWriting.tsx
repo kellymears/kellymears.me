@@ -1,0 +1,56 @@
+import Link from '@/components/Link'
+import Tag from '@/components/Tag'
+import siteMetadata from '@/data/siteMetadata'
+import type { Blog } from 'contentlayer/generated'
+import { CoreContent } from 'pliny/utils/contentlayer'
+import { formatDate } from 'pliny/utils/formatDate'
+
+interface Props {
+  posts: CoreContent<Blog>[]
+}
+
+export default function RecentWriting({ posts }: Props) {
+  if (posts.length === 0) return null
+
+  return (
+    <section className="border-t border-gray-200 py-16 dark:border-gray-800">
+      <div className="mb-10 flex items-baseline justify-between">
+        <h2 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+          Recent Writing
+        </h2>
+        <Link
+          href="/blog"
+          className="hover:text-primary-600 dark:hover:text-primary-400 text-sm font-medium text-gray-500 transition-colors dark:text-gray-400"
+        >
+          All writing &rarr;
+        </Link>
+      </div>
+      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {posts.slice(0, 3).map((post) => {
+          const { slug, date, title, summary, tags } = post
+          return (
+            <article
+              key={slug}
+              className="group hover:border-primary-300 dark:hover:border-primary-700 flex flex-col rounded-xl border border-gray-200 p-6 transition-all hover:shadow-sm dark:border-gray-800"
+            >
+              <time dateTime={date} className="mb-2 text-sm text-gray-500 dark:text-gray-400">
+                {formatDate(date, siteMetadata.locale)}
+              </time>
+              <h3 className="group-hover:text-primary-600 dark:group-hover:text-primary-400 mb-2 text-lg leading-snug font-semibold text-gray-900 dark:text-gray-100">
+                <Link href={`/blog/${slug}`}>{title}</Link>
+              </h3>
+              <p className="mb-4 flex-1 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
+                {summary}
+              </p>
+              <div className="flex flex-wrap">
+                {tags.map((tag) => (
+                  <Tag key={tag} text={tag} />
+                ))}
+              </div>
+            </article>
+          )
+        })}
+      </div>
+    </section>
+  )
+}
