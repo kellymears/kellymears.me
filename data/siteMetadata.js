@@ -2,8 +2,8 @@
 const siteMetadata = {
   title: 'Kelly Mears',
   author: 'Kelly Mears',
-  headerTitle: '〠 Kelly Mears',
-  description: 'My personal blog',
+  headerTitle: 'Kelly Mears',
+  description: 'Software engineer building infrastructure for mission-driven organizations.',
   language: 'en-us',
   theme: 'system',
   siteUrl: 'https://kellymears.me',
@@ -12,6 +12,7 @@ const siteMetadata = {
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   email: 'hello@kellymears.me',
   github: 'https://github.com/kellymears',
+  linkedin: 'https://linkedin.com/in/kellymears',
   locale: 'en-US',
   stickyNav: true,
   search: {
