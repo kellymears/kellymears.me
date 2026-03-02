@@ -31,7 +31,7 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
   return (
     <SectionContainer>
       <ScrollTopAndComment />
-      <article>
+      <article id="blog-article" className="transition-opacity duration-150" style={{ opacity: 0 }}>
         <header className="pt-6 pb-8">
           <div className="space-y-4">
             <div className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">

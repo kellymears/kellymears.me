@@ -70,6 +70,58 @@ export interface LanguageBreakdown {
   color: string
 }
 
+export type ActivityKind =
+  | 'push'
+  | 'pr_opened'
+  | 'pr_merged'
+  | 'pr_closed'
+  | 'review'
+  | 'comment'
+  | 'issue_opened'
+  | 'issue_closed'
+  | 'branch_created'
+
+export interface ActivityEvent {
+  kind: ActivityKind
+  message: string
+  repo: string
+  repoUrl: string
+  isPrivate: boolean
+  timestamp: string
+  sha?: string
+  url?: string
+}
+
+export interface ActivityGroup {
+  date: string
+  label: string
+  events: ActivityEvent[]
+}
+
+export interface RecentActivity {
+  groups: ActivityGroup[]
+  totalEvents: number
+}
+
+interface GitHubEvent {
+  type: string
+  public: boolean
+  created_at: string
+  repo: { name: string; url: string }
+  payload: {
+    action?: string
+    ref?: string
+    ref_type?: string
+    head?: string
+    number?: number
+    commits?: Array<{ sha: string; message: string; distinct: boolean }>
+    pull_request?: { title?: string; html_url?: string; merged?: boolean; state?: string }
+    review?: { state?: string; html_url?: string }
+    issue?: { title?: string; html_url?: string; state?: string; number?: number }
+    comment?: { body?: string; html_url?: string }
+  }
+}
+
 export interface GitHubPageData {
   profile: GitHubProfile
   featured: FeaturedRepository[]
@@ -78,6 +130,7 @@ export interface GitHubPageData {
   contributions: ContributionData
   contributionStats: ContributionStats
   languages: LanguageBreakdown[]
+  recentActivity: RecentActivity
 }
 
 // --- Featured project config ---
@@ -333,6 +386,128 @@ export function weightedRandomSelect(
     .map((entry) => entry.repo)
 }
 
+// --- Recent activity ---
+
+const SUPPORTED_EVENTS = new Set([
+  'PushEvent',
+  'PullRequestEvent',
+  'PullRequestReviewEvent',
+  'PullRequestReviewCommentEvent',
+  'IssueCommentEvent',
+  'IssuesEvent',
+  'CreateEvent',
+])
+
+function mapEvent(e: GitHubEvent): ActivityEvent[] {
+  const isPrivate = !e.public
+  const org = e.repo.name.split('/')[0] ?? 'private'
+  const repo = isPrivate ? org : e.repo.name
+  const repoUrl = isPrivate ? '' : `https://github.com/${e.repo.name}`
+  const base = { repo, repoUrl, isPrivate, timestamp: e.created_at }
+
+  switch (e.type) {
+    case 'PushEvent': {
+      if (e.payload.commits && e.payload.commits.length > 0) {
+        return e.payload.commits.filter((c) => c.distinct).map((c) => ({
+          ...base,
+          kind: 'push' as const,
+          sha: c.sha.slice(0, 7),
+          message: c.message.split('\n')[0]!,
+        }))
+      }
+      return [{ ...base, kind: 'push', message: 'Pushed commits' }]
+    }
+    case 'PullRequestEvent': {
+      const action = e.payload.action
+      const title = isPrivate ? 'a pull request' : (e.payload.pull_request?.title ?? 'Pull request')
+      const url = isPrivate ? undefined : e.payload.pull_request?.html_url ?? undefined
+      if (action === 'merged' || (action === 'closed' && e.payload.pull_request?.merged)) {
+        return [{ ...base, kind: 'pr_merged', message: `Merged ${title}`, url }]
+      }
+      if (action === 'opened') {
+        return [{ ...base, kind: 'pr_opened', message: `Opened ${title}`, url }]
+      }
+      if (action === 'closed') {
+        return [{ ...base, kind: 'pr_closed', message: `Closed ${title}`, url }]
+      }
+      return []
+    }
+    case 'PullRequestReviewEvent': {
+      const state = e.payload.review?.state
+      const label = state === 'approved' ? 'Approved' : state === 'changes_requested' ? 'Requested changes on' : 'Reviewed'
+      const prRef = isPrivate ? `PR #${e.payload.pull_request?.title ?? ''}`.replace(/PR #$/, 'a PR') : (e.payload.pull_request?.title ?? 'a pull request')
+      const url = isPrivate ? undefined : e.payload.review?.html_url ?? undefined
+      return [{ ...base, kind: 'review', message: `${label} ${prRef}`, url }]
+    }
+    case 'PullRequestReviewCommentEvent': {
+      const prRef = isPrivate ? 'a PR' : (e.payload.pull_request?.title ?? 'a pull request')
+      const url = isPrivate ? undefined : e.payload.comment?.html_url ?? undefined
+      return [{ ...base, kind: 'comment', message: `Commented on ${prRef}`, url }]
+    }
+    case 'IssueCommentEvent': {
+      const issueRef = isPrivate ? 'an issue' : (e.payload.issue?.title ?? 'an issue')
+      const url = isPrivate ? undefined : e.payload.comment?.html_url ?? undefined
+      return [{ ...base, kind: 'comment', message: `Commented on ${issueRef}`, url }]
+    }
+    case 'IssuesEvent': {
+      const action = e.payload.action
+      if (action !== 'opened' && action !== 'closed') return []
+      const title = isPrivate ? 'an issue' : (e.payload.issue?.title ?? 'an issue')
+      const url = isPrivate ? undefined : e.payload.issue?.html_url ?? undefined
+      const kind = action === 'opened' ? 'issue_opened' as const : 'issue_closed' as const
+      return [{ ...base, kind, message: `${action === 'opened' ? 'Opened' : 'Closed'} ${title}`, url }]
+    }
+    case 'CreateEvent': {
+      if (e.payload.ref_type !== 'branch') return []
+      const ref = isPrivate ? 'a branch' : e.payload.ref ?? 'a branch'
+      return [{ ...base, kind: 'branch_created', message: `Created ${ref}` }]
+    }
+    default:
+      return []
+  }
+}
+
+async function fetchRecentActivity(): Promise<RecentActivity> {
+  const rawEvents: GitHubEvent[] = []
+
+  for (let page = 1; page <= 3; page++) {
+    const res = await fetch(
+      `${GITHUB_API}/users/${GITHUB_USERNAME}/events?per_page=100&page=${page}`,
+      { headers: headers(), ...REVALIDATE }
+    )
+    if (!res.ok) throw new Error(`Events fetch failed: ${res.status}`)
+    const batch: GitHubEvent[] = await res.json()
+    rawEvents.push(...batch)
+    if (batch.length < 100) break
+  }
+
+  const activity = rawEvents
+    .filter((e) => SUPPORTED_EVENTS.has(e.type))
+    .flatMap(mapEvent)
+
+  const grouped = new Map<string, ActivityEvent[]>()
+  for (const event of activity) {
+    const date = event.timestamp.slice(0, 10)
+    const group = grouped.get(date)
+    if (group) group.push(event)
+    else grouped.set(date, [event])
+  }
+
+  const groups: ActivityGroup[] = [...grouped.entries()]
+    .sort((a, b) => b[0].localeCompare(a[0]))
+    .map(([date, events]) => ({
+      date,
+      label: new Date(date + 'T00:00:00').toLocaleDateString('en-US', {
+        weekday: 'long',
+        month: 'long',
+        day: 'numeric',
+      }),
+      events,
+    }))
+
+  return { groups, totalEvents: activity.length }
+}
+
 // --- Orchestrator ---
 
 const FALLBACK_PROFILE: GitHubProfile = {
@@ -353,14 +528,21 @@ const FALLBACK_CONTRIBUTIONS: ContributionData = {
   weeks: [],
 }
 
+const FALLBACK_ACTIVITY: RecentActivity = {
+  groups: [],
+  totalEvents: 0,
+}
+
 export async function fetchAllGitHubData(): Promise<GitHubPageData> {
-  const [profile, userRepos, contributions, userOrgs, ...featuredRepos] = await Promise.all([
-    safeFetch(fetchProfile, FALLBACK_PROFILE),
-    safeFetch(fetchUserRepos, []),
-    safeFetch(fetchContributions, FALLBACK_CONTRIBUTIONS),
-    safeFetch(fetchUserOrgs, []),
-    ...FEATURED_REPOS.map((name) => safeFetch(() => fetchOrgRepo(name), null)),
-  ])
+  const [profile, userRepos, contributions, recentActivity, userOrgs, ...featuredRepos] =
+    await Promise.all([
+      safeFetch(fetchProfile, FALLBACK_PROFILE),
+      safeFetch(fetchUserRepos, []),
+      safeFetch(fetchContributions, FALLBACK_CONTRIBUTIONS),
+      safeFetch(fetchRecentActivity, FALLBACK_ACTIVITY),
+      safeFetch(fetchUserOrgs, []),
+      ...FEATURED_REPOS.map((name) => safeFetch(() => fetchOrgRepo(name), null)),
+    ])
 
   const orgRepoArrays = await Promise.all(
     userOrgs.map((org) => safeFetch(() => fetchOrgRepoList(org), []))
@@ -394,5 +576,14 @@ export async function fetchAllGitHubData(): Promise<GitHubPageData> {
   const repos = selected.slice(0, 9)
   const repoPool = selected.slice(9)
 
-  return { profile, featured, repos, repoPool, contributions, contributionStats, languages }
+  return {
+    profile,
+    featured,
+    repos,
+    repoPool,
+    contributions,
+    contributionStats,
+    languages,
+    recentActivity,
+  }
 }

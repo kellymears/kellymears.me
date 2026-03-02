@@ -115,34 +115,7 @@
   }
 }
 
-@keyframes wave-drift {
-  0%,
-  100% {
-    transform: translate(0, 0);
-  }
-  25% {
-    transform: translate(-20px, 10px);
-  }
-  50% {
-    transform: translate(8px, -14px);
-  }
-  75% {
-    transform: translate(16px, 6px);
-  }
-}
-
-.wave-line {
-  animation: wave-drift var(--wave-duration, 80s) ease-in-out infinite;
-  animation-delay: var(--wave-delay, 0s);
-  will-change: transform;
-}
-
 @media (prefers-reduced-motion: reduce) {
-  .wave-line {
-    animation: none;
-    will-change: auto;
-  }
-
   .flip-card-slot {
     animation: none !important;
     will-change: auto;
@@ -237,9 +210,19 @@
         }
       }
     }
+    &:is(.dark, .dark *) blockquote {
+      border-left-color: var(--color-primary-500);
+      & p {
+        color: var(--color-gray-100);
+      }
+    }
   }
 
   .prose-invert {
+    color: var(--color-gray-300);
+    & :where(strong) {
+      color: var(--color-gray-200);
+    }
     & a {
       color: var(--color-primary-400);
       text-decoration-color: var(--color-primary-600);
@@ -253,12 +236,6 @@
     }
     & :where(code):not(pre code) {
       color: var(--color-primary-400);
-    }
-    & :where(blockquote) {
-      border-left-color: var(--color-primary-500);
-      & p {
-        color: var(--color-gray-300);
-      }
     }
   }
 

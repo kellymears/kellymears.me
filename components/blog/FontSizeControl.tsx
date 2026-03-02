@@ -26,6 +26,12 @@ function applySize(size: SizeKey) {
   el.classList.add(size)
 }
 
+function revealArticle() {
+  const el = document.getElementById('blog-article')
+  if (!el) return
+  el.style.opacity = '1'
+}
+
 export default function FontSizeControl() {
   const [active, setActive] = useState<SizeKey>('prose-lg')
 
@@ -33,6 +39,7 @@ export default function FontSizeControl() {
     const stored = getStoredSize()
     setActive(stored)
     applySize(stored)
+    revealArticle()
   }, [])
 
   const handleChange = useCallback((size: SizeKey) => {

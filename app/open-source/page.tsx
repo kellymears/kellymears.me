@@ -1,3 +1,4 @@
+import { CommitTimeline } from '@/components/oss/CommitTimeline'
 import { ContributionGrid } from '@/components/oss/ContributionGrid'
 import { FeaturedProjects } from '@/components/oss/FeaturedProjects'
 import { LanguageBreakdown } from '@/components/oss/LanguageBreakdown'
@@ -14,8 +15,16 @@ export const metadata = genPageMetadata({
 })
 
 export default async function OpenSourcePage() {
-  const { profile, featured, repos, repoPool, contributions, contributionStats, languages } =
-    await fetchAllGitHubData()
+  const {
+    profile,
+    featured,
+    repos,
+    repoPool,
+    contributions,
+    contributionStats,
+    languages,
+    recentActivity,
+  } = await fetchAllGitHubData()
 
   return (
     <div className="animate-fade-slide-up space-y-2">
@@ -44,7 +53,10 @@ export default async function OpenSourcePage() {
       <ProfileStats profile={profile} contributionStats={contributionStats} />
       <FeaturedProjects repos={featured} />
       <ContributionGrid data={contributions} stats={contributionStats} />
-      <RepositoryGrid repos={repos} pool={repoPool} />
+      <div className="grid items-start gap-x-8 md:grid-cols-3">
+        <CommitTimeline activity={recentActivity} />
+        <RepositoryGrid repos={repos} pool={repoPool} className="md:col-span-2" />
+      </div>
       <LanguageBreakdown languages={languages} />
     </div>
   )
