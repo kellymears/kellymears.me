@@ -20,7 +20,7 @@ export default function Hero() {
         <div className="mt-8 flex flex-wrap items-center gap-4">
           <Link
             href="/work"
-            className="bg-primary-600 hover:bg-primary-700 rounded-full px-5 py-2 text-sm font-medium text-white transition-colors"
+            className="bg-primary-700 hover:bg-primary-800 rounded-full px-5 py-2 text-sm font-medium text-white transition-colors"
           >
             Work &amp; Experience
           </Link>

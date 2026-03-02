@@ -101,7 +101,7 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
 
     return (
       <div className="relative">
-        {label && <p className="mb-2 text-xs text-gray-400 dark:text-gray-500">{label}</p>}
+        {label && <p className="mb-2 text-xs text-gray-500 dark:text-gray-400">{label}</p>}
         <svg
           viewBox={`0 0 ${svgWidth} ${svgHeight}`}
           role="img"
@@ -114,7 +114,7 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
               key={i}
               x={m.x}
               y={12}
-              className="fill-gray-400 dark:fill-gray-500"
+              className="fill-gray-500 dark:fill-gray-400"
               style={{ fontSize: '11px' }}
             >
               {m.label}
@@ -127,7 +127,7 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
                 key={i}
                 x={0}
                 y={MONTH_LABEL_HEIGHT + i * CELL_STEP + CELL_SIZE - 1}
-                className="fill-gray-400 dark:fill-gray-500"
+                className="fill-gray-500 dark:fill-gray-400"
                 style={{ fontSize: '11px' }}
               >
                 {lbl}
@@ -239,7 +239,7 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
           {renderGrid(data.weeks.slice(-26), 'Showing last 6 months')}
         </div>
 
-        <div className="mt-3 flex items-center justify-end gap-1.5 text-xs text-gray-400 dark:text-gray-500">
+        <div className="mt-3 flex items-center justify-end gap-1.5 text-xs text-gray-500 dark:text-gray-400">
           <span>Less</span>
           {LEVEL_BG.map((cls, i) => (
             <span key={i} className={`inline-block h-[11px] w-[11px] rounded-sm ${cls}`} />
@@ -251,7 +251,7 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
           {statItems.map((item) => (
             <div key={item.label} className="text-center">
               <p className="text-lg font-bold text-gray-900 dark:text-gray-100">{item.value}</p>
-              <p className="text-xs text-gray-400 dark:text-gray-500">{item.label}</p>
+              <p className="text-xs text-gray-500 dark:text-gray-400">{item.label}</p>
             </div>
           ))}
         </div>

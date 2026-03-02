@@ -59,7 +59,7 @@ export default function FontSizeControl() {
           className={`cursor-pointer rounded px-1.5 py-0.5 font-semibold transition-colors ${s.className} ${
             active === s.key
               ? 'text-primary-600 dark:text-primary-400 bg-primary-50 dark:bg-primary-950/50'
-              : 'text-gray-400 hover:text-gray-600 dark:text-gray-500 dark:hover:text-gray-300'
+              : 'text-gray-500 hover:text-gray-600 dark:text-gray-400 dark:hover:text-gray-300'
           }`}
         >
           {s.label}

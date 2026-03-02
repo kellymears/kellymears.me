@@ -40,7 +40,7 @@ export function LanguageBreakdown({ languages }: LanguageBreakdownProps) {
             <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
               {lang.name}
             </span>
-            <span className="text-xs text-gray-400 dark:text-gray-500">{lang.percentage}%</span>
+            <span className="text-xs text-gray-500 dark:text-gray-400">{lang.percentage}%</span>
           </div>
         ))}
       </div>

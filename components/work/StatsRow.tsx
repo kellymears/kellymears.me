@@ -13,7 +13,7 @@ export function StatsRow() {
               {stat.label}
             </p>
             {stat.detail && (
-              <p className="mt-0.5 text-xs text-gray-400 dark:text-gray-500">{stat.detail}</p>
+              <p className="mt-0.5 text-xs text-gray-500 dark:text-gray-400">{stat.detail}</p>
             )}
           </div>
         ))}

@@ -64,7 +64,7 @@ export default function SelectedWork() {
               <h3 className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-lg font-semibold text-gray-900 dark:text-gray-100">
                 {item.title}
               </h3>
-              <span className="text-xs text-gray-400 dark:text-gray-500">{item.period}</span>
+              <span className="text-xs text-gray-500 dark:text-gray-400">{item.period}</span>
             </div>
             <p className="text-primary-600 dark:text-primary-400 mb-1 text-sm font-medium">
               {item.role}

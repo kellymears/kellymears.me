@@ -38,7 +38,7 @@ export function RepositoryCard({ repo }: RepositoryCardProps) {
         </p>
       )}
 
-      <div className="mt-auto flex items-center gap-3 text-xs text-gray-400 dark:text-gray-500">
+      <div className="mt-auto flex items-center gap-3 text-xs text-gray-500 dark:text-gray-400">
         {repo.language && (
           <span className="flex items-center gap-1.5">
             <span

@@ -209,7 +209,7 @@ const ReduceStepper = () => {
           </div>
         ) : (
           <div className="rounded-lg border border-dashed border-gray-200 px-4 py-2 dark:border-gray-700">
-            <span className="text-sm text-gray-400 dark:text-gray-500">
+            <span className="text-sm text-gray-500 dark:text-gray-400">
               {isDone ? 'Done!' : 'Step through to see each iteration'}
             </span>
           </div>
@@ -233,7 +233,7 @@ const ReduceStepper = () => {
             className={`text-lg font-semibold ${
               isDone || activeStep
                 ? 'from-primary-500 to-primary-700 bg-gradient-to-br bg-clip-text text-transparent'
-                : 'text-gray-400 dark:text-gray-500'
+                : 'text-gray-500 dark:text-gray-400'
             }`}
           >
             {activeStep
@@ -270,7 +270,7 @@ const ReduceStepper = () => {
         >
           Reset
         </button>
-        <span className="ml-auto text-xs text-gray-400 tabular-nums dark:text-gray-500">
+        <span className="ml-auto text-xs text-gray-500 tabular-nums dark:text-gray-400">
           {currentStep + 1} / {totalSteps}
         </span>
       </div>

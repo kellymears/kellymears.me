@@ -31,7 +31,7 @@ export function FeaturedSites() {
                 <h3 className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-lg font-semibold text-gray-900 dark:text-gray-100">
                   {site.title}
                 </h3>
-                <span className="text-xs text-gray-400 dark:text-gray-500">{site.context}</span>
+                <span className="text-xs text-gray-500 dark:text-gray-400">{site.context}</span>
               </div>
               <p className="mb-3 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
                 {site.description}

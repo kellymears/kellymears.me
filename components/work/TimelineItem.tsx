@@ -27,7 +27,7 @@ export function TimelineItem({ item }: TimelineItemProps) {
       >
         <div className="mb-1 flex flex-wrap items-baseline justify-between gap-2">
           <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100">{item.role}</h3>
-          <span className="text-xs text-gray-400 dark:text-gray-500">{item.period}</span>
+          <span className="text-xs text-gray-500 dark:text-gray-400">{item.period}</span>
         </div>
 
         <p className="text-primary-600 dark:text-primary-400 mb-3 text-sm font-medium">

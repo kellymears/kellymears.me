@@ -80,8 +80,8 @@ function EventRow({ event }: { event: ActivityEvent }) {
   if (event.isPrivate) {
     return (
       <div className="flex items-center gap-2 text-sm">
-        <KindIcon kind={event.kind} className="text-gray-400 dark:text-gray-500" />
-        <span className="text-gray-400 dark:text-gray-500">
+        <KindIcon kind={event.kind} className="text-gray-500 dark:text-gray-400" />
+        <span className="text-gray-500 dark:text-gray-400">
           {event.message} · {event.repo}
         </span>
       </div>
@@ -110,7 +110,7 @@ function EventRow({ event }: { event: ActivityEvent }) {
           {event.message}
         </span>
       )}
-      <span className="shrink-0 text-xs text-gray-400 dark:text-gray-500">{event.repo}</span>
+      <span className="shrink-0 text-xs text-gray-500 dark:text-gray-400">{event.repo}</span>
     </div>
   )
 }
