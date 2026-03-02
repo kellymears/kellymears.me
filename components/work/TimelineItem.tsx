@@ -7,6 +7,7 @@ const borderColorByType: Record<Experience['type'], string> = {
   employment: 'border-l-primary-500',
   consulting: 'border-l-amber-500',
   nonprofit: 'border-l-emerald-500',
+  'open-source': 'border-l-violet-500',
 }
 
 interface TimelineItemProps {

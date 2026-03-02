@@ -1,3 +1,5 @@
+import FontSizeControl from '@/components/blog/FontSizeControl'
+import ReadingProgress from '@/components/blog/ReadingProgress'
 import Link from '@/components/Link'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 import SectionContainer from '@/components/SectionContainer'
@@ -48,18 +50,25 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
               {title}
             </h1>
 
-            {tags && tags.length > 0 && (
-              <div className="flex flex-wrap gap-1">
-                {tags.map((tag) => (
-                  <Tag key={tag} text={tag} />
-                ))}
-              </div>
-            )}
+            <div className="flex items-center justify-between">
+              {tags && tags.length > 0 ? (
+                <div className="flex flex-wrap items-center gap-1">
+                  {tags.map((tag) => (
+                    <Tag key={tag} text={tag} />
+                  ))}
+                </div>
+              ) : (
+                <div />
+              )}
+              <FontSizeControl />
+            </div>
           </div>
         </header>
 
         <div className="border-t border-gray-200 dark:border-gray-800">
-          <div className="prose dark:prose-invert max-w-none pt-10 pb-8">{children}</div>
+          <div id="article-prose" className="prose prose-lg dark:prose-invert mx-auto max-w-prose pt-10 pb-8">
+            {children}
+          </div>
         </div>
 
         <footer className="border-t border-gray-200 pt-8 pb-8 dark:border-gray-800">
@@ -114,6 +123,7 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
           </div>
         </footer>
       </article>
+      <ReadingProgress />
     </SectionContainer>
   )
 }

@@ -1,3 +1,4 @@
+import { FeaturedSites } from '@/components/work/FeaturedSites'
 import { MissionCallout } from '@/components/work/MissionCallout'
 import { SkillsGrid } from '@/components/work/SkillsGrid'
 import { StatsRow } from '@/components/work/StatsRow'
@@ -29,6 +30,7 @@ export default function WorkPage() {
       <StatsRow />
       <Timeline />
       <MissionCallout />
+      <FeaturedSites />
       <SkillsGrid />
     </div>
   )

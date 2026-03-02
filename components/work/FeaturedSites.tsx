@@ -1,0 +1,55 @@
+import Image from 'next/image'
+import { featuredSites } from '@/data/projects'
+
+export function FeaturedSites() {
+  return (
+    <section className="border-t border-gray-200 py-12 dark:border-gray-800">
+      <h2 className="mb-8 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+        Featured Projects
+      </h2>
+
+      <div className="grid gap-6 sm:grid-cols-2">
+        {featuredSites.map((site) => (
+          <a
+            key={site.title}
+            href={site.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group hover:border-primary-300 dark:hover:border-primary-700 overflow-hidden rounded-xl border border-gray-200 transition-all hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800"
+          >
+            <div className="relative aspect-[16/9] overflow-hidden bg-gray-100 dark:bg-gray-800">
+              <Image
+                src={site.image}
+                alt={`Screenshot of ${site.title}`}
+                fill
+                className="object-cover object-top transition-transform duration-300 group-hover:scale-[1.02]"
+                sizes="(max-width: 640px) 100vw, 50vw"
+              />
+            </div>
+            <div className="p-5">
+              <div className="mb-1 flex items-baseline justify-between">
+                <h3 className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-lg font-semibold text-gray-900 dark:text-gray-100">
+                  {site.title}
+                </h3>
+                <span className="text-xs text-gray-400 dark:text-gray-500">{site.context}</span>
+              </div>
+              <p className="mb-3 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
+                {site.description}
+              </p>
+              <div className="flex flex-wrap gap-1.5">
+                {site.tags.map((tag) => (
+                  <span
+                    key={tag}
+                    className="rounded-full bg-gray-100 px-3 py-0.5 text-xs font-medium text-gray-700 dark:bg-gray-800 dark:text-gray-300"
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )
+}

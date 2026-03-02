@@ -5,8 +5,8 @@ export interface Stat {
 }
 
 export const stats: Stat[] = [
-  { label: 'Years of Experience', value: '10+', detail: 'Professional software development' },
+  { label: 'Years of Experience', value: '15+', detail: 'Professional software development' },
   { label: 'Open Source Repos', value: '130+', detail: 'Across personal and org accounts' },
-  { label: 'Weekly Downloads', value: '~13k', detail: 'npm packages in the bud.js ecosystem' },
-  { label: 'npm Packages', value: '30+', detail: 'Published and actively maintained' },
+  { label: 'Pull Requests', value: '854+', detail: 'Merged across the Roots ecosystem' },
+  { label: 'WordPress Core', value: 'Contributor', detail: 'Core contributor and plugin ecosystem' },
 ]

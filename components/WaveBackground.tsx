@@ -199,7 +199,7 @@ export function WaveBackground() {
   return (
     <div
       ref={containerRef}
-      className="pointer-events-none absolute inset-0 overflow-hidden"
+      className="pointer-events-none absolute inset-y-0 left-1/2 w-screen -translate-x-1/2 overflow-hidden"
       aria-hidden="true"
     >
       {size && paths.length > 0 && (
@@ -209,9 +209,9 @@ export function WaveBackground() {
           viewBox={`0 0 ${size.w} ${size.h}`}
           fill="none"
           style={{
-            maskImage: `linear-gradient(to bottom, black 50%, transparent 100%), linear-gradient(to right, transparent 0%, black 12%, black 88%, transparent 100%)`,
+            maskImage: `linear-gradient(to bottom, black 50%, transparent 100%), linear-gradient(to right, transparent 0%, black 7%, black 93%, transparent 100%)`,
             maskComposite: 'intersect',
-            WebkitMaskImage: `linear-gradient(to bottom, black 50%, transparent 100%), linear-gradient(to right, transparent 0%, black 12%, black 88%, transparent 100%)`,
+            WebkitMaskImage: `linear-gradient(to bottom, black 50%, transparent 100%), linear-gradient(to right, transparent 0%, black 7%, black 93%, transparent 100%)`,
             WebkitMaskComposite: 'source-in',
           }}
         >

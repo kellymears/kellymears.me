@@ -10,11 +10,11 @@ import { genPageMetadata } from 'app/seo'
 export const metadata = genPageMetadata({
   title: 'Open Source',
   description:
-    'Open source projects and contributions, including bud.js and the Roots WordPress ecosystem.',
+    'Open source projects and contributions to the Roots WordPress ecosystem and beyond.',
 })
 
 export default async function OpenSourcePage() {
-  const { profile, featured, repos, contributions, contributionStats, languages } =
+  const { profile, featured, repos, repoPool, contributions, contributionStats, languages } =
     await fetchAllGitHubData()
 
   return (
@@ -44,7 +44,7 @@ export default async function OpenSourcePage() {
       <ProfileStats profile={profile} contributionStats={contributionStats} />
       <FeaturedProjects repos={featured} />
       <ContributionGrid data={contributions} stats={contributionStats} />
-      <RepositoryGrid repos={repos} />
+      <RepositoryGrid repos={repos} pool={repoPool} />
       <LanguageBreakdown languages={languages} />
     </div>
   )

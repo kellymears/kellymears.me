@@ -62,7 +62,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html
       lang={siteMetadata.language}
-      className={`${space_grotesk.variable} bg-white scroll-smooth dark:bg-gray-950`}
+      className={`${space_grotesk.variable} bg-[oklch(0.99_0.005_75)] scroll-smooth dark:bg-gray-950`}
       suppressHydrationWarning
     >
       <link

@@ -29,6 +29,7 @@ export interface Repository {
   topics: string[]
   fork: boolean
   archived: boolean
+  pushed_at: string
   owner: { login: string }
 }
 
@@ -73,6 +74,7 @@ export interface GitHubPageData {
   profile: GitHubProfile
   featured: FeaturedRepository[]
   repos: Repository[]
+  repoPool: Repository[]
   contributions: ContributionData
   contributionStats: ContributionStats
   languages: LanguageBreakdown[]
@@ -84,16 +86,24 @@ const FEATURED_CONFIG: Record<string, { role: string; highlight: string }> = {
   'roots/bud': {
     role: 'Lead Developer',
     highlight:
-      '854+ PRs merged. The official build system for the Roots WordPress ecosystem — webpack, SWC, esbuild, PostCSS, and Tailwind out of the box.',
+      '854+ PRs merged. The official build system for the Roots WordPress ecosystem — webpack, SWC, esbuild, PostCSS, and Tailwind out of the box. Now in maintenance mode.',
   },
   'roots/sage': {
     role: 'Core Contributor',
     highlight:
-      'The most popular WordPress starter theme. Contributed the bud.js build system integration and modern development workflow.',
+      'The most popular WordPress starter theme. Contributed build system integration and modern development workflow.',
   },
 }
 
 const FEATURED_REPOS = Object.keys(FEATURED_CONFIG)
+
+const REPO_BOOSTS: Record<string, number> = {
+  // Multiplier on composite score. >1 boosts, <1 suppresses, 0 excludes.
+  'kellymears': 0,
+  'kellymears.me': 0,
+}
+
+const EXCLUDED_ORGS = new Set(['oncarrot'])
 
 // --- Language colors (GitHub Linguist) ---
 
@@ -149,6 +159,36 @@ async function fetchUserRepos(): Promise<Repository[]> {
       { headers: headers(), ...REVALIDATE }
     )
     if (!res.ok) throw new Error(`Repos fetch failed: ${res.status}`)
+    const repos: Repository[] = await res.json()
+    if (repos.length === 0) break
+    allRepos.push(...repos)
+    if (repos.length < 100) break
+    page++
+  }
+
+  return allRepos.filter((r) => !r.fork && !r.archived)
+}
+
+async function fetchUserOrgs(): Promise<string[]> {
+  const res = await fetch(`${GITHUB_API}/users/${GITHUB_USERNAME}/orgs`, {
+    headers: headers(),
+    ...REVALIDATE,
+  })
+  if (!res.ok) throw new Error(`Orgs fetch failed: ${res.status}`)
+  const orgs: Array<{ login: string }> = await res.json()
+  return orgs.map((o) => o.login)
+}
+
+async function fetchOrgRepoList(org: string): Promise<Repository[]> {
+  const allRepos: Repository[] = []
+  let page = 1
+
+  while (true) {
+    const res = await fetch(
+      `${GITHUB_API}/orgs/${org}/repos?per_page=100&sort=stars&direction=desc&page=${page}`,
+      { headers: headers(), ...REVALIDATE }
+    )
+    if (!res.ok) throw new Error(`Org repos fetch failed: ${res.status} for ${org}`)
     const repos: Repository[] = await res.json()
     if (repos.length === 0) break
     allRepos.push(...repos)
@@ -268,6 +308,31 @@ export function computeLanguages(repos: Repository[]): LanguageBreakdown[] {
     }))
 }
 
+export function scoreRepository(repo: Repository, now: Date = new Date()): number {
+  const starScore = Math.log2(repo.stargazers_count + 1)
+  const forkScore = Math.log2(repo.forks_count + 1) * 2
+  const pushedMs = new Date(repo.pushed_at).getTime()
+  const daysSincePush = Number.isNaN(pushedMs)
+    ? 365
+    : Math.max(0, (now.getTime() - pushedMs) / (1000 * 60 * 60 * 24))
+  const recencyScore = Math.max(0, 10 - daysSincePush / 30)
+  const boost = REPO_BOOSTS[repo.name] ?? 1
+  return (starScore + forkScore + recencyScore) * boost
+}
+
+export function weightedRandomSelect(
+  repos: Repository[],
+  count: number,
+  now: Date = new Date()
+): Repository[] {
+  if (repos.length <= count) return repos
+  return repos
+    .map((repo) => ({ repo, key: Math.random() * scoreRepository(repo, now) }))
+    .sort((a, b) => b.key - a.key)
+    .slice(0, count)
+    .map((entry) => entry.repo)
+}
+
 // --- Orchestrator ---
 
 const FALLBACK_PROFILE: GitHubProfile = {
@@ -289,14 +354,19 @@ const FALLBACK_CONTRIBUTIONS: ContributionData = {
 }
 
 export async function fetchAllGitHubData(): Promise<GitHubPageData> {
-  const [profile, userRepos, contributions, ...orgRepos] = await Promise.all([
+  const [profile, userRepos, contributions, userOrgs, ...featuredRepos] = await Promise.all([
     safeFetch(fetchProfile, FALLBACK_PROFILE),
     safeFetch(fetchUserRepos, []),
     safeFetch(fetchContributions, FALLBACK_CONTRIBUTIONS),
+    safeFetch(fetchUserOrgs, []),
     ...FEATURED_REPOS.map((name) => safeFetch(() => fetchOrgRepo(name), null)),
   ])
 
-  const featured: FeaturedRepository[] = (orgRepos as (Repository | null)[])
+  const orgRepoArrays = await Promise.all(
+    userOrgs.map((org) => safeFetch(() => fetchOrgRepoList(org), []))
+  )
+
+  const featured: FeaturedRepository[] = (featuredRepos as (Repository | null)[])
     .filter((r): r is Repository => r !== null)
     .map((repo) => ({
       ...repo,
@@ -307,7 +377,22 @@ export async function fetchAllGitHubData(): Promise<GitHubPageData> {
   const allRepos = [...userRepos, ...featured]
   const languages = computeLanguages(allRepos)
 
-  const repos = userRepos.sort((a, b) => b.stargazers_count - a.stargazers_count).slice(0, 9)
+  const featuredNames = new Set(FEATURED_REPOS)
+  const seen = new Set<string>()
+  const eligible: Repository[] = []
 
-  return { profile, featured, repos, contributions, contributionStats, languages }
+  for (const repo of [...userRepos, ...orgRepoArrays.flat()]) {
+    if (seen.has(repo.full_name)) continue
+    seen.add(repo.full_name)
+    if (featuredNames.has(repo.full_name)) continue
+    if (EXCLUDED_ORGS.has(repo.owner.login)) continue
+    if ((REPO_BOOSTS[repo.name] ?? 1) <= 0) continue
+    eligible.push(repo)
+  }
+
+  const selected = weightedRandomSelect(eligible, 27)
+  const repos = selected.slice(0, 9)
+  const repoPool = selected.slice(9)
+
+  return { profile, featured, repos, repoPool, contributions, contributionStats, languages }
 }

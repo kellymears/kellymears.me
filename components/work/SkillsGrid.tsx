@@ -6,19 +6,19 @@ interface SkillCategory {
 const categories: SkillCategory[] = [
   {
     name: 'Languages',
-    skills: ['TypeScript', 'JavaScript', 'PHP', 'Ruby', 'HTML', 'CSS'],
+    skills: ['TypeScript', 'JavaScript', 'PHP', 'Ruby', 'HTML', 'CSS', 'SQL', 'Bash'],
   },
   {
-    name: 'Frameworks',
-    skills: ['React', 'Next.js', 'Laravel', 'WordPress', 'Tailwind CSS'],
+    name: 'Frameworks & Libraries',
+    skills: ['React', 'Next.js', 'Laravel', 'WordPress', 'Gutenberg', 'Tailwind CSS', 'Sass', 'PostCSS', 'MDX', 'Storybook'],
   },
   {
     name: 'Architecture',
-    skills: ['Monorepos', 'Plugin Systems', 'Design Systems', 'REST APIs', 'CI/CD'],
+    skills: ['Monorepos', 'Plugin Systems', 'Design Systems', 'REST APIs', 'GraphQL', 'CI/CD', 'Static Analysis'],
   },
   {
-    name: 'Tools',
-    skills: ['webpack', 'SWC', 'esbuild', 'Docker', 'Git', 'Node.js'],
+    name: 'Tools & Infrastructure',
+    skills: ['webpack', 'Vite', 'SWC', 'esbuild', 'Babel', 'ESLint', 'Prettier', 'Docker', 'Git', 'Node.js', 'GitHub Actions', 'AWS', 'MySQL', 'Redis', 'Nginx', 'Netlify', 'Vercel'],
   },
 ]
 

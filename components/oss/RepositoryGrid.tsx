@@ -1,11 +1,12 @@
-import { RepositoryCard } from '@/components/oss/RepositoryCard'
+import { FlippingCardGrid } from '@/components/oss/FlippingCardGrid'
 import type { Repository } from '@/lib/github'
 
 interface RepositoryGridProps {
   repos: Repository[]
+  pool: Repository[]
 }
 
-export function RepositoryGrid({ repos }: RepositoryGridProps) {
+export function RepositoryGrid({ repos, pool }: RepositoryGridProps) {
   if (repos.length === 0) return null
 
   return (
@@ -13,11 +14,7 @@ export function RepositoryGrid({ repos }: RepositoryGridProps) {
       <h2 className="mb-6 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
         Repositories
       </h2>
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {repos.map((repo) => (
-          <RepositoryCard key={repo.full_name} repo={repo} />
-        ))}
-      </div>
+      <FlippingCardGrid initialRepos={repos} pool={pool} />
     </section>
   )
 }

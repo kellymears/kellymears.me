@@ -1,3 +1,4 @@
+import FeaturedSites from '@/components/home/FeaturedSites'
 import Hero from '@/components/home/Hero'
 import RecentWriting from '@/components/home/RecentWriting'
 import SelectedWork from '@/components/home/SelectedWork'
@@ -16,6 +17,7 @@ export default function Home({ posts }: Props) {
         <Hero />
       </div>
       <SelectedWork />
+      <FeaturedSites />
       <RecentWriting posts={posts} />
     </>
   )

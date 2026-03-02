@@ -1,3 +1,4 @@
+import Link from '@/components/Link'
 import SocialIcon from '@/components/social-icons'
 import siteMetadata from '@/data/siteMetadata'
 
@@ -12,20 +13,28 @@ export default function Hero() {
           Kelly Mears
         </h1>
         <p className="mt-6 max-w-2xl text-lg leading-relaxed font-light text-gray-600 sm:text-xl dark:text-gray-400">
-          Building infrastructure for mission-driven organizations. Lead developer of{' '}
-          <a
-            href="https://bud.js.org"
-            className="decoration-primary-500 hover:text-primary-600 dark:hover:text-primary-400 text-gray-900 underline decoration-2 underline-offset-3 transition-colors dark:text-gray-100"
-          >
-            bud.js
-          </a>
-          . A decade of open source, nonprofit tech, and making the web work for people who are
+          15+ years building infrastructure for mission-driven organizations. Open source maintainer,
+          nonprofit technologist, and full-stack engineer making the web work for people who are
           working to change it.
         </p>
-        <div className="mt-8 flex items-center gap-5">
-          <SocialIcon kind="github" href={siteMetadata.github} size={6} />
-          <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size={6} />
-          <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size={6} />
+        <div className="mt-8 flex flex-wrap items-center gap-4">
+          <Link
+            href="/work"
+            className="bg-primary-600 hover:bg-primary-700 rounded-full px-5 py-2 text-sm font-medium text-white transition-colors"
+          >
+            Work &amp; Experience
+          </Link>
+          <Link
+            href="/open-source"
+            className="hover:border-primary-400 hover:text-primary-600 dark:hover:border-primary-500 dark:hover:text-primary-400 rounded-full border border-gray-300 px-5 py-2 text-sm font-medium text-gray-700 transition-colors dark:border-gray-600 dark:text-gray-300"
+          >
+            Open Source
+          </Link>
+          <div className="flex items-center gap-4 pl-2">
+            <SocialIcon kind="github" href={siteMetadata.github} size={6} />
+            <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size={6} />
+            <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size={6} />
+          </div>
         </div>
       </div>
     </section>

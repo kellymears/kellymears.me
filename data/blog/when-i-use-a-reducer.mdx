@@ -1,65 +1,131 @@
 ---
-title: 'Sometimes I like to use a reducer'
+title: 'The Signal in a Reducer'
 date: '2025-10-05'
-lastmod: '2025-10-05'
+lastmod: '2026-03-01'
 tags: ['development', 'functional programming', 'typescript']
 draft: true
-summary: 'Just a little data transformation, as a treat.'
-images: ['/static/images/reducer-cooking.jpg']
+summary: "Reducers get a bad rap. Here's why I still reach for them — and when I don't."
 ---
 
-I've been thinking more about reducers this past year. Specifically, why I use them sometimes, and not others.
+`Array.prototype.reduce` has a discourse problem. Some people [use it for everything](https://redux.js.org/). Others think [you should never use it at all](https://github.com/sindresorhus/eslint-plugin-unicorn/blob/main/docs/rules/no-array-reduce.md). Both camps treat it as a matter of style. It isn't. It's a signal.
 
-There are multiple view on reducers. [Junior developers may not really know what they are](https://www.reddit.com/r/learnjavascript/comments/s1e4g1/dont_really_understand_the_reduce_function/). This was certainly my experience.
+## The type-level signal
 
-Once they come to understand them, [many developers come to use them all the time](https://redux.js.org/). Reducers are extremely versatile and can be employed in a variety of ways, plus you feel like a magician writing them early on. (Again, this was me.)
+The three core array methods:
 
-Other developers [avoid them](https://github.com/sindresorhus/eslint-plugin-unicorn/blob/main/docs/rules/no-array-reduce.md), or use them sparingly. The main arguments here have to do with readability and performance. Nevertheless, I still think the reducer is a useful tool.
+- `map`: `Array<T>` → `Array<U>`. New values, same shape.
+- `filter`: `Array<T>` → `Array<T>`. Fewer elements, same type.
+- `reduce`: `Array<T>` → `U`. Everything can change.
 
-A reducer is a succinct way to _indicate_ and _encapsulate_ transformations between different types of data. For example, if I have an `Object` with numeric values, and I want to sum those values, I think a reducer makes a ton of sense.
+When I see `.reduce()`, it tells me something a `for` loop doesn't: _a transformation between types is happening_. An array is becoming a number, a lookup table, a tree. Same reason we use `map` instead of a `for` loop that pushes into an array — the method communicates intent at the expression level, not the statement level.
+
+## Mutate vs. produce
+
+A colleague of mine uses `let` instead of `const` when declaring an object he intends to mutate in scope. The language doesn't require it — but it's a consistent signal: _this data is going to change_.
+
+A reducer works the same way but at the expression level. Where `let obj = {}` followed by a loop says "I'm going to _mutate_ something," a reduce says "I'm going to _produce_ something."
+
+## The accumulator
+
+The imperative version always leaks a mutable binding:
 
 ```ts
-const data = { a: 1, b: 2, c: 3 }
-const sum = Object.values(data).reduce((a, v) => a + v, 0)
-```
+const users = [
+  { role: 'admin', name: 'Alice' },
+  { role: 'editor', name: 'Bob' },
+  { role: 'admin', name: 'Carol' },
+  { role: 'editor', name: 'Dave' },
+]
 
-The alternative to this would be a `for` loop, which is certainly valid but also more verbose.
-
-```ts
-const data = { a: 1, b: 2, c: 3 }
-let sum = 0
-for (const value of Object.values(data)) {
-  sum += value
+let grouped: Record<string, string[]> = {}
+for (const user of users) {
+  if (!grouped[user.role]) {
+    grouped[user.role] = []
+  }
+  grouped[user.role].push(user.name)
 }
 ```
 
-In this case, I prefer the reducer mainly because it's more concise while also being more expressive. It clearly communicates the intent of transforming data (in this case we are going from an `Object` to a `number`). It's especially clear when you use `reduce` to do that (and only that).
+`grouped` starts empty and gets mutated across iterations. Every line of the loop body can read and write to it. If this loop were longer, you'd need to trace mutations to understand the final shape.
 
-One of my colleagues uses `let` in lieu of `const` when declaring an `Record` or `Array` that will be changed within its current scope. This isn't required by the language, but it does communicate intent. It's his way of saying "this data is going to be manipulated". I was slightly confused by this at first, but now when I'm looking over his code, I've come to appreciate this stylistic choice. Just from the variable declaration alone, I know he's planning on mutating that data later.
+Compare:
 
-I think we can treat reducers similarly. Maybe, when reviewing my code, you see a reducer and are put off by it. But, once you understand how and why I'm using it, in subsequent reviews you will see a reducer and know immediately that I'm transforming data in some way.
+```ts
+const grouped = users.reduce<Record<string, string[]>>(
+  (acc, user) => ({
+    ...acc,
+    [user.role]: [...(acc[user.role] ?? []), user.name],
+  }),
+  {}
+)
+```
 
-I also like that reducers are composable given that they are a built in method of `Array.prototype`. This means I can chain them together with other array methods:
+`grouped` is `const`. Assigned once, to the result of the transformation. The accumulator is scoped entirely within the callback. Nothing to trace.
+
+## Pipelines
+
+Reduce is a natural terminal operation in a chain:
 
 ```ts
 const data = [1, 2, 3, 4, 5]
 const result = data
   .filter((n) => n % 2 === 0)
   .map((n) => n * 2)
-  .reduce((a, v) => a + v, 0)
+  .reduce((acc, n) => acc + n, 0)
 ```
 
-The `for` loop equivalent of this would simply be a bummer to read and write in comparison. I'd be looking at many more lines of code and additional variables. Sometimes, a one-liner is just better. If you're worried about it being overwhelming, you can always use comments.
+Each line does one thing. The `for` loop equivalent tangles filtering, mapping, and accumulating into a single block — you have to read the whole body to understand what's happening.
 
 ```ts
 const data = [1, 2, 3, 4, 5]
-const result = data
-  // Keep only even numbers
-  .filter((n) => n % 2 === 0)
-  // Double each number
-  .map((n) => n * 2)
-  // Sum the numbers
-  .reduce((a, v) => a + v, 0)
+let result = 0
+for (const n of data) {
+  if (n % 2 === 0) {
+    result += n * 2
+  }
+}
 ```
 
-In short, I like to use reducers when I want to take a piece of data with of one type and transform it into data of another type. They help me communicate intent, de-tangle function bodies, and, despite what n+1 twitter and medium posts might claim, I believe they make my code more readable.
+Step by step:
+
+<ReduceStepper />
+
+## The readability cliff
+
+Reduce has one, and it's easy to fall off. Nested reduces are almost always wrong. If the callback exceeds three or four lines, extract it. If the accumulator type isn't obvious from the seed value, annotate it — TypeScript's inference on `reduce` is unreliable.
+
+Here's a reduce doing too much:
+
+```ts
+// Don't do this
+const result = data.reduce((acc, item) => {
+  const key = item.category.toLowerCase().trim()
+  const existing = acc.get(key)
+  if (existing) {
+    existing.count += 1
+    existing.total += item.value
+    existing.avg = existing.total / existing.count
+  } else {
+    acc.set(key, { count: 1, total: item.value, avg: item.value })
+  }
+  return acc
+}, new Map())
+```
+
+Key normalization, arithmetic, and complex accumulator management — all in one callback. The reduce isn't adding clarity here; it's hiding complexity. A `for...of` with named helpers is clearer:
+
+```ts
+const result = new Map<string, CategoryStats>()
+
+for (const item of data) {
+  const key = normalizeKey(item.category)
+  const stats = result.get(key) ?? createStats()
+  result.set(key, updateStats(stats, item.value))
+}
+```
+
+If you can't read the reducer callback in a single glance, it's not earning its keep.
+
+---
+
+Use reduce when it communicates something a loop can't: _a new shape is being built from an old one_. When it does that clearly, it's worth it. When it doesn't, use a loop.

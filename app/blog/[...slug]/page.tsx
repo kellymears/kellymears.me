@@ -52,7 +52,10 @@ const Page = async (props: { params: Promise<{ slug: string[] }> }) => {
 
 const generateStaticParams = async () => {
   const posts = await getAllPosts()
-  return posts.map((p) => ({ slug: p.slug.split('/').map((name) => decodeURI(name)) }))
+  const isProduction = process.env.NODE_ENV === 'production'
+  return posts
+    .filter((p) => !isProduction || p.draft !== true)
+    .map((p) => ({ slug: p.slug.split('/').map((name) => decodeURI(name)) }))
 }
 
 const generateMetadata = async (props: {
