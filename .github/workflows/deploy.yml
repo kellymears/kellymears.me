@@ -29,9 +29,13 @@ jobs:
             nextjs-${{ runner.os }}-${{ hashFiles('yarn.lock') }}-
             nextjs-${{ runner.os }}-
 
-      - name: Build and deploy to Netlify
-        run: npx netlify-cli deploy --prod --build
+      - name: Build
+        run: yarn build
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Deploy to Netlify
+        run: npx netlify-cli deploy --prod
+        env:
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
