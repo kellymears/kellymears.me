@@ -135,61 +135,79 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
             ) : null
           )}
 
-          {weeks.map((week, wi) =>
-            week.contributionDays.map((day) => {
-              const level = getLevel(day.contributionCount, quartiles)
-              const x = DAY_LABEL_WIDTH + wi * CELL_STEP
-              const y = MONTH_LABEL_HEIGHT + day.weekday * CELL_STEP
-              const dateLabel = `${day.contributionCount} contribution${day.contributionCount !== 1 ? 's' : ''} on ${formatDate(day.date)}`
+          {weeks.map((week, wi) => {
+            const existingDays = new Set(week.contributionDays.map((d) => d.weekday))
+            return (
+              <g key={wi}>
+                {Array.from({ length: 7 }, (_, dayIdx) =>
+                  existingDays.has(dayIdx) ? null : (
+                    <rect
+                      key={`placeholder-${dayIdx}`}
+                      x={DAY_LABEL_WIDTH + wi * CELL_STEP}
+                      y={MONTH_LABEL_HEIGHT + dayIdx * CELL_STEP}
+                      width={CELL_SIZE}
+                      height={CELL_SIZE}
+                      rx={3}
+                      className="fill-gray-200/40 dark:fill-gray-700/20"
+                    />
+                  ),
+                )}
+                {week.contributionDays.map((day) => {
+                  const level = getLevel(day.contributionCount, quartiles)
+                  const x = DAY_LABEL_WIDTH + wi * CELL_STEP
+                  const y = MONTH_LABEL_HEIGHT + day.weekday * CELL_STEP
+                  const dateLabel = `${day.contributionCount} contribution${day.contributionCount !== 1 ? 's' : ''} on ${formatDate(day.date)}`
 
-              return (
-                <rect
-                  key={day.date}
-                  x={x}
-                  y={y}
-                  width={CELL_SIZE}
-                  height={CELL_SIZE}
-                  rx={3}
-                  className={`${LEVEL_FILL[level]} cursor-pointer transition-opacity outline-none hover:opacity-75`}
-                  aria-label={dateLabel}
-                  tabIndex={0}
-                  onMouseEnter={(e) => {
-                    const rect = (e.target as SVGElement).getBoundingClientRect()
-                    const container = (e.target as SVGElement)
-                      .closest('.relative')
-                      ?.getBoundingClientRect()
-                    if (container) {
-                      setTooltip({
-                        x: rect.left - container.left + rect.width / 2,
-                        y: rect.top - container.top - 8,
-                        text: dateLabel,
-                      })
-                    }
-                  }}
-                  onMouseLeave={() => setTooltip(null)}
-                  onFocus={(e) => {
-                    const rect = (e.target as SVGElement).getBoundingClientRect()
-                    const container = (e.target as SVGElement)
-                      .closest('.relative')
-                      ?.getBoundingClientRect()
-                    if (container) {
-                      setTooltip({
-                        x: rect.left - container.left + rect.width / 2,
-                        y: rect.top - container.top - 8,
-                        text: dateLabel,
-                      })
-                    }
-                  }}
-                  onBlur={() => setTooltip(null)}
-                />
-              )
-            })
-          )}
+                  return (
+                    <rect
+                      key={day.date}
+                      x={x}
+                      y={y}
+                      width={CELL_SIZE}
+                      height={CELL_SIZE}
+                      rx={3}
+                      className={`${LEVEL_FILL[level]} cursor-pointer transition-opacity outline-none hover:opacity-75`}
+                      aria-label={dateLabel}
+                      tabIndex={0}
+                      onMouseEnter={(e) => {
+                        const rect = (e.target as SVGElement).getBoundingClientRect()
+                        const container = (e.target as SVGElement)
+                          .closest('.relative')
+                          ?.getBoundingClientRect()
+                        if (container) {
+                          setTooltip({
+                            x: rect.left - container.left + rect.width / 2,
+                            y: rect.top - container.top - 8,
+                            text: dateLabel,
+                          })
+                        }
+                      }}
+                      onMouseLeave={() => setTooltip(null)}
+                      onFocus={(e) => {
+                        const rect = (e.target as SVGElement).getBoundingClientRect()
+                        const container = (e.target as SVGElement)
+                          .closest('.relative')
+                          ?.getBoundingClientRect()
+                        if (container) {
+                          setTooltip({
+                            x: rect.left - container.left + rect.width / 2,
+                            y: rect.top - container.top - 8,
+                            text: dateLabel,
+                          })
+                        }
+                      }}
+                      onBlur={() => setTooltip(null)}
+                    />
+                  )
+                })}
+              </g>
+            )
+          })}
         </svg>
 
         {tooltip && (
           <div
-            className="pointer-events-none absolute z-10 -translate-x-1/2 -translate-y-full rounded-lg bg-gray-900 px-3 py-1.5 text-xs font-medium whitespace-nowrap text-white shadow-lg dark:bg-gray-100 dark:text-gray-900"
+            className="pointer-events-none absolute z-50 -translate-x-1/2 -translate-y-full rounded-lg bg-gray-900 px-3 py-1.5 text-xs font-medium whitespace-nowrap text-white shadow-lg dark:bg-gray-100 dark:text-gray-900"
             style={{ left: tooltip.x, top: tooltip.y }}
           >
             {tooltip.text}
@@ -216,8 +234,8 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
           </h2>
         </div>
 
-        <div className="hidden overflow-x-auto md:block">{renderGrid(data.weeks)}</div>
-        <div className="overflow-x-auto md:hidden">
+        <div className="hidden md:block">{renderGrid(data.weeks)}</div>
+        <div className="md:hidden">
           {renderGrid(data.weeks.slice(-26), 'Showing last 6 months')}
         </div>
 
