@@ -185,6 +185,9 @@
     & :where(code):not(pre code) {
       color: var(--color-primary-700);
     }
+    & :where(pre) {
+      overflow-x: auto;
+    }
     & :where(img) {
       border-radius: var(--radius-md);
       width: 100%;
