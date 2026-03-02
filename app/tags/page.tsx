@@ -1,6 +1,7 @@
 import Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import { getAllPosts, getTagCounts } from '@/lib/content'
+import { getTagDisplayName } from '@/lib/tags'
 import { genPageMetadata } from 'app/seo'
 import { slug } from 'github-slugger'
 
@@ -28,7 +29,7 @@ const Page = async () => {
                   <Link
                     href={`/tags/${slug(t)}`}
                     className="-ml-2 text-sm font-semibold text-gray-600 uppercase dark:text-gray-300"
-                    aria-label={`View posts tagged ${t}`}
+                    aria-label={`View posts tagged ${getTagDisplayName(t)}`}
                   >
                     {` (${tagCounts[t]})`}
                   </Link>

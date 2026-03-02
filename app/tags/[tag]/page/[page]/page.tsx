@@ -1,5 +1,6 @@
 import ListLayout from '@/layouts/ListLayoutWithTags'
 import { allCoreContent, getAllPosts, getTagCounts, sortPosts } from '@/lib/content'
+import { getTagDisplayName } from '@/lib/tags'
 import { slug } from 'github-slugger'
 import { notFound } from 'next/navigation'
 
@@ -8,7 +9,7 @@ const POSTS_PER_PAGE = 5
 const Page = async (props: { params: Promise<{ tag: string; page: string }> }) => {
   const params = await props.params
   const tag = decodeURI(params.tag)
-  const title = tag[0]!.toUpperCase() + tag.split(' ').join('-').slice(1)
+  const title = getTagDisplayName(tag)
   const pageNumber = parseInt(params.page)
   const allPosts = await getAllPosts()
   const tagCounts = getTagCounts(allPosts)

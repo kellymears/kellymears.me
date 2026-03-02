@@ -3,6 +3,7 @@
 import BlogCard from '@/components/BlogCard'
 import Link from '@/components/Link'
 import type { BlogPost, CoreContent } from '@/lib/content'
+import { getTagDisplayName } from '@/lib/tags'
 import { slug } from 'github-slugger'
 import { usePathname } from 'next/navigation'
 
@@ -106,9 +107,9 @@ export default function ListLayoutWithTags({
                   ? 'bg-primary-500 dark:bg-primary-600 text-white'
                   : 'bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700'
               }`}
-              aria-label={`View posts tagged ${tag}`}
+              aria-label={`View posts tagged ${getTagDisplayName(tag)}`}
             >
-              {tag} ({counts[tag]})
+              {getTagDisplayName(tag)} ({counts[tag]})
             </Link>
           )
         })}

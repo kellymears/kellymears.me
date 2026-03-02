@@ -1,6 +1,7 @@
 import siteMetadata from '@/data/siteMetadata'
 import ListLayout from '@/layouts/ListLayoutWithTags'
 import { allCoreContent, getAllPosts, getTagCounts, sortPosts } from '@/lib/content'
+import { getTagDisplayName } from '@/lib/tags'
 import { genPageMetadata } from 'app/seo'
 import { slug } from 'github-slugger'
 import { Metadata } from 'next'
@@ -10,7 +11,7 @@ const POSTS_PER_PAGE = 5
 const Page = async (props: { params: Promise<{ tag: string }> }) => {
   const params = await props.params
   const tag = decodeURI(params.tag)
-  const title = tag[0]!.toUpperCase() + tag.split(' ').join('-').slice(1)
+  const title = getTagDisplayName(tag)
   const allPosts = await getAllPosts()
   const tagCounts = getTagCounts(allPosts)
   const filteredPosts = allCoreContent(
@@ -37,9 +38,10 @@ const Page = async (props: { params: Promise<{ tag: string }> }) => {
 const generateMetadata = async (props: { params: Promise<{ tag: string }> }): Promise<Metadata> => {
   const params = await props.params
   const tag = decodeURI(params.tag)
+  const displayName = getTagDisplayName(tag)
   return genPageMetadata({
-    title: tag,
-    description: `${siteMetadata.title} ${tag} tagged content`,
+    title: displayName,
+    description: `${siteMetadata.title} ${displayName} tagged content`,
     alternates: {
       canonical: './',
       types: {
