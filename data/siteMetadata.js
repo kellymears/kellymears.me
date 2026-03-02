@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://kellymears.me',
   siteRepo: 'https://github.com/kellymears/kellymears.me',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
-  socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
+  socialBanner: `${process.env.BASE_PATH || ''}/static/images/og-waves.png`,
   email: 'hello@kellymears.me',
   github: 'https://github.com/kellymears',
   linkedin: 'https://linkedin.com/in/kellymears',
