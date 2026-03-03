@@ -1,5 +1,14 @@
 {
   "permissions": {
-    "allow": ["Bash(gh api:*)", "Bash(gh auth:*)", "Bash(curl:*)", "Bash(npx playwright:*)"]
+    "allow": [
+      "Bash(gh api:*)",
+      "Bash(gh auth:*)",
+      "Bash(curl:*)",
+      "Bash(npx playwright:*)",
+      "WebFetch(domain:developers.strava.com)",
+      "WebSearch",
+      "WebFetch(domain:stravalib.readthedocs.io)",
+      "Bash(yarn next:*)"
+    ]
   }
 }

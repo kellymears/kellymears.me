@@ -152,7 +152,7 @@ const FEATURED_REPOS = Object.keys(FEATURED_CONFIG)
 
 const REPO_BOOSTS: Record<string, number> = {
   // Multiplier on composite score. >1 boosts, <1 suppresses, 0 excludes.
-  'kellymears': 0,
+  kellymears: 0,
   'kellymears.me': 0,
 }
 
@@ -408,19 +408,21 @@ function mapEvent(e: GitHubEvent): ActivityEvent[] {
   switch (e.type) {
     case 'PushEvent': {
       if (e.payload.commits && e.payload.commits.length > 0) {
-        return e.payload.commits.filter((c) => c.distinct).map((c) => ({
-          ...base,
-          kind: 'push' as const,
-          sha: c.sha.slice(0, 7),
-          message: c.message.split('\n')[0]!,
-        }))
+        return e.payload.commits
+          .filter((c) => c.distinct)
+          .map((c) => ({
+            ...base,
+            kind: 'push' as const,
+            sha: c.sha.slice(0, 7),
+            message: c.message.split('\n')[0]!,
+          }))
       }
       return [{ ...base, kind: 'push', message: 'Pushed commits' }]
     }
     case 'PullRequestEvent': {
       const action = e.payload.action
       const title = isPrivate ? 'a pull request' : (e.payload.pull_request?.title ?? 'Pull request')
-      const url = isPrivate ? undefined : e.payload.pull_request?.html_url ?? undefined
+      const url = isPrivate ? undefined : (e.payload.pull_request?.html_url ?? undefined)
       if (action === 'merged' || (action === 'closed' && e.payload.pull_request?.merged)) {
         return [{ ...base, kind: 'pr_merged', message: `Merged ${title}`, url }]
       }
@@ -434,32 +436,41 @@ function mapEvent(e: GitHubEvent): ActivityEvent[] {
     }
     case 'PullRequestReviewEvent': {
       const state = e.payload.review?.state
-      const label = state === 'approved' ? 'Approved' : state === 'changes_requested' ? 'Requested changes on' : 'Reviewed'
-      const prRef = isPrivate ? `PR #${e.payload.pull_request?.title ?? ''}`.replace(/PR #$/, 'a PR') : (e.payload.pull_request?.title ?? 'a pull request')
-      const url = isPrivate ? undefined : e.payload.review?.html_url ?? undefined
+      const label =
+        state === 'approved'
+          ? 'Approved'
+          : state === 'changes_requested'
+            ? 'Requested changes on'
+            : 'Reviewed'
+      const prRef = isPrivate
+        ? `PR #${e.payload.pull_request?.title ?? ''}`.replace(/PR #$/, 'a PR')
+        : (e.payload.pull_request?.title ?? 'a pull request')
+      const url = isPrivate ? undefined : (e.payload.review?.html_url ?? undefined)
       return [{ ...base, kind: 'review', message: `${label} ${prRef}`, url }]
     }
     case 'PullRequestReviewCommentEvent': {
       const prRef = isPrivate ? 'a PR' : (e.payload.pull_request?.title ?? 'a pull request')
-      const url = isPrivate ? undefined : e.payload.comment?.html_url ?? undefined
+      const url = isPrivate ? undefined : (e.payload.comment?.html_url ?? undefined)
       return [{ ...base, kind: 'comment', message: `Commented on ${prRef}`, url }]
     }
     case 'IssueCommentEvent': {
       const issueRef = isPrivate ? 'an issue' : (e.payload.issue?.title ?? 'an issue')
-      const url = isPrivate ? undefined : e.payload.comment?.html_url ?? undefined
+      const url = isPrivate ? undefined : (e.payload.comment?.html_url ?? undefined)
       return [{ ...base, kind: 'comment', message: `Commented on ${issueRef}`, url }]
     }
     case 'IssuesEvent': {
       const action = e.payload.action
       if (action !== 'opened' && action !== 'closed') return []
       const title = isPrivate ? 'an issue' : (e.payload.issue?.title ?? 'an issue')
-      const url = isPrivate ? undefined : e.payload.issue?.html_url ?? undefined
-      const kind = action === 'opened' ? 'issue_opened' as const : 'issue_closed' as const
-      return [{ ...base, kind, message: `${action === 'opened' ? 'Opened' : 'Closed'} ${title}`, url }]
+      const url = isPrivate ? undefined : (e.payload.issue?.html_url ?? undefined)
+      const kind = action === 'opened' ? ('issue_opened' as const) : ('issue_closed' as const)
+      return [
+        { ...base, kind, message: `${action === 'opened' ? 'Opened' : 'Closed'} ${title}`, url },
+      ]
     }
     case 'CreateEvent': {
       if (e.payload.ref_type !== 'branch') return []
-      const ref = isPrivate ? 'a branch' : e.payload.ref ?? 'a branch'
+      const ref = isPrivate ? 'a branch' : (e.payload.ref ?? 'a branch')
       return [{ ...base, kind: 'branch_created', message: `Created ${ref}` }]
     }
     default:
@@ -481,9 +492,7 @@ async function fetchRecentActivity(): Promise<RecentActivity> {
     if (batch.length < 100) break
   }
 
-  const activity = rawEvents
-    .filter((e) => SUPPORTED_EVENTS.has(e.type))
-    .flatMap(mapEvent)
+  const activity = rawEvents.filter((e) => SUPPORTED_EVENTS.has(e.type)).flatMap(mapEvent)
 
   const grouped = new Map<string, ActivityEvent[]>()
   for (const event of activity) {

@@ -62,7 +62,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html
       lang={siteMetadata.language}
-      className={`${space_grotesk.variable} bg-[oklch(0.99_0.005_75)] scroll-smooth dark:bg-gray-950`}
+      className={`${space_grotesk.variable} bg-[oklch(0.99_0.005_75)] dark:bg-gray-950`}
       suppressHydrationWarning
     >
       <link
@@ -92,7 +92,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fff" />
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000" />
       <link rel="alternate" type="application/rss+xml" href={`${basePath}/feed.xml`} />
-      <body className="overflow-x-hidden pl-[calc(100vw-100%)] text-black antialiased dark:text-white">
+      <body className="overflow-x-clip text-black antialiased dark:text-white">
         <PaletteScript />
         <ThemeProviders>
           <SectionContainer>

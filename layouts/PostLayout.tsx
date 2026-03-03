@@ -66,7 +66,10 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
         </header>
 
         <div className="border-t border-gray-200 dark:border-gray-800">
-          <div id="article-prose" className="prose prose-lg dark:prose-invert mx-auto max-w-prose pt-10 pb-8">
+          <div
+            id="article-prose"
+            className="prose prose-lg dark:prose-invert mx-auto max-w-prose pt-10 pb-8"
+          >
             {children}
           </div>
         </div>

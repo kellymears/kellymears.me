@@ -48,3 +48,6 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
+
+# Generated ride data (PII — GPS coordinates)
+data/cycling/rides.json

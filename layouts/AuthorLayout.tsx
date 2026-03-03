@@ -41,7 +41,9 @@ const AuthorLayout = ({ children, content }: Props) => {
         </div>
 
         <div className="border-t border-gray-200 dark:border-gray-800">
-          <div className="prose prose-lg dark:prose-invert mx-auto max-w-prose pt-10 pb-8">{children}</div>
+          <div className="prose prose-lg dark:prose-invert mx-auto max-w-prose pt-10 pb-8">
+            {children}
+          </div>
         </div>
       </div>
     </>

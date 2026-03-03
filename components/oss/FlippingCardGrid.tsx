@@ -1,8 +1,8 @@
 'use client'
 
-import { useCallback, useEffect, useRef, useState } from 'react'
 import type { Repository } from '@/lib/github'
 import { LANGUAGE_COLORS } from '@/lib/github'
+import { useCallback, useEffect, useRef, useState } from 'react'
 
 const FLIP_INTERVAL = 5000
 const FLIP_DURATION = 300
@@ -55,7 +55,13 @@ function CardContent({ repo }: { repo: Repository }) {
         )}
         {repo.forks_count > 0 && (
           <span className="flex items-center gap-1">
-            <svg width="12" height="12" className="shrink-0" fill="currentColor" viewBox="0 0 20 20">
+            <svg
+              width="12"
+              height="12"
+              className="shrink-0"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+            >
               <path
                 fillRule="evenodd"
                 d="M7.707 3.293a1 1 0 010 1.414L5.414 7H11a7 7 0 017 7v2a1 1 0 11-2 0v-2a5 5 0 00-5-5H5.414l2.293 2.293a1 1 0 11-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
@@ -106,18 +112,15 @@ export function FlippingCardGrid({ initialRepos, pool }: FlippingCardGridProps) 
     return () => mq.removeEventListener('change', handler)
   }, [])
 
-  const pickNextSlot = useCallback(
-    (current: number, slotCount: number): number => {
-      const jitter = 1 + Math.floor(Math.random() * 3)
-      let candidate = (current + jitter) % slotCount
-      // Skip focused slot
-      if (focusedSlotRef.current === candidate) {
-        candidate = (candidate + 1) % slotCount
-      }
-      return candidate
-    },
-    []
-  )
+  const pickNextSlot = useCallback((current: number, slotCount: number): number => {
+    const jitter = 1 + Math.floor(Math.random() * 3)
+    let candidate = (current + jitter) % slotCount
+    // Skip focused slot
+    if (focusedSlotRef.current === candidate) {
+      candidate = (candidate + 1) % slotCount
+    }
+    return candidate
+  }, [])
 
   const doFlip = useCallback(() => {
     if (queueRef.current.length === 0) return
@@ -166,8 +169,7 @@ export function FlippingCardGrid({ initialRepos, pool }: FlippingCardGridProps) 
         return
       }
 
-      const elapsed =
-        elapsedBeforePauseRef.current + (now - timerStartRef.current)
+      const elapsed = elapsedBeforePauseRef.current + (now - timerStartRef.current)
       const pct = Math.min((elapsed / FLIP_INTERVAL) * 100, 100)
       setProgress(pct)
 
@@ -202,8 +204,7 @@ export function FlippingCardGrid({ initialRepos, pool }: FlippingCardGridProps) 
           timerStartRef.current = performance.now()
         } else if (!entry!.isIntersecting && wasVisible) {
           // Pausing — accumulate elapsed
-          elapsedBeforePauseRef.current +=
-            performance.now() - timerStartRef.current
+          elapsedBeforePauseRef.current += performance.now() - timerStartRef.current
         }
       },
       { threshold: 0.1 }
@@ -215,8 +216,7 @@ export function FlippingCardGrid({ initialRepos, pool }: FlippingCardGridProps) 
   // Hover pause handlers
   const onMouseEnter = useCallback(() => {
     pausedRef.current = true
-    elapsedBeforePauseRef.current +=
-      performance.now() - timerStartRef.current
+    elapsedBeforePauseRef.current += performance.now() - timerStartRef.current
   }, [])
 
   const onMouseLeave = useCallback(() => {
@@ -247,12 +247,7 @@ export function FlippingCardGrid({ initialRepos, pool }: FlippingCardGridProps) 
   return (
     <>
       <div aria-live="polite" className="sr-only" ref={announceRef} />
-      <div
-        ref={containerRef}
-        className="flip-card-grid grid gap-4 sm:grid-cols-2 lg:grid-cols-3"
-
-
-      >
+      <div ref={containerRef} className="flip-card-grid grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {slots.map((repo, idx) => {
           const isFlipping = idx === flippingSlot
           const isNext = !exhausted && idx === nextSlot && flipPhase === 'idle'
@@ -267,7 +262,7 @@ export function FlippingCardGrid({ initialRepos, pool }: FlippingCardGridProps) 
               href={repo.html_url}
               target="_blank"
               rel="noopener noreferrer"
-              className={`group hover:border-primary-300 dark:hover:border-primary-700 dark:hover:shadow-primary-950/20 relative overflow-hidden rounded-xl border border-gray-200 bg-white break-words transition-all hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800 dark:bg-gray-900/50 flip-card-slot ${animClass} ${isFlipping && flipPhase !== 'idle' ? 'pointer-events-none' : ''}`}
+              className={`group hover:border-primary-300 dark:hover:border-primary-700 dark:hover:shadow-primary-950/20 flip-card-slot relative overflow-hidden rounded-xl border border-gray-200 bg-white break-words transition-all hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800 dark:bg-gray-900/50 ${animClass} ${isFlipping && flipPhase !== 'idle' ? 'pointer-events-none' : ''}`}
               onFocus={() => onSlotFocus(idx)}
               onBlur={onSlotBlur}
             >

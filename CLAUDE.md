@@ -21,6 +21,7 @@ Package manager is **yarn 3.6.1** (Yarn PnP). Do not use npm or pnpm.
 app/              Next.js App Router pages
   work/           Career timeline, stats, skills
   open-source/    OSS projects (bud.js, Roots ecosystem)
+  cycling/        Strava cycling stats dashboard
   blog/           Writing index + [slug] posts
   about/          Author bio (renders data/authors/default.mdx)
   feed.xml/       RSS route handler (main feed)
@@ -30,6 +31,8 @@ components/       React components
   work/           StatsRow, Timeline, TimelineItem, MissionCallout, SkillsGrid
   oss/            ProfileStats, FeaturedProjects, FeaturedProjectCard,
                   RepositoryGrid, RepositoryCard, ContributionGrid, LanguageBreakdown
+  cycling/        CyclingStats, YearInReview, WeeklyMileageChart,
+                  RecentRides, RideTypeBreakdown, PerformanceMetrics
   Pre.tsx         Code block with copy button (client component)
   TOCInline.tsx   Table of contents from heading data
   WaveBackground.tsx  Animated SVG wave background (client component)
@@ -38,6 +41,7 @@ lib/              Shared utilities and API clients
   content.ts      Content data layer — reads MDX, parses frontmatter, computes metadata
   mdx.tsx         MDXContent component wrapping next-mdx-remote/rsc with plugins
   github.ts       GitHub API client (REST + GraphQL), types, data transforms
+  strava.ts       Strava API client, types, computation, orchestrator
   format-date.ts  Intl.DateTimeFormat wrapper
   html-escaper.ts HTML entity escaping for RSS
   remark-code-title.ts  Adds title div above fenced code blocks
@@ -112,6 +116,24 @@ The `/open-source` page is fully API-driven from live GitHub data. Key details:
 - **Contributions**: Fetched via GitHub GraphQL API (`contributionsCollection.contributionCalendar`), provides 53 weeks of daily data.
 - **ContributionGrid**: Client component with random color palette (6 options), SVG heatmap, dynamic quartile thresholds, tooltip on hover/focus. Responsive (26 weeks on mobile, full 53 on desktop).
 - **Language colors**: Static `LANGUAGE_COLORS` map in `lib/github.ts` matching GitHub Linguist.
+
+## Strava API Integration (`lib/strava.ts`)
+
+The `/cycling` page is fully API-driven from live Strava data. Mirrors `lib/github.ts` architecture.
+
+- **Auth**: OAuth2 refresh token flow. `STRAVA_CLIENT_ID`, `STRAVA_CLIENT_SECRET`, `STRAVA_REFRESH_TOKEN` in `.env.local`. Module-level token cache avoids redundant refreshes within a request.
+- **Token refresh**: POST `https://www.strava.com/oauth/token` with `grant_type=refresh_token`. Access tokens are short-lived; the refresh token is long-lived.
+- **Caching**: All fetches use `{ next: { revalidate: 3600 } }` for 1-hour ISR (same as GitHub).
+- **Error handling**: `safeFetch<T>(fn, fallback)` wrapper — page renders with zero-value fallbacks if Strava API is down.
+- **Endpoints used**:
+  - `GET /api/v3/athlete` — profile (name, city, avatar)
+  - `GET /api/v3/athletes/{id}/stats` — all-time/YTD/recent ride totals, biggest ride/climb
+  - `GET /api/v3/athlete/activities` — paginated activity list (200 per page)
+- **Ride types**: `Ride`, `GravelRide`, `MountainBikeRide`, `VirtualRide`, `EBikeRide` — filtered via `isRide()` helper.
+- **Units**: All Strava data is metric (meters, m/s). Converted to imperial (miles, feet, mph) in computation functions.
+- **Orchestrator**: `fetchAllStravaData()` — Phase 1: token + parallel fetch (athlete, activities), Phase 2: stats (needs athlete.id), Phase 3: pure computation. Returns `StravaPageData`.
+- **Components**: `CyclingStats` (all-time grid), `YearInReview` (YTD card), `WeeklyMileageChart` (SVG bar chart, client component), `RecentRides` (ride list), `RideTypeBreakdown` (stacked bar), `PerformanceMetrics` (power + HR, conditional).
+- **Regenerating tokens**: If the refresh token expires, re-authorize via `https://www.strava.com/oauth/authorize?client_id={ID}&response_type=code&redirect_uri=http://localhost&scope=read,activity:read_all&approval_prompt=force`, then exchange the code for new tokens.
 
 ## Build Notes
 

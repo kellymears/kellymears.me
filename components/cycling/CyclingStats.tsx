@@ -1,18 +1,15 @@
-import type { ContributionStats, GitHubProfile } from '@/lib/github'
+import type { RideStats } from '@/lib/strava'
 
-interface ProfileStatsProps {
-  profile: GitHubProfile
-  contributionStats: ContributionStats
+interface CyclingStatsProps {
+  stats: RideStats
 }
 
-export function ProfileStats({ profile, contributionStats }: ProfileStatsProps) {
-  const memberSince = new Date(profile.created_at).getFullYear()
-
+export function CyclingStats({ stats }: CyclingStatsProps) {
   const items = [
-    { value: profile.public_repos.toString(), label: 'Public Repos' },
-    { value: contributionStats.totalContributions.toLocaleString(), label: 'Contributions / Year' },
-    { value: profile.followers.toString(), label: 'Followers' },
-    { value: memberSince.toString(), label: 'Member Since' },
+    { value: stats.totalMiles.toLocaleString(), label: 'Total Miles' },
+    { value: stats.totalRides.toLocaleString(), label: 'Total Rides' },
+    { value: stats.totalElevation.toLocaleString(), label: 'Elevation (ft)' },
+    { value: stats.totalHours.toLocaleString(), label: 'Ride Time (hrs)' },
   ]
 
   return (

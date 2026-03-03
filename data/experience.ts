@@ -13,7 +13,7 @@ export interface Experience {
 
 export const experience: Experience[] = [
   {
-    role: 'Senior Engineer',
+    role: 'Senior Software Engineer',
     company: 'Carrot',
     url: 'https://carrot.com',
     period: '2022–Present',
@@ -30,21 +30,31 @@ export const experience: Experience[] = [
     type: 'employment',
   },
   {
-    role: 'Lead Developer of bud.js',
+    role: 'Core Maintainer',
     company: 'Roots',
     url: 'https://roots.io',
     period: '2018–2024',
     startYear: 2018,
     endYear: 2024,
     summary:
-      'Primary maintainer and lead developer within the Roots WordPress ecosystem, building modern development tools for WordPress.',
+      'Core maintainer within the Roots organization. Building modern development tools for WordPress.',
     highlights: [
       'Created bud.js, the official build system for the Roots ecosystem — webpack, SWC, esbuild, PostCSS, and Tailwind out of the box',
       'Shipped 30+ npm packages with 854+ pull requests merged across the organization',
       'Integrated bud.js build tooling into Sage, the most popular WordPress starter theme',
       'Earned Arctic Code Vault Contributor badge for sustained open source contributions',
     ],
-    tags: ['TypeScript', 'JavaScript', 'webpack', 'SWC', 'esbuild', 'PostCSS', 'Tailwind CSS', 'PHP', 'Node.js'],
+    tags: [
+      'TypeScript',
+      'JavaScript',
+      'webpack',
+      'SWC',
+      'esbuild',
+      'PostCSS',
+      'Tailwind CSS',
+      'PHP',
+      'Node.js',
+    ],
     type: 'open-source',
   },
   {
@@ -61,7 +71,16 @@ export const experience: Experience[] = [
       'Built digital infrastructure for Twin Cities Tenants Union and other grassroots networks',
       "Developed Tiny Pixel's open source portfolio: 78+ repositories",
     ],
-    tags: ['WordPress', 'Laravel', 'React', 'TypeScript', 'PHP', 'Docker', 'Node.js', 'Tailwind CSS'],
+    tags: [
+      'WordPress',
+      'Laravel',
+      'React',
+      'TypeScript',
+      'PHP',
+      'Docker',
+      'Node.js',
+      'Tailwind CSS',
+    ],
     type: 'consulting',
   },
   {
