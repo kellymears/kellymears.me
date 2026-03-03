@@ -18,7 +18,7 @@ const work: WorkItem[] = [
   },
   {
     title: 'Roots',
-    role: 'Lead Developer',
+    role: 'Core Maintainer',
     description: 'Open source tooling for the WordPress ecosystem — build systems, starter themes, and developer infrastructure.',
     period: '2018–2024',
     href: '/open-source',
