@@ -531,15 +531,13 @@ export function RideHeatmap({ data }: RideHeatmapProps) {
   if (data.totalRides === 0) return null
 
   return (
-    <div className="relative left-1/2 aspect-[16/10] max-h-[60vh] w-screen -translate-x-1/2">
-      <div ref={containerRef} className="h-full w-full">
-        <canvas
-          ref={canvasRef}
-          role="img"
-          aria-label={`Heatmap of ${data.totalRides} cycling routes`}
-          className="block h-full w-full"
-        />
-      </div>
+    <div ref={containerRef} className="h-full w-full">
+      <canvas
+        ref={canvasRef}
+        role="img"
+        aria-label={`Heatmap of ${data.totalRides} cycling routes`}
+        className="block h-full w-full"
+      />
     </div>
   )
 }

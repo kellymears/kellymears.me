@@ -14,7 +14,7 @@ export const metadata: Metadata = genPageMetadata({
 
 export default function WorkPage() {
   return (
-    <div className="animate-fade-slide-up">
+    <div>
       <div className="py-12">
         <p className="text-primary-600 dark:text-primary-400 mb-4 text-sm font-medium tracking-widest uppercase">
           Resumé

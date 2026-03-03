@@ -28,7 +28,7 @@ export default async function OpenSourcePage() {
   } = readGitHubCache() ?? (await fetchAllGitHubData())
 
   return (
-    <div className="animate-fade-slide-up space-y-2">
+    <div className="space-y-2">
       <div className="pt-12 pb-6">
         <p className="text-primary-600 dark:text-primary-400 mb-4 text-sm font-medium tracking-widest uppercase">
           Open Source

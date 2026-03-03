@@ -1,15 +1,12 @@
-import { readFileSync } from 'fs'
-import { join } from 'path'
 import { CyclingStats } from '@/components/cycling/CyclingStats'
+import { LazyRideHeatmap } from '@/components/cycling/LazyRideHeatmap'
 import { PerformanceMetrics } from '@/components/cycling/PerformanceMetrics'
 import { RecentRides } from '@/components/cycling/RecentRides'
 import { RideAverages } from '@/components/cycling/RideAverages'
-import { RideHeatmap } from '@/components/cycling/RideHeatmap'
 import { RideTypeBreakdown } from '@/components/cycling/RideTypeBreakdown'
 import { WeeklyMileageChart } from '@/components/cycling/WeeklyMileageChart'
 import { YearInReview } from '@/components/cycling/YearInReview'
 import { readStravaCache } from '@/lib/cache'
-import type { RidesData } from '@/lib/rides'
 import { fetchAllStravaData } from '@/lib/strava'
 import { genPageMetadata } from 'app/seo'
 
@@ -31,21 +28,12 @@ export default async function CyclingPage() {
     heartRateStats,
   } = readStravaCache() ?? (await fetchAllStravaData())
 
-  let ridesData: RidesData | null = null
-  try {
-    const raw = readFileSync(join(process.cwd(), 'data/cycling/rides.json'), 'utf-8')
-    ridesData = JSON.parse(raw) as RidesData
-    if (ridesData.totalRides === 0) ridesData = null
-  } catch {
-    ridesData = null
-  }
-
   const profileUrl = athlete.username
     ? `https://www.strava.com/athletes/${athlete.username}`
     : 'https://www.strava.com'
 
   return (
-    <div className="animate-fade-slide-up space-y-2">
+    <div className="space-y-2">
       <div className="pt-12 pb-6">
         <p className="text-primary-600 dark:text-primary-400 mb-4 text-sm font-medium tracking-widest uppercase">
           Cycling
@@ -76,7 +64,7 @@ export default async function CyclingPage() {
       </div>
 
       <CyclingStats stats={rideStats} />
-      {ridesData && <RideHeatmap data={ridesData} />}
+      <LazyRideHeatmap />
       <YearInReview ytd={ytdStats} recent={recentStats} />
       <WeeklyMileageChart data={weeklyMileage} />
 

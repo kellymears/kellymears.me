@@ -5,7 +5,7 @@ import siteMetadata from '@/data/siteMetadata'
 export default function Hero() {
   return (
     <section className="flex min-h-[65vh] flex-col justify-center py-12 md:py-20">
-      <div className="animate-fade-slide-up">
+      <div>
         <p className="text-primary-600 dark:text-primary-400 mb-4 text-sm font-medium tracking-widest uppercase">
           Software Engineer
         </p>

@@ -114,7 +114,7 @@ function makeWaves(seeds: number[], li: number): WaveP[] {
   }))
 }
 
-const SEGMENTS = 64
+const SEGMENTS = 48
 const MOUSE_RADIUS = 0.25
 const MOUSE_PULL = 0.1
 const RIPPLE_AMP = 12
@@ -219,8 +219,14 @@ export function WaveBackground() {
     // ——— Draw loop ———
 
     let last = performance.now()
+    let isVisible = true
 
     const frame = (now: number) => {
+      if (!isVisible) {
+        state.raf = requestAnimationFrame(frame)
+        return
+      }
+
       const dt = Math.min((now - last) / 1000, 0.05)
       last = now
 
@@ -328,8 +334,19 @@ export function WaveBackground() {
 
     state.raf = requestAnimationFrame(frame)
 
+    // ——— Pause when off-screen ———
+
+    const io = new IntersectionObserver(
+      ([entry]) => {
+        isVisible = entry?.isIntersecting ?? true
+      },
+      { threshold: 0 }
+    )
+    io.observe(container)
+
     return () => {
       cancelAnimationFrame(state.raf)
+      io.disconnect()
       window.removeEventListener('resize', onResize)
       window.removeEventListener('mousemove', onMouse)
       window.removeEventListener('deviceorientation', onOrient)
