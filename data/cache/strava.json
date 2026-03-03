@@ -1,0 +1,372 @@
+{
+  "athlete": {
+    "id": 135151975,
+    "username": "mears_kelly",
+    "resource_state": 2,
+    "firstname": "Kelly",
+    "lastname": "Mears",
+    "bio": "°〰︎°",
+    "city": "Winston-Salem ",
+    "state": "North Carolina",
+    "country": "United States",
+    "sex": "M",
+    "premium": true,
+    "summit": true,
+    "created_at": "2024-04-13T17:53:43Z",
+    "updated_at": "2025-09-23T12:32:08Z",
+    "badge_type_id": 1,
+    "weight": 83.9146,
+    "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/135151975/30778070/5/medium.jpg",
+    "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/135151975/30778070/5/large.jpg",
+    "friend": null,
+    "follower": null
+  },
+  "rideStats": {
+    "totalMiles": 12348,
+    "totalRides": 669,
+    "totalElevation": 496938,
+    "totalHours": 889,
+    "biggestRide": 106.4,
+    "biggestClimb": 636
+  },
+  "ytdStats": {
+    "miles": 242,
+    "rides": 17,
+    "elevation": 11276,
+    "hours": 16
+  },
+  "recentStats": {
+    "miles": 105,
+    "rides": 7,
+    "elevation": 4490,
+    "hours": 7.3
+  },
+  "weeklyMileage": [
+    {
+      "weekStart": "2025-09-08",
+      "distance": 148.1,
+      "rides": 8,
+      "elevation": 3982
+    },
+    {
+      "weekStart": "2025-09-15",
+      "distance": 146.6,
+      "rides": 7,
+      "elevation": 4456
+    },
+    {
+      "weekStart": "2025-09-22",
+      "distance": 124.2,
+      "rides": 9,
+      "elevation": 4561
+    },
+    {
+      "weekStart": "2025-09-29",
+      "distance": 134.4,
+      "rides": 6,
+      "elevation": 5301
+    },
+    {
+      "weekStart": "2025-10-06",
+      "distance": 115.8,
+      "rides": 5,
+      "elevation": 3542
+    },
+    {
+      "weekStart": "2025-10-13",
+      "distance": 129.8,
+      "rides": 7,
+      "elevation": 5999
+    },
+    {
+      "weekStart": "2025-10-20",
+      "distance": 76.1,
+      "rides": 6,
+      "elevation": 2206
+    },
+    {
+      "weekStart": "2025-10-27",
+      "distance": 73.5,
+      "rides": 7,
+      "elevation": 3685
+    },
+    {
+      "weekStart": "2025-11-03",
+      "distance": 72.8,
+      "rides": 5,
+      "elevation": 2807
+    },
+    {
+      "weekStart": "2025-11-10",
+      "distance": 58.7,
+      "rides": 2,
+      "elevation": 2037
+    },
+    {
+      "weekStart": "2025-11-17",
+      "distance": 66.5,
+      "rides": 4,
+      "elevation": 2668
+    },
+    {
+      "weekStart": "2025-11-24",
+      "distance": 68.4,
+      "rides": 5,
+      "elevation": 2992
+    },
+    {
+      "weekStart": "2025-12-01",
+      "distance": 28.4,
+      "rides": 2,
+      "elevation": 1175
+    },
+    {
+      "weekStart": "2025-12-08",
+      "distance": 28.2,
+      "rides": 3,
+      "elevation": 1280
+    },
+    {
+      "weekStart": "2025-12-15",
+      "distance": 82.2,
+      "rides": 4,
+      "elevation": 3333
+    },
+    {
+      "weekStart": "2025-12-22",
+      "distance": 51.3,
+      "rides": 3,
+      "elevation": 1614
+    },
+    {
+      "weekStart": "2025-12-29",
+      "distance": 31.7,
+      "rides": 2,
+      "elevation": 797
+    },
+    {
+      "weekStart": "2026-01-05",
+      "distance": 70.1,
+      "rides": 5,
+      "elevation": 3439
+    },
+    {
+      "weekStart": "2026-01-12",
+      "distance": 15,
+      "rides": 1,
+      "elevation": 896
+    },
+    {
+      "weekStart": "2026-01-19",
+      "distance": 13,
+      "rides": 1,
+      "elevation": 873
+    },
+    {
+      "weekStart": "2026-01-26",
+      "distance": 23,
+      "rides": 2,
+      "elevation": 1089
+    },
+    {
+      "weekStart": "2026-02-02",
+      "distance": 47.4,
+      "rides": 2,
+      "elevation": 2546
+    },
+    {
+      "weekStart": "2026-02-09",
+      "distance": 17.1,
+      "rides": 2,
+      "elevation": 713
+    },
+    {
+      "weekStart": "2026-02-16",
+      "distance": 35.1,
+      "rides": 2,
+      "elevation": 977
+    },
+    {
+      "weekStart": "2026-02-23",
+      "distance": 5,
+      "rides": 1,
+      "elevation": 254
+    }
+  ],
+  "recentRides": [
+    {
+      "id": 17571772056,
+      "name": "Winston-Salem - Salem",
+      "date": "Mar 1, 2026",
+      "distance": "5.0 mi",
+      "duration": "32m",
+      "elevation": "254 ft",
+      "speed": "9.1 mph",
+      "heartrate": "114 bpm",
+      "watts": "92W",
+      "kudos": 4,
+      "prs": 0,
+      "sportType": "Ride"
+    },
+    {
+      "id": 17488876371,
+      "name": "Zwift - Pacing #1 on Neon Flats in Makuri Islands",
+      "date": "Feb 22, 2026",
+      "distance": "20.1 mi",
+      "duration": "1h 1m",
+      "elevation": "522 ft",
+      "speed": "19.7 mph",
+      "heartrate": null,
+      "watts": "173W",
+      "kudos": 7,
+      "prs": 1,
+      "sportType": "VirtualRide"
+    },
+    {
+      "id": 17467048915,
+      "name": "Plant 64 - Woodbridge",
+      "date": "Feb 20, 2026",
+      "distance": "15.0 mi",
+      "duration": "1h 10m",
+      "elevation": "455 ft",
+      "speed": "12.9 mph",
+      "heartrate": "128 bpm",
+      "watts": "141W",
+      "kudos": 7,
+      "prs": 0,
+      "sportType": "Ride"
+    },
+    {
+      "id": 17369181499,
+      "name": "Zwift - Climb Control in Watopia",
+      "date": "Feb 11, 2026",
+      "distance": "15.3 mi",
+      "duration": "1h 8m",
+      "elevation": "640 ft",
+      "speed": "13.4 mph",
+      "heartrate": null,
+      "watts": "126W",
+      "kudos": 6,
+      "prs": 1,
+      "sportType": "VirtualRide"
+    },
+    {
+      "id": 17356468614,
+      "name": "Winston-Salem",
+      "date": "Feb 10, 2026",
+      "distance": "1.9 mi",
+      "duration": "13m",
+      "elevation": "73 ft",
+      "speed": "8.5 mph",
+      "heartrate": "113 bpm",
+      "watts": "86W",
+      "kudos": 3,
+      "prs": 0,
+      "sportType": "Ride"
+    },
+    {
+      "id": 17334887059,
+      "name": "Zwift - Shisa Shakedown in Makuri Islands",
+      "date": "Feb 8, 2026",
+      "distance": "37.3 mi",
+      "duration": "2h 40m",
+      "elevation": "1,939 ft",
+      "speed": "13.9 mph",
+      "heartrate": null,
+      "watts": "112W",
+      "kudos": 9,
+      "prs": 1,
+      "sportType": "VirtualRide"
+    },
+    {
+      "id": 17266852041,
+      "name": "Zwift - Pacer Group Ride: Loop de Loop in Watopia with Miguel",
+      "date": "Feb 2, 2026",
+      "distance": "10.1 mi",
+      "duration": "32m",
+      "elevation": "607 ft",
+      "speed": "18.6 mph",
+      "heartrate": null,
+      "watts": "151W",
+      "kudos": 3,
+      "prs": 0,
+      "sportType": "VirtualRide"
+    },
+    {
+      "id": 17233649673,
+      "name": "Zwift - Richmond Rollercoaster in Richmond",
+      "date": "Jan 30, 2026",
+      "distance": "10.7 mi",
+      "duration": "41m",
+      "elevation": "558 ft",
+      "speed": "15.6 mph",
+      "heartrate": null,
+      "watts": "139W",
+      "kudos": 7,
+      "prs": 1,
+      "sportType": "VirtualRide"
+    },
+    {
+      "id": 17189148850,
+      "name": "Zwift - Ocean Lava Cliffside Loop in Watopia",
+      "date": "Jan 26, 2026",
+      "distance": "12.4 mi",
+      "duration": "44m",
+      "elevation": "531 ft",
+      "speed": "16.8 mph",
+      "heartrate": null,
+      "watts": "151W",
+      "kudos": 8,
+      "prs": 0,
+      "sportType": "VirtualRide"
+    },
+    {
+      "id": 17134469027,
+      "name": "Zwift - London 8 in London",
+      "date": "Jan 21, 2026",
+      "distance": "13.0 mi",
+      "duration": "53m",
+      "elevation": "873 ft",
+      "speed": "14.7 mph",
+      "heartrate": "137 bpm",
+      "watts": "144W",
+      "kudos": 6,
+      "prs": 2,
+      "sportType": "VirtualRide"
+    }
+  ],
+  "rideCategories": [
+    {
+      "name": "Road",
+      "sportType": "Ride",
+      "count": 502,
+      "percentage": 74.8,
+      "color": "#3178c6"
+    },
+    {
+      "name": "Virtual",
+      "sportType": "VirtualRide",
+      "count": 168,
+      "percentage": 25,
+      "color": "#9333ea"
+    },
+    {
+      "name": "Mountain",
+      "sportType": "MountainBikeRide",
+      "count": 1,
+      "percentage": 0.1,
+      "color": "#2d8b46"
+    }
+  ],
+  "powerStats": {
+    "avgWatts": 160,
+    "maxWatts": 985,
+    "totalKJ": 495396,
+    "ridesWithPower": 643
+  },
+  "heartRateStats": {
+    "avgHR": 127,
+    "maxHR": 201,
+    "ridesWithHR": 460
+  }
+}

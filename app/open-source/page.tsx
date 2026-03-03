@@ -5,6 +5,7 @@ import { LanguageBreakdown } from '@/components/oss/LanguageBreakdown'
 import { ProfileStats } from '@/components/oss/ProfileStats'
 import { RepositoryGrid } from '@/components/oss/RepositoryGrid'
 import Link from '@/components/Link'
+import { readGitHubCache } from '@/lib/cache'
 import { fetchAllGitHubData } from '@/lib/github'
 import { genPageMetadata } from 'app/seo'
 
@@ -24,7 +25,7 @@ export default async function OpenSourcePage() {
     contributionStats,
     languages,
     recentActivity,
-  } = await fetchAllGitHubData()
+  } = readGitHubCache() ?? (await fetchAllGitHubData())
 
   return (
     <div className="animate-fade-slide-up space-y-2">

@@ -8,6 +8,7 @@ import { RideHeatmap } from '@/components/cycling/RideHeatmap'
 import { RideTypeBreakdown } from '@/components/cycling/RideTypeBreakdown'
 import { WeeklyMileageChart } from '@/components/cycling/WeeklyMileageChart'
 import { YearInReview } from '@/components/cycling/YearInReview'
+import { readStravaCache } from '@/lib/cache'
 import type { RidesData } from '@/lib/rides'
 import { fetchAllStravaData } from '@/lib/strava'
 import { genPageMetadata } from 'app/seo'
@@ -28,7 +29,7 @@ export default async function CyclingPage() {
     rideCategories,
     powerStats,
     heartRateStats,
-  } = await fetchAllStravaData()
+  } = readStravaCache() ?? (await fetchAllStravaData())
 
   let ridesData: RidesData | null = null
   try {

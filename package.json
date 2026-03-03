@@ -8,7 +8,10 @@
     "serve": "next start",
     "lint": "next lint --fix",
     "format": "prettier --write .",
-    "fetch-rides": "tsx scripts/fetch-rides.ts"
+    "fetch-rides": "tsx scripts/fetch-rides.ts",
+    "fetch-strava": "tsx scripts/fetch-strava.ts",
+    "fetch-github": "tsx scripts/fetch-github.ts",
+    "fetch-data": "tsx scripts/fetch-strava.ts && tsx scripts/fetch-github.ts"
   },
   "dependencies": {
     "@headlessui/react": "2.2.9",
