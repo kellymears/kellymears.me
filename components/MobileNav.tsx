@@ -3,10 +3,17 @@
 import headerNavLinks from '@/data/headerNavLinks'
 import { Dialog, DialogPanel, Transition, TransitionChild } from '@headlessui/react'
 import { clearAllBodyScrollLocks, disableBodyScroll, enableBodyScroll } from 'body-scroll-lock'
+import clsx from 'clsx'
+import { usePathname } from 'next/navigation'
 import { Fragment, useEffect, useRef, useState } from 'react'
 import Link from './Link'
 
+function isActive(pathname: string, href: string): boolean {
+  return pathname === href || pathname.startsWith(href + '/')
+}
+
 const MobileNav = () => {
+  const pathname = usePathname()
   const [mounted, setMounted] = useState(false)
   const [navShow, setNavShow] = useState(false)
   const navRef = useRef(null)
@@ -76,16 +83,25 @@ const MobileNav = () => {
                   ref={navRef}
                   className="mt-8 flex h-full basis-0 flex-col items-start overflow-y-auto pt-2 pl-12 text-left"
                 >
-                  {headerNavLinks.map((link) => (
-                    <Link
-                      key={link.title}
-                      href={link.href}
-                      className="hover:text-primary-500 dark:hover:text-primary-400 mb-4 py-2 pr-4 text-2xl font-bold tracking-widest text-gray-900 outline outline-0 dark:text-gray-100"
-                      onClick={onToggleNav}
-                    >
-                      {link.title}
-                    </Link>
-                  ))}
+                  {headerNavLinks.map((link) => {
+                    const active = isActive(pathname, link.href)
+                    return (
+                      <Link
+                        key={link.title}
+                        href={link.href}
+                        aria-current={active ? 'page' : undefined}
+                        className={clsx(
+                          'mb-4 py-2 pr-4 text-2xl font-bold tracking-widest outline outline-0',
+                          active
+                            ? 'border-l-2 border-primary-500 pl-4 text-primary-600 dark:text-primary-400'
+                            : 'text-gray-900 hover:text-primary-500 dark:text-gray-100 dark:hover:text-primary-400'
+                        )}
+                        onClick={onToggleNav}
+                      >
+                        {link.title}
+                      </Link>
+                    )
+                  })}
                 </nav>
 
                 <button

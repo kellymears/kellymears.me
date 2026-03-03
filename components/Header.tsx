@@ -1,8 +1,8 @@
-import headerNavLinks from '@/data/headerNavLinks'
 import siteMetadata from '@/data/siteMetadata'
 import clsx from 'clsx'
 import Link from './Link'
 import MobileNav from './MobileNav'
+import NavLinks from './NavLinks'
 import ThemeSwitch from './ThemeSwitch'
 
 const Header = () => {
@@ -14,7 +14,7 @@ const Header = () => {
   )
 
   return (
-    <header className={clsx(headerClass, 'relative')}>
+    <header className={clsx(headerClass, 'relative overflow-x-clip')}>
       <div
         className="pointer-events-none absolute inset-y-0 -left-12 w-12 bg-gradient-to-l from-[oklch(0.99_0.005_75)] to-transparent dark:from-gray-950 dark:to-transparent"
         aria-hidden="true"
@@ -32,17 +32,7 @@ const Header = () => {
       </Link>
 
       <div className="flex items-center space-x-4 leading-5 sm:-mr-6 sm:space-x-6">
-        <div className="no-scrollbar hidden items-center gap-x-5 overflow-x-auto sm:flex md:max-w-96 lg:max-w-none">
-          {headerNavLinks.map((link) => (
-            <Link
-              key={link.title}
-              href={link.href}
-              className="hover:text-primary-600 dark:hover:text-primary-400 font-medium text-gray-600 transition-colors dark:text-gray-300"
-            >
-              {link.title}
-            </Link>
-          ))}
-        </div>
+        <NavLinks />
         <ThemeSwitch />
         <MobileNav />
       </div>
