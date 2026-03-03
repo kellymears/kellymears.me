@@ -80,9 +80,9 @@ export default async function CyclingPage() {
       <YearInReview ytd={ytdStats} recent={recentStats} />
       <WeeklyMileageChart data={weeklyMileage} />
 
-      <div className="grid items-start gap-x-8 md:grid-cols-3">
+      <div className="grid min-w-0 items-start gap-x-8 md:grid-cols-3">
         <RecentRides rides={recentRides} />
-        <div>
+        <div className="min-w-0">
           <RideTypeBreakdown categories={rideCategories} />
           <RideAverages stats={rideStats} weeklyMileage={weeklyMileage} />
           <PerformanceMetrics power={powerStats} heartRate={heartRateStats} />

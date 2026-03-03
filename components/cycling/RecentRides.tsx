@@ -16,7 +16,7 @@ export function RecentRides({ rides }: RecentRidesProps) {
   if (rides.length === 0) return null
 
   return (
-    <section className="animate-on-scroll py-8 md:col-span-2">
+    <section className="animate-on-scroll min-w-0 py-8 md:col-span-2">
       <h2 className="mb-6 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
         Recent Rides
       </h2>
@@ -25,7 +25,7 @@ export function RecentRides({ rides }: RecentRidesProps) {
         {rides.map((ride) => (
           <div
             key={ride.id}
-            className="hover:border-primary-200 dark:hover:border-primary-800 rounded-xl border border-gray-100 bg-gray-50/50 px-4 py-3.5 transition-colors dark:border-gray-800 dark:bg-gray-900/50"
+            className="hover:border-primary-200 dark:hover:border-primary-800 overflow-hidden rounded-xl border border-gray-100 bg-gray-50/50 px-4 py-3.5 transition-colors dark:border-gray-800 dark:bg-gray-900/50"
           >
             <div className="flex items-start justify-between gap-3">
               <div className="min-w-0 flex-1">
