@@ -1,10 +1,10 @@
+import Link from '@/components/Link'
 import { CommitTimeline } from '@/components/oss/CommitTimeline'
 import { ContributionGrid } from '@/components/oss/ContributionGrid'
 import { FeaturedProjects } from '@/components/oss/FeaturedProjects'
 import { LanguageBreakdown } from '@/components/oss/LanguageBreakdown'
 import { ProfileStats } from '@/components/oss/ProfileStats'
 import { RepositoryGrid } from '@/components/oss/RepositoryGrid'
-import Link from '@/components/Link'
 import { readGitHubCache } from '@/lib/cache'
 import { fetchAllGitHubData } from '@/lib/github'
 import { genPageMetadata } from 'app/seo'
@@ -30,9 +30,11 @@ export default async function OpenSourcePage() {
   return (
     <div className="space-y-2">
       <div className="pt-12 pb-6">
-        <p className="text-primary-600 dark:text-primary-400 mb-4 text-sm font-medium tracking-widest uppercase">
-          Open Source
-        </p>
+        <div className="mb-4 flex items-center gap-3">
+          <p className="text-primary-600 dark:text-primary-400 text-sm font-medium tracking-widest uppercase">
+            Open Source
+          </p>
+        </div>
         <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl dark:text-gray-100">
           Projects &amp; Contributions
         </h1>
@@ -54,6 +56,13 @@ export default async function OpenSourcePage() {
       <ProfileStats profile={profile} contributionStats={contributionStats} />
       <FeaturedProjects repos={featured} />
       <ContributionGrid data={contributions} stats={contributionStats} />
+
+      <div className="flex items-center gap-4 py-2" aria-hidden="true">
+        <div className="h-px flex-1 bg-gradient-to-r from-transparent via-gray-200 to-transparent dark:via-gray-800" />
+        <span className="text-primary-300 dark:text-primary-700 font-mono text-xs select-none"></span>
+        <div className="h-px flex-1 bg-gradient-to-r from-transparent via-gray-200 to-transparent dark:via-gray-800" />
+      </div>
+
       <div className="grid items-start gap-x-8 md:grid-cols-3">
         <CommitTimeline activity={recentActivity} />
         <RepositoryGrid repos={repos} pool={repoPool} className="md:col-span-2" />

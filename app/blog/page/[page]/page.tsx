@@ -30,7 +30,7 @@ const Page = async (props: { params: Promise<{ page: string }> }) => {
       posts={posts}
       initialDisplayPosts={initialDisplayPosts}
       pagination={pagination}
-      title="All Posts"
+      title="Posts & Notes"
       tagCounts={tagCounts}
     />
   )

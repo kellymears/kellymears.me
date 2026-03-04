@@ -1,16 +1,16 @@
 import {
-  Mail,
-  Github,
+  Bluesky,
   Facebook,
-  Youtube,
+  Github,
+  Instagram,
   Linkedin,
+  Mail,
+  Mastodon,
+  Medium,
+  Threads,
   Twitter,
   X,
-  Mastodon,
-  Threads,
-  Instagram,
-  Medium,
-  Bluesky,
+  Youtube,
 } from './icons'
 
 const components = {
@@ -28,7 +28,22 @@ const components = {
   bluesky: Bluesky,
 }
 
-type SocialIconProps = {
+const labels: Record<string, string> = {
+  mail: 'Send an email',
+  github: 'GitHub profile',
+  facebook: 'Facebook profile',
+  youtube: 'YouTube channel',
+  linkedin: 'LinkedIn profile',
+  twitter: 'Twitter profile',
+  x: 'X (Twitter) profile',
+  mastodon: 'Mastodon profile',
+  threads: 'Threads profile',
+  instagram: 'Instagram profile',
+  medium: 'Medium profile',
+  bluesky: 'Bluesky profile',
+}
+
+interface SocialIconProps {
   kind: keyof typeof components
   href: string | undefined
   size?: number
@@ -45,14 +60,14 @@ const SocialIcon = ({ kind, href, size = 8 }: SocialIconProps) => {
 
   return (
     <a
-      className="text-sm text-gray-500 transition hover:text-gray-600"
+      className="group/icon hover:bg-primary-50 dark:hover:bg-primary-950/30 inline-flex items-center justify-center rounded-lg p-2 text-sm text-gray-500 transition-all duration-200 hover:-translate-y-0.5 hover:text-gray-600"
       target="_blank"
       rel="noopener noreferrer"
       href={href}
+      aria-label={labels[kind] ?? kind}
     >
-      <span className="sr-only">{kind}</span>
       <SocialSvg
-        className={`hover:text-primary-500 dark:hover:text-primary-400 fill-current text-gray-700 dark:text-gray-200 h-${size} w-${size}`}
+        className={`group-hover/icon:text-primary-500 dark:group-hover/icon:text-primary-400 fill-current text-gray-600 transition-colors duration-200 dark:text-gray-300 h-${size} w-${size}`}
       />
     </a>
   )

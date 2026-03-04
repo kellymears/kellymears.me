@@ -54,6 +54,7 @@
   --animate-card-flip-out: card-flip-out 0.3s ease-in both;
   --animate-card-flip-in: card-flip-in 0.3s ease-out both;
   --animate-page-enter: page-enter 400ms ease-out both;
+  --animate-timeline-pulse: timeline-pulse 2s ease-in-out infinite;
 }
 
 @keyframes fade-in {
@@ -127,12 +128,28 @@
   }
 }
 
+@keyframes timeline-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 oklch(0.78 0.14 44 / 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 4px oklch(0.78 0.14 44 / 0);
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .flip-card-slot {
     animation: none !important;
     will-change: auto;
   }
   .animate-page-enter {
+    animation: none !important;
+  }
+  .animate-timeline-pulse {
+    animation: none !important;
+  }
+  .animate-fade-slide-up {
     animation: none !important;
   }
 }

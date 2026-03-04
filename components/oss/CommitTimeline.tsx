@@ -16,7 +16,7 @@ export function CommitTimeline({ activity }: CommitTimelineProps) {
   const hasMore = visibleGroups < activity.groups.length
 
   return (
-    <section className="animate-on-scroll py-8">
+    <section className="animate-on-scroll py-8" aria-label="Recent GitHub activity">
       <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
         Recent Activity
       </h2>
@@ -24,7 +24,7 @@ export function CommitTimeline({ activity }: CommitTimelineProps) {
         {activity.totalEvents} events in the last 90 days
       </p>
 
-      <div className="relative">
+      <div className="relative" role="list" aria-label="Activity timeline">
         {groups.map((group, i) => (
           <DateGroup key={group.date} group={group} isLast={i === groups.length - 1 && !hasMore} />
         ))}
@@ -49,11 +49,11 @@ function DateGroup({ group, isLast }: { group: ActivityGroup; isLast: boolean })
   const remaining = group.events.length - 3
 
   return (
-    <div className={`relative pl-8 ${isLast ? 'pb-0' : 'pb-8'}`}>
+    <div className={`relative pl-8 ${isLast ? 'pb-0' : 'pb-8'}`} role="listitem">
       {!isLast && (
-        <div className="absolute top-1 left-0 h-full w-px bg-gray-200 dark:bg-gray-800" />
+        <div className="absolute top-1 left-0 h-full w-px bg-gradient-to-b from-gray-300 via-gray-200 to-gray-100 dark:from-gray-700 dark:via-gray-800 dark:to-gray-900" />
       )}
-      <div className="absolute top-1.5 left-[-4px] h-2 w-2 rounded-full bg-primary-400 dark:bg-primary-500" />
+      <div className="animate-timeline-pulse bg-primary-400 dark:bg-primary-500 absolute top-1.5 left-[-4px] h-2 w-2 rounded-full" />
 
       <p className="mb-3 text-sm font-semibold text-gray-900 dark:text-gray-100">{group.label}</p>
 
@@ -77,17 +77,6 @@ function DateGroup({ group, isLast }: { group: ActivityGroup; isLast: boolean })
 }
 
 function EventRow({ event }: { event: ActivityEvent }) {
-  if (event.isPrivate) {
-    return (
-      <div className="flex items-center gap-2 text-sm">
-        <KindIcon kind={event.kind} className="text-gray-500 dark:text-gray-400" />
-        <span className="text-gray-500 dark:text-gray-400">
-          {event.message} · {event.repo}
-        </span>
-      </div>
-    )
-  }
-
   return (
     <div className="flex items-center gap-2 text-sm">
       <KindIcon kind={event.kind} className="text-gray-500 dark:text-gray-400" />

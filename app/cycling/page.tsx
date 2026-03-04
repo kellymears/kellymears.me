@@ -30,8 +30,8 @@ export default function CyclingPage() {
   const profileUrl = `https://www.strava.com/athletes/${athlete.username}`
 
   return (
-    <div className="space-y-2">
-      <div className="pt-12 pb-6">
+    <div className="space-y-0">
+      <div className="relative pt-12 pb-8">
         <p className="text-primary-600 dark:text-primary-400 mb-4 text-sm font-medium tracking-widest uppercase">
           Cycling
         </p>
@@ -65,7 +65,7 @@ export default function CyclingPage() {
       <YearInReview ytd={ytdStats} recent={recentStats} />
       <WeeklyMileageChart data={weeklyMileage} />
 
-      <div className="grid min-w-0 items-start gap-x-8 md:grid-cols-3">
+      <div className="grid min-w-0 items-start gap-x-8 pt-2 md:grid-cols-3">
         <RecentRides rides={recentRides} />
         <div className="min-w-0">
           <RideTypeBreakdown categories={rideCategories} />

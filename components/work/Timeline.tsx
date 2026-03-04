@@ -3,16 +3,16 @@ import { TimelineItem } from '@/components/work/TimelineItem'
 
 export function Timeline() {
   return (
-    <section className="py-12">
+    <section className="py-12" aria-label="Career timeline">
       <h2 className="mb-8 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
         Experience
       </h2>
 
-      <div className="relative ml-2">
-        {experience.map((item) => (
-          <TimelineItem key={`${item.company}-${item.startYear}`} item={item} />
+      <ol className="relative ml-2" aria-label="Work experience timeline">
+        {experience.map((item, index) => (
+          <TimelineItem key={`${item.company}-${item.startYear}`} item={item} index={index} />
         ))}
-      </div>
+      </ol>
     </section>
   )
 }

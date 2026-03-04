@@ -150,7 +150,7 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
                       rx={3}
                       className="fill-gray-200/40 dark:fill-gray-700/20"
                     />
-                  ),
+                  )
                 )}
                 {week.contributionDays.map((day) => {
                   const level = getLevel(day.contributionCount, quartiles)
@@ -226,8 +226,8 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
   ]
 
   return (
-    <section className="animate-on-scroll py-8">
-      <div className="rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md sm:p-8 dark:border-gray-800 dark:bg-gray-900/50 dark:shadow-gray-950/50 dark:hover:shadow-lg dark:hover:shadow-gray-950/50">
+    <section className="animate-on-scroll py-8" aria-label="GitHub contribution activity">
+      <div className="border-t-primary-400/60 dark:border-t-primary-600/40 rounded-2xl border border-t-2 border-gray-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md sm:p-8 dark:border-gray-800 dark:bg-gray-900/50 dark:shadow-gray-950/50 dark:hover:shadow-lg dark:hover:shadow-gray-950/50">
         <div className="mb-6">
           <h2 className="text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
             Contributions
@@ -239,22 +239,30 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
           {renderGrid(data.weeks.slice(-26), 'Showing last 6 months')}
         </div>
 
-        <div className="mt-3 flex items-center justify-end gap-1.5 text-xs text-gray-500 dark:text-gray-400">
+        <div
+          className="mt-3 flex items-center justify-end gap-1.5 text-xs text-gray-500 dark:text-gray-400"
+          role="legend"
+          aria-label="Contribution intensity scale from less to more"
+        >
           <span>Less</span>
           {LEVEL_BG.map((cls, i) => (
-            <span key={i} className={`inline-block h-[11px] w-[11px] rounded-sm ${cls}`} />
+            <span
+              key={i}
+              className={`inline-block h-[11px] w-[11px] rounded-sm ${cls}`}
+              aria-hidden="true"
+            />
           ))}
           <span>More</span>
         </div>
 
-        <div className="mt-6 grid grid-cols-4 gap-4 border-t border-gray-100 pt-5 dark:border-gray-800">
+        <dl className="mt-6 grid grid-cols-4 gap-4 border-t border-gray-100 pt-5 dark:border-gray-800">
           {statItems.map((item) => (
             <div key={item.label} className="text-center">
-              <p className="text-lg font-bold text-gray-900 dark:text-gray-100">{item.value}</p>
-              <p className="text-xs text-gray-500 dark:text-gray-400">{item.label}</p>
+              <dd className="text-lg font-bold text-gray-900 dark:text-gray-100">{item.value}</dd>
+              <dt className="text-xs text-gray-500 dark:text-gray-400">{item.label}</dt>
             </div>
           ))}
-        </div>
+        </dl>
       </div>
     </section>
   )

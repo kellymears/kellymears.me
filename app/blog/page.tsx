@@ -1,6 +1,7 @@
 import ListLayout from '@/layouts/ListLayoutWithTags'
-import { genPageMetadata } from 'app/seo'
 import { allCoreContent, getAllPosts, getTagCounts, sortPosts } from '@/lib/content'
+import { genPageMetadata } from 'app/seo'
+import { Metadata } from 'next'
 
 const POSTS_PER_PAGE = 5
 
@@ -21,13 +22,16 @@ const Page = async () => {
       posts={posts}
       initialDisplayPosts={initialDisplayPosts}
       pagination={pagination}
-      title="All Posts"
+      title="Posts & Notes"
       tagCounts={tagCounts}
     />
   )
 }
 
-const metadata = genPageMetadata({ title: 'Blog' })
+const metadata: Metadata = genPageMetadata({
+  title: 'Writing',
+  description: 'Thoughts on engineering, open source, and building for the web.',
+})
 
 export default Page
 export { metadata }

@@ -1,7 +1,7 @@
 'use client'
 
-import { useState } from 'react'
 import type { Experience } from '@/data/experience'
+import { useState } from 'react'
 
 const borderColorByType: Record<Experience['type'], string> = {
   employment: 'border-l-primary-500',
@@ -23,7 +23,7 @@ export function TimelineItem({ item }: TimelineItemProps) {
       <div className="absolute top-1.5 left-[-4px] h-2 w-2 rounded-full bg-gray-400 dark:bg-gray-500" />
 
       <div
-        className={`rounded-lg border border-l-4 border-gray-200 p-5 transition-all dark:border-gray-800 ${borderColorByType[item.type]}`}
+        className={`rounded-lg border border-gray-200 p-5 transition-all dark:border-gray-800 ${borderColorByType[item.type]}`}
       >
         <div className="mb-1 flex flex-wrap items-baseline justify-between gap-2">
           <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100">{item.role}</h3>
@@ -50,7 +50,7 @@ export function TimelineItem({ item }: TimelineItemProps) {
         <button
           type="button"
           onClick={() => setExpanded((prev) => !prev)}
-          className="hover:text-primary-600 dark:hover:text-primary-400 mt-3 text-xs font-medium text-gray-500 transition-colors dark:text-gray-400"
+          className="ary-600 dark:hover:text-primary-400 mt-3 cursor-pointer text-xs font-medium text-gray-500 transition-colors dark:text-gray-400"
         >
           {expanded ? 'Hide details' : 'Show details'}
         </button>
