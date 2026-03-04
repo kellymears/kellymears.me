@@ -35,33 +35,47 @@ function formatWeekLabel(weekStart: string): string {
 }
 
 export function WeeklyMileageChart({ data }: WeeklyMileageChartProps) {
-  const [activeBar, setActiveBar] = useState<number | null>(null)
   const [tooltip, setTooltip] = useState<{ x: number; y: number; text: string } | null>(null)
 
   if (data.length === 0) return null
 
-  const maxDistance = Math.max(...data.map((w) => w.distance), 1)
-  const totalDistance = data.reduce((sum, w) => sum + w.distance, 0)
-  const totalRides = data.reduce((sum, w) => sum + w.rides, 0)
-  const avgPerWeek = data.length > 0 ? Math.round((totalDistance / data.length) * 10) / 10 : 0
-  const bestWeek = Math.max(...data.map((w) => w.distance))
-
-  const renderChart = (weeks: WeeklyMileage[]) => {
+  const renderChart = (
+    weeks: WeeklyMileage[],
+    maxLabels?: number,
+    avgFontSize = 9,
+    monthFontSize = 10
+  ) => {
+    const maxDistance = Math.max(...weeks.map((w) => w.distance), 1)
+    const bestWeek = Math.max(...weeks.map((w) => w.distance))
+    const totalRides = weeks.reduce((sum, w) => sum + w.rides, 0)
+    const weekAvg =
+      weeks.length > 0
+        ? Math.round((weeks.reduce((sum, w) => sum + w.distance, 0) / weeks.length) * 10) / 10
+        : 0
     const weekCount = weeks.length
     const svgWidth = weekCount * BAR_STEP
     const svgHeight = TOP_PADDING + CHART_HEIGHT + LABEL_HEIGHT
 
-    const monthLabels: { label: string; x: number }[] = []
+    const allMonthLabels: { label: string; x: number }[] = []
     let lastMonth = -1
     for (let i = 0; i < weeks.length; i++) {
       const month = new Date(weeks[i]!.weekStart + 'T00:00:00').getMonth()
       if (month !== lastMonth) {
-        monthLabels.push({ label: MONTHS[month]!, x: i * BAR_STEP + BAR_WIDTH / 2 })
+        allMonthLabels.push({ label: MONTHS[month]!, x: i * BAR_STEP + BAR_WIDTH / 2 })
         lastMonth = month
       }
     }
 
-    const chartDescription = `Bar chart showing weekly cycling mileage over ${weeks.length} weeks. Average ${avgPerWeek} miles per week, best week ${bestWeek} miles, ${totalRides} total rides.`
+    const monthLabels =
+      maxLabels && allMonthLabels.length > maxLabels
+        ? Array.from(
+            { length: maxLabels },
+            (_, i) =>
+              allMonthLabels[Math.round((i * (allMonthLabels.length - 1)) / (maxLabels - 1))]!
+          )
+        : allMonthLabels
+
+    const chartDescription = `Bar chart showing weekly cycling mileage over ${weeks.length} weeks. Average ${weekAvg} miles per week, best week ${bestWeek} miles, ${totalRides} total rides.`
 
     return (
       <div className="relative">
@@ -75,19 +89,33 @@ export function WeeklyMileageChart({ data }: WeeklyMileageChartProps) {
           <title>{chartDescription}</title>
 
           {/* Average line */}
-          {avgPerWeek > 0 && (
-            <line
-              x1="0"
-              y1={TOP_PADDING + CHART_HEIGHT - (avgPerWeek / maxDistance) * CHART_HEIGHT}
-              x2={svgWidth}
-              y2={TOP_PADDING + CHART_HEIGHT - (avgPerWeek / maxDistance) * CHART_HEIGHT}
-              stroke="currentColor"
-              strokeWidth="0.75"
-              strokeDasharray="4 3"
-              className="text-gray-300 dark:text-gray-700"
-              aria-hidden="true"
-            />
-          )}
+          {weekAvg > 0 &&
+            (() => {
+              const avgY = TOP_PADDING + CHART_HEIGHT - (weekAvg / maxDistance) * CHART_HEIGHT
+              return (
+                <g aria-hidden="true">
+                  <line
+                    x1="0"
+                    y1={avgY}
+                    x2={svgWidth}
+                    y2={avgY}
+                    stroke="currentColor"
+                    strokeWidth="0.75"
+                    strokeDasharray="4 3"
+                    className="text-gray-300 dark:text-gray-600"
+                  />
+                  <text
+                    x={svgWidth}
+                    y={avgY - 3}
+                    textAnchor="end"
+                    className="fill-gray-400 dark:fill-gray-500"
+                    style={{ fontSize: `${avgFontSize}px` }}
+                  >
+                    avg · {weekAvg} mi
+                  </text>
+                </g>
+              )
+            })()}
 
           {monthLabels.map((m, i) => (
             <text
@@ -96,7 +124,7 @@ export function WeeklyMileageChart({ data }: WeeklyMileageChartProps) {
               y={svgHeight - 2}
               textAnchor="middle"
               className="fill-gray-500 dark:fill-gray-400"
-              style={{ fontSize: '10px' }}
+              style={{ fontSize: `${monthFontSize}px` }}
               aria-hidden="true"
             >
               {m.label}
@@ -107,88 +135,33 @@ export function WeeklyMileageChart({ data }: WeeklyMileageChartProps) {
             const barHeight = maxDistance > 0 ? (week.distance / maxDistance) * CHART_HEIGHT : 0
             const x = i * BAR_STEP
             const y = TOP_PADDING + CHART_HEIGHT - barHeight
-            const isActive = activeBar === i
-            const isBestWeek = week.distance === bestWeek && bestWeek > 0
             const label = `Week of ${formatWeekLabel(week.weekStart)}: ${week.distance} mi, ${week.rides} ride${week.rides !== 1 ? 's' : ''}, ${Math.round(week.elevation).toLocaleString()} ft`
 
             return (
-              <g key={week.weekStart}>
-                {/* Hover background highlight */}
-                {isActive && (
-                  <rect
-                    x={x - 2}
-                    y={TOP_PADDING}
-                    width={BAR_WIDTH + 4}
-                    height={CHART_HEIGHT}
-                    rx={4}
-                    className="fill-primary-50/50 dark:fill-primary-950/30"
-                    aria-hidden="true"
-                  />
-                )}
-                <rect
-                  x={x}
-                  y={y}
-                  width={BAR_WIDTH}
-                  height={Math.max(barHeight, 2)}
-                  rx={3}
-                  className={
-                    isBestWeek
-                      ? 'fill-primary-600 dark:fill-primary-400 cursor-pointer'
-                      : isActive
-                        ? 'fill-primary-500 dark:fill-primary-400 cursor-pointer'
-                        : 'fill-primary-400 dark:fill-primary-500 cursor-pointer transition-colors duration-150'
+              <rect
+                key={week.weekStart}
+                x={x}
+                y={y}
+                width={BAR_WIDTH}
+                height={Math.max(barHeight, 2)}
+                rx={3}
+                className="fill-primary-400 dark:fill-primary-500"
+                aria-label={label}
+                onMouseEnter={(e) => {
+                  const r = (e.target as SVGElement).getBoundingClientRect()
+                  const container = (e.target as SVGElement)
+                    .closest('.relative')
+                    ?.getBoundingClientRect()
+                  if (container) {
+                    setTooltip({
+                      x: r.left - container.left + r.width / 2,
+                      y: r.top - container.top - 8,
+                      text: label,
+                    })
                   }
-                  aria-label={label}
-                  tabIndex={0}
-                  role="graphics-symbol"
-                  onMouseEnter={(e) => {
-                    setActiveBar(i)
-                    const rect = (e.target as SVGElement).getBoundingClientRect()
-                    const container = (e.target as SVGElement)
-                      .closest('.relative')
-                      ?.getBoundingClientRect()
-                    if (container) {
-                      setTooltip({
-                        x: rect.left - container.left + rect.width / 2,
-                        y: rect.top - container.top - 8,
-                        text: label,
-                      })
-                    }
-                  }}
-                  onMouseLeave={() => {
-                    setActiveBar(null)
-                    setTooltip(null)
-                  }}
-                  onFocus={(e) => {
-                    setActiveBar(i)
-                    const rect = (e.target as SVGElement).getBoundingClientRect()
-                    const container = (e.target as SVGElement)
-                      .closest('.relative')
-                      ?.getBoundingClientRect()
-                    if (container) {
-                      setTooltip({
-                        x: rect.left - container.left + rect.width / 2,
-                        y: rect.top - container.top - 8,
-                        text: label,
-                      })
-                    }
-                  }}
-                  onBlur={() => {
-                    setActiveBar(null)
-                    setTooltip(null)
-                  }}
-                />
-                {/* Best week accent dot */}
-                {isBestWeek && (
-                  <circle
-                    cx={x + BAR_WIDTH / 2}
-                    cy={y - 6}
-                    r="2"
-                    className="fill-primary-600 dark:fill-primary-400"
-                    aria-hidden="true"
-                  />
-                )}
-              </g>
+                }}
+                onMouseLeave={() => setTooltip(null)}
+              />
             )
           })}
         </svg>
@@ -210,12 +183,42 @@ export function WeeklyMileageChart({ data }: WeeklyMileageChartProps) {
     )
   }
 
-  const statItems = [
-    { value: `${Math.round(totalDistance).toLocaleString()} mi`, label: 'Total' },
-    { value: `${avgPerWeek} mi`, label: 'Avg / week' },
-    { value: `${bestWeek} mi`, label: 'Best week' },
-    { value: totalRides.toString(), label: 'Rides' },
-  ]
+  const buildDateRange = (weeks: WeeklyMileage[]): string => {
+    if (weeks.length === 0) return ''
+    const fmt = (s: string) =>
+      new Date(s + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', year: 'numeric' })
+    const first = fmt(weeks[0]!.weekStart)
+    const last = fmt(weeks[weeks.length - 1]!.weekStart)
+    return first === last ? first : `${first} – ${last}`
+  }
+
+  const buildStats = (weeks: WeeklyMileage[]) => {
+    const dist = weeks.reduce((sum, w) => sum + w.distance, 0)
+    const rides = weeks.reduce((sum, w) => sum + w.rides, 0)
+    const avg = weeks.length > 0 ? Math.round((dist / weeks.length) * 10) / 10 : 0
+    const best = Math.max(...weeks.map((w) => w.distance))
+    return [
+      { value: `${Math.round(dist).toLocaleString()} mi`, label: 'Total' },
+      { value: `${avg} mi`, label: 'Avg / week' },
+      { value: `${best} mi`, label: 'Best week' },
+      { value: rides.toString(), label: 'Rides' },
+    ]
+  }
+
+  const renderStats = (weeks: WeeklyMileage[], className?: string) => (
+    <div
+      className={`mt-6 grid grid-cols-4 gap-4 border-t border-gray-100 pt-5 dark:border-gray-800 ${className ?? ''}`}
+      role="list"
+      aria-label="Weekly mileage summary"
+    >
+      {buildStats(weeks).map((item) => (
+        <div key={item.label} className="text-center" role="listitem">
+          <p className="text-lg font-bold text-gray-900 dark:text-gray-100">{item.value}</p>
+          <p className="text-xs text-gray-500 dark:text-gray-400">{item.label}</p>
+        </div>
+      ))}
+    </div>
+  )
 
   return (
     <section className="animate-on-scroll py-8" aria-label="Weekly mileage chart">
@@ -224,25 +227,22 @@ export function WeeklyMileageChart({ data }: WeeklyMileageChartProps) {
           <h2 className="text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
             Weekly Mileage
           </h2>
-          <p className="sr-only">
-            Chart showing cycling distance per week over the last {data.length} weeks
+
+          <p className="mt-1 hidden text-sm text-gray-500 md:block dark:text-gray-400">
+            {buildDateRange(data)}
+          </p>
+          <p className="mt-1 text-sm text-gray-500 md:hidden dark:text-gray-400">
+            {buildDateRange(data.slice(-13))}
           </p>
         </div>
 
-        <div className="hidden md:block">{renderChart(data)}</div>
-        <div className="md:hidden">{renderChart(data.slice(-13))}</div>
-
-        <div
-          className="mt-6 grid grid-cols-4 gap-4 border-t border-gray-100 pt-5 dark:border-gray-800"
-          role="list"
-          aria-label="Weekly mileage summary"
-        >
-          {statItems.map((item) => (
-            <div key={item.label} className="text-center" role="listitem">
-              <p className="text-lg font-bold text-gray-900 dark:text-gray-100">{item.value}</p>
-              <p className="text-xs text-gray-500 dark:text-gray-400">{item.label}</p>
-            </div>
-          ))}
+        <div className="hidden md:block">
+          {renderChart(data)}
+          {renderStats(data)}
+        </div>
+        <div className="md:hidden">
+          {renderChart(data.slice(-13), 3, 6, 7)}
+          {renderStats(data.slice(-13))}
         </div>
       </div>
     </section>

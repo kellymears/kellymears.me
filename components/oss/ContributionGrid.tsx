@@ -258,7 +258,7 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
     <section className="animate-on-scroll py-8" aria-label="GitHub contribution activity">
       <div
         ref={cardRef}
-        className="relative border-t-primary-400/60 dark:border-t-primary-600/40 rounded-2xl border border-t-2 border-gray-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md sm:p-8 dark:border-gray-800 dark:bg-gray-900/50 dark:shadow-gray-950/50 dark:hover:shadow-lg dark:hover:shadow-gray-950/50"
+        className="border-t-primary-400/60 dark:border-t-primary-600/40 relative rounded-2xl border border-t-2 border-gray-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md sm:p-8 dark:border-gray-800 dark:bg-gray-900/50 dark:shadow-gray-950/50 dark:hover:shadow-lg dark:hover:shadow-gray-950/50"
         style={{ transition: 'transform 0.15s ease-out', willChange: 'transform' }}
       >
         <div className="mb-6">
@@ -274,7 +274,7 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
 
         <div
           className="mt-3 flex items-center justify-end gap-1.5 text-xs text-gray-500 dark:text-gray-400"
-          role="legend"
+          role="group"
           aria-label="Contribution intensity scale from less to more"
         >
           <span>Less</span>

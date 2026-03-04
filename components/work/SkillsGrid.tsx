@@ -6,7 +6,7 @@ interface SkillCategory {
 const categories: SkillCategory[] = [
   {
     name: 'Languages',
-    skills: ['TypeScript', 'JavaScript', 'PHP', 'Ruby', 'HTML', 'CSS', 'SQL', 'Bash'],
+    skills: ['TypeScript', 'PHP', 'Ruby', 'HTML', 'CSS', 'SQL', 'Bash'],
   },
   {
     name: 'Frameworks & Libraries',

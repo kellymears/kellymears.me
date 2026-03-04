@@ -19,7 +19,11 @@ function resolveActiveHref(pathname: string): string | null {
   return null
 }
 
-export default function NavLinks() {
+interface NavLinksProps {
+  alwaysVisible?: boolean
+}
+
+export default function NavLinks({ alwaysVisible = false }: NavLinksProps) {
   const pathname = usePathname()
   const activeHref = resolveActiveHref(pathname)
   const containerRef = useRef<HTMLDivElement>(null)
@@ -84,7 +88,10 @@ export default function NavLinks() {
       : 'left 500ms cubic-bezier(0.34, 1.56, 0.64, 1), width 500ms cubic-bezier(0.34, 1.56, 0.64, 1), opacity 300ms ease'
 
   return (
-    <div ref={containerRef} className="relative hidden items-center gap-x-5 sm:flex">
+    <div
+      ref={containerRef}
+      className={clsx('relative items-center gap-x-5', alwaysVisible ? 'flex' : 'hidden sm:flex')}
+    >
       {pill && (
         <div
           className="bg-primary-200/60 dark:bg-primary-800/40 absolute top-1/2 -z-1 h-[calc(100%+8px)] -translate-y-1/2 rounded-full"
@@ -97,6 +104,7 @@ export default function NavLinks() {
           aria-hidden="true"
         />
       )}
+
       {headerNavLinks.map((link) => {
         const isActive = link.href === activeHref
         return (

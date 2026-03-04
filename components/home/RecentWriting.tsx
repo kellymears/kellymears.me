@@ -25,7 +25,7 @@ export default function RecentWriting({ posts }: Props) {
           <span className="sr-only">blog posts</span>
         </Link>
       </div>
-      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {posts.slice(0, 3).map((post, i) => {
           const { slug, date, title, summary, tags } = post
           return (
