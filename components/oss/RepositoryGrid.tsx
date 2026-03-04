@@ -11,7 +11,10 @@ export function RepositoryGrid({ repos, pool, className }: RepositoryGridProps) 
   if (repos.length === 0) return null
 
   return (
-    <section className={`animate-on-scroll py-8 ${className ?? ''}`}>
+    <section
+      className={`animate-on-scroll py-8 ${className ?? ''}`}
+      aria-label="Repository collection"
+    >
       <h2 className="mb-6 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
         Repositories
       </h2>
