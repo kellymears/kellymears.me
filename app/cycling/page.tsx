@@ -6,8 +6,7 @@ import { RideAverages } from '@/components/cycling/RideAverages'
 import { RideTypeBreakdown } from '@/components/cycling/RideTypeBreakdown'
 import { WeeklyMileageChart } from '@/components/cycling/WeeklyMileageChart'
 import { YearInReview } from '@/components/cycling/YearInReview'
-import { readStravaCache } from '@/lib/cache'
-import { fetchAllStravaData } from '@/lib/strava'
+import { getCyclingPageData } from '@/lib/cycling'
 import { genPageMetadata } from 'app/seo'
 
 export const metadata = genPageMetadata({
@@ -15,7 +14,7 @@ export const metadata = genPageMetadata({
   description: 'Live cycling stats, weekly mileage, recent rides, and performance metrics.',
 })
 
-export default async function CyclingPage() {
+export default function CyclingPage() {
   const {
     athlete,
     rideStats,
@@ -26,11 +25,9 @@ export default async function CyclingPage() {
     rideCategories,
     powerStats,
     heartRateStats,
-  } = readStravaCache() ?? (await fetchAllStravaData())
+  } = getCyclingPageData()
 
-  const profileUrl = athlete.username
-    ? `https://www.strava.com/athletes/${athlete.username}`
-    : 'https://www.strava.com'
+  const profileUrl = `https://www.strava.com/athletes/${athlete.username}`
 
   return (
     <div className="space-y-2">

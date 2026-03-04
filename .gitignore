@@ -50,4 +50,13 @@ yarn-error.log*
 .netlify
 
 # Generated ride data (PII — GPS coordinates)
-data/cycling/rides.json
+public/static/data/rides.json
+
+# Sync log
+.sync-rides.log
+
+# Claude Code
+.claude/
+
+# Playwright CLI
+.playwright-cli/

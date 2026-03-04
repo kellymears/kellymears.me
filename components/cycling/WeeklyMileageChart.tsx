@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import type { WeeklyMileage } from '@/lib/strava'
+import type { WeeklyMileage } from '@/lib/cycling'
 
 interface WeeklyMileageChartProps {
   data: WeeklyMileage[]

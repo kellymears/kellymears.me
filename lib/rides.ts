@@ -6,7 +6,7 @@ export interface RideBounds {
 }
 
 export interface RideRoute {
-  id: number
+  id: string | number
   sportType: string
   date: string
   coordinates: [number, number][] // [lat, lng]

@@ -1,4 +1,4 @@
-import type { PowerStats, HeartRateStats } from '@/lib/strava'
+import type { PowerStats, HeartRateStats } from '@/lib/cycling'
 
 interface PerformanceMetricsProps {
   power: PowerStats | null

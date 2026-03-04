@@ -1,5 +1,5 @@
 import { config } from 'dotenv'
-import { writeFileSync, mkdirSync } from 'fs'
+import { mkdirSync, writeFileSync } from 'fs'
 import { join } from 'path'
 import { fetchAllGitHubData } from '../lib/github'
 

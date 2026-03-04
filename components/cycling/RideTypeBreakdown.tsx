@@ -1,4 +1,4 @@
-import type { RideCategory } from '@/lib/strava'
+import type { RideCategory } from '@/lib/cycling'
 
 interface RideTypeBreakdownProps {
   categories: RideCategory[]

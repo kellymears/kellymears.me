@@ -1,4 +1,4 @@
-import type { RideStats } from '@/lib/strava'
+import type { RideStats } from '@/lib/cycling'
 
 interface CyclingStatsProps {
   stats: RideStats

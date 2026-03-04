@@ -1,4 +1,4 @@
-import type { YTDStats, RecentStats } from '@/lib/strava'
+import type { YTDStats, RecentStats } from '@/lib/cycling'
 
 interface YearInReviewProps {
   ytd: YTDStats

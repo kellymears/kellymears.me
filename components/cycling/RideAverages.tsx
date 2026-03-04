@@ -1,4 +1,4 @@
-import type { RideStats, WeeklyMileage } from '@/lib/strava'
+import type { RideStats, WeeklyMileage } from '@/lib/cycling'
 
 interface RideAveragesProps {
   stats: RideStats

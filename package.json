@@ -8,14 +8,12 @@
     "serve": "next start",
     "lint": "next lint --fix",
     "format": "prettier --write .",
-    "fetch-rides": "tsx scripts/fetch-rides.ts",
-    "fetch-strava": "tsx scripts/fetch-strava.ts",
+    "import:rides": "tsx scripts/import-rides.ts",
     "fetch-github": "tsx scripts/fetch-github.ts",
-    "fetch-data": "tsx scripts/fetch-strava.ts && tsx scripts/fetch-github.ts"
+    "fetch-data": "tsx scripts/import-rides.ts && tsx scripts/fetch-github.ts"
   },
   "dependencies": {
     "@headlessui/react": "2.2.9",
-    "@mapbox/polyline": "^1.2.1",
     "@tailwindcss/postcss": "^4.0.5",
     "@tailwindcss/typography": "^0.5.15",
     "body-scroll-lock": "^4.0.0-beta.0",
@@ -46,7 +44,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
     "@eslint/js": "^9.16.0",
-    "@types/mapbox__polyline": "^1.0.5",
+    "@garmin/fitsdk": "^21.195.0",
     "@types/mdx": "^2.0.12",
     "@types/node": "25.3.3",
     "@types/react": "^19.0.8",
