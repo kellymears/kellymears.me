@@ -44,47 +44,62 @@ export function RideAverages({ stats, weeklyMileage }: RideAveragesProps) {
   ]
 
   return (
-    <section className="animate-on-scroll py-8">
+    <section className="animate-on-scroll py-8" aria-label="Ride averages and records">
       <h2 className="mb-6 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
         Averages
       </h2>
 
       <div className="space-y-4">
-        {averages.map((item) => (
-          <div key={item.label} className="flex items-baseline justify-between gap-2">
-            <span className="text-sm text-gray-500 dark:text-gray-400">{item.label}</span>
-            <span className="text-sm font-semibold text-gray-900 dark:text-gray-100">
-              {item.value}
-            </span>
-          </div>
-        ))}
+        <dl>
+          {averages.map((item) => (
+            <div
+              key={item.label}
+              className="flex items-baseline justify-between gap-2 py-1 transition-colors duration-150 hover:text-gray-900 dark:hover:text-gray-100"
+            >
+              <dt className="text-sm text-gray-500 dark:text-gray-400">{item.label}</dt>
+              <dd className="text-sm font-semibold text-gray-900 dark:text-gray-100">
+                {item.value}
+              </dd>
+            </div>
+          ))}
+        </dl>
 
         <div className="border-t border-gray-100 pt-4 dark:border-gray-800">
           <p className="mb-3 text-xs font-medium tracking-widest text-gray-400 uppercase dark:text-gray-500">
             Records
           </p>
-          {records.map((item) => (
-            <div key={item.label} className="flex items-baseline justify-between gap-2 py-1">
-              <span className="text-sm text-gray-500 dark:text-gray-400">{item.label}</span>
-              <span className="from-primary-500 to-primary-700 dark:from-primary-400 dark:to-primary-600 bg-gradient-to-br bg-clip-text text-sm font-bold text-transparent">
-                {item.value}
-              </span>
-            </div>
-          ))}
+          <dl>
+            {records.map((item) => (
+              <div
+                key={item.label}
+                className="flex items-baseline justify-between gap-2 py-1 transition-colors duration-150"
+              >
+                <dt className="text-sm text-gray-500 dark:text-gray-400">{item.label}</dt>
+                <dd className="from-primary-500 to-primary-700 dark:from-primary-400 dark:to-primary-600 bg-gradient-to-br bg-clip-text text-sm font-bold text-transparent">
+                  {item.value}
+                </dd>
+              </div>
+            ))}
+          </dl>
         </div>
 
         <div className="border-t border-gray-100 pt-4 dark:border-gray-800">
           <p className="mb-3 text-xs font-medium tracking-widest text-gray-400 uppercase dark:text-gray-500">
             Weekly
           </p>
-          {weekly.map((item) => (
-            <div key={item.label} className="flex items-baseline justify-between gap-2 py-1">
-              <span className="text-sm text-gray-500 dark:text-gray-400">{item.label}</span>
-              <span className="text-sm font-semibold text-gray-900 dark:text-gray-100">
-                {item.value}
-              </span>
-            </div>
-          ))}
+          <dl>
+            {weekly.map((item) => (
+              <div
+                key={item.label}
+                className="flex items-baseline justify-between gap-2 py-1 transition-colors duration-150"
+              >
+                <dt className="text-sm text-gray-500 dark:text-gray-400">{item.label}</dt>
+                <dd className="text-sm font-semibold text-gray-900 dark:text-gray-100">
+                  {item.value}
+                </dd>
+              </div>
+            ))}
+          </dl>
         </div>
       </div>
     </section>

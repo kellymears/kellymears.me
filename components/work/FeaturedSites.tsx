@@ -3,19 +3,23 @@ import { featuredSites } from '@/data/projects'
 
 export function FeaturedSites() {
   return (
-    <section className="border-t border-gray-200 py-12 dark:border-gray-800">
+    <section
+      className="border-t border-gray-200 py-12 dark:border-gray-800"
+      aria-label="Featured projects"
+    >
       <h2 className="mb-8 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
         Featured Projects
       </h2>
 
       <div className="grid gap-6 sm:grid-cols-2">
-        {featuredSites.map((site) => (
+        {featuredSites.map((site, index) => (
           <a
             key={site.title}
             href={site.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="group hover:border-primary-300 dark:hover:border-primary-700 overflow-hidden rounded-xl border border-gray-200 transition-all hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800"
+            className="animate-on-scroll group hover:border-primary-300 dark:hover:border-primary-700 overflow-hidden rounded-xl border border-gray-200 transition-all hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800"
+            style={{ animationDelay: `${index * 100}ms` }}
           >
             <div className="relative aspect-[16/9] overflow-hidden bg-gray-100 dark:bg-gray-800">
               <Image
@@ -28,8 +32,9 @@ export function FeaturedSites() {
             </div>
             <div className="p-5">
               <div className="mb-1 flex items-baseline justify-between">
-                <h3 className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-lg font-semibold text-gray-900 dark:text-gray-100">
+                <h3 className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-lg font-semibold text-gray-900 transition-colors dark:text-gray-100">
                   {site.title}
+                  <span className="sr-only"> (opens in new tab)</span>
                 </h3>
                 <span className="text-xs text-gray-500 dark:text-gray-400">{site.context}</span>
               </div>

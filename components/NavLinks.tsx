@@ -87,7 +87,7 @@ export default function NavLinks() {
     <div ref={containerRef} className="relative hidden items-center gap-x-5 sm:flex">
       {pill && (
         <div
-          className="-z-1 absolute top-1/2 h-[calc(100%+8px)] -translate-y-1/2 rounded-full bg-primary-200/60 dark:bg-primary-800/40"
+          className="bg-primary-200/60 dark:bg-primary-800/40 absolute top-1/2 -z-1 h-[calc(100%+8px)] -translate-y-1/2 rounded-full"
           style={{
             left: pill.left - 10,
             width: pill.width + 20,
@@ -109,7 +109,7 @@ export default function NavLinks() {
               'relative font-medium transition-colors duration-500',
               isActive
                 ? 'text-gray-900 dark:text-gray-100'
-                : 'text-gray-600 hover:text-primary-600 dark:text-gray-300 dark:hover:text-primary-400'
+                : 'hover:text-primary-600 dark:hover:text-primary-400 text-gray-600 dark:text-gray-300'
             )}
           >
             {link.title}

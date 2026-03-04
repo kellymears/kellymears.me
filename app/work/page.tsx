@@ -14,10 +14,10 @@ export const metadata: Metadata = genPageMetadata({
 
 export default function WorkPage() {
   return (
-    <div>
-      <div className="py-12">
+    <div className="animate-page-enter">
+      <header className="py-12">
         <p className="text-primary-600 dark:text-primary-400 mb-4 text-sm font-medium tracking-widest uppercase">
-          Resumé
+          Resume
         </p>
         <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl dark:text-gray-100">
           Experience &amp; Skills
@@ -27,7 +27,7 @@ export default function WorkPage() {
           A decade+ building web platforms, open source tools, and digital infrastructure for
           organizations working to make a difference.
         </p>
-      </div>
+      </header>
 
       <StatsRow />
       <Timeline />

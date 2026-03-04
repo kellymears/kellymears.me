@@ -34,8 +34,16 @@ export function LazyRideHeatmap() {
     <div
       className="relative left-1/2 aspect-[16/10] max-h-[60vh] w-screen -translate-x-1/2 transition-opacity duration-700 ease-out"
       style={{ opacity: visible ? 1 : 0 }}
+      role="region"
+      aria-label="Ride route heatmap"
     >
       {data && <RideHeatmap data={data} />}
+      {data && (
+        <p className="sr-only">
+          Interactive heatmap showing {data.totalRides} cycling routes in the Winston-Salem area.
+          Routes are rendered as colored lines on a map with geographic labels.
+        </p>
+      )}
     </div>
   )
 }
