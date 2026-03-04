@@ -69,6 +69,7 @@ css/tailwind.css  Theme tokens, color palette, animations, prose overrides
 Replaces contentlayer2. Reads MDX files from `data/`, parses frontmatter via `gray-matter`, computes slug/path/readingTime/toc/structuredData.
 
 Key exports:
+
 - `getAllPosts()` / `getPostBySlug(slug)` — blog posts (async, module-level cached)
 - `getAllAuthors()` / `getAuthorBySlug(slug)` — author profiles
 - `sortPosts(posts)` — sort by date descending
