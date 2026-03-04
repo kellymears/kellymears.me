@@ -237,6 +237,22 @@ export function RideHeatmap({ data }: RideHeatmapProps) {
       driftY = 0.5 + Math.sin(time * 0.56) * 0.3
     }
 
+    // Device orientation (mobile tilt control)
+    let orientTargetX = 0.5
+    let orientTargetY = 0.5
+    let orientX = 0.5
+    let orientY = 0.5
+    let hasOrientation = false
+
+    const onOrient = (e: DeviceOrientationEvent) => {
+      if (e.gamma != null && e.beta != null) {
+        hasOrientation = true
+        orientTargetX = 0.5 + (e.gamma / 90) * 0.4
+        orientTargetY = 0.5 + ((e.beta - 45) / 90) * 0.3
+      }
+    }
+    window.addEventListener('deviceorientation', onOrient, { passive: true })
+
     // Gaussian radius for proximity influence
     const PROXIMITY_RADIUS = 0.22
     const PROXIMITY_INV = 1 / (2 * PROXIMITY_RADIUS * PROXIMITY_RADIUS)
@@ -257,8 +273,11 @@ export function RideHeatmap({ data }: RideHeatmapProps) {
         let extraShift = 0
         let alpha = baseAlpha
         if (centroids[i]) {
-          const dy = centroids[i]![1] - driftY
-          const proximity = Math.exp(-(dy * dy) * PROXIMITY_INV)
+          const fx = hasOrientation ? orientX : 0.5
+          const fy = hasOrientation ? orientY : driftY
+          const dx = centroids[i]![0] - fx
+          const dy = centroids[i]![1] - fy
+          const proximity = Math.exp(-(dx * dx + dy * dy) * PROXIMITY_INV)
           extraShift = proximity * 0.3
           alpha = baseAlpha + proximity * 0.04
         }
@@ -513,6 +532,8 @@ export function RideHeatmap({ data }: RideHeatmapProps) {
         lastTime = now
         shimmerTime += dt
         stepDrift(shimmerTime)
+        orientX += (orientTargetX - orientX) * 0.1
+        orientY += (orientTargetY - orientY) * 0.1
         currentColorShift = shimmerTime * 0.06
         drawAll(currentColorShift)
         rafRef.current = requestAnimationFrame(tick)
@@ -523,6 +544,7 @@ export function RideHeatmap({ data }: RideHeatmapProps) {
     return () => {
       cancelAnimationFrame(rafRef.current)
       window.removeEventListener('resize', onResize)
+      window.removeEventListener('deviceorientation', onOrient)
       obs.disconnect()
       clearTimeout(resizeTimer)
     }

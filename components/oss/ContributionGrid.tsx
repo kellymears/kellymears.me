@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import type { ContributionData, ContributionStats } from '@/lib/github'
 
 interface ContributionGridProps {
@@ -77,6 +77,35 @@ function formatDate(dateStr: string): string {
 
 export function ContributionGrid({ data, stats }: ContributionGridProps) {
   const [tooltip, setTooltip] = useState<{ x: number; y: number; text: string } | null>(null)
+  const cardRef = useRef<HTMLDivElement>(null)
+  const sheenRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    const card = cardRef.current
+    const sheen = sheenRef.current
+    if (!card) return
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+
+    const onOrient = (e: DeviceOrientationEvent) => {
+      if (e.gamma == null || e.beta == null) return
+      const ry = (e.gamma / 90) * 4
+      const rx = ((e.beta - 45) / 90) * 3
+
+      card.style.transform = `perspective(800px) rotateX(${-rx}deg) rotateY(${ry}deg)`
+
+      if (sheen) {
+        const x = 50 + (e.gamma / 90) * 40
+        const y = 50 + ((e.beta - 45) / 90) * 30
+        sheen.style.background = `radial-gradient(ellipse at ${x}% ${y}%, hsla(40, 80%, 70%, 0.12) 0%, transparent 60%)`
+      }
+    }
+
+    window.addEventListener('deviceorientation', onOrient, { passive: true })
+    return () => {
+      window.removeEventListener('deviceorientation', onOrient)
+      card.style.transform = ''
+    }
+  }, [])
 
   if (data.weeks.length === 0) return null
 
@@ -227,7 +256,11 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
 
   return (
     <section className="animate-on-scroll py-8" aria-label="GitHub contribution activity">
-      <div className="border-t-primary-400/60 dark:border-t-primary-600/40 rounded-2xl border border-t-2 border-gray-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md sm:p-8 dark:border-gray-800 dark:bg-gray-900/50 dark:shadow-gray-950/50 dark:hover:shadow-lg dark:hover:shadow-gray-950/50">
+      <div
+        ref={cardRef}
+        className="relative border-t-primary-400/60 dark:border-t-primary-600/40 rounded-2xl border border-t-2 border-gray-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md sm:p-8 dark:border-gray-800 dark:bg-gray-900/50 dark:shadow-gray-950/50 dark:hover:shadow-lg dark:hover:shadow-gray-950/50"
+        style={{ transition: 'transform 0.15s ease-out', willChange: 'transform' }}
+      >
         <div className="mb-6">
           <h2 className="text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
             Contributions
@@ -263,6 +296,11 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
             </div>
           ))}
         </dl>
+        <div
+          ref={sheenRef}
+          className="pointer-events-none absolute inset-0 rounded-2xl"
+          aria-hidden="true"
+        />
       </div>
     </section>
   )
