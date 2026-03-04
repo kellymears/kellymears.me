@@ -60,3 +60,6 @@ public/static/data/rides.json
 
 # Playwright CLI
 .playwright-cli/
+
+# Cache backups
+data/cache/bkup/

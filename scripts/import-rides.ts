@@ -137,7 +137,8 @@ function parseFitFile(filename: string): ParsedActivity | null {
     source,
     sportType,
     startTime,
-    name: stance: session.totalDistance ?? 0,
+    name: generateName(sportType, startTime),
+    distance: session.totalDistance ?? 0,
     movingTime: session.totalTimerTime ?? 0,
     elapsedTime: session.totalElapsedTime ?? 0,
     elevationGain: session.totalAscent ?? 0,
@@ -195,9 +196,7 @@ function dedup(activities: ParsedActivity[]): ParsedActivity[] {
 
   const dupsRemoved = activities.length - groups.length
   console.log(
-    `[import-r
-    ides] Dedup: ${activities.length} → ${groups.length} (${dupsRemoved} duplicates)`
-  
+    `[import-rides] Dedup: ${activities.length} → ${groups.length} (${dupsRemoved} duplicates)`
   )
 
   return groups.map((group) => {
@@ -213,10 +212,6 @@ function dedup(activities: ParsedActivity[]): ParsedActivity[] {
 }
 
 // --- GPS simplification (Douglas-Peucker) ---
-
-  
- 
- 
 
 function perpendicularDistance(
   point: [number, number],
@@ -284,8 +279,6 @@ function emit(activities: ParsedActivity[]) {
   const activitiesDir = join(process.cwd(), 'data', 'cycling')
   mkdirSync(activitiesDir, { recursive: true })
 
-    
-  
   const normalized = activities.map(({ gps: _gps, ...rest }) => rest)
   const activitiesPath = join(activitiesDir, 'activities.json')
   writeFileSync(activitiesPath, JSON.stringify(normalized, null, 2))
@@ -308,14 +301,9 @@ function emit(activities: ParsedActivity[]) {
       totalSimplified += simplified.length
       return {
         id: a.id,
-        sportT
-    ype: a.sportType,
-  
+        sportType: a.sportType,
         date: a.startTime,
-        coordina
-t   es: simplified,
-     
-     
+        coordinates: simplified,
       }
     })
     .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
@@ -327,9 +315,7 @@ t   es: simplified,
   const bounds =
     ridesWithGPS.length > 0
       ? computeBounds(ridesWithGPS)
-      : { minL
-    at: 0, maxLat: 0, minLng: 0, maxLng: 0 }
-  
+      : { minLat: 0, maxLat: 0, minLng: 0, maxLng: 0 }
 
   const ridesData: RidesData = {
     generatedAt: new Date().toISOString(),
@@ -357,9 +343,7 @@ function main() {
     process.exit(1)
   }
 
-  // Parse all
-     files
-  
+  // Parse all files
   console.log('[import-rides] Parsing...')
   const parsed: ParsedActivity[] = []
   let skipped = 0
@@ -373,11 +357,6 @@ function main() {
     }
   }
 
-    
-   
-      
-      
-  
   console.log(
     `[import-rides] Parsed ${parsed.length} cycling activities (skipped ${skipped} non-cycling/invalid)`
   )
@@ -385,11 +364,6 @@ function main() {
   // Dedup
   const deduped = dedup(parsed)
 
-    
-   
-      
-      
-  
   // Sort by start time descending (newest first for activities.json)
   deduped.sort((a, b) => b.startTime.localeCompare(a.startTime))
 
