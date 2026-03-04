@@ -9,8 +9,8 @@ export function Timeline() {
       </h2>
 
       <ol className="relative ml-2" aria-label="Work experience timeline">
-        {experience.map((item, index) => (
-          <TimelineItem key={`${item.company}-${item.startYear}`} item={item} index={index} />
+        {experience.map((item) => (
+          <TimelineItem key={`${item.company}-${item.startYear}`} item={item} />
         ))}
       </ol>
     </section>
