@@ -9,8 +9,8 @@
     "lint": "next lint --fix",
     "format": "prettier --write .",
     "import:rides": "tsx scripts/import-rides.ts",
-    "fetch-github": "tsx scripts/fetch-github.ts",
-    "fetch-data": "tsx scripts/import-rides.ts && tsx scripts/fetch-github.ts"
+    "import:github": "tsx scripts/import-github.ts",
+    "import:all": "tsx scripts/import-rides.ts && tsx scripts/import-github.ts"
   },
   "dependencies": {
     "@headlessui/react": "2.2.9",

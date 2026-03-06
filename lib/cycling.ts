@@ -336,7 +336,7 @@ function computeHeartRateStats(activities: NormalizedActivity[]): HeartRateStats
 let cachedData: CyclingPageData | null = null
 
 function loadActivities(): NormalizedActivity[] {
-  const filePath = join(process.cwd(), 'data', 'cycling', 'activities.json')
+  const filePath = join(process.cwd(), 'public', 'static', 'data', 'activities-metrics.json')
   try {
     const raw = readFileSync(filePath, 'utf-8')
     return JSON.parse(raw) as NormalizedActivity[]

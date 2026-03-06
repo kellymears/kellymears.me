@@ -275,21 +275,20 @@ function computeBounds(rides: { coordinates: [number, number][] }[]): RideBounds
 }
 
 function emit(activities: ParsedActivity[]) {
-  // --- activities.json (committed, no GPS) ---
-  const activitiesDir = join(process.cwd(), 'data', 'cycling')
-  mkdirSync(activitiesDir, { recursive: true })
+  // --- activities-metrics.json (activity metadata, no GPS) ---
+  const outDir = join(process.cwd(), 'public', 'static', 'data')
+  mkdirSync(outDir, { recursive: true })
 
   const normalized = activities.map(({ gps: _gps, ...rest }) => rest)
-  const activitiesPath = join(activitiesDir, 'activities.json')
-  writeFileSync(activitiesPath, JSON.stringify(normalized, null, 2))
-  const activitiesSize = (Buffer.byteLength(JSON.stringify(normalized, null, 2)) / 1024).toFixed(1)
+  const activitiesPath = join(outDir, 'activities-metrics.json')
+  const activitiesJson = JSON.stringify(normalized)
+  writeFileSync(activitiesPath, activitiesJson)
+  const activitiesSize = (Buffer.byteLength(activitiesJson) / 1024).toFixed(1)
   console.log(
     `[import-rides] Wrote ${activitiesPath} (${activitiesSize} KB, ${normalized.length} activities)`
   )
 
-  // --- rides.json (gitignored, GPS data for heatmap — served at /static/data/rides.json) ---
-  const ridesDir = join(process.cwd(), 'public', 'static', 'data')
-  mkdirSync(ridesDir, { recursive: true })
+  // --- activities-routes.json (simplified GPS tracks for heatmap) ---
   let totalOriginal = 0
   let totalSimplified = 0
 
@@ -324,9 +323,10 @@ function emit(activities: ParsedActivity[]) {
     rides: ridesWithGPS,
   }
 
-  const ridesPath = join(ridesDir, 'rides.json')
-  writeFileSync(ridesPath, JSON.stringify(ridesData))
-  const ridesSize = (Buffer.byteLength(JSON.stringify(ridesData)) / 1024 / 1024).toFixed(2)
+  const ridesPath = join(outDir, 'activities-routes.json')
+  const ridesJson = JSON.stringify(ridesData)
+  writeFileSync(ridesPath, ridesJson)
+  const ridesSize = (Buffer.byteLength(ridesJson) / 1024 / 1024).toFixed(2)
   console.log(
     `[import-rides] Wrote ${ridesPath} (${ridesSize} MB, ${ridesWithGPS.length} rides with GPS)`
   )

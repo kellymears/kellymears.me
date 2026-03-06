@@ -14,7 +14,7 @@ export function LazyRideHeatmap() {
   const [visible, setVisible] = useState(false)
 
   useEffect(() => {
-    fetch('/static/data/rides.json')
+    fetch('/static/data/activities-routes.json')
       .then((res) => (res.ok ? (res.json() as Promise<RidesData>) : null))
       .then((d) => {
         if (d && d.totalRides > 0) setData(d)

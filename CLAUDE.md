@@ -7,54 +7,25 @@ Personal site for Kelly Mears — [kellymears.me](https://kellymears.me). Built 
 ## Commands
 
 ```bash
-yarn dev          # Start dev server (Turbopack)
-yarn build        # Production build
-yarn lint         # ESLint with auto-fix
-yarn format       # Prettier (write mode)
+yarn dev            # Start dev server (Turbopack)
+yarn build          # Production build
+yarn lint           # ESLint with auto-fix
+yarn format         # Prettier (write mode)
+yarn import:rides   # Import cycling activities from RunGap FIT files
+yarn import:github  # Fetch and cache GitHub profile/repo data
+yarn import:all     # Run all import scripts sequentially
 ```
 
 Package manager is **yarn 3.6.1** (Yarn PnP). Do not use npm or pnpm.
 
-## Architecture
+## Data Sync (launchd)
 
-```
-app/              Next.js App Router pages
-  work/           Career timeline, stats, skills
-  open-source/    OSS projects (bud.js, Roots ecosystem)
-  cycling/        Strava cycling stats dashboard
-  blog/           Writing index + [slug] posts
-  about/          Author bio (renders data/authors/default.mdx)
-  feed.xml/       RSS route handler (main feed)
-  tags/[tag]/feed.xml/  Per-tag RSS route handler
-components/       React components
-  home/           Hero, SelectedWork, RecentWriting
-  work/           StatsRow, Timeline, TimelineItem, MissionCallout, SkillsGrid
-  oss/            ProfileStats, FeaturedProjects, FeaturedProjectCard,
-                  RepositoryGrid, RepositoryCard, ContributionGrid, LanguageBreakdown
-  cycling/        CyclingStats, YearInReview, WeeklyMileageChart,
-                  RecentRides, RideTypeBreakdown, PerformanceMetrics
-  Pre.tsx         Code block with copy button (client component)
-  TOCInline.tsx   Table of contents from heading data
-  WaveBackground.tsx  Animated SVG wave background (client component)
-layouts/          Page layout templates (PostLayout, AuthorLayout, ListLayoutWithTags)
-lib/              Shared utilities and API clients
-  content.ts      Content data layer — reads MDX, parses frontmatter, computes metadata
-  mdx.tsx         MDXContent component wrapping next-mdx-remote/rsc with plugins
-  github.ts       GitHub API client (REST + GraphQL), types, data transforms
-  strava.ts       Strava API client, types, computation, orchestrator
-  format-date.ts  Intl.DateTimeFormat wrapper
-  html-escaper.ts HTML entity escaping for RSS
-  remark-code-title.ts  Adds title div above fenced code blocks
-  remark-toc-headings.ts  Extracts heading data for table of contents
-data/             Content and structured data
-  blog/           MDX blog posts
-  authors/        Author MDX profiles
-  experience.ts   Career history (typed Experience[])
-  stats.ts        Key numbers (typed Stat[])
-  siteMetadata.js Site config (title, URLs, social links)
-  headerNavLinks.ts  Navigation items
-css/tailwind.css  Theme tokens, color palette, animations, prose overrides
-```
+A launchd agent runs `scripts/sync-data.sh` daily at 6 AM to import fresh data and auto-commit changes.
+
+- **Plist**: `~/Library/LaunchAgents/me.kellymears.sync-data.plist`
+- **Script**: `scripts/sync-data.sh` — runs `import:rides` + `import:github`, commits changed data files, pushes to `origin/main`
+- **Log**: `.sync-data.log` (gitignored)
+- **Manage**: `launchctl bootout gui/$(id -u) ~/Library/LaunchAgents/me.kellymears.sync-data.plist` to unload, `launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/me.kellymears.sync-data.plist` to reload
 
 ## Path Aliases
 

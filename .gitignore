@@ -50,11 +50,8 @@ yarn-error.log*
 # Local Netlify folder
 .netlify
 
-# Generated ride data (PII — GPS coordinates)
-public/static/data/rides.json
-
 # Sync log
-.sync-rides.log
+.sync-data.log
 
 # Claude Code
 .claude/
@@ -62,5 +59,3 @@ public/static/data/rides.json
 # Playwright CLI
 .playwright-cli/
 
-# Cache backups
-data/cache/bkup/
