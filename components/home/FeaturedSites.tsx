@@ -1,3 +1,4 @@
+import { Card } from '@/components/Card'
 import Link from '@/components/Link'
 import { featuredSites } from '@/data/projects'
 import Image from 'next/image'
@@ -19,12 +20,13 @@ export default function FeaturedSites() {
       </div>
       <div className="grid gap-6 sm:grid-cols-2">
         {featuredSites.map((site) => (
-          <a
+          <Card
+            as="a"
             key={site.title}
             href={site.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="group hover:shadow-primary-500/10 dark:hover:shadow-primary-500/5 overflow-hidden rounded-xl border border-gray-200 transition-all hover:-translate-y-0.5 hover:border-transparent hover:shadow-lg dark:border-gray-800 dark:hover:border-transparent"
+            className="hover:shadow-primary-500/10 dark:hover:shadow-primary-500/5 overflow-hidden hover:border-transparent hover:shadow-lg dark:hover:border-transparent"
           >
             <div className="relative aspect-[3/2] overflow-hidden bg-gray-100 dark:bg-gray-800">
               <Image
@@ -46,7 +48,7 @@ export default function FeaturedSites() {
               </h3>
               <p className="text-xs text-gray-500 dark:text-gray-400">{site.context}</p>
             </div>
-          </a>
+          </Card>
         ))}
       </div>
     </section>

@@ -1,3 +1,4 @@
+import { Card } from '@/components/Card'
 import Link from '@/components/Link'
 
 interface WorkItem {
@@ -62,10 +63,11 @@ export default function SelectedWork() {
       </div>
       <div className="grid gap-6 sm:grid-cols-2">
         {work.map((item, i) => (
-          <Link
+          <Card
+            as={Link}
             key={item.title}
             href={item.href}
-            className="group hover:border-primary-300 dark:hover:border-primary-700 rounded-xl border border-gray-200 p-6 transition-all hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800"
+            className="p-6"
             style={{ animationDelay: `${i * 75}ms` }}
           >
             <div className="mb-3 flex items-baseline justify-between">
@@ -80,7 +82,7 @@ export default function SelectedWork() {
             <p className="text-sm leading-relaxed text-gray-600 dark:text-gray-400">
               {item.description}
             </p>
-          </Link>
+          </Card>
         ))}
       </div>
     </section>

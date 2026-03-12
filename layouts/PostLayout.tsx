@@ -1,5 +1,6 @@
 import FontSizeControl from '@/components/blog/FontSizeControl'
 import ReadingProgress from '@/components/blog/ReadingProgress'
+import { Card } from '@/components/Card'
 import Link from '@/components/Link'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 import SectionContainer from '@/components/SectionContainer'
@@ -82,9 +83,11 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
           {(prev || next) && (
             <div className="grid gap-4 sm:grid-cols-2">
               {prev && prev.path ? (
-                <Link
+                <Card
+                  as={Link}
                   href={`/${prev.path}`}
-                  className="group hover:border-primary-300 dark:hover:border-primary-700 rounded-xl border border-gray-200 p-4 transition-all hover:shadow-sm dark:border-gray-800"
+                  hover={false}
+                  className="p-4 hover:shadow-sm"
                 >
                   <span className="mb-1 block text-xs font-medium text-gray-500 uppercase dark:text-gray-400">
                     &larr; Previous
@@ -92,15 +95,17 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
                   <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-sm font-semibold text-gray-900 dark:text-gray-100">
                     {prev.title}
                   </span>
-                </Link>
+                </Card>
               ) : (
                 <div />
               )}
 
               {next && next.path ? (
-                <Link
+                <Card
+                  as={Link}
                   href={`/${next.path}`}
-                  className="group hover:border-primary-300 dark:hover:border-primary-700 rounded-xl border border-gray-200 p-4 text-right transition-all hover:shadow-sm dark:border-gray-800"
+                  hover={false}
+                  className="p-4 text-right hover:shadow-sm"
                 >
                   <span className="mb-1 block text-xs font-medium text-gray-500 uppercase dark:text-gray-400">
                     Next &rarr;
@@ -108,7 +113,7 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
                   <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-sm font-semibold text-gray-900 dark:text-gray-100">
                     {next.title}
                   </span>
-                </Link>
+                </Card>
               ) : (
                 <div />
               )}

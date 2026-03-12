@@ -1,3 +1,4 @@
+import { Card } from '@/components/Card'
 import { stats } from '@/data/stats'
 
 export function StatsRow() {
@@ -5,9 +6,9 @@ export function StatsRow() {
     <section className="py-6 md:py-12" aria-label="Key statistics">
       <dl className="grid grid-cols-1 gap-6 md:grid-cols-3">
         {stats.map((stat, index) => (
-          <div
+          <Card
             key={stat.label}
-            className="group hover:border-primary-300 dark:hover:border-primary-700 rounded-xl border border-gray-200 bg-white/50 px-6 py-5 text-center transition-all hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800 dark:bg-gray-900/50"
+            className="bg-white/50 px-6 py-5 text-center dark:bg-gray-900/50"
             style={{ animationDelay: `${index * 100}ms` }}
           >
             <dt className="order-2 mt-1 text-sm font-medium text-gray-600 dark:text-gray-400">
@@ -21,7 +22,7 @@ export function StatsRow() {
                 {stat.detail}
               </dd>
             )}
-          </div>
+          </Card>
         ))}
       </dl>
     </section>

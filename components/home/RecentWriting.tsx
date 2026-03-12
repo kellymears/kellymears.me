@@ -1,3 +1,4 @@
+import { Card } from '@/components/Card'
 import Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
@@ -25,13 +26,15 @@ export default function RecentWriting({ posts }: Props) {
           <span className="sr-only">blog posts</span>
         </Link>
       </div>
+
       <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {posts.slice(0, 3).map((post, i) => {
           const { slug, date, title, summary, tags } = post
           return (
-            <article
+            <Card
+              as="article"
               key={slug}
-              className="group hover:border-primary-300 dark:hover:border-primary-700 flex flex-col rounded-xl border border-gray-200 p-6 transition-all hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800"
+              className="flex flex-col p-6"
               style={{ animationDelay: `${i * 75}ms` }}
             >
               <time dateTime={date} className="mb-2 text-sm text-gray-500 dark:text-gray-400">
@@ -43,12 +46,13 @@ export default function RecentWriting({ posts }: Props) {
               <p className="mb-4 flex-1 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
                 {summary}
               </p>
+
               <div className="flex flex-wrap gap-1" role="list" aria-label="Tags">
                 {tags.map((tag) => (
                   <Tag key={tag} text={tag} />
                 ))}
               </div>
-            </article>
+            </Card>
           )
         })}
       </div>

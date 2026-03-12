@@ -1,5 +1,6 @@
-import Image from 'next/image'
+import { Card } from '@/components/Card'
 import { featuredSites } from '@/data/projects'
+import Image from 'next/image'
 
 export function FeaturedSites() {
   return (
@@ -13,12 +14,13 @@ export function FeaturedSites() {
 
       <div className="grid gap-6 sm:grid-cols-2">
         {featuredSites.map((site, index) => (
-          <a
+          <Card
+            as="a"
             key={site.title}
             href={site.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="animate-on-scroll group hover:border-primary-300 dark:hover:border-primary-700 overflow-hidden rounded-xl border border-gray-200 transition-all hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800"
+            className="animate-on-scroll overflow-hidden"
             style={{ animationDelay: `${index * 100}ms` }}
           >
             <div className="relative aspect-[16/9] overflow-hidden bg-gray-100 dark:bg-gray-800">
@@ -52,7 +54,7 @@ export function FeaturedSites() {
                 ))}
               </div>
             </div>
-          </a>
+          </Card>
         ))}
       </div>
     </section>
