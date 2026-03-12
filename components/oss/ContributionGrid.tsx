@@ -1,7 +1,9 @@
 'use client'
 
-import { useState, useEffect, useRef } from 'react'
+import { SvgTooltip } from '@/components/SvgTooltip'
 import type { ContributionData, ContributionStats } from '@/lib/github'
+import { useSvgTooltip } from '@/lib/use-svg-tooltip'
+import { useCallback, useEffect, useMemo, useRef } from 'react'
 
 interface ContributionGridProps {
   data: ContributionData
@@ -76,7 +78,7 @@ function formatDate(dateStr: string): string {
 }
 
 export function ContributionGrid({ data, stats }: ContributionGridProps) {
-  const [tooltip, setTooltip] = useState<{ x: number; y: number; text: string } | null>(null)
+  const { tooltip, show: showTooltipAt, hide: hideTooltipAt } = useSvgTooltip()
   const cardRef = useRef<HTMLDivElement>(null)
   const sheenRef = useRef<HTMLDivElement>(null)
 
@@ -107,9 +109,60 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
     }
   }, [])
 
-  if (data.weeks.length === 0) return null
+  const quartiles = useMemo(() => computeQuartiles(data.weeks), [data.weeks])
 
-  const quartiles = computeQuartiles(data.weeks)
+  const showTooltip = useCallback(
+    (target: SVGElement) => {
+      const count = target.getAttribute('data-count')
+      const date = target.getAttribute('data-date')
+      if (!count || !date) return
+      const n = Number(count)
+      showTooltipAt(target, `${n} contribution${n !== 1 ? 's' : ''} on ${formatDate(date)}`)
+    },
+    [showTooltipAt]
+  )
+
+  const onGridMouseOver = useCallback(
+    (e: React.MouseEvent<SVGSVGElement>) => {
+      const target = e.target as SVGElement
+      if (target.tagName === 'rect' && target.hasAttribute('data-count')) {
+        showTooltip(target)
+      }
+    },
+    [showTooltip]
+  )
+
+  const onGridMouseOut = useCallback(
+    (e: React.MouseEvent<SVGSVGElement>) => {
+      const target = e.target as SVGElement
+      if (target.tagName === 'rect' && target.hasAttribute('data-count')) {
+        hideTooltipAt()
+      }
+    },
+    [hideTooltipAt]
+  )
+
+  const onGridFocus = useCallback(
+    (e: React.FocusEvent<SVGSVGElement>) => {
+      const target = e.target as SVGElement
+      if (target.tagName === 'rect' && target.hasAttribute('data-count')) {
+        showTooltip(target)
+      }
+    },
+    [showTooltip]
+  )
+
+  const onGridBlur = useCallback(
+    (e: React.FocusEvent<SVGSVGElement>) => {
+      const target = e.target as SVGElement
+      if (target.tagName === 'rect' && target.hasAttribute('data-count')) {
+        hideTooltipAt()
+      }
+    },
+    [hideTooltipAt]
+  )
+
+  if (data.weeks.length === 0) return null
 
   const renderGrid = (weeks: ContributionData['weeks'], label?: string) => {
     const weekCount = weeks.length
@@ -137,6 +190,10 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
           aria-label={`GitHub contribution grid showing ${stats.totalContributions} contributions over the past year`}
           className="w-full"
           style={{ overflow: 'visible' }}
+          onMouseOver={onGridMouseOver}
+          onMouseOut={onGridMouseOut}
+          onFocus={onGridFocus}
+          onBlur={onGridBlur}
         >
           {monthLabels.map((m, i) => (
             <text
@@ -183,49 +240,19 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
                 )}
                 {week.contributionDays.map((day) => {
                   const level = getLevel(day.contributionCount, quartiles)
-                  const x = DAY_LABEL_WIDTH + wi * CELL_STEP
-                  const y = MONTH_LABEL_HEIGHT + day.weekday * CELL_STEP
-                  const dateLabel = `${day.contributionCount} contribution${day.contributionCount !== 1 ? 's' : ''} on ${formatDate(day.date)}`
-
                   return (
                     <rect
                       key={day.date}
-                      x={x}
-                      y={y}
+                      x={DAY_LABEL_WIDTH + wi * CELL_STEP}
+                      y={MONTH_LABEL_HEIGHT + day.weekday * CELL_STEP}
                       width={CELL_SIZE}
                       height={CELL_SIZE}
                       rx={3}
                       className={`${LEVEL_FILL[level]} cursor-pointer transition-opacity outline-none hover:opacity-75`}
-                      aria-label={dateLabel}
+                      aria-label={`${day.contributionCount} contribution${day.contributionCount !== 1 ? 's' : ''} on ${formatDate(day.date)}`}
                       tabIndex={0}
-                      onMouseEnter={(e) => {
-                        const rect = (e.target as SVGElement).getBoundingClientRect()
-                        const container = (e.target as SVGElement)
-                          .closest('.relative')
-                          ?.getBoundingClientRect()
-                        if (container) {
-                          setTooltip({
-                            x: rect.left - container.left + rect.width / 2,
-                            y: rect.top - container.top - 8,
-                            text: dateLabel,
-                          })
-                        }
-                      }}
-                      onMouseLeave={() => setTooltip(null)}
-                      onFocus={(e) => {
-                        const rect = (e.target as SVGElement).getBoundingClientRect()
-                        const container = (e.target as SVGElement)
-                          .closest('.relative')
-                          ?.getBoundingClientRect()
-                        if (container) {
-                          setTooltip({
-                            x: rect.left - container.left + rect.width / 2,
-                            y: rect.top - container.top - 8,
-                            text: dateLabel,
-                          })
-                        }
-                      }}
-                      onBlur={() => setTooltip(null)}
+                      data-date={day.date}
+                      data-count={day.contributionCount}
                     />
                   )
                 })}
@@ -234,15 +261,7 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
           })}
         </svg>
 
-        {tooltip && (
-          <div
-            className="pointer-events-none absolute z-50 -translate-x-1/2 -translate-y-full rounded-lg bg-gray-900 px-3 py-1.5 text-xs font-medium whitespace-nowrap text-white shadow-lg dark:bg-gray-100 dark:text-gray-900"
-            style={{ left: tooltip.x, top: tooltip.y }}
-          >
-            {tooltip.text}
-            <div className="absolute top-full left-1/2 -translate-x-1/2 border-4 border-transparent border-t-gray-900 dark:border-t-gray-100" />
-          </div>
-        )}
+        <SvgTooltip state={tooltip} />
       </div>
     )
   }

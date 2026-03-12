@@ -1,7 +1,8 @@
 'use client'
 
+import { Card } from '@/components/Card'
+import { RepoCardContent } from '@/components/oss/RepositoryCard'
 import type { Repository } from '@/lib/github'
-import { LANGUAGE_COLORS } from '@/lib/github'
 import { useCallback, useEffect, useRef, useState } from 'react'
 
 const FLIP_INTERVAL = 5000
@@ -14,78 +15,11 @@ interface FlippingCardGridProps {
 
 type FlipPhase = 'idle' | 'out' | 'in'
 
-function CardContent({ repo }: { repo: Repository }) {
-  return (
-    <>
-      <div className="mb-2 flex items-center justify-between gap-2">
-        <h3 className="group-hover:text-primary-600 dark:group-hover:text-primary-400 min-w-0 truncate text-base leading-tight font-semibold text-gray-900 transition-colors dark:text-gray-100">
-          {repo.name}
-        </h3>
-        {repo.stargazers_count > 0 && (
-          <span className="flex shrink-0 items-center gap-1 text-xs font-medium text-gray-500 dark:text-gray-400">
-            <svg
-              width="14"
-              height="14"
-              className="shrink-0 text-amber-500"
-              fill="currentColor"
-              viewBox="0 0 20 20"
-              aria-hidden="true"
-            >
-              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-            </svg>
-            {repo.stargazers_count.toLocaleString()}
-          </span>
-        )}
-      </div>
-
-      {repo.description && (
-        <p className="line-clamp-2 text-sm leading-relaxed text-gray-500 dark:text-gray-400">
-          {repo.description}
-        </p>
-      )}
-
-      <div className="mt-auto flex items-center gap-3 text-xs text-gray-500 dark:text-gray-400">
-        {repo.language && (
-          <span className="flex items-center gap-1.5">
-            <span
-              className="inline-block h-2.5 w-2.5 shrink-0 rounded-full"
-              style={{ backgroundColor: LANGUAGE_COLORS[repo.language] ?? '#8b8b8b' }}
-              aria-hidden="true"
-            />
-            {repo.language}
-          </span>
-        )}
-        {repo.forks_count > 0 && (
-          <span className="flex items-center gap-1">
-            <svg
-              width="12"
-              height="12"
-              className="shrink-0"
-              fill="currentColor"
-              viewBox="0 0 20 20"
-              aria-hidden="true"
-            >
-              <path
-                fillRule="evenodd"
-                d="M7.707 3.293a1 1 0 010 1.414L5.414 7H11a7 7 0 017 7v2a1 1 0 11-2 0v-2a5 5 0 00-5-5H5.414l2.293 2.293a1 1 0 11-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
-                clipRule="evenodd"
-              />
-            </svg>
-            {repo.forks_count.toLocaleString()}
-          </span>
-        )}
-      </div>
-    </>
-  )
-}
-
 export function FlippingCardGrid({ initialRepos, pool }: FlippingCardGridProps) {
   const [slots, setSlots] = useState<Repository[]>(initialRepos)
   const [flippingSlot, setFlippingSlot] = useState(-1)
   const [flipPhase, setFlipPhase] = useState<FlipPhase>('idle')
   const [nextSlot, setNextSlot] = useState(0)
-  const [progress, setProgress] = useState(0)
-
   const [exhausted, setExhausted] = useState(pool.length === 0)
   const queueRef = useRef<Repository[]>([...pool])
   const nextSlotRef = useRef(nextSlot)
@@ -97,6 +31,7 @@ export function FlippingCardGrid({ initialRepos, pool }: FlippingCardGridProps) 
   const timerStartRef = useRef(0)
   const elapsedBeforePauseRef = useRef(0)
   const rafRef = useRef(0)
+  const progressBarRef = useRef<HTMLDivElement>(null)
   const reducedMotionRef = useRef(false)
 
   // Keep nextSlotRef in sync
@@ -174,14 +109,14 @@ export function FlippingCardGrid({ initialRepos, pool }: FlippingCardGridProps) 
 
       const elapsed = elapsedBeforePauseRef.current + (now - timerStartRef.current)
       const pct = Math.min((elapsed / FLIP_INTERVAL) * 100, 100)
-      setProgress(pct)
+      if (progressBarRef.current) progressBarRef.current.style.width = `${pct}%`
 
       if (elapsed >= FLIP_INTERVAL) {
         doFlip()
         // Reset timer and advance next slot
         timerStartRef.current = performance.now()
         elapsedBeforePauseRef.current = 0
-        setProgress(0)
+        if (progressBarRef.current) progressBarRef.current.style.width = '0%'
         setNextSlot((prev) => pickNextSlot(prev, slots.length))
       }
 
@@ -260,27 +195,28 @@ export function FlippingCardGrid({ initialRepos, pool }: FlippingCardGridProps) 
           else if (isFlipping && flipPhase === 'in') animClass = 'animate-card-flip-in'
 
           return (
-            <a
+            <Card
+              as="a"
               key={idx}
               href={repo.html_url}
               target="_blank"
               rel="noopener noreferrer"
-              className={`group hover:border-primary-300 dark:hover:border-primary-700 dark:hover:shadow-primary-950/20 flip-card-slot relative h-36 overflow-hidden rounded-xl border border-gray-200 bg-white break-words transition-all hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800 dark:bg-gray-900/50 ${animClass} ${isFlipping && flipPhase !== 'idle' ? 'pointer-events-none' : ''}`}
+              className={`flip-card-slot relative h-36 overflow-hidden bg-white break-words dark:bg-gray-900/50 ${animClass} ${isFlipping && flipPhase !== 'idle' ? 'pointer-events-none' : ''}`}
               onFocus={() => onSlotFocus(idx)}
               onBlur={onSlotBlur}
             >
               <div className="flex h-full flex-col px-5 pt-5 pb-3">
-                <CardContent repo={repo} />
+                <RepoCardContent repo={repo} />
               </div>
               {isNext && (
                 <div className="absolute right-0 bottom-0 left-0 h-0.5">
                   <div
-                    className="bg-primary-400/60 dark:bg-primary-600/50 h-full transition-none"
-                    style={{ width: `${progress}%` }}
+                    ref={progressBarRef}
+                    className="bg-primary-400/60 dark:bg-primary-600/50 h-full w-0 transition-none"
                   />
                 </div>
               )}
-            </a>
+            </Card>
           )
         })}
       </div>

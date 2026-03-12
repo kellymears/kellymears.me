@@ -1,3 +1,4 @@
+import { LanguageDot } from '@/components/icons'
 import type { LanguageBreakdown as LanguageBreakdownType } from '@/lib/github'
 
 interface LanguageBreakdownProps {
@@ -41,10 +42,9 @@ export function LanguageBreakdown({ languages }: LanguageBreakdownProps) {
       <div className="grid grid-cols-2 gap-x-6 gap-y-2.5 sm:grid-cols-3 md:grid-cols-4">
         {languages.map((lang) => (
           <div key={lang.name} className="group flex items-center gap-2.5">
-            <span
+            <LanguageDot
+              color={lang.color}
               className="inline-block h-3 w-3 shrink-0 rounded-full shadow-sm transition-transform duration-200 group-hover:scale-125"
-              style={{ backgroundColor: lang.color }}
-              aria-hidden="true"
             />
             <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
               {lang.name}
