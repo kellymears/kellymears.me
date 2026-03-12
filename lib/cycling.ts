@@ -5,8 +5,6 @@ const METERS_TO_MILES = 0.000621371
 const METERS_TO_FEET = 3.28084
 const MPS_TO_MPH = 2.23694
 
-// --- Types ---
-
 export interface NormalizedActivity {
   id: string
   source: string
@@ -35,14 +33,7 @@ export interface RideStats {
   biggestClimb: number
 }
 
-export interface YTDStats {
-  miles: number
-  rides: number
-  elevation: number
-  hours: number
-}
-
-export interface RecentStats {
+export interface PeriodStats {
   miles: number
   rides: number
   elevation: number
@@ -93,16 +84,14 @@ export interface HeartRateStats {
 export interface CyclingPageData {
   athlete: { firstname: string; lastname: string; username: string; city: string }
   rideStats: RideStats
-  ytdStats: YTDStats
-  recentStats: RecentStats
+  ytdStats: PeriodStats
+  recentStats: PeriodStats
   weeklyMileage: WeeklyMileage[]
   recentRides: RecentRide[]
   rideCategories: RideCategory[]
   powerStats: PowerStats | null
   heartRateStats: HeartRateStats | null
 }
-
-// --- Ride type config ---
 
 const RIDE_SPORT_TYPES = new Set([
   'Ride',
@@ -112,7 +101,7 @@ const RIDE_SPORT_TYPES = new Set([
   'EBikeRide',
 ])
 
-const RIDE_TYPE_LABELS: Record<string, string> = {
+export const RIDE_TYPE_LABELS: Record<string, string> = {
   Ride: 'Road',
   GravelRide: 'Gravel',
   MountainBikeRide: 'Mountain',
@@ -120,7 +109,22 @@ const RIDE_TYPE_LABELS: Record<string, string> = {
   EBikeRide: 'E-Bike',
 }
 
-const RIDE_TYPE_COLORS: Record<string, string> = {
+export const RIDE_TYPE_SHORT_LABELS: Record<string, string> = {
+  Ride: 'Road',
+  GravelRide: 'Gravel',
+  MountainBikeRide: 'MTB',
+  VirtualRide: 'Virtual',
+  EBikeRide: 'E-Bike',
+}
+
+export const RIDE_TYPE_ACCENT: Record<string, string> = {
+  GravelRide: 'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400',
+  MountainBikeRide: 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-400',
+  VirtualRide: 'bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-400',
+  EBikeRide: 'bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-400',
+}
+
+export const RIDE_TYPE_COLORS: Record<string, string> = {
   Ride: '#3178c6',
   GravelRide: '#8b6914',
   MountainBikeRide: '#2d8b46',
@@ -152,77 +156,57 @@ function formatDuration(seconds: number): string {
 
 function getWeekStart(dateStr: string): string {
   const date = new Date(dateStr)
-  const day = date.getDay()
+  const day = date.getUTCDay()
   const diff = day === 0 ? 6 : day - 1
-  date.setDate(date.getDate() - diff)
+  date.setUTCDate(date.getUTCDate() - diff)
   return date.toISOString().slice(0, 10)
 }
 
-// --- Pure computation ---
+function sumMetrics(rides: NormalizedActivity[]) {
+  let distance = 0
+  let time = 0
+  let elevation = 0
+  for (const a of rides) {
+    distance += a.distance
+    time += a.movingTime
+    elevation += a.elevationGain
+  }
+  return { distance, time, elevation }
+}
 
-function computeRideStats(activities: NormalizedActivity[]): RideStats {
-  const rides = activities.filter(isRide)
-
-  const totalDistance = rides.reduce((sum, a) => sum + a.distance, 0)
-  const totalTime = rides.reduce((sum, a) => sum + a.movingTime, 0)
-  const totalElev = rides.reduce((sum, a) => sum + a.elevationGain, 0)
+function computeRideStats(rides: NormalizedActivity[]): RideStats {
+  const { distance, time, elevation } = sumMetrics(rides)
 
   let biggestDist = 0
   let biggestClimb = 0
-  for (const ride of rides) {
-    if (ride.distance > biggestDist) biggestDist = ride.distance
-    if (ride.elevationGain > biggestClimb) biggestClimb = ride.elevationGain
+  for (const a of rides) {
+    if (a.distance > biggestDist) biggestDist = a.distance
+    if (a.elevationGain > biggestClimb) biggestClimb = a.elevationGain
   }
 
   return {
-    totalMiles: Math.round(totalDistance * METERS_TO_MILES),
+    totalMiles: Math.round(distance * METERS_TO_MILES),
     totalRides: rides.length,
-    totalElevation: Math.round(totalElev * METERS_TO_FEET),
-    totalHours: Math.round(totalTime / 3600),
+    totalElevation: Math.round(elevation * METERS_TO_FEET),
+    totalHours: Math.round(time / 3600),
     biggestRide: Math.round(biggestDist * METERS_TO_MILES * 10) / 10,
     biggestClimb: Math.round(biggestClimb * METERS_TO_FEET),
   }
 }
 
-function computeYTDStats(activities: NormalizedActivity[]): YTDStats {
-  const year = new Date().getFullYear()
-  const cutoff = `${year}-01-01T00:00:00`
-  const rides = activities.filter((a) => isRide(a) && a.startTime >= cutoff)
-
-  const totalDistance = rides.reduce((sum, a) => sum + a.distance, 0)
-  const totalTime = rides.reduce((sum, a) => sum + a.movingTime, 0)
-  const totalElev = rides.reduce((sum, a) => sum + a.elevationGain, 0)
+function computePeriodStats(rides: NormalizedActivity[], cutoff?: string): PeriodStats {
+  const filtered = cutoff ? rides.filter((a) => a.startTime >= cutoff) : rides
+  const { distance, time, elevation } = sumMetrics(filtered)
 
   return {
-    miles: Math.round(totalDistance * METERS_TO_MILES),
-    rides: rides.length,
-    elevation: Math.round(totalElev * METERS_TO_FEET),
-    hours: Math.round(totalTime / 3600),
+    miles: Math.round(distance * METERS_TO_MILES),
+    rides: filtered.length,
+    elevation: Math.round(elevation * METERS_TO_FEET),
+    hours: Math.round((time / 3600) * 10) / 10,
   }
 }
 
-function computeRecentStats(activities: NormalizedActivity[]): RecentStats {
-  const now = new Date()
-  const cutoff = new Date(now)
-  cutoff.setDate(cutoff.getDate() - 28)
-  const cutoffStr = cutoff.toISOString()
-
-  const rides = activities.filter((a) => isRide(a) && a.startTime >= cutoffStr)
-
-  const totalDistance = rides.reduce((sum, a) => sum + a.distance, 0)
-  const totalTime = rides.reduce((sum, a) => sum + a.movingTime, 0)
-  const totalElev = rides.reduce((sum, a) => sum + a.elevationGain, 0)
-
-  return {
-    miles: Math.round(totalDistance * METERS_TO_MILES),
-    rides: rides.length,
-    elevation: Math.round(totalElev * METERS_TO_FEET),
-    hours: Math.round((totalTime / 3600) * 10) / 10,
-  }
-}
-
-function computeWeeklyMileage(activities: NormalizedActivity[]): WeeklyMileage[] {
-  const rides = activities.filter(isRide)
+function computeWeeklyMileage(rides: NormalizedActivity[]): WeeklyMileage[] {
   const weekMap = new Map<string, WeeklyMileage>()
 
   for (const ride of rides) {
@@ -257,9 +241,8 @@ function computeWeeklyMileage(activities: NormalizedActivity[]): WeeklyMileage[]
     }))
 }
 
-function computeRecentRides(activities: NormalizedActivity[]): RecentRide[] {
-  return activities
-    .filter(isRide)
+function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
+  return [...rides]
     .sort((a, b) => b.startTime.localeCompare(a.startTime))
     .slice(0, 10)
     .map((a) => ({
@@ -280,8 +263,7 @@ function computeRecentRides(activities: NormalizedActivity[]): RecentRide[] {
     }))
 }
 
-function computeRideCategories(activities: NormalizedActivity[]): RideCategory[] {
-  const rides = activities.filter(isRide)
+function computeRideCategories(rides: NormalizedActivity[]): RideCategory[] {
   const counts = new Map<string, number>()
 
   for (const ride of rides) {
@@ -302,8 +284,8 @@ function computeRideCategories(activities: NormalizedActivity[]): RideCategory[]
     }))
 }
 
-function computePowerStats(activities: NormalizedActivity[]): PowerStats | null {
-  const ridesWithPower = activities.filter((a) => isRide(a) && a.avgPower)
+function computePowerStats(rides: NormalizedActivity[]): PowerStats | null {
+  const ridesWithPower = rides.filter((a) => a.avgPower)
   if (ridesWithPower.length < 3) return null
 
   const avgWatts = Math.round(
@@ -319,8 +301,8 @@ function computePowerStats(activities: NormalizedActivity[]): PowerStats | null 
   return { avgWatts, maxWatts, totalKJ, ridesWithPower: ridesWithPower.length }
 }
 
-function computeHeartRateStats(activities: NormalizedActivity[]): HeartRateStats | null {
-  const ridesWithHR = activities.filter((a) => isRide(a) && a.avgHeartRate)
+function computeHeartRateStats(rides: NormalizedActivity[]): HeartRateStats | null {
+  const ridesWithHR = rides.filter((a) => a.avgHeartRate)
   if (ridesWithHR.length < 3) return null
 
   const avgHR = Math.round(
@@ -350,18 +332,23 @@ function loadActivities(): NormalizedActivity[] {
 export function getCyclingPageData(): CyclingPageData {
   if (cachedData) return cachedData
 
-  const activities = loadActivities()
+  const rides = loadActivities().filter(isRide)
+
+  const now = new Date()
+  const ytdCutoff = `${now.getFullYear()}-01-01T00:00:00`
+  const recentCutoff = new Date(now)
+  recentCutoff.setDate(recentCutoff.getDate() - 28)
 
   cachedData = {
     athlete: ATHLETE,
-    rideStats: computeRideStats(activities),
-    ytdStats: computeYTDStats(activities),
-    recentStats: computeRecentStats(activities),
-    weeklyMileage: computeWeeklyMileage(activities),
-    recentRides: computeRecentRides(activities),
-    rideCategories: computeRideCategories(activities),
-    powerStats: computePowerStats(activities),
-    heartRateStats: computeHeartRateStats(activities),
+    rideStats: computeRideStats(rides),
+    ytdStats: computePeriodStats(rides, ytdCutoff),
+    recentStats: computePeriodStats(rides, recentCutoff.toISOString()),
+    weeklyMileage: computeWeeklyMileage(rides),
+    recentRides: computeRecentRides(rides),
+    rideCategories: computeRideCategories(rides),
+    powerStats: computePowerStats(rides),
+    heartRateStats: computeHeartRateStats(rides),
   }
 
   return cachedData

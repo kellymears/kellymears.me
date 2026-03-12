@@ -1,22 +1,9 @@
+import { Card } from '@/components/Card'
 import type { RecentRide } from '@/lib/cycling'
+import { RIDE_TYPE_ACCENT, RIDE_TYPE_SHORT_LABELS } from '@/lib/cycling'
 
 interface RecentRidesProps {
   rides: RecentRide[]
-}
-
-const SPORT_TYPE_LABELS: Record<string, string> = {
-  Ride: 'Road',
-  GravelRide: 'Gravel',
-  MountainBikeRide: 'MTB',
-  VirtualRide: 'Virtual',
-  EBikeRide: 'E-Bike',
-}
-
-const SPORT_TYPE_ACCENT: Record<string, string> = {
-  GravelRide: 'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400',
-  MountainBikeRide: 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-400',
-  VirtualRide: 'bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-400',
-  EBikeRide: 'bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-400',
 }
 
 export function RecentRides({ rides }: RecentRidesProps) {
@@ -30,10 +17,11 @@ export function RecentRides({ rides }: RecentRidesProps) {
 
       <div className="space-y-3" role="list">
         {rides.map((ride, i) => (
-          <div
+          <Card
+            variant="stat"
             key={ride.id}
             role="listitem"
-            className="group hover:border-primary-200 dark:hover:border-primary-800 overflow-hidden rounded-xl border border-gray-100 bg-gray-50/50 px-4 py-3.5 transition-all duration-200 hover:-translate-y-0.5 hover:shadow-sm dark:border-gray-800 dark:bg-gray-900/50 dark:hover:shadow-gray-950/50"
+            className="overflow-hidden px-4 py-3.5 duration-200 hover:shadow-sm dark:hover:shadow-gray-950/50"
             style={{ animationDelay: `${i * 50}ms` }}
           >
             <div className="min-w-0">
@@ -43,9 +31,9 @@ export function RecentRides({ rides }: RecentRidesProps) {
                 </p>
                 {ride.sportType !== 'Ride' && (
                   <span
-                    className={`shrink-0 rounded-full px-2 py-0.5 text-xs font-medium ${SPORT_TYPE_ACCENT[ride.sportType] ?? 'bg-gray-100 text-gray-600 dark:bg-gray-800 dark:text-gray-400'}`}
+                    className={`shrink-0 rounded-full px-2 py-0.5 text-xs font-medium ${RIDE_TYPE_ACCENT[ride.sportType] ?? 'bg-gray-100 text-gray-600 dark:bg-gray-800 dark:text-gray-400'}`}
                   >
-                    {SPORT_TYPE_LABELS[ride.sportType] ?? ride.sportType}
+                    {RIDE_TYPE_SHORT_LABELS[ride.sportType] ?? ride.sportType}
                   </span>
                 )}
               </div>
@@ -70,7 +58,7 @@ export function RecentRides({ rides }: RecentRidesProps) {
                 </span>
               )}
             </div>
-          </div>
+          </Card>
         ))}
       </div>
     </section>

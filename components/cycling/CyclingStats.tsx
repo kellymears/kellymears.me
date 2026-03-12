@@ -1,3 +1,4 @@
+import { Card } from '@/components/Card'
 import type { RideStats } from '@/lib/cycling'
 
 interface CyclingStatsProps {
@@ -16,10 +17,12 @@ export function CyclingStats({ stats }: CyclingStatsProps) {
     <section className="animate-on-scroll pb-4" aria-label="All-time cycling statistics">
       <div className="grid grid-cols-2 gap-4 md:grid-cols-4 md:gap-6" role="list">
         {items.map((item, i) => (
-          <div
+          <Card
+            variant="stat"
+            hover
             key={item.label}
             role="listitem"
-            className="group hover:border-primary-200 dark:hover:border-primary-800 relative overflow-hidden rounded-xl border border-gray-100 bg-gray-50/50 px-4 py-5 text-center transition-all duration-300 hover:-translate-y-0.5 hover:shadow-md dark:border-gray-800 dark:bg-gray-900/50 dark:hover:shadow-gray-950/50"
+            className="relative overflow-hidden px-4 py-5 text-center duration-300 dark:hover:shadow-gray-950/50"
             style={{ animationDelay: `${i * 80}ms` }}
           >
             {/* Warm gradient background on hover */}
@@ -38,7 +41,7 @@ export function CyclingStats({ stats }: CyclingStatsProps) {
                 {item.label}
               </p>
             </div>
-          </div>
+          </Card>
         ))}
       </div>
     </section>

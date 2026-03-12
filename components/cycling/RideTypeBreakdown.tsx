@@ -1,3 +1,4 @@
+import { LanguageDot } from '@/components/icons'
 import type { RideCategory } from '@/lib/cycling'
 
 interface RideTypeBreakdownProps {
@@ -47,10 +48,9 @@ export function RideTypeBreakdown({ categories }: RideTypeBreakdownProps) {
             role="listitem"
             style={{ animationDelay: `${i * 60}ms` }}
           >
-            <span
+            <LanguageDot
+              color={cat.color}
               className="inline-block h-3 w-3 shrink-0 rounded-full shadow-sm"
-              style={{ backgroundColor: cat.color }}
-              aria-hidden="true"
             />
             <span className="text-sm font-medium text-gray-700 dark:text-gray-300">{cat.name}</span>
             <span className="text-xs text-gray-500 dark:text-gray-400">

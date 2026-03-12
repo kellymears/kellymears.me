@@ -1,8 +1,8 @@
-import type { YTDStats, RecentStats } from '@/lib/cycling'
+import type { PeriodStats } from '@/lib/cycling'
 
 interface YearInReviewProps {
-  ytd: YTDStats
-  recent: RecentStats
+  ytd: PeriodStats
+  recent: PeriodStats
 }
 
 export function YearInReview({ ytd, recent }: YearInReviewProps) {
