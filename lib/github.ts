@@ -202,54 +202,48 @@ async function fetchProfile(): Promise<GitHubProfile> {
   return res.json()
 }
 
-async function fetchUserRepos(): Promise<Repository[]> {
-  const allRepos: Repository[] = []
+async function fetchPaginated<T>(url: string, label: string, maxPages?: number): Promise<T[]> {
+  const all: T[] = []
   let page = 1
 
-  while (true) {
-    const res = await fetch(
-      `${GITHUB_API}/users/${GITHUB_USERNAME}/repos?per_page=100&sort=stars&direction=desc&page=${page}`,
-      { headers: headers(), ...REVALIDATE }
-    )
-    if (!res.ok) throw new Error(`Repos fetch failed: ${res.status}`)
-    const repos: Repository[] = await res.json()
-    if (repos.length === 0) break
-    allRepos.push(...repos)
-    if (repos.length < 100) break
+  while (!maxPages || page <= maxPages) {
+    const res = await fetch(`${url}${url.includes('?') ? '&' : '?'}per_page=100&page=${page}`, {
+      headers: headers(),
+      ...REVALIDATE,
+    })
+    if (!res.ok) throw new Error(`${label} fetch failed: ${res.status}`)
+    const batch: T[] = await res.json()
+    if (batch.length === 0) break
+    all.push(...batch)
+    if (batch.length < 100) break
     page++
   }
 
-  return allRepos.filter((r) => !r.fork && !r.archived)
+  return all
+}
+
+async function fetchUserRepos(): Promise<Repository[]> {
+  const repos = await fetchPaginated<Repository>(
+    `${GITHUB_API}/users/${GITHUB_USERNAME}/repos?sort=stars&direction=desc`,
+    'Repos'
+  )
+  return repos.filter((r) => !r.fork && !r.archived)
 }
 
 async function fetchUserOrgs(): Promise<string[]> {
-  const res = await fetch(`${GITHUB_API}/users/${GITHUB_USERNAME}/orgs`, {
-    headers: headers(),
-    ...REVALIDATE,
-  })
-  if (!res.ok) throw new Error(`Orgs fetch failed: ${res.status}`)
-  const orgs: Array<{ login: string }> = await res.json()
+  const orgs = await fetchPaginated<{ login: string }>(
+    `${GITHUB_API}/users/${GITHUB_USERNAME}/orgs`,
+    'Orgs'
+  )
   return orgs.map((o) => o.login)
 }
 
 async function fetchOrgRepoList(org: string): Promise<Repository[]> {
-  const allRepos: Repository[] = []
-  let page = 1
-
-  while (true) {
-    const res = await fetch(
-      `${GITHUB_API}/orgs/${org}/repos?per_page=100&sort=stars&direction=desc&page=${page}`,
-      { headers: headers(), ...REVALIDATE }
-    )
-    if (!res.ok) throw new Error(`Org repos fetch failed: ${res.status} for ${org}`)
-    const repos: Repository[] = await res.json()
-    if (repos.length === 0) break
-    allRepos.push(...repos)
-    if (repos.length < 100) break
-    page++
-  }
-
-  return allRepos.filter((r) => !r.fork && !r.archived)
+  const repos = await fetchPaginated<Repository>(
+    `${GITHUB_API}/orgs/${org}/repos?sort=stars&direction=desc`,
+    `Org repos (${org})`
+  )
+  return repos.filter((r) => !r.fork && !r.archived)
 }
 
 async function fetchOrgRepo(fullName: string): Promise<Repository> {
@@ -479,18 +473,11 @@ function mapEvent(e: GitHubEvent): ActivityEvent[] {
 }
 
 async function fetchRecentActivity(): Promise<RecentActivity> {
-  const rawEvents: GitHubEvent[] = []
-
-  for (let page = 1; page <= 3; page++) {
-    const res = await fetch(
-      `${GITHUB_API}/users/${GITHUB_USERNAME}/events?per_page=100&page=${page}`,
-      { headers: headers(), ...REVALIDATE }
-    )
-    if (!res.ok) throw new Error(`Events fetch failed: ${res.status}`)
-    const batch: GitHubEvent[] = await res.json()
-    rawEvents.push(...batch)
-    if (batch.length < 100) break
-  }
+  const rawEvents = await fetchPaginated<GitHubEvent>(
+    `${GITHUB_API}/users/${GITHUB_USERNAME}/events`,
+    'Events',
+    3
+  )
 
   const activity = rawEvents.filter((e) => SUPPORTED_EVENTS.has(e.type)).flatMap(mapEvent)
 
