@@ -14,7 +14,7 @@ const AuthorLayout = ({ children, content }: Props) => {
   return (
     <div className="animate-page-enter space-y-0 pt-6 pb-8">
       {/* Author card with warm background tint */}
-      <div className="bg-primary-50/50 dark:bg-primary-950/20 rounded-2xl px-6 py-10 sm:px-10 sm:py-12">
+      <div className="bg-primary-50/50 dark:bg-primary-950/30 rounded-2xl border border-transparent px-6 py-10 sm:px-10 sm:py-12 dark:border-gray-800/60">
         <div className="flex flex-col items-center gap-8 text-center md:flex-row md:items-start md:gap-12 md:text-left">
           {/* Avatar with decorative ring accent */}
           {avatar && (
@@ -47,17 +47,17 @@ const AuthorLayout = ({ children, content }: Props) => {
               aria-label="Social links"
               className="mt-5 flex justify-center gap-3 md:justify-start"
             >
-              <SocialIcon kind="mail" href={`mailto:${email}`} size={5} />
-              <SocialIcon kind="github" href={github} size={5} />
-              <SocialIcon kind="linkedin" href={linkedin} size={5} />
+              <SocialIcon kind="mail" href={`mailto:${email}`} size={6} />
+              <SocialIcon kind="github" href={github} size={6} />
+              <SocialIcon kind="linkedin" href={linkedin} size={6} />
             </nav>
           </div>
         </div>
       </div>
 
-      {/* Prose content with accent left border instead of full-width divider */}
-      <div className="relative mt-10">
-        <div className="prose prose-lg dark:prose-invert md:border-primary-200/60 dark:md:border-primary-800/40 mx-auto max-w-prose pt-2 pb-8 pl-0 md:border-l-2 md:pl-8">
+      {/* Prose content with accent left border */}
+      <div className="relative mt-8">
+        <div className="prose prose-lg dark:prose-invert md:border-primary-300/50 dark:md:border-primary-700/40 mx-auto max-w-prose pt-2 pb-8 pl-0 md:border-l-2 md:pl-8">
           {children}
         </div>
       </div>
