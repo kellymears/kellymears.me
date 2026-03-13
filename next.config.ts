@@ -48,6 +48,9 @@ const config: NextConfig = {
   reactStrictMode: true,
   trailingSlash: false,
   pageExtensions: ['ts', 'tsx', 'js', 'jsx'],
+  experimental: {
+    inlineCss: true,
+  },
   headers: async () => [{ source: '/(.*)', headers: securityHeaders }],
 }
 
