@@ -67,7 +67,7 @@ export default function CyclingPage() {
 
       <div className="grid min-w-0 items-start gap-x-8 pt-2 md:grid-cols-3">
         <RecentRides rides={recentRides} />
-        <div className="min-w-0">
+        <div className="min-w-0 md:sticky md:top-20">
           <RideTypeBreakdown categories={rideCategories} />
           <RideAverages stats={rideStats} weeklyMileage={weeklyMileage} />
           <PerformanceMetrics power={powerStats} heartRate={heartRateStats} />
