@@ -18,15 +18,15 @@ jobs:
           node-version: 22
 
       - name: Install dependencies
-        run: yarn install --immutable
+        run: npm ci
 
       - name: Restore Next.js build cache
         uses: actions/cache@v4
         with:
           path: .next/cache
-          key: nextjs-${{ runner.os }}-${{ hashFiles('yarn.lock') }}-${{ hashFiles('**/*.ts', '**/*.tsx', '**/*.mdx') }}
+          key: nextjs-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-${{ hashFiles('**/*.ts', '**/*.tsx', '**/*.mdx') }}
           restore-keys: |
-            nextjs-${{ runner.os }}-${{ hashFiles('yarn.lock') }}-
+            nextjs-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-
             nextjs-${{ runner.os }}-
 
       - name: Deploy to Netlify

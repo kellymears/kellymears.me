@@ -15,15 +15,15 @@ Built with Next.js 16, Tailwind CSS v4, and MDX. Deployed on Netlify via GitHub 
 | Content         | [MDX](https://mdxjs.com) via [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) (RSC) |
 | Font            | [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk) (300–700)                         |
 | Deploy          | [Netlify](https://netlify.com) via GitHub Actions                                                  |
-| Package manager | Yarn 3.6.1 (PnP)                                                                                   |
+| Package manager | npm                                                                                                 |
 
 ## Development
 
 ```bash
-yarn dev          # Start dev server (Turbopack)
-yarn build        # Production build
-yarn lint         # ESLint with auto-fix
-yarn format       # Prettier (write mode)
+npm run dev          # Start dev server (Turbopack)
+npm run build        # Production build
+npm run lint         # ESLint with auto-fix
+npm run format       # Prettier (write mode)
 ```
 
 ## License
