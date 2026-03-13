@@ -2,10 +2,9 @@
 
 import headerNavLinks from '@/data/headerNavLinks'
 import { Dialog, DialogPanel, Transition, TransitionChild } from '@headlessui/react'
-import { clearAllBodyScrollLocks, disableBodyScroll, enableBodyScroll } from 'body-scroll-lock'
 import clsx from 'clsx'
 import { usePathname } from 'next/navigation'
-import { Fragment, useEffect, useRef, useState } from 'react'
+import { Fragment, useEffect, useState } from 'react'
 import Link from './Link'
 
 function isActive(pathname: string, href: string): boolean {
@@ -16,25 +15,21 @@ const MobileNav = () => {
   const pathname = usePathname()
   const [mounted, setMounted] = useState(false)
   const [navShow, setNavShow] = useState(false)
-  const navRef = useRef(null)
 
   useEffect(() => setMounted(true), [])
 
-  const onToggleNav = () => {
-    setNavShow((status) => {
-      if (status) {
-        enableBodyScroll(navRef.current)
-      } else {
-        // Prevent scrolling
-        disableBodyScroll(navRef.current)
-      }
-      return !status
-    })
-  }
+  const onToggleNav = () => setNavShow((s) => !s)
 
   useEffect(() => {
-    return clearAllBodyScrollLocks
-  })
+    if (navShow) {
+      document.documentElement.style.overflow = 'hidden'
+    } else {
+      document.documentElement.style.overflow = ''
+    }
+    return () => {
+      document.documentElement.style.overflow = ''
+    }
+  }, [navShow])
 
   return (
     <>
@@ -80,7 +75,6 @@ const MobileNav = () => {
             >
               <DialogPanel className="fixed top-0 left-0 z-70 h-full w-full bg-white/95 duration-300 dark:bg-gray-950/98">
                 <nav
-                  ref={navRef}
                   className="mt-8 flex h-full basis-0 flex-col items-start overflow-y-auto pt-2 pl-12 text-left"
                 >
                   {headerNavLinks.map((link) => {
