@@ -90,7 +90,10 @@ export default function NavLinks({ alwaysVisible = false }: NavLinksProps) {
   return (
     <div
       ref={containerRef}
-      className={clsx('relative items-center gap-x-5', alwaysVisible ? 'flex' : 'hidden sm:flex')}
+      className={clsx(
+        'no-scrollbar relative items-center gap-x-5 overflow-x-auto',
+        alwaysVisible ? 'flex' : 'hidden sm:flex'
+      )}
     >
       {pill && (
         <div
@@ -114,7 +117,7 @@ export default function NavLinks({ alwaysVisible = false }: NavLinksProps) {
             ref={setLinkRef(link.href)}
             aria-current={isActive ? 'page' : undefined}
             className={clsx(
-              'relative font-medium transition-colors duration-500',
+              'relative shrink-0 font-medium whitespace-nowrap transition-colors duration-500',
               isActive
                 ? 'text-gray-900 dark:text-gray-100'
                 : 'hover:text-primary-600 dark:hover:text-primary-400 text-gray-600 dark:text-gray-300'
