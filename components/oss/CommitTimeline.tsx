@@ -28,7 +28,7 @@ export function CommitTimeline({ activity }: CommitTimelineProps) {
   const hasMore = visibleGroups < activity.groups.length
 
   return (
-    <section className="animate-on-scroll py-8" aria-label="Recent GitHub activity">
+    <section className="animate-on-scroll min-w-0 py-8" aria-label="Recent GitHub activity">
       <h2 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
         Recent Activity
       </h2>
@@ -46,9 +46,23 @@ export function CommitTimeline({ activity }: CommitTimelineProps) {
         <button
           type="button"
           onClick={() => setVisibleGroups((n) => n + 10)}
-          className="hover:text-primary-600 dark:hover:text-primary-400 mt-4 ml-8 text-sm font-medium text-gray-500 transition-colors dark:text-gray-400"
+          className="hover:text-primary-600 dark:hover:text-primary-400 mt-6 ml-8 inline-flex items-center gap-1.5 rounded-lg border border-gray-200 bg-white px-3 py-1.5 text-sm font-medium text-gray-600 shadow-sm transition-all hover:border-gray-300 hover:shadow dark:border-gray-700 dark:bg-gray-800/50 dark:text-gray-300 dark:hover:border-gray-600"
         >
           Show more activity
+          <svg
+            width="12"
+            height="12"
+            viewBox="0 0 12 12"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="1.5"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            className="opacity-50"
+            aria-hidden="true"
+          >
+            <path d="M2 4.5l4 4 4-4" />
+          </svg>
         </button>
       )}
     </section>
@@ -61,7 +75,7 @@ function DateGroup({ group, isLast }: { group: ActivityGroup; isLast: boolean })
   const remaining = group.events.length - 3
 
   return (
-    <div className={`relative pl-8 ${isLast ? 'pb-0' : 'pb-8'}`} role="listitem">
+    <div className={`relative min-w-0 pl-8 ${isLast ? 'pb-0' : 'pb-8'}`} role="listitem">
       {!isLast && (
         <div className="absolute top-1 left-0 h-full w-px bg-gradient-to-b from-gray-300 via-gray-200 to-gray-100 dark:from-gray-700 dark:via-gray-800 dark:to-gray-900" />
       )}
@@ -79,7 +93,7 @@ function DateGroup({ group, isLast }: { group: ActivityGroup; isLast: boolean })
         <button
           type="button"
           onClick={() => setExpanded(true)}
-          className="hover:text-primary-600 dark:hover:text-primary-400 mt-2 text-xs font-medium text-gray-500 transition-colors dark:text-gray-400"
+          className="hover:text-primary-600 hover:bg-primary-50 dark:hover:text-primary-400 dark:hover:bg-primary-950/30 mt-2 rounded-md px-2 py-0.5 text-xs font-medium text-gray-500 transition-all dark:text-gray-400"
         >
           +{remaining} more event{remaining !== 1 ? 's' : ''}
         </button>
@@ -91,7 +105,7 @@ function DateGroup({ group, isLast }: { group: ActivityGroup; isLast: boolean })
 function EventRow({ event }: { event: ActivityEvent }) {
   const KindIcon = KIND_ICONS[event.kind]
   return (
-    <div className="flex items-center gap-2 text-sm">
+    <div className="flex min-w-0 items-center gap-2 text-sm">
       <KindIcon className="text-gray-500 dark:text-gray-400" />
       {event.sha && (
         <code className="shrink-0 rounded bg-gray-100 px-1.5 py-0.5 font-mono text-xs text-gray-600 dark:bg-gray-800 dark:text-gray-400">
@@ -112,7 +126,9 @@ function EventRow({ event }: { event: ActivityEvent }) {
           {event.message}
         </span>
       )}
-      <span className="shrink-0 text-xs text-gray-500 dark:text-gray-400">{event.repo}</span>
+      <span className="hidden shrink-0 text-xs text-gray-500 sm:inline dark:text-gray-400">
+        {event.repo}
+      </span>
     </div>
   )
 }

@@ -307,7 +307,7 @@ export function ContributionGrid({ data, stats }: ContributionGridProps) {
           <span>More</span>
         </div>
 
-        <dl className="mt-6 grid grid-cols-4 gap-4 border-t border-gray-100 pt-5 dark:border-gray-800">
+        <dl className="mt-6 grid grid-cols-2 gap-4 border-t border-gray-100 pt-5 sm:grid-cols-4 dark:border-gray-800">
           {statItems.map((item) => (
             <div key={item.label} className="text-center">
               <dd className="text-lg font-bold text-gray-900 dark:text-gray-100">{item.value}</dd>
