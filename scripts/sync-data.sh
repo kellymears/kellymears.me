@@ -14,7 +14,7 @@ brctl download "$HOME/Library/Mobile Documents/iCloud~com~rungap~RunGap/Document
 sleep 5
 
 log "Running import:rides..."
-if yarn import:rides >> "$LOG_FILE" 2>&1; then
+if npm run import:rides >> "$LOG_FILE" 2>&1; then
   log "import:rides completed"
 else
   log "import:rides failed"
@@ -22,7 +22,7 @@ fi
 
 # --- GitHub data import ---
 log "Running import:github..."
-if yarn import:github >> "$LOG_FILE" 2>&1; then
+if npm run import:github >> "$LOG_FILE" 2>&1; then
   log "import:github completed"
 else
   log "import:github failed"

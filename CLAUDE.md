@@ -7,16 +7,16 @@ Personal site for Kelly Mears — [kellymears.me](https://kellymears.me). Built 
 ## Commands
 
 ```bash
-yarn dev            # Start dev server (Turbopack)
-yarn build          # Production build
-yarn lint           # ESLint with auto-fix
-yarn format         # Prettier (write mode)
-yarn import:rides   # Import cycling activities from RunGap FIT files
-yarn import:github  # Fetch and cache GitHub profile/repo data
-yarn import:all     # Run all import scripts sequentially
+npm run dev            # Start dev server (Turbopack)
+npm run build          # Production build
+npm run lint           # ESLint with auto-fix
+npm run format         # Prettier (write mode)
+npm run import:rides   # Import cycling activities from RunGap FIT files
+npm run import:github  # Fetch and cache GitHub profile/repo data
+npm run import:all     # Run all import scripts sequentially
 ```
 
-Package manager is **yarn 3.6.1** (Yarn PnP). Do not use npm or pnpm.
+Package manager is **npm**.
 
 ## Data Sync (launchd)
 
@@ -112,4 +112,4 @@ The `/cycling` page is fully API-driven from live Strava data. Mirrors `lib/gith
 - RSS feeds generated as route handlers (`app/feed.xml/route.ts`, `app/tags/[tag]/feed.xml/route.ts`)
 - `rehype-preset-minify` is incompatible with Next.js 16 (EBADF error at module evaluation) — do not re-add
 - Static export supported via `EXPORT=1` env var
-- If build fails with stale cache: `rm -rf .next && yarn build`
+- If build fails with stale cache: `rm -rf .next && npm run build`
