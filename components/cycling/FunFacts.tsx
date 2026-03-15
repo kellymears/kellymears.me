@@ -119,14 +119,14 @@ const ENERGY_FACTS: FactGenerator[] = [
     }
   },
   (kj) => {
-    const n = kj / 900
+    const n = kj / 1_800
     return {
       value: fmtNum(n),
-      label: 'miles driven in a Tesla',
+      label: 'loads of laundry washed',
       calc: {
-        formula: `${fmtNum(kj)} kJ ÷ 900 kJ/mi = ${fmtNum(n)}`,
-        reference: 'Tesla Model 3: ~250 Wh/mi (EPA rated)',
-        url: 'https://en.wikipedia.org/wiki/Tesla_Model_3',
+        formula: `${fmtNum(kj)} kJ ÷ 1,800 kJ/load = ${fmtNum(n)}`,
+        reference: 'Washing machine: ~500 Wh per cycle (Energy Star)',
+        url: 'https://en.wikipedia.org/wiki/Washing_machine',
         source: 'Wikipedia',
       },
     }
