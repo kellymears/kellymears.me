@@ -91,6 +91,7 @@ export interface CyclingPageData {
   rideCategories: RideCategory[]
   powerStats: PowerStats | null
   heartRateStats: HeartRateStats | null
+  totalEnergyKJ: number
 }
 
 const RIDE_SPORT_TYPES = new Set([
@@ -313,6 +314,19 @@ function computeHeartRateStats(rides: NormalizedActivity[]): HeartRateStats | nu
   return { avgHR, maxHR, ridesWithHR: ridesWithHR.length }
 }
 
+function computeTotalEnergy(rides: NormalizedActivity[]): number {
+  let kj = 0
+  for (const ride of rides) {
+    if (ride.avgPower != null && ride.avgPower > 0 && ride.movingTime > 0) {
+      kj += (ride.avgPower * ride.movingTime) / 1000
+    } else if (ride.calories != null && ride.calories > 0) {
+      // kJ ≈ kcal for cycling: ~25% human efficiency × 4.184 kJ/kcal ≈ 1.046
+      kj += ride.calories
+    }
+  }
+  return Math.round(kj)
+}
+
 // --- Data loading ---
 
 let cachedData: CyclingPageData | null = null
@@ -349,6 +363,7 @@ export function getCyclingPageData(): CyclingPageData {
     rideCategories: computeRideCategories(rides),
     powerStats: computePowerStats(rides),
     heartRateStats: computeHeartRateStats(rides),
+    totalEnergyKJ: computeTotalEnergy(rides),
   }
 
   return cachedData

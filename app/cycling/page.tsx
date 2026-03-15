@@ -1,4 +1,5 @@
 import { CyclingStats } from '@/components/cycling/CyclingStats'
+import { FunFacts } from '@/components/cycling/FunFacts'
 import { LazyRideHeatmap } from '@/components/cycling/LazyRideHeatmap'
 import { PerformanceMetrics } from '@/components/cycling/PerformanceMetrics'
 import { RecentRides } from '@/components/cycling/RecentRides'
@@ -25,6 +26,7 @@ export default function CyclingPage() {
     rideCategories,
     powerStats,
     heartRateStats,
+    totalEnergyKJ,
   } = getCyclingPageData()
 
   const profileUrl = `https://www.strava.com/athletes/${athlete.username}`
@@ -61,6 +63,11 @@ export default function CyclingPage() {
       </div>
 
       <CyclingStats stats={rideStats} />
+      <FunFacts
+        energy={totalEnergyKJ}
+        miles={rideStats.totalMiles}
+        elevation={rideStats.totalElevation}
+      />
       <LazyRideHeatmap />
       <YearInReview ytd={ytdStats} recent={recentStats} />
       <WeeklyMileageChart data={weeklyMileage} />
