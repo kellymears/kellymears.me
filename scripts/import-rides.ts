@@ -137,7 +137,7 @@ function parseFitFile(filename: string): ParsedActivity | null {
     source,
     sportType,
     startTime,
-    name: generateName(sportType, startTime),
+    name: messages.workoutMesgs?.[0]?.wktName ?? generateName(sportType, startTime),
     distance: session.totalDistance ?? 0,
     movingTime: session.totalTimerTime ?? 0,
     elapsedTime: session.totalElapsedTime ?? 0,
