@@ -1,5 +1,6 @@
 import { readFileSync } from 'fs'
 import { join } from 'path'
+import { sumBy, maxBy, groupBy, countBy } from './fn'
 
 const METERS_TO_MILES = 0.000621371
 const METERS_TO_FEET = 3.28084
@@ -207,26 +208,18 @@ function getWeekStart(dateStr: string): string {
 }
 
 function sumMetrics(rides: NormalizedActivity[]) {
-  let distance = 0
-  let time = 0
-  let elevation = 0
-  for (const a of rides) {
-    distance += a.distance
-    time += a.movingTime
-    elevation += a.elevationGain
+  return {
+    distance: sumBy(rides, (a) => a.distance),
+    time: sumBy(rides, (a) => a.movingTime),
+    elevation: sumBy(rides, (a) => a.elevationGain),
   }
-  return { distance, time, elevation }
 }
 
 function computeRideStats(rides: NormalizedActivity[]): RideStats {
   const { distance, time, elevation } = sumMetrics(rides)
 
-  let biggestDist = 0
-  let biggestClimb = 0
-  for (const a of rides) {
-    if (a.distance > biggestDist) biggestDist = a.distance
-    if (a.elevationGain > biggestClimb) biggestClimb = a.elevationGain
-  }
+  const biggestDist = maxBy(rides, (a) => a.distance)
+  const biggestClimb = maxBy(rides, (a) => a.elevationGain)
 
   return {
     totalMiles: Math.round(distance * METERS_TO_MILES),
@@ -251,37 +244,22 @@ function computePeriodStats(rides: NormalizedActivity[], cutoff?: string): Perio
 }
 
 function computeWeeklyMileage(rides: NormalizedActivity[]): WeeklyMileage[] {
-  const weekMap = new Map<string, WeeklyMileage>()
-
-  for (const ride of rides) {
-    const weekStart = getWeekStart(ride.startTime)
-    const existing = weekMap.get(weekStart)
-    if (existing) {
-      existing.distance += ride.distance * METERS_TO_MILES
-      existing.rides += 1
-      existing.elevation += ride.elevationGain * METERS_TO_FEET
-    } else {
-      weekMap.set(weekStart, {
-        weekStart,
-        distance: ride.distance * METERS_TO_MILES,
-        rides: 1,
-        elevation: ride.elevationGain * METERS_TO_FEET,
-      })
-    }
-  }
+  const groups = groupBy(rides, (r) => getWeekStart(r.startTime))
 
   const now = new Date()
   const cutoff = new Date(now)
   cutoff.setDate(cutoff.getDate() - 26 * 7)
   const cutoffStr = cutoff.toISOString().slice(0, 10)
 
-  return [...weekMap.entries()]
+  return [...groups.entries()]
     .filter(([key]) => key >= cutoffStr)
     .sort((a, b) => a[0].localeCompare(b[0]))
-    .map(([, value]) => ({
-      ...value,
-      distance: Math.round(value.distance * 10) / 10,
-      elevation: Math.round(value.elevation),
+    .map(([weekStart, weekRides]) => ({
+      weekStart,
+      distance:
+        Math.round(sumBy(weekRides, (r) => r.distance * METERS_TO_MILES) * 10) / 10,
+      rides: weekRides.length,
+      elevation: Math.round(sumBy(weekRides, (r) => r.elevationGain * METERS_TO_FEET)),
     }))
 }
 
@@ -402,11 +380,7 @@ function computeRideHistory(rides: NormalizedActivity[]): RideHistory {
 }
 
 function computeRideCategories(rides: NormalizedActivity[]): RideCategory[] {
-  const counts = new Map<string, number>()
-
-  for (const ride of rides) {
-    counts.set(ride.sportType, (counts.get(ride.sportType) ?? 0) + 1)
-  }
+  const counts = countBy(rides, (r) => r.sportType)
 
   const total = rides.length
   if (total === 0) return []

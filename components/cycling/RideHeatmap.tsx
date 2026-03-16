@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useMemo } from 'react'
 import type { RidesData, RideBounds } from '@/lib/rides'
+import { bounds2d } from '@/lib/fn'
 
 interface RideHeatmapProps {
   data: RidesData
@@ -55,19 +56,9 @@ function computeVisibleBounds(rides: RidesData['rides']): RideBounds {
     return c.lat >= loLat && c.lat <= hiLat && c.lng >= loLng && c.lng <= hiLng
   })
 
-  let minLat = Infinity
-  let maxLat = -Infinity
-  let minLng = Infinity
-  let maxLng = -Infinity
-
-  for (const ride of inlierRides) {
-    for (const [lat, lng] of ride.coordinates) {
-      if (lat < minLat) minLat = lat
-      if (lat > maxLat) maxLat = lat
-      if (lng < minLng) minLng = lng
-      if (lng > maxLng) maxLng = lng
-    }
-  }
+  const { minX: minLat, maxX: maxLat, minY: minLng, maxY: maxLng } = bounds2d(
+    inlierRides.flatMap((r) => r.coordinates),
+  )
 
   const latSpan = maxLat - minLat
   const lngSpan = maxLng - minLng

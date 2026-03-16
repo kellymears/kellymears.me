@@ -158,6 +158,8 @@ const REPO_BOOSTS: Record<string, number> = {
 
 const EXCLUDED_ORGS = new Set(['oncarrot'])
 
+import { countBy } from './fn'
+
 // --- Language colors (GitHub Linguist) ---
 
 export const LANGUAGE_COLORS: Record<string, string> = {
@@ -335,13 +337,10 @@ export function computeContributionStats(calendar: ContributionData): Contributi
 }
 
 export function computeLanguages(repos: Repository[]): LanguageBreakdown[] {
-  const counts = new Map<string, number>()
-
-  for (const repo of repos) {
-    if (repo.language) {
-      counts.set(repo.language, (counts.get(repo.language) ?? 0) + 1)
-    }
-  }
+  const counts = countBy(
+    repos.filter((r) => r.language),
+    (r) => r.language!,
+  )
 
   const total = [...counts.values()].reduce((a, b) => a + b, 0)
 

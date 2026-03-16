@@ -4,6 +4,7 @@ import { slug } from 'github-slugger'
 import matter from 'gray-matter'
 import path from 'path'
 import readingTime from 'reading-time'
+import { countByRecord } from './fn'
 import { extractTocHeadings, type TocHeading } from './remark-toc-headings'
 
 const root = process.cwd()
@@ -170,18 +171,12 @@ const allCoreContent = <T extends { body: string; draft?: boolean }>(
 
 const getTagCounts = (posts: BlogPost[]): Record<string, number> => {
   const isProduction = process.env.NODE_ENV === 'production'
-  const tagCount: Record<string, number> = {}
-
-  for (const post of posts) {
-    if (post.tags && (!isProduction || post.draft !== true)) {
-      for (const tag of post.tags) {
-        const formattedTag = slug(tag)
-        tagCount[formattedTag] = (tagCount[formattedTag] ?? 0) + 1
-      }
-    }
-  }
-
-  return tagCount
+  return countByRecord(
+    posts
+      .filter((p) => p.tags && (!isProduction || p.draft !== true))
+      .flatMap((p) => p.tags.map((t) => slug(t))),
+    (t) => t,
+  )
 }
 
 export {

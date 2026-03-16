@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync, mkdirSync } from 'fs'
 import { join } from 'path'
+import { countByRecord } from '../lib/fn'
 
 // --- Types ---
 
@@ -144,10 +145,7 @@ async function main() {
   console.log(`[fetch-osm] Ways with surface tag: ${withSurface} (${pct}%)`)
 
   // Highway type breakdown
-  const typeCounts: Record<string, number> = {}
-  for (const w of ways) {
-    typeCounts[w.highway] = (typeCounts[w.highway] ?? 0) + 1
-  }
+  const typeCounts = countByRecord(ways, (w) => w.highway)
   const top = Object.entries(typeCounts)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 8)

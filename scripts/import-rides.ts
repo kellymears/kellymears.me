@@ -2,6 +2,7 @@ import { Decoder, Stream } from '@garmin/fitsdk'
 import { readdirSync, readFileSync, writeFileSync, mkdirSync } from 'fs'
 import { join, basename } from 'path'
 import type { RidesData, RideBounds } from '../lib/rides'
+import { bounds2d, countByRecord, formatCounts } from '../lib/fn'
 import {
   loadTerrainIndex,
   classifyRideTerrain,
@@ -105,16 +106,7 @@ function computeRoutePreview(coords: [number, number][]): string | null {
     }
   }
 
-  let minLat = Infinity
-  let maxLat = -Infinity
-  let minLng = Infinity
-  let maxLng = -Infinity
-  for (const [lat, lng] of sampled) {
-    if (lat < minLat) minLat = lat
-    if (lat > maxLat) maxLat = lat
-    if (lng < minLng) minLng = lng
-    if (lng > maxLng) maxLng = lng
-  }
+  const { minX: minLat, maxX: maxLat, minY: minLng, maxY: maxLng } = bounds2d(sampled)
 
   const latRange = maxLat - minLat || 0.0001
   const lngRange = maxLng - minLng || 0.0001
@@ -135,16 +127,7 @@ function computeRoutePreview(coords: [number, number][]): string | null {
   })
 
   // Compute tight viewBox from actual rendered points
-  let pMinX = Infinity
-  let pMaxX = -Infinity
-  let pMinY = Infinity
-  let pMaxY = -Infinity
-  for (const [x, y] of points) {
-    if (x < pMinX) pMinX = x
-    if (x > pMaxX) pMaxX = x
-    if (y < pMinY) pMinY = y
-    if (y > pMaxY) pMaxY = y
-  }
+  const { minX: pMinX, maxX: pMaxX, minY: pMinY, maxY: pMaxY } = bounds2d(points)
 
   // Add padding around tight bounds
   const vbPad = 4
@@ -333,20 +316,9 @@ function simplifyPath(points: [number, number][], tolerance: number): [number, n
 // --- Phase 4: Emit ---
 
 function computeBounds(rides: { coordinates: [number, number][] }[]): RideBounds {
-  let minLat = Infinity
-  let maxLat = -Infinity
-  let minLng = Infinity
-  let maxLng = -Infinity
-
-  for (const ride of rides) {
-    for (const [lat, lng] of ride.coordinates) {
-      if (lat < minLat) minLat = lat
-      if (lat > maxLat) maxLat = lat
-      if (lng < minLng) minLng = lng
-      if (lng > maxLng) maxLng = lng
-    }
-  }
-
+  const { minX: minLat, maxX: maxLat, minY: minLng, maxY: maxLng } = bounds2d(
+    rides.flatMap((r) => r.coordinates),
+  )
   return { minLat, maxLat, minLng, maxLng }
 }
 
@@ -444,28 +416,12 @@ function main() {
   deduped.sort((a, b) => b.startTime.localeCompare(a.startTime))
 
   // Source breakdown
-  const sourceCounts: Record<string, number> = {}
-  for (const a of deduped) {
-    sourceCounts[a.source] = (sourceCounts[a.source] ?? 0) + 1
-  }
-  console.log(
-    '[import-rides] Sources:',
-    Object.entries(sourceCounts)
-      .map(([k, v]) => `${k}=${v}`)
-      .join(', ')
-  )
+  const sourceCounts = countByRecord(deduped, (a) => a.source)
+  console.log('[import-rides] Sources:', formatCounts(sourceCounts))
 
   // Type breakdown
-  const typeCounts: Record<string, number> = {}
-  for (const a of deduped) {
-    typeCounts[a.sportType] = (typeCounts[a.sportType] ?? 0) + 1
-  }
-  console.log(
-    '[import-rides] Types:',
-    Object.entries(typeCounts)
-      .map(([k, v]) => `${k}=${v}`)
-      .join(', ')
-  )
+  const typeCounts = countByRecord(deduped, (a) => a.sportType)
+  console.log('[import-rides] Types:', formatCounts(typeCounts))
 
   // Terrain classification (requires OSM data from `npm run import:osm`)
   const terrainIndex = loadTerrainIndex()
