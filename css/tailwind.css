@@ -193,6 +193,11 @@
 }
 
 @layer utilities {
+  .content-defer {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 500px;
+  }
+
   .prose {
     & a {
       color: var(--color-primary-700);

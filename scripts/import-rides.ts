@@ -132,7 +132,7 @@ function computeRoutePreview(coords: [number, number][]): string | null {
     .map(([lat, lng]) => {
       const x = P + (inner - scaledW) / 2 + (lng - minLng) * cosLat * scale
       const y = P + (inner - scaledH) / 2 + (maxLat - lat) * scale
-      return `${x.toFixed(1)},${y.toFixed(1)}`
+      return `${Math.round(x)},${Math.round(y)}`
     })
     .join(' ')
 }
