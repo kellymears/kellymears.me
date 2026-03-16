@@ -22,6 +22,7 @@ export interface NormalizedActivity {
   avgPower: number | null
   maxPower: number | null
   calories: number | null
+  terrain: { road: number; pavedPath: number; unpaved: number } | null
 }
 
 export interface RideStats {
@@ -55,6 +56,12 @@ export interface RideCategory {
   color: string
 }
 
+export interface RideTerrain {
+  road: number
+  pavedPath: number
+  unpaved: number
+}
+
 export interface RecentRide {
   id: string
   name: string
@@ -66,6 +73,15 @@ export interface RecentRide {
   heartrate: string | null
   watts: string | null
   sportType: string
+  terrain: RideTerrain | null
+}
+
+export interface TerrainCategory {
+  name: string
+  key: string
+  miles: number
+  percentage: number
+  color: string
 }
 
 export interface PowerStats {
@@ -88,7 +104,7 @@ export interface CyclingPageData {
   recentStats: PeriodStats
   weeklyMileage: WeeklyMileage[]
   recentRides: RecentRide[]
-  rideCategories: RideCategory[]
+  terrainCategories: TerrainCategory[]
   powerStats: PowerStats | null
   heartRateStats: HeartRateStats | null
   totalEnergyKJ: number
@@ -101,6 +117,18 @@ const RIDE_SPORT_TYPES = new Set([
   'VirtualRide',
   'EBikeRide',
 ])
+
+export const TERRAIN_COLORS: Record<string, string> = {
+  road: '#3178c6',
+  pavedPath: '#8b6914',
+  unpaved: '#2d8b46',
+}
+
+export const TERRAIN_LABELS: Record<string, string> = {
+  road: 'Road',
+  pavedPath: 'Paved Path',
+  unpaved: 'Unpaved',
+}
 
 export const RIDE_TYPE_LABELS: Record<string, string> = {
   Ride: 'Road',
@@ -261,6 +289,13 @@ function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
       heartrate: a.avgHeartRate ? `${Math.round(a.avgHeartRate)} bpm` : null,
       watts: a.avgPower ? `${Math.round(a.avgPower)}W` : null,
       sportType: a.sportType,
+      terrain: a.terrain
+        ? {
+            road: Math.round(a.terrain.road * METERS_TO_MILES * 10) / 10,
+            pavedPath: Math.round(a.terrain.pavedPath * METERS_TO_MILES * 10) / 10,
+            unpaved: Math.round(a.terrain.unpaved * METERS_TO_MILES * 10) / 10,
+          }
+        : null,
     }))
 }
 
@@ -283,6 +318,30 @@ function computeRideCategories(rides: NormalizedActivity[]): RideCategory[] {
       percentage: Math.round((count / total) * 1000) / 10,
       color: RIDE_TYPE_COLORS[sportType] ?? '#8b8b8b',
     }))
+}
+
+function computeTerrainCategories(rides: NormalizedActivity[]): TerrainCategory[] {
+  const totals = { road: 0, pavedPath: 0, unpaved: 0 }
+
+  for (const ride of rides) {
+    if (!ride.terrain) continue
+    totals.road += ride.terrain.road
+    totals.pavedPath += ride.terrain.pavedPath
+    totals.unpaved += ride.terrain.unpaved
+  }
+
+  const totalMeters = totals.road + totals.pavedPath + totals.unpaved
+  if (totalMeters === 0) return []
+
+  return (['road', 'pavedPath', 'unpaved'] as const)
+    .map((key) => ({
+      name: TERRAIN_LABELS[key] ?? key,
+      key,
+      miles: Math.round(totals[key] * METERS_TO_MILES),
+      percentage: Math.round((totals[key] / totalMeters) * 1000) / 10,
+      color: TERRAIN_COLORS[key] ?? '#8b8b8b',
+    }))
+    .filter((c) => c.miles > 0)
 }
 
 function computePowerStats(rides: NormalizedActivity[]): PowerStats | null {
@@ -360,7 +419,7 @@ export function getCyclingPageData(): CyclingPageData {
     recentStats: computePeriodStats(rides, recentCutoff.toISOString()),
     weeklyMileage: computeWeeklyMileage(rides),
     recentRides: computeRecentRides(rides),
-    rideCategories: computeRideCategories(rides),
+    terrainCategories: computeTerrainCategories(rides),
     powerStats: computePowerStats(rides),
     heartRateStats: computeHeartRateStats(rides),
     totalEnergyKJ: computeTotalEnergy(rides),

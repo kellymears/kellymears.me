@@ -4,7 +4,7 @@ import { LazyRideHeatmap } from '@/components/cycling/LazyRideHeatmap'
 import { PerformanceMetrics } from '@/components/cycling/PerformanceMetrics'
 import { RecentRides } from '@/components/cycling/RecentRides'
 import { RideAverages } from '@/components/cycling/RideAverages'
-import { RideTypeBreakdown } from '@/components/cycling/RideTypeBreakdown'
+import { TerrainBreakdown } from '@/components/cycling/TerrainBreakdown'
 import { WeeklyMileageChart } from '@/components/cycling/WeeklyMileageChart'
 import { YearInReview } from '@/components/cycling/YearInReview'
 import { getCyclingPageData } from '@/lib/cycling'
@@ -23,7 +23,7 @@ export default function CyclingPage() {
     recentStats,
     weeklyMileage,
     recentRides,
-    rideCategories,
+    terrainCategories,
     powerStats,
     heartRateStats,
     totalEnergyKJ,
@@ -75,7 +75,7 @@ export default function CyclingPage() {
       <div className="grid min-w-0 items-start gap-x-8 pt-2 md:grid-cols-3">
         <RecentRides rides={recentRides} />
         <div className="min-w-0 md:sticky md:top-20">
-          <RideTypeBreakdown categories={rideCategories} />
+          <TerrainBreakdown categories={terrainCategories} />
           <RideAverages stats={rideStats} weeklyMileage={weeklyMileage} />
           <PerformanceMetrics power={powerStats} heartRate={heartRateStats} />
         </div>
