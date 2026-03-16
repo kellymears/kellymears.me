@@ -354,8 +354,7 @@ function computeRideBenchmarks(rides: NormalizedActivity[]): RideBenchmarks {
   const c90 = d90.toISOString()
   const cYear = `${now.getFullYear()}-01-01T00:00:00`
 
-  // Exclude virtual rides from real-world benchmarks
-  const real = rides.filter((r) => !new Set(['VirtualRide']).has(r.sportType))
+  const real = rides
 
   function periods(getter: (r: NormalizedActivity) => number | null): PeriodAverages {
     return {
@@ -393,10 +392,7 @@ function computeRideBenchmarks(rides: NormalizedActivity[]): RideBenchmarks {
 }
 
 function computeRideHistory(rides: NormalizedActivity[]): RideHistory {
-  const real = [...rides]
-    .filter((r) => !new Set(['VirtualRide']).has(r.sportType))
-    .sort((a, b) => b.startTime.localeCompare(a.startTime))
-    .slice(0, 50)
+  const real = [...rides].sort((a, b) => b.startTime.localeCompare(a.startTime)).slice(0, 50)
 
   return {
     distances: real.map((r) => Math.round(r.distance * METERS_TO_MILES * 10) / 10),

@@ -348,8 +348,6 @@ function ModalContent({
 }) {
   const hasStoppedTime = ride.elapsedTime !== ride.duration
   const sourceLabel = SOURCE_LABELS[ride.source] ?? ride.source
-  const isVirtual = ride.sportType === 'VirtualRide'
-
   const tp = (pa: PeriodAverages) => [pa.year, pa.d90, pa.d30]
 
   // Build stat tiles
@@ -358,23 +356,19 @@ function ModalContent({
       icon: Clock,
       label: 'Moving',
       value: ride.duration,
-      trend: !isVirtual
-        ? { points: tp(benchmarks.movingTime), current: ride.raw.movingTime / 60 }
-        : undefined,
+      trend: { points: tp(benchmarks.movingTime), current: ride.raw.movingTime / 60 },
     },
     {
       icon: Mountain,
       label: 'Elevation',
       value: ride.elevation,
-      trend: !isVirtual
-        ? { points: tp(benchmarks.elevation), current: ride.raw.elevation }
-        : undefined,
+      trend: { points: tp(benchmarks.elevation), current: ride.raw.elevation },
     },
     {
       icon: Gauge,
       label: 'Avg Speed',
       value: ride.speed,
-      trend: !isVirtual ? { points: tp(benchmarks.speed), current: ride.raw.speed } : undefined,
+      trend: { points: tp(benchmarks.speed), current: ride.raw.speed },
     },
   ]
 
@@ -493,7 +487,7 @@ function ModalContent({
         )}
 
         {/* Comparison + Averages */}
-        {!isVirtual && history.distances.length >= 5 && (
+        {history.distances.length >= 5 && (
           <div className="border-t border-gray-100 pt-4 dark:border-gray-800">
             <p className="mb-3 text-[10px] font-medium tracking-widest text-gray-400 uppercase dark:text-gray-500">
               vs recent rides
