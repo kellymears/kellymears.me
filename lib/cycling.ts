@@ -23,6 +23,7 @@ export interface NormalizedActivity {
   maxPower: number | null
   calories: number | null
   terrain: { road: number; pavedPath: number; unpaved: number } | null
+  routePreview: string | null
 }
 
 export interface RideStats {
@@ -74,6 +75,7 @@ export interface RecentRide {
   watts: string | null
   sportType: string
   terrain: RideTerrain | null
+  routePath: string | null
 }
 
 export interface TerrainCategory {
@@ -118,48 +120,21 @@ const RIDE_SPORT_TYPES = new Set([
   'EBikeRide',
 ])
 
-export const TERRAIN_COLORS: Record<string, string> = {
-  road: '#3178c6',
-  pavedPath: '#8b6914',
-  unpaved: '#2d8b46',
-}
+import {
+  TERRAIN_COLORS,
+  TERRAIN_LABELS,
+  RIDE_TYPE_LABELS,
+  RIDE_TYPE_COLORS,
+} from './cycling-constants'
 
-export const TERRAIN_LABELS: Record<string, string> = {
-  road: 'Road',
-  pavedPath: 'Paved Path',
-  unpaved: 'Unpaved',
-}
-
-export const RIDE_TYPE_LABELS: Record<string, string> = {
-  Ride: 'Road',
-  GravelRide: 'Gravel',
-  MountainBikeRide: 'Mountain',
-  VirtualRide: 'Virtual',
-  EBikeRide: 'E-Bike',
-}
-
-export const RIDE_TYPE_SHORT_LABELS: Record<string, string> = {
-  Ride: 'Road',
-  GravelRide: 'Gravel',
-  MountainBikeRide: 'MTB',
-  VirtualRide: 'Virtual',
-  EBikeRide: 'E-Bike',
-}
-
-export const RIDE_TYPE_ACCENT: Record<string, string> = {
-  GravelRide: 'bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-400',
-  MountainBikeRide: 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-400',
-  VirtualRide: 'bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-400',
-  EBikeRide: 'bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-400',
-}
-
-export const RIDE_TYPE_COLORS: Record<string, string> = {
-  Ride: '#3178c6',
-  GravelRide: '#8b6914',
-  MountainBikeRide: '#2d8b46',
-  VirtualRide: '#9333ea',
-  EBikeRide: '#06b6d4',
-}
+export {
+  TERRAIN_COLORS,
+  TERRAIN_LABELS,
+  RIDE_TYPE_LABELS,
+  RIDE_TYPE_SHORT_LABELS,
+  RIDE_TYPE_ACCENT,
+  RIDE_TYPE_COLORS,
+} from './cycling-constants'
 
 // --- Static athlete config ---
 
@@ -273,7 +248,7 @@ function computeWeeklyMileage(rides: NormalizedActivity[]): WeeklyMileage[] {
 function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
   return [...rides]
     .sort((a, b) => b.startTime.localeCompare(a.startTime))
-    .slice(0, 10)
+    .slice(0, 30)
     .map((a) => ({
       id: a.id,
       name: a.name,
@@ -296,6 +271,7 @@ function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
             unpaved: Math.round(a.terrain.unpaved * METERS_TO_MILES * 10) / 10,
           }
         : null,
+      routePath: a.routePreview,
     }))
 }
 
