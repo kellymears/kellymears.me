@@ -2,6 +2,11 @@ import { Decoder, Stream } from '@garmin/fitsdk'
 import { readdirSync, readFileSync, writeFileSync, mkdirSync } from 'fs'
 import { join, basename } from 'path'
 import type { RidesData, RideBounds } from '../lib/rides'
+import {
+  loadTerrainIndex,
+  classifyRideTerrain,
+  type TerrainBreakdown,
+} from './terrain'
 
 // --- Config ---
 
@@ -51,6 +56,7 @@ interface ParsedActivity {
   avgPower: number | null
   maxPower: number | null
   calories: number | null
+  terrain: TerrainBreakdown | null
   gps: [number, number][] // [lat, lng] in degrees
 }
 
@@ -149,6 +155,7 @@ function parseFitFile(filename: string): ParsedActivity | null {
     avgPower: session.avgPower ?? null,
     maxPower: session.maxPower ?? null,
     calories: session.totalCalories ?? null,
+    terrain: null,
     gps,
   }
 }
@@ -390,6 +397,40 @@ function main() {
       .map(([k, v]) => `${k}=${v}`)
       .join(', ')
   )
+
+  // Terrain classification (requires OSM data from `npm run import:osm`)
+  const terrainIndex = loadTerrainIndex()
+  if (terrainIndex) {
+    console.log('[import-rides] Computing terrain...')
+    let analyzed = 0
+    for (const ride of deduped) {
+      if (VIRTUAL_TYPES.has(ride.sportType) || ride.gps.length < 2) continue
+      ride.terrain = classifyRideTerrain(ride.gps, terrainIndex)
+      if (ride.terrain) analyzed++
+    }
+    console.log(`[import-rides] Terrain: ${analyzed} rides classified`)
+
+    const agg = { road: 0, pavedPath: 0, unpaved: 0 }
+    for (const ride of deduped) {
+      if (!ride.terrain) continue
+      agg.road += ride.terrain.road
+      agg.pavedPath += ride.terrain.pavedPath
+      agg.unpaved += ride.terrain.unpaved
+    }
+    const total = agg.road + agg.pavedPath + agg.unpaved
+    if (total > 0) {
+      const mi = (m: number) => Math.round(m * 0.000621371)
+      const pct = (m: number) => Math.round((m / total) * 100)
+      console.log(
+        `[import-rides] Terrain totals: ` +
+          `road=${mi(agg.road).toLocaleString()} mi (${pct(agg.road)}%), ` +
+          `pavedPath=${mi(agg.pavedPath).toLocaleString()} mi (${pct(agg.pavedPath)}%), ` +
+          `unpaved=${mi(agg.unpaved).toLocaleString()} mi (${pct(agg.unpaved)}%)`
+      )
+    }
+  } else {
+    console.log('[import-rides] No OSM data — run `npm run import:osm` to enable terrain analysis')
+  }
 
   emit(deduped)
   console.log('[import-rides] Done')

@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# cached data (OSM, etc.)
+/.cache/
+
 # next.js
 /.next/
 /out/
