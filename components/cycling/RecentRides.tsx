@@ -67,9 +67,16 @@ function TerrainPills({ terrain }: { terrain: RideTerrain }) {
 
 // --- Route mini SVG ---
 
-function RouteMini({ points, className }: { points: string; className?: string }) {
+function parseRoutePreview(raw: string): { viewBox: string; points: string } {
+  const pipe = raw.indexOf('|')
+  if (pipe === -1) return { viewBox: '0 0 128 128', points: raw }
+  return { viewBox: raw.slice(0, pipe), points: raw.slice(pipe + 1) }
+}
+
+function RouteMini({ data, className }: { data: string; className?: string }) {
+  const { viewBox, points } = parseRoutePreview(data)
   return (
-    <svg viewBox="0 0 64 64" className={className} aria-hidden="true">
+    <svg viewBox={viewBox} className={className} aria-hidden="true">
       <polyline
         points={points}
         fill="none"
@@ -109,7 +116,7 @@ function RideCard({
       <div className="flex gap-3">
         {ride.routePath ? (
           <div className="text-primary-400/50 dark:text-primary-500/40 flex w-14 shrink-0 items-center justify-center">
-            <RouteMini points={ride.routePath} className="h-14 w-14" />
+            <RouteMini data={ride.routePath} className="h-14 w-14" />
           </div>
         ) : (
           <div className="flex w-14 shrink-0 items-center justify-center">

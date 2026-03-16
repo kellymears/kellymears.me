@@ -97,8 +97,8 @@ function computeRoutePreview(coords: [number, number][]): string | null {
 
   // Subsample to ~25 points
   let sampled = coords
-  if (coords.length > 30) {
-    const step = Math.ceil(coords.length / 25)
+  if (coords.length > 80) {
+    const step = Math.ceil(coords.length / 70)
     sampled = coords.filter((_, i) => i % step === 0)
     if (sampled[sampled.length - 1] !== coords[coords.length - 1]) {
       sampled.push(coords[coords.length - 1]!)
@@ -120,21 +120,41 @@ function computeRoutePreview(coords: [number, number][]): string | null {
   const lngRange = maxLng - minLng || 0.0001
   const cosLat = Math.cos((((minLat + maxLat) / 2) * Math.PI) / 180)
 
-  const SIZE = 64
-  const P = 4
+  const SIZE = 128
+  const P = 6
   const inner = SIZE - P * 2
   const adjLngRange = lngRange * cosLat
   const scale = Math.min(inner / adjLngRange, inner / latRange)
   const scaledW = adjLngRange * scale
   const scaledH = latRange * scale
 
-  return sampled
-    .map(([lat, lng]) => {
-      const x = P + (inner - scaledW) / 2 + (lng - minLng) * cosLat * scale
-      const y = P + (inner - scaledH) / 2 + (maxLat - lat) * scale
-      return `${Math.round(x)},${Math.round(y)}`
-    })
-    .join(' ')
+  const points = sampled.map(([lat, lng]) => {
+    const x = P + (inner - scaledW) / 2 + (lng - minLng) * cosLat * scale
+    const y = P + (inner - scaledH) / 2 + (maxLat - lat) * scale
+    return [Math.round(x), Math.round(y)] as [number, number]
+  })
+
+  // Compute tight viewBox from actual rendered points
+  let pMinX = Infinity
+  let pMaxX = -Infinity
+  let pMinY = Infinity
+  let pMaxY = -Infinity
+  for (const [x, y] of points) {
+    if (x < pMinX) pMinX = x
+    if (x > pMaxX) pMaxX = x
+    if (y < pMinY) pMinY = y
+    if (y > pMaxY) pMaxY = y
+  }
+
+  // Add padding around tight bounds
+  const vbPad = 4
+  const vbX = pMinX - vbPad
+  const vbY = pMinY - vbPad
+  const vbW = pMaxX - pMinX + vbPad * 2
+  const vbH = pMaxY - pMinY + vbPad * 2
+
+  const pointsStr = points.map(([x, y]) => `${x},${y}`).join(' ')
+  return `${vbX} ${vbY} ${vbW} ${vbH}|${pointsStr}`
 }
 
 // --- Phase 2: Parse ---

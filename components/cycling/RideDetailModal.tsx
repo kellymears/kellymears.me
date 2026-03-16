@@ -24,6 +24,14 @@ import {
 } from 'lucide-react'
 import { Fragment } from 'react'
 
+// --- Helpers ---
+
+function parseRoutePreview(raw: string): { viewBox: string; points: string } {
+  const pipe = raw.indexOf('|')
+  if (pipe === -1) return { viewBox: '0 0 128 128', points: raw }
+  return { viewBox: raw.slice(0, pipe), points: raw.slice(pipe + 1) }
+}
+
 // --- Terrain icons ---
 
 const TERRAIN_ICONS: Record<string, typeof Milestone> = {
@@ -403,21 +411,26 @@ function ModalContent({
       {/* Route SVG — top visual */}
       {ride.routePath && (
         <div className="relative flex items-center justify-center overflow-hidden bg-gray-50 py-4 dark:bg-gray-800/50">
-          <svg
-            viewBox="0 0 64 64"
-            className="text-primary-400/60 dark:text-primary-500/40 h-32 w-32"
-            aria-hidden="true"
-          >
-            <polyline
-              points={ride.routePath}
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="1.2"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              vectorEffect="non-scaling-stroke"
-            />
-          </svg>
+          {(() => {
+            const { viewBox, points } = parseRoutePreview(ride.routePath)
+            return (
+              <svg
+                viewBox={viewBox}
+                className="text-primary-400/60 dark:text-primary-500/40 h-32 w-full max-w-xs"
+                aria-hidden="true"
+              >
+                <polyline
+                  points={points}
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  vectorEffect="non-scaling-stroke"
+                />
+              </svg>
+            )
+          })()}
           <button
             onClick={onClose}
             className="absolute top-3 right-3 rounded-lg bg-white/80 p-1.5 text-gray-400 backdrop-blur-sm transition-colors hover:text-gray-600 dark:bg-gray-900/80 dark:text-gray-500 dark:hover:text-gray-300"
