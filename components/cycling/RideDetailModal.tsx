@@ -402,20 +402,20 @@ function ModalContent({
     <>
       {/* Route SVG — top visual */}
       {ride.routePath && (
-        <div className="relative flex items-center justify-center overflow-hidden bg-gray-50 dark:bg-gray-800/50">
+        <div className="relative flex items-center justify-center overflow-hidden bg-gray-50 py-4 dark:bg-gray-800/50">
           <svg
             viewBox="0 0 64 64"
-            className="text-primary-400/60 dark:text-primary-500/40 h-28 w-full"
-            preserveAspectRatio="xMidYMid meet"
+            className="text-primary-400/60 dark:text-primary-500/40 h-32 w-32"
             aria-hidden="true"
           >
             <polyline
               points={ride.routePath}
               fill="none"
               stroke="currentColor"
-              strokeWidth="1"
+              strokeWidth="1.2"
               strokeLinecap="round"
               strokeLinejoin="round"
+              vectorEffect="non-scaling-stroke"
             />
           </svg>
           <button
