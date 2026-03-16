@@ -24,6 +24,8 @@ export default function CyclingPage() {
     recentStats,
     weeklyMileage,
     recentRides,
+    rideBenchmarks,
+    rideHistory,
     terrainCategories,
     powerStats,
     heartRateStats,
@@ -70,12 +72,16 @@ export default function CyclingPage() {
         elevation={rideStats.totalElevation}
       />
       <LazyRideHeatmap />
-      <YearInReview ytd={ytdStats} recent={recentStats} />
-      <WeeklyMileageChart data={weeklyMileage} />
+      <div className="content-defer">
+        <YearInReview ytd={ytdStats} recent={recentStats} />
+      </div>
+      <div className="content-defer">
+        <WeeklyMileageChart data={weeklyMileage} />
+      </div>
 
-      <div className="grid min-w-0 items-start gap-x-8 pt-2 md:grid-cols-3">
+      <div className="content-defer grid min-w-0 items-start gap-x-8 pt-2 md:grid-cols-3">
         <Suspense fallback={<RidesSkeleton />}>
-          <RecentRides rides={recentRides} />
+          <RecentRides rides={recentRides} benchmarks={rideBenchmarks} history={rideHistory} />
         </Suspense>
         <div className="min-w-0 md:sticky md:top-20">
           <TerrainBreakdown categories={terrainCategories} />

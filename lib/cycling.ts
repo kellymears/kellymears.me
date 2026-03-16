@@ -63,19 +63,57 @@ export interface RideTerrain {
   unpaved: number
 }
 
+export interface RideRaw {
+  distance: number
+  movingTime: number
+  elevation: number
+  speed: number
+  heartRate: number | null
+  power: number | null
+  calories: number | null
+}
+
+export interface PeriodAverages {
+  d30: number | null
+  d90: number | null
+  year: number | null
+}
+
+export interface RideBenchmarks {
+  distance: PeriodAverages
+  elevation: PeriodAverages
+  speed: PeriodAverages
+  movingTime: PeriodAverages
+  heartRate: PeriodAverages | null
+  power: PeriodAverages | null
+}
+
+export interface RideHistory {
+  distances: number[]
+  speeds: number[]
+  elevations: number[]
+}
+
 export interface RecentRide {
   id: string
   name: string
   date: string
   distance: string
   duration: string
+  elapsedTime: string
   elevation: string
   speed: string
+  maxSpeed: string | null
   heartrate: string | null
+  maxHeartrate: string | null
   watts: string | null
+  maxWatts: string | null
+  calories: string | null
+  source: string
   sportType: string
   terrain: RideTerrain | null
   routePath: string | null
+  raw: RideRaw
 }
 
 export interface TerrainCategory {
@@ -106,6 +144,8 @@ export interface CyclingPageData {
   recentStats: PeriodStats
   weeklyMileage: WeeklyMileage[]
   recentRides: RecentRide[]
+  rideBenchmarks: RideBenchmarks
+  rideHistory: RideHistory
   terrainCategories: TerrainCategory[]
   powerStats: PowerStats | null
   heartRateStats: HeartRateStats | null
@@ -259,10 +299,16 @@ function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
       }),
       distance: `${(a.distance * METERS_TO_MILES).toFixed(1)} mi`,
       duration: formatDuration(a.movingTime),
+      elapsedTime: formatDuration(a.elapsedTime),
       elevation: `${Math.round(a.elevationGain * METERS_TO_FEET).toLocaleString()} ft`,
       speed: `${(a.avgSpeed * MPS_TO_MPH).toFixed(1)} mph`,
+      maxSpeed: a.maxSpeed > 0 ? `${(a.maxSpeed * MPS_TO_MPH).toFixed(1)} mph` : null,
       heartrate: a.avgHeartRate ? `${Math.round(a.avgHeartRate)} bpm` : null,
+      maxHeartrate: a.maxHeartRate ? `${Math.round(a.maxHeartRate)} bpm` : null,
       watts: a.avgPower ? `${Math.round(a.avgPower)}W` : null,
+      maxWatts: a.maxPower ? `${Math.round(a.maxPower)}W` : null,
+      calories: a.calories ? `${Math.round(a.calories).toLocaleString()} kcal` : null,
+      source: a.source,
       sportType: a.sportType,
       terrain: a.terrain
         ? {
@@ -272,7 +318,91 @@ function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
           }
         : null,
       routePath: a.routePreview,
+      raw: {
+        distance: Math.round(a.distance * METERS_TO_MILES * 10) / 10,
+        movingTime: a.movingTime,
+        elevation: Math.round(a.elevationGain * METERS_TO_FEET),
+        speed: Math.round(a.avgSpeed * MPS_TO_MPH * 10) / 10,
+        heartRate: a.avgHeartRate ? Math.round(a.avgHeartRate) : null,
+        power: a.avgPower ? Math.round(a.avgPower) : null,
+        calories: a.calories ? Math.round(a.calories) : null,
+      },
     }))
+}
+
+function avgForPeriod(
+  rides: NormalizedActivity[],
+  cutoff: string,
+  getter: (r: NormalizedActivity) => number | null
+): number | null {
+  const values = rides
+    .filter((r) => r.startTime >= cutoff)
+    .map(getter)
+    .filter((v): v is number => v !== null && v > 0)
+  if (values.length < 3) return null
+  return Math.round((values.reduce((a, b) => a + b, 0) / values.length) * 10) / 10
+}
+
+function computeRideBenchmarks(rides: NormalizedActivity[]): RideBenchmarks {
+  const now = new Date()
+  const d30 = new Date(now)
+  d30.setDate(d30.getDate() - 30)
+  const d90 = new Date(now)
+  d90.setDate(d90.getDate() - 90)
+
+  const c30 = d30.toISOString()
+  const c90 = d90.toISOString()
+  const cYear = `${now.getFullYear()}-01-01T00:00:00`
+
+  // Exclude virtual rides from real-world benchmarks
+  const real = rides.filter((r) => !new Set(['VirtualRide']).has(r.sportType))
+
+  function periods(getter: (r: NormalizedActivity) => number | null): PeriodAverages {
+    return {
+      d30: avgForPeriod(real, c30, getter),
+      d90: avgForPeriod(real, c90, getter),
+      year: avgForPeriod(real, cYear, getter),
+    }
+  }
+
+  const hrRides = real.filter((r) => r.avgHeartRate)
+  const pwrRides = real.filter((r) => r.avgPower)
+
+  return {
+    distance: periods((r) => r.distance * METERS_TO_MILES),
+    elevation: periods((r) => r.elevationGain * METERS_TO_FEET),
+    speed: periods((r) => r.avgSpeed * MPS_TO_MPH),
+    movingTime: periods((r) => r.movingTime / 60), // minutes
+    heartRate:
+      hrRides.length >= 3
+        ? {
+            d30: avgForPeriod(hrRides, c30, (r) => r.avgHeartRate),
+            d90: avgForPeriod(hrRides, c90, (r) => r.avgHeartRate),
+            year: avgForPeriod(hrRides, cYear, (r) => r.avgHeartRate),
+          }
+        : null,
+    power:
+      pwrRides.length >= 3
+        ? {
+            d30: avgForPeriod(pwrRides, c30, (r) => r.avgPower),
+            d90: avgForPeriod(pwrRides, c90, (r) => r.avgPower),
+            year: avgForPeriod(pwrRides, cYear, (r) => r.avgPower),
+          }
+        : null,
+  }
+}
+
+function computeRideHistory(rides: NormalizedActivity[]): RideHistory {
+  const real = [...rides]
+    .filter((r) => !new Set(['VirtualRide']).has(r.sportType))
+    .sort((a, b) => b.startTime.localeCompare(a.startTime))
+    .slice(0, 50)
+
+  return {
+    distances: real.map((r) => Math.round(r.distance * METERS_TO_MILES * 10) / 10),
+    speeds: real.map((r) => Math.round(r.avgSpeed * MPS_TO_MPH * 10) / 10),
+    elevations: real.map((r) => Math.round(r.elevationGain * METERS_TO_FEET)),
+  }
 }
 
 function computeRideCategories(rides: NormalizedActivity[]): RideCategory[] {
@@ -395,6 +525,8 @@ export function getCyclingPageData(): CyclingPageData {
     recentStats: computePeriodStats(rides, recentCutoff.toISOString()),
     weeklyMileage: computeWeeklyMileage(rides),
     recentRides: computeRecentRides(rides),
+    rideBenchmarks: computeRideBenchmarks(rides),
+    rideHistory: computeRideHistory(rides),
     terrainCategories: computeTerrainCategories(rides),
     powerStats: computePowerStats(rides),
     heartRateStats: computeHeartRateStats(rides),

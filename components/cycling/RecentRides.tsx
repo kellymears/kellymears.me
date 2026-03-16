@@ -1,9 +1,14 @@
 'use client'
 
-import { Suspense, useState } from 'react'
+import { Suspense, useCallback, useState } from 'react'
 import { Card } from '@/components/Card'
-import type { RecentRide, RideTerrain } from '@/lib/cycling'
+import type { RecentRide, RideBenchmarks, RideHistory, RideTerrain } from '@/lib/cycling'
 import { RIDE_TYPE_ACCENT, RIDE_TYPE_SHORT_LABELS, TERRAIN_COLORS } from '@/lib/cycling-constants'
+import dynamic from 'next/dynamic'
+
+const importModal = () => import('./RideDetailModal').then((m) => ({ default: m.RideDetailModal }))
+const RideDetailModal = dynamic(importModal, { ssr: false })
+const preloadModal = () => void importModal()
 import {
   ChevronDown,
   Clock,
@@ -80,12 +85,25 @@ function RouteMini({ points, className }: { points: string; className?: string }
 
 // --- Ride card ---
 
-function RideCard({ ride, index }: { ride: RecentRide; index: number }) {
+function RideCard({
+  ride,
+  index,
+  onClick,
+}: {
+  ride: RecentRide
+  index: number
+  onClick: () => void
+}) {
   return (
     <Card
+      as="button"
+      type="button"
       variant="stat"
       role="listitem"
-      className="animate-fade-slide-up overflow-hidden px-4 py-3.5 duration-200 hover:shadow-sm dark:hover:shadow-gray-950/50"
+      onClick={onClick}
+      onMouseEnter={preloadModal}
+      onFocus={preloadModal}
+      className="animate-fade-slide-up w-full cursor-pointer overflow-hidden px-4 py-3.5 text-left duration-200 hover:shadow-sm dark:hover:shadow-gray-950/50"
       style={{ animationDelay: `${index * 60}ms` }}
     >
       <div className="flex gap-3">
@@ -200,11 +218,15 @@ export function RidesSkeleton({ count = INITIAL_COUNT }: { count?: number }) {
 
 interface RecentRidesProps {
   rides: RecentRide[]
+  benchmarks: RideBenchmarks
+  history: RideHistory
 }
 
-export function RecentRides({ rides }: RecentRidesProps) {
+export function RecentRides({ rides, benchmarks, history }: RecentRidesProps) {
   const [visibleCount, setVisibleCount] = useState(INITIAL_COUNT)
   const [loadingIndices, setLoadingIndices] = useState(new Set<number>())
+  const [selectedRide, setSelectedRide] = useState<RecentRide | null>(null)
+  const openRide = useCallback((ride: RecentRide) => setSelectedRide(ride), [])
 
   if (rides.length === 0) return null
 
@@ -244,7 +266,11 @@ export function RecentRides({ rides }: RecentRidesProps) {
       <div className="space-y-3" role="list">
         {rides.slice(0, visibleCount).map((ride, i) => (
           <Suspense key={ride.id} fallback={<RideCardSkeleton />}>
-            {loadingIndices.has(i) ? <RideCardSkeleton /> : <RideCard ride={ride} index={i} />}
+            {loadingIndices.has(i) ? (
+              <RideCardSkeleton />
+            ) : (
+              <RideCard ride={ride} index={i} onClick={() => openRide(ride)} />
+            )}
           </Suspense>
         ))}
       </div>
@@ -258,6 +284,14 @@ export function RecentRides({ rides }: RecentRidesProps) {
           Show more rides
         </button>
       )}
+
+      <RideDetailModal
+        ride={selectedRide}
+        benchmarks={benchmarks}
+        history={history}
+        open={selectedRide !== null}
+        onClose={() => setSelectedRide(null)}
+      />
     </section>
   )
 }
