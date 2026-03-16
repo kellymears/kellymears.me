@@ -2,12 +2,13 @@ import { CyclingStats } from '@/components/cycling/CyclingStats'
 import { FunFacts } from '@/components/cycling/FunFacts'
 import { LazyRideHeatmap } from '@/components/cycling/LazyRideHeatmap'
 import { PerformanceMetrics } from '@/components/cycling/PerformanceMetrics'
-import { RecentRides } from '@/components/cycling/RecentRides'
+import { RecentRides, RidesSkeleton } from '@/components/cycling/RecentRides'
 import { RideAverages } from '@/components/cycling/RideAverages'
 import { TerrainBreakdown } from '@/components/cycling/TerrainBreakdown'
 import { WeeklyMileageChart } from '@/components/cycling/WeeklyMileageChart'
 import { YearInReview } from '@/components/cycling/YearInReview'
 import { getCyclingPageData } from '@/lib/cycling'
+import { Suspense } from 'react'
 import { genPageMetadata } from 'app/seo'
 
 export const metadata = genPageMetadata({
@@ -73,7 +74,9 @@ export default function CyclingPage() {
       <WeeklyMileageChart data={weeklyMileage} />
 
       <div className="grid min-w-0 items-start gap-x-8 pt-2 md:grid-cols-3">
-        <RecentRides rides={recentRides} />
+        <Suspense fallback={<RidesSkeleton />}>
+          <RecentRides rides={recentRides} />
+        </Suspense>
         <div className="min-w-0 md:sticky md:top-20">
           <TerrainBreakdown categories={terrainCategories} />
           <RideAverages stats={rideStats} weeklyMileage={weeklyMileage} />

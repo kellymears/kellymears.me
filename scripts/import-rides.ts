@@ -57,6 +57,7 @@ interface ParsedActivity {
   maxPower: number | null
   calories: number | null
   terrain: TerrainBreakdown | null
+  routePreview: string | null
   gps: [number, number][] // [lat, lng] in degrees
 }
 
@@ -87,6 +88,53 @@ function generateName(sportType: string, startTime: string): string {
     minute: '2-digit',
   })
   return `${label} – ${time}`
+}
+
+// --- Route preview (SVG polyline for mini map) ---
+
+function computeRoutePreview(coords: [number, number][]): string | null {
+  if (coords.length < 2) return null
+
+  // Subsample to ~25 points
+  let sampled = coords
+  if (coords.length > 30) {
+    const step = Math.ceil(coords.length / 25)
+    sampled = coords.filter((_, i) => i % step === 0)
+    if (sampled[sampled.length - 1] !== coords[coords.length - 1]) {
+      sampled.push(coords[coords.length - 1]!)
+    }
+  }
+
+  let minLat = Infinity
+  let maxLat = -Infinity
+  let minLng = Infinity
+  let maxLng = -Infinity
+  for (const [lat, lng] of sampled) {
+    if (lat < minLat) minLat = lat
+    if (lat > maxLat) maxLat = lat
+    if (lng < minLng) minLng = lng
+    if (lng > maxLng) maxLng = lng
+  }
+
+  const latRange = maxLat - minLat || 0.0001
+  const lngRange = maxLng - minLng || 0.0001
+  const cosLat = Math.cos((((minLat + maxLat) / 2) * Math.PI) / 180)
+
+  const SIZE = 64
+  const P = 4
+  const inner = SIZE - P * 2
+  const adjLngRange = lngRange * cosLat
+  const scale = Math.min(inner / adjLngRange, inner / latRange)
+  const scaledW = adjLngRange * scale
+  const scaledH = latRange * scale
+
+  return sampled
+    .map(([lat, lng]) => {
+      const x = P + (inner - scaledW) / 2 + (lng - minLng) * cosLat * scale
+      const y = P + (inner - scaledH) / 2 + (maxLat - lat) * scale
+      return `${x.toFixed(1)},${y.toFixed(1)}`
+    })
+    .join(' ')
 }
 
 // --- Phase 2: Parse ---
@@ -156,6 +204,7 @@ function parseFitFile(filename: string): ParsedActivity | null {
     maxPower: session.maxPower ?? null,
     calories: session.totalCalories ?? null,
     terrain: null,
+    routePreview: computeRoutePreview(gps),
     gps,
   }
 }

@@ -1,8 +1,14 @@
-import { LanguageDot } from '@/components/icons'
 import type { TerrainCategory } from '@/lib/cycling'
+import { Milestone, Route, TreePine } from 'lucide-react'
 
 interface TerrainBreakdownProps {
   categories: TerrainCategory[]
+}
+
+const TERRAIN_ICONS: Record<string, typeof Milestone> = {
+  road: Milestone,
+  pavedPath: Route,
+  unpaved: TreePine,
 }
 
 export function TerrainBreakdown({ categories }: TerrainBreakdownProps) {
@@ -24,7 +30,7 @@ export function TerrainBreakdown({ categories }: TerrainBreakdownProps) {
         role="img"
         aria-label={`Terrain distribution across ${totalMiles.toLocaleString()} miles: ${barDescription}`}
       >
-        <div className="animate-grow-width flex h-4">
+        <div className="animate-grow-width flex h-3">
           {categories.map((cat) => (
             <div
               key={cat.key}
@@ -40,24 +46,46 @@ export function TerrainBreakdown({ categories }: TerrainBreakdownProps) {
         </div>
       </div>
 
-      <div className="space-y-2.5" role="list">
-        {categories.map((cat, i) => (
-          <div
-            key={cat.key}
-            className="flex items-center gap-2.5 transition-transform duration-200 hover:translate-x-1"
-            role="listitem"
-            style={{ animationDelay: `${i * 60}ms` }}
-          >
-            <LanguageDot
-              color={cat.color}
-              className="inline-block h-3 w-3 shrink-0 rounded-full shadow-sm"
-            />
-            <span className="text-sm font-medium text-gray-700 dark:text-gray-300">{cat.name}</span>
-            <span className="text-xs text-gray-500 dark:text-gray-400">
-              {cat.miles.toLocaleString()} mi · {cat.percentage}%
-            </span>
-          </div>
-        ))}
+      <div className="space-y-3" role="list">
+        {categories.map((cat, i) => {
+          const Icon = TERRAIN_ICONS[cat.key]
+          return (
+            <div
+              key={cat.key}
+              className="flex items-center gap-3 transition-transform duration-200 hover:translate-x-1"
+              role="listitem"
+              style={{ animationDelay: `${i * 60}ms` }}
+            >
+              <span
+                className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg"
+                style={{ backgroundColor: `${cat.color}18`, color: cat.color }}
+              >
+                {Icon && <Icon size={14} strokeWidth={2.5} />}
+              </span>
+              <div className="min-w-0 flex-1">
+                <div className="flex items-baseline justify-between gap-2">
+                  <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
+                    {cat.name}
+                  </span>
+                  <span className="text-xs font-semibold text-gray-900 tabular-nums dark:text-gray-100">
+                    {cat.miles.toLocaleString()} mi
+                  </span>
+                </div>
+                <div className="mt-0.5 flex items-center gap-2">
+                  <div className="h-1 flex-1 overflow-hidden rounded-full bg-gray-100 dark:bg-gray-800">
+                    <div
+                      className="animate-grow-width h-full rounded-full"
+                      style={{ width: `${cat.percentage}%`, backgroundColor: cat.color }}
+                    />
+                  </div>
+                  <span className="w-9 text-right text-[11px] text-gray-400 tabular-nums dark:text-gray-500">
+                    {cat.percentage}%
+                  </span>
+                </div>
+              </div>
+            </div>
+          )
+        })}
       </div>
     </section>
   )
