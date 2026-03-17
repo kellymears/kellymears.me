@@ -1,49 +1,26 @@
-import { FlatCompat } from '@eslint/eslintrc'
 import js from '@eslint/js'
-import typescriptEslint from '@typescript-eslint/eslint-plugin'
-import tsParser from '@typescript-eslint/parser'
-import globals from 'globals'
-import path from 'node:path'
-import { fileURLToPath } from 'node:url'
+import nextConfig from 'eslint-config-next/core-web-vitals'
+import prettierConfig from 'eslint-config-prettier'
+import prettierPlugin from 'eslint-plugin-prettier'
 
-const baseDirectory = path.dirname(fileURLToPath(import.meta.url))
-const compat = new FlatCompat({ baseDirectory })
+const jsxA11yPlugin = nextConfig.find((c) => c.plugins?.['jsx-a11y'])?.plugins?.['jsx-a11y']
 
-const config = [
-  { ignores: [] },
+export default [
   js.configs.recommended,
-  ...compat.extends(
-    'plugin:@typescript-eslint/eslint-recommended',
-    'plugin:@typescript-eslint/recommended',
-    'plugin:jsx-a11y/recommended',
-    'plugin:prettier/recommended',
-    'next',
-    'next/core-web-vitals'
-  ),
+  ...nextConfig,
+  prettierConfig,
   {
-    plugins: { '@typescript-eslint': typescriptEslint },
-
-    languageOptions: {
-      globals: {
-        ...globals.browser,
-        ...globals.amd,
-        ...globals.node,
-      },
-
-      parser: tsParser,
-      ecmaVersion: 5,
-      sourceType: 'commonjs',
-
-      parserOptions: {
-        project: true,
-        tsconfigRootDir: baseDirectory,
-      },
+    plugins: {
+      prettier: prettierPlugin,
+      ...(jsxA11yPlugin && { 'jsx-a11y': jsxA11yPlugin }),
     },
-
     rules: {
+      'no-unused-vars': 'off',
+      'no-undef': 'off',
       'prettier/prettier': 'error',
       'react/react-in-jsx-scope': 'off',
-
+      'react/no-unescaped-entities': 'off',
+      'react/prop-types': 'off',
       'jsx-a11y/anchor-is-valid': [
         'error',
         {
@@ -52,14 +29,11 @@ const config = [
           aspects: ['invalidHref', 'preferButton'],
         },
       ],
-      'react/prop-types': 'off',
       '@typescript-eslint/no-unused-vars': 'off',
-      'react/no-unescaped-entities': 'off',
       '@typescript-eslint/explicit-module-boundary-types': 'off',
       '@typescript-eslint/no-var-requires': 'off',
       '@typescript-eslint/ban-ts-comment': 'off',
+      'react-hooks/set-state-in-effect': 'off',
     },
   },
 ]
-
-export default config
