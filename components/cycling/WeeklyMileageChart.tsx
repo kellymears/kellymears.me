@@ -67,7 +67,12 @@ interface MileageBarChartProps {
   monthFontSize?: number
 }
 
-function MileageBarChart({ weeks, maxLabels, avgFontSize = 9, monthFontSize = 10 }: MileageBarChartProps) {
+function MileageBarChart({
+  weeks,
+  maxLabels,
+  avgFontSize = 9,
+  monthFontSize = 10,
+}: MileageBarChartProps) {
   const { tooltip, show, hide } = useSvgTooltip()
 
   const maxDistance = Math.max(...weeks.map((w) => w.distance), 1)
@@ -93,8 +98,7 @@ function MileageBarChart({ weeks, maxLabels, avgFontSize = 9, monthFontSize = 10
     maxLabels && allMonthLabels.length > maxLabels
       ? Array.from(
           { length: maxLabels },
-          (_, i) =>
-            allMonthLabels[Math.round((i * (allMonthLabels.length - 1)) / (maxLabels - 1))]!
+          (_, i) => allMonthLabels[Math.round((i * (allMonthLabels.length - 1)) / (maxLabels - 1))]!
         )
       : allMonthLabels
 
@@ -211,9 +215,9 @@ function MileageStats({ weeks, className }: { weeks: WeeklyMileage[]; className?
 // --- Main ---
 
 export function WeeklyMileageChart({ data }: WeeklyMileageChartProps) {
-  if (data.length === 0) return null
-
   const mobileWeeks = useMemo(() => data.slice(-13), [data])
+
+  if (data.length === 0) return null
 
   return (
     <section className="animate-on-scroll py-8" aria-label="Weekly mileage chart">
