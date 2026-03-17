@@ -56,9 +56,12 @@ function computeVisibleBounds(rides: RidesData['rides']): RideBounds {
     return c.lat >= loLat && c.lat <= hiLat && c.lng >= loLng && c.lng <= hiLng
   })
 
-  const { minX: minLat, maxX: maxLat, minY: minLng, maxY: maxLng } = bounds2d(
-    inlierRides.flatMap((r) => r.coordinates),
-  )
+  const {
+    minX: minLat,
+    maxX: maxLat,
+    minY: minLng,
+    maxY: maxLng,
+  } = bounds2d(inlierRides.flatMap((r) => r.coordinates))
 
   const latSpan = maxLat - minLat
   const lngSpan = maxLng - minLng

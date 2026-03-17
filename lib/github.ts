@@ -339,7 +339,7 @@ export function computeContributionStats(calendar: ContributionData): Contributi
 export function computeLanguages(repos: Repository[]): LanguageBreakdown[] {
   const counts = countBy(
     repos.filter((r) => r.language),
-    (r) => r.language!,
+    (r) => r.language!
   )
 
   const total = [...counts.values()].reduce((a, b) => a + b, 0)

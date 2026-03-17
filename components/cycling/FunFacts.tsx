@@ -529,7 +529,6 @@ export function FunFacts({ energy, miles, elevation }: FunFactsProps) {
               </div>
 
               {openTooltip === fact.category && (
-                // eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-noninteractive-element-interactions
                 <aside
                   onClick={(e) => e.stopPropagation()}
                   className="absolute inset-x-3 z-50 mt-2 rounded-lg border border-gray-200 bg-white p-3 text-left shadow-lg dark:border-gray-700 dark:bg-gray-800"

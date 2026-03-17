@@ -32,7 +32,9 @@ export function SiteCard({ site, className, style }: SiteCardProps) {
       style={style}
     >
       <div className="flex items-start gap-4 p-5">
-        <div className={`flex shrink-0 items-center justify-center rounded-xl p-2.5 ${accent.iconBg}`}>
+        <div
+          className={`flex shrink-0 items-center justify-center rounded-xl p-2.5 ${accent.iconBg}`}
+        >
           <SiteIcon icon={site.icon} className={accent.iconText} />
         </div>
 

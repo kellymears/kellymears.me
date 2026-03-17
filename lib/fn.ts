@@ -19,10 +19,7 @@ export function countBy<T>(items: T[], keyFn: (item: T) => string): Map<string, 
   return map
 }
 
-export function countByRecord<T>(
-  items: T[],
-  keyFn: (item: T) => string,
-): Record<string, number> {
+export function countByRecord<T>(items: T[], keyFn: (item: T) => string): Record<string, number> {
   const record: Record<string, number> = {}
   for (const item of items) {
     const key = keyFn(item)

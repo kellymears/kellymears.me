@@ -72,7 +72,7 @@ export function RepositoryCard({ repo }: RepositoryCardProps) {
     >
       <RepoCardContent repo={repo} />
       {repo.pushed_at && (
-        <span className="ml-auto mt-1 text-xs text-gray-500 opacity-0 transition-opacity duration-200 group-hover:opacity-100 dark:text-gray-400">
+        <span className="mt-1 ml-auto text-xs text-gray-500 opacity-0 transition-opacity duration-200 group-hover:opacity-100 dark:text-gray-400">
           {formatUpdated(repo.pushed_at)}
         </span>
       )}

@@ -256,8 +256,7 @@ function computeWeeklyMileage(rides: NormalizedActivity[]): WeeklyMileage[] {
     .sort((a, b) => a[0].localeCompare(b[0]))
     .map(([weekStart, weekRides]) => ({
       weekStart,
-      distance:
-        Math.round(sumBy(weekRides, (r) => r.distance * METERS_TO_MILES) * 10) / 10,
+      distance: Math.round(sumBy(weekRides, (r) => r.distance * METERS_TO_MILES) * 10) / 10,
       rides: weekRides.length,
       elevation: Math.round(sumBy(weekRides, (r) => r.elevationGain * METERS_TO_FEET)),
     }))

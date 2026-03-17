@@ -175,7 +175,7 @@ const getTagCounts = (posts: BlogPost[]): Record<string, number> => {
     posts
       .filter((p) => p.tags && (!isProduction || p.draft !== true))
       .flatMap((p) => p.tags.map((t) => slug(t))),
-    (t) => t,
+    (t) => t
   )
 }
 
