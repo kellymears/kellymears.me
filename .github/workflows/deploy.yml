@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 5 * * *" # midnight EST / 5:00 UTC
+    - cron: '0 5 * * *' # midnight EST / 5:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -32,6 +32,6 @@ jobs:
       - name: Deploy to Netlify
         run: npx netlify-cli deploy --prod
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_STATS_TOKEN: ${{ secrets.GH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
