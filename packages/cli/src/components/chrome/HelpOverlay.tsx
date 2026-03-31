@@ -14,22 +14,22 @@ export function HelpOverlay({ width: _width }: Props) {
   }
 
   return (
-    <Box flexDirection="column" paddingTop={1}>
-      <Text color={theme.border}>{`  ╭${'─'.repeat(inner)}╮`}</Text>
-      <Text color={theme.text}>{'  │' + '  Keyboard Shortcuts'.padEnd(inner) + '│'}</Text>
-      <Text color={theme.border}>{`  ├${'─'.repeat(inner)}┤`}</Text>
-      <Text color={theme.border}>{'  │' + ' '.repeat(inner) + '│'}</Text>
-      <Text color={theme.textDim}>{'  │' + line('← →  h l', 'Switch tabs') + '  │'}</Text>
-      <Text color={theme.textDim}>{'  │' + line('1-4', 'Jump to tab') + '  │'}</Text>
-      <Text color={theme.textDim}>{'  │' + line('Tab / S-Tab', 'Cycle tabs') + '  │'}</Text>
-      <Text color={theme.textDim}>{'  │' + line('↑ ↓  j k', 'Scroll') + '  │'}</Text>
-      <Text color={theme.textDim}>{'  │' + line('Enter', 'Open post') + '  │'}</Text>
-      <Text color={theme.textDim}>{'  │' + line('Esc', 'Back to list') + '  │'}</Text>
-      <Text color={theme.border}>{'  │' + ' '.repeat(inner) + '│'}</Text>
-      <Text color={theme.textDim}>{'  │' + line('q', 'Quit') + '  │'}</Text>
-      <Text color={theme.textDim}>{'  │' + line('?', 'Toggle help') + '  │'}</Text>
-      <Text color={theme.border}>{'  │' + ' '.repeat(inner) + '│'}</Text>
-      <Text color={theme.border}>{`  ╰${'─'.repeat(inner)}╯`}</Text>
+    <Box flexDirection="column">
+      <Text color={theme.border}>{`╭${'─'.repeat(inner)}╮`}</Text>
+      <Text color={theme.text}>{'│' + '  Keyboard Shortcuts'.padEnd(inner) + '│'}</Text>
+      <Text color={theme.border}>{`├${'─'.repeat(inner)}┤`}</Text>
+      <Text color={theme.border}>{'│' + ' '.repeat(inner) + '│'}</Text>
+      <Text color={theme.textDim}>{'│' + line('← →  h l', 'Switch tabs') + '  │'}</Text>
+      <Text color={theme.textDim}>{'│' + line('1-4', 'Jump to tab') + '  │'}</Text>
+      <Text color={theme.textDim}>{'│' + line('Tab / S-Tab', 'Cycle tabs') + '  │'}</Text>
+      <Text color={theme.textDim}>{'│' + line('↑ ↓  j k', 'Scroll') + '  │'}</Text>
+      <Text color={theme.textDim}>{'│' + line('Enter', 'Open post') + '  │'}</Text>
+      <Text color={theme.textDim}>{'│' + line('Esc', 'Back to list') + '  │'}</Text>
+      <Text color={theme.border}>{'│' + ' '.repeat(inner) + '│'}</Text>
+      <Text color={theme.textDim}>{'│' + line('q', 'Quit') + '  │'}</Text>
+      <Text color={theme.textDim}>{'│' + line('?', 'Toggle help') + '  │'}</Text>
+      <Text color={theme.border}>{'│' + ' '.repeat(inner) + '│'}</Text>
+      <Text color={theme.border}>{`╰${'─'.repeat(inner)}╯`}</Text>
     </Box>
   )
 }

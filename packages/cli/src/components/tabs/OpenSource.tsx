@@ -11,6 +11,7 @@ import { ScrollIndicator } from '../shared/ScrollIndicator.js'
 interface Props {
   wide: boolean
   width: number
+  height: number
 }
 
 function formatNumber(n: number): string {
@@ -115,10 +116,7 @@ function SectionHeading({ text }: { text: string }) {
   )
 }
 
-const VIEWPORT_HEIGHT = 8
-
-export function OpenSource({ wide, width }: Props) {
-  // Actual chars available per line (chrome: border + padding)
+export function OpenSource({ wide, width, height }: Props) {
   const lineWidth = Math.max(40, wide ? width - 6 : width - 4)
   const estimateLines = (text: string) => Math.ceil(text.length / lineWidth)
 
@@ -149,8 +147,11 @@ export function OpenSource({ wide, width }: Props) {
     items.push({ node: <ActivityGroup key={group.date} group={group} />, lines: 1 })
   }
 
+  // stats(2) + divider(1) + indicator(1) + divider(1) + languages(1) + progressbar(2) + gaps(5) ≈ 13
+  const scrollViewport = Math.max(4, height - 13)
+
   return (
-    <Box flexDirection="column" gap={1}>
+    <Box flexDirection="column" gap={1} flexGrow={1}>
       {/* Zone 1: Fixed stats */}
       <Box justifyContent="space-around">
         <StatCard value={String(github.repos)} label="Public Repos" />
@@ -161,12 +162,14 @@ export function OpenSource({ wide, width }: Props) {
 
       <Divider width={width} />
 
-      {/* Zone 2: Scrollable viewport (fixed height) */}
-      <ScrollView items={items} viewportHeight={VIEWPORT_HEIGHT} isActive={true}>
+      {/* Zone 2: Scrollable viewport */}
+      <ScrollView items={items} viewportHeight={scrollViewport} isActive={true}>
         {(state) => <ScrollIndicator {...state} />}
       </ScrollView>
 
-      {/* Zone 3: Fixed languages */}
+      <Box flexGrow={1} />
+
+      {/* Zone 3: Fixed languages (footer) */}
       <Divider width={width} />
       <Text bold color={theme.text}>
         Languages

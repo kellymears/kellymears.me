@@ -7,6 +7,12 @@ if (!process.stdout.isTTY) {
   process.exit(0)
 }
 
+// Enter fullscreen (alternate screen buffer + hide cursor)
+process.stdout.write('\x1b[?1049h\x1b[?25l')
+process.on('exit', () => {
+  process.stdout.write('\x1b[?25h\x1b[?1049l')
+})
+
 const instance = render(<App />, {
   exitOnCtrlC: true,
   patchConsole: true,

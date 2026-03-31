@@ -4,20 +4,83 @@ import { cycling } from '../../data.js'
 import { StatCard } from '../shared/StatCard.js'
 import { ProgressBar } from '../shared/ProgressBar.js'
 import { Divider } from '../shared/Divider.js'
+import { ScrollView, type ScrollItem } from '../shared/ScrollView.js'
+import { ScrollIndicator } from '../shared/ScrollIndicator.js'
 
 interface Props {
   wide: boolean
   width: number
+  height: number
 }
 
 function fmt(n: number): string {
   return n.toLocaleString('en-US')
 }
 
-export function Cycling({ wide, width }: Props) {
+function RideRow({ ride }: { ride: (typeof cycling.recentRides)[number] }) {
   return (
-    <Box flexDirection="column" gap={1}>
-      {/* Stats row */}
+    <Box justifyContent="space-between">
+      <Text color={theme.textDim} wrap="truncate-end">
+        {ride.name}
+      </Text>
+      <Text color={theme.text}>
+        {' '}
+        {ride.distance} · {ride.duration}
+      </Text>
+    </Box>
+  )
+}
+
+export function Cycling({ wide, width, height }: Props) {
+  // Build scrollable items: categories + rides
+  const items: ScrollItem[] = []
+
+  items.push({
+    node: (
+      <Text key="cat-heading" bold color={theme.text}>
+        Categories
+      </Text>
+    ),
+    lines: 1,
+  })
+  items.push({
+    node: (
+      <ProgressBar
+        key="cat-bar"
+        width={wide ? width - 10 : width - 6}
+        segments={cycling.categories.map((c) => ({
+          label: c.name,
+          percentage: c.percentage,
+          color: c.color,
+        }))}
+      />
+    ),
+    lines: 2,
+  })
+
+  items.push({ node: <Divider key="div-rides" width={width} />, lines: 1 })
+
+  items.push({
+    node: (
+      <Text key="rides-heading" bold color={theme.text}>
+        Recent Rides
+      </Text>
+    ),
+    lines: 1,
+  })
+  for (const ride of cycling.recentRides) {
+    items.push({
+      node: <RideRow key={ride.name} ride={ride} />,
+      lines: 1,
+    })
+  }
+
+  // stats(2) + YTD(1) + divider(1) + indicator(1) + biggest(1) + gaps(4) ≈ 10
+  const scrollViewport = Math.max(4, height - 10)
+
+  return (
+    <Box flexDirection="column" gap={1} flexGrow={1}>
+      {/* Stats row (fixed top) */}
       <Box justifyContent="space-around" flexWrap="wrap">
         <StatCard value={`${fmt(cycling.totalMiles)}`} label="Miles" />
         <StatCard value={`${fmt(cycling.totalRides)}`} label="Rides" />
@@ -25,7 +88,7 @@ export function Cycling({ wide, width }: Props) {
         {wide && <StatCard value={`${fmt(cycling.totalHours)}`} label="Hours" />}
       </Box>
 
-      {/* YTD */}
+      {/* YTD (fixed top) */}
       <Box>
         <Text color={theme.text}>
           <Text bold>{new Date().getFullYear()} YTD</Text>
@@ -39,39 +102,15 @@ export function Cycling({ wide, width }: Props) {
 
       <Divider width={width} />
 
-      {/* Ride categories */}
-      <Text bold color={theme.text}>
-        Categories
-      </Text>
-      <ProgressBar
-        width={wide ? width - 10 : width - 6}
-        segments={cycling.categories.map((c) => ({
-          label: c.name,
-          percentage: c.percentage,
-          color: c.color,
-        }))}
-      />
+      {/* Scrollable middle */}
+      <ScrollView items={items} viewportHeight={scrollViewport} isActive={true}>
+        {(state) => <ScrollIndicator {...state} />}
+      </ScrollView>
 
-      <Divider width={width} />
+      <Box flexGrow={1} />
 
-      {/* Recent rides */}
-      <Text bold color={theme.text}>
-        Recent Rides
-      </Text>
-      {cycling.recentRides.map((ride, i) => (
-        <Box key={i} justifyContent="space-between">
-          <Text color={theme.textDim} wrap="truncate-end">
-            {ride.name}
-          </Text>
-          <Text color={theme.text}>
-            {' '}
-            {ride.distance} · {ride.duration}
-          </Text>
-        </Box>
-      ))}
-
-      {/* Biggest ride */}
-      <Box paddingTop={1}>
+      {/* Biggest ride (footer) */}
+      <Box>
         <Text color={theme.textMuted}>
           Biggest ride: <Text color={theme.primaryBright}>{cycling.biggestRide} mi</Text>
         </Text>

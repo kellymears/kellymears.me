@@ -10,6 +10,7 @@ import { renderMarkdown } from '../../markdown.js'
 interface Props {
   wide: boolean
   width: number
+  height: number
 }
 
 function formatDate(dateStr: string): string {
@@ -17,9 +18,7 @@ function formatDate(dateStr: string): string {
   return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
 }
 
-const READER_VIEWPORT = 14
-
-export function Writing({ wide, width }: Props) {
+export function Writing({ wide, width, height }: Props) {
   const textWidth = wide ? width - 6 : width - 4
   const [selectedIndex, setSelectedIndex] = useState(0)
   const [readingIndex, setReadingIndex] = useState<number | null>(null)
@@ -63,12 +62,15 @@ export function Writing({ wide, width }: Props) {
     }))
   }, [readingIndex, textWidth])
 
+  // header(2) + gap(1) + divider(1) + gap(1) + footer(1) = 6 rows of chrome
+  const readerViewport = Math.max(5, height - 6)
+
   // --- Reader mode ---
   if (isReading) {
     const post = writing[readingIndex!]
 
     return (
-      <Box flexDirection="column" gap={1}>
+      <Box flexDirection="column" gap={1} flexGrow={1}>
         {/* Header */}
         <Box flexDirection="column">
           <Text bold color={theme.text} textWidth={textWidth}>
@@ -82,8 +84,8 @@ export function Writing({ wide, width }: Props) {
 
         <Divider width={width} />
 
-        {/* Scrollable content (fixed height via ScrollView) */}
-        <ScrollView items={lineItems} viewportHeight={READER_VIEWPORT} isActive={isReading} gap={0}>
+        {/* Scrollable content — viewport fills available space */}
+        <ScrollView items={lineItems} viewportHeight={readerViewport} isActive={isReading} gap={0}>
           {({ canScrollUp, canScrollDown, aboveCount, belowCount }) => (
             <Box justifyContent="space-between">
               <InkText color={theme.textMuted}>Esc to go back</InkText>
@@ -103,7 +105,7 @@ export function Writing({ wide, width }: Props) {
 
   // --- List mode ---
   return (
-    <Box flexDirection="column" gap={1}>
+    <Box flexDirection="column" gap={1} flexGrow={1}>
       {writing.map((post, i) => {
         const isSelected = i === selectedIndex
         return (
@@ -131,6 +133,8 @@ export function Writing({ wide, width }: Props) {
           </Box>
         )
       })}
+
+      <Box flexGrow={1} />
 
       <Divider width={width} />
 

@@ -4,19 +4,28 @@ import { profile } from '../../data.js'
 import { Text } from '../shared/Text.js'
 import { Divider } from '../shared/Divider.js'
 import { Link } from '../shared/Link.js'
-import { Timeline } from '../shared/Timeline.js'
+import { ScrollView } from '../shared/ScrollView.js'
+import { ScrollIndicator } from '../shared/ScrollIndicator.js'
+import { buildTimelineItems } from '../shared/Timeline.js'
 
 interface Props {
   wide: boolean
   width: number
+  height: number
 }
 
-export function About({ wide, width }: Props) {
+export function About({ wide, width, height }: Props) {
   const textWidth = wide ? width - 6 : width - 4
   const name = wide ? profile.name.toUpperCase().split('').join(' ') : profile.name
 
+  const timelineItems = buildTimelineItems(wide, width)
+
+  // Approximate fixed rows: name(2) + bio(~2) + divider(1) + indicator(1) + divider(1) + links(3) + gaps(5) ≈ 15
+  const bioLines = Math.max(1, Math.ceil(profile.bio.length / Math.max(1, textWidth)))
+  const timelineViewport = Math.max(2, Math.floor((height - bioLines - 13) / 5))
+
   return (
-    <Box flexDirection="column" gap={1}>
+    <Box flexDirection="column" gap={1} flexGrow={1}>
       {/* Name + title */}
       <Box flexDirection="column">
         <Text bold color={theme.text}>
@@ -34,11 +43,16 @@ export function About({ wide, width }: Props) {
 
       <Divider width={width} />
 
-      <Timeline wide={wide} width={width} />
+      {/* Scrollable timeline */}
+      <ScrollView items={timelineItems} viewportHeight={timelineViewport} isActive={true} gap={0}>
+        {(state) => <ScrollIndicator {...state} />}
+      </ScrollView>
+
+      <Box flexGrow={1} />
 
       <Divider width={width} />
 
-      {/* Social links */}
+      {/* Social links (footer) */}
       {wide ? (
         <Box flexDirection="column" gap={0}>
           <Box gap={4}>
