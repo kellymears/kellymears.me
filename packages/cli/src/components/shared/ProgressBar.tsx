@@ -13,7 +13,7 @@ interface Props {
 }
 
 export function ProgressBar({ segments, width }: Props) {
-  const barWidth = Math.max(20, width - 4)
+  const barWidth = Math.max(20, width)
 
   const bar = segments
     .map((seg) => {
@@ -34,7 +34,7 @@ export function ProgressBar({ segments, width }: Props) {
   ))
 
   return (
-    <Box flexDirection="column" gap={0}>
+    <Box flexDirection="column" gap={1}>
       <Box>
         <Text>{bar}</Text>
       </Box>

@@ -175,13 +175,14 @@ export function OpenSource({ wide, width, height }: Props) {
         Languages
       </Text>
       <ProgressBar
-        width={wide ? width - 10 : width - 6}
+        width={wide ? width - 6 : width - 4}
         segments={github.languages.map((l) => ({
           label: l.name,
           percentage: l.percentage,
           color: l.color,
         }))}
       />
+      <Box height={1} />
     </Box>
   )
 }

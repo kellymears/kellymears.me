@@ -47,7 +47,7 @@ export function Cycling({ wide, width, height }: Props) {
     node: (
       <ProgressBar
         key="cat-bar"
-        width={wide ? width - 10 : width - 6}
+        width={wide ? width - 6 : width - 4}
         segments={cycling.categories.map((c) => ({
           label: c.name,
           percentage: c.percentage,
@@ -115,6 +115,7 @@ export function Cycling({ wide, width, height }: Props) {
           Biggest ride: <Text color={theme.primaryBright}>{cycling.biggestRide} mi</Text>
         </Text>
       </Box>
+      <Box height={1} />
     </Box>
   )
 }
