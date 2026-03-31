@@ -58,3 +58,8 @@ yarn-error.log*
 # Playwright CLI
 .playwright-cli/
 
+# CLI package build output
+packages/cli/dist/
+packages/cli/node_modules/
+packages/cli/src/data.ts
+
