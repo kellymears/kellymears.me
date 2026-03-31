@@ -67,7 +67,7 @@ export function Writing({ wide, width, height }: Props) {
 
   // --- Reader mode ---
   if (isReading) {
-    const post = writing[readingIndex!]
+    const post = writing[readingIndex]
 
     return (
       <Box flexDirection="column" gap={1} flexGrow={1}>
