@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import { Box, useStdout, useInput, useApp } from 'ink'
+import { Box, useInput, useApp } from 'ink'
+import { useTerminalSize } from './hooks/use-terminal-size.js'
 import { useNavigation } from './hooks/use-navigation.js'
 import { MacWindow } from './components/chrome/MacWindow.js'
 import { MobileFrame } from './components/chrome/MobileFrame.js'
@@ -11,11 +12,42 @@ import { OpenSource } from './components/tabs/OpenSource.js'
 import { Cycling } from './components/tabs/Cycling.js'
 import { Writing } from './components/tabs/Writing.js'
 
+/**
+ * Find the block dimensions that tile the margins most evenly.
+ * Each candidate maintains a roughly square aspect ratio in the terminal
+ * (chars are ~2:1, so blockW=2 × blockH=1 is visually square).
+ */
+function computeGridCell(marginH: number, marginV: number): { blockW: number; blockH: number } {
+  const candidates = [
+    { blockW: 2, blockH: 1 }, // ██    + gap → 3×2 pattern (compact)
+    { blockW: 3, blockH: 1 }, // ███   + gap → 4×2 pattern (medium)
+    { blockW: 4, blockH: 2 }, // ████  + gap → 5×3 pattern (large)
+  ]
+
+  let best: { blockW: number; blockH: number } = { blockW: 2, blockH: 1 }
+  let bestScore = Infinity
+
+  for (const c of candidates) {
+    const cellW = c.blockW + 1
+    const cellH = c.blockH + 1
+
+    // Need at least 2 cells per margin side for the grid to read as a frame
+    if (marginH < cellW * 2 || marginV < cellH * 2) continue
+
+    // Score = total remainder when dividing each margin by cell size
+    const score = (marginH % cellW) + (marginV % cellH)
+    if (score < bestScore) {
+      bestScore = score
+      best = c
+    }
+  }
+
+  return best
+}
+
 export function App() {
-  const { stdout } = useStdout()
+  const { columns, rows } = useTerminalSize()
   const { exit } = useApp()
-  const columns = stdout?.columns ?? 80
-  const rows = stdout?.rows ?? 24
   const isWide = columns >= 80
 
   const [showHelp, setShowHelp] = useState(false)
@@ -30,7 +62,28 @@ export function App() {
   )
 
   const contentWidth = isWide ? Math.min(columns, 100) : columns
-  const windowHeight = Math.max(16, rows - 4)
+  let windowHeight = Math.max(16, rows - 4)
+
+  // Compute symmetric margins and adaptive grid cell size
+  const marginH = Math.max(0, Math.floor((columns - contentWidth) / 2))
+  const marginV = Math.max(0, Math.floor((rows - windowHeight) / 2))
+  const { blockW, blockH } = computeGridCell(marginH, marginV)
+  const cellH = blockH + 1
+
+  // Snap topPad so grid squares are flush above the window
+  let topPad = marginV
+  if (topPad > 0 && topPad % cellH === 0) {
+    topPad -= 1
+  }
+
+  // Snap windowHeight down so grid squares are flush below the window too
+  const afterWindow = topPad + windowHeight
+  const rem = afterWindow % cellH
+  if (rem >= blockH) {
+    windowHeight -= rem - blockH + 1
+  }
+  windowHeight = Math.max(16, windowHeight)
+
   const contentHeight = windowHeight - 6
 
   const tabContent = (
@@ -46,17 +99,17 @@ export function App() {
     <Box width={columns} height={rows}>
       {/* Background grid layer */}
       <Box position="absolute" width={columns} height={rows}>
-        <Background width={columns} height={rows} />
+        <Background width={columns} height={rows} blockW={blockW} blockH={blockH} />
       </Box>
 
-      {/* Centered content layer */}
+      {/* Centered content layer — explicit topPad for grid alignment */}
       <Box
         position="absolute"
         width={columns}
         height={rows}
         flexDirection="column"
         alignItems="center"
-        justifyContent="center"
+        paddingTop={topPad}
       >
         {isWide ? (
           <MacWindow activeTab={activeTab} width={contentWidth} height={windowHeight}>

@@ -16,6 +16,7 @@ process.on('exit', () => {
 const instance = render(<App />, {
   exitOnCtrlC: true,
   patchConsole: true,
+  incrementalRendering: true,
 })
 
 await instance.waitUntilExit()
