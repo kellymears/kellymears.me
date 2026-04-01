@@ -55,6 +55,16 @@
   --animate-card-flip-in: card-flip-in 0.3s ease-out both;
   --animate-page-enter: page-enter 400ms ease-out both;
   --animate-timeline-pulse: timeline-pulse 2s ease-in-out infinite;
+  --animate-splash: splash 1.5s ease-in-out infinite;
+}
+
+@keyframes splash {
+  0%, 100% {
+    transform: scale(1) rotate(-2deg);
+  }
+  50% {
+    transform: scale(1.12) rotate(-1deg);
+  }
 }
 
 @keyframes fade-in {

@@ -1,3 +1,4 @@
+import { TerminalCta } from '@/components/home/TerminalCta'
 import Link from '@/components/Link'
 import SocialIcon from '@/components/social-icons'
 import siteMetadata from '@/data/siteMetadata'
@@ -43,6 +44,7 @@ export default function Hero() {
             <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size={6} />
           </div>
         </nav>
+        <TerminalCta />
       </div>
     </section>
   )
