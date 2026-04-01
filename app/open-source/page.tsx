@@ -5,6 +5,8 @@ import { FeaturedProjects } from '@/components/oss/FeaturedProjects'
 import { LanguageBreakdown } from '@/components/oss/LanguageBreakdown'
 import { ProfileStats } from '@/components/oss/ProfileStats'
 import { RepositoryGrid } from '@/components/oss/RepositoryGrid'
+import { CliProjectCard } from '@/components/projects/CliProjectCard'
+import { cliProjects } from '@/data/cliProjects'
 import { readGitHubCache } from '@/lib/cache'
 import { fetchAllGitHubData } from '@/lib/github'
 import { genPageMetadata } from 'app/seo'
@@ -15,7 +17,32 @@ export const metadata = genPageMetadata({
     'Open source projects and contributions to the Roots WordPress ecosystem and beyond.',
 })
 
+const REVALIDATE = { next: { revalidate: 3600 } } as RequestInit
+
+async function fetchRepoStars(fullName: string): Promise<number> {
+  try {
+    const h: HeadersInit = { Accept: 'application/vnd.github.v3+json' }
+    const token = process.env.GH_STATS_TOKEN
+    if (token) h.Authorization = `Bearer ${token}`
+
+    const res = await fetch(`https://api.github.com/repos/${fullName}`, {
+      headers: h,
+      ...REVALIDATE,
+    })
+    if (!res.ok) return 0
+    const data = await res.json()
+    return data.stargazers_count ?? 0
+  } catch {
+    return 0
+  }
+}
+
 export default async function OpenSourcePage() {
+  const [gitHubData, ...cliStars] = await Promise.all([
+    readGitHubCache() ?? fetchAllGitHubData(),
+    ...cliProjects.map((p) => fetchRepoStars(p.repo)),
+  ])
+
   const {
     profile,
     featured,
@@ -25,7 +52,7 @@ export default async function OpenSourcePage() {
     contributionStats,
     languages,
     recentActivity,
-  } = readGitHubCache() ?? (await fetchAllGitHubData())
+  } = gitHubData
 
   return (
     <div className="space-y-2">
@@ -55,6 +82,19 @@ export default async function OpenSourcePage() {
 
       <ProfileStats profile={profile} contributionStats={contributionStats} />
       <FeaturedProjects repos={featured} />
+
+      {/* CLI Projects */}
+      <section aria-label="CLI projects" className="pt-4 pb-2">
+        <h2 className="mb-5 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+          CLI Tools
+        </h2>
+        <div className="space-y-5">
+          {cliProjects.map((project, i) => (
+            <CliProjectCard key={project.name} project={project} stars={cliStars[i]} index={i} />
+          ))}
+        </div>
+      </section>
+
       <ContributionGrid data={contributions} stats={contributionStats} />
 
       <div className="flex items-center gap-4 py-2" aria-hidden="true">

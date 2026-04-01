@@ -11,7 +11,7 @@ export default function FeaturedSites() {
           Featured Projects
         </h2>
         <Link
-          href="/work"
+          href="/projects"
           className="hover:text-primary-600 dark:hover:text-primary-400 text-sm font-medium text-gray-500 transition-colors dark:text-gray-400"
         >
           View all <span aria-hidden="true">&rarr;</span>
