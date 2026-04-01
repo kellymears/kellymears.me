@@ -1,4 +1,4 @@
-import { profile } from './data.js'
+import type { Profile } from './types.js'
 
 function wordWrap(text: string, maxWidth: number): string[] {
   const words = text.split(' ')
@@ -16,7 +16,7 @@ function wordWrap(text: string, maxWidth: number): string[] {
   return lines
 }
 
-export function plainTextCard(): string {
+export function plainTextCard(profile: Profile): string {
   const w = 54
   const inner = w - 6
   const line = (text: string) => `\u2502  ${text.padEnd(inner)}  \u2502`
@@ -37,6 +37,27 @@ export function plainTextCard(): string {
     line(`LinkedIn  linkedin.com/in/${profile.login}`),
     line(`Email     ${profile.links.email}`),
     line(`Web       kellymears.me`),
+    blank,
+    `\u2570${'─'.repeat(w - 2)}\u256F`,
+    '',
+  ].join('\n')
+}
+
+export function offlineCard(): string {
+  const w = 54
+  const inner = w - 6
+  const line = (text: string) => `\u2502  ${text.padEnd(inner)}  \u2502`
+  const blank = line('')
+
+  return [
+    `\u256D${'─'.repeat(w - 2)}\u256E`,
+    blank,
+    line('Kelly Mears'),
+    blank,
+    line('Could not reach kellymears.me'),
+    line('Please check your connection and try again.'),
+    blank,
+    line('Web  https://kellymears.me'),
     blank,
     `\u2570${'─'.repeat(w - 2)}\u256F`,
     '',

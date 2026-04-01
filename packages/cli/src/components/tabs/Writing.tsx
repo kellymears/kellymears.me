@@ -1,7 +1,7 @@
 import { useState, useMemo } from 'react'
 import { Box, Text as InkText, useInput } from 'ink'
 import { theme } from '../../theme.js'
-import { writing } from '../../data.js'
+import type { WritingPost } from '../../types.js'
 import { Text } from '../shared/Text.js'
 import { Divider } from '../shared/Divider.js'
 import { ScrollView, type ScrollItem } from '../shared/ScrollView.js'
@@ -11,6 +11,7 @@ interface Props {
   wide: boolean
   width: number
   height: number
+  writing: WritingPost[]
 }
 
 function formatDate(dateStr: string): string {
@@ -18,7 +19,7 @@ function formatDate(dateStr: string): string {
   return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })
 }
 
-export function Writing({ wide, width, height }: Props) {
+export function Writing({ wide, width, height, writing }: Props) {
   const textWidth = wide ? width - 6 : width - 4
   const [selectedIndex, setSelectedIndex] = useState(0)
   const [readingIndex, setReadingIndex] = useState<number | null>(null)

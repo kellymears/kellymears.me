@@ -1,9 +1,17 @@
 import { render } from 'ink'
 import { App } from './app.js'
-import { plainTextCard } from './plain.js'
+import { plainTextCard, offlineCard } from './plain.js'
+import { fetchCliData } from './fetch-data.js'
+
+const data = await fetchCliData()
+
+if (!data) {
+  process.stderr.write(offlineCard())
+  process.exit(1)
+}
 
 if (!process.stdout.isTTY) {
-  process.stdout.write(plainTextCard())
+  process.stdout.write(plainTextCard(data.profile))
   process.exit(0)
 }
 
@@ -13,7 +21,7 @@ process.on('exit', () => {
   process.stdout.write('\x1b[?25h\x1b[?1049l')
 })
 
-const instance = render(<App />, {
+const instance = render(<App data={data} />, {
   exitOnCtrlC: true,
   patchConsole: true,
   incrementalRendering: true,

@@ -1,6 +1,6 @@
 import { Box, Text } from 'ink'
 import { theme } from '../../theme.js'
-import { experience } from '../../data.js'
+import type { ExperienceEntry } from '../../types.js'
 import { wordWrap } from '../../wrap.js'
 import type { ScrollItem } from './ScrollView.js'
 
@@ -17,7 +17,7 @@ function TimelineEntry({
   wide,
   lineWidth,
 }: {
-  entry: (typeof experience)[number]
+  entry: ExperienceEntry
   isLast: boolean
   wide: boolean
   lineWidth: number
@@ -66,7 +66,11 @@ function TimelineEntry({
   )
 }
 
-export function buildTimelineItems(wide: boolean, width: number): ScrollItem[] {
+export function buildTimelineItems(
+  wide: boolean,
+  width: number,
+  experience: ExperienceEntry[]
+): ScrollItem[] {
   const lineWidth = (wide ? width - 6 : width - 4) - 2
   return experience.map((entry, i) => {
     const isLast = i === experience.length - 1
@@ -85,7 +89,15 @@ export function buildTimelineItems(wide: boolean, width: number): ScrollItem[] {
 }
 
 /** @deprecated Use buildTimelineItems() with ScrollView instead */
-export function Timeline({ wide, width }: { wide: boolean; width: number }) {
+export function Timeline({
+  wide,
+  width,
+  experience,
+}: {
+  wide: boolean
+  width: number
+  experience: ExperienceEntry[]
+}) {
   const lineWidth = (wide ? width - 6 : width - 4) - 2
 
   return (

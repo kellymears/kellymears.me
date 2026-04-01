@@ -1,6 +1,6 @@
 import { Box } from 'ink'
 import { theme } from '../../theme.js'
-import { stats } from '../../data.js'
+import type { StatEntry, ExperienceEntry } from '../../types.js'
 import { Text } from '../shared/Text.js'
 import { StatCard } from '../shared/StatCard.js'
 import { Divider } from '../shared/Divider.js'
@@ -9,9 +9,11 @@ import { Timeline } from '../shared/Timeline.js'
 interface Props {
   wide: boolean
   width: number
+  stats: StatEntry[]
+  experience: ExperienceEntry[]
 }
 
-export function Resume({ wide, width }: Props) {
+export function Resume({ wide, width, stats, experience }: Props) {
   return (
     <Box flexDirection="column" gap={1}>
       {/* Stats row */}
@@ -27,7 +29,7 @@ export function Resume({ wide, width }: Props) {
         Experience
       </Text>
 
-      <Timeline wide={wide} width={width} />
+      <Timeline wide={wide} width={width} experience={experience} />
     </Box>
   )
 }

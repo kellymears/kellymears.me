@@ -1,6 +1,6 @@
 import { Box } from 'ink'
 import { theme } from '../../theme.js'
-import { profile } from '../../data.js'
+import type { Profile, ExperienceEntry } from '../../types.js'
 import { Text } from '../shared/Text.js'
 import { Divider } from '../shared/Divider.js'
 import { Link } from '../shared/Link.js'
@@ -12,13 +12,15 @@ interface Props {
   wide: boolean
   width: number
   height: number
+  profile: Profile
+  experience: ExperienceEntry[]
 }
 
-export function About({ wide, width, height }: Props) {
+export function About({ wide, width, height, profile, experience }: Props) {
   const textWidth = wide ? width - 6 : width - 4
   const name = wide ? profile.name.toUpperCase().split('').join(' ') : profile.name
 
-  const timelineItems = buildTimelineItems(wide, width)
+  const timelineItems = buildTimelineItems(wide, width, experience)
 
   // Approximate fixed rows: name(2) + bio(~2) + divider(1) + indicator(1) + divider(1) + links(3) + gaps(5) ≈ 15
   const bioLines = Math.max(1, Math.ceil(profile.bio.length / Math.max(1, textWidth)))

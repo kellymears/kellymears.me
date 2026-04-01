@@ -1,6 +1,6 @@
 import { Box, Text } from 'ink'
 import { theme } from '../../theme.js'
-import { cycling } from '../../data.js'
+import type { CyclingData, RecentRide } from '../../types.js'
 import { StatCard } from '../shared/StatCard.js'
 import { ProgressBar } from '../shared/ProgressBar.js'
 import { Divider } from '../shared/Divider.js'
@@ -11,13 +11,14 @@ interface Props {
   wide: boolean
   width: number
   height: number
+  cycling: CyclingData
 }
 
 function fmt(n: number): string {
   return n.toLocaleString('en-US')
 }
 
-function RideRow({ ride }: { ride: (typeof cycling.recentRides)[number] }) {
+function RideRow({ ride }: { ride: RecentRide }) {
   return (
     <Box justifyContent="space-between">
       <Text color={theme.textDim} wrap="truncate-end">
@@ -31,7 +32,7 @@ function RideRow({ ride }: { ride: (typeof cycling.recentRides)[number] }) {
   )
 }
 
-export function Cycling({ wide, width, height }: Props) {
+export function Cycling({ wide, width, height, cycling }: Props) {
   // Build scrollable items: categories + rides
   const items: ScrollItem[] = []
 

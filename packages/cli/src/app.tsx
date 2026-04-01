@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Box, useInput, useApp } from 'ink'
+import type { CliData } from './types.js'
 import { useTerminalSize } from './hooks/use-terminal-size.js'
 import { useNavigation } from './hooks/use-navigation.js'
 import { MacWindow } from './components/chrome/MacWindow.js'
@@ -45,7 +46,7 @@ function computeGridCell(marginH: number, marginV: number): { blockW: number; bl
   return best
 }
 
-export function App() {
+export function App({ data }: { data: CliData }) {
   const { columns, rows } = useTerminalSize()
   const { exit } = useApp()
   const isWide = columns >= 80
@@ -88,10 +89,29 @@ export function App() {
 
   const tabContent = (
     <>
-      {activeTab === 0 && <About wide={isWide} width={contentWidth} height={contentHeight} />}
-      {activeTab === 1 && <OpenSource wide={isWide} width={contentWidth} height={contentHeight} />}
-      {activeTab === 2 && <Cycling wide={isWide} width={contentWidth} height={contentHeight} />}
-      {activeTab === 3 && <Writing wide={isWide} width={contentWidth} height={contentHeight} />}
+      {activeTab === 0 && (
+        <About
+          wide={isWide}
+          width={contentWidth}
+          height={contentHeight}
+          profile={data.profile}
+          experience={data.experience}
+        />
+      )}
+      {activeTab === 1 && (
+        <OpenSource
+          wide={isWide}
+          width={contentWidth}
+          height={contentHeight}
+          github={data.github}
+        />
+      )}
+      {activeTab === 2 && (
+        <Cycling wide={isWide} width={contentWidth} height={contentHeight} cycling={data.cycling} />
+      )}
+      {activeTab === 3 && (
+        <Writing wide={isWide} width={contentWidth} height={contentHeight} writing={data.writing} />
+      )}
     </>
   )
 
