@@ -22,7 +22,7 @@ const REVALIDATE = { next: { revalidate: 3600 } } as RequestInit
 async function fetchRepoStars(fullName: string): Promise<number> {
   try {
     const h: HeadersInit = { Accept: 'application/vnd.github.v3+json' }
-    const token = process.env.GH_STATS_TOKEN
+    const token = process.env.GITHUB_TOKEN
     if (token) h.Authorization = `Bearer ${token}`
 
     const res = await fetch(`https://api.github.com/repos/${fullName}`, {

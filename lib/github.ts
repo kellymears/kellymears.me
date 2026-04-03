@@ -176,7 +176,7 @@ export const LANGUAGE_COLORS: Record<string, string> = {
 // --- Helpers ---
 
 function headers(): HeadersInit {
-  const token = process.env.GH_STATS_TOKEN
+  const token = process.env.GITHUB_TOKEN
   if (!token) return { Accept: 'application/vnd.github.v3+json' }
   return {
     Accept: 'application/vnd.github.v3+json',
@@ -258,8 +258,8 @@ async function fetchOrgRepo(fullName: string): Promise<Repository> {
 }
 
 async function fetchContributions(): Promise<ContributionData> {
-  const token = process.env.GH_STATS_TOKEN
-  if (!token) throw new Error('GH_STATS_TOKEN required for contributions query')
+  const token = process.env.GITHUB_TOKEN
+  if (!token) throw new Error('GITHUB_TOKEN required for contributions query')
 
   const query = `
     query($username: String!) {

@@ -32,6 +32,6 @@ jobs:
       - name: Deploy to Netlify
         run: npx netlify-cli deploy --prod
         env:
-          GH_STATS_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
