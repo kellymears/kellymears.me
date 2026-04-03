@@ -3,7 +3,11 @@ import { App } from './app.js'
 import { plainTextCard, offlineCard } from './plain.js'
 import { fetchCliData } from './fetch-data.js'
 
-const data = await fetchCliData()
+const data = await fetchCliData({
+  onRetry: (attempt) => {
+    if (attempt === 1) process.stderr.write('  Connecting...\n')
+  },
+})
 
 if (!data) {
   process.stderr.write(offlineCard())
