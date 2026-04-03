@@ -19,6 +19,23 @@ function formatNumber(n: number): string {
   return n >= 1000 ? `${(n / 1000).toFixed(1).replace(/\.0$/, '')}k` : String(n)
 }
 
+const SHORT_LANG: Record<string, string> = {
+  JavaScript: 'JS',
+  TypeScript: 'TS',
+  CoffeeScript: 'Coffee',
+  Markdown: 'MD',
+  Dockerfile: 'Docker',
+  Makefile: 'Make',
+  'Jupyter Notebook': 'Jupyter',
+  'Objective-C': 'ObjC',
+  'Objective-C++': 'ObjC++',
+  'Visual Basic': 'VB',
+}
+
+function shortLang(name: string): string {
+  return SHORT_LANG[name] || name
+}
+
 function langColor(lang: string, languages: Language[]): string {
   return languages.find((l) => l.name === lang)?.color || theme.textDim
 }
@@ -48,7 +65,7 @@ function FeaturedRepoCard({
         <Box gap={2}>
           <Text color={theme.textDim}>★ {formatNumber(repo.stars)}</Text>
           <Text color={theme.textDim}>⑂ {formatNumber(repo.forks)}</Text>
-          <Text color={langColor(repo.language, languages)}>{repo.language}</Text>
+          <Text color={langColor(repo.language, languages)}>{shortLang(repo.language)}</Text>
         </Box>
       </Box>
       {wide ? (
@@ -80,7 +97,7 @@ function RepoRow({
         <Box gap={2}>
           <Text color={theme.textDim}>★ {formatNumber(repo.stars)}</Text>
           {repo.language && (
-            <Text color={langColor(repo.language, languages)}>{repo.language}</Text>
+            <Text color={langColor(repo.language, languages)}>{shortLang(repo.language)}</Text>
           )}
         </Box>
       </Box>
@@ -198,7 +215,7 @@ export function OpenSource({ wide, width, height, github }: Props) {
       <ProgressBar
         width={wide ? width - 6 : width - 4}
         segments={github.languages.map((l) => ({
-          label: l.name,
+          label: shortLang(l.name),
           percentage: l.percentage,
           color: l.color,
         }))}
