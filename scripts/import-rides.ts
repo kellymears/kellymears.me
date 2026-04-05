@@ -3,11 +3,8 @@ import { readdirSync, readFileSync, writeFileSync, mkdirSync } from 'fs'
 import { join, basename } from 'path'
 import type { RidesData, RideBounds } from '../lib/rides'
 import { bounds2d, countByRecord, formatCounts } from '../lib/fn'
-import {
-  loadTerrainIndex,
-  classifyRideTerrain,
-  type TerrainBreakdown,
-} from './terrain'
+import { cleanText } from '../lib/text'
+import { loadTerrainIndex, classifyRideTerrain, type TerrainBreakdown } from './terrain'
 
 // --- Config ---
 
@@ -194,7 +191,7 @@ function parseFitFile(filename: string): ParsedActivity | null {
     source,
     sportType,
     startTime,
-    name: messages.workoutMesgs?.[0]?.wktName ?? generateName(sportType, startTime),
+    name: cleanText(messages.workoutMesgs?.[0]?.wktName ?? generateName(sportType, startTime)),
     distance: session.totalDistance ?? 0,
     movingTime: session.totalTimerTime ?? 0,
     elapsedTime: session.totalElapsedTime ?? 0,
@@ -316,9 +313,12 @@ function simplifyPath(points: [number, number][], tolerance: number): [number, n
 // --- Phase 4: Emit ---
 
 function computeBounds(rides: { coordinates: [number, number][] }[]): RideBounds {
-  const { minX: minLat, maxX: maxLat, minY: minLng, maxY: maxLng } = bounds2d(
-    rides.flatMap((r) => r.coordinates),
-  )
+  const {
+    minX: minLat,
+    maxX: maxLat,
+    minY: minLng,
+    maxY: maxLng,
+  } = bounds2d(rides.flatMap((r) => r.coordinates))
   return { minLat, maxLat, minLng, maxLng }
 }
 
