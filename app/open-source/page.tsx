@@ -6,7 +6,9 @@ import { LanguageBreakdown } from '@/components/oss/LanguageBreakdown'
 import { ProfileStats } from '@/components/oss/ProfileStats'
 import { RepositoryGrid } from '@/components/oss/RepositoryGrid'
 import { CliProjectCard } from '@/components/projects/CliProjectCard'
+import { PackageCard } from '@/components/projects/PackageCard'
 import { cliProjects } from '@/data/cliProjects'
+import { packages } from '@/data/packages'
 import { readGitHubCache } from '@/lib/cache'
 import { fetchAllGitHubData } from '@/lib/github'
 import { genPageMetadata } from 'app/seo'
@@ -38,10 +40,14 @@ async function fetchRepoStars(fullName: string): Promise<number> {
 }
 
 export default async function OpenSourcePage() {
-  const [gitHubData, ...cliStars] = await Promise.all([
+  const [gitHubData, ...projectStars] = await Promise.all([
     readGitHubCache() ?? fetchAllGitHubData(),
     ...cliProjects.map((p) => fetchRepoStars(p.repo)),
+    ...packages.map((p) => fetchRepoStars(p.repo)),
   ])
+
+  const cliStars = projectStars.slice(0, cliProjects.length)
+  const packageStars = projectStars.slice(cliProjects.length)
 
   const {
     profile,
@@ -91,6 +97,18 @@ export default async function OpenSourcePage() {
         <div className="space-y-5">
           {cliProjects.map((project, i) => (
             <CliProjectCard key={project.name} project={project} stars={cliStars[i]} index={i} />
+          ))}
+        </div>
+      </section>
+
+      {/* Packages */}
+      <section aria-label="npm packages" className="pt-4 pb-2">
+        <h2 className="mb-5 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+          Packages
+        </h2>
+        <div className="space-y-5">
+          {packages.map((pkg, i) => (
+            <PackageCard key={pkg.name} package={pkg} stars={packageStars[i]} index={i} />
           ))}
         </div>
       </section>
