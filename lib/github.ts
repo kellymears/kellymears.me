@@ -154,6 +154,7 @@ const REPO_BOOSTS: Record<string, number> = {
   // Multiplier on composite score. >1 boosts, <1 suppresses, 0 excludes.
   kellymears: 0,
   'kellymears.me': 0,
+  deghost: 3,
 }
 
 const EXCLUDED_ORGS = new Set(['oncarrot'])
@@ -528,19 +529,26 @@ const FALLBACK_ACTIVITY: RecentActivity = {
   totalEvents: 0,
 }
 
-export async function fetchAllGitHubData(): Promise<GitHubPageData> {
+interface FetchOptions {
+  /** When true, errors bubble up instead of returning fallbacks. Use in import scripts. */
+  strict?: boolean
+}
+
+export async function fetchAllGitHubData(opts?: FetchOptions): Promise<GitHubPageData> {
+  const wrap = opts?.strict ? <T>(fn: () => Promise<T>, _fallback: T) => fn() : safeFetch
+
   const [profile, userRepos, contributions, recentActivity, userOrgs, ...featuredRepos] =
     await Promise.all([
-      safeFetch(fetchProfile, FALLBACK_PROFILE),
-      safeFetch(fetchUserRepos, []),
-      safeFetch(fetchContributions, FALLBACK_CONTRIBUTIONS),
-      safeFetch(fetchRecentActivity, FALLBACK_ACTIVITY),
-      safeFetch(fetchUserOrgs, []),
-      ...FEATURED_REPOS.map((name) => safeFetch(() => fetchOrgRepo(name), null)),
+      wrap(fetchProfile, FALLBACK_PROFILE),
+      wrap(fetchUserRepos, []),
+      wrap(fetchContributions, FALLBACK_CONTRIBUTIONS),
+      wrap(fetchRecentActivity, FALLBACK_ACTIVITY),
+      wrap(fetchUserOrgs, []),
+      ...FEATURED_REPOS.map((name) => wrap(() => fetchOrgRepo(name), null as Repository | null)),
     ])
 
   const orgRepoArrays = await Promise.all(
-    userOrgs.map((org) => safeFetch(() => fetchOrgRepoList(org), []))
+    userOrgs.map((org) => wrap(() => fetchOrgRepoList(org), [] as Repository[]))
   )
 
   const featured: FeaturedRepository[] = (featuredRepos as (Repository | null)[])

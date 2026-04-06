@@ -11,7 +11,7 @@ async function main() {
   mkdirSync(outDir, { recursive: true })
 
   console.log('[import:github] Fetching all GitHub data...')
-  const data = await fetchAllGitHubData()
+  const data = await fetchAllGitHubData({ strict: true })
 
   writeFileSync(outPath, JSON.stringify(data))
   console.log(`[import:github] Wrote ${outPath}`)
