@@ -23,41 +23,16 @@ export async function GET() {
       createdAt: gh.profile.created_at,
     }
 
-    const featured = gh.featured.map((f: any) => ({
-      name: f.full_name,
-      role: f.role,
-      highlight: f.highlight,
-      stars: f.stargazers_count,
-      forks: f.forks_count,
-      language: f.language,
-    }))
-
-    const featuredNames = new Set(gh.featured.map((f: any) => f.full_name))
-    const topRepos = [...gh.repos, ...gh.repoPool]
-      .filter((r: any) => !featuredNames.has(r.full_name))
-      .sort((a: any, b: any) => b.stargazers_count - a.stargazers_count)
-      .slice(0, 8)
-      .map((r: any) => ({
-        name: r.full_name,
-        description: r.description || '',
-        stars: r.stargazers_count,
-        forks: r.forks_count,
-        language: r.language,
-        pushedAt: r.pushed_at,
-      }))
-
     const recentActivity = gh.recentActivity.groups
-      .slice(0, 5)
+      .slice(0, 10)
       .map((g: any) => ({
         date: g.date,
         label: g.label,
-        events: g.events
-          .filter((e: any) => !e.isPrivate)
-          .map((e: any) => ({
-            kind: e.kind,
-            repo: e.repo,
-            message: e.message,
-          })),
+        events: g.events.map((e: any) => ({
+          kind: e.kind,
+          repo: e.repo,
+          message: e.message,
+        })),
       }))
       .filter((g: any) => g.events.length > 0)
 
@@ -123,8 +98,6 @@ export async function GET() {
       maxDay: gh.contributionStats.maxDay,
       averagePerActiveDay: gh.contributionStats.averagePerActiveDay,
       memberSince: new Date(ghProfile.createdAt).getFullYear(),
-      featured,
-      topRepos,
       recentActivity,
       languages,
     }
