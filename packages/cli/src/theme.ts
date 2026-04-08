@@ -32,7 +32,6 @@ export type Theme = typeof theme
 
 export const TABS = [
   { label: 'About', short: 'About', key: '1' },
-  { label: 'Open Source', short: 'OSS', key: '2' },
-  { label: 'Cycling', short: 'Ride', key: '3' },
-  { label: 'Writing', short: 'Blog', key: '4' },
+  { label: 'Cycling', short: 'Ride', key: '2' },
+  { label: 'Writing', short: 'Blog', key: '3' },
 ] as const

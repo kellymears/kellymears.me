@@ -17,24 +17,6 @@ export interface Profile {
   }
 }
 
-export interface FeaturedRepo {
-  name: string
-  role: string
-  highlight: string
-  stars: number
-  forks: number
-  language: string
-}
-
-export interface TopRepo {
-  name: string
-  description: string
-  stars: number
-  forks: number
-  language: string
-  pushedAt: string
-}
-
 export interface ActivityEvent {
   kind: string
   repo: string
@@ -63,8 +45,6 @@ export interface GithubData {
   maxDay: number
   averagePerActiveDay: number
   memberSince: number
-  featured: FeaturedRepo[]
-  topRepos: TopRepo[]
   recentActivity: ActivityGroup[]
   languages: Language[]
 }

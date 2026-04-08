@@ -1,6 +1,6 @@
 import { Box } from 'ink'
 import { theme } from '../../theme.js'
-import type { GithubData, FeaturedRepo, TopRepo, ActivityGroup, Language } from '../../types.js'
+import type { GithubData, ActivityGroup, Language } from '../../types.js'
 import { Text } from '../shared/Text.js'
 import { StatCard } from '../shared/StatCard.js'
 import { ProgressBar } from '../shared/ProgressBar.js'
@@ -36,106 +36,81 @@ function shortLang(name: string): string {
   return SHORT_LANG[name] || name
 }
 
-function langColor(lang: string, languages: Language[]): string {
-  return languages.find((l) => l.name === lang)?.color || theme.textDim
+// --- Activity condensation ---
+
+type ActivityKind =
+  | 'push'
+  | 'pr_opened'
+  | 'pr_merged'
+  | 'pr_closed'
+  | 'review'
+  | 'comment'
+  | 'issue_opened'
+  | 'issue_closed'
+  | 'branch_created'
+
+const KIND_LABELS: Record<string, (n: number) => string> = {
+  push: (n) => (n === 1 ? '1 commit' : `${n} commits`),
+  pr_opened: (n) => (n === 1 ? 'Opened PR' : `Opened ${n} PRs`),
+  pr_merged: (n) => (n === 1 ? 'Merged PR' : `Merged ${n} PRs`),
+  pr_closed: (n) => (n === 1 ? 'Closed PR' : `Closed ${n} PRs`),
+  review: (n) => (n === 1 ? '1 review' : `${n} reviews`),
+  comment: (n) => (n === 1 ? '1 comment' : `${n} comments`),
+  issue_opened: (n) => (n === 1 ? 'Opened issue' : `Opened ${n} issues`),
+  issue_closed: (n) => (n === 1 ? 'Closed issue' : `Closed ${n} issues`),
+  branch_created: (n) => (n === 1 ? 'Created branch' : `Created ${n} branches`),
+}
+
+const KIND_ORDER: ActivityKind[] = [
+  'push',
+  'pr_opened',
+  'pr_merged',
+  'pr_closed',
+  'review',
+  'comment',
+  'issue_opened',
+  'issue_closed',
+  'branch_created',
+]
+
+interface SummaryLine {
+  label: string
+  repo: string
+}
+
+function condenseGroup(group: ActivityGroup): SummaryLine[] {
+  const byRepo = new Map<string, Map<string, number>>()
+  for (const event of group.events) {
+    let kindCounts = byRepo.get(event.repo)
+    if (!kindCounts) {
+      kindCounts = new Map()
+      byRepo.set(event.repo, kindCounts)
+    }
+    kindCounts.set(event.kind, (kindCounts.get(event.kind) ?? 0) + 1)
+  }
+
+  const lines: SummaryLine[] = []
+  const sortedRepos = [...byRepo.keys()].sort((a, b) => a.localeCompare(b))
+
+  for (const repo of sortedRepos) {
+    const counts = byRepo.get(repo)!
+    for (const kind of KIND_ORDER) {
+      const count = counts.get(kind)
+      if (count) {
+        const labelFn = KIND_LABELS[kind]
+        if (labelFn) lines.push({ label: labelFn(count), repo })
+      }
+    }
+  }
+
+  return lines
 }
 
 // --- Scrollable item sub-components ---
 
-function FeaturedRepoCard({
-  repo,
-  wide,
-  width,
-  languages,
-}: {
-  repo: FeaturedRepo
-  wide: boolean
-  width: number
-  languages: Language[]
-}) {
-  return (
-    <Box flexDirection="column">
-      <Box justifyContent="space-between">
-        <Box gap={2}>
-          <Text bold color={theme.text}>
-            {repo.name}
-          </Text>
-          <Text color={theme.primaryBright}>{repo.role}</Text>
-        </Box>
-        <Box gap={2}>
-          <Text color={theme.textDim}>★ {formatNumber(repo.stars)}</Text>
-          <Text color={theme.textDim}>⑂ {formatNumber(repo.forks)}</Text>
-          <Text color={langColor(repo.language, languages)}>{shortLang(repo.language)}</Text>
-        </Box>
-      </Box>
-      {wide ? (
-        <Text color={theme.textDim} textWidth={width}>
-          {repo.highlight}
-        </Text>
-      ) : (
-        <Text color={theme.textDim} wrap="truncate-end">
-          {repo.highlight}
-        </Text>
-      )}
-    </Box>
-  )
-}
-
-function RepoRow({
-  repo,
-  wide,
-  languages,
-}: {
-  repo: TopRepo
-  wide: boolean
-  languages: Language[]
-}) {
-  return (
-    <Box flexDirection="column">
-      <Box justifyContent="space-between">
-        <Text color={theme.text}>{repo.name}</Text>
-        <Box gap={2}>
-          <Text color={theme.textDim}>★ {formatNumber(repo.stars)}</Text>
-          {repo.language && (
-            <Text color={langColor(repo.language, languages)}>{shortLang(repo.language)}</Text>
-          )}
-        </Box>
-      </Box>
-      {wide && repo.description && (
-        <Text color={theme.textMuted} wrap="truncate-end">
-          {repo.description}
-        </Text>
-      )}
-    </Box>
-  )
-}
-
 function formatActivityDate(dateStr: string): string {
   const d = new Date(dateStr + 'T00:00:00')
-  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
-}
-
-function summarizeEvents(events: readonly { kind: string; repo: string; message: string }[]) {
-  const repos = [...new Set(events.map((e) => e.repo.replace(/^[^/]+\//, '')))]
-  const kinds = [...new Set(events.map((e) => e.kind))]
-
-  const kindLabel =
-    kinds.length === 1 ? (kinds[0] === 'push' ? 'pushes' : `${kinds[0]}s`) : 'events'
-
-  return { repos: repos.slice(0, 3).join(', '), count: events.length, kindLabel }
-}
-
-function ActivityGroupRow({ group }: { group: ActivityGroup }) {
-  const { repos, count, kindLabel } = summarizeEvents(group.events)
-  return (
-    <Box gap={2}>
-      <Text color={theme.textMuted}>{formatActivityDate(group.date)}</Text>
-      <Text color={theme.text}>{repos}</Text>
-      <Text color={theme.textDim}>
-        {count} {kindLabel}
-      </Text>
-    </Box>
-  )
+  return d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' })
 }
 
 function SectionHeading({ text }: { text: string }) {
@@ -147,42 +122,32 @@ function SectionHeading({ text }: { text: string }) {
 }
 
 export function OpenSource({ wide, width, height, github }: Props) {
-  const lineWidth = Math.max(40, wide ? width - 6 : width - 4)
-  const estimateLines = (text: string) => Math.ceil(text.length / lineWidth)
-
   // Build items with line-count metadata
   const items: ScrollItem[] = []
 
-  items.push({ node: <SectionHeading key="feat-heading" text="Featured" />, lines: 1 })
-  for (const repo of github.featured) {
-    const highlightLines = wide ? estimateLines(repo.highlight) : 1
-    items.push({
-      node: (
-        <FeaturedRepoCard
-          key={repo.name}
-          repo={repo}
-          wide={wide}
-          width={lineWidth}
-          languages={github.languages}
-        />
-      ),
-      lines: 1 + highlightLines,
-    })
-  }
-
-  items.push({ node: <Divider key="div-repos" width={width} />, lines: 1 })
-  items.push({ node: <SectionHeading key="repos-heading" text="Repositories" />, lines: 1 })
-  for (const repo of github.topRepos) {
-    items.push({
-      node: <RepoRow key={repo.name} repo={repo} wide={wide} languages={github.languages} />,
-      lines: wide && repo.description ? 2 : 1,
-    })
-  }
-
-  items.push({ node: <Divider key="div-activity" width={width} />, lines: 1 })
-  items.push({ node: <SectionHeading key="activity-heading" text="Recent Activity" />, lines: 1 })
   for (const group of github.recentActivity) {
-    items.push({ node: <ActivityGroupRow key={group.date} group={group} />, lines: 1 })
+    const lines = condenseGroup(group)
+    if (lines.length === 0) continue
+
+    items.push({
+      node: <SectionHeading key={`heading-${group.date}`} text={formatActivityDate(group.date)} />,
+      lines: 1,
+    })
+
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i]!
+      items.push({
+        node: (
+          <Box key={`${group.date}-${i}`} justifyContent="space-between">
+            <Text color={theme.text}>{line.label}</Text>
+            <Text color={theme.textMuted}>{line.repo}</Text>
+          </Box>
+        ),
+        lines: 1,
+      })
+    }
+
+    items.push({ node: <Box key={`gap-${group.date}`} height={1} />, lines: 1 })
   }
 
   // stats(2) + divider(1) + indicator(1) + divider(1) + languages(1) + progressbar(2) + gaps(5) ≈ 13
@@ -200,7 +165,7 @@ export function OpenSource({ wide, width, height, github }: Props) {
 
       <Divider width={width} />
 
-      {/* Zone 2: Scrollable viewport */}
+      {/* Zone 2: Scrollable activity feed */}
       <ScrollView items={items} viewportHeight={scrollViewport} isActive={true}>
         {(state) => <ScrollIndicator {...state} />}
       </ScrollView>

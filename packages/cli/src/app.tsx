@@ -9,7 +9,6 @@ import { HelpOverlay } from './components/chrome/HelpOverlay.js'
 import { StatusBar } from './components/layout/StatusBar.js'
 import { Background } from './components/Background.js'
 import { About } from './components/tabs/About.js'
-import { OpenSource } from './components/tabs/OpenSource.js'
 import { Cycling } from './components/tabs/Cycling.js'
 import { Writing } from './components/tabs/Writing.js'
 
@@ -99,17 +98,9 @@ export function App({ data }: { data: CliData }) {
         />
       )}
       {activeTab === 1 && (
-        <OpenSource
-          wide={isWide}
-          width={contentWidth}
-          height={contentHeight}
-          github={data.github}
-        />
-      )}
-      {activeTab === 2 && (
         <Cycling wide={isWide} width={contentWidth} height={contentHeight} cycling={data.cycling} />
       )}
-      {activeTab === 3 && (
+      {activeTab === 2 && (
         <Writing wide={isWide} width={contentWidth} height={contentHeight} writing={data.writing} />
       )}
     </>
