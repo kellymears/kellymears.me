@@ -1,3 +1,4 @@
+import { Suspense } from 'react'
 import Link from '@/components/Link'
 import { CommitTimeline } from '@/components/oss/CommitTimeline'
 import { ContributionGrid } from '@/components/oss/ContributionGrid'
@@ -39,15 +40,76 @@ async function fetchRepoStars(fullName: string): Promise<number> {
   }
 }
 
-export default async function OpenSourcePage() {
-  const [gitHubData, ...projectStars] = await Promise.all([
-    readGitHubCache() ?? fetchAllGitHubData(),
-    ...cliProjects.map((p) => fetchRepoStars(p.repo)),
-    ...packages.map((p) => fetchRepoStars(p.repo)),
-  ])
+function CardSkeleton({ titleBar }: { titleBar: 'terminal' | 'editor' }) {
+  return (
+    <div className="overflow-hidden rounded-2xl border border-gray-200 dark:border-gray-800">
+      <div className="flex items-center gap-3 border-b border-gray-200 bg-gray-100 px-4 py-2.5 dark:border-gray-800 dark:bg-gray-900">
+        {titleBar === 'terminal' ? (
+          <div className="flex items-center gap-1.5" aria-hidden="true">
+            <span className="inline-block h-3 w-3 rounded-full bg-gray-300 dark:bg-gray-700" />
+            <span className="inline-block h-3 w-3 rounded-full bg-gray-300 dark:bg-gray-700" />
+            <span className="inline-block h-3 w-3 rounded-full bg-gray-300 dark:bg-gray-700" />
+          </div>
+        ) : (
+          <div className="h-4 w-6 animate-pulse rounded bg-gray-300 dark:bg-gray-700" />
+        )}
+        <div className="h-4 w-24 animate-pulse rounded bg-gray-300 dark:bg-gray-700" />
+      </div>
+      <div className="space-y-5 p-6 sm:p-8">
+        <div>
+          <div className="mb-2 h-6 w-64 animate-pulse rounded bg-gray-200 dark:bg-gray-800" />
+          <div className="h-4 w-full max-w-md animate-pulse rounded bg-gray-200 dark:bg-gray-800" />
+        </div>
+        <div className="h-12 w-full animate-pulse rounded-lg bg-gray-200 dark:bg-gray-800" />
+        <div className="flex gap-2">
+          {Array.from({ length: 3 }).map((_, i) => (
+            <div
+              key={i}
+              className="h-6 w-20 animate-pulse rounded-full bg-gray-200 dark:bg-gray-800"
+            />
+          ))}
+        </div>
+      </div>
+    </div>
+  )
+}
 
-  const cliStars = projectStars.slice(0, cliProjects.length)
-  const packageStars = projectStars.slice(cliProjects.length)
+async function CliProjectsSection() {
+  const stars = await Promise.all(cliProjects.map((p) => fetchRepoStars(p.repo)))
+
+  return (
+    <section aria-label="CLI projects" className="pt-4 pb-2">
+      <h2 className="mb-5 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+        CLI Tools
+      </h2>
+      <div className="space-y-5">
+        {cliProjects.map((project, i) => (
+          <CliProjectCard key={project.name} project={project} stars={stars[i]} index={i} />
+        ))}
+      </div>
+    </section>
+  )
+}
+
+async function PackagesSection() {
+  const stars = await Promise.all(packages.map((p) => fetchRepoStars(p.repo)))
+
+  return (
+    <section aria-label="npm packages" className="pt-4 pb-2">
+      <h2 className="mb-5 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+        Packages
+      </h2>
+      <div className="space-y-5">
+        {packages.map((pkg, i) => (
+          <PackageCard key={pkg.name} package={pkg} stars={stars[i]} index={i} />
+        ))}
+      </div>
+    </section>
+  )
+}
+
+export default async function OpenSourcePage() {
+  const gitHubData = readGitHubCache() ?? (await fetchAllGitHubData())
 
   const {
     profile,
@@ -89,31 +151,43 @@ export default async function OpenSourcePage() {
       <ProfileStats profile={profile} contributionStats={contributionStats} />
       <FeaturedProjects repos={featured} />
 
-      {/* CLI Projects */}
-      <section aria-label="CLI projects" className="pt-4 pb-2">
-        <h2 className="mb-5 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-          CLI Tools
-        </h2>
-        <div className="space-y-5">
-          {cliProjects.map((project, i) => (
-            <CliProjectCard key={project.name} project={project} stars={cliStars[i]} index={i} />
-          ))}
-        </div>
-      </section>
+      <Suspense
+        fallback={
+          <section className="pt-4 pb-2">
+            <h2 className="mb-5 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+              CLI Tools
+            </h2>
+            <div className="space-y-5">
+              {cliProjects.map((_, i) => (
+                <CardSkeleton key={i} titleBar="terminal" />
+              ))}
+            </div>
+          </section>
+        }
+      >
+        <CliProjectsSection />
+      </Suspense>
 
-      {/* Packages */}
-      <section aria-label="npm packages" className="pt-4 pb-2">
-        <h2 className="mb-5 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-          Packages
-        </h2>
-        <div className="space-y-5">
-          {packages.map((pkg, i) => (
-            <PackageCard key={pkg.name} package={pkg} stars={packageStars[i]} index={i} />
-          ))}
-        </div>
-      </section>
+      <Suspense
+        fallback={
+          <section className="pt-4 pb-2">
+            <h2 className="mb-5 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+              Packages
+            </h2>
+            <div className="space-y-5">
+              {packages.map((_, i) => (
+                <CardSkeleton key={i} titleBar="editor" />
+              ))}
+            </div>
+          </section>
+        }
+      >
+        <PackagesSection />
+      </Suspense>
 
-      <ContributionGrid data={contributions} stats={contributionStats} />
+      <div className="content-defer">
+        <ContributionGrid data={contributions} stats={contributionStats} />
+      </div>
 
       <div className="flex items-center gap-4 py-2" aria-hidden="true">
         <div className="h-px flex-1 bg-gradient-to-r from-transparent via-gray-200 to-transparent dark:via-gray-800" />
@@ -121,11 +195,13 @@ export default async function OpenSourcePage() {
         <div className="h-px flex-1 bg-gradient-to-r from-transparent via-gray-200 to-transparent dark:via-gray-800" />
       </div>
 
-      <div className="grid items-start gap-x-8 md:grid-cols-3">
+      <div className="content-defer grid items-start gap-x-8 md:grid-cols-3">
         <CommitTimeline activity={recentActivity} />
         <RepositoryGrid repos={repos} pool={repoPool} className="md:col-span-2" />
       </div>
-      <LanguageBreakdown languages={languages} />
+      <div className="content-defer">
+        <LanguageBreakdown languages={languages} />
+      </div>
     </div>
   )
 }
