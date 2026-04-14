@@ -280,6 +280,8 @@ interface RideDetailModalProps {
   ride: RecentRide | null
   benchmarks: RideBenchmarks
   history: RideHistory
+  virtualBenchmarks: RideBenchmarks
+  virtualHistory: RideHistory
   open: boolean
   onClose: () => void
 }
@@ -288,9 +290,14 @@ export function RideDetailModal({
   ride,
   benchmarks,
   history,
+  virtualBenchmarks,
+  virtualHistory,
   open,
   onClose,
 }: RideDetailModalProps) {
+  const isVirtual = ride?.sportType === 'VirtualRide'
+  const activeBenchmarks = isVirtual ? virtualBenchmarks : benchmarks
+  const activeHistory = isVirtual ? virtualHistory : history
   return (
     <Transition appear show={open} as={Fragment}>
       <Dialog as="div" onClose={onClose} className="relative z-50">
@@ -321,8 +328,8 @@ export function RideDetailModal({
                 {ride && (
                   <ModalContent
                     ride={ride}
-                    benchmarks={benchmarks}
-                    history={history}
+                    benchmarks={activeBenchmarks}
+                    history={activeHistory}
                     onClose={onClose}
                   />
                 )}

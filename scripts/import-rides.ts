@@ -53,6 +53,7 @@ interface ParsedActivity {
   maxHeartRate: number | null
   avgPower: number | null
   maxPower: number | null
+  avgCadence: number | null
   calories: number | null
   terrain: TerrainBreakdown | null
   routePreview: string | null
@@ -202,6 +203,7 @@ function parseFitFile(filename: string): ParsedActivity | null {
     maxHeartRate: session.maxHeartRate ?? null,
     avgPower: session.avgPower ?? null,
     maxPower: session.maxPower ?? null,
+    avgCadence: session.avgCadence ?? null,
     calories: session.totalCalories ?? null,
     terrain: null,
     routePreview: computeRoutePreview(gps),

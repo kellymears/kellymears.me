@@ -22,6 +22,7 @@ export interface NormalizedActivity {
   maxHeartRate: number | null
   avgPower: number | null
   maxPower: number | null
+  avgCadence: number | null
   calories: number | null
   terrain: { road: number; pavedPath: number; unpaved: number } | null
   routePreview: string | null
@@ -34,6 +35,8 @@ export interface RideStats {
   totalHours: number
   biggestRide: number
   biggestClimb: number
+  avgWeeklyMiles: number
+  bestWeekMiles: number
 }
 
 export interface PeriodStats {
@@ -71,6 +74,7 @@ export interface RideRaw {
   speed: number
   heartRate: number | null
   power: number | null
+  cadence: number | null
   calories: number | null
 }
 
@@ -87,12 +91,14 @@ export interface RideBenchmarks {
   movingTime: PeriodAverages
   heartRate: PeriodAverages | null
   power: PeriodAverages | null
+  cadence: PeriodAverages | null
 }
 
 export interface RideHistory {
   distances: number[]
   speeds: number[]
   elevations: number[]
+  cadences: number[]
 }
 
 export interface RecentRide {
@@ -147,6 +153,8 @@ export interface CyclingPageData {
   recentRides: RecentRide[]
   rideBenchmarks: RideBenchmarks
   rideHistory: RideHistory
+  virtualBenchmarks: RideBenchmarks
+  virtualHistory: RideHistory
   terrainCategories: TerrainCategory[]
   powerStats: PowerStats | null
   heartRateStats: HeartRateStats | null
@@ -192,6 +200,10 @@ function isRide(activity: NormalizedActivity): boolean {
   return RIDE_SPORT_TYPES.has(activity.sportType)
 }
 
+function isVirtualRide(activity: NormalizedActivity): boolean {
+  return activity.sportType === 'VirtualRide'
+}
+
 function formatDuration(seconds: number): string {
   const hrs = Math.floor(seconds / 3600)
   const mins = Math.floor((seconds % 3600) / 60)
@@ -221,6 +233,18 @@ function computeRideStats(rides: NormalizedActivity[]): RideStats {
   const biggestDist = maxBy(rides, (a) => a.distance)
   const biggestClimb = maxBy(rides, (a) => a.elevationGain)
 
+  // All-time weekly stats (not limited to chart's 26-week window)
+  const weekGroups = groupBy(rides, (r) => getWeekStart(r.startTime))
+  const weekDistances = [...weekGroups.values()].map(
+    (weekRides) => Math.round(sumBy(weekRides, (r) => r.distance * METERS_TO_MILES) * 10) / 10
+  )
+  const weeksWithRides = weekDistances.filter((d) => d > 0)
+  const avgWeeklyMiles =
+    weeksWithRides.length > 0
+      ? Math.round(weeksWithRides.reduce((a, b) => a + b, 0) / weeksWithRides.length)
+      : 0
+  const bestWeekMiles = weekDistances.length > 0 ? Math.round(Math.max(...weekDistances)) : 0
+
   return {
     totalMiles: Math.round(distance * METERS_TO_MILES),
     totalRides: rides.length,
@@ -228,6 +252,8 @@ function computeRideStats(rides: NormalizedActivity[]): RideStats {
     totalHours: Math.round(time / 3600),
     biggestRide: Math.round(biggestDist * METERS_TO_MILES * 10) / 10,
     biggestClimb: Math.round(biggestClimb * METERS_TO_FEET),
+    avgWeeklyMiles,
+    bestWeekMiles,
   }
 }
 
@@ -302,6 +328,7 @@ function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
         speed: Math.round(a.avgSpeed * MPS_TO_MPH * 10) / 10,
         heartRate: a.avgHeartRate ? Math.round(a.avgHeartRate) : null,
         power: a.avgPower ? Math.round(a.avgPower) : null,
+        cadence: a.avgCadence ? Math.round(a.avgCadence) : null,
         calories: a.calories ? Math.round(a.calories) : null,
       },
     }))
@@ -320,6 +347,24 @@ function avgForPeriod(
   return Math.round((values.reduce((a, b) => a + b, 0) / values.length) * 10) / 10
 }
 
+function trimmedAvgForPeriod(
+  rides: NormalizedActivity[],
+  cutoff: string,
+  getter: (r: NormalizedActivity) => number | null,
+  trimFraction = 0.1
+): number | null {
+  const values = rides
+    .filter((r) => r.startTime >= cutoff)
+    .map(getter)
+    .filter((v): v is number => v !== null && v > 0)
+  if (values.length < 3) return null
+  const sorted = [...values].sort((a, b) => a - b)
+  const dropCount = Math.floor(sorted.length * trimFraction)
+  const trimmed = sorted.slice(dropCount)
+  if (trimmed.length === 0) return null
+  return Math.round((trimmed.reduce((a, b) => a + b, 0) / trimmed.length) * 10) / 10
+}
+
 function computeRideBenchmarks(rides: NormalizedActivity[]): RideBenchmarks {
   const now = new Date()
   const d30 = new Date(now)
@@ -331,23 +376,30 @@ function computeRideBenchmarks(rides: NormalizedActivity[]): RideBenchmarks {
   const c90 = d90.toISOString()
   const cYear = `${now.getFullYear()}-01-01T00:00:00`
 
-  const real = rides
-
   function periods(getter: (r: NormalizedActivity) => number | null): PeriodAverages {
     return {
-      d30: avgForPeriod(real, c30, getter),
-      d90: avgForPeriod(real, c90, getter),
-      year: avgForPeriod(real, cYear, getter),
+      d30: avgForPeriod(rides, c30, getter),
+      d90: avgForPeriod(rides, c90, getter),
+      year: avgForPeriod(rides, cYear, getter),
     }
   }
 
-  const hrRides = real.filter((r) => r.avgHeartRate)
-  const pwrRides = real.filter((r) => r.avgPower)
+  function trimmedPeriods(getter: (r: NormalizedActivity) => number | null): PeriodAverages {
+    return {
+      d30: trimmedAvgForPeriod(rides, c30, getter),
+      d90: trimmedAvgForPeriod(rides, c90, getter),
+      year: trimmedAvgForPeriod(rides, cYear, getter),
+    }
+  }
+
+  const hrRides = rides.filter((r) => r.avgHeartRate)
+  const pwrRides = rides.filter((r) => r.avgPower)
+  const cadenceRides = rides.filter((r) => r.avgCadence)
 
   return {
     distance: periods((r) => r.distance * METERS_TO_MILES),
     elevation: periods((r) => r.elevationGain * METERS_TO_FEET),
-    speed: periods((r) => r.avgSpeed * MPS_TO_MPH),
+    speed: trimmedPeriods((r) => r.avgSpeed * MPS_TO_MPH),
     movingTime: periods((r) => r.movingTime / 60), // minutes
     heartRate:
       hrRides.length >= 3
@@ -365,16 +417,25 @@ function computeRideBenchmarks(rides: NormalizedActivity[]): RideBenchmarks {
             year: avgForPeriod(pwrRides, cYear, (r) => r.avgPower),
           }
         : null,
+    cadence:
+      cadenceRides.length >= 3
+        ? {
+            d30: trimmedAvgForPeriod(cadenceRides, c30, (r) => r.avgCadence),
+            d90: trimmedAvgForPeriod(cadenceRides, c90, (r) => r.avgCadence),
+            year: trimmedAvgForPeriod(cadenceRides, cYear, (r) => r.avgCadence),
+          }
+        : null,
   }
 }
 
 function computeRideHistory(rides: NormalizedActivity[]): RideHistory {
-  const real = [...rides].sort((a, b) => b.startTime.localeCompare(a.startTime)).slice(0, 50)
+  const sorted = [...rides].sort((a, b) => b.startTime.localeCompare(a.startTime)).slice(0, 50)
 
   return {
-    distances: real.map((r) => Math.round(r.distance * METERS_TO_MILES * 10) / 10),
-    speeds: real.map((r) => Math.round(r.avgSpeed * MPS_TO_MPH * 10) / 10),
-    elevations: real.map((r) => Math.round(r.elevationGain * METERS_TO_FEET)),
+    distances: sorted.map((r) => Math.round(r.distance * METERS_TO_MILES * 10) / 10),
+    speeds: sorted.map((r) => Math.round(r.avgSpeed * MPS_TO_MPH * 10) / 10),
+    elevations: sorted.map((r) => Math.round(r.elevationGain * METERS_TO_FEET)),
+    cadences: sorted.filter((r) => r.avgCadence != null).map((r) => Math.round(r.avgCadence!)),
   }
 }
 
@@ -481,6 +542,8 @@ export function getCyclingPageData(): CyclingPageData {
   if (cachedData) return cachedData
 
   const rides = loadActivities().filter(isRide)
+  const realRides = rides.filter((r) => !isVirtualRide(r))
+  const virtualRides = rides.filter(isVirtualRide)
 
   const now = new Date()
   const ytdCutoff = `${now.getFullYear()}-01-01T00:00:00`
@@ -494,8 +557,10 @@ export function getCyclingPageData(): CyclingPageData {
     recentStats: computePeriodStats(rides, recentCutoff.toISOString()),
     weeklyMileage: computeWeeklyMileage(rides),
     recentRides: computeRecentRides(rides),
-    rideBenchmarks: computeRideBenchmarks(rides),
-    rideHistory: computeRideHistory(rides),
+    rideBenchmarks: computeRideBenchmarks(realRides),
+    rideHistory: computeRideHistory(realRides),
+    virtualBenchmarks: computeRideBenchmarks(virtualRides),
+    virtualHistory: computeRideHistory(virtualRides),
     terrainCategories: computeTerrainCategories(rides),
     powerStats: computePowerStats(rides),
     heartRateStats: computeHeartRateStats(rides),

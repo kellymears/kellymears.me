@@ -227,9 +227,17 @@ interface RecentRidesProps {
   rides: RecentRide[]
   benchmarks: RideBenchmarks
   history: RideHistory
+  virtualBenchmarks: RideBenchmarks
+  virtualHistory: RideHistory
 }
 
-export function RecentRides({ rides, benchmarks, history }: RecentRidesProps) {
+export function RecentRides({
+  rides,
+  benchmarks,
+  history,
+  virtualBenchmarks,
+  virtualHistory,
+}: RecentRidesProps) {
   const [visibleCount, setVisibleCount] = useState(INITIAL_COUNT)
   const [loadingIndices, setLoadingIndices] = useState(new Set<number>())
   const [selectedRide, setSelectedRide] = useState<RecentRide | null>(null)
@@ -296,6 +304,8 @@ export function RecentRides({ rides, benchmarks, history }: RecentRidesProps) {
         ride={selectedRide}
         benchmarks={benchmarks}
         history={history}
+        virtualBenchmarks={virtualBenchmarks}
+        virtualHistory={virtualHistory}
         open={selectedRide !== null}
         onClose={() => setSelectedRide(null)}
       />

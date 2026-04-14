@@ -26,6 +26,8 @@ export default function CyclingPage() {
     recentRides,
     rideBenchmarks,
     rideHistory,
+    virtualBenchmarks,
+    virtualHistory,
     terrainCategories,
     powerStats,
     heartRateStats,
@@ -81,11 +83,17 @@ export default function CyclingPage() {
 
       <div className="content-defer grid min-w-0 items-start gap-x-8 pt-2 md:grid-cols-3">
         <Suspense fallback={<RidesSkeleton />}>
-          <RecentRides rides={recentRides} benchmarks={rideBenchmarks} history={rideHistory} />
+          <RecentRides
+            rides={recentRides}
+            benchmarks={rideBenchmarks}
+            history={rideHistory}
+            virtualBenchmarks={virtualBenchmarks}
+            virtualHistory={virtualHistory}
+          />
         </Suspense>
         <div className="min-w-0 md:sticky md:top-20">
           <TerrainBreakdown categories={terrainCategories} />
-          <RideAverages stats={rideStats} weeklyMileage={weeklyMileage} />
+          <RideAverages stats={rideStats} />
           <PerformanceMetrics power={powerStats} heartRate={heartRateStats} />
         </div>
       </div>
