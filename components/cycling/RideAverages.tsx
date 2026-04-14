@@ -1,11 +1,10 @@
-import type { RideStats, WeeklyMileage } from '@/lib/cycling'
+import type { RideStats } from '@/lib/cycling'
 
 interface RideAveragesProps {
   stats: RideStats
-  weeklyMileage: WeeklyMileage[]
 }
 
-export function RideAverages({ stats, weeklyMileage }: RideAveragesProps) {
+export function RideAverages({ stats }: RideAveragesProps) {
   if (stats.totalRides === 0) return null
 
   const avgMiles = Math.round(stats.totalMiles / stats.totalRides)
@@ -13,16 +12,6 @@ export function RideAverages({ stats, weeklyMileage }: RideAveragesProps) {
   const avgMinutes = Math.round((stats.totalHours * 60) / stats.totalRides)
   const avgHours = Math.floor(avgMinutes / 60)
   const avgMins = avgMinutes % 60
-
-  const weeksWithRides = weeklyMileage.filter((w) => w.rides > 0)
-  const avgWeeklyMiles =
-    weeksWithRides.length > 0
-      ? Math.round(weeksWithRides.reduce((sum, w) => sum + w.distance, 0) / weeksWithRides.length)
-      : 0
-  const bestWeek = weeklyMileage.reduce(
-    (best, w) => (w.distance > best.distance ? w : best),
-    weeklyMileage[0]!
-  )
 
   const averages = [
     { value: `${avgMiles} mi`, label: 'Avg Distance' },
@@ -39,8 +28,8 @@ export function RideAverages({ stats, weeklyMileage }: RideAveragesProps) {
   ]
 
   const weekly = [
-    { value: `${avgWeeklyMiles} mi`, label: 'Avg Week' },
-    { value: `${Math.round(bestWeek.distance)} mi`, label: 'Best Week' },
+    { value: `${stats.avgWeeklyMiles} mi`, label: 'Avg Week' },
+    { value: `${stats.bestWeekMiles} mi`, label: 'Best Week' },
   ]
 
   return (
