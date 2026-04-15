@@ -16,6 +16,7 @@ import {
   Heart,
   Milestone,
   Mountain,
+  RotateCw,
   Route,
   Timer,
   TreePine,
@@ -154,7 +155,7 @@ interface StatTileProps {
   icon: typeof Clock
   label: string
   value: string
-  accent?: 'rose' | 'blue'
+  accent?: 'rose' | 'blue' | 'emerald'
   trend?: { points: (number | null)[]; current: number }
 }
 
@@ -164,7 +165,9 @@ function StatTile({ icon: Icon, label, value, accent, trend }: StatTileProps) {
       ? 'text-rose-600 dark:text-rose-400'
       : accent === 'blue'
         ? 'text-blue-600 dark:text-blue-400'
-        : 'text-gray-900 dark:text-gray-100'
+        : accent === 'emerald'
+          ? 'text-emerald-600 dark:text-emerald-400'
+          : 'text-gray-900 dark:text-gray-100'
 
   return (
     <div className="rounded-lg bg-gray-50/80 px-3 py-2.5 dark:bg-gray-800/40">
@@ -177,7 +180,9 @@ function StatTile({ icon: Icon, label, value, accent, trend }: StatTileProps) {
               ? 'text-rose-400 dark:text-rose-500'
               : accent === 'blue'
                 ? 'text-blue-400 dark:text-blue-500'
-                : 'text-gray-400 dark:text-gray-500'
+                : accent === 'emerald'
+                  ? 'text-emerald-400 dark:text-emerald-500'
+                  : 'text-gray-400 dark:text-gray-500'
           }
         />
         {trend && <TrendSpark points={trend.points} current={trend.current} />}
@@ -405,6 +410,17 @@ function ModalContent({
     })
   if (ride.maxWatts)
     secondaryStats.push({ icon: Zap, label: 'Max Power', value: ride.maxWatts, accent: 'blue' })
+  if (ride.cadence)
+    secondaryStats.push({
+      icon: RotateCw,
+      label: 'Avg Cadence',
+      value: ride.cadence,
+      accent: 'emerald',
+      trend:
+        benchmarks.cadence && ride.raw.cadence
+          ? { points: tp(benchmarks.cadence), current: ride.raw.cadence }
+          : undefined,
+    })
   if (ride.calories) secondaryStats.push({ icon: Flame, label: 'Calories', value: ride.calories })
 
   return (

@@ -20,6 +20,7 @@ export function RideAverages({ stats }: RideAveragesProps) {
       value: avgHours > 0 ? `${avgHours}h ${avgMins}m` : `${avgMins}m`,
       label: 'Avg Duration',
     },
+    ...(stats.avgCadence ? [{ value: `${stats.avgCadence} rpm`, label: 'Avg Cadence' }] : []),
   ]
 
   const records = [

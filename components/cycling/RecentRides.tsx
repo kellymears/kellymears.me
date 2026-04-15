@@ -16,6 +16,7 @@ import {
   Heart,
   Milestone,
   Mountain,
+  RotateCw,
   Route,
   TreePine,
   Zap,
@@ -170,6 +171,12 @@ function RideCard({
               <span className="inline-flex items-center gap-1 text-blue-600 dark:text-blue-400">
                 <Zap size={11} strokeWidth={2} />
                 {ride.watts}
+              </span>
+            )}
+            {ride.cadence && (
+              <span className="inline-flex items-center gap-1 text-emerald-600 dark:text-emerald-400">
+                <RotateCw size={11} strokeWidth={2} />
+                {ride.cadence}
               </span>
             )}
           </div>

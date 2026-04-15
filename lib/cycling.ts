@@ -37,6 +37,7 @@ export interface RideStats {
   biggestClimb: number
   avgWeeklyMiles: number
   bestWeekMiles: number
+  avgCadence: number | null
 }
 
 export interface PeriodStats {
@@ -115,6 +116,7 @@ export interface RecentRide {
   maxHeartrate: string | null
   watts: string | null
   maxWatts: string | null
+  cadence: string | null
   calories: string | null
   source: string
   sportType: string
@@ -254,6 +256,12 @@ function computeRideStats(rides: NormalizedActivity[]): RideStats {
     biggestClimb: Math.round(biggestClimb * METERS_TO_FEET),
     avgWeeklyMiles,
     bestWeekMiles,
+    avgCadence: (() => {
+      const values = rides.map((r) => r.avgCadence).filter((v): v is number => v !== null && v > 0)
+      return values.length >= 3
+        ? Math.round(values.reduce((a, b) => a + b, 0) / values.length)
+        : null
+    })(),
   }
 }
 
@@ -310,6 +318,7 @@ function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
       maxHeartrate: a.maxHeartRate ? `${Math.round(a.maxHeartRate)} bpm` : null,
       watts: a.avgPower ? `${Math.round(a.avgPower)}W` : null,
       maxWatts: a.maxPower ? `${Math.round(a.maxPower)}W` : null,
+      cadence: a.avgCadence ? `${Math.round(a.avgCadence)} rpm` : null,
       calories: a.calories ? `${Math.round(a.calories).toLocaleString()} kcal` : null,
       source: a.source,
       sportType: a.sportType,
