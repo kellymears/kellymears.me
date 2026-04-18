@@ -298,6 +298,7 @@ function computeWeeklyMileage(rides: NormalizedActivity[]): WeeklyMileage[] {
 
 function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
   return [...rides]
+    .filter((a) => a.routePreview !== null || a.sportType === 'VirtualRide')
     .sort((a, b) => b.startTime.localeCompare(a.startTime))
     .slice(0, 30)
     .map((a) => ({
