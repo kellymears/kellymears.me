@@ -30,7 +30,7 @@ jobs:
             nextjs-${{ runner.os }}-
 
       - name: Deploy to Netlify
-        run: npx netlify-cli deploy --prod
+        run: npx -y netlify-cli@^25 deploy --prod
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
