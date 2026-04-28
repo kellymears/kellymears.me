@@ -1,6 +1,7 @@
 import { Decoder, Stream } from '@garmin/fitsdk'
-import { readdirSync, readFileSync, writeFileSync, mkdirSync } from 'fs'
+import { readdirSync, readFileSync, writeFileSync, mkdirSync, rmSync } from 'fs'
 import { join, basename } from 'path'
+import GithubSlugger from 'github-slugger'
 import type { RidesData, RideBounds } from '../lib/rides'
 import { bounds2d, countByRecord, formatCounts } from '../lib/fn'
 import { cleanText } from '../lib/text'
@@ -34,6 +35,9 @@ const VIRTUAL_TYPES = new Set(['VirtualRide'])
 
 // GPS simplification tolerance (degrees) — ~100m at mid-latitudes
 const SIMPLIFY_TOLERANCE = 0.001
+
+// Per-ride detail tolerance — ~10m, sharp enough for street-level zoom
+const DETAIL_TOLERANCE = 0.0001
 
 // --- Types ---
 
@@ -312,6 +316,25 @@ function simplifyPath(points: [number, number][], tolerance: number): [number, n
   return [first, last]
 }
 
+// --- Slug generation (deterministic, collision-suffixed) ---
+
+function computeSlugs(activities: ParsedActivity[]): Map<string, string> {
+  // Sort ASC by startTime (id as tiebreaker) so the earliest ride always
+  // gets the unsuffixed slug. Stable across imports as long as new rides
+  // never appear "before" existing ones with the same name.
+  const sorted = [...activities].sort((a, b) => {
+    const cmp = a.startTime.localeCompare(b.startTime)
+    return cmp !== 0 ? cmp : a.id.localeCompare(b.id)
+  })
+  const slugger = new GithubSlugger()
+  const slugs = new Map<string, string>()
+  for (const a of sorted) {
+    const date = a.startTime.slice(0, 10) // YYYY-MM-DD
+    slugs.set(a.id, slugger.slug(`${date}-${a.name}`))
+  }
+  return slugs
+}
+
 // --- Phase 4: Emit ---
 
 function computeBounds(rides: { coordinates: [number, number][] }[]): RideBounds {
@@ -325,17 +348,53 @@ function computeBounds(rides: { coordinates: [number, number][] }[]): RideBounds
 }
 
 function emit(activities: ParsedActivity[]) {
-  // --- activities-metrics.json (activity metadata, no GPS) ---
   const outDir = join(process.cwd(), 'public', 'static', 'data')
   mkdirSync(outDir, { recursive: true })
 
-  const normalized = activities.map(({ gps: _gps, ...rest }) => rest)
+  const slugs = computeSlugs(activities)
+
+  // --- activities-metrics.json (activity metadata, no GPS) ---
+  const normalized = activities.map(({ gps, ...rest }) => ({
+    ...rest,
+    slug: slugs.get(rest.id)!,
+    startLat: gps[0]?.[0] ?? null,
+    startLng: gps[0]?.[1] ?? null,
+  }))
   const activitiesPath = join(outDir, 'activities-metrics.json')
   const activitiesJson = JSON.stringify(normalized)
   writeFileSync(activitiesPath, activitiesJson)
   const activitiesSize = (Buffer.byteLength(activitiesJson) / 1024).toFixed(1)
   console.log(
     `[import-rides] Wrote ${activitiesPath} (${activitiesSize} KB, ${normalized.length} activities)`
+  )
+
+  // --- public/static/data/rides/{slug}.json (per-ride detail GPS) ---
+  const ridesDir = join(outDir, 'rides')
+  rmSync(ridesDir, { recursive: true, force: true })
+  mkdirSync(ridesDir, { recursive: true })
+
+  let detailWritten = 0
+  let detailBytes = 0
+  for (const a of activities) {
+    if (a.gps.length === 0) continue
+    const slug = slugs.get(a.id)!
+    const coordinates = simplifyPath(a.gps, DETAIL_TOLERANCE)
+    const payload = {
+      slug,
+      id: a.id,
+      sportType: a.sportType,
+      startTime: a.startTime,
+      name: a.name,
+      coordinates,
+    }
+    const json = JSON.stringify(payload)
+    writeFileSync(join(ridesDir, `${slug}.json`), json)
+    detailBytes += Buffer.byteLength(json)
+    detailWritten++
+  }
+  console.log(
+    `[import-rides] Wrote ${detailWritten} per-ride GPS files to ${ridesDir} ` +
+      `(${(detailBytes / 1024 / 1024).toFixed(2)} MB total, avg ${Math.round(detailBytes / Math.max(detailWritten, 1) / 1024)} KB/file)`
   )
 
   // --- activities-routes.json (simplified GPS tracks for heatmap) ---

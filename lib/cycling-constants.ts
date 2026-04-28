@@ -43,3 +43,11 @@ export const RIDE_TYPE_COLORS: Record<string, string> = {
   VirtualRide: '#9333ea',
   EBikeRide: '#06b6d4',
 }
+
+export const SOURCE_LABELS: Record<string, string> = {
+  sv: 'Strava',
+  hk: 'Apple Health',
+  zw: 'Zwift',
+  fi: 'Fitbit',
+  gm: 'Garmin',
+}

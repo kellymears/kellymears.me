@@ -3,6 +3,7 @@ import type { NextConfig } from 'next'
 const ContentSecurityPolicy = `
   default-src 'self';
   script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app analytics.umami.is;
+  worker-src 'self' blob:;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
   media-src *.s3.amazonaws.com;
@@ -53,9 +54,7 @@ const config: NextConfig = {
     optimizePackageImports: ['lucide-react'],
   },
   headers: async () => [{ source: '/(.*)', headers: securityHeaders }],
-  redirects: async () => [
-    { source: '/sites', destination: '/projects', permanent: true },
-  ],
+  redirects: async () => [{ source: '/sites', destination: '/projects', permanent: true }],
 }
 
 export default config

@@ -8,6 +8,7 @@ const MPS_TO_MPH = 2.23694
 
 export interface NormalizedActivity {
   id: string
+  slug: string
   source: string
   sportType: string
   startTime: string
@@ -26,6 +27,8 @@ export interface NormalizedActivity {
   calories: number | null
   terrain: { road: number; pavedPath: number; unpaved: number } | null
   routePreview: string | null
+  startLat: number | null
+  startLng: number | null
 }
 
 export interface RideStats {
@@ -104,6 +107,7 @@ export interface RideHistory {
 
 export interface RecentRide {
   id: string
+  slug: string
   name: string
   date: string
   distance: string
@@ -296,52 +300,57 @@ function computeWeeklyMileage(rides: NormalizedActivity[]): WeeklyMileage[] {
     }))
 }
 
+export function toRecentRide(a: NormalizedActivity): RecentRide {
+  return {
+    id: a.id,
+    slug: a.slug,
+    name: a.name,
+    date: new Date(a.startTime).toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric',
+    }),
+    distance: `${(a.distance * METERS_TO_MILES).toFixed(1)} mi`,
+    duration: formatDuration(a.movingTime),
+    elapsedTime: formatDuration(a.elapsedTime),
+    elevation: `${Math.round(a.elevationGain * METERS_TO_FEET).toLocaleString()} ft`,
+    speed: `${(a.avgSpeed * MPS_TO_MPH).toFixed(1)} mph`,
+    maxSpeed: a.maxSpeed > 0 ? `${(a.maxSpeed * MPS_TO_MPH).toFixed(1)} mph` : null,
+    heartrate: a.avgHeartRate ? `${Math.round(a.avgHeartRate)} bpm` : null,
+    maxHeartrate: a.maxHeartRate ? `${Math.round(a.maxHeartRate)} bpm` : null,
+    watts: a.avgPower ? `${Math.round(a.avgPower)}W` : null,
+    maxWatts: a.maxPower ? `${Math.round(a.maxPower)}W` : null,
+    cadence: a.avgCadence ? `${Math.round(a.avgCadence)} rpm` : null,
+    calories: a.calories ? `${Math.round(a.calories).toLocaleString()} kcal` : null,
+    source: a.source,
+    sportType: a.sportType,
+    terrain: a.terrain
+      ? {
+          road: Math.round(a.terrain.road * METERS_TO_MILES * 10) / 10,
+          pavedPath: Math.round(a.terrain.pavedPath * METERS_TO_MILES * 10) / 10,
+          unpaved: Math.round(a.terrain.unpaved * METERS_TO_MILES * 10) / 10,
+        }
+      : null,
+    routePath: a.routePreview,
+    raw: {
+      distance: Math.round(a.distance * METERS_TO_MILES * 10) / 10,
+      movingTime: a.movingTime,
+      elevation: Math.round(a.elevationGain * METERS_TO_FEET),
+      speed: Math.round(a.avgSpeed * MPS_TO_MPH * 10) / 10,
+      heartRate: a.avgHeartRate ? Math.round(a.avgHeartRate) : null,
+      power: a.avgPower ? Math.round(a.avgPower) : null,
+      cadence: a.avgCadence ? Math.round(a.avgCadence) : null,
+      calories: a.calories ? Math.round(a.calories) : null,
+    },
+  }
+}
+
 function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
   return [...rides]
     .filter((a) => a.routePreview !== null || a.sportType === 'VirtualRide')
     .sort((a, b) => b.startTime.localeCompare(a.startTime))
     .slice(0, 30)
-    .map((a) => ({
-      id: a.id,
-      name: a.name,
-      date: new Date(a.startTime).toLocaleDateString('en-US', {
-        month: 'short',
-        day: 'numeric',
-        year: 'numeric',
-      }),
-      distance: `${(a.distance * METERS_TO_MILES).toFixed(1)} mi`,
-      duration: formatDuration(a.movingTime),
-      elapsedTime: formatDuration(a.elapsedTime),
-      elevation: `${Math.round(a.elevationGain * METERS_TO_FEET).toLocaleString()} ft`,
-      speed: `${(a.avgSpeed * MPS_TO_MPH).toFixed(1)} mph`,
-      maxSpeed: a.maxSpeed > 0 ? `${(a.maxSpeed * MPS_TO_MPH).toFixed(1)} mph` : null,
-      heartrate: a.avgHeartRate ? `${Math.round(a.avgHeartRate)} bpm` : null,
-      maxHeartrate: a.maxHeartRate ? `${Math.round(a.maxHeartRate)} bpm` : null,
-      watts: a.avgPower ? `${Math.round(a.avgPower)}W` : null,
-      maxWatts: a.maxPower ? `${Math.round(a.maxPower)}W` : null,
-      cadence: a.avgCadence ? `${Math.round(a.avgCadence)} rpm` : null,
-      calories: a.calories ? `${Math.round(a.calories).toLocaleString()} kcal` : null,
-      source: a.source,
-      sportType: a.sportType,
-      terrain: a.terrain
-        ? {
-            road: Math.round(a.terrain.road * METERS_TO_MILES * 10) / 10,
-            pavedPath: Math.round(a.terrain.pavedPath * METERS_TO_MILES * 10) / 10,
-            unpaved: Math.round(a.terrain.unpaved * METERS_TO_MILES * 10) / 10,
-          }
-        : null,
-      routePath: a.routePreview,
-      raw: {
-        distance: Math.round(a.distance * METERS_TO_MILES * 10) / 10,
-        movingTime: a.movingTime,
-        elevation: Math.round(a.elevationGain * METERS_TO_FEET),
-        speed: Math.round(a.avgSpeed * MPS_TO_MPH * 10) / 10,
-        heartRate: a.avgHeartRate ? Math.round(a.avgHeartRate) : null,
-        power: a.avgPower ? Math.round(a.avgPower) : null,
-        cadence: a.avgCadence ? Math.round(a.avgCadence) : null,
-        calories: a.calories ? Math.round(a.calories) : null,
-      },
-    }))
+    .map(toRecentRide)
 }
 
 function avgForPeriod(
@@ -535,15 +544,28 @@ function computeTotalEnergy(rides: NormalizedActivity[]): number {
 // --- Data loading ---
 
 let cachedData: CyclingPageData | null = null
+let cachedActivities: NormalizedActivity[] | null = null
+let cachedSortedRides: NormalizedActivity[] | null = null
 
 function loadActivities(): NormalizedActivity[] {
+  if (cachedActivities) return cachedActivities
   const filePath = join(process.cwd(), 'public', 'static', 'data', 'activities-metrics.json')
   try {
     const raw = readFileSync(filePath, 'utf-8')
-    return JSON.parse(raw) as NormalizedActivity[]
+    cachedActivities = JSON.parse(raw) as NormalizedActivity[]
   } catch {
-    return []
+    cachedActivities = []
   }
+  return cachedActivities
+}
+
+function getAllSortedRides(): NormalizedActivity[] {
+  if (cachedSortedRides) return cachedSortedRides
+  cachedSortedRides = loadActivities()
+    .filter(isRide)
+    .filter((a) => a.routePreview !== null || a.sportType === 'VirtualRide')
+    .sort((a, b) => b.startTime.localeCompare(a.startTime))
+  return cachedSortedRides
 }
 
 // --- Orchestrator ---
@@ -578,4 +600,105 @@ export function getCyclingPageData(): CyclingPageData {
   }
 
   return cachedData
+}
+
+// --- Per-ride helpers ---
+
+function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  const R = 6371
+  const toRad = (deg: number) => (deg * Math.PI) / 180
+  const dLat = toRad(lat2 - lat1)
+  const dLng = toRad(lng2 - lng1)
+  const a =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2
+  return 2 * R * Math.asin(Math.sqrt(a))
+}
+
+export function getAllRideSlugs(): string[] {
+  return getAllSortedRides().map((a) => a.slug)
+}
+
+export interface RidePageData {
+  ride: RecentRide
+  raw: NormalizedActivity
+  prev: RecentRide | null
+  next: RecentRide | null
+  related: RecentRide[]
+  recent: RecentRide[]
+  benchmarks: RideBenchmarks
+  history: RideHistory
+}
+
+const NEARBY_KM = 1.6
+const DIST_TOLERANCE = 0.15
+const RELATED_COUNT = 5
+const RECENT_SIDEBAR_COUNT = 5
+
+function computeRelated(
+  current: NormalizedActivity,
+  list: NormalizedActivity[],
+  count: number
+): RecentRide[] {
+  type Scored = { activity: NormalizedActivity; score: number }
+  const scored: Scored[] = []
+
+  for (const a of list) {
+    if (a.slug === current.slug) continue
+
+    let score = 0
+    if (
+      current.startLat != null &&
+      current.startLng != null &&
+      a.startLat != null &&
+      a.startLng != null
+    ) {
+      const km = haversineKm(current.startLat, current.startLng, a.startLat, a.startLng)
+      if (km < NEARBY_KM) score += 1
+    }
+    if (current.distance > 0) {
+      const ratio = a.distance / current.distance
+      if (ratio >= 1 - DIST_TOLERANCE && ratio <= 1 + DIST_TOLERANCE) score += 1
+    }
+
+    if (score > 0) scored.push({ activity: a, score })
+  }
+
+  scored.sort((x, y) => {
+    if (y.score !== x.score) return y.score - x.score
+    return y.activity.startTime.localeCompare(x.activity.startTime)
+  })
+
+  return scored.slice(0, count).map((s) => toRecentRide(s.activity))
+}
+
+export function getRidePageData(slug: string): RidePageData | null {
+  const list = getAllSortedRides()
+  const idx = list.findIndex((a) => a.slug === slug)
+  if (idx === -1) return null
+
+  const raw = list[idx]!
+  const isVirtual = isVirtualRide(raw)
+
+  const prev = idx + 1 < list.length ? toRecentRide(list[idx + 1]!) : null
+  const next = idx > 0 ? toRecentRide(list[idx - 1]!) : null
+
+  const related = computeRelated(raw, list, RELATED_COUNT)
+  const relatedSlugs = new Set(related.map((r) => r.slug))
+  const recent = list
+    .filter((a) => a.slug !== slug && !relatedSlugs.has(a.slug))
+    .slice(0, RECENT_SIDEBAR_COUNT)
+    .map(toRecentRide)
+
+  const cycling = getCyclingPageData()
+  return {
+    ride: toRecentRide(raw),
+    raw,
+    prev,
+    next,
+    related,
+    recent,
+    benchmarks: isVirtual ? cycling.virtualBenchmarks : cycling.rideBenchmarks,
+    history: isVirtual ? cycling.virtualHistory : cycling.rideHistory,
+  }
 }
