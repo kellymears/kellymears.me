@@ -92,7 +92,11 @@ const ThemeSwitch = () => {
           leaveFrom="transform opacity-100 scale-100"
           leaveTo="transform opacity-0 scale-95"
         >
-          <MenuItems className="absolute right-0 z-50 mt-2 w-32 origin-top-right divide-y divide-gray-100 rounded-md border border-gray-200 bg-white shadow-lg focus:outline-hidden dark:border-gray-700 dark:bg-gray-800">
+          <MenuItems
+            anchor={{ to: 'bottom end', gap: 8 }}
+            portal
+            className="z-50 w-32 origin-top-right divide-y divide-gray-100 rounded-md border border-gray-200 bg-white shadow-lg focus:outline-hidden dark:border-gray-700 dark:bg-gray-800"
+          >
             <RadioGroup value={theme} onChange={setTheme}>
               <div className="p-1">
                 <Radio value="light">

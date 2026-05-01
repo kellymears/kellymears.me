@@ -619,6 +619,12 @@ export function getAllRideSlugs(): string[] {
   return getAllSortedRides().map((a) => a.slug)
 }
 
+export function getRecentRideSlugs(limit: number): string[] {
+  return getAllSortedRides()
+    .slice(0, limit)
+    .map((a) => a.slug)
+}
+
 export interface RidePageData {
   ride: RecentRide
   raw: NormalizedActivity

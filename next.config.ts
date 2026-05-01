@@ -50,7 +50,6 @@ const config: NextConfig = {
   trailingSlash: false,
   pageExtensions: ['ts', 'tsx', 'js', 'jsx'],
   experimental: {
-    inlineCss: true,
     optimizePackageImports: ['lucide-react'],
   },
   headers: async () => [{ source: '/(.*)', headers: securityHeaders }],

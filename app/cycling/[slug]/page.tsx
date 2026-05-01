@@ -1,10 +1,12 @@
 import RideLayout from '@/layouts/RideLayout'
 import siteMetadata from '@/data/siteMetadata'
-import { getAllRideSlugs, getRidePageData } from '@/lib/cycling'
+import { getRecentRideSlugs, getRidePageData } from '@/lib/cycling'
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 
-export const dynamicParams = false
+export const dynamicParams = true
+
+const PRERENDER_LIMIT = 30
 
 const Page = async (props: { params: Promise<{ slug: string }> }) => {
   const params = await props.params
@@ -27,7 +29,7 @@ const Page = async (props: { params: Promise<{ slug: string }> }) => {
 }
 
 const generateStaticParams = async () => {
-  return getAllRideSlugs().map((slug) => ({ slug }))
+  return getRecentRideSlugs(PRERENDER_LIMIT).map((slug) => ({ slug }))
 }
 
 const generateMetadata = async (props: {
