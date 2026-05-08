@@ -1,0 +1,100 @@
+---
+title: 'How I Read a React Component'
+date: '2026-05-08'
+lastmod: '2026-05-08'
+tags: ['react', 'development', 'typescript']
+draft: false
+summary: 'A render-order rule, a Smart/Dumb split, and a filesystem habit. Three small commitments that make a React component readable in five seconds.'
+---
+
+When I open a file I haven't seen before, I want to know within five seconds whether whoever wrote it thought about the boring stuff. Did they handle the case where the data hasn't arrived? Where the fetch failed? Where the response came back empty? In most components, finding out requires reading the whole render. That's expensive.
+
+I have a small set of habits that make it cheap. None of them are _inventions_. They're rules for placement.
+
+## The render-order rule
+
+Early returns at the top of the render, in this order:
+
+```tsx
+const Component = ({ url }: Props) => {
+  const { data, error, isError, isLoading } = useUrl(url)
+
+  if (isError) return <Error error={error} />
+  if (isLoading) return <Loading />
+  if (!data) return <Error error={`No data for ${url}`} />
+
+  return <View data={data} url={url} />
+}
+```
+
+The order matters. Check error first. If `isError` and `isLoading` are both true and you check loading first, the spinner renders and the error never surfaces. The bug is invisible in dev and miserable in prod. I've shipped that bug.
+
+Loading goes second because waiting isn't yet failure. No-data goes third because a successful fetch with an empty payload deserves an explicit handler, not a half-rendered View. By the time you reach the last line, every field below it is known to exist.
+
+This pattern only applies when there's an async source. A component that takes its data through props is already on the success branch.
+
+<OrderMatters />
+
+## Smart and dumb
+
+Once the early returns sit at the top, the render itself wants to be a pure View. The container owns data and decisions. The View owns JSX.
+
+```tsx
+const Component = (props: Props) => {
+  const { data, error, isError, isLoading } = useUrl(props.url)
+  if (isError) return <Error error={error} />
+  if (isLoading) return <Loading />
+  if (!data) return <Error error={`No data for ${props.url}`} />
+  return <ComponentView data={data} url={props.url} />
+}
+
+const ComponentView = ({ data, url }: ViewProps) => (
+  <div>
+    Fetched {url}, found {data.length} results.
+  </div>
+)
+```
+
+The View does no fetching, owns no async state, and has no early returns. You can render it in Storybook with fake `data` and have the design conversation without standing up a backend. You can swap the visual treatment without touching the data plumbing.
+
+If the View is two lines and your container is four, leave it inline. The split earns its keep when the View grows past trivial or wants its own story. Don't impose it for ceremony.
+
+## The filesystem habit
+
+Where a thing _lives_ tells you what it's for. Two rules:
+
+A component used by exactly one parent lives inside that parent's `components/` directory. Don't park it next to its only consumer as a sibling and let a relative import pretend the relationship is symmetric.
+
+Never import from a peer's `components/`. If two peers need the same thing, lift it to the nearest common ancestor's `components/`. Each lift moves the file up exactly as far as it needs to go to be shared, and no further.
+
+The same rules apply to hooks.
+
+That gives you something like this:
+
+```text
+Hero/
+  Hero.tsx                  // primary
+  Hero.stories.tsx
+  components/               // subs only used by Hero
+    HeroByline/
+      HeroByline.tsx
+      index.ts
+  hooks/                    // hooks only used by Hero
+  variants/                 // alternate top-level renderings
+    HeroEditorial/
+      HeroEditorial.tsx
+      index.ts
+    HeroSplit/
+      HeroSplit.tsx
+      index.ts
+```
+
+Variants get their own subdirectory because they're co-equal exports, not subordinate parts. `HeroEditorial` and `HeroSplit` are alternate renderings the registry picks between. They live in `variants/` so the folder stays scannable as it grows.
+
+---
+
+I didn't invent any of this. Almost any senior developer would tell you something similar, especially about the render-order rule — it's what every senior reviewer eventually writes in somebody else's PR. And separating a dumb View from the plumbing is more or less the point of React. Old ground.
+
+The filesystem rules are more opinionated, and I have coworkers who strongly disagree. There's room to disagree. But if you're feeling lost about what goes where and why, my rules will get you most of the way there, and the predictability is worth the discipline it takes to keep them.
+
+What ties all three rules together is the same idea: be _explicit_. When the code is explicit and the folders are explicit, a stranger with some development experience can audit your component without reading the whole file. They can tell from the silhouette alone — handles errors, loading, the empty case, or doesn't. Yes, this handles its states. No, it's missing X. That's what I'm after.

@@ -15,10 +15,20 @@ const ReduceStepper = dynamic(
   }
 )
 
+const OrderMatters = dynamic(
+  () => import('@/components/blog/OrderMatters').then((mod) => mod.OrderMatters),
+  {
+    loading: () => (
+      <div className="my-8 h-64 animate-pulse rounded-xl bg-gray-100 dark:bg-gray-800" />
+    ),
+  }
+)
+
 export const components: MDXComponents = {
   Image,
   TOCInline,
   ReduceStepper,
+  OrderMatters,
   a: Link,
   pre: Pre,
   table: TableWrapper,
