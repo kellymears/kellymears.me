@@ -34,6 +34,7 @@ DATA_FILES=(
   "public/static/data/activities-routes.json"
   "public/static/data/github.json"
 )
+RIDES_DIR="public/static/data/rides"
 
 CHANGED=()
 for f in "${DATA_FILES[@]}"; do
@@ -41,6 +42,12 @@ for f in "${DATA_FILES[@]}"; do
     CHANGED+=("$f")
   fi
 done
+
+# Per-ride GPS files: catch modifications to tracked files AND new slugs
+if ! git diff --quiet -- "$RIDES_DIR" 2>/dev/null || \
+   [[ -n "$(git ls-files --others --exclude-standard -- "$RIDES_DIR")" ]]; then
+  CHANGED+=("$RIDES_DIR")
+fi
 
 if [[ ${#CHANGED[@]} -eq 0 ]]; then
   log "No data changes — skipping commit"
