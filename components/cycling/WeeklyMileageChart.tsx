@@ -63,16 +63,10 @@ function buildStats(weeks: WeeklyMileage[]) {
 interface MileageBarChartProps {
   weeks: WeeklyMileage[]
   maxLabels?: number
-  avgFontSize?: number
   monthFontSize?: number
 }
 
-function MileageBarChart({
-  weeks,
-  maxLabels,
-  avgFontSize = 9,
-  monthFontSize = 10,
-}: MileageBarChartProps) {
+function MileageBarChart({ weeks, maxLabels, monthFontSize = 10 }: MileageBarChartProps) {
   const { tooltip, show, hide } = useSvgTooltip()
 
   const maxDistance = Math.max(...weeks.map((w) => w.distance), 1)
@@ -83,6 +77,8 @@ function MileageBarChart({
   const weekCount = weeks.length
   const svgWidth = weekCount * BAR_STEP
   const svgHeight = TOP_PADDING + CHART_HEIGHT + LABEL_HEIGHT
+  const avgY = weekAvg > 0 ? TOP_PADDING + CHART_HEIGHT - (weekAvg / maxDistance) * CHART_HEIGHT : 0
+  const avgTopPct = (avgY / svgHeight) * 100
 
   const allMonthLabels: { label: string; x: number }[] = []
   let lastMonth = -1
@@ -124,35 +120,19 @@ function MileageBarChart({
         className="w-full"
         style={{ overflow: 'visible' }}
       >
-        <title>{chartDescription}</title>
-
-        {weekAvg > 0 &&
-          (() => {
-            const avgY = TOP_PADDING + CHART_HEIGHT - (weekAvg / maxDistance) * CHART_HEIGHT
-            return (
-              <g aria-hidden="true">
-                <line
-                  x1="0"
-                  y1={avgY}
-                  x2={svgWidth}
-                  y2={avgY}
-                  stroke="currentColor"
-                  strokeWidth="0.75"
-                  strokeDasharray="4 3"
-                  className="text-gray-300 dark:text-gray-600"
-                />
-                <text
-                  x={svgWidth}
-                  y={avgY - 3}
-                  textAnchor="end"
-                  className="fill-gray-400 dark:fill-gray-500"
-                  style={{ fontSize: `${avgFontSize}px` }}
-                >
-                  avg · {weekAvg} mi
-                </text>
-              </g>
-            )
-          })()}
+        {weekAvg > 0 && (
+          <line
+            x1="0"
+            y1={avgY}
+            x2={svgWidth}
+            y2={avgY}
+            stroke="currentColor"
+            strokeWidth="0.75"
+            strokeDasharray="4 3"
+            className="text-gray-300 dark:text-gray-600"
+            aria-hidden="true"
+          />
+        )}
 
         {monthLabels.map((m, i) => (
           <text
@@ -189,6 +169,16 @@ function MileageBarChart({
           )
         })}
       </svg>
+
+      {weekAvg > 0 && (
+        <div
+          className="pointer-events-none absolute right-0 -translate-y-[calc(100%+2px)] rounded bg-white/85 px-1.5 py-0.5 text-[10px] font-medium whitespace-nowrap text-gray-500 tabular-nums ring-1 ring-gray-200/70 backdrop-blur-sm dark:bg-gray-900/80 dark:text-gray-400 dark:ring-gray-700/60"
+          style={{ top: `${avgTopPct}%` }}
+          aria-hidden="true"
+        >
+          avg · {weekAvg} mi
+        </div>
+      )}
 
       <SvgTooltip state={tooltip} />
     </div>
@@ -240,7 +230,7 @@ export function WeeklyMileageChart({ data }: WeeklyMileageChartProps) {
           <MileageStats weeks={data} />
         </div>
         <div className="md:hidden">
-          <MileageBarChart weeks={mobileWeeks} maxLabels={3} avgFontSize={6} monthFontSize={7} />
+          <MileageBarChart weeks={mobileWeeks} maxLabels={3} monthFontSize={7} />
           <MileageStats weeks={mobileWeeks} />
         </div>
       </div>
