@@ -5,6 +5,7 @@ import SectionContainer from '@/components/SectionContainer'
 import siteMetadata from '@/data/siteMetadata'
 import { Metadata } from 'next'
 import { Space_Grotesk } from 'next/font/google'
+import Script from 'next/script'
 import { ThemeProviders } from './theme-providers'
 
 import 'css/tailwind.css'
@@ -94,6 +95,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <link rel="alternate" type="application/rss+xml" href={`${basePath}/feed.xml`} />
       <body className="overflow-x-clip text-black antialiased dark:text-white">
         <PaletteScript />
+        {process.env.NEXT_PUBLIC_UMAMI_WEBSITE_ID && (
+          <Script
+            src="https://analytics.umami.is/script.js"
+            data-website-id={process.env.NEXT_PUBLIC_UMAMI_WEBSITE_ID}
+            data-domains="kellymears.me"
+            strategy="afterInteractive"
+            defer
+          />
+        )}
         <ThemeProviders>
           <SectionContainer>
             <Header />
