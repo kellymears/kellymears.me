@@ -2,7 +2,7 @@ import type { NextConfig } from 'next'
 
 const ContentSecurityPolicy = `
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app analytics.umami.is;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app cloud.umami.is;
   worker-src 'self' blob:;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
