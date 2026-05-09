@@ -89,23 +89,16 @@ The `/open-source` page is fully API-driven from live GitHub data. Key details:
 - **ContributionGrid**: Client component with random color palette (6 options), SVG heatmap, dynamic quartile thresholds, tooltip on hover/focus. Responsive (26 weeks on mobile, full 53 on desktop).
 - **Language colors**: Static `LANGUAGE_COLORS` map in `lib/github.ts` matching GitHub Linguist.
 
-## Strava API Integration (`lib/strava.ts`)
+## Cycling Data (`lib/cycling.ts`)
 
-The `/cycling` page is fully API-driven from live Strava data. Mirrors `lib/github.ts` architecture.
+The `/cycling` page reads from RunGap-imported activity files — no live third-party API.
 
-- **Auth**: OAuth2 refresh token flow. `STRAVA_CLIENT_ID`, `STRAVA_CLIENT_SECRET`, `STRAVA_REFRESH_TOKEN` in `.env.local`. Module-level token cache avoids redundant refreshes within a request.
-- **Token refresh**: POST `https://www.strava.com/oauth/token` with `grant_type=refresh_token`. Access tokens are short-lived; the refresh token is long-lived.
-- **Caching**: All fetches use `{ next: { revalidate: 3600 } }` for 1-hour ISR (same as GitHub).
-- **Error handling**: `safeFetch<T>(fn, fallback)` wrapper — page renders with zero-value fallbacks if Strava API is down.
-- **Endpoints used**:
-  - `GET /api/v3/athlete` — profile (name, city, avatar)
-  - `GET /api/v3/athletes/{id}/stats` — all-time/YTD/recent ride totals, biggest ride/climb
-  - `GET /api/v3/athlete/activities` — paginated activity list (200 per page)
-- **Ride types**: `Ride`, `GravelRide`, `MountainBikeRide`, `VirtualRide`, `EBikeRide` — filtered via `isRide()` helper.
-- **Units**: All Strava data is metric (meters, m/s). Converted to imperial (miles, feet, mph) in computation functions.
-- **Orchestrator**: `fetchAllStravaData()` — Phase 1: token + parallel fetch (athlete, activities), Phase 2: stats (needs athlete.id), Phase 3: pure computation. Returns `StravaPageData`.
-- **Components**: `CyclingStats` (all-time grid), `YearInReview` (YTD card), `WeeklyMileageChart` (SVG bar chart, client component), `RecentRides` (ride list), `RideTypeBreakdown` (stacked bar), `PerformanceMetrics` (power + HR, conditional).
-- **Regenerating tokens**: If the refresh token expires, re-authorize via `https://www.strava.com/oauth/authorize?client_id={ID}&response_type=code&redirect_uri=http://localhost&scope=read,activity:read_all&approval_prompt=force`, then exchange the code for new tokens.
+- **Source**: RunGap iCloud Export (`~/Library/Mobile Documents/iCloud~com~rungap~RunGap/Documents/Export`). `scripts/import-rides.ts` parses FIT files into `public/static/data/activities-metrics.json`, `activities-routes.json`, and per-ride files in `public/static/data/rides/`. The daily `sync-data.sh` launchd job refreshes and commits these.
+- **Orchestrator**: `getCyclingPageData()` in `lib/cycling.ts` — module-level cached. Loads activities, filters to rides via `isRide()`, computes `rideStats`, `ytdStats`, `recentStats`, `weeklyMileage`, `recentRides`, `rideCategories`, `terrainCategories`, `powerStats`, `heartRateStats`, etc. Returns `CyclingPageData`.
+- **Consumers**: `app/cycling/page.tsx` (page render) and `app/api/cli/route.ts` (CLI JSON endpoint).
+- **Ride types**: `Ride`, `GravelRide`, `MountainBikeRide`, `VirtualRide`, `EBikeRide` — filtered via `isRide()`.
+- **Units**: Activity data is metric (meters, m/s). Converted to imperial (miles, feet, mph) in compute functions. The display-side `toRecentRide()` formats values to strings with units.
+- **Strava references that remain are display-only**: backlinks (`https://www.strava.com/activities/{id}`) extracted from per-activity IDs in `layouts/RideLayout.tsx`, plus a profile link on `/cycling`. No API calls, no auth.
 
 ## Build Notes
 

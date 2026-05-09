@@ -157,6 +157,7 @@ export interface CyclingPageData {
   recentStats: PeriodStats
   weeklyMileage: WeeklyMileage[]
   recentRides: RecentRide[]
+  rideCategories: RideCategory[]
   rideBenchmarks: RideBenchmarks
   rideHistory: RideHistory
   virtualBenchmarks: RideBenchmarks
@@ -589,6 +590,7 @@ export function getCyclingPageData(): CyclingPageData {
     recentStats: computePeriodStats(rides, recentCutoff.toISOString()),
     weeklyMileage: computeWeeklyMileage(rides),
     recentRides: computeRecentRides(rides),
+    rideCategories: computeRideCategories(rides),
     rideBenchmarks: computeRideBenchmarks(realRides),
     rideHistory: computeRideHistory(realRides),
     virtualBenchmarks: computeRideBenchmarks(virtualRides),

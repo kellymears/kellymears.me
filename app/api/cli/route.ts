@@ -5,6 +5,7 @@ import siteMetadata from '@/data/siteMetadata'
 import { experience } from '@/data/experience'
 import { stats } from '@/data/stats'
 import { getAllPosts, sortPosts } from '@/lib/content'
+import { getCyclingPageData } from '@/lib/cycling'
 import { stripJsx } from '@/lib/strip-jsx'
 
 export const revalidate = 3600
@@ -42,21 +43,19 @@ export async function GET() {
       color: l.color,
     }))
 
-    // Strava data (cached JSON from daily sync)
-    const strava = JSON.parse(
-      readFileSync(join(process.cwd(), 'public/static/data/strava.json'), 'utf-8')
-    )
+    // Cycling data (computed from RunGap-imported activities)
+    const { rideStats, ytdStats, rideCategories, recentRides } = getCyclingPageData()
 
     const cycling = {
-      ...strava.rideStats,
-      ytd: strava.ytdStats,
-      categories: strava.rideCategories.map((c: any) => ({
+      ...rideStats,
+      ytd: ytdStats,
+      categories: rideCategories.map((c) => ({
         name: c.name,
         count: c.count,
         percentage: c.percentage,
         color: c.color,
       })),
-      recentRides: strava.recentRides.slice(0, 5).map((r: any) => ({
+      recentRides: recentRides.slice(0, 5).map((r) => ({
         name: r.name,
         date: r.date,
         distance: r.distance,
