@@ -4,9 +4,13 @@ import 'maplibre-gl/dist/maplibre-gl.css'
 import type { Map as MaplibreMap, StyleSpecification } from 'maplibre-gl'
 import { Bike } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
-
-const LIGHT_STYLE = 'https://tiles.stadiamaps.com/styles/stamen_toner_lite.json'
-const DARK_STYLE = 'https://tiles.stadiamaps.com/styles/alidade_smooth_dark.json'
+import {
+  STADIA_LIGHT_STYLE as LIGHT_STYLE,
+  STADIA_DARK_STYLE as DARK_STYLE,
+  isDarkNow,
+  readGradientStops,
+  gradientExpression,
+} from '@/lib/cycling-map-utils'
 
 const ROUTE_CASING_LIGHT = '#ffffff'
 const ROUTE_CASING_DARK = '#0a0a0c'
@@ -26,72 +30,6 @@ interface RideRouteFile {
 interface RideMapProps {
   slug: string
   className?: string
-}
-
-interface GradientStops {
-  start: string
-  mid: string
-  end: string
-}
-
-function isDarkNow(): boolean {
-  return document.documentElement.classList.contains('dark')
-}
-
-// OKLCH → sRGB. MapLibre's color parser doesn't accept oklch(), and
-// getComputedStyle preserves the OKLCH color space verbatim in modern
-// browsers, so we convert directly.
-function oklchToRgb(L: number, C: number, h: number): string {
-  const hRad = (h * Math.PI) / 180
-  const a = C * Math.cos(hRad)
-  const b = C * Math.sin(hRad)
-  const l = (L + 0.3963377774 * a + 0.2158037573 * b) ** 3
-  const m = (L - 0.1055613458 * a - 0.0638541728 * b) ** 3
-  const s = (L - 0.0894841775 * a - 1.291485548 * b) ** 3
-  const r = 4.0767416621 * l - 3.3077115913 * m + 0.2309699292 * s
-  const g = -1.2684380046 * l + 2.6097574011 * m - 0.3413193965 * s
-  const bl = -0.0041960863 * l - 0.7034186147 * m + 1.707614701 * s
-  const gamma = (c: number) => (c <= 0.0031308 ? 12.92 * c : 1.055 * Math.pow(c, 1 / 2.4) - 0.055)
-  const ch = (c: number) => Math.round(Math.max(0, Math.min(1, gamma(c))) * 255)
-  return `rgb(${ch(r)}, ${ch(g)}, ${ch(bl)})`
-}
-
-const OKLCH_RE = /^oklch\(\s*([\d.]+)%?\s+([\d.]+)\s+([\d.]+)(?:\s*\/\s*[\d.]+)?\s*\)$/i
-
-function resolveColor(cssValue: string, fallback: string): string {
-  if (!cssValue) return fallback
-  const v = cssValue.trim()
-  const m = OKLCH_RE.exec(v)
-  if (m) {
-    const L = parseFloat(m[1]!) > 1 ? parseFloat(m[1]!) / 100 : parseFloat(m[1]!)
-    return oklchToRgb(L, parseFloat(m[2]!), parseFloat(m[3]!))
-  }
-  return v
-}
-
-function readGradientStops(): GradientStops {
-  const styles = getComputedStyle(document.documentElement)
-  const read = (token: string, fallback: string) =>
-    resolveColor(styles.getPropertyValue(token).trim(), fallback)
-  return {
-    start: read('--color-primary-200', '#fed7aa'),
-    mid: read('--color-primary-600', '#ea580c'),
-    end: read('--color-primary-950', '#431407'),
-  }
-}
-
-function gradientExpression(stops: GradientStops) {
-  return [
-    'interpolate',
-    ['linear'],
-    ['line-progress'],
-    0,
-    stops.start,
-    0.5,
-    stops.mid,
-    1,
-    stops.end,
-  ] as const
 }
 
 export function RideMap({ slug, className }: RideMapProps) {
@@ -177,8 +115,7 @@ export function RideMap({ slug, className }: RideMapProps) {
           type: 'line',
           source: 'route',
           paint: {
-            // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            'line-gradient': gradientExpression(readGradientStops()) as any,
+            'line-gradient': gradientExpression(readGradientStops()),
             'line-width': 4.5,
           },
           layout: { 'line-cap': 'round', 'line-join': 'round' },
@@ -187,12 +124,7 @@ export function RideMap({ slug, className }: RideMapProps) {
 
       function reapplyRoutePaint(m: MaplibreMap) {
         if (!m.getLayer('route-line')) return
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        m.setPaintProperty(
-          'route-line',
-          'line-gradient',
-          gradientExpression(readGradientStops()) as any
-        )
+        m.setPaintProperty('route-line', 'line-gradient', gradientExpression(readGradientStops()))
         m.setPaintProperty('route-casing', 'line-color', casingColor())
       }
 

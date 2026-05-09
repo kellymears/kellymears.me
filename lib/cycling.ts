@@ -2,9 +2,8 @@ import { readFileSync } from 'fs'
 import { join } from 'path'
 import { sumBy, maxBy, groupBy, countBy } from './fn'
 
-const METERS_TO_MILES = 0.000621371
-const METERS_TO_FEET = 3.28084
-const MPS_TO_MPH = 2.23694
+import { METERS_TO_FEET, METERS_TO_MILES, MPS_TO_MPH } from './cycling-units'
+export { METERS_TO_FEET, METERS_TO_MILES, MPS_TO_MPH }
 
 export interface NormalizedActivity {
   id: string
