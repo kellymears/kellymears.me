@@ -11,7 +11,8 @@
     "import:rides": "tsx scripts/import-rides.ts",
     "import:github": "tsx scripts/import-github.ts",
     "import:osm": "tsx scripts/fetch-osm-ways.ts",
-    "import:all": "tsx scripts/import-rides.ts && tsx scripts/import-github.ts"
+    "import:all": "tsx scripts/import-rides.ts && tsx scripts/import-github.ts",
+    "import:sync": "bash scripts/import-sync.sh"
   },
   "dependencies": {
     "@headlessui/react": "2.2.9",
