@@ -60,6 +60,33 @@ export interface DensityBucket {
   count: number
 }
 
+/**
+ * Chaikin's corner-cutting algorithm. Each iteration replaces every interior
+ * vertex with two points at 1/4 and 3/4 of its incoming/outgoing segments —
+ * softening sharp angles into gentle curves. Endpoints are kept fixed so the
+ * line still starts and ends at the original GPS fixes. Each iteration
+ * roughly doubles vertex count; 2 iterations on a 1000-pt ride is ~4000 pts
+ * and still cheap to render.
+ */
+export function chaikinSmooth(coords: [number, number][], iterations = 2): [number, number][] {
+  let pts = coords
+  for (let iter = 0; iter < iterations; iter++) {
+    if (pts.length < 3) break
+    const next: [number, number][] = new Array(pts.length * 2 - 2)
+    next[0] = pts[0]!
+    let w = 1
+    for (let i = 0; i < pts.length - 1; i++) {
+      const [x1, y1] = pts[i]!
+      const [x2, y2] = pts[i + 1]!
+      next[w++] = [0.75 * x1 + 0.25 * x2, 0.75 * y1 + 0.25 * y2]
+      next[w++] = [0.25 * x1 + 0.75 * x2, 0.25 * y1 + 0.75 * y2]
+    }
+    next[w] = pts[pts.length - 1]!
+    pts = next
+  }
+  return pts
+}
+
 export function joinRides(routes: RawRouteRide[], metrics: RawMetric[]): JoinedRide[] {
   const metricsById = new Map<string, RawMetric>()
   for (const m of metrics) metricsById.set(m.id, m)

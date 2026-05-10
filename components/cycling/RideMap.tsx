@@ -11,7 +11,7 @@ import {
   readGradientStops,
   gradientExpression,
 } from '@/lib/cycling-map-utils'
-import { bearingDeg, cumulativeLengths, pointAtProgress } from '@/lib/cycling-atlas'
+import { bearingDeg, chaikinSmooth, cumulativeLengths, pointAtProgress } from '@/lib/cycling-atlas'
 import { METERS_TO_MILES, MPH_TO_MPS } from '@/lib/cycling-units'
 
 const ROUTE_CASING_LIGHT = '#ffffff'
@@ -104,7 +104,13 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
         return
       }
 
-      const lineCoords: [number, number][] = route.coordinates.map(([lat, lng]) => [lng, lat])
+      // Soften GPS angularity. The imported polyline is Douglas-Peucker
+      // simplified, which preserves max-deviation points exactly — including
+      // the noisy zig-zags from GPS jitter. Chaikin rounds each interior
+      // corner without moving endpoints, producing a smoother visual line
+      // and a calmer playback path.
+      const flipped: [number, number][] = route.coordinates.map(([lat, lng]) => [lng, lat])
+      const lineCoords = chaikinSmooth(flipped, 2)
       lineCoordsRef.current = lineCoords
       lensRef.current = cumulativeLengths(lineCoords)
 
