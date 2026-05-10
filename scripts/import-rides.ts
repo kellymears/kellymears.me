@@ -33,11 +33,13 @@ const SPORT_MAP: Record<string, string> = {
 // Virtual rides → excluded from GPS heatmap
 const VIRTUAL_TYPES = new Set(['VirtualRide'])
 
-// GPS simplification tolerance (degrees) — ~100m at mid-latitudes
-const SIMPLIFY_TOLERANCE = 0.001
+// GPS simplification tolerance (degrees) — ~30m at mid-latitudes. Atlas
+// playback animates a dot along this line, so corners must stay tight.
+const SIMPLIFY_TOLERANCE = 0.0003
 
-// Per-ride detail tolerance — ~10m, sharp enough for street-level zoom
-const DETAIL_TOLERANCE = 0.0001
+// Per-ride detail tolerance — ~3m, fine enough that the playback trail tracks
+// real road geometry instead of straight-line approximations.
+const DETAIL_TOLERANCE = 0.00003
 
 // --- Types ---
 

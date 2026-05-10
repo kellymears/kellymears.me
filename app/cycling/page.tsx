@@ -1,6 +1,5 @@
 import { CyclingStats } from '@/components/cycling/CyclingStats'
 import { FunFacts } from '@/components/cycling/FunFacts'
-import { LazyRideHeatmap } from '@/components/cycling/LazyRideHeatmap'
 import { PerformanceMetrics } from '@/components/cycling/PerformanceMetrics'
 import { RecentRides, RidesSkeleton } from '@/components/cycling/RecentRides'
 import { RideAverages } from '@/components/cycling/RideAverages'
@@ -73,7 +72,6 @@ export default function CyclingPage() {
         miles={rideStats.totalMiles}
         elevation={rideStats.totalElevation}
       />
-      <LazyRideHeatmap />
       <div className="content-defer">
         <YearInReview ytd={ytdStats} recent={recentStats} />
       </div>

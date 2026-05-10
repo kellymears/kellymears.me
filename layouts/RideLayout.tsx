@@ -74,7 +74,11 @@ export default function RideLayout({
         </header>
 
         {showMap ? (
-          <RideMap slug={ride.slug} className="mb-8 h-[420px] w-full md:h-[500px]" />
+          <RideMap
+            slug={ride.slug}
+            distanceMeters={raw.distance}
+            className="mb-8 h-[420px] w-full md:h-[500px]"
+          />
         ) : (
           <div className="mb-8 flex h-[200px] w-full items-center justify-center rounded-2xl border border-gray-200 bg-gray-50 dark:border-gray-800 dark:bg-gray-900">
             <p className="text-sm text-gray-500 dark:text-gray-400">
