@@ -8,16 +8,22 @@ interface SvgTooltipProps {
 }
 
 const EDGE_MARGIN = 8
+// rounded-lg corner radius (8px) + arrow half-width (4px). The arrow's apex
+// must stay this far inside each end of the bubble or it visually detaches
+// from the rounded bottom edge.
+const ARROW_INSET = 12
 
 export function SvgTooltip({ state }: SvgTooltipProps) {
   const ref = useRef<HTMLDivElement>(null)
   const lastShiftRef = useRef(0)
   const [shiftX, setShiftX] = useState(0)
+  const [arrowOffset, setArrowOffset] = useState(0)
 
   useLayoutEffect(() => {
     if (!state) {
       lastShiftRef.current = 0
       setShiftX(0)
+      setArrowOffset(0)
       return
     }
     const node = ref.current
@@ -36,8 +42,18 @@ export function SvgTooltip({ state }: SvgTooltipProps) {
       next = container.left + EDGE_MARGIN - naturalLeft
     }
 
+    // The arrow should counter the bubble's shift to keep pointing at the
+    // anchor (offset = -shiftX), but if the bubble has moved so far that the
+    // ideal arrow position would fall outside the bubble's rounded bottom
+    // edge, clamp it. Visually-attached beats perfectly-aimed.
+    const halfWidth = tooltip.width / 2
+    const limit = Math.max(0, halfWidth - ARROW_INSET)
+    const ideal = -next
+    const clamped = Math.max(-limit, Math.min(limit, ideal))
+
     lastShiftRef.current = next
     setShiftX(next)
+    setArrowOffset(clamped)
   }, [state])
 
   if (!state) return null
@@ -56,7 +72,7 @@ export function SvgTooltip({ state }: SvgTooltipProps) {
       {state.text}
       <div
         className="absolute top-full left-1/2 border-4 border-transparent border-t-gray-900 dark:border-t-gray-100"
-        style={{ transform: `translateX(calc(-50% - ${shiftX}px))` }}
+        style={{ transform: `translateX(calc(-50% + ${arrowOffset}px))` }}
         aria-hidden="true"
       />
     </div>
