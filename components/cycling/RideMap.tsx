@@ -47,6 +47,13 @@ function cameraForSpeed(speed: number): { pitch: number; zoom: number } {
   return SPEED_CAMERA[speed] ?? SPEED_CAMERA[1]!
 }
 
+// Slew-rate limit on camera yaw. On sharp turns (switchbacks, U-turns) the
+// instantaneous bearing diff can be ~180°, and even after EMA smoothing the
+// per-frame step is large enough to spin the camera frantically. Capping
+// the angular velocity makes the camera lag through the turn and settle
+// onto the new heading after the rider has straightened out.
+const MAX_YAW_RATE_DEG_PER_S = 140
+
 interface RideRouteFile {
   slug: string
   id: string
@@ -381,7 +388,7 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
       })
     }
 
-    function trackCamera(slice: [number, number][], dot: [number, number]) {
+    function trackCamera(slice: [number, number][], dot: [number, number], dt: number) {
       let bearing = smoothedBearing ?? 0
       if (slice.length >= 2) {
         const a = slice[slice.length - 2]!
@@ -392,7 +399,11 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
           let diff = target - smoothedBearing
           if (diff > 180) diff -= 360
           if (diff < -180) diff += 360
-          bearing = (smoothedBearing + diff * 0.18 + 360) % 360
+          let step = diff * 0.18
+          const maxStep = MAX_YAW_RATE_DEG_PER_S * (dt / 1000)
+          if (step > maxStep) step = maxStep
+          else if (step < -maxStep) step = -maxStep
+          bearing = (smoothedBearing + step + 360) % 360
         }
         smoothedBearing = bearing
       }
@@ -426,7 +437,7 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
       const dot = pointAtProgress(coords!, lens!, progress)
       setTrail(slice)
       setDot(dot)
-      trackCamera(slice, dot)
+      trackCamera(slice, dot, dt)
       raf = requestAnimationFrame(tick)
     }
 
