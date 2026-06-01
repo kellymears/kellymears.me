@@ -10,12 +10,13 @@ import {
   type RawMetric,
   type RawRoutesFile,
 } from '@/lib/cycling-atlas'
+import { GROUP_COPY, GROUP_SPORT_TYPES, type ActivityGroup } from '@/lib/cycling-constants'
 import { AtlasMap } from './AtlasMap'
 import { AtlasScrubber, type PlaybackSpeed } from './AtlasScrubber'
 import { RideListPanel } from './RideListPanel'
 import { PeriodStatsPanel } from './PeriodStatsPanel'
 
-export function Atlas() {
+export function Atlas({ group = 'cycling' }: { group?: ActivityGroup }) {
   const [routesFile, setRoutesFile] = useState<RawRoutesFile | null>(null)
   const [metrics, setMetrics] = useState<RawMetric[] | null>(null)
   const [error, setError] = useState<string | null>(null)
@@ -47,10 +48,12 @@ export function Atlas() {
     }
   }, [])
 
-  const allRides: JoinedRide[] = useMemo(
-    () => (routesFile && metrics ? joinRides(routesFile.rides, metrics) : []),
-    [routesFile, metrics]
-  )
+  const allRides: JoinedRide[] = useMemo(() => {
+    if (!routesFile || !metrics) return []
+    const inGroup = new Set(GROUP_SPORT_TYPES[group])
+    const rides = routesFile.rides.filter((r) => inGroup.has(r.sportType))
+    return joinRides(rides, metrics)
+  }, [routesFile, metrics, group])
 
   // Default range = full span, set once when data lands.
   useEffect(() => {
@@ -165,11 +168,11 @@ export function Atlas() {
       />
 
       <Link
-        href="/cycling"
+        href={`/movement?type=${group}`}
         className="absolute top-4 left-4 z-10 inline-flex items-center gap-1.5 rounded-full bg-white/90 px-3 py-1.5 text-xs font-medium text-gray-700 shadow-sm ring-1 ring-gray-200 backdrop-blur transition hover:bg-white hover:text-gray-900 dark:bg-gray-900/90 dark:text-gray-300 dark:ring-gray-800 dark:hover:bg-gray-900"
       >
         <ArrowLeft size={14} />
-        Cycling
+        {GROUP_COPY[group].eyebrow}
       </Link>
 
       <PeriodStatsPanel rides={filteredRides} />

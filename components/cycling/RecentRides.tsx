@@ -2,8 +2,19 @@
 
 import { Suspense, useCallback, useState } from 'react'
 import { Card } from '@/components/Card'
-import type { RecentRide, RideBenchmarks, RideHistory, RideTerrain } from '@/lib/cycling'
-import { RIDE_TYPE_ACCENT, RIDE_TYPE_SHORT_LABELS, TERRAIN_COLORS } from '@/lib/cycling-constants'
+import type {
+  ActivityGroup,
+  RecentRide,
+  RideBenchmarks,
+  RideHistory,
+  RideTerrain,
+} from '@/lib/cycling'
+import {
+  GROUP_COPY,
+  RIDE_TYPE_ACCENT,
+  RIDE_TYPE_SHORT_LABELS,
+  TERRAIN_COLORS,
+} from '@/lib/cycling-constants'
 import dynamic from 'next/dynamic'
 
 const importModal = () => import('./RideDetailModal').then((m) => ({ default: m.RideDetailModal }))
@@ -236,6 +247,7 @@ interface RecentRidesProps {
   history: RideHistory
   virtualBenchmarks: RideBenchmarks
   virtualHistory: RideHistory
+  group: ActivityGroup
 }
 
 export function RecentRides({
@@ -244,7 +256,9 @@ export function RecentRides({
   history,
   virtualBenchmarks,
   virtualHistory,
+  group,
 }: RecentRidesProps) {
+  const copy = GROUP_COPY[group]
   const [visibleCount, setVisibleCount] = useState(INITIAL_COUNT)
   const [loadingIndices, setLoadingIndices] = useState(new Set<number>())
   const [selectedRide, setSelectedRide] = useState<RecentRide | null>(null)
@@ -280,9 +294,12 @@ export function RecentRides({
   }
 
   return (
-    <section className="animate-on-scroll min-w-0 py-8 md:col-span-2" aria-label="Recent rides">
+    <section
+      className="animate-on-scroll min-w-0 py-8 md:col-span-2"
+      aria-label={`Recent ${copy.nounPlural.toLowerCase()}`}
+    >
       <h2 className="mb-6 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-        Recent Rides
+        Recent {copy.nounPlural}
       </h2>
 
       <div className="space-y-3" role="list">
@@ -303,7 +320,7 @@ export function RecentRides({
           className="hover:border-primary-300 hover:text-primary-600 dark:hover:border-primary-700 dark:hover:text-primary-400 mt-4 flex w-full items-center justify-center gap-2 rounded-xl border border-gray-200 py-3 text-sm font-medium text-gray-500 transition-all active:scale-[0.99] dark:border-gray-800 dark:text-gray-400"
         >
           <ChevronDown size={14} />
-          Show more rides
+          Show more {copy.nounPlural.toLowerCase()}
         </button>
       )}
 

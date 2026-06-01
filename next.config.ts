@@ -53,7 +53,11 @@ const config: NextConfig = {
     optimizePackageImports: ['lucide-react'],
   },
   headers: async () => [{ source: '/(.*)', headers: securityHeaders }],
-  redirects: async () => [{ source: '/sites', destination: '/projects', permanent: true }],
+  redirects: async () => [
+    { source: '/sites', destination: '/projects', permanent: true },
+    { source: '/cycling', destination: '/movement', permanent: true },
+    { source: '/cycling/:path*', destination: '/movement/:path*', permanent: true },
+  ],
 }
 
 export default config

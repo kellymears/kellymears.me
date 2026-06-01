@@ -129,7 +129,7 @@ function ModalShell({
 
         <div className="mt-5 flex justify-end border-t border-gray-100 pt-4 dark:border-gray-800">
           <Link
-            href={`/cycling/${ride.slug}`}
+            href={`/movement/${ride.slug}`}
             className="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 inline-flex items-center gap-1 text-sm font-medium transition-colors"
           >
             View activity

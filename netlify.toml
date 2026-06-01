@@ -5,3 +5,17 @@
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
+# Belt-and-suspenders for the /cycling → /movement rename: these also apply
+# under static export (EXPORT=1), where Next's redirects() config is ignored.
+[[redirects]]
+  from = "/cycling"
+  to = "/movement"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cycling/*"
+  to = "/movement/:splat"
+  status = 301
+  force = true
+

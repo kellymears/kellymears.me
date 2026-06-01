@@ -167,21 +167,17 @@ export interface CyclingPageData {
   totalEnergyKJ: number
 }
 
-const RIDE_SPORT_TYPES = new Set([
-  'Ride',
-  'GravelRide',
-  'MountainBikeRide',
-  'VirtualRide',
-  'EBikeRide',
-])
-
 import {
   TERRAIN_COLORS,
   TERRAIN_LABELS,
   RIDE_TYPE_LABELS,
   RIDE_TYPE_COLORS,
+  GROUP_COPY,
+  GROUP_SPORT_TYPES,
+  type ActivityGroup,
 } from './cycling-constants'
 
+export type { ActivityGroup, GroupCopy } from './cycling-constants'
 export {
   TERRAIN_COLORS,
   TERRAIN_LABELS,
@@ -189,7 +185,51 @@ export {
   RIDE_TYPE_SHORT_LABELS,
   RIDE_TYPE_ACCENT,
   RIDE_TYPE_COLORS,
+  GROUP_COPY,
 } from './cycling-constants'
+
+// Alias kept for readability at call sites; the page data shape is shared
+// across activity groups.
+export type ActivityPageData = CyclingPageData
+
+// --- Activity groups ---
+// Each group declares which sportTypes belong to it and a few display/compute
+// switches. Power and cadence are suppressed for the foot group: walking power
+// readings are spurious and the cadence values RunGap emits aren't reliable
+// steps/min, so nulling them at the source keeps every downstream stat clean.
+interface GroupConfig {
+  sportTypes: Set<string>
+  virtualTypes: Set<string>
+  requireRoute: boolean // recent/sorted lists: require a GPS route (or virtual)?
+  showPower: boolean
+  showCadence: boolean
+}
+
+const GROUPS: Record<ActivityGroup, GroupConfig> = {
+  cycling: {
+    sportTypes: new Set(GROUP_SPORT_TYPES.cycling),
+    virtualTypes: new Set(['VirtualRide']),
+    requireRoute: true,
+    showPower: true,
+    showCadence: true,
+  },
+  foot: {
+    sportTypes: new Set(GROUP_SPORT_TYPES.foot),
+    virtualTypes: new Set(),
+    requireRoute: false,
+    showPower: false,
+    showCadence: false,
+  },
+}
+
+export const ACTIVITY_GROUPS = Object.keys(GROUPS) as ActivityGroup[]
+
+function groupOf(sportType: string): ActivityGroup | null {
+  for (const g of ACTIVITY_GROUPS) {
+    if (GROUPS[g].sportTypes.has(sportType)) return g
+  }
+  return null
+}
 
 // --- Static athlete config ---
 
@@ -202,12 +242,8 @@ const ATHLETE = {
 
 // --- Helpers ---
 
-function isRide(activity: NormalizedActivity): boolean {
-  return RIDE_SPORT_TYPES.has(activity.sportType)
-}
-
-function isVirtualRide(activity: NormalizedActivity): boolean {
-  return activity.sportType === 'VirtualRide'
+function isVirtual(activity: NormalizedActivity, group: ActivityGroup): boolean {
+  return GROUPS[group].virtualTypes.has(activity.sportType)
 }
 
 function formatDuration(seconds: number): string {
@@ -345,9 +381,10 @@ export function toRecentRide(a: NormalizedActivity): RecentRide {
   }
 }
 
-function computeRecentRides(rides: NormalizedActivity[]): RecentRide[] {
+function computeRecentRides(rides: NormalizedActivity[], group: ActivityGroup): RecentRide[] {
+  const requireRoute = GROUPS[group].requireRoute
   return [...rides]
-    .filter((a) => a.routePreview !== null || a.sportType === 'VirtualRide')
+    .filter((a) => !requireRoute || a.routePreview !== null || isVirtual(a, group))
     .sort((a, b) => b.startTime.localeCompare(a.startTime))
     .slice(0, 30)
     .map(toRecentRide)
@@ -543,9 +580,10 @@ function computeTotalEnergy(rides: NormalizedActivity[]): number {
 
 // --- Data loading ---
 
-let cachedData: CyclingPageData | null = null
 let cachedActivities: NormalizedActivity[] | null = null
-let cachedSortedRides: NormalizedActivity[] | null = null
+const groupActivitiesCache = new Map<ActivityGroup, NormalizedActivity[]>()
+const groupSortedCache = new Map<ActivityGroup, NormalizedActivity[]>()
+const groupDataCache = new Map<ActivityGroup, CyclingPageData>()
 
 function loadActivities(): NormalizedActivity[] {
   if (cachedActivities) return cachedActivities
@@ -559,36 +597,60 @@ function loadActivities(): NormalizedActivity[] {
   return cachedActivities
 }
 
-function getAllSortedRides(): NormalizedActivity[] {
-  if (cachedSortedRides) return cachedSortedRides
-  cachedSortedRides = loadActivities()
-    .filter(isRide)
-    .filter((a) => a.routePreview !== null || a.sportType === 'VirtualRide')
+// Activities for one group, with power/cadence stripped where the group config
+// says they aren't meaningful. Doing it here means every compute function below
+// gets a clean list and needs no group-specific branching.
+function loadGroupActivities(group: ActivityGroup): NormalizedActivity[] {
+  const cached = groupActivitiesCache.get(group)
+  if (cached) return cached
+
+  const cfg = GROUPS[group]
+  let list = loadActivities().filter((a) => cfg.sportTypes.has(a.sportType))
+  if (!cfg.showPower || !cfg.showCadence) {
+    list = list.map((a) => ({
+      ...a,
+      ...(cfg.showPower ? {} : { avgPower: null, maxPower: null }),
+      ...(cfg.showCadence ? {} : { avgCadence: null }),
+    }))
+  }
+  groupActivitiesCache.set(group, list)
+  return list
+}
+
+function getAllSortedRides(group: ActivityGroup): NormalizedActivity[] {
+  const cached = groupSortedCache.get(group)
+  if (cached) return cached
+
+  const cfg = GROUPS[group]
+  const sorted = loadGroupActivities(group)
+    .filter((a) => !cfg.requireRoute || a.routePreview !== null || isVirtual(a, group))
     .sort((a, b) => b.startTime.localeCompare(a.startTime))
-  return cachedSortedRides
+  groupSortedCache.set(group, sorted)
+  return sorted
 }
 
 // --- Orchestrator ---
 
-export function getCyclingPageData(): CyclingPageData {
-  if (cachedData) return cachedData
+export function getActivityPageData(group: ActivityGroup): CyclingPageData {
+  const cached = groupDataCache.get(group)
+  if (cached) return cached
 
-  const rides = loadActivities().filter(isRide)
-  const realRides = rides.filter((r) => !isVirtualRide(r))
-  const virtualRides = rides.filter(isVirtualRide)
+  const rides = loadGroupActivities(group)
+  const realRides = rides.filter((r) => !isVirtual(r, group))
+  const virtualRides = rides.filter((r) => isVirtual(r, group))
 
   const now = new Date()
   const ytdCutoff = `${now.getFullYear()}-01-01T00:00:00`
   const recentCutoff = new Date(now)
   recentCutoff.setDate(recentCutoff.getDate() - 28)
 
-  cachedData = {
+  const data: CyclingPageData = {
     athlete: ATHLETE,
     rideStats: computeRideStats(rides),
     ytdStats: computePeriodStats(rides, ytdCutoff),
     recentStats: computePeriodStats(rides, recentCutoff.toISOString()),
     weeklyMileage: computeWeeklyMileage(rides),
-    recentRides: computeRecentRides(rides),
+    recentRides: computeRecentRides(rides, group),
     rideCategories: computeRideCategories(rides),
     rideBenchmarks: computeRideBenchmarks(realRides),
     rideHistory: computeRideHistory(realRides),
@@ -600,7 +662,13 @@ export function getCyclingPageData(): CyclingPageData {
     totalEnergyKJ: computeTotalEnergy(rides),
   }
 
-  return cachedData
+  groupDataCache.set(group, data)
+  return data
+}
+
+// Back-compat alias: the CLI route and any cycling-specific caller keep working.
+export function getCyclingPageData(): CyclingPageData {
+  return getActivityPageData('cycling')
 }
 
 // --- Per-ride helpers ---
@@ -617,16 +685,20 @@ function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): nu
 }
 
 export function getAllRideSlugs(): string[] {
-  return getAllSortedRides().map((a) => a.slug)
+  return ACTIVITY_GROUPS.flatMap((g) => getAllSortedRides(g).map((a) => a.slug))
 }
 
+// Recent slugs across every group — used to prerender the busiest detail pages.
 export function getRecentRideSlugs(limit: number): string[] {
-  return getAllSortedRides()
-    .slice(0, limit)
-    .map((a) => a.slug)
+  return ACTIVITY_GROUPS.flatMap((g) =>
+    getAllSortedRides(g)
+      .slice(0, limit)
+      .map((a) => a.slug)
+  )
 }
 
 export interface RidePageData {
+  group: ActivityGroup
   ride: RecentRide
   raw: NormalizedActivity
   prev: RecentRide | null
@@ -680,12 +752,25 @@ function computeRelated(
 }
 
 export function getRidePageData(slug: string): RidePageData | null {
-  const list = getAllSortedRides()
-  const idx = list.findIndex((a) => a.slug === slug)
-  if (idx === -1) return null
+  // A slug can belong to any group; find it and derive the group so prev/next,
+  // related, and benchmarks all come from the same activity set.
+  let group: ActivityGroup | null = null
+  let list: NormalizedActivity[] = []
+  let idx = -1
+  for (const g of ACTIVITY_GROUPS) {
+    const candidate = getAllSortedRides(g)
+    const i = candidate.findIndex((a) => a.slug === slug)
+    if (i !== -1) {
+      group = g
+      list = candidate
+      idx = i
+      break
+    }
+  }
+  if (group === null) return null
 
   const raw = list[idx]!
-  const isVirtual = isVirtualRide(raw)
+  const virtual = isVirtual(raw, group)
 
   const prev = idx + 1 < list.length ? toRecentRide(list[idx + 1]!) : null
   const next = idx > 0 ? toRecentRide(list[idx - 1]!) : null
@@ -697,15 +782,16 @@ export function getRidePageData(slug: string): RidePageData | null {
     .slice(0, RECENT_SIDEBAR_COUNT)
     .map(toRecentRide)
 
-  const cycling = getCyclingPageData()
+  const data = getActivityPageData(group)
   return {
+    group,
     ride: toRecentRide(raw),
     raw,
     prev,
     next,
     related,
     recent,
-    benchmarks: isVirtual ? cycling.virtualBenchmarks : cycling.rideBenchmarks,
-    history: isVirtual ? cycling.virtualHistory : cycling.rideHistory,
+    benchmarks: virtual ? data.virtualBenchmarks : data.rideBenchmarks,
+    history: virtual ? data.virtualHistory : data.rideHistory,
   }
 }

@@ -23,7 +23,7 @@ export function RelatedRides({ title, rides }: RelatedRidesProps) {
           <li key={ride.id}>
             <Card
               as={Link}
-              href={`/cycling/${ride.slug}`}
+              href={`/movement/${ride.slug}`}
               variant="stat"
               className="block overflow-hidden px-3 py-2.5"
             >

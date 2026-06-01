@@ -3,8 +3,19 @@ import { RelatedRides } from '@/components/cycling/RelatedRides'
 import { RideDetailContent } from '@/components/cycling/RideDetailContent'
 import { RideMap } from '@/components/cycling/RideMap'
 import SectionContainer from '@/components/SectionContainer'
-import type { NormalizedActivity, RecentRide, RideBenchmarks, RideHistory } from '@/lib/cycling'
-import { RIDE_TYPE_ACCENT, RIDE_TYPE_SHORT_LABELS, SOURCE_LABELS } from '@/lib/cycling-constants'
+import type {
+  ActivityGroup,
+  NormalizedActivity,
+  RecentRide,
+  RideBenchmarks,
+  RideHistory,
+} from '@/lib/cycling'
+import {
+  GROUP_COPY,
+  RIDE_TYPE_ACCENT,
+  RIDE_TYPE_SHORT_LABELS,
+  SOURCE_LABELS,
+} from '@/lib/cycling-constants'
 import { ArrowUpRight } from 'lucide-react'
 import Link from 'next/link'
 
@@ -17,6 +28,7 @@ function getStravaUrl(raw: NormalizedActivity): string | null {
 }
 
 interface RideLayoutProps {
+  group: ActivityGroup
   ride: RecentRide
   raw: NormalizedActivity
   prev: RecentRide | null
@@ -28,6 +40,7 @@ interface RideLayoutProps {
 }
 
 export default function RideLayout({
+  group,
   ride,
   raw,
   prev,
@@ -37,6 +50,8 @@ export default function RideLayout({
   benchmarks,
   history,
 }: RideLayoutProps) {
+  const copy = GROUP_COPY[group]
+  const noun = copy.noun.toLowerCase()
   const sourceLabel = SOURCE_LABELS[ride.source] ?? ride.source
   const stravaUrl = getStravaUrl(raw)
   const isVirtual = raw.sportType === 'VirtualRide'
@@ -47,11 +62,11 @@ export default function RideLayout({
       <div className="pt-6 pb-12">
         <div className="mb-6">
           <Link
-            href="/cycling"
+            href={`/movement?type=${group}`}
             className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 text-sm font-medium transition-colors"
-            aria-label="Back to cycling"
+            aria-label={`Back to ${copy.eyebrow.toLowerCase()}`}
           >
-            &larr; All rides
+            &larr; All {copy.nounPlural.toLowerCase()}
           </Link>
         </div>
 
@@ -82,7 +97,7 @@ export default function RideLayout({
         ) : (
           <div className="mb-8 flex h-[200px] w-full items-center justify-center rounded-2xl border border-gray-200 bg-gray-50 dark:border-gray-800 dark:bg-gray-900">
             <p className="text-sm text-gray-500 dark:text-gray-400">
-              {isVirtual ? 'Indoor ride · no real-world route' : 'No GPS recorded for this ride'}
+              {isVirtual ? 'Indoor ride · no real-world route' : `No GPS recorded for this ${noun}`}
             </p>
           </div>
         )}
@@ -107,8 +122,12 @@ export default function RideLayout({
           </div>
 
           <aside className="space-y-8 md:col-span-1">
-            {related.length > 0 && <RelatedRides title="Related rides" rides={related} />}
-            {recent.length > 0 && <RelatedRides title="Recent rides" rides={recent} />}
+            {related.length > 0 && (
+              <RelatedRides title={`Related ${copy.nounPlural.toLowerCase()}`} rides={related} />
+            )}
+            {recent.length > 0 && (
+              <RelatedRides title={`Recent ${copy.nounPlural.toLowerCase()}`} rides={recent} />
+            )}
           </aside>
         </div>
 
@@ -117,12 +136,12 @@ export default function RideLayout({
             {prev ? (
               <Card
                 as={Link}
-                href={`/cycling/${prev.slug}`}
+                href={`/movement/${prev.slug}`}
                 hover={false}
                 className="p-4 hover:shadow-sm"
               >
                 <span className="mb-1 block text-xs font-medium tracking-widest text-gray-500 uppercase dark:text-gray-400">
-                  &larr; Older ride
+                  &larr; Older {noun}
                 </span>
                 <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 line-clamp-2 text-sm font-semibold text-gray-900 dark:text-gray-100">
                   {prev.name}
@@ -138,12 +157,12 @@ export default function RideLayout({
             {next ? (
               <Card
                 as={Link}
-                href={`/cycling/${next.slug}`}
+                href={`/movement/${next.slug}`}
                 hover={false}
                 className="p-4 text-right hover:shadow-sm"
               >
                 <span className="mb-1 block text-xs font-medium tracking-widest text-gray-500 uppercase dark:text-gray-400">
-                  Newer ride &rarr;
+                  Newer {noun} &rarr;
                 </span>
                 <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 line-clamp-2 text-sm font-semibold text-gray-900 dark:text-gray-100">
                   {next.name}

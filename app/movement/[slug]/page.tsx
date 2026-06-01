@@ -16,6 +16,7 @@ const Page = async (props: { params: Promise<{ slug: string }> }) => {
 
   return (
     <RideLayout
+      group={data.group}
       ride={data.ride}
       raw={data.raw}
       prev={data.prev}
@@ -40,8 +41,9 @@ const generateMetadata = async (props: {
   const data = getRidePageData(slug)
   if (!data) return
 
+  const noun = data.group === 'foot' ? 'activity' : 'ride'
   const title = `${data.ride.name} · ${data.ride.distance}`
-  const description = `${data.ride.distance} ride · ${data.ride.duration} · ${data.ride.elevation} elevation${data.ride.heartrate ? ` · ${data.ride.heartrate}` : ''}`
+  const description = `${data.ride.distance} ${noun} · ${data.ride.duration} · ${data.ride.elevation} elevation${data.ride.heartrate ? ` · ${data.ride.heartrate}` : ''}`
 
   return {
     title,
@@ -53,7 +55,7 @@ const generateMetadata = async (props: {
       locale: 'en_US',
       type: 'article',
       publishedTime: data.raw.startTime,
-      url: `/cycling/${slug}`,
+      url: `/movement/${slug}`,
     },
     twitter: {
       card: 'summary',

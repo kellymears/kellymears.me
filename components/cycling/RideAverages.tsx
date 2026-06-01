@@ -1,11 +1,15 @@
-import type { RideStats } from '@/lib/cycling'
+import type { ActivityGroup, RideStats } from '@/lib/cycling'
+import { GROUP_COPY } from '@/lib/cycling'
 
 interface RideAveragesProps {
   stats: RideStats
+  group: ActivityGroup
 }
 
-export function RideAverages({ stats }: RideAveragesProps) {
+export function RideAverages({ stats, group }: RideAveragesProps) {
   if (stats.totalRides === 0) return null
+
+  const copy = GROUP_COPY[group]
 
   const avgMiles = Math.round(stats.totalMiles / stats.totalRides)
   const avgElevation = Math.round(stats.totalElevation / stats.totalRides)
@@ -24,7 +28,7 @@ export function RideAverages({ stats }: RideAveragesProps) {
   ]
 
   const records = [
-    { value: `${stats.biggestRide} mi`, label: 'Longest Ride' },
+    { value: `${stats.biggestRide} mi`, label: `Longest ${copy.noun}` },
     { value: `${stats.biggestClimb.toLocaleString()} ft`, label: 'Biggest Climb' },
   ]
 

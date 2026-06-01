@@ -1,29 +1,35 @@
-import type { PeriodStats } from '@/lib/cycling'
+import type { ActivityGroup, PeriodStats } from '@/lib/cycling'
+import { GROUP_COPY } from '@/lib/cycling'
 
 interface YearInReviewProps {
   ytd: PeriodStats
   recent: PeriodStats
+  group: ActivityGroup
 }
 
-export function YearInReview({ ytd, recent }: YearInReviewProps) {
+export function YearInReview({ ytd, recent, group }: YearInReviewProps) {
   const year = new Date().getFullYear()
+  const copy = GROUP_COPY[group]
 
   const ytdItems = [
     { value: ytd.miles.toLocaleString(), label: 'Miles' },
-    { value: ytd.rides.toLocaleString(), label: 'Rides' },
+    { value: ytd.rides.toLocaleString(), label: copy.nounPlural },
     { value: ytd.elevation.toLocaleString(), label: 'Elevation (ft)' },
     { value: `${ytd.hours}h`, label: 'Time' },
   ]
 
   const recentItems = [
     { value: `${recent.miles}`, label: 'Miles' },
-    { value: `${recent.rides}`, label: 'Rides' },
+    { value: `${recent.rides}`, label: copy.nounPlural },
     { value: recent.elevation.toLocaleString(), label: 'Elev (ft)' },
     { value: `${recent.hours}h`, label: 'Time' },
   ]
 
   return (
-    <section className="animate-on-scroll py-8" aria-label={`${year} year-to-date cycling stats`}>
+    <section
+      className="animate-on-scroll py-8"
+      aria-label={`${year} year-to-date ${copy.eyebrow.toLowerCase()} stats`}
+    >
       <div className="rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md sm:p-8 dark:border-gray-800 dark:bg-gray-900/50 dark:shadow-gray-950/50 dark:hover:shadow-lg dark:hover:shadow-gray-950/50">
         <h2 className="mb-6 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
           {year} Year to Date

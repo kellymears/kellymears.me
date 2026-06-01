@@ -1,20 +1,26 @@
 import { Card } from '@/components/Card'
-import type { RideStats } from '@/lib/cycling'
+import type { ActivityGroup, RideStats } from '@/lib/cycling'
+import { GROUP_COPY } from '@/lib/cycling'
 
 interface CyclingStatsProps {
   stats: RideStats
+  group: ActivityGroup
 }
 
-export function CyclingStats({ stats }: CyclingStatsProps) {
+export function CyclingStats({ stats, group }: CyclingStatsProps) {
+  const copy = GROUP_COPY[group]
   const items = [
     { value: stats.totalMiles.toLocaleString(), label: 'Total Miles' },
-    { value: stats.totalRides.toLocaleString(), label: 'Total Rides' },
+    { value: stats.totalRides.toLocaleString(), label: `Total ${copy.nounPlural}` },
     { value: stats.totalElevation.toLocaleString(), label: 'Elevation (ft)' },
-    { value: stats.totalHours.toLocaleString(), label: 'Ride Time (hrs)' },
+    { value: stats.totalHours.toLocaleString(), label: `${copy.noun} Time (hrs)` },
   ] as const
 
   return (
-    <section className="animate-on-scroll pb-4" aria-label="All-time cycling statistics">
+    <section
+      className="animate-on-scroll pb-4"
+      aria-label={`All-time ${copy.eyebrow.toLowerCase()} statistics`}
+    >
       <div className="grid grid-cols-2 gap-4 md:grid-cols-4 md:gap-6" role="list">
         {items.map((item, i) => (
           <Card
