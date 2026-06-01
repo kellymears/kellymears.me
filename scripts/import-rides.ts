@@ -28,6 +28,13 @@ const SPORT_MAP: Record<string, string> = {
   'cycling/gravelCycling': 'GravelRide',
   'cycling/mountain': 'MountainBikeRide',
   'cycling/eBikeCycling': 'EBikeRide',
+  // On-foot activities (indoor variants fold into their outdoor type — they
+  // lack GPS but otherwise carry the same session metrics)
+  'walking/generic': 'Walk',
+  'walking/indoorWalking': 'Walk',
+  'running/generic': 'Run',
+  'running/treadmill': 'Run',
+  'hiking/generic': 'Hike',
 }
 
 // Virtual rides → excluded from GPS heatmap
@@ -86,6 +93,9 @@ function generateName(sportType: string, startTime: string): string {
     GravelRide: 'Gravel Ride',
     MountainBikeRide: 'Mountain Ride',
     EBikeRide: 'E-Bike Ride',
+    Walk: 'Walk',
+    Run: 'Run',
+    Hike: 'Hike',
   }
   const label = labels[sportType] ?? 'Ride'
   const time = new Date(startTime).toLocaleTimeString('en-US', {
@@ -469,7 +479,7 @@ function main() {
   }
 
   console.log(
-    `[import-rides] Parsed ${parsed.length} cycling activities (skipped ${skipped} non-cycling/invalid)`
+    `[import-rides] Parsed ${parsed.length} activities (skipped ${skipped} unmapped/invalid)`
   )
 
   // Dedup
