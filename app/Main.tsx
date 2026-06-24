@@ -2,6 +2,7 @@ import FeaturedSites from '@/components/home/FeaturedSites'
 import Hero from '@/components/home/Hero'
 import RecentWriting from '@/components/home/RecentWriting'
 import SelectedWork from '@/components/home/SelectedWork'
+import SymbiokuBanner from '@/components/home/SymbiokuBanner'
 import { WaveBackground } from '@/components/WaveBackground'
 import type { BlogPost, CoreContent } from '@/lib/content'
 
@@ -26,7 +27,7 @@ export default function Home({ posts }: Props) {
         <Hero />
       </div>
       <SelectedWork />
-      <SectionDivider />
+      <SymbiokuBanner />
       <FeaturedSites />
       <SectionDivider />
       <RecentWriting posts={posts} />

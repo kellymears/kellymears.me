@@ -11,6 +11,10 @@ const accentStyles = {
     iconBg: 'bg-sky-100 dark:bg-sky-900/30',
     iconText: 'text-sky-600 dark:text-sky-400',
   },
+  lime: {
+    iconBg: 'bg-lime-100 dark:bg-lime-900/30',
+    iconText: 'text-lime-600 dark:text-lime-400',
+  },
 } satisfies Record<SubdomainSite['accent'], { iconBg: string; iconText: string }>
 
 interface SiteCardProps {

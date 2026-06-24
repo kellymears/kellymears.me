@@ -43,9 +43,30 @@ function CodeBracketIcon({ className, ...props }: IconProps) {
   )
 }
 
+function DiamondIcon({ className, ...props }: IconProps) {
+  return (
+    <svg
+      width="24"
+      height="24"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.5"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className={clsx('shrink-0', className)}
+      aria-hidden="true"
+      {...props}
+    >
+      <path d="M12 3 21 12 12 21 3 12Z" />
+    </svg>
+  )
+}
+
 const iconMap = {
   sparkles: SparklesIcon,
   'code-bracket': CodeBracketIcon,
+  diamond: DiamondIcon,
 } as const
 
 interface SiteIconProps extends IconProps {

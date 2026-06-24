@@ -4,11 +4,21 @@ export interface SubdomainSite {
   url: string
   slug: string
   tags: string[]
-  icon: 'sparkles' | 'code-bracket'
-  accent: 'violet' | 'sky'
+  icon: 'sparkles' | 'code-bracket' | 'diamond'
+  accent: 'violet' | 'sky' | 'lime'
 }
 
 export const subdomainSites: SubdomainSite[] = [
+  {
+    title: 'Symbioku',
+    description:
+      'A daily 9×9 logic puzzle played with symbols instead of numbers. Three difficulties, fresh every day.',
+    url: 'https://symbioku.kellymears.me',
+    slug: 'symbioku',
+    tags: ['Game', 'React', 'Daily Puzzle'],
+    icon: 'diamond',
+    accent: 'lime',
+  },
   {
     title: 'Agents',
     description: 'Commands, skills, rules, and agent configurations for Claude Code.',
