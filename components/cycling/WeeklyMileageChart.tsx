@@ -63,10 +63,9 @@ function buildStats(weeks: WeeklyMileage[]) {
 interface MileageBarChartProps {
   weeks: WeeklyMileage[]
   maxLabels?: number
-  monthFontSize?: number
 }
 
-function MileageBarChart({ weeks, maxLabels, monthFontSize = 10 }: MileageBarChartProps) {
+function MileageBarChart({ weeks, maxLabels }: MileageBarChartProps) {
   const { tooltip, show, hide } = useSvgTooltip()
 
   const maxDistance = Math.max(...weeks.map((w) => w.distance), 1)
@@ -134,20 +133,6 @@ function MileageBarChart({ weeks, maxLabels, monthFontSize = 10 }: MileageBarCha
           />
         )}
 
-        {monthLabels.map((m, i) => (
-          <text
-            key={i}
-            x={m.x}
-            y={svgHeight - 2}
-            textAnchor="middle"
-            className="fill-gray-500 dark:fill-gray-400"
-            style={{ fontSize: `${monthFontSize}px` }}
-            aria-hidden="true"
-          >
-            {m.label}
-          </text>
-        ))}
-
         {weeks.map((week, i) => {
           const barHeight = maxDistance > 0 ? (week.distance / maxDistance) * CHART_HEIGHT : 0
           const x = i * BAR_STEP
@@ -169,6 +154,22 @@ function MileageBarChart({ weeks, maxLabels, monthFontSize = 10 }: MileageBarCha
           )
         })}
       </svg>
+
+      <div
+        className="pointer-events-none absolute inset-x-0 text-[10px] text-gray-500 dark:text-gray-400"
+        style={{ bottom: 0, height: `${(LABEL_HEIGHT / svgHeight) * 100}%` }}
+        aria-hidden="true"
+      >
+        {monthLabels.map((m, i) => (
+          <span
+            key={i}
+            className="absolute -translate-x-1/2 whitespace-nowrap"
+            style={{ left: `${(m.x / svgWidth) * 100}%` }}
+          >
+            {m.label}
+          </span>
+        ))}
+      </div>
 
       {weekAvg > 0 && (
         <div
@@ -230,7 +231,7 @@ export function WeeklyMileageChart({ data }: WeeklyMileageChartProps) {
           <MileageStats weeks={data} />
         </div>
         <div className="md:hidden">
-          <MileageBarChart weeks={mobileWeeks} maxLabels={3} monthFontSize={7} />
+          <MileageBarChart weeks={mobileWeeks} maxLabels={3} />
           <MileageStats weeks={mobileWeeks} />
         </div>
       </div>
