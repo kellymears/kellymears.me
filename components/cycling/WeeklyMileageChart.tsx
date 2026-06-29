@@ -54,7 +54,7 @@ function buildStats(weeks: WeeklyMileage[]) {
     { value: `${Math.round(dist).toLocaleString()} mi`, label: 'Total' },
     { value: `${avg} mi`, label: 'Avg / week' },
     { value: `${best} mi`, label: 'Best week' },
-    { value: rides.toString(), label: 'Rides' },
+    { value: rides.toString(), label: 'Activities' },
   ]
 }
 
@@ -99,7 +99,7 @@ function MileageBarChart({ weeks, maxLabels }: MileageBarChartProps) {
 
   const bestWeek = Math.max(...weeks.map((w) => w.distance))
   const totalRides = weeks.reduce((sum, w) => sum + w.rides, 0)
-  const chartDescription = `Bar chart showing weekly cycling mileage over ${weeks.length} weeks. Average ${weekAvg} miles per week, best week ${bestWeek} miles, ${totalRides} total rides.`
+  const chartDescription = `Bar chart showing weekly cycling mileage over ${weeks.length} weeks. Average ${weekAvg} miles per week, best week ${bestWeek} miles, ${totalRides} total activities.`
 
   const onBarMouseEnter = useCallback(
     (e: React.MouseEvent<SVGRectElement>) => {
@@ -147,7 +147,7 @@ function MileageBarChart({ weeks, maxLabels }: MileageBarChartProps) {
               height={Math.max(barHeight, 2)}
               rx={3}
               className="fill-primary-400 dark:fill-primary-500"
-              aria-label={`Week of ${formatWeekLabel(week.weekStart)}: ${week.distance} mi, ${week.rides} ride${week.rides !== 1 ? 's' : ''}, ${Math.round(week.elevation).toLocaleString()} ft`}
+              aria-label={`Week of ${formatWeekLabel(week.weekStart)}: ${week.distance} mi, ${week.rides} ${week.rides === 1 ? 'activity' : 'activities'}, ${Math.round(week.elevation).toLocaleString()} ft`}
               onMouseEnter={onBarMouseEnter}
               onMouseLeave={onBarMouseLeave}
             />

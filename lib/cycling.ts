@@ -320,20 +320,24 @@ function computePeriodStats(rides: NormalizedActivity[], cutoff?: string): Perio
 function computeWeeklyMileage(rides: NormalizedActivity[]): WeeklyMileage[] {
   const groups = groupBy(rides, (r) => getWeekStart(r.startTime))
 
-  const now = new Date()
-  const cutoff = new Date(now)
-  cutoff.setDate(cutoff.getDate() - 26 * 7)
-  const cutoffStr = cutoff.toISOString().slice(0, 10)
+  // Continuous 26-week window ending this week. Empty weeks render as zero
+  // bars rather than collapsing the series.
+  const WEEKS = 26
+  const start = new Date(getWeekStart(new Date().toISOString()))
+  start.setUTCDate(start.getUTCDate() - (WEEKS - 1) * 7)
 
-  return [...groups.entries()]
-    .filter(([key]) => key >= cutoffStr)
-    .sort((a, b) => a[0].localeCompare(b[0]))
-    .map(([weekStart, weekRides]) => ({
+  return Array.from({ length: WEEKS }, (_, i) => {
+    const d = new Date(start)
+    d.setUTCDate(d.getUTCDate() + i * 7)
+    const weekStart = d.toISOString().slice(0, 10)
+    const weekRides = groups.get(weekStart) ?? []
+    return {
       weekStart,
       distance: Math.round(sumBy(weekRides, (r) => r.distance * METERS_TO_MILES) * 10) / 10,
       rides: weekRides.length,
       elevation: Math.round(sumBy(weekRides, (r) => r.elevationGain * METERS_TO_FEET)),
-    }))
+    }
+  })
 }
 
 export function toRecentRide(a: NormalizedActivity): RecentRide {
