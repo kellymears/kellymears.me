@@ -8,6 +8,10 @@ interface OsmWay {
   id: number
   highway: string
   surface: string | null
+  /** `footway=sidewalk|crossing` marks a way as an easement of an adjacent road */
+  footway: string | null
+  /** `is_sidepath=yes` marks a cycleway/path as running alongside a road */
+  sidepath: boolean
   geometry: [number, number][]
 }
 
@@ -93,7 +97,11 @@ async function main() {
   console.log('[fetch-osm] Querying Overpass API...')
   const response = await fetch(OVERPASS_URL, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    headers: {
+      'Content-Type': 'application/x-www-form-urlencoded',
+      // Overpass returns 406 to clients that don't identify themselves
+      'User-Agent': 'kellymears.me terrain import (hello@kellymears.me)',
+    },
     body: `data=${encodeURIComponent(query)}`,
   })
 
@@ -122,6 +130,8 @@ async function main() {
       id: el.id,
       highway: el.tags.highway,
       surface: el.tags.surface ?? null,
+      footway: el.tags.footway ?? null,
+      sidepath: el.tags.is_sidepath === 'yes',
       geometry: el.geometry.map((n) => [n.lat, n.lon] as [number, number]),
     })
   }

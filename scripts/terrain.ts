@@ -23,6 +23,8 @@ interface OsmWay {
   id: number
   highway: string
   surface: string | null
+  footway?: string | null
+  sidepath?: boolean
   geometry: [number, number][]
 }
 
@@ -66,8 +68,6 @@ const UNPAVED_SURFACES = new Set([
   'pebblestone',
 ])
 
-const PAVED_HIGHWAYS = new Set(['footway', 'steps', 'pedestrian', 'corridor'])
-
 const ROAD_HIGHWAYS = new Set([
   'motorway',
   'trunk',
@@ -83,30 +83,54 @@ const ROAD_HIGHWAYS = new Set([
   'secondary_link',
   'tertiary_link',
   'living_street',
+  'track', // fire roads, farm tracks — a road corridor; usually unpaved, sometimes not
+])
+
+/** `footway=*` values that mean "easement of an adjacent road", not an independent way */
+const ROAD_EASEMENT_FOOTWAYS = new Set(['sidewalk', 'crossing', 'traffic_island'])
+
+/** Ways assumed paved when OSM carries no surface tag */
+const ASSUMED_PAVED = new Set([
+  'footway',
+  'steps',
+  'pedestrian',
+  'corridor',
+  'cycleway',
+  ...ROAD_HIGHWAYS,
 ])
 
 // --- Classification ---
 
-function classifyWay(highway: string, surface: string | null): TerrainType {
-  // Explicit surface tag takes priority
-  if (surface) {
-    if (UNPAVED_SURFACES.has(surface)) return 'unpaved'
-    if (PAVED_SURFACES.has(surface)) {
-      // Paved — but is it a road or a path?
-      return ROAD_HIGHWAYS.has(highway) ? 'road' : 'pavedPath'
-    }
-  }
+/**
+ * Terrain is two independent questions:
+ *
+ *   1. Is this a road corridor? Roads, and the sidewalks/crossings that are
+ *      easements of one. A paved fire road is still a road; a paved path
+ *      through a park is not.
+ *   2. Is it paved?
+ *
+ * `unpaved` collapses the unpaved half of that 2×2 — a dirt road and a dirt
+ * trail both just read as unpaved.
+ */
+export function classifyWay(way: OsmWay): TerrainType {
+  const { highway, surface } = way
 
-  // No surface tag — infer from highway type
-  if (ROAD_HIGHWAYS.has(highway)) return 'road'
-  if (highway === 'cycleway') return 'pavedPath' // cycleways usually paved
-  if (highway === 'track') return 'unpaved' // tracks usually unpaved
+  const paved = surface
+    ? PAVED_SURFACES.has(surface)
+    : // No surface tag — fall back to what the highway type usually implies.
+      // `track` is the notable exception: a road corridor, but usually dirt.
+      ASSUMED_PAVED.has(highway) && highway !== 'track'
 
-  // Sidewalks/crossings/plazas are overwhelmingly paved but rarely surface-tagged
-  if (PAVED_HIGHWAYS.has(highway)) return 'pavedPath'
+  if (!paved) return 'unpaved'
 
-  // path, bridleway without surface → assume unpaved
-  return 'unpaved'
+  const isRoadCorridor =
+    ROAD_HIGHWAYS.has(highway) ||
+    // A sidewalk or crosswalk belongs to the road it runs along
+    (way.footway != null && ROAD_EASEMENT_FOOTWAYS.has(way.footway)) ||
+    // `is_sidepath=yes` says the same thing for cycleways and paths
+    way.sidepath === true
+
+  return isRoadCorridor ? 'road' : 'pavedPath'
 }
 
 // --- Spatial Index ---
@@ -245,7 +269,7 @@ export function loadTerrainIndex(): TerrainIndex | null {
   const index = new TerrainIndex()
 
   for (const way of cache.ways) {
-    const terrain = classifyWay(way.highway, way.surface)
+    const terrain = classifyWay(way)
     for (let i = 0; i < way.geometry.length - 1; i++) {
       const [lat1, lng1] = way.geometry[i]!
       const [lat2, lng2] = way.geometry[i + 1]!
