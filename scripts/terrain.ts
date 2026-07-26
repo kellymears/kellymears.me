@@ -66,6 +66,8 @@ const UNPAVED_SURFACES = new Set([
   'pebblestone',
 ])
 
+const PAVED_HIGHWAYS = new Set(['footway', 'steps', 'pedestrian', 'corridor'])
+
 const ROAD_HIGHWAYS = new Set([
   'motorway',
   'trunk',
@@ -100,7 +102,10 @@ function classifyWay(highway: string, surface: string | null): TerrainType {
   if (highway === 'cycleway') return 'pavedPath' // cycleways usually paved
   if (highway === 'track') return 'unpaved' // tracks usually unpaved
 
-  // path, footway, bridleway without surface → assume unpaved
+  // Sidewalks/crossings/plazas are overwhelmingly paved but rarely surface-tagged
+  if (PAVED_HIGHWAYS.has(highway)) return 'pavedPath'
+
+  // path, bridleway without surface → assume unpaved
   return 'unpaved'
 }
 
@@ -187,20 +192,13 @@ function pointToSegmentDistSq(
   return projX * projX + projY * projY
 }
 
-function haversineMeters(
-  lat1: number,
-  lng1: number,
-  lat2: number,
-  lng2: number
-): number {
+function haversineMeters(lat1: number, lng1: number, lat2: number, lng2: number): number {
   const R = 6_371_000
   const dLat = ((lat2 - lat1) * Math.PI) / 180
   const dLng = ((lng2 - lng1) * Math.PI) / 180
   const a =
     Math.sin(dLat / 2) ** 2 +
-    Math.cos((lat1 * Math.PI) / 180) *
-      Math.cos((lat2 * Math.PI) / 180) *
-      Math.sin(dLng / 2) ** 2
+    Math.cos((lat1 * Math.PI) / 180) * Math.cos((lat2 * Math.PI) / 180) * Math.sin(dLng / 2) ** 2
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a))
 }
 
@@ -280,15 +278,7 @@ export function classifyRideTerrain(
     let bestTerrain: TerrainType = 'road'
 
     for (const seg of candidates) {
-      const dist = pointToSegmentDistSq(
-        lat,
-        lng,
-        seg.lat1,
-        seg.lng1,
-        seg.lat2,
-        seg.lng2,
-        cosLat
-      )
+      const dist = pointToSegmentDistSq(lat, lng, seg.lat1, seg.lng1, seg.lat2, seg.lng2, cosLat)
       if (dist < bestDist) {
         bestDist = dist
         bestTerrain = seg.terrain
