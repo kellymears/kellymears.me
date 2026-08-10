@@ -6,49 +6,15 @@ Personal site for Kelly Mears — [kellymears.me](https://kellymears.me). Built 
 
 ## Commands
 
-```bash
-npm run dev            # Start dev server (Turbopack)
-npm run build          # Production build
-npm run lint           # ESLint with auto-fix
-npm run format         # Prettier (write mode)
-npm run import:rides   # Import cycling activities from RunGap FIT files
-npm run import:github  # Fetch and cache GitHub profile/repo data
-npm run import:all     # Run all import scripts sequentially
-```
-
 Package manager is **npm**.
 
-## Data Sync (launchd)
+## Data Sync
 
-A launchd agent runs `scripts/sync-data.sh` daily at 6 AM to import fresh data and auto-commit changes.
-
-- **Plist**: `~/Library/LaunchAgents/me.kellymears.sync-data.plist`
-- **Script**: `scripts/sync-data.sh` — runs `import:rides` + `import:github`, commits changed data files, pushes to `origin/main`
-- **Log**: `.sync-data.log` (gitignored)
-- **Manage**: `launchctl bootout gui/$(id -u) ~/Library/LaunchAgents/me.kellymears.sync-data.plist` to unload, `launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/me.kellymears.sync-data.plist` to reload
-
-## Path Aliases
-
-- `@/components/*` → `components/*`
-- `@/data/*` → `data/*`
-- `@/layouts/*` → `layouts/*`
-- `@/lib/*` → `lib/*`
-- `@/css/*` → `css/*`
+Run manually: `scripts/sync-data.sh` — runs `import:rides` + `import:github`, commits changed data files, pushes to `origin/main`. Log: `.sync-data.log` (gitignored). (Former launchd agent removed — it failed nightly.)
 
 ## Content Data Layer (`lib/content.ts`)
 
 Replaces contentlayer2. Reads MDX files from `data/`, parses frontmatter via `gray-matter`, computes slug/path/readingTime/toc/structuredData.
-
-Key exports:
-
-- `getAllPosts()` / `getPostBySlug(slug)` — blog posts (async, module-level cached)
-- `getAllAuthors()` / `getAuthorBySlug(slug)` — author profiles
-- `sortPosts(posts)` — sort by date descending
-- `allCoreContent(posts)` — strip `body`, filter drafts in production
-- `coreContent(item)` — strip `body` from single item
-- `getTagCounts(posts)` — compute tag frequency map
-
-Types: `BlogPost`, `Author`, `CoreContent<T>`
 
 ## Design System
 
@@ -62,8 +28,6 @@ Types: `BlogPost`, `Author`, `CoreContent<T>`
 
 ## Code Style
 
-- Prettier: no semicolons, single quotes, 100-char width, Tailwind plugin sorts classes
-- ESLint: flat config (`eslint.config.mjs`), TypeScript + jsx-a11y + prettier integration
 - Functional components, named exports for new components
 - `'use client'` only when hooks are needed (e.g., `TimelineItem`, `MobileNav`, `ContributionGrid`)
 - Content types from `@/lib/content` — `BlogPost`, `Author`, `CoreContent<T>`
@@ -85,9 +49,6 @@ The `/open-source` page is fully API-driven from live GitHub data. Key details:
 - **Caching**: All fetches use `{ next: { revalidate: 3600 } }` for 1-hour ISR.
 - **Error handling**: `safeFetch<T>(fn, fallback)` wrapper — page renders with fallbacks even if GitHub API is down.
 - **Featured repos**: `roots/bud` and `roots/sage` are fetched by full name from org repos with hardcoded role/highlight metadata in `FEATURED_CONFIG`.
-- **Contributions**: Fetched via GitHub GraphQL API (`contributionsCollection.contributionCalendar`), provides 53 weeks of daily data.
-- **ContributionGrid**: Client component with random color palette (6 options), SVG heatmap, dynamic quartile thresholds, tooltip on hover/focus. Responsive (26 weeks on mobile, full 53 on desktop).
-- **Language colors**: Static `LANGUAGE_COLORS` map in `lib/github.ts` matching GitHub Linguist.
 
 ## Cycling Data (`lib/cycling.ts`)
 
@@ -96,8 +57,6 @@ The `/cycling` page reads from RunGap-imported activity files — no live third-
 - **Source**: RunGap iCloud Export (`~/Library/Mobile Documents/iCloud~com~rungap~RunGap/Documents/Export`). `scripts/import-rides.ts` parses FIT files into `public/static/data/activities-metrics.json`, `activities-routes.json`, and per-ride files in `public/static/data/rides/`. The daily `sync-data.sh` launchd job refreshes and commits these.
 - **Orchestrator**: `getCyclingPageData()` in `lib/cycling.ts` — module-level cached. Loads activities, filters to rides via `isRide()`, computes `rideStats`, `ytdStats`, `recentStats`, `weeklyMileage`, `recentRides`, `rideCategories`, `terrainCategories`, `powerStats`, `heartRateStats`, etc. Returns `CyclingPageData`.
 - **Consumers**: `app/cycling/page.tsx` (page render) and `app/api/cli/route.ts` (CLI JSON endpoint).
-- **Ride types**: `Ride`, `GravelRide`, `MountainBikeRide`, `VirtualRide`, `EBikeRide` — filtered via `isRide()`.
-- **Units**: Activity data is metric (meters, m/s). Converted to imperial (miles, feet, mph) in compute functions. The display-side `toRecentRide()` formats values to strings with units.
 - **Strava references that remain are display-only**: backlinks (`https://www.strava.com/activities/{id}`) extracted from per-activity IDs in `layouts/RideLayout.tsx`, plus a profile link on `/cycling`. No API calls, no auth.
 
 ## Build Notes
