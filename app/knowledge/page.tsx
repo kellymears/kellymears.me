@@ -4,10 +4,8 @@ import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
 import { topicVars } from '@/components/knowledge/NoteCard'
 import { StatLine } from '@/components/knowledge/StatLine'
 import { TopicCard } from '@/components/knowledge/TopicCard'
-import { Wander } from '@/components/knowledge/Wander'
 import siteMetadata from '@/data/siteMetadata'
 import {
-  getAllNotes,
   getGraph,
   getHubs,
   getKnowledgeStats,
@@ -44,7 +42,6 @@ export default function KnowledgePage() {
   const stats = getKnowledgeStats()
   const topics = getTopics()
   const graph = getGraph()
-  const notes = getAllNotes()
   const hubs = getHubs(12)
 
   const previews = new Map(
@@ -97,11 +94,6 @@ export default function KnowledgePage() {
             Knowledge
           </h1>
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-gray-600 dark:text-gray-400">
-            One note per concept, each written to stand on its own, densely linked to the others.
-            Ideas that hold outside any particular codebase, employer, or project. Notes are short
-            by design — if something needs more room, it becomes several notes.
-          </p>
-          <p className="mt-4 max-w-2xl border-l-2 border-gray-200 pl-4 text-base leading-relaxed text-gray-500 dark:border-gray-800 dark:text-gray-400">
             Ongoing documentation of the subjects I&rsquo;m learning about and the relationships
             between them.
           </p>
@@ -165,13 +157,6 @@ export default function KnowledgePage() {
               </ul>
             </div>
           )}
-
-          <div className="mt-5 border-t border-gray-200 pt-5 dark:border-gray-800">
-            <Wander paths={notes.map((note) => note.path)} label="Wander somewhere" />
-            <p className="mt-3 text-xs leading-relaxed text-gray-500 dark:text-gray-400">
-              Or don&rsquo;t choose &mdash; the vault picks a note for you.
-            </p>
-          </div>
         </Card>
       </header>
 
