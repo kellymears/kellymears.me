@@ -24,7 +24,7 @@ export default function NavLinks({ alwaysVisible = false }: NavLinksProps) {
     <div
       className={clsx(
         'no-scrollbar relative max-w-[calc(100vw-2rem)] items-center gap-x-3 overflow-x-auto sm:max-w-full',
-        alwaysVisible ? 'flex' : 'hidden sm:flex'
+        alwaysVisible ? 'flex' : 'hidden xl:flex'
       )}
     >
       {headerNavLinks.map((link) => {

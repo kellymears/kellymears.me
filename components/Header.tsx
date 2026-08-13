@@ -25,13 +25,13 @@ const Header = () => {
       />
       <Link href="/" aria-label={siteMetadata.headerTitle}>
         <div className="flex items-center justify-between">
-          <div className="h-6 text-xl font-semibold tracking-tight text-gray-900 sm:block dark:text-gray-100">
+          <div className="h-6 text-xl font-semibold tracking-tight whitespace-nowrap text-gray-900 sm:block dark:text-gray-100">
             {siteMetadata.headerTitle}
           </div>
         </div>
       </Link>
 
-      <div className="flex items-center space-x-4 leading-5 sm:-mr-6 sm:space-x-6">
+      <div className="flex items-center space-x-4 leading-5 xl:-mr-6 xl:space-x-6">
         <NavLinks />
         <ThemeSwitch />
         <MobileNav />
