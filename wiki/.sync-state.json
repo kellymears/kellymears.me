@@ -1,0 +1,12 @@
+{
+  "runs": [
+    {
+      "at": "2026-08-13T13:21:37",
+      "added": 201,
+      "updated": 0,
+      "note": "initial build: full history across personal + carrot directories"
+    }
+  ],
+  "last_run_ms": 1786641697019,
+  "last_run": "2026-08-13T13:21:37"
+}
