@@ -5,7 +5,7 @@ aliases:
   - CLS
 tags:
   - web
-summary: Google's small set of user-centred performance metrics: loading, interactivity, and visual stability.
+summary: "Google's small set of user-centred performance metrics: loading, interactivity, and visual stability."
 ---
 **Core Web Vitals** are a standardised set of metrics intended to capture user experience rather than machine timings. The current three are *Largest Contentful Paint* (when the main content appears), *Interaction to Next Paint* (how quickly the page responds to input), and *Cumulative Layout Shift* (how much content moves around unexpectedly while loading).
 
