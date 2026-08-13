@@ -52,8 +52,10 @@ yarn-error.log*
 # Sync log
 .sync-data.log
 
-# Claude Code
-.claude/
+# Claude Code — ignore local state, track shared skills and settings
+.claude/*
+!.claude/skills/
+!.claude/settings.json
 
 # Playwright CLI
 .playwright-cli/
@@ -63,3 +65,8 @@ packages/cli/dist/
 packages/cli/node_modules/
 packages/cli/src/data.ts
 
+
+# Obsidian vault local state
+wiki/.obsidian/workspace*.json
+wiki/.obsidian/cache
+wiki/.trash/
