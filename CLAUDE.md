@@ -59,6 +59,19 @@ The `/cycling` page reads from RunGap-imported activity files — no live third-
 - **Consumers**: `app/cycling/page.tsx` (page render) and `app/api/cli/route.ts` (CLI JSON endpoint).
 - **Strava references that remain are display-only**: backlinks (`https://www.strava.com/activities/{id}`) extracted from per-activity IDs in `layouts/RideLayout.tsx`, plus a profile link on `/cycling`. No API calls, no auth.
 
+## Knowledge Wiki (`lib/knowledge.ts`)
+
+`/knowledge/*` renders the Obsidian vault in `wiki/` as interlinked pages. 201 concept notes across 11 topic folders. Fully static — every route is prerendered at build time from the filesystem.
+
+- **Routes**: `/knowledge` (index), `/knowledge/[topic]` (domain), `/knowledge/[topic]/[subject]` (note). `wiki/Home.md` and `wiki/README.md` are data sources, not notes — `Home.md` supplies the per-topic blurbs.
+- **Data layer**: `lib/knowledge.ts`, module-cached. Parses frontmatter (`aliases`, `tags`, `summary`), resolves `[[wikilinks]]` by title *or* alias case-insensitively, derives backlinks, and strips `## See also` / `## Related` out of `body` into separate fields. Exports `getTopics`, `getAllNotes`, `getNote`, `getNoteBySlug`, `resolveWikilink`, `getGraph`, `getLocalGraph`, `getHubs`, `getSearchIndex`, `getKnowledgeStats`, `slugifyNote`.
+- **Graph layout is precomputed server-side.** A seeded (mulberry32) Fruchterman-Reingold solver runs at module load in ~50ms and emits fixed `x`/`y`. Positions are byte-identical across processes — never introduce `Math.random()` or `Date.now()` there. `getGraph(aspect = 1.9)` bakes the aspect into the *simulation* so wide cards fill without distortion; `getLocalGraph(slug, depth = 2, aspect = 1)` stays square for the note-page rail. The client renders positions and runs no physics.
+- **Wikilinks in prose**: `lib/remark-wikilink.ts` takes a resolver via plugin options (avoids an import cycle) and emits `data-wikilink="<slug>"`. That attribute is load-bearing — `HoverPreview` delegates on it. Unresolvable links degrade to plain text.
+- **Client islands**: `KnowledgeChrome` (mounted once in `app/knowledge/layout.tsx`) owns the ⌘K palette and hover previews; `KnowledgeGraph` owns the SVG. Topic colors live in `components/knowledge/graph-colors.ts` as a fixed 11-hue palette — it must stay independent of `--color-primary-*`, since `components/PaletteScript.tsx` randomizes the site's primary hue per page load.
+- **Graph a11y**: roving tabindex — the graph is one tab stop, arrows move between nodes, Home/End jump to most/least linked. Escape suspends the roving stop so the next Tab leaves the graph instead of re-entering it.
+- **Frontmatter hazard**: an unquoted colon in a `summary:` breaks YAML. `parseNote()` falls back to a lenient reader and `console.warn`s the filename at build time.
+- **Sitemap**: `lib/source-dates.ts` derives `lastModified` from one batched `git log` pass, falling back to file mtime when git is absent or the checkout is shallow.
+
 ## Build Notes
 
 - RSS feeds generated as route handlers (`app/feed.xml/route.ts`, `app/tags/[tag]/feed.xml/route.ts`)
