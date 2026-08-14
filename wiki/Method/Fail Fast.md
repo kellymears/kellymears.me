@@ -15,6 +15,7 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 
 ## See also
 - [[Silent Failure]]
+- [[Monad]]
 - [[Secret Management]]
 - [[Observability]]
 - [[Assertion]]

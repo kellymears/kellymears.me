@@ -18,3 +18,5 @@ Because a subtitle file is plain text with stable indices, a change log keyed to
 - [[Plain Language]]
 - [[Accessibility]]
 - [[Markdown]]
+- [[Automatic Speech Recognition]]
+- [[Environmental Storytelling]]

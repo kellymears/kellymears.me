@@ -17,13 +17,19 @@ Notes are short by design. If something needs more room, it becomes several note
 
 How to know things, and how to avoid being confidently wrong.
 
-[[Root Cause Analysis]] · [[Falsifiability]] · [[Ground Truth]] · [[Silent Failure]] · [[Vacuous Truth]] · [[Fail Fast]] · [[Defensive Default]] · [[Exhaustive Claim]] · [[Truncation Bias]] · [[Goodhart's Law]] · [[Anchoring Effect]] · [[Chesterton's Fence]] · [[Plausible Mechanism]] · [[Reproducible Case]] · [[Observability]] · [[Regression]] · [[Technical Debt]] · [[Deprecation]] · [[Documentation Rot]] · [[Code Comment]] · [[Naming]] · [[Provenance]]
+[[Anchoring Effect]] · [[Automation Bias]] · [[Chesterton's Fence]] · [[Code Comment]] · [[Defensive Default]] · [[Deprecation]] · [[Documentation Rot]] · [[Exhaustive Claim]] · [[Fail Fast]] · [[Falsifiability]] · [[Fermi Estimation]] · [[Goodhart's Law]] · [[Ground Truth]] · [[Monty Hall Problem]] · [[Naming]] · [[Observability]] · [[Percentage Point]] · [[Plausible Mechanism]] · [[Provenance]] · [[Regression]] · [[Reproducible Case]] · [[Root Cause Analysis]] · [[Sensitivity and Specificity]] · [[Silent Failure]] · [[Technical Debt]] · [[Truncation Bias]] · [[Vacuous Truth]]
+
+## Computation
+
+Algorithms, data structures, and what they cost.
+
+[[Big-O Notation]] · [[Binary Search]] · [[Hash Table]] · [[Least Recently Used Cache]] · [[Monad]] · [[Write-Ahead Logging]]
 
 ## Agents & Language Models
 
 How systems built on language models actually work, and how they fail.
 
-[[Large Language Model]] · [[Token]] · [[Context Window]] · [[Prompt]] · [[System Prompt]] · [[Prompt Engineering]] · [[Tool Use]] · [[Structured Output]] · [[Constrained Decoding]] · [[JSON Schema]] · [[Schema Validation]] · [[Agentic Loop]] · [[Multi-Agent Orchestration]] · [[Subagent]] · [[Fan-Out and Fan-In]] · [[Adversarial Review]] · [[LLM-as-Judge]] · [[Evaluation Harness]] · [[Record and Replay Testing]] · [[Fingerprint]] · [[Model Routing]] · [[Hallucination]] · [[Prompt Injection]] · [[Model Context Protocol]] · [[Agent Memory]] · [[Agent Skill]] · [[Guardrail]] · [[Nondeterminism]] · [[Token Budget]] · [[Human in the Loop]]
+[[Adversarial Review]] · [[Agent Memory]] · [[Agent Skill]] · [[Agentic Loop]] · [[Automatic Speech Recognition]] · [[Constrained Decoding]] · [[Context Window]] · [[Evaluation Harness]] · [[Fan-Out and Fan-In]] · [[Fingerprint]] · [[Guardrail]] · [[Hallucination]] · [[Human in the Loop]] · [[JSON Schema]] · [[Large Language Model]] · [[LLM-as-Judge]] · [[Markov Chain]] · [[Mechanistic Interpretability]] · [[Model Context Protocol]] · [[Model Routing]] · [[Multi-Agent Orchestration]] · [[Nondeterminism]] · [[Prompt]] · [[Prompt Engineering]] · [[Prompt Injection]] · [[Record and Replay Testing]] · [[Schema Validation]] · [[Structured Output]] · [[Subagent]] · [[System Prompt]] · [[Token]] · [[Token Budget]] · [[Tool Use]]
 
 ## Web Platform
 
@@ -35,7 +41,7 @@ Where code runs, what ships, and what the browser does with it.
 
 Visual systems, motion, and access.
 
-[[Design System]] · [[Design Token]] · [[Headless Component]] · [[UI Primitive]] · [[Utility-First CSS]] · [[CSS Custom Property]] · [[Cascade]] · [[Scoped Styling]] · [[Stacking Context]] · [[Container Query]] · [[Responsive Breakpoint]] · [[OKLCH]] · [[Color Contrast]] · [[Dark Mode]] · [[Typographic Scale]] · [[Motion Design]] · [[Easing]] · [[Staggered Animation]] · [[Reduced Motion]] · [[Accessibility]] · [[ARIA]] · [[Focus Management]] · [[Focus Trap]] · [[Semantic HTML]] · [[Keyboard Navigation]]
+[[Accessibility]] · [[ARIA]] · [[Cascade]] · [[Color Contrast]] · [[Container Query]] · [[CSS Custom Property]] · [[Dark Mode]] · [[Design System]] · [[Design Token]] · [[Easing]] · [[Focus Management]] · [[Focus Trap]] · [[Headless Component]] · [[Keyboard Navigation]] · [[Motion Design]] · [[OKLCH]] · [[Opponent Process Theory]] · [[Reduced Motion]] · [[Responsive Breakpoint]] · [[Scoped Styling]] · [[Semantic HTML]] · [[Stacking Context]] · [[Staggered Animation]] · [[Typographic Scale]] · [[UI Primitive]] · [[Utility-First CSS]]
 
 ## Testing & Verification
 
@@ -53,7 +59,7 @@ Getting changes from a working copy into the world.
 
 The machine underneath.
 
-[[Shell]] · [[Environment Variable]] · [[XDG Base Directory Specification]] · [[Dotfiles]] · [[Symbolic Link]] · [[Glob]] · [[Process]] · [[Daemon]] · [[Cron]] · [[Port]] · [[Containerization]] · [[Domain Name System]] · [[Monorepo]] · [[Package Manager]] · [[Determinism]] · [[Hash Function]] · [[Character Encoding]] · [[Idempotence]] · [[Least Privilege]] · [[Secret Management]] · [[Code Signing]]
+[[Character Encoding]] · [[Code Signing]] · [[Containerization]] · [[Cron]] · [[Daemon]] · [[Determinism]] · [[Domain Name System]] · [[Dotfiles]] · [[Environment Variable]] · [[Glob]] · [[Hash Function]] · [[Idempotence]] · [[Least Privilege]] · [[Monorepo]] · [[Package Manager]] · [[Port]] · [[Process]] · [[Secret Management]] · [[Shell]] · [[Symbolic Link]] · [[Time Zone]] · [[XDG Base Directory Specification]]
 
 ## Data & Content
 
@@ -65,16 +71,28 @@ Modelling, storing, and publishing information.
 
 Rendering, generation, and play.
 
-[[Voxel]] · [[Procedural Generation]] · [[L-System]] · [[Shader]] · [[Rasterization]] · [[Cellular Automaton]] · [[Seeded Randomness]] · [[Constraint Propagation]] · [[Game AI]] · [[Roguelike]] · [[Trick-Taking Game]] · [[Terminal User Interface]]
+[[Cellular Automaton]] · [[Constraint Propagation]] · [[Environmental Storytelling]] · [[Gacha Monetization]] · [[Game AI]] · [[Game Feel]] · [[L-System]] · [[Ludonarrative Dissonance]] · [[Procedural Generation]] · [[Rasterization]] · [[Roguelike]] · [[Seeded Randomness]] · [[Shader]] · [[Terminal User Interface]] · [[Trick-Taking Game]] · [[Voxel]]
 
 ## Networks & Distribution
 
 Coordination without a centre.
 
-[[Conflict-Free Replicated Data Type]] · [[Peer-to-Peer]] · [[WebRTC]] · [[Signaling Server]] · [[Eventual Consistency]] · [[Streaming Response]]
+[[Caller ID Authentication]] · [[Conflict-Free Replicated Data Type]] · [[eSIM]] · [[Eventual Consistency]] · [[Peer-to-Peer]] · [[Signaling Server]] · [[Streaming Response]] · [[Virtual Private Network]] · [[WebRTC]]
+
+## Matter
+
+Light, force, heat, and motion.
+
+[[Dispersion]] · [[Inertial Frame of Reference]] · [[Pascal's Principle]] · [[Polarized Light]] · [[Rolling Resistance]] · [[Specific Absorption Rate]] · [[Vapor-Compression Refrigeration]]
+
+## Body
+
+Physiology, injury, and repair.
+
+[[Bone Remodeling]] · [[Fracture Fixation]] · [[Fracture Nonunion]] · [[Moist Wound Healing]] · [[Nociception]] · [[Physical Dependence]] · [[Regional Nerve Block]] · [[Retinoid]] · [[Retronasal Olfaction]] · [[Segmented Sleep]] · [[Watershed Blood Supply]] · [[Xenobiotic Metabolism]]
 
 ## Meaning & Society
 
 Knowledge, language, and acting together.
 
-[[Knowledge Graph]] · [[Zettelkasten]] · [[Wiki]] · [[Backlink]] · [[Taxonomy]] · [[Plain Language]] · [[Tarot]] · [[Linguistic Relativity]] · [[Subtitling]] · [[Rent Strike]] · [[Collective Action]]
+[[Backlink]] · [[Broken Windows Theory]] · [[Collective Action]] · [[Confidence Trick]] · [[Folk Etymology]] · [[Knowledge Graph]] · [[Letterlocking]] · [[Linguistic Relativity]] · [[Malaphor]] · [[Modern Monetary Theory]] · [[Plain Language]] · [[Prototype Theory]] · [[Rent Strike]] · [[Subtitling]] · [[Tarot]] · [[Taxonomy]] · [[Terror Management Theory]] · [[Wiki]] · [[Zettelkasten]]

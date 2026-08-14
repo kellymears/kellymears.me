@@ -78,6 +78,7 @@ interface KnowledgeStats {
 /** Fixed display order. `dir` is the folder name inside `wiki/`. */
 const TOPIC_DEFINITIONS: { slug: string; dir: string; name: string }[] = [
   { slug: 'method', dir: 'Method', name: 'Method' },
+  { slug: 'computation', dir: 'Computation', name: 'Computation & Algorithms' },
   { slug: 'agents', dir: 'Agents', name: 'Agents & Language Models' },
   { slug: 'web', dir: 'Web', name: 'Web Platform' },
   { slug: 'design', dir: 'Design', name: 'Design & Interface' },
@@ -87,6 +88,8 @@ const TOPIC_DEFINITIONS: { slug: string; dir: string; name: string }[] = [
   { slug: 'data', dir: 'Data', name: 'Data & Content' },
   { slug: 'graphics', dir: 'Graphics', name: 'Graphics & Games' },
   { slug: 'networks', dir: 'Networks', name: 'Networks & Distribution' },
+  { slug: 'matter', dir: 'Matter', name: 'Matter & Energy' },
+  { slug: 'body', dir: 'Body', name: 'Body & Medicine' },
   { slug: 'meaning', dir: 'Meaning', name: 'Meaning & Society' },
 ]
 

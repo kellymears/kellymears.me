@@ -22,3 +22,4 @@ Package manifests belong here too: a declarative list of installed software make
 
 ## Related
 - [[Terminal User Interface]]
+- [[Silent Failure]]

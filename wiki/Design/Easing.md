@@ -24,3 +24,4 @@ Duration still matters and the useful range is narrow. Under roughly 100 millise
 - [[Color Contrast]]
 - [[Accessibility]]
 - [[Progressive Enhancement]]
+- [[Game Feel]]

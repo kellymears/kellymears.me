@@ -19,3 +19,11 @@ The common record types are few: an address record, an alias record pointing one
 - [[Port]]
 - [[Same-Origin Policy]]
 - [[Cache Invalidation]]
+- [[Virtual Private Network]]
+- [[Caller ID Authentication]]
+- [[eSIM]]
+
+## Related
+- [[Least Privilege]]
+- [[Hash Function]]
+- [[Secret Management]]

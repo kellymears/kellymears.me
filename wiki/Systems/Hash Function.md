@@ -24,3 +24,6 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[Record and Replay Testing]]
 - [[Provenance]]
 - [[LLM-as-Judge]]
+- [[Write-Ahead Logging]]
+- [[Caller ID Authentication]]
+- [[Hash Table]]

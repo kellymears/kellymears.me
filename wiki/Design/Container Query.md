@@ -22,3 +22,4 @@ Where they are not yet practical, the honest fallback is to make components tole
 - [[Utility-First CSS]]
 - [[Headless Component]]
 - [[Design Token]]
+- [[Typographic Scale]]

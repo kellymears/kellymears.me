@@ -11,6 +11,8 @@ Silent failures cluster around a few shapes. A configuration key the parser does
 
 The structural defence is to make the quiet path loud. Prefer a crash to a [[Defensive Default]] when a required value is missing. Assert that a check *can* fail before trusting it, per [[Falsifiability]]. Count matches before believing a search, per [[Truncation Bias]]. And when a gate is added, prove it reds on a deliberately broken input.
 
+A type-level defence exists too. An operation returning a value that may be absent can say so in the type — an option or result rather than a bare value the caller is free to ignore — so the compiler rather than the reader enforces that the empty case is handled. That the chaining these types support obeys the [[Monad]] laws is incidental to the point; the point is that absence is made explicit.
+
 The rhetorical version is just as costly: an "everything passes" claim assembled from checks that never ran. See [[Vacuous Truth]].
 
 ## See also

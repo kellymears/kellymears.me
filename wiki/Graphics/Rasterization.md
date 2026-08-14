@@ -23,3 +23,7 @@ Performance work in a rasteriser is mostly about reducing draw calls and avoidin
 - [[Procedural Generation]]
 - [[Seeded Randomness]]
 - [[Cellular Automaton]]
+- [[Game Feel]]
+- [[Roguelike]]
+- [[Game AI]]
+- [[L-System]]

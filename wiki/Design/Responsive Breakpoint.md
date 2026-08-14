@@ -28,3 +28,5 @@ Three practical notes recur.
 - [[Integration Test]]
 - [[Unit Test]]
 - [[Test Fixture]]
+- [[Test Double]]
+- [[Stacking Context]]

@@ -21,3 +21,4 @@ As software it is a pleasant modelling problem — a small fixed corpus, several
 
 ## Related
 - [[Trick-Taking Game]]
+- [[Terror Management Theory]]

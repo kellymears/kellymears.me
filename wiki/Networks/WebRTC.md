@@ -21,3 +21,4 @@ The practical caution for anything built on public signalling infrastructure is 
 ## Related
 - [[Eventual Consistency]]
 - [[Idempotence]]
+- [[Virtual Private Network]]

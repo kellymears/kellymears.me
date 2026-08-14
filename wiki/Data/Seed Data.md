@@ -25,3 +25,5 @@ Two lessons repeat.
 ## Related
 - [[Relational Database]]
 - [[Determinism]]
+- [[Write-Ahead Logging]]
+- [[Hash Table]]

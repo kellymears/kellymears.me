@@ -14,6 +14,8 @@ Provenance also makes attribution auditable in the other direction. Determining 
 
 The same idea applies to any recorded corpus: an evaluation result, a benchmark, a research summary. Recording *what produced it* — the model, the prompt, the input revision — is what makes it possible to tell a stale result from a current one later. See [[Fingerprint]].
 
+Physical documents solved the adjacent problem — proving a record was not altered in transit — long before cryptography, by making the container itself tamper-evident; [[Letterlocking]] is the studied form of that craft, and its logic survives in [[Code Signing]].
+
 ## See also
 - [[Version Control]]
 - [[Commit]]

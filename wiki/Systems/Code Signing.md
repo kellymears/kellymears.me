@@ -16,6 +16,7 @@ Testing this requires a machine other than the one that built it, since a local 
 
 ## See also
 - [[Supply Chain Security]]
+- [[Letterlocking]]
 - [[Daemon]]
 - [[Least Privilege]]
 

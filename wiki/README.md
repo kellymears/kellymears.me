@@ -6,7 +6,7 @@ Open the folder directly as a vault in Obsidian. Start at [[Home]].
 
 ## What's in here
 
-201 concept notes across eleven domains: method and epistemics, language-model systems, the web platform, design and interface, testing, version control and delivery, systems and tooling, data and content, graphics and games, networks, and meaning and society.
+251 concept notes across fourteen domains: method and epistemics, computation and algorithms, language-model systems, the web platform, design and interface, testing, version control and delivery, systems and tooling, data and content, graphics and games, networks, matter and energy, body and medicine, and meaning and society.
 
 Every note is atomic — one concept, 200–400 words, written to make sense on its own to a reader who knows nothing about any particular codebase. Nothing here documents a specific application, employer, or repository. Where a note gets concrete, the concreteness exists to make the idea usable.
 
@@ -21,9 +21,9 @@ Every note is atomic — one concept, 200–400 words, written to make sense on 
 
 ## Graph
 
-1,815 links across 202 notes — a mean of 9 outbound and 9 inbound per note, with no orphans and no broken links.
+2,304 links across 252 notes — a mean of 9 outbound and 9 inbound per note, with no orphans and no broken links.
 
-The most-linked-to notes are a decent summary of the vault's centre of gravity: [[Silent Failure]], [[Ground Truth]], [[Determinism]], [[Vacuous Truth]], [[Tool Use]], [[Large Language Model]], [[Root Cause Analysis]].
+The most-linked-to notes are a decent summary of the vault's centre of gravity: [[Ground Truth]], [[Silent Failure]], [[Plausible Mechanism]], [[Determinism]], [[Root Cause Analysis]], [[Falsifiability]], [[Naming]].
 
 ## Housekeeping
 
