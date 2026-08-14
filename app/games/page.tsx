@@ -15,7 +15,7 @@ export default function GamesPage() {
   const data = getGamesPageData()
   if (!data) notFound()
 
-  const { profile, stats, featured, featuredIsCurated, topByHours, recent, genres, byYear } = data
+  const { stats, featured, featuredIsCurated, topByHours, recent, genres, byYear } = data
 
   const firstYear = byYear[0]?.year
   const lastYear = byYear[byYear.length - 1]?.year
@@ -27,11 +27,10 @@ export default function GamesPage() {
           Games
         </p>
         <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl dark:text-gray-100">
-          Time spent well
+          Time Well Spent
         </h1>
         <p className="mt-4 max-w-2xl text-lg leading-relaxed text-gray-600 dark:text-gray-400">
-          Every game I have played on Steam, counted honestly. Engines, tools, demos, and
-          soundtracks are excluded — this is playing, not making.
+          Every game I have played on Steam.
         </p>
 
         <StatLine
@@ -121,17 +120,8 @@ export default function GamesPage() {
         <p className="text-sm leading-relaxed text-gray-500 dark:text-gray-400">
           {stats.owned.toLocaleString()} games owned, {stats.unplayed.toLocaleString()} never
           launched, spanning releases from {firstYear} to {lastYear}. The median played game got{' '}
-          {stats.medianHours} hours — the deepest got {stats.deepestHours.toLocaleString()}. Anything
-          under thirty minutes is left out.{' '}
-          <a
-            href={profile.profileUrl}
-            rel="noreferrer noopener"
-            target="_blank"
-            className="text-primary-600 dark:text-primary-400 hover:underline"
-          >
-            Steam profile
-          </a>
-          .
+          {stats.medianHours} hours — the deepest got {stats.deepestHours.toLocaleString()}. Engines,
+          tools, demos, and soundtracks are excluded, as is anything under thirty minutes.
         </p>
       </section>
     </div>
