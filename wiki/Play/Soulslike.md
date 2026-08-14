@@ -3,7 +3,7 @@ aliases:
   - Souls game
   - Difficulty as authorship
 tags:
-  - graphics
+  - play
 summary: A design lineage in which high difficulty is a deliberate authorial position, sustained by making every death legible.
 ---
 **Soulslike** describes the design lineage descending from FromSoftware's *Demon's Souls* and *Dark Souls*, characterised less by difficulty itself than by what the difficulty is for. The wager is that an obstacle which cannot be trivially overcome produces a stronger relationship to the space beyond it. Difficulty is treated as authorship — a claim about what the work is, not a slider left in the wrong position.

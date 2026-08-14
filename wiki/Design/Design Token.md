@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Tokens
   - Design variables
 tags:
   - design

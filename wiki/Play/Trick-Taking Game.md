@@ -3,7 +3,7 @@ aliases:
   - Daifugo
   - Climbing game
 tags:
-  - graphics
+  - play
 summary: A card-game family in which players contest a series of small rounds, and a source of unusually clean rule systems.
 ---
 **Trick-taking games** are a family in which a round consists of each player contributing cards and one of them winning what was played. The family is enormous — bridge, hearts, whist, spades — and the variations concern what may be played, what beats what, and how winning is scored.

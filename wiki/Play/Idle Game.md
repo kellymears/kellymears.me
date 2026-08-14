@@ -3,7 +3,7 @@ aliases:
   - Incremental game
   - Clicker game
 tags:
-  - graphics
+  - play
 summary: A genre in which progress continues while the player is absent, built on exponential curves the player learns to read.
 ---
 **Idle game** — also incremental or clicker game — describes a form in which the primary resource accrues on a timer rather than in response to input. The player's actions set a rate and then step away; the game continues without them. *Cookie Clicker* established the shape, and the genre now spans everything from deliberately absurd number-inflation exercises to quiet aquarium simulations that ask for a few minutes a day.

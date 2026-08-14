@@ -25,3 +25,6 @@ Careless linking of a home directory's important files is a genuinely destructiv
 - [[Shell]]
 - [[Terminal User Interface]]
 - [[Silent Failure]]
+- [[Time Zone]]
+- [[Containerization]]
+- [[Secret Management]]

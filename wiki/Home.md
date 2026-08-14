@@ -67,11 +67,17 @@ Modelling, storing, and publishing information.
 
 [[Relational Database]] · [[Database Migration]] · [[Schema Drift]] · [[Draft and Published]] · [[Seed Data]] · [[Multi-Tenancy]] · [[Feature Flag]] · [[Headless CMS]] · [[Markdown]] · [[Frontmatter]] · [[Structured Data]] · [[RSS]] · [[Search Engine Optimization]] · [[Information Architecture]]
 
-## Graphics & Games
+## Graphics & Rendering
 
-Rendering, generation, and play.
+How images and worlds get computed.
 
-[[Battle Royale]] · [[Cellular Automaton]] · [[Constraint Propagation]] · [[Diegetic Interface]] · [[Environmental Storytelling]] · [[Factory Game]] · [[Gacha Monetization]] · [[Game AI]] · [[Game Feel]] · [[Idle Game]] · [[Immersive Sim]] · [[L-System]] · [[Live Service Game]] · [[Ludonarrative Dissonance]] · [[Meta-Progression]] · [[Metroidvania]] · [[Procedural Generation]] · [[Rasterization]] · [[Roguelike]] · [[Seeded Randomness]] · [[Shader]] · [[Soulslike]] · [[Terminal User Interface]] · [[Time as Resource]] · [[Trick-Taking Game]] · [[Voxel]]
+[[Cellular Automaton]] · [[Constraint Propagation]] · [[L-System]] · [[Procedural Generation]] · [[Rasterization]] · [[Seeded Randomness]] · [[Shader]] · [[Terminal User Interface]] · [[Voxel]]
+
+## Play & Games
+
+Games as designed experience, and the culture around them.
+
+[[Achievement Hunting]] · [[Assist Mode]] · [[Battle Royale]] · [[Bullet Heaven]] · [[Colony Sim]] · [[Compulsion Loop]] · [[Computer Role-Playing Game]] · [[Creature Collector]] · [[Datamining]] · [[Diegetic Interface]] · [[Disco Elysium]] · [[Emulation]] · [[Environmental Storytelling]] · [[Factory Game]] · [[Frame Data]] · [[Free-to-Play]] · [[Gacha Monetization]] · [[Game AI]] · [[Game Feel]] · [[Game Modding]] · [[Game Preservation]] · [[Idle Game]] · [[Immersive Sim]] · [[Invincibility Frames]] · [[Live Service Game]] · [[Ludonarrative Dissonance]] · [[Meta-Progression]] · [[Metagame]] · [[Metroidbrainia]] · [[Metroidvania]] · [[Parry and Riposte]] · [[Permadeath]] · [[Poise]] · [[Rhythm Game]] · [[Roguelike]] · [[Roguelike Deckbuilder]] · [[Sim Racing]] · [[Skill Check]] · [[Soulslike]] · [[Speedrun]] · [[Spoiler Etiquette]] · [[Survival Horror]] · [[Sweet Home]] · [[Tier List]] · [[Time as Resource]] · [[Trick-Taking Game]] · [[Variable-Ratio Reinforcement]] · [[Video Game Localization]] · [[Visual Novel]]
 
 ## Networks & Distribution
 

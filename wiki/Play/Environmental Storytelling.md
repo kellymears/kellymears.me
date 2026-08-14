@@ -3,7 +3,7 @@ aliases:
   - Embedded narrative
   - Spatial storytelling
 tags:
-  - graphics
+  - play
 summary: Narrative carried by placed objects and world state rather than dialogue, completed by the audience's inference.
 ---
 **Environmental storytelling** conveys narrative through the arrangement of a space — objects, damage, lighting, the state of a room — rather than through dialogue or cutscenes. The technique came out of theme park design and was adapted for games; Henry Jenkins's 2004 essay "Game Design as Narrative Architecture" supplies the useful distinction between an *evocative space*, which borrows a genre's existing associations, and an *embedded narrative*, which the player reconstructs from evidence.

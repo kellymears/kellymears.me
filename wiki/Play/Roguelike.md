@@ -1,8 +1,7 @@
 ---
 aliases:
-  - Permadeath
 tags:
-  - graphics
+  - play
 summary: A genre defined by procedurally generated runs and permanent death, and the design pressures those create.
 ---
 **Roguelike** describes games in the lineage of *Rogue* (1980): procedurally generated levels, permanent death, and a fresh start each run. The term has broadened enormously, but the two load-bearing elements remain generation and permadeath.

@@ -3,7 +3,7 @@ aliases:
   - Games as a service
   - GaaS
 tags:
-  - graphics
+  - play
 summary: A game operated as a running service rather than shipped as a finished artifact, with the consequences that shift implies.
 ---
 **Live service game** describes a title operated continuously after release — patched, extended, seasonally reset, and eventually shut down — rather than shipped once and finished. *Counter-Strike*, *Destiny 2* and *Fortnite* are the usual examples. The category is often framed as a monetisation strategy, but the more durable description is architectural: the game has stopped being an artifact and become a deployment.

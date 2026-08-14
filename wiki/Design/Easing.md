@@ -18,6 +18,7 @@ Duration still matters and the useful range is narrow. Under roughly 100 millise
 - [[Motion Design]]
 - [[Staggered Animation]]
 - [[Reduced Motion]]
+- [[Rhythm Game]]
 
 ## Related
 - [[Component Story]]

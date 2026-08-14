@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sensitivity
-  - Specificity
   - True positive rate
 tags:
   - method

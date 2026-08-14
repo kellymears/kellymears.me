@@ -1,10 +1,10 @@
 /**
  * Topic palette for the knowledge graph.
  *
- * Fourteen hues stepped ~25° apart around the OKLCH wheel, starting at the warm
+ * Fifteen hues stepped ~23° apart around the OKLCH wheel, starting at the warm
  * coral end so the ramp opens next to the site's primary family
  * (`--color-primary-500: oklch(0.75 0.16 45)`) and closes back into it. Chroma
- * is held between 0.09 and 0.13 — well under the primary's 0.16 — so 253 dots
+ * is held between 0.09 and 0.13 — well under the primary's 0.16 — so 345 dots
  * read as a tinted field rather than a bag of highlighters, and lightness sits
  * in the gray-500/600 register in light mode, gray-300/400 in dark.
  *
@@ -24,19 +24,21 @@ export interface TopicColor {
 
 export const TOPIC_COLORS: Record<string, TopicColor> = {
   method: { light: 'oklch(0.62 0.13 45)', dark: 'oklch(0.78 0.12 45)', label: 'Method' },
-  computation: { light: 'oklch(0.62 0.12 70.2)', dark: 'oklch(0.79 0.11 70.2)', label: 'Computation' },
-  agents: { light: 'oklch(0.61 0.10 95.3)', dark: 'oklch(0.79 0.10 95.3)', label: 'Agents' },
-  web: { light: 'oklch(0.59 0.10 120.5)', dark: 'oklch(0.78 0.10 120.5)', label: 'Web' },
-  design: { light: 'oklch(0.58 0.10 145.6)', dark: 'oklch(0.76 0.10 145.6)', label: 'Design' },
-  testing: { light: 'oklch(0.58 0.09 170.8)', dark: 'oklch(0.76 0.09 170.8)', label: 'Testing' },
-  delivery: { light: 'oklch(0.58 0.10 195.9)', dark: 'oklch(0.75 0.10 195.9)', label: 'Delivery' },
-  systems: { light: 'oklch(0.58 0.11 221.1)', dark: 'oklch(0.74 0.11 221.1)', label: 'Systems' },
-  data: { light: 'oklch(0.57 0.12 246.2)', dark: 'oklch(0.73 0.11 246.2)', label: 'Data' },
-  graphics: { light: 'oklch(0.56 0.13 271.4)', dark: 'oklch(0.72 0.12 271.4)', label: 'Graphics' },
-  networks: { light: 'oklch(0.56 0.12 296.5)', dark: 'oklch(0.73 0.12 296.5)', label: 'Networks' },
-  matter: { light: 'oklch(0.57 0.12 321.7)', dark: 'oklch(0.74 0.12 321.7)', label: 'Matter' },
-  body: { light: 'oklch(0.59 0.12 346.8)', dark: 'oklch(0.75 0.12 346.8)', label: 'Body' },
+  computation: { light: 'oklch(0.62 0.12 68.4)', dark: 'oklch(0.79 0.11 68.4)', label: 'Computation' },
+  agents: { light: 'oklch(0.61 0.11 91.7)', dark: 'oklch(0.79 0.11 91.7)', label: 'Agents' },
+  web: { light: 'oklch(0.60 0.10 115.1)', dark: 'oklch(0.78 0.10 115.1)', label: 'Web' },
+  design: { light: 'oklch(0.58 0.10 138.4)', dark: 'oklch(0.76 0.10 138.4)', label: 'Design' },
+  testing: { light: 'oklch(0.58 0.09 161.8)', dark: 'oklch(0.76 0.09 161.8)', label: 'Testing' },
+  delivery: { light: 'oklch(0.58 0.09 185.1)', dark: 'oklch(0.76 0.09 185.1)', label: 'Delivery' },
+  systems: { light: 'oklch(0.58 0.10 208.5)', dark: 'oklch(0.75 0.10 208.5)', label: 'Systems' },
+  data: { light: 'oklch(0.58 0.11 231.9)', dark: 'oklch(0.74 0.11 231.9)', label: 'Data' },
+  graphics: { light: 'oklch(0.57 0.12 255.2)', dark: 'oklch(0.73 0.12 255.2)', label: 'Graphics' },
+  play: { light: 'oklch(0.56 0.13 278.6)', dark: 'oklch(0.72 0.12 278.6)', label: 'Play' },
+  networks: { light: 'oklch(0.56 0.12 301.9)', dark: 'oklch(0.73 0.12 301.9)', label: 'Networks' },
+  matter: { light: 'oklch(0.58 0.12 325.3)', dark: 'oklch(0.75 0.12 325.3)', label: 'Matter' },
+  body: { light: 'oklch(0.59 0.12 348.6)', dark: 'oklch(0.75 0.12 348.6)', label: 'Body' },
   meaning: { light: 'oklch(0.60 0.13 12)', dark: 'oklch(0.76 0.12 12)', label: 'Meaning' },
+
 }
 
 /** Neutral used for a topic the palette does not know about. */

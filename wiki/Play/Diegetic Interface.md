@@ -3,7 +3,7 @@ aliases:
   - Diegetic UI
   - In-world interface
 tags:
-  - graphics
+  - play
 summary: An interface that exists inside the fiction, readable by the character as well as the player.
 ---
 **Diegetic interface** is a display that exists within the world of the work rather than overlaid on it. The health bar printed on the back of the suit in *Dead Space*, the cutting tool's readout in *Hardspace: Shipbreaker*, the wristwatch that is also the inventory — in each case the character can see the same information the player is reading. The term is borrowed from film, where *diegetic* sound is audible to the characters and non-diegetic sound is scored over them.

@@ -24,6 +24,7 @@ Determinism also enables *incremental* generation: extending a world without reg
 - [[Voxel]]
 - [[Cellular Automaton]]
 - [[Roguelike]]
+- [[Colony Sim]]
 
 ## Related
 - [[Shader]]

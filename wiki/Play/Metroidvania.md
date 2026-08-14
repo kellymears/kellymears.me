@@ -3,7 +3,7 @@ aliases:
   - Ability-gated map
   - Search action game
 tags:
-  - graphics
+  - play
 summary: A handcrafted world structured as a lock-and-key graph, where new abilities reopen old space rather than extending it.
 ---
 **Metroidvania** names a structure rather than a setting: a single continuous world, largely accessible from the start, partitioned by obstacles that specific abilities remove. The player explores until blocked, finds an ability elsewhere, and returns. The compound name credits *Metroid* and *Symphony of the Night*, and the form reaches *Hollow Knight* largely unchanged, because the structure is the appeal.

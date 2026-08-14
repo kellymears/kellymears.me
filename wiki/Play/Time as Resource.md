@@ -3,7 +3,7 @@ aliases:
   - Calendar system
   - Scheduling pressure
 tags:
-  - graphics
+  - play
 summary: A design in which the scarce resource is the schedule itself, so every activity is paid for with another left undone.
 ---
 **Time as resource** describes a structure in which the constrained quantity is not money or health but the calendar. The *Persona* series is the canonical case: a fixed number of days, several activities available each evening, and no way to do them all. Nothing is expensive and nothing is locked — the cost of each choice is simply everything else that could have occupied the slot.

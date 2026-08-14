@@ -3,7 +3,7 @@ aliases:
   - Metaprogression
   - Roguelite progression
 tags:
-  - graphics
+  - play
 summary: Persistent advancement that survives a failed run, converting loss into currency and a hard genre into a habit.
 ---
 **Meta-progression** is advancement that outlives the attempt which earned it. A run ends in death, the run-scoped state is discarded, and something — a currency, an unlocked option, a permanent statistical increase — persists into the next one. It is the single mechanism that separates the roguelite from the [[Roguelike]] proper, whose older definition insists that death returns the player to genuine zero.

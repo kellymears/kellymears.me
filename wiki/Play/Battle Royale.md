@@ -2,7 +2,7 @@
 aliases:
   - Last-player-standing mode
 tags:
-  - graphics
+  - play
 summary: A many-player elimination format that uses a shrinking play area to force an ending the players would otherwise avoid.
 ---
 **Battle royale** is a multiplayer format in which a large number of players — typically around a hundred — start with nothing on a shared map and play until one remains. The lineage runs from *DayZ* and *H1Z1* mods through *PUBG* and *Fortnite*, and its design contribution is narrow, specific, and borrowed constantly: the shrinking circle.

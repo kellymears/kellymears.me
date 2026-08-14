@@ -3,7 +3,7 @@ aliases:
   - Ludonarrative
   - Mechanics-story conflict
 tags:
-  - graphics
+  - play
 summary: Friction between what a game's mechanics reward and what its story claims to value.
 ---
 **Ludonarrative dissonance** is the conflict between what a game's systems reward and what its narrative says it values. Clint Hocking coined the term in a 2007 essay about *BioShock*, whose story rebukes the objectivist philosophy of its setting while its systems pay out for rational self-interest — most visibly in the choice to harvest or spare the Little Sisters. His formulation was narrow: the work offers two contracts, ludic and narrative, and honouring one breaks the other.

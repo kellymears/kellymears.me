@@ -3,7 +3,7 @@ aliases:
   - Immersive simulation
   - Systemic design
 tags:
-  - graphics
+  - play
 summary: A design tradition that simulates consistent rules rather than scripting outcomes, so solutions the designer never planned still work.
 ---
 **Immersive sim** describes the tradition running from *Ultima Underworld* and *Thief* through *Deus Ex*, *Prey* and, in a turn-based register, *Baldur's Gate 3*. Its commitment is to simulate a small number of rules consistently across the whole world rather than to script the outcome of each encounter. If water conducts electricity, it conducts electricity everywhere, including in the puzzle the designer did not consider.
