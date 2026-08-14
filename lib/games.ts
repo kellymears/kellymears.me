@@ -137,7 +137,7 @@ const excluded = new Set(NOT_A_GAME)
  * pulled from sale is still a game, which leaves `NOT_A_GAME` to catch the
  * delisted tools by hand.
  */
-function isCountedGame(game: SteamGame): boolean {
+export function isCountedGame(game: SteamGame): boolean {
   if (excluded.has(game.appid)) return false
   if (!game.details) return true
   if (!COUNTED_TYPES.has(game.details.type)) return false

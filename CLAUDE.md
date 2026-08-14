@@ -59,6 +59,17 @@ The `/cycling` page reads from RunGap-imported activity files — no live third-
 - **Consumers**: `app/cycling/page.tsx` (page render) and `app/api/cli/route.ts` (CLI JSON endpoint).
 - **Strava references that remain are display-only**: backlinks (`https://www.strava.com/activities/{id}`) extracted from per-activity IDs in `layouts/RideLayout.tsx`, plus a profile link on `/cycling`. No API calls, no auth.
 
+## Games (`lib/steam.ts`, `lib/games.ts`, `data/games.ts`)
+
+`/games` renders the Steam library from a cached import. No live API call at request time.
+
+- **Auth**: `STEAM_API_KEY` in `.env.local`. Create at https://steamcommunity.com/dev/apikey. `STEAM_ID` overrides the default SteamID64.
+- **Two upstreams**: the keyed Web API returns the whole library and its playtime in one request. The unkeyed store `appdetails` endpoint holds genre/developer/release/description and rate limits to ~200 requests per 5 minutes — `lib/steam.ts` throttles at 1.6s, backs off on 429, and caches each app to `public/static/data/steam/apps/<appid>.json`. **Cached apps are never re-fetched**; shipped-game metadata does not change, so only a first run is slow. Only played games get enriched.
+- **`isCountedGame()` in `lib/games.ts` is the single source of truth** for what counts, and `.claude/skills/games/scripts/report.ts` imports it so the skill and the site cannot disagree. Steam sells creative tools through the games storefront and types them `game`, so type alone does not separate playing from making — a `TOOL_GENRES` rule handles those. Delisted apps carry neither type nor genres and default to game, so `NOT_A_GAME` in `data/games.ts` catches delisted tools by hand (GameMaker: Studio, 709h, is the reason this exists).
+- **`data/games.ts` is the editorial layer.** `LOVED` is an ordered appid list driving the featured section; playtime is a weak proxy for affection, so until it is populated the page ranks by hours and says so via `featuredIsCurated`. Do not populate it without being asked.
+- **Skill**: `/games` (`.claude/skills/games/`) refreshes the import, reports what moved since a watermark in `.claude/skills/games/.sync-state.json`, and folds it into `wiki/Graphics/`. Stamping is the last step — stamping early means that play is never surfaced again.
+- Game-design notes live in the existing **Graphics & Games** domain (`wiki/Graphics/`, tag `graphics`). There is no separate games domain; adding one would fragment the graph and force a re-space of the 14-hue topic palette.
+
 ## Knowledge Wiki (`lib/knowledge.ts`)
 
 `/knowledge/*` renders the Obsidian vault in `wiki/` as interlinked pages. 201 concept notes across 11 topic folders. Fully static — every route is prerendered at build time from the filesystem.
