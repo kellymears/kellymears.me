@@ -4,7 +4,7 @@ aliases:
   - Refractive dispersion
 tags:
   - matter
-summary: Refractive index varies with wavelength, so a medium bends colours by different amounts.
+summary: Refractive index varies with wavelength, so a medium bends colors by different amounts.
 ---
 **Dispersion** is the dependence of a material's refractive index on wavelength. Glass slows blue light slightly more than red, so blue refracts more steeply at each surface. A prism exploits this twice, at entry and exit, spreading white light into a spectrum; the same property causes chromatic aberration in lenses, which designers quantify with the Abbe number.
 

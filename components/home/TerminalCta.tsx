@@ -58,7 +58,7 @@ export function TerminalCta() {
         </span>
       </button>
       <div className="mt-3 flex justify-end pr-1" aria-hidden="true">
-        <span className="animate-splash origin-bottom-right text-xs font-bold tracking-wide text-primary-500 dark:text-primary-400">
+        <span className="animate-splash text-primary-500 dark:text-primary-400 origin-bottom-right text-xs font-bold tracking-wide">
           Now 100% Axios free!
         </span>
       </div>

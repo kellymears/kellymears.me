@@ -10,7 +10,7 @@ The **agentic loop** is the control structure that turns a text-predicting model
 
 Everything characteristic of agents follows from this loop. The model can *investigate* — read a file, run a search, look at the result, and choose the next step based on what it found. It can also fail in loop-specific ways: repeating an action whose effect it cannot observe, or terminating early because it believes work is done.
 
-Practical design centres on a few pressures.
+Practical design centers on a few pressures.
 
 **Observation must reflect reality.** If a write goes to one place and the corresponding read comes from another, the model sees its own change fail to appear and does it again — producing duplicates. Read and write paths must agree; see [[Draft and Published]].
 

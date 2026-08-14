@@ -14,7 +14,7 @@ Some recurring generators, and their structural fixes:
 
 - **A strict compiler setting** making indexed access possibly-undefined forces a guard even when the key came from the same map's own keys. Iterating over entries rather than keys removes it, because the tuple type is not optional.
 - **A defensive null check on a reference** whose invariant guarantees it exists. A non-null assertion compiles to nothing and removes the branch.
-- **Independent optionals that always travel together** — a URL and its alternative text — create a "one present, one absent" case that no caller can produce. Modelling them as a single both-or-neither unit deletes it.
+- **Independent optionals that always travel together** — a URL and its alternative text — create a "one present, one absent" case that no caller can produce. Modeling them as a single both-or-neither unit deletes it.
 - **A default value** for a parameter every caller supplies.
 
 Each fix removes the branch rather than testing it, which is the distinction that matters.

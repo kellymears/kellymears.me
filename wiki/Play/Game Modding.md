@@ -7,7 +7,7 @@ tags:
   - play
 summary: User modification of a released game, running as its own ecosystem of tools, hosting and legal ambiguity.
 ---
-**Game modding** is user modification of a released game — new content, rebalanced systems, or altered engine behaviour — built and shared outside the original development process.
+**Game modding** is user modification of a released game — new content, rebalanced systems, or altered engine behavior — built and shared outside the original development process.
 
 The ecosystem has structure. Assets live in game-specific file formats a mod replaces or extends, and where several mods touch the same system, **load order** resolves which change wins — an informal [[Module Graph]] the player assembles by hand. **Mod loaders and script extenders** inject content at runtime without altering the shipped executable, while a **content mod** — new maps, dialogue — is a different object from an **engine patch**, which changes what the game can do rather than what it contains and is more likely to break with the next official update, the fragility [[Semantic Versioning]] exists to signal. Hosting sites act as de facto [[Package Manager]]s for a game with none official, crediting original authors ([[Provenance]] again) unevenly, and curation — screening malware, deduplicating reuploads — is unpaid.
 

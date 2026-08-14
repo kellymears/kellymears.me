@@ -6,7 +6,7 @@ tags:
   - design
 summary: Composing styles from many small single-purpose classes rather than authoring semantic rules.
 ---
-**Utility-first CSS** builds interfaces by composing many small, single-purpose classes — one for padding, one for colour, one for display — directly in markup, rather than writing named rules for components. The approach is most associated with Tailwind CSS.
+**Utility-first CSS** builds interfaces by composing many small, single-purpose classes — one for padding, one for color, one for display — directly in markup, rather than writing named rules for components. The approach is most associated with Tailwind CSS.
 
 Its argument is about the cascade rather than about typing less. Utilities have flat specificity, do not leak, and are removed automatically when unused, which eliminates the classic failure mode of a growing stylesheet nobody dares delete from. It also converts styling from an open-ended language into a constrained vocabulary: the available values come from the theme, so [[Design Token]]s are enforced by construction.
 

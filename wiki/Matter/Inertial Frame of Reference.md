@@ -12,7 +12,7 @@ The everyday consequence is that objects share the motion of whatever carries th
 
 **Leaving the co-moving air mass changes things.** Outside the vehicle a body still travels at the vehicle's velocity, but now through air fixed to the ground, and drag acts on that relative velocity. It does not fly backwards; it decelerates. The same reasoning governs a cyclist or a sailboat, where what matters is *apparent wind* — the vector sum of true wind and velocity of travel — rather than any sense of moving backwards over the ground. Apparent wind is why a headwind grows with speed in still air, and why the aerodynamic budget dwarfs [[Rolling Resistance]] at pace.
 
-Acceleration breaks the symmetry. A frame that speeds up, brakes or turns is non-inertial, and inside it motion appears to need extra forces — centrifugal, Coriolis — that are artefacts of the frame rather than interactions. Treating them as physical pushes is a durable [[Plausible Mechanism]] error; the [[Ground Truth]] is the choice of frame.
+Acceleration breaks the symmetry. A frame that speeds up, brakes or turns is non-inertial, and inside it motion appears to need extra forces — centrifugal, Coriolis — that are artifacts of the frame rather than interactions. Treating them as physical pushes is a durable [[Plausible Mechanism]] error; the [[Ground Truth]] is the choice of frame.
 
 ## See also
 - [[Determinism]]

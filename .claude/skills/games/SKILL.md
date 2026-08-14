@@ -103,7 +103,7 @@ Records current playtimes as read. **Stamping before the notes are written means
 
 Say what changed: notes added, notes updated and how, `LOVED` candidates proposed, and anything deliberately skipped for failing the scope rule. Leave changes uncommitted unless asked.
 
-## Judgement calls
+## Judgment calls
 
 **Convergent evidence beats deep evidence.** Four hundred hours in one game says that game is good. Forty hours across four games that share a mechanism says the mechanism is real. The second is what produces a note worth keeping.
 

@@ -8,7 +8,7 @@ summary: The curve mapping elapsed time to progress, and the main reason motion 
 ---
 **Easing** is the function describing how an animation's progress relates to elapsed time. Linear motion — constant velocity — looks mechanical because nothing physical moves that way; everything real accelerates and decelerates.
 
-The standard vocabulary is *ease-out* for things entering (fast start, gentle settle, feels responsive), *ease-in* for things leaving (gentle start, quick exit, feels decisive), and *ease-in-out* for things moving between two on-screen positions. Spring-based motion parameterises stiffness and damping instead of duration, which produces movement that reads as physical and responds naturally to interruption.
+The standard vocabulary is *ease-out* for things entering (fast start, gentle settle, feels responsive), *ease-in* for things leaving (gentle start, quick exit, feels decisive), and *ease-in-out* for things moving between two on-screen positions. Spring-based motion parameterizes stiffness and damping instead of duration, which produces movement that reads as physical and responds naturally to interruption.
 
 Most "the animation feels off" complaints are easing complaints rather than duration complaints. A characteristic one: a curve that decelerates too abruptly makes an animation appear to *stop and hang* mid-flight before continuing. The fix is smoothing the transition between the fast and slow portions, not making the whole thing faster.
 

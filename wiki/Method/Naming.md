@@ -13,7 +13,7 @@ Names also carry scope information. A name that is accurate but too general invi
 
 Naming interacts with the [[Taxonomy]] problem: a vocabulary is a shared model, and every additional near-synonym costs everyone a decision. Preferring an existing term over a new one, and reusing the sibling component's exact prop name rather than inventing a parallel, is what lets independent work converge instead of colliding — see [[Design System]].
 
-Test names are a special case: they should describe the scenario and the expected behaviour, not the function under test, so a failure reads as a statement about the system.
+Test names are a special case: they should describe the scenario and the expected behavior, not the function under test, so a failure reads as a statement about the system.
 
 ## See also
 - [[Code Comment]]

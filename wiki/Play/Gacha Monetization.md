@@ -12,7 +12,7 @@ Four structures do the work. **Published pull rates** state the probability of e
 
 The draw itself is ordinary [[Seeded Randomness]] resolved on a server; the effort goes into presentation. A long reveal, a rarity flash and a near-miss framing are tuned with the craft of [[Game Feel]]. Limited-time banners supply an [[Anchoring Effect]] against which smaller purchases read as restraint, and the escalating relief of a guaranteed pull follows [[Opponent Process Theory]]. Where revenue per player becomes the design metric, [[Goodhart's Law]] applies with force.
 
-Disclosure rules followed. Japan banned "complete gacha" in 2012 under prize-labelling law; China has required published probabilities since 2017; Belgium's regulator treated paid loot boxes as gambling in 2018; South Korea mandated rate disclosure in 2024. Enforcement varies, and disclosure in [[Plain Language]] remains rarer than disclosure as such.
+Disclosure rules followed. Japan banned "complete gacha" in 2012 under prize-labeling law; China has required published probabilities since 2017; Belgium's regulator treated paid loot boxes as gambling in 2018; South Korea mandated rate disclosure in 2024. Enforcement varies, and disclosure in [[Plain Language]] remains rarer than disclosure as such.
 
 ## See also
 - [[Roguelike]]

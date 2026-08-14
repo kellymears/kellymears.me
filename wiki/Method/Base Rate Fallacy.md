@@ -12,7 +12,7 @@ Their lawyer-engineer problem shows the same gap. Participants read a sketch of 
 
 The mechanism is representativeness: a description resembling a stereotype is judged probable in proportion to how well it resembles it, not to how often that category occurs. Frequency data feels like it belongs to a different question than the one in front of you; a specific case feels self-contained. This is a claim about reasoning, not about instruments — for how a test's own error rates interact with a population's base rate, see [[Sensitivity and Specificity]].
 
-The fallacy recurs anywhere a rare-category judgment is made from a compelling profile: forecasting, screening, and [[Automation Bias]] toward a system's specific output over its known error rate. The [[Monty Hall Problem]] is a neighbour rather than an instance: it turns not on a neglected base rate but on failing to condition on the host's constrained choice of door, which carries information. Stating the base rate explicitly, as a habit rather than an afterthought, is most of the fix.
+The fallacy recurs anywhere a rare-category judgment is made from a compelling profile: forecasting, screening, and [[Automation Bias]] toward a system's specific output over its known error rate. The [[Monty Hall Problem]] is a neighbor rather than an instance: it turns not on a neglected base rate but on failing to condition on the host's constrained choice of door, which carries information. Stating the base rate explicitly, as a habit rather than an afterthought, is most of the fix.
 
 ## See also
 - [[Sensitivity and Specificity]]

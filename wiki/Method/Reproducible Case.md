@@ -6,7 +6,7 @@ tags:
   - method
 summary: The smallest set of steps that reliably produces a fault, and the unit of real debugging.
 ---
-A **reproducible case** is a minimal, reliable procedure that produces a fault on demand. It is the fundamental unit of debugging, because everything else — bisecting, diagnosing, verifying the fix — depends on being able to trigger the behaviour at will.
+A **reproducible case** is a minimal, reliable procedure that produces a fault on demand. It is the fundamental unit of debugging, because everything else — bisecting, diagnosing, verifying the fix — depends on being able to trigger the behavior at will.
 
 Building one is often most of the work. The steps that matter are usually to fix the environment (a clean database, a restarted server, a known input) and then to *remove* everything that does not change the outcome. What remains is both the diagnosis and, frequently, the test.
 

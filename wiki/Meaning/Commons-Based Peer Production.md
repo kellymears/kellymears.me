@@ -6,7 +6,7 @@ tags:
   - meaning
 summary: Large-scale production coordinated by modular tasks and volunteer contribution rather than price or hierarchy.
 ---
-**Commons-based peer production** is Yochai Benkler's term for a mode of production organised around neither market prices nor managerial hierarchy: large numbers of people, often volunteers, coordinate on a shared project by each contributing small, modular pieces of work.
+**Commons-based peer production** is Yochai Benkler's term for a mode of production organized around neither market prices nor managerial hierarchy: large numbers of people, often volunteers, coordinate on a shared project by each contributing small, modular pieces of work.
 
 Benkler names three structural conditions. **Modularity** means the whole divides into components that can be produced independently of one another. **Granularity** means those components are fine enough that a contributor can finish one cheaply — an evening's work, and no great loss if it is wasted. **Low-cost integration** lets the finished pieces be checked and merged cheaply, so a barely-adequate contribution is still worth accepting rather than screening out. A [[Wiki]] is the clearest instance of all three at once — anyone can fix one sentence without ever seeing the rest of the page.
 

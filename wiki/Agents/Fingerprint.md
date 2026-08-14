@@ -6,9 +6,9 @@ tags:
   - agents
 summary: A hash over everything that determined a result, used to detect when the result has gone stale.
 ---
-A **fingerprint** is a hash computed over all the inputs that produced an artifact, stored alongside it, and compared later to decide whether the artifact is still valid. It is the general mechanism behind build caches, memoisation, and stale-recording detection.
+A **fingerprint** is a hash computed over all the inputs that produced an artifact, stored alongside it, and compared later to decide whether the artifact is still valid. It is the general mechanism behind build caches, memoization, and stale-recording detection.
 
-Its value is that it makes staleness *mechanical* rather than a review step. If the fingerprint covers the prompt, the model identity, and every tool definition, then any drift in any of them turns into a failing check rather than a subtle behavioural difference nobody notices.
+Its value is that it makes staleness *mechanical* rather than a review step. If the fingerprint covers the prompt, the model identity, and every tool definition, then any drift in any of them turns into a failing check rather than a subtle behavioral difference nobody notices.
 
 The cost is that the coverage is deliberately broad, so unrelated changes invalidate everything. A change that only rewords one tool's description stales every recording in the system, because the model saw that description in every request.
 

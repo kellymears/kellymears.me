@@ -6,7 +6,7 @@ tags:
   - play
 summary: A game operated as a running service rather than shipped as a finished artifact, with the consequences that shift implies.
 ---
-**Live service game** describes a title operated continuously after release — patched, extended, seasonally reset, and eventually shut down — rather than shipped once and finished. *Counter-Strike*, *Destiny 2* and *Fortnite* are the usual examples. The category is often framed as a monetisation strategy, but the more durable description is architectural: the game has stopped being an artifact and become a deployment.
+**Live service game** describes a title operated continuously after release — patched, extended, seasonally reset, and eventually shut down — rather than shipped once and finished. *Counter-Strike*, *Destiny 2* and *Fortnite* are the usual examples. The category is often framed as a monetization strategy, but the more durable description is architectural: the game has stopped being an artifact and become a deployment.
 
 Every consequence follows from that. Balance changes are [[Continuous Deployment]] against an audience that has already built habits on the old numbers, so a patch note is a migration guide. New content arrives behind staged rollouts and [[Feature Flag]] gates. Client and server drift apart and must be version-locked, making [[Semantic Versioning]] a runtime concern rather than a packaging one. Player data written years ago under an older schema still has to load, which is [[Schema Drift]] with no option to discard the rows. The studio's practices converge on those of any operations team, including the part where the [[Technical Debt]] of a live system cannot be paid down during a quiet period, because there is no quiet period.
 

@@ -4,7 +4,7 @@ aliases:
   - Unstyled primitives
 tags:
   - design
-summary: A component supplying behaviour and accessibility with no styling of its own.
+summary: A component supplying behavior and accessibility with no styling of its own.
 ---
 A **headless component** provides the hard parts of an interactive control — keyboard handling, focus management, ARIA wiring, positioning, scroll locking — and no appearance whatsoever. The consumer supplies every pixel.
 

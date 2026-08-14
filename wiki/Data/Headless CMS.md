@@ -12,7 +12,7 @@ The gain is that content becomes structured data rather than markup: reusable ac
 
 The interesting design tension is **how much presentation belongs in the content model**. Purists say none; in practice authors want control over arrangement, so most systems end up with a block or component model where content carries some structural intent. That is a defensible middle ground and it demands discipline: presentation values need defaults in exactly one place, and a partial update that omits them will otherwise silently reset an author's choices.
 
-Two recurring implementation notes. Content that lives outside the page model — site-wide navigation, header and footer settings — is genuinely different and rarely fits the same editing affordances. And a validation rule attached to a group of fields may render as an unlabelled error count in the editing interface, so cross-field rules belong on a leaf field that can display a message.
+Two recurring implementation notes. Content that lives outside the page model — site-wide navigation, header and footer settings — is genuinely different and rarely fits the same editing affordances. And a validation rule attached to a group of fields may render as an unlabeled error count in the editing interface, so cross-field rules belong on a leaf field that can display a message.
 
 ## See also
 - [[Draft and Published]]

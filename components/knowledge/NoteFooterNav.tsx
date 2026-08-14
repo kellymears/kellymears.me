@@ -9,7 +9,7 @@ interface NoteFooterNavProps {
   topicName: string
 }
 
-/** Alphabetical neighbours inside the same topic, plus the way back up. */
+/** Alphabetical neighbors inside the same topic, plus the way back up. */
 const NoteFooterNav = ({ prev, next, topicSlug, topicName }: NoteFooterNavProps) => (
   <footer
     aria-label="Note navigation"

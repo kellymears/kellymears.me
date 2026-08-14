@@ -3,9 +3,9 @@ aliases:
   - Graceful degradation
 tags:
   - web
-summary: Building so the core experience works without scripts, with richer behaviour layered on top.
+summary: Building so the core experience works without scripts, with richer behavior layered on top.
 ---
-**Progressive enhancement** is the practice of delivering a functional baseline in HTML and CSS, then layering scripted behaviour on top for environments that support it. The order matters: the baseline is the product, and enhancement is optional.
+**Progressive enhancement** is the practice of delivering a functional baseline in HTML and CSS, then layering scripted behavior on top for environments that support it. The order matters: the baseline is the product, and enhancement is optional.
 
 It is not primarily about people who disable JavaScript. It is about the far more common cases where scripts have not arrived yet, failed to load, threw an error, or are blocked — and about crawlers, link previewers, and assistive technology, none of which are guaranteed to execute anything.
 

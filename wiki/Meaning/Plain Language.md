@@ -6,7 +6,7 @@ tags:
   - meaning
 summary: Writing so that the intended reader can find, understand, and use the information the first time.
 ---
-**Plain language** is writing designed so that the intended audience can find what they need, understand it, and act on it on a first reading. It has a formal definition — ISO 24495-1 — organised around four principles: the reader gets what they need, can easily find it, can easily understand it, and can use it.
+**Plain language** is writing designed so that the intended audience can find what they need, understand it, and act on it on a first reading. It has a formal definition — ISO 24495-1 — organized around four principles: the reader gets what they need, can easily find it, can easily understand it, and can use it.
 
 It is not simplification and it is not condescension. Technical precision is entirely compatible with it; what plain language removes is the friction that has no informational content — sentences that restate their own structure, hedges that hedge nothing, and abstraction where a concrete noun was available.
 

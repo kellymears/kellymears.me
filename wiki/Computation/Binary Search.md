@@ -14,7 +14,7 @@ Boundaries are where implementations break. Whether the upper index is inclusive
 
 **Lower bound** returns the first position not less than the target, **upper bound** the first strictly greater; together they give first and last occurrence, duplicate count, and insertion point — better derived from one careful lower bound than written as separate loops.
 
-The halving generalises to any predicate that is false then true, which is why bisecting a history in [[Version Control]] finds the commit that introduced a [[Regression]].
+The halving generalizes to any predicate that is false then true, which is why bisecting a history in [[Version Control]] finds the commit that introduced a [[Regression]].
 
 ## See also
 - [[Big-O Notation]]

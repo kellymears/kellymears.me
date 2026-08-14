@@ -4,9 +4,9 @@ aliases:
   - Flags
 tags:
   - data
-summary: A runtime switch that decouples shipping code from enabling behaviour.
+summary: A runtime switch that decouples shipping code from enabling behavior.
 ---
-A **feature flag** is a runtime condition that turns behaviour on or off without deploying. Flags are what make [[Trunk-Based Development]] and [[Continuous Deployment]] practical: unfinished work can be merged and deployed while remaining inert.
+A **feature flag** is a runtime condition that turns behavior on or off without deploying. Flags are what make [[Trunk-Based Development]] and [[Continuous Deployment]] practical: unfinished work can be merged and deployed while remaining inert.
 
 Their uses divide into *release* flags (temporary, removed once a feature is fully out), *operational* flags (permanent kill switches), *permission* flags (entitlements), and *experiment* flags (A/B allocation). Conflating them is how flag systems become unmanageable, since only the first kind should ever be deleted and only the last needs analytics.
 

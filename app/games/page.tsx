@@ -120,8 +120,8 @@ export default function GamesPage() {
         <p className="text-sm leading-relaxed text-gray-500 dark:text-gray-400">
           {stats.owned.toLocaleString()} games owned, {stats.unplayed.toLocaleString()} never
           launched, spanning releases from {firstYear} to {lastYear}. The median played game got{' '}
-          {stats.medianHours} hours — the deepest got {stats.deepestHours.toLocaleString()}. Engines,
-          tools, demos, and soundtracks are excluded, as is anything under thirty minutes.
+          {stats.medianHours} hours — the deepest got {stats.deepestHours.toLocaleString()}.
+          Engines, tools, demos, and soundtracks are excluded, as is anything under thirty minutes.
         </p>
       </section>
     </div>

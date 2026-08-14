@@ -21,9 +21,18 @@ export function CliProjectCard({ project, stars, index = 0 }: CliProjectCardProp
       <div className="flex items-center justify-between border-b border-gray-200 bg-gray-100 px-4 py-2.5 dark:border-gray-800 dark:bg-gray-900">
         <div className="flex items-center gap-3">
           <div className="flex items-center gap-1.5" aria-hidden="true">
-            <span className="inline-block h-3 w-3 rounded-full" style={{ backgroundColor: '#ff5f56' }} />
-            <span className="inline-block h-3 w-3 rounded-full" style={{ backgroundColor: '#ffbd2e' }} />
-            <span className="inline-block h-3 w-3 rounded-full" style={{ backgroundColor: '#27c93f' }} />
+            <span
+              className="inline-block h-3 w-3 rounded-full"
+              style={{ backgroundColor: '#ff5f56' }}
+            />
+            <span
+              className="inline-block h-3 w-3 rounded-full"
+              style={{ backgroundColor: '#ffbd2e' }}
+            />
+            <span
+              className="inline-block h-3 w-3 rounded-full"
+              style={{ backgroundColor: '#27c93f' }}
+            />
           </div>
           <span className="font-mono text-sm font-medium text-gray-700 dark:text-gray-300">
             {project.command}
@@ -64,7 +73,9 @@ export function CliProjectCard({ project, stars, index = 0 }: CliProjectCardProp
         <div className="flex items-center justify-between">
           <div className="flex flex-wrap items-center gap-3 text-xs text-gray-500 dark:text-gray-400">
             {project.tech.map((t) => (
-              <span key={t} className="font-mono">{t}</span>
+              <span key={t} className="font-mono">
+                {t}
+              </span>
             ))}
           </div>
           <Link
@@ -72,7 +83,10 @@ export function CliProjectCard({ project, stars, index = 0 }: CliProjectCardProp
             className="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300 inline-flex items-center gap-1 text-sm font-medium transition-colors"
           >
             View
-            <span aria-hidden="true" className="inline-block transition-transform group-hover:translate-x-0.5">
+            <span
+              aria-hidden="true"
+              className="inline-block transition-transform group-hover:translate-x-0.5"
+            >
               &rarr;
             </span>
           </Link>

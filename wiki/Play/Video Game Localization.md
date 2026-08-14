@@ -7,7 +7,7 @@ tags:
   - play
 summary: Translating a game plus adapting it for a new market, and the drift that adaptation introduces.
 ---
-**Video game localization** is translation of a game's text and audio combined with cultural adaptation of what surrounds it — names, humour, iconography, age ratings — for a market the game wasn't originally written for.
+**Video game localization** is translation of a game's text and audio combined with cultural adaptation of what surrounds it — names, humor, iconography, age ratings — for a market the game wasn't originally written for.
 
 Two problems recur across languages. **Honorific and title handling** loses precision fastest: Japanese address terms encode relationship and status with no equivalent slot in English, so a localization invents a substitute or drops the distinction, and languages with obligatory [[Grammatical Gender]] force choices the source text never had to make. **Compound terms** — a game's own coined vocabulary for a mechanic or item class — routinely translate as one lossy English word, a compound the source coined as a single idea rendered as an approximation.
 

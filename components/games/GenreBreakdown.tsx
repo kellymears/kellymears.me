@@ -18,7 +18,11 @@ export function GenreBreakdown({ genres, limit = 10 }: GenreBreakdownProps) {
   return (
     <ul className="grid gap-x-10 gap-y-5 sm:grid-cols-2">
       {shown.map((slice, i) => (
-        <li key={slice.genre} className="animate-fade-slide-up" style={{ animationDelay: `${i * 60}ms` }}>
+        <li
+          key={slice.genre}
+          className="animate-fade-slide-up"
+          style={{ animationDelay: `${i * 60}ms` }}
+        >
           <div className="flex items-baseline justify-between gap-3">
             <span className="text-sm font-medium text-gray-900 dark:text-gray-100">
               {slice.genre}

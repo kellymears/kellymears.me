@@ -12,7 +12,7 @@ They encode an assumption that is often false: that viewport width equals availa
 
 Three practical notes recur.
 
-**Verify at the widths people actually use.** A default automation viewport is much narrower than a real monitor, and layouts that overflow at wide sizes look perfectly centred at that default. Explicitly setting a wide viewport before a visual check catches a whole class of bug that otherwise reaches the user first.
+**Verify at the widths people actually use.** A default automation viewport is much narrower than a real monitor, and layouts that overflow at wide sizes look perfectly centered at that default. Explicitly setting a wide viewport before a visual check catches a whole class of bug that otherwise reaches the user first.
 
 **Test runners have their own default width**, and it is rarely the round number you would guess. An element hidden between two breakpoints will be absent from the default canvas, and a query for it fails in a way that looks like a component bug.
 

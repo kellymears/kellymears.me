@@ -12,7 +12,7 @@ The folk instruction to "let it breathe" is a good example of a rationale that s
 
 Practical technique. **Irrigate** with clean water or saline at adequate volume to remove debris; antiseptics in the wound bed are cytotoxic to the same cells being asked to migrate. **Choose a dressing** by exudate: transparent films for dry or lightly weeping wounds, hydrocolloids and foams for moderate exudate, alginates for heavy. **Do not mistake the gel** that forms under a hydrocolloid for pus.
 
-**Traumatic tattooing** is the permanent pigmentation left when grit, asphalt or carbon is not removed from an abrasion before it epithelializes. Once the surface closes over the particulate, the marking is effectively permanent, so thorough early scrubbing matters — a procedure painful enough that local anaesthesia or a [[Regional Nerve Block]] is often warranted given the [[Nociception]] involved. Healing capacity ultimately follows perfusion, as [[Watershed Blood Supply]] describes.
+**Traumatic tattooing** is the permanent pigmentation left when grit, asphalt or carbon is not removed from an abrasion before it epithelializes. Once the surface closes over the particulate, the marking is effectively permanent, so thorough early scrubbing matters — a procedure painful enough that local anesthesia or a [[Regional Nerve Block]] is often warranted given the [[Nociception]] involved. Healing capacity ultimately follows perfusion, as [[Watershed Blood Supply]] describes.
 
 ## See also
 - [[Nociception]]

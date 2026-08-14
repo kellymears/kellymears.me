@@ -6,7 +6,7 @@ tags:
   - graphics
 summary: Pseudorandom generation from an explicit seed, so any output is reproducible.
 ---
-**Seeded randomness** means using a pseudorandom generator initialised from an explicit value, so the same seed always produces the same sequence. Everything described as "random" in software is this; the only question is whether the seed is recorded.
+**Seeded randomness** means using a pseudorandom generator initialized from an explicit value, so the same seed always produces the same sequence. Everything described as "random" in software is this; the only question is whether the seed is recorded.
 
 Recording it is what makes randomness compatible with engineering. A generated world, a shuffled deck, or a procedural layout becomes reproducible, so a bug in it can be reported, tested, and fixed. Without a seed, a defect in generated content is a story rather than a case. See [[Determinism]] and [[Reproducible Case]].
 

@@ -9,9 +9,9 @@ The **context window** is the maximum number of [[Token]]s a [[Large Language Mo
 
 Its boundedness is the central constraint of applied language-model work. As windows have grown from a few thousand tokens to a million, the constraint has changed character rather than disappeared: the question is now less "will it fit" and more "does including this help". Filling a window with marginally relevant material measurably degrades attention to the material that mattered.
 
-This makes *context engineering* the real discipline: choosing what to load, when, and in what form. The recurring techniques are to summarise rather than paste, to store artifacts outside the window and pass **handles** to them, to retrieve on demand rather than pre-loading, and to prune instructions describing capabilities that no longer exist.
+This makes *context engineering* the real discipline: choosing what to load, when, and in what form. The recurring techniques are to summarize rather than paste, to store artifacts outside the window and pass **handles** to them, to retrieve on demand rather than pre-loading, and to prune instructions describing capabilities that no longer exist.
 
-Long-running work eventually exceeds any window. The usual answers are summarising older turns into a compact form, delegating self-contained work to a [[Subagent]] with its own window, and persisting durable facts to [[Agent Memory]].
+Long-running work eventually exceeds any window. The usual answers are summarizing older turns into a compact form, delegating self-contained work to a [[Subagent]] with its own window, and persisting durable facts to [[Agent Memory]].
 
 ## See also
 - [[Token Budget]]

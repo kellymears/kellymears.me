@@ -7,7 +7,7 @@ summary: The tool that resolves an application's modules into the files a browse
 ---
 A **bundler** takes an application's entry points, follows every import to build a [[Module Graph]], applies transforms, and emits the files a browser will actually load. It is where module resolution, transpilation, [[Tree Shaking]], [[Code Splitting]], asset handling, and minification all happen.
 
-Bundlers are worth understanding because their behaviour is *observable in production but invisible in source*. Two bundlers given the same source can differ in ways that matter:
+Bundlers are worth understanding because their behavior is *observable in production but invisible in source*. Two bundlers given the same source can differ in ways that matter:
 
 - **Import ordering.** One may sort a module namespace's keys alphabetically; another preserves source order. Anything downstream that depends on order — a registry, a hash over a list — then differs by build tool rather than by code.
 - **Loader support.** A syntax for importing a file as raw text may exist in one and not another, so a working import becomes an unknown-module error when the build tool changes.

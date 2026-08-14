@@ -30,7 +30,7 @@ export function InstallCommand({ commands }: InstallCommandProps) {
       </div>
       <button
         onClick={handleCopy}
-        className="absolute top-3 right-3 rounded-md p-1.5 text-gray-500 opacity-0 transition-all hover:bg-gray-800 hover:text-gray-300 group-hover/install:opacity-100"
+        className="absolute top-3 right-3 rounded-md p-1.5 text-gray-500 opacity-0 transition-all group-hover/install:opacity-100 hover:bg-gray-800 hover:text-gray-300"
         aria-label="Copy install command"
       >
         {copied ? (

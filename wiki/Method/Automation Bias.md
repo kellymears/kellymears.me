@@ -14,7 +14,7 @@ Reliability sets the trap. A system right ninety-nine times in a hundred teaches
 
 **Deskilling** is the slower cost. Sustained reliance erodes the capability underneath — manual flight, mental arithmetic, navigating from a map — and the fallback the automation assumes quietly stops existing, which is why aviation training mandates periods of hand-flying and why practitioners in several fields deliberately work unaided at intervals. The same decay turns a [[Human in the Loop]] approval into a rubber stamp, worse than no gate because it records a review that did not happen.
 
-Countermeasures concern ordering and visibility: give the basis and the confidence, not the verdict alone; record the reviewer's own judgement before showing the recommendation so it cannot anchor them ([[Anchoring Effect]]); publish known failure modes; and never measure agreement rate, which is [[Goodhart's Law]] aimed at the last safeguard.
+Countermeasures concern ordering and visibility: give the basis and the confidence, not the verdict alone; record the reviewer's own judgment before showing the recommendation so it cannot anchor them ([[Anchoring Effect]]); publish known failure modes; and never measure agreement rate, which is [[Goodhart's Law]] aimed at the last safeguard.
 
 ## See also
 - [[Human in the Loop]]

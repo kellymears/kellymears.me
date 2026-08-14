@@ -91,21 +91,21 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
 
   useEffect(() => {
     if (!containerRef.current) return
-    let cancelled = false
+    let canceled = false
 
     async function init() {
       const [{ Map, Marker }, routeRes] = await Promise.all([
         import('maplibre-gl'),
         fetch(`/static/data/rides/${slug}.json`),
       ])
-      if (cancelled) return
+      if (canceled) return
 
       if (!routeRes.ok) {
         setMissing(true)
         return
       }
       const route = (await routeRes.json()) as RideRouteFile
-      if (cancelled) return
+      if (canceled) return
       if (!route.coordinates || route.coordinates.length < 2) {
         setMissing(true)
         return
@@ -239,7 +239,7 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
       }
 
       map.on('load', () => {
-        if (cancelled) return
+        if (canceled) return
         // Apply pitch after the bounds fit, otherwise fitBounds resets it to 0.
         map.easeTo({ pitch: IDLE_PITCH, duration: 600 })
         addRouteLayers(map)
@@ -290,7 +290,7 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
     init()
 
     return () => {
-      cancelled = true
+      canceled = true
       const map = mapRef.current
       if (map) {
         const obs = (map as unknown as { __themeObserver?: MutationObserver }).__themeObserver
@@ -330,7 +330,7 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
     let progress = 0
     let lastTs = 0
     let raf = 0
-    let cancelled = false
+    let canceled = false
     let smoothedBearing: number | null = null
     const initialCam = cameraForSpeed(speedRef.current)
     let smoothedPitch = initialCam.pitch
@@ -414,7 +414,7 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
     }
 
     function tick(ts: number) {
-      if (cancelled) return
+      if (canceled) return
       if (lastTs === 0) lastTs = ts
       const dt = ts - lastTs
       lastTs = ts
@@ -427,7 +427,7 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
       if (progress >= 1) {
         setTrail(coords!)
         setDot(coords![coords!.length - 1]!)
-        cancelled = true
+        canceled = true
         // Auto-stop on completion.
         setIsPlaying(false)
         return
@@ -443,7 +443,7 @@ export function RideMap({ slug, className, distanceMeters }: RideMapProps) {
 
     raf = requestAnimationFrame(tick)
     return () => {
-      cancelled = true
+      canceled = true
       cancelAnimationFrame(raf)
     }
     // speed intentionally excluded — read live via speedRef so mid-playback

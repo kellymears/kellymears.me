@@ -7,9 +7,9 @@ tags:
   - testing
 summary: Comparing rendered output against a stored baseline to catch unintended visual change.
 ---
-**Visual regression testing** captures a rendering — usually a screenshot, sometimes a serialised tree — and compares it against a stored baseline, failing on difference. It catches the large class of visual defects that no assertion describes, and it is the only practical way to verify a refactor that is supposed to change nothing visible.
+**Visual regression testing** captures a rendering — usually a screenshot, sometimes a serialized tree — and compares it against a stored baseline, failing on difference. It catches the large class of visual defects that no assertion describes, and it is the only practical way to verify a refactor that is supposed to change nothing visible.
 
-Snapshot testing of serialised output is the same idea in text form, and shares the same weakness: a snapshot records what the code *did*, not what it *should do*, so a wrong output is happily enshrined by an unthinking update. Reviewing the diff rather than blessing it is the entire discipline.
+Snapshot testing of serialized output is the same idea in text form, and shares the same weakness: a snapshot records what the code *did*, not what it *should do*, so a wrong output is happily enshrined by an unthinking update. Reviewing the diff rather than blessing it is the entire discipline.
 
 For pixel comparison the practical problems are all about determinism. Fonts must be loaded, animation disabled, device pixel ratio fixed, and remote images avoided — any of which will otherwise produce differences unrelated to the change. A useful sanity check is to capture the same code twice and confirm the difference is zero; if it is not, the harness is not measuring the code.
 

@@ -8,7 +8,7 @@ summary: Choosing which model handles which step, trading capability against cos
 ---
 **Model routing** is the practice of directing different steps of a workflow to different models. Providers offer tiers spanning roughly an order of magnitude in price and latency, so a system that sends every step to the largest model is usually overpaying, and one that sends every step to the smallest is usually unreliable.
 
-Routing is an architectural decision because *capability differences are not uniform*. Cheaper models are often perfectly good at bounded, well-specified work and specifically bad at things that need judgement across a wide space. Two failure modes recur:
+Routing is an architectural decision because *capability differences are not uniform*. Cheaper models are often perfectly good at bounded, well-specified work and specifically bad at things that need judgment across a wide space. Two failure modes recur:
 
 **Cheap models under-produce what they are merely permitted to produce.** Given an output shape where a component is optional, a smaller model will systematically omit it, and no amount of instruction fixes this. Making the component *required* in the schema fixes it immediately, because the grammar enforces requirements and nothing else. See [[Constrained Decoding]].
 

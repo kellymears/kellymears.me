@@ -6,7 +6,7 @@ tags:
   - agents
 summary: Capturing a real interaction once and replaying it deterministically in later test runs.
 ---
-**Record and replay testing** captures the real exchange with an external service — the request and its response — into a fixture, then serves that fixture on subsequent runs. The pattern is old, and its usual name in the HTTP world is the *cassette*, after the library that popularised it. It is what makes a suite that depends on a paid, slow, non-deterministic service fast, free, and repeatable.
+**Record and replay testing** captures the real exchange with an external service — the request and its response — into a fixture, then serves that fixture on subsequent runs. The pattern is old, and its usual name in the HTTP world is the *cassette*, after the library that popularized it. It is what makes a suite that depends on a paid, slow, non-deterministic service fast, free, and repeatable.
 
 Applied to [[Large Language Model]] systems it has particular properties.
 

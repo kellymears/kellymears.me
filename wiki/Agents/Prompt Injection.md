@@ -9,7 +9,7 @@ summary: Untrusted content that reaches a model's context and is treated as inst
 
 It is structurally hard because models have no reliable boundary between instructions and data. Everything in the window is text. Filtering helps at the margins and cannot be relied on.
 
-The defences that hold are architectural rather than linguistic:
+The defenses that hold are architectural rather than linguistic:
 
 **Least privilege.** Scope what the agent can do so that a successful injection has a small ceiling. An agent that only needs to post a comment should not hold a credential that can write to the repository. See [[Least Privilege]].
 

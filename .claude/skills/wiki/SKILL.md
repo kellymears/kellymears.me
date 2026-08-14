@@ -26,7 +26,7 @@ Scripts live in `.claude/skills/wiki/scripts/`. They find the vault by walking u
 This is the constraint everything else serves. Before writing a sentence, check it against all four:
 
 1. **No proper nouns from your working life.** No employer, product, repository, colleague, branch, issue number, or internal tool name. Public technologies, standards bodies, named authors of published ideas, and open-source projects are fine.
-2. **The note is about the concept, not the incident.** A week spent on one library's portal behaviour becomes a note about portals. If a note only makes sense to someone who was there, it does not belong.
+2. **The note is about the concept, not the incident.** A week spent on one library's portal behavior becomes a note about portals. If a note only makes sense to someone who was there, it does not belong.
 3. **A stranger can use it.** Someone with general software knowledge and zero context should finish the note better informed.
 4. **Concrete without being specific.** Detail is what makes a note worth reading — keep the mechanism, drop the identifiers. "A test filter matching zero tests exits successfully" survives; "our `-t` filter on the storybook project" does not.
 
@@ -108,7 +108,7 @@ python3 .claude/skills/wiki/scripts/enrich.py
 python3 .claude/skills/wiki/scripts/audit.py
 ```
 
-`enrich.py` only adds links that are already justified — reciprocating a one-way link, or connecting notes that share three or more neighbours. It never invents a relationship. Hand-written links in prose are always better; this is a floor, not a substitute.
+`enrich.py` only adds links that are already justified — reciprocating a one-way link, or connecting notes that share three or more neighbors. It never invents a relationship. Hand-written links in prose are always better; this is a floor, not a substitute.
 
 `audit.py` must exit clean. It enforces: no broken links, no orphans, no self-links, frontmatter present, no blank line after frontmatter, and **every concept note listed on `Home`**.
 
@@ -128,9 +128,9 @@ The watermark is what the next run treats as already-read. **Stamping before the
 
 Tell the user what changed: notes added, notes updated and how, and anything deliberately skipped for failing the scope rule. Leave the changes uncommitted unless asked.
 
-## Judgement calls
+## Judgment calls
 
-**A recurring hazard is a concept.** The same trap hit three times across different projects is exactly what belongs here — that is the signal that it generalises.
+**A recurring hazard is a concept.** The same trap hit three times across different projects is exactly what belongs here — that is the signal that it generalizes.
 
 **A vendor-specific quirk usually is not** — unless it illustrates a general mechanism. "This provider strips length bounds out of the grammar and appends them to the description" is worth writing because the underlying point (not every part of a schema is enforced the same way) is durable.
 

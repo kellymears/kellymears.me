@@ -45,7 +45,7 @@ Visual systems, motion, and access.
 
 ## Testing & Verification
 
-Establishing that something works, and recognising when you have established nothing.
+Establishing that something works, and recognizing when you have established nothing.
 
 [[Assertion]] · [[Branch Coverage]] · [[Code Coverage]] · [[Component Story]] · [[Coverage Gate]] · [[Flaky Test]] · [[Headless Browser]] · [[Heisenbug]] · [[Instrumentation]] · [[Integration Test]] · [[Race Condition]] · [[Resource Starvation]] · [[Test Double]] · [[Test Fixture]] · [[Test-Driven Development]] · [[Unit Test]] · [[Unreachable Code]] · [[Visual Regression Testing]]
 
@@ -63,7 +63,7 @@ The machine underneath.
 
 ## Data & Content
 
-Modelling, storing, and publishing information.
+Modeling, storing, and publishing information.
 
 [[Relational Database]] · [[Database Migration]] · [[Schema Drift]] · [[Draft and Published]] · [[Seed Data]] · [[Multi-Tenancy]] · [[Feature Flag]] · [[Headless CMS]] · [[Markdown]] · [[Frontmatter]] · [[Structured Data]] · [[RSS]] · [[Search Engine Optimization]] · [[Information Architecture]]
 
@@ -81,7 +81,7 @@ Games as designed experience, and the culture around them.
 
 ## Networks & Distribution
 
-Coordination without a centre.
+Coordination without a center.
 
 [[Caller ID Authentication]] · [[Conflict-Free Replicated Data Type]] · [[eSIM]] · [[Eventual Consistency]] · [[Peer-to-Peer]] · [[Signaling Server]] · [[Streaming Response]] · [[Virtual Private Network]] · [[WebRTC]]
 

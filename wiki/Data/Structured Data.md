@@ -9,7 +9,7 @@ summary: Machine-readable markup describing what a page is about, in a shared vo
 ---
 **Structured data** is metadata embedded in a page describing its content in a vocabulary machines already understand — overwhelmingly Schema.org, expressed as JSON-LD in a script tag. It is what lets a search engine or an assistant know that a page describes a recipe, an event, a business, or an article, rather than inferring it from prose.
 
-The model is a graph. Entities have types and properties, and — importantly — identifiers, so that separate fragments can refer to the same entity. A page can emit a small object referencing an organisation by identifier, and that reference resolves against a fuller description published elsewhere on the site, or dangles harmlessly if it does not.
+The model is a graph. Entities have types and properties, and — importantly — identifiers, so that separate fragments can refer to the same entity. A page can emit a small object referencing an organization by identifier, and that reference resolves against a fuller description published elsewhere on the site, or dangles harmlessly if it does not.
 
 Two practical cautions.
 

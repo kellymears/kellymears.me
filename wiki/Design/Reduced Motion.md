@@ -3,11 +3,11 @@ aliases:
   - prefers-reduced-motion
 tags:
   - design
-summary: An operating-system preference signalling that animation should be minimised, for real medical reasons.
+summary: An operating-system preference signaling that animation should be minimized, for real medical reasons.
 ---
-**Reduced motion** is a user preference, exposed to the web as the `prefers-reduced-motion` media query, indicating that the person wants animation minimised. It exists because motion can trigger nausea, dizziness, and migraine in people with vestibular disorders — it is an accessibility requirement, not a taste setting.
+**Reduced motion** is a user preference, exposed to the web as the `prefers-reduced-motion` media query, indicating that the person wants animation minimized. It exists because motion can trigger nausea, dizziness, and migraine in people with vestibular disorders — it is an accessibility requirement, not a taste setting.
 
-Honouring it means degrading to a **static end state**, not to a faster animation. Content must still arrive; it simply arrives without the movement. An entrance that begins at zero opacity and is revealed by a suppressed animation leaves the content invisible — the failure mode that makes reduced-motion support worse than none.
+Honoring it means degrading to a **static end state**, not to a faster animation. Content must still arrive; it simply arrives without the movement. An entrance that begins at zero opacity and is revealed by a suppressed animation leaves the content invisible — the failure mode that makes reduced-motion support worse than none.
 
 Two implementation notes.
 

@@ -32,19 +32,19 @@ export function Atlas({ group = 'cycling' }: { group?: ActivityGroup }) {
   const [singlePlayId, setSinglePlayId] = useState<string | null>(null)
 
   useEffect(() => {
-    let cancelled = false
+    let canceled = false
     Promise.all([
       fetch('/static/data/activities-routes.json').then((r) => r.json()),
       fetch('/static/data/activities-metrics.json').then((r) => r.json()),
     ])
       .then(([r, m]) => {
-        if (cancelled) return
+        if (canceled) return
         setRoutesFile(r)
         setMetrics(m)
       })
-      .catch((e) => !cancelled && setError(String(e)))
+      .catch((e) => !canceled && setError(String(e)))
     return () => {
-      cancelled = true
+      canceled = true
     }
   }, [])
 

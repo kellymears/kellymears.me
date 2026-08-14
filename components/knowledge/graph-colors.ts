@@ -24,7 +24,11 @@ export interface TopicColor {
 
 export const TOPIC_COLORS: Record<string, TopicColor> = {
   method: { light: 'oklch(0.62 0.13 45)', dark: 'oklch(0.78 0.12 45)', label: 'Method' },
-  computation: { light: 'oklch(0.62 0.12 68.4)', dark: 'oklch(0.79 0.11 68.4)', label: 'Computation' },
+  computation: {
+    light: 'oklch(0.62 0.12 68.4)',
+    dark: 'oklch(0.79 0.11 68.4)',
+    label: 'Computation',
+  },
   agents: { light: 'oklch(0.61 0.11 91.7)', dark: 'oklch(0.79 0.11 91.7)', label: 'Agents' },
   web: { light: 'oklch(0.60 0.10 115.1)', dark: 'oklch(0.78 0.10 115.1)', label: 'Web' },
   design: { light: 'oklch(0.58 0.10 138.4)', dark: 'oklch(0.76 0.10 138.4)', label: 'Design' },
@@ -38,7 +42,6 @@ export const TOPIC_COLORS: Record<string, TopicColor> = {
   matter: { light: 'oklch(0.58 0.12 325.3)', dark: 'oklch(0.75 0.12 325.3)', label: 'Matter' },
   body: { light: 'oklch(0.59 0.12 348.6)', dark: 'oklch(0.75 0.12 348.6)', label: 'Body' },
   meaning: { light: 'oklch(0.60 0.13 12)', dark: 'oklch(0.76 0.12 12)', label: 'Meaning' },
-
 }
 
 /** Neutral used for a topic the palette does not know about. */
@@ -64,7 +67,7 @@ export function topicLabel(topic: string): string {
 
 /**
  * Custom property holding a topic's fill. Declared on the graph root in both
- * themes so the SVG can be coloured by CSS alone — no JS theme detection, no
+ * themes so the SVG can be colored by CSS alone — no JS theme detection, no
  * light-palette flash before hydration.
  */
 export function topicCssVar(topic: string): string {

@@ -3,11 +3,11 @@ aliases:
   - Design variables
 tags:
   - design
-summary: Named design decisions — colour, spacing, radius, type — stored as data so they can be shared and re-themed.
+summary: Named design decisions — color, spacing, radius, type — stored as data so they can be shared and re-themed.
 ---
-A **design token** is a named design decision stored as data rather than repeated as a literal: a colour role, a spacing step, a radius, a font family, a shadow. Tokens are the interface between design intent and implementation, and the substrate that makes theming possible.
+A **design token** is a named design decision stored as data rather than repeated as a literal: a color role, a spacing step, a radius, a font family, a shadow. Tokens are the interface between design intent and implementation, and the substrate that makes theming possible.
 
-The distinction that gives them their power is between *primitive* tokens (a specific colour value) and *semantic* tokens (the role that colour plays — surface, accent, danger). Components should consume roles. A component referring to a raw value has hard-coded a decision that the system exists to keep changeable.
+The distinction that gives them their power is between *primitive* tokens (a specific color value) and *semantic* tokens (the role that color plays — surface, accent, danger). Components should consume roles. A component referring to a raw value has hard-coded a decision that the system exists to keep changeable.
 
 Two governance problems recur once tokens are shared across teams.
 

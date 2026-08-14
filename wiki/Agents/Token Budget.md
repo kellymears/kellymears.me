@@ -9,7 +9,7 @@ A **token budget** is a cap on how much model usage a piece of work may consume,
 
 Parallelism is the main multiplier. Running several model workers concurrently multiplies spend by their number, and a wide fan-out repeated twice can exhaust a monthly allowance mid-task, killing work in flight. Narrow, staggered batches cost the same in total and fail more gracefully. See [[Fan-Out and Fan-In]].
 
-The second multiplier is context. Every turn resends the accumulated conversation, so a long session's cost grows superlinearly. Storing artifacts outside the window and passing handles, summarising rather than pasting, and delegating self-contained work to a [[Subagent]] are all budget techniques as much as clarity techniques.
+The second multiplier is context. Every turn resends the accumulated conversation, so a long session's cost grows superlinearly. Storing artifacts outside the window and passing handles, summarizing rather than pasting, and delegating self-contained work to a [[Subagent]] are all budget techniques as much as clarity techniques.
 
 Budgeting also shapes what is worth automating. A recording run that costs a few dollars is worth doing without ceremony; one that costs orders of magnitude more deserves a decision first. And an expensive regeneration launched against a working copy someone else is mid-edit produces a stale result at full price — check before spending. See [[Model Routing]].
 

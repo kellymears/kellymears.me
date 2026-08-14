@@ -12,7 +12,7 @@ The property that makes this work is that merging is commutative, associative, a
 
 The trade is that convergence is guaranteed and *intent* is not. Two people editing the same word produce a deterministic result that neither may have wanted; the structure guarantees agreement, not satisfaction. Text CRDTs go to considerable lengths — identifiers per character, tombstones for deletions — to make the outcome feel reasonable, at the cost of metadata that grows with edit history.
 
-Mature libraries make them practical for real applications: a shared document type, awareness of who is present, and pluggable transports so the same document can synchronise over a server, over [[WebRTC]], or through a local database. That last property is the interesting one architecturally — it makes a collaborative application possible with no server that anyone has to run.
+Mature libraries make them practical for real applications: a shared document type, awareness of who is present, and pluggable transports so the same document can synchronize over a server, over [[WebRTC]], or through a local database. That last property is the interesting one architecturally — it makes a collaborative application possible with no server that anyone has to run.
 
 ## See also
 - [[Eventual Consistency]]

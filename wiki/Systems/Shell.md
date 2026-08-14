@@ -7,9 +7,9 @@ tags:
   - systems
 summary: The interactive command interpreter, and a programming language with unusually sharp edges.
 ---
-A **shell** is the program that interprets typed commands: it expands words, resolves programs, wires their inputs and outputs together, and reports their exit status. It is simultaneously the most-used interface in software work and a programming language with more surprising behaviour per line than any other in common use.
+A **shell** is the program that interprets typed commands: it expands words, resolves programs, wires their inputs and outputs together, and reports their exit status. It is simultaneously the most-used interface in software work and a programming language with more surprising behavior per line than any other in common use.
 
-The behaviours that produce the most wasted time are worth learning explicitly.
+The behaviors that produce the most wasted time are worth learning explicitly.
 
 **Expansion happens before the program runs.** A variable in a command line is substituted by the shell, so a program's own configuration file cannot influence an argument the shell already expanded — which is why a command that reads a port from the environment binds the *shell's* port and not the one in a local configuration file.
 

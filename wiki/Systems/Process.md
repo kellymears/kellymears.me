@@ -10,7 +10,7 @@ A **process** is an instance of a running program, with its own memory space, it
 
 Working with them from a script has a few sharp edges.
 
-**Names are not what you think.** The process name is the executable's name, which can differ from an application's display name — commonly by capitalisation. A pattern matching the wrong one silently matches nothing, and a command that reports "stopped" without having stopped anything is worse than an error, because the next step proceeds on a false premise.
+**Names are not what you think.** The process name is the executable's name, which can differ from an application's display name — commonly by capitalization. A pattern matching the wrong one silently matches nothing, and a command that reports "stopped" without having stopped anything is worse than an error, because the next step proceeds on a false premise.
 
 **Substring matching is dangerous.** A pattern intended for one program matches any command line containing it, including unrelated system processes whose names happen to include the substring. Matching the executable exactly is the safe form.
 

@@ -7,9 +7,9 @@ tags:
   - play
 summary: Completing a game as fast as possible under a ruleset the community defines, not the game.
 ---
-A **speedrun** is a completion of a game optimised for elapsed time under a ruleset a community has agreed on, rather than under whatever completion the developer had in mind.
+A **speedrun** is a completion of a game optimized for elapsed time under a ruleset a community has agreed on, rather than under whatever completion the developer had in mind.
 
-The ruleset is the real work. Any% (finish by any means, exploits included), 100% (every listed objective) and glitchless (no engine-breaking tricks) are not variations on a theme but separate optimisation problems — allowing or banning a single trick can restructure the entire fastest path — and drawing a category's boundary is closer to writing a constraint than following one, done before a single attempt is timed. Timing standards get the same scrutiny: real time versus in-game time — the axis most category disputes actually turn on — load-removed time where a community accepts it, and an exact start and end frame, because an ambiguous boundary invites disputes over the [[Ground Truth]] of a result.
+The ruleset is the real work. Any% (finish by any means, exploits included), 100% (every listed objective) and glitchless (no engine-breaking tricks) are not variations on a theme but separate optimization problems — allowing or banning a single trick can restructure the entire fastest path — and drawing a category's boundary is closer to writing a constraint than following one, done before a single attempt is timed. Timing standards get the same scrutiny: real time versus in-game time — the axis most category disputes actually turn on — load-removed time where a community accepts it, and an exact start and end frame, because an ambiguous boundary invites disputes over the [[Ground Truth]] of a result.
 
 Submitted runs carry video, and a leaderboard's authority rests on moderators re-checking that evidence against the category rules — a small institution held together by voluntary [[Provenance]] tracking, where a disputed run gets relitigated like any contested [[Reproducible Case]] rather than simply believed. Input logs are expected mainly on tool-assisted submissions and in the few communities that have made them a standard, not on runs generally.
 

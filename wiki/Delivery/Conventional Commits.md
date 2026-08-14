@@ -9,7 +9,7 @@ summary: A lightweight convention giving commit messages a machine-readable type
 
 The convention buys two things. Messages become scannable, since the type and scope tell you what kind of change it is before you read anything. And they become machine-readable, so changelogs and version bumps can be derived automatically — a `feat` implies a minor bump, a breaking-change marker a major one. See [[Semantic Versioning]].
 
-The scope is where most of the value lives in practice, and where it is most often wasted. A precise scope naming the module or feature area makes history navigable; a vague one repeated across every commit adds nothing. Scopes should match how the project is actually organised, and should be reused rather than reinvented per commit.
+The scope is where most of the value lives in practice, and where it is most often wasted. A precise scope naming the module or feature area makes history navigable; a vague one repeated across every commit adds nothing. Scopes should match how the project is actually organized, and should be reused rather than reinvented per commit.
 
 The convention is orthogonal to how much a commit should contain — see [[Atomic Commit]] — and it does not remove the need for a body. A one-line conventional message is fine for a genuinely self-explanatory change; anything with a motivation worth recording still needs prose.
 

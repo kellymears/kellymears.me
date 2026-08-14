@@ -14,7 +14,7 @@ Masahiro Mori proposed the effect in a 1970 essay, plotted as a curve of familia
 
 Decades of attempts to establish the curve empirically have not settled the matter, which makes [[Falsifiability]] worth invoking directly: some experiments find a dip near the predicted place, others find none, and results vary sharply by category — robots, dolls, avatars, and voices don't behave alike. Competing accounts of the mechanism coexist: one ties the unease to categorical ambiguity, a face resisting sorting into either "human" or "not," straining the process [[Prototype Theory]] describes; another ties it to mortality salience, a not-quite-alive face resembling a corpse closely enough to trigger the response [[Terror Management Theory]] describes elsewhere.
 
-The practical response designers converged on regardless is to route around the valley rather than cross it: stylise deliberately, keep proportions mismatched to human on purpose, or push all the way to photoreal instead of stalling in between. This underlies most character [[Motion Design]] for synthetic performers and much of what [[Game Feel]] treats as intentional stylisation.
+The practical response designers converged on regardless is to route around the valley rather than cross it: stylize deliberately, keep proportions mismatched to human on purpose, or push all the way to photoreal instead of stalling in between. This underlies most character [[Motion Design]] for synthetic performers and much of what [[Game Feel]] treats as intentional stylization.
 
 ## See also
 - [[Opponent Process Theory]]

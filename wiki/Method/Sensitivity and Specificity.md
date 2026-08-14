@@ -14,7 +14,7 @@ The arithmetic is unforgiving. Take 99% sensitivity and 95% specificity, applied
 
 A negative is treated even more carelessly. On an imperfect test it lowers the probability without eliminating it, so "the test was negative, therefore it isn't that" is an [[Exhaustive Claim]] the instrument cannot support. Hence the standard shape: a sensitive test to rule out, a specific one to rule in, confirmation on the positives.
 
-Most tests have a threshold, and moving it trades one error for the other; where to place it depends on the cost of a missed case against an unnecessary follow-up. Optimising a screening programme for cases detected rather than outcomes is [[Goodhart's Law]] with clinical consequences, and a false negative is the purest form of [[Silent Failure]].
+Most tests have a threshold, and moving it trades one error for the other; where to place it depends on the cost of a missed case against an unnecessary follow-up. Optimizing a screening program for cases detected rather than outcomes is [[Goodhart's Law]] with clinical consequences, and a false negative is the purest form of [[Silent Failure]].
 
 ## See also
 - [[Ground Truth]]

@@ -12,7 +12,7 @@ The clearest application is sound: a diegetic sound has a source inside the stor
 
 The boundary is not a fact about a medium, it's a choice, and where a work draws it changes what the fiction claims to contain. A game that puts its map and objective marker inside the world commits to justifying their presence there — [[Environmental Storytelling]] often does exactly this. Crossing the boundary on purpose, addressing the audience through a device characters cannot perceive, is a stronger move than a slip; a fourth-wall break works because it violates a held convention, not because breaking convention is inherently interesting.
 
-Mismanaging the line, rather than deliberately crossing it, is one recurring source of [[Ludonarrative Dissonance]]: a system that only makes sense from outside the fiction — a respawn timer, a save file — sitting uncommented against a story that claims permanence and consequence. Whether that reads as a flaw or as accepted notation depends on whether the work asked the audience to take the layer as part of its claims at all, the same question [[Chekhov's Gun]] asks about any emphasised detail.
+Mismanaging the line, rather than deliberately crossing it, is one recurring source of [[Ludonarrative Dissonance]]: a system that only makes sense from outside the fiction — a respawn timer, a save file — sitting uncommented against a story that claims permanence and consequence. Whether that reads as a flaw or as accepted notation depends on whether the work asked the audience to take the layer as part of its claims at all, the same question [[Chekhov's Gun]] asks about any emphasized detail.
 
 ## See also
 - [[Terminal User Interface]]

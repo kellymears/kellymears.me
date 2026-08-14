@@ -27,8 +27,8 @@ import {
 
 /**
  * Expose a topic's hue as `--topic` / `--topic-dark` so utilities can pick the
- * right one per colour scheme — dark mode here is class-based, so a single
- * resolved colour would be wrong half the time.
+ * right one per color scheme — dark mode here is class-based, so a single
+ * resolved color would be wrong half the time.
  */
 const topicVars = (topic: string): CSSProperties => {
   const color = TOPIC_COLORS[topic] ?? FALLBACK_TOPIC_COLOR

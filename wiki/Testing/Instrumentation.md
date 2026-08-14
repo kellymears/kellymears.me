@@ -5,7 +5,7 @@ tags:
   - testing
 summary: Adding measurement to code so its execution can be observed, and the distortions that introduces.
 ---
-**Instrumentation** is the practice of adding measurement machinery to code — counters, probes, tracing hooks — so that its behaviour can be observed at runtime. Coverage tools instrument to record which lines ran; profilers instrument to record time; observability agents instrument to emit traces.
+**Instrumentation** is the practice of adding measurement machinery to code — counters, probes, tracing hooks — so that its behavior can be observed at runtime. Coverage tools instrument to record which lines ran; profilers instrument to record time; observability agents instrument to emit traces.
 
 The trade-off is that **instrumentation changes what it measures**. Instrumented code is slower, sometimes dramatically, which turns a test that comfortably fits a timeout into one that intermittently does not. A timeout failure under coverage that never reproduces without it is an instrumentation artifact, not a defect — and treating it as one saves hours.
 

@@ -10,7 +10,7 @@ A **token** is the atomic unit a [[Large Language Model]] processes. Tokens are 
 
 Tokens matter for three practical reasons. They are the unit in which the [[Context Window]] is measured, so "how much can I show the model" is a token question. They are the unit of billing, so they are the unit of [[Token Budget]]. And they are the unit of latency, since generation is sequential.
 
-Tokenisation also explains a family of otherwise-strange model behaviours: difficulty with character-level tasks like counting letters or reversing strings, uneven handling of unusual formatting, and the fact that the same content costs different amounts depending on how it is written. Dense structured formats and long identifier names are more expensive than their information content suggests.
+Tokenization also explains a family of otherwise-strange model behaviors: difficulty with character-level tasks like counting letters or reversing strings, uneven handling of unusual formatting, and the fact that the same content costs different amounts depending on how it is written. Dense structured formats and long identifier names are more expensive than their information content suggests.
 
 Because tokens are consumed by everything in the request — instructions, tool definitions, prior turns, retrieved documents — reducing any of these frees capacity for the rest. That trade is the whole subject of context engineering.
 

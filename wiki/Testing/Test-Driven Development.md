@@ -12,7 +12,7 @@ The red step is the one that carries the value, and it is the one most often ski
 
 The secondary benefit is design pressure. Code that is hard to test from the outside is usually code with tangled dependencies or unclear boundaries, and the friction shows up before the design has calcified.
 
-The main misuse is treating it as a mandate to test every function in isolation. Tests bound to internal structure make refactoring expensive — the suite breaks when the implementation changes even though behaviour did not, which trains people to distrust it. Favouring tests at the seams that outlast implementations, and integration over unit tests on private helpers, keeps the suite an asset rather than a tax. See [[Integration Test]].
+The main misuse is treating it as a mandate to test every function in isolation. Tests bound to internal structure make refactoring expensive — the suite breaks when the implementation changes even though behavior did not, which trains people to distrust it. Favoring tests at the seams that outlast implementations, and integration over unit tests on private helpers, keeps the suite an asset rather than a tax. See [[Integration Test]].
 
 ## See also
 - [[Unit Test]]

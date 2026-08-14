@@ -1,7 +1,7 @@
 ---
 aliases:
   - Polarization
-  - Polarised light
+  - Polarized light
 tags:
   - matter
 summary: Light whose electric field oscillates in a preferred orientation, and the filters that select for it.
@@ -10,9 +10,9 @@ summary: Light whose electric field oscillates in a preferred orientation, and t
 
 A linear polarizer passes only the field component parallel to its transmission axis. **Malus's law** gives the result: transmitted intensity equals incident intensity times cos²θ, where θ is the angle between the incoming polarization and the axis. Ideal polarizers crossed at 90° pass nothing; at 45° they pass half. Glare off water and roads is strongly horizontally polarized, so sunglasses with a vertical axis remove it while barely dimming the rest of the scene.
 
-An LCD sits between two linear polarizers: the crystal layer rotates polarization by an amount the front polarizer converts into brightness. Its output is linearly polarized by construction, so a filter at the right angle extinguishes it. An OLED emits its own light through a circular polarizer — a linear layer plus a quarter-wave retarder — bonded on to cancel ambient reflection off the metal cathode, and that outer axis is commonly set at 45° to the screen edges, so neither portrait nor landscape blacks it out. Behaviour varies by panel: construction, not category, is the [[Ground Truth]].
+An LCD sits between two linear polarizers: the crystal layer rotates polarization by an amount the front polarizer converts into brightness. Its output is linearly polarized by construction, so a filter at the right angle extinguishes it. An OLED emits its own light through a circular polarizer — a linear layer plus a quarter-wave retarder — bonded on to cancel ambient reflection off the metal cathode, and that outer axis is commonly set at 45° to the screen edges, so neither portrait nor landscape blacks it out. Behavior varies by panel: construction, not category, is the [[Ground Truth]].
 
-Crossed polarizers also reveal **stress birefringence**: strained plastics and toughened glass split light into two components of differing speed, producing coloured fringes that map the stress field — coloured because the retardation depends on wavelength, a form of [[Dispersion]].
+Crossed polarizers also reveal **stress birefringence**: strained plastics and toughened glass split light into two components of differing speed, producing colored fringes that map the stress field — colored because the retardation depends on wavelength, a form of [[Dispersion]].
 
 ## See also
 - [[Opponent Process Theory]]

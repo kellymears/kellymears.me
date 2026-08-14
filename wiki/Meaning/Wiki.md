@@ -13,7 +13,7 @@ Those conventions produce a distinctive result. A wiki does not have to be plann
 
 The trade is the same as its virtue: without curation a wiki accumulates stubs, duplicates under near-identical names, and pages that have quietly gone out of date. The maintenance activities that matter are merging duplicates, keeping naming consistent so links resolve, and pruning what has rotted. See [[Naming]] and [[Documentation Rot]].
 
-Personal wikis have become common as a private reference — the same mechanics, one author, and no obligation to be encyclopaedic.
+Personal wikis have become common as a private reference — the same mechanics, one author, and no obligation to be encyclopedic.
 
 ## See also
 - [[Backlink]]

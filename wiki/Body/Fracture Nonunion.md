@@ -12,7 +12,7 @@ Three failures dominate. **Motion** across the fracture repeatedly tears the fra
 
 The standard division is diagnostic rather than cosmetic, and behaves like [[Root Cause Analysis]]: a **hypertrophic** nonunion shows abundant callus that never bridges — the biology is willing and the mechanics are wrong, so better [[Fracture Fixation]] usually suffices. An **atrophic** nonunion shows sparse callus and sclerotic ends — the biology is failing, so revision typically adds bone graft, autograft from iliac crest being the reference against which substitutes are measured.
 
-Several risks are modifiable. Nicotine causes vasoconstriction and independently impairs union, which is a pharmacological effect separate from the [[Physical Dependence]] that makes cessation difficult. Poor glycaemic control, malnutrition, and some anti-inflammatory regimens also feature.
+Several risks are modifiable. Nicotine causes vasoconstriction and independently impairs union, which is a pharmacological effect separate from the [[Physical Dependence]] that makes cessation difficult. Poor glycemic control, malnutrition, and some anti-inflammatory regimens also feature.
 
 Detection is imperfect: plain radiographs are moderately sensitive, and computed tomography resolves ambiguous cases, so the trade-offs of [[Sensitivity and Specificity]] apply directly to deciding whether a quiet fracture is healing or stalled.
 

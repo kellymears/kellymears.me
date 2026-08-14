@@ -5,7 +5,7 @@ tags:
   - agents
 summary: A neural network trained to predict text, used as a general-purpose instruction-following system.
 ---
-A **large language model** is a neural network trained on very large text corpora to predict continuations of a sequence. The training objective is narrow — what comes next — but at sufficient scale the resulting system can follow instructions, write and analyse code, summarise, translate, and hold a conversation.
+A **large language model** is a neural network trained on very large text corpora to predict continuations of a sequence. The training objective is narrow — what comes next — but at sufficient scale the resulting system can follow instructions, write and analyze code, summarize, translate, and hold a conversation.
 
 Three properties drive nearly all practical design around them.
 

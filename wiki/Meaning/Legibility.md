@@ -12,7 +12,7 @@ The failure is not the simplification itself but mistaking it for understanding.
 
 The pattern recurs below the level of the state. A [[Taxonomy]] built purely for administrative retrieval can do to a body of knowledge what the survey did to land: easy to query, silently missing the [[Naming]] a practitioner relies on. Once such a system exists, reversing it is costly and rare — see [[Path Dependence]] — and a registry nobody maintains drifts from the reality it describes, [[Documentation Rot]] at the scale of a country rather than a codebase.
 
-This is the social-scale sibling of [[Goodhart's Law]]: the same simplification that makes a system governable is what makes it gameable, because the map, not the territory, is what gets optimised against. [[Information Architecture]] and [[Plain Language]] are legibility used well, when the simplification is checked against what the reader needs rather than only what the administrator needs.
+This is the social-scale sibling of [[Goodhart's Law]]: the same simplification that makes a system governable is what makes it gameable, because the map, not the territory, is what gets optimized against. [[Information Architecture]] and [[Plain Language]] are legibility used well, when the simplification is checked against what the reader needs rather than only what the administrator needs.
 
 ## See also
 - [[Goodhart's Law]]

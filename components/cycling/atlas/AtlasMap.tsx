@@ -395,11 +395,11 @@ export function AtlasMap({
   // Initialize map once.
   useEffect(() => {
     if (!containerRef.current) return
-    let cancelled = false
+    let canceled = false
 
     async function init() {
       const { Map: MapCtor, Popup: PopupCtor } = await import('maplibre-gl')
-      if (cancelled || !containerRef.current) return
+      if (canceled || !containerRef.current) return
       const styleUrl = isDarkNow() ? STADIA_DARK_STYLE : STADIA_LIGHT_STYLE
       const map = new MapCtor({
         container: containerRef.current,
@@ -475,7 +475,7 @@ export function AtlasMap({
     })
 
     return () => {
-      cancelled = true
+      canceled = true
       cleanup?.()
       popupRef.current?.remove()
       mapRef.current?.remove()
@@ -702,7 +702,7 @@ export function AtlasMap({
     let progress = 0
     let lastTs = 0
     let raf = 0
-    let cancelled = false
+    let canceled = false
     // Smoothed bearing so the camera doesn't whip around on jagged GPS.
     let smoothedBearing: number | null = null
     // Smoothed pitch/zoom so a speed change eases into the new camera tier
@@ -805,14 +805,14 @@ export function AtlasMap({
     }
 
     function tick(ts: number) {
-      if (cancelled) return
+      if (canceled) return
       if (lastTs === 0) lastTs = ts
       const dt = ts - lastTs
       lastTs = ts
 
       const ride = playable[idx]
       if (!ride) {
-        cancelled = true
+        canceled = true
         onPlaybackEnd()
         return
       }
@@ -838,7 +838,7 @@ export function AtlasMap({
         idx++
         progress = 0
         if (idx >= playable.length) {
-          cancelled = true
+          canceled = true
           onPlaybackEnd()
           return
         }
@@ -863,7 +863,7 @@ export function AtlasMap({
 
     raf = requestAnimationFrame(tick)
     return () => {
-      cancelled = true
+      canceled = true
       cancelAnimationFrame(raf)
     }
     // playingRideId intentionally excluded — see prior comment in earlier rev.

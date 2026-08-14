@@ -5,7 +5,7 @@ tags:
   - delivery
 summary: Validating changes against the state they will actually merge into, in order, rather than in isolation.
 ---
-A **merge train** — or merge queue — serialises pending changes and validates each against the result of merging every change ahead of it. It exists because a change validated in isolation is validated against a state that will not exist by the time it lands.
+A **merge train** — or merge queue — serializes pending changes and validates each against the result of merging every change ahead of it. It exists because a change validated in isolation is validated against a state that will not exist by the time it lands.
 
 The problem it solves is the [[Semantic Conflict]]: two changes that are each entirely green and combine into something broken, with no textual conflict anywhere. Nothing about either change can reveal this. Only the combination can.
 

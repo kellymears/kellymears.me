@@ -6,9 +6,9 @@ tags:
   - agents
 summary: A rule constraining what a model may do, enforced by prompt, schema, or surrounding code.
 ---
-A **guardrail** is a constraint on model behaviour: a category of action it must refuse, a confirmation it must obtain, a shape its output must take. Guardrails live at three different strengths, and conflating them is the usual source of trouble.
+A **guardrail** is a constraint on model behavior: a category of action it must refuse, a confirmation it must obtain, a shape its output must take. Guardrails live at three different strengths, and conflating them is the usual source of trouble.
 
-**Prompt-level** rules are advisory. They shape behaviour reliably enough to be useful and are not enforcement — a rule stated in prose is followed most of the time.
+**Prompt-level** rules are advisory. They shape behavior reliably enough to be useful and are not enforcement — a rule stated in prose is followed most of the time.
 
 **Schema-level** rules are enforced by [[Constrained Decoding]]: the model cannot emit what the grammar disallows. This is the strongest lever and the reason "make it required" beats "ask nicely".
 

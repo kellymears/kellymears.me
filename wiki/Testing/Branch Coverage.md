@@ -11,7 +11,7 @@ That strictness is what makes it useful as a design signal. An uncoverable branc
 
 Several code shapes generate branches that are easy to miss: a null-coalescing operator, a conditional spread, a default parameter value, an optional chain, and a type-narrowing guard each add one. A refactor that converts strict optional handling into conditional spreads can double a file's branch count in a single pass.
 
-There is also a measurement artifact worth recognising. When two runners instrument the same file, some record types merge cleanly across them and some do not — so a branch exercised in only one runner can appear uncovered in the merged report. The signature is a file reporting complete statements alongside an uncovered function, which is arithmetically impossible for a single record set.
+There is also a measurement artifact worth recognizing. When two runners instrument the same file, some record types merge cleanly across them and some do not — so a branch exercised in only one runner can appear uncovered in the merged report. The signature is a file reporting complete statements alongside an uncovered function, which is arithmetically impossible for a single record set.
 
 ## See also
 - [[Code Coverage]]

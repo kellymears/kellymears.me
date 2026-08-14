@@ -4,9 +4,9 @@ aliases:
   - Peripheral nerve block
 tags:
   - body
-summary: Local anaesthetic placed around a nerve or plexus to interrupt conduction from a whole region, and the rebound that follows.
+summary: Local anesthetic placed around a nerve or plexus to interrupt conduction from a whole region, and the rebound that follows.
 ---
-**A regional nerve block** is an injection of local anaesthetic around a peripheral nerve or a nerve plexus, interrupting conduction so that everything distal to the injection loses sensation. The drugs block voltage-gated sodium channels in the axon membrane, so the impulse fails to propagate. Ultrasound guidance has largely replaced landmark and paraesthesia techniques for placement.
+**A regional nerve block** is an injection of local anesthetic around a peripheral nerve or a nerve plexus, interrupting conduction so that everything distal to the injection loses sensation. The drugs block voltage-gated sodium channels in the axon membrane, so the impulse fails to propagate. Ultrasound guidance has largely replaced landmark and paresthesia techniques for placement.
 
 Blocks are named for the target: interscalene, supraclavicular and axillary approaches to the brachial plexus for the upper limb; femoral, adductor canal and popliteal sciatic for the lower. Agents differ in kinetics — lidocaine has fast onset and a few hours of duration, while bupivacaine and ropivacaine take longer to set up and can last twelve to twenty-four hours. Duration varies with dose, site, adjuncts and the individual, which is one reason clearance and [[Xenobiotic Metabolism]] matter to dosing limits.
 

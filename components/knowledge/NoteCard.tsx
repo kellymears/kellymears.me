@@ -7,8 +7,8 @@ import type { CSSProperties } from 'react'
 
 /**
  * Expose a topic's hue as `--topic` / `--topic-dark` so utilities can pick the
- * right one per colour scheme — dark mode here is class-based, so a single
- * resolved colour would be wrong half the time.
+ * right one per color scheme — dark mode here is class-based, so a single
+ * resolved color would be wrong half the time.
  */
 export function topicVars(topic: string): CSSProperties {
   const color = TOPIC_COLORS[topic] ?? FALLBACK_TOPIC_COLOR
@@ -49,7 +49,7 @@ export interface NoteCardProps {
 
 /**
  * One concept note as a card. Accented on the left edge with its domain's
- * colour; `compact` drops the summary for dense lists.
+ * color; `compact` drops the summary for dense lists.
  */
 export function NoteCard({ note, compact = false, className }: NoteCardProps) {
   return (

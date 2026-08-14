@@ -25,7 +25,7 @@ const processor = remark()
 
 /**
  * Wiki-internal links read as traversals, ordinary links as citations: same
- * colour, different rule. `.prose a` (specificity 0,1,1) already owns colour,
+ * color, different rule. `.prose a` (specificity 0,1,1) already owns color,
  * thickness and offset, and `@tailwindcss/typography` sets the
  * `text-decoration` *shorthand*, which resets decoration-style — hence the two
  * `!` modifiers. Everything else here is uncontested.

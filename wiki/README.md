@@ -14,8 +14,8 @@ Every note is atomic — one concept, 200–400 words, written to make sense on 
 
 - **Filename is the title.** No duplicate `# Heading` at the top of a note.
 - **Frontmatter** carries `aliases`, `tags` (one per domain), and a one-line `summary`. Aliases make links resolve under alternate names, so `[[LLM]]`, `[[a11y]]`, and `[[SemVer]]` all work.
-- **`## See also`** is hand-picked: the closest neighbours.
-- **`## Related`** is graph-derived: notes sharing several neighbours with this one.
+- **`## See also`** is hand-picked: the closest neighbors.
+- **`## Related`** is graph-derived: notes sharing several neighbors with this one.
 - **Folders don't constrain links.** Obsidian resolves wikilinks by note name, not by path, so a note can be moved between folders without breaking anything.
 - **A link to a note that doesn't exist yet is fine.** It marks something worth writing.
 
@@ -23,7 +23,7 @@ Every note is atomic — one concept, 200–400 words, written to make sense on 
 
 1,815 links across 202 notes — a mean of 9 outbound and 9 inbound per note, with no orphans and no broken links.
 
-The most-linked-to notes are a decent summary of the vault's centre of gravity: [[Ground Truth]], [[Silent Failure]], [[Plausible Mechanism]], [[Naming]], [[Falsifiability]], [[Root Cause Analysis]], [[Determinism]].
+The most-linked-to notes are a decent summary of the vault's center of gravity: [[Ground Truth]], [[Silent Failure]], [[Plausible Mechanism]], [[Naming]], [[Falsifiability]], [[Root Cause Analysis]], [[Determinism]].
 
 ## Housekeeping
 

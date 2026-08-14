@@ -9,7 +9,7 @@ The **critical rendering path** is the chain of work a browser must complete bef
 
 Stylesheets are render-blocking by default — the browser will not paint content it might have to restyle. Synchronous scripts in the head block parsing. Fonts introduce their own delay, since text using an unavailable font is either invisible or shown in a fallback and then reflowed; see [[Web Font Loading]].
 
-The optimisations follow from the structure: inline the small amount of CSS needed for the first screen and load the rest asynchronously, defer scripts, preload resources that the browser could not otherwise discover until late, and avoid *chained* requests — a stylesheet that imports another stylesheet that references a font is three round trips deep before anything paints.
+The optimizations follow from the structure: inline the small amount of CSS needed for the first screen and load the rest asynchronously, defer scripts, preload resources that the browser could not otherwise discover until late, and avoid *chained* requests — a stylesheet that imports another stylesheet that references a font is three round trips deep before anything paints.
 
 Preloading is worth a caution: it is a hint the framework must actually emit. Preload directives can silently stop being emitted across a framework upgrade, putting resources back into the chain with no error anywhere — a [[Silent Failure]] that only a look at the served HTML reveals.
 

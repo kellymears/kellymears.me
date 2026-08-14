@@ -12,7 +12,7 @@ It is the standard answer for pages built from data that changes on a scale of m
 
 Two things are worth designing deliberately. **The interval** encodes how stale you are willing to be, and different data on one page may deserve different intervals. **Invalidation** is the escape hatch for content that must update immediately — tagging cached entries and purging by tag beats waiting for a timer. See [[Cache Invalidation]].
 
-The failure mode to watch for is caching that is not request-aware. A value memoised in module scope looks like a cache and behaves like one within a single process, but it does not participate in the platform's revalidation and does not invalidate across instances — which is a correctness problem, not a performance one.
+The failure mode to watch for is caching that is not request-aware. A value memoized in module scope looks like a cache and behaves like one within a single process, but it does not participate in the platform's revalidation and does not invalidate across instances — which is a correctness problem, not a performance one.
 
 ## See also
 - [[Static Site Generation]]

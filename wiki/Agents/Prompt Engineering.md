@@ -3,9 +3,9 @@ aliases:
   - Prompt design
 tags:
   - agents
-summary: Shaping a model's input to make the desired behaviour reliable rather than occasional.
+summary: Shaping a model's input to make the desired behavior reliable rather than occasional.
 ---
-**Prompt engineering** is the practice of designing the text given to a [[Large Language Model]] so that the behaviour you want happens reliably. The framing has matured: it is less about clever phrasings and more about structure, evidence, and knowing which channel actually carries influence.
+**Prompt engineering** is the practice of designing the text given to a [[Large Language Model]] so that the behavior you want happens reliably. The framing has matured: it is less about clever phrasings and more about structure, evidence, and knowing which channel actually carries influence.
 
 A few findings recur across systems.
 
@@ -13,7 +13,7 @@ A few findings recur across systems.
 
 **Systematic and probabilistic misses need different treatments.** A retry that names the rejection helps when the model *sometimes* gets it wrong. It does nothing when the model always gets it wrong, because nothing about the situation has changed.
 
-**Every channel is a channel.** Tool descriptions, field descriptions, enum values, and error messages returned to the model all steer behaviour, often more than the instructions written for that purpose. Error text is worth writing as guidance, since the model reads it verbatim.
+**Every channel is a channel.** Tool descriptions, field descriptions, enum values, and error messages returned to the model all steer behavior, often more than the instructions written for that purpose. Error text is worth writing as guidance, since the model reads it verbatim.
 
 **Numbers stated become numbers targeted.** See [[Anchoring Effect]] and [[Goodhart's Law]].
 

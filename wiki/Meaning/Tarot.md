@@ -12,7 +12,7 @@ Whatever one thinks of divination, the deck is an unusually well-designed symbol
 
 A structural point worth knowing: the numerological reading applies to the Minor Arcana, where the numbers form a genuine progression within each suit. The Major Arcana are numbered as an ordering of the archetypes rather than as a repeated cycle, so importing numeric meanings there is a category error.
 
-As software it is a pleasant modelling problem — a small fixed corpus, several orthogonal dimensions, and a composition rule — and the natural place for a per-day seed, so a reading is a reading rather than an infinite reroll.
+As software it is a pleasant modeling problem — a small fixed corpus, several orthogonal dimensions, and a composition rule — and the natural place for a per-day seed, so a reading is a reading rather than an infinite reroll.
 
 ## See also
 - [[Seeded Randomness]]
