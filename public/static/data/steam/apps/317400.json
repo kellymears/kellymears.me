@@ -1,0 +1,29 @@
+{
+  "appid": 317400,
+  "type": "mod",
+  "shortDescription": "Portal Stories: Mel is a community made, free modification for Portal 2 based in the Portal universe. It tells the story of Mel, who meets a new personality core and faces an undiscovered threat to the Aperture facility.",
+  "developers": [
+    "Prism Game Studios Ltd."
+  ],
+  "publishers": [
+    "Prism Game Studios Ltd."
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Free To Play"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Captions available",
+    "Steam Cloud",
+    "Remote Play Together"
+  ],
+  "releaseDate": "Jun 25, 2015",
+  "releaseYear": 2015,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/317400/header.jpg?t=1732146253",
+  "isFree": true
+}

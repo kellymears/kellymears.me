@@ -1,0 +1,29 @@
+{
+  "appid": 212680,
+  "type": "game",
+  "shortDescription": "This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.",
+  "developers": [
+    "Subset Games"
+  ],
+  "publishers": [
+    "Subset Games"
+  ],
+  "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 14, 2012",
+  "releaseYear": 2012,
+  "metacritic": 84,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212680/f21426ac9ad51338fa33becce88984758e07c38b/header.jpg?t=1748969356",
+  "isFree": false
+}

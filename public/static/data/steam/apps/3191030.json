@@ -1,0 +1,25 @@
+{
+  "appid": 3191030,
+  "type": "game",
+  "shortDescription": "A plinko-style roguelike where you work at a number factory. Launch your spherical friend, Nubby, down a pegboard to make bigger and bigger numbers! But beware, if you fail to meet your number quota, the sun will explode.",
+  "developers": [
+    "MogDogBlog Productions"
+  ],
+  "publishers": [
+    "MogDogBlog Productions"
+  ],
+  "genres": [
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 7, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191030/header.jpg?t=1783059712",
+  "isFree": false
+}

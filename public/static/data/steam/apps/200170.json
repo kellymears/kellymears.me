@@ -1,0 +1,32 @@
+{
+  "appid": 200170,
+  "type": "game",
+  "shortDescription": "Worms™ Revolution is the latest game in the classic turn-based strategy series to come to the PC.",
+  "developers": [
+    "Team17 Digital Ltd"
+  ],
+  "publishers": [
+    "Team17 Digital Ltd"
+  ],
+  "genres": [
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 10, 2012",
+  "releaseYear": 2012,
+  "metacritic": 73,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200170/header.jpg?t=1784115802",
+  "isFree": false
+}

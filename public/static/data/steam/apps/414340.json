@@ -1,0 +1,31 @@
+{
+  "appid": 414340,
+  "type": "game",
+  "shortDescription": "From the makers of Heavenly Sword, Enslaved: Odyssey to the West, and DmC: Devil May Cry, comes a warrior’s brutal journey into myth and madness. Set in the Viking age, a broken Celtic warrior embarks on a haunting vision quest into Viking Hell to fight for the soul of her dead lover.",
+  "developers": [
+    "Ninja Theory"
+  ],
+  "publishers": [
+    "Ninja Theory",
+    "Xbox Game Studios"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 7, 2017",
+  "releaseYear": 2017,
+  "metacritic": 83,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414340/header.jpg?t=1776350290",
+  "isFree": false
+}

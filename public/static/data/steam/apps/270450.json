@@ -1,0 +1,36 @@
+{
+  "appid": 270450,
+  "type": "game",
+  "shortDescription": "A futuresport FPS where you race around a skate park / dance club and nail each other with dodgeball trick shots. Singleplayer + Local Multiplayer + Online Multiplayer with 27 different objective-based game modes...or create your own!",
+  "developers": [
+    "Erik Asmussen"
+  ],
+  "publishers": [
+    "Erik Asmussen"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Sports"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Stats",
+    "Steam Leaderboards",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 19, 2015",
+  "releaseYear": 2015,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270450/header.jpg?t=1671740670",
+  "isFree": false
+}

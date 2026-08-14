@@ -1,0 +1,28 @@
+{
+  "appid": 447040,
+  "type": "game",
+  "shortDescription": "Welcome to San Francisco. Play as Marcus, a brilliant young hacker, and join the most notorious hacker group, DedSec. Your objective: execute the biggest hack of history.",
+  "developers": [
+    "Ubisoft"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "In-App Purchases",
+    "Partial Controller Support"
+  ],
+  "releaseDate": "Nov 28, 2016",
+  "releaseYear": 2016,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/header.jpg?t=1751986887",
+  "isFree": false
+}

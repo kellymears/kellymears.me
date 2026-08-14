@@ -1,0 +1,33 @@
+{
+  "appid": 1145360,
+  "type": "game",
+  "shortDescription": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
+  "developers": [
+    "Supergiant Games"
+  ],
+  "publishers": [
+    "Supergiant Games"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Captions available",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 17, 2020",
+  "releaseYear": 2020,
+  "metacritic": 93,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+  "isFree": false
+}

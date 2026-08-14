@@ -1,0 +1,39 @@
+{
+  "appid": 410900,
+  "type": "game",
+  "shortDescription": "Unleash your creativity and strategic prowess in Forts, the exhilarating physics-based RTS! Design, construct, and customize imposing fortresses, bristling with devastating firepower, and blast your opponent’s buildings to rubble!",
+  "developers": [
+    "EarthWork Games"
+  ],
+  "publishers": [
+    "EarthWork Games"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Co-op",
+    "Online Co-op",
+    "LAN Co-op",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Captions available",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Includes level editor",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 19, 2017",
+  "releaseYear": 2017,
+  "metacritic": 74,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410900/header.jpg?t=1781628271",
+  "isFree": false
+}

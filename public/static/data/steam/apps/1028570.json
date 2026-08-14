@@ -1,0 +1,37 @@
+{
+  "appid": 1028570,
+  "type": "game",
+  "shortDescription": "Meditative rhythm ping-pong",
+  "developers": [
+    "Calvares"
+  ],
+  "publishers": [
+    "Calvares"
+  ],
+  "genres": [
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Includes level editor",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 12, 2019",
+  "releaseYear": 2019,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1028570/970dd54db88b4a2cdaf01c919ca92086b9fe0eb8/header.jpg?t=1768907933",
+  "isFree": true
+}

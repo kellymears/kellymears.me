@@ -1,0 +1,48 @@
+{
+  "appid": 230410,
+  "type": "game",
+  "shortDescription": "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game",
+  "developers": [
+    "Digital Extremes"
+  ],
+  "publishers": [
+    "Digital Extremes"
+  ],
+  "genres": [
+    "Action",
+    "RPG",
+    "Free To Play"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "In-App Purchases",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Input API Support",
+    "Stereo Sound",
+    "Surround Sound",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "HDR available"
+  ],
+  "releaseDate": "Mar 25, 2013",
+  "releaseYear": 2013,
+  "metacritic": 69,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/a000b4bf98dde5d51cd44206f1ac21d04841017e/header.jpg?t=1786540562",
+  "isFree": true
+}

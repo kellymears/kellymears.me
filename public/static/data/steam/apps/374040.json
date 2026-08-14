@@ -1,0 +1,34 @@
+{
+  "appid": 374040,
+  "type": "game",
+  "shortDescription": "The world of Elysia needs YOU! Join this cooperative, 3D sandbox action RPG to level up your character, craft epic weapons, conquer enemies in real-time, and build almost anything! Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
+  "developers": [
+    "Keen Games GmbH"
+  ],
+  "publishers": [
+    "505 Games"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Shared/Split Screen Co-op",
+    "Steam Achievements",
+    "Steam Workshop",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Remote Play on Tablet",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 18, 2017",
+  "releaseYear": 2017,
+  "metacritic": 72,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374040/header.jpg?t=1696604379",
+  "isFree": false
+}

@@ -1,0 +1,23 @@
+{
+  "appid": 415000,
+  "type": "game",
+  "shortDescription": "Welcome to Gamer To Game Developer Series 3, an in-depth set of video tutorials where you will learn to code an awesome single player FPS system from scratch in Unity. If you want to learn how to make a game the smart way then you've come to the right place.",
+  "developers": [
+    "GTGD"
+  ],
+  "publishers": [
+    "GTGD"
+  ],
+  "genres": [
+    "Education",
+    "Software Training"
+  ],
+  "categories": [
+    "Steam Trading Cards"
+  ],
+  "releaseDate": "Mar 7, 2016",
+  "releaseYear": 2016,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415000/header.jpg?t=1779977279",
+  "isFree": false
+}

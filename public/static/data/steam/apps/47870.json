@@ -1,0 +1,28 @@
+{
+  "appid": 47870,
+  "type": "game",
+  "shortDescription": "Need for Speed Hot Pursuit launches you into a new open-world landscape behind the wheel of the world's fastest and most beautiful cars. From Criterion, the award-winning studio behind the Burnout series, Hot Pursuit will redefine racing games for a whole new generation.",
+  "developers": [
+    "Criterion Games"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "genres": [
+    "Racing"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Dec 14, 2010",
+  "releaseYear": 2010,
+  "metacritic": 85,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47870/header.jpg?t=1743805492",
+  "isFree": false
+}

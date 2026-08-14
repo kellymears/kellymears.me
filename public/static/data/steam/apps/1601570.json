@@ -1,0 +1,36 @@
+{
+  "appid": 1601570,
+  "type": "game",
+  "shortDescription": "Experience an award-winning, story-driven sci-fi survival game. Help Jan Dolski, the survivor of an ill-fated space expedition, create alternative versions of himself to escape a hostile planet and tackle personal turmoil with his unconventional crew.",
+  "developers": [
+    "11 bit studios"
+  ],
+  "publishers": [
+    "11 bit studios"
+  ],
+  "genres": [
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Surround Sound",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jun 13, 2025",
+  "releaseYear": 2025,
+  "metacritic": 85,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601570/7e5e8053c9c93c5e2293b90115bf21782e5a3971/header_alt_assets_7.jpg?t=1786355074",
+  "isFree": false
+}

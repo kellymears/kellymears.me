@@ -1,0 +1,28 @@
+{
+  "appid": 250260,
+  "type": "game",
+  "shortDescription": "Jazzpunk is a comedy adventure set in an alternate reality Cold War World, plagued with corporate espionage, CyberCrime, and sentient martinis. Gameplay is inspired by spoof comedy films and cartoons of yesteryear, with a focus on weird gadgets, exotic locales, and open-world style exploration.",
+  "developers": [
+    "Necrophone Games"
+  ],
+  "publishers": [
+    "Necrophone Games"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 7, 2014",
+  "releaseYear": 2014,
+  "metacritic": 75,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250260/header.jpg?t=1710253452",
+  "isFree": false
+}

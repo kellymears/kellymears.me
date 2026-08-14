@@ -1,0 +1,33 @@
+{
+  "appid": 433340,
+  "type": "game",
+  "shortDescription": "Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range’ where she tries her hand at making a living wrangling slimes.",
+  "developers": [
+    "Monomi Park"
+  ],
+  "publishers": [
+    "Monomi Park"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 1, 2017",
+  "releaseYear": 2017,
+  "metacritic": 81,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg?t=1758651509",
+  "isFree": false
+}

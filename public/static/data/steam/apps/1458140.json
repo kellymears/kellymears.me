@@ -1,0 +1,33 @@
+{
+  "appid": 1458140,
+  "type": "game",
+  "shortDescription": "Face the supernatural dangers of the Olympic Exclusion Zone with a car as your only lifeline in this driving survival adventure! Scavenge resources, load up your trusty station wagon, and drive like hell to make it through alive.",
+  "developers": [
+    "Ironwood Studios"
+  ],
+  "publishers": [
+    "Kepler Interactive"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Racing",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Stats",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 21, 2024",
+  "releaseYear": 2024,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/3a5fa1e845c13b48f9e2ed042f4538ac62bd16ed/header.jpg?t=1763777212",
+  "isFree": false
+}

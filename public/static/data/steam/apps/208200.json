@@ -1,0 +1,27 @@
+{
+  "appid": 208200,
+  "type": "game",
+  "shortDescription": "A demonic invasion has overwhelmed the Union Aerospace Corporation's Mars research facility. As one of only a few survivors, you must fight your way to hell and back against a horde of demons in this award-winning horror/action FPS and reimagining of the original DOOM.",
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Achievements",
+    "Partial Controller Support",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 15, 2012",
+  "releaseYear": 2012,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208200/header.jpg?t=1664292843",
+  "isFree": false
+}

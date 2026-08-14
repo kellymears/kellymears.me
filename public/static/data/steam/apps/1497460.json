@@ -1,0 +1,33 @@
+{
+  "appid": 1497460,
+  "type": "game",
+  "shortDescription": "Dive into Wheel World as Kat, a rider chosen by ancient cycling spirits. Race elite teams, trick out your bike, and perform the long overdue Great Shift ritual to save a universe on the brink! Your bike is your destiny.",
+  "developers": [
+    "Messhof"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "genres": [
+    "Adventure",
+    "Racing",
+    "Sports"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 23, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1497460/header.jpg?t=1768505155",
+  "isFree": false
+}

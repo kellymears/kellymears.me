@@ -1,0 +1,29 @@
+{
+  "appid": 2050650,
+  "type": "game",
+  "shortDescription": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
+  "developers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "publishers": [
+    "CAPCOM Co., Ltd."
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "HDR available",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 23, 2023",
+  "releaseYear": 2023,
+  "metacritic": 91,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+  "isFree": false
+}

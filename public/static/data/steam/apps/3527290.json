@@ -1,0 +1,36 @@
+{
+  "appid": 3527290,
+  "type": "game",
+  "shortDescription": "PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?",
+  "developers": [
+    "Team PEAK"
+  ],
+  "publishers": [
+    "Aggro Crab",
+    "Evil Landfall?"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jun 16, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
+  "isFree": false
+}

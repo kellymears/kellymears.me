@@ -1,0 +1,31 @@
+{
+  "appid": 413420,
+  "type": "game",
+  "shortDescription": "Jabberwock Island—You and your classmates were ready for fun in the sun until Monokuma returned to restart his murderous game! Trapped in a kill-or-be-killed situation, your only hope rests in solving the island’s mysteries.",
+  "developers": [
+    "Spike Chunsoft Co., Ltd.",
+    "Abstraction Games"
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "genres": [
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 18, 2016",
+  "releaseYear": 2016,
+  "metacritic": 83,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/header.jpg?t=1781085654",
+  "isFree": false
+}

@@ -1,0 +1,43 @@
+{
+  "appid": 2320,
+  "type": "game",
+  "shortDescription": "You are humanity’s last hope to stop the Strogg, a hostile alien race waging war against Earth. Play this military sci-fi FPS, now upgraded for modern platforms with improved visuals, new campaign content, online multiplayer/co-op, and more.",
+  "developers": [
+    "id Software",
+    "Nightdive Studios",
+    "MachineGames"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Cross-Platform Multiplayer",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Camera Comfort",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Cloud",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 3, 2007",
+  "releaseYear": 2007,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg?t=1750784724",
+  "isFree": false
+}

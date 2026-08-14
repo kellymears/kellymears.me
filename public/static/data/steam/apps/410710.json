@@ -1,0 +1,28 @@
+{
+  "appid": 410710,
+  "type": "game",
+  "shortDescription": "Re-discover what made System Shock the first of it's kind, a ground breaking immersive sim that would inspire a generation of games to come....",
+  "developers": [
+    "Looking Glass Studios",
+    "Nightdive Studios"
+  ],
+  "publishers": [
+    "Nightdive Studios",
+    "Atari"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Trading Cards",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 22, 2015",
+  "releaseYear": 2015,
+  "metacritic": 85,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410710/header.jpg?t=1774275834",
+  "isFree": false
+}

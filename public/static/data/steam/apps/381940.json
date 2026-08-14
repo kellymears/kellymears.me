@@ -1,0 +1,26 @@
+{
+  "appid": 381940,
+  "type": "game",
+  "shortDescription": "Commence your Jedi training in this Star Wars virtual reality demo experience. Repair the Millennium Falcon, defend it from attack by Imperial Stormtroopers, and wield a LIGHTSABER.",
+  "developers": [
+    "ILMxLAB"
+  ],
+  "publishers": [
+    "ILMxLAB"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Tracked Controller Support",
+    "VR Only",
+    "VR Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 18, 2016",
+  "releaseYear": 2016,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381940/header.jpg?t=1478026229",
+  "isFree": true
+}

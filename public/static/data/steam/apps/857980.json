@@ -1,0 +1,28 @@
+{
+  "appid": 857980,
+  "type": "game",
+  "shortDescription": "Inspired by BioShock and System Shock 2, Void Bastards is a revolutionary new strategy-shooter that will test your wits as well as exercise your aim. Can you lead the misfit prisoners of the Void Ark through the derelict spaceships and myriad dangers of the Sargasso Nebula?",
+  "developers": [
+    "Blue Manchu"
+  ],
+  "publishers": [
+    "Blue Manchu"
+  ],
+  "genres": [
+    "Action",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 28, 2019",
+  "releaseYear": 2019,
+  "metacritic": 81,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857980/header.jpg?t=1760415502",
+  "isFree": false
+}

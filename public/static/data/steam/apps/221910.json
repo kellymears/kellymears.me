@@ -1,0 +1,32 @@
+{
+  "appid": 221910,
+  "type": "game",
+  "shortDescription": "The Stanley Parable is a first person exploration game. You will play as Stanley, and you will not play as Stanley. You will follow a story, you will not follow a story. You will have a choice, you will have no choice. The game will end, the game will never end.",
+  "developers": [
+    "Galactic Cafe"
+  ],
+  "publishers": [
+    "Galactic Cafe",
+    "Klei Publishing"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Captions available",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 17, 2013",
+  "releaseYear": 2013,
+  "metacritic": 88,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221910/header.jpg?t=1781207122",
+  "isFree": false
+}

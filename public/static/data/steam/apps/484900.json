@@ -1,0 +1,28 @@
+{
+  "appid": 484900,
+  "type": "game",
+  "shortDescription": "Build a new home for humanity in Aven Colony. Discover Aven Prime - an alien planet of deserts, tundras, and wetlands light years from earth. Build your colonies into massive, sprawling cities whilst dealing with the challenges faced when settling on a new world.",
+  "developers": [
+    "Mothership Entertainment LLC"
+  ],
+  "publishers": [
+    "Team17 Digital Ltd"
+  ],
+  "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 25, 2017",
+  "releaseYear": 2017,
+  "metacritic": 65,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/484900/header.jpg?t=1778534245",
+  "isFree": false
+}

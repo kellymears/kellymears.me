@@ -1,0 +1,37 @@
+{
+  "appid": 396900,
+  "type": "game",
+  "shortDescription": "Harness gravity-defying speed in classic combat racing taken to the EXTREME. Master wall-riding, ceiling-surfing tracks, and unleash devastating weapons across 29 blistering circuits. Race solo, split-screen, or online with up to 10 players. GRIP delivers white-knuckle racing like nothing else.",
+  "developers": [
+    "Caged Element"
+  ],
+  "publishers": [
+    "Wired Productions"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Racing"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "VR Supported",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Nov 6, 2018",
+  "releaseYear": 2018,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396900/header.jpg?t=1782221226",
+  "isFree": false
+}

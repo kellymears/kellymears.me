@@ -1,0 +1,34 @@
+{
+  "appid": 206420,
+  "type": "game",
+  "shortDescription": "Experience the insane antics of Saints Row IV. The Saints have gone from the Penthouse to the White House - but Earth has been invaded and it’s up to you to save it with an arsenal of superpowers and strange weapons, in the wildest open world game ever.",
+  "developers": [
+    "Deep Silver Volition"
+  ],
+  "publishers": [
+    "Deep Silver"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 19, 2013",
+  "releaseYear": 2013,
+  "metacritic": 86,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/header.jpg?t=1764670979",
+  "isFree": false
+}

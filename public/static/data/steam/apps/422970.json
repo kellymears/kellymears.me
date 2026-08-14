@@ -1,0 +1,24 @@
+{
+  "appid": 422970,
+  "type": "game",
+  "shortDescription": "Devil Daggers is a fast-paced shooter that places you in an abyssal arena to face endless legions of demons. Armed with versatile magic daggers and a fluid movement system, fight to survive as long as you can.",
+  "developers": [
+    "Sorath"
+  ],
+  "publishers": [
+    "Sorath"
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 18, 2016",
+  "releaseYear": 2016,
+  "metacritic": 83,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/422970/header.jpg?t=1724973461",
+  "isFree": false
+}

@@ -1,0 +1,37 @@
+{
+  "appid": 3526710,
+  "type": "game",
+  "shortDescription": "The Animal Evolution Roguelite. Hunt, Flee, Scavenge and Thrive in a living ecosystem. Choose from 125+ Evolutions and Specialisations for unique creature combinations in every run. Adapt to survive the natural curve in order to beat carcinisation... or get Darwin'd trying!",
+  "developers": [
+    "Odd Dreams Digital"
+  ],
+  "publishers": [
+    "Secret Mode"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 8, 2026",
+  "releaseYear": 2026,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/5dfb7336e99feadf3b4f41bab5049b793afa0208/header_alt_assets_2.jpg?t=1786620394",
+  "isFree": false
+}

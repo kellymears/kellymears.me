@@ -1,0 +1,36 @@
+{
+  "appid": 1808500,
+  "type": "game",
+  "shortDescription": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+  "developers": [
+    "Embark Studios"
+  ],
+  "publishers": [
+    "Embark Studios"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Stats",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 30, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/04baafaf64a5aa5f46ecda5d71889a4848dc0628/header.jpg?t=1784099728",
+  "isFree": false
+}

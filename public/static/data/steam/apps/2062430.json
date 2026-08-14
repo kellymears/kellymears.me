@@ -1,0 +1,32 @@
+{
+  "appid": 2062430,
+  "type": "game",
+  "shortDescription": "BALL x PIT is a brick-breaking, ball-fusing, base-building survival roguelite. Batter hordes of enemies with ricocheting balls and gather the riches of the pit to expand your homestead, generate resources and recruit unique heroes.",
+  "developers": [
+    "Kenny Sun and Friends"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 15, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062430/5e7885a3802fe7d38b92fdeb44888b4828a842ba/header_alt_assets_2.jpg?t=1786035856",
+  "isFree": false
+}

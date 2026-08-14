@@ -1,0 +1,33 @@
+{
+  "appid": 813230,
+  "type": "game",
+  "shortDescription": "Explore a dense, interconnected labyrinth, and unravel its many secrets. Collect items to manipulate your environment in surprising and meaningful ways. Encounter beautiful and unsettling creatures, as you attempt to survive what lurks in the dark. There is more than what you see.",
+  "developers": [
+    "Billy Basso"
+  ],
+  "publishers": [
+    "Bigmode"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 9, 2024",
+  "releaseYear": 2024,
+  "metacritic": 90,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813230/header.jpg?t=1776365443",
+  "isFree": false
+}

@@ -1,0 +1,45 @@
+{
+  "appid": 2483190,
+  "type": "game",
+  "shortDescription": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
+  "developers": [
+    "Playground Games"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "genres": [
+    "Racing",
+    "Simulation",
+    "Sports"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Chat Text-to-speech",
+    "Color Alternatives",
+    "#category_contrast_controls",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Gamepad Recommended",
+    "Keyboard Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Surround Sound",
+    "HDR available",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 18, 2026",
+  "releaseYear": 2026,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1786467254",
+  "isFree": false
+}

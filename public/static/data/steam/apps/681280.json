@@ -1,0 +1,35 @@
+{
+  "appid": 681280,
+  "type": "game",
+  "shortDescription": "Descenders is extreme downhill freeriding for the modern era, with procedurally generated worlds, and where mistakes have real consequences. Will you lead your team to glory and become the next legendary Descender?",
+  "developers": [
+    "RageSquid"
+  ],
+  "publishers": [
+    "No More Robots"
+  ],
+  "genres": [
+    "Action",
+    "Racing",
+    "Sports"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Stats",
+    "Steam Leaderboards",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 7, 2019",
+  "releaseYear": 2019,
+  "metacritic": 78,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681280/header.jpg?t=1764690930",
+  "isFree": false
+}

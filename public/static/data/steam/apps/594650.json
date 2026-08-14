@@ -1,0 +1,33 @@
+{
+  "appid": 594650,
+  "type": "game",
+  "shortDescription": "Hunt: Showdown 1896 is the brutally rewarding extraction shooter. Track twisted monsters and overcome ruthless PvP. Take bounties in corrupted backwaters lost to history. With a team, you might survive. Die with nothing or get out with everything.",
+  "developers": [
+    "Crytek"
+  ],
+  "publishers": [
+    "Crytek"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "In-App Purchases",
+    "Steam Leaderboards",
+    "Remote Play on Tablet",
+    "Remote Play on TV"
+  ],
+  "releaseDate": "Aug 27, 2019",
+  "releaseYear": 2019,
+  "metacritic": 81,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/279c054bf947c40225a8f2f56b15bf7f817976f0/header_alt_assets_27.jpg?t=1785847079",
+  "isFree": false
+}

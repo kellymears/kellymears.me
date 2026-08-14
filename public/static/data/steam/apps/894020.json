@@ -1,0 +1,31 @@
+{
+  "appid": 894020,
+  "type": "game",
+  "shortDescription": "Reaping souls of the dead and punching a clock might get monotonous but it's honest work for a Crow. The job gets lively when your assigned soul is stolen and you must track down a desperate thief to a realm untouched by death - where creatures grow far past their expiry.",
+  "developers": [
+    "Acid Nerve"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Gamepad Recommended",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 20, 2021",
+  "releaseYear": 2021,
+  "metacritic": 85,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894020/header.jpg?t=1732729764",
+  "isFree": false
+}

@@ -1,0 +1,31 @@
+{
+  "appid": 567640,
+  "type": "game",
+  "shortDescription": "A new cast of 16 characters find themselves kidnapped and imprisoned in a school. Inside, some will kill, some will die, and some will be punished. Reimagine what you thought high-stakes, fast-paced investigation was as you investigate twisted murder cases and condemn your new friends to death.",
+  "developers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "publishers": [
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "genres": [
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 25, 2017",
+  "releaseYear": 2017,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567640/header.jpg?t=1750134757",
+  "isFree": false
+}

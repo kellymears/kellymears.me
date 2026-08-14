@@ -1,0 +1,31 @@
+{
+  "appid": 1574260,
+  "type": "game",
+  "shortDescription": "Something scary is happening with everyone's favorite Saturday morning puppet show, The Friendly Neighborhood! Play as Gordon, a repairman sent to get to the bottom of this disturbing dilemma. Fend off puppets and solve puzzles in this survival horror adventure.",
+  "developers": [
+    "John Szymanski",
+    "Evan Szymanski"
+  ],
+  "publishers": [
+    "DreadXP"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Captions available",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 18, 2023",
+  "releaseYear": 2023,
+  "metacritic": 82,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574260/5d9c2790882f3faf242dd5c92b4b99851c94130f/header.jpg?t=1752598029",
+  "isFree": false
+}

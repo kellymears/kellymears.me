@@ -1,0 +1,34 @@
+{
+  "appid": 311690,
+  "type": "game",
+  "shortDescription": "Enter the Gungeon is a bullet hell dungeon crawler following a band of misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past.",
+  "developers": [
+    "Dodge Roll"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 5, 2016",
+  "releaseYear": 2016,
+  "metacritic": 84,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311690/471d245bd8a37011c16852694342e5ad2d8a4667/header.jpg?t=1779733990",
+  "isFree": false
+}

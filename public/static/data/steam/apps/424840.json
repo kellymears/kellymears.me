@@ -1,0 +1,29 @@
+{
+  "appid": 424840,
+  "type": "game",
+  "shortDescription": "Take on the role of Six, a lone child lost in a massive metal vessel known as the Maw, surrounded by dangerous, distorted versions of adults. You’ll need to do your best to escape in one piece or your fate will be worse than you ever dared dream.",
+  "developers": [
+    "Tarsier Studios"
+  ],
+  "publishers": [
+    "BANDAI NAMCO Entertainment"
+  ],
+  "genres": [
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 27, 2017",
+  "releaseYear": 2017,
+  "metacritic": 81,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424840/facf9a7a675c6d7f210d96d6b111caffe0386cd5/header.jpg?t=1773135169",
+  "isFree": false
+}

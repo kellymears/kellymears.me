@@ -1,0 +1,40 @@
+{
+  "appid": 255070,
+  "type": "game",
+  "shortDescription": "From indie Chilean developer ACE Team comes a new side-scrolling action adventure game featuring a complex fighting engine in procedurally generated levels that destines its three warriors to battle a different abyss each time! Choose your hero and also learn to possess your enemies in the abyss…",
+  "developers": [
+    "ACE Team"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 15, 2014",
+  "releaseYear": 2014,
+  "metacritic": 69,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255070/header.jpg?t=1603132080",
+  "isFree": false
+}

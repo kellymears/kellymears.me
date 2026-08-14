@@ -1,0 +1,36 @@
+{
+  "appid": 2379780,
+  "type": "game",
+  "shortDescription": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.",
+  "developers": [
+    "LocalThunk"
+  ],
+  "publishers": [
+    "Playstack"
+  ],
+  "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "Playable without Timed Input",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Touch Only Option",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 20, 2024",
+  "releaseYear": 2024,
+  "metacritic": 90,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg?t=1786037325",
+  "isFree": false
+}

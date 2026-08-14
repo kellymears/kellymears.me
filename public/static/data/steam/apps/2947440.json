@@ -1,0 +1,37 @@
+{
+  "appid": 2947440,
+  "type": "game",
+  "shortDescription": "Hinako's hometown is engulfed in fog, driving her to fight grotesque monsters and solve eerie puzzles. Uncover the disturbing beauty hidden in terror.",
+  "developers": [
+    "NeoBards Entertainment Ltd."
+  ],
+  "publishers": [
+    "KONAMI"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Gamepad Recommended",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Surround Sound",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 24, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
+  "isFree": false
+}

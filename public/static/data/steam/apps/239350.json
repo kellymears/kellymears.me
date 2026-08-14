@@ -1,0 +1,37 @@
+{
+  "appid": 239350,
+  "type": "game",
+  "shortDescription": "Spelunky is a unique platformer with randomized levels that offer a challenging new experience each time you play. Journey deep underground and explore fantastic places filled with all manner of monsters, traps, and treasure.",
+  "developers": [
+    "Mossmouth"
+  ],
+  "publishers": [
+    "Mossmouth"
+  ],
+  "genres": [
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Leaderboards",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 8, 2013",
+  "releaseYear": 2013,
+  "metacritic": 90,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239350/header.jpg?t=1632912566",
+  "isFree": false
+}

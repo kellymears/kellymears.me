@@ -1,0 +1,31 @@
+{
+  "appid": 475190,
+  "type": "game",
+  "shortDescription": "Scanner Sombre is a 3d horror cave exploration game where darkness is your greatest foe. Illuminate the unseen with your LIDAR scanner, revealing the eerie beauty and peril of the abyss. From the creators of Prison Architect, this immersive adventure uses light and shadow for a haunting experience.",
+  "developers": [
+    "Introversion Software"
+  ],
+  "publishers": [
+    "Introversion Software"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Full controller support",
+    "Tracked Controller Support",
+    "VR Supported",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 26, 2017",
+  "releaseYear": 2017,
+  "metacritic": 67,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/475190/header.jpg?t=1785603575",
+  "isFree": false
+}

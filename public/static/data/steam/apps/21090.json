@@ -1,0 +1,25 @@
+{
+  "appid": 21090,
+  "type": "game",
+  "shortDescription": "Experience the original F.E.A.R. along with F.E.A.R. Extraction Point and F.E.A.R. Perseus Mandate.",
+  "developers": [
+    "Monolith Productions, Inc.",
+    "Timegate"
+  ],
+  "publishers": [
+    "Warner Bros. Games",
+    "Warner Bros. Interactive Entertainment"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 21, 2010",
+  "releaseYear": 2010,
+  "metacritic": 88,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/21090/header.jpg?t=1773443317",
+  "isFree": false
+}

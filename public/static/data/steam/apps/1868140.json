@@ -1,0 +1,34 @@
+{
+  "appid": 1868140,
+  "type": "game",
+  "shortDescription": "DAVE THE DIVER is a casual, singleplayer adventure RPG featuring deep-sea exploration and fishing during the day and sushi restaurant management at night. Join Dave and his quirky friends as they seek to uncover the secrets of the mysterious Blue Hole.",
+  "developers": [
+    "MINTROCKET"
+  ],
+  "publishers": [
+    "MINTROCKET"
+  ],
+  "genres": [
+    "Adventure",
+    "Casual",
+    "RPG",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jun 28, 2023",
+  "releaseYear": 2023,
+  "metacritic": 90,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/81bdb3bce15d27ca1b4554a642d91096e89be229/header.jpg?t=1786442860",
+  "isFree": false
+}

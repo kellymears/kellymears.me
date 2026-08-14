@@ -1,0 +1,41 @@
+{
+  "appid": 214950,
+  "type": "game",
+  "shortDescription": "Emperor Edition is the definitive edition of ROME II, featuring an improved politics system, overhauled building chains, rebalanced battles and improved visuals in both campaign and battleEmperor Edition contains all free feature updates since its release in 2013, which includes bug fixes, balancing, Twitch.",
+  "developers": [
+    "CREATIVE ASSEMBLY",
+    "Feral Interactive"
+  ],
+  "publishers": [
+    "SEGA",
+    "Feral Interactive"
+  ],
+  "genres": [
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Co-op",
+    "Online Co-op",
+    "LAN Co-op",
+    "Steam Trading Cards",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 2, 2013",
+  "releaseYear": 2013,
+  "metacritic": 76,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214950/header.jpg?t=1768912466",
+  "isFree": false
+}

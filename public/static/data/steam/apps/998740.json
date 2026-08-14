@@ -1,0 +1,36 @@
+{
+  "appid": 998740,
+  "type": "game",
+  "shortDescription": "Enter the Ring of Pain, a roguelike card crawler where encounters come to you. Each step around the ring a dire decision. Go for the loot or backstab a creeping horror? Meet strange friends bearing gifts and treasure. Choose your gear wisely to survive and discover the secrets of the Ring of Pain.",
+  "developers": [
+    "Simon Boxer",
+    "Twice Different"
+  ],
+  "publishers": [
+    "Balor Games"
+  ],
+  "genres": [
+    "Indie",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 15, 2020",
+  "releaseYear": 2020,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/998740/header.jpg?t=1773696171",
+  "isFree": false
+}

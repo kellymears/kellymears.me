@@ -1,0 +1,41 @@
+{
+  "appid": 2162800,
+  "type": "game",
+  "shortDescription": "Dive into a factory-building game with the focus on just that – building huge space factories! Design sprawling multi-level factories and satisfying production lines without limits. Tackle progressively challenging automation goals at your own pace, without the threat of enemies.",
+  "developers": [
+    "tobspr Games"
+  ],
+  "publishers": [
+    "tobspr Games",
+    "Gamirror Games"
+  ],
+  "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Workshop",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Color Alternatives",
+    "#category_contrast_controls",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 23, 2026",
+  "releaseYear": 2026,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/680ac087db67c922e0340548103235a7529ec5df/header.jpg?t=1783116690",
+  "isFree": false
+}

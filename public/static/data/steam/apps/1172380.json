@@ -1,0 +1,35 @@
+{
+  "appid": 1172380,
+  "type": "game",
+  "shortDescription": "A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order, a 3rd person action-adventure title from Respawn. An abandoned Padawan must complete his training, develop new powerful Force abilities, and master the art of the lightsaber - all while staying one step ahead of the Empire.",
+  "developers": [
+    "Respawn Entertainment"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Adjustable Difficulty",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Surround Sound",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "HDR available"
+  ],
+  "releaseDate": "Nov 14, 2019",
+  "releaseYear": 2019,
+  "metacritic": 81,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg?t=1781890314",
+  "isFree": false
+}

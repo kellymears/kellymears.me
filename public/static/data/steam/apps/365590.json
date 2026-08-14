@@ -1,0 +1,34 @@
+{
+  "appid": 365590,
+  "type": "game",
+  "shortDescription": "A tactical open world third-person shooter set in New York after a deadly pandemic. Team up or go solo to restore order against deadly factions, secure loot, and conquer high-risk endgame challenges.",
+  "developers": [
+    "Massive Entertainment"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Captions available",
+    "In-App Purchases"
+  ],
+  "releaseDate": "Mar 7, 2016",
+  "releaseYear": 2016,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365590/e36fd6a73af2b20d6286633ee3a089acf53397ff/header.jpg?t=1782421726",
+  "isFree": false
+}

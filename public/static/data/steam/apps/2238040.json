@@ -1,0 +1,34 @@
+{
+  "appid": 2238040,
+  "type": "game",
+  "shortDescription": "Terry wants to launch himself into space using his new car. Doing something this cool and reckless will surely make him the talk of the town. Run, drive and glide through this small journey of big discoveries as Terry works towards achieving this goal.",
+  "developers": [
+    "snekflat"
+  ],
+  "publishers": [
+    "Super Rare Originals"
+  ],
+  "genres": [
+    "Adventure",
+    "Casual",
+    "Indie",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 30, 2024",
+  "releaseYear": 2024,
+  "metacritic": 82,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2238040/header.jpg?t=1783069296",
+  "isFree": false
+}

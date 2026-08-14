@@ -1,0 +1,31 @@
+{
+  "appid": 238320,
+  "type": "game",
+  "shortDescription": "Hell is an experiment you can't survive in Outlast, a first-person survival horror game developed by veterans of some of the biggest game franchises in history. As investigative journalist Miles Upshur, explore Mount Massive Asylum and try to survive long enough to discover its terrible secret... if you dare.",
+  "developers": [
+    "Red Barrels"
+  ],
+  "publishers": [
+    "Red Barrels"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Captions available",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 4, 2013",
+  "releaseYear": 2013,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106",
+  "isFree": false
+}

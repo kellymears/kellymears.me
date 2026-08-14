@@ -1,0 +1,40 @@
+{
+  "appid": 292030,
+  "type": "game",
+  "shortDescription": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+  "developers": [
+    "CD PROJEKT RED"
+  ],
+  "publishers": [
+    "CD PROJEKT RED"
+  ],
+  "genres": [
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Stereo Sound",
+    "Surround Sound",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "HDR available",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 18, 2015",
+  "releaseYear": 2015,
+  "metacritic": 93,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
+  "isFree": false
+}

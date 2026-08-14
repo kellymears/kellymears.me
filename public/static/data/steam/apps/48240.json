@@ -1,0 +1,25 @@
+{
+  "appid": 48240,
+  "type": "game",
+  "shortDescription": "Build your society of the future, colonize islands, and create sprawling megacities with multitudes of buildings, vehicles, and resources to manage.",
+  "developers": [
+    "Blue Byte",
+    "Related Designs"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "genres": [
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Trading Cards"
+  ],
+  "releaseDate": "Nov 17, 2011",
+  "releaseYear": 2011,
+  "metacritic": 83,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48240/header.jpg?t=1692033142",
+  "isFree": false
+}

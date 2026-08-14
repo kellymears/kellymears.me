@@ -1,0 +1,36 @@
+{
+  "appid": 394510,
+  "type": "game",
+  "shortDescription": "HELLDIVERS™ is a hardcore, cooperative, twin stick shooter. As part of the elite unit called the HELLDIVERS, players must work together to protect SUPER EARTH and defeat the enemies of mankind in an intense intergalactic war.",
+  "developers": [
+    "Arrowhead Game Studios"
+  ],
+  "publishers": [
+    "PlayStation Publishing LLC"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "DualShock Controller Support",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Valve Anti-Cheat enabled",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Dec 7, 2015",
+  "releaseYear": 2015,
+  "metacritic": 83,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394510/header.jpg?t=1750950223",
+  "isFree": false
+}

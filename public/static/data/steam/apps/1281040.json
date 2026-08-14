@@ -1,0 +1,36 @@
+{
+  "appid": 1281040,
+  "type": "game",
+  "shortDescription": "Play as Nate, an unemployed failson with nothing going for him, until one day he discovers a power he never knew he had… putting one foot in front of the other.",
+  "developers": [
+    "Gabe Cuzzillo",
+    "Maxi Boch",
+    "Bennett Foddy"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 23, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281040/8d57ee5f68ecf97305c2f7847b25f1fbe1c680c2/header.jpg?t=1761065780",
+  "isFree": false
+}

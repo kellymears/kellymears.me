@@ -1,0 +1,40 @@
+{
+  "appid": 248820,
+  "type": "game",
+  "shortDescription": "Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible. Fight on a mysterious planet with randomly spawning enemies and bosses, either alone or with 3 friends in online co-op.",
+  "developers": [
+    "Hopoo Games"
+  ],
+  "publishers": [
+    "Gearbox Publishing",
+    "2K"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Adjustable Text Size",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Keyboard Only Option",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Partial Controller Support",
+    "Remote Play on Tablet",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Nov 8, 2013",
+  "releaseYear": 2013,
+  "metacritic": 77,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/248820/header.jpg?t=1782157778",
+  "isFree": false
+}

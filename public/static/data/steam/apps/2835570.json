@@ -1,0 +1,36 @@
+{
+  "appid": 2835570,
+  "type": "game",
+  "shortDescription": "Play Russian roulette with a 12-gauge shotgun. Four enter. One leaves. Roll the dice with your life. Good luck!",
+  "developers": [
+    "Mike Klubnika"
+  ],
+  "publishers": [
+    "CRITICAL REFLEX"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Partial Controller Support",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 4, 2024",
+  "releaseYear": 2024,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2835570/header.jpg?t=1783085442",
+  "isFree": false
+}

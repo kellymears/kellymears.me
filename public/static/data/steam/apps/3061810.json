@@ -1,0 +1,33 @@
+{
+  "appid": 3061810,
+  "type": "game",
+  "shortDescription": "Embark on an over-the-top, modern-day pirate adventure with an ex-yakuza, now pirate captain &amp; his crew. Engage in exhilarating combat on land and sea in the hunt for lost memories and treasure.",
+  "developers": [
+    "RGG Studio"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 20, 2025",
+  "releaseYear": 2025,
+  "metacritic": 81,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061810/header.jpg?t=1781258528",
+  "isFree": false
+}

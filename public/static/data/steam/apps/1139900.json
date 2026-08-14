@@ -1,0 +1,30 @@
+{
+  "appid": 1139900,
+  "type": "game",
+  "shortDescription": "Ghostrunner offers a unique single-player experience: fast-paced, violent combat, and an original setting that blends science fiction with post-apocalyptic themes. It tells the story of a world that has already ended and its inhabitants who fight to survive.",
+  "developers": [
+    "One More Level",
+    "3D Realms",
+    "Slipgate Ironworks™",
+    "All in! Games"
+  ],
+  "publishers": [
+    "505 Games"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 27, 2020",
+  "releaseYear": 2020,
+  "metacritic": 81,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/header.jpg?t=1786099137",
+  "isFree": false
+}

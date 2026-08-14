@@ -1,0 +1,43 @@
+{
+  "appid": 274190,
+  "type": "game",
+  "shortDescription": "Broforce is an action-packed side-scrolling run ‘n’ gun ode to freedom, putting you in control of an under-funded, overpowered paramilitary organization dealing exclusively in excessive force.",
+  "developers": [
+    "Free Lives"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Includes level editor",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 15, 2015",
+  "releaseYear": 2015,
+  "metacritic": 83,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274190/header.jpg?t=1764247760",
+  "isFree": false
+}

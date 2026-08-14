@@ -1,0 +1,35 @@
+{
+  "appid": 3224770,
+  "type": "game",
+  "shortDescription": "Umamusume: Pretty Derby, winner of Best Mobile Game at The Game Awards 2025, is ready to race! Scout featured trainees and supporters as you navigate the immersive sports life simulation through the game's in-depth training system and top-of-the-line 3D graphics!",
+  "developers": [
+    "Cygames, Inc."
+  ],
+  "publishers": [
+    "Cygames, Inc."
+  ],
+  "genres": [
+    "Simulation",
+    "Sports",
+    "Free To Play"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "Full controller support",
+    "In-App Purchases",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jun 24, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224770/d7ddfe8985d7be8db7a0195d5c482c4438ed929d/header.jpg?t=1773306345",
+  "isFree": true
+}

@@ -1,0 +1,47 @@
+{
+  "appid": 427520,
+  "type": "game",
+  "shortDescription": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
+  "developers": [
+    "Wube Software LTD."
+  ],
+  "publishers": [
+    "Wube Software LTD."
+  ],
+  "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "LAN Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Subtitle Options",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Includes level editor",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 14, 2020",
+  "releaseYear": 2020,
+  "metacritic": 90,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg?t=1763986204",
+  "isFree": false
+}

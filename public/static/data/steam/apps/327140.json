@@ -1,0 +1,27 @@
+{
+  "appid": 327140,
+  "type": "game",
+  "shortDescription": "Tilt Brush lets you paint in 3D space with virtual reality. Unleash your creativity with three-dimensional brush strokes, stars, light, and even fire. Your room is your canvas. Your palette is your imagination. The possibilities are endless.",
+  "developers": [
+    "Google"
+  ],
+  "publishers": [
+    "Google"
+  ],
+  "genres": [
+    "Free To Play",
+    "Design & Illustration"
+  ],
+  "categories": [
+    "Tracked Controller Support",
+    "VR Only",
+    "VR Support",
+    "SteamVR Collectibles",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 5, 2016",
+  "releaseYear": 2016,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327140/header.jpg?t=1726856282",
+  "isFree": true
+}

@@ -1,0 +1,35 @@
+{
+  "appid": 464350,
+  "type": "game",
+  "shortDescription": "Screeps: World is an open source MMO strategy sandbox game for programming enthusiasts. You control your colony by writing JavaScript code that operates 24/7 in the huge persistent online open world.",
+  "developers": [
+    "Screeps, LLC"
+  ],
+  "publishers": [
+    "Screeps, LLC"
+  ],
+  "genres": [
+    "Indie",
+    "Massively Multiplayer",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "MMO",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Cross-Platform Multiplayer",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Stats",
+    "Steam Leaderboards"
+  ],
+  "releaseDate": "Nov 16, 2016",
+  "releaseYear": 2016,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/d1efe845a1ba21f781f8dffd96a1242d4db0115d/header.jpg?t=1779454266",
+  "isFree": false
+}

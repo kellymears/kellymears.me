@@ -1,0 +1,33 @@
+{
+  "appid": 3167020,
+  "type": "game",
+  "shortDescription": "Escape from Duckov is a PVE indie survival RPG — in a duck's world!. Scavenge for resources, build your hideout, and upgrade your gear in the world of Duckov. Start from nothing and rise to the top. Outwit hostile ducks, survive, or make it out alive.",
+  "developers": [
+    "Team Soda"
+  ],
+  "publishers": [
+    "bilibili"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 16, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/header.jpg?t=1783321966",
+  "isFree": false
+}

@@ -1,0 +1,33 @@
+{
+  "appid": 245620,
+  "type": "game",
+  "shortDescription": "Return to the remote island nation of Tropico and expand your Dynasty’s reign from the early colonial period to beyond the 21st Century, facing new challenges including advanced trading mechanics, technology and scientific research, as well as cooperative and competitive MULTIPLAYER.",
+  "developers": [
+    "Haemimont Games"
+  ],
+  "publishers": [
+    "Kalypso Media Digital"
+  ],
+  "genres": [
+    "RPG",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Includes level editor",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 23, 2014",
+  "releaseYear": 2014,
+  "metacritic": 75,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/245620/header.jpg?t=1755702263",
+  "isFree": false
+}

@@ -1,0 +1,29 @@
+{
+  "appid": 390610,
+  "type": "game",
+  "shortDescription": "Circa Infinity is a brain-melting circular platformer by Kenny Sun, with a pulse-pounding soundtrack by Jack + Jim Fay.",
+  "developers": [
+    "Kenny Sun"
+  ],
+  "publishers": [
+    "Kenny Sun"
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Stats",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 8, 2015",
+  "releaseYear": 2015,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390610/header.jpg?t=1568919195",
+  "isFree": false
+}

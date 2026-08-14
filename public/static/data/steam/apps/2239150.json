@@ -1,0 +1,30 @@
+{
+  "appid": 2239150,
+  "type": "game",
+  "shortDescription": "A minimalist game about building and defending your little kingdom.",
+  "developers": [
+    "GrizzlyGames",
+    "Mythwright"
+  ],
+  "publishers": [
+    "Mythwright"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 11, 2024",
+  "releaseYear": 2024,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/header.jpg?t=1781163871",
+  "isFree": false
+}

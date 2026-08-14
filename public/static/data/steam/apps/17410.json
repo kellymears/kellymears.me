@@ -1,0 +1,27 @@
+{
+  "appid": 17410,
+  "type": "game",
+  "shortDescription": "In a city where information is heavily monitored, couriers called Runners transport sensitive data. In this seemingly utopian paradise, a crime has been committed, &amp; you are being hunted. You are a Runner called Faith and this innovative first-person action-adventure is your story.",
+  "developers": [
+    "DICE"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jan 14, 2009",
+  "releaseYear": 2009,
+  "metacritic": 81,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17410/header.jpg?t=1777394972",
+  "isFree": false
+}

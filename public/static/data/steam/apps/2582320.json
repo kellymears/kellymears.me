@@ -1,0 +1,39 @@
+{
+  "appid": 2582320,
+  "type": "game",
+  "shortDescription": "On their last night together, three friends embark on one final adventure. Play through a mixtape of memories, set to the soundtrack of a generation.",
+  "developers": [
+    "Beethoven and Dinosaur"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Adjustable Text Size",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Gamepad Recommended",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 7, 2026",
+  "releaseYear": 2026,
+  "metacritic": 87,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582320/95bbf1097b6f66f39b56f6388250c97a2f43b59e/header.jpg?t=1785424305",
+  "isFree": false
+}

@@ -1,0 +1,27 @@
+{
+  "appid": 1249040,
+  "type": "game",
+  "shortDescription": "American Arcadia is a cinematic puzzle game that combines a 2.5D platformer and first-person game to tell the tale of a thrilling escape. Experience the extraordinary story of Trevor, an average man escaping from the world's most popular reality tv show.",
+  "developers": [
+    "Out of the Blue Games"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Nov 15, 2023",
+  "releaseYear": 2023,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249040/header.jpg?t=1782456441",
+  "isFree": false
+}

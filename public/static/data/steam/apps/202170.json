@@ -1,0 +1,28 @@
+{
+  "appid": 202170,
+  "type": "game",
+  "shortDescription": "As Wei Shen, an undercover cop trying to take down the Triads, you'll have to fight your way up the organization without blowing your cover.",
+  "developers": [
+    "United Front Games"
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "",
+  "releaseYear": null,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202170/header.jpg?t=1773836313",
+  "isFree": false
+}

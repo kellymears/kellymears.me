@@ -1,0 +1,30 @@
+{
+  "appid": 3830,
+  "type": "game",
+  "shortDescription": "A Psychic Odyssey Through the Minds of Misfits, Monsters, and Madmen. This classic action/adventure platformer from acclaimed developers Double Fine Productions follows the story of a young psychic named Razputin.",
+  "developers": [
+    "Double Fine Productions"
+  ],
+  "publishers": [
+    "Double Fine Productions",
+    "Xbox Game Studios"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 11, 2006",
+  "releaseYear": 2006,
+  "metacritic": 87,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3830/header.jpg?t=1776379310",
+  "isFree": false
+}

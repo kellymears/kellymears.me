@@ -1,0 +1,27 @@
+{
+  "appid": 1315980,
+  "type": "game",
+  "shortDescription": "You've barely managed to escape your exploding spaceship. Now in an old escape pod, you hurtle through space at the mercy of the cosmos. With no knowledge of the pod’s complex systems, your life depends on a technical manual and your own wits. How long can you survive?",
+  "developers": [
+    "Tin Can Studio"
+  ],
+  "publishers": [
+    "Tin Can Studio"
+  ],
+  "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "VR Supported",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 12, 2022",
+  "releaseYear": 2022,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1315980/ea244cd0b9ab6519b08c3cdc333546dae39f0566/header.jpg?t=1778834336",
+  "isFree": false
+}

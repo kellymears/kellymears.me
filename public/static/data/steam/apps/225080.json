@@ -1,0 +1,26 @@
+{
+  "appid": 225080,
+  "type": "game",
+  "shortDescription": "Guide two brothers on an epic fairy tale journey from visionary Swedish film director, Josef Fares and top-tier developer Starbreeze Studios. Control both brothers at once as you experience co-op play in single player mode, like never before.",
+  "developers": [
+    "Starbreeze Studios AB"
+  ],
+  "publishers": [
+    "505 Games"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Full controller support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 3, 2013",
+  "releaseYear": 2013,
+  "metacritic": 90,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225080/dbfc904916a519d4c0cbea79f898cf33fc231ee1/header.jpg?t=1776415514",
+  "isFree": false
+}

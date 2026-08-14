@@ -1,0 +1,28 @@
+{
+  "appid": 234390,
+  "type": "game",
+  "shortDescription": "In a cold, dark future dominated by mega-corporations, a small lonely planet on the edge of habitable space is the site of a shadowy research facility specializing in necrotic tissue reactivation. You are a scientist who has suddenly awoken to the realization that you are the lone survivor.",
+  "developers": [
+    "Test3 Projects"
+  ],
+  "publishers": [
+    "Paradox Interactive"
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 24, 2013",
+  "releaseYear": 2013,
+  "metacritic": 78,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234390/header.jpg?t=1726497232",
+  "isFree": false
+}

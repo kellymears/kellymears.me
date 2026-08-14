@@ -1,0 +1,26 @@
+{
+  "appid": 405640,
+  "type": "game",
+  "shortDescription": "Pony Island is a suspense puzzle game in disguise. You are in limbo, trapped in a malevolent and malfunctioning arcade machine devised by the devil himself. It is not a game about ponies.",
+  "developers": [
+    "Daniel Mullins Games"
+  ],
+  "publishers": [
+    "Daniel Mullins Games"
+  ],
+  "genres": [
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Stats",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jan 4, 2016",
+  "releaseYear": 2016,
+  "metacritic": 86,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405640/header.jpg?t=1784911389",
+  "isFree": false
+}

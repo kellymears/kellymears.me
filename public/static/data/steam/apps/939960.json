@@ -1,0 +1,39 @@
+{
+  "appid": 939960,
+  "type": "game",
+  "shortDescription": "Dive into a transformed vibrant post-apocalyptic Hope County, Montana, 17 years after a global nuclear catastrophe. Lead the fight against the Highwaymen, as they seek to take over the last remaining resources.",
+  "developers": [
+    "Ubisoft Montreal",
+    "Ubisoft Kiev",
+    "Ubisoft Shanghai"
+  ],
+  "publishers": [
+    "Ubisoft"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "In-App Purchases",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Adjustable Difficulty",
+    "Mouse Only Option",
+    "Save Anytime",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Surround Sound",
+    "Partial Controller Support"
+  ],
+  "releaseDate": "Feb 15, 2019",
+  "releaseYear": 2019,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/header.jpg?t=1750925197",
+  "isFree": false
+}

@@ -1,0 +1,32 @@
+{
+  "appid": 927380,
+  "type": "game",
+  "shortDescription": "Kazuma Kiryu, the Dragon of Dojima, must face the ambitious Ryuji Goda, the Dragon of Kansai, in an all-out war between two rival yakuza clans. An extreme recreation of one of Yakuza’s most beloved entries, now in stunning 4K and unlocked framerates. There can be only one dragon.",
+  "developers": [
+    "Ryu Ga Gotoku Studio"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 9, 2019",
+  "releaseYear": 2019,
+  "metacritic": 82,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/927380/header.jpg?t=1765536902",
+  "isFree": false
+}

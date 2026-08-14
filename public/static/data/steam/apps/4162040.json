@@ -1,0 +1,33 @@
+{
+  "appid": 4162040,
+  "type": "game",
+  "shortDescription": "Zenless Zone Zero is HoYoverse’s brand-new urban fantasy ARPG. Players act as &quot;Proxies&quot; who explore Hollows alongside a wide range of unique Agents, fighting enemies, and completing commissions on their journey to unveil the mysteries behind New Eridu.",
+  "developers": [
+    "COGNOSPHERE PTE. LTD."
+  ],
+  "publishers": [
+    "COGNOSPHERE PTE. LTD."
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Free To Play"
+  ],
+  "categories": [
+    "Single-player",
+    "In-App Purchases",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Partial Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jun 16, 2026",
+  "releaseYear": 2026,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162040/e60db1b53e9e0161b0b827f32f902ced884d38c0/header_alt_assets_0.jpg?t=1785276247",
+  "isFree": true
+}

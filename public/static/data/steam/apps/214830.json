@@ -1,0 +1,32 @@
+{
+  "appid": 214830,
+  "type": "game",
+  "shortDescription": "The world is at an end, and you have 30 seconds to save it!",
+  "developers": [
+    "Opus"
+  ],
+  "publishers": [
+    "Marvelous"
+  ],
+  "genres": [
+    "Action",
+    "Casual",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Stats",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 27, 2012",
+  "releaseYear": 2012,
+  "metacritic": 75,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214830/header.jpg?t=1594365891",
+  "isFree": false
+}

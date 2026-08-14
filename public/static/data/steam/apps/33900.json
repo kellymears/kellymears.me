@@ -1,0 +1,30 @@
+{
+  "appid": 33900,
+  "type": "game",
+  "shortDescription": "Building on 10 years of constant engine development, ARMA II boasts the most realistic combat environment in the world. It models real world ballistics &amp; round deflection, materials penetration, features a realtime day/night cycle and dynamic wind, weather and environmental effects.",
+  "developers": [
+    "Bohemia Interactive"
+  ],
+  "publishers": [
+    "Bohemia Interactive"
+  ],
+  "genres": [
+    "Action",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Captions available",
+    "Partial Controller Support",
+    "Includes level editor",
+    "Family Sharing"
+  ],
+  "releaseDate": "",
+  "releaseYear": null,
+  "metacritic": 77,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33900/header.jpg?t=1754679005",
+  "isFree": false
+}

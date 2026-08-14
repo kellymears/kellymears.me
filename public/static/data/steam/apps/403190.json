@@ -1,0 +1,28 @@
+{
+  "appid": 403190,
+  "type": "game",
+  "shortDescription": "Guide a group of space settlers trying to establish a base on a remote planet. Grow food, collect energy, mine resources, survive disasters and build a self-sufficient colony in a harsh and unforgiving environment.",
+  "developers": [
+    "Madruga Works"
+  ],
+  "publishers": [
+    "Madruga Works"
+  ],
+  "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 15, 2015",
+  "releaseYear": 2015,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403190/header.jpg?t=1762764646",
+  "isFree": false
+}

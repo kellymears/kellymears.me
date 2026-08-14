@@ -1,0 +1,22 @@
+{
+  "appid": 13250,
+  "type": "game",
+  "shortDescription": "Your prison ship has crash-landed on the fastest, sleekest, most dangerous 3D world ever created. Look around, crystal clear water shimmers, shadows dance and shift, alien architecture fades into the horizon.",
+  "developers": [
+    "Epic Games, Inc."
+  ],
+  "publishers": [],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 17, 2008",
+  "releaseYear": 2008,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/13250/header.jpg?t=1671033925",
+  "isFree": false
+}

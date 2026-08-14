@@ -1,0 +1,28 @@
+{
+  "appid": 1190170,
+  "type": "game",
+  "shortDescription": "OlliOlli World is a bold new skateboarding action-platformer that’s bursting with personality. Flip and flow through the vivid and vibrant world of Radlandia, meeting colorful characters as you grind, trick, and air your way to discover the mystical skate gods on your quest for Gnarvana.",
+  "developers": [
+    "Roll7"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Sports"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 7, 2022",
+  "releaseYear": 2022,
+  "metacritic": 87,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190170/header.jpg?t=1749136439",
+  "isFree": false
+}

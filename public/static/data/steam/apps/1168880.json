@@ -1,0 +1,27 @@
+{
+  "appid": 1168880,
+  "type": "game",
+  "shortDescription": "Use the MOLEK-SYNTEZ to create small molecules with various pharmacological effects from the comfort of your small Romanian apartment.",
+  "developers": [
+    "Zachtronics"
+  ],
+  "publishers": [
+    "Zachtronics"
+  ],
+  "genres": [
+    "Indie",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "releaseDate": "Nov 19, 2019",
+  "releaseYear": 2019,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1168880/header.jpg?t=1667070622",
+  "isFree": false
+}

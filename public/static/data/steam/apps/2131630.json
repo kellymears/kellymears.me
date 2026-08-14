@@ -1,0 +1,28 @@
+{
+  "appid": 2131630,
+  "type": "game",
+  "shortDescription": "The first 3D title in the METAL GEAR series pioneering a new level of stealth action with live action footage, cinematic cut scenes, and innovative gameplay.",
+  "developers": [
+    "KONAMI"
+  ],
+  "publishers": [
+    "KONAMI"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 24, 2023",
+  "releaseYear": 2023,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2131630/header.jpg?t=1782165092",
+  "isFree": false
+}

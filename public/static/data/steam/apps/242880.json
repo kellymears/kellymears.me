@@ -1,0 +1,28 @@
+{
+  "appid": 242880,
+  "type": "game",
+  "shortDescription": "Sir, You Are Being Hunted is a freedom sandbox stealth experience, where each playthrough is unique, thanks to our British Countryside Generator. Escape from these robot-infested islands with violence, trickery and stealth. This brutally funny game is available for Windows, OSX, and Linux.",
+  "developers": [
+    "Big Robot Ltd"
+  ],
+  "publishers": [
+    "Big Robot Ltd"
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Stats",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 2, 2014",
+  "releaseYear": 2014,
+  "metacritic": 63,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242880/header.jpg?t=1718831931",
+  "isFree": false
+}

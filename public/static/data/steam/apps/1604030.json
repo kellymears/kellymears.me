@@ -1,0 +1,47 @@
+{
+  "appid": 1604030,
+  "type": "game",
+  "shortDescription": "Awaken as a Vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing, open world full of mystery. Gain allies online and conquer the land of the living.",
+  "developers": [
+    "Stunlock Studios"
+  ],
+  "publishers": [
+    "Stunlock Studios"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Massively Multiplayer"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Co-op",
+    "Online Co-op",
+    "LAN Co-op",
+    "Steam Achievements",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Surround Sound",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 8, 2024",
+  "releaseYear": 2024,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604030/be49834ab147ad22ba17005fb847c93917d18b97/header.jpg?t=1785921000",
+  "isFree": false
+}

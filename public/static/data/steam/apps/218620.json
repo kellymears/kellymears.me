@@ -1,0 +1,43 @@
+{
+  "appid": 218620,
+  "type": "game",
+  "shortDescription": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+  "developers": [
+    "OVERKILL - a Starbreeze Studio."
+  ],
+  "publishers": [
+    "Starbreeze Entertainment"
+  ],
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Tracked Controller Support",
+    "VR Supported",
+    "Steam Trading Cards",
+    "In-App Purchases",
+    "Camera Comfort",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 13, 2013",
+  "releaseYear": 2013,
+  "metacritic": 79,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/a951ed5695cfd77c365b430247e0bdf117a4a060/header_alt_assets_20.jpg?t=1786626315",
+  "isFree": false
+}

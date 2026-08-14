@@ -1,0 +1,28 @@
+{
+  "appid": 2200,
+  "type": "game",
+  "shortDescription": "The greatest warriors of all time and space have been summoned to battle for the amusement of an ancient alien race. Wield a variety of guns and power-ups as you fight for glory against ruthless combatants in this fast-paced single-player and multiplayer FPS.",
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 3, 2007",
+  "releaseYear": 2007,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200/header.jpg?t=1782164859",
+  "isFree": false
+}

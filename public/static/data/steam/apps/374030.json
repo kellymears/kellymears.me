@@ -1,0 +1,36 @@
+{
+  "appid": 374030,
+  "type": "game",
+  "shortDescription": "Virginia is a single-player first-person thriller set in a small town with a secret. Experience a missing person investigation through the eyes of graduate FBI agent Anne Tarver.",
+  "developers": [
+    "Variable State"
+  ],
+  "publishers": [
+    "505 Games"
+  ],
+  "genres": [
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Captions available",
+    "Camera Comfort",
+    "Playable without Timed Input",
+    "Steam Input API Support",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 22, 2016",
+  "releaseYear": 2016,
+  "metacritic": 74,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374030/header.jpg?t=1782975899",
+  "isFree": false
+}

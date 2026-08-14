@@ -1,0 +1,32 @@
+{
+  "appid": 236430,
+  "type": "game",
+  "shortDescription": "Developed by FROM SOFTWARE, DARK SOULS™ II is the highly anticipated sequel to the gruelling 2011 breakout hit Dark Souls. The unique old-school action RPG experience captivated imaginations of gamers worldwide with incredible challenge and intense emotional reward.",
+  "developers": [
+    "FromSoftware, Inc."
+  ],
+  "publishers": [
+    "BANDAI NAMCO Entertainment",
+    "FromSoftware, Inc."
+  ],
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 25, 2014",
+  "releaseYear": 2014,
+  "metacritic": 91,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236430/header.jpg?t=1726158600",
+  "isFree": false
+}

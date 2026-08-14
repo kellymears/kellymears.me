@@ -1,0 +1,36 @@
+{
+  "appid": 409710,
+  "type": "game",
+  "shortDescription": "BioShock is a shooter unlike any other, loaded with unique weapons and tactics. Complete with an arsenal of revolvers, shotguns, and grenade launchers, players will be forced to genetically modify their DNA to become an even deadlier weapon.",
+  "developers": [
+    "2K Boston",
+    "2K Australia",
+    "Blind Squirrel",
+    "Feral Interactive (Mac)"
+  ],
+  "publishers": [
+    "2K",
+    "Feral Interactive (Mac)"
+  ],
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Commentary available",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 15, 2016",
+  "releaseYear": 2016,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409710/header.jpg?t=1740443728",
+  "isFree": false
+}

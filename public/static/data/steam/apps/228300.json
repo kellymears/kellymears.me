@@ -1,0 +1,29 @@
+{
+  "appid": 228300,
+  "type": "game",
+  "shortDescription": "Remember Me™ is a 3rd person action adventure where players take on the role of Nilin, a former elite memory hunter with the ability to break into people’s minds and steal or even alter their memories.",
+  "developers": [
+    "DONTNOD Entertainment"
+  ],
+  "publishers": [
+    "Capcom"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jun 3, 2013",
+  "releaseYear": 2013,
+  "metacritic": 65,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228300/header.jpg?t=1779340218",
+  "isFree": false
+}

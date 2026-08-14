@@ -1,0 +1,46 @@
+{
+  "appid": 477160,
+  "type": "game",
+  "shortDescription": "Human Fall Flat is a hilarious, light-hearted platformer set in floating dreamscapes that can be played solo or with up to 8 players online. Free new levels keep its vibrant community rewarded.",
+  "developers": [
+    "No Brakes Games"
+  ],
+  "publishers": [
+    "Curve Games"
+  ],
+  "genres": [
+    "Adventure",
+    "Casual",
+    "Indie",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Cloud",
+    "Stats",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 22, 2016",
+  "releaseYear": 2016,
+  "metacritic": 70,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/577b4a6e494dcc8029ed783c6698cd1c156fad3f/header_alt_assets_27.jpg?t=1784801515",
+  "isFree": false
+}

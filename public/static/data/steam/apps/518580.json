@@ -1,0 +1,27 @@
+{
+  "appid": 518580,
+  "type": "game",
+  "shortDescription": "The modern field of Accountancy is a serious and honorable profession. Many human beings have spent their lives toiling over the hard science of numbers. Thousands have died so that we may get to the level of understanding that we have today. Thousands have died.",
+  "developers": [
+    "Crows Crows Crows",
+    "Squanch Games"
+  ],
+  "publishers": [
+    "Crows Crows Crows"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Tracked Controller Support",
+    "VR Only",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 18, 2016",
+  "releaseYear": 2016,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518580/header.jpg?t=1728164233",
+  "isFree": true
+}

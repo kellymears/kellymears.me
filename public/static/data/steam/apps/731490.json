@@ -1,0 +1,30 @@
+{
+  "appid": 731490,
+  "type": "game",
+  "shortDescription": "Your favorite marsupial, Crash Bandicoot™, is back! He’s enhanced, entranced and ready-to-dance with the N. Sane Trilogy. Relive all your favorite moments in Crash Bandicoot™, Crash Bandicoot™ 2: Cortex Strikes Back and Crash Bandicoot™ 3: Warped, now in fully-remastered graphical glory!",
+  "developers": [
+    "Vicarious Visions",
+    "Iron Galaxy Studios"
+  ],
+  "publishers": [
+    "Activision"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jun 29, 2018",
+  "releaseYear": 2018,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731490/header.jpg?t=1742399696",
+  "isFree": false
+}

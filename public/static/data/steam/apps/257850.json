@@ -1,0 +1,38 @@
+{
+  "appid": 257850,
+  "type": "game",
+  "shortDescription": "Explore a beautiful, vast and ruined world riddled with dangers and lost technologies.",
+  "developers": [
+    "Heart Machine"
+  ],
+  "publishers": [
+    "Heart Machine"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Shared/Split Screen Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 31, 2016",
+  "releaseYear": 2016,
+  "metacritic": 84,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/header.jpg?t=1762899660",
+  "isFree": false
+}

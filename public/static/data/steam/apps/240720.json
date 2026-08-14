@@ -1,0 +1,27 @@
+{
+  "appid": 240720,
+  "type": "game",
+  "shortDescription": "A game I made for a certain kind of person. To hurt them.",
+  "developers": [
+    "Bennett Foddy"
+  ],
+  "publishers": [
+    "Bennett Foddy"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Partial Controller Support",
+    "Commentary available",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "releaseDate": "Dec 6, 2017",
+  "releaseYear": 2017,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240720/header.jpg?t=1666987027",
+  "isFree": false
+}

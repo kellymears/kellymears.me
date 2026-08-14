@@ -1,0 +1,32 @@
+{
+  "appid": 303430,
+  "type": "game",
+  "shortDescription": "Drive a constantly spinning limousine around town! Roundabout is a '70s B-Movie game where you pick up passengers, find secret collectibles, take on dangerous missions, and fall in love in a far out open world puzzle adventure - all while driving a revolving limo!",
+  "developers": [
+    "No Goblin"
+  ],
+  "publishers": [
+    "No Goblin"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 18, 2014",
+  "releaseYear": 2014,
+  "metacritic": 75,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303430/header.jpg?t=1773959841",
+  "isFree": false
+}

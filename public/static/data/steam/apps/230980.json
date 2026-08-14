@@ -1,0 +1,25 @@
+{
+  "appid": 230980,
+  "type": "game",
+  "shortDescription": "Starseed Pilgrim is a game about tending a symphonic garden, exploring space, and embracing fate.You are a gardener, tending to empty noise and empty space to fill them both with colour.You are a refugee, building your own world away from the spreading darkness.You are an explorer, discovering new places, new rules, and new fascinations.",
+  "developers": [
+    "droqen"
+  ],
+  "publishers": [
+    "droqen"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Partial Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 16, 2013",
+  "releaseYear": 2013,
+  "metacritic": 83,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230980/header.jpg?t=1634922642",
+  "isFree": false
+}

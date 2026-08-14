@@ -1,0 +1,32 @@
+{
+  "appid": 96800,
+  "type": "game",
+  "shortDescription": "&quot;STUPID mode&quot;, the new DLC, along with the &quot;Duel Mode DLC&quot; are now both free and have been added to Nexuiz!",
+  "developers": [
+    "IllFonic"
+  ],
+  "publishers": [
+    "IllFonic",
+    "Psyop Games"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Achievements",
+    "Steam Workshop",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Stats",
+    "Steam Leaderboards",
+    "Includes level editor",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 10, 2012",
+  "releaseYear": 2012,
+  "metacritic": 54,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/96800/header.jpg?t=1689879715",
+  "isFree": false
+}

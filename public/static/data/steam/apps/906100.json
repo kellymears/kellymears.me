@@ -1,0 +1,27 @@
+{
+  "appid": 906100,
+  "type": "game",
+  "shortDescription": "Observation is a sci-fi thriller uncovering what happened to Dr. Emma Fisher, and the crew of her mission, through the lens of the station’s artificial intelligence S.A.M.",
+  "developers": [
+    "No Code"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 21, 2020",
+  "releaseYear": 2020,
+  "metacritic": 79,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/906100/header.jpg?t=1710929850",
+  "isFree": false
+}

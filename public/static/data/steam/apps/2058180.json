@@ -1,0 +1,32 @@
+{
+  "appid": 2058180,
+  "type": "game",
+  "shortDescription": "Fight for the truth and uncover the twisted crime running deep beneath the surface of Tokyo. In this legal thriller , the balance between justice and mercy teeters on the edge.",
+  "developers": [
+    "RGG Studio"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 14, 2022",
+  "releaseYear": 2022,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058180/header.jpg?t=1781263750",
+  "isFree": false
+}

@@ -1,0 +1,37 @@
+{
+  "appid": 94400,
+  "type": "game",
+  "shortDescription": "Nidhogg is the epic award-winning game of fencing tug-of-war complete with flying giant worms.",
+  "developers": [
+    "Messhof"
+  ],
+  "publishers": [
+    "Messhof"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Sports"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Stats",
+    "Steam Leaderboards",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jan 13, 2014",
+  "releaseYear": 2014,
+  "metacritic": 81,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/94400/header.jpg?t=1744306112",
+  "isFree": false
+}

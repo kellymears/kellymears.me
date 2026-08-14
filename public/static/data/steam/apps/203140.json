@@ -1,0 +1,27 @@
+{
+  "appid": 203140,
+  "type": "game",
+  "shortDescription": "The original assassin is back! Betrayed by the Agency and hunted by the police, Agent 47 finds himself pursuing redemption in a corrupt and twisted world.",
+  "developers": [
+    "Io-Interactive A/S"
+  ],
+  "publishers": [
+    "Io-Interactive A/S"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Nov 19, 2012",
+  "releaseYear": 2012,
+  "metacritic": 79,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203140/header.jpg?t=1734461136",
+  "isFree": false
+}

@@ -1,0 +1,37 @@
+{
+  "appid": 436320,
+  "type": "game",
+  "shortDescription": "Built from the ground up for VR, Raw Data’s action gameplay, intuitive controls, challenging enemies, and sci-fi atmosphere will completely immerse you within the surreal world of Eden Corp. Go solo or team up and become the adrenaline-charged heroes of your own futuristic technothriller.",
+  "developers": [
+    "Survios"
+  ],
+  "publishers": [
+    "Survios"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Tracked Controller Support",
+    "VR Only",
+    "VR Support",
+    "SteamVR Collectibles",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 5, 2017",
+  "releaseYear": 2017,
+  "metacritic": 87,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/436320/header.jpg?t=1688151692",
+  "isFree": false
+}

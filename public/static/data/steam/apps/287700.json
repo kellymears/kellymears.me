@@ -1,0 +1,35 @@
+{
+  "appid": 287700,
+  "type": "game",
+  "shortDescription": "Ushering in a new era for the METAL GEAR franchise with cutting-edge technology powered by the Fox Engine, METAL GEAR SOLID V: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.",
+  "developers": [
+    "KONAMI"
+  ],
+  "publishers": [
+    "KONAMI"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Captions available",
+    "In-App Purchases",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 1, 2015",
+  "releaseYear": 2015,
+  "metacritic": 91,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287700/header.jpg?t=1778872866",
+  "isFree": false
+}

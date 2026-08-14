@@ -1,0 +1,27 @@
+{
+  "appid": 420840,
+  "type": "game",
+  "shortDescription": "BLARP! is a fun-filled physics game build for the HTC Vive. BLARP! uses our intuitive understanding of motions and physics to create an active / addictive experience that is playable by anyone who has ever swung a racket, played with a yoyo, or held a rope.",
+  "developers": [
+    "Isaac Cohen"
+  ],
+  "publishers": [
+    "Isaac Cohen"
+  ],
+  "genres": [
+    "Casual",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Tracked Controller Support",
+    "VR Only",
+    "VR Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 4, 2016",
+  "releaseYear": 2016,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420840/header.jpg?t=1459814635",
+  "isFree": false
+}

@@ -1,0 +1,31 @@
+{
+  "appid": 1875830,
+  "type": "game",
+  "shortDescription": "Become a mighty demigod and battle through a decimated Tokyo in a war between angels and demons. Make new allies along your journey, engage in intense, turn-based combat, recruit hundreds of demons and forge your own path to dictate the fate of all existence.",
+  "developers": [
+    "ATLUS"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "genres": [
+    "Adventure",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jun 13, 2024",
+  "releaseYear": 2024,
+  "metacritic": 90,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875830/header.jpg?t=1763530264",
+  "isFree": false
+}

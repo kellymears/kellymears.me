@@ -1,0 +1,27 @@
+{
+  "appid": 3631290,
+  "type": "game",
+  "shortDescription": "A retro mini-roguelike inside a slot machine. Steady your blade - and spin!",
+  "developers": [
+    "Friedemann"
+  ],
+  "publishers": [
+    "Future Friends Games"
+  ],
+  "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 24, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631290/e6717abc9fe7d15049543614ffd69317b9e1e4b4/header.jpg?t=1780064257",
+  "isFree": false
+}

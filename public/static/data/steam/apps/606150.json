@@ -1,0 +1,32 @@
+{
+  "appid": 606150,
+  "type": "game",
+  "shortDescription": "Moonlighter is an Action RPG with rogue-lite elements that demonstrates two sides of the coin – revealing everyday routines of Will, an adventurous shopkeeper that secretly dreams of becoming a hero.",
+  "developers": [
+    "Digital Sun"
+  ],
+  "publishers": [
+    "11 bit studios"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 29, 2018",
+  "releaseYear": 2018,
+  "metacritic": 74,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/8928bd4aa73d49a92099b07a85c21ad2d0141d58/header_alt_assets_8.jpg?t=1785952913",
+  "isFree": false
+}

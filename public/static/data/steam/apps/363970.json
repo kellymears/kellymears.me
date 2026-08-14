@@ -1,0 +1,44 @@
+{
+  "appid": 363970,
+  "type": "game",
+  "shortDescription": "Click your way through hordes of monsters, earn gold, and recruit quirky heroes with powerful skills. Progress even while you're idle, and watch the numbers climb into the absurd. It’s a never-ending journey of clicks, crits, and colossal damage.",
+  "developers": [
+    "Playsaurus"
+  ],
+  "publishers": [
+    "Playsaurus"
+  ],
+  "genres": [
+    "Adventure",
+    "Casual",
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Strategy",
+    "Free To Play"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "In-App Purchases",
+    "Camera Comfort",
+    "Mouse Only Option",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Touch Only Option",
+    "Steam Cloud",
+    "Stats",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 13, 2015",
+  "releaseYear": 2015,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363970/1ab2c7ea7bca7bf51ac54949b00fd8b7619ce023/header.jpg?t=1786114791",
+  "isFree": true
+}

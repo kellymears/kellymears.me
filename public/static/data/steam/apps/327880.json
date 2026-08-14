@@ -1,0 +1,32 @@
+{
+  "appid": 327880,
+  "type": "game",
+  "shortDescription": "Sublevel Zero Redux is a roguelite six-degree-of-freedom shooter in a universe where reality is falling apart. Use your zero-g gunship to fight through a vast underground facility, looting advanced weapons to destroy hordes of deadly enemies.",
+  "developers": [
+    "Sigtrap"
+  ],
+  "publishers": [
+    "Sigtrap"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "VR Supported",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Stats",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 8, 2015",
+  "releaseYear": 2015,
+  "metacritic": 71,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327880/header.jpg?t=1755087016",
+  "isFree": false
+}

@@ -1,0 +1,31 @@
+{
+  "appid": 2012840,
+  "type": "game",
+  "shortDescription": "Experience the critically acclaimed and award-winning Portal™ reimagined with full ray tracing and DLSS 4 in this free DLC for Portal owners. Start thinking with portals, with RTX on.",
+  "developers": [
+    "Lightspeed Studios™"
+  ],
+  "publishers": [
+    "NVIDIA"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Captions available",
+    "Partial Controller Support",
+    "Includes level editor",
+    "Includes Source SDK",
+    "Commentary available",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "releaseDate": "Dec 8, 2022",
+  "releaseYear": 2022,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2012840/header.jpg?t=1747634461",
+  "isFree": true
+}

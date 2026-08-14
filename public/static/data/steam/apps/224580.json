@@ -1,0 +1,27 @@
+{
+  "appid": 224580,
+  "type": "mod",
+  "shortDescription": "Join the scores of desperate survivors in the free Arma 2 DayZ Mod, the award-winning and massively popular persistent multiplayer mod for Arma 2: Combined Operations!",
+  "developers": [
+    "Bohemia Interactive"
+  ],
+  "publishers": [
+    "Bohemia Interactive"
+  ],
+  "genres": [
+    "Action",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Multi-player",
+    "Co-op",
+    "Partial Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 21, 2013",
+  "releaseYear": 2013,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224580/header.jpg?t=1748434954",
+  "isFree": true
+}

@@ -1,0 +1,45 @@
+{
+  "appid": 976310,
+  "type": "game",
+  "shortDescription": "Mortal Kombat is back and better than ever in the next evolution of the iconic franchise.",
+  "developers": [
+    "NetherRealm Studios",
+    "QLOC",
+    "Shiver"
+  ],
+  "publishers": [
+    "Warner Bros. Games",
+    "Warner Bros. Interactive Entertainment"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "In-App Purchases",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Narrated Game Menus",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "HDR available",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 23, 2019",
+  "releaseYear": 2019,
+  "metacritic": 82,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/header.jpg?t=1780429525",
+  "isFree": false
+}

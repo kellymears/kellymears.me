@@ -1,0 +1,29 @@
+{
+  "appid": 1382330,
+  "type": "game",
+  "shortDescription": "Join the Phantom Thieves and strike back against the corruption overtaking cities across Japan. A summer vacation with close friends takes a sudden turn as a distorted reality emerges; reveal the truth and redeem the hearts of those imprisoned at the center of the crisis!",
+  "developers": [
+    "ATLUS"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 22, 2021",
+  "releaseYear": 2021,
+  "metacritic": 76,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382330/header.jpg?t=1763530465",
+  "isFree": false
+}

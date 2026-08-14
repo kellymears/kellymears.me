@@ -1,0 +1,24 @@
+{
+  "appid": 245550,
+  "type": "video",
+  "shortDescription": "Free to Play is a feature-length documentary that follows three professional gamers from around the world as they compete for a million dollar prize in the first Dota 2 International Tournament.",
+  "developers": [
+    "Valve"
+  ],
+  "publishers": [
+    "Valve"
+  ],
+  "genres": [],
+  "categories": [
+    "Full controller support",
+    "Native Steam Controller Support",
+    "Steam Achievements",
+    "Captions available",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 19, 2014",
+  "releaseYear": 2014,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/245550/header.jpg?t=1675289019",
+  "isFree": true
+}

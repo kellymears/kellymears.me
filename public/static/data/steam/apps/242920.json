@@ -1,0 +1,28 @@
+{
+  "appid": 242920,
+  "type": "game",
+  "shortDescription": "In this city-building strategy game, you control a group of exiled travelers who decide to restart their lives in a new land. They have only the clothes on their backs and a cart filled with supplies from their homeland. The townspeople of Banished are your primary resource.",
+  "developers": [
+    "Shining Rock Software LLC"
+  ],
+  "publishers": [
+    "Shining Rock Software LLC"
+  ],
+  "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 18, 2014",
+  "releaseYear": 2014,
+  "metacritic": 73,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242920/header.jpg?t=1667584747",
+  "isFree": false
+}

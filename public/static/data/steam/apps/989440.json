@@ -1,0 +1,31 @@
+{
+  "appid": 989440,
+  "type": "game",
+  "shortDescription": "Phantom Abyss is a massive asynchronous multiplayer game that casts players into procedurally-generated temples and tasks them with retrieving the sacred relics hidden within deadly chambers.",
+  "developers": [
+    "Team WIBY"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Massively Multiplayer"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Full controller support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jan 25, 2024",
+  "releaseYear": 2024,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989440/header.jpg?t=1710929479",
+  "isFree": false
+}

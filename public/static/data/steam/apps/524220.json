@@ -1,0 +1,36 @@
+{
+  "appid": 524220,
+  "type": "game",
+  "shortDescription": "NieR: Automata tells the story of androids 2B, 9S and A2 and their battle to reclaim the machine-driven dystopia overrun by powerful machines.",
+  "developers": [
+    "Square Enix",
+    "PlatinumGames Inc."
+  ],
+  "publishers": [
+    "Square Enix"
+  ],
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 17, 2017",
+  "releaseYear": 2017,
+  "metacritic": 84,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1785182957",
+  "isFree": false
+}

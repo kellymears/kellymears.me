@@ -1,0 +1,37 @@
+{
+  "appid": 1172470,
+  "type": "game",
+  "shortDescription": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+  "developers": [
+    "Respawn"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Free To Play"
+  ],
+  "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "In-App Purchases",
+    "Chat Speech-to-text",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support"
+  ],
+  "releaseDate": "Nov 4, 2020",
+  "releaseYear": 2020,
+  "metacritic": 88,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1786031871",
+  "isFree": true
+}

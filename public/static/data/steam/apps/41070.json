@@ -1,0 +1,42 @@
+{
+  "appid": 41070,
+  "type": "game",
+  "shortDescription": "Serious Sam 3: BFE is a prequel to the original indie fast action FPS and Game of the Year sensation - Serious Sam: The First Encounter!",
+  "developers": [
+    "Croteam"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Includes level editor",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Nov 22, 2011",
+  "releaseYear": 2011,
+  "metacritic": 72,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/header.jpg?t=1728688460",
+  "isFree": false
+}

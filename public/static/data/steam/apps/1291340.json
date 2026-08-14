@@ -1,0 +1,26 @@
+{
+  "appid": 1291340,
+  "type": "game",
+  "shortDescription": "Instant town building toy. Place housing blocks and watch them transform, piece by piece, into idyllic ocean-side towns, pastoral gardens, or sweeping cities on the sea.",
+  "developers": [
+    "Oskar Stålberg"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Full controller support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 26, 2021",
+  "releaseYear": 2021,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1291340/header.jpg?t=1780992269",
+  "isFree": false
+}

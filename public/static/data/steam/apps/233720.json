@@ -1,0 +1,29 @@
+{
+  "appid": 233720,
+  "type": "game",
+  "shortDescription": "Surgeon Simulator is an over-the-top operation sim, stitching together pitch-black humour with life-saving surgery. Become Dr. Burke, a would-be surgeon with a less than conventional toolkit, as he performs procedures on patients including the Heavy from TF2! ...is that a hammer?",
+  "developers": [
+    "Bossa Studios"
+  ],
+  "publishers": [
+    "Infogrames",
+    "Atari"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 19, 2013",
+  "releaseYear": 2013,
+  "metacritic": 71,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233720/header.jpg?t=1773072184",
+  "isFree": false
+}

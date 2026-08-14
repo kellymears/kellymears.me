@@ -1,0 +1,35 @@
+{
+  "appid": 1675830,
+  "type": "game",
+  "shortDescription": "1000xRESIST is a thrilling sci-fi adventure. The year is unknown, and a disease spread by an alien invasion keeps you underground. You are Watcher. You dutifully fulfil your purpose in serving the ALLMOTHER, until the day you discover a shocking secret that changes everything.",
+  "developers": [
+    "sunset visitor 斜陽過客"
+  ],
+  "publishers": [
+    "Fellow Traveller"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Adjustable Text Size",
+    "Custom Volume Controls",
+    "Gamepad Recommended",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 9, 2024",
+  "releaseYear": 2024,
+  "metacritic": 86,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675830/header.jpg?t=1782502154",
+  "isFree": false
+}

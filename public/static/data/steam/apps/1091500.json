@@ -1,0 +1,41 @@
+{
+  "appid": 1091500,
+  "type": "game",
+  "shortDescription": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+  "developers": [
+    "CD PROJEKT RED"
+  ],
+  "publishers": [
+    "CD PROJEKT RED"
+  ],
+  "genres": [
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Surround Sound",
+    "Steam Cloud",
+    "HDR available",
+    "Family Sharing"
+  ],
+  "releaseDate": "Dec 9, 2020",
+  "releaseYear": 2020,
+  "metacritic": 86,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
+  "isFree": false
+}

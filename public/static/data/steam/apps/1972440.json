@@ -1,0 +1,37 @@
+{
+  "appid": 1972440,
+  "type": "game",
+  "shortDescription": "Chess, but you replace your entire army with a royal shotgun. A unique strategy roguelike based on the timeless checkboard classic.",
+  "developers": [
+    "PUNKCAKE Delicieux"
+  ],
+  "publishers": [
+    "PUNKCAKE Delicieux"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Workshop",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "#category_playable_at_your_own_pace",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 12, 2022",
+  "releaseYear": 2022,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/header.jpg?t=1779871580",
+  "isFree": false
+}

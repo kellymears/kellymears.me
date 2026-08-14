@@ -1,0 +1,32 @@
+{
+  "appid": 219740,
+  "type": "game",
+  "shortDescription": "Don’t Starve is an uncompromising wilderness survival game full of science and magic. Enter a strange and unexplored world full of strange creatures, dangers, and surprises. Gather resources to craft items and structures that match your survival style.",
+  "developers": [
+    "Klei Entertainment"
+  ],
+  "publishers": [
+    "Klei Entertainment"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 23, 2013",
+  "releaseYear": 2013,
+  "metacritic": 79,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219740/88641e235d75934ea9f7ed4e947edfd9da682732/header.jpg?t=1781206408",
+  "isFree": false
+}

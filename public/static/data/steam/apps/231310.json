@@ -1,0 +1,30 @@
+{
+  "appid": 231310,
+  "type": "game",
+  "shortDescription": "MirrorMoon EP is a game about mystery and exploration set in outer space. These space travels begin on a red planet and its unique moon and extend across galaxies. The single player part of MirrorMoon EP blends adventure and exploration with navigation-based puzzle solving.",
+  "developers": [
+    "Santa Ragione"
+  ],
+  "publishers": [
+    "Santa Ragione"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Partial Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 4, 2013",
+  "releaseYear": 2013,
+  "metacritic": 73,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231310/header.jpg?t=1727787684",
+  "isFree": false
+}

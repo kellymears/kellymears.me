@@ -1,0 +1,32 @@
+{
+  "appid": 675010,
+  "type": "game",
+  "shortDescription": "MudRunner is the ultimate off-road experience putting the players in the driver seat and dares them to take charge of incredible all-terrain vehicles, venturing across extreme Siberian landscapes with only a map and compass as guides!",
+  "developers": [
+    "Saber Interactive"
+  ],
+  "publishers": [
+    "Focus Entertainment"
+  ],
+  "genres": [
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 30, 2017",
+  "releaseYear": 2017,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/header.jpg?t=1784714181",
+  "isFree": false
+}

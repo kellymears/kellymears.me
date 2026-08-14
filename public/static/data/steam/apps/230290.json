@@ -1,0 +1,35 @@
+{
+  "appid": 230290,
+  "type": "game",
+  "shortDescription": "Create &amp; destroy on an unimaginable scale with a realistic physics-based space simulator. Explore the beauty of our universe and the fragility of our planet. Use science to bend the laws of gravity, collide planets, boil away oceans, fire epic space lasers, and customize your universe.",
+  "developers": [
+    "Giant Army"
+  ],
+  "publishers": [
+    "Giant Army"
+  ],
+  "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Early Access"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Workshop",
+    "Adjustable Text Size",
+    "Custom Volume Controls",
+    "Mouse Only Option",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Touch Only Option",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 24, 2015",
+  "releaseYear": 2015,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230290/header.jpg?t=1745448523",
+  "isFree": false
+}

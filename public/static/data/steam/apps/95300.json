@@ -1,0 +1,31 @@
+{
+  "appid": 95300,
+  "type": "game",
+  "shortDescription": "Capsized is a fast paced 2D platformer focused on intense action and exploration. As a intrepid space traveler, your ship has crash landed on a mysterious alien planet. You must navigate through the perilous environment and fight off blood-thirsty creatures to save your crewmates and escape with your lives!",
+  "developers": [
+    "Alientrap"
+  ],
+  "publishers": [
+    "Alientrap"
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Stats",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 29, 2011",
+  "releaseYear": 2011,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/95300/header.jpg?t=1576348163",
+  "isFree": false
+}

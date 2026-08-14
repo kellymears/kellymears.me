@@ -1,0 +1,30 @@
+{
+  "appid": 388880,
+  "type": "game",
+  "shortDescription": "Oxenfree is a supernatural thriller about a group of friends who unwittingly open a ghostly rift. You are Alex, and you’ve just brought your new stepbrother Jonas to an overnight island party gone horribly wrong.",
+  "developers": [
+    "Night School Studio"
+  ],
+  "publishers": [
+    "Night School Studio"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Captions available",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jan 14, 2016",
+  "releaseYear": 2016,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388880/header.jpg?t=1718924110",
+  "isFree": false
+}

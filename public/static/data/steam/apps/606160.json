@@ -1,0 +1,28 @@
+{
+  "appid": 606160,
+  "type": "game",
+  "shortDescription": "ROUTINE is a First Person Sci-Fi Horror set on an abandoned lunar base designed around an 80s vision of the future. Explore and investigate your surroundings as you survive against unknown threats.",
+  "developers": [
+    "Lunar Software"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Dec 4, 2025",
+  "releaseYear": 2025,
+  "metacritic": 79,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606160/ebdc630cc5e78005f5912721bca3a70bdc620a7e/header.jpg?t=1785827823",
+  "isFree": false
+}

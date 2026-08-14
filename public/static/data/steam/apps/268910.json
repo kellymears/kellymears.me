@@ -1,0 +1,36 @@
+{
+  "appid": 268910,
+  "type": "game",
+  "shortDescription": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings.",
+  "developers": [
+    "Studio MDHR Entertainment Inc."
+  ],
+  "publishers": [
+    "Studio MDHR Entertainment Inc."
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 29, 2017",
+  "releaseYear": 2017,
+  "metacritic": 88,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+  "isFree": false
+}

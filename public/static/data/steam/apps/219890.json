@@ -1,0 +1,25 @@
+{
+  "appid": 219890,
+  "type": "game",
+  "shortDescription": "Antichamber is a mind-bending psychological exploration game where nothing can be taken for granted. Discover an Escher-like world where hallways wrap around upon each other, spaces reconfigure themselves, and accomplishing the impossible may just be the only way forward.",
+  "developers": [
+    "Alexander Bruce"
+  ],
+  "publishers": [
+    "Demruth"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Trading Cards",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jan 31, 2013",
+  "releaseYear": 2013,
+  "metacritic": 82,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219890/header.jpg?t=1525832559",
+  "isFree": false
+}

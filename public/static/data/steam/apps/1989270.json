@@ -1,0 +1,43 @@
+{
+  "appid": 1989270,
+  "type": "game",
+  "shortDescription": "You're here to slay the princess. Don't believe her lies.",
+  "developers": [
+    "Black Tabby Games"
+  ],
+  "publishers": [
+    "Black Tabby Games",
+    "Serenity Forge"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Adjustable Text Size",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Mouse Only Option",
+    "Narrated Game Menus",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Save Anytime",
+    "Subtitle Options",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 23, 2023",
+  "releaseYear": 2023,
+  "metacritic": 90,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989270/74a54248cfec29144de5e867a333c30e6d62801d/header.jpg?t=1775751748",
+  "isFree": false
+}

@@ -1,0 +1,31 @@
+{
+  "appid": 274170,
+  "type": "game",
+  "shortDescription": "Hotline Miami 2: Wrong Number is the brutal conclusion to the Hotline Miami saga, set against a backdrop of escalating violence and retribution over spilled blood in the original game.",
+  "developers": [
+    "Dennaton Games"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Includes level editor",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 10, 2015",
+  "releaseYear": 2015,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274170/header.jpg?t=1782406411",
+  "isFree": false
+}

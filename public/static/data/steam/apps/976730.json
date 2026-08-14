@@ -1,0 +1,42 @@
+{
+  "appid": 976730,
+  "type": "game",
+  "shortDescription": "The Master Chief’s iconic journey includes six games, built for PC and collected in a single integrated experience. Whether you’re a long-time fan or meeting Spartan 117 for the first time, The Master Chief Collection is the definitive Halo gaming experience.",
+  "developers": [
+    "343 Industries",
+    "Splash Damage",
+    "Ruffian Games",
+    "Bungie",
+    "Saber Interactive"
+  ],
+  "publishers": [
+    "Xbox Game Studios"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Co-op",
+    "Online Co-op",
+    "LAN Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Dec 3, 2019",
+  "releaseYear": 2019,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1774466074",
+  "isFree": false
+}

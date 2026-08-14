@@ -1,0 +1,38 @@
+{
+  "appid": 3017860,
+  "type": "game",
+  "shortDescription": "DOOM: The Dark Ages is the prequel to the critically acclaimed DOOM (2016) and DOOM Eternal that tells an epic cinematic story worthy of the DOOM Slayer’s legend. Players will step into the blood-stained boots of the DOOM Slayer, in this never-before-seen dark and sinister medieval war against Hell.",
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Color Alternatives",
+    "#category_contrast_controls",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Subtitle Options",
+    "Surround Sound",
+    "Steam Cloud",
+    "HDR available",
+    "Family Sharing"
+  ],
+  "releaseDate": "May 14, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/af14846bdc72d46a4207c24d9ada4dc54595cc2d/header_alt_assets_2.jpg?t=1783452885",
+  "isFree": false
+}

@@ -1,0 +1,32 @@
+{
+  "appid": 235540,
+  "type": "game",
+  "shortDescription": "Vermintide is an epic co-operative action combat adventure set in the End Times of the iconic Warhammer Fantasy world.",
+  "developers": [
+    "Fatshark"
+  ],
+  "publishers": [
+    "Fatshark"
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Captions available",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Oct 23, 2015",
+  "releaseYear": 2015,
+  "metacritic": 79,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235540/27acad277d2820c818471ef415209c36c924b3dd/header.jpg?t=1761316136",
+  "isFree": false
+}

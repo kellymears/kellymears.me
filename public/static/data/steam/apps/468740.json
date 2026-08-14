@@ -1,0 +1,35 @@
+{
+  "appid": 468740,
+  "type": "game",
+  "shortDescription": "SNOWBALL FIGHT! Relive your childhood by building the perfect snow fort and protecting it from getting trashed by an army of angry snowmen! Unlock tools to protect your fort and deliver a flurry of snowballs at your opponents!",
+  "developers": [
+    "Mythical City Games"
+  ],
+  "publishers": [
+    "Mythical City Games"
+  ],
+  "genres": [
+    "Action",
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Tracked Controller Support",
+    "VR Only",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "releaseDate": "Dec 16, 2016",
+  "releaseYear": 2016,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468740/header.jpg?t=1549507936",
+  "isFree": false
+}

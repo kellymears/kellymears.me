@@ -1,0 +1,42 @@
+{
+  "appid": 245170,
+  "type": "game",
+  "shortDescription": "--Main Stage Game at Evo 2022!-- The ultimate Skullgirls experience: Featuring 14 hand-animated characters, fully voiced story mode, countless palettes, and unparalleled GGPO-based multiplayer netcode.",
+  "developers": [
+    "Hidden Variable Studios"
+  ],
+  "publishers": [
+    "Autumn Games"
+  ],
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 22, 2013",
+  "releaseYear": 2013,
+  "metacritic": 83,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/245170/header.jpg?t=1737508709",
+  "isFree": false
+}

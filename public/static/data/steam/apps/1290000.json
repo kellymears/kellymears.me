@@ -1,0 +1,37 @@
+{
+  "appid": 1290000,
+  "type": "game",
+  "shortDescription": "Release the Pressure with PowerWash Simulator! Wash away your worries with the soothing sounds of high-pressure water. Fire up your power washer and blast away every speck of dirt and grime you can find, all with the simple satisfaction of power-washing to a sparkling finish.",
+  "developers": [
+    "FuturLab"
+  ],
+  "publishers": [
+    "FuturLab"
+  ],
+  "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 14, 2022",
+  "releaseYear": 2022,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290000/header.jpg?t=1780392261",
+  "isFree": false
+}

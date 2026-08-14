@@ -1,0 +1,39 @@
+{
+  "appid": 312520,
+  "type": "game",
+  "shortDescription": "You are a nomadic slugcat, both predator and prey in a broken ecosystem. Grab your spear and brave the industrial wastes, hunting enough food to survive, but be wary— other, bigger creatures have the same plan... and slugcats look delicious.",
+  "developers": [
+    "Videocult"
+  ],
+  "publishers": [
+    "Akupara Games"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Shared/Split Screen PvP",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Custom Volume Controls",
+    "Adjustable Difficulty",
+    "Keyboard Only Option",
+    "Stereo Sound",
+    "Steam Cloud",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 28, 2017",
+  "releaseYear": 2017,
+  "metacritic": 66,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312520/dc5bd100e86dbdb088e7ff17cdb601e7eb2e00bc/header.jpg?t=1786047879",
+  "isFree": false
+}

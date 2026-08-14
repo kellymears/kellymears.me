@@ -1,0 +1,32 @@
+{
+  "appid": 683320,
+  "type": "game",
+  "shortDescription": "Gris is a hopeful young girl lost in her own world, dealing with a painful experience in her life. Her journey through sorrow is manifested in her dress, which grants new abilities to better navigate her faded reality.",
+  "developers": [
+    "Nomada Studio"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Gamepad Recommended",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Dec 13, 2018",
+  "releaseYear": 2018,
+  "metacritic": 84,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683320/header.jpg?t=1759429603",
+  "isFree": false
+}

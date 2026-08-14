@@ -1,0 +1,29 @@
+{
+  "appid": 2162020,
+  "type": "game",
+  "shortDescription": "Strayed Lights is a colourful action-adventure featuring epic boss fights and a unique parry-based combat system. Shift between colours to repel attacks and strike back. Explore a dreamlike world as you restore your light that was torn by shadows.",
+  "developers": [
+    "Embers"
+  ],
+  "publishers": [
+    "Embers"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Apr 25, 2023",
+  "releaseYear": 2023,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162020/header.jpg?t=1756799953",
+  "isFree": false
+}

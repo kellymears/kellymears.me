@@ -1,0 +1,34 @@
+{
+  "appid": 209540,
+  "type": "game",
+  "shortDescription": "Pilot the mecha Strike Suit across massive fleet battles where your dogfighting skills decide Earth's fate. Fast, frantic space combat with capital ship destruction, multiple endings, and a universe that's anything but empty. This is space combat reborn.",
+  "developers": [
+    "Born Ready Games"
+  ],
+  "publishers": [
+    "Born Ready Games"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "VR Support",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Includes level editor",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jan 23, 2013",
+  "releaseYear": 2013,
+  "metacritic": 66,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209540/7181a0d3c889dfba6d98bf38a4b4cd4ddfa73641/header.jpg?t=1784169185",
+  "isFree": false
+}

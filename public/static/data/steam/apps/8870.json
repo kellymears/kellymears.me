@@ -1,0 +1,30 @@
+{
+  "appid": 8870,
+  "type": "game",
+  "shortDescription": "Indebted to the wrong people, with his life on the line, veteran of the U.S. Cavalry and now hired gun, Booker DeWitt has only one opportunity to wipe his slate clean. He must rescue Elizabeth, a mysterious girl imprisoned since childhood and locked up in the flying city of Columbia.",
+  "developers": [
+    "Irrational Games",
+    "Virtual Programming (Linux)"
+  ],
+  "publishers": [
+    "2K"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 25, 2013",
+  "releaseYear": 2013,
+  "metacritic": 94,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8870/header.jpg?t=1728673518",
+  "isFree": false
+}

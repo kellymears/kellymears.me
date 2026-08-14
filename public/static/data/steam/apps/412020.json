@@ -1,0 +1,30 @@
+{
+  "appid": 412020,
+  "type": "game",
+  "shortDescription": "Flee the shattered ruins of the Moscow Metro and embark on an epic, continent-spanning journey across the post-apocalyptic Russian wilderness. Explore vast, non-linear levels, lose yourself in an immersive, sandbox survival experience, and follow a thrilling story-line that spans an entire year in the greatest Metro adventure yet.",
+  "developers": [
+    "4A Games"
+  ],
+  "publishers": [
+    "Deep Silver"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Feb 14, 2020",
+  "releaseYear": 2020,
+  "metacritic": 85,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412020/header.jpg?t=1750772804",
+  "isFree": false
+}

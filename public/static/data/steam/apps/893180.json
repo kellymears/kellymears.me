@@ -1,0 +1,32 @@
+{
+  "appid": 893180,
+  "type": "game",
+  "shortDescription": "Catherine: a tale of love, betrayal, and the terror of commitment. Experience the mature action-adventure-puzzle game unlike any other from the makers of the Persona series, now enhanced for PC in all its Classic glory. Is love over? Climb to the top or die trying.",
+  "developers": [
+    "ATLUS"
+  ],
+  "publishers": [
+    "SEGA"
+  ],
+  "genres": [
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Shared/Split Screen PvP",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jan 10, 2019",
+  "releaseYear": 2019,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/893180/header.jpg?t=1763531355",
+  "isFree": false
+}

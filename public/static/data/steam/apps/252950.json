@@ -1,0 +1,49 @@
+{
+  "appid": 252950,
+  "type": "game",
+  "shortDescription": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition. Rocket League includes casual and competitive Online Matches, a fully-featured offline Season Mode, special “Mutators” that let you change the rules entirely, hockey and...",
+  "developers": [
+    "Psyonix LLC"
+  ],
+  "publishers": [
+    "Psyonix LLC"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Racing",
+    "Sports"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Shared/Split Screen PvP",
+    "Co-op",
+    "Online Co-op",
+    "Shared/Split Screen Co-op",
+    "Shared/Split Screen",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Gamepad Recommended",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "Steam Input API Support",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Stats",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 6, 2015",
+  "releaseYear": 2015,
+  "metacritic": 86,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/0a3a0440e101436b154c06040722f27950d67e22/header_alt_assets_16.jpg?t=1781288662",
+  "isFree": false
+}

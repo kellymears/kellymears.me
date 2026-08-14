@@ -1,0 +1,30 @@
+{
+  "appid": 2240620,
+  "type": "game",
+  "shortDescription": "UNBEATABLE is a rhythm adventure where music is illegal and you do crimes. Follow the story of Beat and her band on the run, in a narrative experience full of big emotions powered by arcade-flawless rhythm gameplay.",
+  "developers": [
+    "D-CELL GAMES"
+  ],
+  "publishers": [
+    "Playstack"
+  ],
+  "genres": [
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Dec 9, 2025",
+  "releaseYear": 2025,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2240620/9122a701abc7385ef2c853282fcfa22dc72725b3/header_alt_assets_2.jpg?t=1785173133",
+  "isFree": false
+}

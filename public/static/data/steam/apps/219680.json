@@ -1,0 +1,26 @@
+{
+  "appid": 219680,
+  "type": "game",
+  "shortDescription": "Proteus is a game about exploration and immersion in a dream-like island world where the soundtrack to your play is created by your surroundings. Played in first-person, the primary means of interaction is simply your presence in the world and how you observe it.",
+  "developers": [
+    "Ed Key and David Kanaga"
+  ],
+  "publishers": [
+    "Twisted Tree"
+  ],
+  "genres": [
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Full controller support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jan 30, 2013",
+  "releaseYear": 2013,
+  "metacritic": 80,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219680/header.jpg?t=1447356537",
+  "isFree": false
+}

@@ -1,0 +1,30 @@
+{
+  "appid": 282440,
+  "type": "game",
+  "shortDescription": "Experience the most exciting and fast-paced FPS gameplay while competing with players from around the world in over 100 arenas, a dozen game modes, and with persistent career stats tracking, in this online features-focused successor to Quake III Arena.",
+  "developers": [
+    "id Software"
+  ],
+  "publishers": [
+    "Bethesda Softworks"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Partial Controller Support",
+    "Steam Cloud",
+    "Stats",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 17, 2014",
+  "releaseYear": 2014,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282440/header.jpg?t=1742481724",
+  "isFree": false
+}

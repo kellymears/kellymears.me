@@ -1,0 +1,28 @@
+{
+  "appid": 757310,
+  "type": "game",
+  "shortDescription": "Embark on an unique and unforgettable journey and guide Sable through her Gliding; a rite of passage that will take her across vast deserts and mesmerizing landscapes, capped by the remains of spaceships and ancient wonders.",
+  "developers": [
+    "Shedworks"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "genres": [
+    "Adventure",
+    "Indie",
+    "RPG"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Sep 23, 2021",
+  "releaseYear": 2021,
+  "metacritic": 76,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757310/header.jpg?t=1780992723",
+  "isFree": false
+}

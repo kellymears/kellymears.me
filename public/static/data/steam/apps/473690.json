@@ -1,0 +1,33 @@
+{
+  "appid": 473690,
+  "type": "game",
+  "shortDescription": "Absolver is an online multiplayer combat game where players are placed behind the mask of a Prospect under control of the Guides, the new rulers of the fallen Adal Empire, who will determine your worth in joining their elite corps of Absolvers.",
+  "developers": [
+    "Sloclap"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Aug 29, 2017",
+  "releaseYear": 2017,
+  "metacritic": 75,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473690/header.jpg?t=1728689155",
+  "isFree": false
+}

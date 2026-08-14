@@ -1,0 +1,27 @@
+{
+  "appid": 1190460,
+  "type": "game",
+  "shortDescription": "From legendary game creator Hideo Kojima comes an all-new, genre-defying experience. Sam Bridges must brave a world utterly transformed by the Death Stranding. Carrying the disconnected remnants of our future in his hands, he embarks on a journey to reconnect the shattered world one step at a time.",
+  "developers": [
+    "KOJIMA PRODUCTIONS"
+  ],
+  "publishers": [
+    "505 Games"
+  ],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jul 14, 2020",
+  "releaseYear": 2020,
+  "metacritic": 86,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/header.jpg?t=1766014863",
+  "isFree": false
+}

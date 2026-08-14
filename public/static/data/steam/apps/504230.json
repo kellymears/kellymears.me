@@ -1,0 +1,37 @@
+{
+  "appid": 504230,
+  "type": "game",
+  "shortDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+  "developers": [
+    "Maddy Makes Games Inc.",
+    "Extremely OK Games, Ltd."
+  ],
+  "publishers": [
+    "Maddy Makes Games Inc."
+  ],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Trading Cards",
+    "DualShock Controller Support",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "DualSense Controller Support",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Remote Play on TV",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jan 25, 2018",
+  "releaseYear": 2018,
+  "metacritic": 88,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg?t=1714089525",
+  "isFree": false
+}

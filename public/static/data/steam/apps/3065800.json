@@ -1,0 +1,41 @@
+{
+  "appid": 3065800,
+  "type": "game",
+  "shortDescription": "Explore the lost colony of Tau Ceti IV, scavenging valuable loot in a high-stakes survival first person shooter from the creators of Halo and Destiny.",
+  "developers": [
+    "Bungie"
+  ],
+  "publishers": [
+    "Bungie"
+  ],
+  "genres": [
+    "Action"
+  ],
+  "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Cross-Platform Multiplayer",
+    "Steam Achievements",
+    "Adjustable Text Size",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Mouse Only Option",
+    "Playable without Timed Input",
+    "DualShock Controller Support",
+    "DualSense Controller Support",
+    "Stereo Sound",
+    "Subtitle Options",
+    "Surround Sound",
+    "Touch Only Option",
+    "Partial Controller Support",
+    "Family Sharing"
+  ],
+  "releaseDate": "Mar 5, 2026",
+  "releaseYear": 2026,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/c3093fec19fed6eb0750a87261c53743a5757827/header.jpg?t=1786061300",
+  "isFree": false
+}

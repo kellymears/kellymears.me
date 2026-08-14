@@ -1,0 +1,27 @@
+{
+  "appid": 1388770,
+  "type": "game",
+  "shortDescription": "An immersive power fantasy simulator with tactical stealth elements set in a sewage infused garbage world",
+  "developers": [
+    "Consumer Softproducts"
+  ],
+  "publishers": [
+    "Consumer Softproducts"
+  ],
+  "genres": [
+    "Action",
+    "Indie",
+    "Simulation"
+  ],
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "releaseDate": "Jun 15, 2021",
+  "releaseYear": 2021,
+  "metacritic": null,
+  "headerUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388770/header.jpg?t=1740330233",
+  "isFree": false
+}
