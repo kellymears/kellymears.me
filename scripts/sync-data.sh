@@ -28,13 +28,24 @@ else
   log "import:github failed"
 fi
 
+# --- Steam library import ---
+log "Running import:steam..."
+if npm run import:steam >> "$LOG_FILE" 2>&1; then
+  log "import:steam completed"
+else
+  log "import:steam failed"
+fi
+
 # --- Commit if anything changed ---
 DATA_FILES=(
   "public/static/data/activities-metrics.json"
   "public/static/data/activities-routes.json"
   "public/static/data/github.json"
+  "public/static/data/steam.json"
 )
 RIDES_DIR="public/static/data/rides"
+# Store metadata cache — one immutable file per app, so new games arrive as adds
+STEAM_APPS_DIR="public/static/data/steam/apps"
 
 CHANGED=()
 for f in "${DATA_FILES[@]}"; do
@@ -43,11 +54,13 @@ for f in "${DATA_FILES[@]}"; do
   fi
 done
 
-# Per-ride GPS files: catch modifications to tracked files AND new slugs
-if ! git diff --quiet -- "$RIDES_DIR" 2>/dev/null || \
-   [[ -n "$(git ls-files --others --exclude-standard -- "$RIDES_DIR")" ]]; then
-  CHANGED+=("$RIDES_DIR")
-fi
+# Directories of per-item files: catch modifications AND newly written files
+for d in "$RIDES_DIR" "$STEAM_APPS_DIR"; do
+  if ! git diff --quiet -- "$d" 2>/dev/null || \
+     [[ -n "$(git ls-files --others --exclude-standard -- "$d")" ]]; then
+    CHANGED+=("$d")
+  fi
+done
 
 if [[ ${#CHANGED[@]} -eq 0 ]]; then
   log "No data changes — skipping commit"
