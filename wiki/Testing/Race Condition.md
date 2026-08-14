@@ -5,7 +5,7 @@ tags:
   - testing
 summary: A defect whose occurrence depends on the relative timing of concurrent operations.
 ---
-A **race condition** occurs when the correctness of a result depends on the order in which concurrent operations happen to complete. Races are the archetypal intermittent bug: they reproduce on slow machines and vanish on fast ones, or the reverse.
+A **race condition** occurs when the correctness of a result depends on the order in which concurrent operations happen to complete. Races are the archetypal intermittent bug: they reproduce on slow machines and vanish on fast ones, or the reverse. They are also the classic [[Heisenbug]], since a print statement or a breakpoint shifts the timing enough to close the window the fault needed, and the bug disappears exactly when someone looks at it.
 
 The web platform generates a particular family of them. A build tool's dependency scan finishing mid-run triggers a page reload that aborts whatever was in flight — so a random file fails, never the same one twice, and never on a fast local machine that wins the race every time. A resize observer's first callback lands a frame or two after mount, too late to prevent a visible jump and early enough to fight a user who has already scrolled. A framework re-rendering a subtree that a browser mutated directly diffs against a stale model.
 

@@ -20,3 +20,7 @@ Because a subtitle file is plain text with stable indices, a change log keyed to
 - [[Markdown]]
 - [[Automatic Speech Recognition]]
 - [[Environmental Storytelling]]
+- [[Diegesis]]
+
+## Related
+- [[Game Feel]]

@@ -14,6 +14,7 @@ It also changes what an assertion can say. An evaluation must assert what the *s
 The standard mitigations are to make the deterministic parts genuinely deterministic — [[Record and Replay Testing]] for the model call, fixed seeds for anything random, pinned versions — so that variance is isolated to the one place it is unavoidable. See [[Determinism]].
 
 ## See also
+- [[Heisenbug]]
 - [[Evaluation Harness]]
 - [[Large Language Model]]
 - [[Flaky Test]]

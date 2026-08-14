@@ -15,6 +15,7 @@ Size is the single strongest predictor of review quality. Reviewers engage caref
 Two mechanical notes. Changing only the target branch of a pull request does not necessarily re-trigger validation, since the platform's default event set may not include it. And a proposal whose work is visual needs the evidence embedded where the review happens — a path to a local screenshot is invisible on the platform.
 
 ## See also
+- [[Law of Triviality]]
 - [[Code Review]]
 - [[Continuous Integration]]
 - [[Squash Merge]]

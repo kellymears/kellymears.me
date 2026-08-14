@@ -22,3 +22,4 @@ The practical caution for anything built on public signalling infrastructure is 
 - [[Eventual Consistency]]
 - [[Idempotence]]
 - [[Virtual Private Network]]
+- [[Network Effect]]

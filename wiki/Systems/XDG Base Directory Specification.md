@@ -22,3 +22,4 @@ Pointing the configuration root somewhere unusual has one consequence worth anti
 
 ## Related
 - [[Shell]]
+- [[Silent Failure]]

@@ -21,6 +21,7 @@ Several constraints shape any real implementation.
 **Some effects cannot take a transform.** A toolbar positioned from a measured rectangle is corrupted by a transform, so it has to fade rather than lift — a physical constraint, not a preference.
 
 ## See also
+- [[Uncanny Valley]]
 - [[Easing]]
 - [[Staggered Animation]]
 - [[Color Contrast]]

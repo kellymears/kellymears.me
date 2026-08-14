@@ -16,7 +16,7 @@ Flakes have a small number of causes, and identifying which one is at play is mo
 **Environment.** Disk exhaustion, a cold build cache, a development server holding a port.
 **Non-determinism** in the system under test — clock, randomness, iteration order.
 
-Two diagnostic rules earn their keep. An **identical** failure across repeated runs of the same revision is a real gap, not a flake; rerunning cannot make it pass. And a flake at a ten percent rate needs roughly twenty consecutive green runs before "fixed" means anything — one green run proves nothing. See [[Nondeterminism]].
+Two diagnostic rules earn their keep. An **identical** failure across repeated runs of the same revision is a real gap, not a flake; rerunning cannot make it pass. A failure that disappears the moment logging or a debugger is added is a [[Heisenbug]], and the instinct to instrument harder is what keeps it hidden. And a flake at a ten percent rate needs roughly twenty consecutive green runs before "fixed" means anything — one green run proves nothing. See [[Nondeterminism]].
 
 ## See also
 - [[Race Condition]]

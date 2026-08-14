@@ -9,7 +9,7 @@ summary: A version-numbering convention where the number communicates the kind o
 
 The convention's value is that it lets a version range express a risk tolerance. Accepting compatible minor and patch updates while refusing majors is a policy that a range can encode, which is why automated dependency updating is possible at all.
 
-Its weakness is that compatibility is a judgement, not a property a tool can compute. Whether a change breaks someone depends on what they relied on — including behaviour that was never part of the documented interface. A change that is minor by the letter of the specification can break real consumers, which is the observation behind Hyrum's law: with enough users, every observable behaviour of a system becomes something someone depends on.
+Its weakness is that compatibility is a judgement, not a property a tool can compute. Whether a change breaks someone depends on what they relied on — including behaviour that was never part of the documented interface. A change that is minor by the letter of the specification can break real consumers, which is the observation behind [[Hyrum's Law|Hyrum's law]]: with enough users, every observable behaviour of a system becomes something someone depends on. A major bump is the honest signal that such behaviour may move, whether or not the specification ever described it.
 
 The practical consequences are that a major bump deserves a migration path and a [[Deprecation]] window rather than a note, and that pinning exact versions is a reasonable posture for anything where reproducibility matters more than automatic updates. See [[Lockfile]].
 

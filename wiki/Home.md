@@ -17,7 +17,7 @@ Notes are short by design. If something needs more room, it becomes several note
 
 How to know things, and how to avoid being confidently wrong.
 
-[[Anchoring Effect]] · [[Automation Bias]] · [[Chesterton's Fence]] · [[Code Comment]] · [[Defensive Default]] · [[Deprecation]] · [[Documentation Rot]] · [[Exhaustive Claim]] · [[Fail Fast]] · [[Falsifiability]] · [[Fermi Estimation]] · [[Goodhart's Law]] · [[Ground Truth]] · [[Monty Hall Problem]] · [[Naming]] · [[Observability]] · [[Percentage Point]] · [[Plausible Mechanism]] · [[Provenance]] · [[Regression]] · [[Reproducible Case]] · [[Root Cause Analysis]] · [[Sensitivity and Specificity]] · [[Silent Failure]] · [[Technical Debt]] · [[Truncation Bias]] · [[Vacuous Truth]]
+[[Anchoring Effect]] · [[Automation Bias]] · [[Base Rate Fallacy]] · [[Betteridge's Law of Headlines]] · [[Cargo Cult]] · [[Chesterton's Fence]] · [[Code Comment]] · [[Defensive Default]] · [[Deprecation]] · [[Documentation Rot]] · [[Exhaustive Claim]] · [[Fail Fast]] · [[Falsifiability]] · [[Fermi Estimation]] · [[Goodhart's Law]] · [[Ground Truth]] · [[Hanlon's Razor]] · [[Law of Triviality]] · [[Metasyntactic Variable]] · [[Monty Hall Problem]] · [[Motte and Bailey]] · [[Naming]] · [[Observability]] · [[Path Dependence]] · [[Percentage Point]] · [[Plausible Mechanism]] · [[Poe's Law]] · [[Provenance]] · [[Regression]] · [[Reproducible Case]] · [[Root Cause Analysis]] · [[Rubber Duck Debugging]] · [[Selection Bias]] · [[Sensitivity and Specificity]] · [[Silent Failure]] · [[Streetlight Effect]] · [[Survivorship Bias]] · [[Technical Debt]] · [[Truncation Bias]] · [[Vacuous Truth]] · [[Yak Shaving]]
 
 ## Computation
 
@@ -41,19 +41,19 @@ Where code runs, what ships, and what the browser does with it.
 
 Visual systems, motion, and access.
 
-[[Accessibility]] · [[ARIA]] · [[Cascade]] · [[Color Contrast]] · [[Container Query]] · [[CSS Custom Property]] · [[Dark Mode]] · [[Design System]] · [[Design Token]] · [[Easing]] · [[Focus Management]] · [[Focus Trap]] · [[Headless Component]] · [[Keyboard Navigation]] · [[Motion Design]] · [[OKLCH]] · [[Opponent Process Theory]] · [[Reduced Motion]] · [[Responsive Breakpoint]] · [[Scoped Styling]] · [[Semantic HTML]] · [[Stacking Context]] · [[Staggered Animation]] · [[Typographic Scale]] · [[UI Primitive]] · [[Utility-First CSS]]
+[[Accessibility]] · [[ARIA]] · [[Cascade]] · [[Color Contrast]] · [[Container Query]] · [[CSS Custom Property]] · [[Dark Mode]] · [[Design System]] · [[Design Token]] · [[Easing]] · [[Focus Management]] · [[Focus Trap]] · [[Headless Component]] · [[Keyboard Navigation]] · [[Motion Design]] · [[OKLCH]] · [[Opponent Process Theory]] · [[Reduced Motion]] · [[Responsive Breakpoint]] · [[Scoped Styling]] · [[Semantic HTML]] · [[Stacking Context]] · [[Staggered Animation]] · [[Typographic Scale]] · [[UI Primitive]] · [[Uncanny Valley]] · [[Utility-First CSS]]
 
 ## Testing & Verification
 
 Establishing that something works, and recognising when you have established nothing.
 
-[[Test-Driven Development]] · [[Unit Test]] · [[Integration Test]] · [[Test Double]] · [[Test Fixture]] · [[Component Story]] · [[Visual Regression Testing]] · [[Assertion]] · [[Instrumentation]] · [[Code Coverage]] · [[Branch Coverage]] · [[Coverage Gate]] · [[Unreachable Code]] · [[Flaky Test]] · [[Race Condition]] · [[Resource Starvation]] · [[Headless Browser]]
+[[Assertion]] · [[Branch Coverage]] · [[Code Coverage]] · [[Component Story]] · [[Coverage Gate]] · [[Flaky Test]] · [[Headless Browser]] · [[Heisenbug]] · [[Instrumentation]] · [[Integration Test]] · [[Race Condition]] · [[Resource Starvation]] · [[Test Double]] · [[Test Fixture]] · [[Test-Driven Development]] · [[Unit Test]] · [[Unreachable Code]] · [[Visual Regression Testing]]
 
 ## Version Control & Delivery
 
 Getting changes from a working copy into the world.
 
-[[Version Control]] · [[Commit]] · [[Conventional Commits]] · [[Atomic Commit]] · [[Branching Model]] · [[Trunk-Based Development]] · [[Rebase]] · [[Three-Way Merge]] · [[Merge Conflict]] · [[Semantic Conflict]] · [[Squash Merge]] · [[Pull Request]] · [[Stacked Pull Requests]] · [[Git Worktree]] · [[Continuous Integration]] · [[Continuous Deployment]] · [[Merge Train]] · [[Code Review]] · [[Lockfile]] · [[Semantic Versioning]] · [[Supply Chain Security]]
+[[Atomic Commit]] · [[Branching Model]] · [[Bus Factor]] · [[Code Review]] · [[Commit]] · [[Continuous Deployment]] · [[Continuous Integration]] · [[Conventional Commits]] · [[Conway's Law]] · [[Copyleft]] · [[Git Worktree]] · [[Hyrum's Law]] · [[Lockfile]] · [[Merge Conflict]] · [[Merge Train]] · [[Permissive License]] · [[Pull Request]] · [[Rebase]] · [[Semantic Conflict]] · [[Semantic Versioning]] · [[Squash Merge]] · [[Stacked Pull Requests]] · [[Supply Chain Security]] · [[Three-Way Merge]] · [[Trunk-Based Development]] · [[Version Control]]
 
 ## Systems & Tooling
 
@@ -95,4 +95,4 @@ Physiology, injury, and repair.
 
 Knowledge, language, and acting together.
 
-[[Backlink]] · [[Broken Windows Theory]] · [[Collective Action]] · [[Confidence Trick]] · [[Folk Etymology]] · [[Knowledge Graph]] · [[Letterlocking]] · [[Linguistic Relativity]] · [[Malaphor]] · [[Modern Monetary Theory]] · [[Plain Language]] · [[Prototype Theory]] · [[Rent Strike]] · [[Subtitling]] · [[Tarot]] · [[Taxonomy]] · [[Terror Management Theory]] · [[Wiki]] · [[Zettelkasten]]
+[[Astroturfing]] · [[Backlink]] · [[Backronym]] · [[Broken Windows Theory]] · [[Chekhov's Gun]] · [[Collective Action]] · [[Collocation]] · [[Commons-Based Peer Production]] · [[Confidence Trick]] · [[Cunningham's Law]] · [[Diegesis]] · [[Eggcorn]] · [[Externality]] · [[Fair-Play Mystery]] · [[Flanderization]] · [[Folk Etymology]] · [[Grammatical Gender]] · [[Jaywalking]] · [[Kayfabe]] · [[Knowledge Graph]] · [[Kuleshov Effect]] · [[Legibility]] · [[Letterlocking]] · [[Linguistic Relativity]] · [[MacGuffin]] · [[Malaphor]] · [[Modern Monetary Theory]] · [[Mondegreen]] · [[Moral Panic]] · [[Network Effect]] · [[Overton Window]] · [[Plain Language]] · [[Planned Obsolescence]] · [[Principal-Agent Problem]] · [[Prototype Theory]] · [[Regulatory Capture]] · [[Rent Strike]] · [[Rent-Seeking]] · [[Right to Repair]] · [[Semantic Satiation]] · [[Shibboleth]] · [[Snowclone]] · [[Subtitling]] · [[Tarot]] · [[Taxonomy]] · [[Terror Management Theory]] · [[Tragedy of the Commons]] · [[Universal Basic Income]] · [[Wiki]] · [[Zettelkasten]]
