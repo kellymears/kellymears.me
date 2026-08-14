@@ -71,7 +71,7 @@ Modelling, storing, and publishing information.
 
 Rendering, generation, and play.
 
-[[Cellular Automaton]] · [[Constraint Propagation]] · [[Environmental Storytelling]] · [[Gacha Monetization]] · [[Game AI]] · [[Game Feel]] · [[L-System]] · [[Ludonarrative Dissonance]] · [[Procedural Generation]] · [[Rasterization]] · [[Roguelike]] · [[Seeded Randomness]] · [[Shader]] · [[Terminal User Interface]] · [[Trick-Taking Game]] · [[Voxel]]
+[[Battle Royale]] · [[Cellular Automaton]] · [[Constraint Propagation]] · [[Diegetic Interface]] · [[Environmental Storytelling]] · [[Factory Game]] · [[Gacha Monetization]] · [[Game AI]] · [[Game Feel]] · [[Idle Game]] · [[Immersive Sim]] · [[L-System]] · [[Live Service Game]] · [[Ludonarrative Dissonance]] · [[Meta-Progression]] · [[Metroidvania]] · [[Procedural Generation]] · [[Rasterization]] · [[Roguelike]] · [[Seeded Randomness]] · [[Shader]] · [[Soulslike]] · [[Terminal User Interface]] · [[Time as Resource]] · [[Trick-Taking Game]] · [[Voxel]]
 
 ## Networks & Distribution
 
