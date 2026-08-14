@@ -20,7 +20,7 @@ export interface KnowledgeGraphProps {
   activeId?: string
   /**
    * Softly dims everything outside this topic, so a topic page can show its
-   * cross-topic neighbours as context. Any legend selection overrides it.
+   * cross-topic neighbors as context. Any legend selection overrides it.
    */
   focusTopic?: string
   className?: string
@@ -44,11 +44,39 @@ export interface KnowledgeGraphProps {
  */
 const EMPTY_BOUNDS: Bounds = { x: 0, y: 0, w: 1000, h: 1000 }
 
-/** Max zoom relative to the resting fit. */
+/** Max zoom relative to the whole-graph fit. */
 const MAX_ZOOM = 6
 
-/** Number of highest-degree nodes that keep a label at rest. */
-const LANDMARK_LABELS = 12
+/**
+ * Roughly how many notes should share the canvas at rest. The vault long ago
+ * outgrew a single screenful: 345 nodes fitted to a 590px card is a hairball
+ * where no dot is separable from its neighbors. So the constellation now opens
+ * on a *region* — zoomed to about this many notes — and the whole map is what
+ * you get by zooming out, rather than the other way round.
+ */
+const HOME_DENSITY = 55
+
+/** Ceiling on that resting zoom, so a big vault never opens claustrophobically. */
+const MAX_HOME_ZOOM = 3.2
+
+/**
+ * How far out of the resting view you can zoom before resting labels are hidden.
+ * They are placed for the home region; much beyond it they collide on screen.
+ */
+const LABEL_FADE_RATIO = 1.35
+
+/**
+ * Resting zoom for a graph of `count` nodes. Scales with the square root of the
+ * count because the canvas is two-dimensional, and bottoms out at 1.
+ *
+ * `regional` is false for anything already scoped to a subject — a domain map or
+ * a note's local graph. Those are bounded things the reader came to see whole,
+ * and opening them on a slice both hides most of the answer and lets the frame
+ * cut through labels at its edge. Only the whole-vault constellation, which no
+ * screen can hold, opens on a region.
+ */
+const homeZoomFor = (count: number, regional: boolean) =>
+  regional ? clamp(Math.sqrt(count / HOME_DENSITY), 1, MAX_HOME_ZOOM) : 1
 
 /** A `local` graph up to this size labels every node; past it, landmarks only. */
 const DENSE_LABEL_LIMIT = 18
@@ -63,14 +91,78 @@ const ENTRANCE_SPREAD = 340
 const KEYBOARD_HELP =
   'The graph is a single tab stop: use the arrow keys to move between notes, Home and End for the most and least linked, Enter to open the focused note, and Escape to leave the graph.'
 
-/** Mean glyph advance for Space Grotesk at 500 weight, as a fraction of em. */
+/**
+ * Fallback mean glyph advance for Space Grotesk at 500 weight, in em. Used only
+ * for the server render and the first client pass, before the real font can be
+ * measured — it runs ~45% wide against measured text, which is exactly why the
+ * measurement below exists.
+ */
 const LABEL_CHAR_WIDTH = 0.62
+
+/**
+ * Real text width in em, via a 2D canvas.
+ *
+ * A per-character average cannot know that "Illicit" and "Warmth" are nowhere
+ * near the same width, so it has to be sized for the worst case and is then far
+ * too fat for everything else — measured, the constant over-estimated by ~32%
+ * at the median and never under-estimated at all. Every one of those wasted
+ * units is space a neighboring label could have used, so the label budget paid
+ * for the guess. Measuring at 100px and dividing keeps one cached context for
+ * every font size, and results are memoized per string.
+ */
+const emWidths = new Map<string, number>()
+let measureCtx: CanvasRenderingContext2D | null | undefined
+
+const textEm = (text: string): number => {
+  const cached = emWidths.get(text)
+  if (cached !== undefined) return cached
+
+  if (measureCtx === undefined) {
+    const ctx = document.createElement('canvas').getContext('2d')
+    if (ctx) ctx.font = `500 100px "Space Grotesk", ui-sans-serif, system-ui, sans-serif`
+    measureCtx = ctx
+  }
+
+  const em = measureCtx ? measureCtx.measureText(text).width / 100 : text.length * LABEL_CHAR_WIDTH
+  emWidths.set(text, em)
+  return em
+}
 
 /** Label box height as a multiple of font size. */
 const LABEL_LINE_HEIGHT = 1.15
 
 /** Fudge on the estimated label size, since the true render scale is measured. */
 const LABEL_SAFETY = 1.15
+
+/** Titles longer than this are split across two lines, if they have a space. */
+const LABEL_WRAP_OVER = 15
+
+/**
+ * Split a long title at the word break nearest its middle.
+ *
+ * Length, not crowding, is what loses a label: measured across the densest
+ * topics, the notes left unlabeled sat mid-map, not at the rim, and ran 17–28
+ * characters. One long box cannot find a gap that two short ones fit easily.
+ */
+const wrapTitle = (title: string): string[] => {
+  if (title.length <= LABEL_WRAP_OVER) return [title]
+  const words = title.split(' ')
+  if (words.length < 2) return [title]
+
+  const middle = title.length / 2
+  let best = 1
+  let bestDelta = Infinity
+  let run = -1
+  for (let i = 0; i < words.length - 1; i++) {
+    run += words[i]!.length + 1
+    const delta = Math.abs(run - middle)
+    if (delta < bestDelta) {
+      bestDelta = delta
+      best = i + 1
+    }
+  }
+  return [words.slice(0, best).join(' '), words.slice(best).join(' ')]
+}
 
 const round = (value: number) => Math.round(value * 10) / 10
 
@@ -97,19 +189,16 @@ const topicFillRules = TOPIC_ORDER.map(
   (topic) => `.kg [data-topic='${topic}']{--kg-c:var(${topicCssVar(topic)});}`
 ).join('')
 
-/** Legend filtering: dim every element whose topic is not in `data-filter`. */
-const topicFilterRules = TOPIC_ORDER.map(
-  (topic) =>
-    `.kg[data-filter]:not([data-filter~='${topic}']) [data-topic='${topic}']{opacity:var(--kg-dim,.07);}`
-).join('')
-
 const GRAPH_CSS = `
 .kg{
   --kg-zoom:1;
   --kg-bg:oklch(0.99 0.005 75);
   --kg-fallback:${FALLBACK_TOPIC_COLOR.light};
   --kg-edge:oklch(0.707 0.015 50);
-  --kg-edge-o:.38;
+  /* Lower than it once was: the constellation now rests zoomed in, where the
+     edges crossing a screenful include long ones bound for nodes far outside
+     it. At the old weight that traffic read as hatching over the whole card. */
+  --kg-edge-o:.2;
   --kg-edge-hot:oklch(0.446 0.02 50);
   --kg-label:oklch(0.373 0.02 50);
   --kg-ring:oklch(0.446 0.02 50);
@@ -119,7 +208,7 @@ const GRAPH_CSS = `
   --kg-bg:oklch(0.14 0.01 60);
   --kg-fallback:${FALLBACK_TOPIC_COLOR.dark};
   --kg-edge:oklch(0.707 0.015 50);
-  --kg-edge-o:.5;
+  --kg-edge-o:.26;
   --kg-edge-hot:oklch(0.872 0.01 55);
   --kg-label:oklch(0.872 0.01 55);
   --kg-ring:oklch(0.707 0.015 50);
@@ -128,12 +217,29 @@ const GRAPH_CSS = `
 ${topicFillRules}
 
 .kg-svg{display:block;width:100%;height:100%;overflow:visible;touch-action:auto;}
-.kg--constellation .kg-svg{cursor:grab;}
+/*
+ * pan-y, not none: the browser keeps vertical scrolling, so the page still
+ * scrolls through the card, while horizontal drags come to us as pointer events
+ * and pan the map. Without this the constellation would open on a region that a
+ * touch user had no way to leave.
+ */
+.kg--constellation .kg-svg{cursor:grab;touch-action:pan-y;}
 .kg--constellation .kg-svg[data-panning='1']{cursor:grabbing;}
 
-.kg-edge{stroke:var(--kg-edge);stroke-width:1;stroke-linecap:round;fill:none;}
+/*
+ * Edge width is derived from --kg-zoom rather than vector-effect:non-scaling-stroke.
+ * Both hold a 1px on-screen stroke at any zoom, but non-scaling-stroke makes the
+ * engine re-derive stroke geometry in screen space per element per frame, and at
+ * 2.3k edges that alone cost 35ms/frame unthrottled and 122ms at 4x CPU throttle
+ * (measured). Reading a single inherited custom property is ~5x cheaper and, more
+ * importantly, has flat variance — the pathological frames disappear entirely.
+ * Any stroke-width on an edge must therefore be expressed in --kg-zoom units.
+ */
+.kg-edge{stroke:var(--kg-edge);stroke-width:calc(var(--kg-zoom) * 1px);stroke-linecap:round;fill:none;}
 .kg--constellation .kg-edge{opacity:var(--kg-edge-o);}
-.kg--local .kg-edge{opacity:calc(var(--kg-edge-o) + .28);}
+/* The local map is a dozen nodes in a small rail — it never had the crowding
+   that pushed the constellation's weight down, so it keeps the old value. */
+.kg--local .kg-edge{opacity:calc(var(--kg-edge-o) + .46);}
 
 .kg-hit{fill:transparent;stroke:none;}
 .kg-dot{fill:var(--kg-c,var(--kg-fallback));}
@@ -157,15 +263,15 @@ ${topicFillRules}
 }
 .kg-label--pinned{opacity:1;visibility:visible;}
 
-/* Legend filter — beats the resting rules, loses to an explicit node focus. */
-${topicFilterRules}
-.kg[data-filter] .kg-edge{opacity:.06;}
+/* Resting labels are placed for the home region. Zoomed well out of it they
+   would collide on screen, so they stand down and leave the shape of the map. */
+.kg[data-far] .kg-label--pinned:not(.kg-label--active){opacity:0;visibility:hidden;}
 
-/* Node focus: the hovered/focused node plus its direct neighbours stay lit. */
+/* Node focus: the hovered/focused node plus its direct neighbors stay lit. */
 .kg[data-focus] .kg-node:not(.kg-on){opacity:.1;}
 .kg[data-focus] .kg-label:not(.kg-on){opacity:0;}
 .kg[data-focus] .kg-edge:not(.kg-on){opacity:.05;}
-.kg[data-focus] .kg-edge.kg-on{opacity:.95;stroke:var(--kg-edge-hot);stroke-width:1.6;}
+.kg[data-focus] .kg-edge.kg-on{opacity:.95;stroke:var(--kg-edge-hot);stroke-width:calc(var(--kg-zoom) * 1.6px);}
 .kg[data-focus] .kg-node--active:not(.kg-on){opacity:1;}
 .kg[data-focus] .kg-label.kg-hot,
 .kg[data-focus] .kg-label--active{opacity:1;visibility:visible;}
@@ -174,6 +280,35 @@ ${topicFilterRules}
 .kg-node--active .kg-ring,
 .kg-node:focus-visible .kg-ring{opacity:1;}
 .kg-node:focus-visible .kg-ring{stroke:var(--color-primary-500,var(--kg-ring));stroke-width:2.5;}
+
+/*
+ * Filtering. Both modes classify every element the same way — inside the
+ * selection, reaching out of it (one endpoint in), or outside — and differ only
+ * in how hard they mute. Edges have to be judged by *both* endpoints, which is
+ * why this is applied per element rather than by an attribute selector on the
+ * root.
+ *
+ * Forced, because these have to beat the focus layer: an excluded node is still
+ * the neighbor of an included one, and would otherwise light up with it.
+ *
+ * hard — a legend selection. At 345 nodes a dim does not read as "excluded";
+ * a few hundred elements at 7% still sum to a gray haze. So these leave
+ * essentially nothing behind, and go inert so they cannot be hovered or
+ * clicked through the emptiness.
+ */
+.kg[data-mode='hard'] .kg-node.kg-out{opacity:.05 !important;pointer-events:none !important;}
+.kg[data-mode='hard'] .kg-edge.kg-out{opacity:.03 !important;}
+.kg[data-mode='hard'] .kg-label.kg-out{opacity:0 !important;visibility:hidden !important;}
+.kg[data-mode='hard'] .kg-edge.kg-reach{opacity:.16 !important;}
+
+/*
+ * soft — a topic page showing what its domain touches. Those neighbors are
+ * context worth reading and worth clicking, so they stay legible and live.
+ */
+.kg[data-mode='soft'] .kg-node.kg-out{opacity:.3 !important;}
+.kg[data-mode='soft'] .kg-label.kg-out{opacity:.55 !important;}
+.kg[data-mode='soft'] .kg-edge.kg-out{opacity:.06 !important;}
+.kg[data-mode='soft'] .kg-edge.kg-reach{opacity:.3 !important;}
 
 @keyframes kg-node-in{from{opacity:0;transform:scale(.35);}to{opacity:1;transform:scale(1);}}
 @keyframes kg-fade-in{from{opacity:0;}to{opacity:1;}}
@@ -201,8 +336,23 @@ interface RenderNode {
   r: number
   degree: number
   delay: number
-  pinned: boolean
   active: boolean
+}
+
+/**
+ * Split from `RenderNode` because label placement is the only part of the
+ * drawing that depends on the legend selection. Keeping them apart is what lets
+ * a chip toggle re-render ~345 `<text>` elements instead of reconciling the
+ * ~3.7k nodes and edges as well.
+ */
+interface RenderLabel {
+  id: string
+  title: string
+  /** The title as rendered — one line, or two when it was too long to place. */
+  lines: string[]
+  topic: string
+  active: boolean
+  pinned: boolean
   /** Label anchor point and alignment, chosen by the collision pass. */
   tx: number
   ty: number
@@ -240,7 +390,7 @@ const inflate = (b: Box, dx: number, dy: number): Box => ({
 const boxed = (
   tx: number,
   ty: number,
-  anchor: RenderNode['anchor'],
+  anchor: RenderLabel['anchor'],
   w: number,
   ascent: number,
   descent: number
@@ -255,6 +405,22 @@ const boxed = (
     y1: ty + descent,
   },
 })
+
+/**
+ * Where the map opens. Biased to the better-connected half of the vault, so the
+ * opening region has structure in it — a uniform pick lands in the sparse rim
+ * about half the time. Deliberately random per load: the vault is far larger
+ * than one screenful now, and a fixed origin would mean most of it is never the
+ * first thing anyone sees. Client-side only — the *layout* stays deterministic,
+ * it is only the camera that moves.
+ */
+const pickOrigin = (nodes: RenderNode[]): { x: number; y: number } | null => {
+  if (nodes.length === 0) return null
+  // `nodes` arrives in descending-degree order.
+  const pool = nodes.slice(0, Math.max(1, Math.ceil(nodes.length / 2)))
+  const choice = pool[Math.floor(Math.random() * pool.length)] ?? pool[0]!
+  return { x: choice.x, y: choice.y }
+}
 
 interface RenderEdge {
   key: string
@@ -280,6 +446,8 @@ export function KnowledgeGraph({
   const svgRef = useRef<SVGSVGElement>(null)
 
   const isConstellation = variant === 'constellation'
+  /** Only the unfocused, whole-vault constellation opens on a region. */
+  const opensOnRegion = isConstellation && !focusTopic
   const canvasHeight = height ?? (isConstellation ? 590 : 300)
   const legendVisible = showLegend ?? isConstellation
 
@@ -291,12 +459,54 @@ export function KnowledgeGraph({
    */
   const [canvas, setCanvas] = useState<{ w: number; h: number } | null>(null)
 
+  /**
+   * Text measurement is trusted only once the webfont has actually loaded —
+   * measuring against the fallback face would size every label wrongly. Gated
+   * together with `canvas`, both of which are null until after the first
+   * client render, so the server render and hydration still agree.
+   */
+  const [fontsReady, setFontsReady] = useState(false)
+  useEffect(() => {
+    if (typeof document === 'undefined' || !('fonts' in document)) return
+    let live = true
+    void document.fonts.ready.then(() => {
+      if (live) setFontsReady(true)
+    })
+    return () => {
+      live = false
+    }
+  }, [])
+
+  const measured = canvas !== null && fontsReady
+
+  /* ---- legend selection -------------------------------------------------- */
+
+  /*
+   * Declared above the layout because label placement depends on it: when a
+   * selection is active the labels have to describe *that* selection, or the
+   * map annotates hubs the reader just filtered away.
+   */
+  const [selected, setSelected] = useState<string[]>([])
+  const [preview, setPreview] = useState<string | null>(null)
+
+  /**
+   * A legend click is a *hard* filter — everything outside it is muted to the
+   * point of disappearing and made inert. `focusTopic` is a *soft* one: on a
+   * topic page the neighboring topics are context worth seeing and worth
+   * clicking, so they only dim. Hover preview counts as hard, so pointing at a
+   * legend chip shows exactly what selecting it would give you.
+   */
+  const selectionTopics = useMemo(() => {
+    if (preview) return new Set([preview])
+    return selected.length > 0 ? new Set(selected) : null
+  }, [preview, selected])
+
   /* ---- derived geometry, computed once per graph ------------------------- */
 
   const nodeById = useMemo(() => new Map(graph.nodes.map((node) => [node.id, node])), [graph.nodes])
 
   /** Adjacency, built once. Drives the hover focus set without any re-render. */
-  const neighbours = useMemo(() => {
+  const neighbors = useMemo(() => {
     const map = new Map<string, Set<string>>()
     for (const node of graph.nodes) map.set(node.id, new Set())
     for (const edge of graph.edges) {
@@ -315,15 +525,15 @@ export function KnowledgeGraph({
    * Accepted label boxes are folded into those bounds, which is what keeps
    * edge labels from being clipped.
    */
-  const layout = useMemo<{ nodes: RenderNode[]; bounds: Bounds }>(() => {
+  const geometry = useMemo<{ nodes: RenderNode[]; bounds: Bounds; fontUser: number }>(() => {
     const total = graph.nodes.length
-    if (total === 0) return { nodes: [], bounds: EMPTY_BOUNDS }
+    if (total === 0) return { nodes: [], bounds: EMPTY_BOUNDS, fontUser: 12 }
 
     const maxDegree = Math.max(1, ...graph.nodes.map((node) => node.degree))
     // Label everything only while it still reads — a depth-2 local graph can
     // run to 70+ nodes, which at 300px is a wall of overlapping text.
     const labelEveryNode = !isConstellation && total <= DENSE_LABEL_LIMIT
-    // Local maps are tuned for a depth-1 neighbourhood (~10 nodes); a deeper
+    // Local maps are tuned for a depth-1 neighborhood (~10 nodes); a deeper
     // one packs the same box far tighter, so the dots come down with it.
     const [minR, maxR] = isConstellation ? [4, 15] : labelEveryNode ? [9, 22] : [5, 16]
 
@@ -381,43 +591,137 @@ export function KnowledgeGraph({
     const canvasH = canvas?.h ?? canvasHeight
     const viewH =
       bounds.w / bounds.h > canvasW / canvasH ? (bounds.w * canvasH) / canvasW : bounds.h
-    const fontUser = ((12 * viewH) / Math.max(canvasH, 1)) * LABEL_SAFETY || 12
+    // Divided by the resting zoom: labels are placed for the region the graph
+    // actually opens on, not for the fully zoomed-out fit. At home zoom a label
+    // covers less of the layout, so far more of them find a clear slot.
+    const homeZoom = homeZoomFor(total, opensOnRegion)
+    const fontUser = (((12 * viewH) / Math.max(canvasH, 1)) * LABEL_SAFETY) / homeZoom || 12
 
-    const wanted = new Set(
-      labelEveryNode
-        ? graph.nodes.map((node) => node.id)
-        : ranked.slice(0, LANDMARK_LABELS).map((item) => item.node.id)
-    )
+    const nodes: RenderNode[] = ranked.map(({ node, index, isActive, r }) => ({
+      id: node.id,
+      title: node.title,
+      topic: node.topic,
+      x: Math.round(node.x * 10) / 10,
+      y: Math.round(node.y * 10) / 10,
+      r: Math.round(r * 100) / 100,
+      degree: node.degree,
+      delay: Math.round((index / total) * ENTRANCE_SPREAD),
+      active: isActive,
+    }))
+
+    return { nodes, bounds, fontUser }
+  }, [graph.nodes, isConstellation, opensOnRegion, activeId, canvasHeight, canvas])
+
+  const renderNodes = geometry.nodes
+  const bounds = geometry.bounds
+
+  /**
+   * Label placement — the one part of the drawing that must follow the legend
+   * selection. Every candidate is offered a label and the greedy collision pass
+   * is the budget; that only works because labels are sized for the home region,
+   * where a title covers a small fraction of the layout. At the old
+   * whole-graph sizing this would have produced a solid block of text.
+   */
+  const renderLabels = useMemo<RenderLabel[]>(() => {
+    const { nodes, bounds, fontUser } = geometry
+    if (nodes.length === 0) return []
+
+    const labelEveryNode = !isConstellation && nodes.length <= DENSE_LABEL_LIMIT
+    /*
+     * Rank the labels within the *visible* set. Ranking globally and filtering
+     * afterwards spent the whole budget on hubs the selection had just hidden,
+     * which is what left a filtered view with no legible titles at all.
+     */
+    const eligible = selectionTopics
+      ? nodes.filter((node) => selectionTopics.has(node.topic))
+      : nodes
+    const wanted = new Set(eligible.map((node) => node.id))
     if (activeId) wanted.add(activeId)
 
-    // Greedy placement: the note being read gets first pick, then the most
-    // linked, and anything that cannot find a clear slot in four tries loses
-    // its label rather than overprinting a more important one.
-    const taken: Box[] = []
-    const nodes: RenderNode[] = []
-    const placementOrder = [...ranked].sort(
-      (a, b) => Number(b.isActive) - Number(a.isActive) || a.index - b.index
-    )
+    /*
+     * Seeded with the dots themselves, not just with labels already placed:
+     * collision against labels alone was enough when only a dozen were drawn,
+     * but in a densely labeled region a title that clears its neighboring
+     * titles will still happily land on top of an unrelated node.
+     *
+     * Only the *visible* dots block, though. Seeding this with all of them left
+     * an isolated topic sparsely labeled for no visible reason — its titles
+     * were being turned away by nodes the selection had already hidden.
+     */
+    const taken: Box[] = eligible.map((node) => ({
+      x0: node.x - node.r,
+      x1: node.x + node.r,
+      y0: node.y - node.r,
+      y1: node.y + node.r,
+    }))
+    /*
+     * The note being read gets first pick, then this page's own domain, then
+     * the best connected (`nodes` already arrives in descending-degree order).
+     * `focusTopic` only *reorders* — it must not exclude, because a topic map
+     * exists to show what the domain touches, and naming only its own notes
+     * would leave every neighbor anonymous.
+     */
+    const priority = (node: RenderNode) =>
+      Number(node.active) * 2 + (focusTopic && node.topic === focusTopic ? 1 : 0)
+    const placementOrder = [...nodes].sort((a, b) => priority(b) - priority(a))
+    const out: RenderLabel[] = []
 
-    for (const { node, index, isActive, r } of placementOrder) {
-      const w = Math.max(node.title.length * LABEL_CHAR_WIDTH * fontUser, fontUser)
+    for (const node of placementOrder) {
+      const lines = wrapTitle(node.title)
+      const longest = Math.max(
+        ...lines.map((line) => (measured ? textEm(line) : line.length * LABEL_CHAR_WIDTH))
+      )
+      const w = Math.max(longest * fontUser, fontUser)
       const ascent = fontUser * 0.82
-      const descent = fontUser * (LABEL_LINE_HEIGHT - 0.82)
+      const lineH = fontUser * LABEL_LINE_HEIGHT
+      // `ty` is the first line's baseline, so the extra lines hang below it and
+      // simply deepen the box. Every candidate below stays a one-liner's math.
+      const descent = fontUser * (LABEL_LINE_HEIGHT - 0.82) + (lines.length - 1) * lineH
       const gap = fontUser * 0.4
+      // Side slots center the whole block on the node, not just its first line.
+      const midShift = ((lines.length - 1) * lineH) / 2
 
-      const candidates: { tx: number; ty: number; anchor: RenderNode['anchor']; box: Box }[] = [
-        // below, left, right, above — below reads best, so it goes first.
-        boxed(node.x, node.y + r + gap + ascent, 'middle', w, ascent, descent),
-        boxed(node.x - r - gap, node.y + fontUser * 0.34, 'end', w, ascent, descent),
-        boxed(node.x + r + gap, node.y + fontUser * 0.34, 'start', w, ascent, descent),
-        boxed(node.x, node.y - r - gap - descent, 'middle', w, ascent, descent),
+      // Diagonal reach, on both axes at once.
+      const d = (node.r + gap) * 0.7071
+
+      const candidates: { tx: number; ty: number; anchor: RenderLabel['anchor']; box: Box }[] = [
+        // The four orthogonal slots first, in order of how well they read.
+        boxed(node.x, node.y + node.r + gap + ascent, 'middle', w, ascent, descent),
+        boxed(
+          node.x - node.r - gap,
+          node.y + fontUser * 0.34 - midShift,
+          'end',
+          w,
+          ascent,
+          descent
+        ),
+        boxed(
+          node.x + node.r + gap,
+          node.y + fontUser * 0.34 - midShift,
+          'start',
+          w,
+          ascent,
+          descent
+        ),
+        boxed(node.x, node.y - node.r - gap - descent, 'middle', w, ascent, descent),
+        /*
+         * Then the diagonals. Four slots left the densest topics (Method, Play,
+         * Meaning) ~20% unlabeled once isolated — the orthogonal slots of
+         * close-packed neighbors contend for exactly the same space, while the
+         * gaps between them go unused. Eight is the standard point-label model
+         * and costs nothing: the search stops at the first slot that fits.
+         */
+        boxed(node.x + d, node.y + d + ascent * 0.6, 'start', w, ascent, descent),
+        boxed(node.x - d, node.y + d + ascent * 0.6, 'end', w, ascent, descent),
+        boxed(node.x + d, node.y - d, 'start', w, ascent, descent),
+        boxed(node.x - d, node.y - d, 'end', w, ascent, descent),
       ]
 
       let chosen = candidates[0]!
       let pinned = false
-      if (wanted.has(node.id)) {
+      if (labelEveryNode || wanted.has(node.id)) {
         // Must clear every label already placed AND sit inside the frame, so
-        // nothing clips at an edge. Four tries, then it loses its label rather
+        // nothing clips at an edge. If no slot fits it loses its label rather
         // than overprint a better-connected note.
         const free = candidates.find(
           (c) => inside(c.box, bounds) && !taken.some((box) => intersects(box, c.box))
@@ -431,28 +735,21 @@ export function KnowledgeGraph({
         }
       }
 
-      nodes.push({
+      out.push({
         id: node.id,
         title: node.title,
+        lines,
         topic: node.topic,
-        x: Math.round(node.x * 10) / 10,
-        y: Math.round(node.y * 10) / 10,
-        r: Math.round(r * 100) / 100,
-        degree: node.degree,
-        delay: Math.round((index / total) * ENTRANCE_SPREAD),
+        active: node.active,
         pinned,
-        active: isActive,
         tx: Math.round(chosen.tx * 10) / 10,
         ty: Math.round(chosen.ty * 10) / 10,
         anchor: chosen.anchor,
       })
     }
 
-    return { nodes, bounds }
-  }, [graph.nodes, isConstellation, activeId, canvasHeight, canvas])
-
-  const renderNodes = layout.nodes
-  const bounds = layout.bounds
+    return out
+  }, [geometry, isConstellation, activeId, focusTopic, selectionTopics, measured])
 
   const renderEdges = useMemo<RenderEdge[]>(() => {
     const seen = new Set<string>()
@@ -477,6 +774,59 @@ export function KnowledgeGraph({
     return edges
   }, [graph.edges, nodeById])
 
+  /* ---- hard filter — applied imperatively, zero re-render ----------------- */
+
+  /**
+   * The active filter, whichever kind it is. A legend selection is hard and
+   * takes precedence; a topic page's `focusTopic` is the soft fallback.
+   */
+  const filterMode = selectionTopics ? 'hard' : focusTopic ? 'soft' : undefined
+
+  const filterTopics = selectionTopics ?? (focusTopic ? new Set([focusTopic]) : null)
+
+  /** Node ids inside that filter; null when there is no filter at all. */
+  const filterIds = useMemo(() => {
+    if (!filterTopics) return null
+    const ids = new Set<string>()
+    for (const node of renderNodes) if (filterTopics.has(node.topic)) ids.add(node.id)
+    return ids
+    // `filterTopics` is rebuilt each render; its contents are what matter.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selectionTopics, focusTopic, renderNodes])
+
+  /** Only a hard filter makes nodes inert; soft context stays clickable. */
+  const selectedIds = selectionTopics ? filterIds : null
+
+  /*
+   * Written straight to the DOM rather than through props, for the same reason
+   * hover focus is: the node and edge layers must not reconcile on a chip
+   * toggle. Safe because neither layer's `className` prop ever changes after
+   * mount, so React will not overwrite what we set here. Labels are the
+   * exception — their class genuinely changes with the selection, so they carry
+   * it declaratively instead.
+   */
+  useIsomorphicLayoutEffect(() => {
+    const root = rootRef.current
+    if (!root) return
+
+    for (const el of root.querySelectorAll('.kg-node, .kg-label')) {
+      el.classList.toggle('kg-out', !!filterIds && !filterIds.has(el.getAttribute('data-node')!))
+    }
+
+    for (const el of root.querySelectorAll('.kg-edge')) {
+      if (!filterIds) {
+        el.classList.remove('kg-out', 'kg-reach')
+        continue
+      }
+      const a = filterIds.has(el.getAttribute('data-s')!)
+      const b = filterIds.has(el.getAttribute('data-t')!)
+      // Both ends inside: the selection's own structure, drawn normally. One end
+      // inside: where the selection reaches, kept faint. Neither: muted.
+      el.classList.toggle('kg-out', !a && !b)
+      el.classList.toggle('kg-reach', a !== b)
+    }
+  }, [filterIds])
+
   /* ---- focus (hover / keyboard) — driven imperatively, zero re-render ----- */
 
   const setFocus = useCallback(
@@ -494,7 +844,7 @@ export function KnowledgeGraph({
       }
 
       const ids = new Set<string>([id])
-      for (const neighbour of neighbours.get(id) ?? []) ids.add(neighbour)
+      for (const neighbor of neighbors.get(id) ?? []) ids.add(neighbor)
 
       for (const nodeId of ids) {
         const selector = `[data-node="${cssEscape(nodeId)}"]`
@@ -510,7 +860,7 @@ export function KnowledgeGraph({
 
       root.dataset.focus = id
     },
-    [neighbours]
+    [neighbors]
   )
 
   // Focus references live DOM nodes; drop it whenever the graph is swapped out.
@@ -534,12 +884,17 @@ export function KnowledgeGraph({
 
   /** Most-linked first — Home/End land on the ends of this. */
   const navOrder = useMemo(
-    () => [...renderNodes].sort((a, b) => b.degree - a.degree || a.id.localeCompare(b.id)),
-    [renderNodes]
+    () =>
+      renderNodes
+        // A filtered-out node is inert to the pointer; it has to be inert to the
+        // keyboard too, or Tab and the arrows walk into invisible dots.
+        .filter((node) => !selectedIds || selectedIds.has(node.id))
+        .sort((a, b) => b.degree - a.degree || a.id.localeCompare(b.id)),
+    [renderNodes, selectedIds]
   )
 
   /**
-   * The graph is one tab stop, not 201. This node carries `tabIndex=0` on the
+   * The graph is one tab stop, not 345. This node carries `tabIndex=0` on the
    * first render; arrow keys move it, imperatively, so a keyboard user can walk
    * the vault without trapping the rest of the page behind it.
    */
@@ -582,19 +937,30 @@ export function KnowledgeGraph({
     const next = root.querySelector(`.kg-node[data-node="${cssEscape(id)}"]`)
     if (!(next instanceof SVGElement)) return
     next.setAttribute('tabindex', '0')
-    // Focusing fires onFocus, which lights the node and its neighbours.
+    // Focusing fires onFocus, which lights the node and its neighbors.
     next.focus()
   }, [])
 
-  // A re-render of the node layer restores the memoised tabIndex, so the roving
-  // stop goes back to where React thinks it is.
+  /*
+   * Exactly one node is tabbable at a time, and which one is managed entirely
+   * here rather than through a prop — a `tabIndex` prop would re-render all ~345
+   * nodes whenever the roving stop moved. Re-asserted when the filter changes,
+   * because the stop may have just been filtered out from under us.
+   */
   useEffect(() => {
     const root = rootRef.current
-    if (!root || !initialRovingId) return
-    for (const el of root.querySelectorAll('.kg-node[tabindex="0"]')) {
-      if (el.getAttribute('data-node') !== initialRovingId) el.setAttribute('tabindex', '-1')
-    }
-  }, [initialRovingId])
+    if (!root || parked.current) return
+
+    const current = root.querySelector('.kg-node[tabindex="0"]')
+    const currentId = current?.getAttribute('data-node')
+    if (currentId && (!selectedIds || selectedIds.has(currentId))) return
+
+    current?.setAttribute('tabindex', '-1')
+    if (!initialRovingId) return
+    root
+      .querySelector(`.kg-node[data-node="${cssEscape(initialRovingId)}"]`)
+      ?.setAttribute('tabindex', '0')
+  }, [initialRovingId, selectedIds])
 
   /**
    * Nearest node within a 75° cone of the requested direction, distance
@@ -612,6 +978,7 @@ export function KnowledgeGraph({
       let bestScore = Infinity
       for (const node of renderNodes) {
         if (node.id === fromId) continue
+        if (selectedIds && !selectedIds.has(node.id)) continue
         const dx = node.x - from.x
         const dy = node.y - from.y
         const distance = Math.hypot(dx, dy)
@@ -628,7 +995,7 @@ export function KnowledgeGraph({
       }
       return best
     },
-    [renderNodes]
+    [renderNodes, selectedIds]
   )
 
   const handleNodeKey = useCallback(
@@ -679,40 +1046,104 @@ export function KnowledgeGraph({
    * The content bounding box is rarely the container's shape, and a filtered
    * subgraph is rarely the whole layout box. `meet` would letterbox whatever
    * mismatch is left, so the resting viewBox is grown along one axis to the
-   * container's aspect ratio and centred on the *content* — which both fills
+   * container's aspect ratio and centered on the *content* — which both fills
    * the canvas and keeps the aspect ratio undistorted.
    */
   const fit = useRef<Bounds>({ ...bounds })
+  /** The resting region: where the graph opens, and where Reset returns to. */
+  const home = useRef<Bounds>({ ...bounds })
   const view = useRef<Bounds>({ ...bounds })
+  /**
+   * Which note the opening region centers on, picked once per mount and kept
+   * across resizes so a window drag does not re-roll the view out from under
+   * the reader. Chosen on the client only — `lib/knowledge.ts` positions must
+   * stay byte-identical across processes, so the randomness lives here, in the
+   * camera, never in the layout.
+   */
+  const origin = useRef<{ x: number; y: number } | null>(null)
   /** Rendered size of the SVG in CSS px, refreshed by the ResizeObserver. */
   const size = useRef({ w: 0, h: 0 })
+  /** Last `--kg-zoom` written, so a pan does not rewrite an unchanged value. */
+  const zoomUnits = useRef<number | null>(null)
   const [zoomed, setZoomed] = useState(false)
   const zoomedRef = useRef(false)
 
-  const applyView = useCallback(() => {
+  /** Pending coalesced commit, if any. */
+  const frame = useRef(0)
+
+  /**
+   * The only place that touches the DOM for a view change. Wheel and pointermove
+   * both fire faster than frames render — on a throttled CPU, several times
+   * faster — so committing per event does redundant work that is never painted.
+   */
+  const commitView = useCallback(() => {
+    frame.current = 0
     const v = view.current
-    const f = fit.current
-    // Zoom bounds: the fit is the furthest out, MAX_ZOOM the closest in.
-    v.w = clamp(v.w, f.w / MAX_ZOOM, f.w)
-    v.h = clamp(v.h, f.h / MAX_ZOOM, f.h)
-    // Pan bounds: the view may not lose contact with the content.
-    const [xa, xb] = [bounds.x, bounds.x + bounds.w - v.w]
-    const [ya, yb] = [bounds.y, bounds.y + bounds.h - v.h]
-    v.x = clamp(v.x, Math.min(xa, xb), Math.max(xa, xb))
-    v.y = clamp(v.y, Math.min(ya, yb), Math.max(ya, yb))
+    const root = rootRef.current
 
     svgRef.current?.setAttribute('viewBox', `${v.x} ${v.y} ${v.w} ${v.h}`)
-    // User units per CSS px — labels multiply by it to hold a constant size
-    // on screen at any container size or zoom level.
+    // User units per CSS px — labels and edges multiply by it to hold a constant
+    // size on screen at any container size or zoom level. Written only when it
+    // actually moves: a pan leaves it untouched, and rewriting it would dirty
+    // the stroke-width of every edge and the font-size of every label for a
+    // value that did not change.
     const unitsPerPx = size.current.h > 0 ? v.h / size.current.h : 1
-    rootRef.current?.style.setProperty('--kg-zoom', String(unitsPerPx))
+    if (unitsPerPx !== zoomUnits.current) {
+      zoomUnits.current = unitsPerPx
+      root?.style.setProperty('--kg-zoom', String(unitsPerPx))
+    }
 
-    const next = Math.abs(v.w - f.w) > 0.5 || Math.abs(v.x - f.x) > 0.5 || Math.abs(v.y - f.y) > 0.5
+    // Resting labels are placed for the home region; once the view is much
+    // wider than that they would collide on screen, so they step aside and
+    // leave the shape of the map.
+    const h = home.current
+    root?.toggleAttribute('data-far', v.w > h.w * LABEL_FADE_RATIO)
+
+    // "Moved away from home", not "moved away from the whole-graph fit" —
+    // the graph no longer rests at the fit.
+    const next = Math.abs(v.w - h.w) > 0.5 || Math.abs(v.x - h.x) > 0.5 || Math.abs(v.y - h.y) > 0.5
     if (next !== zoomedRef.current) {
       zoomedRef.current = next
       setZoomed(next)
     }
-  }, [bounds])
+  }, [])
+
+  /**
+   * Clamps synchronously, then commits on the next frame. The clamp cannot be
+   * deferred with the write: handlers compound on `view.current` between frames,
+   * so leaving it unclamped lets a fast wheel overshoot the zoom limit and snap
+   * back once the frame lands. `immediate` is for the pre-paint fit, where a
+   * deferred write would flash the SSR'd viewBox.
+   */
+  const applyView = useCallback(
+    (immediate = false) => {
+      const v = view.current
+      const f = fit.current
+      // Zoom bounds: the fit is the furthest out, MAX_ZOOM the closest in.
+      v.w = clamp(v.w, f.w / MAX_ZOOM, f.w)
+      v.h = clamp(v.h, f.h / MAX_ZOOM, f.h)
+      // Pan bounds: the view may not lose contact with the content.
+      const [xa, xb] = [bounds.x, bounds.x + bounds.w - v.w]
+      const [ya, yb] = [bounds.y, bounds.y + bounds.h - v.h]
+      v.x = clamp(v.x, Math.min(xa, xb), Math.max(xa, xb))
+      v.y = clamp(v.y, Math.min(ya, yb), Math.max(ya, yb))
+
+      if (immediate || typeof requestAnimationFrame === 'undefined') {
+        if (frame.current) cancelAnimationFrame(frame.current)
+        commitView()
+        return
+      }
+      if (!frame.current) frame.current = requestAnimationFrame(commitView)
+    },
+    [bounds, commitView]
+  )
+
+  useEffect(
+    () => () => {
+      if (frame.current) cancelAnimationFrame(frame.current)
+    },
+    []
+  )
 
   const resetView = useCallback(() => {
     const rect = svgRef.current?.getBoundingClientRect()
@@ -739,9 +1170,37 @@ export function KnowledgeGraph({
     } else {
       fit.current = { ...bounds }
     }
-    view.current = { ...fit.current }
-    applyView()
-  }, [applyView, bounds])
+
+    /*
+     * The home region: the fit, divided down by the resting zoom and centered on
+     * the origin note. `applyView` clamps it back inside the content, so an
+     * origin near an edge simply yields the corner region rather than a view
+     * hanging off the side of the map.
+     */
+    const f = fit.current
+    const zoom = homeZoomFor(renderNodes.length, opensOnRegion)
+    // A graph that already fits stays centered on its content; only a map bigger
+    // than its canvas gets an origin. Offsetting a full-size view would just be
+    // clamped straight back, leaving home somewhere the view can never sit —
+    // which is what made "Reset view" appear on a graph that had not moved.
+    if (zoom > 1 && !origin.current) origin.current = pickOrigin(renderNodes)
+    const spot = origin.current ?? { x: f.x + f.w / 2, y: f.y + f.h / 2 }
+    const w = f.w / zoom
+    const h = f.h / zoom
+    // Clamped exactly as `applyView` will clamp it, so home is always a view the
+    // graph can actually rest at.
+    const [xa, xb] = [bounds.x, bounds.x + bounds.w - w]
+    const [ya, yb] = [bounds.y, bounds.y + bounds.h - h]
+    home.current = {
+      w,
+      h,
+      x: clamp(spot.x - w / 2, Math.min(xa, xb), Math.max(xa, xb)),
+      y: clamp(spot.y - h / 2, Math.min(ya, yb), Math.max(ya, yb)),
+    }
+
+    view.current = { ...home.current }
+    applyView(true)
+  }, [applyView, bounds, renderNodes, opensOnRegion])
 
   // Fit before first paint so the SSR'd viewBox never flashes.
   useIsomorphicLayoutEffect(() => {
@@ -801,7 +1260,9 @@ export function KnowledgeGraph({
 
   const onPointerDown = useCallback(
     (event: ReactPointerEvent<SVGSVGElement>) => {
-      if (!isConstellation || event.pointerType === 'touch' || event.button !== 0) return
+      // Touch is allowed now — `touch-action: pan-y` leaves vertical scrolling
+      // to the browser, so accepting these does not trap the page.
+      if (!isConstellation || event.button !== 0) return
       // Leave node presses alone — pointer capture would steal their click.
       if ((event.target as Element).closest?.('.kg-node')) return
 
@@ -859,102 +1320,117 @@ export function KnowledgeGraph({
     return [...known, ...unknown]
   }, [graph.nodes])
 
-  const [selected, setSelected] = useState<string[]>([])
-  const [preview, setPreview] = useState<string | null>(null)
-
   const toggleTopic = useCallback((topic: string) => {
     setSelected((current) =>
       current.includes(topic) ? current.filter((item) => item !== topic) : [...current, topic]
     )
   }, [])
 
-  // Legend selection (and hover preview) outranks `focusTopic`. A `focusTopic`
-  // dim is deliberately softer — those nodes are context, not noise.
-  const legendFilter = preview ? preview : selected.length > 0 ? selected.join(' ') : undefined
-  const activeFilter = legendFilter ?? focusTopic ?? undefined
-  const dimLevel = activeFilter && !legendFilter ? '0.22' : undefined
-
   /* ---- render ------------------------------------------------------------ */
 
-  // Memoised so legend state and view changes never reconcile ~2k SVG elements.
-  const layers = useMemo(
+  /*
+   * Three separately memoized layers. Edges and nodes depend only on the graph,
+   * so a legend toggle, a pan, or a zoom never reconciles those ~2.7k elements —
+   * the selection reaches them through `kg-out` instead. Labels are the one
+   * layer that genuinely has to re-place when the selection moves.
+   */
+  const edgeLayer = useMemo(
     () => (
-      <>
-        <g className="kg-edges" aria-hidden="true">
-          {renderEdges.map((edge) => (
-            <line
-              key={edge.key}
-              className="kg-edge"
-              data-s={edge.source}
-              data-t={edge.target}
-              x1={edge.x1}
-              y1={edge.y1}
-              x2={edge.x2}
-              y2={edge.y2}
+      <g className="kg-edges" aria-hidden="true">
+        {renderEdges.map((edge) => (
+          <line
+            key={edge.key}
+            className="kg-edge"
+            data-s={edge.source}
+            data-t={edge.target}
+            x1={edge.x1}
+            y1={edge.y1}
+            x2={edge.x2}
+            y2={edge.y2}
+          />
+        ))}
+      </g>
+    ),
+    [renderEdges]
+  )
+
+  const nodeLayer = useMemo(
+    () => (
+      <g className="kg-nodes">
+        {renderNodes.map((node) => (
+          <g
+            key={node.id}
+            className={clsx('kg-node', node.active && 'kg-node--active')}
+            data-node={node.id}
+            data-topic={node.topic}
+            style={{
+              animationDelay: `${node.delay}ms`,
+              transformOrigin: `${node.x}px ${node.y}px`,
+            }}
+            role="link"
+            // The roving stop is assigned imperatively; a prop here would
+            // re-render every node each time it moved.
+            tabIndex={-1}
+            aria-label={`${node.title} — ${(TOPIC_COLORS[node.topic] ?? FALLBACK_TOPIC_COLOR).label}`}
+            onPointerEnter={() => setFocus(node.id)}
+            onPointerLeave={() => setFocus(null)}
+            onFocus={() => setFocus(node.id)}
+            onBlur={() => setFocus(null)}
+            onClick={() => navigate(node.id)}
+            onKeyDown={(event) => handleNodeKey(event, node.id)}
+          >
+            <title>{node.title}</title>
+            {/* Positioned via cx/cy, not a `transform` attribute — the
+                entrance keyframes animate `transform` and would clobber it. */}
+            <circle className="kg-hit" cx={node.x} cy={node.y} r={Math.max(node.r + 8, 18)} />
+            <circle
+              className="kg-ring"
+              cx={node.x}
+              cy={node.y}
+              r={node.r + 4.5}
               vectorEffect="non-scaling-stroke"
             />
-          ))}
-        </g>
-
-        <g className="kg-nodes">
-          {renderNodes.map((node) => (
-            <g
-              key={node.id}
-              className={clsx('kg-node', node.active && 'kg-node--active')}
-              data-node={node.id}
-              data-topic={node.topic}
-              style={{
-                animationDelay: `${node.delay}ms`,
-                transformOrigin: `${node.x}px ${node.y}px`,
-              }}
-              role="link"
-              tabIndex={node.id === initialRovingId ? 0 : -1}
-              aria-label={`${node.title} — ${(TOPIC_COLORS[node.topic] ?? FALLBACK_TOPIC_COLOR).label}`}
-              onPointerEnter={() => setFocus(node.id)}
-              onPointerLeave={() => setFocus(null)}
-              onFocus={() => setFocus(node.id)}
-              onBlur={() => setFocus(null)}
-              onClick={() => navigate(node.id)}
-              onKeyDown={(event) => handleNodeKey(event, node.id)}
-            >
-              <title>{node.title}</title>
-              {/* Positioned via cx/cy, not a `transform` attribute — the
-                  entrance keyframes animate `transform` and would clobber it. */}
-              <circle className="kg-hit" cx={node.x} cy={node.y} r={Math.max(node.r + 8, 18)} />
-              <circle
-                className="kg-ring"
-                cx={node.x}
-                cy={node.y}
-                r={node.r + 4.5}
-                vectorEffect="non-scaling-stroke"
-              />
-              <circle className="kg-dot" cx={node.x} cy={node.y} r={node.r} />
-            </g>
-          ))}
-        </g>
-
-        <g className="kg-labels" aria-hidden="true">
-          {renderNodes.map((node) => (
-            <text
-              key={node.id}
-              className={clsx(
-                'kg-label',
-                node.pinned && 'kg-label--pinned',
-                node.active && 'kg-label--active'
-              )}
-              data-node={node.id}
-              data-topic={node.topic}
-              x={node.tx}
-              y={node.ty}
-              textAnchor={node.anchor}
-            >
-              {node.title}
-            </text>
-          ))}
-        </g>
-      </>
+            <circle className="kg-dot" cx={node.x} cy={node.y} r={node.r} />
+          </g>
+        ))}
+      </g>
     ),
-    [renderEdges, renderNodes, setFocus, navigate, handleNodeKey, initialRovingId]
+    [renderNodes, setFocus, navigate, handleNodeKey]
+  )
+
+  const labelLayer = useMemo(
+    () => (
+      <g className="kg-labels" aria-hidden="true">
+        {renderLabels.map((label) => (
+          <text
+            key={label.id}
+            className={clsx(
+              'kg-label',
+              label.pinned && 'kg-label--pinned',
+              label.active && 'kg-label--active'
+              // `kg-out` is added by the filter layout effect, which owns it for
+              // nodes, edges and labels alike.
+            )}
+            data-node={label.id}
+            data-topic={label.topic}
+            x={label.tx}
+            y={label.ty}
+            textAnchor={label.anchor}
+          >
+            {label.lines.length === 1
+              ? label.title
+              : // `x` is repeated per line: without it a tspan continues from
+                // where the previous one ended rather than returning to the anchor.
+                label.lines.map((line, index) => (
+                  <tspan key={line} x={label.tx} dy={index === 0 ? 0 : `${LABEL_LINE_HEIGHT}em`}>
+                    {line}
+                  </tspan>
+                ))}
+          </text>
+        ))}
+      </g>
+    ),
+    [renderLabels]
   )
 
   if (graph.nodes.length === 0) {
@@ -978,13 +1454,11 @@ export function KnowledgeGraph({
   return (
     <div
       ref={rootRef}
-      data-filter={activeFilter}
+      data-mode={filterMode}
       // Seeded for SSR / no-JS; the layout effect replaces it with the measured
       // units-per-px once the SVG has a size. Constant, so React never rewrites
       // it and clobbers that measurement.
-      style={
-        { '--kg-zoom': String(bounds.h / canvasHeight), '--kg-dim': dimLevel } as CSSProperties
-      }
+      style={{ '--kg-zoom': String(bounds.h / canvasHeight) } as CSSProperties}
       className={clsx(
         'kg relative',
         isConstellation ? 'kg--constellation' : 'kg--local',
@@ -1021,17 +1495,19 @@ export function KnowledgeGraph({
         >
           <title>{description}</title>
           <desc>
-            Each dot is a note, sized by how many links it has and coloured by topic. Focus or hover
-            a dot to isolate it and its neighbours; activate it to open the note. {KEYBOARD_HELP}
+            Each dot is a note, sized by how many links it has and colored by topic. Focus or hover
+            a dot to isolate it and its neighbors; activate it to open the note. {KEYBOARD_HELP}
           </desc>
-          {layers}
+          {edgeLayer}
+          {nodeLayer}
+          {labelLayer}
         </svg>
 
         {isConstellation && zoomed && (
           <button
             type="button"
             onClick={resetView}
-            className="hover:border-primary-400 hover:text-primary-600 dark:hover:border-primary-500 dark:hover:text-primary-400 absolute top-3 right-3 rounded-full border border-gray-300 px-3 py-1 text-xs font-medium text-gray-700 transition-colors dark:border-gray-600 dark:text-gray-300"
+            className="hover:border-primary-400 hover:text-primary-600 dark:hover:border-primary-500 dark:hover:text-primary-400 absolute top-3 right-3 cursor-pointer rounded-full border border-gray-300 px-3 py-1 text-xs font-medium text-gray-700 transition-colors dark:border-gray-600 dark:text-gray-300"
           >
             Reset view
           </button>
@@ -1061,7 +1537,7 @@ export function KnowledgeGraph({
                 onFocus={() => setPreview(topic)}
                 onBlur={() => setPreview(null)}
                 className={clsx(
-                  'inline-flex items-center gap-1.5 rounded-full px-3 py-0.5 text-xs font-medium transition-all duration-150 hover:-translate-y-px hover:shadow-sm',
+                  'inline-flex cursor-pointer items-center gap-1.5 rounded-full px-3 py-0.5 text-xs font-medium transition-all duration-150 hover:-translate-y-px hover:shadow-sm',
                   isOn
                     ? 'bg-primary-100 text-primary-700 dark:bg-primary-900/80 dark:text-primary-300'
                     : 'bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300'
@@ -1080,7 +1556,7 @@ export function KnowledgeGraph({
             <button
               type="button"
               onClick={() => setSelected([])}
-              className="hover:text-primary-600 dark:hover:text-primary-400 ml-1 text-xs font-medium text-gray-500 transition-colors dark:text-gray-400"
+              className="hover:text-primary-600 dark:hover:text-primary-400 ml-1 cursor-pointer text-xs font-medium text-gray-500 transition-colors dark:text-gray-400"
             >
               Clear
             </button>

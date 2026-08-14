@@ -250,7 +250,12 @@ let searchIndexCache: SearchIndexEntry[] | null = null
 
 /**
  * Read the one-line blurb that follows each topic heading in `wiki/Home.md`,
- * keyed by topic display name.
+ * keyed by the heading text verbatim.
+ *
+ * Those headings do not all match the display names in `TOPIC_DEFINITIONS` —
+ * the vault says `## Computation` where the site says "Computation & Algorithms"
+ * — so the lookup falls back to the folder name. Keyed on display name alone,
+ * three domains silently rendered with no description at all.
  */
 const readHomeBlurbs = (): Record<string, string> => {
   const homePath = path.join(wikiDir, 'Home.md')
@@ -415,7 +420,7 @@ const getTopics = (): KnowledgeTopic[] => {
     slug: topic.slug,
     dir: topic.dir,
     name: topic.name,
-    blurb: blurbs[topic.name] ?? '',
+    blurb: blurbs[topic.name] ?? blurbs[topic.dir] ?? '',
     noteCount: notes.filter((n) => n.topic === topic.slug).length,
     path: `/knowledge/${topic.slug}`,
   }))
@@ -610,7 +615,71 @@ const simulate = (
     temperature = Math.max(0.01, temperature - cooling)
   }
 
+  separate(px, py, n, k * SEPARATION, SEPARATION_PASSES)
+
   return normalize(px, py, n, width, height)
+}
+
+/**
+ * Target floor on pairwise distance, as a fraction of `k` (the natural spacing
+ * for n nodes in the box). Raising it spreads the map; past ~0.7 the topic
+ * clusters dissolve into an even lattice and the structure stops reading.
+ */
+const SEPARATION = 0.62
+const SEPARATION_PASSES = 12
+
+/**
+ * Enforce a floor on pairwise distance.
+ *
+ * Fruchterman-Reingold settles hubs into dense knots, and `normalize` then
+ * rescales the whole cloud to fill the box — so simply raising the repulsion
+ * constant buys nothing, the knot comes back the same size relative to its
+ * neighbors. This pass acts on the distances directly, which is what opens up
+ * room for labels and makes a single dot distinguishable from its neighbors.
+ *
+ * Deterministic: fixed iteration order, no randomness, no time source.
+ */
+const separate = (
+  px: Float64Array,
+  py: Float64Array,
+  n: number,
+  minDist: number,
+  passes: number
+): void => {
+  const minSq = minDist * minDist
+
+  for (let pass = 0; pass < passes; pass++) {
+    let collisions = 0
+
+    for (let i = 0; i < n; i++) {
+      for (let j = i + 1; j < n; j++) {
+        let deltaX = (px[i] as number) - (px[j] as number)
+        let deltaY = (py[i] as number) - (py[j] as number)
+        let distSq = deltaX * deltaX + deltaY * deltaY
+        if (distSq >= minSq) continue
+
+        if (distSq < 1e-6) {
+          // Coincident: nudge apart along a deterministic per-pair direction.
+          deltaX = ((i % 7) - 3) * 0.1 + 0.01
+          deltaY = ((j % 5) - 2) * 0.1 + 0.01
+          distSq = deltaX * deltaX + deltaY * deltaY
+        }
+
+        const dist = Math.sqrt(distSq)
+        // Split the correction between the pair, so neither is privileged.
+        const push = (minDist - dist) / dist / 2
+        const offsetX = deltaX * push
+        const offsetY = deltaY * push
+        px[i] = (px[i] as number) + offsetX
+        py[i] = (py[i] as number) + offsetY
+        px[j] = (px[j] as number) - offsetX
+        py[j] = (py[j] as number) - offsetY
+        collisions++
+      }
+    }
+
+    if (collisions === 0) break
+  }
 }
 
 /**
@@ -730,9 +799,9 @@ const getLocalGraph = (
   const origin = getNoteBySlug(noteSlug)
   if (!origin) return { nodes: [], edges: [] }
 
-  const neighbours = new Map<string, string[]>()
+  const neighbors = new Map<string, string[]>()
   for (const note of notes) {
-    neighbours.set(note.slug, unique([...note.outbound, ...note.backlinks]))
+    neighbors.set(note.slug, unique([...note.outbound, ...note.backlinks]))
   }
 
   const included = new Set<string>([origin.slug])
@@ -741,10 +810,10 @@ const getLocalGraph = (
   for (let hop = 0; hop < depth; hop++) {
     const next: string[] = []
     for (const slug of frontier) {
-      for (const neighbour of neighbours.get(slug) ?? []) {
-        if (included.has(neighbour)) continue
-        included.add(neighbour)
-        next.push(neighbour)
+      for (const neighbor of neighbors.get(slug) ?? []) {
+        if (included.has(neighbor)) continue
+        included.add(neighbor)
+        next.push(neighbor)
       }
     }
     if (next.length === 0) break
