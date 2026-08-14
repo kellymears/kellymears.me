@@ -29,9 +29,6 @@ const Backlinks = ({ slugs, className }: BacklinksProps) => {
             </span>
           )}
         </h2>
-        <p className="mt-1 text-sm text-gray-500 dark:text-gray-400">
-          Notes elsewhere in the wiki that reach for this one.
-        </p>
       </div>
 
       {notes.length === 0 ? (

@@ -32,7 +32,9 @@ export function Wander({ paths, label = 'Take me somewhere', className }: Wander
       type="button"
       onClick={wander}
       className={clsx(
-        'group hover:border-primary-400 hover:text-primary-600 dark:hover:border-primary-500 dark:hover:text-primary-400 inline-flex items-center gap-2 rounded-full border border-gray-300 px-5 py-2 text-sm font-medium text-gray-700 transition-colors dark:border-gray-600 dark:text-gray-300',
+        // `cursor-pointer` is explicit: Tailwind v4's Preflight sets buttons to
+        // `cursor: default`, so every interactive button here opts back in.
+        'group hover:border-primary-400 hover:text-primary-600 dark:hover:border-primary-500 dark:hover:text-primary-400 inline-flex cursor-pointer items-center gap-2 rounded-full border border-gray-300 px-5 py-2 text-sm font-medium text-gray-700 transition-colors dark:border-gray-600 dark:text-gray-300',
         className
       )}
     >

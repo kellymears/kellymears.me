@@ -127,7 +127,9 @@ export default async function MovementPage({ searchParams }: { searchParams: Sea
             group={group}
           />
         </Suspense>
-        <div className="min-w-0 md:sticky md:top-20">
+        {/* `pb-8` so the pinned column stops short of its container's bottom
+            edge rather than resting flush against it. */}
+        <div className="min-w-0 md:sticky md:top-20 md:pb-8">
           <TerrainBreakdown categories={terrainCategories} />
           <RideAverages stats={rideStats} group={group} />
           <PerformanceMetrics power={powerStats} heartRate={heartRateStats} />

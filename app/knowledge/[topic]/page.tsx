@@ -1,10 +1,12 @@
 import { Card } from '@/components/Card'
 import Link from '@/components/Link'
 import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
+import { Wander } from '@/components/knowledge/Wander'
 import { NoteCard, topicVars } from '@/components/knowledge/NoteCard'
 import { StatLine } from '@/components/knowledge/StatLine'
 import siteMetadata from '@/data/siteMetadata'
 import {
+  getAllNotes,
   getGraph,
   getNoteBySlug,
   getNotesByTopic,
@@ -100,7 +102,7 @@ function buildTopicGraph(topicSlug: string): Graph {
   }
 }
 
-interface Neighbour {
+interface Neighbor {
   slug: string
   name: string
   path: string
@@ -108,7 +110,7 @@ interface Neighbour {
 }
 
 /** How often this domain's notes link to each other domain. */
-function buildNeighbours(topicSlug: string): { neighbours: Neighbour[]; internal: number } {
+function buildNeighbors(topicSlug: string): { neighbors: Neighbor[]; internal: number } {
   const graph = getGraph()
   const members = new Set(
     graph.nodes.filter((node) => node.topic === topicSlug).map((node) => node.id)
@@ -132,7 +134,7 @@ function buildNeighbours(topicSlug: string): { neighbours: Neighbour[]; internal
     counts.set(outside.topic, (counts.get(outside.topic) ?? 0) + 1)
   }
 
-  const neighbours = getTopics()
+  const neighbors = getTopics()
     .filter((topic) => counts.has(topic.slug))
     .map((topic) => ({
       slug: topic.slug,
@@ -142,7 +144,7 @@ function buildNeighbours(topicSlug: string): { neighbours: Neighbour[]; internal
     }))
     .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name))
 
-  return { neighbours, internal }
+  return { neighbors, internal }
 }
 
 export default async function TopicPage(props: TopicPageProps) {
@@ -154,9 +156,10 @@ export default async function TopicPage(props: TopicPageProps) {
     (a, b) => b.degree - a.degree || a.title.localeCompare(b.title)
   )
   const graph = buildTopicGraph(slug)
-  const { neighbours, internal } = buildNeighbours(slug)
-  const outward = neighbours.reduce((sum, n) => sum + n.count, 0)
-  const widestNeighbour = neighbours[0]?.count ?? 1
+  const allNotes = getAllNotes()
+  const { neighbors, internal } = buildNeighbors(slug)
+  const outward = neighbors.reduce((sum, n) => sum + n.count, 0)
+  const widestNeighbor = neighbors[0]?.count ?? 1
 
   const topics = getTopics()
   const index = topics.findIndex((t) => t.slug === slug)
@@ -189,31 +192,40 @@ export default async function TopicPage(props: TopicPageProps) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
 
-      <header
+      {/*
+        One grid for the header *and* the map, so the "Where it reaches" rail can
+        span both rows. As two stacked blocks the rail was far taller than the
+        title beside it, and the row it defined left a screen-deep void under the
+        stat line before the map began.
+      */}
+      <div
         className={clsx(
-          'grid gap-x-10 gap-y-8 pt-12 pb-8',
-          neighbours.length > 0 && 'xl:grid-cols-[minmax(0,1fr)_19rem]'
+          'grid gap-x-10 gap-y-8 pt-8 pb-8',
+          neighbors.length > 0 && 'xl:grid-cols-[minmax(0,1fr)_19rem]'
         )}
       >
-        <div>
-          <p className="mb-4 flex items-center gap-2 text-sm font-medium tracking-widest uppercase">
-            <Link
-              href="/knowledge"
-              className="text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors"
-            >
-              Knowledge
-            </Link>
-            <span aria-hidden="true" className="text-gray-300 dark:text-gray-700">
-              /
-            </span>
-            <span className="inline-flex items-center gap-2 text-gray-500 dark:text-gray-400">
-              <span
-                className="inline-block h-2 w-2 shrink-0 rounded-full bg-[var(--topic)] dark:bg-[var(--topic-dark)]"
-                aria-hidden="true"
-              />
-              Domain
-            </span>
-          </p>
+        <header>
+          <div className="mb-4 flex flex-wrap items-center justify-between gap-x-4 gap-y-3">
+            <p className="flex items-center gap-2 text-sm font-medium tracking-widest uppercase">
+              <Link
+                href="/knowledge"
+                className="text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors"
+              >
+                Knowledge
+              </Link>
+              <span aria-hidden="true" className="text-gray-300 dark:text-gray-700">
+                /
+              </span>
+              <span className="inline-flex items-center gap-2 text-gray-500 dark:text-gray-400">
+                <span
+                  className="inline-block h-2 w-2 shrink-0 rounded-full bg-[var(--topic)] dark:bg-[var(--topic-dark)]"
+                  aria-hidden="true"
+                />
+                Domain
+              </span>
+            </p>
+            <Wander paths={allNotes.map((n) => n.path)} label="View random note" />
+          </div>
 
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl dark:text-gray-100">
             {topic.name}
@@ -233,43 +245,45 @@ export default async function TopicPage(props: TopicPageProps) {
               { value: outward, label: 'To other domains' },
             ]}
           />
-        </div>
+        </header>
 
-        {neighbours.length > 0 && (
+        {neighbors.length > 0 && (
           <Card
             variant="stat"
             hover={false}
             as="aside"
-            className="p-5"
-            aria-label="Neighbouring domains"
+            // `self-start` so spanning two rows does not stretch the card to the
+            // height of the map beside it; `sticky` then keeps it in view for the
+            // length of that map, the same way the note page pins its local graph.
+            // `mb-10` keeps it off the bottom edge of the grid row it is pinned
+            // within, rather than coming to rest flush against it.
+            className="p-5 xl:sticky xl:top-24 xl:row-span-2 xl:mb-10 xl:self-start"
+            aria-label="Neighboring domains"
           >
             <h2 className="text-xs font-medium tracking-wide text-gray-500 uppercase dark:text-gray-400">
-              Where it reaches
+              Connected domains
             </h2>
-            <p className="mt-2 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
-              The {outward} connections that leave {topic.name.toLowerCase()}, by where they land.
-            </p>
             <ul className="mt-4 space-y-3">
-              {neighbours.map((neighbour) => (
-                <li key={neighbour.slug}>
+              {neighbors.map((neighbor) => (
+                <li key={neighbor.slug}>
                   <Link
-                    href={neighbour.path}
+                    href={neighbor.path}
                     className="group block"
-                    style={topicVars(neighbour.slug)}
+                    style={topicVars(neighbor.slug)}
                   >
                     <span className="flex items-baseline justify-between gap-3">
                       <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 truncate text-sm font-medium text-gray-900 transition-colors dark:text-gray-100">
-                        {neighbour.name}
+                        {neighbor.name}
                       </span>
                       <span className="shrink-0 text-xs text-gray-500 tabular-nums dark:text-gray-400">
-                        {neighbour.count}
+                        {neighbor.count}
                       </span>
                     </span>
                     <span className="mt-1.5 block h-1 w-full overflow-hidden rounded-full bg-gray-200 dark:bg-gray-800">
                       <span
                         className="animate-grow-width block h-full rounded-full bg-[var(--topic)] opacity-70 transition-opacity group-hover:opacity-100 dark:bg-[var(--topic-dark)]"
                         style={{
-                          width: `${Math.round((neighbour.count / widestNeighbour) * 100)}%`,
+                          width: `${Math.round((neighbor.count / widestNeighbor) * 100)}%`,
                         }}
                       />
                     </span>
@@ -279,38 +293,30 @@ export default async function TopicPage(props: TopicPageProps) {
             </ul>
           </Card>
         )}
-      </header>
 
-      <section className="animate-on-scroll py-6" aria-label={`${topic.name} as a graph`}>
-        <div className="mb-5 flex items-baseline justify-between gap-4">
-          <h2 className="text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-            This domain, and what it touches
+        <section aria-label={`${topic.name} as a graph`}>
+          <h2 className="mb-5 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+            Domain Map
           </h2>
-          <p className="hidden text-sm text-gray-500 sm:block dark:text-gray-400">
-            {topic.noteCount} notes, plus everything one link away
-          </p>
-        </div>
-        <div className="content-defer">
-          <KnowledgeGraph
-            graph={graph}
-            variant="constellation"
-            focusTopic={topic.slug}
-            height={574}
-            showLegend
-          />
-        </div>
-      </section>
+          <div className="content-defer">
+            <KnowledgeGraph
+              graph={graph}
+              variant="constellation"
+              focusTopic={topic.slug}
+              height={574}
+              showLegend
+            />
+          </div>
+        </section>
+      </div>
 
       <section
         className="animate-on-scroll border-t border-gray-200 py-10 dark:border-gray-800"
         aria-label={`Notes in ${topic.name}`}
       >
-        <div className="mb-6 flex items-baseline justify-between gap-4">
-          <h2 className="text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-            The notes
-          </h2>
-          <p className="text-sm text-gray-500 dark:text-gray-400">Most connected first</p>
-        </div>
+        <h2 className="mb-6 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+          Connected notes
+        </h2>
         <div className="grid gap-6 sm:grid-cols-2">
           {notes.map((note, i) => (
             <div

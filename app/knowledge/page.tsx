@@ -4,8 +4,10 @@ import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
 import { topicVars } from '@/components/knowledge/NoteCard'
 import { StatLine } from '@/components/knowledge/StatLine'
 import { TopicCard } from '@/components/knowledge/TopicCard'
+import { Wander } from '@/components/knowledge/Wander'
 import siteMetadata from '@/data/siteMetadata'
 import {
+  getAllNotes,
   getGraph,
   getHubs,
   getKnowledgeStats,
@@ -43,6 +45,7 @@ export default function KnowledgePage() {
   const topics = getTopics()
   const graph = getGraph()
   const hubs = getHubs(12)
+  const allNotes = getAllNotes()
 
   const previews = new Map(
     topics.map((topic) => [
@@ -87,9 +90,12 @@ export default function KnowledgePage() {
 
       <header className="grid gap-x-10 gap-y-8 pt-12 pb-8 xl:grid-cols-[minmax(0,1fr)_19rem]">
         <div>
-          <p className="text-primary-600 dark:text-primary-400 mb-4 text-sm font-medium tracking-widest uppercase">
-            Concept Wiki
-          </p>
+          <div className="mb-4 flex flex-wrap items-center justify-between gap-x-4 gap-y-3">
+            <p className="text-primary-600 dark:text-primary-400 text-sm font-medium tracking-widest uppercase">
+              Concept Wiki
+            </p>
+            <Wander paths={allNotes.map((n) => n.path)} label="View random note" />
+          </div>
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl dark:text-gray-100">
             Knowledge
           </h1>
@@ -161,14 +167,9 @@ export default function KnowledgePage() {
       </header>
 
       <section className="animate-on-scroll py-6" aria-label="The whole vault as a graph">
-        <div className="mb-5 flex items-baseline justify-between gap-4">
-          <h2 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-            The constellation
-          </h2>
-          <p className="hidden text-sm text-gray-500 sm:block dark:text-gray-400">
-            Every note, every link. Colour is domain.
-          </p>
-        </div>
+        <h2 className="mb-5 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+          Knowledge Map
+        </h2>
         <div className="content-defer">
           <KnowledgeGraph graph={graph} variant="constellation" showLegend />
         </div>
@@ -205,15 +206,9 @@ export default function KnowledgePage() {
         className="animate-on-scroll border-t border-gray-200 py-10 dark:border-gray-800"
         aria-label="Most connected notes"
       >
-        <div className="mb-2 flex items-baseline justify-between gap-4">
-          <h2 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-            Where everything meets
-          </h2>
-        </div>
-        <p className="mb-6 max-w-2xl text-sm leading-relaxed text-gray-600 dark:text-gray-400">
-          The notes the rest of the vault keeps reaching for. Bar length is the number of notes on
-          the other end of a link.
-        </p>
+        <h2 className="mb-6 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
+          Most connected notes
+        </h2>
         <ul className="grid gap-x-10 gap-y-5 sm:grid-cols-2">
           {hubs.map((note, i) => (
             <li

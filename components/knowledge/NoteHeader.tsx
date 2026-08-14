@@ -1,9 +1,12 @@
 import Link from '@/components/Link'
 import type { KnowledgeNote } from '@/lib/knowledge'
 import clsx from 'clsx'
+import type { ReactNode } from 'react'
 
 interface NoteHeaderProps {
   note: KnowledgeNote
+  /** Rendered on the breadcrumb row, right-aligned — e.g. "View random note". */
+  action?: ReactNode
   className?: string
 }
 
@@ -21,40 +24,45 @@ const Dot = () => (
 
 /**
  * Notes carry no `# Heading` — the filename is the title — so the H1 is
- * synthesised here, and the frontmatter summary is promoted to a deck.
+ * synthesized here, and the frontmatter summary is promoted to a deck.
  */
-const NoteHeader = ({ note, className }: NoteHeaderProps) => {
+const NoteHeader = ({ note, action, className }: NoteHeaderProps) => {
   const topicPath = `/knowledge/${note.topic}`
   const outbound = note.outbound.length
   const inbound = note.backlinks.length
 
   return (
     <header className={clsx('pt-8 pb-8', className)}>
-      <nav aria-label="Breadcrumb">
-        <ol className="flex flex-wrap items-center gap-1.5 text-sm text-gray-500 dark:text-gray-400">
-          <li>
-            <Link
-              href="/knowledge"
-              className="hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
-            >
-              Knowledge
-            </Link>
-          </li>
-          <Separator />
-          <li>
-            <Link
-              href={topicPath}
-              className="hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
-            >
-              {note.topicName}
-            </Link>
-          </li>
-          <Separator />
-          <li aria-current="page" className="text-gray-700 dark:text-gray-300">
-            {note.title}
-          </li>
-        </ol>
-      </nav>
+      {/* The breadcrumb and the action share a row; `gap-y` lets the action wrap
+          under a long trail on narrow screens rather than squashing it. */}
+      <div className="flex flex-wrap items-center justify-between gap-x-4 gap-y-3">
+        <nav aria-label="Breadcrumb">
+          <ol className="flex flex-wrap items-center gap-1.5 text-sm text-gray-500 dark:text-gray-400">
+            <li>
+              <Link
+                href="/knowledge"
+                className="hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
+              >
+                Knowledge
+              </Link>
+            </li>
+            <Separator />
+            <li>
+              <Link
+                href={topicPath}
+                className="hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
+              >
+                {note.topicName}
+              </Link>
+            </li>
+            <Separator />
+            <li aria-current="page" className="text-gray-700 dark:text-gray-300">
+              {note.title}
+            </li>
+          </ol>
+        </nav>
+        {action}
+      </div>
 
       <h1 className="mt-5 text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl dark:text-gray-100">
         {note.title}

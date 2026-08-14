@@ -4,6 +4,7 @@ import LinkGroup from '@/components/knowledge/LinkGroup'
 import NoteFooterNav from '@/components/knowledge/NoteFooterNav'
 import NoteHeader from '@/components/knowledge/NoteHeader'
 import NoteProse from '@/components/knowledge/NoteProse'
+import { Wander } from '@/components/knowledge/Wander'
 import Link from '@/components/Link'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllNotes, getLocalGraph, getNote, getNotesByTopic } from '@/lib/knowledge'
@@ -66,7 +67,7 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
   const next = index >= 0 && index < siblings.length - 1 ? siblings[index + 1] : undefined
 
   // Depth 1, not the default 2: two hops is ~71 nodes for a well-connected note,
-  // which is a hairball in a 17rem rail. One hop is exactly the neighbourhood the
+  // which is a hairball in a 17rem rail. One hop is exactly the neighborhood the
   // rest of the page already names — See also, Related, Linked from.
   const localGraph = getLocalGraph(note.slug, 1)
   const url = `${siteMetadata.siteUrl}${note.path}`
@@ -97,7 +98,10 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
       />
 
       <article className="animate-page-enter">
-        <NoteHeader note={note} />
+        <NoteHeader
+          note={note}
+          action={<Wander paths={getAllNotes().map((n) => n.path)} label="View random note" />}
+        />
 
         {/*
           Rail is 22rem so the graph clears the ~320px it needs to place labels
@@ -111,7 +115,6 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
 
             <LinkGroup
               title="See also"
-              hint="Hand-picked in the note itself — the neighbours worth reading next."
               slugs={note.seeAlso}
               variant="cards"
               className="border-t border-gray-200 dark:border-gray-800"
@@ -133,7 +136,9 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
 
           <aside
             aria-label="Local graph"
-            className="content-defer mt-8 xl:sticky xl:top-24 xl:mt-0 xl:self-start xl:pt-10"
+            // `pb-10` matches `pt-10`: without it the card comes to rest flush
+            // against the bottom of its containing block when the prose runs out.
+            className="content-defer mt-8 xl:sticky xl:top-24 xl:mt-0 xl:self-start xl:pt-10 xl:pb-10"
           >
             <div className="rounded-xl border border-gray-200 px-3 py-4 dark:border-gray-800">
               <h2 className="text-xs font-medium text-gray-500 uppercase dark:text-gray-400">
