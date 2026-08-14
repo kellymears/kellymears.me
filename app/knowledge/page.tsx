@@ -53,9 +53,9 @@ export default function KnowledgePage() {
     ])
   )
 
-  // 11 domains never divide evenly, so the last card takes the full row rather
-  // than dangling beside an empty cell.
-  const lastTopicSlug = topics[topics.length - 1]?.slug
+  // An odd domain count leaves the last card dangling beside an empty cell, so it
+  // takes the full row instead. With an even count every card pairs up.
+  const lastTopicSlug = topics.length % 2 === 1 ? topics[topics.length - 1]?.slug : undefined
 
   const orientation = ORIENTATION_SLUGS.map((slug) => getNoteBySlug(slug)).filter(
     (note) => note !== undefined
