@@ -17,7 +17,7 @@ const sitemap = async (): Promise<MetadataRoute.Sitemap> => {
       lastModified: post.lastmod || post.date,
     }))
 
-  const routes = ['projects', 'blog', 'tags'].map((route) => ({
+  const routes = ['projects', 'blog', 'tags', 'games'].map((route) => ({
     url: `${siteUrl}/${route}`,
     lastModified: today(),
   }))
