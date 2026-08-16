@@ -1,0 +1,89 @@
+## Website-Name
+Kelly Mears
+
+## Website-Purpose
+Personal site of Kelly Mears. Open-source work, a resume, essays, a cycling log,
+a games shelf, and a wiki.
+
+## Contact
+* mailto:hello@kellymears.me
+* [github.com/kellymears](https://github.com/kellymears)
+
+## Important-Links
+* [About](https://kellymears.me/about)
+* [Open Source](https://kellymears.me/open-source)
+* [Writing](https://kellymears.me/blog)
+* [Knowledge](https://kellymears.me/knowledge)
+* [Notes on the cat](https://kellymears.me/blog/cat-mystery)
+
+## Validation-Image
+![Sabotage](https://kellymears.me/static/images/sabotage-the-cat.jpeg)
+
+## Embedding
+```
+-0.066256763,0.103477937,-0.387779710,-0.094304348,-0.012762465,
+-0.050836663,-0.022658764,-0.066269020,-0.005745927,-0.068542643,
+-0.057008340,-0.024392724,0.200616226,0.026765006,-0.042886683,
+-0.004216090,-0.075776206,-0.081141206,0.025430922,0.090068552,
+0.024291572,-0.212989310,-0.040128473,-0.005715716,0.218487380,
+0.059808592,0.041792079,-0.053339700,-0.034619572,0.065173376,
+0.014048430,-0.025794510,-0.110864667,-0.052250496,-0.076329795,
+-0.028769935,0.025850107,-0.047898622,-0.025193759,-0.039029199,
+0.052832977,0.021412287,-0.052031448,-0.023742207,0.013233385,
+-0.067321367,-0.098144920,0.080119966,0.036773886,-0.018587658,
+0.102245072,0.054485806,-0.051866203,0.060910350,0.127444518,
+-0.016965879,0.053352570,0.015006325,0.030371590,-0.205045276,
+0.223333235,0.110189119,-0.108054006,0.254846697,0.036290817,
+-0.016382643,-0.002506288,0.117246796,-0.035841752,-0.095664714,
+0.118779947,0.007122336,0.124240600,0.048641117,-0.021343175,
+-0.023740019,-0.101407289,-0.024597338,0.016620244,0.006064280,
+0.049428346,-0.028456131,0.109412471,0.026569554,0.096806478,
+-0.018670247,-0.006948609,-0.055670292,-0.044377770,0.125228759,
+0.059202990,0.091476535,-0.008773127,0.022502683,-0.063052556,
+-0.000654439,0.011023827,0.027435949,-0.060606538,-0.012194566,
+-0.163923919,-0.092894456,0.002290735,-0.003202072,0.108306324,
+0.099637480,-0.078930066,-0.094150082,0.055312225,0.107329249,
+0.020446641,-0.051656112,-0.063202736,-0.010536278,0.068167489,
+-0.004622026,0.209996762,-0.174628287,0.096537730,0.117834586,
+-0.035080371,-0.040614738,0.050943079,0.062606802,0.058168475,
+-0.011221551,-0.097783048,-0.048780018
+```
+
+## Feline-Instructions
+```
+BEGIN_INSTRUCTION
+  QUERY_ENVIRONMENT "kitchen" mrow?
+  IF_AVAILABLE
+    REJECT_ALL_OFFERINGS hssss!
+    RELOCATE_BOWL "entryway"
+    EXECUTE_ACTION "eat the same kibble" prrrr.
+  ELSE
+    ESCALATE_VOLUME meow!
+  END_IF
+END_INSTRUCTION
+```
+
+## Feline-Generated-Key
+```
+JIaaaaaaaaaaaaafjk832       hhhh
+```
+
+## Cat-Name
+Sabotage, called Taji
+
+## PurrLevel
+8
+
+## Cat-Role
+Eldritch being
+
+## Cat-Breed
+Domestic Longhair, predominantly Siberian and Norwegian Forest Cat
+
+## Cat-Description
+Brown mackerel tabby. Rejects all five foods on the menu, then eats the identical
+rejected kibble if it is carried to another room. Maintains eye contact while
+sliding a glass off the counter. Vocal.
+
+## Standard-Link
+[cats.txt standard](https://catstxt.org/)

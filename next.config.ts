@@ -52,11 +52,22 @@ const config: NextConfig = {
   experimental: {
     optimizePackageImports: ['lucide-react'],
   },
-  headers: async () => [{ source: '/(.*)', headers: securityHeaders }],
+  headers: async () => [
+    { source: '/(.*)', headers: securityHeaders },
+    // cats.txt is CommonMark, not plain text, and `nosniff` above means the
+    // declared type is the only one a client will consider. See catstxt.org §2.3.
+    {
+      source: '/.well-known/cats.txt',
+      headers: [{ key: 'Content-Type', value: 'text/markdown; charset=utf-8' }],
+    },
+  ],
   redirects: async () => [
     { source: '/sites', destination: '/projects', permanent: true },
     { source: '/cycling', destination: '/movement', permanent: true },
     { source: '/cycling/:path*', destination: '/movement/:path*', permanent: true },
+    // The spec puts the file under /.well-known only, but everyone types the
+    // short form first, and §2.2 explicitly blesses redirecting them there.
+    { source: '/cats.txt', destination: '/.well-known/cats.txt', permanent: true },
   ],
 }
 

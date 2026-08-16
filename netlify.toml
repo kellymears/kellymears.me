@@ -19,3 +19,18 @@
   status = 301
   force = true
 
+# cats.txt (catstxt.org). The canonical path is /.well-known/cats.txt; the short
+# form is a convenience for humans typing it. Both the redirect and the media
+# type are duplicated from next.config.ts so they survive static export, where
+# Next's redirects()/headers() are ignored.
+[[redirects]]
+  from = "/cats.txt"
+  to = "/.well-known/cats.txt"
+  status = 301
+  force = true
+
+[[headers]]
+  for = "/.well-known/cats.txt"
+  [headers.values]
+    Content-Type = "text/markdown; charset=utf-8"
+
