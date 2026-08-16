@@ -70,3 +70,7 @@ packages/cli/src/data.ts
 wiki/.obsidian/workspace*.json
 wiki/.obsidian/cache
 wiki/.trash/
+
+# Python bytecode (scripts/embed-cats-txt.py)
+__pycache__/
+*.pyc
