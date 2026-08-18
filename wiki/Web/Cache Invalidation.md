@@ -26,3 +26,4 @@ The subtlest form is a cache whose *scope* is smaller than assumed: a value memo
 ## Related
 - [[Server-Side Rendering]]
 - [[Record and Replay Testing]]
+- [[Write-Behind Cache]]

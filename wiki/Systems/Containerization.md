@@ -27,3 +27,4 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 - [[Git Worktree]]
 - [[Vacuous Truth]]
 - [[Silent Failure]]
+- [[Hypervisor]]

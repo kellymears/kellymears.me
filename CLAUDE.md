@@ -72,7 +72,7 @@ The `/cycling` page reads from RunGap-imported activity files — no live third-
 
 ## Knowledge Wiki (`lib/knowledge.ts`)
 
-`/knowledge/*` renders the Obsidian vault in `wiki/` as interlinked pages. 345 concept notes across 15 topic folders, ~2.3k links. Fully static — every route is prerendered at build time from the filesystem.
+`/knowledge/*` renders the Obsidian vault in `wiki/` as interlinked pages. 560 concept notes across 15 topic folders, ~5k links. Fully static — every route is prerendered at build time from the filesystem.
 
 - **Routes**: `/knowledge` (index), `/knowledge/[topic]` (domain), `/knowledge/[topic]/[subject]` (note). `wiki/Home.md` and `wiki/README.md` are data sources, not notes — `Home.md` supplies the per-topic blurbs.
 - **Data layer**: `lib/knowledge.ts`, module-cached. Parses frontmatter (`aliases`, `tags`, `summary`), resolves `[[wikilinks]]` by title *or* alias case-insensitively, derives backlinks, and strips `## See also` / `## Related` out of `body` into separate fields. Exports `getTopics`, `getAllNotes`, `getNote`, `getNoteBySlug`, `resolveWikilink`, `getGraph`, `getLocalGraph`, `getHubs`, `getSearchIndex`, `getKnowledgeStats`, `slugifyNote`.

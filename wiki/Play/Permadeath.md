@@ -17,3 +17,4 @@ The design argument underneath is that stakes require irreversibility — a thre
 - [[Meta-Progression]]
 - [[Assist Mode]]
 - [[Soulslike]]
+- [[Save Scumming]]

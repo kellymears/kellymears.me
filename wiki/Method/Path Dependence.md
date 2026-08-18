@@ -18,3 +18,4 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[Naming]]
 - [[Version Control]]
 - [[Regression]]
+- [[Sunk Cost Fallacy]]
