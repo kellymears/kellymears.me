@@ -9,11 +9,10 @@ summary: Splitting one dataset across multiple databases by key, trading a singl
 
 The appeal is that sharding is close to the only way to scale write throughput past what one machine's disk and CPU can do, since replication multiplies reads but every replica still has to apply the same writes. The cost shows up the moment a query needs data from more than one shard. A join across two customers on two different shards, or an aggregate across the whole dataset, either becomes a fan-out query the application has to stitch together itself, or requires a separate analytical system built for exactly that. Transactions across shards lose the easy [[ACID]] guarantees a single database gives for free, landing back in [[Two-Phase Commit]] or eventual-consistency territory.
 
-The partitioning key is the single decision the whole design hangs on, and it's hard to change later without a live data migration. A key that distributes load evenly (hashing a customer ID) scales cleanly but kills range queries; a key chosen for query locality (a date range, a region) scales unevenly if one shard's traffic outgrows the rest — the classic "hot shard" problem, where one partition becomes the bottleneck the whole design was meant to avoid.
+The partitioning key is the single decision the whole design hangs on, and it's hard to change later without a live data migration. A key that distributes load evenly ([[Consistent Hashing|hashing]] a customer ID) scales cleanly but kills range queries; a key chosen for query locality (a date range, a region) scales unevenly if one shard's traffic outgrows the rest — the classic "hot shard" problem, where one partition becomes the bottleneck the whole design was meant to avoid.
 
 ## See also
 - [[Database Replication]]
-- [[Read Replica]]
 - [[Two-Phase Commit]]
 - [[Multi-Tenancy]]
 

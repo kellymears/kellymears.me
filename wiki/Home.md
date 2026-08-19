@@ -65,7 +65,7 @@ The machine underneath.
 
 Modeling, storing, and publishing information.
 
-[[ACID]] · [[CAP Theorem]] · [[Change Data Capture]] · [[Consensus Algorithm]] · [[Database Migration]] · [[Database Replication]] · [[Database Sharding]] · [[Denormalization]] · [[Draft and Published]] · [[Event Sourcing]] · [[Feature Flag]] · [[Frontmatter]] · [[Headless CMS]] · [[Information Architecture]] · [[Leader Election]] · [[Markdown]] · [[Message Queue]] · [[Multi-Tenancy]] · [[Optimistic Locking]] · [[Pessimistic Locking]] · [[RSS]] · [[Read Replica]] · [[Relational Database]] · [[Schema Drift]] · [[Search Engine Optimization]] · [[Seed Data]] · [[Structured Data]] · [[Two-Phase Commit]] · [[Write-Behind Cache]]
+[[ACID]] · [[CAP Theorem]] · [[Change Data Capture]] · [[Consensus Algorithm]] · [[Database Migration]] · [[Database Replication]] · [[Database Sharding]] · [[Denormalization]] · [[Draft and Published]] · [[Event Sourcing]] · [[Feature Flag]] · [[Frontmatter]] · [[Headless CMS]] · [[Information Architecture]] · [[Leader Election]] · [[Markdown]] · [[Message Queue]] · [[Multi-Tenancy]] · [[Optimistic Locking]] · [[Pessimistic Locking]] · [[RSS]] · [[Relational Database]] · [[Schema Drift]] · [[Search Engine Optimization]] · [[Seed Data]] · [[Structured Data]] · [[Two-Phase Commit]] · [[Write-Behind Cache]]
 
 ## Graphics & Rendering
 
