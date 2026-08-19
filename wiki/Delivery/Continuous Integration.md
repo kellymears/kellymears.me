@@ -26,6 +26,7 @@ Several failure modes are worth knowing because they all produce a *false* green
 - [[Trunk-Based Development]]
 - [[Branching Model]]
 - [[Semantic Conflict]]
+- [[Smoke Test]]
 
 ## Related
 - [[Stacked Pull Requests]]

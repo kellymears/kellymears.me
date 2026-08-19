@@ -19,3 +19,4 @@ That reframing points to what actually raises the number. Writing things down is
 - [[Conway's Law]]
 - [[Chesterton's Fence]]
 - [[Commons-Based Peer Production]]
+- [[Peter Principle]]

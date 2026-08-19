@@ -2,7 +2,6 @@
 aliases:
   - Type scale
   - Leading
-  - Tracking
 tags:
   - design
 summary: A constrained set of type sizes and their paired line heights and spacing.

@@ -24,3 +24,4 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 - [[Plausible Mechanism]]
 - [[Naming]]
 - [[Code Comment]]
+- [[Premature Optimization]]
