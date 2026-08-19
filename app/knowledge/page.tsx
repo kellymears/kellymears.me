@@ -2,23 +2,27 @@ import { Card } from '@/components/Card'
 import Link from '@/components/Link'
 import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
 import { topicVars } from '@/components/knowledge/NoteCard'
-import { StatLine } from '@/components/knowledge/StatLine'
 import { TopicCard } from '@/components/knowledge/TopicCard'
 import { Wander } from '@/components/knowledge/Wander'
 import siteMetadata from '@/data/siteMetadata'
 import {
   getAllNotes,
+  getDailyNote,
   getGraph,
   getHubs,
   getKnowledgeStats,
   getNoteBySlug,
   getNotesByTopic,
+  getProminentConnections,
   getTopics,
 } from '@/lib/knowledge'
 import { genPageMetadata } from 'app/seo'
 import clsx from 'clsx'
 
-export const dynamic = 'force-static'
+// ISR so the topic of the day actually rotates: the pick is keyed to the
+// current date in America/New_York, so the page re-renders within 15 minutes
+// of Eastern midnight. Everything else on the page is unaffected.
+export const revalidate = 900
 
 /** Notes that describe the shape of the vault itself — a decent way in. */
 const ORIENTATION_SLUGS = ['zettelkasten', 'wiki', 'backlink', 'knowledge-graph']
@@ -46,6 +50,13 @@ export default function KnowledgePage() {
   const graph = getGraph()
   const hubs = getHubs(12)
   const allNotes = getAllNotes()
+
+  // Same note for every visitor, resetting at midnight Eastern.
+  const dayKey = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'America/New_York',
+  }).format(new Date())
+  const daily = getDailyNote(dayKey)
+  const dailyConnections = getProminentConnections(daily.slug, 3)
 
   const previews = new Map(
     topics.map((topic) => [
@@ -104,14 +115,41 @@ export default function KnowledgePage() {
             between them.
           </p>
 
-          <StatLine
-            className="mt-8"
-            items={[
-              { value: stats.notes, label: 'Notes' },
-              { value: stats.links, label: 'Connections' },
-              { value: stats.topics, label: 'Domains' },
-            ]}
-          />
+          <div className="mt-8" style={topicVars(daily.topic)}>
+            <p className="flex items-center gap-2 text-xs font-medium tracking-widest text-gray-500 uppercase dark:text-gray-400">
+              Topic of the Day
+              <span aria-hidden="true" className="text-gray-300 dark:text-gray-700">
+                ·
+              </span>
+              <span className="normal-case">{daily.topicName}</span>
+            </p>
+            <Link href={daily.path} className="group mt-2 inline-flex items-baseline gap-2.5">
+              <span
+                aria-hidden="true"
+                className="h-2.5 w-2.5 shrink-0 self-center rounded-full bg-[var(--topic)] dark:bg-[var(--topic-dark)]"
+              />
+              <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-2xl font-bold tracking-tight text-gray-900 transition-colors dark:text-gray-100">
+                {daily.title}
+              </span>
+            </Link>
+            <p className="mt-1.5 max-w-2xl text-sm leading-relaxed text-gray-600 dark:text-gray-400">
+              {daily.summary}
+            </p>
+            {dailyConnections.length > 0 && (
+              <ul className="mt-4 flex flex-wrap gap-2" aria-label="Prominent connections">
+                {dailyConnections.map((connection) => (
+                  <li key={connection.slug}>
+                    <Link
+                      href={connection.path}
+                      className="hover:bg-primary-100 hover:text-primary-700 dark:hover:bg-primary-950 dark:hover:text-primary-300 inline-flex items-center rounded-full bg-gray-100 px-3 py-0.5 text-sm font-medium whitespace-nowrap text-gray-700 transition-all duration-150 hover:-translate-y-px hover:shadow-sm dark:bg-gray-800 dark:text-gray-300"
+                    >
+                      {connection.title}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
         </div>
 
         <Card variant="stat" hover={false} as="aside" className="p-5" aria-label="Ways in">

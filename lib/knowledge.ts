@@ -883,10 +883,41 @@ const getKnowledgeStats = (): KnowledgeStats => ({
   topics: getTopics().length,
 })
 
+/**
+ * Deterministic "article of the day": FNV-1a over the day key indexes the
+ * slug-sorted note list, so every process — and every visitor — resolves the
+ * same note for the same key. The caller supplies the key (e.g. "2026-08-18"
+ * in the reset timezone); this module stays clock-free by design.
+ */
+const getDailyNote = (dayKey: string): KnowledgeNote => {
+  const notes = [...getAllNotes()].sort((a, b) => a.slug.localeCompare(b.slug))
+  let hash = 0x811c9dc5
+  for (let i = 0; i < dayKey.length; i++) {
+    hash ^= dayKey.charCodeAt(i)
+    hash = Math.imul(hash, 0x01000193) >>> 0
+  }
+  const pick = notes[hash % notes.length]
+  if (!pick) throw new Error('getDailyNote: the vault has no notes')
+  return pick
+}
+
+/** A note's most-linked neighbors — outbound and backlinks together, ranked by overall degree. */
+const getProminentConnections = (slug: string, limit = 3): KnowledgeNote[] => {
+  const note = getNoteBySlug(slug)
+  if (!note) return []
+  return unique([...note.outbound, ...note.backlinks])
+    .map((target) => getNoteBySlug(target))
+    .filter((neighbor): neighbor is KnowledgeNote => neighbor !== undefined)
+    .sort((a, b) => b.degree - a.degree || a.title.localeCompare(b.title))
+    .slice(0, limit)
+}
+
 export {
   getAllNotes,
+  getDailyNote,
   getGraph,
   getHubs,
+  getProminentConnections,
   getKnowledgeStats,
   getLocalGraph,
   getNote,
