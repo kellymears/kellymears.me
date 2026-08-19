@@ -9,7 +9,7 @@ The **CAP theorem** states that a distributed data system experiencing a network
 
 This is easy to overstate, and CAP's original 2000 conjecture has been refined since precisely because of that. Outside of an actual partition — the overwhelmingly common case for most systems most of the time — there's no forced tradeoff at all; a system can be both consistent and available as long as its nodes can talk to each other. CAP only bites during the partition itself, and it says nothing about latency, which is where most of the practical engineering tension actually lives (the related PACELC formulation makes that explicit: partition or not, a system also trades latency against consistency).
 
-In practice, systems pick a lean rather than an absolute: a leader-based [[Database Replication|replicated]] relational database favors consistency, rejecting or stalling writes rather than risk serving stale reads if it can't reach a quorum; a system like DNS or a shopping cart favors availability, always answering and reconciling any conflicting writes later — the same reconciliation problem [[Eventual Consistency]] and [[Conflict-Free Replicated Data Type|CRDTs]] exist to solve.
+In practice, systems pick a lean rather than an absolute: a leader-based [[Database Replication|replicated]] relational database favors consistency, rejecting or stalling writes rather than risk serving stale reads if it can't reach a quorum; a system like [[Domain Name System|DNS]] or a shopping cart favors availability, always answering and reconciling any conflicting writes later — the same reconciliation problem [[Eventual Consistency]] and [[Conflict-Free Replicated Data Type|CRDTs]] exist to solve.
 
 ## See also
 - [[Eventual Consistency]]

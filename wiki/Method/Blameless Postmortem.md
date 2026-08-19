@@ -19,6 +19,7 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[Five Whys]]
 - [[Silent Failure]]
 - [[Hanlon's Razor]]
+- [[Fundamental Attribution Error]]
 
 ## Related
 - [[Bus Factor]]

@@ -14,5 +14,6 @@ The standard defenses are structural, matching the mechanism directly: preregist
 
 ## See also
 - [[Publication Bias]]
+- [[Selection Bias]]
 - [[Placebo Effect]]
 - [[Availability Cascade]]

@@ -5,7 +5,7 @@ tags:
   - web
 summary: The set of headers that let a browser or intermediary reuse a previous response instead of re-fetching it.
 ---
-**HTTP Caching** is the family of headers that let a browser, a CDN, or a proxy skip a request entirely, or skip its body, by reusing a response it already has. `Cache-Control` is the modern header doing most of the work: `max-age` sets how long a response is fresh without any revalidation at all, `no-cache` means always revalidate before using it (despite the name, it doesn't forbid caching), and `no-store` means never cache it at all — three genuinely different behaviors that a name like "no-cache" makes easy to mix up.
+**HTTP Caching** is the family of headers that let a browser, a [[Content Delivery Network|CDN]], or a proxy skip a request entirely, or skip its body, by reusing a response it already has. `Cache-Control` is the modern header doing most of the work: `max-age` sets how long a response is fresh without any revalidation at all, `no-cache` means always revalidate before using it (despite the name, it doesn't forbid caching), and `no-store` means never cache it at all — three genuinely different behaviors that a name like "no-cache" makes easy to mix up.
 
 Once a cached response goes stale, the client doesn't necessarily re-download it — it can *revalidate*: ask the server "has this changed?" with a conditional request carrying an [[ETag]] or a last-modified date, and the server answers `304 Not Modified` with no body if nothing changed, saving the bandwidth of the full response while still confirming freshness. This is the mechanism that makes aggressive caching safe: a `max-age` that expired doesn't mean a wasted round trip, just a cheap one.
 

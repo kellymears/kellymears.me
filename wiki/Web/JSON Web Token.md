@@ -11,7 +11,7 @@ That self-containedness is also its sharpest edge. Because a valid JWT is truste
 
 The other recurring failure is trusting the token's own unverified header. Early JWT libraries let the `alg` field in the header claim `none` or switch algorithms, and code that read the algorithm from the token instead of hardcoding what it expected could be tricked into skipping verification entirely. The fix is mundane and non-optional: a verifier must dictate the algorithm itself and never take it from the token being verified.
 
-JWTs commonly carry [[OAuth]] and OpenID Connect identity claims, and get passed as a bearer token in an `Authorization` header — which is a deliberate choice against storing them in a cookie a [[Cross-Site Scripting]] payload could read just as easily, though bearer tokens in `localStorage` carry that same exposure.
+JWTs commonly carry [[OAuth]] and OpenID Connect identity claims, and get passed as a bearer token in an `Authorization` header — a choice with a real tradeoff: an `HttpOnly` cookie is the one storage a [[Cross-Site Scripting]] payload *cannot* read (its weakness is CSRF, since the browser attaches it automatically), while a bearer token sent from JavaScript must live somewhere script-accessible like `localStorage` or memory, where any XSS can exfiltrate it.
 
 ## See also
 - [[OAuth]]

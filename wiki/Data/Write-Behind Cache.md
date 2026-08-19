@@ -12,7 +12,7 @@ This is the opposite trade from a **write-through cache**, which writes to the d
 The gap is precisely why write-behind is reached for selectively rather than by default — it fits data where losing the last few seconds of writes on a crash is tolerable (view counts, non-critical telemetry, session activity) and is a poor fit for anything that needs [[ACID|durability]] guarantees, like a financial ledger entry. Systems that want the latency benefit without the loss risk typically pair it with a durable, replayable log ahead of the flush — the same role a [[Write-Ahead Logging|write-ahead log]] or [[Message Queue]] plays elsewhere — so a crash loses nothing, only delays it.
 
 ## See also
-- [[Read Replica]]
 - [[Write-Ahead Logging]]
+- [[Cache Invalidation]]
 - [[ACID]]
 - [[Eventual Consistency]]

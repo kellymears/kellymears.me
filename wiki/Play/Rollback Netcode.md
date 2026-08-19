@@ -16,3 +16,5 @@ Rollback depends entirely on [[Determinism]]: the resimulation only produces the
 - [[Determinism]]
 - [[Parry and Riposte]]
 - [[Matchmaking Rating]]
+- [[Latency and Jitter]]
+- [[Peer-to-Peer]]

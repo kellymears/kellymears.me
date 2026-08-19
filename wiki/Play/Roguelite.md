@@ -5,7 +5,7 @@ tags:
   - play
 summary: Distinguishes itself from Roguelike by keeping meta-progression between runs, so failure still advances the player even through permadeath.
 ---
-**Roguelite** names games that borrow a [[Roguelike]]'s surface machinery — procedurally generated levels, permadeath ending each attempt — while adding persistent progress that survives a run's death: unlocked characters, permanent stat boosts, currency banked toward the next attempt. *Rogue Legacy* and *Dead Cells* are the genre's reference points, and both make the same bet: permadeath stays as a source of tension, but it stops being the total, unrecoverable loss the strict roguelike tradition insists it has to be.
+**Roguelite** names games that borrow a [[Roguelike]]'s surface machinery — [[Procedural Generation|procedurally generated]] levels, permadeath ending each attempt — while adding persistent progress that survives a run's death: unlocked characters, permanent stat boosts, currency banked toward the next attempt. *Rogue Legacy* and *Dead Cells* are the genre's reference points, and both make the same bet: permadeath stays as a source of tension, but it stops being the total, unrecoverable loss the strict roguelike tradition insists it has to be.
 
 The term itself came out of a fight. The *Berlin Interpretation*, a set of criteria a small community of purists drew up to defend what "counts" as a real roguelike, treats permadeath, procedural generation, and a handful of other traits as load-bearing and non-negotiable; games that kept the aesthetic but softened the loss condition needed a name that didn't claim the stricter lineage, and "roguelite" was the compromise — a little dismissive in its own suffix, by design.
 

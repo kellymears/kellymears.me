@@ -18,3 +18,4 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Hick's Law]]
 - [[Progressive Disclosure]]
 - [[Accessibility]]
+- [[Compulsion Loop]]

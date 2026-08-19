@@ -13,6 +13,7 @@ The effect has real behavioral consequences precisely because policy and censors
 
 ## See also
 - [[Halo Effect]]
+- [[Dunning-Kruger Effect]]
 - [[Moral Panic]]
 - [[Spiral of Silence]]
 - [[Availability Cascade]]

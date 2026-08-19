@@ -5,7 +5,7 @@ tags:
   - method
 summary: Repeatedly asking why a symptom occurred, chaining each answer into the next question until the causal chain runs out.
 ---
-**Five Whys** is a root-cause technique that takes a symptom, asks why it happened, takes that answer, asks why *that* happened, and repeats — the number five is a convention, not a rule, meant to signal "keep going past the first answer," which is usually a proximate cause rather than the thing actually worth fixing. Taiichi Ohno developed it at Toyota to stop line workers from accepting the first plausible explanation for a defect.
+**Five Whys** is a root-cause technique that takes a symptom, asks why it happened, takes that answer, asks why *that* happened, and repeats — the number five is a convention, not a rule, meant to signal "keep going past the first answer," which is usually a proximate cause rather than the thing actually worth fixing. Sakichi Toyoda originated it; Taiichi Ohno made it a pillar of the Toyota Production System, using it to stop line workers from accepting the first plausible explanation for a defect.
 
 A worked example makes the shape clear: a server crashed (why?) because it ran out of memory (why?) because a cache grew unbounded (why?) because an eviction policy was never configured (why?) because the caching library's default is "no eviction" and nobody read that far into the docs (why?) because the team was under deadline pressure and copied a config from an unrelated service. Stopping at "ran out of memory" gets you a bigger box; stopping at "eviction policy" gets you a config fix that will recur elsewhere; going the full chain gets you a process fix — a docs-read step in the checklist for adopting a new dependency — that generalizes.
 

@@ -22,3 +22,4 @@ The genre's real tension is between simulation depth and legibility. A model det
 
 ## Related
 - [[Emergent Gameplay]]
+- [[Legibility]]

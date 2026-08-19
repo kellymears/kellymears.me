@@ -21,3 +21,4 @@ Skeuomorphism is the clearest historical case study for [[Affordance]] because i
 
 ## Related
 - [[Motion Design]]
+- [[Diegetic Interface]]

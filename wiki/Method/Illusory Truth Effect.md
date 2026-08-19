@@ -19,6 +19,8 @@ The defense is to track a claim's actual evidentiary history rather than the fee
 - [[Confirmation Bias]]
 - [[Availability Heuristic]]
 - [[Anchoring Effect]]
+- [[Availability Cascade]]
+- [[Social Proof]]
 
 ## Related
 - [[Poe's Law]]

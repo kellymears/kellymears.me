@@ -5,7 +5,7 @@ tags:
   - delivery
 summary: Running two identical production environments and switching traffic between them instead of upgrading one in place.
 ---
-**Blue-Green Deployment** keeps two identical production environments, conventionally called blue and green. One serves live traffic while the other sits idle or gets the new version. Once the idle environment is deployed and checked, a router or load balancer flips traffic to it in one move. The old environment stays up, untouched, as an instant rollback target.
+**Blue-Green Deployment** keeps two identical production environments, conventionally called blue and green. One serves live traffic while the other sits idle or gets the new version. Once the idle environment is deployed and checked, a router or [[Load Balancing|load balancer]] flips traffic to it in one move. The old environment stays up, untouched, as an instant rollback target.
 
 The appeal is that the cutover is a single atomic switch rather than a rolling upgrade of live instances, so there is no window where some requests hit old code and others hit new code against a half-migrated environment. If the new version misbehaves, flipping back is as fast as flipping forward — no redeploy, no rebuild, just repointing traffic.
 

@@ -12,7 +12,7 @@ The **center of mass** is the point at which an object's mass distribution balan
 
 Stability against tipping is a center-of-mass question: an object tips when its center of mass moves horizontally past its base of support, which is why a wide stance and a low center of mass both improve stability, and why a Weeble toy's weighted rounded bottom makes it self-right — any tip raises its center of mass, so gravity always pulls it back down to the low-energy upright position.
 
-A tumbling body, no matter how it's thrown, always rotates about its own center of mass — a wrench spinning through the air rotates around that one point even while the wrench as a whole follows a parabolic arc, the two motions (translation of the center of mass, rotation about it) being fully independent and separately conserved.
+A tumbling body, no matter how it's thrown, always rotates about its own center of mass — a wrench spinning through the air rotates around that one point even while the wrench as a whole follows a parabolic arc, the two motions (translation of the center of mass, rotation about it) being fully independent — gravity bends the center of mass's path but exerts no torque about it, so the spin carries on unchanged.
 
 ## See also
 - [[Torque]]

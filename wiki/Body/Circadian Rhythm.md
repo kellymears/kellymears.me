@@ -11,7 +11,7 @@ The master clock sits in the **suprachiasmatic nucleus (SCN)**, a small structur
 
 **Jet lag** is what happens when the zeitgebers change abruptly (crossing time zones) faster than the internal clock can resynchronize; the SCN can typically shift by only about an hour a day, so the mismatch between "what the sun and clock now say" and "what the SCN still believes" persists for days and produces the disorientation, poor sleep, and daytime fatigue jet lag is known for. Shift work imposes a chronic version of the same mismatch by fighting the light zeitgeber on a recurring schedule rather than a single transition.
 
-Circadian timing governs far more than sleep: core body temperature, cortisol, and melatonin all cycle on the same clock, and drug metabolism and even the timing of certain medical events (heart attacks cluster in early morning) track it as well.
+Circadian timing governs far more than sleep: core body temperature, cortisol, and melatonin all cycle on the same clock, and [[Xenobiotic Metabolism|drug metabolism]] and even the timing of certain medical events (heart attacks cluster in early morning) track it as well.
 
 ## See also
 - [[Segmented Sleep]]

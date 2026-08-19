@@ -14,7 +14,7 @@ The corollary, sometimes called the "Peter Plateau," is that a stable organizati
 The corrective some organizations use is a dual ladder — letting technical seniority advance without requiring a move into management — which works precisely because it stops treating "good at the current job" as the only signal for what the next job should be.
 
 ## See also
-- [[Base Rate Fallacy]]
+- [[Goodhart's Law]]
 - [[Dunning-Kruger Effect]]
 - [[Hanlon's Razor]]
 - [[Bus Factor]]

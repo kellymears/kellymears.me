@@ -5,7 +5,7 @@ tags:
   - play
 summary: A visibility mechanic limiting the map to explored or currently-observed areas, turning information itself into a contested resource.
 ---
-**Fog of War** is a mechanic that restricts what a player can see of the map to places their units have explored or can currently observe, and its real function is converting information into a resource worth fighting over rather than a given. *StarCraft*'s scouting meta exists almost entirely because of it: knowing what an opponent is building is worth a worker's early production time, because the alternative is playing blind against a strategy you can't see coming.
+**Fog of War** is a mechanic that restricts what a player can see of the map to places their units have explored or can currently observe, and its real function is converting information into a resource worth fighting over rather than a given. *StarCraft*'s scouting [[Metagame|meta]] exists almost entirely because of it: knowing what an opponent is building is worth a worker's early production time, because the alternative is playing blind against a strategy you can't see coming.
 
 Most strategy games encode a three-state version of this rather than a simple binary. Unexplored terrain is fully black — nothing is known, not even the terrain shape. Explored-but-not-currently-visible terrain is greyed out, remembered but stale — the game shows you the last base layout it saw there, which might be years out of date by the time you look again. Only currently observed terrain is fully live. That middle state is where most strategic deception lives: an opponent who moves an army out of your last sightline is invisible to you exactly when it matters most.
 

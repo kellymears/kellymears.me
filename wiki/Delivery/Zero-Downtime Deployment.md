@@ -5,7 +5,7 @@ tags:
   - delivery
 summary: Deploying a new version while the service keeps serving every request, with no maintenance window.
 ---
-**Zero-Downtime Deployment** ships a new version of a running service without a window where it stops responding. No maintenance page, no dropped connections, no "back in five minutes." It's less a single technique than a name for the property that several techniques jointly produce: [[Blue-Green Deployment]]'s traffic switch, [[Canary Release]]'s gradual shift, or a rolling restart that takes instances out of a load balancer's rotation one at a time, waits for each new instance to pass a health check, and only then moves to the next.
+**Zero-Downtime Deployment** ships a new version of a running service without a window where it stops responding. No maintenance page, no dropped connections, no "back in five minutes." It's less a single technique than a name for the property that several techniques jointly produce: [[Blue-Green Deployment]]'s traffic switch, [[Canary Release]]'s gradual shift, or a rolling restart that takes instances out of a [[Load Balancing|load balancer]]'s rotation one at a time, waits for each new instance to pass a health check, and only then moves to the next.
 
 The part that's easy to get right and easy to skip is *in-flight requests*: a naive deploy that kills the old process the instant the new one starts drops whatever requests were mid-flight on the old one. The fix is a drain period — stop routing *new* requests to an instance, let its in-flight requests finish on their own, then terminate it — which is why health checks and load-balancer deregistration delays matter as much as the deploy mechanism itself.
 

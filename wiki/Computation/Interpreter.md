@@ -11,7 +11,7 @@ The practical consequence is the read-eval-print loop: an interpreter can execut
 
 The cost is speed: re-parsing and re-dispatching on each statement every time it runs is slower than executing pre-translated machine code, which is why performance-sensitive interpreted languages add a JIT compiler that watches which code paths run often and compiles just those to native code mid-execution — V8 (Chrome's and Node's JavaScript engine) and the JVM's HotSpot both work this way, straddling the interpreter/compiler line rather than sitting cleanly on one side.
 
-An interpreter also changes where errors surface: a syntax or type error in a branch that never executes can go completely unnoticed in a purely interpreted language, since nothing inspects code that isn't reached, whereas a compiler that does full static analysis ahead of time would catch a type error in dead code before the program ever ran. This is one reason dynamically typed interpreted languages lean more heavily on test coverage — the interpreter offers no static safety net for the paths tests don't exercise.
+An interpreter also changes where errors surface: a type or name error in a branch that never executes can go completely unnoticed in an interpreted language (syntax errors are still caught up front, since the whole file gets parsed), since nothing inspects code that isn't reached, whereas a compiler that does full static analysis ahead of time would catch a type error in dead code before the program ever ran. This is one reason dynamically typed interpreted languages lean more heavily on [[Code Coverage|test coverage]] — the interpreter offers no static safety net for the paths tests don't exercise.
 
 ## See also
 - [[Compiler]]

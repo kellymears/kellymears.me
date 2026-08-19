@@ -18,3 +18,4 @@ The ladder's underlying premise — that pain severity should be matched, not ex
 - [[Physical Dependence]]
 - [[Regional Nerve Block]]
 - [[Referred Pain]]
+- [[Inflammation]]

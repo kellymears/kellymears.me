@@ -11,7 +11,7 @@ Two components split the sensing job. The **semicircular canals** — three flui
 
 The vestibular system drives the **vestibulo-ocular reflex (VOR)**: eye movements that counter-rotate automatically to cancel head motion, keeping gaze fixed on a target while the head moves — the reason a page stays readable while walking but a photo taken mid-stride blurs, since a camera has no VOR to compensate.
 
-**Motion sickness** is widely explained by **sensory conflict**: nausea arises when the vestibular system, the eyes, and proprioception disagree about what's moving — reading in a moving car has the inner ear reporting motion while the eyes, fixed on a stationary page, report none, a mismatch the brain apparently interprets as evidence of poisoning and responds to accordingly.
+**Motion sickness** is widely explained by **sensory conflict**: nausea arises when the vestibular system, the eyes, and [[Proprioception|proprioception]] disagree about what's moving — reading in a moving car has the inner ear reporting motion while the eyes, fixed on a stationary page, report none, a mismatch the brain apparently interprets as evidence of poisoning and responds to accordingly.
 
 ## See also
 - [[Proprioception]]

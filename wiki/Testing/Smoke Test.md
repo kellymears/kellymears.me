@@ -9,10 +9,11 @@ summary: A fast, shallow check that a build isn't catastrophically broken, run b
 
 The defining property is speed and shallowness on purpose. A smoke suite for a web app might be five checks — server responds, a logged-in session loads a page, a core API returns 200 — run in seconds, versus a full suite that might take an hour and cover edge cases three levels deep. That asymmetry is the whole design intent: a smoke test is meant to run on every deploy, every merge, maybe every few minutes against production, as a tripwire, while the expensive full suite runs less often or only pre-merge.
 
-In CI pipelines, smoke tests commonly gate whether the expensive suite even runs at all — fail the smoke test, and the pipeline stops immediately rather than burning twenty minutes of compute discovering the deeper suite also fails for the same root cause. In production, the same pattern shows up as a post-deploy health check: hit a few critical endpoints immediately after a deploy completes, and roll back automatically if they don't respond, catching a broken deploy in seconds rather than waiting for a user report or a slower monitoring alert to surface it.
+In CI pipelines, smoke tests commonly gate whether the expensive suite even runs at all — fail the smoke test, and the pipeline stops immediately rather than burning twenty minutes of compute discovering the deeper suite also fails for the same root cause. In production, the same pattern shows up as a post-deploy health check: hit a few critical endpoints immediately after a deploy completes, and [[Rollback|roll back]] automatically if they don't respond, catching a broken deploy in seconds rather than waiting for a user report or a slower monitoring alert to surface it.
 
 ## See also
 - [[Integration Test]]
 - [[Unit Test]]
 - [[Coverage Gate]]
 - [[Flaky Test]]
+- [[Canary Release]]

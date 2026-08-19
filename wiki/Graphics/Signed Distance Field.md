@@ -12,7 +12,7 @@ The payoff is a rendering technique called **ray marching**: instead of solving 
 
 SDFs compose unusually well. A **smooth minimum** between two fields blends their shapes with a rounded seam instead of a hard union, which is the standard trick behind procedural "metaball" blobs and organic-looking generative forms. Surface normals fall out for free too, as the gradient of the field, so lighting needs no separate normal data.
 
-Outside real-time rendering, SDFs back most modern vector font rendering: a glyph stored as a distance field stays crisp at any scale and rotation, unlike a fixed-resolution bitmap, because the renderer can re-threshold the same field at arbitrary zoom instead of interpolating pixels.
+SDFs also back most GPU and game-engine text rendering (Valve's 2007 technique and its multi-channel successors): a glyph stored as a distance field stays crisp across a wide range of scales and rotations, unlike a fixed-resolution bitmap, because the renderer can re-threshold the same field at arbitrary zoom instead of interpolating pixels — though the field itself is still finite-resolution, so corners soften at extreme magnification, which is what multi-channel SDFs exist to fix. Mainstream OS and browser text stacks still rasterize outlines per size instead.
 
 ## See also
 - [[Ray Tracing]]

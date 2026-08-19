@@ -18,3 +18,4 @@ The same idea generalizes past meshes: **impostors** replace a whole complex obj
 - [[Rasterization]]
 - [[Physically Based Rendering]]
 - [[Procedural Generation]]
+- [[Performance Budget]]

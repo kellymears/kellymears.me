@@ -19,6 +19,7 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Base Rate Fallacy]]
 - [[Plausible Mechanism]]
 - [[Falsifiability]]
+- [[P-Hacking]]
 
 ## Related
 - [[Regression to the Mean]]

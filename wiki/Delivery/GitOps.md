@@ -5,7 +5,7 @@ tags:
   - delivery
 summary: Using a Git repository as the live source of truth for deployed state, reconciled continuously by an in-cluster agent.
 ---
-**GitOps** is [[Infrastructure as Code]] pushed one step further: instead of a person or a CI pipeline running `terraform apply` (or its equivalent) *against* production, an agent running *inside* the target environment continuously watches a Git repository and reconciles live state to match what it declares. A merge to the tracked branch is the deployment — there is no separate "now go apply it" step, and no path to a running change that didn't go through a pull request first.
+**GitOps** is [[Infrastructure as Code]] pushed one step further: instead of a person or a CI pipeline running `terraform apply` (or its equivalent) *against* production, an agent running *inside* the target environment continuously watches a Git repository and reconciles live state to match what it declares. A merge to the tracked branch is the deployment — there is no separate "now go apply it" step, and no path to a running change that didn't go through a [[Pull Request]] first.
 
 The mechanism is a control loop, the same shape Kubernetes itself uses internally: the agent compares desired state (the repo) against observed state (the cluster) and issues whatever commands close the gap, on a schedule, forever. That has a useful side effect beyond deployment: if something drifts — a hotfix applied by hand, a resource someone deleted by accident — the next reconciliation pass silently puts it back, because the repo, not the cluster's current state, is authoritative. Tools like Argo CD and Flux are the common implementations of this loop for Kubernetes.
 

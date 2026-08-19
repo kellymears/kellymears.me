@@ -11,7 +11,7 @@ The part that's easy to skip and expensive to skip is the *failure path*: an opt
 
 Concurrency compounds this: if a second optimistic update starts before the first one's request resolves, a naive rollback can restore state from *before* the second update, discarding it along with the first update's failure. Libraries built around this pattern (React Query, SWR, Apollo's cache) handle it by keying rollback to the specific mutation, not to "whatever the UI showed before," which is the detail that separates a correct implementation from one that merely looks correct in the happy path.
 
-It's a close cousin of client-side prediction in networked games — same bet, same rollback requirement — and it depends on the same reversibility guarantee that makes [[Rollback]] viable at the deployment layer: an action is only safe to assume before it's confirmed if undoing that assumption is actually possible.
+It's a close cousin of client-side prediction in networked games (see [[Rollback Netcode]]) — same bet, same rollback requirement — and it depends on the same reversibility guarantee that makes [[Rollback]] viable at the deployment layer: an action is only safe to assume before it's confirmed if undoing that assumption is actually possible.
 
 ## See also
 - [[Debounce and Throttle]]

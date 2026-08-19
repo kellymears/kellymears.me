@@ -19,6 +19,7 @@ The defense isn't refusing all requests — it's requiring that a new feature's 
 - [[Minimum Viable Product]]
 - [[Technical Debt]]
 - [[Law of Triviality]]
+- [[Hick's Law]]
 
 ## Related
 - [[Parkinson's Law]]

@@ -16,3 +16,6 @@ It fits naturally with stateless web request handling, where a "lock," if taken,
 - [[Race Condition]]
 - [[ACID]]
 - [[Idempotence]]
+
+## Related
+- [[Optimistic UI]]

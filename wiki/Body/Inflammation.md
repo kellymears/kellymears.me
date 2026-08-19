@@ -17,3 +17,4 @@ Mechanistically, injured or infected tissue releases signaling molecules — his
 - [[Moist Wound Healing]]
 - [[Bone Remodeling]]
 - [[Compartment Syndrome]]
+- [[Thermoregulation]]

@@ -5,7 +5,7 @@ tags:
   - design
 summary: Show only what most users need now, and defer the rest behind an explicit action, instead of exposing everything at once.
 ---
-**Progressive disclosure** is an interface strategy of revealing information or options in stages — showing the common case by default and putting the rest behind an "advanced," "more," or expand affordance — rather than presenting every possible option flat on one screen. The term comes from Jakob Nielsen's usability writing in the 1990s, though the underlying instinct (a settings dialog with an "Advanced" tab, a form that only asks for a shipping address if "same as billing" is unchecked) predates the name.
+**Progressive disclosure** is an interface strategy of revealing information or options in stages — showing the common case by default and putting the rest behind an "advanced," "more," or expand affordance — rather than presenting every possible option flat on one screen. The term was popularized by Jakob Nielsen's usability writing, though it goes back to 1980s HCI research, and the underlying instinct (a settings dialog with an "Advanced" tab, a form that only asks for a shipping address if "same as billing" is unchecked) predates the name.
 
 The theoretical justification is [[Hick's Law]]: decision time scales with the number of visible options, so hiding the rarely-needed ninety percent behind a click reduces the decision cost paid by the ninety percent of users who never needed it, while leaving a path — usually one extra click — for the ten percent who do. It's a strict improvement over "just remove the option," which solves the same decision-cost problem by deleting capability instead of deferring its visibility.
 

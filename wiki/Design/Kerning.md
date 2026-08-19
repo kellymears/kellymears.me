@@ -1,7 +1,6 @@
 ---
 aliases:
-  - Letter-spacing
-  - Tracking
+  - Kerning Table
 tags:
   - design
 summary: The per-pair adjustment of horizontal space between two specific letters, distinct from uniform spacing applied across a whole string.

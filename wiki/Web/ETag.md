@@ -5,7 +5,7 @@ tags:
   - web
 summary: An opaque fingerprint of a response's content that lets a client ask a server whether it's changed without re-downloading it.
 ---
-**ETag** is a response header carrying an opaque identifier — typically a hash of the response body — that a server can use to answer one question cheaply: has this resource changed since the client last saw it? The client stores the ETag it received, and on the next request sends it back in an `If-None-Match` header. If the server's current ETag matches, it replies `304 Not Modified` with no body at all; if it doesn't, the server sends the full response along with the new ETag.
+**ETag** is a response header carrying an opaque identifier — typically a [[Hash Function|hash]] of the response body — that a server can use to answer one question cheaply: has this resource changed since the client last saw it? The client stores the ETag it received, and on the next request sends it back in an `If-None-Match` header. If the server's current ETag matches, it replies `304 Not Modified` with no body at all; if it doesn't, the server sends the full response along with the new ETag.
 
 This is a stronger freshness signal than a last-modified timestamp, which is the older mechanism (`Last-Modified` / `If-Modified-Since`) it commonly complements. A timestamp only has the resolution of a second and says nothing if content changes and changes back within that window; a content hash notices exactly the bytes that matter and nothing else — a resource regenerated with identical content gets the same ETag and a `304`, where a timestamp-based check would have to guess whether "modified at this second" actually meant "different."
 

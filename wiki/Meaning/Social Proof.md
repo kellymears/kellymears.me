@@ -15,5 +15,6 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 - [[Bystander Effect]]
 - [[Groupthink]]
 - [[Availability Cascade]]
+- [[Astroturfing]]
 - [[Halo Effect]]
 - [[Spiral of Silence]]
