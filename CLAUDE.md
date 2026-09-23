@@ -61,7 +61,7 @@ The `/cycling` page reads from RunGap-imported activity files — no live third-
 
 ## Games (`lib/steam.ts`, `lib/games.ts`, `data/games.ts`)
 
-`/games` renders the Steam library from a cached import. No live API call at request time.
+The `/games` route has been removed from the public site. The Steam import, `lib/games.ts`, and `data/games.ts` remain — they back the `/games` skill. No live API call at request time.
 
 - **Auth**: `STEAM_API_KEY` in `.env.local`. Create at https://steamcommunity.com/dev/apikey. `STEAM_ID` overrides the default SteamID64.
 - **Two upstreams**: the keyed Web API returns the whole library and its playtime in one request. The unkeyed store `appdetails` endpoint holds genre/developer/release/description and rate limits to ~200 requests per 5 minutes — `lib/steam.ts` throttles at 1.6s, backs off on 429, and caches each app to `public/static/data/steam/apps/<appid>.json`. **Cached apps are never re-fetched**; shipped-game metadata does not change, so only a first run is slow. Only played games get enriched.
