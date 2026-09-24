@@ -1,12 +1,12 @@
 'use client'
 
-import headerNavLinks from '@/data/headerNavLinks'
+import headerNavLinks, { topNavLinks } from '@/data/headerNavLinks'
 import clsx from 'clsx'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
-function resolveActiveHref(pathname: string): string | null {
-  for (const link of headerNavLinks) {
+function resolveActiveHref(pathname: string, links: typeof headerNavLinks): string | null {
+  for (const link of links) {
     if (pathname === link.href || pathname.startsWith(link.href + '/')) return link.href
   }
   return null
@@ -14,11 +14,14 @@ function resolveActiveHref(pathname: string): string | null {
 
 interface NavLinksProps {
   alwaysVisible?: boolean
+  /** The footer lists every link; the header omits `footerOnly` ones. */
+  placement?: 'header' | 'footer'
 }
 
-export default function NavLinks({ alwaysVisible = false }: NavLinksProps) {
+export default function NavLinks({ alwaysVisible = false, placement = 'header' }: NavLinksProps) {
   const pathname = usePathname()
-  const activeHref = resolveActiveHref(pathname)
+  const links = placement === 'footer' ? headerNavLinks : topNavLinks
+  const activeHref = resolveActiveHref(pathname, links)
 
   return (
     <div
@@ -27,7 +30,7 @@ export default function NavLinks({ alwaysVisible = false }: NavLinksProps) {
         alwaysVisible ? 'flex' : 'hidden xl:flex'
       )}
     >
-      {headerNavLinks.map((link) => {
+      {links.map((link) => {
         const isActive = link.href === activeHref
         return (
           <Link

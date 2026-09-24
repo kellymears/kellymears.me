@@ -13,7 +13,7 @@ export default function Footer() {
             Kelly Mears
           </span>
           <div className="sm:-ml-2.5">
-            <NavLinks alwaysVisible />
+            <NavLinks alwaysVisible placement="footer" />
           </div>
 
           <div className="flex flex-wrap items-center justify-center gap-x-3 gap-y-1 sm:justify-start">

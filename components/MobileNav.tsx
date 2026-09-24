@@ -1,6 +1,6 @@
 'use client'
 
-import headerNavLinks from '@/data/headerNavLinks'
+import { topNavLinks } from '@/data/headerNavLinks'
 import { Dialog, DialogPanel, Transition, TransitionChild } from '@headlessui/react'
 import clsx from 'clsx'
 import { usePathname } from 'next/navigation'
@@ -75,7 +75,7 @@ const MobileNav = () => {
             >
               <DialogPanel className="fixed top-0 left-0 z-70 h-full w-full bg-white/95 duration-300 dark:bg-gray-950/98">
                 <nav className="mt-8 flex h-full basis-0 flex-col items-start overflow-y-auto pt-2 pl-12 text-left">
-                  {headerNavLinks.map((link) => {
+                  {topNavLinks.map((link) => {
                     const active = isActive(pathname, link.href)
                     return (
                       <Link
