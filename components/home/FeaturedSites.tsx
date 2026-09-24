@@ -1,23 +1,15 @@
 import { Card } from '@/components/Card'
+import { Accent, SectionHeading } from '@/components/home/SectionHeading'
 import Link from '@/components/Link'
 import { featuredSites } from '@/data/projects'
 import Image from 'next/image'
 
 export default function FeaturedSites() {
   return (
-    <section aria-label="Featured projects" className="py-16">
-      <div className="mb-10 flex items-baseline justify-between">
-        <h2 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-          Featured Projects
-        </h2>
-        <Link
-          href="/projects"
-          className="hover:text-primary-600 dark:hover:text-primary-400 text-sm font-medium text-gray-500 transition-colors dark:text-gray-400"
-        >
-          View all <span aria-hidden="true">&rarr;</span>
-          <span className="sr-only">projects</span>
-        </Link>
-      </div>
+    <section aria-label="Featured projects" className="py-16 sm:py-20">
+      <SectionHeading index="04" href="/projects" srLabel="projects">
+        Featured <Accent>projects</Accent>
+      </SectionHeading>
       <div className="grid gap-6 sm:grid-cols-2">
         {featuredSites.map((site) => (
           <Card

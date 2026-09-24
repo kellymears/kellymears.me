@@ -12,13 +12,14 @@ interface MovementToggleProps {
   active: ActivityGroup
 }
 
-export function MovementToggle({ active }: MovementToggleProps) {
-  // Persist the choice so a later visit to a bare /movement restores this view.
-  // The server reads this cookie when no ?type= param is present.
-  function remember(group: ActivityGroup) {
-    document.cookie = `movement-view=${group}; path=/; max-age=31536000; samesite=lax`
-  }
+// Persist the choice so a later visit to a bare /movement restores this view.
+// The server reads this cookie when no ?type= param is present. Module scope:
+// a render-scoped function writing a global trips react-hooks/immutability.
+function remember(group: ActivityGroup) {
+  document.cookie = `movement-view=${group}; path=/; max-age=31536000; samesite=lax`
+}
 
+export function MovementToggle({ active }: MovementToggleProps) {
   return (
     <div
       role="tablist"

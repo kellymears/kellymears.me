@@ -61,7 +61,7 @@ export default function SymbiokuBanner() {
           {/* copy */}
           <div className="min-w-0">
             <p className="text-xs tracking-[0.2em] text-[#c8ff2e] uppercase">
-              <span className="text-[#3d5060]">// </span>SYMBIOKU
+              <span className="text-[#3d5060]">{'// '}</span>SYMBIOKU
               <span className="ml-1 inline-block w-[0.55em] motion-safe:animate-pulse">▌</span>
             </p>
             <h2 className="mt-3 text-2xl font-medium tracking-tight text-[#e8eadf] sm:text-3xl">

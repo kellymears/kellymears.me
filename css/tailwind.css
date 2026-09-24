@@ -498,3 +498,279 @@ input:-webkit-autofill:focus {
 .dark .atlas-popup-play:hover {
   background: rgb(255 255 255);
 }
+
+/* ——— Home: knowledge constellation ——— */
+
+.kc-field {
+  mask-image: radial-gradient(ellipse 72% 78% at 50% 48%, #000 45%, transparent 100%);
+}
+@media (min-width: 1024px) {
+  .kc-field {
+    mask-image: radial-gradient(ellipse 60% 80% at 62% 48%, #000 45%, transparent 100%);
+  }
+}
+
+.kc-signals path {
+  stroke: var(--color-primary-500);
+  stroke-dasharray: 0.12 0.88;
+  stroke-dashoffset: 1;
+  opacity: 0;
+  animation: kc-signal 6s cubic-bezier(0.45, 0, 0.2, 1) infinite;
+}
+
+.kc-hubs circle {
+  fill: none;
+  stroke: var(--color-primary-500);
+  stroke-width: 1.5;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: kc-ring 3.6s ease-out infinite;
+  animation-delay: inherit;
+}
+.kc-hubs g {
+  animation-delay: inherit;
+}
+.kc-hubs text {
+  font-family: var(--font-mono);
+  font-size: 17px;
+  letter-spacing: 0.02em;
+  fill: var(--color-gray-700);
+  paint-order: stroke;
+  stroke: var(--color-paper);
+  stroke-width: 6px;
+  stroke-linejoin: round;
+}
+.dark .kc-hubs text {
+  fill: var(--color-gray-200);
+  stroke: var(--color-gray-950);
+}
+
+.kc-drift {
+  animation: kc-drift 60s ease-in-out infinite alternate;
+  transform-origin: 50% 50%;
+}
+
+@keyframes kc-signal {
+  0% {
+    stroke-dashoffset: 1;
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  55% {
+    stroke-dashoffset: -0.12;
+    opacity: 1;
+  }
+  60%,
+  100% {
+    stroke-dashoffset: -0.12;
+    opacity: 0;
+  }
+}
+
+@keyframes kc-ring {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.9;
+  }
+  80%,
+  100% {
+    transform: scale(1.8);
+    opacity: 0;
+  }
+}
+
+@keyframes kc-drift {
+  from {
+    transform: scale(1.04) translate3d(-0.8%, 0.4%, 0);
+  }
+  to {
+    transform: scale(1.1) translate3d(0.8%, -0.6%, 0);
+  }
+}
+
+/* ——— Home: ride routes draw themselves in ——— */
+
+.route-draw {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: route-draw 2.4s cubic-bezier(0.65, 0, 0.35, 1) forwards;
+}
+
+@supports (animation-timeline: view()) {
+  .route-draw {
+    animation: route-draw linear forwards;
+    animation-timeline: view();
+    animation-range: entry 10% cover 45%;
+  }
+}
+
+@keyframes route-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kc-drift,
+  .kc-hubs circle {
+    animation: none;
+  }
+  .kc-signals {
+    display: none;
+  }
+  .route-draw {
+    animation: none;
+    stroke-dashoffset: 0;
+  }
+}
+
+/* ——— Movement: route heat field ——— */
+
+.rf-root {
+  mask-image: radial-gradient(ellipse 70% 75% at 50% 50%, #000 40%, transparent 100%);
+}
+@media (min-width: 1024px) {
+  .rf-root--right {
+    mask-image: radial-gradient(ellipse 58% 80% at 64% 50%, #000 40%, transparent 100%);
+  }
+}
+
+/* The field SVG is a mask; the color is ours, so it tracks the page palette. */
+.rf-heat {
+  background: linear-gradient(
+    135deg,
+    var(--color-primary-400),
+    var(--color-primary-600) 55%,
+    var(--color-primary-800)
+  );
+  mask-image: var(--rf-src);
+  mask-size: cover;
+  mask-position: center;
+  mask-repeat: no-repeat;
+}
+.dark .rf-heat {
+  background: linear-gradient(
+    135deg,
+    var(--color-primary-200),
+    var(--color-primary-400) 55%,
+    var(--color-primary-600)
+  );
+}
+
+/* Blur the masked result (filter on the parent runs after the child's mask). */
+.rf-glow {
+  filter: blur(7px);
+  opacity: 0.55;
+}
+.dark .rf-glow {
+  opacity: 0.8;
+}
+
+.rf-streaks g {
+  animation-delay: inherit;
+}
+.rf-streak,
+.rf-streak-glow {
+  stroke-dasharray: 0.07 0.93;
+  animation: rf-streak 14s linear infinite;
+  animation-delay: inherit;
+}
+.rf-streak {
+  stroke: var(--color-primary-500);
+  stroke-width: 2.5;
+}
+.dark .rf-streak {
+  stroke: var(--color-primary-300);
+}
+.rf-streak-glow {
+  stroke: var(--color-primary-400);
+  stroke-width: 9;
+  stroke-opacity: 0.25;
+}
+
+.rf-latest-path {
+  stroke: var(--color-primary-700);
+  stroke-width: 3;
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: route-draw 3.2s 0.4s cubic-bezier(0.65, 0, 0.35, 1) forwards;
+}
+.dark .rf-latest-path {
+  stroke: var(--color-primary-200);
+}
+.rf-latest-dot {
+  fill: var(--color-primary-600);
+  stroke: var(--color-paper);
+  stroke-width: 3;
+}
+.dark .rf-latest-dot {
+  fill: var(--color-primary-300);
+  stroke: var(--color-gray-950);
+}
+.rf-latest-ring {
+  fill: none;
+  stroke: var(--color-primary-500);
+  stroke-width: 2;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: kc-ring 2.8s ease-out infinite;
+}
+.rf-latest-label {
+  font-family: var(--font-sans);
+  font-size: 22px;
+  font-weight: 600;
+  fill: var(--color-gray-900);
+  paint-order: stroke;
+  stroke: var(--color-paper);
+  stroke-width: 7px;
+  stroke-linejoin: round;
+}
+.dark .rf-latest-label {
+  fill: var(--color-gray-100);
+  stroke: var(--color-gray-950);
+}
+@media (max-width: 639px) {
+  .rf-latest-label {
+    display: none;
+  }
+}
+.rf-latest-kicker {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  fill: var(--color-primary-700);
+}
+.dark .rf-latest-kicker {
+  fill: var(--color-primary-300);
+}
+
+.rf-drift {
+  animation: kc-drift 70s ease-in-out infinite alternate;
+  transform-origin: 50% 50%;
+}
+
+@keyframes rf-streak {
+  from {
+    stroke-dashoffset: 0;
+  }
+  to {
+    stroke-dashoffset: -1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rf-drift,
+  .rf-latest-ring {
+    animation: none;
+  }
+  .rf-streaks {
+    display: none;
+  }
+  .rf-latest-path {
+    animation: none;
+    stroke-dashoffset: 0;
+  }
+}
