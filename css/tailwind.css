@@ -774,3 +774,82 @@ input:-webkit-autofill:focus {
     stroke-dashoffset: 0;
   }
 }
+
+/* ——— Knowledge: topic silhouettes on domain cards ——— */
+
+.topic-sil circle {
+  fill: var(--topic);
+  opacity: 0.75;
+  transform-box: fill-box;
+  transform-origin: center;
+  transition:
+    opacity 300ms ease,
+    transform 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.dark .topic-sil circle {
+  fill: var(--topic-dark);
+}
+.topic-sil-edges {
+  stroke: var(--topic);
+  stroke-opacity: 0.22;
+  transition: stroke-opacity 300ms ease;
+}
+.dark .topic-sil-edges {
+  stroke: var(--topic-dark);
+}
+.group:hover .topic-sil circle {
+  opacity: 1;
+  transform: scale(1.25);
+}
+.group:hover .topic-sil-edges {
+  stroke-opacity: 0.45;
+}
+.topic-sil .topic-sil-hub {
+  opacity: 1;
+  animation: kc-ring-soft 2.8s ease-in-out infinite;
+}
+@keyframes kc-ring-soft {
+  50% {
+    transform: scale(1.5);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .topic-sil .topic-sil-hub {
+    animation: none;
+  }
+}
+
+/* ——— Knowledge: "In the vault" locator on note pages ——— */
+
+.vault-marker line {
+  stroke: var(--topic);
+  stroke-width: 3;
+  stroke-dasharray: 10 14;
+  opacity: 0.45;
+}
+.vault-marker-dot {
+  fill: var(--topic);
+  stroke: var(--color-paper);
+  stroke-width: 8;
+}
+.vault-marker-ring {
+  fill: none;
+  stroke: var(--topic);
+  stroke-width: 6;
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: kc-ring 2.6s ease-out infinite;
+}
+.dark .vault-marker line,
+.dark .vault-marker-ring {
+  stroke: var(--topic-dark);
+}
+.dark .vault-marker-dot {
+  fill: var(--topic-dark);
+  stroke: var(--color-gray-950);
+}
+@media (prefers-reduced-motion: reduce) {
+  .vault-marker-ring {
+    animation: none;
+  }
+}

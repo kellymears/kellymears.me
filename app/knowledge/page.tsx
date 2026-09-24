@@ -1,8 +1,9 @@
-import { Card } from '@/components/Card'
+import { Accent, SectionHeading } from '@/components/home/SectionHeading'
 import Link from '@/components/Link'
 import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
 import { topicVars } from '@/components/knowledge/NoteCard'
 import { TopicCard } from '@/components/knowledge/TopicCard'
+import { topicSilhouette } from '@/components/knowledge/topic-silhouette'
 import { Wander } from '@/components/knowledge/Wander'
 import siteMetadata from '@/data/siteMetadata'
 import {
@@ -67,15 +68,51 @@ export default function KnowledgePage() {
     ])
   )
 
-  // An odd domain count leaves the last card dangling beside an empty cell, so it
-  // takes the full row instead. With an even count every card pairs up.
-  const lastTopicSlug = topics.length % 2 === 1 ? topics[topics.length - 1]?.slug : undefined
-
   const orientation = ORIENTATION_SLUGS.map((slug) => getNoteBySlug(slug)).filter(
     (note) => note !== undefined
   )
 
   const peakDegree = hubs[0]?.degree ?? 1
+
+  // Floats over the map on wide screens; sits under it on phones, where an
+  // overlay would cover most of the canvas.
+  const topicOfDay = (
+    <>
+      <p className="flex items-center gap-2 font-mono text-[0.65rem] tracking-widest text-gray-500 uppercase dark:text-gray-400">
+        Topic of the Day
+        <span aria-hidden="true" className="text-gray-300 dark:text-gray-700">
+          ·
+        </span>
+        <span className="text-[var(--topic)] dark:text-[var(--topic-dark)]">{daily.topicName}</span>
+      </p>
+      <Link href={daily.path} className="group mt-2 inline-flex items-baseline gap-2.5">
+        <span
+          aria-hidden="true"
+          className="h-2.5 w-2.5 shrink-0 self-center rounded-full bg-[var(--topic)] dark:bg-[var(--topic-dark)]"
+        />
+        <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-2xl font-semibold tracking-tight text-gray-900 transition-colors dark:text-gray-100">
+          {daily.title}
+        </span>
+      </Link>
+      <p className="mt-1.5 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
+        {daily.summary}
+      </p>
+      {dailyConnections.length > 0 && (
+        <ul className="mt-4 flex flex-wrap gap-2" aria-label="Prominent connections">
+          {dailyConnections.map((connection) => (
+            <li key={connection.slug}>
+              <Link
+                href={connection.path}
+                className="hover:bg-primary-100 hover:text-primary-700 dark:hover:bg-primary-950 dark:hover:text-primary-300 inline-flex items-center rounded-full bg-gray-100 px-3 py-0.5 text-sm font-medium whitespace-nowrap text-gray-700 transition-all duration-150 hover:-translate-y-px hover:shadow-sm dark:bg-gray-800 dark:text-gray-300"
+              >
+                {connection.title}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      )}
+    </>
+  )
 
   const structuredData = {
     '@context': 'https://schema.org',
@@ -93,101 +130,61 @@ export default function KnowledgePage() {
   }
 
   return (
-    <div className="space-y-2">
+    <div>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
 
-      <header className="grid gap-x-10 gap-y-8 pt-12 pb-8 xl:grid-cols-[minmax(0,1fr)_19rem]">
-        <div>
-          <div className="mb-4 flex flex-wrap items-center justify-between gap-x-4 gap-y-3">
-            <p className="text-primary-600 dark:text-primary-400 text-sm font-medium tracking-widest uppercase">
-              Concept Wiki
-            </p>
-            <Wander paths={allNotes.map((n) => n.path)} label="View random note" />
-          </div>
-          <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl dark:text-gray-100">
-            Knowledge
-          </h1>
-          <p className="mt-4 max-w-2xl text-lg leading-relaxed text-gray-600 dark:text-gray-400">
-            Ongoing documentation of the subjects I&rsquo;m learning about and the relationships
-            between them.
-          </p>
-
-          <div className="mt-8" style={topicVars(daily.topic)}>
-            <p className="flex items-center gap-2 text-xs font-medium tracking-widest text-gray-500 uppercase dark:text-gray-400">
-              Topic of the Day
-              <span aria-hidden="true" className="text-gray-300 dark:text-gray-700">
-                ·
-              </span>
-              <span className="normal-case">{daily.topicName}</span>
-            </p>
-            <Link href={daily.path} className="group mt-2 inline-flex items-baseline gap-2.5">
-              <span
-                aria-hidden="true"
-                className="h-2.5 w-2.5 shrink-0 self-center rounded-full bg-[var(--topic)] dark:bg-[var(--topic-dark)]"
-              />
-              <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-2xl font-bold tracking-tight text-gray-900 transition-colors dark:text-gray-100">
-                {daily.title}
-              </span>
-            </Link>
-            <p className="mt-1.5 max-w-2xl text-sm leading-relaxed text-gray-600 dark:text-gray-400">
-              {daily.summary}
-            </p>
-            {dailyConnections.length > 0 && (
-              <ul className="mt-4 flex flex-wrap gap-2" aria-label="Prominent connections">
-                {dailyConnections.map((connection) => (
-                  <li key={connection.slug}>
-                    <Link
-                      href={connection.path}
-                      className="hover:bg-primary-100 hover:text-primary-700 dark:hover:bg-primary-950 dark:hover:text-primary-300 inline-flex items-center rounded-full bg-gray-100 px-3 py-0.5 text-sm font-medium whitespace-nowrap text-gray-700 transition-all duration-150 hover:-translate-y-px hover:shadow-sm dark:bg-gray-800 dark:text-gray-300"
-                    >
-                      {connection.title}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            )}
-          </div>
-        </div>
-
-        <Card variant="stat" hover={false} as="aside" className="p-5" aria-label="Ways in">
-          <h2 className="text-xs font-medium tracking-wide text-gray-500 uppercase dark:text-gray-400">
-            Ways in
-          </h2>
-
-          <p className="mt-4 flex flex-wrap items-center gap-x-2 gap-y-1.5 text-sm text-gray-600 dark:text-gray-400">
-            <svg
-              width="14"
-              height="14"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              className="shrink-0"
-              aria-hidden="true"
-            >
-              <circle cx="11" cy="11" r="7" />
-              <path d="m20 20-3.5-3.5" />
-            </svg>
-            <Keys>&#8984;K</Keys>
-            <span aria-hidden="true" className="text-gray-300 dark:text-gray-700">
-              /
+      <header className="pt-12 pb-2">
+        <div className="mb-6 flex flex-wrap items-center justify-between gap-x-4 gap-y-3">
+          <p className="text-primary-600 dark:text-primary-400 flex items-center gap-3 font-mono text-xs tracking-[0.2em] uppercase">
+            <span>Concept Wiki</span>
+            <span aria-hidden="true" className="bg-primary-500 h-px w-8" />
+            <span className="text-gray-500 dark:text-gray-400">
+              {stats.notes} notes · {stats.links.toLocaleString()} links
             </span>
-            <Keys>Ctrl K</Keys>
-            searches all {stats.notes} notes
           </p>
+          <Wander paths={allNotes.map((n) => n.path)} label="View random note" />
+        </div>
+        <h1 className="text-[clamp(2.75rem,8vw,6rem)] leading-[0.95] font-semibold tracking-[-0.035em] text-gray-900 dark:text-gray-100">
+          Notes &amp; <Accent>connections</Accent>
+        </h1>
+        <p className="mt-6 max-w-2xl text-lg leading-relaxed text-gray-600 dark:text-gray-400">
+          Ongoing documentation of the subjects I&rsquo;m learning about and the relationships
+          between them. One note per concept, each written to stand on its own.
+        </p>
 
+        <div
+          aria-label="Ways in"
+          role="group"
+          className="mt-6 flex flex-wrap items-center gap-x-3 gap-y-2 text-sm text-gray-600 dark:text-gray-400"
+        >
+          <svg
+            width="14"
+            height="14"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            className="shrink-0"
+            aria-hidden="true"
+          >
+            <circle cx="11" cy="11" r="7" />
+            <path d="m20 20-3.5-3.5" />
+          </svg>
+          <Keys>&#8984;K</Keys>
+          <span aria-hidden="true" className="text-gray-300 dark:text-gray-700">
+            /
+          </span>
+          <Keys>Ctrl K</Keys>
+          <span>searches everything.</span>
           {orientation.length > 0 && (
-            <div className="mt-5 border-t border-gray-200 pt-5 dark:border-gray-800">
-              <p className="text-sm leading-relaxed text-gray-600 dark:text-gray-400">
-                Or start with the four notes that describe the shape of the thing you&rsquo;re
-                looking at.
-              </p>
-              <ul className="mt-3 flex flex-wrap gap-2">
+            <>
+              <span className="text-gray-500 dark:text-gray-400">Or start with</span>
+              <ul className="flex flex-wrap gap-2">
                 {orientation.map((note) => (
                   <li key={note.slug}>
                     <Link
@@ -199,54 +196,63 @@ export default function KnowledgePage() {
                   </li>
                 ))}
               </ul>
-            </div>
+            </>
           )}
-        </Card>
+        </div>
       </header>
 
-      <section className="animate-on-scroll py-6" aria-label="The whole vault as a graph">
-        <h2 className="mb-5 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-          Knowledge Map
-        </h2>
-        <div className="content-defer">
-          <KnowledgeGraph graph={graph} variant="constellation" showLegend />
+      <section className="pt-2 pb-6" aria-label="The whole vault as a graph">
+        <KnowledgeGraph
+          graph={graph}
+          variant="constellation"
+          frame="bleed"
+          showLegend
+          overlay={
+            <aside
+              aria-label="Topic of the day"
+              className="bg-paper/95 pointer-events-auto mb-10 hidden max-w-sm self-end rounded-2xl border border-gray-200/70 p-5 shadow-[0_24px_60px_-30px_rgb(0_0_0/0.35)] sm:block dark:border-gray-800/70 dark:bg-gray-950/92"
+              style={topicVars(daily.topic)}
+            >
+              {topicOfDay}
+            </aside>
+          }
+        />
+        <aside
+          aria-label="Topic of the day"
+          className="mt-6 rounded-2xl border border-gray-200 p-5 sm:hidden dark:border-gray-800"
+          style={topicVars(daily.topic)}
+        >
+          {topicOfDay}
+        </aside>
+      </section>
+
+      <section className="py-12" aria-label="Domains">
+        <SectionHeading index="01">
+          {stats.topics} <Accent>domains</Accent>
+        </SectionHeading>
+        <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+          {topics.map((topic, i) => (
+            <TopicCard
+              key={topic.slug}
+              topic={topic}
+              index={String(i + 1).padStart(2, '0')}
+              silhouette={topicSilhouette(graph, topic.slug)}
+              preview={(previews.get(topic.slug) ?? []).slice(0, 4)}
+              className={clsx(
+                'animate-fade-slide-up',
+                // An odd count leaves one card alone in the two-column band.
+                i === topics.length - 1 && topics.length % 2 === 1 && 'md:max-lg:col-span-2'
+              )}
+              style={{ animationDelay: `${i * 50}ms` }}
+            />
+          ))}
         </div>
       </section>
 
-      <section
-        className="animate-on-scroll border-t border-gray-200 py-10 dark:border-gray-800"
-        aria-label="Domains"
-      >
-        <div className="mb-6 flex items-baseline justify-between gap-4">
-          <h2 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-            Domains
-          </h2>
-          <p className="text-sm text-gray-500 dark:text-gray-400">{stats.topics} of them</p>
-        </div>
-        <div className="grid gap-6 md:grid-cols-2">
-          {topics.map((topic, i) => {
-            const wide = topic.slug === lastTopicSlug
-            return (
-              <TopicCard
-                key={topic.slug}
-                topic={topic}
-                preview={(previews.get(topic.slug) ?? []).slice(0, wide ? 6 : 4)}
-                wide={wide}
-                className={clsx('animate-fade-slide-up', wide && 'md:col-span-2')}
-                style={{ animationDelay: `${i * 60}ms` }}
-              />
-            )
-          })}
-        </div>
-      </section>
-
-      <section
-        className="animate-on-scroll border-t border-gray-200 py-10 dark:border-gray-800"
-        aria-label="Most connected notes"
-      >
-        <h2 className="mb-6 text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-          Most connected notes
-        </h2>
+      <section className="animate-on-scroll py-12" aria-label="Most connected notes">
+        <SectionHeading index="02">
+          Most <Accent>connected</Accent>
+        </SectionHeading>
         <ul className="grid gap-x-10 gap-y-5 sm:grid-cols-2">
           {hubs.map((note, i) => (
             <li

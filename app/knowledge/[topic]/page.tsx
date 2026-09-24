@@ -1,4 +1,4 @@
-import { Card } from '@/components/Card'
+import { Accent, SectionHeading } from '@/components/home/SectionHeading'
 import Link from '@/components/Link'
 import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
 import { Wander } from '@/components/knowledge/Wander'
@@ -159,7 +159,17 @@ export default async function TopicPage(props: TopicPageProps) {
   const allNotes = getAllNotes()
   const { neighbors, internal } = buildNeighbors(slug)
   const outward = neighbors.reduce((sum, n) => sum + n.count, 0)
-  const widestNeighbor = neighbors[0]?.count ?? 1
+  // "Design & Interface" → "Design & " + *Interface*, the accent in topic color.
+  const split = topic.name.lastIndexOf(' ') + 1
+  const nameHead = topic.name.slice(0, split)
+  const nameTail = topic.name.slice(split)
+  const hubs = notes.slice(0, 4)
+  const byLetter = [
+    ...Map.groupBy(
+      [...notes].sort((a, b) => a.title.localeCompare(b.title)),
+      (note) => note.title[0]!.toUpperCase()
+    ),
+  ]
 
   const topics = getTopics()
   const index = topics.findIndex((t) => t.slug === slug)
@@ -186,145 +196,160 @@ export default async function TopicPage(props: TopicPageProps) {
   }
 
   return (
-    <div className="space-y-2" style={topicVars(topic.slug)}>
+    <div style={topicVars(topic.slug)}>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
 
-      {/*
-        One grid for the header *and* the map, so the "Where it reaches" rail can
-        span both rows. As two stacked blocks the rail was far taller than the
-        title beside it, and the row it defined left a screen-deep void under the
-        stat line before the map began.
-      */}
-      <div
-        className={clsx(
-          'grid gap-x-10 gap-y-8 pt-8 pb-8',
-          neighbors.length > 0 && 'xl:grid-cols-[minmax(0,1fr)_19rem]'
-        )}
-      >
-        <header>
-          <div className="mb-4 flex flex-wrap items-center justify-between gap-x-4 gap-y-3">
-            <p className="flex items-center gap-2 text-sm font-medium tracking-widest uppercase">
-              <Link
-                href="/knowledge"
-                className="text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors"
-              >
-                Knowledge
-              </Link>
-              <span aria-hidden="true" className="text-gray-300 dark:text-gray-700">
-                /
-              </span>
-              <span className="inline-flex items-center gap-2 text-gray-500 dark:text-gray-400">
-                <span
-                  className="inline-block h-2 w-2 shrink-0 rounded-full bg-[var(--topic)] dark:bg-[var(--topic-dark)]"
-                  aria-hidden="true"
-                />
-                Domain
-              </span>
-            </p>
-            <Wander paths={allNotes.map((n) => n.path)} label="View random note" />
-          </div>
-
-          <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl dark:text-gray-100">
-            {topic.name}
-          </h1>
-
-          {topic.blurb && (
-            <p className="mt-4 max-w-2xl text-lg leading-relaxed text-gray-600 dark:text-gray-400">
-              {topic.blurb}
-            </p>
-          )}
-
-          <StatLine
-            className="mt-8"
-            items={[
-              { value: topic.noteCount, label: 'Notes' },
-              { value: internal, label: 'Within this domain' },
-              { value: outward, label: 'To other domains' },
-            ]}
-          />
-        </header>
-
-        {neighbors.length > 0 && (
-          <Card
-            variant="stat"
-            hover={false}
-            as="aside"
-            // `self-start` so spanning two rows does not stretch the card to the
-            // height of the map beside it; `sticky` then keeps it in view for the
-            // length of that map, the same way the note page pins its local graph.
-            // `mb-10` keeps it off the bottom edge of the grid row it is pinned
-            // within, rather than coming to rest flush against it.
-            className="p-5 xl:sticky xl:top-24 xl:row-span-2 xl:mb-10 xl:self-start"
-            aria-label="Neighboring domains"
-          >
-            <h2 className="text-xs font-medium tracking-wide text-gray-500 uppercase dark:text-gray-400">
-              Connected domains
-            </h2>
-            <ul className="mt-4 space-y-3">
-              {neighbors.map((neighbor) => (
-                <li key={neighbor.slug}>
-                  <Link
-                    href={neighbor.path}
-                    className="group block"
-                    style={topicVars(neighbor.slug)}
-                  >
-                    <span className="flex items-baseline justify-between gap-3">
-                      <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 truncate text-sm font-medium text-gray-900 transition-colors dark:text-gray-100">
-                        {neighbor.name}
-                      </span>
-                      <span className="shrink-0 text-xs text-gray-500 tabular-nums dark:text-gray-400">
-                        {neighbor.count}
-                      </span>
-                    </span>
-                    <span className="mt-1.5 block h-1 w-full overflow-hidden rounded-full bg-gray-200 dark:bg-gray-800">
-                      <span
-                        className="animate-grow-width block h-full rounded-full bg-[var(--topic)] opacity-70 transition-opacity group-hover:opacity-100 dark:bg-[var(--topic-dark)]"
-                        style={{
-                          width: `${Math.round((neighbor.count / widestNeighbor) * 100)}%`,
-                        }}
-                      />
-                    </span>
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </Card>
-        )}
-
-        <section aria-label={`${topic.name} as a graph`}>
-          <h2 className="mb-5 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-            Domain Map
-          </h2>
-          <div className="content-defer">
-            <KnowledgeGraph
-              graph={graph}
-              variant="constellation"
-              focusTopic={topic.slug}
-              height={574}
-              showLegend
+      <header className="pt-12 pb-2">
+        <div className="mb-6 flex flex-wrap items-center justify-between gap-x-4 gap-y-3">
+          <p className="flex items-center gap-3 font-mono text-xs tracking-[0.2em] uppercase">
+            <Link
+              href="/knowledge"
+              className="text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors"
+            >
+              Knowledge
+            </Link>
+            <span
+              aria-hidden="true"
+              className="h-px w-8 bg-[var(--topic)] dark:bg-[var(--topic-dark)]"
             />
-          </div>
-        </section>
-      </div>
+            <span className="text-[var(--topic)] dark:text-[var(--topic-dark)]">
+              Domain {String(index + 1).padStart(2, '0')}
+            </span>
+          </p>
+          <Wander paths={allNotes.map((n) => n.path)} label="View random note" />
+        </div>
 
-      <section
-        className="animate-on-scroll border-t border-gray-200 py-10 dark:border-gray-800"
-        aria-label={`Notes in ${topic.name}`}
-      >
-        <h2 className="mb-6 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-100">
-          Connected notes
-        </h2>
-        <div className="grid gap-6 sm:grid-cols-2">
-          {notes.map((note, i) => (
+        <h1 className="text-[clamp(2.5rem,7vw,5.5rem)] leading-[0.95] font-semibold tracking-[-0.035em] text-gray-900 dark:text-gray-100">
+          {nameHead}
+          <em className="pr-[0.08em] font-serif font-normal tracking-normal text-[var(--topic)] italic dark:text-[var(--topic-dark)]">
+            {nameTail}
+          </em>
+        </h1>
+
+        {topic.blurb && (
+          <p className="mt-6 max-w-2xl text-lg leading-relaxed text-gray-600 dark:text-gray-400">
+            {topic.blurb}
+          </p>
+        )}
+
+        <StatLine
+          className="mt-8"
+          items={[
+            { value: topic.noteCount, label: 'Notes' },
+            { value: internal, label: 'Links within' },
+            { value: outward, label: 'Links outward' },
+          ]}
+        />
+      </header>
+
+      <section className="pt-2 pb-4" aria-label={`${topic.name} as a graph`}>
+        <KnowledgeGraph
+          graph={graph}
+          variant="constellation"
+          frame="bleed"
+          focusTopic={topic.slug}
+          showLegend
+        />
+      </section>
+
+      {neighbors.length > 0 && (
+        <section className="py-10" aria-label="Neighboring domains">
+          <SectionHeading index="01">
+            Where it <Accent>reaches</Accent>
+          </SectionHeading>
+          {/* One bar, split by where this domain's outward links land. */}
+          <div className="flex h-3 w-full gap-[3px]" aria-hidden="true">
+            {neighbors.map((neighbor) => (
+              <Link
+                key={neighbor.slug}
+                href={neighbor.path}
+                tabIndex={-1}
+                title={`${neighbor.name}: ${neighbor.count}`}
+                className="animate-grow-width h-full rounded-full bg-[var(--topic)] opacity-80 transition-opacity hover:opacity-100 dark:bg-[var(--topic-dark)]"
+                style={{ ...topicVars(neighbor.slug), flexGrow: neighbor.count, flexBasis: 0 }}
+              />
+            ))}
+          </div>
+          <ul className="mt-6 grid gap-x-8 gap-y-2 sm:grid-cols-2 lg:grid-cols-3">
+            {neighbors.map((neighbor) => (
+              <li key={neighbor.slug}>
+                <Link
+                  href={neighbor.path}
+                  className="group flex items-baseline gap-2.5 text-sm"
+                  style={topicVars(neighbor.slug)}
+                >
+                  <span
+                    aria-hidden="true"
+                    className="h-2 w-2 shrink-0 translate-y-[-1px] rounded-full bg-[var(--topic)] dark:bg-[var(--topic-dark)]"
+                  />
+                  <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 truncate text-gray-900 transition-colors dark:text-gray-100">
+                    {neighbor.name}
+                  </span>
+                  <span className="ml-auto font-mono text-xs text-gray-500 tabular-nums dark:text-gray-400">
+                    {Math.round((neighbor.count / outward) * 100)}%
+                  </span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      <section className="animate-on-scroll py-10" aria-label={`Hubs of ${topic.name}`}>
+        <SectionHeading index="02">
+          The <Accent>hubs</Accent>
+        </SectionHeading>
+        <div className="grid gap-5 sm:grid-cols-2">
+          {hubs.map((note, i) => (
             <div
               key={note.slug}
               className="animate-fade-slide-up"
-              style={{ animationDelay: `${Math.min(i, 12) * 50}ms` }}
+              style={{ animationDelay: `${i * 60}ms` }}
             >
               <NoteCard note={note} />
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section className="animate-on-scroll py-10" aria-label={`Every note in ${topic.name}`}>
+        <SectionHeading index="03">
+          Every <Accent>note</Accent>
+        </SectionHeading>
+        {/* A table of contents: alphabetical, dot leaders to the link count.
+            `data-wikilink` opts each row into the hover previews. */}
+        <div className="gap-x-12 sm:columns-2 lg:columns-3">
+          {byLetter.map(([letter, group]) => (
+            <div key={letter} className="mb-6 break-inside-avoid">
+              <p className="mb-2 font-serif text-2xl text-[var(--topic)] italic dark:text-[var(--topic-dark)]">
+                {letter}
+              </p>
+              <ul className="space-y-1">
+                {group.map((note) => (
+                  <li key={note.slug}>
+                    <Link
+                      href={note.path}
+                      data-wikilink={note.slug}
+                      className="group flex items-baseline gap-2 text-sm"
+                    >
+                      <span className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-gray-800 transition-colors dark:text-gray-200">
+                        {note.title}
+                      </span>
+                      <span
+                        aria-hidden="true"
+                        className="min-w-4 flex-1 translate-y-[-3px] border-b border-dotted border-gray-300 dark:border-gray-700"
+                      />
+                      <span className="font-mono text-xs text-gray-400 tabular-nums dark:text-gray-500">
+                        {note.degree}
+                        <span className="sr-only"> links</span>
+                      </span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
             </div>
           ))}
         </div>

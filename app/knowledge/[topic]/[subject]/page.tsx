@@ -3,11 +3,13 @@ import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
 import LinkGroup from '@/components/knowledge/LinkGroup'
 import NoteFooterNav from '@/components/knowledge/NoteFooterNav'
 import NoteHeader from '@/components/knowledge/NoteHeader'
+import { topicVars } from '@/components/knowledge/NoteCard'
 import NoteProse from '@/components/knowledge/NoteProse'
+import { VaultLocator } from '@/components/knowledge/VaultLocator'
 import { Wander } from '@/components/knowledge/Wander'
 import Link from '@/components/Link'
 import siteMetadata from '@/data/siteMetadata'
-import { getAllNotes, getLocalGraph, getNote, getNotesByTopic } from '@/lib/knowledge'
+import { getAllNotes, getGraph, getLocalGraph, getNote, getNotesByTopic } from '@/lib/knowledge'
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 
@@ -70,6 +72,7 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
   // which is a hairball in a 17rem rail. One hop is exactly the neighborhood the
   // rest of the page already names — See also, Related, Linked from.
   const localGraph = getLocalGraph(note.slug, 1)
+  const place = getGraph().nodes.find((n) => n.id === note.slug)
   const url = `${siteMetadata.siteUrl}${note.path}`
 
   // A concept note is a definition, not an article — DefinedTerm says so, and
@@ -97,7 +100,7 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      <article className="animate-page-enter">
+      <article className="animate-page-enter" style={topicVars(note.topic)}>
         <NoteHeader
           note={note}
           action={<Wander paths={getAllNotes().map((n) => n.path)} label="View random note" />}
@@ -141,7 +144,7 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
             className="content-defer mt-8 xl:sticky xl:top-24 xl:mt-0 xl:self-start xl:pt-10 xl:pb-10"
           >
             <div className="rounded-xl border border-gray-200 px-3 py-4 dark:border-gray-800">
-              <h2 className="text-xs font-medium text-gray-500 uppercase dark:text-gray-400">
+              <h2 className="font-mono text-[0.65rem] tracking-widest text-gray-500 uppercase dark:text-gray-400">
                 Local graph
               </h2>
               <div className="mt-3">
@@ -163,6 +166,11 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
                 Browse {note.topicName} <span aria-hidden="true">&rarr;</span>
               </Link>
             </div>
+            {place && (
+              <div className="mt-4">
+                <VaultLocator x={place.x} y={place.y} title={note.title} />
+              </div>
+            )}
           </aside>
         </div>
 

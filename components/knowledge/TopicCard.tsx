@@ -1,85 +1,105 @@
-import { Card } from '@/components/Card'
 import Link from '@/components/Link'
 import { topicVars } from '@/components/knowledge/NoteCard'
+import {
+  SILHOUETTE_H,
+  SILHOUETTE_W,
+  type TopicSilhouette,
+} from '@/components/knowledge/topic-silhouette'
 import type { KnowledgeNote, KnowledgeTopic } from '@/lib/knowledge'
 import clsx from 'clsx'
 import type { CSSProperties } from 'react'
 
 export interface TopicCardProps {
   topic: KnowledgeTopic
+  /** Folio shown above the name, e.g. `03`. */
+  index?: string
+  /** This domain's own constellation, cropped from the whole-vault layout. */
+  silhouette?: TopicSilhouette
   /** A few representative notes, shown as plain titles rather than links. */
   preview?: KnowledgeNote[]
-  /** Card occupies a full grid row — lays the preview titles out in two columns. */
-  wide?: boolean
   className?: string
   style?: CSSProperties
 }
 
 /**
- * A domain, previewed. The whole card links to the topic page, so the preview
- * titles are deliberately not links — one destination per card.
+ * A domain, previewed by its shape in the map. The whole card links to the
+ * topic page, so the preview titles are deliberately not links — one
+ * destination per card.
  */
-export function TopicCard({ topic, preview = [], wide = false, className, style }: TopicCardProps) {
+export function TopicCard({
+  topic,
+  index,
+  silhouette,
+  preview = [],
+  className,
+  style,
+}: TopicCardProps) {
   return (
-    <Card
-      as={Link}
+    <Link
       href={topic.path}
-      className={clsx('relative flex h-full flex-col overflow-hidden p-6', className)}
+      className={clsx(
+        'group relative flex h-full flex-col overflow-hidden rounded-2xl border border-gray-200 transition-all duration-300 hover:-translate-y-0.5 hover:border-[var(--topic)] hover:shadow-[0_18px_40px_-24px_var(--topic)] dark:border-gray-800 dark:hover:border-[var(--topic-dark)]',
+        className
+      )}
       style={{ ...topicVars(topic.slug), ...style }}
     >
-      <span
-        className="absolute inset-x-0 top-0 h-[3px] bg-[var(--topic)] opacity-70 transition-opacity group-hover:opacity-100 dark:bg-[var(--topic-dark)]"
-        aria-hidden="true"
-      />
+      {silhouette && silhouette.dots.length > 0 && (
+        <div
+          aria-hidden="true"
+          className="relative h-32 overflow-hidden bg-[radial-gradient(ellipse_at_center,color-mix(in_oklch,var(--topic)_12%,transparent),transparent_70%)] dark:bg-[radial-gradient(ellipse_at_center,color-mix(in_oklch,var(--topic-dark)_14%,transparent),transparent_70%)]"
+        >
+          <svg
+            viewBox={`0 0 ${SILHOUETTE_W} ${SILHOUETTE_H}`}
+            width={SILHOUETTE_W}
+            height={SILHOUETTE_H}
+            className="topic-sil absolute inset-0 h-full w-full"
+          >
+            <path d={silhouette.edges} className="topic-sil-edges" fill="none" strokeWidth="0.5" />
+            {silhouette.dots.map((d, i) => (
+              <circle
+                key={i}
+                cx={d.x}
+                cy={d.y}
+                r={d.r}
+                className={d.hub ? 'topic-sil-hub' : undefined}
+              />
+            ))}
+          </svg>
+        </div>
+      )}
 
-      <div className="flex items-baseline justify-between gap-3">
-        <h3 className="group-hover:text-primary-600 dark:group-hover:text-primary-400 text-lg font-semibold text-gray-900 transition-colors dark:text-gray-100">
+      <div className="flex flex-1 flex-col p-5 pt-4">
+        <p className="flex items-center justify-between font-mono text-[0.7rem] tabular-nums">
+          <span className="text-[var(--topic)] dark:text-[var(--topic-dark)]">{index}</span>
+          <span className="text-gray-500 dark:text-gray-400">{topic.noteCount} notes</span>
+        </p>
+        <h3 className="mt-1.5 text-xl font-semibold tracking-tight text-gray-900 dark:text-gray-100">
           {topic.name}
         </h3>
-        <span className="shrink-0 rounded-full bg-gray-100 px-3 py-0.5 text-xs font-medium text-gray-700 tabular-nums dark:bg-gray-800 dark:text-gray-300">
-          {topic.noteCount}
-          <span className="sr-only"> notes</span>
-        </span>
+        {topic.blurb && (
+          <p className="mt-1.5 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
+            {topic.blurb}
+          </p>
+        )}
+        {preview.length > 0 && (
+          <p className="mt-auto line-clamp-2 pt-4 text-xs leading-relaxed text-gray-500 dark:text-gray-400">
+            {preview.map((note, i) => (
+              <span key={note.slug}>
+                {i > 0 && (
+                  <span
+                    aria-hidden="true"
+                    className="px-1.5 text-[var(--topic)] dark:text-[var(--topic-dark)]"
+                  >
+                    ·
+                  </span>
+                )}
+                {note.title}
+              </span>
+            ))}
+          </p>
+        )}
       </div>
-
-      {topic.blurb && (
-        <p className="mt-2 text-sm leading-relaxed text-gray-600 dark:text-gray-400">
-          {topic.blurb}
-        </p>
-      )}
-
-      {preview.length > 0 && (
-        <ul
-          className={clsx(
-            'mt-4 border-t border-gray-100 pt-4 dark:border-gray-800',
-            wide ? 'grid gap-x-8 gap-y-1.5 sm:grid-cols-2' : 'space-y-1.5'
-          )}
-        >
-          {preview.map((note) => (
-            <li
-              key={note.slug}
-              className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400"
-            >
-              <span
-                className="inline-block h-1 w-1 shrink-0 rounded-full bg-[var(--topic)] dark:bg-[var(--topic-dark)]"
-                aria-hidden="true"
-              />
-              <span className="truncate">{note.title}</span>
-            </li>
-          ))}
-        </ul>
-      )}
-
-      <p className="mt-auto pt-5 text-xs font-medium text-gray-500 dark:text-gray-400">
-        Explore{' '}
-        <span
-          aria-hidden="true"
-          className="inline-block transition-transform group-hover:translate-x-0.5"
-        >
-          &rarr;
-        </span>
-      </p>
-    </Card>
+    </Link>
   )
 }
 

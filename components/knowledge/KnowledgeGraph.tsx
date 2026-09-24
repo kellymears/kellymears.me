@@ -6,6 +6,7 @@ import type {
   CSSProperties,
   KeyboardEvent as ReactKeyboardEvent,
   PointerEvent as ReactPointerEvent,
+  ReactNode,
 } from 'react'
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 
@@ -34,6 +35,14 @@ export interface KnowledgeGraphProps {
   height?: number
   /** Topic legend. Defaults to `true` for constellation, `false` for local. */
   showLegend?: boolean
+  /**
+   * `card` (default) draws the bordered box at `height`. `bleed` runs the
+   * canvas edge to edge of the viewport with feathered edges and a fluid
+   * height, keeping the hint and legend in the page column.
+   */
+  frame?: 'card' | 'bleed'
+  /** Laid over the canvas (bleed only), positioned in the page column. */
+  overlay?: ReactNode
 }
 
 /**
@@ -43,6 +52,12 @@ export interface KnowledgeGraphProps {
  * `getLocalGraph()` emitting a square both work without special-casing.
  */
 const EMPTY_BOUNDS: Bounds = { x: 0, y: 0, w: 1000, h: 1000 }
+
+/** Hover timing (ms): rest before isolating a note, grace before releasing it,
+ *  and how long after a scroll event hover stays suppressed. */
+const HOVER_INTENT = 90
+const HOVER_RELEASE = 140
+const HOVER_SCROLL_QUIET = 180
 
 /** Max zoom relative to the whole-graph fit. */
 const MAX_ZOOM = 6
@@ -192,31 +207,50 @@ const topicFillRules = TOPIC_ORDER.map(
 const GRAPH_CSS = `
 .kg{
   --kg-zoom:1;
-  --kg-bg:oklch(0.99 0.005 75);
+  --kg-bg:var(--color-paper);
   --kg-fallback:${FALLBACK_TOPIC_COLOR.light};
-  --kg-edge:oklch(0.707 0.015 50);
+  --kg-edge:var(--color-gray-400);
   /* Lower than it once was: the constellation now rests zoomed in, where the
      edges crossing a screenful include long ones bound for nodes far outside
      it. At the old weight that traffic read as hatching over the whole card. */
   --kg-edge-o:.2;
-  --kg-edge-hot:oklch(0.446 0.02 50);
-  --kg-label:oklch(0.373 0.02 50);
-  --kg-ring:oklch(0.446 0.02 50);
+  --kg-edge-hot:var(--color-gray-600);
+  --kg-label:var(--color-gray-700);
+  --kg-ring:var(--color-gray-600);
   ${topicVarBlock('light')}
 }
 :where(.dark) .kg{
-  --kg-bg:oklch(0.14 0.01 60);
+  --kg-bg:var(--color-gray-950);
   --kg-fallback:${FALLBACK_TOPIC_COLOR.dark};
-  --kg-edge:oklch(0.707 0.015 50);
+  --kg-edge:var(--color-gray-400);
   --kg-edge-o:.26;
-  --kg-edge-hot:oklch(0.872 0.01 55);
-  --kg-label:oklch(0.872 0.01 55);
-  --kg-ring:oklch(0.707 0.015 50);
+  --kg-edge-hot:var(--color-gray-300);
+  --kg-label:var(--color-gray-300);
+  --kg-ring:var(--color-gray-400);
   ${topicVarBlock('dark')}
 }
 ${topicFillRules}
 
 .kg-svg{display:block;width:100%;height:100%;overflow:visible;touch-action:auto;}
+/* Reveal. The server paints the whole-vault fit; the client then zooms to a
+   region it picks itself and re-places labels once the webfont is in. Both
+   would read as a jump, so the canvas stays hidden until \`data-ready\` (camera
+   placed, labels measured) and then settles in. Scripting-gated: without JS
+   the server framing is final and must stay visible. */
+@media (scripting:enabled){
+  .kg-svg{transition:opacity .6s ease;}
+  .kg:not([data-ready]) .kg-svg{opacity:0;}
+}
+/* Bleed frame: feathered by gradient overlays (.kg-feather), not a mask. A
+   mask on this layer forces the whole ~3.7k-element SVG through an offscreen
+   surface, and anything composited above it then flickers. */
+.kg-feather{position:absolute;pointer-events:none;}
+.kg-feather--x{inset-block:0;width:8%;}
+.kg-feather--y{inset-inline:0;height:12%;}
+.kg-feather--l{left:0;background:linear-gradient(to right,var(--kg-bg),transparent);}
+.kg-feather--r{right:0;background:linear-gradient(to left,var(--kg-bg),transparent);}
+.kg-feather--t{top:0;background:linear-gradient(to bottom,var(--kg-bg),transparent);}
+.kg-feather--b{bottom:0;background:linear-gradient(to top,var(--kg-bg),transparent);}
 /*
  * pan-y, not none: the browser keeps vertical scrolling, so the page still
  * scrolls through the card, while horizontal drags come to us as pointer events
@@ -244,8 +278,8 @@ ${topicFillRules}
 .kg-hit{fill:transparent;stroke:none;}
 .kg-dot{fill:var(--kg-c,var(--kg-fallback));}
 .kg-ring{fill:none;stroke:var(--kg-ring);stroke-width:1.25;opacity:0;}
-.kg-node{cursor:pointer;outline:none;transition:opacity 110ms ease;}
-.kg-node .kg-dot,.kg-node .kg-ring{transition:opacity 110ms ease;}
+.kg-node{cursor:pointer;outline:none;transition:opacity 180ms ease;}
+.kg-node .kg-dot,.kg-node .kg-ring{transition:opacity 180ms ease;}
 
 .kg-label{
   fill:var(--kg-label);
@@ -440,7 +474,10 @@ export function KnowledgeGraph({
   className,
   height,
   showLegend,
+  frame: frameKind = 'card',
+  overlay,
 }: KnowledgeGraphProps) {
+  const bleed = frameKind === 'bleed'
   const router = useRouter()
   const rootRef = useRef<HTMLDivElement>(null)
   const svgRef = useRef<SVGSVGElement>(null)
@@ -866,6 +903,55 @@ export function KnowledgeGraph({
   // Focus references live DOM nodes; drop it whenever the graph is swapped out.
   useEffect(() => setFocus(null), [setFocus])
 
+  /*
+   * Pointer hover, with intent. Isolating a note dims every other element, so
+   * raw enter/leave strobes the whole map whenever dots pass under a still
+   * cursor — scrolling past the full-bleed hero, or dragging to pan — and
+   * flashes it back to full brightness between adjacent dots. So: ignore hover
+   * while the page scrolls or the view pans, commit only once the pointer rests
+   * on a dot, and defer the clear so moving between dots swaps focus directly.
+   * Keyboard focus stays immediate; it is always deliberate.
+   */
+  /** Active drag-to-pan, if any. Declared here because hover consults it. */
+  const pan = useRef<{ id: number; x: number; y: number; vx: number; vy: number } | null>(null)
+  const hoverTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const scrolledAt = useRef(0)
+  const pointerFocused = useRef(false)
+
+  const hoverFocus = useCallback(
+    (id: string | null) => {
+      if (hoverTimer.current) clearTimeout(hoverTimer.current)
+      const moving = performance.now() - scrolledAt.current < HOVER_SCROLL_QUIET || pan.current
+      if (id && moving) return
+      hoverTimer.current = setTimeout(
+        () => {
+          hoverTimer.current = null
+          pointerFocused.current = id !== null
+          setFocus(id)
+        },
+        id ? HOVER_INTENT : HOVER_RELEASE
+      )
+    },
+    [setFocus]
+  )
+
+  useEffect(() => {
+    const onScroll = () => {
+      scrolledAt.current = performance.now()
+      if (hoverTimer.current) clearTimeout(hoverTimer.current)
+      // One clean release rather than a strobe as dots slide under the cursor.
+      if (pointerFocused.current) {
+        pointerFocused.current = false
+        setFocus(null)
+      }
+    }
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => {
+      window.removeEventListener('scroll', onScroll)
+      if (hoverTimer.current) clearTimeout(hoverTimer.current)
+    }
+  }, [setFocus])
+
   /* ---- navigation -------------------------------------------------------- */
 
   const draggedRef = useRef(false)
@@ -1256,8 +1342,6 @@ export function KnowledgeGraph({
     return () => svg.removeEventListener('wheel', onWheel)
   }, [isConstellation, applyView, viewMetrics])
 
-  const pan = useRef<{ id: number; x: number; y: number; vx: number; vy: number } | null>(null)
-
   const onPointerDown = useCallback(
     (event: ReactPointerEvent<SVGSVGElement>) => {
       // Touch is allowed now — `touch-action: pan-y` leaves vertical scrolling
@@ -1372,8 +1456,8 @@ export function KnowledgeGraph({
             // re-render every node each time it moved.
             tabIndex={-1}
             aria-label={`${node.title} — ${(TOPIC_COLORS[node.topic] ?? FALLBACK_TOPIC_COLOR).label}`}
-            onPointerEnter={() => setFocus(node.id)}
-            onPointerLeave={() => setFocus(null)}
+            onPointerEnter={() => hoverFocus(node.id)}
+            onPointerLeave={() => hoverFocus(null)}
             onFocus={() => setFocus(node.id)}
             onBlur={() => setFocus(null)}
             onClick={() => navigate(node.id)}
@@ -1395,7 +1479,7 @@ export function KnowledgeGraph({
         ))}
       </g>
     ),
-    [renderNodes, setFocus, navigate, handleNodeKey]
+    [renderNodes, setFocus, hoverFocus, navigate, handleNodeKey]
   )
 
   const labelLayer = useMemo(
@@ -1455,6 +1539,7 @@ export function KnowledgeGraph({
     <div
       ref={rootRef}
       data-mode={filterMode}
+      data-ready={measured || undefined}
       // Seeded for SSR / no-JS; the layout effect replaces it with the measured
       // units-per-px once the SVG has a size. Constant, so React never rewrites
       // it and clobbers that measurement.
@@ -1468,8 +1553,13 @@ export function KnowledgeGraph({
       <style dangerouslySetInnerHTML={{ __html: GRAPH_CSS }} />
 
       <div
-        className="relative overflow-hidden rounded-xl border border-gray-200 dark:border-gray-800"
-        style={{ height: canvasHeight }}
+        className={clsx(
+          'relative overflow-hidden',
+          bleed
+            ? 'kg-bleed left-1/2 h-[clamp(480px,78vh,860px)] w-screen -translate-x-1/2'
+            : 'rounded-xl border border-gray-200 dark:border-gray-800'
+        )}
+        style={bleed ? undefined : { height: canvasHeight }}
       >
         <svg
           ref={svgRef}
@@ -1490,7 +1580,7 @@ export function KnowledgeGraph({
           onPointerMove={onPointerMove}
           onPointerUp={onPointerUp}
           onPointerCancel={onPointerUp}
-          onPointerLeave={() => setFocus(null)}
+          onPointerLeave={() => hoverFocus(null)}
           onBlur={unpark}
         >
           <title>{description}</title>
@@ -1507,62 +1597,83 @@ export function KnowledgeGraph({
           <button
             type="button"
             onClick={resetView}
-            className="hover:border-primary-400 hover:text-primary-600 dark:hover:border-primary-500 dark:hover:text-primary-400 absolute top-3 right-3 cursor-pointer rounded-full border border-gray-300 px-3 py-1 text-xs font-medium text-gray-700 transition-colors dark:border-gray-600 dark:text-gray-300"
+            className={clsx(
+              'hover:border-primary-400 hover:text-primary-600 dark:hover:border-primary-500 dark:hover:text-primary-400 absolute cursor-pointer rounded-full border border-gray-300 px-3 py-1 text-xs font-medium text-gray-700 transition-colors dark:border-gray-600 dark:text-gray-300',
+              bleed ? 'bg-paper top-6 right-6 dark:bg-gray-950' : 'top-3 right-3'
+            )}
           >
             Reset view
           </button>
         )}
+
+        {bleed &&
+          (['l', 'r'] as const)
+            .map((side) => `kg-feather kg-feather--x kg-feather--${side}`)
+            .concat(
+              (['t', 'b'] as const).map((side) => `kg-feather kg-feather--y kg-feather--${side}`)
+            )
+            .map((cls) => <span key={cls} aria-hidden="true" className={cls} />)}
+
+        {bleed && overlay && (
+          <div className="pointer-events-none absolute inset-0 flex">
+            <div className="mx-auto flex w-full max-w-3xl px-4 sm:px-6 xl:max-w-5xl xl:px-0">
+              {overlay}
+            </div>
+          </div>
+        )}
       </div>
 
-      {isConstellation && (
-        <p className="mt-2 text-xs text-gray-500 dark:text-gray-400">
-          Drag to pan · hold <kbd className="font-mono">⌘</kbd>/
-          <kbd className="font-mono">ctrl</kbd> and scroll — or pinch — to zoom.
-        </p>
-      )}
+      <div className={clsx(bleed && 'relative mx-auto max-w-3xl xl:max-w-5xl')}>
+        {isConstellation && (
+          <p className="mt-2 text-xs text-gray-500 dark:text-gray-400">
+            Drag to pan · hold <kbd className="font-mono">⌘</kbd>/
+            <kbd className="font-mono">ctrl</kbd> and scroll — or pinch — to zoom.
+          </p>
+        )}
 
-      {legendVisible && legendTopics.length > 0 && (
-        <div className="mt-4 flex flex-wrap items-center gap-2">
-          {legendTopics.map((topic) => {
-            const entry = TOPIC_COLORS[topic] ?? FALLBACK_TOPIC_COLOR
-            const isOn = selected.includes(topic)
-            return (
+        {legendVisible && legendTopics.length > 0 && (
+          <div className="mt-4 flex flex-wrap items-center gap-2">
+            {legendTopics.map((topic) => {
+              const entry = TOPIC_COLORS[topic] ?? FALLBACK_TOPIC_COLOR
+              const isOn = selected.includes(topic)
+              return (
+                <button
+                  key={topic}
+                  type="button"
+                  aria-pressed={isOn}
+                  onClick={() => toggleTopic(topic)}
+                  onPointerEnter={() => setPreview(topic)}
+                  onPointerLeave={() => setPreview(null)}
+                  onFocus={() => setPreview(topic)}
+                  onBlur={() => setPreview(null)}
+                  className={clsx(
+                    'inline-flex cursor-pointer items-center gap-1.5 rounded-full px-3 py-0.5 text-xs font-medium transition-all duration-150 hover:-translate-y-px hover:shadow-sm',
+                    isOn
+                      ? 'bg-primary-100 text-primary-700 dark:bg-primary-900/80 dark:text-primary-300'
+                      : 'bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300'
+                  )}
+                >
+                  <span
+                    aria-hidden="true"
+                    className="inline-block h-2.5 w-2.5 shrink-0 rounded-full"
+                    style={{ backgroundColor: `var(${topicCssVar(topic)}, ${entry.light})` }}
+                  />
+                  {entry.label}
+                </button>
+              )
+            })}
+            {selected.length > 0 && (
               <button
-                key={topic}
                 type="button"
-                aria-pressed={isOn}
-                onClick={() => toggleTopic(topic)}
-                onPointerEnter={() => setPreview(topic)}
-                onPointerLeave={() => setPreview(null)}
-                onFocus={() => setPreview(topic)}
-                onBlur={() => setPreview(null)}
-                className={clsx(
-                  'inline-flex cursor-pointer items-center gap-1.5 rounded-full px-3 py-0.5 text-xs font-medium transition-all duration-150 hover:-translate-y-px hover:shadow-sm',
-                  isOn
-                    ? 'bg-primary-100 text-primary-700 dark:bg-primary-900/80 dark:text-primary-300'
-                    : 'bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300'
-                )}
+                onClick={() => setSelected([])}
+                className="hover:text-primary-600 dark:hover:text-primary-400 ml-1 cursor-pointer text-xs font-medium text-gray-500 transition-colors dark:text-gray-400"
               >
-                <span
-                  aria-hidden="true"
-                  className="inline-block h-2.5 w-2.5 shrink-0 rounded-full"
-                  style={{ backgroundColor: `var(${topicCssVar(topic)}, ${entry.light})` }}
-                />
-                {entry.label}
+                Clear
               </button>
-            )
-          })}
-          {selected.length > 0 && (
-            <button
-              type="button"
-              onClick={() => setSelected([])}
-              className="hover:text-primary-600 dark:hover:text-primary-400 ml-1 cursor-pointer text-xs font-medium text-gray-500 transition-colors dark:text-gray-400"
-            >
-              Clear
-            </button>
-          )}
-        </div>
-      )}
+            )}
+          </div>
+        )}
+      </div>
     </div>
   )
 }
