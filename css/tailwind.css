@@ -9,6 +9,9 @@
   --font-sans:
     var(--font-space-grotesk), ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
     'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  --font-serif: var(--font-instrument-serif), ui-serif, Georgia, serif;
+  --font-mono:
+    var(--font-jetbrains-mono), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
 
   /* Colors — warm coral/amber palette */
   --color-primary-50: oklch(0.98 0.01 55);
@@ -23,18 +26,22 @@
   --color-primary-900: oklch(0.4 0.1 35);
   --color-primary-950: oklch(0.28 0.08 34);
 
-  /* Gray — warm undertone */
-  --color-gray-50: oklch(0.985 0.002 60);
-  --color-gray-100: oklch(0.967 0.003 60);
-  --color-gray-200: oklch(0.928 0.006 60);
-  --color-gray-300: oklch(0.872 0.01 55);
-  --color-gray-400: oklch(0.707 0.015 50);
-  --color-gray-500: oklch(0.551 0.02 50);
-  --color-gray-600: oklch(0.446 0.02 50);
-  --color-gray-700: oklch(0.373 0.02 50);
-  --color-gray-800: oklch(0.278 0.015 55);
-  --color-gray-900: oklch(0.21 0.012 60);
-  --color-gray-950: oklch(0.14 0.01 60);
+  /* Gray — cool, faintly blue-slate undertone (hue ~250–265). Chroma rises
+     toward the dark end so near-blacks read as ink, not mud. */
+  --color-gray-50: oklch(0.985 0.002 250);
+  --color-gray-100: oklch(0.967 0.003 250);
+  --color-gray-200: oklch(0.925 0.005 252);
+  --color-gray-300: oklch(0.87 0.008 254);
+  --color-gray-400: oklch(0.705 0.013 256);
+  --color-gray-500: oklch(0.552 0.016 257);
+  --color-gray-600: oklch(0.446 0.016 258);
+  --color-gray-700: oklch(0.372 0.015 259);
+  --color-gray-800: oklch(0.275 0.012 260);
+  --color-gray-900: oklch(0.205 0.01 262);
+  --color-gray-950: oklch(0.135 0.008 264);
+
+  /* Page background in light mode — the white the grays sit on. */
+  --color-paper: oklch(0.99 0.002 250);
 
   /* Line heights */
   --line-height-11: 2.75rem;

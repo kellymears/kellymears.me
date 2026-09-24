@@ -4,7 +4,7 @@ import PaletteScript from '@/components/PaletteScript'
 import SectionContainer from '@/components/SectionContainer'
 import siteMetadata from '@/data/siteMetadata'
 import { Metadata } from 'next'
-import { Space_Grotesk } from 'next/font/google'
+import { Instrument_Serif, JetBrains_Mono, Space_Grotesk } from 'next/font/google'
 import Script from 'next/script'
 import { ThemeProviders } from './theme-providers'
 
@@ -15,6 +15,22 @@ const space_grotesk = Space_Grotesk({
   weight: ['300', '400', '500', '600', '700'],
   display: 'swap',
   variable: '--font-space-grotesk',
+})
+
+// Display accent — one italic word per headline, never body copy.
+const instrument_serif = Instrument_Serif({
+  subsets: ['latin'],
+  weight: '400',
+  style: ['normal', 'italic'],
+  display: 'swap',
+  variable: '--font-instrument-serif',
+})
+
+const jetbrains_mono = JetBrains_Mono({
+  subsets: ['latin'],
+  weight: ['400', '500'],
+  display: 'swap',
+  variable: '--font-jetbrains-mono',
 })
 
 export const metadata: Metadata = {
@@ -63,7 +79,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html
       lang={siteMetadata.language}
-      className={`${space_grotesk.variable} bg-[oklch(0.99_0.005_75)] dark:bg-gray-950`}
+      className={`${space_grotesk.variable} ${instrument_serif.variable} ${jetbrains_mono.variable} bg-paper dark:bg-gray-950`}
       suppressHydrationWarning
     >
       <link

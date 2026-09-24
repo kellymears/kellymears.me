@@ -14,7 +14,7 @@
  */
 
 export interface TopicColor {
-  /** Fill for light mode — sits against `oklch(0.99 0.005 75)`. */
+  /** Fill for light mode — sits against `--color-paper`. */
   light: string
   /** Fill for dark mode — sits against `--color-gray-950`. */
   dark: string
@@ -46,8 +46,8 @@ export const TOPIC_COLORS: Record<string, TopicColor> = {
 
 /** Neutral used for a topic the palette does not know about. */
 export const FALLBACK_TOPIC_COLOR: TopicColor = {
-  light: 'oklch(0.551 0.02 50)',
-  dark: 'oklch(0.707 0.015 50)',
+  light: 'oklch(0.552 0.016 257)',
+  dark: 'oklch(0.705 0.013 256)',
   label: 'Other',
 }
 
