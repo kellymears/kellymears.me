@@ -193,6 +193,9 @@ export function WaveBackground() {
 
     const onMouse = (e: MouseEvent) => {
       const rect = container.getBoundingClientRect()
+      // A zero-size rect (mid-transition, detached) would divide to NaN, and a
+      // NaN in the spring never recovers — every later frame would throw.
+      if (!rect.width || !rect.height) return
       state.mouse.x = (e.clientX - rect.left) / rect.width
       state.mouse.y = (e.clientY - rect.top) / rect.height
     }
@@ -237,6 +240,13 @@ export function WaveBackground() {
 
       const w = canvas.width / dpr
       const h = canvas.height / dpr
+      if (!w || !h) {
+        state.raf = requestAnimationFrame(frame)
+        return
+      }
+      if (!Number.isFinite(state.spring.x) || !Number.isFinite(state.spring.y)) {
+        state.spring = { x: 0.5, y: 0.5, vx: 0, vy: 0 }
+      }
       const mx = state.spring.x
       const my = state.spring.y
       const palette = state.isDark ? HOLO_DARK : HOLO_LIGHT
