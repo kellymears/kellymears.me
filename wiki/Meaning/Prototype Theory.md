@@ -21,3 +21,4 @@ This is why arguments about whether a hot dog is a sandwich never resolve. Each 
 - [[Knowledge Graph]]
 - [[Linguistic Relativity]]
 - [[Falsifiability]]
+- [[Neurodiversity]]

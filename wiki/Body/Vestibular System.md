@@ -17,3 +17,4 @@ The vestibular system drives the **vestibulo-ocular reflex (VOR)**: eye movement
 - [[Proprioception]]
 - [[Thermoregulation]]
 - [[Referred Pain]]
+- [[Interoception]]

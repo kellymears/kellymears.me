@@ -19,3 +19,4 @@ The technique's real relative is not conversation but writing: forcing a problem
 - [[Silent Failure]]
 - [[Ground Truth]]
 - [[Yak Shaving]]
+- [[Body Doubling]]

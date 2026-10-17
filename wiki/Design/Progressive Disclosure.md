@@ -18,6 +18,7 @@ Progressive disclosure is one of the load-bearing arguments for keeping a produc
 - [[Dark Pattern]]
 - [[Fitts's Law]]
 - [[Design System]]
+- [[Working Memory]]
 
 ## Related
 - [[Affordance]]

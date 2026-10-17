@@ -91,6 +91,7 @@ const TOPIC_DEFINITIONS: { slug: string; dir: string; name: string }[] = [
   { slug: 'networks', dir: 'Networks', name: 'Networks & Distribution' },
   { slug: 'matter', dir: 'Matter', name: 'Matter & Energy' },
   { slug: 'body', dir: 'Body', name: 'Body & Medicine' },
+  { slug: 'mind', dir: 'Mind', name: 'Mind & Attention' },
   { slug: 'meaning', dir: 'Meaning', name: 'Meaning & Society' },
 ]
 

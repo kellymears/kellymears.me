@@ -18,6 +18,7 @@ The law pairs naturally with [[Parkinson's Law]]: one says the work will take lo
 - [[Base Rate Fallacy]]
 - [[Second-System Effect]]
 - [[Availability Heuristic]]
+- [[Time Blindness]]
 
 ## Related
 - [[Brooks's Law]]

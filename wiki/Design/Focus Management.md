@@ -25,6 +25,7 @@ Component tests can catch a lot of this, provided the test harness reproduces th
 - [[Document Object Model]]
 - [[Headless Component]]
 - [[contenteditable]]
+- [[Monotropism]]
 
 ## Related
 - [[ARIA]]

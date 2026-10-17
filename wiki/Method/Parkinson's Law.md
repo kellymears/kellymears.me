@@ -18,6 +18,7 @@ The practical use of the law is as a scheduling lever rather than a complaint: a
 - [[Minimum Viable Product]]
 - [[Feature Creep]]
 - [[Second-System Effect]]
+- [[Time Blindness]]
 
 ## Related
 - [[Brooks's Law]]

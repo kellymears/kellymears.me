@@ -18,3 +18,4 @@ What distinguishes the two is not the loop's shape but its **incentive structure
 - [[Roguelike Deckbuilder]]
 - [[Idle Game]]
 - [[Live Service Game]]
+- [[Flow]]
