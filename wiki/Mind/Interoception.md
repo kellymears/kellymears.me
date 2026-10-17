@@ -27,3 +27,4 @@ As with [[Time Blindness]], the remedies are external. Scheduled meals and water
 - [[Circadian Rhythm]]
 - [[Neurodiversity]]
 - [[Nociception]]
+- [[Glycogen]]

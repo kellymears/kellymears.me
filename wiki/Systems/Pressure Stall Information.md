@@ -28,3 +28,4 @@ Like any single metric, it needs cross-checking. The I/O figure counts time task
 - [[Observability]]
 - [[Instrumentation]]
 - [[Goodhart's Law]]
+- [[Training Load]]

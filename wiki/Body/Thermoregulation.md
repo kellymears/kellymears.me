@@ -16,3 +16,4 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 - [[Vestibular System]]
 - [[Vapor-Compression Refrigeration]]
 - [[Interoception]]
+- [[Heart Rate Zones]]

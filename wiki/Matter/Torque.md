@@ -16,3 +16,4 @@ Torque is easy to confuse with work, since both share units that reduce to the s
 - [[Center of Mass]]
 - [[Terminal Velocity]]
 - [[Inertial Frame of Reference]]
+- [[Functional Threshold Power]]

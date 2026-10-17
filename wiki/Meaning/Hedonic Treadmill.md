@@ -17,3 +17,4 @@ The concept is often overstated into "money can't buy happiness," which the orig
 - [[Learned Helplessness]]
 - [[Nostalgia]]
 - [[Doomscrolling]]
+- [[Polarized Training]]
