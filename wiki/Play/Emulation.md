@@ -23,3 +23,4 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 - [[Datamining]]
 - [[Game Modding]]
 - [[Right to Repair]]
+- [[API Translation Layer]]

@@ -18,3 +18,5 @@ The discipline this imposes is as important as the math: an albedo texture must 
 - [[Ray Tracing]]
 - [[Level of Detail]]
 - [[OKLCH]]
+- [[High Dynamic Range]]
+- [[Tone Mapping]]

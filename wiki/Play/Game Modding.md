@@ -21,3 +21,4 @@ Longevity follows from all of it: a game with an active mod scene keeps being pl
 - [[Live Service Game]]
 - [[Right to Repair]]
 - [[Game Preservation]]
+- [[Temporal Upscaling]]

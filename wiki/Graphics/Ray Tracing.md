@@ -20,6 +20,7 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 - [[Signed Distance Field]]
 - [[Level of Detail]]
 - [[Seeded Randomness]]
+- [[Temporal Upscaling]]
 
 ## Related
 - [[Determinism]]

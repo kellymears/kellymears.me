@@ -71,7 +71,7 @@ Modeling, storing, and publishing information.
 
 How images and worlds get computed.
 
-[[Cellular Automaton]] · [[Constraint Propagation]] · [[L-System]] · [[Level of Detail]] · [[Marching Cubes]] · [[Physically Based Rendering]] · [[Procedural Generation]] · [[Rasterization]] · [[Ray Tracing]] · [[Seeded Randomness]] · [[Shader]] · [[Signed Distance Field]] · [[Terminal User Interface]] · [[Voxel]]
+[[API Translation Layer]] · [[Cellular Automaton]] · [[Constraint Propagation]] · [[Frame Generation]] · [[Frame Pacing]] · [[High Dynamic Range]] · [[L-System]] · [[Level of Detail]] · [[Marching Cubes]] · [[Physically Based Rendering]] · [[Procedural Generation]] · [[Rasterization]] · [[Ray Tracing]] · [[Seeded Randomness]] · [[Shader Compilation Stutter]] · [[Shader]] · [[Signed Distance Field]] · [[Temporal Upscaling]] · [[Terminal User Interface]] · [[Tone Mapping]] · [[Voxel]]
 
 ## Play & Games
 

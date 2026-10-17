@@ -19,3 +19,4 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[TCP and UDP]]
 - [[Streaming Response]]
 - [[Backpressure]]
+- [[Frame Pacing]]
