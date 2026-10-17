@@ -23,6 +23,7 @@ Contrast is one of the few accessibility criteria a machine can genuinely evalua
 - [[Motion Design]]
 - [[Staggered Animation]]
 - [[High Dynamic Range]]
+- [[Metamerism]]
 
 ## Related
 - [[Reduced Motion]]

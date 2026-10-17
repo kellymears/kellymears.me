@@ -59,7 +59,7 @@ Getting changes from a working copy into the world.
 
 The machine underneath.
 
-[[Character Encoding]] · [[Chroot]] · [[Code Signing]] · [[Containerization]] · [[Control Groups]] · [[Copy-on-Write]] · [[CPU Affinity]] · [[CPU Scheduler]] · [[Cron]] · [[Daemon]] · [[Determinism]] · [[Domain Name System]] · [[Dotfiles]] · [[Environment Variable]] · [[Filesystem Snapshot]] · [[Glob]] · [[Hash Function]] · [[Hypervisor]] · [[Idempotence]] · [[Init System]] · [[Inode]] · [[Least Privilege]] · [[Linux Namespaces]] · [[Memory Leak]] · [[Monorepo]] · [[Out-of-Memory Killer]] · [[Package Manager]] · [[Port]] · [[Pressure Stall Information]] · [[Process]] · [[Rolling Release]] · [[Secret Management]] · [[Shell]] · [[Swap]] · [[Symbolic Link]] · [[Systemd]] · [[Time Zone]] · [[Virtual Memory]] · [[XDG Base Directory Specification]]
+[[Character Encoding]] · [[Chroot]] · [[Code Signing]] · [[Containerization]] · [[Control Groups]] · [[Copy-on-Write]] · [[CPU Affinity]] · [[CPU Scheduler]] · [[Cron]] · [[Daemon]] · [[Determinism]] · [[Domain Name System]] · [[Dotfiles]] · [[Dynamic Voltage and Frequency Scaling]] · [[Environment Variable]] · [[Filesystem Snapshot]] · [[Glob]] · [[Hash Function]] · [[Hypervisor]] · [[Idempotence]] · [[Init System]] · [[Inode]] · [[Least Privilege]] · [[Linux Namespaces]] · [[Memory Leak]] · [[Monorepo]] · [[Out-of-Memory Killer]] · [[Package Manager]] · [[Port]] · [[Pressure Stall Information]] · [[Process]] · [[Rolling Release]] · [[Secret Management]] · [[Shell]] · [[Silicon Binning]] · [[Swap]] · [[Symbolic Link]] · [[Systemd]] · [[Thermal Throttling]] · [[Time Zone]] · [[Virtual Memory]] · [[XDG Base Directory Specification]]
 
 ## Data & Content
 
@@ -71,7 +71,7 @@ Modeling, storing, and publishing information.
 
 How images and worlds get computed.
 
-[[API Translation Layer]] · [[Cellular Automaton]] · [[Constraint Propagation]] · [[Frame Generation]] · [[Frame Pacing]] · [[High Dynamic Range]] · [[L-System]] · [[Level of Detail]] · [[Marching Cubes]] · [[Physically Based Rendering]] · [[Procedural Generation]] · [[Rasterization]] · [[Ray Tracing]] · [[Seeded Randomness]] · [[Shader Compilation Stutter]] · [[Shader]] · [[Signed Distance Field]] · [[Temporal Upscaling]] · [[Terminal User Interface]] · [[Tone Mapping]] · [[Voxel]]
+[[API Translation Layer]] · [[Cellular Automaton]] · [[Color Gamut]] · [[Constraint Propagation]] · [[Frame Generation]] · [[Frame Pacing]] · [[High Dynamic Range]] · [[L-System]] · [[Level of Detail]] · [[Marching Cubes]] · [[Physically Based Rendering]] · [[Procedural Generation]] · [[Rasterization]] · [[Ray Tracing]] · [[Seeded Randomness]] · [[Shader]] · [[Shader Compilation Stutter]] · [[Signed Distance Field]] · [[Temporal Upscaling]] · [[Terminal User Interface]] · [[Tone Mapping]] · [[Voxel]]
 
 ## Play & Games
 
@@ -83,19 +83,19 @@ Games as designed experience, and the culture around them.
 
 Coordination without a center.
 
-[[API Gateway]] · [[Anycast]] · [[Backpressure]] · [[Caller ID Authentication]] · [[Circuit Breaker]] · [[Conflict-Free Replicated Data Type]] · [[Content Delivery Network]] · [[DNS over HTTPS]] · [[Eventual Consistency]] · [[IPv6]] · [[Latency and Jitter]] · [[Load Balancing]] · [[Multicast]] · [[NAT Traversal]] · [[Peer-to-Peer]] · [[QUIC]] · [[Rate Limiting]] · [[Signaling Server]] · [[Streaming Response]] · [[TCP and UDP]] · [[Virtual Private Network]] · [[WebRTC]] · [[Webhook]] · [[Zero Trust Network]] · [[eSIM]]
+[[Anycast]] · [[API Gateway]] · [[Backpressure]] · [[Caller ID Authentication]] · [[Circuit Breaker]] · [[Conflict-Free Replicated Data Type]] · [[Content Delivery Network]] · [[DNS over HTTPS]] · [[eSIM]] · [[Eventual Consistency]] · [[IPv6]] · [[Latency and Jitter]] · [[Load Balancing]] · [[Mesh Network]] · [[Multicast]] · [[NAT Traversal]] · [[Peer-to-Peer]] · [[QUIC]] · [[Rate Limiting]] · [[Signaling Server]] · [[Streaming Response]] · [[TCP and UDP]] · [[Virtual Private Network]] · [[Webhook]] · [[WebRTC]] · [[Zero Trust Network]]
 
 ## Matter
 
 Light, force, heat, and motion.
 
-[[Aerodynamic Drag]] · [[Buoyancy]] · [[Center of Mass]] · [[Diffraction]] · [[Dispersion]] · [[Doppler Effect]] · [[Drafting]] · [[Friction]] · [[Inertial Frame of Reference]] · [[Pascal's Principle]] · [[Polarized Light]] · [[Rolling Resistance]] · [[Specific Absorption Rate]] · [[Surface Tension]] · [[Terminal Velocity]] · [[Thermal Expansion]] · [[Torque]] · [[Vapor-Compression Refrigeration]] · [[Viscosity]]
+[[Aerodynamic Drag]] · [[Buoyancy]] · [[Center of Mass]] · [[Color Rendering Index]] · [[Color Temperature]] · [[Diffraction]] · [[Dispersion]] · [[Doppler Effect]] · [[Drafting]] · [[Electromigration]] · [[Friction]] · [[Inertial Frame of Reference]] · [[LED Flicker]] · [[Metamerism]] · [[Pascal's Principle]] · [[Polarized Light]] · [[Rolling Resistance]] · [[Specific Absorption Rate]] · [[Surface Tension]] · [[Terminal Velocity]] · [[Thermal Expansion]] · [[Torque]] · [[Vapor-Compression Refrigeration]] · [[Viscosity]]
 
 ## Body
 
 Physiology, injury, and repair.
 
-[[Analgesic Ladder]] · [[Bone Remodeling]] · [[Circadian Rhythm]] · [[Compartment Syndrome]] · [[Fracture Fixation]] · [[Fracture Nonunion]] · [[Functional Threshold Power]] · [[Glycogen]] · [[Heart Rate Zones]] · [[Inflammation]] · [[Lactate Threshold]] · [[Moist Wound Healing]] · [[Nociception]] · [[Physical Dependence]] · [[Polarized Training]] · [[Proprioception]] · [[Referred Pain]] · [[Regional Nerve Block]] · [[Retinoid]] · [[Retronasal Olfaction]] · [[Scar Tissue]] · [[Segmented Sleep]] · [[Supercompensation]] · [[Tendon and Ligament]] · [[Thermoregulation]] · [[Training Load]] · [[Vestibular System]] · [[VO2 Max]] · [[Watershed Blood Supply]] · [[Xenobiotic Metabolism]]
+[[Analgesic Ladder]] · [[Bone Remodeling]] · [[Circadian Lighting]] · [[Circadian Rhythm]] · [[Compartment Syndrome]] · [[Fracture Fixation]] · [[Fracture Nonunion]] · [[Functional Threshold Power]] · [[Glycogen]] · [[Heart Rate Zones]] · [[Inflammation]] · [[Lactate Threshold]] · [[Moist Wound Healing]] · [[Nociception]] · [[Physical Dependence]] · [[Polarized Training]] · [[Proprioception]] · [[Referred Pain]] · [[Regional Nerve Block]] · [[Retinoid]] · [[Retronasal Olfaction]] · [[Scar Tissue]] · [[Segmented Sleep]] · [[Supercompensation]] · [[Tendon and Ligament]] · [[Thermoregulation]] · [[Training Load]] · [[Vestibular System]] · [[VO2 Max]] · [[Watershed Blood Supply]] · [[Xenobiotic Metabolism]]
 
 ## Mind & Attention
 

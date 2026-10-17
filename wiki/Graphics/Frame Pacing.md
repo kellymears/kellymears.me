@@ -28,3 +28,4 @@ The general lesson applies outside graphics: for interactive systems, **variance
 - [[Debounce and Throttle]]
 - [[Event Loop]]
 - [[Resource Starvation]]
+- [[Thermal Throttling]]

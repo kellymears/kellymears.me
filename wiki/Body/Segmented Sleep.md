@@ -20,6 +20,7 @@ What electric light changed is not in doubt. Evening illumination suppresses mel
 - [[Falsifiability]]
 - [[Physical Dependence]]
 - [[Time Zone]]
+- [[Circadian Lighting]]
 
 ## Related
 - [[Root Cause Analysis]]

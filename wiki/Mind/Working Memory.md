@@ -1,7 +1,6 @@
 ---
 aliases:
   - Short-term memory
-  - Chunking
   - Magical number seven
 tags:
   - mind

@@ -21,6 +21,7 @@ Test environments frequently emulate the preference by default, which means ever
 - [[Component Story]]
 - [[Staggered Animation]]
 - [[Easing]]
+- [[LED Flicker]]
 
 ## Related
 - [[Color Contrast]]

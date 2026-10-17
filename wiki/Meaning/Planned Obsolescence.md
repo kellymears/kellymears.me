@@ -17,6 +17,7 @@ The usual exhibit for the strong version is the Phoebus cartel: manufacturers of
 - [[Plausible Mechanism]]
 - [[Survivorship Bias]]
 - [[Exhaustive Claim]]
+- [[Electromigration]]
 
 ## Related
 - [[Root Cause Analysis]]

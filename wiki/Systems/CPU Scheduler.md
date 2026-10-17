@@ -32,3 +32,4 @@ The general principle is the one behind every [[Event Loop]]: whoever holds the 
 - [[Pressure Stall Information]]
 - [[Race Condition]]
 - [[Attention Residue]]
+- [[Dynamic Voltage and Frequency Scaling]]

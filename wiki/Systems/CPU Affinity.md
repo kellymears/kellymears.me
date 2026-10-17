@@ -29,3 +29,4 @@ The costs are real. A pinned thread can't escape a busy core, so badly chosen af
 - [[Frame Pacing]]
 - [[Resource Starvation]]
 - [[Process]]
+- [[Thermal Throttling]]

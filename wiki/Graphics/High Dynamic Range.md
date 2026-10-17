@@ -27,3 +27,4 @@ HDR also changes how UI is designed. Interface elements need a fixed paper-white
 - [[Shader]]
 - [[Dark Mode]]
 - [[Opponent Process Theory]]
+- [[Color Gamut]]
