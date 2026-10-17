@@ -18,6 +18,7 @@ System prompts are also a security boundary, since untrusted content arriving la
 - [[Prompt Engineering]]
 - [[Agent Skill]]
 - [[Guardrail]]
+- [[Prompt Caching]]
 
 ## Related
 - [[Large Language Model]]

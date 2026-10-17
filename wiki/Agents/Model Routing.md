@@ -21,6 +21,7 @@ Routing also interacts with testing: an environment configured for a cheap tier 
 - [[Token Budget]]
 - [[Structured Output]]
 - [[Evaluation Harness]]
+- [[Mixture of Experts]]
 
 ## Related
 - [[Prompt Engineering]]

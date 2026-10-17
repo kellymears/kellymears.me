@@ -16,3 +16,5 @@ Quantization is largely orthogonal to [[Fine-Tuning]] — a model can be fine-tu
 - [[Large Language Model]]
 - [[Token Budget]]
 - [[Temperature Sampling]]
+- [[Mixture of Experts]]
+- [[KV Cache]]
