@@ -19,6 +19,8 @@ Local development for a multi-tenant system needs the same addressing scheme as 
 - [[Relational Database]]
 - [[Feature Flag]]
 - [[Headless CMS]]
+- [[HTTP Cookie]]
+- [[Cross-Site Request Forgery]]
 
 ## Related
 - [[Draft and Published]]

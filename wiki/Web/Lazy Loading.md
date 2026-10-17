@@ -20,6 +20,7 @@ Lazy loading interacts with perceived performance rather than just measured perf
 - [[Islands Architecture]]
 - [[React Server Components]]
 - [[Streaming Response]]
+- [[Responsive Images]]
 
 ## Related
 - [[Server-Side Rendering]]

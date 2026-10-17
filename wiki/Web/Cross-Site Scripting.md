@@ -18,6 +18,7 @@ The root cause across all three is the same: untrusted input rendered into a con
 - [[Document Object Model]]
 - [[Same-Origin Policy]]
 - [[Cross-Origin Resource Sharing]]
+- [[Cross-Site Request Forgery]]
 
 ## Related
 - [[JSON Web Token]]

@@ -16,3 +16,4 @@ That dual-leader scenario — **split brain** — is the failure mode leader ele
 - [[Database Replication]]
 - [[CAP Theorem]]
 - [[Two-Phase Commit]]
+- [[Cross-Tab Communication]]

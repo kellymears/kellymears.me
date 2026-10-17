@@ -18,3 +18,5 @@ The event loop is one specific answer to the concurrency-without-threads problem
 - [[Process]]
 - [[Concurrency and Parallelism]]
 - [[Race Condition]]
+- [[requestAnimationFrame]]
+- [[Background Tab Throttling]]

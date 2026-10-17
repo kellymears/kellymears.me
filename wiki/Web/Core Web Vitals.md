@@ -21,6 +21,8 @@ Field data (real visitors) and lab data (a synthetic run) frequently disagree, a
 - [[Web Font Loading]]
 - [[Search Engine Optimization]]
 - [[Lazy Loading]]
+- [[Responsive Images]]
+- [[Layout Thrashing]]
 
 ## Related
 - [[React Server Components]]

@@ -26,6 +26,7 @@ Several constraints shape any real implementation.
 - [[Staggered Animation]]
 - [[Color Contrast]]
 - [[Stacking Context]]
+- [[requestAnimationFrame]]
 
 ## Related
 - [[Component Story]]
