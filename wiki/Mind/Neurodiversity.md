@@ -25,3 +25,4 @@ The concepts this domain collects, such as [[Executive Function]], [[Monotropism
 - [[Prototype Theory]]
 - [[Fundamental Attribution Error]]
 - [[Legibility]]
+- [[Sensory Overload]]

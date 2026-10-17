@@ -22,6 +22,7 @@ Budgets should also be revisable with reasoning attached. A deliberate, understo
 - [[React Server Components]]
 - [[Web Font Loading]]
 - [[Islands Architecture]]
+- [[Spoon Theory]]
 
 ## Related
 - [[Server-Side Rendering]]

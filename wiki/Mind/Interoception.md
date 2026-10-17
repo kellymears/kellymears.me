@@ -28,3 +28,4 @@ As with [[Time Blindness]], the remedies are external. Scheduled meals and water
 - [[Neurodiversity]]
 - [[Nociception]]
 - [[Glycogen]]
+- [[Sensory Overload]]

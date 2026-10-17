@@ -16,3 +16,4 @@ The distortion is visible and quantifiable: meta-analyses use a funnel plot, whi
 - [[Survivorship Bias]]
 - [[Placebo Effect]]
 - [[Availability Cascade]]
+- [[Decision Fatigue]]

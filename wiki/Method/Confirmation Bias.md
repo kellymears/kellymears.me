@@ -19,6 +19,7 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Motte and Bailey]]
 - [[Ground Truth]]
 - [[Base Rate Fallacy]]
+- [[Rejection Sensitivity]]
 
 ## Related
 - [[Availability Heuristic]]

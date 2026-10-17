@@ -19,6 +19,7 @@ Fitts's Law and Hick's Law are often cited together because they cover the two h
 - [[Gestalt Principles]]
 - [[Design System]]
 - [[Cognitive Load]]
+- [[Decision Fatigue]]
 
 ## Related
 - [[Affordance]]

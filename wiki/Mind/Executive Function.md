@@ -30,3 +30,5 @@ Executive capacity also varies within one person. Sleep, stress, illness, and [[
 - [[Learned Helplessness]]
 - [[Defensive Default]]
 - [[Yak Shaving]]
+- [[Implementation Intention]]
+- [[Spoon Theory]]

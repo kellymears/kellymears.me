@@ -20,6 +20,7 @@ A related shape is the defensive *guard*: a null check protecting against a stat
 - [[Environment Variable]]
 - [[Secret Management]]
 - [[Chesterton's Fence]]
+- [[Decision Fatigue]]
 
 ## Related
 - [[Coverage Gate]]

@@ -29,3 +29,4 @@ It also connects to design. A [[Focus Trap]] and careful [[Focus Management]] in
 - [[Masking]]
 - [[Flow]]
 - [[Executive Function]]
+- [[Sensory Overload]]

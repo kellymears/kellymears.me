@@ -29,3 +29,4 @@ Several practices follow:
 - [[CPU Scheduler]]
 - [[Doomscrolling]]
 - [[Parkinson's Law]]
+- [[Zeigarnik Effect]]

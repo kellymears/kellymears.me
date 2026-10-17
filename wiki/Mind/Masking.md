@@ -27,3 +27,5 @@ The social side is the [[Neurodiversity]] paradigm's point in miniature. Masking
 - [[Shibboleth]]
 - [[Kayfabe]]
 - [[Survivorship Bias]]
+- [[Stimming]]
+- [[Rejection Sensitivity]]

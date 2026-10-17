@@ -32,3 +32,4 @@ The remedies all **externalize time**, turning an internal sense that doesn't wo
 - [[Parkinson's Law]]
 - [[Circadian Rhythm]]
 - [[Body Doubling]]
+- [[Pomodoro Technique]]

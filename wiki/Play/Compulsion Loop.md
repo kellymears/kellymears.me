@@ -19,3 +19,4 @@ What distinguishes the two is not the loop's shape but its **incentive structure
 - [[Idle Game]]
 - [[Live Service Game]]
 - [[Flow]]
+- [[Zeigarnik Effect]]
