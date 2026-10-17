@@ -16,3 +16,4 @@ The trade copy-on-write makes is complexity for cost: tracking which pages or bl
 - [[Inode]]
 - [[Process]]
 - [[Idempotence]]
+- [[Virtual Memory]]

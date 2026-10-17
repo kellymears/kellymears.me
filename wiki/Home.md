@@ -59,7 +59,7 @@ Getting changes from a working copy into the world.
 
 The machine underneath.
 
-[[Character Encoding]] · [[Chroot]] · [[Code Signing]] · [[Containerization]] · [[Control Groups]] · [[Copy-on-Write]] · [[Cron]] · [[Daemon]] · [[Determinism]] · [[Domain Name System]] · [[Dotfiles]] · [[Environment Variable]] · [[Filesystem Snapshot]] · [[Glob]] · [[Hash Function]] · [[Hypervisor]] · [[Idempotence]] · [[Init System]] · [[Inode]] · [[Least Privilege]] · [[Linux Namespaces]] · [[Monorepo]] · [[Package Manager]] · [[Port]] · [[Process]] · [[Rolling Release]] · [[Secret Management]] · [[Shell]] · [[Symbolic Link]] · [[Systemd]] · [[Time Zone]] · [[XDG Base Directory Specification]]
+[[Character Encoding]] · [[Chroot]] · [[Code Signing]] · [[Containerization]] · [[Control Groups]] · [[Copy-on-Write]] · [[CPU Affinity]] · [[CPU Scheduler]] · [[Cron]] · [[Daemon]] · [[Determinism]] · [[Domain Name System]] · [[Dotfiles]] · [[Environment Variable]] · [[Filesystem Snapshot]] · [[Glob]] · [[Hash Function]] · [[Hypervisor]] · [[Idempotence]] · [[Init System]] · [[Inode]] · [[Least Privilege]] · [[Linux Namespaces]] · [[Memory Leak]] · [[Monorepo]] · [[Out-of-Memory Killer]] · [[Package Manager]] · [[Port]] · [[Pressure Stall Information]] · [[Process]] · [[Rolling Release]] · [[Secret Management]] · [[Shell]] · [[Swap]] · [[Symbolic Link]] · [[Systemd]] · [[Time Zone]] · [[Virtual Memory]] · [[XDG Base Directory Specification]]
 
 ## Data & Content
 

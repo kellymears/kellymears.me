@@ -21,6 +21,8 @@ Responses that work: serialize rather than parallelize the contended step, give 
 - [[Continuous Integration]]
 - [[Process]]
 - [[Token Budget]]
+- [[Pressure Stall Information]]
+- [[CPU Scheduler]]
 
 ## Related
 - [[Vacuous Truth]]

@@ -19,3 +19,4 @@ Rust is the notable outlier: it reclaims memory deterministically via ownership 
 - [[Immutability]]
 - [[Process]]
 - [[Closure]]
+- [[Memory Leak]]
