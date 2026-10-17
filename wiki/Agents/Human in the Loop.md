@@ -21,6 +21,7 @@ The complementary practice is honest reporting: a gate is only as good as the ac
 - [[Multi-Agent Orchestration]]
 - [[Prompt Injection]]
 - [[Pull Request]]
+- [[Background Agent]]
 
 ## Related
 - [[Context Window]]

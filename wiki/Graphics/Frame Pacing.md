@@ -29,3 +29,4 @@ The general lesson applies outside graphics: for interactive systems, **variance
 - [[Event Loop]]
 - [[Resource Starvation]]
 - [[Thermal Throttling]]
+- [[Screen Tearing]]

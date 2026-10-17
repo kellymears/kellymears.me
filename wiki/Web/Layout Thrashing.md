@@ -23,3 +23,4 @@ Thrashing is hard to spot in code review because the expensive line looks harmle
 - [[Virtual DOM]]
 - [[Premature Optimization]]
 - [[Frame Pacing]]
+- [[Compositor]]

@@ -23,6 +23,7 @@ Two governance problems recur once tokens are shared across teams.
 - [[Dark Mode]]
 - [[Utility-First CSS]]
 - [[Typographic Scale]]
+- [[Ricing]]
 
 ## Related
 - [[Cascade]]

@@ -25,6 +25,7 @@ Practical design centers on a few pressures.
 - [[Token Budget]]
 - [[Guardrail]]
 - [[Large Language Model]]
+- [[Background Agent]]
 
 ## Related
 - [[Token]]

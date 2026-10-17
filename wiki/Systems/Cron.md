@@ -19,6 +19,7 @@ The practical rules: use absolute paths, set the environment explicitly, log to 
 - [[Environment Variable]]
 - [[Idempotence]]
 - [[Silent Failure]]
+- [[Background Agent]]
 
 ## Related
 - [[Fail Fast]]

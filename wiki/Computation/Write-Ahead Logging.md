@@ -22,6 +22,7 @@ The log doubles as a [[Provenance]] trail for every mutation, which is why it fe
 - [[Determinism]]
 - [[Eventual Consistency]]
 - [[Provenance]]
+- [[Durable Execution]]
 
 ## Related
 - [[Hash Table]]

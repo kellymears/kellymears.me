@@ -17,7 +17,7 @@ Hyperfocus is less studied than its prominence suggests. Reviews describe its fe
 
 The [[Flow]] comparison is natural and partly misleading. Flow arises from a match between challenge and skill and tends to leave people refreshed. Hyperfocus arises from a person's attentional profile, can happen during low-challenge activities such as scrolling or reorganizing a configuration, and often leaves people depleted. [[Monotropism]] offers an explanation for both its depth and its stickiness: attention concentrated into a single deep channel.
 
-Living well with hyperfocus is mostly about the edges. External timers and alarms, water and food within reach, and a written note of where to resume all help. So does choosing what to start in the first place, since the start is often the only point where there is a choice. A rabbit hole entered on purpose is a feature. One fallen into at 4 p.m. on deadline day is a [[Yak Shaving|yak]].
+Living well with hyperfocus is mostly about the edges. External timers and alarms, water and food within reach, and a written note of where to resume all help. So does choosing what to start in the first place, since the start is often the only point where there is a choice. A [[Rabbit Hole|rabbit hole]] entered on purpose is a feature. One fallen into at 4 p.m. on deadline day is a [[Yak Shaving|yak]].
 
 ## See also
 - [[Flow]]

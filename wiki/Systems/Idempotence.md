@@ -22,6 +22,7 @@ The corresponding design work is usually to make the operation *express the desi
 - [[Seed Data]]
 - [[Conflict-Free Replicated Data Type]]
 - [[Eventual Consistency]]
+- [[Durable Execution]]
 
 ## Related
 - [[WebRTC]]

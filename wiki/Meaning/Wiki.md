@@ -21,6 +21,7 @@ Personal wikis have become common as a private reference — the same mechanics,
 - [[Knowledge Graph]]
 - [[Markdown]]
 - [[Collective Action]]
+- [[Rabbit Hole]]
 
 ## Related
 - [[Plain Language]]

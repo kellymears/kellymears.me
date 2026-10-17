@@ -18,3 +18,4 @@ Queues come with delivery guarantees that matter more than they first appear to.
 - [[Idempotence]]
 - [[Eventual Consistency]]
 - [[Backpressure]]
+- [[Durable Execution]]

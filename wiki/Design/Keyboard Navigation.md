@@ -19,6 +19,7 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 - [[Semantic HTML]]
 - [[Terminal User Interface]]
 - [[Focus Trap]]
+- [[Tiling Window Manager]]
 
 ## Related
 - [[ARIA]]

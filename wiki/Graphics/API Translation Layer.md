@@ -29,3 +29,4 @@ Translation layers are also a [[Game Preservation]] mechanism: a game that runs 
 - [[Compiler]]
 - [[Interpreter]]
 - [[Containerization]]
+- [[Display Server]]
