@@ -28,7 +28,7 @@ A/B testing also carries ethical and strategic risks. Optimizing a single metric
 - [[Feature Flag]]
 - [[P-Hacking]]
 - [[Simpson's Paradox]]
-- [[Regression to the Mean]]
+- [[Usability Testing]]
 - [[Goodhart's Law]]
 - [[Canary Release]]
 - [[Replication Crisis]]

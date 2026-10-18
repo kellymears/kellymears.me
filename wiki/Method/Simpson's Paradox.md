@@ -22,3 +22,4 @@ The defense is the same move every time: before trusting an aggregate comparison
 
 ## Related
 - [[Percentage Point]]
+- [[Small Multiples]]

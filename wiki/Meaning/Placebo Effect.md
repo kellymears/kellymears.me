@@ -19,3 +19,4 @@ Placebo effects are strongest and most reliable for subjective, self-reported sy
 - [[Regression to the Mean]]
 - [[Reward Prediction Error]]
 - [[Predictive Processing]]
+- [[Aesthetic-Usability Effect]]

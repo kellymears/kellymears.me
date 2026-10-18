@@ -23,6 +23,6 @@ Strong focus, as in [[Monotropism]] or [[Hyperfocus]], exaggerates both sides: d
 
 ## See also
 - [[Automation Bias]]
-- [[Visual Regression Testing]]
+- [[Preattentive Processing]]
 - [[Working Memory]]
 - [[Monotropism]]

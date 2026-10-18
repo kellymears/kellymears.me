@@ -20,3 +20,4 @@ For design the theory sits underneath perceptual color models rather than compet
 - [[Ground Truth]]
 - [[Plausible Mechanism]]
 - [[Color Vision Deficiency]]
+- [[Color Scale]]

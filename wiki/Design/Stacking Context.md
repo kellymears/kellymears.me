@@ -32,3 +32,4 @@ Occlusion is nearly invisible to component tests: role queries and accessibility
 - [[Keyboard Navigation]]
 - [[Headless Component]]
 - [[Document Object Model]]
+- [[Modal Dialog]]

@@ -27,7 +27,7 @@ GPUs handle sRGB textures and framebuffers in hardware, converting to linear on 
 - [[High Dynamic Range]]
 - [[Tone Mapping]]
 - [[OKLCH]]
-- [[Physically Based Rendering]]
+- [[Color Scale]]
 - [[Aliasing]]
 - [[Color Contrast]]
 - [[Dithering]]

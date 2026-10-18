@@ -30,3 +30,4 @@ Two writing habits are worth naming as failure modes because they are so easy to
 ## Related
 - [[Collective Action]]
 - [[Markdown]]
+- [[Heuristic Evaluation]]

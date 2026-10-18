@@ -26,5 +26,5 @@ Countermeasures are external, since effort alone doesn't cure it. Test explanati
 - [[Metacognition]]
 - [[Code Comment]]
 - [[Dunning-Kruger Effect]]
-- [[Progressive Disclosure]]
+- [[Usability Testing]]
 - [[Prompt Engineering]]

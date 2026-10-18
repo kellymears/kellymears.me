@@ -30,3 +30,4 @@ Two governance problems recur once tokens are shared across teams.
 - [[Root Cause Analysis]]
 - [[White Space]]
 - [[Color Vision Deficiency]]
+- [[Color Scale]]

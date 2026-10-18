@@ -24,3 +24,4 @@ Accessibility also needs explicit work, since the visual position and the tree p
 - [[Headless Component]]
 - [[Focus Trap]]
 - [[Component Story]]
+- [[Modal Dialog]]

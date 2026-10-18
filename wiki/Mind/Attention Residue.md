@@ -25,7 +25,7 @@ Several practices follow:
 - [[Working Memory]]
 - [[Flow]]
 - [[Monotropism]]
-- [[Concurrency and Parallelism]]
+- [[Modal Dialog]]
 - [[CPU Scheduler]]
 - [[Doomscrolling]]
 - [[Parkinson's Law]]

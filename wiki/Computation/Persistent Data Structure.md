@@ -34,3 +34,4 @@ The same ideas appear outside programming languages. Git stores history as a per
 - [[Copy-on-Write]]
 - [[Trie]]
 - [[Merkle Tree]]
+- [[Undo]]

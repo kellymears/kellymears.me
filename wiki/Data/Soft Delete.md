@@ -31,7 +31,7 @@ Distributed systems use a related idea under the name *tombstone*: a marker that
 ## See also
 - [[Event Sourcing]]
 - [[Database Index]]
-- [[Conflict-Free Replicated Data Type]]
+- [[Undo]]
 - [[Draft and Published]]
 - [[Immutability]]
 - [[Rollback]]

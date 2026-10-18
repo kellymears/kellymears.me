@@ -32,3 +32,4 @@ Its influence on screen design is direct. The flat design that replaced [[Skeuom
 - [[White Space]]
 - [[Typographic Scale]]
 - [[Skeuomorphism]]
+- [[Data-Ink Ratio]]

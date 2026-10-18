@@ -15,7 +15,7 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 
 ## See also
 - [[Pull Request]]
-- [[Adversarial Review]]
+- [[Heuristic Evaluation]]
 - [[Atomic Commit]]
 - [[Human in the Loop]]
 - [[Code Comment]]

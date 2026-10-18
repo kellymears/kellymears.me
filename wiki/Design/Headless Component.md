@@ -25,3 +25,4 @@ The recurring hazards are portalling — see [[Portal]] — and honesty about ty
 ## Related
 - [[Semantic HTML]]
 - [[Focus Trap]]
+- [[Tesler's Law]]

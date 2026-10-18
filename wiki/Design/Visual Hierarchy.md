@@ -30,4 +30,4 @@ Strong hierarchy reduces [[Cognitive Load]]: readers don't have to work out what
 ## See also
 - [[Gestalt Principles]]
 - [[White Space]]
-- [[Color Contrast]]
+- [[Data-Ink Ratio]]

@@ -31,4 +31,4 @@ The main failure is too little space, which makes a page feel cluttered and make
 - [[Gestalt Principles]]
 - [[Visual Hierarchy]]
 - [[Grid System]]
-- [[Design Token]]
+- [[Data-Ink Ratio]]

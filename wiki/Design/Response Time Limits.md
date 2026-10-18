@@ -30,7 +30,7 @@ Perception matters as much as measurement. *Perceived performance* is how fast s
 Averages hide the experience. A system that is usually fast but occasionally takes seconds feels unreliable, which is why performance teams track [[Tail Latency]] rather than mean times, and network [[Latency and Jitter]] limits what any interface can promise.
 
 ## See also
-- [[Core Web Vitals]]
+- [[Heuristic Evaluation]]
 - [[Skeleton Screen]]
 - [[Optimistic UI]]
 - [[Flow]]

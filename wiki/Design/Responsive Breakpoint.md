@@ -32,3 +32,4 @@ Three practical notes recur.
 - [[Stacking Context]]
 - [[Touch Target Size]]
 - [[Line Length]]
+- [[Small Multiples]]

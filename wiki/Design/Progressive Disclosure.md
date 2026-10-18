@@ -25,3 +25,4 @@ Progressive disclosure is one of the load-bearing arguments for keeping a produc
 - [[Empty State]]
 - [[Mental Model]]
 - [[Faceted Search]]
+- [[Tesler's Law]]

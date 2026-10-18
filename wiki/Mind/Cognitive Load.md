@@ -24,7 +24,7 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 - [[Executive Function]]
 - [[Hick's Law]]
 - [[Progressive Disclosure]]
-- [[Plain Language]]
+- [[Data-Ink Ratio]]
 - [[Affordance]]
 - [[Documentation Rot]]
 - [[Extended Mind]]

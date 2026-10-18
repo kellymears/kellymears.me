@@ -27,7 +27,8 @@ Choosing colors in a perceptual space such as [[OKLCH]] makes it easier to contr
 Color vision deficiency also affects [[Dark Mode]] themes and brand palettes, which should be checked in each variant, and [[Design Token]] systems can encode safe pairings once so every team uses them. Making meaning independent of color helps more than the color-deficient: it helps on bad screens, in sunlight, in grayscale printing, and for anyone glancing quickly, a recurring pattern in [[Accessibility]].
 
 ## See also
-- [[Opponent Process Theory]]
+- [[Preattentive Processing]]
 - [[Color Contrast]]
 - [[Accessibility]]
 - [[OKLCH]]
+- [[Color Scale]]

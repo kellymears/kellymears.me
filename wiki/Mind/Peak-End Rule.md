@@ -31,3 +31,4 @@ The rule interacts with other memory effects. The [[Serial Position Effect]] als
 - [[Dual Process Theory]]
 - [[Hedonic Treadmill]]
 - [[Response Time Limits]]
+- [[Aesthetic-Usability Effect]]

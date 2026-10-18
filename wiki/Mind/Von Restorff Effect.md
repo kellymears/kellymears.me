@@ -31,3 +31,4 @@ The effect connects to broader ideas about memory and attention. Vivid, unusual 
 - [[Selective Attention]]
 - [[Visual Hierarchy]]
 - [[Availability Heuristic]]
+- [[Preattentive Processing]]

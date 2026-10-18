@@ -31,3 +31,4 @@ Component tests can catch a lot of this, provided the test harness reproduces th
 - [[ARIA]]
 - [[Semantic HTML]]
 - [[Single-Page Application]]
+- [[Modal Dialog]]
