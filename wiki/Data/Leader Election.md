@@ -18,3 +18,5 @@ That dual-leader scenario — **[[Network Partition|split brain]]** — is the f
 - [[Two-Phase Commit]]
 - [[Cross-Tab Communication]]
 - [[Quorum]]
+- [[Byzantine Fault Tolerance]]
+- [[Failure Detection]]

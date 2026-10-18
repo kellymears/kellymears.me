@@ -29,6 +29,6 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 - [[Observability]]
 - [[Load Testing]]
 - [[Blameless Postmortem]]
-- [[Fail Fast]]
+- [[Failure Detection]]
 - [[Canary Release]]
 - [[Hormesis]]

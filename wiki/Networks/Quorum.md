@@ -35,3 +35,4 @@ Quorum ideas reach beyond databases. A [[Gossip Protocol]] may require several i
 - [[Network Partition]]
 - [[Database Replication]]
 - [[CAP Theorem]]
+- [[Byzantine Fault Tolerance]]

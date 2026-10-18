@@ -26,3 +26,4 @@ The pattern is at its best where the value is in the connection rather than in s
 - [[Network Effect]]
 - [[Battle Royale]]
 - [[End-to-End Principle]]
+- [[Network Address Translation]]

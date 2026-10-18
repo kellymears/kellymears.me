@@ -17,7 +17,7 @@ The common record types are few: an address record, an alias record pointing one
 ## See also
 - [[Multi-Tenancy]]
 - [[Port]]
-- [[Same-Origin Policy]]
+- [[Email Authentication]]
 - [[Cache Invalidation]]
 - [[Virtual Private Network]]
 - [[Caller ID Authentication]]

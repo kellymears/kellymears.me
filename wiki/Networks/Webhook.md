@@ -23,3 +23,4 @@ Webhooks are also a poor fit for anything that needs a response mid-transaction 
 - [[Delivery Guarantees]]
 - [[Git Hook]]
 - [[Exponential Backoff]]
+- [[Hypertext Transfer Protocol]]

@@ -27,6 +27,6 @@ The proxy hides the client from the backend, which causes predictable trouble. T
 - [[Load Balancing]]
 - [[API Gateway]]
 - [[Content Delivery Network]]
-- [[Transport Layer Security]]
+- [[Hypertext Transfer Protocol]]
 - [[Firewall]]
 - [[Port]]

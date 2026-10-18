@@ -21,4 +21,4 @@ The idea has policy echoes. Net neutrality arguments draw on it, holding that th
 ## See also
 - [[QUIC]]
 - [[Transport Layer Security]]
-- [[Peer-to-Peer]]
+- [[Network Address Translation]]

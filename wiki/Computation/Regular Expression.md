@@ -19,3 +19,4 @@ What most programming languages call "regex" (PCRE and its descendants: Perl's, 
 - [[Determinism]]
 - [[Differential Testing]]
 - [[Abstract Syntax Tree]]
+- [[Denial-of-Service Attack]]

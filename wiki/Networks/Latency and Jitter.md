@@ -25,3 +25,5 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Head-of-Line Blocking]]
 - [[Fallacies of Distributed Computing]]
 - [[Response Time Limits]]
+- [[Packet Switching]]
+- [[Network Time Protocol]]

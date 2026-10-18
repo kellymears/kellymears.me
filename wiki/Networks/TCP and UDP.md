@@ -16,7 +16,7 @@ Reliability is also why TCP is the wrong tool for anything latency-sensitive und
 
 ## See also
 - [[QUIC]]
-- [[WebRTC]]
+- [[Packet Switching]]
 - [[Latency and Jitter]]
 - [[Port]]
 - [[IPv6]]
@@ -25,3 +25,4 @@ Reliability is also why TCP is the wrong tool for anything latency-sensitive und
 - [[Delivery Guarantees]]
 - [[End-to-End Principle]]
 - [[Time to Live]]
+- [[OSI Model]]

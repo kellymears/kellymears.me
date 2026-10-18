@@ -23,3 +23,4 @@ The core guarantee any consensus algorithm provides is safety under partial fail
 - [[Formal Verification]]
 - [[Deterministic Simulation Testing]]
 - [[Network Partition]]
+- [[Byzantine Fault Tolerance]]

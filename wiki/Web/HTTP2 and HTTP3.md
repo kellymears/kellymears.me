@@ -26,3 +26,4 @@ Both versions are transparent to application code — no request or response for
 - [[Critical Rendering Path]]
 - [[Remote Procedure Call]]
 - [[Data Compression]]
+- [[Hypertext Transfer Protocol]]

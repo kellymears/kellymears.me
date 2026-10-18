@@ -30,6 +30,6 @@ The tree is only as strong as its hash function. Git's original use of SHA-1 bec
 ## See also
 - [[Hash Function]]
 - [[Commit]]
-- [[Version Control]]
+- [[Byzantine Fault Tolerance]]
 - [[Filesystem Snapshot]]
 - [[Persistent Data Structure]]

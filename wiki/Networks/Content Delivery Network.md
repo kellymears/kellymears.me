@@ -20,7 +20,7 @@ The tradeoff CDNs make explicit is between consistency and locality: an edge nod
 - [[Eventual Consistency]]
 - [[API Gateway]]
 - [[HTTP Caching]]
-- [[Border Gateway Protocol]]
+- [[Denial-of-Service Attack]]
 - [[Reverse Proxy]]
 - [[Transport Layer Security]]
 

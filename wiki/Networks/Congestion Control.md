@@ -32,6 +32,6 @@ Congestion control lives in [[TCP and UDP]] stacks, and [[QUIC]] reimplements it
 - [[Latency and Jitter]]
 - [[Backpressure]]
 - [[Tragedy of the Commons]]
-- [[Rate Limiting]]
+- [[Packet Switching]]
 - [[Exponential Backoff]]
 - [[Head-of-Line Blocking]]

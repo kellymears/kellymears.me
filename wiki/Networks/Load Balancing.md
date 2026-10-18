@@ -23,3 +23,5 @@ Layer 4 balancers work at the TCP/UDP level and just forward packets, cheap and 
 - [[Reverse Proxy]]
 - [[Tail Latency]]
 - [[Thundering Herd]]
+- [[OSI Model]]
+- [[Failure Detection]]

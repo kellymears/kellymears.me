@@ -31,5 +31,5 @@ That last weakness drove the move to [[Zero Trust Network]] designs, which treat
 
 ## See also
 - [[NAT Traversal]]
-- [[Defensive Default]]
+- [[Network Address Translation]]
 - [[Virtual Private Network]]

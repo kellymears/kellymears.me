@@ -30,3 +30,4 @@ Inside data centers, **jumbo frames** of around 9,000 bytes reduce per-packet ov
 - [[Firewall]]
 - [[Path Dependence]]
 - [[NAT Traversal]]
+- [[OSI Model]]

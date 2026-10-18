@@ -21,3 +21,4 @@ Some NATs are more hostile than others: "symmetric" NATs assign a different exte
 - [[IPv6]]
 - [[Anycast]]
 - [[Firewall]]
+- [[Network Address Translation]]

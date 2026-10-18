@@ -31,6 +31,6 @@ Gossip pairs naturally with data that merges cleanly. A [[Conflict-Free Replicat
 - [[Conflict-Free Replicated Data Type]]
 - [[Peer-to-Peer]]
 - [[Logical Clock]]
-- [[Database Replication]]
+- [[Failure Detection]]
 - [[Mesh Network]]
 - [[Multicast]]

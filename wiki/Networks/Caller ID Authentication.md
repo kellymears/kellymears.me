@@ -20,3 +20,4 @@ Spoofing persists for reasons the design does not address. Gateway providers acc
 - [[Least Privilege]]
 - [[Virtual Private Network]]
 - [[Certificate Authority]]
+- [[Email Authentication]]
