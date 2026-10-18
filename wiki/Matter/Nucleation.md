@@ -34,3 +34,4 @@ The same pattern appears beyond physics. Many processes need a seed past some th
 - [[Surface Tension]]
 - [[Dew Point]]
 - [[Emulsion]]
+- [[Simulated Annealing]]

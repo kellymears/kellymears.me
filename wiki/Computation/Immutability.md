@@ -24,3 +24,4 @@ Immutability and [[Pure Function]]s reinforce each other: a pure function is eas
 - [[Log-Structured Merge Tree]]
 - [[Reference Counting]]
 - [[Persistent Data Structure]]
+- [[Ownership and Borrowing]]

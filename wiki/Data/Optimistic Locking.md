@@ -22,3 +22,4 @@ It fits naturally with stateless web request handling, where a "lock," if taken,
 - [[Isolation Level]]
 - [[Multiversion Concurrency Control]]
 - [[Force Push]]
+- [[Lock-Free Data Structure]]

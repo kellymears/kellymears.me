@@ -30,5 +30,5 @@ Pipelines have sharp edges. By default the shell reports only the last command's
 - [[Shell]]
 - [[File Descriptor]]
 - [[Backpressure]]
-- [[Worse Is Better]]
+- [[Communicating Sequential Processes]]
 - [[Exit Status]]

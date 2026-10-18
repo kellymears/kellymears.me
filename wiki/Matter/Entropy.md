@@ -28,4 +28,4 @@ In 1948 Claude Shannon defined *information entropy*, the average uncertainty in
 - [[Latent Heat]]
 - [[Specific Heat Capacity]]
 - [[Conservation of Energy]]
-- [[Data Compression]]
+- [[Information Theory]]

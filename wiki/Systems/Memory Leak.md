@@ -22,7 +22,7 @@ A leak is a slope, not an event, and that makes it hard to see. A process using 
 Leaks in code you can't fix, such as a driver, a vendor library, or a long-running desktop app, are handled operationally: pin to a version without the leak, cap the process with a [[Control Groups|cgroup]] limit, or restart it on a schedule. Scheduled restarts are a legitimate tool rather than an admission of defeat. They are how much long-lived software stays healthy, and they work as a bridge until the [[Root Cause Analysis]] finishes.
 
 ## See also
-- [[Garbage Collection]]
+- [[Ownership and Borrowing]]
 - [[Out-of-Memory Killer]]
 - [[Virtual Memory]]
 - [[Linked List]]

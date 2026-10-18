@@ -34,3 +34,4 @@ Large training runs spread minibatches across thousands of GPUs and average thei
 - [[Backpropagation]]
 - [[Neural Network]]
 - [[Overfitting]]
+- [[Simulated Annealing]]

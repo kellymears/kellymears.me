@@ -21,3 +21,4 @@ An interpreter also changes where errors surface: a type or name error in a bran
 - [[Turing Completeness]]
 - [[Abstract Syntax Tree]]
 - [[WebAssembly]]
+- [[Dynamic Dispatch]]

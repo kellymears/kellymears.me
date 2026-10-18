@@ -33,3 +33,4 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 - [[Merkle Tree]]
 - [[Journaling File System]]
 - [[Byzantine Fault Tolerance]]
+- [[Information Theory]]

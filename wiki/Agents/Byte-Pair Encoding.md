@@ -34,6 +34,6 @@ The tokenizer is fixed before [[Pretraining]] and cannot easily change afterward
 
 ## See also
 - [[Token]]
-- [[Data Compression]]
+- [[Information Theory]]
 - [[Character Encoding]]
 - [[Large Language Model]]

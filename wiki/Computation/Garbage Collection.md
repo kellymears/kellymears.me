@@ -27,3 +27,5 @@ Rust is the notable outlier: it reclaims memory deterministically via ownership 
 - [[Reference Counting]]
 - [[Persistent Data Structure]]
 - [[Reflog]]
+- [[Ownership and Borrowing]]
+- [[Lock-Free Data Structure]]

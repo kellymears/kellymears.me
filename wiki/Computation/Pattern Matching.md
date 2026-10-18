@@ -20,3 +20,4 @@ The failure mode is a match that looks exhaustive but isn't, in a language witho
 - [[Finite State Machine]]
 - [[Algebraic Data Type]]
 - [[Null]]
+- [[Dynamic Dispatch]]

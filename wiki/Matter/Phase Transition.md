@@ -32,3 +32,4 @@ The kitchen is full of phase transitions. Butter melting into a sauce, sugar cry
 - [[Boiling Point]]
 - [[Dew Point]]
 - [[Entropy]]
+- [[Simulated Annealing]]

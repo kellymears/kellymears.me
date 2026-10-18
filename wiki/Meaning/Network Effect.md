@@ -20,3 +20,4 @@ Network effects are often confused with switching costs, and the two are related
 - [[Taxonomy]]
 - [[Legibility]]
 - [[Internet Exchange Point]]
+- [[Stable Matching]]

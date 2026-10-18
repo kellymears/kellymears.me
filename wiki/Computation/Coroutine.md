@@ -28,7 +28,7 @@ Coroutines also underpin streaming. A generator that yields chunks as they're pr
 
 ## See also
 - [[Event Loop]]
-- [[Concurrency and Parallelism]]
+- [[Communicating Sequential Processes]]
 - [[Lazy Evaluation]]
 - [[Closure]]
 - [[Call Stack]]

@@ -21,3 +21,4 @@ Akka (JVM), Erlang/OTP, and Orleans (.NET) are the systems most associated with 
 - [[Finite State Machine]]
 - [[Message Queue]]
 - [[Remote Procedure Call]]
+- [[Communicating Sequential Processes]]

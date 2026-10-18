@@ -31,7 +31,7 @@ Compression is everywhere on the web. Servers compress text responses, often cut
 There is a deep link between compression and prediction: a model that predicts the next symbol well can compress well, and vice versa. Kolmogorov complexity, the length of the shortest program that produces a given output, is the ultimate measure of compressibility, but it is uncomputable, a consequence of the [[Halting Problem]].
 
 ## See also
-- [[Binary Heap]]
+- [[Information Theory]]
 - [[Time Series Database]]
 - [[Chroma Subsampling]]
 - [[Texture Mapping]]

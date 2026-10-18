@@ -29,6 +29,7 @@ Singly linked lists are also the classic [[Persistent Data Structure]]. Prependi
 Lists have hazards. A cycle, where a node points back to an earlier one, turns a traversal into an infinite loop; Floyd's tortoise-and-hare algorithm detects it with two pointers moving at different speeds. Forgetting to free removed nodes produces a [[Memory Leak]] in languages without automatic memory management.
 
 ## See also
-- [[Persistent Data Structure]]
+- [[Ring Buffer]]
 - [[Binary Heap]]
 - [[Call Stack]]
+- [[Skip List]]

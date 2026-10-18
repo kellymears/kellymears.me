@@ -18,3 +18,4 @@ The common failure is an object that has the right method name but a subtly wron
 - [[Reflection]]
 - [[Schema Validation]]
 - [[Pattern Matching]]
+- [[Dynamic Dispatch]]

@@ -28,5 +28,5 @@ In testing, randomness drives [[Property-Based Testing]] and [[Fuzzing]], and re
 
 ## See also
 - [[Reservoir Sampling]]
-- [[Determinism]]
+- [[Simulated Annealing]]
 - [[Differential Privacy]]

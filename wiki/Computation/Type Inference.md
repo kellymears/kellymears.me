@@ -20,3 +20,5 @@ The trade-off inference introduces is an error message pointing to where a const
 - [[Schema Validation]]
 - [[Static Analysis]]
 - [[Union-Find]]
+- [[Ownership and Borrowing]]
+- [[Dynamic Dispatch]]

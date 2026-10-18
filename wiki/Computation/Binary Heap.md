@@ -34,6 +34,6 @@ Heaps sit inside many algorithms and systems:
 The word "heap" also names the region of memory used for dynamic allocation. The two are unrelated; the overlap is a historical accident that confuses students every year.
 
 ## See also
-- [[Dijkstra's Algorithm]]
+- [[Self-Balancing Binary Search Tree]]
 - [[Sorting Algorithm]]
 - [[Call Stack]]

@@ -18,7 +18,7 @@ Hash tables promise no ordering. Where ranges or sorted traversal matter, a sort
 
 ## See also
 - [[Linked List]]
-- [[Big-O Notation]]
+- [[Self-Balancing Binary Search Tree]]
 - [[Least Recently Used Cache]]
 - [[Relational Database]]
 - [[Determinism]]

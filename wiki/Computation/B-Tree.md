@@ -23,3 +23,5 @@ The self-balancing part matters as much as the fan-out: an insert that overflows
 - [[Query Planner]]
 - [[Locality of Reference]]
 - [[Sorting Algorithm]]
+- [[Self-Balancing Binary Search Tree]]
+- [[Skip List]]

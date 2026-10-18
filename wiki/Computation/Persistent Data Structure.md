@@ -33,6 +33,6 @@ The same ideas appear outside programming languages. Git stores history as a per
 - [[Immutability]]
 - [[Copy-on-Write]]
 - [[Trie]]
-- [[Merkle Tree]]
+- [[Self-Balancing Binary Search Tree]]
 - [[Undo]]
 - [[Linked List]]

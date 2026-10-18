@@ -16,7 +16,7 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 ## See also
 - [[Interpreter]]
 - [[Type Inference]]
-- [[Pattern Matching]]
+- [[Ownership and Borrowing]]
 - [[Garbage Collection]]
 - [[Static Analysis]]
 - [[Differential Testing]]
@@ -26,3 +26,4 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Sanitizer]]
 - [[Abstract Syntax Tree]]
 - [[WebAssembly]]
+- [[Dynamic Dispatch]]

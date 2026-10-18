@@ -25,3 +25,5 @@ The practical upshot is that solving a slowdown requires diagnosing which one is
 - [[Graphics Processing Unit]]
 - [[MapReduce]]
 - [[Context Switch]]
+- [[Communicating Sequential Processes]]
+- [[Lock-Free Data Structure]]

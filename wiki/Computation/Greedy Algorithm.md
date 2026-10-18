@@ -29,7 +29,7 @@ The same trade-off appears in language models. *Greedy decoding* always emits th
 Outside computing, greedy choices explain a lot of [[Path Dependence]]: each locally sensible decision narrows the next, until a system is stuck somewhere nobody would have chosen from the start.
 
 ## See also
-- [[Dynamic Programming]]
+- [[Simulated Annealing]]
 - [[Divide and Conquer]]
 - [[Overfitting]]
 - [[Gradient Descent]]

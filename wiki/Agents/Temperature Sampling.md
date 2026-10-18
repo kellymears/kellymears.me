@@ -21,3 +21,5 @@ The practical rule of thumb is that temperature should track the task's toleranc
 - [[Knowledge Distillation]]
 - [[Greedy Algorithm]]
 - [[Diffusion Model]]
+- [[Simulated Annealing]]
+- [[Information Theory]]

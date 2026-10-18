@@ -33,6 +33,6 @@ LSM trees power LevelDB and its successor RocksDB, which underlie many other sys
 ## See also
 - [[B-Tree]]
 - [[Binary Heap]]
-- [[Bloom Filter]]
+- [[Skip List]]
 - [[Database Index]]
 - [[Key-Value Store]]

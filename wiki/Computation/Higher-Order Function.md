@@ -21,3 +21,4 @@ The risk is indirection outrunning its benefit — a codebase where every operat
 - [[Lambda Calculus]]
 - [[Unix Pipeline]]
 - [[MapReduce]]
+- [[Dynamic Dispatch]]

@@ -20,3 +20,5 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 - [[Pretraining]]
 - [[Differential Privacy]]
 - [[HyperLogLog]]
+- [[Skip List]]
+- [[Information Theory]]

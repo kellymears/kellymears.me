@@ -34,3 +34,4 @@ Recursive sum types describe trees: an expression is a number, *or* a sum of two
 - [[Finite State Machine]]
 - [[Type Inference]]
 - [[Null]]
+- [[Dynamic Dispatch]]

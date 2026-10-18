@@ -27,10 +27,11 @@ NP-completeness is a statement about worst cases, not a ban on solving real inst
 Small changes can cross the line. Finding the shortest path in a graph is easy, solved by [[Dijkstra's Algorithm]], while finding the longest simple path is NP-hard. Matching text against a [[Regular Expression]] is fast, but adding backreferences makes it NP-complete.
 
 ## See also
-- [[Big-O Notation]]
+- [[Stable Matching]]
 - [[Halting Problem]]
 - [[Public-Key Cryptography]]
 - [[Dynamic Programming]]
 - [[Graph Traversal]]
 - [[Greedy Algorithm]]
 - [[Backtracking]]
+- [[Simulated Annealing]]

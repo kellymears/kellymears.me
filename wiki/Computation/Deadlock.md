@@ -35,5 +35,6 @@ Deadlocks, like a [[Race Condition]], depend on timing and are hard to reproduce
 
 ## See also
 - [[Concurrency and Parallelism]]
-- [[Pessimistic Locking]]
+- [[Communicating Sequential Processes]]
 - [[Actor Model]]
+- [[Lock-Free Data Structure]]

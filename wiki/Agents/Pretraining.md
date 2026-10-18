@@ -31,7 +31,7 @@ Open questions surround the data itself. Models can memorize and reproduce passa
 Earlier n-gram models, essentially a [[Markov Chain]] over words, predicted the next word too, from far less context.
 
 ## See also
-- [[Scaling Laws]]
+- [[Information Theory]]
 - [[Fine-Tuning]]
 - [[Gradient Descent]]
 - [[Benchmark Contamination]]

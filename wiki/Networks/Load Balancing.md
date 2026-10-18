@@ -16,7 +16,7 @@ Layer 4 balancers work at the TCP/UDP level and just forward packets, cheap and 
 ## See also
 - [[Circuit Breaker]]
 - [[API Gateway]]
-- [[Content Delivery Network]]
+- [[Stable Matching]]
 - [[Anycast]]
 - [[Rate Limiting]]
 - [[Consistent Hashing]]
