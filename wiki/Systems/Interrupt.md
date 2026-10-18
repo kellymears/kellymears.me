@@ -32,7 +32,7 @@ Interrupt placement also affects latency. Which core handles a device's interrup
 A [[Unix Signal]] is the user-space analog, an asynchronous notification delivered to a process.
 
 ## See also
-- [[Unix Signal]]
+- [[Translation Lookaside Buffer]]
 - [[Event Loop]]
 - [[Context Switch]]
 - [[Watchdog Timer]]

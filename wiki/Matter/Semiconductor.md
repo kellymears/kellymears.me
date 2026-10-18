@@ -30,4 +30,4 @@ Semiconductor devices obey the same basic physics as other circuits, including [
 - [[Fluorescence]]
 - [[Color Temperature]]
 - [[Lithium-Ion Battery]]
-- [[Color Rendering Index]]
+- [[Solid-State Drive]]

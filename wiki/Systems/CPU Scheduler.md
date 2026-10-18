@@ -27,7 +27,7 @@ The general principle is the one behind every [[Event Loop]]: whoever holds the 
 - [[Interrupt]]
 - [[Concurrency and Parallelism]]
 - [[Context Switch]]
-- [[Event Loop]]
+- [[Simultaneous Multithreading]]
 - [[Resource Starvation]]
 - [[Pressure Stall Information]]
 - [[Race Condition]]

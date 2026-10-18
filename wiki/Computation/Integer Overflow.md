@@ -32,3 +32,4 @@ Defenses include using wide enough types, checked arithmetic that reports overfl
 - [[Silent Failure]]
 - [[Binary Search]]
 - [[Sanitizer]]
+- [[Memory Safety]]

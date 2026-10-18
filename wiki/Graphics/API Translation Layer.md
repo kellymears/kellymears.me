@@ -23,7 +23,7 @@ Translation layers are also a [[Game Preservation]] mechanism: a game that runs 
 
 ## See also
 - [[Emulation]]
-- [[Hyrum's Law]]
+- [[Application Binary Interface]]
 - [[Compiler]]
 - [[Interpreter]]
 - [[Display Server]]

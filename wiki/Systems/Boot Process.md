@@ -30,3 +30,4 @@ Every stage is a place to break. A corrupt bootloader configuration stops the ma
 - [[Kernel]]
 - [[Systemd]]
 - [[Immutable Infrastructure]]
+- [[Full-Disk Encryption]]

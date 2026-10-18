@@ -39,3 +39,4 @@ Descriptors also carry security meaning. Holding an open descriptor is itself a 
 - [[Inode]]
 - [[Shell]]
 - [[Pseudoterminal]]
+- [[IO Multiplexing]]

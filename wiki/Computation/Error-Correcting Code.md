@@ -34,3 +34,4 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 - [[Journaling File System]]
 - [[Byzantine Fault Tolerance]]
 - [[Information Theory]]
+- [[Solid-State Drive]]

@@ -19,12 +19,12 @@ Computer hardware is built around this tendency. Main memory is slow compared wi
 
 Caches move data in fixed blocks called **cache lines**, usually 64 bytes. Reading one byte brings its 63 neighbors along. That's where spatial locality pays off: walking through an array in order uses every byte of each line fetched, and hardware *prefetchers* detect the pattern and fetch upcoming lines in advance.
 
-The effect on performance can be dramatic:
+The performance effect can be dramatic:
 
 - **Arrays beat linked lists.** A linked list's nodes are scattered across memory, so each step is likely a cache miss. Traversing an array of the same items can be many times faster, even though both are O(n) in [[Big-O Notation]].
 - **Layout matters.** Storing each field of many objects in its own array, instead of an array of whole objects, keeps a loop that needs one field from loading the others. This is the idea behind [[Columnar Storage]] in databases and data-oriented design in game engines.
 
-Locality also shapes data structures. A [[B-Tree]] packs many keys into each node so one fetch from disk or memory brings many useful comparisons. Some sorts that look equally fast on paper differ in practice because one moves through memory in order and another jumps around; see [[Sorting Algorithm]].
+Locality also shapes data structures. A [[B-Tree]] packs many keys into each node so one fetch from disk or memory brings many useful comparisons. Some sorts that look equally fast on paper differ because one moves through memory in order and another jumps around; see [[Sorting Algorithm]].
 
 The same principle repeats at every level of the memory hierarchy. [[Virtual Memory]] keeps recently used pages in RAM and moves others to [[Swap]], and performance collapses when a program's working set no longer fits.
 
@@ -35,5 +35,5 @@ Multicore processors add a trap called **false sharing**. When two threads write
 - [[Ring Buffer]]
 - [[Lock-Free Data Structure]]
 - [[Profiling]]
-- [[MapReduce]]
+- [[Translation Lookaside Buffer]]
 - [[Linked List]]

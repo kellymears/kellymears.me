@@ -32,6 +32,6 @@ Wasm does not replace JavaScript. It joins it as a second target, and a [[Bundle
 
 ## See also
 - [[eBPF]]
-- [[Compiler]]
+- [[Instruction Set Architecture]]
 - [[Emulation]]
 - [[WebGPU]]

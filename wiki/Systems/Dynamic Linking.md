@@ -29,7 +29,7 @@ The pendulum has swung partly back toward static linking. Go and Rust produce mo
 The choice mirrors the trade-off in [[Vendoring]] source code: bundle dependencies for predictability, or share them for easier updates. Projects that need builds to come out identical everywhere, as with a [[Reproducible Build]], often prefer to control every library explicitly.
 
 ## See also
-- [[Dependency Hell]]
+- [[Application Binary Interface]]
 - [[Package Manager]]
 - [[Containerization]]
 - [[Vendoring]]

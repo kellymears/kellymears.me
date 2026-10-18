@@ -19,7 +19,7 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 
 ## See also
 - [[Tile Map]]
-- [[Determinism]]
+- [[Instruction Set Architecture]]
 - [[Datamining]]
 - [[Color Quantization]]
 - [[Right to Repair]]

@@ -33,3 +33,4 @@ Three practical notes.
 - [[Ground Truth]]
 - [[Backup and Restore]]
 - [[Twelve-Factor App]]
+- [[Full-Disk Encryption]]

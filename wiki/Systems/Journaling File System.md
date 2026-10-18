@@ -33,5 +33,5 @@ Neither design protects against everything. A journal guarantees consistency, no
 ## See also
 - [[Error-Correcting Code]]
 - [[Copy-on-Write]]
-- [[Filesystem Snapshot]]
+- [[Solid-State Drive]]
 - [[Inode]]

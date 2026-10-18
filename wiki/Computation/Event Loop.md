@@ -23,7 +23,7 @@ The event loop is one specific answer to the concurrency-without-threads problem
 - [[Coroutine]]
 - [[System Call]]
 - [[Event Delegation]]
-- [[Binary Heap]]
+- [[IO Multiplexing]]
 - [[Call Stack]]
 - [[Interrupt]]
 - [[Context Switch]]

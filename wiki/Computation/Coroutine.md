@@ -27,7 +27,7 @@ Under the hood, compilers usually turn each coroutine into a [[Finite State Mach
 Coroutines also underpin streaming. A generator that yields chunks as they're produced is a natural way to build a [[Streaming Response]], and pausing until a consumer is ready provides [[Backpressure]] for free.
 
 ## See also
-- [[Event Loop]]
+- [[IO Multiplexing]]
 - [[Communicating Sequential Processes]]
 - [[Lazy Evaluation]]
 - [[Closure]]

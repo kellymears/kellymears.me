@@ -30,3 +30,4 @@ Load averages remain useful as a quick smoke alarm. A glance at `uptime` when a 
 - [[CPU Scheduler]]
 - [[Observability]]
 - [[Thermal Throttling]]
+- [[Simultaneous Multithreading]]

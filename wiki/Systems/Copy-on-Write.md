@@ -22,3 +22,4 @@ The trade copy-on-write makes is complexity for cost: tracking which pages or bl
 - [[Reference Counting]]
 - [[Persistent Data Structure]]
 - [[Journaling File System]]
+- [[Solid-State Drive]]

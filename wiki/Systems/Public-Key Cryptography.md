@@ -25,7 +25,7 @@ The weak point is binding a public key to an identity. A public key proves only 
 
 ## See also
 - [[Commit Signing]]
-- [[Certificate Authority]]
+- [[Full-Disk Encryption]]
 - [[Code Signing]]
 - [[Secret Management]]
 - [[Zero Trust Network]]
