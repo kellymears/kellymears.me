@@ -18,6 +18,6 @@ Abolishing daylight saving would end future transitions but not the problem: his
 - [[Unix Time]]
 - [[Falsehoods Programmers Believe]]
 - [[Monotonic Clock]]
-- [[Inertial Frame of Reference]]
+- [[Real-Time Clock]]
 - [[Chronotype]]
 - [[Jet Lag]]

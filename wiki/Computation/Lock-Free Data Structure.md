@@ -29,5 +29,5 @@ Lock-free is not automatically faster. Under heavy contention, threads waste eff
 ## See also
 - [[Semaphore]]
 - [[Software Transactional Memory]]
-- [[Memory Model]]
+- [[Spinlock]]
 - [[Communicating Sequential Processes]]

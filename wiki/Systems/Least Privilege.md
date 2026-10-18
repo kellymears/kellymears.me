@@ -27,7 +27,7 @@ The principle is stated easily and applied poorly, because broad permissions are
 - [[Model Context Protocol]]
 - [[Row-Level Security]]
 - [[File Permissions]]
-- [[System Call]]
+- [[Time-of-Check to Time-of-Use]]
 
 ## Related
 - [[Secrets Management]]

@@ -15,7 +15,7 @@ The usual exhibit for the strong version is the Phoebus cartel: manufacturers of
 - [[Right to Repair]]
 - [[Power Creep]]
 - [[Moore's Law]]
-- [[Survivorship Bias]]
+- [[Firmware]]
 - [[Exhaustive Claim]]
 - [[Electromigration]]
 

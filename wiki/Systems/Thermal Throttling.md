@@ -30,7 +30,7 @@ Heat is also the main accelerator of chip wear such as [[Electromigration]], so 
 - [[Moore's Law]]
 - [[Silicon Binning]]
 - [[Microcode]]
-- [[Conservation of Energy]]
+- [[Suspend and Hibernation]]
 - [[Pressure Stall Information]]
 - [[Thermal Expansion]]
 - [[Carryover Cooking]]

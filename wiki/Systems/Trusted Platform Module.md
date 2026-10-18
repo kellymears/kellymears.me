@@ -27,7 +27,7 @@ TPMs are a simple, cheap kind of hardware security module. Larger ones protect t
 
 ## See also
 - [[Microcode]]
-- [[Supply Chain Security]]
+- [[Firmware]]
 - [[Passkey]]
 - [[Near-Field Communication]]
 - [[Anti-Cheat]]

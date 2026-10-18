@@ -22,3 +22,4 @@ The isolation a hypervisor provides is stronger than a container's, because each
 - [[Speculative Execution]]
 - [[Translation Lookaside Buffer]]
 - [[Serverless Computing]]
+- [[Spinlock]]

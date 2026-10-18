@@ -25,7 +25,7 @@ Testing this requires a machine other than the one that built it, since a local 
 ## Related
 - [[Secret Management]]
 - [[Prompt Injection]]
-- [[Observability]]
+- [[Firmware]]
 - [[Anti-Cheat]]
 - [[Cron]]
 - [[Reproducible Build]]

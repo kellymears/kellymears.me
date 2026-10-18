@@ -27,6 +27,6 @@ Related effects form a family. **Pyroelectric** crystals produce a voltage when 
 
 ## See also
 - [[Semiconductor]]
-- [[Simple Harmonic Motion]]
+- [[Real-Time Clock]]
 - [[Watchdog Timer]]
 - [[Haptic Feedback]]

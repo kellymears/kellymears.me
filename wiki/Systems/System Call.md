@@ -28,6 +28,6 @@ System calls are also a natural place to observe and restrict programs. `strace`
 
 ## See also
 - [[Network Socket]]
-- [[Interrupt]]
+- [[Time-of-Check to Time-of-Use]]
 - [[Seccomp]]
 - [[eBPF]]

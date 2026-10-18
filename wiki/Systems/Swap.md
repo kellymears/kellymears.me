@@ -18,9 +18,9 @@ Compressed swap changes the economics. **zram** creates a block device in RAM th
 Swap usage is a symptom that needs context. A large amount sitting in swap and rarely touched is healthy, since it is memory nothing needs. Swap traffic, pages moving in and out continuously, is the problem, because it means the working set no longer fits. On a long-running machine, swap and compressed swap fill gradually with the cold remains of programs that [[Memory Leak|leaked]] or were never closed, which is a reason "it got slow after a week" so often goes away after a reboot. [[Pressure Stall Information]] measures the distinction directly, where raw usage figures can't.
 
 ## See also
-- [[Virtual Memory]]
+- [[Suspend and Hibernation]]
 - [[Out-of-Memory Killer]]
-- [[Pressure Stall Information]]
+- [[Disk Partition]]
 - [[Memory Leak]]
 - [[Least Recently Used Cache]]
 - [[Resource Starvation]]

@@ -32,5 +32,5 @@ Signals also explain some confusing behavior. In a container, the main process r
 ## See also
 - [[Zombie Process]]
 - [[Job Control]]
-- [[Interrupt]]
+- [[Inter-Process Communication]]
 - [[Exit Status]]

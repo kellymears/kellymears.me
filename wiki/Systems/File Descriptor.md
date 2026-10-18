@@ -34,7 +34,7 @@ Descriptors are a limited resource. Each process has a cap, often 1,024 by defau
 Descriptors also carry security meaning. Holding an open descriptor is itself a permission: a process can pass one to another over a Unix socket, granting access to a file the receiver couldn't open itself. Capability-based systems build on this idea to apply [[Least Privilege]] more precisely than path-based [[File Permissions]].
 
 ## See also
-- [[Network Socket]]
+- [[Device File]]
 - [[Hard Link]]
 - [[Filesystem]]
 - [[Typestate]]

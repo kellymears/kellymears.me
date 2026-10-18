@@ -32,4 +32,4 @@ Defenses include using wide enough types, checked arithmetic that reports overfl
 - [[Endianness]]
 - [[Decimal Arithmetic]]
 - [[Abstract Interpretation]]
-- [[Memory Safety]]
+- [[Disk Partition]]

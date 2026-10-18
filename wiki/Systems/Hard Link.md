@@ -30,3 +30,4 @@ The cost of sharing is the usual one: a change through one name affects all of t
 - [[Glob]]
 - [[Journaling File System]]
 - [[Page Cache]]
+- [[Atomic File Write]]

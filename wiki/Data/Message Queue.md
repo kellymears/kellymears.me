@@ -17,7 +17,7 @@ Queues come with delivery guarantees that matter more than they first appear to.
 - [[MQTT]]
 - [[Serialization]]
 - [[Dead Letter Queue]]
-- [[Backpressure]]
+- [[Inter-Process Communication]]
 - [[Durable Execution]]
 - [[Transactional Outbox]]
 - [[Saga Pattern]]

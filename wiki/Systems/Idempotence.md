@@ -21,7 +21,7 @@ The corresponding design work is usually to make the operation *express the desi
 - [[Relational Database]]
 - [[Hedged Requests]]
 - [[Conflict-Free Replicated Data Type]]
-- [[Eventual Consistency]]
+- [[Atomic File Write]]
 - [[Durable Execution]]
 - [[Universally Unique Identifier]]
 - [[Transactional Outbox]]

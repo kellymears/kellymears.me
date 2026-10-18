@@ -28,6 +28,6 @@ Ports are finite resources. A busy client making many short-lived connections ca
 ## See also
 - [[Remote Procedure Call]]
 - [[WebSocket]]
-- [[Firewall]]
+- [[Inter-Process Communication]]
 - [[Typestate]]
 - [[Internet Relay Chat]]

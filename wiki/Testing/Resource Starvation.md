@@ -28,3 +28,4 @@ Responses that work: serialize rather than parallelize the contended step, give 
 ## Related
 - [[Vacuous Truth]]
 - [[Subagent]]
+- [[Spinlock]]

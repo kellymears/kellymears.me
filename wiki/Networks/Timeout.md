@@ -27,4 +27,4 @@ Timeouts appear at every layer. TCP retransmits lost packets on a timer it adjus
 
 ## See also
 - [[Load Shedding]]
-- [[Monotonic Clock]]
+- [[Suspend and Hibernation]]

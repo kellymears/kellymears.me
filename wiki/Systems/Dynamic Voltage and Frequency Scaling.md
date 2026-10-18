@@ -31,3 +31,4 @@ DVFS can also be a source of instability. A chip that needs more voltage than th
 - [[Performance Budget]]
 - [[Ohm's Law]]
 - [[Microcode]]
+- [[Suspend and Hibernation]]

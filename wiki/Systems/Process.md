@@ -22,7 +22,7 @@ Diagnosing contention needs per-process detail rather than an aggregate load fig
 - [[Shell]]
 - [[Daemon]]
 - [[Port]]
-- [[Observability]]
+- [[Inter-Process Communication]]
 - [[Connection Pool]]
 - [[System Call]]
 - [[Unix Signal]]

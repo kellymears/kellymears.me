@@ -29,3 +29,4 @@ Package manifests belong here too: a declarative list of installed software make
 - [[Secret Management]]
 - [[Containerization]]
 - [[Configuration Management]]
+- [[Atomic File Write]]

@@ -35,7 +35,7 @@ Correct time matters in more places than expected:
 ## See also
 - [[Monotonic Clock]]
 - [[Timeout]]
-- [[Time Zone]]
+- [[Real-Time Clock]]
 - [[Falsehoods Programmers Believe]]
 - [[Global Positioning System]]
 - [[Unix Time]]

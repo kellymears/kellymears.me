@@ -25,3 +25,4 @@ Akka (JVM), Erlang/OTP, and Orleans (.NET) are the systems most associated with 
 - [[Object-Oriented Programming]]
 - [[Memory Model]]
 - [[Software Transactional Memory]]
+- [[Inter-Process Communication]]

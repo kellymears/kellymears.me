@@ -34,4 +34,4 @@ Neither design protects against everything. A journal guarantees consistency, no
 - [[Error-Correcting Code]]
 - [[RAID]]
 - [[Solid-State Drive]]
-- [[Inode]]
+- [[Disk Partition]]

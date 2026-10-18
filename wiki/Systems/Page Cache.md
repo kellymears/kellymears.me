@@ -25,9 +25,9 @@ Programs can also map a file directly into their address space with **mmap**. Re
 The page cache is a cache like any other: it relies on [[Locality of Reference]], and some databases bypass it with direct I/O to manage memory themselves.
 
 ## See also
-- [[Virtual Memory]]
+- [[Device File]]
 - [[Swap]]
-- [[Write-Ahead Logging]]
+- [[Atomic File Write]]
 - [[Filesystem]]
 - [[Solid-State Drive]]
 - [[Translation Lookaside Buffer]]

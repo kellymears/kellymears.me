@@ -29,7 +29,7 @@ TLS encrypts content but not everything. The server's IP address is visible, and
 ## See also
 - [[HTTP Compression]]
 - [[Man-in-the-Middle Attack]]
-- [[QUIC]]
+- [[Real-Time Clock]]
 - [[HTTP2 and HTTP3]]
 - [[HTTP Strict Transport Security]]
 - [[Mutual TLS]]

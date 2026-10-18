@@ -29,7 +29,7 @@ Three practical notes.
 - [[Secure Shell]]
 
 ## Related
-- [[Observability]]
+- [[Overlay Filesystem]]
 - [[Dependency Confusion]]
 - [[Backup and Restore]]
 - [[Twelve-Factor App]]

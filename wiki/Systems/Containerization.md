@@ -16,7 +16,7 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 
 ## See also
 - [[Twelve-Factor App]]
-- [[Environment Variable]]
+- [[Overlay Filesystem]]
 - [[Zombie Process]]
 - [[Continuous Deployment]]
 - [[Dynamic Linking]]

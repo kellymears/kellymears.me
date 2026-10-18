@@ -24,7 +24,7 @@ Two notes for shared working copies. Stage by explicit path — a bulk add captu
 - [[Provenance]]
 - [[Version Control]]
 - [[Pull Request]]
-- [[Plausible Mechanism]]
+- [[Atomic File Write]]
 - [[Git Bisect]]
 - [[Git Blame]]
 - [[Fast-Forward Merge]]

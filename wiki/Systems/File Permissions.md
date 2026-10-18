@@ -30,6 +30,6 @@ Permissions cause everyday errors. A private SSH key readable by others is refus
 ## See also
 - [[Filesystem]]
 - [[Inode]]
-- [[Linux Capabilities]]
+- [[Device File]]
 - [[Kernel]]
 - [[Superuser]]

@@ -21,3 +21,5 @@ A snapshot is not a [[Backup and Restore|backup]] by itself, even though it's of
 - [[Boot Process]]
 - [[RAID]]
 - [[Filesystem]]
+- [[Disk Partition]]
+- [[Overlay Filesystem]]

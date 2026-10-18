@@ -32,3 +32,4 @@ Unattended unlocking adds trade-offs. A Trusted Platform Module can release the 
 - [[Secret Management]]
 - [[Hash Function]]
 - [[Trusted Platform Module]]
+- [[Disk Partition]]

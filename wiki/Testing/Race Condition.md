@@ -14,7 +14,7 @@ Concurrent *processes* race in the same way over shared resources: two test runs
 The general remedies are to remove the shared resource (separate working copies, unique filenames), to make the ordering explicit (wait on an observable condition, not a duration), or to make the operation idempotent so order stops mattering. See [[Idempotence]].
 
 ## See also
-- [[Flaky Test]]
+- [[Time-of-Check to Time-of-Use]]
 - [[Multi-Agent Orchestration]]
 - [[Git Worktree]]
 - [[Semaphore]]

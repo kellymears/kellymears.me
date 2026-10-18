@@ -14,7 +14,7 @@ Legislative movement has been real: several jurisdictions now require manufactur
 ## See also
 - [[Planned Obsolescence]]
 - [[Public Domain]]
-- [[Rent-Seeking]]
+- [[Firmware]]
 - [[Externality]]
 - [[Regulatory Capture]]
 
