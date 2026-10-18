@@ -20,3 +20,5 @@ The operational cost is that every denormalized copy is now a piece of data that
 - [[N+1 Query Problem]]
 - [[Columnar Storage]]
 - [[SQL Join]]
+- [[Document Database]]
+- [[Dimensional Modeling]]

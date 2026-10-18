@@ -27,3 +27,4 @@ The same idea, at web scale, was the basis of link-based search ranking: a page'
 - [[Information Architecture]]
 - [[Core Web Vitals]]
 - [[Agent Memory]]
+- [[Link Rot]]

@@ -32,7 +32,7 @@ Distributed systems use a related idea under the name *tombstone*: a marker that
 - [[Event Sourcing]]
 - [[Database Index]]
 - [[Undo]]
-- [[Draft and Published]]
+- [[Personal Data]]
 - [[Immutability]]
 - [[Rollback]]
 - [[Foreign Key]]

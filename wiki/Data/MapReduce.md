@@ -27,5 +27,5 @@ The model's ideas outlived the system. Partitioning by key, as in [[Database Sha
 
 ## See also
 - [[Concurrency and Parallelism]]
-- [[Stream Processing]]
+- [[Data Lake]]
 - [[Divide and Conquer]]

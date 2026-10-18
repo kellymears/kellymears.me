@@ -24,7 +24,7 @@ The difficulty is the familiar one of [[Cache Invalidation]], since a materializ
 
 ## See also
 - [[Denormalization]]
-- [[Change Data Capture]]
+- [[Dimensional Modeling]]
 - [[Event Sourcing]]
 - [[Cache Invalidation]]
 - [[Eventual Consistency]]

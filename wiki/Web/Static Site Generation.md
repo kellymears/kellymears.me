@@ -28,3 +28,4 @@ For a page whose content is genuinely fixed, static generation dominates on ever
 - [[React Server Components]]
 - [[Search Engine Optimization]]
 - [[Baked Lighting]]
+- [[Link Rot]]

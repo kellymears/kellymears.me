@@ -22,3 +22,5 @@ The partitioning key is the single decision the whole design hangs on, and it's 
 - [[Foreign Key]]
 - [[MapReduce]]
 - [[Key-Value Store]]
+- [[Graph Database]]
+- [[Document Database]]

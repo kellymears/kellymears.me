@@ -18,3 +18,4 @@ The same instinct applies one level up. When a fix introduces a [[Regression]], 
 - [[Reproducible Case]]
 - [[Silent Failure]]
 - [[Plausible Mechanism]]
+- [[Data Lineage]]

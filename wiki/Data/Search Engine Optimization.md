@@ -26,3 +26,4 @@ It is worth being clear about the incentive structure. Search optimization is an
 ## Related
 - [[Knowledge Graph]]
 - [[Islands Architecture]]
+- [[Link Rot]]

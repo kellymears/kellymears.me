@@ -38,4 +38,4 @@ Joins are also why some systems avoid them. Across shards, matching rows live on
 
 ## See also
 - [[Foreign Key]]
-- [[N+1 Query Problem]]
+- [[Graph Database]]

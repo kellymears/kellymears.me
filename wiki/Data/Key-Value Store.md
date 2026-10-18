@@ -33,4 +33,4 @@ Typical uses:
 A common failure is the **hot key**: one celebrity's profile or one global counter sends all its traffic to one partition, no matter how many machines the cluster has.
 
 ## See also
-- [[Eventual Consistency]]
+- [[Document Database]]

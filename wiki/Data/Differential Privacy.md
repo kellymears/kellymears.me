@@ -38,3 +38,4 @@ Machine learning faces the same risk: models can memorize training examples, and
 - [[Pseudorandom Number Generator]]
 - [[Least Privilege]]
 - [[Bloom Filter]]
+- [[Personal Data]]

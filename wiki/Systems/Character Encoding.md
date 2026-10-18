@@ -17,7 +17,7 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 ## See also
 - [[Token]]
 - [[Shell]]
-- [[Terminal User Interface]]
+- [[CSV]]
 - [[Silent Failure]]
 - [[Boundary Value Analysis]]
 - [[Font Rendering]]

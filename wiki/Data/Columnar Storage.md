@@ -33,3 +33,4 @@ Data usually reaches a warehouse from transactional databases through [[Change D
 - [[ETL Pipeline]]
 - [[Locality of Reference]]
 - [[Data Compression]]
+- [[Data Lake]]

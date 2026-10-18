@@ -20,7 +20,7 @@ Physical documents solved the adjacent problem — proving a record was not alte
 - [[Version Control]]
 - [[Commit]]
 - [[Documentation Rot]]
-- [[Fingerprint]]
+- [[Data Lineage]]
 - [[Code Review]]
 - [[Code Comment]]
 
