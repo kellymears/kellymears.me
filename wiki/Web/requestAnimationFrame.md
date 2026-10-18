@@ -21,7 +21,7 @@ rAF is the browser's version of the game loop, and the [[Event Loop]] runs it at
 
 ## See also
 - [[Layout Thrashing]]
-- [[Background Tab Throttling]]
+- [[Game Loop]]
 - [[Event Loop]]
 - [[Motion Design]]
 - [[Easing]]

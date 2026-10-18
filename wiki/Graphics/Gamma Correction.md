@@ -24,7 +24,7 @@ GPUs handle sRGB textures and framebuffers in hardware, converting to linear on 
 
 ## See also
 - [[Color Gamut]]
-- [[High Dynamic Range]]
+- [[Linear Interpolation]]
 - [[Tone Mapping]]
 - [[OKLCH]]
 - [[Color Scale]]

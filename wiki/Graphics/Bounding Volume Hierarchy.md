@@ -26,6 +26,7 @@ BVHs serve far beyond ray tracing. [[Culling]] uses them to reject whole regions
 - [[Culling]]
 - [[B-Tree]]
 - [[Binary Search]]
-- [[Hitbox and Hurtbox]]
+- [[Collision Detection]]
 - [[Big-O Notation]]
 - [[Signed Distance Field]]
+- [[Spatial Partitioning]]

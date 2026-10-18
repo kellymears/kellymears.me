@@ -30,3 +30,4 @@ Related curves handle cases Béziers handle poorly. B-splines and NURBS, used in
 - [[Rasterization]]
 - [[Motion Design]]
 - [[Font Rendering]]
+- [[Linear Interpolation]]

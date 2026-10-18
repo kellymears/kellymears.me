@@ -22,7 +22,7 @@ HDR also changes how UI is designed. Interface elements need a fixed paper-white
 
 ## See also
 - [[Tone Mapping]]
-- [[Physically Based Rendering]]
+- [[Image-Based Lighting]]
 - [[OKLCH]]
 - [[Shader]]
 - [[Dark Mode]]

@@ -18,3 +18,5 @@ Rollback depends entirely on [[Determinism]]: the resimulation only produces the
 - [[Matchmaking Rating]]
 - [[Latency and Jitter]]
 - [[Peer-to-Peer]]
+- [[Game Loop]]
+- [[Input Latency]]

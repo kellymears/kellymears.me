@@ -28,6 +28,6 @@ Rendering engines model refraction to draw water, glass, and gems. [[Ray Tracing
 ## See also
 - [[Dispersion]]
 - [[Diffraction]]
-- [[Ray Tracing]]
+- [[Fresnel Effect]]
 - [[Rayleigh Scattering]]
 - [[Myopia]]

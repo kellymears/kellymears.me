@@ -26,7 +26,7 @@ Perlin introduced *simplex noise* in 2001, which uses triangles instead of squar
 Noise is one of several procedural building blocks. An [[L-System]] grows branching plants by rewriting rules, a [[Cellular Automaton]] evolves cave-like patterns from local neighbors, and a [[Signed Distance Field]] describes shapes that noise can then roughen. Perlin noise is the opposite of the uniform, uncorrelated noise used in [[Dithering]], whose job is to be invisible.
 
 ## See also
-- [[Procedural Generation]]
+- [[Voronoi Diagram]]
 - [[Seeded Randomness]]
 - [[Voxel]]
 - [[Shader]]

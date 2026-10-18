@@ -29,3 +29,4 @@ The idea is the graphics version of a general trade: precompute what doesn't cha
 - [[Ray Tracing]]
 - [[Physically Based Rendering]]
 - [[Memoization]]
+- [[Image-Based Lighting]]

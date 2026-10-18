@@ -18,3 +18,4 @@ The metadata-filtering problem is where most real deployments spend their engine
 - [[Context Window]]
 - [[Token Budget]]
 - [[Inverted Index]]
+- [[Spatial Partitioning]]

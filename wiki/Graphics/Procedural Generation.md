@@ -18,7 +18,7 @@ Two structural concerns recur.
 Determinism also enables *incremental* generation: extending a world without regenerating what already exists requires that the same inputs always produce the same region.
 
 ## See also
-- [[Seeded Randomness]]
+- [[Voronoi Diagram]]
 - [[L-System]]
 - [[Determinism]]
 - [[Voxel]]

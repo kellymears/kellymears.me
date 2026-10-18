@@ -31,3 +31,4 @@ Desktop environments face the same problem. A [[Compositor]] that assembles ever
 - [[Rasterization]]
 - [[Frame Generation]]
 - [[Race Condition]]
+- [[Input Latency]]

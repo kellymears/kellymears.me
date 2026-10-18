@@ -17,7 +17,7 @@ Field data (real visitors) and lab data (a synthetic run) frequently disagree, a
 
 ## See also
 - [[Performance Budget]]
-- [[Critical Rendering Path]]
+- [[Input Latency]]
 - [[Web Font Loading]]
 - [[Search Engine Optimization]]
 - [[Lazy Loading]]

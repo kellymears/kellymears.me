@@ -28,3 +28,5 @@ The aesthetic dimension is separable from the technical one. Voxel art is a deli
 - [[Reproducible Case]]
 - [[Game AI]]
 - [[Perlin Noise]]
+- [[Spatial Partitioning]]
+- [[Gaussian Splatting]]

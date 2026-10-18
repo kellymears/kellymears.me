@@ -18,7 +18,7 @@ Knowing a matchup's numbers changes how it is played: a habitually minus move ge
 - [[Determinism]]
 - [[Invincibility Frames]]
 - [[Poise]]
-- [[Parry and Riposte]]
+- [[Input Latency]]
 - [[Metagame]]
 - [[Rollback Netcode]]
 - [[Skeletal Animation]]
