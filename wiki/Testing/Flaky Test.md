@@ -26,6 +26,8 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 - [[Bundler]]
 - [[Instrumentation]]
 - [[Regression]]
+- [[Test Isolation]]
+- [[End-to-End Test]]
 
 ## Related
 - [[Ground Truth]]

@@ -18,3 +18,4 @@ It's a close cousin of [[Backpressure]], but the direction of control is differe
 - [[API Gateway]]
 - [[Circuit Breaker]]
 - [[Load Balancing]]
+- [[Load Testing]]

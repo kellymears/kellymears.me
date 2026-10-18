@@ -20,6 +20,8 @@ Two habits keep repros honest. Write the reproduction *before* the fix, so you h
 - [[Race Condition]]
 - [[Regression]]
 - [[Observability]]
+- [[Fuzzing]]
+- [[Exploratory Testing]]
 
 ## Related
 - [[Vacuous Truth]]

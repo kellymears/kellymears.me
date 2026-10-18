@@ -16,6 +16,8 @@ The practical cost is why mutation testing isn't run on every commit the way cov
 - [[Branch Coverage]]
 - [[Coverage Gate]]
 - [[Unit Test]]
+- [[Fuzzing]]
+- [[Test Pyramid]]
 
 ## Related
 - [[Assertion]]

@@ -19,3 +19,4 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Progressive Disclosure]]
 - [[Accessibility]]
 - [[Compulsion Loop]]
+- [[AB Testing]]

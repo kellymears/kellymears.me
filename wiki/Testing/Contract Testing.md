@@ -18,3 +18,5 @@ Consumer-driven contract testing (the flavor Pact popularized) inverts the usual
 - [[Test Double]]
 - [[Snapshot Testing]]
 - [[Schema Drift]]
+- [[End-to-End Test]]
+- [[Test Pyramid]]

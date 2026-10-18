@@ -22,6 +22,7 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 - [[Root Cause Analysis]]
 - [[Cron]]
 - [[Fail Fast]]
+- [[Chaos Engineering]]
 
 ## Related
 - [[Daemon]]

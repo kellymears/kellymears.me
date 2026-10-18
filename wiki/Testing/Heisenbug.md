@@ -19,3 +19,4 @@ The fault is still [[Nondeterminism]] in the ordinary sense — the same input d
 - [[Determinism]]
 - [[Reproducible Case]]
 - [[Dynamic Voltage and Frequency Scaling]]
+- [[Test Isolation]]

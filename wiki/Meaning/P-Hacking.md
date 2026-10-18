@@ -17,3 +17,4 @@ The standard defenses are structural, matching the mechanism directly: preregist
 - [[Selection Bias]]
 - [[Placebo Effect]]
 - [[Availability Cascade]]
+- [[AB Testing]]

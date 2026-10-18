@@ -21,6 +21,7 @@ Two limits are worth knowing in advance. Synthetic events are not real user inpu
 - [[Responsive Breakpoint]]
 - [[Integration Test]]
 - [[requestAnimationFrame]]
+- [[End-to-End Test]]
 
 ## Related
 - [[Unit Test]]

@@ -19,3 +19,4 @@ The failure mode of *not* modeling something explicitly as a state machine is sc
 - [[Regular Expression]]
 - [[Actor Model]]
 - [[Determinism]]
+- [[Exploratory Testing]]

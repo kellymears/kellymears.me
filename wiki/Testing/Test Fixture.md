@@ -19,6 +19,7 @@ Two further notes. Fixtures should be *local and deterministic* where the assert
 - [[Visual Regression Testing]]
 - [[Record and Replay Testing]]
 - [[Integration Test]]
+- [[Test Isolation]]
 
 ## Related
 - [[Unit Test]]

@@ -23,6 +23,7 @@ Budgets should also be revisable with reasoning attached. A deliberate, understo
 - [[Web Font Loading]]
 - [[Islands Architecture]]
 - [[Spoon Theory]]
+- [[Benchmarking]]
 
 ## Related
 - [[Server-Side Rendering]]

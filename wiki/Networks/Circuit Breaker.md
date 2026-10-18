@@ -18,3 +18,5 @@ Circuit breakers are usually scoped per dependency, not globally — a failing p
 - [[Rate Limiting]]
 - [[Load Balancing]]
 - [[Race Condition]]
+- [[Chaos Engineering]]
+- [[Load Testing]]

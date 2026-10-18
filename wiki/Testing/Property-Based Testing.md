@@ -17,3 +17,5 @@ The hard part is the one the technique's name is honest about: finding a propert
 - [[Assertion]]
 - [[Mutation Testing]]
 - [[Test Fixture]]
+- [[Fuzzing]]
+- [[Exploratory Testing]]

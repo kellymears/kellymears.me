@@ -19,6 +19,8 @@ It composes naturally with [[Continuous Deployment]]: a pipeline that ships ever
 - [[Feature Flag]]
 - [[Rollback]]
 - [[Continuous Deployment]]
+- [[AB Testing]]
+- [[Chaos Engineering]]
 
 ## Related
 - [[Zero-Downtime Deployment]]

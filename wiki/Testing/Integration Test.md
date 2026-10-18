@@ -19,6 +19,8 @@ The pragmatic position that most teams converge on: integration tests for anythi
 - [[Headless Browser]]
 - [[Test Fixture]]
 - [[Test-Driven Development]]
+- [[End-to-End Test]]
+- [[Test Pyramid]]
 
 ## Related
 - [[Visual Regression Testing]]

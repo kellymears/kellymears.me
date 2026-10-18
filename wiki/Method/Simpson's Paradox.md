@@ -18,6 +18,7 @@ The defense is the same move every time: before trusting an aggregate comparison
 - [[Base Rate Fallacy]]
 - [[Regression to the Mean]]
 - [[Selection Bias]]
+- [[AB Testing]]
 
 ## Related
 - [[Percentage Point]]

@@ -18,6 +18,7 @@ The rule has a real boundary, worth stating so it doesn't get taken as absolute:
 - [[Streetlight Effect]]
 - [[Big-O Notation]]
 - [[Overfitting]]
+- [[Benchmarking]]
 
 ## Related
 - [[Technical Debt]]

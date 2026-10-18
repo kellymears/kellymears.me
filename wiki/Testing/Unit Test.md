@@ -18,6 +18,8 @@ There is also an environmental cost worth knowing about. A unit test that import
 - [[Test Double]]
 - [[Test-Driven Development]]
 - [[Component Story]]
+- [[Test Pyramid]]
+- [[Test Isolation]]
 
 ## Related
 - [[Test Fixture]]
