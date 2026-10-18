@@ -26,5 +26,5 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 - [[Unreachable Code]]
 - [[Exception Handling]]
 - [[Exit Status]]
-- [[Error Message]]
+- [[Reversible Decision]]
 - [[Walking Skeleton]]

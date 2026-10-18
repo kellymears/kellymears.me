@@ -27,6 +27,6 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Scatter Plot]]
 - [[Logical Fallacy]]
 - [[Vitamin D]]
-- [[Distribution Shift]]
+- [[Bradford Hill Criteria]]
 - [[Data Journalism]]
-- [[Confounding]]
+- [[Observational Study]]

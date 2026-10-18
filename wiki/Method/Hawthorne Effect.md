@@ -30,3 +30,4 @@ The practical lesson is to assume observation has some effect and to design arou
 - [[Self-Fulfilling Prophecy]]
 - [[Natural Experiment]]
 - [[Panopticon]]
+- [[Observational Study]]

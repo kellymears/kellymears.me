@@ -35,3 +35,5 @@ Tukey's broader argument was that a graph should help analysts discover what the
 ## See also
 - [[Scatter Plot]]
 - [[Statistical Significance]]
+- [[Mean and Median]]
+- [[Outlier]]

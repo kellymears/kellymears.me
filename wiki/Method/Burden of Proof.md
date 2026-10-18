@@ -25,6 +25,6 @@ Common moves to dodge the burden:
 In engineering, the burden falls on the proposal for change: the person who wants a new dependency, rewrite, or optimization should show it helps, ideally with measurements; see [[Premature Optimization]] and [[Plausible Mechanism]]. The reverse also applies to long-standing safeguards, where the burden falls on whoever wants to remove them to understand why they exist; see [[Chesterton's Fence]].
 
 ## See also
-- [[Logical Fallacy]]
+- [[Thought Experiment]]
 - [[Steelmanning]]
 - [[Safety Case]]

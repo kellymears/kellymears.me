@@ -28,3 +28,4 @@ The corollary for software architecture is to build the smallest version that ac
 - [[You Aren't Gonna Need It]]
 - [[Big Rewrite]]
 - [[First Principles Thinking]]
+- [[Wicked Problem]]

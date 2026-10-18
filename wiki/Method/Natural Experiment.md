@@ -26,3 +26,5 @@ Natural experiments have limits. They answer the question nature happened to pos
 ## See also
 - [[Simpson's Paradox]]
 - [[Selection Bias]]
+- [[Observational Study]]
+- [[Bradford Hill Criteria]]

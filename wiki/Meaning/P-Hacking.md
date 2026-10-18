@@ -26,3 +26,4 @@ The standard defenses are structural, matching the mechanism directly: preregist
 - [[Operationalization]]
 - [[Multiple Comparisons Problem]]
 - [[Benford's Law]]
+- [[Outlier]]

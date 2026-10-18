@@ -28,8 +28,8 @@ RCTs have limits. Some questions can't ethically be randomized, such as whether 
 
 ## See also
 - [[Meta-Analysis]]
-- [[Statistical Power]]
+- [[Bradford Hill Criteria]]
 - [[Hawthorne Effect]]
 - [[Ideomotor Effect]]
-- [[Confounding]]
-- [[Statistical Significance]]
+- [[Relative Risk]]
+- [[Observational Study]]

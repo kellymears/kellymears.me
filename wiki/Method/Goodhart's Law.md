@@ -26,7 +26,7 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 - [[PageRank]]
 
 ## Related
-- [[Cobra Effect]]
+- [[Wicked Problem]]
 - [[Web Analytics]]
 - [[Dashboard]]
 - [[Self-Determination Theory]]

@@ -15,9 +15,9 @@ The razor has a natural adversary in [[Overfitting]], where a model that looks p
 The razor pairs naturally with [[Plausible Mechanism]]: prefer the account with fewer unexplained entities, but only among accounts that actually have a mechanism, not the one that merely sounds tidy.
 
 ## See also
-- [[Plausible Mechanism]]
+- [[Thought Experiment]]
 - [[Overfitting]]
-- [[Root Cause Analysis]]
+- [[Inversion]]
 - [[Falsifiability]]
 - [[XY Problem]]
 

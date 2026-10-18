@@ -29,6 +29,7 @@ Critics argue that the label gets applied to events that were foreseeable and si
 
 ## See also
 - [[Normalization of Deviance]]
-- [[Pre-mortem]]
+- [[Superforecasting]]
 - [[Speculative Bubble]]
 - [[Expected Value]]
+- [[Outlier]]

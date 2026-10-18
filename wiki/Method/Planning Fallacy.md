@@ -30,5 +30,5 @@ Adding people late rarely saves a late project, as [[Brooks's Law]] warns, and w
 - [[Margin of Safety]]
 - [[Affective Forecasting]]
 - [[Dunning-Kruger Effect]]
-- [[Dartmouth Workshop]]
-- [[Cone of Uncertainty]]
+- [[Inversion]]
+- [[Superforecasting]]

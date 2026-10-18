@@ -33,3 +33,4 @@ Used well, it is less a procedure than a set of habits: talk to the people affec
 ## See also
 - [[Minimum Viable Product]]
 - [[Five Whys]]
+- [[Wicked Problem]]

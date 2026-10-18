@@ -31,4 +31,5 @@ There is a limit. Each step of prediction is less certain than the one before, a
 
 ## See also
 - [[Opportunity Cost]]
-- [[Path Dependence]]
+- [[Wicked Problem]]
+- [[Inversion]]

@@ -27,3 +27,6 @@ The [[Replication Crisis]] sharpened these concerns: several meta-analyses that 
 ## See also
 - [[Statistical Power]]
 - [[Selection Bias]]
+- [[Observational Study]]
+- [[Relative Risk]]
+- [[Bradford Hill Criteria]]

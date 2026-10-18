@@ -28,7 +28,7 @@ In technical work, the same habit improves [[Code Review]] and design discussion
 
 ## See also
 - [[Law of Triviality]]
-- [[Groupthink]]
+- [[Inversion]]
 - [[Godwin's Law]]
 - [[Cunningham's Law]]
 - [[Naive Realism]]

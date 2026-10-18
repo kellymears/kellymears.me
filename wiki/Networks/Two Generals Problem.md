@@ -28,5 +28,5 @@ The problem sits beside other impossibility results that shape the field, includ
 - [[Logical Clock]]
 - [[Delay-Tolerant Networking]]
 - [[Quorum]]
-- [[Halting Problem]]
+- [[Thought Experiment]]
 - [[Timeout]]

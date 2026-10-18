@@ -27,8 +27,8 @@ Reforms include preregistering analyses before seeing data, lowering the thresho
 Product teams meet the same traps in [[AB Testing]], especially by checking results repeatedly and stopping as soon as a test looks significant, which inflates false positives well beyond 5%.
 
 ## See also
-- [[Big Data]]
+- [[Bradford Hill Criteria]]
 - [[Multiple Comparisons Problem]]
-- [[Box Plot]]
+- [[Relative Risk]]
 - [[Burden of Proof]]
 - [[Meta-Analysis]]

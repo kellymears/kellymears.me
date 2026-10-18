@@ -21,7 +21,7 @@ Most tests have a threshold, and moving it trades one error for the other; where
 - [[Percentage Point]]
 - [[Monty Hall Problem]]
 - [[Multiple Comparisons Problem]]
-- [[Truncation Bias]]
+- [[Relative Risk]]
 - [[Bayes' Theorem]]
 - [[Precision and Recall]]
 - [[Statistical Power]]

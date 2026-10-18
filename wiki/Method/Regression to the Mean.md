@@ -15,8 +15,8 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 
 ## See also
 - [[Histogram]]
-- [[Correlation and Causation]]
-- [[Overfitting]]
+- [[Outlier]]
+- [[Mean and Median]]
 - [[Simpson's Paradox]]
 
 ## Related

@@ -19,7 +19,7 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Pareidolia]]
 - [[Texas Sharpshooter Fallacy]]
 - [[Self-Fulfilling Prophecy]]
-- [[Steelmanning]]
+- [[Superforecasting]]
 - [[Cognitive Dissonance]]
 - [[Naive Realism]]
 

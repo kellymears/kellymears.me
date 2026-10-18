@@ -26,3 +26,5 @@ The same logic applies to software and product metrics. A feature used more in t
 - [[Map and Territory]]
 - [[Logical Fallacy]]
 - [[Census]]
+- [[Observational Study]]
+- [[Mean and Median]]

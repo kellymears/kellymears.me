@@ -32,6 +32,7 @@ A [[Pre-mortem]] turns the effect into a tool, borrowing the clarity of hindsigh
 ## See also
 - [[Five Whys]]
 - [[Speculative Bubble]]
-- [[Sunk Cost Fallacy]]
+- [[Inversion]]
 - [[Hanlon's Razor]]
 - [[Just-World Hypothesis]]
+- [[Superforecasting]]

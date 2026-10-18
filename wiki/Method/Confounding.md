@@ -38,3 +38,5 @@ A useful habit when shown a correlation is to ask what else differs between the 
 - [[Natural Experiment]]
 - [[Ecological Fallacy]]
 - [[Algorithmic Bias]]
+- [[Observational Study]]
+- [[Bradford Hill Criteria]]

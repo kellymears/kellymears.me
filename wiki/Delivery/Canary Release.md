@@ -21,7 +21,7 @@ It composes naturally with [[Continuous Deployment]]: a pipeline that ships ever
 - [[Staging Environment]]
 - [[Knight Capital Incident]]
 - [[Testing in Production]]
-- [[Shadow Traffic]]
+- [[Reversible Decision]]
 
 ## Related
 - [[Zero-Downtime Deployment]]

@@ -29,3 +29,4 @@ Critics argue the scenarios are so artificial that intuitions about them reveal 
 - [[Prisoner's Dilemma]]
 - [[Ship of Theseus]]
 - [[Tragedy of the Commons]]
+- [[Thought Experiment]]

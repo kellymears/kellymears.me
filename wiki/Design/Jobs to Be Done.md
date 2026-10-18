@@ -33,7 +33,7 @@ The lasting insight is about framing. Teams describe their work in terms of thei
 ## See also
 - [[Usability Testing]]
 - [[Choice Architecture]]
-- [[Root Cause Analysis]]
+- [[Wicked Problem]]
 - [[MDA Framework]]
 - [[Design Thinking]]
 - [[User Story]]

@@ -18,7 +18,7 @@ It also disciplines prose. "This cast is required because the checker demands it
 - [[Brandolini's Law]]
 - [[Burden of Proof]]
 - [[Coverage Gate]]
-- [[Statistical Significance]]
+- [[Thought Experiment]]
 - [[Black Swan]]
 - [[Safety Case]]
 

@@ -23,7 +23,7 @@ The method fails where its assumptions do. Heavy-tailed quantities have no typic
 - [[Fault Seeding]]
 - [[Benford's Law]]
 - [[First Principles Thinking]]
-- [[Bayes' Theorem]]
+- [[Superforecasting]]
 - [[Confidence Interval]]
 - [[Cone of Uncertainty]]
 - [[Wisdom of the Crowd]]

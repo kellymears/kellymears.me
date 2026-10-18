@@ -30,3 +30,4 @@ Rare, extreme outcomes make the estimate fragile, since it depends on probabilit
 ## See also
 - [[Pre-mortem]]
 - [[Monte Carlo Method]]
+- [[Relative Risk]]

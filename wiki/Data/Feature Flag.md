@@ -31,6 +31,6 @@ Flags accumulate. A flag whose feature has fully shipped is dead conditional log
 - [[CrowdStrike Outage]]
 - [[Headless CMS]]
 - [[Branch by Abstraction]]
-- [[Documentation Rot]]
+- [[Reversible Decision]]
 - [[Release Train]]
 - [[Pairwise Testing]]

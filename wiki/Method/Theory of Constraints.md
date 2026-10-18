@@ -29,7 +29,7 @@ The theory has critics, who note that real systems often have shifting or multip
 ## See also
 - [[Brooks's Law]]
 - [[Pareto Principle]]
-- [[Resource Starvation]]
+- [[Wicked Problem]]
 - [[Value Stream Mapping]]
 - [[Maximum Flow]]
 - [[Instruction Pipelining]]

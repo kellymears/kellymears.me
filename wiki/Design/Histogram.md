@@ -30,3 +30,5 @@ To compare distributions across many groups at once, histograms take too much ro
 ## See also
 - [[Law of Large Numbers]]
 - [[Data Visualization]]
+- [[Mean and Median]]
+- [[Outlier]]

@@ -15,7 +15,7 @@ It compounds with identity: the person who chose the failing approach has more t
 The engineering-specific form is the branch nobody wants to close: hundreds of commits into an approach that a fresh read of the problem would no longer choose. The tell is language that cites the past ("we already did X") rather than the future ("X gets us Y"). If a decision can't be justified without a reference to how much has already been spent, that's the fallacy talking.
 
 ## See also
-- [[Path Dependence]]
+- [[Reversible Decision]]
 - [[Expected Value]]
 - [[Second-System Effect]]
 - [[Anchoring Effect]]

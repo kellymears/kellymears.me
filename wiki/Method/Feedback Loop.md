@@ -39,6 +39,6 @@ People learn through feedback too. Skills improve fastest when results arrive qu
 Many surprises in policy and engineering are loops nobody drew; see [[Second-Order Thinking]].
 
 ## See also
-- [[Algorithmic Bias]]
+- [[Wicked Problem]]
 - [[Jevons Paradox]]
 - [[Hardware-in-the-Loop]]

@@ -17,7 +17,7 @@ The defense is the same move every time: before trusting an aggregate comparison
 - [[Correlation and Causation]]
 - [[Box Plot]]
 - [[Regression to the Mean]]
-- [[Selection Bias]]
+- [[Mean and Median]]
 - [[AB Testing]]
 
 ## Related

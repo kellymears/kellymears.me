@@ -37,5 +37,5 @@ Bayesian statistics, which treats probabilities as degrees of belief, contrasts 
 - [[Naive Bayes]]
 - [[Abductive Reasoning]]
 - [[Information Cascade]]
-- [[Calibration]]
+- [[Superforecasting]]
 - [[Statistical Significance]]
