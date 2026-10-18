@@ -18,3 +18,5 @@ The pattern carries a specific risk: a snowball. Once an engine is running well 
 - [[City Builder]]
 - [[Collectible Card Game]]
 - [[Catch-Up Mechanic]]
+- [[Faucets and Sinks]]
+- [[Interesting Decisions]]

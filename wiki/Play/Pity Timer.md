@@ -19,3 +19,4 @@ The mechanism is best understood as damage control on [[Variable-Ratio Reinforce
 - [[Compulsion Loop]]
 - [[Pseudorandom Number Generator]]
 - [[Collectible Card Game]]
+- [[Input and Output Randomness]]

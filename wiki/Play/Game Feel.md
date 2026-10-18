@@ -19,6 +19,6 @@ Two adjacent concerns. Consistency requires a fixed timestep and clean [[Determi
 - [[Platformer]]
 - [[Coyote Time]]
 - [[Haptic Feedback]]
-- [[Frame Generation]]
+- [[Hit Stop]]
 - [[Magnus Effect]]
 - [[Adaptive Music]]

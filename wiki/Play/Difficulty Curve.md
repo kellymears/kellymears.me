@@ -15,10 +15,10 @@ There's a second, subtler curve worth separating from the authored one: the play
 
 ## See also
 - [[Level Design]]
-- [[Soulslike]]
+- [[Bushnell's Law]]
 - [[Checkpoint]]
 - [[Boss Rush]]
-- [[Flow]]
+- [[Cooperative Game]]
 - [[Yerkes-Dodson Law]]
 - [[Peak-End Rule]]
 - [[Desirable Difficulty]]

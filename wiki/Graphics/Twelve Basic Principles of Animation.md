@@ -31,5 +31,5 @@ Interfaces use a restrained subset: easing, a little follow-through on a panel s
 The principles describe what audiences read as alive, which isn't the same as accurate. Motion recorded from actors often looks floaty or flat until exaggeration is added back; see [[Motion Capture]] and [[Uncanny Valley]].
 
 ## See also
-- [[Keyframe Animation]]
+- [[Hit Stop]]
 - [[Apparent Motion]]

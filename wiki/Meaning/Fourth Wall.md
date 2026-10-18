@@ -28,3 +28,4 @@ Performers who talk straight to the camera get some of the same effect without a
 - [[Retcon]]
 - [[Chekhov's Gun]]
 - [[MacGuffin]]
+- [[Alternate Reality Game]]

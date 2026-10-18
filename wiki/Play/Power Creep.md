@@ -39,3 +39,4 @@ Power creep has parallels outside games. Software accumulates features each rele
 - [[Deckbuilder]]
 - [[Collectible Card Game]]
 - [[Dominant Strategy]]
+- [[Faucets and Sinks]]

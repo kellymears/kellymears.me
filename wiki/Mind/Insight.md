@@ -29,3 +29,4 @@ Practical lessons follow. When stuck, explain the problem aloud or to someone el
 ## See also
 - [[Curiosity]]
 - [[Flow]]
+- [[Escape Room]]

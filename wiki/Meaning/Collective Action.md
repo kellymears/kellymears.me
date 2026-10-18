@@ -22,7 +22,7 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 ## Related
 - [[Creole Language]]
 - [[Markdown]]
-- [[Information Architecture]]
+- [[Cooperative Game]]
 - [[Social Capital]]
 - [[Linguistic Relativity]]
 - [[Knowledge Graph]]

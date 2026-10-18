@@ -17,7 +17,7 @@ What distinguishes the two is not the loop's shape but its **incentive structure
 - [[Bartle Taxonomy]]
 - [[Hyperbolic Discounting]]
 - [[Gamification]]
-- [[Magic Circle]]
+- [[Faucets and Sinks]]
 - [[Match-Three]]
 - [[Zeigarnik Effect]]
 - [[Feedback Loop]]

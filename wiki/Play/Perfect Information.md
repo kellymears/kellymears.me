@@ -33,3 +33,4 @@ The idea reaches beyond games. Markets where one side knows more than the other 
 ## See also
 - [[Collectible Card Game]]
 - [[Matchmaking Rating]]
+- [[Input and Output Randomness]]

@@ -20,7 +20,7 @@ The implementation costs are documented separately and little disputed. Enforcem
 - [[Ground Truth]]
 - [[Root Cause Analysis]]
 - [[Collective Action]]
-- [[Goodhart's Law]]
+- [[Griefing]]
 - [[Static Analysis]]
 - [[Entropy]]
 - [[Normalization of Deviance]]

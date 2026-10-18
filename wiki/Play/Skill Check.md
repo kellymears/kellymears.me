@@ -14,7 +14,7 @@ Whether the probability is shown changes the relationship to failure more than t
 
 ## See also
 - [[Tabletop Role-Playing Game]]
-- [[Seeded Randomness]]
+- [[Bushnell's Law]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Goodhart's Law]]
 - [[Roguelike]]

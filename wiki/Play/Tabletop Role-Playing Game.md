@@ -32,3 +32,4 @@ Language models have renewed interest in automated game masters. They can improv
 - [[Disco Elysium]]
 - [[Game Modding]]
 - [[Social Deduction Game]]
+- [[Multi-User Dungeon]]

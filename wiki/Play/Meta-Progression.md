@@ -22,3 +22,4 @@ The line worth holding is whether persistence removes obstacles or removes decis
 - [[Gacha Monetization]]
 - [[Skill Tree]]
 - [[Dynamic Difficulty Adjustment]]
+- [[Faucets and Sinks]]

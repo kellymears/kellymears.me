@@ -36,3 +36,4 @@ The model has parallels in other fields. In software, simple components interact
 - [[Bartle Taxonomy]]
 - [[Procedural Rhetoric]]
 - [[Dominant Strategy]]
+- [[Interesting Decisions]]

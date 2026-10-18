@@ -28,6 +28,6 @@ Related errors:
 Game designers exploit the feeling, using near-misses and variable rewards to keep players engaged; see [[Gacha Monetization]].
 
 ## See also
-- [[Law of Large Numbers]]
+- [[Input and Output Randomness]]
 - [[Radioactive Decay]]
 - [[Normal Distribution]]

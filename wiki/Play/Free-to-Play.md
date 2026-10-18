@@ -17,7 +17,7 @@ Design bends around the paying minority in ways non-paying players absorb withou
 ## See also
 - [[Open Core]]
 - [[Battle Pass]]
-- [[Compulsion Loop]]
+- [[Faucets and Sinks]]
 - [[Meta-Progression]]
 - [[Two-Sided Market]]
 - [[Enshittification]]

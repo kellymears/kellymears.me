@@ -16,7 +16,7 @@ The unavoidable cost is preservation. A single-player game from 1998 still runs;
 
 ## See also
 - [[Battle Royale]]
-- [[Power Creep]]
+- [[Multi-User Dungeon]]
 - [[Third Place]]
-- [[Bartle Taxonomy]]
+- [[Faucets and Sinks]]
 - [[Battle Pass]]

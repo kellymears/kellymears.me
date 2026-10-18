@@ -20,6 +20,6 @@ Governance strains as a project grows. Early contributors often accumulate outsi
 - [[Open Data]]
 - [[Internet Relay Chat]]
 - [[Open Core]]
-- [[Prisoner's Dilemma]]
+- [[Alternate Reality Game]]
 - [[The Cathedral and the Bazaar]]
 - [[Open Source Sustainability]]

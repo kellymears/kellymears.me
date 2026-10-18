@@ -33,3 +33,4 @@ Commercial online services and then the web emptied the boards in the mid-1990s,
 ## See also
 - [[Simple Mail Transfer Protocol]]
 - [[Sneakernet]]
+- [[Multi-User Dungeon]]

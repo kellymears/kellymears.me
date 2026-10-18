@@ -24,7 +24,7 @@ Recommendation systems have industrialized a darker variant, where each suggesti
 The practical skill is entering on purpose. A rabbit hole entered deliberately, with time set aside for it, is one of the best things the web offers. One fallen into an hour before a deadline is not.
 
 ## See also
-- [[Yak Shaving]]
+- [[Alternate Reality Game]]
 - [[Wiki]]
 - [[Zettelkasten]]
 - [[Monotropism]]

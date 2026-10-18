@@ -27,5 +27,5 @@ The term carries some snobbery. Newcomers have always been treated as a problem 
 ## See also
 - [[Bulletin Board System]]
 - [[Code of Conduct]]
-- [[Pluralistic Ignorance]]
+- [[Griefing]]
 - [[Modem]]

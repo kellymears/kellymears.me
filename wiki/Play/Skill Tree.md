@@ -17,3 +17,4 @@ Respec systems — letting a player refund points and rebuild from scratch — e
 - [[Tier List]]
 - [[Engine Building]]
 - [[Tabletop Role-Playing Game]]
+- [[Interesting Decisions]]

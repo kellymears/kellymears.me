@@ -20,3 +20,4 @@ summary: the isometric, party-based tradition whose hardest unsolved problem is 
 - [[Constraint Propagation]]
 - [[Tabletop Role-Playing Game]]
 - [[Interactive Fiction]]
+- [[Multi-User Dungeon]]

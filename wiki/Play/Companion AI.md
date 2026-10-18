@@ -16,3 +16,4 @@ Companion AI is best understood as a special case of [[Game AI]] generally, but 
 - [[Escort Mission]]
 - [[Stealth Mechanics]]
 - [[ELIZA Effect]]
+- [[Cooperative Game]]

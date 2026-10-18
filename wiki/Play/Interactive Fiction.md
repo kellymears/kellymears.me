@@ -26,8 +26,8 @@ IF's influence runs deep. Text adventures gave rise to MUDs, the text-based mult
 Language models have revived old questions. A model can understand any phrasing and improvise responses, solving the parser problem, but it makes it hard to author puzzles with fair solutions and stories with intentional structure; see [[Large Language Model]] and [[Procedural Narrative]].
 
 ## See also
-- [[Tabletop Role-Playing Game]]
-- [[Environmental Storytelling]]
+- [[Multi-User Dungeon]]
+- [[Alternate Reality Game]]
 - [[Game Preservation]]
 - [[Point-and-Click Adventure]]
 - [[Unreliable Narrator]]

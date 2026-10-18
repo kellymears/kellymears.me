@@ -28,3 +28,4 @@ The genre's ideas have migrated widely, most successfully as a *mode* layered on
 - [[Wave Function Collapse]]
 - [[Tile Map]]
 - [[Bresenham's Line Algorithm]]
+- [[Input and Output Randomness]]

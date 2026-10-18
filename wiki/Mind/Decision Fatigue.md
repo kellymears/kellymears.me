@@ -30,4 +30,4 @@ The case is a good example of a [[Plausible Mechanism]] outrunning its evidence.
 - [[Spoon Theory]]
 - [[Stroop Effect]]
 - [[Habit Formation]]
-- [[Replication Crisis]]
+- [[Interesting Decisions]]

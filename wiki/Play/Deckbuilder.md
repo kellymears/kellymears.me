@@ -20,3 +20,4 @@ Deckbuilding is also worth distinguishing from [[Worker Placement]], another eco
 - [[Roguelike]]
 - [[Power Creep]]
 - [[Collectible Card Game]]
+- [[Input and Output Randomness]]

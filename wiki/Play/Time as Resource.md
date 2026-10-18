@@ -21,3 +21,5 @@ The structure also solves a narrative problem that resource economies cannot. Be
 - [[Goodhart's Law]]
 - [[Game Feel]]
 - [[Cozy Game]]
+- [[Faucets and Sinks]]
+- [[Escape Room]]

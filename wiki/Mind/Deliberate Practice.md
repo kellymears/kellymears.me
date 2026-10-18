@@ -28,3 +28,4 @@ Related findings support it. Spacing and mixing practice feels harder but produc
 - [[Self-Efficacy]]
 - [[Choking Under Pressure]]
 - [[Feedback Loop]]
+- [[Bushnell's Law]]

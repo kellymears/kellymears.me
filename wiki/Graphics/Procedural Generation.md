@@ -28,7 +28,7 @@ Determinism also enables *incremental* generation: extending a world without reg
 
 ## Related
 - [[Demoscene]]
-- [[Constraint Propagation]]
+- [[Input and Output Randomness]]
 - [[Tile Map]]
 - [[Perlin Noise]]
 - [[Particle System]]

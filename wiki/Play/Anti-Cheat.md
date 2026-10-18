@@ -30,3 +30,4 @@ Enforcement is often delayed on purpose. Banning cheaters in waves, rather than 
 - [[Datamining]]
 - [[Game Modding]]
 - [[Battle Royale]]
+- [[Griefing]]

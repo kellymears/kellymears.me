@@ -29,3 +29,4 @@ Satisficing has its own risk: setting the bar too low, or never revisiting it. T
 - [[Pareto Principle]]
 - [[Sunk Cost Fallacy]]
 - [[Dual Process Theory]]
+- [[Interesting Decisions]]

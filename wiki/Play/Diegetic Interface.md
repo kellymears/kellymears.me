@@ -22,3 +22,4 @@ There is a middle category worth naming. **Spatial** interfaces are drawn in the
 - [[UI Primitive]]
 - [[Adaptive Music]]
 - [[Virtual Reality]]
+- [[Escape Room]]

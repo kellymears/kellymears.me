@@ -27,7 +27,7 @@ Critics question the evidence. A 2021 statistical reanalysis using updated prima
 What survives is a modest but useful point: attention for relationships is finite, more connections usually mean shallower ones, and coordination gets harder as groups grow, which is why groups so often split, form hierarchies, or rely on [[Legibility]] and formal rules once they pass a certain size. [[Theory of Mind]], the capacity to model what others think, is the cognitive work all those relationships demand.
 
 ## See also
-- [[Eternal September]]
+- [[Multi-User Dungeon]]
 - [[Code of Conduct]]
 - [[Gift Economy]]
 - [[Groupthink]]
