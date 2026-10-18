@@ -38,3 +38,5 @@ Gluten is a good example of [[Viscosity]] and elasticity combined, a viscoelasti
 - [[Starch Gelatinization]]
 - [[Protein Denaturation]]
 - [[Emulsion]]
+- [[Polymerization]]
+- [[Chemical Leavening]]

@@ -30,3 +30,5 @@ Beyond the kitchen, emulsions are everywhere: paint, cosmetics, salad dressing, 
 - [[Osmosis]]
 - [[Gluten]]
 - [[Phase Transition]]
+- [[Chemical Leavening]]
+- [[Polymerization]]

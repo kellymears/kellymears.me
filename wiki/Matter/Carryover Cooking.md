@@ -34,3 +34,4 @@ The underlying behavior shows up wherever a system with stored energy responds w
 - [[Latency and Jitter]]
 - [[Specific Heat Capacity]]
 - [[Heat Transfer]]
+- [[Microwave Heating]]

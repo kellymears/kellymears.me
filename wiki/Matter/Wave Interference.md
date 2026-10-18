@@ -34,3 +34,5 @@ Colors produced by interference rather than pigment are called structural colors
 - [[Refraction]]
 - [[Hearing Loss]]
 - [[Wi-Fi]]
+- [[Microwave Heating]]
+- [[Simple Harmonic Motion]]

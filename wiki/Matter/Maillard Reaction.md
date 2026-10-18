@@ -31,3 +31,5 @@ It differs from [[Caramelization]], which involves sugars alone and needs higher
 - [[Boiling Point]]
 - [[Leidenfrost Effect]]
 - [[pH]]
+- [[Chemical Leavening]]
+- [[Microwave Heating]]

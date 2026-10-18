@@ -19,3 +19,4 @@ That static-to-kinetic gap also produces **stick-slip**, an oscillation where an
 - [[Entropy]]
 - [[Centripetal Force]]
 - [[Newton's Laws of Motion]]
+- [[Electrostatic Discharge]]

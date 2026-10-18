@@ -20,7 +20,7 @@ Air density matters too. Thinner air at altitude reduces drag, which is why seve
 Drag also sets [[Terminal Velocity]]: a falling object stops accelerating once drag equals weight. And because the wake is a region of low pressure and moving air, a second object tucked into it faces much less resistance, which is the basis of [[Drafting]].
 
 ## See also
-- [[Drafting]]
+- [[Reynolds Number]]
 - [[Ideal Gas Law]]
 - [[Bike Fit]]
 - [[Viscosity]]

@@ -30,7 +30,7 @@ Chemistry variations trade density against safety and life. Lithium iron phospha
 Charging and discharging both waste some energy as heat, accounted for by [[Conservation of Energy]] and removed by [[Heat Transfer]]. Phones slow charging when warm, a battery version of [[Thermal Throttling]], and wireless charging adds its own losses through [[Electromagnetic Induction]].
 
 ## See also
-- [[Ohm's Law]]
+- [[Semiconductor]]
 - [[Oxidation]]
 - [[Electromagnetic Induction]]
 - [[Thermal Throttling]]

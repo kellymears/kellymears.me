@@ -35,3 +35,5 @@ The same pattern appears beyond physics. Many processes need a seed past some th
 - [[Dew Point]]
 - [[Emulsion]]
 - [[Simulated Annealing]]
+- [[Microwave Heating]]
+- [[Chemical Leavening]]

@@ -35,3 +35,5 @@ Controlled redox reactions power the modern world. A [[Lithium-Ion Battery]] sto
 - [[Lithium-Ion Battery]]
 - [[Electromigration]]
 - [[Maillard Reaction]]
+- [[Material Fatigue]]
+- [[Polymerization]]

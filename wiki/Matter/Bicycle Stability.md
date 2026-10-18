@@ -32,3 +32,4 @@ Frame geometry shapes how a bike feels. More trail makes steering slower and ste
 - [[Center of Mass]]
 - [[Cadence]]
 - [[Rolling Resistance]]
+- [[Elasticity]]

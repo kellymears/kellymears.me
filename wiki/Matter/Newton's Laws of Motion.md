@@ -25,8 +25,8 @@ Newton's laws fail at extremes. Near the speed of light, Einstein's relativity t
 Game physics engines are Newton's laws applied many times a second. Each step, the engine sums the forces on every body, divides by mass to get acceleration, and updates velocity and position. Engines usually use a fixed time step so simulations come out the same every run, important for [[Determinism]] in replays and networked games, and they represent rotation with a [[Quaternion]]. Simple step methods leak or add energy over time, as discussed under [[Conservation of Energy]].
 
 ## See also
-- [[Inertial Frame of Reference]]
-- [[Conservation of Energy]]
+- [[Simple Harmonic Motion]]
+- [[Elasticity]]
 - [[Centripetal Force]]
 - [[Torque]]
 - [[Concussion]]

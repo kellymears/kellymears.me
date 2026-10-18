@@ -33,3 +33,5 @@ The energy lost to resistance doesn't vanish; it becomes heat, as [[Conservation
 - [[Electromagnetic Induction]]
 - [[LED Flicker]]
 - [[Electromigration]]
+- [[Electrostatic Discharge]]
+- [[Semiconductor]]

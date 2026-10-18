@@ -23,3 +23,5 @@ Both tissue types share a frustrating property: they are relatively **poorly vas
 - [[Repetitive Strain Injury]]
 - [[Strength Training]]
 - [[Stretching]]
+- [[Elasticity]]
+- [[Material Fatigue]]

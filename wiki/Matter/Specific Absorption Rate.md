@@ -22,3 +22,4 @@ Certification is narrower than it is usually read to be. A device is tested at m
 - [[Plain Language]]
 - [[Inverse-Square Law]]
 - [[Resonance]]
+- [[Microwave Heating]]

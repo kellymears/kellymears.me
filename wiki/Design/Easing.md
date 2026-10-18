@@ -30,3 +30,4 @@ Duration still matters and the useful range is narrow. Under roughly 100 millise
 - [[Response Time Limits]]
 - [[View Transitions]]
 - [[Linear Interpolation]]
+- [[Simple Harmonic Motion]]

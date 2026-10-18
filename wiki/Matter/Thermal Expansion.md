@@ -19,3 +19,5 @@ Water is the well-known exception near its freezing point: it contracts as it co
 - [[Heat Transfer]]
 - [[Specific Heat Capacity]]
 - [[Phase Transition]]
+- [[Elasticity]]
+- [[Material Fatigue]]

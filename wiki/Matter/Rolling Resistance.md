@@ -23,3 +23,4 @@ So "higher pressure is faster" is an [[Exhaustive Claim]] the data does not supp
 - [[Angular Momentum]]
 - [[Work and Power]]
 - [[Bike Fit]]
+- [[Elasticity]]

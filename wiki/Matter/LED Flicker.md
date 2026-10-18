@@ -33,3 +33,4 @@ The alternatives are known. **Constant-current reduction** dims by lowering curr
 - [[Sensory Overload]]
 - [[Aliasing]]
 - [[Ohm's Law]]
+- [[Semiconductor]]

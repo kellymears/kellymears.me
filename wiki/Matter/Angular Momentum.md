@@ -32,3 +32,4 @@ Wheels carry rotational inertia as well as ordinary inertia, so lighter rims do 
 - [[Quaternion]]
 - [[Centripetal Force]]
 - [[Bicycle Stability]]
+- [[Simple Harmonic Motion]]

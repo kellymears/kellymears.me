@@ -31,3 +31,5 @@ Glycogen, the body's own carbohydrate store (see [[Glycogen]]), is a close relat
 - [[Caramelization]]
 - [[Boiling Point]]
 - [[Gluten]]
+- [[Polymerization]]
+- [[Chemical Leavening]]

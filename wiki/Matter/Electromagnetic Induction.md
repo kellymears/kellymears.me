@@ -31,3 +31,5 @@ Guitar pickups, metal detectors, and contactless cards rely on induction too. Th
 - [[Conservation of Energy]]
 - [[Resonance]]
 - [[Heat Transfer]]
+- [[Microwave Heating]]
+- [[Electrostatic Discharge]]

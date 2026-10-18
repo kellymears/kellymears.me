@@ -34,3 +34,5 @@ Sweating is osmosis's counterpart in [[Thermoregulation]], losing salt and water
 - [[Heat Acclimation]]
 - [[Entropy]]
 - [[Fluid Balance]]
+- [[Capillary Action]]
+- [[Chemical Leavening]]
