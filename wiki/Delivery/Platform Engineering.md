@@ -31,3 +31,4 @@ The common failure is building too much too early: a large portal before anyone 
 - [[Twelve-Factor App]]
 - [[Design System]]
 - [[Kubernetes]]
+- [[DevOps]]

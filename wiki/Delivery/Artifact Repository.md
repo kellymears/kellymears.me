@@ -35,5 +35,5 @@ Storage grows quickly, since every build of every branch produces artifacts. Ret
 - [[Containerization]]
 - [[Vendoring]]
 - [[Twelve-Factor App]]
-- [[Content Delivery Network]]
+- [[Dependency Confusion]]
 - [[Git LFS]]

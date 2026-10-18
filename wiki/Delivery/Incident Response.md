@@ -30,7 +30,7 @@ Teams practice before real outages. Game days and [[Chaos Engineering]] inject f
 
 ## See also
 - [[Bug Triage]]
-- [[Crash Reporting]]
+- [[Mean Time to Recovery]]
 - [[Logging]]
 - [[Git Revert]]
 - [[Site Reliability Engineering]]

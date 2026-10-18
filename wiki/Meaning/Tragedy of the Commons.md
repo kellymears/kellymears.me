@@ -17,7 +17,7 @@ The sharpest correction is definitional: Hardin was describing **open access** â
 - [[Prisoner's Dilemma]]
 - [[Wi-Fi]]
 - [[Free Rider Problem]]
-- [[Path Dependence]]
+- [[Open Source Sustainability]]
 - [[Congestion Control]]
 
 ## Related

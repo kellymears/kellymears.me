@@ -23,11 +23,11 @@ Several failure modes are worth knowing because they all produce a *false* green
 - [[Continuous Deployment]]
 - [[Coverage Gate]]
 - [[Merge Train]]
-- [[Trunk-Based Development]]
+- [[Build Matrix]]
 - [[Branching Model]]
 - [[Semantic Conflict]]
 - [[Smoke Test]]
-- [[Static Analysis]]
+- [[DevOps]]
 
 ## Related
 - [[Stacked Pull Requests]]

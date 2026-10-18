@@ -23,3 +23,4 @@ NIH is a close cousin of [[Cargo Cult]] thinking but inverted — cargo cult is 
 - [[Second-System Effect]]
 - [[Lindy Effect]]
 - [[Mere-Exposure Effect]]
+- [[Left-Pad Incident]]

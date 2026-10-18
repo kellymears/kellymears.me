@@ -17,6 +17,6 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 - [[Polyfill]]
 - [[Leaky Abstraction]]
 - [[Data Contract]]
-- [[Regression]]
+- [[Left-Pad Incident]]
 - [[API Translation Layer]]
 - [[Characterization Test]]

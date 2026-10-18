@@ -26,3 +26,4 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Dunbar's Number]]
 - [[Agile Software Development]]
 - [[Amdahl's Law]]
+- [[Team Topologies]]

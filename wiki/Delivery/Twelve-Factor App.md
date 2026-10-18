@@ -32,4 +32,4 @@ The list has aged unevenly. It predates [[Observability]] beyond logs, says litt
 - [[Containerization]]
 - [[Infrastructure as Code]]
 - [[Blue-Green Deployment]]
-- [[Idempotence]]
+- [[Pets vs Cattle]]

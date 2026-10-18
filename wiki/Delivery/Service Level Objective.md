@@ -33,7 +33,7 @@ SLOs depend on good measurement, the territory of [[Observability]]. They also d
 - [[Incident Response]]
 - [[DORA Metrics]]
 - [[Tail Latency]]
-- [[Observability]]
+- [[Mean Time to Recovery]]
 - [[Synthetic Monitoring]]
 - [[Site Reliability Engineering]]
 - [[Microservices]]

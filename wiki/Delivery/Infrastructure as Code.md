@@ -15,7 +15,7 @@ The tools split on a real distinction: declarative tools (Terraform) describe th
 
 ## See also
 - [[GitOps]]
-- [[Immutable Infrastructure]]
+- [[Pets vs Cattle]]
 - [[Version Control]]
 - [[Code Review]]
 
@@ -26,3 +26,4 @@ The tools split on a real distinction: declarative tools (Terraform) describe th
 - [[Platform Engineering]]
 - [[YAML]]
 - [[Kubernetes]]
+- [[DevOps]]

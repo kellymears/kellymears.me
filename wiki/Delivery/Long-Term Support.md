@@ -35,7 +35,7 @@ Staying on LTS is not free either. Lagging behind means missing improvements, ac
 
 ## See also
 - [[Cherry-Pick]]
-- [[Rolling Release]]
+- [[Build Matrix]]
 - [[Semantic Versioning]]
 - [[Release Train]]
 - [[Calendar Versioning]]

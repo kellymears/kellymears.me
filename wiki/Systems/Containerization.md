@@ -27,7 +27,7 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 - [[Kubernetes]]
 - [[Git Worktree]]
 - [[Microservices]]
-- [[Silent Failure]]
+- [[Pets vs Cattle]]
 - [[Hypervisor]]
 - [[WebAssembly]]
 - [[Network Address Translation]]

@@ -20,7 +20,7 @@ Incompatible copyleft terms cannot legally combine in one distributed work, and 
 
 ## See also
 - [[Permissive License]]
-- [[Supply Chain Security]]
+- [[The Cathedral and the Bazaar]]
 - [[Package Manager]]
 - [[Provenance]]
 - [[Commons-Based Peer Production]]

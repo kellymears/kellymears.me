@@ -30,5 +30,5 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 - [[Load Testing]]
 - [[Risk-Based Testing]]
 - [[Failure Detection]]
-- [[Canary Release]]
+- [[Mean Time to Recovery]]
 - [[Hormesis]]

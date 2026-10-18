@@ -15,7 +15,7 @@ The caveat is honest but narrower than usually stated. There are no controlled e
 ## See also
 - [[Agile Software Development]]
 - [[Monorepo]]
-- [[Module Graph]]
+- [[Team Topologies]]
 - [[Client-Server Boundary]]
 - [[Trunk-Based Development]]
 - [[Code Owners]]

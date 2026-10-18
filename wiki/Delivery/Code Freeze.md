@@ -33,5 +33,5 @@ In practice, many organizations keep short, targeted freezes for genuinely high-
 - [[Hotfix]]
 - [[Continuous Deployment]]
 - [[Rollback]]
-- [[DORA Metrics]]
+- [[Change Advisory Board]]
 - [[Release Candidate]]

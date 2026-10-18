@@ -32,3 +32,4 @@ The technique has limits. It selects combinations but doesn't say what the corre
 - [[Test Oracle]]
 - [[Parameterized Test]]
 - [[Decision Table Testing]]
+- [[Build Matrix]]

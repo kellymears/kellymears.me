@@ -15,9 +15,9 @@ That reframing points to what actually raises the number. Writing things down is
 ## See also
 - [[Software Fork]]
 - [[Git Blame]]
-- [[Provenance]]
+- [[The Cathedral and the Bazaar]]
 - [[Free Rider Problem]]
-- [[Chesterton's Fence]]
+- [[Open Source Sustainability]]
 - [[Commons-Based Peer Production]]
 - [[Peter Principle]]
 - [[Pair Programming]]

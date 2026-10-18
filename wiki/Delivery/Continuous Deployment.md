@@ -17,7 +17,7 @@ The only honest verification is to reproduce the deployment path end to end — 
 ## See also
 - [[Continuous Integration]]
 - [[Agile Software Development]]
-- [[Database Migration]]
+- [[DevOps]]
 - [[Secret Management]]
 - [[Containerization]]
 

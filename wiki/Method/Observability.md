@@ -17,7 +17,7 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 - [[Instrumentation]]
 - [[Runtime Verification]]
 - [[Time Series Database]]
-- [[Reproducible Case]]
+- [[Mean Time to Recovery]]
 - [[Resource Starvation]]
 - [[Testing in Production]]
 - [[Logging]]

@@ -33,7 +33,7 @@ Owners do not replace good review practice. A required approval is only as meani
 ## See also
 - [[Developer Certificate of Origin]]
 - [[Git Blame]]
-- [[Conway's Law]]
+- [[Team Topologies]]
 - [[Bus Factor]]
 - [[Branch Protection]]
 - [[Bug Triage]]

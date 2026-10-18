@@ -34,6 +34,6 @@ Strict rules have costs:
 - **Required checks must be reliable.** A [[Flaky Test]] in a required check blocks merges at random and teaches people to rerun rather than read failures.
 
 ## See also
-- [[Code Review]]
+- [[Change Advisory Board]]
 - [[Coverage Gate]]
 - [[Force Push]]

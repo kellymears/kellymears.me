@@ -30,7 +30,7 @@ Three practical notes.
 
 ## Related
 - [[Observability]]
-- [[Ground Truth]]
+- [[Dependency Confusion]]
 - [[Backup and Restore]]
 - [[Twelve-Factor App]]
 - [[Full-Disk Encryption]]

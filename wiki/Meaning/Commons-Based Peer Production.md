@@ -21,3 +21,5 @@ Governance strains as a project grows. Early contributors often accumulate outsi
 - [[Taxonomy]]
 - [[Free Rider Problem]]
 - [[Prisoner's Dilemma]]
+- [[The Cathedral and the Bazaar]]
+- [[Open Source Sustainability]]

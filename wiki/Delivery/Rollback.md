@@ -13,7 +13,7 @@ The alternative discipline is "fix forward": rather than reverting, ship a fix a
 
 ## See also
 - [[Blue-Green Deployment]]
-- [[Canary Release]]
+- [[Mean Time to Recovery]]
 - [[Database Migration]]
 
 ## Related

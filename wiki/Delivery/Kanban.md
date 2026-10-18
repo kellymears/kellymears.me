@@ -33,3 +33,4 @@ Kanban's metrics connect to delivery performance more broadly. Cycle time on the
 - [[Parkinson's Law]]
 - [[Continuous Deployment]]
 - [[Release Train]]
+- [[DevOps]]

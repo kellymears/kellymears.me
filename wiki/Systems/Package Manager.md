@@ -19,13 +19,13 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 - [[Artifact Repository]]
 - [[Monorepo]]
 - [[Semantic Versioning]]
-- [[Supply Chain Security]]
+- [[Dependency Confusion]]
 - [[Bundler]]
 - [[Dotfiles]]
 - [[Dynamic Linking]]
 
 ## Related
-- [[Secret Management]]
+- [[Left-Pad Incident]]
 - [[Module Graph]]
 - [[Topological Sort]]
 - [[P versus NP Problem]]

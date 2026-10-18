@@ -17,12 +17,12 @@ The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed up
 - [[Polyfill]]
 - [[Secret Management]]
 - [[Commit Signing]]
-- [[Package Manager]]
+- [[Open Source Sustainability]]
 - [[Code Signing]]
 - [[Third-Party Script]]
 
 ## Related
-- [[Silent Failure]]
+- [[Dependency Confusion]]
 - [[Semantic Versioning]]
 - [[Free Rider Problem]]
 - [[Reproducible Build]]

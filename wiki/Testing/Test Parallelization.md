@@ -27,7 +27,7 @@ These failures are intermittent, depending on which tests happen to overlap, so 
 Randomizing test order, even when running serially, flushes out hidden dependencies before parallelization does. Many runners print the seed they used, so an order-dependent failure can be replayed with [[Determinism]].
 
 ## See also
-- [[Test Impact Analysis]]
+- [[Build Matrix]]
 - [[Merge Train]]
 - [[Queueing Theory]]
 - [[Test Pyramid]]

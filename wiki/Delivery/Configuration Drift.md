@@ -34,4 +34,4 @@ The honest response to drift is not to forbid manual change entirely. Incidents 
 ## See also
 - [[YAML]]
 - [[Reproducible Build]]
-- [[Twelve-Factor App]]
+- [[Pets vs Cattle]]

@@ -26,7 +26,7 @@ The common record types are few: an address record, an alias record pointing one
 - [[Border Gateway Protocol]]
 
 ## Related
-- [[Least Privilege]]
+- [[Dependency Confusion]]
 - [[Hash Function]]
 - [[Secret Management]]
 - [[Time to Live]]

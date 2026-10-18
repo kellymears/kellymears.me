@@ -21,7 +21,7 @@ A second: how installed packages are laid out on disk is a property of the packa
 
 ## Related
 - [[Bundler]]
-- [[Silent Failure]]
+- [[Left-Pad Incident]]
 - [[Module Graph]]
 - [[Software Bill of Materials]]
 - [[Reproducible Build]]
