@@ -24,3 +24,4 @@ The trade-off inference introduces is an error message pointing to where a const
 - [[Dynamic Dispatch]]
 - [[TypeScript]]
 - [[Type System]]
+- [[Generics]]

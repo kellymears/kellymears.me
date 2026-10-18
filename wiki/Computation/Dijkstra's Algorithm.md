@@ -35,7 +35,7 @@ Shortest paths are easy, but small changes make problems much harder: the travel
 
 ## See also
 - [[IP Routing]]
-- [[Game AI]]
+- [[Traveling Salesman Problem]]
 - [[Dynamic Programming]]
 - [[Big-O Notation]]
 - [[Binary Heap]]

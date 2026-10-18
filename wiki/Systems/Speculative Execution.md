@@ -28,3 +28,5 @@ Variants have kept appearing, many involving [[Simultaneous Multithreading]], wh
 - [[Locality of Reference]]
 - [[Address Space Layout Randomization]]
 - [[Virtual Memory]]
+- [[Just-in-Time Compilation]]
+- [[Memory Model]]

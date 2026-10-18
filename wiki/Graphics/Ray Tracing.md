@@ -19,7 +19,7 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 - [[Physically Based Rendering]]
 - [[Signed Distance Field]]
 - [[Ray Marching]]
-- [[Seeded Randomness]]
+- [[Monte Carlo Method]]
 - [[Temporal Upscaling]]
 - [[Bounding Volume Hierarchy]]
 - [[Ambient Occlusion]]

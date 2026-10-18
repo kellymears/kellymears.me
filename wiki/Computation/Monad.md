@@ -24,3 +24,5 @@ The word is the obstacle. It arrives from category theory, and the definitions i
 - [[Fail Fast]]
 - [[Algebraic Data Type]]
 - [[Promise]]
+- [[Generics]]
+- [[Exception Handling]]

@@ -18,7 +18,7 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Multi-Agent Orchestration]]
 - [[Git Worktree]]
 - [[Determinism]]
-- [[Bundler]]
+- [[Memory Model]]
 - [[Reproducible Case]]
 - [[Fan-Out and Fan-In]]
 - [[Logical Clock]]

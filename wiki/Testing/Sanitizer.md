@@ -30,5 +30,5 @@ Older tools such as Valgrind find similar memory errors without recompiling, by 
 - [[Fuzzing]]
 - [[Instrumentation]]
 - [[Memory Safety]]
-- [[Static Analysis]]
+- [[Memory Model]]
 - [[Core Dump]]

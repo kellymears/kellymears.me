@@ -29,7 +29,7 @@ Small changes can cross the line. Finding the shortest path in a graph is easy, 
 ## See also
 - [[Stable Matching]]
 - [[Halting Problem]]
-- [[Public-Key Cryptography]]
+- [[Traveling Salesman Problem]]
 - [[Dynamic Programming]]
 - [[Graph Traversal]]
 - [[Greedy Algorithm]]

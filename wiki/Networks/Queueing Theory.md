@@ -34,7 +34,7 @@ Lessons follow:
 
 ## See also
 - [[Kanban]]
-- [[Backpressure]]
+- [[Amdahl's Law]]
 - [[Thundering Herd]]
 - [[Message Queue]]
 - [[Bandwidth]]

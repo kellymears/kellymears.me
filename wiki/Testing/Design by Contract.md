@@ -29,5 +29,5 @@ Contracts between functions are different from [[Contract Testing]], which check
 - [[Assertion]]
 - [[Type System]]
 - [[Verification and Validation]]
-- [[Property-Based Testing]]
+- [[Polymorphism]]
 - [[Defensive Default]]

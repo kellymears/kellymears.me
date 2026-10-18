@@ -14,8 +14,8 @@ The trade-off is allocation: every "edit" is a new object, which pressures the [
 Immutability and [[Pure Function]]s reinforce each other: a pure function is easiest to write over immutable inputs, because there's no way for it to have caused an externally visible mutation even by accident. The two together are the usual foundation for equational reasoning — replacing an expression with its value without changing the program's meaning — which is much harder to claim once any part of the input could have been mutated mid-computation.
 
 ## See also
-- [[Pure Function]]
-- [[Race Condition]]
+- [[Object-Oriented Programming]]
+- [[Memory Model]]
 - [[Closure]]
 - [[Hash Table]]
 - [[Copy-on-Write]]

@@ -29,5 +29,5 @@ Lock-free is not automatically faster. Under heavy contention, threads waste eff
 ## See also
 - [[Concurrency and Parallelism]]
 - [[Immutability]]
-- [[Write-Ahead Logging]]
+- [[Memory Model]]
 - [[Communicating Sequential Processes]]

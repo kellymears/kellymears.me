@@ -23,3 +23,5 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 - [[Skip List]]
 - [[Information Theory]]
 - [[Superposition]]
+- [[Bitwise Operation]]
+- [[Monte Carlo Method]]

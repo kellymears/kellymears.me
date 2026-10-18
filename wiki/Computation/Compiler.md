@@ -19,7 +19,7 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Ownership and Borrowing]]
 - [[Garbage Collection]]
 - [[Static Analysis]]
-- [[Differential Testing]]
+- [[Just-in-Time Compilation]]
 - [[Formal Verification]]
 - [[Halting Problem]]
 - [[Lambda Calculus]]

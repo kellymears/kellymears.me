@@ -32,3 +32,5 @@ The build step usually belongs to the [[Bundler]] or a fast transpiler that stri
 - [[Algebraic Data Type]]
 - [[Polyfill]]
 - [[Type System]]
+- [[Generics]]
+- [[Polymorphism]]

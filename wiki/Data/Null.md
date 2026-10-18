@@ -31,7 +31,7 @@ Null also leaks into data as text. People with the surname Null have been reject
 Nulls deserve the same edge-case attention as zero and empty strings in [[Boundary Value Analysis]]. Unhandled, they often cause a [[Silent Failure]] rather than a crash. [[Floating-Point Arithmetic]] has its own version in NaN, which is also not equal to itself.
 
 ## See also
-- [[Algebraic Data Type]]
+- [[Exception Handling]]
 - [[Relational Database]]
 - [[SQL Join]]
 - [[Silent Failure]]

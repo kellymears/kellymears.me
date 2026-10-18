@@ -24,7 +24,7 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 
 ## Related
 - [[Unreachable Code]]
-- [[Cron]]
+- [[Exception Handling]]
 - [[Exit Status]]
 - [[Error Message]]
 - [[Normalization of Deviance]]

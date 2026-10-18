@@ -35,3 +35,4 @@ Dependency injection is also a [[Seam]], in Michael Feathers's sense: a place wh
 - [[Leaky Abstraction]]
 - [[Environment Variable]]
 - [[Refactoring]]
+- [[Object-Oriented Programming]]

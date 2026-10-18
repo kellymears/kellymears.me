@@ -28,7 +28,7 @@ Defenses include using wide enough types, checked arithmetic that reports overfl
 
 ## See also
 - [[Floating-Point Arithmetic]]
-- [[Boundary Value Analysis]]
+- [[Bitwise Operation]]
 - [[Silent Failure]]
 - [[Binary Search]]
 - [[Sanitizer]]

@@ -25,6 +25,6 @@ Used well, benchmarks catch performance regressions in [[Continuous Integration]
 ## See also
 - [[Load Testing]]
 - [[Benchmark Contamination]]
-- [[Goodhart's Law]]
-- [[Thermal Throttling]]
+- [[Just-in-Time Compilation]]
+- [[Amdahl's Law]]
 - [[Performance Budget]]

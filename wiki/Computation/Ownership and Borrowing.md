@@ -28,7 +28,7 @@ The costs are real. Newcomers spend weeks "fighting the borrow checker," rewriti
 The idea spreads beyond Rust. Swift, C++, and newer research languages have added ownership and move features, and the rule of [[Immutability]] by default makes a related trade.
 
 ## See also
-- [[Garbage Collection]]
+- [[Memory Model]]
 - [[Type Inference]]
 - [[Lock-Free Data Structure]]
 - [[Least Privilege]]

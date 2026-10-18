@@ -23,3 +23,4 @@ The cost is that a closure keeps its captured variables alive for as long as the
 - [[Reference Counting]]
 - [[Call Stack]]
 - [[Dynamic Dispatch]]
+- [[Object-Oriented Programming]]

@@ -21,3 +21,5 @@ The common failure is an object that has the right method name but a subtly wron
 - [[Dynamic Dispatch]]
 - [[TypeScript]]
 - [[Type System]]
+- [[Polymorphism]]
+- [[Generics]]

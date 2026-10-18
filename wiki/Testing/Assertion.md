@@ -21,7 +21,7 @@ A related discipline: when a test is written after a fix, revert the fix and wat
 
 ## See also
 - [[Falsifiability]]
-- [[Vacuous Truth]]
+- [[Exception Handling]]
 - [[Test-Driven Development]]
 - [[LLM-as-Judge]]
 - [[Fail Fast]]

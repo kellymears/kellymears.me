@@ -33,3 +33,4 @@ The research frontier pushes types closer to full proofs. [[Type Inference]] rem
 - [[Design by Contract]]
 - [[Property-Based Testing]]
 - [[Shift-Left Testing]]
+- [[Generics]]

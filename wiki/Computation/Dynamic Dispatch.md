@@ -30,3 +30,5 @@ Dispatch on types is one answer to the *expression problem*: making it easy to a
 - [[Type Inference]]
 - [[Lambda Calculus]]
 - [[Event Delegation]]
+- [[Polymorphism]]
+- [[Object-Oriented Programming]]

@@ -22,3 +22,4 @@ An interpreter also changes where errors surface: a type or name error in a bran
 - [[Abstract Syntax Tree]]
 - [[WebAssembly]]
 - [[Dynamic Dispatch]]
+- [[Just-in-Time Compilation]]

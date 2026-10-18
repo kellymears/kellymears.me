@@ -25,3 +25,4 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Planning Fallacy]]
 - [[Dunbar's Number]]
 - [[Agile Software Development]]
+- [[Amdahl's Law]]

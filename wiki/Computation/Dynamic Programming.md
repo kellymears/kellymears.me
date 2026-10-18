@@ -25,3 +25,4 @@ The common mistake is reaching for DP on a problem that only has optimal substru
 - [[Divide and Conquer]]
 - [[Backpropagation]]
 - [[Reinforcement Learning]]
+- [[Traveling Salesman Problem]]

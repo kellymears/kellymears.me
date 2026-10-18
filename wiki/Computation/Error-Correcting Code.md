@@ -30,7 +30,7 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 
 ## See also
 - [[Object Storage]]
-- [[Merkle Tree]]
+- [[Bitwise Operation]]
 - [[Journaling File System]]
 - [[Byzantine Fault Tolerance]]
 - [[Information Theory]]
