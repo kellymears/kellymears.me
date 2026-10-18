@@ -31,6 +31,6 @@ The general principle is the one behind every [[Event Loop]]: whoever holds the 
 - [[Resource Starvation]]
 - [[Pressure Stall Information]]
 - [[Race Condition]]
-- [[Attention Residue]]
+- [[Real-Time Operating System]]
 - [[Dynamic Voltage and Frequency Scaling]]
 - [[Kernel]]

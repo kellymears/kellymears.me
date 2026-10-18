@@ -19,7 +19,7 @@ Reliability is also why TCP is the wrong tool for anything latency-sensitive und
 - [[Packet Switching]]
 - [[Latency and Jitter]]
 - [[Port]]
-- [[Leaky Abstraction]]
+- [[Endianness]]
 - [[Congestion Control]]
 - [[Maximum Transmission Unit]]
 - [[Delivery Guarantees]]

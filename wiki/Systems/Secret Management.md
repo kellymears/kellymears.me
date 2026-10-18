@@ -34,3 +34,4 @@ Three practical notes.
 - [[Backup and Restore]]
 - [[Twelve-Factor App]]
 - [[Full-Disk Encryption]]
+- [[Trusted Platform Module]]

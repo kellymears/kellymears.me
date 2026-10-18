@@ -25,3 +25,4 @@ The tools split on a real distinction: declarative tools (Terraform) describe th
 - [[Twelve-Factor App]]
 - [[Platform Engineering]]
 - [[YAML]]
+- [[Kubernetes]]

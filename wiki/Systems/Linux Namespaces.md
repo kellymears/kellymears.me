@@ -23,3 +23,5 @@ Namespaces are also not a security boundary on their own. The kernel underneath 
 ## Related
 - [[Process]]
 - [[Agent Sandbox]]
+- [[Kubernetes]]
+- [[Superuser]]

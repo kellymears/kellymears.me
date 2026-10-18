@@ -28,3 +28,4 @@ ASLR is therefore one layer among several. **Stack canaries** place a random val
 - [[Call Stack]]
 - [[Virtual Memory]]
 - [[Penetration Testing]]
+- [[Linker]]

@@ -23,7 +23,7 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 - [[Font Rendering]]
 
 ## Related
-- [[Vacuous Truth]]
+- [[Endianness]]
 - [[Glob]]
 - [[Truncation Bias]]
 - [[Ground Truth]]

@@ -22,7 +22,7 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Just-in-Time Compilation]]
 - [[Formal Verification]]
 - [[Halting Problem]]
-- [[Lambda Calculus]]
+- [[Linker]]
 - [[Sanitizer]]
 - [[Abstract Syntax Tree]]
 - [[WebAssembly]]

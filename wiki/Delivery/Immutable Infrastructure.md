@@ -25,3 +25,4 @@ The tradeoff is that anything genuinely needing in-place mutation — a long-liv
 - [[Configuration Drift]]
 - [[Twelve-Factor App]]
 - [[Artifact Repository]]
+- [[Kubernetes]]

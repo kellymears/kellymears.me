@@ -30,3 +30,5 @@ The C ABI has become the common language between languages. Rust, Go, Python ext
 - [[Instruction Set Architecture]]
 - [[Package Manager]]
 - [[Rolling Release]]
+- [[Endianness]]
+- [[Linker]]

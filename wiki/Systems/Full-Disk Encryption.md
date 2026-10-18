@@ -31,3 +31,4 @@ Unattended unlocking adds trade-offs. A Trusted Platform Module can release the 
 - [[Boot Process]]
 - [[Secret Management]]
 - [[Hash Function]]
+- [[Trusted Platform Module]]

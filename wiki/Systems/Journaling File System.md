@@ -32,6 +32,6 @@ Neither design protects against everything. A journal guarantees consistency, no
 
 ## See also
 - [[Error-Correcting Code]]
-- [[Copy-on-Write]]
+- [[RAID]]
 - [[Solid-State Drive]]
 - [[Inode]]

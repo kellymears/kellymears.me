@@ -24,7 +24,7 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 ## Related
 - [[Shell]]
 - [[Secret Management]]
-- [[Ground Truth]]
+- [[Kubernetes]]
 - [[Git Worktree]]
 - [[Microservices]]
 - [[Silent Failure]]

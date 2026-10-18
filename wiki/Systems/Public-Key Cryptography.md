@@ -27,6 +27,6 @@ The weak point is binding a public key to an identity. A public key proves only 
 - [[Commit Signing]]
 - [[Full-Disk Encryption]]
 - [[Man-in-the-Middle Attack]]
-- [[Secret Management]]
+- [[Trusted Platform Module]]
 - [[Zero Trust Network]]
 - [[P versus NP Problem]]

@@ -34,6 +34,6 @@ Multicore processors add a trap called **false sharing**. When two threads write
 - [[Binary Heap]]
 - [[Ring Buffer]]
 - [[Lock-Free Data Structure]]
-- [[Leaky Abstraction]]
+- [[Cache Coherence]]
 - [[Translation Lookaside Buffer]]
 - [[Linked List]]

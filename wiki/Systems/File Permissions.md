@@ -28,7 +28,8 @@ The basic model has well-known limits. It allows one owner and one group per fil
 Permissions cause everyday errors. A private SSH key readable by others is refused by [[Secure Shell]] as a safety measure, a script without the execute bit won't run directly, and files created inside a container as root may be unwritable by the host user, a common snag with Docker volumes. [[Secret Management]] files and configuration in [[Dotfiles]] usually need tight modes such as 600. Every permission check is performed by the [[Kernel]] when a program opens a file through a [[System Call]], which is what makes the scheme enforceable.
 
 ## See also
-- [[Least Privilege]]
+- [[Filesystem]]
 - [[Inode]]
 - [[Secure Shell]]
 - [[Kernel]]
+- [[Superuser]]

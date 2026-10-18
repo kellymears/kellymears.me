@@ -26,7 +26,7 @@ The costs are real. A pinned thread can't escape a busy core, so badly chosen af
 - [[Context Switch]]
 - [[Simultaneous Multithreading]]
 - [[Concurrency and Parallelism]]
-- [[Frame Pacing]]
+- [[Cache Coherence]]
 - [[Resource Starvation]]
 - [[Process]]
 - [[Thermal Throttling]]
