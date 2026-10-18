@@ -20,3 +20,5 @@ Mismanaging the line, rather than deliberately crossing it, is one recurring sou
 - [[MacGuffin]]
 - [[Fair-Play Mystery]]
 - [[Speech Act]]
+- [[Retcon]]
+- [[Fourth Wall]]

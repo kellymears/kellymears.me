@@ -31,3 +31,4 @@ The essay's lasting point is that openness and frequent feedback can beat carefu
 - [[Code Review]]
 - [[Agile Software Development]]
 - [[Benevolent Dictator for Life]]
+- [[Wisdom of the Crowd]]

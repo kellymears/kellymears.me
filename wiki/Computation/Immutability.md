@@ -17,7 +17,7 @@ Immutability and [[Pure Function]]s reinforce each other: a pure function is eas
 - [[Object-Oriented Programming]]
 - [[Memory Model]]
 - [[Closure]]
-- [[Hash Table]]
+- [[Ship of Theseus]]
 - [[Copy-on-Write]]
 - [[State Management]]
 - [[Soft Delete]]

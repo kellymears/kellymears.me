@@ -29,5 +29,5 @@ Calibration also shifts with data. A model calibrated on its training distributi
 ## See also
 - [[Precision and Recall]]
 - [[ELIZA Effect]]
-- [[Sycophancy]]
+- [[Wisdom of the Crowd]]
 - [[Confidence Interval]]

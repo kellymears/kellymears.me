@@ -22,3 +22,5 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Pluralistic Ignorance]]
 - [[Social Deduction Game]]
 - [[Psychological Safety]]
+- [[Information Cascade]]
+- [[Wisdom of the Crowd]]

@@ -21,3 +21,5 @@ Parasocial bonds aren't inherently pathological — they scale a normal social i
 - [[Context Collapse]]
 - [[ELIZA Effect]]
 - [[Social Capital]]
+- [[Attention Economy]]
+- [[Fourth Wall]]

@@ -18,7 +18,7 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Microcopy]]
 - [[Carousel]]
 - [[Calm Technology]]
-- [[Compulsion Loop]]
+- [[Attention Economy]]
 - [[AB Testing]]
 - [[Gamification]]
 - [[Enshittification]]

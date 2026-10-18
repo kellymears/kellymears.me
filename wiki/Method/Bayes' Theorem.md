@@ -36,6 +36,6 @@ Bayesian statistics, which treats probabilities as degrees of belief, contrasts 
 - [[Occam's Razor]]
 - [[Falsifiability]]
 - [[Correlation and Causation]]
-- [[Fermi Estimation]]
+- [[Information Cascade]]
 - [[Calibration]]
 - [[Statistical Significance]]

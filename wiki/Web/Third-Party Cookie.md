@@ -33,3 +33,4 @@ The cookie banners across the web come from European privacy law requiring conse
 - [[Content Security Policy]]
 - [[Differential Privacy]]
 - [[Browser Extension]]
+- [[Attention Economy]]

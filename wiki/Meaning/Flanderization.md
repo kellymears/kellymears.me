@@ -19,3 +19,4 @@ The result is best read as [[Prototype Theory]] applied to a fictional person in
 - [[Path Dependence]]
 - [[Technical Debt]]
 - [[Taxonomy]]
+- [[Retcon]]

@@ -33,3 +33,4 @@ Designers sometimes work with the effect rather than against it. Some traffic en
 - [[Moral Panic]]
 - [[Third-Person Effect]]
 - [[Sunburn]]
+- [[Trolley Problem]]

@@ -19,6 +19,6 @@ Design bends around the paying minority in ways non-paying players absorb withou
 - [[Battle Pass]]
 - [[Compulsion Loop]]
 - [[Meta-Progression]]
-- [[Time as Resource]]
+- [[Two-Sided Market]]
 - [[Enshittification]]
 - [[Power Creep]]

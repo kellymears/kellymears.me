@@ -30,6 +30,6 @@ Users find their own exits: open feeds such as [[RSS]], federated social network
 Critics note the term is vivid but loose, sometimes applied to any product change people dislike. And not all decline is extraction: free services may simply be finding a way to pay for themselves, the tension at the heart of [[Free-to-Play]].
 
 ## See also
-- [[Principal-Agent Problem]]
-- [[Eternal September]]
+- [[Attention Economy]]
+- [[Two-Sided Market]]
 - [[IndieWeb]]

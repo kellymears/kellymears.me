@@ -16,11 +16,11 @@ Network effects are often confused with switching costs, and the two are related
 
 ## See also
 - [[Telephone Network]]
-- [[Strength of Weak Ties]]
+- [[Two-Sided Market]]
 - [[Small-World Network]]
 - [[Social Capital]]
 - [[Internet Exchange Point]]
 - [[Stable Matching]]
 - [[Telegraph]]
 - [[Browser Wars]]
-- [[Enshittification]]
+- [[Speculative Bubble]]

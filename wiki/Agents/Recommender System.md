@@ -29,5 +29,5 @@ Recommendation also raises privacy questions, since accurate predictions require
 
 ## See also
 - [[K-Means Clustering]]
-- [[Faceted Search]]
-- [[Information Scent]]
+- [[Two-Sided Market]]
+- [[Information Cascade]]

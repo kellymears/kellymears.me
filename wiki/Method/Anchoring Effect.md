@@ -25,6 +25,6 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 - [[Framing Effect]]
 - [[Loss Aversion]]
 - [[System Prompt]]
-- [[Planning Fallacy]]
+- [[Wisdom of the Crowd]]
 - [[Pre-mortem]]
 - [[Choice Architecture]]

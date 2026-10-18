@@ -30,3 +30,4 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 - [[Commitment Device]]
 - [[Opportunity Cost]]
 - [[Battle Pass]]
+- [[Speculative Bubble]]

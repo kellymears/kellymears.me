@@ -30,3 +30,4 @@ The concept links to broader questions of well-being. If satisfaction depends on
 - [[Planned Obsolescence]]
 - [[Collectible Card Game]]
 - [[Gift Economy]]
+- [[Speculative Bubble]]

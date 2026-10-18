@@ -24,3 +24,4 @@ The habit worth keeping is to look at the data before assuming its shape. A hist
 ## See also
 - [[Gambler's Fallacy]]
 - [[Bayes' Theorem]]
+- [[Wisdom of the Crowd]]

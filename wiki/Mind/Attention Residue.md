@@ -26,7 +26,7 @@ Several practices follow:
 - [[Flow]]
 - [[Monotropism]]
 - [[Modal Dialog]]
-- [[CPU Scheduler]]
+- [[Attention Economy]]
 - [[Doomscrolling]]
 - [[Parkinson's Law]]
 - [[Zeigarnik Effect]]

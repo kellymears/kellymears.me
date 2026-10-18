@@ -19,7 +19,7 @@ This is why arguments about whether a hot dog is a sandwich never resolve. Each 
 - [[Implicature]]
 - [[Folk Etymology]]
 - [[Knowledge Graph]]
-- [[Linguistic Relativity]]
+- [[Ship of Theseus]]
 - [[Representativeness Heuristic]]
 - [[Neurodiversity]]
 - [[Mental Model]]

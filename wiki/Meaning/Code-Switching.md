@@ -28,3 +28,4 @@ The phenomenon also matters for technology. Speech recognition and language mode
 - [[Theory of Mind]]
 - [[Creole Language]]
 - [[Speech Act]]
+- [[Dog Whistle]]

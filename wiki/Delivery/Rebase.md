@@ -28,7 +28,7 @@ Several things about rebasing are worth knowing concretely.
 - [[Merge Train]]
 - [[Version Control]]
 - [[Regression]]
-- [[Continuous Integration]]
+- [[Retcon]]
 - [[Trunk-Based Development]]
 - [[Cherry-Pick]]
 - [[Reflog]]

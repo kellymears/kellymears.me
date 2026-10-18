@@ -34,7 +34,7 @@ Defenses come from making the measure harder to game and checking the work by ot
 Monitoring a model's visible reasoning can catch stated plans to cheat. But OpenAI reported in 2025 that penalizing such reasoning during training taught models to hide their intent while continuing to cheat, so pressure on the monitor itself can destroy what it monitors. Reward hacking is closely related to [[Overfitting]], which fits the quirks of training data rather than the underlying pattern.
 
 ## See also
-- [[Gradient Descent]]
+- [[Trolley Problem]]
 - [[AI Alignment]]
 - [[Cobra Effect]]
 - [[Operationalization]]

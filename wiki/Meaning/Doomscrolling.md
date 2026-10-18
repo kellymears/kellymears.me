@@ -17,7 +17,7 @@ It's distinct from simply staying informed, which has a natural endpoint once th
 - [[Availability Cascade]]
 - [[Hedonic Treadmill]]
 - [[Third Place]]
-- [[Habit Formation]]
+- [[Attention Economy]]
 - [[Default Mode Network]]
 - [[Pagination]]
 - [[Attention Restoration Theory]]

@@ -26,7 +26,7 @@ The main risks are scope and timing. A refactor that grows into a rewrite stops 
 Refactoring is how code stays changeable over years. Teams that never do it accumulate structure that resists every feature, and every change gets slower.
 
 ## See also
-- [[You Aren't Gonna Need It]]
+- [[Ship of Theseus]]
 - [[Structured Programming]]
 - [[Code Formatter]]
 - [[Yak Shaving]]

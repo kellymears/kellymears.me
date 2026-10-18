@@ -33,7 +33,8 @@ It fits with other findings about judgment: [[Anchoring Effect]] shows that refe
 ## See also
 - [[Peak-End Rule]]
 - [[Decision Fatigue]]
-- [[Planning Fallacy]]
+- [[Trolley Problem]]
 - [[Variable-Ratio Reinforcement]]
 - [[Hyperbolic Discounting]]
 - [[Affective Forecasting]]
+- [[Speculative Bubble]]

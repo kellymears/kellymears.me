@@ -21,3 +21,5 @@ Both rely on the same trick as [[Chekhov's Gun]]: an object earns narrative weig
 - [[Prototype Theory]]
 - [[Environmental Storytelling]]
 - [[Unreliable Narrator]]
+- [[Retcon]]
+- [[Fourth Wall]]

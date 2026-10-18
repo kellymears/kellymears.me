@@ -20,3 +20,4 @@ What the effect demonstrates regardless is that editing is authorship, not assem
 - [[Prototype Theory]]
 - [[Naming]]
 - [[Unreliable Narrator]]
+- [[Fourth Wall]]

@@ -16,7 +16,7 @@ The sharpest correction is definitional: Hardin was describing **open access** â
 - [[Software Fork]]
 - [[Prisoner's Dilemma]]
 - [[Greenhouse Effect]]
-- [[Free Rider Problem]]
+- [[Trolley Problem]]
 - [[Open Source Sustainability]]
 - [[Public Domain]]
 

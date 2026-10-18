@@ -21,4 +21,4 @@ What distinguishes the two is not the loop's shape but its **incentive structure
 - [[Match-Three]]
 - [[Zeigarnik Effect]]
 - [[Reward Prediction Error]]
-- [[Habit Formation]]
+- [[Attention Economy]]

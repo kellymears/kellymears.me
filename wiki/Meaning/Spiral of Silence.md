@@ -22,3 +22,4 @@ A "hard core" resists the spiral regardless of perceived isolation — people wi
 - [[Internet Censorship]]
 - [[Eternal September]]
 - [[Psychological Safety]]
+- [[Information Cascade]]

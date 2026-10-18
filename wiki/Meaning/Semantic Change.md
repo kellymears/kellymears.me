@@ -36,3 +36,4 @@ Semantic change also connects to how categories work, with central meanings shif
 - [[Snowclone]]
 - [[Linguistic Relativity]]
 - [[Implicature]]
+- [[Ship of Theseus]]

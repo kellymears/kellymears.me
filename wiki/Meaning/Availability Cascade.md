@@ -20,3 +20,4 @@ The concept doesn't require the underlying claim to be false — some cascades b
 - [[Pluralistic Ignorance]]
 - [[Matthew Effect]]
 - [[Self-Fulfilling Prophecy]]
+- [[Information Cascade]]

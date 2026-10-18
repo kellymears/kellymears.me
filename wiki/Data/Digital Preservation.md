@@ -36,7 +36,7 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 - [[Public Domain]]
 - [[GIF]]
 - [[SQLite]]
-- [[JPEG]]
+- [[Ship of Theseus]]
 - [[Checksum]]
 - [[Optical Character Recognition]]
 - [[Metadata]]

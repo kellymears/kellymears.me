@@ -21,3 +21,5 @@ The term migrated outward to describe any arrangement where insiders know a cont
 - [[Masking]]
 - [[Context Collapse]]
 - [[Speech Act]]
+- [[Retcon]]
+- [[Fourth Wall]]

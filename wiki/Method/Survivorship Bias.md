@@ -21,7 +21,7 @@ The general move Wald's analysis teaches is to ask what is missing from a datase
 - [[Sensitivity and Specificity]]
 - [[Hindsight Bias]]
 - [[Pareto Principle]]
-- [[Matthew Effect]]
+- [[Speculative Bubble]]
 - [[Confounding]]
 - [[Texas Sharpshooter Fallacy]]
 - [[Lindy Effect]]

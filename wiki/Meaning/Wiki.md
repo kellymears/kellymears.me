@@ -30,3 +30,4 @@ Personal wikis have become common as a private reference — the same mechanics,
 - [[Project Xanadu]]
 - [[Open Data]]
 - [[Eternal September]]
+- [[Wisdom of the Crowd]]
