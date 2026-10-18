@@ -31,3 +31,4 @@ Two practical cautions.
 - [[Backlink]]
 - [[Open Graph]]
 - [[Web Crawler]]
+- [[Ontology]]

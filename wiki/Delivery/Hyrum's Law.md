@@ -16,7 +16,7 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 - [[Backward Compatibility]]
 - [[Polyfill]]
 - [[Leaky Abstraction]]
-- [[Documentation Rot]]
+- [[Data Contract]]
 - [[Regression]]
 - [[API Translation Layer]]
 - [[Characterization Test]]

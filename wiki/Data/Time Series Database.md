@@ -33,6 +33,6 @@ Two practical hazards: clocks on many machines disagree, so [[Network Time Proto
 ## See also
 - [[Window Function]]
 - [[Observability]]
-- [[Data Compression]]
+- [[Bitemporal Data]]
 - [[Stream Processing]]
 - [[Ring Buffer]]

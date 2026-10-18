@@ -29,7 +29,7 @@ Floating point also undermines reproducibility. Different compilers, instruction
 
 ## See also
 - [[Microcode]]
-- [[JSON]]
+- [[Decimal Arithmetic]]
 - [[Leaky Abstraction]]
 - [[Null]]
 - [[Quaternion]]

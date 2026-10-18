@@ -29,6 +29,6 @@ Lakes are fed in batches and from [[Change Data Capture]] streams. Keeping a lak
 
 ## See also
 - [[Object Storage]]
-- [[ETL Pipeline]]
-- [[Data Lineage]]
+- [[Data Contract]]
+- [[Data Cleaning]]
 - [[Dimensional Modeling]]

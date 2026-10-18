@@ -22,3 +22,4 @@ The operational cost is that every denormalized copy is now a piece of data that
 - [[SQL Join]]
 - [[Document Database]]
 - [[Dimensional Modeling]]
+- [[Command Query Responsibility Segregation]]

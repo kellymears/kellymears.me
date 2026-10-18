@@ -33,7 +33,7 @@ Signals have their own pitfalls:
 Build systems that rebuild only what changed use the same idea. Where [[Optimistic UI]] needs instant local updates and [[Hydration]] needs cheap startup, fine-grained reactivity helps both.
 
 ## See also
-- [[Virtual DOM]]
+- [[Spreadsheet]]
 - [[Memoization]]
 - [[Islands Architecture]]
 - [[Immutability]]

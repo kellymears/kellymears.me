@@ -15,7 +15,7 @@ This is what makes CDC the practical backbone for keeping a search index, a cach
 - [[Data Lineage]]
 - [[Event Sourcing]]
 - [[Stored Procedure]]
-- [[Eventual Consistency]]
+- [[Command Query Responsibility Segregation]]
 - [[Materialized View]]
 - [[Transactional Outbox]]
 - [[Columnar Storage]]

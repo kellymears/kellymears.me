@@ -33,3 +33,4 @@ Some backend platforms expose the database directly to browsers and rely entirel
 - [[Stored Procedure]]
 - [[Zero Trust Network]]
 - [[Database Sharding]]
+- [[Audit Log]]

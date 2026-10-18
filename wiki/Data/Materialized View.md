@@ -27,7 +27,7 @@ The difficulty is the familiar one of [[Cache Invalidation]], since a materializ
 - [[Dimensional Modeling]]
 - [[Stored Procedure]]
 - [[Common Table Expression]]
-- [[Eventual Consistency]]
+- [[Command Query Responsibility Segregation]]
 - [[Database Index]]
 - [[ETL Pipeline]]
 - [[Columnar Storage]]

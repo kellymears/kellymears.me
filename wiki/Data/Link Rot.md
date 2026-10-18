@@ -35,4 +35,4 @@ Inside a [[Wiki]], internal links can be checked mechanically: a link to a page 
 - [[Web Crawler]]
 - [[URL]]
 - [[Data Lineage]]
-- [[Local-First Software]]
+- [[Digital Preservation]]

@@ -30,6 +30,6 @@ Warehouses often leave [[Foreign Key]] constraints unenforced for loading speed,
 
 ## See also
 - [[Window Function]]
-- [[ETL Pipeline]]
-- [[Denormalization]]
+- [[Bitemporal Data]]
+- [[Data Cleaning]]
 - [[Data Lake]]

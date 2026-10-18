@@ -26,3 +26,4 @@ Replication lag is the source of a specific, easy-to-miss class of bug: a user s
 - [[Network Partition]]
 - [[Backup and Restore]]
 - [[Local-First Software]]
+- [[Command Query Responsibility Segregation]]

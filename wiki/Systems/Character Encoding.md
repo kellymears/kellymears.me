@@ -27,6 +27,6 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 - [[Glob]]
 - [[Truncation Bias]]
 - [[Internationalization]]
-- [[Falsifiability]]
+- [[Stemming and Lemmatization]]
 - [[Coverage Gate]]
 - [[Byte-Pair Encoding]]

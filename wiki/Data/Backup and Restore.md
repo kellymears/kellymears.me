@@ -31,7 +31,7 @@ Backups also carry obligations. They contain the same sensitive data as producti
 
 ## See also
 - [[RAID]]
-- [[Filesystem Snapshot]]
+- [[Digital Preservation]]
 - [[Write-Ahead Logging]]
 - [[Silent Failure]]
 - [[Personal Data]]

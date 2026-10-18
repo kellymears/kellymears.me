@@ -32,7 +32,7 @@ Edit distance has limits. A purely textual diff doesn't know what code means, so
 ## See also
 - [[Command Palette]]
 - [[Diff]]
-- [[Three-Way Merge]]
+- [[Stemming and Lemmatization]]
 - [[Semantic Conflict]]
 - [[Entity Resolution]]
 - [[Autocomplete]]

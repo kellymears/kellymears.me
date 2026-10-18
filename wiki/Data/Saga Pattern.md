@@ -28,7 +28,7 @@ The pattern accepts that distributed systems can't make several services behave 
 
 ## See also
 - [[Microservices]]
-- [[Transactional Outbox]]
+- [[Command Query Responsibility Segregation]]
 - [[Durable Execution]]
 - [[Idempotence]]
 - [[Eventual Consistency]]

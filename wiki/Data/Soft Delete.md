@@ -29,8 +29,8 @@ Alternatives often fit better. Moving deleted rows to a separate archive table k
 Distributed systems use a related idea under the name *tombstone*: a marker that records a deletion so replicas learn about it, since simply removing data would look like data that was never received. [[Conflict-Free Replicated Data Type]] designs and [[Database Replication]] depend on tombstones, which in turn need garbage collection. [[Draft and Published]] workflows face a similar question of what "removed" means for content, and [[Immutability]] answers it by never removing anything at all.
 
 ## See also
-- [[Event Sourcing]]
-- [[Database Index]]
+- [[Audit Log]]
+- [[Bitemporal Data]]
 - [[Undo]]
 - [[Personal Data]]
 - [[Immutability]]

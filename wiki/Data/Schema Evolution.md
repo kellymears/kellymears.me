@@ -34,5 +34,5 @@ Schema evolution is the deliberate counterpart to [[Schema Drift]], where the sh
 ## See also
 - [[Serialization]]
 - [[Local-First Software]]
-- [[Database Migration]]
+- [[Data Contract]]
 - [[Postel's Law]]

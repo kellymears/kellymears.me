@@ -31,7 +31,8 @@ Regulation increasingly demands lineage. After the 2008 financial crisis, bankin
 Lineage pairs with pipeline [[Observability]]: freshness, volume, and schema monitors detect a problem; lineage shows what caused it and who else is affected. Systems built on [[Change Data Capture]] and [[Event Sourcing]] have an advantage, since an append-only history of changes is itself a lineage record.
 
 ## See also
-- [[Provenance]]
+- [[Audit Log]]
 - [[ETL Pipeline]]
-- [[Root Cause Analysis]]
+- [[Data Cleaning]]
 - [[Materialized View]]
+- [[Data Contract]]

@@ -23,3 +23,4 @@ This is why arguments about whether a hot dog is a sandwich never resolve. Each 
 - [[Falsifiability]]
 - [[Neurodiversity]]
 - [[Mental Model]]
+- [[Ontology]]

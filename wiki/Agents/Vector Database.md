@@ -22,3 +22,4 @@ The metadata-filtering problem is where most real deployments spend their engine
 - [[Reranking]]
 - [[Cosine Similarity]]
 - [[Dimensionality Reduction]]
+- [[Stemming and Lemmatization]]

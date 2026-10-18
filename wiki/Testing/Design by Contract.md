@@ -26,7 +26,7 @@ Design by contract takes a deliberate stance against defensive programming every
 Contracts between functions are different from [[Contract Testing]], which checks that separate services agree on the shape of their API, though the idea of a mutual, checkable agreement is the same.
 
 ## See also
-- [[Assertion]]
+- [[Data Contract]]
 - [[Type System]]
 - [[Verification and Validation]]
 - [[Polymorphism]]

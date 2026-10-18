@@ -27,7 +27,7 @@ MVCC is the natural foundation for snapshot isolation, described under [[Isolati
 Versions also interact with durability and replication. New versions are recorded through [[Write-Ahead Logging]] before they are visible, and that same log feeds [[Database Replication]] and [[Change Data Capture]]. Where conflicts between writers are rare, MVCC pairs naturally with [[Optimistic Locking]], letting transactions proceed and checking for a clash only at commit.
 
 ## See also
-- [[Isolation Level]]
+- [[Bitemporal Data]]
 - [[ACID]]
 - [[Copy-on-Write]]
 - [[Garbage Collection]]

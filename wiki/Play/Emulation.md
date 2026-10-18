@@ -23,6 +23,6 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 - [[Pixel Art]]
 - [[Color Quantization]]
 - [[Right to Repair]]
-- [[API Translation Layer]]
+- [[Digital Preservation]]
 - [[Differential Testing]]
 - [[Vector Graphics]]

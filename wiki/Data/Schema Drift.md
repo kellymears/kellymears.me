@@ -17,14 +17,14 @@ A related asymmetry causes real bugs: a system may *advertise* a richer schema t
 ## See also
 - [[Relational Database]]
 - [[Schema Validation]]
-- [[Documentation Rot]]
+- [[Data Cleaning]]
 - [[Database Migration]]
 - [[Deprecation]]
 - [[Client-Server Boundary]]
 
 ## Related
 - [[Tool Use]]
-- [[Technical Debt]]
+- [[Data Contract]]
 - [[Object-Relational Mapping]]
 - [[Database Normalization]]
 - [[ETL Pipeline]]

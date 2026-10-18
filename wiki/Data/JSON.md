@@ -29,5 +29,5 @@ As a [[Serialization]] format, JSON trades size and speed for readability. Binar
 ## See also
 - [[Markdown]]
 - [[Frontmatter]]
-- [[Remote Procedure Call]]
+- [[Decimal Arithmetic]]
 - [[Schema Evolution]]

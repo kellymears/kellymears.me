@@ -21,3 +21,4 @@ Legal ambiguity slows all of it down, the same [[Right to Repair]]-adjacent terr
 - [[Deprecation]]
 - [[Right to Repair]]
 - [[Pixel Art]]
+- [[Digital Preservation]]

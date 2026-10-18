@@ -30,6 +30,6 @@ Defenses include using wide enough types, checked arithmetic that reports overfl
 - [[Unix Time]]
 - [[Bitwise Operation]]
 - [[Endianness]]
-- [[Binary Search]]
+- [[Decimal Arithmetic]]
 - [[Sanitizer]]
 - [[Memory Safety]]

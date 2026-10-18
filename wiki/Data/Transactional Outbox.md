@@ -22,7 +22,7 @@ The outbox is a building block for larger patterns. A [[Saga Pattern]] uses it t
 
 ## See also
 - [[Stored Procedure]]
-- [[Two-Phase Commit]]
+- [[Command Query Responsibility Segregation]]
 - [[Idempotence]]
-- [[Saga Pattern]]
+- [[Audit Log]]
 - [[Durable Execution]]

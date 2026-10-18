@@ -27,7 +27,7 @@ A specific, easily-missed instance: a cache whose scope is a single process beha
 ## Related
 - [[WebRTC]]
 - [[Signaling Server]]
-- [[Determinism]]
+- [[Command Query Responsibility Segregation]]
 - [[Write-Ahead Logging]]
 - [[Key-Value Store]]
 - [[Local-First Software]]
