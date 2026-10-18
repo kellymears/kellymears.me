@@ -16,7 +16,7 @@ That reframing points to what actually raises the number. Writing things down is
 - [[Software Fork]]
 - [[Git Blame]]
 - [[Provenance]]
-- [[Conway's Law]]
+- [[Free Rider Problem]]
 - [[Chesterton's Fence]]
 - [[Commons-Based Peer Production]]
 - [[Peter Principle]]

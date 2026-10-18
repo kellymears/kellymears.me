@@ -14,9 +14,9 @@ The sharpest correction is definitional: Hardin was describing **open access** â
 
 ## See also
 - [[Software Fork]]
-- [[Externality]]
+- [[Prisoner's Dilemma]]
 - [[Wi-Fi]]
-- [[Legibility]]
+- [[Free Rider Problem]]
 - [[Path Dependence]]
 - [[Congestion Control]]
 

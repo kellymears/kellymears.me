@@ -22,3 +22,4 @@ High-status milieus are permeable for structural reasons. Credentials go uncheck
 - [[Least Privilege]]
 - [[Naming]]
 - [[Email Authentication]]
+- [[Information Asymmetry]]

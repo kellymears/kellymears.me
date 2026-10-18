@@ -27,3 +27,4 @@ Because the format is machine-readable and low-friction, it is also a decent gen
 - [[Progressive Enhancement]]
 - [[Knowledge Graph]]
 - [[Incremental Static Regeneration]]
+- [[Enshittification]]

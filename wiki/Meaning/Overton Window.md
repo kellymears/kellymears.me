@@ -20,3 +20,5 @@ The mechanism rhymes with [[Anchoring Effect]]: a proposal's plausibility is jud
 - [[Collective Action]]
 - [[Jaywalking]]
 - [[Framing Effect]]
+- [[Pluralistic Ignorance]]
+- [[Euphemism Treadmill]]

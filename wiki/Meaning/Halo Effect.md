@@ -18,3 +18,4 @@ The effect is worth distinguishing from ordinary correlation, where traits reall
 - [[Confidence Trick]]
 - [[Serial Position Effect]]
 - [[Aesthetic-Usability Effect]]
+- [[Matthew Effect]]

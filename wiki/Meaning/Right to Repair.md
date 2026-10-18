@@ -23,3 +23,4 @@ Legislative movement has been real: several jurisdictions now require manufactur
 - [[Universal Basic Income]]
 - [[Principal-Agent Problem]]
 - [[Network Effect]]
+- [[Enshittification]]

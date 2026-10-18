@@ -13,8 +13,9 @@ Most shibboleths today are soft rather than lethal, and still do real sorting wo
 
 ## See also
 - [[Collocation]]
-- [[Prototype Theory]]
+- [[Euphemism Treadmill]]
 - [[Grammatical Gender]]
 - [[Ground Truth]]
 - [[Taxonomy]]
 - [[Masking]]
+- [[Code-Switching]]

@@ -34,6 +34,6 @@ It differs from the Two Generals' Problem, covered under [[Delivery Guarantees]]
 
 ## See also
 - [[Two Generals Problem]]
-- [[Quorum]]
+- [[Prisoner's Dilemma]]
 - [[Leader Election]]
 - [[Network Partition]]

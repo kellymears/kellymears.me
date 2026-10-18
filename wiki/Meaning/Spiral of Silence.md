@@ -17,3 +17,5 @@ A "hard core" resists the spiral regardless of perceived isolation — people wi
 - [[Social Proof]]
 - [[Overton Window]]
 - [[Filter Bubble]]
+- [[Pluralistic Ignorance]]
+- [[Context Collapse]]

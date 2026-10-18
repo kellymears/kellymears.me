@@ -19,3 +19,4 @@ Psychology experiments use the effect both as a probe and as a tool. Reaction-ti
 - [[Prototype Theory]]
 - [[Habituation]]
 - [[Tip of the Tongue]]
+- [[Euphemism Treadmill]]

@@ -21,3 +21,5 @@ The word is also overused. "Capture" can function as a [[Plausible Mechanism]] t
 - [[Hanlon's Razor]]
 - [[Right to Repair]]
 - [[Jaywalking]]
+- [[Enshittification]]
+- [[Information Asymmetry]]

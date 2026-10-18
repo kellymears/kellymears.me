@@ -17,3 +17,5 @@ The effect has been replicated across dozens of experimental setups, from staged
 - [[Groupthink]]
 - [[Fundamental Attribution Error]]
 - [[Spiral of Silence]]
+- [[Pluralistic Ignorance]]
+- [[Free Rider Problem]]

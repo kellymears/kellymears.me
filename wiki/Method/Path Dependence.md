@@ -21,3 +21,5 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[Sunk Cost Fallacy]]
 - [[Greedy Algorithm]]
 - [[Normalization of Deviance]]
+- [[Matthew Effect]]
+- [[Enshittification]]

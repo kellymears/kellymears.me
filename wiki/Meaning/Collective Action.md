@@ -26,3 +26,6 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 - [[Taxonomy]]
 - [[Linguistic Relativity]]
 - [[Knowledge Graph]]
+- [[Free Rider Problem]]
+- [[Prisoner's Dilemma]]
+- [[Pluralistic Ignorance]]

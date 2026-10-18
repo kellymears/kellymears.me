@@ -30,3 +30,4 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Sunk Cost Fallacy]]
 - [[Steelmanning]]
 - [[Framing Effect]]
+- [[Pluralistic Ignorance]]

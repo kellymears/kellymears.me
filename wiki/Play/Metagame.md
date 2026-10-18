@@ -18,3 +18,4 @@ Published **[[Tier List]]** rankings are where the metagame becomes visible and 
 - [[Frame Data]]
 - [[Datamining]]
 - [[Speedrun]]
+- [[Prisoner's Dilemma]]

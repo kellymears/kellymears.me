@@ -19,3 +19,4 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Cognitive Dissonance]]
 - [[Pre-mortem]]
 - [[Steelmanning]]
+- [[Pluralistic Ignorance]]

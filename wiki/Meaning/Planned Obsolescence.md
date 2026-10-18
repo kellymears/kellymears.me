@@ -25,3 +25,4 @@ The usual exhibit for the strong version is the Phoebus cartel: manufacturers of
 - [[Terror Management Theory]]
 - [[Specific Absorption Rate]]
 - [[Sensitivity and Specificity]]
+- [[Enshittification]]

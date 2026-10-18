@@ -17,7 +17,7 @@ Two writing habits are worth naming as failure modes because they are so easy to
 ## See also
 - [[Naming]]
 - [[Information Architecture]]
-- [[Terminal User Interface]]
+- [[Euphemism Treadmill]]
 - [[Code Comment]]
 - [[Linguistic Relativity]]
 - [[Microcopy]]

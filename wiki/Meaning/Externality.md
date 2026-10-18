@@ -23,3 +23,4 @@ The genuinely hard part is measurement, not theory. Pricing a harm with no marke
 - [[Universal Basic Income]]
 - [[Jaywalking]]
 - [[Network Effect]]
+- [[Free Rider Problem]]

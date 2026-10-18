@@ -18,3 +18,5 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 - [[Astroturfing]]
 - [[Halo Effect]]
 - [[Spiral of Silence]]
+- [[Pluralistic Ignorance]]
+- [[Matthew Effect]]

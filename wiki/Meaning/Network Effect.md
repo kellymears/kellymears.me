@@ -22,3 +22,5 @@ Network effects are often confused with switching costs, and the two are related
 - [[Internet Exchange Point]]
 - [[Stable Matching]]
 - [[Pareto Principle]]
+- [[Matthew Effect]]
+- [[Enshittification]]

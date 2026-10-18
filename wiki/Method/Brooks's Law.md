@@ -23,3 +23,4 @@ The practical corollary is that a genuinely late project is rescued by removing 
 ## Related
 - [[Technical Debt]]
 - [[Planning Fallacy]]
+- [[Dunbar's Number]]

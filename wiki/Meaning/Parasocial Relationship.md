@@ -17,3 +17,5 @@ Parasocial bonds aren't inherently pathological — they scale a normal social i
 - [[Nostalgia]]
 - [[Halo Effect]]
 - [[Body Doubling]]
+- [[Dunbar's Number]]
+- [[Context Collapse]]

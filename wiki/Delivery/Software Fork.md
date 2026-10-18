@@ -33,3 +33,5 @@ Staying in sync is the practical work of a long-lived fork. The fork adds the or
 - [[Copyleft]]
 - [[Tragedy of the Commons]]
 - [[Strangler Fig Pattern]]
+- [[Enshittification]]
+- [[Free Rider Problem]]

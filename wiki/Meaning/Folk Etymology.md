@@ -20,3 +20,4 @@ The lesson generalizes past words. Visible internal structure is evidence about 
 - [[Malaphor]]
 - [[Prototype Theory]]
 - [[Ground Truth]]
+- [[Euphemism Treadmill]]

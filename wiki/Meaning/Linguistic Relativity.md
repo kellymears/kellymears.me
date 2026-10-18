@@ -28,3 +28,5 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 - [[Emotional Granularity]]
 - [[Inner Speech]]
 - [[Framing Effect]]
+- [[Euphemism Treadmill]]
+- [[Code-Switching]]

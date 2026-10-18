@@ -19,3 +19,4 @@ The empirical picture is more contested than the popular story: several large st
 - [[Doomscrolling]]
 - [[Rabbit Hole]]
 - [[Sycophancy]]
+- [[Context Collapse]]

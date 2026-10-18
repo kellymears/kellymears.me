@@ -15,7 +15,7 @@ The law grew more relevant as online audiences lost shared context — the same 
 - [[Falsifiability]]
 - [[Astroturfing]]
 - [[Motte and Bailey]]
-- [[Confidence Trick]]
+- [[Context Collapse]]
 - [[Moral Panic]]
 - [[Cunningham's Law]]
 

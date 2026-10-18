@@ -20,3 +20,4 @@ The proposal also has an odd political signature: it draws praise across nearly 
 - [[Naming]]
 - [[Fermi Estimation]]
 - [[Externality]]
+- [[Free Rider Problem]]

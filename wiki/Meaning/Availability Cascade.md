@@ -17,3 +17,5 @@ The concept doesn't require the underlying claim to be false — some cascades b
 - [[Streisand Effect]]
 - [[Filter Bubble]]
 - [[Spiral of Silence]]
+- [[Pluralistic Ignorance]]
+- [[Matthew Effect]]

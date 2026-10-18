@@ -20,3 +20,4 @@ This is the social-scale sibling of [[Goodhart's Law]]: the same simplification 
 - [[Naming]]
 - [[Chesterton's Fence]]
 - [[Ground Truth]]
+- [[Dunbar's Number]]
