@@ -23,3 +23,4 @@ The durable failure mode is reading "best in role" as "required" — an [[Exhaus
 - [[Anchoring Effect]]
 - [[Power Creep]]
 - [[Fighting Game]]
+- [[Dominant Strategy]]

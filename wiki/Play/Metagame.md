@@ -17,5 +17,5 @@ Published **[[Tier List]]** rankings are where the metagame becomes visible and 
 - [[MDA Framework]]
 - [[Collectible Card Game]]
 - [[Self-Play]]
-- [[Speedrun]]
+- [[Dominant Strategy]]
 - [[Prisoner's Dilemma]]

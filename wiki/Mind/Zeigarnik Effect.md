@@ -29,5 +29,5 @@ For people whose [[Working Memory]] is already loaded, [[Extended Mind|offloadin
 - [[Mind-Wandering]]
 - [[Chekhov's Gun]]
 - [[Publication Bias]]
-- [[Procrastination]]
+- [[Match-Three]]
 - [[Rumination]]

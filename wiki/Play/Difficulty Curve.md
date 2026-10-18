@@ -16,7 +16,7 @@ There's a second, subtler curve worth separating from the authored one: the play
 ## See also
 - [[Level Design]]
 - [[Soulslike]]
-- [[Assist Mode]]
+- [[Checkpoint]]
 - [[Boss Rush]]
 - [[Flow]]
 - [[Yerkes-Dodson Law]]

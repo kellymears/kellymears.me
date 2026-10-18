@@ -16,7 +16,7 @@ The lineage is frequently misread as a case for hostility toward players. It is 
 
 ## See also
 - [[Roguelike]]
-- [[Game Feel]]
+- [[Checkpoint]]
 - [[Meta-Progression]]
 - [[Environmental Storytelling]]
 - [[Metroidvania]]

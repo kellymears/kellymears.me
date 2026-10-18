@@ -32,3 +32,4 @@ The broader principle applies outside games: an interface that interprets what s
 - [[Difficulty Curve]]
 - [[Collision Detection]]
 - [[Fighting Game]]
+- [[Platformer]]

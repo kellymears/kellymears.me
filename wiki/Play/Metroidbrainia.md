@@ -14,7 +14,7 @@ The term itself is fan-coined, first circulating in enthusiast criticism rather 
 ## See also
 - [[Metroidvania]]
 - [[Point-and-Click Adventure]]
-- [[Fair-Play Mystery]]
+- [[Game Jam]]
 - [[Ground Truth]]
 - [[Environmental Storytelling]]
 - [[Sequence Breaking]]

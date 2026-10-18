@@ -28,3 +28,4 @@ For designers, the lesson is to ask what a system implies when someone plays it 
 - [[Magic Circle]]
 - [[Emergent Gameplay]]
 - [[Immersive Sim]]
+- [[Catch-Up Mechanic]]

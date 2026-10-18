@@ -19,7 +19,7 @@ Legibility is also a presentation problem, not only a behavior one. If a player 
 ## See also
 - [[Trick-Taking Game]]
 - [[Constraint Propagation]]
-- [[Seeded Randomness]]
+- [[Solved Game]]
 - [[Roguelike]]
 
 ## Related

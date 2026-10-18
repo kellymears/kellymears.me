@@ -36,3 +36,4 @@ DDA connects to broader ideas: [[Matchmaking Rating]] adjusts difficulty in mult
 - [[Compulsion Loop]]
 - [[Self-Determination Theory]]
 - [[Self-Play]]
+- [[Catch-Up Mechanic]]

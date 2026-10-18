@@ -31,4 +31,4 @@ The model has critics. Real people cooperate more than the theory predicts in on
 - [[Social Deduction Game]]
 - [[BitTorrent]]
 - [[Self-Play]]
-- [[Generative Adversarial Network]]
+- [[Dominant Strategy]]

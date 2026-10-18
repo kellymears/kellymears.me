@@ -16,7 +16,7 @@ Design bends around the paying minority in ways non-paying players absorb withou
 
 ## See also
 - [[Gacha Monetization]]
-- [[Live Service Game]]
+- [[Battle Pass]]
 - [[Compulsion Loop]]
 - [[Meta-Progression]]
 - [[Time as Resource]]

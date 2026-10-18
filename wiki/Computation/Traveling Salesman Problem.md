@@ -28,4 +28,4 @@ It's related to, but much harder than, finding the shortest path between two poi
 ## See also
 - [[Minimum Spanning Tree]]
 - [[Monte Carlo Tree Search]]
-- [[Boolean Satisfiability Problem]]
+- [[Solved Game]]

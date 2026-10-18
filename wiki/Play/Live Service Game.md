@@ -19,4 +19,4 @@ The unavoidable cost is preservation. A single-player game from 1998 still runs;
 - [[Power Creep]]
 - [[Third Place]]
 - [[Bartle Taxonomy]]
-- [[Deprecation]]
+- [[Battle Pass]]

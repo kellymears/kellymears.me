@@ -27,5 +27,5 @@ Several European countries, starting with Finland in 2020, have recognized the d
 
 ## See also
 - [[Fractal]]
-- [[L-System]]
+- [[Game Jam]]
 - [[Game Modding]]

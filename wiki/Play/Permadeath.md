@@ -15,7 +15,7 @@ The design argument underneath is that stakes require irreversibility — a thre
 ## See also
 - [[Roguelike]]
 - [[Meta-Progression]]
-- [[Assist Mode]]
+- [[Checkpoint]]
 - [[Soulslike]]
 - [[Save Scumming]]
 - [[Magic Circle]]

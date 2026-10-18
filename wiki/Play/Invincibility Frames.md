@@ -17,4 +17,4 @@ This is why i-frames convert dodging into a **timing problem rather than a spaci
 - [[Poise]]
 - [[Coyote Time]]
 - [[Soulslike]]
-- [[Game Feel]]
+- [[Shoot 'em Up]]

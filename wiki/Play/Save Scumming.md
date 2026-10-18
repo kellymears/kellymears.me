@@ -20,3 +20,4 @@ The interesting question isn't whether scumming is possible but whether it's *ra
 - [[Dynamic Difficulty Adjustment]]
 - [[Sequence Breaking]]
 - [[Point-and-Click Adventure]]
+- [[Checkpoint]]

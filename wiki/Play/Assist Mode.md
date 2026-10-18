@@ -19,3 +19,4 @@ The stronger argument runs the other way: a toggle nobody is shamed for using is
 - [[Invincibility Frames]]
 - [[Coyote Time]]
 - [[Dynamic Difficulty Adjustment]]
+- [[Checkpoint]]

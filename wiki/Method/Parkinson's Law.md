@@ -14,7 +14,7 @@ This gives Parkinson's Law an odd complementary relationship with [[Hofstadter's
 The practical use of the law is as a scheduling lever rather than a complaint: a genuinely tight deadline, imposed deliberately, compresses a task toward its real minimum — which is most of the actual argument behind timeboxing and behind shipping a [[Minimum Viable Product]] on a fixed date instead of an open-ended one.
 
 ## See also
-- [[Hofstadter's Law]]
+- [[Game Jam]]
 - [[Ninety-Ninety Rule]]
 - [[Feature Creep]]
 - [[Second-System Effect]]

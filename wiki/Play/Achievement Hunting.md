@@ -19,3 +19,4 @@ Whether this extends play or distorts it is a live argument, and a clean instanc
 - [[Datamining]]
 - [[Bartle Taxonomy]]
 - [[Gamification]]
+- [[Battle Pass]]

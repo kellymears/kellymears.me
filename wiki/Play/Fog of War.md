@@ -20,3 +20,4 @@ Because information is scarce, vision itself becomes a sub-game — wards, scout
 - [[Colony Sim]]
 - [[Culling]]
 - [[Ray Casting]]
+- [[Perfect Information]]

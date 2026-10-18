@@ -27,4 +27,4 @@ Parallax can cause real discomfort. In 2013, iOS 7 added a home-screen effect th
 ## See also
 - [[Isometric Projection]]
 - [[Stereoscopy]]
-- [[Metroidvania]]
+- [[Platformer]]

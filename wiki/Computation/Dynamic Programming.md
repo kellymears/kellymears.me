@@ -26,3 +26,4 @@ The common mistake is reaching for DP on a problem that only has optimal substru
 - [[Backpropagation]]
 - [[Reinforcement Learning]]
 - [[Traveling Salesman Problem]]
+- [[Solved Game]]

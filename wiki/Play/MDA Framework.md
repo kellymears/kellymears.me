@@ -35,3 +35,4 @@ The model has parallels in other fields. In software, simple components interact
 - [[Compulsion Loop]]
 - [[Bartle Taxonomy]]
 - [[Procedural Rhetoric]]
+- [[Dominant Strategy]]

@@ -28,7 +28,7 @@ Counterweights exist. Blind review, lotteries for grant funding among qualified 
 
 ## See also
 - [[PageRank]]
-- [[Rent-Seeking]]
+- [[Catch-Up Mechanic]]
 - [[Self-Fulfilling Prophecy]]
 - [[Recommender System]]
 - [[Just-World Hypothesis]]

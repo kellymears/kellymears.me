@@ -14,7 +14,7 @@ What is established is the behavioral finding above, replicated across species a
 
 ## See also
 - [[Gamification]]
-- [[Compulsion Loop]]
+- [[Match-Three]]
 - [[Physical Dependence]]
 - [[Seeded Randomness]]
 - [[Live Service Game]]

@@ -27,3 +27,4 @@ The idea extends well beyond board and video games. A [[Generative Adversarial N
 ## See also
 - [[Game AI]]
 - [[Reward Hacking]]
+- [[Solved Game]]

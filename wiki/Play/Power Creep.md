@@ -38,3 +38,4 @@ Power creep has parallels outside games. Software accumulates features each rele
 - [[Planned Obsolescence]]
 - [[Deckbuilder]]
 - [[Collectible Card Game]]
+- [[Dominant Strategy]]

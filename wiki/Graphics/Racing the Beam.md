@@ -21,4 +21,4 @@ Modern displays still scan out line by line, top to bottom, without a beam. Norm
 
 ## See also
 - [[Compositor]]
-- [[Game Loop]]
+- [[Shoot 'em Up]]

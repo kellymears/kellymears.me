@@ -30,3 +30,4 @@ Barriers to entry are a long-running problem: new players often face opponents f
 - [[Parry and Riposte]]
 - [[Invincibility Frames]]
 - [[Skill Check]]
+- [[Dominant Strategy]]

@@ -19,3 +19,4 @@ That the genre keeps real build expression despite near-zero input complexity â€
 - [[Meta-Progression]]
 - [[Variable-Ratio Reinforcement]]
 - [[Particle System]]
+- [[Shoot 'em Up]]

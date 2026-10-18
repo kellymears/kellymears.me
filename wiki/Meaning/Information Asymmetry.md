@@ -32,5 +32,5 @@ The idea reaches well beyond economics. Software users can't inspect what's in t
 - [[Regulatory Capture]]
 - [[Shibboleth]]
 - [[Social Deduction Game]]
-- [[Social Proof]]
+- [[Perfect Information]]
 - [[Cobra Effect]]

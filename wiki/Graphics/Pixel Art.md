@@ -29,5 +29,5 @@ Its appeal is partly economic, since small teams can produce consistent art, and
 - [[GIF]]
 - [[Game Preservation]]
 - [[Racing the Beam]]
-- [[Demoscene]]
+- [[Game Jam]]
 - [[Parallax Scrolling]]

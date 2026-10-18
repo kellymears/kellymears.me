@@ -29,3 +29,4 @@ The genre has appeared in research on group decision-making and in tests of lang
 - [[Tabletop Role-Playing Game]]
 - [[Bartle Taxonomy]]
 - [[Emergent Gameplay]]
+- [[Perfect Information]]

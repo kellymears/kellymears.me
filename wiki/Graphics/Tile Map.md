@@ -26,7 +26,7 @@ The style constraints of old hardware have become an aesthetic in their own righ
 
 ## See also
 - [[Isometric Projection]]
-- [[Pixel Art]]
+- [[Platformer]]
 - [[Ray Casting]]
 - [[Parallax Scrolling]]
 - [[Sprite]]

@@ -22,7 +22,7 @@ MVP is often confused with "prototype" or "beta," but neither of those implies t
 ## Related
 - [[Fermi Estimation]]
 - [[Acceptance Testing]]
-- [[Planning Fallacy]]
+- [[Game Jam]]
 - [[Pareto Principle]]
 - [[Agile Software Development]]
 - [[Jobs to Be Done]]
