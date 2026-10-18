@@ -32,5 +32,5 @@ Siegel's model is often paired with polyvagal theory, which proposes specific ne
 ## See also
 - [[Sensory Processing]]
 - [[Choking Under Pressure]]
-- [[Rumination]]
+- [[Autonomic Nervous System]]
 - [[Mindfulness]]

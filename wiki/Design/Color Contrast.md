@@ -27,7 +27,7 @@ Contrast is one of the few accessibility criteria a machine can genuinely evalua
 
 ## Related
 - [[Reduced Motion]]
-- [[Design Token]]
+- [[Digital Eye Strain]]
 - [[Progressive Enhancement]]
 - [[Easing]]
 - [[Color Vision Deficiency]]

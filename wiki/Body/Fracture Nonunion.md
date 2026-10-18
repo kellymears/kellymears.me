@@ -20,7 +20,7 @@ Detection is imperfect: plain radiographs are moderately sensitive, and computed
 - [[Bone Remodeling]]
 - [[Fracture Fixation]]
 - [[Vitamin D]]
-- [[Root Cause Analysis]]
+- [[Stress Fracture]]
 - [[Sensitivity and Specificity]]
 
 ## Related

@@ -31,3 +31,4 @@ The two numbers respond to different training. Long sessions at moderate intensi
 - [[Energy Systems]]
 - [[Polarized Training]]
 - [[Exercise Economy]]
+- [[Interval Training]]

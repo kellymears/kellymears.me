@@ -21,7 +21,7 @@ Those conditions read like a design specification, and games have taken them as 
 Flow is not automatically good. It is indifferent to what it attaches to, and a [[Compulsion Loop]] can produce something flow-like with no growth in skill at all, just a schedule of [[Variable-Ratio Reinforcement|variable rewards]]. The distinction is whether the challenge is real and the person is getting better. Flow also differs from [[Hyperfocus]]. Flow depends on the activity's structure and tends to feel restorative. Hyperfocus depends on the person's attention, is often hard to leave or direct, and can leave someone depleted, having missed meals and appointments. The two can look the same from outside, and the second sometimes gets mistaken for the first.
 
 ## See also
-- [[Hyperfocus]]
+- [[Runner's High]]
 - [[Boredom]]
 - [[Choking Under Pressure]]
 - [[Dynamic Difficulty Adjustment]]

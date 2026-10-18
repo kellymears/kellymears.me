@@ -22,11 +22,11 @@ The evidence is supportive but not settled. Some controlled studies, notably St√
 There is a [[Survivorship Bias]] caveat. Elite athletes train 15 to 30 hours a week, and someone with six hours may reasonably spend more of them at moderate intensity. Still, the core lesson carries over. Easy days have to be truly easy, judged by [[Heart Rate Zones]] or power rather than by feel on a good day, so that hard days can be hard. That is how a training plan avoids becoming a [[Hedonic Treadmill]] of medium-hard rides that leave someone tired and no fitter.
 
 ## See also
-- [[Lactate Threshold]]
+- [[Interval Training]]
 - [[Metabolic Flexibility]]
 - [[Supercompensation]]
 - [[Training Load]]
-- [[VO2 Max]]
+- [[Periodization]]
 - [[Survivorship Bias]]
 - [[Muscle Fiber Types]]
 - [[Mitochondria]]

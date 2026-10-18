@@ -28,7 +28,7 @@ The models are useful and easy to over-trust. They see only what the sensors see
 ## See also
 - [[Tendinopathy]]
 - [[Detraining]]
-- [[Heart Rate Zones]]
+- [[Periodization]]
 - [[Polarized Training]]
 - [[Immune System]]
 - [[Relative Energy Deficiency in Sport]]

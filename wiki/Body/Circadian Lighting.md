@@ -24,7 +24,7 @@ Popular advice compresses this into "blue light is bad", which overstates the ca
 
 ## See also
 - [[Electromagnetic Spectrum]]
-- [[Color Temperature]]
+- [[Digital Eye Strain]]
 - [[Fluorescence]]
 - [[LED Flicker]]
 - [[Interoception]]

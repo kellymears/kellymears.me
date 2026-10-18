@@ -27,7 +27,7 @@ Good fitters change one thing at a time, in small steps of a few millimeters, an
 ## See also
 - [[Cadence]]
 - [[Tendinopathy]]
-- [[Aerodynamic Drag]]
+- [[Ulnar Neuropathy]]
 - [[Functional Threshold Power]]
 - [[Exercise Economy]]
 - [[Low Back Pain]]

@@ -23,7 +23,7 @@ As with [[Time Blindness]], the remedies are external. Scheduled meals and water
 - [[Sensory Processing]]
 - [[Emotional Granularity]]
 - [[Appetite Regulation]]
-- [[Hyperfocus]]
+- [[Autonomic Nervous System]]
 - [[Circadian Rhythm]]
 - [[Neurodiversity]]
 - [[Nociception]]

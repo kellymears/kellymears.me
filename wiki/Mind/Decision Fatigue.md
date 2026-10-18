@@ -22,7 +22,7 @@ The practical advice survives the shakier theory because it rests on these modes
 The case is a good example of a [[Plausible Mechanism]] outrunning its evidence. Saying "decisions are tiring" is reasonable. A precise, muscle-like resource was the part that did not hold up.
 
 ## See also
-- [[Executive Function]]
+- [[Sleep Deprivation]]
 - [[Central Governor Theory]]
 - [[Vigilance Decrement]]
 - [[Loss Aversion]]

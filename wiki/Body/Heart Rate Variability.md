@@ -3,7 +3,6 @@ aliases:
   - HRV
   - RMSSD
   - Vagal tone
-  - Autonomic nervous system
   - Respiratory sinus arrhythmia
 tags:
   - body
@@ -30,4 +29,4 @@ HRV is also used as a broad index of stress physiology, linking it to [[Allostat
 - [[Blood Pressure]]
 - [[Supercompensation]]
 - [[Cardiac Output]]
-- [[Sleep Stages]]
+- [[Autonomic Nervous System]]

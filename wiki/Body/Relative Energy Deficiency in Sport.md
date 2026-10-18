@@ -30,5 +30,5 @@ The treatment is mostly to eat more, especially around training, and often to tr
 - [[Endocrine System]]
 - [[Vitamin D]]
 - [[Training Load]]
-- [[Iron Deficiency]]
+- [[Stress Fracture]]
 - [[Appetite Regulation]]

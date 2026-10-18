@@ -31,3 +31,4 @@ In endurance sports, a low power-to-weight ratio can tempt athletes to chase lea
 
 ## See also
 - [[Energy Systems]]
+- [[Muscle Protein Synthesis]]

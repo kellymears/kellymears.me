@@ -23,5 +23,5 @@ Neurodivergent accounts describe the same accumulation in everyday terms. Contin
 
 ## See also
 - [[Homeostasis]]
-- [[Window of Tolerance]]
-- [[Circadian Rhythm]]
+- [[Autonomic Nervous System]]
+- [[Sleep Deprivation]]

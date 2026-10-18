@@ -27,7 +27,7 @@ Perceived effort is measured with Gunnar Borg's 6–20 scale, designed in the 19
 Both views agree that the brain shapes endurance and that a felt limit is not the true limit. That explains why music, rivals, crowds, and [[Placebo Effect]] interventions improve performance, and why pacing well is a learned skill. The engineering analogy is a [[Circuit Breaker]], which trips before damage rather than after it.
 
 ## See also
-- [[Lactate Threshold]]
+- [[Runner's High]]
 - [[VO2 Max]]
 - [[Energy Systems]]
 - [[Heat Acclimation]]

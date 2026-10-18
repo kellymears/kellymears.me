@@ -20,3 +20,5 @@ Referred pain is distinct from radiating pain, which travels along a single nerv
 - [[Analgesic Ladder]]
 - [[Central Sensitization]]
 - [[Low Back Pain]]
+- [[Gate Control Theory]]
+- [[Ulnar Neuropathy]]

@@ -25,7 +25,7 @@ Measuring it properly means drawing blood from a fingertip or earlobe at progres
 - [[Metabolic Flexibility]]
 - [[Critical Power]]
 - [[Exercise Economy]]
-- [[Polarized Training]]
+- [[Interval Training]]
 - [[Glycogen]]
 - [[Backpressure]]
 - [[Fermentation]]

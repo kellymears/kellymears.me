@@ -2,7 +2,6 @@
 aliases:
   - Vagus
   - Cranial nerve X
-  - Parasympathetic nervous system
   - Vasovagal syncope
   - Vagus nerve stimulation
   - Inflammatory reflex
@@ -30,7 +29,7 @@ Popular claims about "vagal tone" often outrun the evidence. Polyvagal theory, p
 
 ## See also
 - [[Blood Pressure]]
-- [[Interoception]]
+- [[Autonomic Nervous System]]
 - [[Inflammation]]
 - [[Cold Exposure]]
 - [[Window of Tolerance]]

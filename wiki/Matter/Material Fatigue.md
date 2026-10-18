@@ -30,6 +30,6 @@ Fatigue has close relatives elsewhere. Chips wear out from [[Electromigration]],
 ## See also
 - [[Elasticity]]
 - [[Bicycle Stability]]
-- [[Survivorship Bias]]
+- [[Stress Fracture]]
 - [[Tendon and Ligament]]
 - [[Solid-State Drive]]

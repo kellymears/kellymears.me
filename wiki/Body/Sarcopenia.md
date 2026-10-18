@@ -29,4 +29,4 @@ The encouraging finding is that muscle stays trainable. In a 1990 study by Maria
 - [[Body Composition]]
 - [[Strength Training]]
 - [[Vitamin D]]
-- [[Training Load]]
+- [[Muscle Protein Synthesis]]

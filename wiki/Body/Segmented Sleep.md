@@ -25,5 +25,5 @@ What electric light changed is not in doubt. Evening illumination suppresses mel
 ## Related
 - [[Root Cause Analysis]]
 - [[Inertial Frame of Reference]]
-- [[Ground Truth]]
+- [[Sleep Deprivation]]
 - [[Adversarial Review]]

@@ -29,6 +29,6 @@ The adaptations differ by fiber: heavy training enlarges fast-twitch fibers most
 
 ## See also
 - [[Body Composition]]
-- [[Sarcopenia]]
+- [[Muscle Protein Synthesis]]
 - [[Tendinopathy]]
-- [[Supercompensation]]
+- [[Periodization]]

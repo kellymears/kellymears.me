@@ -16,7 +16,7 @@ One practical consequence: pain cannot be measured from outside. Only self-repor
 
 ## See also
 - [[Low Back Pain]]
-- [[Physical Dependence]]
+- [[Gate Control Theory]]
 - [[Moist Wound Healing]]
 - [[Ground Truth]]
 - [[Observability]]

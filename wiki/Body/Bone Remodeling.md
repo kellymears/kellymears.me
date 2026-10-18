@@ -20,7 +20,7 @@ Imaging lags the biology, so a radiograph is a proxy and not [[Ground Truth]] fo
 - [[Sarcopenia]]
 - [[Vitamin D]]
 - [[Nociception]]
-- [[Supercompensation]]
+- [[Stress Fracture]]
 - [[Hormesis]]
 
 ## Related

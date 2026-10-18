@@ -2,7 +2,6 @@
 aliases:
   - Hypertrophy
   - Muscle growth
-  - Muscle protein synthesis
   - Mechanical tension
   - Interference effect
   - Satellite cells
@@ -31,7 +30,7 @@ Muscle matters beyond appearance. It is the body's largest site of glucose dispo
 
 ## See also
 - [[Cold Exposure]]
-- [[Supercompensation]]
+- [[Muscle Protein Synthesis]]
 - [[Strength Training]]
 - [[Body Composition]]
 - [[Sarcopenia]]

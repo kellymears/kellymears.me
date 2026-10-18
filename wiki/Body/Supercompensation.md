@@ -25,7 +25,7 @@ The single-session curve is a simplification. Real training overlaps sessions lo
 ## See also
 - [[Strength Training]]
 - [[Polarized Training]]
-- [[Glycogen]]
+- [[Periodization]]
 - [[Relative Energy Deficiency in Sport]]
 - [[Detraining]]
 - [[Inflammation]]
