@@ -33,3 +33,5 @@ Three practical notes recur.
 - [[Touch Target Size]]
 - [[Line Length]]
 - [[Small Multiples]]
+- [[CSS Grid]]
+- [[Flexbox]]

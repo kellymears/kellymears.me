@@ -28,8 +28,8 @@ The contrast with animation is instructive. Animated charts are engaging, but st
 On screens, small multiples reflow naturally. A grid can drop from four columns to one at each [[Responsive Breakpoint]], or adapt to its container with a [[Container Query]]. A single sequential [[Color Scale]] applied across all panels, rather than one per panel, keeps the comparison honest.
 
 ## See also
-- [[Data-Ink Ratio]]
-- [[Working Memory]]
+- [[Data Visualization]]
+- [[CSS Grid]]
 - [[Grid System]]
 - [[Simpson's Paradox]]
 - [[Choropleth Map]]

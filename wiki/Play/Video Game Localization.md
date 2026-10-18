@@ -17,7 +17,7 @@ The historical record includes outright alteration: religious and violent conten
 
 ## See also
 - [[Subtitling]]
-- [[Grammatical Gender]]
+- [[Internationalization]]
 - [[Visual Novel]]
 - [[Wiki]]
 - [[Documentation Rot]]

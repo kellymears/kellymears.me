@@ -26,3 +26,4 @@ Because a subtitle file is plain text with stable indices, a change log keyed to
 - [[Game Feel]]
 - [[Assist Mode]]
 - [[Video Game Localization]]
+- [[Internationalization]]

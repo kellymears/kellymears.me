@@ -30,3 +30,4 @@ Good signifiers draw on [[Gestalt Principles]] and [[Visual Hierarchy]] so the i
 - [[Iconography]]
 - [[Touch Target Size]]
 - [[Forcing Function]]
+- [[Wayfinding]]

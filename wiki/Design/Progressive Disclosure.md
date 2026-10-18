@@ -17,7 +17,7 @@ Progressive disclosure is one of the load-bearing arguments for keeping a produc
 - [[Recognition Rather Than Recall]]
 - [[Information Scent]]
 - [[Fitts's Law]]
-- [[Design System]]
+- [[Wayfinding]]
 - [[Working Memory]]
 
 ## Related

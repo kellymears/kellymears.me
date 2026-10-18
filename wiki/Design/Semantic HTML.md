@@ -16,7 +16,7 @@ Semantics also help outside accessibility. A well-structured document is what ma
 
 ## See also
 - [[Accessibility]]
-- [[ARIA]]
+- [[Screen Reader]]
 - [[Document Object Model]]
 - [[Progressive Enhancement]]
 - [[Keyboard Navigation]]

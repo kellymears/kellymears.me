@@ -33,3 +33,4 @@ Voice cloning brings serious risks. Fraudsters have imitated relatives in distre
 - [[Token]]
 - [[Accessibility]]
 - [[Dyslexia]]
+- [[Screen Reader]]

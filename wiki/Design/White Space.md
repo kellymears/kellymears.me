@@ -29,6 +29,6 @@ The main failure is too little space, which makes a page feel cluttered and make
 
 ## See also
 - [[Optical Alignment]]
-- [[Visual Hierarchy]]
-- [[Grid System]]
+- [[Box Model]]
+- [[CSS Grid]]
 - [[Data-Ink Ratio]]

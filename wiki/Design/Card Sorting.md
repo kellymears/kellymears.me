@@ -32,3 +32,4 @@ The method has relatives in [[Taxonomy]] work, where controlled vocabularies are
 - [[Recognition Rather Than Recall]]
 - [[Hick's Law]]
 - [[Progressive Disclosure]]
+- [[Persona]]

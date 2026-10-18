@@ -24,3 +24,5 @@ Recent versions push configuration into CSS itself, defining the theme in a styl
 - [[Silent Failure]]
 - [[Dark Mode]]
 - [[Typographic Scale]]
+- [[Box Model]]
+- [[Flexbox]]

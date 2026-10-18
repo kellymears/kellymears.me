@@ -32,6 +32,6 @@ The common objection is cost, but inclusive decisions are cheap when made early 
 
 ## See also
 - [[Usability Testing]]
-- [[ARIA]]
+- [[Persona]]
 - [[Typeface]]
 - [[Signifier]]

@@ -31,5 +31,5 @@ Its influence on screen design is direct. The flat design that replaced [[Skeuom
 - [[Iconography]]
 - [[Optical Alignment]]
 - [[Typeface]]
-- [[Skeuomorphism]]
+- [[CSS Grid]]
 - [[Data-Ink Ratio]]

@@ -21,3 +21,4 @@ This is the social-scale sibling of [[Goodhart's Law]]: the same simplification 
 - [[Chesterton's Fence]]
 - [[Ground Truth]]
 - [[Dunbar's Number]]
+- [[Wayfinding]]

@@ -25,3 +25,4 @@ The defense is the same move every time: before trusting an aggregate comparison
 - [[Small Multiples]]
 - [[Choropleth Map]]
 - [[Randomized Controlled Trial]]
+- [[Data Visualization]]

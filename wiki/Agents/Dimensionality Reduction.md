@@ -36,3 +36,4 @@ Reduction is lossy compression of a kind, related to the ideas in [[Information 
 ## See also
 - [[Supervised Learning]]
 - [[Map Projection]]
+- [[Data Visualization]]

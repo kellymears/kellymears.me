@@ -16,7 +16,7 @@ The fix is to **separate reads from writes**: measure everything first, then cha
 Thrashing is hard to spot in code review because the expensive line looks harmless: a property read has no visible cost. It is the browser's version of the N+1 query problem: a cheap-looking operation inside a loop that hides a full round trip to an expensive system. [[Virtual DOM]] libraries reduce it by batching writes, but they can't see reads made in effects and event handlers, so the problem survives any framework.
 
 ## See also
-- [[requestAnimationFrame]]
+- [[Box Model]]
 - [[Document Object Model]]
 - [[Critical Rendering Path]]
 - [[Core Web Vitals]]

@@ -33,7 +33,7 @@ Color is a weak channel for precise values, as rankings of [[Preattentive Proces
 
 ## See also
 - [[OKLCH]]
-- [[Color Vision Deficiency]]
+- [[Data Visualization]]
 - [[Opponent Process Theory]]
 - [[Data-Ink Ratio]]
 - [[Choropleth Map]]

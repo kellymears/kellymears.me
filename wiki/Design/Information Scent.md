@@ -29,3 +29,4 @@ Scent also explains why [[Recognition Rather Than Recall]] matters for navigatio
 - [[Search Engine Optimization]]
 - [[Hick's Law]]
 - [[Link Rot]]
+- [[Wayfinding]]

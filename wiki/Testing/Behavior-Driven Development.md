@@ -30,7 +30,7 @@ BDD has well-known failure modes:
 Used well, BDD keeps executable scenarios for the handful of behaviors that matter most to the business, and leaves detailed cases to faster unit and [[Integration Test]] levels.
 
 ## See also
-- [[Test-Driven Development]]
+- [[Persona]]
 - [[End-to-End Test]]
 - [[Test Fixture]]
 - [[Exploratory Testing]]

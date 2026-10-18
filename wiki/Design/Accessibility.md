@@ -17,7 +17,7 @@ Automated checks also produce characteristic false signals: a burst of violation
 ## See also
 - [[ARIA]]
 - [[Text-to-Speech]]
-- [[Plain Language]]
+- [[Screen Reader]]
 - [[Dyslexia]]
 - [[Neurodiversity]]
 - [[Inclusive Design]]

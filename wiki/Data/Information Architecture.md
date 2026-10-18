@@ -24,7 +24,7 @@ At scale the interesting problems become taxonomic: whether structure should be 
 
 ## Related
 - [[Structured Data]]
-- [[Linguistic Relativity]]
+- [[Wayfinding]]
 - [[Mental Model]]
 - [[Faceted Search]]
 - [[Wireframe]]

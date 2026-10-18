@@ -35,3 +35,4 @@ The durable lesson is to make every mark justify itself. Each element of a chart
 - [[Preattentive Processing]]
 - [[White Space]]
 - [[Choropleth Map]]
+- [[Data Visualization]]

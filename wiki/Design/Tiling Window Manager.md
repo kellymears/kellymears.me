@@ -25,9 +25,10 @@ The approach shares principles with layout on the web. A tiling layout is a [[Gr
 
 ## See also
 - [[Display Server]]
-- [[Fitts's Law]]
+- [[CSS Grid]]
 - [[Keyboard Navigation]]
 - [[Focus Management]]
 - [[Grid System]]
 - [[Ricing]]
 - [[Attention Residue]]
+- [[Flexbox]]
