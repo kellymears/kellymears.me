@@ -22,3 +22,4 @@ The trade-off inference introduces is an error message pointing to where a const
 - [[Union-Find]]
 - [[Ownership and Borrowing]]
 - [[Dynamic Dispatch]]
+- [[TypeScript]]

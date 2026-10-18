@@ -32,5 +32,5 @@ Maps also go stale. A map from a different build gives confidently wrong lines, 
 ## See also
 - [[Call Stack]]
 - [[Crash Reporting]]
-- [[Compiler]]
-- [[Observability]]
+- [[Minification]]
+- [[TypeScript]]

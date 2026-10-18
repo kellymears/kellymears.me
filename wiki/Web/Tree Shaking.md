@@ -26,3 +26,4 @@ That last case has a non-obvious consequence beyond size. Routing a value import
 - [[Abstract Syntax Tree]]
 - [[Source Map]]
 - [[ES Modules]]
+- [[Minification]]

@@ -24,7 +24,7 @@ Two classic techniques underlie most lossless formats:
 
 DEFLATE, behind gzip, ZIP, and PNG, combines both. Newer formats such as Brotli and Zstandard use larger windows, better modeling, and built-in dictionaries for faster or smaller results.
 
-Lossy compression relies on models of perception. JPEG transforms each block of pixels into frequencies and stores high frequencies, fine detail the eye barely notices, with less precision. Audio codecs drop sounds masked by louder ones nearby. Reducing numeric precision in this way is a kind of [[Quantization]], the same idea used to shrink machine learning models.
+Lossy compression relies on models of perception. JPEG transforms each block of pixels into frequencies and stores high frequencies, fine detail the eye barely notices, with less precision. Audio codecs drop sounds masked by louder ones nearby. Reducing numeric precision in this way is a kind of [[Quantization]], the idea used to shrink machine learning models.
 
 Compression is everywhere on the web. Servers compress text responses, often cutting them by 70 percent or more, which speeds up the [[Critical Rendering Path]]. HTTP/2 and HTTP/3 compress headers, see [[HTTP2 and HTTP3]], and choosing modern image formats is a large part of [[Responsive Images]]. Databases gain hugely from [[Columnar Storage]], where values of one type sit together and compress far better than mixed rows. Language models split text into each [[Token]] using byte-pair encoding, originally a compression technique.
 
@@ -35,4 +35,4 @@ There is a deep link between compression and prediction: a model that predicts t
 - [[Time Series Database]]
 - [[Chroma Subsampling]]
 - [[Texture Mapping]]
-- [[Pretraining]]
+- [[HTTP Compression]]

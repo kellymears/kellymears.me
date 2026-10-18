@@ -19,7 +19,7 @@ The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed up
 - [[Commit Signing]]
 - [[Package Manager]]
 - [[Code Signing]]
-- [[Fuzzing]]
+- [[Third-Party Script]]
 
 ## Related
 - [[Silent Failure]]

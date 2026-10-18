@@ -26,3 +26,4 @@ This layer is orthogonal to [[Cache Invalidation]] inside an application's own d
 - [[HTTP Status Code]]
 - [[Hypertext Transfer Protocol]]
 - [[Back-Forward Cache]]
+- [[HTTP Compression]]

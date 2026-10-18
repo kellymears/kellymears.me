@@ -27,7 +27,7 @@ Modern TLS uses ephemeral keys, fresh for every connection and thrown away after
 TLS encrypts content but not everything. The server's IP address is visible, and the hostname leaks in the handshake's server name field unless Encrypted Client Hello is used. DNS lookups leak destinations unless protected by [[DNS over HTTPS]]. Where TLS ends matters too. A [[Reverse Proxy]], [[Content Delivery Network]], or [[API Gateway]] usually *terminates* TLS, decrypting traffic before passing it on, so the hop behind it needs its own protection. [[Zero Trust Network]] designs encrypt those internal hops too, often with mutual TLS, in which clients present certificates as well.
 
 ## See also
-- [[Public-Key Cryptography]]
+- [[HTTP Compression]]
 - [[Certificate Authority]]
 - [[QUIC]]
 - [[HTTP2 and HTTP3]]

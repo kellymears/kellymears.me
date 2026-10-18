@@ -23,7 +23,7 @@ SRI only covers what the page loads directly. A script that then fetches further
 Often simpler still is self-hosting third-party files, versioned and hashed by your own build. Content addressing, as in a [[Merkle Tree]], is the general principle: name data by what it is, not where it lives, and any change becomes detectable.
 
 ## See also
-- [[Supply Chain Security]]
+- [[Third-Party Script]]
 - [[Content Security Policy]]
 - [[Hash Function]]
 - [[Content Delivery Network]]

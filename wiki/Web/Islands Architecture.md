@@ -26,3 +26,4 @@ The pattern is most associated with content-first site frameworks, but the under
 - [[Module Graph]]
 - [[Single-Page Application]]
 - [[Reactive Signals]]
+- [[Long Task]]

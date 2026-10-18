@@ -24,3 +24,4 @@ A subtler hazard: content rendered by the server and then mutated directly by th
 - [[Performance Budget]]
 - [[Single-Page Application]]
 - [[Reactive Signals]]
+- [[Long Task]]

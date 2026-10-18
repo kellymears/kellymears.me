@@ -33,7 +33,7 @@ Browsers added their own protections, such as ignoring clicks on frames that jus
 Framing remains legitimate for embeds, payment widgets, and previews, so the goal is precise permission rather than a blanket ban, applied alongside defenses against [[Cross-Site Scripting]].
 
 ## See also
-- [[Content Security Policy]]
+- [[Iframe]]
 - [[Cross-Site Request Forgery]]
 - [[Same-Origin Policy]]
 - [[Dark Pattern]]

@@ -25,3 +25,5 @@ The design constraint it imposes is real and worth stating. An entrance animatio
 - [[Static Site Generation]]
 - [[Progressive Web App]]
 - [[Polyfill]]
+- [[Web Standards]]
+- [[Browser Engine]]

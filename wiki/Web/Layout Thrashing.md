@@ -20,7 +20,7 @@ Thrashing is hard to spot in code review because the expensive line looks harmle
 - [[Document Object Model]]
 - [[Critical Rendering Path]]
 - [[Core Web Vitals]]
-- [[Virtual DOM]]
+- [[Long Task]]
 - [[Premature Optimization]]
 - [[Frame Pacing]]
 - [[Compositor]]

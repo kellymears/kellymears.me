@@ -27,3 +27,5 @@ Lazy loading interacts with perceived performance rather than just measured perf
 - [[Server-Side Rendering]]
 - [[Performance Budget]]
 - [[Intersection Observer]]
+- [[Iframe]]
+- [[Third-Party Script]]

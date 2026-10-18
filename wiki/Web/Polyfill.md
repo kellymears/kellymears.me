@@ -30,7 +30,7 @@ Polyfills are also a supply-chain risk. The polyfill.io service delivered tailor
 Every polyfill should have a planned end. Once all supported browsers ship the feature, it becomes dead weight and should be removed, following the same discipline as [[Deprecation]]. An [[API Translation Layer]] applies the same idea to graphics APIs.
 
 ## See also
-- [[Progressive Enhancement]]
-- [[Supply Chain Security]]
+- [[TypeScript]]
+- [[Web Standards]]
 - [[Bundler]]
-- [[Hyrum's Law]]
+- [[Browser Engine]]

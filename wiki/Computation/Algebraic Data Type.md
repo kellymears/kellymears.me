@@ -35,3 +35,4 @@ Recursive sum types describe trees: an expression is a number, *or* a sum of two
 - [[Type Inference]]
 - [[Null]]
 - [[Dynamic Dispatch]]
+- [[TypeScript]]

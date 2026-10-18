@@ -25,3 +25,5 @@ This is why splitting must be *measured* rather than assumed. Two plausible refa
 - [[Server-Side Rendering]]
 - [[Single-Page Application]]
 - [[ES Modules]]
+- [[Minification]]
+- [[Long Task]]

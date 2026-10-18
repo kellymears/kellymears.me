@@ -34,3 +34,4 @@ The transition was long and painful. Node.js shipped stable ES module support in
 - [[Module Graph]]
 - [[Tree Shaking]]
 - [[Polyfill]]
+- [[Hot Module Replacement]]

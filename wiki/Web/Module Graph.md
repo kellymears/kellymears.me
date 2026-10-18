@@ -26,3 +26,4 @@ Reading the graph — from the bundler's own manifests rather than by inference 
 - [[Server-Side Rendering]]
 - [[Topological Sort]]
 - [[ES Modules]]
+- [[Hot Module Replacement]]

@@ -30,5 +30,5 @@ Request options cover most needs: method, headers, body, cache mode, redirect ha
 ## See also
 - [[Service Worker]]
 - [[Streaming Response]]
-- [[Cross-Origin Resource Sharing]]
+- [[Promise]]
 - [[WebSocket]]

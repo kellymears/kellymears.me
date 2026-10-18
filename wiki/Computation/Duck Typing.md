@@ -19,3 +19,4 @@ The common failure is an object that has the right method name but a subtly wron
 - [[Schema Validation]]
 - [[Pattern Matching]]
 - [[Dynamic Dispatch]]
+- [[TypeScript]]

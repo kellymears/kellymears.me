@@ -25,3 +25,4 @@ It's a close cousin of client-side prediction in networked games (see [[Rollback
 - [[Skeleton Screen]]
 - [[Undo]]
 - [[Toast Notification]]
+- [[Promise]]

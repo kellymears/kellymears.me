@@ -21,3 +21,5 @@ The practical friction is that most application frameworks bring their own, more
 
 ## Related
 - [[Progressive Enhancement]]
+- [[Iframe]]
+- [[Browser Engine]]

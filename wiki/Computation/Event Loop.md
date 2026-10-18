@@ -15,7 +15,7 @@ The event loop is one specific answer to the concurrency-without-threads problem
 
 ## See also
 - [[Game Loop]]
-- [[Process]]
+- [[Promise]]
 - [[Concurrency and Parallelism]]
 - [[Race Condition]]
 - [[requestAnimationFrame]]
@@ -25,5 +25,5 @@ The event loop is one specific answer to the concurrency-without-threads problem
 - [[Event Delegation]]
 - [[IO Multiplexing]]
 - [[Call Stack]]
-- [[Interrupt]]
+- [[Long Task]]
 - [[Context Switch]]

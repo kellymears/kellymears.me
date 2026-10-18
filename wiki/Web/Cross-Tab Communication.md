@@ -24,7 +24,7 @@ A notification channel is an optimization, not a guarantee. It makes the common 
 It also helps to identify *who* made a change. A tab receiving its own broadcast should ignore it, and a UI that offers "stop" or "undo" for an action should check whether the viewer is the one who started it, not merely whether it is running.
 
 ## See also
-- [[Same-Origin Policy]]
+- [[Iframe]]
 - [[Leader Election]]
 - [[Eventual Consistency]]
 - [[Cache Invalidation]]
