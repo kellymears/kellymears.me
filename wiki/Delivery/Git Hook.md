@@ -30,7 +30,7 @@ A few habits keep hooks useful:
 Hooks are shared by every [[Git Worktree]] of a repository, since they live in the common Git directory. They also suit an [[Atomic Commit]] habit, since checks run on exactly what is staged.
 
 ## See also
-- [[Continuous Integration]]
+- [[Branch Protection]]
 - [[Conventional Commits]]
 - [[Static Analysis]]
 - [[Version Control]]

@@ -27,5 +27,5 @@ Training exploits homeostasis. Exercise deliberately disrupts it with heat, fuel
 Engineers will recognize the patterns. A control loop with too much gain oscillates, and one with too little responds sluggishly, much as a system with [[Backpressure]] slows producers to keep a queue in range. Some illnesses are homeostasis failing at that tuning, such as diabetes, where blood glucose control loses its effector, and some are feedback working against the person, as in [[Central Sensitization]].
 
 ## See also
-- [[Fluid Balance]]
+- [[Configuration Drift]]
 - [[Sleep Pressure]]

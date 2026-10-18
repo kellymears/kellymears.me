@@ -35,3 +35,4 @@ Owners do not replace good review practice. A required approval is only as meani
 - [[Pull Request]]
 - [[Conway's Law]]
 - [[Bus Factor]]
+- [[Branch Protection]]

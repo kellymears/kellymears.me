@@ -34,3 +34,4 @@ In practice, many organizations keep short, targeted freezes for genuinely high-
 - [[Continuous Deployment]]
 - [[Rollback]]
 - [[DORA Metrics]]
+- [[Release Candidate]]

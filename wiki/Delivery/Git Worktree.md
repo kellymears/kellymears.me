@@ -30,3 +30,4 @@ The complications are all about the things a worktree does *not* isolate.
 - [[Shell]]
 - [[Git Hook]]
 - [[Ephemeral Environment]]
+- [[Git Submodule]]

@@ -29,3 +29,4 @@ Staging deserves care in shared working directories: a bulk "add everything" swe
 - [[Git Hook]]
 - [[Cherry-Pick]]
 - [[Git Bisect]]
+- [[Commit Signing]]

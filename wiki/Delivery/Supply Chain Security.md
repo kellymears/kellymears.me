@@ -16,7 +16,7 @@ The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed up
 ## See also
 - [[Polyfill]]
 - [[Secret Management]]
-- [[Lockfile]]
+- [[Commit Signing]]
 - [[Package Manager]]
 - [[Code Signing]]
 - [[Fuzzing]]

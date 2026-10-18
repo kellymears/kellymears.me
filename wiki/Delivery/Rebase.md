@@ -31,3 +31,4 @@ Several things about rebasing are worth knowing concretely.
 - [[Continuous Integration]]
 - [[Trunk-Based Development]]
 - [[Cherry-Pick]]
+- [[Reflog]]

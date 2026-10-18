@@ -33,5 +33,5 @@ Whatever the approach, the goal is the same: knowing exactly what third-party co
 - [[Dependency Hell]]
 - [[Lockfile]]
 - [[Reproducible Build]]
-- [[Supply Chain Security]]
+- [[Git Submodule]]
 - [[Dynamic Linking]]

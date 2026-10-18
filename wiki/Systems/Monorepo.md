@@ -29,3 +29,4 @@ Package managers support the pattern through *workspaces*: a root manifest listi
 - [[Build Cache]]
 - [[Code Owners]]
 - [[Vendoring]]
+- [[Git Submodule]]

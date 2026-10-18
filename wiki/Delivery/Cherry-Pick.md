@@ -26,7 +26,7 @@ Small, focused commits pick cleanly, which is one practical argument for an [[At
 
 ## See also
 - [[Branching Model]]
-- [[Release Train]]
+- [[Reflog]]
 - [[Rebase]]
 - [[Semantic Versioning]]
 - [[Version Control]]

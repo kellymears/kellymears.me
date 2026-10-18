@@ -29,3 +29,4 @@ Testing this requires a machine other than the one that built it, since a local 
 - [[Silent Failure]]
 - [[Cron]]
 - [[Reproducible Build]]
+- [[Commit Signing]]

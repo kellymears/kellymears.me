@@ -33,3 +33,4 @@ Expand and contract works hand in hand with [[Feature Flag]] switches, which con
 - [[Zero-Downtime Deployment]]
 - [[Strangler Fig Pattern]]
 - [[Deprecation]]
+- [[Backward Compatibility]]

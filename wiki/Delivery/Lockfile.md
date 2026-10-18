@@ -27,3 +27,4 @@ A second: how installed packages are laid out on disk is a property of the packa
 - [[Reproducible Build]]
 - [[Dependency Hell]]
 - [[Vendoring]]
+- [[Automated Dependency Updates]]

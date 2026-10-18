@@ -30,3 +30,4 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 - [[Topological Sort]]
 - [[P versus NP Problem]]
 - [[Dependency Hell]]
+- [[Automated Dependency Updates]]

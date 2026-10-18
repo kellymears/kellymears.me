@@ -38,3 +38,4 @@ Staying on LTS is not free either. Lagging behind means missing improvements, ac
 - [[Rolling Release]]
 - [[Semantic Versioning]]
 - [[Release Train]]
+- [[Calendar Versioning]]
