@@ -16,7 +16,7 @@ A **color gamut** is the set of colors a device can reproduce or a color space c
 
 A *color space* fixes the triangle's corners, a **white point**, and a transfer function (the gamma or perceptual curve):
 
-- **sRGB** (1996) matches the CRT phosphors of its time and covers roughly a third of visible colors. It remains the default for the web and for unlabeled images.
+- **sRGB** (1996) matches the CRT [[Fluorescence|phosphors]] of its time and covers roughly a third of visible colors. It remains the default for the web and for unlabeled images.
 - **Display P3** (from the cinema standard DCI-P3) reaches noticeably deeper reds and greens, about 25% more area than sRGB. Most modern phones and laptops support it.
 - **Rec. 2020** is the ultra-high-definition and [[High Dynamic Range]] target. It is so wide that few displays reach it fully, and it serves mostly as a container.
 
@@ -31,7 +31,6 @@ When a source color falls outside the destination gamut, **gamut mapping** must 
 - [[Tone Mapping]]
 - [[Metamerism]]
 - [[Color Temperature]]
-- [[Color Contrast]]
 - [[Physically Based Rendering]]
 - [[Design Token]]
 - [[Gamma Correction]]

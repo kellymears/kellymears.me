@@ -20,3 +20,4 @@ Because pressure is force per unit area, the principle multiplies force. Push a 
 - [[Ground Truth]]
 - [[Inertial Frame of Reference]]
 - [[Osmosis]]
+- [[Bernoulli's Principle]]

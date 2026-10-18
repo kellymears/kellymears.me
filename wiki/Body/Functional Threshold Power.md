@@ -23,14 +23,13 @@ Each method has error bars, and the ramp test in particular overstates FTP for r
 
 FTP anchors everything else. Coggan's training levels are percentages of it: recovery below 55%, endurance up to 75%, tempo up to 90%, threshold around 91–105%, and [[VO2 Max]] work above that. Intensity Factor and Training Stress Score, the inputs to [[Training Load]] models, are defined against it. Divided by body mass, it gives **watts per kilogram**, which largely determines climbing speed, since gravity scales with weight. On the flat, [[Aerodynamic Drag]] matters more and absolute watts win.
 
-The number invites [[Goodhart's Law]]. Riders retest, chase the figure, and train for the test protocol rather than for the hours and terrain they actually ride. FTP says little about durability: how much of that power remains after three hours and 2,000 kilojoules of work. For long events, durability often matters as much as the headline number.
+The number invites [[Goodhart's Law]]. Riders retest, chase the figure, and train for the test protocol rather than for the hours and terrain they actually ride. FTP says little about durability: how much of that power remains after three hours and [[Work and Power|2,000 kilojoules of work]]. For long events, durability often matters as much as the headline number.
 
 ## See also
 - [[Lactate Threshold]]
 - [[Training Load]]
 - [[Heart Rate Zones]]
 - [[Aerodynamic Drag]]
-- [[Torque]]
 - [[Goodhart's Law]]
 - [[Rolling Resistance]]
 - [[Muscle Fiber Types]]

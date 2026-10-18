@@ -30,3 +30,4 @@ Wheels carry rotational inertia as well as ordinary inertia, so lighter rims do 
 - [[Inertial Frame of Reference]]
 - [[Vestibular System]]
 - [[Quaternion]]
+- [[Centripetal Force]]

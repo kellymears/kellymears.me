@@ -21,3 +21,4 @@ So "higher pressure is faster" is an [[Exhaustive Claim]] the data does not supp
 - [[Falsifiability]]
 - [[Aerodynamic Drag]]
 - [[Angular Momentum]]
+- [[Work and Power]]

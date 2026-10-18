@@ -31,3 +31,4 @@ Game engines store object orientations as quaternions internally, even when the 
 - [[Angular Momentum]]
 - [[Floating-Point Arithmetic]]
 - [[Easing]]
+- [[Newton's Laws of Motion]]

@@ -23,3 +23,4 @@ Two common devices are not refrigeration at all. An evaporative cooler lowers ai
 - [[Latent Heat]]
 - [[Boiling Point]]
 - [[Entropy]]
+- [[Conservation of Energy]]

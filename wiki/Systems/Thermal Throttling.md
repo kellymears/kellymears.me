@@ -30,7 +30,7 @@ Heat is also the main accelerator of chip wear such as [[Electromigration]], so 
 - [[Electromigration]]
 - [[Silicon Binning]]
 - [[Frame Pacing]]
-- [[CPU Scheduler]]
+- [[Conservation of Energy]]
 - [[Pressure Stall Information]]
 - [[Thermal Expansion]]
 - [[Carryover Cooking]]

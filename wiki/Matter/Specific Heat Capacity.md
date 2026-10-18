@@ -28,3 +28,4 @@ In electronics, thermal mass buys time rather than capacity. A heavy heatsink ab
 - [[Latent Heat]]
 - [[Carryover Cooking]]
 - [[Boiling Point]]
+- [[Conservation of Energy]]

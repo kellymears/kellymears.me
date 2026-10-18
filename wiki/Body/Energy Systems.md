@@ -28,4 +28,4 @@ The systems are also inefficient in a useful way: only about a quarter of the en
 - [[Glycogen]]
 - [[Lactate Threshold]]
 - [[Mitochondria]]
-- [[VO2 Max]]
+- [[Work and Power]]

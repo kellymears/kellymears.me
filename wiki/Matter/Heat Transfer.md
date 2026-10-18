@@ -26,3 +26,4 @@ Electronics fight the same battle. A chip conducts heat into a metal heat spread
 - [[Latent Heat]]
 - [[Thermoregulation]]
 - [[Entropy]]
+- [[Conservation of Energy]]

@@ -29,3 +29,4 @@ DVFS can also be a source of instability. A chip that needs more voltage than th
 - [[CPU Affinity]]
 - [[Heisenbug]]
 - [[Performance Budget]]
+- [[Ohm's Law]]

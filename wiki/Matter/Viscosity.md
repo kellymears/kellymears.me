@@ -20,3 +20,4 @@ Viscosity is strongly temperature-dependent for most liquids, generally dropping
 - [[Emulsion]]
 - [[Starch Gelatinization]]
 - [[Resonance]]
+- [[Bernoulli's Principle]]

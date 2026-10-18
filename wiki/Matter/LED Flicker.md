@@ -32,3 +32,4 @@ The alternatives are known. **Constant-current reduction** dims by lowering curr
 - [[Circadian Lighting]]
 - [[Sensory Overload]]
 - [[Aliasing]]
+- [[Ohm's Law]]

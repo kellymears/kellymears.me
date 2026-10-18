@@ -28,3 +28,5 @@ Drag also sets [[Terminal Velocity]]: a falling object stops accelerating once d
 - [[Functional Threshold Power]]
 - [[Center of Mass]]
 - [[Cadence]]
+- [[Work and Power]]
+- [[Bernoulli's Principle]]

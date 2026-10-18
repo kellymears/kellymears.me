@@ -25,7 +25,7 @@ Popular advice compresses this into "blue light is bad", which overstates the ca
 ## See also
 - [[Circadian Rhythm]]
 - [[Color Temperature]]
-- [[Segmented Sleep]]
+- [[Fluorescence]]
 - [[LED Flicker]]
 - [[Interoception]]
 - [[Time Blindness]]

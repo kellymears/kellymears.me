@@ -29,3 +29,4 @@ The human body has resonances too. Vertical motion at around 0.2 cycles per seco
 - [[Friction]]
 - [[Vestibular System]]
 - [[Angular Momentum]]
+- [[Electromagnetic Induction]]

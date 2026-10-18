@@ -17,3 +17,5 @@ That static-to-kinetic gap also produces **stick-slip**, an oscillation where an
 - [[Viscosity]]
 - [[Rolling Resistance]]
 - [[Entropy]]
+- [[Centripetal Force]]
+- [[Newton's Laws of Motion]]

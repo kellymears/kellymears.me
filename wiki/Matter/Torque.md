@@ -19,3 +19,6 @@ Torque is easy to confuse with work, since both share units that reduce to the s
 - [[Functional Threshold Power]]
 - [[Angular Momentum]]
 - [[Cadence]]
+- [[Gear Ratio]]
+- [[Work and Power]]
+- [[Newton's Laws of Motion]]
