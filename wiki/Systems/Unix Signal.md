@@ -31,6 +31,6 @@ Signals also explain some confusing behavior. In a container, the main process r
 
 ## See also
 - [[Twelve-Factor App]]
-- [[Daemon]]
+- [[Rolling Deployment]]
 - [[Interrupt]]
 - [[Exit Status]]

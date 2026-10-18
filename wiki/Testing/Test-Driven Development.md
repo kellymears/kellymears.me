@@ -29,3 +29,4 @@ The main misuse is treating it as a mandate to test every function in isolation.
 - [[Pair Programming]]
 - [[Solitary and Sociable Tests]]
 - [[Refactoring]]
+- [[Agile Software Development]]

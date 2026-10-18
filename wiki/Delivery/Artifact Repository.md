@@ -36,3 +36,4 @@ Storage grows quickly, since every build of every branch produces artifacts. Ret
 - [[Vendoring]]
 - [[Twelve-Factor App]]
 - [[Content Delivery Network]]
+- [[Git LFS]]

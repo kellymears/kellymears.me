@@ -33,3 +33,5 @@ Several practical points recur:
 - [[Fast-Forward Merge]]
 - [[Software Fork]]
 - [[Local-First Software]]
+- [[Diff]]
+- [[Git Stash]]

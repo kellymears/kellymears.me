@@ -24,3 +24,4 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Technical Debt]]
 - [[Planning Fallacy]]
 - [[Dunbar's Number]]
+- [[Agile Software Development]]

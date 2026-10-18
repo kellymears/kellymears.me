@@ -31,3 +31,5 @@ The complications are all about the things a worktree does *not* isolate.
 - [[Git Hook]]
 - [[Ephemeral Environment]]
 - [[Git Submodule]]
+- [[Git Stash]]
+- [[Shallow Clone]]

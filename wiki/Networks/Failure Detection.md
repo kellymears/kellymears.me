@@ -32,4 +32,4 @@ Detection also interacts with load. Declaring a node dead shifts its traffic ont
 - [[Synthetic Monitoring]]
 - [[Watchdog Timer]]
 - [[Two Generals Problem]]
-- [[Circuit Breaker]]
+- [[Rolling Deployment]]

@@ -35,3 +35,4 @@ The choice often follows team structure, an instance of [[Conway's Law]]: separa
 - [[Monorepo]]
 - [[Lockfile]]
 - [[Git Worktree]]
+- [[Git LFS]]

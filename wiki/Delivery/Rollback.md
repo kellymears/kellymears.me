@@ -24,3 +24,6 @@ The alternative discipline is "fix forward": rather than reverting, ship a fix a
 - [[Expand and Contract]]
 - [[Code Freeze]]
 - [[Undo]]
+- [[Hotfix]]
+- [[Git Revert]]
+- [[Progressive Delivery]]

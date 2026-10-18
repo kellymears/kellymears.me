@@ -16,7 +16,7 @@ Package managers support the pattern through *workspaces*: a root manifest listi
 
 ## See also
 - [[Package Manager]]
-- [[Lockfile]]
+- [[Git LFS]]
 - [[Module Graph]]
 - [[Version Control]]
 
@@ -30,3 +30,4 @@ Package managers support the pattern through *workspaces*: a root manifest listi
 - [[Code Owners]]
 - [[Vendoring]]
 - [[Git Submodule]]
+- [[Shallow Clone]]

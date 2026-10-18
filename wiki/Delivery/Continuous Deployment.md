@@ -16,7 +16,7 @@ The only honest verification is to reproduce the deployment path end to end — 
 
 ## See also
 - [[Continuous Integration]]
-- [[Feature Flag]]
+- [[Agile Software Development]]
 - [[Database Migration]]
 - [[Secret Management]]
 - [[Containerization]]
@@ -28,3 +28,4 @@ The only honest verification is to reproduce the deployment path end to end — 
 - [[Deployment Pipeline]]
 - [[DORA Metrics]]
 - [[Code Freeze]]
+- [[Progressive Delivery]]

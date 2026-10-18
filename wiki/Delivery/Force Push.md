@@ -29,3 +29,4 @@ The tension between rewriting and preserving history runs through Git practice. 
 - [[Branching Model]]
 - [[Stacked Pull Requests]]
 - [[Merge Conflict]]
+- [[Git Revert]]

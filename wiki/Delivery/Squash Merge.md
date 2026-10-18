@@ -29,3 +29,4 @@ Squash merging pairs naturally with [[Trunk-Based Development]], where branches 
 - [[Git Bisect]]
 - [[Fast-Forward Merge]]
 - [[Git Blame]]
+- [[Git Stash]]

@@ -24,3 +24,4 @@ The law pairs naturally with [[Parkinson's Law]]: one says the work will take lo
 - [[Brooks's Law]]
 - [[Planning Fallacy]]
 - [[Pareto Principle]]
+- [[Agile Software Development]]

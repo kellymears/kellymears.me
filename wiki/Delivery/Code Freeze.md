@@ -30,7 +30,7 @@ Continuous delivery practitioners argue that the need for a freeze is itself a w
 In practice, many organizations keep short, targeted freezes for genuinely high-stakes moments while otherwise shipping continuously. Alternatives soften the trade-off: a [[Feature Flag]] lets code deploy while the feature stays off, a release branch freezes one line while the main branch keeps moving, as in a [[Release Train]], and [[Trunk-Based Development]] keeps branches short so the post-freeze merge is small. An [[Error budget|error budget]] gives a more principled trigger: slow down when reliability is actually suffering, not because of the calendar.
 
 ## See also
-- [[Release Train]]
+- [[Hotfix]]
 - [[Continuous Deployment]]
 - [[Rollback]]
 - [[DORA Metrics]]

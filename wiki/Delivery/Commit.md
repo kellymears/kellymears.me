@@ -23,8 +23,8 @@ Staging deserves care in shared working directories: a bulk "add everything" swe
 
 ## Related
 - [[Three-Way Merge]]
-- [[Regression]]
-- [[Plausible Mechanism]]
+- [[Git Revert]]
+- [[Diff]]
 - [[Merkle Tree]]
 - [[Git Hook]]
 - [[Cherry-Pick]]

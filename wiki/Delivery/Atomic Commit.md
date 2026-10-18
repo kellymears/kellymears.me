@@ -28,3 +28,5 @@ Two notes for shared working copies. Stage by explicit path — a bulk add captu
 - [[Git Bisect]]
 - [[Git Blame]]
 - [[Fast-Forward Merge]]
+- [[Diff]]
+- [[Git Revert]]

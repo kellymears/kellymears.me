@@ -24,3 +24,4 @@ MVP is often confused with "prototype" or "beta," but neither of those implies t
 - [[Acceptance Testing]]
 - [[Planning Fallacy]]
 - [[Pareto Principle]]
+- [[Agile Software Development]]

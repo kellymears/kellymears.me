@@ -18,14 +18,14 @@ The practice scales down well — it is close to what a single developer natural
 ## See also
 - [[Branching Model]]
 - [[Fast-Forward Merge]]
-- [[Feature Flag]]
+- [[Kanban]]
 - [[Merge Train]]
 - [[Squash Merge]]
 
 ## Related
 - [[Pull Request]]
 - [[Three-Way Merge]]
-- [[Documentation Rot]]
+- [[Git Revert]]
 - [[Cherry-Pick]]
 - [[DORA Metrics]]
 - [[Expand and Contract]]

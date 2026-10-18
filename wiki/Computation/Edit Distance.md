@@ -31,7 +31,7 @@ Edit distance has limits. A purely textual diff doesn't know what code means, so
 
 ## See also
 - [[Command Palette]]
-- [[Version Control]]
+- [[Diff]]
 - [[Three-Way Merge]]
 - [[Semantic Conflict]]
 - [[Entity Resolution]]

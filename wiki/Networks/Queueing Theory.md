@@ -33,7 +33,7 @@ Lessons follow:
 [[Load Testing]] finds the knee of the curve empirically, the point where latency suddenly climbs.
 
 ## See also
-- [[Tail Latency]]
+- [[Kanban]]
 - [[Backpressure]]
 - [[Thundering Herd]]
 - [[Message Queue]]

@@ -24,3 +24,5 @@ It's a coarser instrument than [[Canary Release]], which shifts a small percenta
 - [[Database Migration]]
 - [[Immutable Infrastructure]]
 - [[Twelve-Factor App]]
+- [[Rolling Deployment]]
+- [[Progressive Delivery]]

@@ -31,6 +31,6 @@ Done well, dogfooding sits between automated suites and [[Exploratory Testing]]:
 
 ## See also
 - [[Verification and Validation]]
-- [[Canary Release]]
+- [[Progressive Delivery]]
 - [[Smoke Test]]
 - [[Synthetic Monitoring]]

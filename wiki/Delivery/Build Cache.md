@@ -24,7 +24,7 @@ Dependency graphs decide what to rebuild after a change. Only the changed steps 
 A cache shared across machines is also a trust boundary. Anyone who can write to it can inject outputs that every other machine will use, so remote caches need access controls, and they belong in any review of [[Supply Chain Security]].
 
 ## See also
-- [[Reproducible Build]]
+- [[Git LFS]]
 - [[Monorepo]]
-- [[Continuous Integration]]
+- [[Shallow Clone]]
 - [[Artifact Repository]]
