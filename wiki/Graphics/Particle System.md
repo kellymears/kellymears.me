@@ -16,7 +16,7 @@ William Reeves of Lucasfilm introduced the technique for the "Genesis sequence" 
 In real-time graphics, each particle is usually drawn as a *billboard*, a flat textured square that always faces the camera, so a soft smoke texture looks the same from any angle. Particle systems have their own performance traps:
 
 - **Overdraw.** Smoke and fire are built from many overlapping transparent quads, so the same pixel is shaded many times. Effects that fill the screen up close can tank the frame rate, causing uneven [[Frame Pacing]].
-- **Sorting.** Transparent particles must be drawn back to front to blend correctly, which costs time and can cause popping when the order changes.
+- **Sorting.** Transparent particles must be drawn back to front to [[Alpha Compositing|blend correctly]], which costs time and can cause popping when the order changes.
 - **Hard edges.** Where a flat particle cuts into the ground or a wall, a visible seam appears. *Soft particles* read the [[Depth Buffer]] and fade out near solid surfaces.
 
 Modern engines simulate particles on the GPU with compute [[Shader]] programs, handling millions at once, and use instancing to keep the [[Draw Call]] count low. Particles can collide with scenery, follow flow fields driven by [[Perlin Noise]] for natural swirling, or spawn further particles, such as sparks that leave smoke trails. Distant effects are thinned out through [[Level of Detail]], and off-screen emitters are paused by [[Culling]].
@@ -26,4 +26,3 @@ In games, particles do much of the work of making actions feel powerful. A hit s
 ## See also
 - [[Game Feel]]
 - [[Draw Call]]
-- [[Shader]]

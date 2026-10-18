@@ -19,6 +19,7 @@ Two practical notes. Build tools that self-host fonts commonly hash the family n
 - [[Typographic Scale]]
 - [[Performance Budget]]
 - [[Ground Truth]]
+- [[Font Rendering]]
 
 ## Related
 - [[Code Splitting]]

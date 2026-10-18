@@ -29,3 +29,5 @@ The buffer is useful for more than visibility. Shadow maps are depth buffers ren
 - [[Stacking Context]]
 - [[Ray Tracing]]
 - [[Particle System]]
+- [[Perspective Projection]]
+- [[Alpha Compositing]]

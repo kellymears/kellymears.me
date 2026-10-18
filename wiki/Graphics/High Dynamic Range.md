@@ -29,3 +29,5 @@ HDR also changes how UI is designed. Interface elements need a fixed paper-white
 - [[Opponent Process Theory]]
 - [[Color Gamut]]
 - [[Gamma Correction]]
+- [[Post-Processing]]
+- [[Chroma Subsampling]]

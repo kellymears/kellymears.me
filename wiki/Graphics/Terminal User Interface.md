@@ -22,6 +22,7 @@ The aesthetic ceiling is higher than most people assume. Color, spacing, and res
 - [[Typographic Scale]]
 - [[Tarot]]
 - [[Trick-Taking Game]]
+- [[Font Rendering]]
 
 ## Related
 - [[Environment Variable]]

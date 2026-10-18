@@ -22,3 +22,4 @@ The practical upshot is that solving a slowdown requires diagnosing which one is
 - [[CPU Scheduler]]
 - [[Deadlock]]
 - [[Coroutine]]
+- [[Graphics Processing Unit]]

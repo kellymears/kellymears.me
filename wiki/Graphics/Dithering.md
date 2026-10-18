@@ -27,3 +27,4 @@ Audio uses the same idea. When a recording is reduced from 24-bit to 16-bit for 
 - [[Aliasing]]
 - [[Color Gamut]]
 - [[Perlin Noise]]
+- [[Post-Processing]]

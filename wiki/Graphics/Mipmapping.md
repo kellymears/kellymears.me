@@ -31,3 +31,4 @@ The same idea appears elsewhere. [[Level of Detail]] is mipmapping for geometry.
 - [[Normal Mapping]]
 - [[Baked Lighting]]
 - [[Vector Graphics]]
+- [[Texture Mapping]]

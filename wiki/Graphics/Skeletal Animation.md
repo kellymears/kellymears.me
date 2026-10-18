@@ -29,3 +29,4 @@ Animation also has gameplay consequences. Attack and dodge timing in action game
 - [[Game Feel]]
 - [[Frame Data]]
 - [[Uncanny Valley]]
+- [[Polygon Mesh]]

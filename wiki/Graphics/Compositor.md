@@ -32,3 +32,4 @@ Browsers use the same idea inside a page. Elements that animate `transform` or `
 - [[Layout Thrashing]]
 - [[High Dynamic Range]]
 - [[Background Tab Throttling]]
+- [[Alpha Compositing]]

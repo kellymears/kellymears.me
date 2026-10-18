@@ -18,6 +18,7 @@ The aesthetic dimension is separable from the technical one. Voxel art is a deli
 - [[Procedural Generation]]
 - [[Shader]]
 - [[Determinism]]
+- [[Polygon Mesh]]
 
 ## Related
 - [[Seeded Randomness]]

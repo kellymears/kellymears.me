@@ -23,6 +23,7 @@ Occlusion is nearly invisible to component tests: role queries and accessibility
 - [[Visual Regression Testing]]
 - [[Compositor]]
 - [[Depth Buffer]]
+- [[Alpha Compositing]]
 
 ## Related
 - [[Focus Management]]

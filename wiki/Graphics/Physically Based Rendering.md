@@ -27,3 +27,4 @@ The discipline this imposes is as important as the math: an albedo texture must 
 - [[Refraction]]
 - [[Subsurface Scattering]]
 - [[Baked Lighting]]
+- [[Texture Mapping]]

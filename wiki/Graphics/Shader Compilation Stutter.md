@@ -28,3 +28,4 @@ The general shape is [[Memoization]] where the key includes the environment, and
 - [[Lazy Evaluation]]
 - [[Amortized Analysis]]
 - [[Draw Call]]
+- [[Graphics Processing Unit]]

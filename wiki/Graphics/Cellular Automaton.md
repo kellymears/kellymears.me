@@ -20,6 +20,7 @@ Two implementation notes. **Simultaneity is load-bearing**: updating in place le
 - [[Shader]]
 - [[Constraint Propagation]]
 - [[L-System]]
+- [[Convolution]]
 
 ## Related
 - [[Roguelike]]

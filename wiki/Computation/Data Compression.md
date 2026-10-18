@@ -33,5 +33,5 @@ There is a deep link between compression and prediction: a model that predicts t
 ## See also
 - [[Entropy]]
 - [[Quantization]]
-- [[Columnar Storage]]
-- [[Token]]
+- [[Chroma Subsampling]]
+- [[Texture Mapping]]

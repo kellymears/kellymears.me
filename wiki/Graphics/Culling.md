@@ -9,7 +9,7 @@ tags:
   - graphics
 summary: Skipping work for anything that cannot appear in the final frame, which is most of a scene most of the time.
 ---
-**Culling** is the practice of not rendering what can't be seen. At any moment, most of a game world is behind the camera, outside the field of view, hidden behind walls, or facing away. Drawing it anyway wastes vertex processing, shading, and memory bandwidth on pixels that the [[Depth Buffer]] will throw away. The fastest geometry is geometry never sent to the GPU, so culling is often worth more than any amount of shader optimization.
+**Culling** is the practice of not rendering what can't be seen. At any moment, most of a game world is behind the camera, outside the [[Perspective Projection|field of view]], hidden behind walls, or facing away. Drawing it anyway wastes vertex processing, shading, and memory bandwidth on pixels that the [[Depth Buffer]] will throw away. The fastest geometry is geometry never sent to the GPU, so culling is often worth more than any amount of shader optimization.
 
 The main kinds work at different scales:
 
@@ -28,7 +28,6 @@ Modern engines move culling onto the GPU itself, where compute shaders or mesh s
 - [[Depth Buffer]]
 - [[Deferred Shading]]
 - [[Fog of War]]
-- [[Bloom Filter]]
 - [[Rasterization]]
 - [[Draw Call]]
 - [[Baked Lighting]]

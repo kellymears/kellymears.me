@@ -18,6 +18,7 @@ Marching cubes is the standard bridge from implicit or volumetric representation
 - [[Voxel]]
 - [[Ray Tracing]]
 - [[Cellular Automaton]]
+- [[Polygon Mesh]]
 
 ## Related
 - [[Procedural Generation]]

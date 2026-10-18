@@ -25,3 +25,4 @@ Blur doesn't fix uneven frame delivery. A smooth image depends first on consiste
 - [[Temporal Upscaling]]
 - [[Aliasing]]
 - [[Reduced Motion]]
+- [[Post-Processing]]

@@ -24,6 +24,7 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 - [[Bounding Volume Hierarchy]]
 - [[Ambient Occlusion]]
 - [[Aliasing]]
+- [[Post-Processing]]
 
 ## Related
 - [[Determinism]]

@@ -20,6 +20,7 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 - [[Terminal User Interface]]
 - [[Silent Failure]]
 - [[Boundary Value Analysis]]
+- [[Font Rendering]]
 
 ## Related
 - [[Vacuous Truth]]

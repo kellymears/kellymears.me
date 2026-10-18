@@ -14,7 +14,7 @@ summary: The artifacts that appear when a continuous signal is sampled too coars
 
 In rendering, the pixel grid is the sampling rate. A diagonal triangle edge is a perfectly sharp boundary, and [[Rasterization]] with one sample per pixel turns it into a staircase, the "jaggies". Fine detail does worse. A distant fence, a striped shirt, or a high-frequency texture produces moiré patterns, and in motion those patterns crawl and shimmer from frame to frame. Thin geometry such as wires and foliage flickers in and out as it falls between sample points. The same effect appears outside graphics: the wagon wheel that seems to spin backward on film, a camera filming a screen, or the beat between a light's PWM rate and a camera shutter in [[LED Flicker]].
 
-The remedies all amount to either sampling more or filtering detail out before sampling:
+The remedies all amount to either sampling more or [[Image Resampling|filtering detail out before sampling]]:
 
 - **Supersampling (SSAA)** renders at a higher resolution and averages down. It is correct and very expensive.
 - **Multisample anti-aliasing (MSAA)** takes several coverage samples per pixel at geometry edges but shades each pixel once. It fixes edges cheaply but does nothing for shader or texture aliasing, and it fits poorly with [[Deferred Shading]].
@@ -30,6 +30,5 @@ The remedies all amount to either sampling more or filtering detail out before s
 - [[Rasterization]]
 - [[Deferred Shading]]
 - [[LED Flicker]]
-- [[Level of Detail]]
 - [[Screen Tearing]]
 - [[Dithering]]

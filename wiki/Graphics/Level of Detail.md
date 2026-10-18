@@ -22,3 +22,4 @@ The same idea generalizes past meshes: **impostors** replace a whole complex obj
 - [[Mipmapping]]
 - [[Culling]]
 - [[Draw Call]]
+- [[Polygon Mesh]]
