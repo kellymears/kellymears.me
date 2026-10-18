@@ -26,6 +26,6 @@ The traveling salesman problem illustrates a broader lesson: worst-case hardness
 It's related to, but much harder than, finding the shortest path between two points, which [[Dijkstra's Algorithm]] solves efficiently, and to finding a [[Stable Matching]], another combinatorial problem with an elegant exact solution.
 
 ## See also
-- [[Minimum Spanning Tree]]
+- [[Seven Bridges of Königsberg]]
 - [[Knapsack Problem]]
 - [[Solved Game]]

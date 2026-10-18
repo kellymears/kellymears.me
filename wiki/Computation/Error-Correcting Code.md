@@ -36,4 +36,4 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 - [[N-Version Programming]]
 - [[Solid-State Drive]]
 - [[RAID]]
-- [[Modular Arithmetic]]
+- [[Pigeonhole Principle]]

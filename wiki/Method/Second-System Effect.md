@@ -15,7 +15,7 @@ The defense isn't refusing improvements — it's keeping the same discipline tha
 
 ## See also
 - [[Lehman's Laws of Software Evolution]]
-- [[Feature Creep]]
+- [[Analytical Engine]]
 - [[Overfitting]]
 - [[Technical Debt]]
 - [[Minimum Viable Product]]

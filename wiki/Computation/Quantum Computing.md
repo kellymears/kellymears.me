@@ -28,3 +28,4 @@ Many results are probabilistic and must be repeated; see [[Monte Carlo Method]].
 - [[Moore's Law]]
 - [[Information Theory]]
 - [[Superconductivity]]
+- [[Analytical Engine]]

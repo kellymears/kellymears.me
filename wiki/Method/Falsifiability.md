@@ -26,6 +26,6 @@ It also disciplines prose. "This cast is required because the checker demands it
 - [[Glob]]
 - [[Abductive Reasoning]]
 - [[Hindsight Bias]]
-- [[Bayes' Theorem]]
+- [[Collatz Conjecture]]
 - [[Randomized Controlled Trial]]
 - [[Scientific Debugging]]

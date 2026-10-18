@@ -24,5 +24,5 @@ Machine learning's [[Scaling Laws]] describe a different exponential, in trainin
 
 ## See also
 - [[Quantum Computing]]
-- [[Logarithmic Scale]]
+- [[Analytical Engine]]
 - [[Bitter Lesson]]

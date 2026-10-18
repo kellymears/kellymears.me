@@ -16,7 +16,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 
 ## See also
 - [[String-Searching Algorithm]]
-- [[Error-Correcting Code]]
+- [[Pigeonhole Principle]]
 - [[Entropy Pool]]
 - [[Checksum]]
 - [[Modular Arithmetic]]
@@ -28,6 +28,6 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[Data Breach]]
 - [[Caller ID Authentication]]
 - [[AI Watermarking]]
-- [[Merkle Tree]]
+- [[Birthday Problem]]
 - [[Multi-Factor Authentication]]
 - [[HyperLogLog]]

@@ -34,5 +34,5 @@ The trade-off must be acceptable. Approximate counts suit dashboards and capacit
 - [[Bitwise Operation]]
 - [[Monte Carlo Method]]
 - [[Locality-Sensitive Hashing]]
-- [[Big-O Notation]]
+- [[Pigeonhole Principle]]
 - [[Information Theory]]

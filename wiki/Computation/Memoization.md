@@ -23,3 +23,4 @@ The failure modes are a cache with no eviction policy — a memoized function ca
 - [[Reactive Signals]]
 - [[Cache-Aside]]
 - [[Knapsack Problem]]
+- [[Collatz Conjecture]]

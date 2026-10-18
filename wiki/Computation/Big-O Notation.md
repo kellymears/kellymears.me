@@ -18,7 +18,7 @@ It is a vocabulary for reasoning, not a measurement. Treating it as a proxy for 
 
 ## See also
 - [[Convex Hull]]
-- [[Performance Budget]]
+- [[Ackermann Function]]
 - [[Arbitrary-Precision Arithmetic]]
 - [[Logarithmic Scale]]
 - [[P versus NP Problem]]

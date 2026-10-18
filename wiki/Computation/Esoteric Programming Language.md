@@ -30,3 +30,5 @@ Their value goes beyond play: stripping out readable syntax, named variables, an
 ## See also
 - [[Compiler]]
 - [[Regular Expression]]
+- [[Analytical Engine]]
+- [[Collatz Conjecture]]

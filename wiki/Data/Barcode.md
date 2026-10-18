@@ -28,5 +28,5 @@ A QR code is opaque to people, who can't see where it leads before scanning. Sti
 Radio tags can identify items without line of sight and read many at once, but cost more, so printed codes remain far more common; see [[Near-Field Communication]].
 
 ## See also
-- [[Universally Unique Identifier]]
+- [[Binary Number]]
 - [[Structured Data]]

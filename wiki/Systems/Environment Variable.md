@@ -22,7 +22,7 @@ Directory-scoped environment loaders make per-project variables ergonomic, which
 - [[XDG Base Directory Specification]]
 
 ## Related
-- [[Silent Failure]]
+- [[Lexical Scope]]
 - [[Terminal User Interface]]
 - [[Twelve-Factor App]]
 - [[YAML]]

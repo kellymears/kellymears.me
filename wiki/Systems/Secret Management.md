@@ -21,7 +21,7 @@ Three practical notes.
 ## See also
 - [[Entropy Pool]]
 - [[Environment Variable]]
-- [[Supply Chain Security]]
+- [[Enigma Machine]]
 - [[Server-Side Request Forgery]]
 - [[Defensive Default]]
 - [[Prompt Injection]]

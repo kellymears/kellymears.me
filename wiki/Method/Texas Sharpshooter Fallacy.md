@@ -35,3 +35,4 @@ The fallacy pairs naturally with [[Confirmation Bias]] and [[Hindsight Bias]]: o
 - [[Golden Ratio]]
 - [[Multiple Comparisons Problem]]
 - [[Logical Fallacy]]
+- [[Birthday Problem]]

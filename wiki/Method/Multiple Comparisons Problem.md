@@ -34,3 +34,4 @@ The problem is a cousin of the base rate issue in diagnostic testing. When true 
 ## See also
 - [[Publication Bias]]
 - [[Survivorship Bias]]
+- [[Birthday Problem]]

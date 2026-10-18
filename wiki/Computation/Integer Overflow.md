@@ -28,7 +28,7 @@ Defenses include using wide enough types, checked arithmetic that reports overfl
 
 ## See also
 - [[Therac-25]]
-- [[Ariane 5 Flight 501]]
+- [[Binary Number]]
 - [[Endianness]]
 - [[Decimal Arithmetic]]
 - [[Patriot Missile Failure]]

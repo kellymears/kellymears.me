@@ -23,5 +23,5 @@ Modern processors look sequential to programmers but aren't inside. They decode 
 
 ## See also
 - [[Instruction Set Architecture]]
-- [[Boolean Algebra]]
+- [[Analytical Engine]]
 - [[SIMD]]

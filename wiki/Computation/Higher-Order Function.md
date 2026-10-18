@@ -24,3 +24,4 @@ The risk is indirection outrunning its benefit — a codebase where every operat
 - [[Dynamic Dispatch]]
 - [[Lisp]]
 - [[Metaprogramming]]
+- [[Lexical Scope]]

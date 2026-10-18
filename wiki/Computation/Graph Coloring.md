@@ -34,3 +34,4 @@ Graph coloring shows a common pattern in computing: a problem that's intractable
 - [[Union-Find]]
 - [[Boolean Satisfiability Problem]]
 - [[Maximum Flow]]
+- [[Seven Bridges of Königsberg]]

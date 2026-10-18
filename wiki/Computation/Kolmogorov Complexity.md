@@ -31,8 +31,8 @@ Uncomputable as it is, the idea has practical shadows:
 The concept gives a precise meaning to an intuitive idea: understanding something often means finding a shorter description of it.
 
 ## See also
-- [[Edit Distance]]
+- [[Cantor's Diagonal Argument]]
 - [[Esoteric Programming Language]]
 - [[Quine]]
-- [[Demoscene]]
+- [[Pigeonhole Principle]]
 - [[Fractal]]

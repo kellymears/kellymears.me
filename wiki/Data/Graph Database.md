@@ -33,4 +33,4 @@ A wiki is itself a graph: notes as nodes, links as relationships, and a [[Backli
 - [[Hierarchical Data]]
 - [[Document Database]]
 - [[Common Table Expression]]
-- [[Ontology]]
+- [[Seven Bridges of Königsberg]]

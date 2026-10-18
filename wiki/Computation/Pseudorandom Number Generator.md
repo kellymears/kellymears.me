@@ -28,5 +28,5 @@ In testing, randomness drives [[Property-Based Testing]] and [[Fuzzing]], and re
 
 ## See also
 - [[Reservoir Sampling]]
-- [[Radioactive Decay]]
-- [[Input and Output Randomness]]
+- [[Birthday Problem]]
+- [[Enigma Machine]]

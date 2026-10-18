@@ -25,5 +25,5 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Linker]]
 - [[Metaprogramming]]
 - [[Von Neumann Architecture]]
-- [[WebAssembly]]
+- [[Lexical Scope]]
 - [[Esoteric Programming Language]]

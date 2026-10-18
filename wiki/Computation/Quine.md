@@ -30,3 +30,4 @@ A quine's output has a short description, its own source, which bounds its compl
 - [[Recursion]]
 - [[Lambda Calculus]]
 - [[Interpreter]]
+- [[Cantor's Diagonal Argument]]

@@ -34,3 +34,4 @@ Radio extended telegraphy to ships around 1900, and the telephone replaced it fo
 - [[Optical Fiber]]
 - [[Amateur Radio]]
 - [[Barcode]]
+- [[Enigma Machine]]

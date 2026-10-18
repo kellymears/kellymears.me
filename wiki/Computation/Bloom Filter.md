@@ -21,7 +21,7 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 - [[Differential Privacy]]
 - [[HyperLogLog]]
 - [[Skip List]]
-- [[Information Theory]]
+- [[Pigeonhole Principle]]
 - [[Superposition]]
 - [[Bitwise Operation]]
 - [[Monte Carlo Method]]

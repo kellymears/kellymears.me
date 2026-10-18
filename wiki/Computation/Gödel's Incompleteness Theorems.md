@@ -33,3 +33,5 @@ They are also frequently misapplied. Claims that incompleteness proves minds are
 - [[Falsifiability]]
 - [[Dependent Types]]
 - [[Quine]]
+- [[Collatz Conjecture]]
+- [[Cantor's Diagonal Argument]]

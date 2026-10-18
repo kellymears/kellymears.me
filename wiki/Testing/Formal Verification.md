@@ -26,7 +26,7 @@ Practical verification therefore sits on a spectrum with testing. [[Static Analy
 
 ## See also
 - [[Gödel's Incompleteness Theorems]]
-- [[Pentium FDIV Bug]]
+- [[Collatz Conjecture]]
 - [[Verification and Validation]]
 - [[Runtime Verification]]
 - [[Linearizability Checking]]

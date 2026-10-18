@@ -24,9 +24,9 @@ The consequences reach far into everyday software:
 Undecidability applies to the general case. For restricted models, such as a [[Finite State Machine]] or a program limited to a fixed amount of memory, halting can be decided in principle. That is one reason simpler models, like [[Regular Expression]] matching without extensions, are easier to reason about. The *busy beaver* function, the longest any halting machine of a given size can run, grows faster than any computable function. Its fifth value was only settled in 2024, by a collaborative proof checked by machine.
 
 ## See also
-- [[Kolmogorov Complexity]]
+- [[Ackermann Function]]
 - [[Abstract Interpretation]]
-- [[Recursion]]
-- [[Quine]]
+- [[Collatz Conjecture]]
+- [[Cantor's Diagonal Argument]]
 - [[Symbolic Execution]]
 - [[Gödel's Incompleteness Theorems]]

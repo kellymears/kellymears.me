@@ -28,6 +28,6 @@ Databases add a third value, unknown, which breaks some familiar laws; see [[Nul
 
 ## See also
 - [[Bloom Filter]]
-- [[Turing Completeness]]
+- [[Binary Number]]
 - [[Constructive Solid Geometry]]
 - [[Modular Arithmetic]]

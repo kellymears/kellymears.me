@@ -25,7 +25,7 @@ Many real networks are also *scale-free*: a few hubs hold an enormous number of 
 Short paths explain how quickly things spread, from rumors and diseases to computer worms and viral posts. Distributed systems exploit the same property: gossip protocols reach every node in a few rounds by talking to random peers; see [[Gossip Protocol]] and [[Mesh Network]]. Finding short paths efficiently, though, depends on having local knowledge of where to send things next, which Milgram's letter carriers used and which search algorithms model; see [[Graph Traversal]].
 
 ## See also
-- [[Network Effect]]
+- [[Seven Bridges of Königsberg]]
 - [[Dunbar's Number]]
 - [[Knowledge Graph]]
 - [[PageRank]]

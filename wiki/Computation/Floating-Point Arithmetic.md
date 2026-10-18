@@ -30,6 +30,6 @@ Floating point also undermines reproducibility. Different compilers, instruction
 ## See also
 - [[Arbitrary-Precision Arithmetic]]
 - [[Decimal Arithmetic]]
-- [[Ariane 5 Flight 501]]
-- [[Pentium FDIV Bug]]
+- [[Binary Number]]
+- [[Cantor's Diagonal Argument]]
 - [[Patriot Missile Failure]]

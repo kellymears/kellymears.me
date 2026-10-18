@@ -26,3 +26,4 @@ The cost is that a closure keeps its captured variables alive for as long as the
 - [[Object-Oriented Programming]]
 - [[Lisp]]
 - [[JavaScript]]
+- [[Lexical Scope]]

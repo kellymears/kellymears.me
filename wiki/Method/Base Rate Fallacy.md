@@ -20,7 +20,7 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 - [[Representativeness Heuristic]]
 - [[Allergy]]
 - [[Streetlight Effect]]
-- [[Dual Process Theory]]
+- [[Birthday Problem]]
 
 ## Related
 - [[Statistical Significance]]

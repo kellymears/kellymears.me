@@ -25,3 +25,4 @@ The trade-off is a small amount of load imbalance even with virtual nodes — th
 - [[Wide-Column Store]]
 - [[Hot Partition]]
 - [[Modular Arithmetic]]
+- [[Pigeonhole Principle]]

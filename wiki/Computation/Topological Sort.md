@@ -32,4 +32,4 @@ Cycles are the recurring problem. Circular imports in a module system, packages 
 ## See also
 - [[Maximum Flow]]
 - [[Build System]]
-- [[Common Table Expression]]
+- [[Seven Bridges of Königsberg]]

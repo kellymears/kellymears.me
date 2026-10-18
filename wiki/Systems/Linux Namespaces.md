@@ -15,7 +15,7 @@ Namespaces are also not a security boundary on their own. The kernel underneath 
 
 ## See also
 - [[Fork and Exec]]
-- [[Containerization]]
+- [[Lexical Scope]]
 - [[Chroot]]
 - [[Least Privilege]]
 - [[Kernel]]

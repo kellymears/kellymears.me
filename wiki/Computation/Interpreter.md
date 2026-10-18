@@ -17,7 +17,7 @@ An interpreter also changes where errors surface: a type or name error in a bran
 - [[Esoteric Programming Language]]
 - [[Type Inference]]
 - [[Metaprogramming]]
-- [[Garbage Collection]]
+- [[Lexical Scope]]
 - [[Turing Completeness]]
 - [[Abstract Syntax Tree]]
 - [[WebAssembly]]

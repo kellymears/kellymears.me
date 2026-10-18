@@ -27,3 +27,4 @@ The failure mode of *not* modeling something explicitly as a state machine is sc
 - [[Model-Based Testing]]
 - [[Context-Free Grammar]]
 - [[Typestate]]
+- [[Enigma Machine]]

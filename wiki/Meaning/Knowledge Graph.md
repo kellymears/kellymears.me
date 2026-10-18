@@ -14,7 +14,7 @@ Informal knowledge graphs use untyped links between notes and get much of the be
 The failure mode of the formal kind is over-modeling — an ontology so precise that adding anything requires a decision nobody wants to make. The failure mode of the informal kind is under-modeling — links so indiscriminate that the graph carries no signal. The useful middle is a small number of relationship kinds used consistently.
 
 ## See also
-- [[Zettelkasten]]
+- [[Seven Bridges of Königsberg]]
 - [[Wiki]]
 - [[Taxonomy]]
 - [[Information Architecture]]

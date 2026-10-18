@@ -24,7 +24,7 @@ The same structure appears in type inference, scheduling, layout solvers, and de
 - [[Procedural Generation]]
 - [[Trick-Taking Game]]
 - [[L-System]]
-- [[Determinism]]
+- [[Enigma Machine]]
 - [[Voxel]]
 - [[Shader]]
 - [[Backtracking]]

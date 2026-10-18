@@ -36,4 +36,4 @@ There is a deep link between compression and prediction: a model that predicts t
 - [[Chroma Subsampling]]
 - [[JPEG]]
 - [[HTTP Compression]]
-- [[Video Compression]]
+- [[Pigeonhole Principle]]

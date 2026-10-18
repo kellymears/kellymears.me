@@ -18,7 +18,7 @@ The hard part is the one the technique's name is honest about: finding a propert
 - [[Mutation Testing]]
 - [[Test Fixture]]
 - [[Pesticide Paradox]]
-- [[Exploratory Testing]]
+- [[Collatz Conjecture]]
 - [[Pentium FDIV Bug]]
 - [[Loop Invariant]]
 - [[Design by Contract]]
