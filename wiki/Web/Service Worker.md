@@ -24,3 +24,4 @@ It's a cousin of [[Web Worker]], sharing the same off-main-thread execution mode
 - [[Web Storage]]
 - [[Progressive Web App]]
 - [[Fetch API]]
+- [[Local-First Software]]

@@ -25,8 +25,8 @@ The difficulty is the familiar one of [[Cache Invalidation]], since a materializ
 ## See also
 - [[Denormalization]]
 - [[Dimensional Modeling]]
-- [[Event Sourcing]]
-- [[Cache Invalidation]]
+- [[Stored Procedure]]
+- [[Common Table Expression]]
 - [[Eventual Consistency]]
 - [[Database Index]]
 - [[ETL Pipeline]]

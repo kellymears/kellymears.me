@@ -32,3 +32,4 @@ A wiki is itself a graph: notes as nodes, links as relationships, and a [[Backli
 - [[Graph Traversal]]
 - [[Relational Database]]
 - [[Document Database]]
+- [[Common Table Expression]]

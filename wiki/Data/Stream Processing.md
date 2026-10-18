@@ -29,7 +29,7 @@ Two architectures framed the debate. The *Lambda architecture* ran a batch layer
 Common uses include fraud detection, live dashboards, alerting, keeping search indexes and caches in sync through [[Change Data Capture]], and maintaining a continuously updated [[Materialized View]]. Metrics streams often land in a [[Time Series Database]]. Streaming has largely replaced the nightly batch [[ETL Pipeline]] where freshness matters, though batch remains simpler where it doesn't.
 
 ## See also
-- [[Message Queue]]
+- [[Window Function]]
 - [[Reservoir Sampling]]
 - [[Event Sourcing]]
 - [[Delivery Guarantees]]

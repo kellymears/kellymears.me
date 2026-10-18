@@ -17,7 +17,7 @@ Two things worth holding onto when working through an abstraction layer. The lay
 ## See also
 - [[Database Migration]]
 - [[Schema Drift]]
-- [[Draft and Published]]
+- [[Stored Procedure]]
 - [[Idempotence]]
 - [[Multi-Tenancy]]
 - [[Database Index]]
@@ -26,8 +26,8 @@ Two things worth holding onto when working through an abstraction layer. The lay
 
 ## Related
 - [[Seed Data]]
-- [[Headless CMS]]
-- [[Feature Flag]]
+- [[Window Function]]
+- [[Common Table Expression]]
 - [[Database Normalization]]
 - [[Query Planner]]
 - [[Object-Relational Mapping]]

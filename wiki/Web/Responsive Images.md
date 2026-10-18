@@ -22,7 +22,7 @@ With `srcset` but no `sizes`, the browser assumes the image fills the viewport (
 Related hygiene: explicit `width` and `height` attributes reserve space and prevent layout shift; `loading="lazy"` belongs on images below the fold and never on the main above-the-fold image, which instead deserves `fetchpriority="high"` or a [[Preload and Prefetch|preload]] (see [[Lazy Loading]]). Generating every size by hand doesn't scale, so most sites delegate it to a build step or an image service at a [[Content Delivery Network]] edge that resizes on request and caches the result.
 
 ## See also
-- [[Core Web Vitals]]
+- [[Object Storage]]
 - [[Lazy Loading]]
 - [[Responsive Breakpoint]]
 - [[Performance Budget]]

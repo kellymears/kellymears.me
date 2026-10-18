@@ -28,3 +28,4 @@ The pattern is at its best where the value is in the connection rather than in s
 - [[End-to-End Principle]]
 - [[Network Address Translation]]
 - [[Distributed Hash Table]]
+- [[Local-First Software]]

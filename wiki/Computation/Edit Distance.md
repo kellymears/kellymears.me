@@ -35,3 +35,4 @@ Edit distance has limits. A purely textual diff doesn't know what code means, so
 - [[Three-Way Merge]]
 - [[Semantic Conflict]]
 - [[Entity Resolution]]
+- [[Autocomplete]]

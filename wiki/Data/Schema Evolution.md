@@ -32,7 +32,7 @@ Event-sourced systems face the hardest version, since events are immutable and m
 Schema evolution is the deliberate counterpart to [[Schema Drift]], where the shape of data changes without anyone deciding it should. Format versions follow [[Semantic Versioning]] in spirit: additions are minor, removals are major.
 
 ## See also
-- [[Backward Compatibility]]
-- [[Schema Drift]]
+- [[Serialization]]
+- [[Local-First Software]]
 - [[Database Migration]]
 - [[Postel's Law]]

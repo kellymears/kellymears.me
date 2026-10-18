@@ -31,3 +31,4 @@ Interface design shapes which one fits. Numbered pages suit search results where
 - [[Boundary Value Analysis]]
 - [[Empty State]]
 - [[Intersection Observer]]
+- [[Window Function]]

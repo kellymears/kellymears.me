@@ -25,7 +25,7 @@ The principle is stated easily and applied poorly, because broad permissions are
 - [[Same-Origin Policy]]
 - [[Code Signing]]
 - [[Model Context Protocol]]
-- [[Display Server]]
+- [[Row-Level Security]]
 - [[File Permissions]]
 - [[System Call]]
 

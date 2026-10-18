@@ -24,7 +24,7 @@ Detection is the harder half. Query logs that count queries per request, test as
 The pattern isn't unique to databases. [[Layout Thrashing]] in the browser is the same mistake, interleaving reads and writes inside a loop so each step pays a full round of work. Any loop that hides an expensive call behind a cheap-looking interface invites it, a reminder from [[Big-O Notation]] that the cost of each step matters as much as the count.
 
 ## See also
-- [[Database Index]]
+- [[Stored Procedure]]
 - [[Denormalization]]
 - [[SQL Join]]
 - [[Latency and Jitter]]

@@ -31,3 +31,4 @@ Enforcement usually happens twice: locally, so developers rarely see a failure, 
 - [[Design Token]]
 - [[Atomic Commit]]
 - [[Branch Protection]]
+- [[YAML]]

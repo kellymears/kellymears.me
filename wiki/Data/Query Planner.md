@@ -29,7 +29,9 @@ When the planner's choice is wrong and can't be fixed with better statistics, th
 
 ## See also
 - [[Database Index]]
-- [[N+1 Query Problem]]
+- [[Row-Level Security]]
 - [[Relational Database]]
 - [[Benchmarking]]
 - [[SQL Join]]
+- [[Window Function]]
+- [[Common Table Expression]]

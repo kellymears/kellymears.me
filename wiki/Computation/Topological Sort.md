@@ -32,4 +32,4 @@ Cycles are the recurring problem. Circular imports in a module system, packages 
 ## See also
 - [[ES Modules]]
 - [[Data Lineage]]
-- [[Deadlock]]
+- [[Common Table Expression]]

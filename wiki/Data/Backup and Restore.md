@@ -35,3 +35,4 @@ Backups also carry obligations. They contain the same sensitive data as producti
 - [[Write-Ahead Logging]]
 - [[Silent Failure]]
 - [[Personal Data]]
+- [[Object Storage]]

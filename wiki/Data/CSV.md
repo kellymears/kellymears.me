@@ -27,7 +27,8 @@ Spreadsheets add their own damage when they open a CSV and guess types. Long num
 For anything beyond simple interchange, better formats exist: JSON Lines for records with nested fields, and Parquet, a form of [[Columnar Storage]], for large analytical data with real types and compression.
 
 ## See also
-- [[Character Encoding]]
+- [[Serialization]]
 - [[Columnar Storage]]
 - [[ETL Pipeline]]
 - [[Seed Data]]
+- [[JSON]]

@@ -24,3 +24,4 @@ The tools split on a real distinction: declarative tools (Terraform) describe th
 - [[Configuration Drift]]
 - [[Twelve-Factor App]]
 - [[Platform Engineering]]
+- [[YAML]]

@@ -15,7 +15,7 @@ Queues come with delivery guarantees that matter more than they first appear to.
 ## See also
 - [[Queueing Theory]]
 - [[MQTT]]
-- [[Ring Buffer]]
+- [[Serialization]]
 - [[Eventual Consistency]]
 - [[Backpressure]]
 - [[Durable Execution]]

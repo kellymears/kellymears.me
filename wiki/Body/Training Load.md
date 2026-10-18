@@ -26,7 +26,7 @@ An exponentially weighted moving average responds to recent input while never qu
 The models are useful and easy to over-trust. They see only what the sensors see: work stress, not sleep, illness, heat, or a hard week at work, all of which the body counts. They also invite [[Goodhart's Law]], since ramping chronic load as a goal in itself is a fast route to the overtraining described under [[Supercompensation]]. In team sports, the *acute:chronic workload ratio* was widely adopted to flag injury risk when weekly load spiked well above the monthly norm. Later statisticians showed that the ratio is partly an artifact of mathematical coupling (the acute week is part of the chronic average), so the clean thresholds were weaker than claimed. The underlying advice still holds: avoid sudden spikes, and build gradually.
 
 ## See also
-- [[Supercompensation]]
+- [[Window Function]]
 - [[Detraining]]
 - [[Heart Rate Zones]]
 - [[Polarized Training]]

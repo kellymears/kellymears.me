@@ -20,7 +20,7 @@ Column stores gain further from three effects:
 - **Vectorized execution.** Processing a tightly packed array of one type suits modern CPUs, which can apply one instruction to many values at once and keep data in cache.
 - **Skipping.** Files store each block's minimum and maximum values, so a query for last week's data can skip blocks whose date range doesn't overlap.
 
-The costs fall on writes. Inserting one row means touching every column's storage, and updating a value inside a compressed block is expensive. Column stores usually batch writes, buffering recent rows and merging them in bulk, much like a [[Log-Structured Merge Tree]], and work best with data that is appended rather than changed.
+The costs fall on writes. Inserting one row means touching every column's storage, and updating a value inside a compressed block is expensive. Column stores usually batch writes, buffering recent rows and merging them in bulk, like a [[Log-Structured Merge Tree]], and work best with data that is appended rather than changed.
 
 The idea is old, but a 2005 research system called C-Store, led by Michael Stonebraker, showed its advantages convincingly. It now dominates analytics: cloud data warehouses such as BigQuery, Snowflake, and Redshift, embedded engines like DuckDB, and the open Apache Parquet and Arrow formats, which let different tools share columnar data without conversion. Arrow is an in-memory columnar format, and Parquet is its on-disk counterpart.
 
@@ -29,7 +29,7 @@ Data usually reaches a warehouse from transactional databases through [[Change D
 ## See also
 - [[Relational Database]]
 - [[Denormalization]]
-- [[HyperLogLog]]
+- [[Object Storage]]
 - [[ETL Pipeline]]
 - [[Locality of Reference]]
 - [[Data Compression]]

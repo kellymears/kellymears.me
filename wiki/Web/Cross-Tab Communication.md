@@ -25,7 +25,7 @@ It also helps to identify *who* made a change. A tab receiving its own broadcast
 
 ## See also
 - [[Iframe]]
-- [[Leader Election]]
+- [[Local-First Software]]
 - [[Eventual Consistency]]
 - [[Cache Invalidation]]
 - [[Optimistic UI]]

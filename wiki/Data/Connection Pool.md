@@ -23,7 +23,7 @@ The pattern is general: thread pools, HTTP keep-alive, and object pools in games
 
 ## See also
 - [[Backpressure]]
-- [[Resource Starvation]]
+- [[Row-Level Security]]
 - [[Load Testing]]
 - [[Relational Database]]
 - [[N+1 Query Problem]]

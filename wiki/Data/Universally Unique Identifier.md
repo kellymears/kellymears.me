@@ -37,3 +37,4 @@ UUIDs let clients create records offline and sync later, as in [[Conflict-Free R
 - [[Transactional Outbox]]
 - [[Foreign Key]]
 - [[Entity Resolution]]
+- [[JSON]]

@@ -25,3 +25,4 @@ Immutability and [[Pure Function]]s reinforce each other: a pure function is eas
 - [[Reference Counting]]
 - [[Persistent Data Structure]]
 - [[Ownership and Borrowing]]
+- [[Serialization]]

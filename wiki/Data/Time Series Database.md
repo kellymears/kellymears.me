@@ -31,7 +31,7 @@ Time series databases are the storage layer of [[Observability]]: metrics from [
 Two practical hazards: clocks on many machines disagree, so [[Network Time Protocol]] matters to anything that compares series. Storing timestamps in UTC and converting at display time avoids the [[Time Zone]] traps that surface around daylight-saving changes.
 
 ## See also
-- [[Columnar Storage]]
+- [[Window Function]]
 - [[Observability]]
 - [[Data Compression]]
 - [[Stream Processing]]

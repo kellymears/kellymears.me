@@ -29,7 +29,7 @@ If A happened before B, A's timestamp is smaller. The reverse doesn't hold, sinc
 Version control already lives by these ideas. A commit graph is a happens-before graph, and two branches without a path between them are concurrent edits, which is what a [[Three-Way Merge]] reconciles. The same reasoning underlies [[Eventual Consistency]], [[Event Sourcing]] order, and debugging any [[Race Condition]].
 
 ## See also
-- [[Conflict-Free Replicated Data Type]]
+- [[Local-First Software]]
 - [[Eventual Consistency]]
 - [[Three-Way Merge]]
 - [[Race Condition]]

@@ -29,3 +29,5 @@ Two authoring points are worth stating.
 - [[Search Engine Optimization]]
 - [[Naming]]
 - [[Abstract Syntax Tree]]
+- [[YAML]]
+- [[Local-First Software]]

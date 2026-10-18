@@ -22,3 +22,4 @@ ACID is a single-node concept at heart — it describes what one database's tran
 ## Related
 - [[Relational Database]]
 - [[Multiversion Concurrency Control]]
+- [[Stored Procedure]]

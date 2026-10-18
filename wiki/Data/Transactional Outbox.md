@@ -21,7 +21,7 @@ The relay can crash after publishing but before marking a row sent, so a message
 The outbox is a building block for larger patterns. A [[Saga Pattern]] uses it to send each step's commands reliably. [[Event Sourcing]] gets the same guarantee for free, since the event log *is* the state. [[Durable Execution]] frameworks apply the same idea of recording intent durably before acting, generalized to entire workflows.
 
 ## See also
-- [[Change Data Capture]]
+- [[Stored Procedure]]
 - [[Two-Phase Commit]]
 - [[Idempotence]]
 - [[Saga Pattern]]

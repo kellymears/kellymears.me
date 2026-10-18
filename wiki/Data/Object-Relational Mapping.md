@@ -37,3 +37,4 @@ Choosing an ORM shapes a codebase for years, much like choosing a framework. Its
 - [[Query Planner]]
 - [[Database Migration]]
 - [[SQL Join]]
+- [[Stored Procedure]]

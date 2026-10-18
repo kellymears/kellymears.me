@@ -25,3 +25,5 @@ Descriptions are a first-class part of the schema, not decoration. They are the 
 - [[Model Routing]]
 - [[Schema Evolution]]
 - [[Document Database]]
+- [[JSON]]
+- [[YAML]]

@@ -32,3 +32,4 @@ Several practical points recur:
 - [[Trunk-Based Development]]
 - [[Fast-Forward Merge]]
 - [[Software Fork]]
+- [[Local-First Software]]

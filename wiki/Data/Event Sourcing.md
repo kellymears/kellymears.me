@@ -24,3 +24,5 @@ The cost is that querying "current state" now requires either replaying potentia
 - [[Stream Processing]]
 - [[Undo]]
 - [[Schema Evolution]]
+- [[Serialization]]
+- [[Local-First Software]]

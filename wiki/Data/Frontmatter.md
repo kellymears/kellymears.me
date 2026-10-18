@@ -27,3 +27,5 @@ The same pattern extends beyond publishing. Notes in a personal knowledge system
 - [[Search Engine Optimization]]
 - [[Naming]]
 - [[Structured Data]]
+- [[YAML]]
+- [[JSON]]

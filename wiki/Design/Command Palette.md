@@ -27,7 +27,7 @@ Accessibility needs the usual care for a popup. The palette is a dialog with a c
 The palette's weakness is discoverability. People cannot search for a feature they do not know exists, and a blank text box shows nothing about what the product can do. That makes it a complement to visible navigation, not a replacement, the same balance that [[Progressive Disclosure]] strikes between showing everything and showing too little. It also eases the tension that [[Hick's Law]] describes: an interface can offer hundreds of commands without displaying hundreds of choices.
 
 ## See also
-- [[Keyboard Navigation]]
+- [[Autocomplete]]
 - [[Progressive Disclosure]]
 - [[Hick's Law]]
 - [[Modal Dialog]]

@@ -30,3 +30,4 @@ A specific, easily-missed instance: a cache whose scope is a single process beha
 - [[Determinism]]
 - [[Write-Ahead Logging]]
 - [[Key-Value Store]]
+- [[Local-First Software]]

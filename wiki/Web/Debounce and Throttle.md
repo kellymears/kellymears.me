@@ -22,3 +22,4 @@ Both exist to protect the same resource a naive [[Optimistic UI]] update or [[We
 ## Related
 - [[Web Worker]]
 - [[Long Task]]
+- [[Autocomplete]]

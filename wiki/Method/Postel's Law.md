@@ -26,3 +26,5 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 - [[Backward Compatibility]]
 - [[Schema Evolution]]
 - [[Error Message]]
+- [[YAML]]
+- [[JSON]]
