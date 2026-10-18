@@ -20,13 +20,13 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 - [[Reproducible Case]]
 - [[Resource Starvation]]
 - [[Root Cause Analysis]]
-- [[Cron]]
+- [[Logging]]
 - [[Fail Fast]]
 - [[Chaos Engineering]]
 
 ## Related
 - [[Daemon]]
-- [[Vacuous Truth]]
+- [[Distributed Tracing]]
 - [[Tail Latency]]
 - [[Columnar Storage]]
 - [[Service Level Objective]]

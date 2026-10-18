@@ -21,3 +21,5 @@ The same instinct applies one level up. When a fix introduces a [[Regression]], 
 - [[Data Lineage]]
 - [[Hindsight Bias]]
 - [[Normalization of Deviance]]
+- [[Scientific Debugging]]
+- [[Logging]]

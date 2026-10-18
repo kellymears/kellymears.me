@@ -31,3 +31,4 @@ The build step usually belongs to the [[Bundler]] or a fast transpiler that stri
 - [[Type Inference]]
 - [[Algebraic Data Type]]
 - [[Polyfill]]
+- [[Type System]]

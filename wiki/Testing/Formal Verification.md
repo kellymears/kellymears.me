@@ -25,9 +25,9 @@ The limits are real. A proof shows the system matches its specification, not tha
 Practical verification therefore sits on a spectrum with testing. [[Static Analysis]] and type systems prove narrower properties cheaply. [[Property-Based Testing]] checks specification-like properties on many random inputs. [[Deterministic Simulation Testing]] explores executions of the real code. Each trades some certainty for reach.
 
 ## See also
-- [[Static Analysis]]
+- [[Type System]]
 - [[Model-Based Testing]]
-- [[Property-Based Testing]]
+- [[Verification and Validation]]
 - [[Logical Clock]]
 - [[Two-Phase Commit]]
 - [[Halting Problem]]

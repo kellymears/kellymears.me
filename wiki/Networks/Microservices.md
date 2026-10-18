@@ -27,4 +27,4 @@ The common failure is the **distributed monolith**: services that still must dep
 - [[Load Balancing]]
 - [[Service Level Objective]]
 - [[Monorepo]]
-- [[Webhook]]
+- [[Distributed Tracing]]

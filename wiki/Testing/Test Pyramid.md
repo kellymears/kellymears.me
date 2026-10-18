@@ -24,4 +24,4 @@ The durable lesson is about the trade-offs, not the triangle. Each test should s
 - [[Humble Object]]
 - [[Risk-Based Testing]]
 - [[Solitary and Sociable Tests]]
-- [[Test-Driven Development]]
+- [[Shift-Left Testing]]

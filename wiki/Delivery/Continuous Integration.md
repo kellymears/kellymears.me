@@ -31,7 +31,7 @@ Several failure modes are worth knowing because they all produce a *false* green
 
 ## Related
 - [[Stacked Pull Requests]]
-- [[Three-Way Merge]]
+- [[Shift-Left Testing]]
 - [[Git Hook]]
 - [[Deployment Pipeline]]
 - [[Test Impact Analysis]]

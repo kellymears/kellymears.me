@@ -36,3 +36,4 @@ Nulls deserve the same edge-case attention as zero and empty strings in [[Bounda
 - [[SQL Join]]
 - [[Silent Failure]]
 - [[CSV]]
+- [[Type System]]

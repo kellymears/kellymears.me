@@ -24,5 +24,5 @@ Shadow traffic fits into a progression of release safety. Shadowing tests with r
 
 ## See also
 - [[Synthetic Monitoring]]
-- [[Differential Testing]]
+- [[Staging Environment]]
 - [[Zero-Downtime Deployment]]

@@ -27,7 +27,7 @@ Contracts between functions are different from [[Contract Testing]], which check
 
 ## See also
 - [[Assertion]]
-- [[Fail Fast]]
-- [[Formal Verification]]
+- [[Type System]]
+- [[Verification and Validation]]
 - [[Property-Based Testing]]
 - [[Defensive Default]]

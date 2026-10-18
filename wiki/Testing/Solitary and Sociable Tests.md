@@ -26,7 +26,7 @@ In practice most teams blend them. A common rule is to mock across architectural
 The debate also shapes what "unit" means. To a mockist it is a class; to a classicist it is a behavior, which may span several classes. Much disagreement about the [[Test Pyramid]] and the line between unit and [[Integration Test|integration tests]] comes down to this choice.
 
 ## See also
-- [[Test Double]]
+- [[Dependency Injection]]
 - [[Humble Object]]
 - [[Mutation Testing]]
 - [[Characterization Test]]

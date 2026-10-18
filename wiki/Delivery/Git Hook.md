@@ -32,5 +32,5 @@ Hooks are shared by every [[Git Worktree]] of a repository, since they live in t
 ## See also
 - [[Branch Protection]]
 - [[Code Formatter]]
-- [[Static Analysis]]
+- [[Shift-Left Testing]]
 - [[Version Control]]

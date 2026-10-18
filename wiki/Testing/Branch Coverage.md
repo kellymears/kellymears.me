@@ -27,3 +27,4 @@ There is also a measurement artifact worth recognizing. When two runners instrum
 - [[Fail Fast]]
 - [[Symbolic Execution]]
 - [[Decision Table Testing]]
+- [[Cyclomatic Complexity]]

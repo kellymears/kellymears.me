@@ -27,5 +27,5 @@ Static analysis complements testing rather than replacing it. It finds whole cla
 
 ## See also
 - [[Code Formatter]]
-- [[Penetration Testing]]
-- [[Unit Test]]
+- [[Shift-Left Testing]]
+- [[Type System]]

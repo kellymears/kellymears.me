@@ -31,7 +31,7 @@ The oldest technique is still the most common: **printf debugging**, adding prin
 A debugger answers "what is the state?" but not "what should it be?", and most debugging is spent on the second question. Narrowing the problem to a [[Reproducible Case]], explaining it aloud as in [[Rubber Duck Debugging]], and finding when it started with [[Git Bisect]] often do more than stepping through code line by line.
 
 ## See also
-- [[Heisenbug]]
+- [[Scientific Debugging]]
 - [[Call Stack]]
 - [[Source Map]]
 - [[Core Dump]]

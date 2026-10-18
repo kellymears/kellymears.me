@@ -29,6 +29,6 @@ Two clocks are worth distinguishing. *Wall-clock* time follows the calendar and 
 [[Deterministic Simulation Testing]] generalizes the idea, controlling time along with threads and network so entire distributed systems run reproducibly. In distributed systems, where machine clocks disagree, ordering often comes from a [[Logical Clock]] instead.
 
 ## See also
-- [[Time Zone]]
+- [[Dependency Injection]]
 - [[Flaky Test]]
 - [[Heisenbug]]

@@ -26,7 +26,7 @@ Once the bug is fixed, the example has a second life. It becomes a [[Regression 
 The main trap is reducing too far. Sometimes the bug only appears in combination: two libraries together, a particular data size, a [[Race Condition]] that needs real load. If the small case stops failing, the last thing removed was part of the cause, and that is itself the finding.
 
 ## See also
-- [[Delta Debugging]]
+- [[Scientific Debugging]]
 - [[Bug Triage]]
 - [[Test Isolation]]
 - [[Characterization Test]]

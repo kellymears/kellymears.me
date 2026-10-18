@@ -20,3 +20,4 @@ Golden files are close kin to [[Snapshot Testing]] — the underlying mechanism 
 - [[Characterization Test]]
 - [[Test Oracle]]
 - [[Record and Replay]]
+- [[Doctest]]

@@ -31,7 +31,7 @@ Recursive sum types describe trees: an expression is a number, *or* a sum of two
 ## See also
 - [[Pattern Matching]]
 - [[Monad]]
-- [[Finite State Machine]]
+- [[Type System]]
 - [[Type Inference]]
 - [[Null]]
 - [[Dynamic Dispatch]]

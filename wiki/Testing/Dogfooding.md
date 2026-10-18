@@ -30,7 +30,7 @@ Dogfooding has known blind spots, and most come from the builders not being typi
 Done well, dogfooding sits between automated suites and [[Exploratory Testing]]: unscripted, sustained, and grounded in real tasks. It works best combined with a channel for reporting what people find, so feedback flows into [[Bug Triage]] instead of hallway grumbling.
 
 ## See also
-- [[Usability Testing]]
+- [[Verification and Validation]]
 - [[Canary Release]]
 - [[Smoke Test]]
 - [[Synthetic Monitoring]]

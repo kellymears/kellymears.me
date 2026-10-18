@@ -28,3 +28,4 @@ Coverage also behaves oddly across multiple test environments measuring the same
 - [[Unit Test]]
 - [[Vacuous Truth]]
 - [[Risk-Based Testing]]
+- [[Cyclomatic Complexity]]

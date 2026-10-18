@@ -25,3 +25,4 @@ The costs are also real. A strict gate makes any measurement artifact a hard blo
 - [[Truncation Bias]]
 - [[Instrumentation]]
 - [[Risk-Based Testing]]
+- [[Cyclomatic Complexity]]

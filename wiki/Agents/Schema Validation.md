@@ -29,3 +29,4 @@ Validation is the natural boundary for a system taking model output; see [[Struc
 - [[Large Language Model]]
 - [[SQL Injection]]
 - [[Serialization]]
+- [[Type System]]

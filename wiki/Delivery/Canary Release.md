@@ -18,7 +18,7 @@ It composes naturally with [[Continuous Deployment]]: a pipeline that ships ever
 - [[Dogfooding]]
 - [[Crash Reporting]]
 - [[Rollback]]
-- [[Continuous Deployment]]
+- [[Staging Environment]]
 - [[AB Testing]]
 - [[Chaos Engineering]]
 - [[Shadow Traffic]]

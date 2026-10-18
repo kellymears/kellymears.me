@@ -30,3 +30,4 @@ The second risk is that a double drifts from the real interface, so the tests pa
 - [[Fake Clock]]
 - [[Humble Object]]
 - [[Solitary and Sociable Tests]]
+- [[Dependency Injection]]

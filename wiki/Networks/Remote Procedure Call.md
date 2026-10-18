@@ -28,4 +28,4 @@ Typed interfaces also help teams evolve services safely. Generated stubs catch m
 ## See also
 - [[Schema Evolution]]
 - [[Microservices]]
-- [[Serialization]]
+- [[Distributed Tracing]]

@@ -33,7 +33,7 @@ It also reduces reliance on the [[Test Double]]. Heavy mocking often signals log
 The cost is an extra layer and the discipline to keep the shell humble. Logic that creeps back into the boundary is untested again, and teams sometimes exclude the shell from [[Code Coverage]] on the assumption it stayed thin.
 
 ## See also
-- [[Test Double]]
+- [[Dependency Injection]]
 - [[Pure Function]]
 - [[Unit Test]]
 - [[Test Pyramid]]

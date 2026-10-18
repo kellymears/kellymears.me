@@ -16,6 +16,6 @@ The fault is still [[Nondeterminism]] in the ordinary sense — the same input d
 - [[Core Dump]]
 - [[Minimal Reproducible Example]]
 - [[Crash Reporting]]
-- [[Determinism]]
+- [[Scientific Debugging]]
 - [[Dynamic Voltage and Frequency Scaling]]
 - [[Test Isolation]]

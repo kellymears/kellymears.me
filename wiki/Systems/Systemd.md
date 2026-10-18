@@ -25,3 +25,4 @@ Its most consequential feature for daily debugging is the systemd unit's **autom
 - [[Containerization]]
 - [[Boot Process]]
 - [[Watchdog Timer]]
+- [[Logging]]

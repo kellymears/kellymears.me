@@ -37,3 +37,4 @@ The payoff is the same one a [[Reproducible Case]] provides by hand. A minimal f
 - [[Git Bisect]]
 - [[Divide and Conquer]]
 - [[Minimal Reproducible Example]]
+- [[Scientific Debugging]]

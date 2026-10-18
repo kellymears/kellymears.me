@@ -28,3 +28,4 @@ It also disciplines prose. "This cast is required because the checker demands it
 - [[Hindsight Bias]]
 - [[Bayes' Theorem]]
 - [[Randomized Controlled Trial]]
+- [[Scientific Debugging]]

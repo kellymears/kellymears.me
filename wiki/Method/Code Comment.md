@@ -26,3 +26,4 @@ Two mechanical hazards. A comment stating a causal mechanism nobody verified is 
 ## Related
 - [[Technical Debt]]
 - [[Linguistic Relativity]]
+- [[Doctest]]

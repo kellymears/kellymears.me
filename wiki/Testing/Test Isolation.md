@@ -32,6 +32,6 @@ The strictest form is a **hermetic** test, which depends on nothing outside its 
 
 ## See also
 - [[Test Parallelization]]
-- [[Test Fixture]]
+- [[Dependency Injection]]
 - [[Test Double]]
 - [[Determinism]]
