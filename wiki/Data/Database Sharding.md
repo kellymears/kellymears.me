@@ -20,3 +20,5 @@ The partitioning key is the single decision the whole design hangs on, and it's 
 ## Related
 - [[CAP Theorem]]
 - [[Foreign Key]]
+- [[MapReduce]]
+- [[Key-Value Store]]

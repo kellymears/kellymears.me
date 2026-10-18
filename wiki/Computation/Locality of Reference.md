@@ -35,3 +35,4 @@ Multicore processors add a trap called **false sharing**. When two threads write
 - [[B-Tree]]
 - [[Columnar Storage]]
 - [[Profiling]]
+- [[MapReduce]]

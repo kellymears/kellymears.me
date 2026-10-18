@@ -34,3 +34,4 @@ Edit distance has limits. A purely textual diff doesn't know what code means, so
 - [[Version Control]]
 - [[Three-Way Merge]]
 - [[Semantic Conflict]]
+- [[Entity Resolution]]

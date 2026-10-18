@@ -20,3 +20,4 @@ The risk is indirection outrunning its benefit — a codebase where every operat
 - [[Recursion]]
 - [[Lambda Calculus]]
 - [[Unix Pipeline]]
+- [[MapReduce]]

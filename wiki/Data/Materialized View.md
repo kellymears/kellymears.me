@@ -29,5 +29,5 @@ The difficulty is the familiar one of [[Cache Invalidation]], since a materializ
 - [[Cache Invalidation]]
 - [[Eventual Consistency]]
 - [[Database Index]]
-- [[Incremental Static Regeneration]]
+- [[ETL Pipeline]]
 - [[Columnar Storage]]

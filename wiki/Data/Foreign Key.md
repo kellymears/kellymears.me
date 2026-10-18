@@ -29,4 +29,4 @@ Foreign keys interact with other choices. A [[Soft Delete]] leaves rows in place
 - [[Relational Database]]
 - [[Database Normalization]]
 - [[Universally Unique Identifier]]
-- [[Soft Delete]]
+- [[SQL Join]]

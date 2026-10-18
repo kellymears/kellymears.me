@@ -29,3 +29,4 @@ A specific, easily-missed instance: a cache whose scope is a single process beha
 - [[Signaling Server]]
 - [[Determinism]]
 - [[Write-Ahead Logging]]
+- [[Key-Value Store]]

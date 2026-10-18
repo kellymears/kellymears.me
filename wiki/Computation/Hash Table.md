@@ -24,3 +24,4 @@ Hash tables promise no ordering. Where ranges or sorted traversal matter, a sort
 - [[Determinism]]
 - [[Database Index]]
 - [[Denial-of-Service Attack]]
+- [[Key-Value Store]]

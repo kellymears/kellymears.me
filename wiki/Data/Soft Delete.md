@@ -36,3 +36,4 @@ Distributed systems use a related idea under the name *tombstone*: a marker that
 - [[Immutability]]
 - [[Rollback]]
 - [[Foreign Key]]
+- [[Null]]

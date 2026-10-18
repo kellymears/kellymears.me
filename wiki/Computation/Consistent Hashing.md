@@ -19,3 +19,4 @@ The trade-off is a small amount of load imbalance even with virtual nodes — th
 - [[Cache Invalidation]]
 - [[Least Recently Used Cache]]
 - [[Database Sharding]]
+- [[Key-Value Store]]

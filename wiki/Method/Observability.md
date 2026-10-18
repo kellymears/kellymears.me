@@ -16,7 +16,7 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 ## See also
 - [[Instrumentation]]
 - [[Ground Truth]]
-- [[Silent Failure]]
+- [[Time Series Database]]
 - [[Reproducible Case]]
 - [[Resource Starvation]]
 - [[Root Cause Analysis]]

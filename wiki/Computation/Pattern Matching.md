@@ -19,3 +19,4 @@ The failure mode is a match that looks exhaustive but isn't, in a language witho
 - [[Duck Typing]]
 - [[Finite State Machine]]
 - [[Algebraic Data Type]]
+- [[Null]]

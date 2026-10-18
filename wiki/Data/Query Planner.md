@@ -32,3 +32,4 @@ When the planner's choice is wrong and can't be fixed with better statistics, th
 - [[N+1 Query Problem]]
 - [[Relational Database]]
 - [[Benchmarking]]
+- [[SQL Join]]

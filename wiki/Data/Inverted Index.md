@@ -33,3 +33,4 @@ Inverted indexes are optimized for reading. Posting lists are compressed and sto
 - [[Retrieval-Augmented Generation]]
 - [[Search Engine Optimization]]
 - [[Trie]]
+- [[Faceted Search]]

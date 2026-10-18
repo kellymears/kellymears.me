@@ -24,3 +24,4 @@ Queues come with delivery guarantees that matter more than they first appear to.
 - [[Delivery Guarantees]]
 - [[Exponential Backoff]]
 - [[Head-of-Line Blocking]]
+- [[Stream Processing]]

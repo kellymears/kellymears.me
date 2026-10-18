@@ -30,6 +30,6 @@ Data usually reaches a warehouse from transactional databases through [[Change D
 - [[Relational Database]]
 - [[Denormalization]]
 - [[Change Data Capture]]
-- [[Log-Structured Merge Tree]]
+- [[ETL Pipeline]]
 - [[Locality of Reference]]
 - [[Data Compression]]

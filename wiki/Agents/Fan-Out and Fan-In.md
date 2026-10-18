@@ -25,3 +25,4 @@ Silent truncation is the last hazard: if a fan-out caps coverage, say so, or a p
 - [[Context Window]]
 - [[Ground Truth]]
 - [[Tail Latency]]
+- [[MapReduce]]

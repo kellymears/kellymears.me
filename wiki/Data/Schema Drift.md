@@ -27,3 +27,4 @@ A related asymmetry causes real bugs: a system may *advertise* a richer schema t
 - [[Technical Debt]]
 - [[Object-Relational Mapping]]
 - [[Database Normalization]]
+- [[ETL Pipeline]]

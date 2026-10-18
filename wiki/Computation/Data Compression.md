@@ -19,7 +19,7 @@ The theoretical limit comes from Claude Shannon's 1948 paper founding informatio
 
 Two classic techniques underlie most lossless formats:
 
-- **Huffman coding.** Invented by David Huffman in 1952 as a student. Common symbols get short codes and rare ones get long codes, built from a tree so no code is the prefix of another.
+- **Huffman coding.** Invented by David Huffman in 1952. Common symbols get short codes and rare ones get long codes, built from a tree so no code is the prefix of another.
 - **Dictionary methods.** Abraham Lempel and Jacob Ziv's LZ77 (1977) replaces repeated sequences with references back to earlier occurrences: "copy 12 bytes from 40 bytes ago." Text and code are full of repetition, so this works well.
 
 DEFLATE, behind gzip, ZIP, and PNG, combines both. Newer formats such as Brotli and Zstandard use larger windows, better modeling, and built-in dictionaries for faster or smaller results.
@@ -32,7 +32,7 @@ There is a deep link between compression and prediction: a model that predicts t
 
 ## See also
 - [[Entropy]]
-- [[Quantization]]
+- [[Time Series Database]]
 - [[Chroma Subsampling]]
 - [[Texture Mapping]]
 - [[Pretraining]]
