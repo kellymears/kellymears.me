@@ -27,3 +27,4 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 ## Related
 - [[Daemon]]
 - [[Vacuous Truth]]
+- [[Tail Latency]]

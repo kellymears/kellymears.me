@@ -20,3 +20,5 @@ Dual-stack — running IPv4 and IPv6 side by side — has been the transition st
 - [[Anycast]]
 - [[Zero Trust Network]]
 - [[Mesh Network]]
+- [[End-to-End Principle]]
+- [[Time to Live]]

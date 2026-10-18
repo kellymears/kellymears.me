@@ -21,3 +21,5 @@ This layer is orthogonal to [[Cache Invalidation]] inside an application's own d
 
 ## Related
 - [[Core Web Vitals]]
+- [[Time to Live]]
+- [[Thundering Herd]]

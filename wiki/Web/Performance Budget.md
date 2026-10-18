@@ -28,3 +28,4 @@ Budgets should also be revisable with reasoning attached. A deliberate, understo
 ## Related
 - [[Server-Side Rendering]]
 - [[Lazy Loading]]
+- [[Tail Latency]]

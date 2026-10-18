@@ -21,3 +21,6 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Backpressure]]
 - [[Frame Pacing]]
 - [[Congestion Control]]
+- [[Tail Latency]]
+- [[Head-of-Line Blocking]]
+- [[Fallacies of Distributed Computing]]

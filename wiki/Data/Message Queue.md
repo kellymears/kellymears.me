@@ -22,3 +22,5 @@ Queues come with delivery guarantees that matter more than they first appear to.
 - [[Transactional Outbox]]
 - [[Saga Pattern]]
 - [[Delivery Guarantees]]
+- [[Exponential Backoff]]
+- [[Head-of-Line Blocking]]

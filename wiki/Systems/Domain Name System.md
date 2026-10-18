@@ -29,3 +29,4 @@ The common record types are few: an address record, an alias record pointing one
 - [[Least Privilege]]
 - [[Hash Function]]
 - [[Secret Management]]
+- [[Time to Live]]

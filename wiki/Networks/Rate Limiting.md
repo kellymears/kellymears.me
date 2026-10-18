@@ -20,3 +20,5 @@ It's a close cousin of [[Backpressure]], but the direction of control is differe
 - [[Load Balancing]]
 - [[Load Testing]]
 - [[Congestion Control]]
+- [[Exponential Backoff]]
+- [[Thundering Herd]]

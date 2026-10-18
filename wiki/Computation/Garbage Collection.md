@@ -22,3 +22,4 @@ Rust is the notable outlier: it reclaims memory deterministically via ownership 
 - [[Memory Leak]]
 - [[Graph Traversal]]
 - [[Halting Problem]]
+- [[Tail Latency]]

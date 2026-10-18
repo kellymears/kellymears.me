@@ -22,3 +22,4 @@ It's the flip side of [[Rate Limiting]]: rate limiting is a hard external cap a 
 - [[Load Testing]]
 - [[Connection Pool]]
 - [[Congestion Control]]
+- [[Exponential Backoff]]

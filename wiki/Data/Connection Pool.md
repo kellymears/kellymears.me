@@ -29,3 +29,4 @@ The pattern is general: thread pools, HTTP keep-alive, and object pools in games
 - [[N+1 Query Problem]]
 - [[Circuit Breaker]]
 - [[Rate Limiting]]
+- [[Thundering Herd]]

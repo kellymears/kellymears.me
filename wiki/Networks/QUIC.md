@@ -5,7 +5,7 @@ tags:
   - networks
 summary: QUIC rebuilds reliable, multiplexed transport on top of UDP so one lost packet stops blocking unrelated streams.
 ---
-**QUIC** is a transport protocol, originally from Google and now an IETF standard, that provides TCP-like reliability and ordering but is built on UDP instead of being a peer to it. The motivating problem is head-of-line blocking: over a single TCP connection carrying multiple logical streams (as HTTP/2 does), one lost packet stalls *all* of them until it's retransmitted, because TCP only knows about one ordered byte stream, not the independent streams multiplexed inside it. QUIC gives each stream its own sequencing, so a lost packet on stream A never blocks stream B from being delivered to the application.
+**QUIC** is a transport protocol, originally from Google and now an IETF standard, that provides TCP-like reliability and ordering but is built on UDP instead of being a peer to it. The motivating problem is [[Head-of-Line Blocking|head-of-line blocking]]: over a single TCP connection carrying multiple logical streams (as HTTP/2 does), one lost packet stalls *all* of them until it's retransmitted, because TCP only knows about one ordered byte stream, not the independent streams multiplexed inside it. QUIC gives each stream its own sequencing, so a lost packet on stream A never blocks stream B from being delivered to the application.
 
 QUIC also folds the transport and TLS handshakes into one round trip instead of two sequential ones (TCP's three-way handshake, then a separate [[Transport Layer Security|TLS]] negotiation on top), and it can often resume a previous connection with zero additional round trips at all — meaningful savings on high-latency or lossy mobile networks where every round trip counts. Because QUIC runs in userspace over UDP rather than in the kernel like TCP, it can also evolve faster: shipping a new congestion-control algorithm is a library update, not an OS update.
 
@@ -21,3 +21,4 @@ The cost is CPU: encrypting and processing every packet in userspace is more wor
 - [[DNS over HTTPS]]
 - [[Transport Layer Security]]
 - [[Congestion Control]]
+- [[End-to-End Principle]]

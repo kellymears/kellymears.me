@@ -37,3 +37,4 @@ Version control already lives by these ideas. A commit graph is a happens-before
 - [[Gossip Protocol]]
 - [[Consensus Algorithm]]
 - [[Formal Verification]]
+- [[Network Partition]]
