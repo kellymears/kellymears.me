@@ -27,5 +27,5 @@ It also disciplines prose. "This cast is required because the checker demands it
 - [[Abductive Reasoning]]
 - [[Hindsight Bias]]
 - [[Collatz Conjecture]]
-- [[Randomized Controlled Trial]]
+- [[Conspiracy Theory]]
 - [[Scientific Debugging]]

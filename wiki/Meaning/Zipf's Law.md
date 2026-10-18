@@ -30,7 +30,7 @@ The law has practical uses in computing:
 
 ## See also
 - [[Semantic Change]]
-- [[Network Effect]]
+- [[Constructed Language]]
 - [[Linguistic Relativity]]
 - [[Fractal]]
 - [[Hot Partition]]

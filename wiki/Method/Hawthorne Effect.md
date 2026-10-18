@@ -25,7 +25,7 @@ In software and management, the effect appears whenever measurement changes beha
 The practical lesson is to assume observation has some effect and to design around it: compare against equally observed controls, measure over long enough periods for novelty to fade, and prefer data collected passively; see [[Confounding]] and [[Observability]].
 
 ## See also
-- [[Regression to the Mean]]
+- [[Obedience to Authority]]
 - [[Cobra Effect]]
 - [[Self-Fulfilling Prophecy]]
 - [[Natural Experiment]]

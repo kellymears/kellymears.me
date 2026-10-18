@@ -32,5 +32,5 @@ Gossip pairs naturally with data that merges cleanly. A [[Conflict-Free Replicat
 - [[Wide-Column Store]]
 - [[Strength of Weak Ties]]
 - [[Antibiotic Resistance]]
-- [[Mesh Network]]
+- [[Urban Legend]]
 - [[Multicast]]

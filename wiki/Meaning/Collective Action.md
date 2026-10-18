@@ -25,7 +25,7 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 - [[Cooperative Game]]
 - [[Social Capital]]
 - [[Iron Law of Oligarchy]]
-- [[Knowledge Graph]]
+- [[Schelling Point]]
 - [[Free Rider Problem]]
 - [[Prisoner's Dilemma]]
 - [[Pluralistic Ignorance]]

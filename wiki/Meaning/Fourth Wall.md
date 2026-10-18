@@ -31,3 +31,4 @@ Performers who talk straight to the camera get some of the same effect without a
 - [[Alternate Reality Game]]
 - [[Deus ex Machina]]
 - [[Death of the Author]]
+- [[Suspension of Disbelief]]

@@ -22,3 +22,5 @@ The error matters most where it has consequences: it drives harsher judgments of
 - [[Unreliable Narrator]]
 - [[Just-World Hypothesis]]
 - [[Naive Realism]]
+- [[Obedience to Authority]]
+- [[Social Identity Theory]]

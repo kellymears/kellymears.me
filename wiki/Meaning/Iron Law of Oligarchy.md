@@ -29,3 +29,4 @@ The law is sobering for anyone organizing people toward a shared goal; see [[Col
 ## See also
 - [[Conway's Law]]
 - [[Rent-Seeking]]
+- [[Obedience to Authority]]

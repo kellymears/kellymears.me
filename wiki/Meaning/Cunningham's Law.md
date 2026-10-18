@@ -22,3 +22,4 @@ The uncomfortable edge is that the law describes a manipulation tactic as much a
 - [[Brandolini's Law]]
 - [[Implicature]]
 - [[Godwin's Law]]
+- [[Meme]]

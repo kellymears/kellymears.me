@@ -27,5 +27,6 @@ Remedies aim at keeping private signals visible. Juries and committees can vote 
 
 ## See also
 - [[Bystander Effect]]
-- [[Moral Panic]]
+- [[Urban Legend]]
 - [[Black Swan]]
+- [[Conformity]]

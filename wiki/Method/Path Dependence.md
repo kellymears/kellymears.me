@@ -22,4 +22,4 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[Second-Order Thinking]]
 - [[Encrypted Media Extensions]]
 - [[Two-Sided Market]]
-- [[Token Ring]]
+- [[Schelling Point]]

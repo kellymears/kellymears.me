@@ -24,3 +24,4 @@ What survives is a design check. A reward schedule teaches behavior regardless o
 - [[Procedural Rhetoric]]
 - [[Deus ex Machina]]
 - [[Walking Simulator]]
+- [[Suspension of Disbelief]]

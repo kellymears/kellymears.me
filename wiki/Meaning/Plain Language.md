@@ -28,6 +28,6 @@ Two writing habits are worth naming as failure modes because they are so easy to
 - [[Behavior-Driven Development]]
 
 ## Related
-- [[Collective Action]]
+- [[Constructed Language]]
 - [[Markdown]]
 - [[Heuristic Evaluation]]

@@ -21,3 +21,5 @@ The effect has been replicated across dozens of experimental setups, from staged
 - [[Free Rider Problem]]
 - [[Change Advisory Board]]
 - [[Spotlight Effect]]
+- [[Conformity]]
+- [[Obedience to Authority]]

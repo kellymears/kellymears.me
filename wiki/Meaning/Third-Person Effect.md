@@ -20,3 +20,4 @@ The effect has real behavioral consequences precisely because policy and censors
 - [[Risk Compensation]]
 - [[Spotlight Effect]]
 - [[Naive Realism]]
+- [[Urban Legend]]

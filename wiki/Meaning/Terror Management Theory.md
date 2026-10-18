@@ -23,3 +23,4 @@ One distinction is worth holding. The theory draws on Ernest Becker's *The Denia
 - [[Tarot]]
 - [[Just-World Hypothesis]]
 - [[Rite of Passage]]
+- [[Social Identity Theory]]

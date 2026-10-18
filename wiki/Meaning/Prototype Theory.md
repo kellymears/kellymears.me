@@ -18,7 +18,7 @@ This is why arguments about whether a hot dog is a sandwich never resolve. Each 
 - [[Map and Territory]]
 - [[Implicature]]
 - [[Folk Etymology]]
-- [[Knowledge Graph]]
+- [[Constructed Language]]
 - [[Ship of Theseus]]
 - [[Representativeness Heuristic]]
 - [[Neurodiversity]]

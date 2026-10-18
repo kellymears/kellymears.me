@@ -17,7 +17,7 @@ A red herring exploits the same convention in reverse, planting false emphasis t
 ## See also
 - [[MacGuffin]]
 - [[Naming]]
-- [[Ground Truth]]
+- [[Suspension of Disbelief]]
 - [[Falsifiability]]
 - [[Zeigarnik Effect]]
 - [[Telegraphing]]

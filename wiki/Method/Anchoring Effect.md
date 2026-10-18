@@ -18,7 +18,7 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 - [[Structured Output]]
 - [[Story Points]]
 - [[Representativeness Heuristic]]
-- [[Dual Process Theory]]
+- [[Schelling Point]]
 - [[In-Context Learning]]
 
 ## Related

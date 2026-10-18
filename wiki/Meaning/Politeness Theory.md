@@ -37,3 +37,4 @@ Polite words wear out with use and are replaced, as softened terms take on the m
 ## See also
 - [[Social Capital]]
 - [[Dog Whistle]]
+- [[Language Death]]

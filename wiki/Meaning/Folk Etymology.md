@@ -18,7 +18,7 @@ The lesson generalizes past words. Visible internal structure is evidence about 
 - [[Retcon]]
 - [[Conceptual Metaphor]]
 - [[Malaphor]]
-- [[Prototype Theory]]
+- [[Urban Legend]]
 - [[Invented Tradition]]
 - [[Euphemism Treadmill]]
 - [[Semantic Change]]

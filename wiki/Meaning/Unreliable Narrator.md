@@ -26,5 +26,5 @@ Unreliable narration resonates because everyday memory is unreliable too. People
 - [[Multiple Endings]]
 - [[Branching Narrative]]
 - [[MacGuffin]]
-- [[Walking Simulator]]
+- [[Suspension of Disbelief]]
 - [[Death of the Author]]

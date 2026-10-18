@@ -26,7 +26,7 @@ The same discipline applies to humans reviewing machine output, and to the revie
 ## Related
 - [[Wargame]]
 - [[Adversarial Example]]
-- [[Exhaustive Claim]]
+- [[Conformity]]
 - [[Penetration Testing]]
 - [[Jailbreak]]
 - [[Pre-mortem]]

@@ -24,4 +24,4 @@ Every fix compounds the problem rather than resolving it. Add a second metric to
 ## Related
 - [[Universal Basic Income]]
 - [[Tragedy of the Commons]]
-- [[Silent Failure]]
+- [[Obedience to Authority]]

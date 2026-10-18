@@ -16,7 +16,7 @@ Two problems recur across languages. **Honorific and title handling** loses prec
 The historical record includes outright alteration: religious and violent content changed or removed for regional ratings boards under [[Moral Panic]]-driven scrutiny, character ages and relationships rewritten to avoid controversy, entire subplots cut. Translation drift compounds over re-releases, producing conflicting terminology across fan [[Wiki]] entries and other community references — a slow [[Documentation Rot]] with no canonical fix, since each translation was accurate to its own moment.
 
 ## See also
-- [[Subtitling]]
+- [[Constructed Language]]
 - [[Internationalization]]
 - [[Creole Language]]
 - [[Wiki]]

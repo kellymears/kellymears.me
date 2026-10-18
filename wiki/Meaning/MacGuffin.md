@@ -25,3 +25,4 @@ Both rely on the same trick as [[Chekhov's Gun]]: an object earns narrative weig
 - [[Fourth Wall]]
 - [[Deus ex Machina]]
 - [[Hero's Journey]]
+- [[Suspension of Disbelief]]

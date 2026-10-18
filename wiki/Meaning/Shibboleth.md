@@ -13,9 +13,9 @@ Most shibboleths today are soft rather than lethal, and still do real sorting wo
 
 ## See also
 - [[Dog Whistle]]
-- [[Euphemism Treadmill]]
+- [[Language Death]]
 - [[Creole Language]]
 - [[Speech Act]]
-- [[Imagined Community]]
+- [[Social Identity Theory]]
 - [[Rite of Passage]]
 - [[Code-Switching]]

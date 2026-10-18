@@ -12,7 +12,7 @@ Genuine backronyms are usually deliberate and openly admitted. *SOS* was chosen 
 The folk versions are the ones to distrust. *Posh* was never "port out, starboard home"; *golf* was never "gentlemen only, ladies forbidden"; *cop* was never "constable on patrol". None of these stories has any [[Provenance]] earlier than the twentieth century, long after each word was already current, and acronymic word formation itself was rare before then — a tell in itself. What the letters displace is not a mystery but something duller: *golf* is the Scots *gouf*, attested by the mid-fifteenth century and probably from Middle Dutch *colf* or *colve*, "stick, club"; *cop* is a shortening of *copper* (1846), an agent noun from the verb *cop*, "to seize" (1704). Only *posh* is genuinely of unknown origin. That is the usual [[Ground Truth]] — an ordinary etymology, occasionally an honest blank — overwritten by the same confident, unchecked claim [[Folk Etymology]] covers, sharing its [[Plausible Mechanism]]: a tidy story about letters beats a dull one about words.
 
 ## See also
-- [[Folk Etymology]]
+- [[Urban Legend]]
 - [[Plausible Mechanism]]
 - [[Naming]]
 - [[Provenance]]

@@ -28,3 +28,4 @@ The findings have implications for surveys and research that rely on self-report
 - [[Expert Intuition]]
 - [[Ideomotor Effect]]
 - [[Motivated Reasoning]]
+- [[Conformity]]

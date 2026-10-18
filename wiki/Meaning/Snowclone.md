@@ -16,7 +16,7 @@ It is deliberate where its cousins are accidents of production — nobody sets o
 ## See also
 - [[Godwin's Law]]
 - [[Hero's Journey]]
-- [[Mondegreen]]
-- [[Semantic Change]]
+- [[Urban Legend]]
+- [[Meme]]
 - [[Retronym]]
 - [[Conceptual Metaphor]]

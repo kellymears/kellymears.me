@@ -30,7 +30,7 @@ For autistic and other neurodivergent people, who may already work hard at readi
 - [[Filter Bubble]]
 - [[Kayfabe]]
 - [[Politeness Theory]]
-- [[Shibboleth]]
+- [[Meme]]
 - [[Strength of Weak Ties]]
 - [[Third Place]]
 - [[Dog Whistle]]

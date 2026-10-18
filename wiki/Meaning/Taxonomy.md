@@ -16,7 +16,7 @@ The choice of dimensions is the substantive design work. Classifying content by 
 Two practical notes. A vocabulary is a shared model, so every near-synonym costs everyone a decision; preferring an existing term over a new one is the whole discipline. And separating a *display* label from a stable *identifier* means the label can be improved later without breaking anything that references it.
 
 ## See also
-- [[Information Architecture]]
+- [[Constructed Language]]
 - [[Knowledge Graph]]
 - [[Web 2.0]]
 - [[Frontmatter]]

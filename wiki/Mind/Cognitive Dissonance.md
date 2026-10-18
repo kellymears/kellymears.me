@@ -28,7 +28,7 @@ Some classic findings have replicated less cleanly than textbooks suggest, but t
 ## See also
 - [[Rite of Passage]]
 - [[Choice Blindness]]
-- [[Groupthink]]
+- [[Obedience to Authority]]
 - [[Psychological Reactance]]
 - [[Motivated Reasoning]]
 - [[Fundamental Attribution Error]]

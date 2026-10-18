@@ -27,3 +27,5 @@ Rituals that mark major life changes are among the most commonly reinvented; see
 ## See also
 - [[Kayfabe]]
 - [[Cultural Cringe]]
+- [[Schelling Point]]
+- [[Language Death]]

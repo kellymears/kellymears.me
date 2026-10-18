@@ -16,10 +16,10 @@ The critique cuts the other way with equal force: naming something a moral panic
 
 ## See also
 - [[Godwin's Law]]
-- [[Legibility]]
+- [[Social Identity Theory]]
 - [[Motte and Bailey]]
-- [[Confidence Trick]]
+- [[Conspiracy Theory]]
 - [[Umami]]
-- [[Negativity Bias]]
+- [[Urban Legend]]
 - [[Risk Compensation]]
 - [[Just-World Hypothesis]]

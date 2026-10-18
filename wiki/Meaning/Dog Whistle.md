@@ -30,3 +30,5 @@ The tactic lives at the edges of acceptable speech, and it tends to move them; s
 - [[Astroturfing]]
 - [[Spiral of Silence]]
 - [[Politeness Theory]]
+- [[Social Identity Theory]]
+- [[Meme]]

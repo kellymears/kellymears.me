@@ -25,3 +25,4 @@ High-status milieus are permeable for structural reasons. Credentials go uncheck
 - [[Information Asymmetry]]
 - [[Ideomotor Effect]]
 - [[XZ Utils Backdoor]]
+- [[Urban Legend]]

@@ -22,3 +22,4 @@ What the effect demonstrates regardless is that editing is authorship, not assem
 - [[Unreliable Narrator]]
 - [[Fourth Wall]]
 - [[Death of the Author]]
+- [[Suspension of Disbelief]]

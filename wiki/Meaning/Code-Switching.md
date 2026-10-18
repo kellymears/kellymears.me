@@ -23,9 +23,9 @@ The phenomenon also matters for technology. Speech recognition and language mode
 
 ## See also
 - [[Politeness Theory]]
-- [[Euphemism Treadmill]]
+- [[Language Death]]
 - [[Grammatical Gender]]
-- [[Theory of Mind]]
+- [[Social Identity Theory]]
 - [[Creole Language]]
 - [[Speech Act]]
 - [[Dog Whistle]]

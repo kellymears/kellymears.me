@@ -30,3 +30,4 @@ Critics argue the scenarios are so artificial that intuitions about them reveal 
 - [[Ship of Theseus]]
 - [[Tragedy of the Commons]]
 - [[Thought Experiment]]
+- [[Obedience to Authority]]

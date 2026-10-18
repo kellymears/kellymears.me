@@ -18,3 +18,4 @@ Corpus linguistics turns the intuition into a measurement. Given a large collect
 - [[Snowclone]]
 - [[Grammatical Gender]]
 - [[Shibboleth]]
+- [[Constructed Language]]

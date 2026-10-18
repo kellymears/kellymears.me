@@ -33,6 +33,6 @@ The bias isn't simply an error. Taking threats seriously is often wise, and dism
 ## See also
 - [[Peak-End Rule]]
 - [[Loneliness]]
-- [[Self-Compassion]]
+- [[Urban Legend]]
 - [[Framing Effect]]
 - [[Savoring]]

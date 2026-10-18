@@ -22,5 +22,6 @@ The same machinery can also split communities. When media fragments, people can 
 
 ## See also
 - [[Social Capital]]
-- [[Third Place]]
+- [[Language Death]]
 - [[Census]]
+- [[Social Identity Theory]]

@@ -18,7 +18,7 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 ## See also
 - [[Context-Free Grammar]]
 - [[Conceptual Metaphor]]
-- [[Semantic Change]]
+- [[Language Death]]
 
 ## Related
 - [[Politeness Theory]]
@@ -29,4 +29,4 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 - [[Inner Speech]]
 - [[Framing Effect]]
 - [[Euphemism Treadmill]]
-- [[Code-Switching]]
+- [[Constructed Language]]

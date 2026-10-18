@@ -28,4 +28,4 @@ Many cultures and religions express versions of the belief, from karma to saying
 ## See also
 - [[Negativity Bias]]
 - [[Self-Fulfilling Prophecy]]
-- [[Motivated Reasoning]]
+- [[Conspiracy Theory]]

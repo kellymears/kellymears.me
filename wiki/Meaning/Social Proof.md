@@ -14,7 +14,7 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 ## See also
 - [[Social Comparison]]
 - [[Groupthink]]
-- [[Availability Cascade]]
+- [[Conformity]]
 - [[Astroturfing]]
 - [[Halo Effect]]
 - [[Spiral of Silence]]

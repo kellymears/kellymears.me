@@ -27,3 +27,4 @@ Its template has been endlessly reused, with variants for other topics and other
 ## See also
 - [[Dog Whistle]]
 - [[Hanlon's Razor]]
+- [[Meme]]

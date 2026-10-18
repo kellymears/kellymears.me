@@ -33,5 +33,5 @@ The limits are human. Agreeing on definitions across communities is slow and pol
 - [[Library Classification]]
 - [[Expert System]]
 - [[Entity-Relationship Model]]
-- [[Map and Territory]]
+- [[Constructed Language]]
 - [[Hierarchical Data]]

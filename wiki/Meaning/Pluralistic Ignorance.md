@@ -27,6 +27,6 @@ The remedy is making private views visible. Anonymous surveys that report actual
 ## See also
 - [[Naive Realism]]
 - [[Spotlight Effect]]
-- [[Information Cascade]]
-- [[Steelmanning]]
+- [[Schelling Point]]
+- [[Conformity]]
 - [[Eternal September]]

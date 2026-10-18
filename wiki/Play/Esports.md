@@ -28,4 +28,4 @@ Whether esports are sports remains debated, mostly over physical exertion. They 
 
 ## See also
 - [[Tier List]]
-- [[Live Service Game]]
+- [[Social Identity Theory]]

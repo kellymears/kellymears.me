@@ -17,7 +17,7 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 ## See also
 - [[Reversible Decision]]
 - [[Expected Value]]
-- [[Second-System Effect]]
+- [[Obedience to Authority]]
 - [[Motivated Reasoning]]
 - [[Cognitive Dissonance]]
 

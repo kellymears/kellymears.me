@@ -12,8 +12,8 @@ The mechanism has a social feedback loop layered on top of the individual cognit
 The concept doesn't require the underlying claim to be false — some cascades bring real, previously under-attended risks to appropriate public attention, and the same mechanism looks identical whether it's converging on truth or away from it, which is exactly why it's hard to spot from inside one. What makes it diagnosable after the fact is a mismatch between the intensity of public alarm and the base-rate data once someone bothers to measure it, the same gap that [[Moral Panic]] research tracks in its own cases. It's the population-scale version of the loop that runs the [[Streisand Effect]] at a single-story scale.
 
 ## See also
-- [[Moral Panic]]
-- [[Social Proof]]
+- [[Conspiracy Theory]]
+- [[Urban Legend]]
 - [[Streisand Effect]]
 - [[Filter Bubble]]
 - [[Spiral of Silence]]

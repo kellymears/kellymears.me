@@ -23,3 +23,5 @@ Mismanaging the line, rather than deliberately crossing it, is one recurring sou
 - [[Retcon]]
 - [[Fourth Wall]]
 - [[Deus ex Machina]]
+- [[Constructed Language]]
+- [[Suspension of Disbelief]]

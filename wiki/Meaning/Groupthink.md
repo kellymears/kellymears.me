@@ -14,11 +14,11 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 ## See also
 - [[Rite of Passage]]
 - [[Bystander Effect]]
-- [[Spiral of Silence]]
+- [[Obedience to Authority]]
 - [[Naive Realism]]
 - [[Cognitive Dissonance]]
 - [[Motivated Reasoning]]
-- [[Steelmanning]]
+- [[Conformity]]
 - [[Pluralistic Ignorance]]
 - [[Social Deduction Game]]
 - [[Psychological Safety]]

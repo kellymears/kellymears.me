@@ -19,3 +19,4 @@ The razor has a clear edge, though, and treating it as absolute is its own error
 - [[Steelmanning]]
 - [[Abductive Reasoning]]
 - [[Godwin's Law]]
+- [[Conspiracy Theory]]

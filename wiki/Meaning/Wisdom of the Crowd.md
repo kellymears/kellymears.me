@@ -31,6 +31,6 @@ The idea has limits. Crowds do well on questions with a measurable answer that i
 ## See also
 - [[Speculative Bubble]]
 - [[Superforecasting]]
-- [[Pluralistic Ignorance]]
+- [[Conformity]]
 - [[Self-Consistency]]
 - [[Alternate Reality Game]]

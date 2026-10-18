@@ -17,7 +17,7 @@ The term migrated outward to describe any arrangement where insiders know a cont
 - [[Overton Window]]
 - [[Legibility]]
 - [[Moral Panic]]
-- [[Naming]]
+- [[Suspension of Disbelief]]
 - [[Masking]]
 - [[Context Collapse]]
 - [[Speech Act]]

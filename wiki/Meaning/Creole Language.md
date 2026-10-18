@@ -24,5 +24,5 @@ Creoles connect to several ideas about language. They show grammar emerging from
 
 ## See also
 - [[Grammatical Gender]]
-- [[Folk Etymology]]
-- [[Imagined Community]]
+- [[Language Death]]
+- [[Constructed Language]]
