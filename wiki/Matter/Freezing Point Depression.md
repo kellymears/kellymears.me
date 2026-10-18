@@ -26,5 +26,5 @@ The same arithmetic, run in reverse, lets chemists find an unknown compound's mo
 
 ## See also
 - [[Specific Heat Capacity]]
-- [[Dew Point]]
-- [[Thermal Expansion]]
+- [[Frostbite]]
+- [[Brain Freeze]]

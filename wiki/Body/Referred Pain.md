@@ -25,3 +25,4 @@ Referred pain is distinct from radiating pain, which travels along a single nerv
 - [[Itch]]
 - [[Phantom Limb]]
 - [[Side Stitch]]
+- [[Brain Freeze]]

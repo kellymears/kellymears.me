@@ -15,7 +15,7 @@ Union proceeds in overlapping stages. **Hematoma and inflammation** fill the gap
 Imaging lags the biology, so a radiograph is a proxy and not [[Ground Truth]] for union. When a stage stalls the result is [[Fracture Nonunion]], and the cause is normally mechanical or vascular rather than obscure, which is where the demand for a [[Plausible Mechanism]] earns its keep. The methods described in [[Fracture Fixation]] are best read as attempts to supply each stage the conditions it needs.
 
 ## See also
-- [[Relative Energy Deficiency in Sport]]
+- [[Shin Splints]]
 - [[Plantar Fasciitis]]
 - [[Sarcopenia]]
 - [[Vitamin D]]

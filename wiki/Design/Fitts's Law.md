@@ -28,3 +28,4 @@ Fitts's Law pairs naturally with [[Hick's Law]] — one governs how long it take
 - [[Layout Shift]]
 - [[Natural Mapping]]
 - [[Context Menu]]
+- [[Reaction Time]]

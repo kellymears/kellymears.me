@@ -30,6 +30,6 @@ Most acute episodes improve within weeks, which makes almost any treatment look 
 ## See also
 - [[Repetitive Strain Injury]]
 - [[Plantar Fasciitis]]
-- [[Bike Fit]]
+- [[Paresthesia]]
 - [[Posture]]
 - [[Diaphragmatic Breathing]]

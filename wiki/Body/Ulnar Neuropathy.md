@@ -34,3 +34,4 @@ Nerve compression involves both pressure and reduced blood flow; see [[Compartme
 - [[Cadence]]
 - [[Tendinopathy]]
 - [[Posture]]
+- [[Paresthesia]]

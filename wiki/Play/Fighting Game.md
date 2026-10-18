@@ -29,5 +29,5 @@ Barriers to entry are a long-running problem: new players often face opponents f
 ## See also
 - [[Tutorial Design]]
 - [[Arcade Game]]
-- [[Esports]]
+- [[Reaction Time]]
 - [[Elo Rating System]]

@@ -38,3 +38,4 @@ Pain that persists for a long time can become partly a matter of a sensitized ne
 ## See also
 - [[Tendon and Ligament]]
 - [[Scar Tissue]]
+- [[Shin Splints]]

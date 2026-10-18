@@ -23,6 +23,6 @@ Itch likely evolved to protect the skin from parasites and irritants, prompting 
 Some people scratch or pick at their skin compulsively, a pattern related to other body-focused repetitive behaviors; see [[Stimming]].
 
 ## See also
-- [[Referred Pain]]
-- [[Allergy]]
+- [[Capsaicin]]
+- [[Paresthesia]]
 - [[Scar Tissue]]

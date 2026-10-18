@@ -31,3 +31,4 @@ Phantom sensation sits among other cases where pain is felt somewhere it doesn't
 ## See also
 - [[Gate Control Theory]]
 - [[Interoception]]
+- [[Paresthesia]]

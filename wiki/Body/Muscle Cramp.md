@@ -28,7 +28,7 @@ Two observations support the nervous-system account:
 Cramps are different from [[Delayed Onset Muscle Soreness]], the ache that arrives a day after unfamiliar exercise, and from the pain of [[Compartment Syndrome]], which builds and does not release. Cramps that come often without exertion can signal nerve, thyroid, or medication problems worth checking.
 
 ## See also
-- [[Fluid Balance]]
+- [[Hiccup]]
 - [[Proprioception]]
 - [[Muscle Fiber Types]]
 - [[Heat Acclimation]]

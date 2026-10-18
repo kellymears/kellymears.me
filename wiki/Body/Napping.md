@@ -31,3 +31,4 @@ Workplaces have experimented with nap pods and quiet rooms. Japan's *inemuri*, d
 - [[Pomodoro Technique]]
 - [[Circadian Lighting]]
 - [[Loneliness]]
+- [[Yawning]]

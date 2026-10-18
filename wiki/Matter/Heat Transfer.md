@@ -24,6 +24,6 @@ Electronics fight the same battle. A chip conducts heat into a metal heat spread
 ## See also
 - [[Shock Wave]]
 - [[Thermoelectric Effect]]
-- [[Clock Signal]]
+- [[Frostbite]]
 - [[Seasons]]
 - [[Greenhouse Effect]]

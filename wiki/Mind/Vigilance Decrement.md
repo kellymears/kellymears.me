@@ -32,6 +32,6 @@ Practical defenses follow:
 Long reviews have the same limit, which is why [[Code Review]] catches less when a change is large.
 
 ## See also
-- [[Dashboard]]
-- [[Normal Accidents]]
+- [[Reaction Time]]
+- [[Yawning]]
 - [[Pomodoro Technique]]

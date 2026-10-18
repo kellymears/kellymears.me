@@ -29,5 +29,5 @@ Games have even built a genre around tolerating it. An [[Idle Game]] turns waiti
 ## See also
 - [[Mere-Exposure Effect]]
 - [[Mind-Wandering]]
-- [[Doomscrolling]]
+- [[Yawning]]
 - [[Vigilance Decrement]]

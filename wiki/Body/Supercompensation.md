@@ -23,7 +23,7 @@ Things go wrong in a predictable sequence. *Functional overreaching* is a delibe
 The single-session curve is a simplification. Real training overlaps sessions long before any one has fully resolved, and the [[Training Load]] fitness-fatigue model describes that better. The practical structure is the same either way: build for a few weeks, then *deload* with a lighter week, and *taper* before a target event, so that fatigue clears faster than fitness fades.
 
 ## See also
-- [[Strength Training]]
+- [[Shin Splints]]
 - [[Polarized Training]]
 - [[Periodization]]
 - [[Relative Energy Deficiency in Sport]]

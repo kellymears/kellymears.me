@@ -23,7 +23,7 @@ Circadian timing governs far more than sleep: core body temperature, cortisol, a
 - [[Sleep Pressure]]
 - [[Sleep Stages]]
 - [[Jet Lag]]
-- [[Insulin Sensitivity]]
+- [[Yawning]]
 - [[Homeostasis]]
 - [[Endocrine System]]
 - [[Sleep Deprivation]]

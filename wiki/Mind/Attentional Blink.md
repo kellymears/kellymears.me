@@ -27,7 +27,7 @@ The attentional blink belongs to a family of effects showing that seeing isn't s
 The practical implications concern fast information. Alerts that arrive just after another can go unseen, which matters for dashboards, cockpits, and monitoring tools; see [[Incident Response]]. Fast-changing subtitles and on-screen text can be missed after an attention-grabbing moment; see [[Subtitling]]. In games, prompts that appear right after a dramatic event leave players less time than the clock suggests; see [[Quick Time Event]]. Spacing important signals by at least half a second avoids the blink.
 
 ## See also
-- [[Cognitive Load]]
+- [[Reaction Time]]
 - [[Attention Residue]]
 - [[Preattentive Processing]]
 - [[Speed Reading]]

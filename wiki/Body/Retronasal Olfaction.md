@@ -16,8 +16,8 @@ Regulation splits along the same seam: a compound may be approved as a fragrance
 
 ## See also
 - [[Nociception]]
-- [[Xenobiotic Metabolism]]
-- [[Prototype Theory]]
+- [[Capsaicin]]
+- [[Brain Freeze]]
 - [[Linguistic Relativity]]
 - [[Taxonomy]]
 - [[Maillard Reaction]]

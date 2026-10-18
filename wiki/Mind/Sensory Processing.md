@@ -37,6 +37,6 @@ Recognizing one's own profile, and building a life around it rather than [[Maski
 
 ## See also
 - [[Haptic Feedback]]
-- [[Stimming]]
+- [[Capsaicin]]
 - [[Interoception]]
 - [[Neurodiversity]]

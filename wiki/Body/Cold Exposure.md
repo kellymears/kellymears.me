@@ -27,6 +27,6 @@ Deliberate cold exposure, through ice baths and cold plunges, has become popular
 
 ## See also
 - [[Goosebumps]]
-- [[Heat Stroke]]
-- [[Hormesis]]
-- [[Heat Transfer]]
+- [[Frostbite]]
+- [[Mammalian Dive Reflex]]
+- [[Brain Freeze]]

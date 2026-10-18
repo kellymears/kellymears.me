@@ -35,5 +35,5 @@ Consumer wearables estimate stages from movement and heart rate rather than brai
 - [[Napping]]
 - [[Sleep Apnea]]
 - [[Hangover]]
-- [[Memory Consolidation]]
+- [[Lymphatic System]]
 - [[Immune System]]

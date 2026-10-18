@@ -27,4 +27,4 @@ Fascia changes with age, injury, and activity, becoming stiffer with inactivity 
 
 ## See also
 - [[Plantar Fasciitis]]
-- [[Side Stitch]]
+- [[Lymphatic System]]

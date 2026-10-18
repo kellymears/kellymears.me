@@ -29,6 +29,6 @@ The **cool-down** is the warm-up's popular partner, and the evidence is less kin
 - [[Heart Rate Zones]]
 - [[Muscle Cramp]]
 - [[Cold Exposure]]
-- [[Motor Learning]]
+- [[Shin Splints]]
 - [[Fascia]]
 - [[Side Stitch]]

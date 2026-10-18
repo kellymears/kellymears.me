@@ -27,7 +27,7 @@ Pain guides the dose. A common rule allows pain up to about 3 or 4 out of 10 dur
 Tendinopathy overlaps with [[Repetitive Strain Injury]], the broader category of overuse problems in work and sport.
 
 ## See also
-- [[Delayed Onset Muscle Soreness]]
+- [[Shin Splints]]
 - [[Plantar Fasciitis]]
 - [[Scar Tissue]]
 - [[Stress Fracture]]

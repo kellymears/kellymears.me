@@ -27,7 +27,7 @@ Susceptibility varies widely and is partly genetic. Populations that have lived 
 Altitude affects other things too. Water boils at a lower temperature, so cooking takes longer; see [[Boiling Point]]. The body loses more water through breathing dry air, and lower oxygen reduces endurance performance; see [[Fluid Balance]] and [[VO2 Max]]. Mild altitude sickness is easy to mistake for dehydration or a hangover, which is why it often goes unrecognized; see [[Homeostasis]].
 
 ## See also
-- [[Thermoregulation]]
+- [[Frostbite]]
 - [[Blood Pressure]]
 - [[Heat Acclimation]]
 - [[Sleep Apnea]]

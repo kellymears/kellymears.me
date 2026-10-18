@@ -23,7 +23,7 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Law of Large Numbers]]
 - [[Blood Pressure]]
 - [[Elo Rating System]]
-- [[Hindsight Bias]]
+- [[Hiccup]]
 - [[Low Back Pain]]
 - [[Gambler's Fallacy]]
 - [[Effect Size]]

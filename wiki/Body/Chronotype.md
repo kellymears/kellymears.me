@@ -31,3 +31,4 @@ The labels can be overstated. Chronotype is a spectrum rather than a set of type
 - [[Time Blindness]]
 - [[Napping]]
 - [[Insomnia]]
+- [[Yawning]]

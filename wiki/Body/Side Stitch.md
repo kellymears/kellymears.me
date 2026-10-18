@@ -43,3 +43,4 @@ A stitch is harmless, but persistent or severe abdominal pain that doesn't ease 
 ## See also
 - [[Fascia]]
 - [[Vagus Nerve]]
+- [[Hiccup]]

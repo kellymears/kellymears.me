@@ -29,5 +29,5 @@ Shoes are the newest factor. Carbon-plated shoes with resilient foams, introduce
 ## See also
 - [[Critical Power]]
 - [[Functional Threshold Power]]
-- [[Energy Systems]]
+- [[Shin Splints]]
 - [[Cardiac Output]]

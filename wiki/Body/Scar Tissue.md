@@ -21,3 +21,4 @@ The same collagen-remodeling logic explains why [[Fracture Nonunion]] and proble
 - [[Inflammation]]
 - [[Fascia]]
 - [[Plantar Fasciitis]]
+- [[Frostbite]]

@@ -16,7 +16,7 @@ The countermeasure is planning around the cliff rather than reacting to it: star
 
 ## See also
 - [[Nociception]]
-- [[Physical Dependence]]
+- [[Paresthesia]]
 - [[Fracture Fixation]]
 - [[Xenobiotic Metabolism]]
 - [[Moist Wound Healing]]

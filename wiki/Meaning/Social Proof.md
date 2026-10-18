@@ -19,7 +19,7 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 - [[Halo Effect]]
 - [[Spiral of Silence]]
 - [[Pluralistic Ignorance]]
-- [[Matthew Effect]]
+- [[Yawning]]
 - [[Veblen Good]]
 - [[Strength of Weak Ties]]
 - [[Social Deduction Game]]

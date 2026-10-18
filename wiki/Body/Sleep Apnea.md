@@ -28,3 +28,4 @@ Apnea is often discovered by a bed partner, and is easily mistaken for [[Insomni
 ## See also
 - [[Diaphragmatic Breathing]]
 - [[Heart Rate Variability]]
+- [[Hiccup]]

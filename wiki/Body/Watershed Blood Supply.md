@@ -18,8 +18,8 @@ This anatomy drives clinical caution. Scaphoid fractures are notoriously invisib
 - [[Fracture Nonunion]]
 - [[Bone Remodeling]]
 - [[Fracture Fixation]]
-- [[Sensitivity and Specificity]]
-- [[Moist Wound Healing]]
+- [[Paresthesia]]
+- [[Frostbite]]
 
 ## Related
 - [[Nociception]]

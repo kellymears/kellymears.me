@@ -22,4 +22,4 @@ Submitted runs carry video, and a leaderboard's authority rests on moderators re
 - [[Esports]]
 - [[Game Loop]]
 - [[Motor Learning]]
-- [[Pseudorandom Number Generator]]
+- [[Reaction Time]]

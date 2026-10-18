@@ -27,3 +27,4 @@ The actual role of mirror systems is likely narrower, possibly helping predict a
 ## See also
 - [[Replication Crisis]]
 - [[Body Doubling]]
+- [[Yawning]]

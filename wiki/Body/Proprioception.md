@@ -19,7 +19,7 @@ Proprioception is precisely what field sobriety tests probe when they ask someon
 - [[Referred Pain]]
 - [[Phantom Limb]]
 - [[Stimming]]
-- [[Motor Learning]]
+- [[Paresthesia]]
 - [[Muscle Cramp]]
 - [[Bicycle Stability]]
 - [[Sensory Processing]]

@@ -29,5 +29,6 @@ Prevention is drinking less, slowly, with food, and alternating with water. Expe
 Alcohol also disturbs the body's daily rhythm and appetite signals; see [[Circadian Rhythm]] and [[Appetite Regulation]].
 
 ## See also
-- [[Gut Microbiome]]
+- [[Reaction Time]]
 - [[Insomnia]]
+- [[Brain Freeze]]

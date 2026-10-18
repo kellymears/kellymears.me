@@ -31,7 +31,7 @@ Gut signals also contribute to the body sense of [[Interoception]], which may ex
 
 ## See also
 - [[Hangover]]
-- [[Fermentation]]
+- [[Lymphatic System]]
 - [[Antibiotic Resistance]]
 - [[Umami]]
 - [[Immune System]]

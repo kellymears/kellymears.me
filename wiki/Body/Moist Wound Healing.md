@@ -16,7 +16,7 @@ Practical technique. **Irrigate** with clean water or saline at adequate volume 
 
 ## See also
 - [[Nociception]]
-- [[Watershed Blood Supply]]
+- [[Frostbite]]
 - [[Regional Nerve Block]]
 - [[Bone Remodeling]]
 - [[Plausible Mechanism]]

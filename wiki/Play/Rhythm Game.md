@@ -18,5 +18,5 @@ summary: a genre that judges player input against a musical beat, where calibrat
 - [[Tetris]]
 - [[Shoot 'em Up]]
 - [[Arcade Game]]
-- [[Motor Learning]]
+- [[Reaction Time]]
 - [[Sound]]

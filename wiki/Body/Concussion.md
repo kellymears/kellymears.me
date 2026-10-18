@@ -31,7 +31,7 @@ For cyclists, helmets reduce the risk of serious head injury substantially, by r
 The brain's ability to recover, described under [[Neuroplasticity]], is substantial, but it needs time and graded load.
 
 ## See also
-- [[Vestibular System]]
+- [[Brain Freeze]]
 - [[Central Sensitization]]
 - [[Neuroplasticity]]
 - [[Sensory Overload]]

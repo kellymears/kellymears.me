@@ -35,5 +35,5 @@ The models are useful and easy to over-trust. They see only what the sensors see
 - [[Side Stitch]]
 - [[Autistic Burnout]]
 - [[Heart Rate Variability]]
-- [[Allostatic Load]]
+- [[Shin Splints]]
 - [[Time Series Database]]

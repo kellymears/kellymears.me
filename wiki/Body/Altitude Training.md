@@ -29,5 +29,5 @@ Altitude training is a textbook case of [[Hormesis]] and [[Supercompensation]]: 
 - [[Blood Doping]]
 - [[Hormesis]]
 - [[Mitochondria]]
-- [[Ideal Gas Law]]
+- [[Mammalian Dive Reflex]]
 - [[Iron Deficiency]]

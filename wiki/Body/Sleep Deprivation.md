@@ -29,6 +29,6 @@ Short naps help with alertness, and caffeine masks sleep pressure by blocking it
 A small number of people carry gene variants that let them function well on about six hours, but they're rare. Most people who believe they need little sleep are simply used to feeling tired.
 
 ## See also
-- [[Napping]]
-- [[Hangover]]
+- [[Yawning]]
+- [[Reaction Time]]
 - [[Burnout]]

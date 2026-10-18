@@ -28,3 +28,4 @@ Western science was slow to accept umami as a basic taste, and MSG acquired a re
 - [[Nociception]]
 - [[pH]]
 - [[Appetite Regulation]]
+- [[Capsaicin]]

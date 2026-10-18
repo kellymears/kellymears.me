@@ -27,5 +27,5 @@ Posture also affects how people are perceived and, some claimed, how they feel; 
 ## See also
 - [[Stretching]]
 - [[Fascia]]
-- [[Vestibular System]]
+- [[Paresthesia]]
 - [[Side Stitch]]

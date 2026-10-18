@@ -28,5 +28,5 @@ Claims about breathwork often outrun the evidence. Slow breathing reliably shift
 Paying attention to the breath is a common entry point to sensing the body's internal state; see [[Interoception]].
 
 ## See also
-- [[Posture]]
-- [[Side Stitch]]
+- [[Mammalian Dive Reflex]]
+- [[Hiccup]]

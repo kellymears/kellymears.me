@@ -28,9 +28,9 @@ The vagus can be stimulated deliberately. Implanted *vagus nerve stimulation* de
 Popular claims about "vagal tone" often outrun the evidence. Polyvagal theory, proposed by Stephen Porges in 1994, is influential in therapy circles, but many physiologists dispute its anatomical and evolutionary claims. The well-established picture is still notable: a nerve connecting brain and body in both directions, part of how chronic stress, described as [[Allostatic Load]], shows up in the heart and gut, and how calming the body can calm the mind.
 
 ## See also
-- [[Blood Pressure]]
+- [[Hiccup]]
 - [[Autonomic Nervous System]]
-- [[Diaphragmatic Breathing]]
+- [[Mammalian Dive Reflex]]
 - [[Cold Exposure]]
 - [[Awe]]
 - [[Gut Microbiome]]

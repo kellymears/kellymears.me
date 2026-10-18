@@ -32,7 +32,7 @@ Like other adaptive systems, immunity benefits from manageable challenge, a para
 ## See also
 - [[Inflammation]]
 - [[Fever]]
-- [[Gut Microbiome]]
+- [[Lymphatic System]]
 - [[Allostatic Load]]
 - [[Itch]]
 - [[Allergy]]

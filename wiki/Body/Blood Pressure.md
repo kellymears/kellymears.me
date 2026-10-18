@@ -25,10 +25,10 @@ Measuring accurately is surprisingly hard. Readings rise in a doctor's office, t
 Lifestyle changes have real effects. Regular aerobic exercise lowers systolic pressure by several points, comparable to a single medication, and both aerobic and [[Strength Training]] help. Cutting sodium, losing excess weight, limiting alcohol, and managing chronic stress, the strain described under [[Allostatic Load]], each contribute. During exercise, systolic pressure rises substantially while diastolic stays similar; in heat, widened skin vessels lower pressure, part of the cardiovascular strain covered under [[Thermoregulation]].
 
 ## See also
-- [[Vagus Nerve]]
+- [[Mammalian Dive Reflex]]
 - [[Sleep Apnea]]
-- [[Fluid Balance]]
-- [[Allostatic Load]]
+- [[Brain Freeze]]
+- [[Lymphatic System]]
 - [[Reynolds Number]]
 - [[Cardiac Output]]
 - [[Atmospheric Pressure]]

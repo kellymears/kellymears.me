@@ -33,7 +33,7 @@ Continuous glucose monitors, small sensors worn on the arm, have made blood gluc
 For athletes, insulin sensitivity is generally high, and post-exercise is when muscles refill glycogen fastest, which is why recovery nutrition focuses on carbohydrate after hard sessions. The fuel choices muscles make during exercise are described under [[Energy Systems]]. The body's capacity to adapt to stress and recover, shaped by [[Training Load]], also shapes how efficiently it handles fuel.
 
 ## See also
-- [[Endocrine System]]
+- [[Paresthesia]]
 - [[Intermittent Fasting]]
 - [[Metabolic Flexibility]]
 - [[Body Composition]]

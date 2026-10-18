@@ -31,3 +31,4 @@ Hip fractures are the gravest outcome. A large share of older patients die withi
 ## See also
 - [[Body Composition]]
 - [[Fracture Nonunion]]
+- [[Shin Splints]]
