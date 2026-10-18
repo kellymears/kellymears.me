@@ -21,6 +21,7 @@ Two mechanical hazards. A comment stating a causal mechanism nobody verified is 
 - [[Code Review]]
 - [[Chesterton's Fence]]
 - [[Plain Language]]
+- [[Curse of Knowledge]]
 
 ## Related
 - [[Technical Debt]]

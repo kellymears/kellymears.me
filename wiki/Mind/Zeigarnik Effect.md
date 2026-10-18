@@ -20,7 +20,7 @@ That pull shows up everywhere:
 
 The useful finding for daily life came from E. J. Masicampo and Roy Baumeister in 2011. Intrusive thoughts about an unfinished goal dropped substantially once participants made a specific plan for completing it, even though the task itself was still not done. The mind seems to need not completion but a credible commitment. This is the logic behind productivity systems built on *capturing* every open loop into a trusted list, and behind [[Implementation Intention|implementation intentions]]. A written note of where to resume is enough to close the loop for now.
 
-For people whose [[Working Memory]] is already loaded, offloading open loops is a large share of the work of staying organized. A [[Zettelkasten]] or task inbox gives the tension somewhere to go.
+For people whose [[Working Memory]] is already loaded, [[Extended Mind|offloading]] open loops is a large share of the work of staying organized. A [[Zettelkasten]] or task inbox gives the tension somewhere to go.
 
 ## See also
 - [[Implementation Intention]]

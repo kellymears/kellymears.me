@@ -17,3 +17,5 @@ The technique has since been absorbed into models themselves: so-called "reasoni
 - [[Agentic Loop]]
 - [[Mechanistic Interpretability]]
 - [[Large Language Model]]
+- [[Dual Process Theory]]
+- [[Metacognition]]

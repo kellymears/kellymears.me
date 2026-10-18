@@ -22,3 +22,5 @@ Countermeasures concern ordering and visibility: give the basis and the confiden
 - [[Hallucination]]
 - [[Adversarial Review]]
 - [[Ground Truth]]
+- [[Inattentional Blindness]]
+- [[Dual Process Theory]]

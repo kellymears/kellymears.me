@@ -101,7 +101,7 @@ Physiology, injury, and repair.
 
 Attention, executive function, and how minds differ.
 
-[[Attention Residue]] · [[Autistic Burnout]] · [[Autistic Inertia]] · [[Body Doubling]] · [[Cognitive Load]] · [[Decision Fatigue]] · [[Default Mode Network]] · [[Demand Avoidance]] · [[Emotional Regulation]] · [[Executive Function]] · [[Flow]] · [[Habit Formation]] · [[Hyperfocus]] · [[Implementation Intention]] · [[Interoception]] · [[Masking]] · [[Monotropism]] · [[Neurodiversity]] · [[Pomodoro Technique]] · [[Procrastination]] · [[Rabbit Hole]] · [[Rejection Sensitivity]] · [[Reward Prediction Error]] · [[Sensory Overload]] · [[Spaced Repetition]] · [[Spoon Theory]] · [[Stimming]] · [[Time Blindness]] · [[Working Memory]] · [[Zeigarnik Effect]]
+[[Attention Residue]] · [[Attention Restoration Theory]] · [[Autistic Burnout]] · [[Autistic Inertia]] · [[Body Doubling]] · [[Cognitive Dissonance]] · [[Cognitive Load]] · [[Curse of Knowledge]] · [[Decision Fatigue]] · [[Default Mode Network]] · [[Demand Avoidance]] · [[Dual Process Theory]] · [[Emotional Regulation]] · [[Executive Function]] · [[Extended Mind]] · [[Flow]] · [[Habit Formation]] · [[Hyperfocus]] · [[Implementation Intention]] · [[Inattentional Blindness]] · [[Interoception]] · [[Masking]] · [[Metacognition]] · [[Mindfulness]] · [[Monotropism]] · [[Neurodiversity]] · [[Pomodoro Technique]] · [[Predictive Processing]] · [[Procrastination]] · [[Rabbit Hole]] · [[Rejection Sensitivity]] · [[Reward Prediction Error]] · [[Selective Attention]] · [[Sensory Overload]] · [[Spaced Repetition]] · [[Spoon Theory]] · [[Stimming]] · [[Time Blindness]] · [[Working Memory]] · [[Yerkes-Dodson Law]] · [[Zeigarnik Effect]]
 
 ## Meaning & Society
 

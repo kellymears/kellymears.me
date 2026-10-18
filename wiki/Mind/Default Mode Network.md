@@ -30,3 +30,5 @@ Boredom may partly be the experience of the DMN without anything good to work on
 - [[Doomscrolling]]
 - [[Working Memory]]
 - [[Hyperfocus]]
+- [[Mindfulness]]
+- [[Attention Restoration Theory]]

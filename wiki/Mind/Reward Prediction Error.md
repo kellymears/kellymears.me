@@ -28,3 +28,4 @@ The signal underpins [[Habit Formation]], where behavior that is reliably reward
 - [[Compulsion Loop]]
 - [[Placebo Effect]]
 - [[Rabbit Hole]]
+- [[Predictive Processing]]

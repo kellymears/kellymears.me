@@ -27,3 +27,4 @@ Spaced repetition handles discrete facts best. Understanding comes from connecti
 - [[Cognitive Load]]
 - [[Agent Memory]]
 - [[Default Mode Network]]
+- [[Metacognition]]

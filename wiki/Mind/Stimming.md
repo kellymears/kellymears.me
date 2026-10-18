@@ -28,3 +28,4 @@ The commercial fidget toy boom of the late 2010s made stimming mainstream almost
 - [[Neurodiversity]]
 - [[Body Doubling]]
 - [[Emotional Regulation]]
+- [[Yerkes-Dodson Law]]

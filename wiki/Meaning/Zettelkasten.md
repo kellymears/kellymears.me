@@ -21,6 +21,7 @@ The modern practice adds tooling — automatic [[Backlink]]s, graph views, full-
 - [[Agent Memory]]
 - [[Frontmatter]]
 - [[Spaced Repetition]]
+- [[Extended Mind]]
 
 ## Related
 - [[Taxonomy]]

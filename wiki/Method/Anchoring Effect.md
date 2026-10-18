@@ -18,6 +18,7 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 - [[Structured Output]]
 - [[Root Cause Analysis]]
 - [[Plausible Mechanism]]
+- [[Dual Process Theory]]
 
 ## Related
 - [[Tool Use]]

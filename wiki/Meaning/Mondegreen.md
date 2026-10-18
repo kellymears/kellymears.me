@@ -18,3 +18,4 @@ The cross-language cousin is *soramimi*, a Japanese term for hearing foreign-lan
 - [[Snowclone]]
 - [[Folk Etymology]]
 - [[Automatic Speech Recognition]]
+- [[Predictive Processing]]

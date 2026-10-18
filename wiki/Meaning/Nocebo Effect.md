@@ -16,3 +16,4 @@ The effect creates a genuine ethical bind in medicine: informed consent requires
 - [[Moral Panic]]
 - [[Availability Cascade]]
 - [[Umami]]
+- [[Predictive Processing]]

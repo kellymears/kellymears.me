@@ -16,3 +16,4 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Bystander Effect]]
 - [[Spiral of Silence]]
 - [[Fundamental Attribution Error]]
+- [[Cognitive Dissonance]]

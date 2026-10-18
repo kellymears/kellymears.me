@@ -21,3 +21,5 @@ The technique's real relative is not conversation but writing: forcing a problem
 - [[Yak Shaving]]
 - [[Body Doubling]]
 - [[Default Mode Network]]
+- [[Metacognition]]
+- [[Curse of Knowledge]]

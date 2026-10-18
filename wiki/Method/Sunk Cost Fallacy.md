@@ -19,6 +19,7 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 - [[Technical Debt]]
 - [[Second-System Effect]]
 - [[Anchoring Effect]]
+- [[Cognitive Dissonance]]
 
 ## Related
 - [[Yak Shaving]]

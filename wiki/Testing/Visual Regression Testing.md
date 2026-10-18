@@ -23,6 +23,7 @@ Two traps recur. A static server that rewrites URLs can silently serve an error 
 - [[Responsive Breakpoint]]
 - [[Test Fixture]]
 - [[Stacking Context]]
+- [[Inattentional Blindness]]
 
 ## Related
 - [[Integration Test]]

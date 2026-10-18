@@ -27,3 +27,4 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 - [[Plain Language]]
 - [[Affordance]]
 - [[Documentation Rot]]
+- [[Extended Mind]]

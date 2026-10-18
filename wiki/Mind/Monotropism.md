@@ -30,3 +30,5 @@ It also connects to design. A [[Focus Trap]] and careful [[Focus Management]] in
 - [[Executive Function]]
 - [[Sensory Overload]]
 - [[Autistic Inertia]]
+- [[Selective Attention]]
+- [[Inattentional Blindness]]

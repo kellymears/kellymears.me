@@ -20,6 +20,7 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 - [[Anchoring Effect]]
 - [[Selection Bias]]
 - [[Streetlight Effect]]
+- [[Dual Process Theory]]
 
 ## Related
 - [[Ground Truth]]

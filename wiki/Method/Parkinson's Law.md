@@ -21,6 +21,7 @@ The practical use of the law is as a scheduling lever rather than a complaint: a
 - [[Time Blindness]]
 - [[Pomodoro Technique]]
 - [[Procrastination]]
+- [[Yerkes-Dodson Law]]
 
 ## Related
 - [[Brooks's Law]]

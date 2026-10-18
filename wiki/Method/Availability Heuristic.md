@@ -19,6 +19,7 @@ The corrective is the same move [[Fermi Estimation]] makes explicit: force yours
 - [[Anchoring Effect]]
 - [[Confirmation Bias]]
 - [[Selection Bias]]
+- [[Dual Process Theory]]
 
 ## Related
 - [[Survivorship Bias]]

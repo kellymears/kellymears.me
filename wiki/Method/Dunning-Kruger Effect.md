@@ -19,6 +19,8 @@ For engineers, the practical corollary is to distrust your own confidence exactl
 - [[Regression to the Mean]]
 - [[Base Rate Fallacy]]
 - [[Illusory Truth Effect]]
+- [[Metacognition]]
+- [[Curse of Knowledge]]
 
 ## Related
 - [[Anchoring Effect]]

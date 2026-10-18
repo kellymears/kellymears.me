@@ -19,3 +19,4 @@ There's a second, subtler curve worth separating from the authored one: the play
 - [[Assist Mode]]
 - [[Boss Rush]]
 - [[Flow]]
+- [[Yerkes-Dodson Law]]

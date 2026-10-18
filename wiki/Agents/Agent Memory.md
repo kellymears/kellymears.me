@@ -20,6 +20,7 @@ The related design question is retrieval: a memory that is never surfaced at the
 - [[Provenance]]
 - [[Agent Skill]]
 - [[Spaced Repetition]]
+- [[Extended Mind]]
 
 ## Related
 - [[Wiki]]

@@ -27,3 +27,4 @@ Living well with hyperfocus is mostly about the edges. External timers and alarm
 - [[Interoception]]
 - [[Neurodiversity]]
 - [[Autistic Inertia]]
+- [[Yerkes-Dodson Law]]

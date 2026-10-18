@@ -20,6 +20,7 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Ground Truth]]
 - [[Base Rate Fallacy]]
 - [[Rejection Sensitivity]]
+- [[Cognitive Dissonance]]
 
 ## Related
 - [[Availability Heuristic]]
