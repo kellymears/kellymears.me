@@ -34,3 +34,4 @@ Some teams leave constraints out, arguing the application owns the rules or that
 - [[Database Normalization]]
 - [[Data Contract]]
 - [[ACID]]
+- [[Upsert]]

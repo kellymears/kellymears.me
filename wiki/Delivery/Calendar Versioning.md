@@ -32,7 +32,7 @@ Version numbers also carry marketing weight. A jump from version 3 to 4 implies 
 Whatever the scheme, the goal is the same: a version number that answers the question its users most often ask. For libraries that question is usually compatibility; for applications it is usually age.
 
 ## See also
-- [[Semantic Versioning]]
+- [[ISO 8601]]
 - [[Release Train]]
 - [[Long-Term Support]]
 - [[Backward Compatibility]]

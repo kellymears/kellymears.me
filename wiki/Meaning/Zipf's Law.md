@@ -33,3 +33,4 @@ The law has practical uses in computing:
 - [[Network Effect]]
 - [[Linguistic Relativity]]
 - [[Fractal]]
+- [[Hot Partition]]

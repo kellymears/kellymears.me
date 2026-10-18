@@ -15,7 +15,7 @@ Caches also multiply invisibly. A single request may pass through a browser cach
 The subtlest form is a cache whose *scope* is smaller than assumed: a value memoized per process behaves like a cache within one instance and like nothing at all across several. See [[Incremental Static Regeneration]].
 
 ## See also
-- [[Fingerprint]]
+- [[Cache-Aside]]
 - [[Determinism]]
 - [[Naming]]
 - [[Static Site Generation]]

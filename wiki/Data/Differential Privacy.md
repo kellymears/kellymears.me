@@ -38,4 +38,4 @@ Machine learning faces the same risk: models can memorize training examples, and
 - [[Browser Fingerprinting]]
 - [[Open Data]]
 - [[Synthetic Data]]
-- [[Personal Data]]
+- [[Geospatial Data]]

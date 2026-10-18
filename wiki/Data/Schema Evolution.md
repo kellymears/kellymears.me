@@ -33,6 +33,6 @@ Schema evolution is the deliberate counterpart to [[Schema Drift]], where the sh
 
 ## See also
 - [[Serialization]]
-- [[Local-First Software]]
+- [[Entity-Attribute-Value]]
 - [[Data Contract]]
 - [[GraphQL]]

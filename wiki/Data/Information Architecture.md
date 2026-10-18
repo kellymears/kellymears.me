@@ -23,7 +23,7 @@ At scale the interesting problems become taxonomic: whether structure should be 
 - [[Ontology]]
 
 ## Related
-- [[Structured Data]]
+- [[Hierarchical Data]]
 - [[Wayfinding]]
 - [[Breadcrumb]]
 - [[Faceted Search]]

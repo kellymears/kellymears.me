@@ -28,3 +28,4 @@ Modern language models handle this differently. They split text into subword pie
 - [[Autocomplete]]
 - [[Character Encoding]]
 - [[Zipf's Law]]
+- [[Collation]]

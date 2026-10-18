@@ -35,4 +35,4 @@ Two practical hazards: clocks on many machines disagree, so [[Network Time Proto
 - [[Observability]]
 - [[Bitemporal Data]]
 - [[Data Retention]]
-- [[Ring Buffer]]
+- [[ISO 8601]]

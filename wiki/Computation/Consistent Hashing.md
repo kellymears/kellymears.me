@@ -23,3 +23,4 @@ The trade-off is a small amount of load imbalance even with virtual nodes — th
 - [[Distributed Hash Table]]
 - [[Stable Matching]]
 - [[Wide-Column Store]]
+- [[Hot Partition]]

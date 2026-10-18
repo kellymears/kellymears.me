@@ -20,7 +20,7 @@ Two things worth holding onto when working through an abstraction layer. The lay
 - [[Stored Procedure]]
 - [[Database View]]
 - [[Multi-Tenancy]]
-- [[Database Index]]
+- [[SQLite]]
 - [[N+1 Query Problem]]
 - [[Connection Pool]]
 

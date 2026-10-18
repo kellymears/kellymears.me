@@ -36,6 +36,6 @@ The structures share a weakness with high dimensions. As dimensions grow, nearly
 
 ## See also
 - [[Constructive Solid Geometry]]
-- [[Fluid Simulation]]
+- [[Geospatial Data]]
 - [[Voronoi Diagram]]
 - [[A-Star Search Algorithm]]

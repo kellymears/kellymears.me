@@ -38,4 +38,4 @@ Measuring the tail takes care. Percentiles can't be averaged across servers, and
 - [[Queueing Theory]]
 - [[Microservices]]
 - [[Hedged Requests]]
-- [[Service Level Objective]]
+- [[Hot Partition]]

@@ -35,7 +35,7 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 ## See also
 - [[Public Domain]]
 - [[GIF]]
-- [[CSV]]
+- [[SQLite]]
 - [[JPEG]]
 - [[Checksum]]
 - [[Optical Character Recognition]]

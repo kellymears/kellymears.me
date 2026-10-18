@@ -33,6 +33,6 @@ For testing, the lists are ready-made sources of test data. Each falsehood sugge
 The genre's wider lesson is humility about modeling the world. Software represents messy reality with neat structures, and every structure leaves something out. The best defense is to store data in the most general form practical, validate only what the system truly requires, and use a well-tested library for hard domains like time and text rather than rolling one's own; see [[Fake Clock]] for testing time-dependent code.
 
 ## See also
-- [[Null]]
-- [[Floating-Point Arithmetic]]
+- [[ISO 8601]]
+- [[Collation]]
 - [[Defensive Programming]]

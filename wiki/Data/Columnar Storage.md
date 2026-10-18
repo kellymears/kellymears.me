@@ -27,7 +27,7 @@ The idea is old, but a 2005 research system called C-Store, led by Michael Stone
 Data usually reaches a warehouse from transactional databases through [[Change Data Capture]] or batch exports, and analytical models are often deliberately denormalized into wide tables, the reverse of [[Database Normalization]]. A [[Materialized View]] can precompute common aggregates on top. The same layout principle appears outside databases: [[Observability]] platforms store logs and metrics in columnar form, and the entity component system pattern in games stores each component type in its own array for the same cache benefits.
 
 ## See also
-- [[Relational Database]]
+- [[Pivot Table]]
 - [[Denormalization]]
 - [[Object Storage]]
 - [[ETL Pipeline]]

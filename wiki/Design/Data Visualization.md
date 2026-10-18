@@ -34,7 +34,7 @@ Charts can mislead without lying. A truncated axis makes small differences look 
 Two purposes differ. *Exploratory* visualization helps an analyst find what's in the data, and is quick and disposable. *Explanatory* visualization communicates one finding to others, so it highlights that finding, labels it directly, and removes everything else; see [[Visual Hierarchy]]. Dashboards sit uneasily between the two, and often fail by showing everything at once; see [[Observability]].
 
 ## See also
-- [[Gestalt Principles]]
+- [[Pivot Table]]
 - [[Dimensionality Reduction]]
 - [[Confidence Interval]]
 - [[Treemap]]

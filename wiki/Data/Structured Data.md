@@ -26,7 +26,7 @@ Two practical cautions.
 - [[Headless CMS]]
 
 ## Related
-- [[Information Architecture]]
+- [[Entity-Attribute-Value]]
 - [[Static Site Generation]]
 - [[Backlink]]
 - [[Open Graph]]

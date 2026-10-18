@@ -27,4 +27,4 @@ Timestamps appear throughout systems tooling: [[Cron]] schedules, file modificat
 
 ## See also
 - [[Tide]]
-- [[Real-Time Clock]]
+- [[ISO 8601]]

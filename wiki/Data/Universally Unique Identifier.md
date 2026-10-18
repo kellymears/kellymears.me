@@ -38,3 +38,4 @@ UUIDs let clients create records offline and sync later, as in [[Conflict-Free R
 - [[Foreign Key]]
 - [[Entity Resolution]]
 - [[JSON]]
+- [[Hot Partition]]

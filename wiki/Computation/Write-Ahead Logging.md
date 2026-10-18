@@ -23,6 +23,6 @@ The log doubles as a [[Provenance]] trail for every mutation, which is why it fe
 - [[Journaling File System]]
 
 ## Related
-- [[Hash Table]]
+- [[SQLite]]
 - [[Seed Data]]
 - [[Record and Replay Testing]]

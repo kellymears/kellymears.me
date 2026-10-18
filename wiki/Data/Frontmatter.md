@@ -30,3 +30,4 @@ The same pattern extends beyond publishing. Notes in a personal knowledge system
 - [[YAML]]
 - [[JSON]]
 - [[Metadata]]
+- [[ISO 8601]]

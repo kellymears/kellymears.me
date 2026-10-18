@@ -29,8 +29,9 @@ The limits are human. Agreeing on definitions across communities is slow and pol
 
 ## See also
 - [[Graph Database]]
-- [[Information Architecture]]
+- [[Entity-Attribute-Value]]
 - [[Zettelkasten]]
 - [[Expert System]]
 - [[Entity-Relationship Model]]
 - [[Map and Territory]]
+- [[Hierarchical Data]]

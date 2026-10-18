@@ -32,3 +32,4 @@ None of this makes spreadsheets bad tools. They're often the right first version
 - [[Open Data]]
 - [[Direct Manipulation]]
 - [[Virtual Scrolling]]
+- [[Pivot Table]]

@@ -29,4 +29,4 @@ Foreign keys interact with other choices. A [[Soft Delete]] leaves rows in place
 - [[Database Constraint]]
 - [[Common Table Expression]]
 - [[Stored Procedure]]
-- [[SQL Join]]
+- [[Hierarchical Data]]

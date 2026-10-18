@@ -28,4 +28,4 @@ The model's ideas outlived the system. Partitioning by key, as in [[Database Sha
 ## See also
 - [[PageRank]]
 - [[Data Lake]]
-- [[Divide and Conquer]]
+- [[Hot Partition]]

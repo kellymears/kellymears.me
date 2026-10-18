@@ -22,7 +22,7 @@ Cursors have their own requirements. The sort order must be unique, so ties on a
 Interface design shapes which one fits. Numbered pages suit search results where people compare and return. Infinite scroll suits feeds, and pairs naturally with cursors and [[Lazy Loading]], though it makes footers unreachable and can feed [[Doomscrolling]]. A "load more" button is a middle ground that keeps the reader in control. APIs that return total counts pay for a separate counting query, and many large services report an estimate or nothing. Showing only the first pages of results while hiding the rest is a form of [[Truncation Bias]] that readers rarely notice.
 
 ## See also
-- [[Database Index]]
+- [[Collation]]
 - [[Lazy Loading]]
 - [[Doomscrolling]]
 - [[Truncation Bias]]

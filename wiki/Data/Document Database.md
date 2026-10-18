@@ -26,7 +26,7 @@ Transactions were long limited to a single document, which was enough when a doc
 The gap has narrowed from the other side too. PostgreSQL's binary JSON column type, added in 2014, can store, index, and query documents inside a relational database, so many teams keep relational tables for core data and documents for the flexible parts. The choice now depends on the shape of the data: self-contained aggregates read whole favor documents, while richly interconnected records that must stay consistent favor [[Database Normalization]] in a [[Relational Database]].
 
 ## See also
-- [[Relational Database]]
+- [[Entity-Attribute-Value]]
 - [[Key-Value Store]]
 - [[Denormalization]]
 - [[Graph Database]]

@@ -18,7 +18,7 @@ The corresponding design work is usually to make the operation *express the desi
 - [[Microservices]]
 - [[Two Generals Problem]]
 - [[Dead Letter Queue]]
-- [[Relational Database]]
+- [[Upsert]]
 - [[Hedged Requests]]
 - [[Conflict-Free Replicated Data Type]]
 - [[Atomic File Write]]

@@ -28,3 +28,4 @@ Related forms show the same hierarchy differently. Sunburst charts use concentri
 - [[Visual Hierarchy]]
 - [[Gestalt Principles]]
 - [[Choropleth Map]]
+- [[Hierarchical Data]]

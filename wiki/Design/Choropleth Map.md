@@ -26,7 +26,7 @@ Alternatives address the area problem directly. **Cartograms** resize regions by
 A choropleth is honest when it maps a rate, uses an equal-area projection, chooses breaks deliberately, and says what each color means. Following [[Data-Ink Ratio]], the base map should stay quiet so the data carries the contrast.
 
 ## See also
-- [[Map Projection]]
+- [[Geospatial Data]]
 - [[Color Scale]]
 - [[Small Multiples]]
 - [[Simpson's Paradox]]

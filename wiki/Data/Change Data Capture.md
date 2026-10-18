@@ -13,7 +13,7 @@ This is what makes CDC the practical backbone for keeping a search index, a cach
 
 ## See also
 - [[Data Lineage]]
-- [[Event Sourcing]]
+- [[Upsert]]
 - [[Stored Procedure]]
 - [[Command Query Responsibility Segregation]]
 - [[Materialized View]]

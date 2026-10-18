@@ -31,6 +31,6 @@ Outside aviation and automotive safety standards it's rare, but its idea is usef
 ## See also
 - [[Black-Box and White-Box Testing]]
 - [[Cyclomatic Complexity]]
-- [[Coverage Gate]]
+- [[SQLite]]
 - [[Safety Case]]
 - [[Boolean Algebra]]

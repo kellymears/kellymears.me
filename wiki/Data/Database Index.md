@@ -24,5 +24,5 @@ Indexes are not free. Every insert, update, and delete must update every index o
 ## See also
 - [[N+1 Query Problem]]
 - [[Denormalization]]
-- [[Materialized View]]
+- [[Collation]]
 - [[Binary Search]]

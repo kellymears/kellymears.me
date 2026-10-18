@@ -28,6 +28,6 @@ As a [[Serialization]] format, JSON trades size and speed for readability. Binar
 
 ## See also
 - [[XML]]
-- [[Frontmatter]]
+- [[Entity-Attribute-Value]]
 - [[Decimal Arithmetic]]
-- [[Schema Evolution]]
+- [[ISO 8601]]

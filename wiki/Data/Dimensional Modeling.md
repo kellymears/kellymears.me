@@ -29,7 +29,7 @@ Kimball's approach competed in the 1990s with Bill Inmon's, which built a normal
 Warehouses often leave [[Foreign Key]] constraints unenforced for loading speed, and keep pre-aggregated summaries as a [[Materialized View]].
 
 ## See also
-- [[Window Function]]
+- [[Pivot Table]]
 - [[Bitemporal Data]]
 - [[Entity-Relationship Model]]
 - [[Data Lake]]

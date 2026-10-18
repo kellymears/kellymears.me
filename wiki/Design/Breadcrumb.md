@@ -30,5 +30,5 @@ Search engines read breadcrumbs too. Marking them up as structured data lets res
 Breadcrumbs only make sense for sites that are actually hierarchical. A flat site, or one where pages belong to several categories at once, has no single trail to show; see [[Taxonomy]]. Many apps use a title and back link instead.
 
 ## See also
-- [[Progressive Disclosure]]
+- [[Hierarchical Data]]
 - [[Recognition Rather Than Recall]]

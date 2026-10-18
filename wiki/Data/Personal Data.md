@@ -29,7 +29,7 @@ Tracking identifiers such as an [[HTTP Cookie]] count as personal data in Europe
 
 ## See also
 - [[Data Retention]]
-- [[Third-Party Script]]
+- [[Geospatial Data]]
 - [[Row-Level Security]]
 - [[Object Storage]]
 - [[Browser Fingerprinting]]

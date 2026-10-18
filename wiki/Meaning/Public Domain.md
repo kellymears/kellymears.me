@@ -29,3 +29,4 @@ Similar debates surround patents, software that can't legally be repaired, and o
 - [[Free Rider Problem]]
 - [[Planned Obsolescence]]
 - [[Lindy Effect]]
+- [[SQLite]]

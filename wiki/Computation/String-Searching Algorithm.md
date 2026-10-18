@@ -31,3 +31,4 @@ Unicode complicates everything, since the same visible text can be encoded in se
 - [[Text Buffer]]
 - [[Autocomplete]]
 - [[Bloom Filter]]
+- [[Collation]]

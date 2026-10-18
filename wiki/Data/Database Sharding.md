@@ -24,3 +24,4 @@ The partitioning key is the single decision the whole design hangs on, and it's 
 - [[Key-Value Store]]
 - [[Graph Database]]
 - [[Document Database]]
+- [[Hot Partition]]

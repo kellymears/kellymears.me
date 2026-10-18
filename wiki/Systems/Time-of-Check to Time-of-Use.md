@@ -25,3 +25,4 @@ Web applications have the same bug with money. Code that checks a balance and th
 ## See also
 - [[Atomic File Write]]
 - [[Code Signing]]
+- [[Upsert]]

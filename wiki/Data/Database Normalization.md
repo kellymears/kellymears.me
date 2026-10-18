@@ -30,7 +30,7 @@ The links between normalized tables are enforced by a [[Foreign Key]], and queri
 Normalization is a form of the "single source of truth" principle found throughout software. The same thinking appears in a [[Design Token]] system, where each color is defined once, and in [[Event Sourcing]], where derived views are rebuilt from one authoritative log. Document databases and JSON columns invite denormalized designs, which is fine when data is read together, and a source of [[Schema Drift]] when it isn't. A [[Relational Database]] does its best work on a schema normalized first and denormalized only where measurements justify it, and a [[Database Migration]] is usually how that happens.
 
 ## See also
-- [[Denormalization]]
+- [[Entity-Attribute-Value]]
 - [[Dimensional Modeling]]
 - [[Database Constraint]]
 - [[SQL Join]]

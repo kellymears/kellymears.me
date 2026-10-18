@@ -15,7 +15,7 @@ The self-balancing part matters as much as the fan-out: an insert that overflows
 - [[Hash Table]]
 - [[Trie]]
 - [[Write-Ahead Logging]]
-- [[Big-O Notation]]
+- [[SQLite]]
 - [[Bounding Volume Hierarchy]]
 - [[Database Index]]
 - [[Universally Unique Identifier]]

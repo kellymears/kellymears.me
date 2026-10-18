@@ -26,5 +26,5 @@ Views are also a common place for [[Object-Relational Mapping]] layers to point,
 
 ## See also
 - [[Database Normalization]]
-- [[Denormalization]]
+- [[Pivot Table]]
 - [[Schema Evolution]]
