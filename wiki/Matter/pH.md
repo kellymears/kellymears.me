@@ -38,7 +38,7 @@ Acids and bases react with metals and other substances in ways closely tied to [
 
 ## See also
 - [[Fermentation]]
-- [[Maillard Reaction]]
+- [[Logarithmic Scale]]
 - [[Osmosis]]
 - [[Oxidation]]
 - [[Chemical Leavening]]

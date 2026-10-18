@@ -28,3 +28,4 @@ Not every engine is a heat engine. An electric motor converts electrical energy 
 ## See also
 - [[Conservation of Energy]]
 - [[Heat Transfer]]
+- [[Sankey Diagram]]

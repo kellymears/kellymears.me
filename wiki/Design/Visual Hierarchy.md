@@ -29,5 +29,5 @@ Strong hierarchy reduces [[Cognitive Load]]: readers don't have to work out what
 
 ## See also
 - [[Wireframe]]
-- [[Banner Blindness]]
+- [[Dashboard]]
 - [[Above the Fold]]

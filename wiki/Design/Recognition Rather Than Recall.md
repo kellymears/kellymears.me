@@ -27,7 +27,7 @@ Recall still has a place. Experts often prefer it because it's faster once learn
 The principle interacts with others. Showing everything at once, in the name of recognition, creates clutter and slows decisions, as [[Hick's Law]] predicts, so visibility needs organization through [[Visual Hierarchy]]. Recognized options are only useful if their labels carry [[Information Scent]]. And interfaces that follow familiar conventions let people recognize patterns from other products, which is the point of matching their [[Mental Model]].
 
 ## See also
-- [[Heuristic Evaluation]]
+- [[Context Menu]]
 - [[Onboarding]]
 - [[Direct Manipulation]]
 - [[Serial Position Effect]]

@@ -24,7 +24,7 @@ The maintenance question is not whether the system covers everything but whether
 - [[Typographic Scale]]
 
 ## Related
-- [[Plain Language]]
+- [[Atomic Design]]
 - [[Empty State]]
 - [[Visual Hierarchy]]
 - [[Iconography]]

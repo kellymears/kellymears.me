@@ -28,3 +28,4 @@ Internal status pages do the same within large organizations, so a team can chec
 ## See also
 - [[Mean Time to Recovery]]
 - [[Site Reliability Engineering]]
+- [[Dashboard]]

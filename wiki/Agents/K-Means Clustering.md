@@ -32,3 +32,4 @@ Clusters are a description of data, not a discovery of natural kinds. The algori
 ## See also
 - [[Taxonomy]]
 - [[Recommender System]]
+- [[Scatter Plot]]

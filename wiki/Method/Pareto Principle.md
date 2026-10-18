@@ -30,4 +30,4 @@ Used well, the principle is a prompt to look for the vital few: find what produc
 - [[Law of Triviality]]
 - [[Ninety-Ninety Rule]]
 - [[Herd Immunity]]
-- [[Lindy Effect]]
+- [[Logarithmic Scale]]

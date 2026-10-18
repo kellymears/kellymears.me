@@ -20,6 +20,6 @@ It is a vocabulary for reasoning, not a measurement. Treating it as a proxy for 
 - [[Convex Hull]]
 - [[Performance Budget]]
 - [[Arbitrary-Precision Arithmetic]]
-- [[Determinism]]
+- [[Logarithmic Scale]]
 - [[P versus NP Problem]]
 - [[Graph Traversal]]

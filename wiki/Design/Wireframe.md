@@ -34,7 +34,7 @@ Wireframes have limits. They cannot show how motion, timing, or [[Response Time 
 The wireframe's spirit lives on in production: a [[Skeleton Screen]] is essentially a wireframe of the page shown while content loads.
 
 ## See also
-- [[Usability Testing]]
+- [[Atomic Design]]
 - [[Information Architecture]]
 - [[Visual Hierarchy]]
 - [[Skeleton Screen]]

@@ -31,3 +31,4 @@ Email has its own fold, the preview pane, and the same advice applies: the first
 ## See also
 - [[Carousel]]
 - [[Progressive Disclosure]]
+- [[Heat Map]]

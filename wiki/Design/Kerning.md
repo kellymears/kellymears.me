@@ -20,3 +20,4 @@ Good kerning is invisible — it reads as "this text just looks right" rather th
 - [[Optical Alignment]]
 - [[Typeface]]
 - [[OpenType Features]]
+- [[Text Justification]]

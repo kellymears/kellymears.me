@@ -34,6 +34,6 @@ The effect is weaponized as well as avoided. Native advertising disguises ads as
 ## See also
 - [[Habituation]]
 - [[Cookie Consent]]
-- [[Eye Tracking]]
+- [[Heat Map]]
 - [[Browser Extension]]
 - [[Carousel]]

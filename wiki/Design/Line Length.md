@@ -33,4 +33,4 @@ Good line length is one of the cheapest improvements to readability, and it supp
 - [[Speed Reading]]
 - [[Banner Blindness]]
 - [[Pseudolocalization]]
-- [[Typeface]]
+- [[Text Justification]]

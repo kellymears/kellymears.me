@@ -34,5 +34,5 @@ The genre's wider lesson is humility about modeling the world. Software represen
 
 ## See also
 - [[ISO 8601]]
-- [[Collation]]
+- [[Emoji]]
 - [[Defensive Programming]]

@@ -31,4 +31,4 @@ The main failure is too little space, which makes a page feel cluttered and make
 - [[Optical Alignment]]
 - [[Box Model]]
 - [[CSS Grid]]
-- [[Data-Ink Ratio]]
+- [[Text Justification]]

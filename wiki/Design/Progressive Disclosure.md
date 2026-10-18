@@ -21,7 +21,7 @@ Progressive disclosure is one of the load-bearing arguments for keeping a produc
 - [[Onboarding]]
 
 ## Related
-- [[Affordance]]
+- [[Context Menu]]
 - [[Empty State]]
 - [[Hamburger Menu]]
 - [[Faceted Search]]

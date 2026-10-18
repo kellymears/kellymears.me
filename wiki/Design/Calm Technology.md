@@ -26,6 +26,6 @@ Most consumer technology went the other way. Notifications, badges, and infinite
 
 ## See also
 - [[Internet of Things]]
-- [[Sensory Overload]]
+- [[Dashboard]]
 - [[Inclusive Design]]
 - [[Web Push]]

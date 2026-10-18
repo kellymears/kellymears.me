@@ -31,4 +31,4 @@ These features restore craft that print typesetters handled by hand. Used well, 
 
 ## See also
 - [[Optical Alignment]]
-- [[Data Visualization]]
+- [[Emoji]]

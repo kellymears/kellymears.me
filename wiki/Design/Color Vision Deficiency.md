@@ -30,5 +30,5 @@ Color vision deficiency also affects [[Dark Mode]] themes and brand palettes, wh
 - [[Blind Spot]]
 - [[Choropleth Map]]
 - [[Synesthesia]]
-- [[Inclusive Design]]
+- [[Heat Map]]
 - [[Color Theory]]

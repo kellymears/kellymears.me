@@ -30,3 +30,4 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Hawthorne Effect]]
 - [[Representativeness Heuristic]]
 - [[Normal Distribution]]
+- [[Scatter Plot]]

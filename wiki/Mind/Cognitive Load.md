@@ -22,7 +22,7 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 ## See also
 - [[Platform Engineering]]
 - [[Recognition Rather Than Recall]]
-- [[Choice Architecture]]
+- [[Dashboard]]
 - [[Team Topologies]]
 - [[Data-Ink Ratio]]
 - [[Affordance]]

@@ -31,6 +31,6 @@ The best way to judge microcopy is to watch people use it. [[Usability Testing]]
 ## See also
 - [[Tooltip]]
 - [[Toast Notification]]
-- [[Accessibility]]
+- [[Toggle Switch]]
 - [[Text Truncation]]
 - [[Internationalization]]

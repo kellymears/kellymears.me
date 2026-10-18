@@ -27,3 +27,4 @@ The practical defense is to ask how the cases in front of you got there. If the 
 - [[Regression to the Mean]]
 - [[Randomized Controlled Trial]]
 - [[Ecological Fallacy]]
+- [[Scatter Plot]]

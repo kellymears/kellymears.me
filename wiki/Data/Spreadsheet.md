@@ -30,6 +30,6 @@ None of this makes spreadsheets bad tools. They're often the right first version
 - [[Tidy Data]]
 - [[CSV]]
 - [[Open Data]]
-- [[Direct Manipulation]]
+- [[Heat Map]]
 - [[Virtual Scrolling]]
 - [[Pivot Table]]

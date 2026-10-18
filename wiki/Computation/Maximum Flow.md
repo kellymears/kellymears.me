@@ -28,3 +28,4 @@ Flow differs from shortest paths. [[Dijkstra's Algorithm]] finds the best single
 ## See also
 - [[Graph Coloring]]
 - [[Topological Sort]]
+- [[Sankey Diagram]]

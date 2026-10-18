@@ -31,4 +31,4 @@ Web icons moved from image sprites to **icon fonts**, which scaled but broke acc
 - [[Hamburger Menu]]
 - [[Favicon]]
 - [[Flat Design]]
-- [[Signifier]]
+- [[Emoji]]

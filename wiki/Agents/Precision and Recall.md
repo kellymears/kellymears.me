@@ -32,5 +32,5 @@ These metrics depend entirely on correct labels for comparison; see [[Ground Tru
 
 ## See also
 - [[Hybrid Search]]
-- [[Guardrail]]
+- [[Heat Map]]
 - [[Stemming and Lemmatization]]

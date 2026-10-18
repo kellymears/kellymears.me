@@ -32,4 +32,4 @@ Its influence on screen design is direct. The flat design that replaced [[Skeuom
 - [[Optical Alignment]]
 - [[Flat Design]]
 - [[CSS Grid]]
-- [[Data-Ink Ratio]]
+- [[Text Justification]]

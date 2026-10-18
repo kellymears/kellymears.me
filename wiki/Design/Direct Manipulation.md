@@ -29,4 +29,4 @@ Its limits show with scale and abstraction. Renaming a thousand files or applyin
 
 ## See also
 - [[Natural Mapping]]
-- [[Skeuomorphism]]
+- [[Context Menu]]

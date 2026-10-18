@@ -35,3 +35,4 @@ Language models are a recent test case. They handle many conventional implicatur
 - [[Semantic Change]]
 - [[Cunningham's Law]]
 - [[Dog Whistle]]
+- [[Emoji]]

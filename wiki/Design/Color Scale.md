@@ -35,5 +35,5 @@ Color is a weak channel for precise values, as rankings of [[Preattentive Proces
 - [[Color Theory]]
 - [[Rainbow]]
 - [[Treemap]]
-- [[Data-Ink Ratio]]
+- [[Heat Map]]
 - [[Choropleth Map]]

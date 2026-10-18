@@ -28,6 +28,6 @@ Forms reward [[Usability Testing]] more than almost anything else in an interfac
 
 ## See also
 - [[Onboarding]]
-- [[Choice Architecture]]
+- [[Toggle Switch]]
 - [[Progress Indicator]]
 - [[Autocomplete]]

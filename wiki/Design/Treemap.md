@@ -25,7 +25,7 @@ They have weaknesses. People judge area less accurately than length, so close va
 Related forms show the same hierarchy differently. Sunburst charts use concentric rings, and icicle plots stacked bars, which show depth more clearly but use space less efficiently. For comparing the same breakdown across many groups, [[Small Multiples]] of simple charts are often clearer than one large treemap.
 
 ## See also
-- [[Visual Hierarchy]]
+- [[Sankey Diagram]]
 - [[Gestalt Principles]]
 - [[Choropleth Map]]
 - [[Hierarchical Data]]

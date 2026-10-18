@@ -32,7 +32,7 @@ The durable lesson is to make every mark justify itself. Each element of a chart
 ## See also
 - [[Treemap]]
 - [[Pie Chart]]
-- [[Preattentive Processing]]
+- [[Sankey Diagram]]
 - [[White Space]]
 - [[Choropleth Map]]
 - [[Data Visualization]]

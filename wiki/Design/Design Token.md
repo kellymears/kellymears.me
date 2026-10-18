@@ -27,7 +27,7 @@ Two governance problems recur once tokens are shared across teams.
 
 ## Related
 - [[Cascade]]
-- [[Root Cause Analysis]]
+- [[Atomic Design]]
 - [[White Space]]
 - [[Color Vision Deficiency]]
 - [[Color Scale]]

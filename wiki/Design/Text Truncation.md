@@ -27,3 +27,4 @@ Design systems usually standardize truncation per component, with a maximum line
 ## See also
 - [[Empty State]]
 - [[Typeface]]
+- [[Text Justification]]

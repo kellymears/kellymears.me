@@ -17,7 +17,7 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 ## See also
 - [[ANSI Escape Code]]
 - [[String-Searching Algorithm]]
-- [[CSV]]
+- [[Emoji]]
 - [[ASCII Art]]
 - [[Telegraph]]
 - [[Text Truncation]]

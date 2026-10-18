@@ -15,7 +15,7 @@ It's a close cousin of client-side prediction in networked games (see [[Rollback
 
 ## See also
 - [[Debounce and Throttle]]
-- [[WebSocket]]
+- [[Toggle Switch]]
 - [[State Management]]
 - [[Direct Manipulation]]
 

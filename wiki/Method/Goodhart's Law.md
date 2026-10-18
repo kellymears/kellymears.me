@@ -28,5 +28,5 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 ## Related
 - [[Cobra Effect]]
 - [[Information Asymmetry]]
-- [[DORA Metrics]]
+- [[Dashboard]]
 - [[Self-Determination Theory]]

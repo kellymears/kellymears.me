@@ -38,3 +38,4 @@ Reduction is lossy compression of a kind, related to the ideas in [[Information 
 - [[Map Projection]]
 - [[Data Visualization]]
 - [[K-Means Clustering]]
+- [[Scatter Plot]]

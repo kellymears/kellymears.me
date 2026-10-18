@@ -24,7 +24,7 @@ Measure [[Line Length|line length]] too. Readability falls off sharply beyond ro
 - [[Utility-First CSS]]
 - [[Presbyopia]]
 - [[UI Primitive]]
-- [[Taxonomy]]
+- [[Logarithmic Scale]]
 - [[Golden Ratio]]
 - [[Visual Hierarchy]]
 - [[Swiss Style]]

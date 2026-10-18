@@ -32,4 +32,4 @@ Automated checkers catch only a minority of these problems. The reliable test is
 ## See also
 - [[Optical Character Recognition]]
 - [[Inclusive Design]]
-- [[Automatic Speech Recognition]]
+- [[Emoji]]

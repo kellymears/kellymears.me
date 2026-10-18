@@ -36,3 +36,4 @@ The law has practical uses in computing:
 - [[Hot Partition]]
 - [[Normal Distribution]]
 - [[Benford's Law]]
+- [[Logarithmic Scale]]

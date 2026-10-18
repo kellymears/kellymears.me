@@ -24,7 +24,7 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 
 ## Related
 - [[Regression to the Mean]]
-- [[Randomized Controlled Trial]]
+- [[Scatter Plot]]
 - [[Bayes' Theorem]]
 - [[Vitamin D]]
 - [[Distribution Shift]]

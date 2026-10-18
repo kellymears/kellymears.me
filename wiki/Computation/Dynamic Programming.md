@@ -16,7 +16,7 @@ The common mistake is reaching for DP on a problem that only has optimal substru
 ## See also
 - [[Seam Carving]]
 - [[Knapsack Problem]]
-- [[Big-O Notation]]
+- [[Text Justification]]
 - [[Amortized Analysis]]
 - [[Dijkstra's Algorithm]]
 - [[P versus NP Problem]]
