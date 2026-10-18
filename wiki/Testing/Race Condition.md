@@ -26,5 +26,5 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Formal Verification]]
 
 ## Related
-- [[Ground Truth]]
+- [[Database Constraint]]
 - [[Deadlock]]

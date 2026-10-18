@@ -29,3 +29,4 @@ The same pattern extends beyond publishing. Notes in a personal knowledge system
 - [[Structured Data]]
 - [[YAML]]
 - [[JSON]]
+- [[Metadata]]

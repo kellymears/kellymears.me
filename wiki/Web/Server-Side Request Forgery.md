@@ -26,5 +26,5 @@ SSRF has become more common as applications fetch more on users' behalf: webhook
 It was added to the OWASP Top 10 list of critical web risks in 2021; see [[Penetration Testing]].
 
 ## See also
-- [[Agent Sandbox]]
+- [[XML]]
 - [[URL]]

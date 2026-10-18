@@ -35,5 +35,5 @@ The name reflects Facebook's original ambition, a "social graph" in which every 
 
 ## See also
 - [[Responsive Images]]
-- [[HTTP Caching]]
+- [[Metadata]]
 - [[IndieWeb]]

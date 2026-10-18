@@ -33,6 +33,6 @@ Backups also carry obligations. They contain the same sensitive data as producti
 - [[RAID]]
 - [[Digital Preservation]]
 - [[Hard Link]]
-- [[Silent Failure]]
+- [[Data Retention]]
 - [[Personal Data]]
 - [[Object Storage]]

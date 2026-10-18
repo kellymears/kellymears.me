@@ -15,7 +15,7 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 - [[Web Crawler]]
 - [[Hash Table]]
 - [[Trie]]
-- [[Cache Invalidation]]
+- [[Wide-Column Store]]
 - [[Log-Structured Merge Tree]]
 - [[Locality-Sensitive Hashing]]
 - [[Differential Privacy]]

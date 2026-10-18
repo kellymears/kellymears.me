@@ -25,6 +25,6 @@ The common failure is the **distributed monolith**: services that still must dep
 
 ## See also
 - [[Team Topologies]]
-- [[Service Level Objective]]
+- [[Data Mesh]]
 - [[Service Discovery]]
 - [[Distributed Tracing]]

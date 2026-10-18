@@ -15,10 +15,10 @@ Transactions are the second pillar: a set of changes either all happen or none d
 Two things worth holding onto when working through an abstraction layer. The layer's update semantics are usually *partial* — an absent key means "leave this column alone", not "clear it" — so clearing a field means writing an explicit null, and deleting a key from an object before saving is a no-op that in-memory tests happily pass. And a mirrored copy of a database in an analytics warehouse can carry duplicate rows from the synchronization process, so any count taken there should be de-duplicated before it is trusted.
 
 ## See also
-- [[Database Migration]]
+- [[Entity-Relationship Model]]
 - [[Schema Drift]]
 - [[Stored Procedure]]
-- [[Idempotence]]
+- [[Database View]]
 - [[Multi-Tenancy]]
 - [[Database Index]]
 - [[N+1 Query Problem]]

@@ -28,3 +28,4 @@ Personal wikis have become common as a private reference — the same mechanics,
 - [[Agent Memory]]
 - [[Link Rot]]
 - [[Project Xanadu]]
+- [[Open Data]]

@@ -32,5 +32,5 @@ A reasonable middle ground keeps business rules that must always hold, such as u
 ## See also
 - [[Query Planner]]
 - [[Transactional Outbox]]
-- [[Change Data Capture]]
+- [[Database View]]
 - [[SQL Injection]]

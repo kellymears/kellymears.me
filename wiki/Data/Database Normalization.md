@@ -32,6 +32,6 @@ Normalization is a form of the "single source of truth" principle found througho
 ## See also
 - [[Denormalization]]
 - [[Dimensional Modeling]]
-- [[Foreign Key]]
+- [[Database Constraint]]
 - [[SQL Join]]
-- [[Entity Resolution]]
+- [[Entity-Relationship Model]]

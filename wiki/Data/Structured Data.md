@@ -33,3 +33,5 @@ Two practical cautions.
 - [[Web Crawler]]
 - [[Ontology]]
 - [[IndieWeb]]
+- [[Metadata]]
+- [[Open Data]]

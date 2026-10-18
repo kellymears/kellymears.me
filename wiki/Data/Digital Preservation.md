@@ -39,3 +39,4 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 - [[JPEG]]
 - [[Demoscene]]
 - [[Optical Character Recognition]]
+- [[Metadata]]

@@ -33,4 +33,4 @@ Martin Fowler warns that most systems don't need CQRS. It earns its place in par
 ## See also
 - [[Saga Pattern]]
 - [[Transactional Outbox]]
-- [[Microservices]]
+- [[Database View]]

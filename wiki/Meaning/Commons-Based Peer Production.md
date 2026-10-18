@@ -17,7 +17,7 @@ Governance strains as a project grows. Early contributors often accumulate outsi
 ## See also
 - [[Backlink]]
 - [[Zettelkasten]]
-- [[Knowledge Graph]]
+- [[Open Data]]
 - [[Internet Relay Chat]]
 - [[Free Rider Problem]]
 - [[Prisoner's Dilemma]]

@@ -35,3 +35,4 @@ Some backend platforms expose the database directly to browsers and rely entirel
 - [[Database Sharding]]
 - [[Audit Log]]
 - [[Mandatory Access Control]]
+- [[Database View]]

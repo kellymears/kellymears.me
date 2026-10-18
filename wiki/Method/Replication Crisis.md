@@ -26,7 +26,7 @@ The reforms are mostly about committing in advance. **Preregistration** records 
 - [[Train-Test Split]]
 - [[Processing Fluency]]
 - [[Priming]]
-- [[Randomized Controlled Trial]]
+- [[Open Data]]
 - [[Effect Size]]
 - [[Benchmark Contamination]]
 - [[Statistical Power]]

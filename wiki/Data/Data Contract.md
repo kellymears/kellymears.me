@@ -33,3 +33,4 @@ Contracts sit alongside other data reliability practices: tracing where data cam
 ## See also
 - [[Design by Contract]]
 - [[ETL Pipeline]]
+- [[Data Mesh]]

@@ -34,4 +34,4 @@ Nightly batch jobs leave data a day old. [[Change Data Capture]] streams each da
 
 ## See also
 - [[Data Lake]]
-- [[Data Lineage]]
+- [[Data Mesh]]

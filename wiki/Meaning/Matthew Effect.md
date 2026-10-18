@@ -27,7 +27,7 @@ The effect has an uncomfortable implication: success in such systems is partly l
 Counterweights exist. Blind review, lotteries for grant funding among qualified applicants, anti-monopoly rules, progressive taxation, and early-years education all try to limit runaway advantage. [[Path Dependence]] describes the larger family: early events lock in outcomes that would be hard to reach from scratch.
 
 ## See also
-- [[Availability Cascade]]
+- [[PageRank]]
 - [[Rent-Seeking]]
 - [[Dunbar's Number]]
 - [[Recommender System]]

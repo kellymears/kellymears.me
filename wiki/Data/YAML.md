@@ -29,7 +29,7 @@ Alternatives keep appearing. **TOML** uses explicit sections and typed values an
 Whatever the format, checking configuration against a schema in [[Continuous Integration]] catches most errors, with [[JSON Schema]] working for YAML too, and [[Environment Variable]] values remain the conventional way to vary configuration between deployments, per the [[Twelve-Factor App]].
 
 ## See also
-- [[Schema Validation]]
+- [[XML]]
 - [[CSV]]
 - [[Postel's Law]]
 - [[Markdown]]

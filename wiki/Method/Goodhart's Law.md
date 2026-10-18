@@ -23,7 +23,7 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 - [[Performance Budget]]
 - [[Prompt Engineering]]
 - [[Core Web Vitals]]
-- [[Training Load]]
+- [[PageRank]]
 
 ## Related
 - [[Cobra Effect]]

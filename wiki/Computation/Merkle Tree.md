@@ -31,5 +31,5 @@ The tree is only as strong as its hash function. Git's original use of SHA-1 bec
 - [[BitTorrent]]
 - [[Distributed Hash Table]]
 - [[Byzantine Fault Tolerance]]
-- [[Filesystem Snapshot]]
+- [[Wide-Column Store]]
 - [[Persistent Data Structure]]

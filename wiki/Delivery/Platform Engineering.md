@@ -29,6 +29,6 @@ The common failure is building too much too early: a large portal before anyone 
 - [[Site Reliability Engineering]]
 - [[Ephemeral Environment]]
 - [[Twelve-Factor App]]
-- [[Design System]]
+- [[Data Mesh]]
 - [[Kubernetes]]
 - [[DevOps]]

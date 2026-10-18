@@ -34,4 +34,4 @@ Projection choice shapes perception: a map is a model, and decides in advance wh
 - [[Mipmapping]]
 - [[Coriolis Effect]]
 - [[Choropleth Map]]
-- [[Dimensionality Reduction]]
+- [[Open Data]]

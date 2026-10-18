@@ -34,5 +34,5 @@ Lineage pairs with pipeline [[Observability]]: freshness, volume, and schema mon
 - [[Audit Log]]
 - [[ETL Pipeline]]
 - [[Data Cleaning]]
-- [[Materialized View]]
+- [[Data Mesh]]
 - [[Data Contract]]

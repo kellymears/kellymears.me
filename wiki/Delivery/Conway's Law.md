@@ -16,7 +16,7 @@ The caveat is honest but narrower than usually stated. There are no controlled e
 - [[Agile Software Development]]
 - [[Monorepo]]
 - [[Team Topologies]]
-- [[Client-Server Boundary]]
+- [[Data Mesh]]
 - [[Trunk-Based Development]]
 - [[Code Owners]]
 - [[Platform Engineering]]

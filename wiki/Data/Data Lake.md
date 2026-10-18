@@ -30,5 +30,5 @@ Lakes are fed in batches and from [[Change Data Capture]] streams. Keeping a lak
 ## See also
 - [[Object Storage]]
 - [[Data Contract]]
-- [[Data Cleaning]]
+- [[Data Mesh]]
 - [[Dimensional Modeling]]

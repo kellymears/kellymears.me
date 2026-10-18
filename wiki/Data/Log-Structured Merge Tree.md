@@ -31,7 +31,7 @@ In general, LSM trees handle heavy write loads better and compress well, while B
 LSM trees power LevelDB and its successor RocksDB, which underlie many other systems, as well as Cassandra, HBase, ScyllaDB, and the time-series and logging stores that ingest data continuously. Their append-only, immutable files reflect the same ideas as [[Immutability]] and [[Event Sourcing]], and work well with [[Database Replication]], since immutable files are easy to copy. The design is also a reminder that sequential disk access beats random access, a principle that outlived spinning disks into the era of SSDs. [[Columnar Storage]] engines often borrow the same immutable-file approach.
 
 ## See also
-- [[B-Tree]]
+- [[Wide-Column Store]]
 - [[Binary Heap]]
 - [[Skip List]]
 - [[Database Index]]

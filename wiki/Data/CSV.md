@@ -28,7 +28,7 @@ For anything beyond simple interchange, better formats exist: JSON Lines for rec
 
 ## See also
 - [[Serialization]]
-- [[Data Cleaning]]
+- [[Open Data]]
 - [[ETL Pipeline]]
 - [[Seed Data]]
 - [[JSON]]

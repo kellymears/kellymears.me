@@ -20,3 +20,4 @@ Traditional filesystems like ext4 fix the number of inodes at creation time, all
 - [[File Permissions]]
 - [[Journaling File System]]
 - [[Hard Link]]
+- [[Metadata]]

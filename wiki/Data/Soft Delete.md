@@ -33,7 +33,7 @@ Distributed systems use a related idea under the name *tombstone*: a marker that
 - [[Bitemporal Data]]
 - [[Undo]]
 - [[Personal Data]]
-- [[Immutability]]
+- [[Data Retention]]
 - [[Rollback]]
 - [[Foreign Key]]
 - [[Null]]

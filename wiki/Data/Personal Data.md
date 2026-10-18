@@ -28,7 +28,7 @@ For engineers, the law turns into concrete habits:
 Tracking identifiers such as an [[HTTP Cookie]] count as personal data in Europe, which is why consent banners exist.
 
 ## See also
-- [[Crash Reporting]]
+- [[Data Retention]]
 - [[Third-Party Script]]
 - [[Row-Level Security]]
 - [[Object Storage]]

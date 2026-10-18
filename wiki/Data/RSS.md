@@ -29,3 +29,4 @@ Because the format is machine-readable and low-friction, it is also a decent gen
 - [[Incremental Static Regeneration]]
 - [[Enshittification]]
 - [[IndieWeb]]
+- [[XML]]

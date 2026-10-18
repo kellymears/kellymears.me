@@ -34,7 +34,7 @@ Choosing an ORM shapes a codebase for years, much like choosing a framework. Its
 ## See also
 - [[Document Database]]
 - [[Leaky Abstraction]]
-- [[Query Planner]]
+- [[Entity-Relationship Model]]
 - [[Database Migration]]
 - [[SQL Join]]
 - [[Stored Procedure]]

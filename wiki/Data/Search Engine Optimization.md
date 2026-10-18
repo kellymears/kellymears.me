@@ -24,6 +24,6 @@ It is worth being clear about the incentive structure. Search optimization is an
 - [[Inverted Index]]
 
 ## Related
-- [[Knowledge Graph]]
+- [[PageRank]]
 - [[Islands Architecture]]
 - [[Link Rot]]

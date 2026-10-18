@@ -34,5 +34,5 @@ Two practical hazards: clocks on many machines disagree, so [[Network Time Proto
 - [[Window Function]]
 - [[Observability]]
 - [[Bitemporal Data]]
-- [[Stream Processing]]
+- [[Data Retention]]
 - [[Ring Buffer]]

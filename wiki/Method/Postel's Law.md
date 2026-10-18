@@ -15,7 +15,7 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 
 ## See also
 - [[Simple Mail Transfer Protocol]]
-- [[Defensive Default]]
+- [[XML]]
 - [[Request for Comments]]
 - [[Defensive Programming]]
 - [[Design by Contract]]

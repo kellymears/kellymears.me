@@ -26,6 +26,6 @@ Hadoop, an open-source version adopted by Yahoo in 2006, became the base of the 
 The model's ideas outlived the system. Partitioning by key, as in [[Database Sharding]], a separate shuffle step, and deterministic tasks that can be retried remain the basis of modern batch engines and of each stage of a large [[ETL Pipeline]]. A single key with far more values than the rest, *skew*, still overloads one reducer while the others sit idle. [[Stream Processing]] applies the same partitioned model to data that never ends. At a smaller scale, the same split-and-combine structure is [[Fan-Out and Fan-In]].
 
 ## See also
-- [[Concurrency and Parallelism]]
+- [[PageRank]]
 - [[Data Lake]]
 - [[Divide and Conquer]]

@@ -33,3 +33,4 @@ Critics note that real organizations rarely fit four boxes and that the model sa
 - [[Bus Factor]]
 - [[Code Owners]]
 - [[DORA Metrics]]
+- [[Data Mesh]]

@@ -29,7 +29,7 @@ Gossip pairs naturally with data that merges cleanly. A [[Conflict-Free Replicat
 ## See also
 - [[Small-World Network]]
 - [[Distributed Hash Table]]
-- [[Peer-to-Peer]]
+- [[Wide-Column Store]]
 - [[Strength of Weak Ties]]
 - [[Failure Detection]]
 - [[Mesh Network]]

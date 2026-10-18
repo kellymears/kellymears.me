@@ -31,7 +31,7 @@ Waiting for several replicas also costs time. A quorum operation finishes only w
 Quorum ideas reach beyond databases. A [[Gossip Protocol]] may require several independent reports before declaring a node dead, and Byzantine fault-tolerant systems, which tolerate members that lie, need larger quorums of more than two-thirds.
 
 ## See also
-- [[Consensus Algorithm]]
+- [[Wide-Column Store]]
 - [[Network Partition]]
 - [[Database Replication]]
 - [[CAP Theorem]]

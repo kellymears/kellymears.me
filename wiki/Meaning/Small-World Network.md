@@ -28,3 +28,4 @@ Short paths explain how quickly things spread, from rumors and diseases to compu
 - [[Network Effect]]
 - [[Dunbar's Number]]
 - [[Knowledge Graph]]
+- [[PageRank]]

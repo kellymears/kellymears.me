@@ -30,3 +30,4 @@ Two practical notes. A vocabulary is a shared model, so every near-synonym costs
 - [[Faceted Search]]
 - [[Card Sorting]]
 - [[Ontology]]
+- [[Metadata]]

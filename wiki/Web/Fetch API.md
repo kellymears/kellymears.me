@@ -28,7 +28,7 @@ Frameworks extend it. Next.js, for instance, adds caching options to `fetch` on 
 Request options cover most needs: method, headers, body, cache mode, redirect handling, and `keepalive`, which lets a request outlive the page, useful for sending analytics as a user leaves. Good fetching code also handles the slow and failed cases deliberately, showing pending states, retrying idempotent requests, and using [[Optimistic UI]] where a failure can be rolled back.
 
 ## See also
-- [[Service Worker]]
+- [[XML]]
 - [[Streaming Response]]
 - [[Promise]]
 - [[WebSocket]]

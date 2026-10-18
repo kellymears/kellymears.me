@@ -34,3 +34,4 @@ Recursive CTEs give SQL [[Turing Completeness]], and they can loop forever on a 
 - [[Materialized View]]
 - [[Topological Sort]]
 - [[Database Normalization]]
+- [[Database View]]

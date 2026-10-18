@@ -24,3 +24,4 @@ ACID is a single-node concept at heart — it describes what one database's tran
 - [[Multiversion Concurrency Control]]
 - [[Stored Procedure]]
 - [[Software Transactional Memory]]
+- [[Database Constraint]]

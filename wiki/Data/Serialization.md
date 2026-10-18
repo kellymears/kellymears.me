@@ -32,5 +32,5 @@ Serialization cost adds up. In busy services, encoding and decoding can dominate
 ## See also
 - [[Prototype Pollution]]
 - [[Immutability]]
-- [[Event Sourcing]]
+- [[XML]]
 - [[Structured Output]]

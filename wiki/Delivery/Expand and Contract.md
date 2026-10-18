@@ -31,7 +31,7 @@ Expand and contract works hand in hand with [[Feature Flag]] switches, which con
 ## See also
 - [[Database Migration]]
 - [[Zero-Downtime Deployment]]
-- [[Strangler Fig Pattern]]
+- [[Database View]]
 - [[Deprecation]]
 - [[Backward Compatibility]]
 - [[Rolling Deployment]]

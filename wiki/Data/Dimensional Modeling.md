@@ -31,5 +31,5 @@ Warehouses often leave [[Foreign Key]] constraints unenforced for loading speed,
 ## See also
 - [[Window Function]]
 - [[Bitemporal Data]]
-- [[Data Cleaning]]
+- [[Entity-Relationship Model]]
 - [[Data Lake]]

@@ -40,3 +40,4 @@ Audit logs connect to several data patterns. [[Event Sourcing]] stores every cha
 - [[Data Lineage]]
 - [[Row-Level Security]]
 - [[Observability]]
+- [[Data Retention]]

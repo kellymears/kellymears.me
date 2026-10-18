@@ -29,7 +29,7 @@ A wiki is itself a graph: notes as nodes, links as relationships, and a [[Backli
 
 ## See also
 - [[GraphQL]]
-- [[Graph Traversal]]
+- [[Entity-Relationship Model]]
 - [[Relational Database]]
 - [[Document Database]]
 - [[Common Table Expression]]
