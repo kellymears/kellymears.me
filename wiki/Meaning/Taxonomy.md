@@ -28,3 +28,4 @@ Two practical notes. A vocabulary is a shared model, so every near-synonym costs
 - [[Plain Language]]
 - [[Zettelkasten]]
 - [[Faceted Search]]
+- [[Card Sorting]]

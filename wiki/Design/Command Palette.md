@@ -28,6 +28,6 @@ The palette's weakness is discoverability. People cannot search for a feature th
 
 ## See also
 - [[Autocomplete]]
-- [[Progressive Disclosure]]
+- [[Recognition Rather Than Recall]]
 - [[Hick's Law]]
 - [[Modal Dialog]]

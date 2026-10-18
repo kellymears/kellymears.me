@@ -31,3 +31,5 @@ Positioning is harder than it looks. A tooltip must avoid being clipped by a scr
 - [[Progressive Disclosure]]
 - [[ARIA]]
 - [[Touch Target Size]]
+- [[Microcopy]]
+- [[Signifier]]

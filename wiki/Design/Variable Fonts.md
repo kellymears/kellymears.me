@@ -23,3 +23,4 @@ The design payoff beyond file size is that weight and width become animatable an
 - [[Line Length]]
 - [[Font Rendering]]
 - [[Optical Alignment]]
+- [[Typeface]]

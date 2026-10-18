@@ -20,7 +20,7 @@ Two writing habits are worth naming as failure modes because they are so easy to
 - [[Terminal User Interface]]
 - [[Code Comment]]
 - [[Linguistic Relativity]]
-- [[Rent Strike]]
+- [[Microcopy]]
 - [[Typographic Scale]]
 - [[Accessibility]]
 - [[Cognitive Load]]

@@ -21,7 +21,7 @@ The concepts this domain collects, such as [[Executive Function]], [[Monotropism
 - [[Theory of Mind]]
 - [[Synesthesia]]
 - [[Sensory Processing]]
-- [[Accessibility]]
+- [[Inclusive Design]]
 - [[Aphantasia]]
 - [[Fundamental Attribution Error]]
 - [[Legibility]]

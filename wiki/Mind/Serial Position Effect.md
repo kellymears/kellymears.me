@@ -34,3 +34,4 @@ A striking item in the middle can escape the slump, which is the [[Von Restorff 
 - [[Peak-End Rule]]
 - [[Spaced Repetition]]
 - [[Context Rot]]
+- [[Choice Architecture]]

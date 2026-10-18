@@ -28,3 +28,4 @@ It's a close cousin of client-side prediction in networked games (see [[Rollback
 - [[Promise]]
 - [[Long Polling]]
 - [[Local-First Software]]
+- [[Progress Indicator]]

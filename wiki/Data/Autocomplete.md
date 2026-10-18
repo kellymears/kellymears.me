@@ -29,4 +29,4 @@ Autocomplete also shapes behavior. Suggestions steer people toward popular queri
 - [[Form Design]]
 - [[Information Architecture]]
 - [[Search Engine Optimization]]
-- [[Binary Search]]
+- [[Recognition Rather Than Recall]]

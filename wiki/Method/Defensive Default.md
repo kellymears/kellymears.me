@@ -26,3 +26,5 @@ A related shape is the defensive *guard*: a null check protecting against a stat
 - [[Coverage Gate]]
 - [[Schema Validation]]
 - [[Tesler's Law]]
+- [[Choice Architecture]]
+- [[Forcing Function]]

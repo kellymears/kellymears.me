@@ -24,7 +24,7 @@ Executive capacity also varies within one person. Sleep, stress, illness, and [[
 
 ## See also
 - [[Inner Speech]]
-- [[Time Blindness]]
+- [[Recognition Rather Than Recall]]
 - [[Body Doubling]]
 - [[Neurodiversity]]
 - [[Learned Helplessness]]

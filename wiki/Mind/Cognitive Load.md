@@ -21,8 +21,8 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 
 ## See also
 - [[Platform Engineering]]
-- [[Executive Function]]
-- [[Hick's Law]]
+- [[Recognition Rather Than Recall]]
+- [[Choice Architecture]]
 - [[Progressive Disclosure]]
 - [[Data-Ink Ratio]]
 - [[Affordance]]

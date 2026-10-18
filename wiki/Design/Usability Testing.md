@@ -35,5 +35,5 @@ Usability testing explains *why* people struggle. [[AB Testing]] and analytics m
 - [[Form Design]]
 - [[Dogfooding]]
 - [[Wireframe]]
-- [[Mental Model]]
+- [[Card Sorting]]
 - [[Acceptance Testing]]

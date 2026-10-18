@@ -33,6 +33,6 @@ The effect is weaponized as well as avoided. Native advertising disguises ads as
 
 ## See also
 - [[Habituation]]
-- [[Visual Hierarchy]]
+- [[Information Scent]]
 - [[Inattentional Blindness]]
 - [[Dark Pattern]]

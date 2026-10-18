@@ -28,3 +28,5 @@ Fitts's Law and Hick's Law are often cited together because they cover the two h
 - [[Faceted Search]]
 - [[Command Palette]]
 - [[Autocomplete]]
+- [[Choice Architecture]]
+- [[Recognition Rather Than Recall]]

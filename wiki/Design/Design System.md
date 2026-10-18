@@ -29,3 +29,5 @@ The maintenance question is not whether the system covers everything but whether
 - [[Visual Hierarchy]]
 - [[Iconography]]
 - [[Platform Engineering]]
+- [[Microcopy]]
+- [[Typeface]]

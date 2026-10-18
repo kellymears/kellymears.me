@@ -20,7 +20,7 @@ Automated checks also produce characteristic false signals: a burst of violation
 - [[Plain Language]]
 - [[Document Object Model]]
 - [[Neurodiversity]]
-- [[Exploratory Testing]]
+- [[Inclusive Design]]
 
 ## Related
 - [[Portal]]

@@ -30,6 +30,6 @@ Its influence on screen design is direct. The flat design that replaced [[Skeuom
 ## See also
 - [[Iconography]]
 - [[Optical Alignment]]
-- [[Typographic Scale]]
+- [[Typeface]]
 - [[Skeuomorphism]]
 - [[Data-Ink Ratio]]

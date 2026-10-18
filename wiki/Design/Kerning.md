@@ -18,3 +18,4 @@ Good kerning is invisible — it reads as "this text just looks right" rather th
 - [[White Space]]
 - [[Swiss Style]]
 - [[Optical Alignment]]
+- [[Typeface]]

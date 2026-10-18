@@ -29,7 +29,7 @@ The remedies all **externalize time**, turning an internal sense that doesn't wo
 - [[Prospective Memory]]
 - [[Hyperfocus]]
 - [[Planning Fallacy]]
-- [[Parkinson's Law]]
+- [[Progress Indicator]]
 - [[Circadian Rhythm]]
 - [[Body Doubling]]
 - [[Pomodoro Technique]]

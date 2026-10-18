@@ -31,3 +31,4 @@ Web icons moved from image sprites to **icon fonts**, which scaled but broke acc
 - [[Affordance]]
 - [[Tooltip]]
 - [[Swiss Style]]
+- [[Signifier]]

@@ -24,7 +24,7 @@ For people whose [[Working Memory]] is already loaded, [[Extended Mind|offloadin
 
 ## See also
 - [[Prospective Memory]]
-- [[Attention Residue]]
+- [[Progress Indicator]]
 - [[Compulsion Loop]]
 - [[Working Memory]]
 - [[Chekhov's Gun]]

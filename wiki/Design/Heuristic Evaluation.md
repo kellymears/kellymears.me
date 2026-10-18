@@ -35,6 +35,6 @@ That is why heuristic evaluation complements [[Usability Testing]] rather than r
 
 ## See also
 - [[Command Palette]]
-- [[Mental Model]]
-- [[Undo]]
+- [[Recognition Rather Than Recall]]
+- [[Signifier]]
 - [[Error Message]]

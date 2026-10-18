@@ -28,6 +28,7 @@ Placement should be consistent across the product so people learn where to glanc
 
 ## See also
 - [[Undo]]
-- [[Modal Dialog]]
+- [[Microcopy]]
 - [[Optimistic UI]]
 - [[Error Message]]
+- [[Progress Indicator]]

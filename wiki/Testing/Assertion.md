@@ -34,3 +34,4 @@ A related discipline: when a test is written after a fix, revert the fix and wat
 - [[Regression]]
 - [[Hallucination]]
 - [[Core Dump]]
+- [[Forcing Function]]

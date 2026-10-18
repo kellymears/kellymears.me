@@ -32,8 +32,8 @@ The opposite failure is silence. A system that swallows an error and carries on,
 Programming tools have shown how much good messages help. The Elm compiler's 2015 effort to write errors "for humans", with friendly explanations, code excerpts, and suggested fixes, influenced Rust and others, and shifted expectations of what a compiler owes its users.
 
 ## See also
-- [[Form Design]]
+- [[Microcopy]]
 - [[Undo]]
 - [[Empty State]]
-- [[Silent Failure]]
+- [[Forcing Function]]
 - [[Bug Triage]]

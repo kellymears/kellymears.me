@@ -28,3 +28,4 @@ Semantics also help outside accessibility. A well-structured document is what ma
 - [[Visual Hierarchy]]
 - [[Accessibility Testing]]
 - [[Form Design]]
+- [[Inclusive Design]]

@@ -15,7 +15,7 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 
 ## See also
 - [[Affordance]]
-- [[Hick's Law]]
+- [[Microcopy]]
 - [[Progressive Disclosure]]
 - [[Accessibility]]
 - [[Compulsion Loop]]
@@ -26,3 +26,4 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Data-Ink Ratio]]
 - [[Clickjacking]]
 - [[Banner Blindness]]
+- [[Choice Architecture]]

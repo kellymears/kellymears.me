@@ -30,7 +30,7 @@ Facets cause trouble for crawlers. Every combination of filters can produce its 
 
 ## See also
 - [[Taxonomy]]
-- [[Information Architecture]]
-- [[Inverted Index]]
+- [[Information Scent]]
+- [[Card Sorting]]
 - [[Progressive Disclosure]]
 - [[Autocomplete]]

@@ -15,7 +15,7 @@ It is worth being clear about the incentive structure. Search optimization is an
 
 ## See also
 - [[Structured Data]]
-- [[Core Web Vitals]]
+- [[Information Scent]]
 - [[Static Site Generation]]
 - [[Information Architecture]]
 - [[RSS]]

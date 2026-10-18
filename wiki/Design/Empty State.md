@@ -31,10 +31,11 @@ Practical points:
 Writing matters as much as layout. The text should be brief, specific, and in plain language, matching the product's voice. An empty state is part of what separates finished software from software that only works in its demo.
 
 ## See also
-- [[Skeleton Screen]]
+- [[Progress Indicator]]
 - [[Progressive Disclosure]]
 - [[Mental Model]]
 - [[Affordance]]
 - [[Faceted Search]]
 - [[Error Message]]
 - [[Wireframe]]
+- [[Microcopy]]

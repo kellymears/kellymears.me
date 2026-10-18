@@ -36,5 +36,5 @@ Alternatives often serve better: inline editing, an expanding panel, a non-block
 ## See also
 - [[Command Palette]]
 - [[Toast Notification]]
-- [[Portal]]
-- [[Dark Pattern]]
+- [[Microcopy]]
+- [[Forcing Function]]

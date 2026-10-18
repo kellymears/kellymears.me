@@ -32,3 +32,4 @@ The rule interacts with other memory effects. The [[Serial Position Effect]] als
 - [[Hedonic Treadmill]]
 - [[Response Time Limits]]
 - [[Aesthetic-Usability Effect]]
+- [[Progress Indicator]]

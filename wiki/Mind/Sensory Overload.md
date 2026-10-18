@@ -26,7 +26,7 @@ The most effective remedies change the environment rather than the person. Noise
 ## See also
 - [[Sensory Processing]]
 - [[Concussion]]
-- [[Interoception]]
+- [[Inclusive Design]]
 - [[Masking]]
 - [[Habituation]]
 - [[Window of Tolerance]]
