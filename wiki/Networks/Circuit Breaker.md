@@ -23,3 +23,4 @@ Circuit breakers are usually scoped per dependency, not globally — a failing p
 - [[Exponential Backoff]]
 - [[Remote Procedure Call]]
 - [[Fallacies of Distributed Computing]]
+- [[Service Level Objective]]

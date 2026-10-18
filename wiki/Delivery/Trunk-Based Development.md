@@ -28,3 +28,5 @@ The practice scales down well — it is close to what a single developer natural
 - [[Documentation Rot]]
 - [[Cherry-Pick]]
 - [[DORA Metrics]]
+- [[Expand and Contract]]
+- [[Code Freeze]]

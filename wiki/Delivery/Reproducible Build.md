@@ -21,9 +21,8 @@ Most builds are not reproducible by default, because many small things leak into
 
 The Reproducible Builds project, which grew out of work in Debian starting around 2013, has pushed fixes into thousands of upstream tools, and most Debian packages now build reproducibly. Some build systems aim for *hermetic* builds, where every input is declared and nothing else is visible. Bazel sandboxes each action, and Nix and Guix build each package in isolation from inputs identified by hash, so the same inputs always produce the same result. Guix has gone further toward a fully bootstrapped system built from a tiny auditable seed.
 
-Reproducibility pays off beyond security. Identical outputs can be cached and shared between machines, which speeds up [[Continuous Integration]] and large [[Monorepo]] builds. A build that can be recreated exactly makes old bugs debuggable. It also supports the "build once" rule of a [[Deployment Pipeline]] and the [[Provenance]] claims in a [[Software Bill of Materials]], and pairs naturally with [[Code Signing]] and [[Immutable Infrastructure]].
+Reproducibility pays off beyond security. Identical outputs can be [[Build Cache|cached]] and shared between machines, which speeds up [[Continuous Integration]] and large [[Monorepo]] builds. A build that can be recreated exactly makes old bugs debuggable. It also supports the "build once" rule of a [[Deployment Pipeline]] and the [[Provenance]] claims in a [[Software Bill of Materials]], and pairs naturally with [[Code Signing]] and [[Immutable Infrastructure]].
 
 ## See also
 - [[Determinism]]
-- [[Lockfile]]
 - [[Containerization]]

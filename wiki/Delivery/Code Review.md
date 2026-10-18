@@ -26,3 +26,4 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 - [[Documentation Rot]]
 - [[Squash Merge]]
 - [[Pair Programming]]
+- [[Code Owners]]

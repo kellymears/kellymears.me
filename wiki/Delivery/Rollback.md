@@ -20,3 +20,6 @@ The alternative discipline is "fix forward": rather than reverting, ship a fix a
 - [[Zero-Downtime Deployment]]
 - [[Immutable Infrastructure]]
 - [[Deployment Pipeline]]
+- [[Incident Response]]
+- [[Expand and Contract]]
+- [[Code Freeze]]

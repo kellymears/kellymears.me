@@ -16,7 +16,7 @@ The four key metrics split into two for throughput and two for stability:
 - **Deployment frequency.** How often the team ships to production.
 - **Lead time for changes.** How long a change takes to go from [[Commit]] to running in production.
 - **Change failure rate.** The share of deployments that cause a failure needing a fix, a hotfix, or a [[Rollback]].
-- **Time to restore service.** How long it takes to recover when something breaks, renamed *failed deployment recovery time* in 2023.
+- **Time to restore service.** How long it takes to [[Incident Response|recover]] when something breaks, renamed *failed deployment recovery time* in 2023.
 
 A fifth measure, reliability, was added in 2021 to capture whether the service meets its operational targets.
 
@@ -28,4 +28,3 @@ The metrics are easy to misuse. They describe a team's delivery system, not indi
 
 ## See also
 - [[Continuous Deployment]]
-- [[Rollback]]

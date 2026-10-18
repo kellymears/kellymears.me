@@ -20,3 +20,4 @@ The harder part, and the one that actually causes outages labeled "the deploy br
 ## Related
 - [[Immutable Infrastructure]]
 - [[Continuous Deployment]]
+- [[Expand and Contract]]

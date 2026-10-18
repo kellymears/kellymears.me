@@ -30,3 +30,4 @@ Characterization tests are a means, not an end. Once code is refactored and unde
 - [[Snapshot Testing]]
 - [[Hyrum's Law]]
 - [[Unit Test]]
+- [[Strangler Fig Pattern]]

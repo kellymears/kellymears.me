@@ -26,3 +26,6 @@ Package managers support the pattern through *workspaces*: a root manifest listi
 - [[Bundler]]
 - [[Silent Failure]]
 - [[Test Impact Analysis]]
+- [[Build Cache]]
+- [[Code Owners]]
+- [[Vendoring]]

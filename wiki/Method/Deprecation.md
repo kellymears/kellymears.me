@@ -24,3 +24,5 @@ Version numbering is how deprecations are communicated at the package boundary; 
 - [[Semantic Conflict]]
 - [[Package Manager]]
 - [[Changelog]]
+- [[Expand and Contract]]
+- [[Long-Term Support]]

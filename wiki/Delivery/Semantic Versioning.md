@@ -27,3 +27,4 @@ The practical consequences are that a major bump deserves a migration path and a
 - [[Bundler]]
 - [[Changelog]]
 - [[Release Train]]
+- [[Dependency Hell]]

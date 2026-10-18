@@ -27,3 +27,4 @@ The only honest verification is to reproduce the deployment path end to end — 
 - [[Silent Failure]]
 - [[Deployment Pipeline]]
 - [[DORA Metrics]]
+- [[Code Freeze]]
