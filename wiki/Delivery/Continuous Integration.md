@@ -32,3 +32,5 @@ Several failure modes are worth knowing because they all produce a *false* green
 ## Related
 - [[Stacked Pull Requests]]
 - [[Three-Way Merge]]
+- [[Git Hook]]
+- [[Deployment Pipeline]]

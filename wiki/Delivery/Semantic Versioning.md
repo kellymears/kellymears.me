@@ -25,3 +25,5 @@ The practical consequences are that a major bump deserves a migration path and a
 - [[Monorepo]]
 - [[Secret Management]]
 - [[Bundler]]
+- [[Changelog]]
+- [[Release Train]]

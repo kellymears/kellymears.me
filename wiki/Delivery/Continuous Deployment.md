@@ -25,3 +25,5 @@ The only honest verification is to reproduce the deployment path end to end — 
 - [[Vacuous Truth]]
 - [[Trunk-Based Development]]
 - [[Silent Failure]]
+- [[Deployment Pipeline]]
+- [[DORA Metrics]]

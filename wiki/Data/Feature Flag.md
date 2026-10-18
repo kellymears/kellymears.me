@@ -32,3 +32,4 @@ Flags accumulate. A flag whose feature has fully shipped is dead conditional log
 - [[Headless CMS]]
 - [[Continuous Integration]]
 - [[Documentation Rot]]
+- [[Release Train]]

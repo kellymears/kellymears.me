@@ -21,3 +21,4 @@ The tradeoff is that anything genuinely needing in-place mutation — a long-liv
 
 ## Related
 - [[Rollback]]
+- [[Deployment Pipeline]]

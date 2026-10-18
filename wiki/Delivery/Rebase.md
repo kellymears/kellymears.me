@@ -30,3 +30,4 @@ Several things about rebasing are worth knowing concretely.
 - [[Regression]]
 - [[Continuous Integration]]
 - [[Trunk-Based Development]]
+- [[Cherry-Pick]]

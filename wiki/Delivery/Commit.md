@@ -26,3 +26,5 @@ Staging deserves care in shared working directories: a bulk "add everything" swe
 - [[Regression]]
 - [[Plausible Mechanism]]
 - [[Merkle Tree]]
+- [[Git Hook]]
+- [[Cherry-Pick]]

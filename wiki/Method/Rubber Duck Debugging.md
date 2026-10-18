@@ -23,3 +23,4 @@ The technique's real relative is not conversation but writing: forcing a problem
 - [[Default Mode Network]]
 - [[Metacognition]]
 - [[Curse of Knowledge]]
+- [[Pair Programming]]

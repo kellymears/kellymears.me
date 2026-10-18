@@ -25,3 +25,4 @@ Two operational notes. Branch protection settings that appear to enforce up-to-d
 - [[Rebase]]
 - [[Pull Request]]
 - [[Merge Conflict]]
+- [[Release Train]]

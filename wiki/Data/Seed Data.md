@@ -27,3 +27,4 @@ Two lessons repeat.
 - [[Determinism]]
 - [[Write-Ahead Logging]]
 - [[Hash Table]]
+- [[Ephemeral Environment]]

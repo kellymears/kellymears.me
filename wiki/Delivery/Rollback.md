@@ -19,3 +19,4 @@ The alternative discipline is "fix forward": rather than reverting, ship a fix a
 ## Related
 - [[Zero-Downtime Deployment]]
 - [[Immutable Infrastructure]]
+- [[Deployment Pipeline]]

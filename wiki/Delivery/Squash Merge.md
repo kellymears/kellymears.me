@@ -13,7 +13,7 @@ Two consequences follow that people meet in practice rather than in theory.
 
 **The squashed commit's message becomes the permanent record.** Whatever the change description says is what the repository will hold, which is what makes an unverified claim in it a durable false statement. See [[Provenance]] and [[Plausible Mechanism]].
 
-**The branch's commits are no longer ancestors of the main line.** Any work still based on them has a base that main does not contain, so a subsequent push recreates the deleted branch as an orphan and a merge does strange things. Recovering means cherry-picking the wanted commits onto a fresh branch cut from the current main.
+**The branch's commits are no longer ancestors of the main line.** Any work still based on them has a base that main does not contain, so a subsequent push recreates the deleted branch as an orphan and a merge does strange things. Recovering means [[Cherry-Pick|cherry-picking]] the wanted commits onto a fresh branch cut from the current main.
 
 Squash merging pairs naturally with [[Trunk-Based Development]], where branches are short and their internal steps are working notes rather than history worth keeping.
 

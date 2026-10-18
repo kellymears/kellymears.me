@@ -21,3 +21,4 @@ Webhooks are also a poor fit for anything that needs a response mid-transaction 
 - [[Implementation Intention]]
 - [[Transactional Outbox]]
 - [[Delivery Guarantees]]
+- [[Git Hook]]

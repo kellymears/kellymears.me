@@ -20,3 +20,4 @@ That reframing points to what actually raises the number. Writing things down is
 - [[Chesterton's Fence]]
 - [[Commons-Based Peer Production]]
 - [[Peter Principle]]
+- [[Pair Programming]]

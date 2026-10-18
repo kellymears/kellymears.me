@@ -26,3 +26,5 @@ The practice scales down well — it is close to what a single developer natural
 - [[Pull Request]]
 - [[Three-Way Merge]]
 - [[Documentation Rot]]
+- [[Cherry-Pick]]
+- [[DORA Metrics]]

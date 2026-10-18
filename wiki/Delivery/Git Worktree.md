@@ -28,3 +28,5 @@ The complications are all about the things a worktree does *not* isolate.
 - [[Fan-Out and Fan-In]]
 - [[Token Budget]]
 - [[Shell]]
+- [[Git Hook]]
+- [[Ephemeral Environment]]

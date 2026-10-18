@@ -26,3 +26,4 @@ The main misuse is treating it as a mandate to test every function in isolation.
 - [[Vacuous Truth]]
 - [[Tree Shaking]]
 - [[Root Cause Analysis]]
+- [[Pair Programming]]

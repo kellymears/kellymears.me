@@ -23,3 +23,4 @@ Version numbering is how deprecations are communicated at the package boundary; 
 - [[Root Cause Analysis]]
 - [[Semantic Conflict]]
 - [[Package Manager]]
+- [[Changelog]]

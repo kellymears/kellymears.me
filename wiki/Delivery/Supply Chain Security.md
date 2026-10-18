@@ -25,3 +25,5 @@ The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed up
 - [[Silent Failure]]
 - [[Semantic Versioning]]
 - [[Monorepo]]
+- [[Reproducible Build]]
+- [[Software Bill of Materials]]

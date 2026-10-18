@@ -22,3 +22,5 @@ The model also determines what a merge means and therefore what history looks li
 ## Related
 - [[Three-Way Merge]]
 - [[Semantic Conflict]]
+- [[Cherry-Pick]]
+- [[Release Train]]

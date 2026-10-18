@@ -25,3 +25,4 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 ## Related
 - [[Documentation Rot]]
 - [[Squash Merge]]
+- [[Pair Programming]]
