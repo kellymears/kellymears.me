@@ -17,7 +17,7 @@ The practical upshot is that solving a slowdown requires diagnosing which one is
 - [[Simultaneous Multithreading]]
 - [[IO Multiplexing]]
 - [[Actor Model]]
-- [[Process]]
+- [[Software Transactional Memory]]
 - [[Memory Model]]
 - [[CPU Scheduler]]
 - [[Deadlock]]

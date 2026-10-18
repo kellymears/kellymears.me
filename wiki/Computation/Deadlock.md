@@ -34,7 +34,7 @@ Databases deal with deadlocks constantly under [[Pessimistic Locking]]. They det
 Deadlocks, like a [[Race Condition]], depend on timing and are hard to reproduce, a classic [[Heisenbug]]. [[Deterministic Simulation Testing]] and lock-order checkers help find them before production does.
 
 ## See also
-- [[Concurrency and Parallelism]]
+- [[Software Transactional Memory]]
 - [[Communicating Sequential Processes]]
 - [[Memory Model]]
 - [[Lock-Free Data Structure]]

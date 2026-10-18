@@ -36,3 +36,4 @@ Its appeal is the ratio of power to code. A dozen lines give near-constant conne
 - [[Greedy Algorithm]]
 - [[Topological Sort]]
 - [[Consistent Hashing]]
+- [[Minimum Spanning Tree]]

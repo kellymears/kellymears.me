@@ -30,7 +30,7 @@ Small changes can cross the line. Finding the shortest path in a graph is easy, 
 - [[Stable Matching]]
 - [[Halting Problem]]
 - [[Traveling Salesman Problem]]
-- [[Dynamic Programming]]
+- [[Graph Coloring]]
 - [[Graph Traversal]]
 - [[Greedy Algorithm]]
 - [[Backtracking]]

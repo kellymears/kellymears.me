@@ -24,7 +24,7 @@ A subtler problem is telling full from empty, since in both cases the head and t
 With exactly one producer and one consumer, a ring buffer can be made [[Lock-Free Data Structure|lock-free]] using little more than careful ordering of memory writes, since each side updates only its own position. That property makes it the standard channel between threads in low-latency systems. Its contiguous array also gives good [[Locality of Reference]], unlike a queue built from a [[Linked List]].
 
 ## See also
-- [[Message Queue]]
+- [[Text Buffer]]
 - [[Communicating Sequential Processes]]
 - [[Undo]]
 - [[Time Series Database]]

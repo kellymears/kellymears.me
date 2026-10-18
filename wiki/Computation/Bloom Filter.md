@@ -17,7 +17,7 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 - [[Trie]]
 - [[Cache Invalidation]]
 - [[Log-Structured Merge Tree]]
-- [[Pretraining]]
+- [[Locality-Sensitive Hashing]]
 - [[Differential Privacy]]
 - [[HyperLogLog]]
 - [[Skip List]]

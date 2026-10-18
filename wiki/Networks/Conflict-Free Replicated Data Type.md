@@ -28,3 +28,4 @@ Mature libraries make them practical for real applications: a shared document ty
 ## Related
 - [[Virtual Private Network]]
 - [[Local-First Software]]
+- [[Text Buffer]]

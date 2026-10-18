@@ -33,6 +33,6 @@ The trade-off must be acceptable. Approximate counts suit dashboards and capacit
 ## See also
 - [[Bitwise Operation]]
 - [[Monte Carlo Method]]
-- [[Reservoir Sampling]]
+- [[Locality-Sensitive Hashing]]
 - [[Big-O Notation]]
 - [[Information Theory]]

@@ -28,4 +28,4 @@ Static analysis complements testing rather than replacing it. It finds whole cla
 ## See also
 - [[Code Formatter]]
 - [[Shift-Left Testing]]
-- [[Type System]]
+- [[Gödel's Incompleteness Theorems]]

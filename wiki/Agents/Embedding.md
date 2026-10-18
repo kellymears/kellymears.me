@@ -26,3 +26,4 @@ Embedding models are also usually distinct from the generation model in a pipeli
 - [[Cosine Similarity]]
 - [[Dimensionality Reduction]]
 - [[Supervised Learning]]
+- [[Locality-Sensitive Hashing]]

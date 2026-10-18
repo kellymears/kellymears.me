@@ -30,4 +30,4 @@ When edges have different costs, such as road lengths, plain BFS no longer finds
 ## See also
 - [[Union-Find]]
 - [[Backtracking]]
-- [[Big-O Notation]]
+- [[A-Star Search Algorithm]]

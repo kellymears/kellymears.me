@@ -30,7 +30,7 @@ The ideas spread well beyond communication:
 A related measure, *Kolmogorov complexity*, defines the information in a single string as the length of the shortest program that produces it. It is uncomputable, a consequence of the [[Halting Problem]].
 
 ## See also
-- [[Bandwidth]]
+- [[Kolmogorov Complexity]]
 - [[Zipf's Law]]
 - [[Bloom Filter]]
 - [[Byte-Pair Encoding]]

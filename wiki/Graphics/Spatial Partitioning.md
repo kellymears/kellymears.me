@@ -38,4 +38,4 @@ The structures share a weakness with high dimensions. As dimensions grow, nearly
 - [[Map Projection]]
 - [[Tile Map]]
 - [[Voronoi Diagram]]
-- [[B-Tree]]
+- [[A-Star Search Algorithm]]

@@ -29,3 +29,4 @@ The same structure appears in type inference, scheduling, layout solvers, and de
 - [[Shader]]
 - [[Backtracking]]
 - [[Wave Function Collapse]]
+- [[Graph Coloring]]

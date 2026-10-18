@@ -31,4 +31,4 @@ Undo also pairs naturally with [[Optimistic UI]]: show the result immediately an
 
 ## See also
 - [[Reflog]]
-- [[Forcing Function]]
+- [[Text Buffer]]

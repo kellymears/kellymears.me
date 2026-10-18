@@ -32,5 +32,5 @@ The stack and the heap are the two basic places a program keeps data. The stack 
 - [[Address Space Layout Randomization]]
 - [[Memory Safety]]
 - [[Virtual Memory]]
-- [[Process]]
+- [[Continuation]]
 - [[Crash Reporting]]

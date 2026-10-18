@@ -2,8 +2,6 @@
 aliases:
   - Shortest path
   - Shortest path algorithm
-  - A* search
-  - A-star
   - Pathfinding
   - Priority queue
 tags:
@@ -37,6 +35,6 @@ Shortest paths are easy, but small changes make problems much harder: the travel
 - [[IP Routing]]
 - [[Traveling Salesman Problem]]
 - [[Dynamic Programming]]
-- [[Big-O Notation]]
+- [[A-Star Search Algorithm]]
 - [[Binary Heap]]
-- [[Greedy Algorithm]]
+- [[Minimum Spanning Tree]]

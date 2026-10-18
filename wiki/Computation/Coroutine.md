@@ -30,7 +30,7 @@ Coroutines also underpin streaming. A generator that yields chunks as they're pr
 - [[IO Multiplexing]]
 - [[Communicating Sequential Processes]]
 - [[Promise]]
-- [[Closure]]
+- [[Continuation]]
 - [[Call Stack]]
 - [[Context Switch]]
 - [[Fetch API]]

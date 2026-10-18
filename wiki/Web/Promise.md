@@ -31,3 +31,4 @@ Promises resemble a [[Monad]], since `then` both maps and flattens, though they 
 - [[Coroutine]]
 - [[Fetch API]]
 - [[Web Worker]]
+- [[Continuation]]

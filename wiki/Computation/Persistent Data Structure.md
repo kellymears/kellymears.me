@@ -30,7 +30,7 @@ The costs are real. Each update allocates new nodes, putting pressure on [[Garba
 The same ideas appear outside programming languages. Git stores history as a persistent tree in which each commit shares unchanged files and directories with its parent, an instance of a [[Merkle Tree]]. File systems and databases that use [[Copy-on-Write]] get cheap snapshots the same way, and [[Event Sourcing]] keeps every past state reconstructible by never overwriting.
 
 ## See also
-- [[Immutability]]
+- [[Text Buffer]]
 - [[Copy-on-Write]]
 - [[Trie]]
 - [[Self-Balancing Binary Search Tree]]

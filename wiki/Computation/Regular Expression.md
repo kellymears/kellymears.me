@@ -21,3 +21,4 @@ What most programming languages call "regex" (PCRE and its descendants: Perl's, 
 - [[Abstract Syntax Tree]]
 - [[Denial-of-Service Attack]]
 - [[Backtracking]]
+- [[Context-Free Grammar]]

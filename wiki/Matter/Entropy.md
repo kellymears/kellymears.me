@@ -27,5 +27,5 @@ In 1948 Claude Shannon defined *information entropy*, the average uncertainty in
 - [[Phase Transition]]
 - [[Diffusion]]
 - [[Specific Heat Capacity]]
-- [[Conservation of Energy]]
+- [[Kolmogorov Complexity]]
 - [[Information Theory]]

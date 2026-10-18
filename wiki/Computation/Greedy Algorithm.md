@@ -31,6 +31,6 @@ Outside computing, greedy choices explain a lot of [[Path Dependence]]: each loc
 ## See also
 - [[Simulated Annealing]]
 - [[Divide and Conquer]]
-- [[Overfitting]]
+- [[Minimum Spanning Tree]]
 - [[Gradient Descent]]
-- [[Test Parallelization]]
+- [[Graph Coloring]]
