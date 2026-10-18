@@ -29,7 +29,7 @@ The system was built for the US military and opened fully to civilian accuracy i
 
 ## See also
 - [[Data Broker]]
-- [[Map Projection]]
+- [[Geocoding]]
 - [[Aurora]]
 - [[Time Dilation]]
 - [[Spread Spectrum]]

@@ -24,5 +24,5 @@ Other kinds of database handle trees differently. A [[Document Database]] can ne
 Deciding what the hierarchy should be is a separate, often harder question; see [[Taxonomy]] and [[Information Architecture]].
 
 ## See also
-- [[Library Classification]]
-- [[Entity-Relationship Model]]
+- [[ISBN]]
+- [[Postal Address]]

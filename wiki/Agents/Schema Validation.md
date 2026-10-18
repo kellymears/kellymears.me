@@ -16,7 +16,7 @@ Validation is the natural boundary for a system taking model output; see [[Struc
 
 ## See also
 - [[JSON Schema]]
-- [[Structured Output]]
+- [[Garbage In, Garbage Out]]
 - [[Fail Fast]]
 - [[Schema Drift]]
 - [[Constrained Decoding]]

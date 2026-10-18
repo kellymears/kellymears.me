@@ -34,5 +34,5 @@ Edit distance has limits. A purely textual diff doesn't know what code means, so
 - [[Diff]]
 - [[Stemming and Lemmatization]]
 - [[String-Searching Algorithm]]
-- [[Entity Resolution]]
+- [[Geocoding]]
 - [[Autocomplete]]

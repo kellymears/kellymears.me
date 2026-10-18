@@ -35,6 +35,6 @@ Good practice:
 Clean data also isn't the same as correct data. A perfectly formatted dataset can still measure the wrong thing; see [[Ground Truth]].
 
 ## See also
-- [[Tidy Data]]
-- [[Pivot Table]]
-- [[Mars Climate Orbiter]]
+- [[Garbage In, Garbage Out]]
+- [[Geocoding]]
+- [[Data Journalism]]

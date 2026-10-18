@@ -25,6 +25,6 @@ Used well, benchmarks catch performance regressions in [[Continuous Integration]
 ## See also
 - [[Monotonic Clock]]
 - [[Operationalization]]
-- [[Just-in-Time Compilation]]
+- [[Garbage In, Garbage Out]]
 - [[Amdahl's Law]]
 - [[Utah Teapot]]

@@ -22,7 +22,7 @@ Two things worth holding onto when working through an abstraction layer. The lay
 - [[Multi-Tenancy]]
 - [[SQLite]]
 - [[WordPress]]
-- [[Connection Pool]]
+- [[Punched Card]]
 
 ## Related
 - [[Seed Data]]

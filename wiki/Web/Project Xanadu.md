@@ -26,5 +26,5 @@ Nelson, still working on it, has said the web oversimplified hypertext by treati
 
 ## See also
 - [[Hypermedia]]
-- [[Knowledge Graph]]
+- [[Microfilm]]
 - [[Second-System Effect]]

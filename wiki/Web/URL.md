@@ -33,5 +33,5 @@ URLs are also an interface. People read them, share them, and bookmark them, so 
 - [[Internationalized Domain Name]]
 - [[Fetch API]]
 - [[Open Redirect]]
-- [[Wayfinding]]
+- [[Persistent Identifier]]
 - [[Data URI]]

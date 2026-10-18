@@ -28,3 +28,4 @@ The design also met problems still familiar. Babbage devised an "anticipating ca
 - [[Moore's Law]]
 - [[Spreadsheet]]
 - [[Assembly Language]]
+- [[Punched Card]]

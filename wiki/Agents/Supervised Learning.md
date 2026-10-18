@@ -29,4 +29,4 @@ Whatever the paradigm, the central worry is generalization: doing well on new da
 
 ## See also
 - [[Support Vector Machine]]
-- [[Naive Bayes]]
+- [[Garbage In, Garbage Out]]

@@ -31,6 +31,6 @@ Common uses include fraud detection, live dashboards, alerting, keeping search i
 ## See also
 - [[Window Function]]
 - [[Reservoir Sampling]]
-- [[Event Sourcing]]
+- [[Big Data]]
 - [[Delivery Guarantees]]
 - [[HyperLogLog]]

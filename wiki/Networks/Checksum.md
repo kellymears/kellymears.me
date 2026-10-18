@@ -32,3 +32,4 @@ Storage needs the same care. Disks silently return wrong data more often than pe
 - [[Sneakernet]]
 - [[Barcode]]
 - [[Birthday Problem]]
+- [[ISBN]]

@@ -36,4 +36,4 @@ There is a deep link between compression and prediction: a model that predicts t
 - [[Chroma Subsampling]]
 - [[Napster]]
 - [[HTTP Compression]]
-- [[Pigeonhole Principle]]
+- [[Microfilm]]

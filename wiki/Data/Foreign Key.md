@@ -28,5 +28,5 @@ Foreign keys interact with other choices. A [[Soft Delete]] leaves rows in place
 ## See also
 - [[Database Constraint]]
 - [[Common Table Expression]]
-- [[Stored Procedure]]
+- [[ISBN]]
 - [[Hierarchical Data]]

@@ -19,7 +19,7 @@ The common record types are few: an address record, an alias record pointing one
 - [[Port]]
 - [[Email Authentication]]
 - [[Encrypted Client Hello]]
-- [[Virtual Private Network]]
+- [[Persistent Identifier]]
 - [[Simple Mail Transfer Protocol]]
 - [[URL]]
 - [[Certificate Authority]]

@@ -16,7 +16,7 @@ It's a close cousin of [[Backpressure]], but the direction of control is differe
 ## See also
 - [[Quality of Service]]
 - [[Multi-Factor Authentication]]
-- [[Circuit Breaker]]
+- [[Geocoding]]
 - [[Load Balancing]]
 - [[Load Testing]]
 - [[Congestion Control]]

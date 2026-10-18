@@ -19,7 +19,7 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 - [[Defensive Programming]]
 - [[Murphy's Law]]
 - [[Margin of Safety]]
-- [[Human in the Loop]]
+- [[Garbage In, Garbage Out]]
 - [[Crash-Only Software]]
 
 ## Related

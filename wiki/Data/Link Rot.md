@@ -33,6 +33,6 @@ Inside a [[Wiki]], internal links can be checked mechanically: a link to a page 
 ## See also
 - [[Object Storage]]
 - [[Project Xanadu]]
-- [[URL]]
+- [[Persistent Identifier]]
 - [[Public Domain]]
-- [[Digital Preservation]]
+- [[Microfilm]]

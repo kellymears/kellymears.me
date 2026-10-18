@@ -25,4 +25,4 @@ Where it works, the gains are clear ownership, fewer broken pipelines, and data 
 
 ## See also
 - [[Tragedy of the Commons]]
-- [[Information Architecture]]
+- [[Big Data]]

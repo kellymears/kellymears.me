@@ -17,7 +17,7 @@ The same idea applies to any recorded corpus: an evaluation result, a benchmark,
 Physical documents solved the adjacent problem — proving a record was not altered in transit — long before cryptography, by making the container itself tamper-evident; [[Letterlocking]] is the studied form of that craft, and its logic survives in [[Code Signing]].
 
 ## See also
-- [[Version Control]]
+- [[Data Journalism]]
 - [[Commit]]
 - [[Documentation Rot]]
 - [[Data Lineage]]

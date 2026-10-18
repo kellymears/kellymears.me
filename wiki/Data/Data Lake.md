@@ -29,6 +29,6 @@ Lakes are fed in batches and from [[Change Data Capture]] streams. Keeping a lak
 
 ## See also
 - [[DataFrame]]
-- [[Data Contract]]
+- [[Big Data]]
 - [[Data Mesh]]
 - [[Dimensional Modeling]]

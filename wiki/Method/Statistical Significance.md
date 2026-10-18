@@ -27,7 +27,7 @@ Reforms include preregistering analyses before seeing data, lowering the thresho
 Product teams meet the same traps in [[AB Testing]], especially by checking results repeatedly and stopping as soon as a test looks significant, which inflates false positives well beyond 5%.
 
 ## See also
-- [[Randomized Controlled Trial]]
+- [[Big Data]]
 - [[Multiple Comparisons Problem]]
 - [[Sensitivity and Specificity]]
 - [[Burden of Proof]]

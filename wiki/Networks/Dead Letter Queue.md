@@ -31,3 +31,4 @@ The same pattern appears outside queues: webhook providers that disable an endpo
 ## See also
 - [[Backpressure]]
 - [[Saga Pattern]]
+- [[Postal Address]]

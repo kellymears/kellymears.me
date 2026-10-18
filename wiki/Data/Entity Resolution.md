@@ -28,7 +28,7 @@ Names make it hard. People change names, transliterate them differently, use nic
 Entity resolution also works against privacy. Linking supposedly anonymous records with public ones by birth date, sex and postcode can re-identify most people, which is why removing names isn't anonymization, and why [[Differential Privacy]] exists. In an [[ETL Pipeline]], resolution is the step that lets data from different systems refer to the same customer.
 
 ## See also
-- [[Database Normalization]]
-- [[Data Broker]]
-- [[Graph Database]]
-- [[Union-Find]]
+- [[Census]]
+- [[ISBN]]
+- [[Persistent Identifier]]
+- [[Geocoding]]

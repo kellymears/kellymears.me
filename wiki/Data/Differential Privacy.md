@@ -34,9 +34,9 @@ The cost is accuracy, and it falls hardest on small groups. Census noise that is
 Machine learning faces the same risk: models can memorize training examples, and [[Large Language Model]]s have reproduced memorized text verbatim. Differentially private training limits each example's influence on the model, a cousin of guarding against [[Overfitting]]. The broader lesson matches [[Least Privilege]]: the safest data is data that was never collected in identifiable form.
 
 ## See also
-- [[Data Broker]]
+- [[Geocoding]]
 - [[Machine Unlearning]]
-- [[Open Data]]
+- [[Census]]
 - [[Synthetic Data]]
 - [[Geospatial Data]]
 - [[Panopticon]]

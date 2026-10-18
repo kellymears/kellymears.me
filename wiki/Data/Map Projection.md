@@ -31,7 +31,7 @@ Projection choice shapes perception: a map is a model, and decides in advance wh
 ## See also
 - [[Global Positioning System]]
 - [[Geospatial Data]]
-- [[Mipmapping]]
+- [[Geocoding]]
 - [[Coriolis Effect]]
 - [[Choropleth Map]]
 - [[Open Data]]

@@ -31,7 +31,7 @@ Care is needed. Motion that is mandatory for comprehension, or that triggers on 
 Because unsupported browsers simply ignore the property, the feature is naturally a [[Progressive Enhancement]]. Wrapping it in `@supports (animation-timeline: view())` lets the page show content in its final state everywhere else, rather than leaving it invisible waiting for an animation that never runs. Combined with [[View Transitions]] and good [[Easing]], it lets CSS handle most of the motion that once required animation libraries, the kind of choreography described under [[Motion Design]].
 
 ## See also
-- [[Intersection Observer]]
+- [[Data Journalism]]
 - [[Motion Design]]
 - [[requestAnimationFrame]]
 - [[Reduced Motion]]

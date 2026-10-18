@@ -24,7 +24,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 ## Related
 - [[Record and Replay Testing]]
 - [[Locality-Sensitive Hashing]]
-- [[LLM-as-Judge]]
+- [[Persistent Identifier]]
 - [[Data Breach]]
 - [[Caller ID Authentication]]
 - [[AI Watermarking]]

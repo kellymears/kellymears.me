@@ -13,7 +13,7 @@ The partitioning key is the single decision the whole design hangs on, and it's 
 
 ## See also
 - [[Data Sovereignty]]
-- [[Two-Phase Commit]]
+- [[Big Data]]
 - [[Multi-Tenancy]]
 - [[Universally Unique Identifier]]
 

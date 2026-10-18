@@ -25,4 +25,4 @@ Machine learning's [[Scaling Laws]] describe a different exponential, in trainin
 ## See also
 - [[Quantum Computing]]
 - [[Deep Blue]]
-- [[Clock Signal]]
+- [[Big Data]]

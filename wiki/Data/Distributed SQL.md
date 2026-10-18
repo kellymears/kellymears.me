@@ -29,5 +29,5 @@ Pinning rows to a customer's region cuts that latency and can satisfy residency 
 Most applications still fit on one well-run server with a replica, and stay simpler there.
 
 ## See also
-- [[Latency and Jitter]]
+- [[Big Data]]
 - [[Data Sovereignty]]

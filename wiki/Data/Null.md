@@ -34,7 +34,7 @@ Nulls deserve the same edge-case attention as zero and empty strings in [[Bounda
 - [[Exception Handling]]
 - [[DataFrame]]
 - [[Decimal Arithmetic]]
-- [[Defensive Programming]]
+- [[Geocoding]]
 - [[CSV]]
 - [[Typestate]]
 - [[Boolean Algebra]]

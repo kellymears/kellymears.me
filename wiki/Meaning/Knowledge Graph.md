@@ -22,7 +22,7 @@ The failure mode of the formal kind is over-modeling — an ontology so precise 
 
 ## Related
 - [[Search Engine Optimization]]
-- [[Naming]]
+- [[Persistent Identifier]]
 - [[Entity Resolution]]
 - [[Graph Database]]
 - [[Ontology]]

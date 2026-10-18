@@ -19,7 +19,7 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Natural Experiment]]
 - [[Berkson's Paradox]]
 - [[Spectrum-Based Fault Localization]]
-- [[P-Hacking]]
+- [[Big Data]]
 - [[Ecological Fallacy]]
 
 ## Related
@@ -28,5 +28,5 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Logical Fallacy]]
 - [[Vitamin D]]
 - [[Distribution Shift]]
-- [[Data Visualization]]
+- [[Data Journalism]]
 - [[Confounding]]

@@ -34,6 +34,6 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 - [[Barcode]]
 - [[Checksum]]
 - [[N-Version Programming]]
-- [[Dynamic Random-Access Memory]]
+- [[ISBN]]
 - [[RAID]]
 - [[Pigeonhole Principle]]

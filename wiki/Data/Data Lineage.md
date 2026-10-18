@@ -33,6 +33,6 @@ Lineage pairs with pipeline [[Observability]]: freshness, volume, and schema mon
 ## See also
 - [[Data Sovereignty]]
 - [[Machine Unlearning]]
-- [[Data Cleaning]]
+- [[Garbage In, Garbage Out]]
 - [[Data Mesh]]
 - [[Data Contract]]

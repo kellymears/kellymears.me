@@ -36,3 +36,4 @@ Inconsistent collation between layers causes subtle bugs. If an application sort
 ## See also
 - [[Inverted Index]]
 - [[Spreadsheet]]
+- [[Postal Address]]

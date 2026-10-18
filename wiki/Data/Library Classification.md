@@ -27,3 +27,5 @@ Digital catalogs, search, and tags freed collections from a single order; see [[
 ## See also
 - [[Ontology]]
 - [[Digital Preservation]]
+- [[Microfilm]]
+- [[ISBN]]

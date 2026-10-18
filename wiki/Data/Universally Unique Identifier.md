@@ -31,9 +31,9 @@ UUIDs let clients create records offline and sync later, as in [[Conflict-Free R
 ## See also
 - [[Barcode]]
 - [[Birthday Problem]]
-- [[Idempotence]]
+- [[Persistent Identifier]]
 - [[Pigeonhole Principle]]
-- [[Seeded Randomness]]
+- [[ISBN]]
 - [[Transactional Outbox]]
 - [[Foreign Key]]
 - [[Entity Resolution]]

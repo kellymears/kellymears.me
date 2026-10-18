@@ -29,4 +29,5 @@ Radio tags can identify items without line of sight and read many at once, but c
 
 ## See also
 - [[Binary Number]]
-- [[Structured Data]]
+- [[ISBN]]
+- [[Punched Card]]

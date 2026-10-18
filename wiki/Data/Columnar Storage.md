@@ -28,7 +28,7 @@ Data usually reaches a warehouse from transactional databases through [[Change D
 
 ## See also
 - [[Pivot Table]]
-- [[Denormalization]]
+- [[Big Data]]
 - [[Object Storage]]
 - [[ETL Pipeline]]
 - [[DataFrame]]

@@ -34,6 +34,6 @@ Language-model readers fail differently from classic OCR. A classic engine produ
 OCR'd text is often stored invisibly beneath the scanned image in a PDF, so a document looks like the original but is searchable, and screen readers can reach it; see [[Screen Reader]] and [[Accessibility]].
 
 ## See also
-- [[Object Detection]]
-- [[Structured Output]]
-- [[Hidden Markov Model]]
+- [[Microfilm]]
+- [[Punched Card]]
+- [[Data Journalism]]

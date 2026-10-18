@@ -33,5 +33,5 @@ Some teams leave constraints out, arguing the application owns the rules or that
 ## See also
 - [[Database Normalization]]
 - [[Data Contract]]
-- [[ACID]]
+- [[ISBN]]
 - [[Upsert]]
