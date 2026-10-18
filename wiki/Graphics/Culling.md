@@ -30,3 +30,5 @@ Modern engines move culling onto the GPU itself, where compute shaders or mesh s
 - [[Fog of War]]
 - [[Bloom Filter]]
 - [[Rasterization]]
+- [[Draw Call]]
+- [[Baked Lighting]]

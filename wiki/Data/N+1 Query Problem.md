@@ -30,3 +30,4 @@ The pattern isn't unique to databases. [[Layout Thrashing]] in the browser is th
 - [[Latency and Jitter]]
 - [[Lazy Loading]]
 - [[Connection Pool]]
+- [[Draw Call]]

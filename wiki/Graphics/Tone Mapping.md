@@ -29,3 +29,4 @@ Tone mapping is a perceptual problem, not a mathematical one, so its references 
 - [[Temporal Upscaling]]
 - [[Color Gamut]]
 - [[Gamma Correction]]
+- [[Dithering]]

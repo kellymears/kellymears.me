@@ -32,3 +32,4 @@ The remedies all amount to either sampling more or filtering detail out before s
 - [[LED Flicker]]
 - [[Level of Detail]]
 - [[Screen Tearing]]
+- [[Dithering]]

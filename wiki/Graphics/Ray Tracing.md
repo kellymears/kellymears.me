@@ -29,3 +29,5 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 - [[Determinism]]
 - [[Refraction]]
 - [[Inverse-Square Law]]
+- [[Subsurface Scattering]]
+- [[Baked Lighting]]

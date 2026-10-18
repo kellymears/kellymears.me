@@ -32,3 +32,4 @@ The underlying idea is separating what is visible from how it looks, decoupling 
 - [[Ambient Occlusion]]
 - [[Lazy Evaluation]]
 - [[Shader]]
+- [[Subsurface Scattering]]

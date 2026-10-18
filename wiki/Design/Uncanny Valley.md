@@ -20,3 +20,5 @@ The practical response designers converged on regardless is to route around the 
 - [[Opponent Process Theory]]
 - [[Game AI]]
 - [[Environmental Storytelling]]
+- [[Skeletal Animation]]
+- [[Subsurface Scattering]]

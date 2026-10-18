@@ -32,3 +32,4 @@ Floating point also undermines reproducibility. Different compilers, instruction
 - [[Determinism]]
 - [[Quantization]]
 - [[Assertion]]
+- [[Quaternion]]

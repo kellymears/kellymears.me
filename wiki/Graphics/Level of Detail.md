@@ -21,3 +21,4 @@ The same idea generalizes past meshes: **impostors** replace a whole complex obj
 - [[Performance Budget]]
 - [[Mipmapping]]
 - [[Culling]]
+- [[Draw Call]]

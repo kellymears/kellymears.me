@@ -26,3 +26,4 @@ Duration still matters and the useful range is narrow. Under roughly 100 millise
 - [[Accessibility]]
 - [[Progressive Enhancement]]
 - [[Game Feel]]
+- [[Bézier Curve]]

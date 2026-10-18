@@ -25,3 +25,4 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 - [[Right to Repair]]
 - [[API Translation Layer]]
 - [[Differential Testing]]
+- [[Vector Graphics]]

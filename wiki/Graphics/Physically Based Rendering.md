@@ -25,3 +25,5 @@ The discipline this imposes is as important as the math: an albedo texture must 
 - [[Ambient Occlusion]]
 - [[Inverse-Square Law]]
 - [[Refraction]]
+- [[Subsurface Scattering]]
+- [[Baked Lighting]]

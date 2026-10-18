@@ -29,3 +29,4 @@ Test environments frequently emulate the preference by default, which means ever
 - [[Focus Management]]
 - [[contenteditable]]
 - [[Stacking Context]]
+- [[Motion Blur]]

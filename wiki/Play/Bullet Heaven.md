@@ -18,3 +18,4 @@ That the genre keeps real build expression despite near-zero input complexity â€
 - [[Time as Resource]]
 - [[Meta-Progression]]
 - [[Variable-Ratio Reinforcement]]
+- [[Particle System]]

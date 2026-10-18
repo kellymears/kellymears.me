@@ -21,3 +21,4 @@ Knowing a matchup's numbers changes how it is played: a habitually minus move ge
 - [[Parry and Riposte]]
 - [[Metagame]]
 - [[Rollback Netcode]]
+- [[Skeletal Animation]]

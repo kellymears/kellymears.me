@@ -18,3 +18,4 @@ This is where [[Frame Data]] and collision meet directly: a hitbox is only "live
 - [[Parry and Riposte]]
 - [[Game Feel]]
 - [[Bounding Volume Hierarchy]]
+- [[Skeletal Animation]]

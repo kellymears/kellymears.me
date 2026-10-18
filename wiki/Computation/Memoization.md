@@ -19,3 +19,4 @@ The failure modes are a cache with no eviction policy — a memoized function ca
 - [[Recursion]]
 - [[Least Recently Used Cache]]
 - [[KV Cache]]
+- [[Baked Lighting]]

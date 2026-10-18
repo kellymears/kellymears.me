@@ -28,3 +28,4 @@ Overdone AO is one of the recognizable looks of late-2000s games, with heavy gri
 - [[Physically Based Rendering]]
 - [[Normal Mapping]]
 - [[Bounding Volume Hierarchy]]
+- [[Baked Lighting]]
