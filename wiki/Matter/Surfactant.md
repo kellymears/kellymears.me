@@ -24,6 +24,6 @@ A soap bubble is a thin layer of water held between two layers of surfactant. It
 Some surfactants are a problem in themselves. Fluorinated ones used in firefighting foam and stain-resistant coatings barely break down and have spread into water supplies worldwide; see [[Externality]].
 
 ## See also
-- [[Viscosity]]
+- [[Non-Newtonian Fluid]]
 - [[Diffusion]]
 - [[Immune System]]

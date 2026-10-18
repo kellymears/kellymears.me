@@ -21,7 +21,7 @@ Color temperature also matters for the body. Cooler, bluer light at night delays
 
 ## See also
 - [[Greenhouse Effect]]
-- [[Circadian Lighting]]
+- [[Black-Body Radiation]]
 - [[Color Gamut]]
 - [[Metamerism]]
 - [[Dispersion]]

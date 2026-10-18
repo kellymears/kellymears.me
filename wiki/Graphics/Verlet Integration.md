@@ -22,7 +22,7 @@ Verlet's real advantage in games is how easily it handles constraints. Thomas Ja
 Two cautions apply. Position Verlet assumes a constant time step, since a changed step distorts the implied velocity, which is one more reason to run physics on a fixed timestep. And bit-identical replays need care with [[Floating-Point Arithmetic]] if multiplayer [[Determinism]] matters. Higher-order methods such as Runge–Kutta are more accurate per step, but they cost more and still drift in energy, so games rarely use them.
 
 ## See also
-- [[Game Loop]]
+- [[Orbit]]
 - [[Particle System]]
 - [[Skeletal Animation]]
 - [[Elasticity]]

@@ -28,7 +28,7 @@ Popular advice compresses this into "blue light is bad", which overstates the ca
 - [[Fluorescence]]
 - [[LED Flicker]]
 - [[Chronotype]]
-- [[Time Blindness]]
+- [[Black-Body Radiation]]
 - [[Sleep Pressure]]
 - [[Rayleigh Scattering]]
 - [[Myopia]]

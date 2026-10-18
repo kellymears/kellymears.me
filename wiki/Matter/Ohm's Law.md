@@ -34,4 +34,4 @@ The energy lost to resistance doesn't vanish; it becomes heat, as [[Conservation
 - [[Capacitor]]
 - [[Alternating Current]]
 - [[Electrostatic Discharge]]
-- [[Semiconductor]]
+- [[Lightning]]

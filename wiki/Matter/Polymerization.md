@@ -29,7 +29,7 @@ Polymers have a property small molecules lack: a *glass transition*. Below a cer
 Food chemistry is polymer chemistry too: [[Gluten]] forms a stretchy protein network, [[Starch Gelatinization]] swells starch polymers with water, and [[Protein Denaturation]] unfolds chains that then bond into new networks.
 
 ## See also
-- [[Viscosity]]
+- [[Non-Newtonian Fluid]]
 - [[Maillard Reaction]]
 - [[Thermal Expansion]]
 - [[Emulsion]]

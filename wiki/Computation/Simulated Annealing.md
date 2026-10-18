@@ -30,6 +30,6 @@ It belongs to a family of *metaheuristics*, general search strategies that inclu
 ## See also
 - [[Satisficing]]
 - [[Linear Programming]]
-- [[Quantum Computing]]
+- [[Steel]]
 - [[Traveling Salesman Problem]]
 - [[Multi-Armed Bandit]]

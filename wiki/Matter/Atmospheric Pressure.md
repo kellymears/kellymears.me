@@ -26,8 +26,8 @@ Pressure differences do a lot of work. Drinking through a straw lowers pressure 
 Gauges usually read pressure relative to the atmosphere, so a bicycle tire at 80 psi holds about 95 psi absolute; tire pressure trades comfort against [[Rolling Resistance]]. Divers and engineers must track which reading they mean.
 
 ## See also
-- [[Buoyancy]]
-- [[Blood Pressure]]
+- [[Lightning]]
+- [[Cavitation]]
 - [[Coriolis Effect]]
 - [[Greenhouse Effect]]
 - [[Altitude Sickness]]

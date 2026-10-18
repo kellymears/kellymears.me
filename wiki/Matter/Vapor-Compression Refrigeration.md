@@ -26,3 +26,4 @@ Two common devices are not refrigeration at all. An evaporative cooler lowers ai
 - [[Conservation of Energy]]
 - [[Dew Point]]
 - [[Ideal Gas Law]]
+- [[Heat Engine]]

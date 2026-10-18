@@ -28,4 +28,4 @@ Games rely on heavier shortcuts: textures scrolled along flow directions, small 
 
 ## See also
 - [[Rigid Body Dynamics]]
-- [[Procedural Generation]]
+- [[Cavitation]]

@@ -32,7 +32,7 @@ Compression and expansion also change temperature when they happen quickly, with
 The law connects to deeper physics. Kinetic theory explains pressure as countless molecules striking the walls, and temperature as their average kinetic energy, so heating a gas makes molecules hit harder and more often. Air density from the law sets [[Aerodynamic Drag]], which is lower on hot days and at altitude.
 
 ## See also
-- [[Boiling Point]]
+- [[Heat Engine]]
 - [[Buoyancy]]
 - [[Pascal's Principle]]
 - [[Entropy]]

@@ -32,3 +32,4 @@ Most added carbon dioxide comes from [[Combustion]] of fossil fuels. Some refrig
 ## See also
 - [[Rayleigh Scattering]]
 - [[Latent Heat]]
+- [[Black-Body Radiation]]

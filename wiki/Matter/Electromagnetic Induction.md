@@ -29,8 +29,8 @@ Guitar pickups, metal detectors, and contactless cards rely on induction too. Th
 ## See also
 - [[Near-Field Communication]]
 - [[Magnetism]]
-- [[Resonance]]
-- [[Heat Transfer]]
+- [[Lightning]]
+- [[Tide]]
 - [[Microwave Heating]]
 - [[Electrostatic Discharge]]
 - [[Alternating Current]]

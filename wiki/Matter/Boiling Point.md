@@ -26,7 +26,7 @@ Refrigeration relies on boiling at the other extreme. A [[Vapor-Compression Refr
 
 ## See also
 - [[Altitude Sickness]]
-- [[Atmospheric Pressure]]
+- [[Cavitation]]
 - [[Freezing Point Depression]]
 - [[Specific Heat Capacity]]
 - [[Phase Transition]]

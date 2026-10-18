@@ -31,6 +31,6 @@ Engines and motors are rated the same way: power is torque times rotational spee
 ## See also
 - [[Alternating Current]]
 - [[Electric Motor]]
-- [[Aerodynamic Drag]]
+- [[Heat Engine]]
 - [[Gear Ratio]]
 - [[Critical Power]]

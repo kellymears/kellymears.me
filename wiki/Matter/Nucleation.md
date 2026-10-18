@@ -30,7 +30,7 @@ Controlling nucleation is central to cooking and manufacturing. Candy makers dec
 The same pattern appears beyond physics. Many processes need a seed past some threshold before they become self-sustaining, from crystals to [[Fermentation]] started with a bit of an older batch.
 
 ## See also
-- [[Phase Transition]]
+- [[Glass]]
 - [[Surface Tension]]
 - [[Dew Point]]
 - [[Emulsion]]

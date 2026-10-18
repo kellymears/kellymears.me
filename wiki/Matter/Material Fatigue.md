@@ -28,8 +28,8 @@ Defenses follow from the mechanism. Designers avoid sharp corners, polish surfac
 Fatigue has close relatives elsewhere. Chips wear out from [[Electromigration]], a slow accumulation of damage from current. Bone develops stress fractures from repeated impact faster than [[Bone Remodeling]] repairs it, and [[Repetitive Strain Injury]] follows a similar pattern of accumulated load in tendons.
 
 ## See also
-- [[Elasticity]]
+- [[Steel]]
 - [[Bicycle Stability]]
 - [[Stress Fracture]]
-- [[Tendon and Ligament]]
+- [[Cavitation]]
 - [[Solid-State Drive]]

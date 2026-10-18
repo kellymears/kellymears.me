@@ -23,7 +23,7 @@ Drag also sets [[Terminal Velocity]]: a falling object stops accelerating once d
 - [[Reynolds Number]]
 - [[Ideal Gas Law]]
 - [[Bike Fit]]
-- [[Atmospheric Pressure]]
+- [[Orbit]]
 - [[Magnus Effect]]
 - [[Functional Threshold Power]]
 - [[Center of Mass]]

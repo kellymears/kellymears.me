@@ -27,8 +27,8 @@ Rendering engines once used linear or artistic falloff curves for lights, which 
 
 ## See also
 - [[Sound]]
-- [[Electromagnetic Spectrum]]
-- [[Rayleigh Scattering]]
+- [[Orbit]]
+- [[Gravity]]
 - [[Color Temperature]]
 - [[Hearing Loss]]
 - [[Wi-Fi]]

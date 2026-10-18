@@ -28,10 +28,10 @@ Real materials are rarely perfectly elastic. Some energy is lost as heat in each
 The body exploits elasticity constantly. The Achilles tendon stretches on landing and recoils on push-off, returning much of the energy in each running stride, as described in [[Tendon and Ligament]]. Bone adjusts its stiffness to the loads it carries, a process covered in [[Bone Remodeling]]. Temperature also matters: most materials soften as they warm, and [[Thermal Expansion]] creates stress when a structure is not free to grow.
 
 ## See also
-- [[Newton's Laws of Motion]]
+- [[Non-Newtonian Fluid]]
 - [[Torque]]
 - [[Bicycle Stability]]
-- [[Viscosity]]
+- [[Steel]]
 - [[Piezoelectric Effect]]
 - [[Timbre]]
 - [[Presbyopia]]

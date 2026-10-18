@@ -28,7 +28,7 @@ The human body has resonances too. Vertical motion at around 0.2 cycles per seco
 - [[Piezoelectric Effect]]
 - [[Material Fatigue]]
 - [[Laser]]
-- [[Sound]]
+- [[Tide]]
 - [[Timbre]]
 - [[Hearing Loss]]
 - [[Haptic Feedback]]

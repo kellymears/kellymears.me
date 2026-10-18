@@ -38,6 +38,6 @@ Einstein's E = mc² extended the law to include mass as a form of energy, which 
 ## See also
 - [[Simple Harmonic Motion]]
 - [[Work and Power]]
-- [[Elasticity]]
+- [[Orbit]]
 - [[Combustion]]
 - [[Basal Metabolic Rate]]

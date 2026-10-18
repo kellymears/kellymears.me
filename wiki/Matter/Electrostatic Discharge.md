@@ -21,7 +21,7 @@ Sparks are also an ignition source. ESD can ignite gasoline vapor at a fuel pump
 Static electricity is also put to work. Laser printers and photocopiers use charged drums to attract toner to exactly where the image should be. Electrostatic precipitators pull soot from smokestack exhaust, and electrostatic spray painting wraps paint around a grounded object with little waste. Lightning is the same phenomenon at the scale of a storm cloud, where colliding ice particles separate charge until the air breaks down over kilometers.
 
 ## See also
-- [[Friction]]
+- [[Lightning]]
 - [[Electromagnetic Induction]]
 - [[Lithium-Ion Battery]]
 - [[Piezoelectric Effect]]

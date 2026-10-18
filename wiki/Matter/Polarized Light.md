@@ -22,7 +22,7 @@ Crossed polarizers also reveal **stress birefringence**: strained plastics and t
 - [[Laser]]
 - [[Color Temperature]]
 - [[Rayleigh Scattering]]
-- [[Refraction]]
+- [[Glass]]
 - [[Electromagnetic Induction]]
 - [[Wave Interference]]
 - [[Fresnel Effect]]

@@ -23,7 +23,7 @@ Electronics fight the same battle. A chip conducts heat into a metal heat spread
 
 ## See also
 - [[Dew Point]]
-- [[Electromagnetic Spectrum]]
+- [[Black-Body Radiation]]
 - [[Cold Exposure]]
 - [[Reynolds Number]]
 - [[Greenhouse Effect]]
