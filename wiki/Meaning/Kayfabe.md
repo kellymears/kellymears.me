@@ -24,3 +24,4 @@ The term migrated outward to describe any arrangement where insiders know a cont
 - [[Retcon]]
 - [[Fourth Wall]]
 - [[Alternate Reality Game]]
+- [[Invented Tradition]]

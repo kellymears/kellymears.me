@@ -38,3 +38,4 @@ Semantic change also connects to how categories work, with central meanings shif
 - [[Implicature]]
 - [[Ship of Theseus]]
 - [[Emoji]]
+- [[Death of the Author]]

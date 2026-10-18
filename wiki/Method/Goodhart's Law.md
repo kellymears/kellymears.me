@@ -19,7 +19,7 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 - [[McNamara Fallacy]]
 - [[Gamification]]
 - [[Operationalization]]
-- [[Reward Hacking]]
+- [[Panopticon]]
 - [[Map and Territory]]
 - [[AI Alignment]]
 - [[Story Points]]

@@ -22,3 +22,4 @@ Mismanaging the line, rather than deliberately crossing it, is one recurring sou
 - [[Speech Act]]
 - [[Retcon]]
 - [[Fourth Wall]]
+- [[Deus ex Machina]]

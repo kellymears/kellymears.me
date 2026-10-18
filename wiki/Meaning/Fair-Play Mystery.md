@@ -20,3 +20,4 @@ Interactive form changes the convention's enforcement from etiquette to mechanis
 - [[Ground Truth]]
 - [[Guardrail]]
 - [[Unreliable Narrator]]
+- [[Deus ex Machina]]

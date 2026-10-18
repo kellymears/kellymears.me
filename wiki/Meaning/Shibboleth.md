@@ -16,6 +16,6 @@ Most shibboleths today are soft rather than lethal, and still do real sorting wo
 - [[Euphemism Treadmill]]
 - [[Creole Language]]
 - [[Speech Act]]
-- [[Taxonomy]]
-- [[Masking]]
+- [[Imagined Community]]
+- [[Rite of Passage]]
 - [[Code-Switching]]

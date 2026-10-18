@@ -31,6 +31,6 @@ The idea reaches well beyond economics. Software users can't inspect what's in t
 ## See also
 - [[Speculative Bubble]]
 - [[Shibboleth]]
-- [[Social Deduction Game]]
+- [[Rite of Passage]]
 - [[Perfect Information]]
 - [[Status Page]]

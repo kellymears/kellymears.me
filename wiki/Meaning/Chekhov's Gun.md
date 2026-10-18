@@ -23,3 +23,5 @@ A red herring exploits the same convention in reverse, planting false emphasis t
 - [[Telegraphing]]
 - [[Unreliable Narrator]]
 - [[Retcon]]
+- [[Deus ex Machina]]
+- [[Hero's Journey]]

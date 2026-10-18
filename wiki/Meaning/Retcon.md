@@ -30,3 +30,5 @@ Software has a parallel. Rewriting a project's commit history makes the record t
 - [[Diegesis]]
 - [[MacGuffin]]
 - [[Fourth Wall]]
+- [[Invented Tradition]]
+- [[Deus ex Machina]]

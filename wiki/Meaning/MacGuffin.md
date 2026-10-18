@@ -23,3 +23,5 @@ Both rely on the same trick as [[Chekhov's Gun]]: an object earns narrative weig
 - [[Unreliable Narrator]]
 - [[Retcon]]
 - [[Fourth Wall]]
+- [[Deus ex Machina]]
+- [[Hero's Journey]]

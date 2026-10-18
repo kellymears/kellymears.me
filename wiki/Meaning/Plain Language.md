@@ -23,7 +23,7 @@ Two writing habits are worth naming as failure modes because they are so easy to
 - [[Microcopy]]
 - [[Typographic Scale]]
 - [[Docs as Code]]
-- [[Cognitive Load]]
+- [[Politeness Theory]]
 - [[Curse of Knowledge]]
 - [[Behavior-Driven Development]]
 

@@ -36,3 +36,4 @@ The circle also connects to how stories absorb us, and to why a mismatch between
 - [[Third Place]]
 - [[Griefing]]
 - [[Escape Room]]
+- [[Rite of Passage]]

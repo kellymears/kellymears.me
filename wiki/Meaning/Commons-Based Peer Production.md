@@ -22,4 +22,4 @@ Governance strains as a project grows. Early contributors often accumulate outsi
 - [[Open Core]]
 - [[Alternate Reality Game]]
 - [[The Cathedral and the Bazaar]]
-- [[Open Source Sustainability]]
+- [[Iron Law of Oligarchy]]

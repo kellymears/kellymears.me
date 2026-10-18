@@ -28,3 +28,5 @@ Computer science borrowed the theory for agents that communicate. Agent communic
 - [[Linguistic Relativity]]
 - [[Diegesis]]
 - [[Prototype Theory]]
+- [[Death of the Author]]
+- [[Politeness Theory]]

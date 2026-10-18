@@ -21,7 +21,7 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 - [[Semantic Change]]
 
 ## Related
-- [[Information Architecture]]
+- [[Politeness Theory]]
 - [[Creole Language]]
 - [[Code Comment]]
 - [[Machine Translation]]

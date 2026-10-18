@@ -31,8 +31,8 @@ Implicature explains several familiar problems:
 Language models are a recent test case. They handle many conventional implicatures well, because the patterns are common in text, but can miss implications that depend on the specific situation, and their tendency to agree can interact with users' hints; see [[Large Language Model]] and [[Sycophancy]]. Users also learn that being explicit gets better results than implying; see [[Prompt Engineering]].
 
 ## See also
-- [[Prototype Theory]]
-- [[Semantic Change]]
+- [[Death of the Author]]
+- [[Politeness Theory]]
 - [[Cunningham's Law]]
 - [[Dog Whistle]]
 - [[Emoji]]

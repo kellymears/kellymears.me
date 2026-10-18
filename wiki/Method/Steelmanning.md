@@ -29,7 +29,7 @@ In technical work, the same habit improves [[Code Review]] and design discussion
 ## See also
 - [[Law of Triviality]]
 - [[Groupthink]]
-- [[Pre-mortem]]
+- [[Godwin's Law]]
 - [[Cunningham's Law]]
 - [[Framing Effect]]
 - [[Brandolini's Law]]

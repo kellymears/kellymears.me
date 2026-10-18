@@ -17,7 +17,7 @@ The sharpest correction is definitional: Hardin was describing **open access** â
 - [[Antibiotic Resistance]]
 - [[Greenhouse Effect]]
 - [[Trolley Problem]]
-- [[Open Source Sustainability]]
+- [[Iron Law of Oligarchy]]
 - [[Public Domain]]
 
 ## Related

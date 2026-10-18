@@ -22,6 +22,6 @@ This is why arguments about whether a hot dog is a sandwich never resolve. Each 
 - [[Ship of Theseus]]
 - [[Representativeness Heuristic]]
 - [[Neurodiversity]]
-- [[Mental Model]]
+- [[Hero's Journey]]
 - [[Ontology]]
 - [[Semantic Change]]

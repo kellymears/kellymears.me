@@ -22,3 +22,5 @@ It's also distinct from [[Procedural Narrative]]: every branch here was written 
 - [[Tabletop Role-Playing Game]]
 - [[Procedural Rhetoric]]
 - [[Interesting Decisions]]
+- [[Deus ex Machina]]
+- [[Hero's Journey]]

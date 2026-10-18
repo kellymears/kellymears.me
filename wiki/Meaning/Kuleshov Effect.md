@@ -21,3 +21,4 @@ What the effect demonstrates regardless is that editing is authorship, not assem
 - [[Naming]]
 - [[Unreliable Narrator]]
 - [[Fourth Wall]]
+- [[Death of the Author]]

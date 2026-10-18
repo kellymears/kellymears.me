@@ -31,4 +31,4 @@ Language models have revived old questions. A model can understand any phrasing 
 - [[Game Preservation]]
 - [[Point-and-Click Adventure]]
 - [[Unreliable Narrator]]
-- [[Fourth Wall]]
+- [[Deus ex Machina]]

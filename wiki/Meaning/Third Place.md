@@ -32,3 +32,4 @@ Libraries are often cited as the last free third places, open to everyone withou
 - [[Gift Economy]]
 - [[Small-World Network]]
 - [[Multi-User Dungeon]]
+- [[Rite of Passage]]

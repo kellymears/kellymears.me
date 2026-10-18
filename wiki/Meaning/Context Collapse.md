@@ -29,7 +29,7 @@ For autistic and other neurodivergent people, who may already work hard at readi
 ## See also
 - [[Filter Bubble]]
 - [[Kayfabe]]
-- [[Theory of Mind]]
+- [[Politeness Theory]]
 - [[Shibboleth]]
 - [[Strength of Weak Ties]]
 - [[Third Place]]

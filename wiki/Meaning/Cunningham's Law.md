@@ -21,3 +21,4 @@ The uncomfortable edge is that the law describes a manipulation tactic as much a
 - [[Steelmanning]]
 - [[Brandolini's Law]]
 - [[Implicature]]
+- [[Godwin's Law]]

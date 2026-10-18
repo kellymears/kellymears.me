@@ -27,3 +27,5 @@ Whether the internet has built or eroded social capital remains debated. Online 
 - [[Network Effect]]
 - [[Legibility]]
 - [[Filter Bubble]]
+- [[Imagined Community]]
+- [[Rite of Passage]]

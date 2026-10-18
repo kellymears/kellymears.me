@@ -22,3 +22,5 @@ As software it is a pleasant modeling problem — a small fixed corpus, several 
 ## Related
 - [[Trick-Taking Game]]
 - [[Terror Management Theory]]
+- [[Invented Tradition]]
+- [[Hero's Journey]]

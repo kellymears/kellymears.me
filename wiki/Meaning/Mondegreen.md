@@ -17,5 +17,5 @@ The cross-language cousin is *soramimi*, a Japanese term for hearing foreign-lan
 - [[Malaphor]]
 - [[Snowclone]]
 - [[Folk Etymology]]
-- [[Automatic Speech Recognition]]
+- [[Death of the Author]]
 - [[Predictive Processing]]

@@ -28,6 +28,6 @@ Who holds commit access and review authority is the practical day-to-day form of
 
 ## See also
 - [[Conway's Law]]
-- [[Dunbar's Number]]
+- [[Iron Law of Oligarchy]]
 - [[Inner Source]]
 - [[Code of Conduct]]

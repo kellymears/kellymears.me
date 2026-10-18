@@ -20,4 +20,4 @@ The caveat is honest but narrower than usually stated. There are no controlled e
 - [[Value Stream Mapping]]
 - [[Code Owners]]
 - [[Platform Engineering]]
-- [[Microservices]]
+- [[Iron Law of Oligarchy]]

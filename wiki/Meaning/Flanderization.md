@@ -20,3 +20,4 @@ The result is best read as [[Prototype Theory]] applied to a fictional person in
 - [[Technical Debt]]
 - [[Taxonomy]]
 - [[Retcon]]
+- [[Hero's Journey]]

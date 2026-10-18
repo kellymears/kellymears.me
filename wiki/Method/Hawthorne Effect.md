@@ -29,3 +29,4 @@ The practical lesson is to assume observation has some effect and to design arou
 - [[Cobra Effect]]
 - [[Self-Fulfilling Prophecy]]
 - [[Natural Experiment]]
+- [[Panopticon]]

@@ -16,7 +16,7 @@ The word is also overused. "Capture" can function as a [[Plausible Mechanism]] t
 - [[Safety Case]]
 - [[Public Domain]]
 - [[Externality]]
-- [[Falsifiability]]
+- [[Iron Law of Oligarchy]]
 - [[Net Neutrality]]
 - [[Hanlon's Razor]]
 - [[Right to Repair]]

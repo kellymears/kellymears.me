@@ -13,7 +13,7 @@ The law grew more relevant as online audiences lost shared context — the same 
 
 ## See also
 - [[Brandolini's Law]]
-- [[Astroturfing]]
+- [[Godwin's Law]]
 - [[Motte and Bailey]]
 - [[Context Collapse]]
 - [[Moral Panic]]

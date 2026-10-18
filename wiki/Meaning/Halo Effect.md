@@ -20,3 +20,4 @@ The effect is worth distinguishing from ordinary correlation, where traits reall
 - [[Aesthetic-Usability Effect]]
 - [[Matthew Effect]]
 - [[Veblen Good]]
+- [[Death of the Author]]

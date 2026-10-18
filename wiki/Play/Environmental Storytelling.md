@@ -16,7 +16,7 @@ Two limits. Legibility depends on placement and sightlines, so the discipline ov
 
 ## See also
 - [[Alternate Reality Game]]
-- [[Game AI]]
+- [[Hero's Journey]]
 - [[Voxel]]
 - [[Escape Room]]
 - [[Curiosity]]

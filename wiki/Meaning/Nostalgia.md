@@ -21,3 +21,5 @@ Nostalgia is worth distinguishing from simple sentimentality about old things an
 - [[Cozy Game]]
 - [[Mere-Exposure Effect]]
 - [[Awe]]
+- [[Invented Tradition]]
+- [[Rite of Passage]]

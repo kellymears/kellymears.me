@@ -19,7 +19,7 @@ The principle has a mirror, and both are needed. A fence whose reason has expire
 - [[Commit Message]]
 - [[Architecture Decision Record]]
 - [[Unreachable Code]]
-- [[Characterization Test]]
+- [[Invented Tradition]]
 
 ## Related
 - [[Burden of Proof]]

@@ -16,8 +16,8 @@ This is the social-scale sibling of [[Goodhart's Law]]: the same simplification 
 
 ## See also
 - [[Social Capital]]
-- [[Taxonomy]]
-- [[Naming]]
+- [[Imagined Community]]
+- [[Panopticon]]
 - [[Chesterton's Fence]]
 - [[Ground Truth]]
 - [[Dunbar's Number]]

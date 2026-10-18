@@ -17,7 +17,7 @@ The mechanism rhymes with [[Anchoring Effect]]: a proposal's plausibility is jud
 ## See also
 - [[Legibility]]
 - [[Regulatory Capture]]
-- [[Collective Action]]
+- [[Godwin's Law]]
 - [[Jaywalking]]
 - [[Framing Effect]]
 - [[Pluralistic Ignorance]]

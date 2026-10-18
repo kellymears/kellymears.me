@@ -27,7 +27,7 @@ The treadmill links to other features of how words drift. [[Semantic Satiation]]
 
 ## See also
 - [[Overton Window]]
-- [[Prototype Theory]]
+- [[Politeness Theory]]
 - [[Code-Switching]]
 - [[Moral Panic]]
 - [[Semantic Change]]

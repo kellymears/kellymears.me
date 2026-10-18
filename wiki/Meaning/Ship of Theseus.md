@@ -30,3 +30,4 @@ Museums face the question directly. A restored locomotive or aircraft may contai
 - [[Trolley Problem]]
 - [[Semantic Change]]
 - [[Retcon]]
+- [[Invented Tradition]]

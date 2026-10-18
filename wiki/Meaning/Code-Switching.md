@@ -22,10 +22,11 @@ Code-switching depends on knowing your audience. When audiences merge, as on soc
 The phenomenon also matters for technology. Speech recognition and language models often perform worse on dialects and mixed-language speech, which can push users toward a standard variety to be understood. [[Plain Language]] guidance and inclusive [[Microcopy]] try to avoid making any one register a requirement.
 
 ## See also
-- [[Linguistic Relativity]]
+- [[Politeness Theory]]
 - [[Euphemism Treadmill]]
 - [[Grammatical Gender]]
 - [[Theory of Mind]]
 - [[Creole Language]]
 - [[Speech Act]]
 - [[Dog Whistle]]
+- [[Rite of Passage]]

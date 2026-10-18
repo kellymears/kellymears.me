@@ -23,3 +23,4 @@ A "hard core" resists the spiral regardless of perceived isolation — people wi
 - [[Eternal September]]
 - [[Psychological Safety]]
 - [[Information Cascade]]
+- [[Panopticon]]

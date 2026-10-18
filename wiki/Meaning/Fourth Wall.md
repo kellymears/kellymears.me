@@ -29,3 +29,5 @@ Performers who talk straight to the camera get some of the same effect without a
 - [[Chekhov's Gun]]
 - [[MacGuffin]]
 - [[Alternate Reality Game]]
+- [[Deus ex Machina]]
+- [[Death of the Author]]

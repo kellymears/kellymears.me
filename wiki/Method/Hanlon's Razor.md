@@ -18,3 +18,4 @@ The razor has a clear edge, though, and treating it as absolute is its own error
 - [[Provenance]]
 - [[Steelmanning]]
 - [[Abductive Reasoning]]
+- [[Godwin's Law]]

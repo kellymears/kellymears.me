@@ -12,7 +12,7 @@ Janis catalogued the symptoms in detail: an illusion of invulnerability that enc
 The standard countermeasure Janis proposed — and the reason the concept gets cited constantly in corporate and military decision design — is structural, not moral: assign a formal devil's advocate, invite outside experts, break into independent subgroups before reconvening, and have the leader withhold their own opinion until subordinates have spoken, so early agreement can't [[Anchoring Effect|anchor]] the room. Groupthink is often confused with simple conformity or [[Social Proof]], but it specifically requires cohesion and stress on a decision-making body, not just a crowd tending to imitate itself; the diagnostic tell is a room full of people who each had a private doubt no one said aloud.
 
 ## See also
-- [[Social Proof]]
+- [[Rite of Passage]]
 - [[Bystander Effect]]
 - [[Spiral of Silence]]
 - [[Fundamental Attribution Error]]
