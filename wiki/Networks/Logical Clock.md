@@ -36,6 +36,6 @@ Version control already lives by these ideas. A commit graph is a happens-before
 - [[Time Zone]]
 - [[Gossip Protocol]]
 - [[Consensus Algorithm]]
-- [[Formal Verification]]
+- [[Atomic Clock]]
 - [[Network Partition]]
 - [[Network Time Protocol]]

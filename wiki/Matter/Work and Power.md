@@ -29,8 +29,8 @@ A pleasing coincidence links a ride's energy to food. The human body converts fo
 Engines and motors are rated the same way: power is torque times rotational speed, which is why a [[Gear Ratio]] can trade one for the other without changing the power delivered, apart from friction losses. Work and power are bookkeeping for energy, which, by [[Conservation of Energy]], is never created or destroyed, only moved and converted.
 
 ## See also
-- [[Alternating Current]]
+- [[Nuclear Fission]]
 - [[Electric Motor]]
 - [[Heat Engine]]
-- [[Gear Ratio]]
+- [[Lever]]
 - [[Critical Power]]

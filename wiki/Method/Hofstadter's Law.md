@@ -15,7 +15,7 @@ The law pairs naturally with [[Parkinson's Law]]: one says the work will take lo
 
 ## See also
 - [[Shape Up]]
-- [[Base Rate Fallacy]]
+- [[Nuclear Fusion]]
 - [[Second-System Effect]]
 - [[Availability Heuristic]]
 - [[Time Blindness]]

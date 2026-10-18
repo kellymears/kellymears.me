@@ -21,6 +21,6 @@ The kitchen is full of them. Starch granules swell when hot water breaks the bon
 Nylon and Kevlar owe much of their strength to hydrogen bonds between neighboring chains; see [[Polymerization]]. Dissolving is often a matter of hydrogen bonding as well: sugar and alcohol mix into water because they can join its network, while oils can't, which is why they separate; see [[Emulsion]].
 
 ## See also
-- [[Viscosity]]
+- [[Solubility]]
 - [[Freezing Point Depression]]
 - [[Surfactant]]

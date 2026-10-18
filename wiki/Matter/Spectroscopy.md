@@ -29,6 +29,8 @@ Molecules have spectra too. Their bonds vibrate at characteristic frequencies, m
 Hot, dense objects such as the Sun's surface or a stove element give a continuous spectrum, with no lines; see [[Black-Body Radiation]]. Instruments today usually spread light with a finely ruled grating rather than a prism; see [[Diffraction]].
 
 ## See also
-- [[Fluorescence]]
+- [[Photon]]
 - [[Laser]]
 - [[Rainbow]]
+- [[Quantum Tunneling]]
+- [[Nuclear Fusion]]

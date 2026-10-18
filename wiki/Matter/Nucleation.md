@@ -32,8 +32,8 @@ The same pattern appears beyond physics. Many processes need a seed past some th
 ## See also
 - [[Glass]]
 - [[Work Hardening]]
-- [[Frostbite]]
-- [[Henry's Law]]
+- [[Hysteresis]]
+- [[Solubility]]
 - [[Chocolate Tempering]]
 - [[Microwave Heating]]
 - [[Chemical Leavening]]

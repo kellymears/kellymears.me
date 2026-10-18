@@ -24,7 +24,7 @@ Phones compensate with computation, capturing a burst of frames and aligning and
 
 ## See also
 - [[Chroma Key]]
-- [[JPEG]]
+- [[Photon]]
 - [[Lens]]
 - [[Object Detection]]
 - [[Lens Flare]]

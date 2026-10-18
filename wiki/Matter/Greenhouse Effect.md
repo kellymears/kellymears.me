@@ -31,5 +31,5 @@ Most added carbon dioxide comes from [[Combustion]] of fossil fuels. Some refrig
 
 ## See also
 - [[Seasons]]
-- [[Henry's Law]]
-- [[Black-Body Radiation]]
+- [[Nuclear Fusion]]
+- [[Nuclear Fission]]

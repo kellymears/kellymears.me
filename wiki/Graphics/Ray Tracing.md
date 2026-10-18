@@ -17,7 +17,7 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 ## See also
 - [[Ray Casting]]
 - [[Screen Space Reflections]]
-- [[Signed Distance Field]]
+- [[Photon]]
 - [[Ray Marching]]
 - [[Shadow Volume]]
 - [[Caustics]]

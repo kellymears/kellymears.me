@@ -20,7 +20,7 @@ Circuit breakers are usually scoped per dependency, not globally — a failing p
 - [[Dead Letter Queue]]
 - [[Normal Accidents]]
 - [[Load Testing]]
-- [[Exponential Backoff]]
+- [[Hysteresis]]
 - [[Remote Procedure Call]]
 - [[Fallacies of Distributed Computing]]
 - [[Service Level Objective]]

@@ -31,6 +31,6 @@ Cheap dimmers and LED drivers that pass AC ripple through cause visible [[LED Fl
 ## See also
 - [[Resonance]]
 - [[Magnetism]]
-- [[Conservation of Energy]]
+- [[Nuclear Fission]]
 - [[Electrolysis]]
 - [[Northeast Blackout of 2003]]

@@ -39,7 +39,7 @@ Acids and bases react with metals and other substances in ways closely tied to [
 ## See also
 - [[Henry's Law]]
 - [[Logarithmic Scale]]
-- [[Osmosis]]
+- [[Solubility]]
 - [[Electrolysis]]
 - [[Chemical Leavening]]
 - [[Catalysis]]

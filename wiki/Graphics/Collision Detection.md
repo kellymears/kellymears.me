@@ -32,6 +32,6 @@ The same algorithms serve beyond games. Robotics uses collision checking for mot
 
 ## See also
 - [[Convex Hull]]
-- [[Game Engine]]
+- [[Quantum Tunneling]]
 - [[Entity Component System]]
 - [[Magnus Effect]]

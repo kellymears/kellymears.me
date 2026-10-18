@@ -27,7 +27,7 @@ The human body has resonances too. Vertical motion at around 0.2 cycles per seco
 ## See also
 - [[Piezoelectric Effect]]
 - [[Reverberation]]
-- [[Antenna]]
+- [[Atomic Clock]]
 - [[Tide]]
 - [[Timbre]]
 - [[Hearing Loss]]

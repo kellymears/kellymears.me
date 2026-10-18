@@ -18,7 +18,7 @@ The same idea generalizes past meshes: **impostors** replace a whole complex obj
 - [[Rasterization]]
 - [[Physically Based Rendering]]
 - [[Morph Target]]
-- [[Performance Budget]]
+- [[Hysteresis]]
 - [[Mipmapping]]
 - [[Culling]]
 - [[Draw Call]]

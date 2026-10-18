@@ -25,6 +25,6 @@ A solution doesn't freeze all at once. As pure ice forms, the remaining liquid g
 The same arithmetic, run in reverse, lets chemists find an unknown compound's molecular weight by measuring how much a known mass of it lowers a solvent's freezing point, a technique called cryoscopy.
 
 ## See also
-- [[Specific Heat Capacity]]
+- [[Solubility]]
 - [[Frostbite]]
 - [[Brain Freeze]]

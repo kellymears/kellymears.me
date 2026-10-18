@@ -28,3 +28,4 @@ Denoising also changed how renderers are designed. Rather than tracing enough ra
 - [[Screen Space Reflections]]
 - [[Dithering]]
 - [[Image Sensor]]
+- [[Photon]]

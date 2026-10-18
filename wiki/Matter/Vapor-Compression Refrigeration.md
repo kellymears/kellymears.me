@@ -18,7 +18,7 @@ Two common devices are not refrigeration at all. An evaporative cooler lowers ai
 - [[Pascal's Principle]]
 - [[Rolling Resistance]]
 - [[Fermi Estimation]]
-- [[Root Cause Analysis]]
+- [[Absolute Zero]]
 - [[Thermoelectric Effect]]
 - [[Latent Heat]]
 - [[Boiling Point]]

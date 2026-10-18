@@ -21,7 +21,7 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 - [[Cardiac Output]]
 - [[Goosebumps]]
 - [[Brain Freeze]]
-- [[Latent Heat]]
+- [[Hysteresis]]
 - [[Black-Body Radiation]]
 - [[Frostbite]]
 - [[Mammalian Dive Reflex]]

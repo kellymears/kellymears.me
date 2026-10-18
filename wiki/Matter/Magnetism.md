@@ -28,8 +28,8 @@ An **electromagnet** is a coil of wire, usually around an iron core, that become
 Magnetic forces also shape light: certain materials rotate the plane of [[Polarized Light]] in a magnetic field. And moving magnets near conductors induce eddy currents that resist the motion, which is how magnetic brakes on trains and indoor trainers work without contact; see [[Friction]].
 
 ## See also
-- [[Superconductivity]]
-- [[Faraday Cage]]
+- [[Hysteresis]]
+- [[Nuclear Fusion]]
 - [[Aurora]]
 - [[Steel]]
 - [[Telegraph]]

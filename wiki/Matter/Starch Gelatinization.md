@@ -23,7 +23,7 @@ The process partly reverses over time, which is called **retrogradation**. As co
 Glycogen, the body's own carbohydrate store (see [[Glycogen]]), is a close relative of amylopectin: an even more branched glucose polymer, sometimes called animal starch, whose many branch ends let it be broken down quickly.
 
 ## See also
-- [[Viscosity]]
+- [[Solubility]]
 - [[Glycogen]]
 - [[Emulsion]]
 - [[Protein Denaturation]]

@@ -26,4 +26,4 @@ The 2.4 GHz band is shared with [[Wi-Fi]] and Bluetooth, so a leaky microwave ov
 - [[Specific Heat Capacity]]
 - [[Faraday Cage]]
 - [[Radio Spectrum]]
-- [[Starch Gelatinization]]
+- [[Ionizing Radiation]]

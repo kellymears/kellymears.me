@@ -30,11 +30,11 @@ Colors produced by interference rather than pigment are called structural colors
 
 ## See also
 - [[Structural Color]]
-- [[Laser]]
+- [[Photon]]
 - [[Reverberation]]
 - [[Hearing Loss]]
 - [[Spread Spectrum]]
-- [[Microwave Heating]]
+- [[Quantum Tunneling]]
 - [[Quantum Computing]]
 - [[Lens Flare]]
 - [[Rainbow]]

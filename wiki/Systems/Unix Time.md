@@ -27,4 +27,4 @@ Timestamps appear throughout systems tooling: [[Cron]] schedules, file modificat
 
 ## See also
 - [[Unix]]
-- [[ISO 8601]]
+- [[Atomic Clock]]

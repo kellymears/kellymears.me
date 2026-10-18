@@ -33,3 +33,4 @@ Gear designers often choose tooth counts with no common factor, so that every to
 - [[Friction]]
 - [[Electric Motor]]
 - [[Steel]]
+- [[Lever]]

@@ -25,7 +25,7 @@ Experiments since 2019 have shown quantum devices performing specially chosen sa
 Many results are probabilistic and must be repeated; see [[Monte Carlo Method]].
 
 ## See also
-- [[Moore's Law]]
-- [[Information Theory]]
+- [[Absolute Zero]]
+- [[Quantum Tunneling]]
 - [[Superconductivity]]
 - [[Analytical Engine]]

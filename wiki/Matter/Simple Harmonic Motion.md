@@ -26,7 +26,7 @@ Real oscillators lose energy, and the rate matters. Light damping lets a bell ri
 Interface design borrows the physics directly. "Spring" animations are damped harmonic oscillators, defined by stiffness and damping rather than duration, which is why they feel physical and settle naturally when interrupted, an alternative to fixed [[Easing]] curves in [[Motion Design]].
 
 ## See also
-- [[Wave Interference]]
+- [[Atomic Clock]]
 - [[Sound]]
 - [[Doppler Effect]]
 - [[Tide]]

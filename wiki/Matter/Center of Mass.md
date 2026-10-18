@@ -24,3 +24,4 @@ A tumbling body, no matter how it's thrown, always rotates about its own center 
 - [[Bicycle Stability]]
 - [[Rigid Body Dynamics]]
 - [[Gravity]]
+- [[Lever]]

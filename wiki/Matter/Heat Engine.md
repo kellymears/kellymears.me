@@ -30,3 +30,5 @@ Not every engine is a heat engine. An electric motor converts electrical energy 
 - [[Heat Transfer]]
 - [[Sankey Diagram]]
 - [[Thermoelectric Effect]]
+- [[Nuclear Fission]]
+- [[Absolute Zero]]
