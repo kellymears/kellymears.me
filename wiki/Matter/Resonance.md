@@ -28,6 +28,6 @@ The human body has resonances too. Vertical motion at around 0.2 cycles per seco
 - [[Elasticity]]
 - [[Material Fatigue]]
 - [[Wave Interference]]
-- [[Angular Momentum]]
+- [[Sound]]
 - [[Simple Harmonic Motion]]
 - [[Hearing Loss]]

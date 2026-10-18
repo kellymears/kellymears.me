@@ -28,8 +28,10 @@ Guitar pickups, metal detectors, and contactless cards rely on induction too. Th
 
 ## See also
 - [[Ohm's Law]]
-- [[Conservation of Energy]]
+- [[Magnetism]]
 - [[Resonance]]
 - [[Heat Transfer]]
 - [[Microwave Heating]]
 - [[Electrostatic Discharge]]
+- [[Alternating Current]]
+- [[Electric Motor]]

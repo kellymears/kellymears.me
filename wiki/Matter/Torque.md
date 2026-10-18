@@ -22,3 +22,5 @@ Torque is easy to confuse with work, since both share units that reduce to the s
 - [[Gear Ratio]]
 - [[Work and Power]]
 - [[Newton's Laws of Motion]]
+- [[Electric Motor]]
+- [[Magnetism]]

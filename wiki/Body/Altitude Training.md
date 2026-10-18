@@ -26,7 +26,7 @@ Altitude training is a textbook case of [[Hormesis]] and [[Supercompensation]]: 
 
 ## See also
 - [[Cardiac Output]]
-- [[Heat Acclimation]]
+- [[Atmospheric Pressure]]
 - [[Hormesis]]
 - [[Mitochondria]]
 - [[Ideal Gas Law]]

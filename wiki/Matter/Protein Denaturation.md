@@ -21,7 +21,7 @@ Heat is only one route. Acid denatures fish in ceviche without cooking it. Salt 
 Denaturation is mostly irreversible in cooking. You can't unboil an egg, though chemists have managed it in narrow laboratory conditions. The same fragility applies inside the body. Proteins essential to life begin to fail at temperatures only a few degrees above normal, which is why [[Thermoregulation]] defends core temperature so tightly and why heat stroke is dangerous. Denaturation also sets the stage for browning: unfolded proteins expose the amino acids that take part in the [[Maillard Reaction]].
 
 ## See also
-- [[Maillard Reaction]]
+- [[Catalysis]]
 - [[Carryover Cooking]]
 - [[Chemical Leavening]]
 - [[Thermoregulation]]

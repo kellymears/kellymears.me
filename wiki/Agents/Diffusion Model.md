@@ -33,3 +33,4 @@ The same idea spread to video, 3D assets that feed [[Gaussian Splatting]], speec
 - [[Pretraining]]
 - [[Image Resampling]]
 - [[Perlin Noise]]
+- [[Diffusion]]

@@ -26,8 +26,8 @@ The law holds strictly only for point sources in open space. A long fluorescent 
 Rendering engines once used linear or artistic falloff curves for lights, which looked subtly wrong. [[Physically Based Rendering]] adopted inverse-square falloff so lights behave realistically, though it means very bright values near a lamp that [[High Dynamic Range]] rendering and [[Tone Mapping]] must handle. [[Ray Tracing]] gets the falloff naturally from geometry. The [[Doppler Effect]] changes a moving source's pitch, but not this falloff in intensity, which depends only on distance.
 
 ## See also
-- [[Physically Based Rendering]]
-- [[Specific Absorption Rate]]
+- [[Sound]]
+- [[Electromagnetic Spectrum]]
 - [[Rayleigh Scattering]]
 - [[Color Temperature]]
 - [[Hearing Loss]]

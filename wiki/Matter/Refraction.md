@@ -27,7 +27,7 @@ Rendering engines model refraction to draw water, glass, and gems. [[Ray Tracing
 
 ## See also
 - [[Optical Fiber]]
-- [[Diffraction]]
+- [[Electromagnetic Spectrum]]
 - [[Fresnel Effect]]
 - [[Submarine Cable]]
 - [[Myopia]]

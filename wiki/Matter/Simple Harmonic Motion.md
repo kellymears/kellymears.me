@@ -27,7 +27,7 @@ Interface design borrows the physics directly. "Spring" animations are damped ha
 
 ## See also
 - [[Wave Interference]]
-- [[Angular Momentum]]
+- [[Sound]]
 - [[Doppler Effect]]
 - [[Circadian Rhythm]]
 - [[Verlet Integration]]

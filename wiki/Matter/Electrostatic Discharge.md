@@ -25,3 +25,4 @@ Static electricity is also put to work. Laser printers and photocopiers use char
 - [[Electromagnetic Induction]]
 - [[Lithium-Ion Battery]]
 - [[Semiconductor]]
+- [[Capacitor]]

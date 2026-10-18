@@ -31,3 +31,4 @@ Metamerism is also a useful general idea: when a system measures a few summary n
 - [[Hash Function]]
 - [[Rayleigh Scattering]]
 - [[Fluorescence]]
+- [[Electromagnetic Spectrum]]

@@ -27,7 +27,7 @@ Other consequences:
 Graphics programmers simulate atmospheric scattering to render skies, sunsets, and the haze over distant terrain in games and flight simulators. A sky [[Shader]] integrates Rayleigh and Mie scattering along each view ray, and [[Physically Based Rendering]] pipelines feed the result into lighting and [[Tone Mapping]]. Scattering differs from [[Dispersion]], where colors separate because they bend by different amounts, and from [[Diffraction]] around edges.
 
 ## See also
-- [[Polarized Light]]
+- [[Electromagnetic Spectrum]]
 - [[Color Temperature]]
 - [[Refraction]]
 - [[Dispersion]]

@@ -26,7 +26,7 @@ Sweating is osmosis's counterpart in [[Thermoregulation]], losing salt and water
 
 ## See also
 - [[Fermentation]]
-- [[Protein Denaturation]]
+- [[Diffusion]]
 - [[Pascal's Principle]]
 - [[Thermoregulation]]
 - [[Glycogen]]

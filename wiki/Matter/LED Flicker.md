@@ -34,3 +34,5 @@ The alternatives are known. **Constant-current reduction** dims by lowering curr
 - [[Aliasing]]
 - [[Ohm's Law]]
 - [[Semiconductor]]
+- [[Capacitor]]
+- [[Alternating Current]]

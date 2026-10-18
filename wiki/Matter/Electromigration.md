@@ -36,3 +36,4 @@ The defenses are conservative operating points: lower voltage via [[Dynamic Volt
 - [[Material Fatigue]]
 - [[Semiconductor]]
 - [[Electrostatic Discharge]]
+- [[Diffusion]]

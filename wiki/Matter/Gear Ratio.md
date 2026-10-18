@@ -31,3 +31,4 @@ Gear designers often choose tooth counts with no common factor, so that every to
 - [[Cadence]]
 - [[Work and Power]]
 - [[Friction]]
+- [[Electric Motor]]

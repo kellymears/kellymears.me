@@ -15,7 +15,7 @@ The general principle is that "natural" and "safe in humans" are properties of a
 Everything here is dose and clearance: toxicity depends on amount relative to body mass and on whether intake outpaces elimination — arithmetic worth doing as [[Fermi Estimation]] before assuming a small exposure harmless. The same kinetics govern anesthetic dose limits in [[Regional Nerve Block]], the withdrawal timing behind [[Physical Dependence]], systemic [[Retinoid]] safety, and the additive rules touched on in [[Retronasal Olfaction]].
 
 ## See also
-- [[Physical Dependence]]
+- [[Catalysis]]
 - [[Retinoid]]
 - [[Gut Microbiome]]
 - [[Retronasal Olfaction]]

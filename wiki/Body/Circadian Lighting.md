@@ -23,7 +23,7 @@ Lighting standards now measure this directly. The CIE's 2018 standard defines *m
 Popular advice compresses this into "blue light is bad", which overstates the case. Screen night modes shift color but leave brightness, which matters more, mostly unchanged, and their measured effects on sleep are small. Engagement with what is on the screen is probably a larger factor, the problem in [[Doomscrolling]]. The larger gains are bright days and dim, warm evenings. Smart lighting can automate a warm-at-night schedule, a [[Defensive Default]] for a clock that [[Segmented Sleep]] history shows was set by firelight for most of human existence.
 
 ## See also
-- [[Circadian Rhythm]]
+- [[Electromagnetic Spectrum]]
 - [[Color Temperature]]
 - [[Fluorescence]]
 - [[LED Flicker]]

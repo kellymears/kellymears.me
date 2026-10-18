@@ -42,3 +42,4 @@ Acids and bases react with metals and other substances in ways closely tied to [
 - [[Osmosis]]
 - [[Oxidation]]
 - [[Chemical Leavening]]
+- [[Catalysis]]

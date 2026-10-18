@@ -19,3 +19,4 @@ summary: a genre that judges player input against a musical beat, where calibrat
 - [[Assist Mode]]
 - [[Procedural Generation]]
 - [[Motor Learning]]
+- [[Sound]]

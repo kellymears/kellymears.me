@@ -27,8 +27,8 @@ Science relies heavily on fluorescence. Green fluorescent protein, found in a je
 Fluorescence differs from the other ways objects color light. [[Dispersion]] separates existing wavelengths by refraction, and [[Rayleigh Scattering]] redirects short wavelengths more strongly, but neither creates new ones. A fluorescent material actually converts light from one color to another, which is why a fluorescent orange safety vest can look brighter than the light shining on it, emitting extra orange made from blue and ultraviolet.
 
 ## See also
-- [[Color Temperature]]
-- [[Color Rendering Index]]
+- [[Photovoltaic Effect]]
+- [[Electromagnetic Spectrum]]
 - [[Metamerism]]
 - [[Circadian Lighting]]
 - [[Semiconductor]]

@@ -28,6 +28,7 @@ Semiconductor devices obey the same basic physics as other circuits, including [
 
 ## See also
 - [[Fluorescence]]
-- [[Color Temperature]]
+- [[Photovoltaic Effect]]
 - [[Lithium-Ion Battery]]
 - [[Solid-State Drive]]
+- [[Diffusion]]

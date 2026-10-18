@@ -17,3 +17,5 @@ The classic demonstration is single-slit diffraction: light through a narrow sli
 - [[Polarized Light]]
 - [[Refraction]]
 - [[Wave Interference]]
+- [[Electromagnetic Spectrum]]
+- [[Sound]]

@@ -24,3 +24,4 @@ Rainbow light is also strongly polarized by the internal reflection, so it dims 
 - [[Metamerism]]
 - [[Refraction]]
 - [[Optical Fiber]]
+- [[Electromagnetic Spectrum]]

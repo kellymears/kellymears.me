@@ -26,7 +26,7 @@ Refrigeration relies on boiling at the other extreme. A [[Vapor-Compression Refr
 
 ## See also
 - [[Chemical Leavening]]
-- [[Leidenfrost Effect]]
+- [[Atmospheric Pressure]]
 - [[Smoke Point]]
 - [[Specific Heat Capacity]]
 - [[Phase Transition]]
