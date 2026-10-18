@@ -28,5 +28,5 @@ Fog has a long history in games as a performance trick: early 3D titles hid shor
 
 ## See also
 - [[Caustics]]
-- [[Particle System]]
+- [[Radiosity]]
 - [[Shadow Volume]]

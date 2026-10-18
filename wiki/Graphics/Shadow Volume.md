@@ -30,3 +30,5 @@ Shadow mapping, introduced by Lance Williams in 1978, renders the scene from the
 ## See also
 - [[Volumetric Lighting]]
 - [[Rendering Equation]]
+- [[Doom Engine]]
+- [[Stencil Buffer]]

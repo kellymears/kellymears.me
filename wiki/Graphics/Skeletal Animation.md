@@ -26,8 +26,8 @@ Animation also has gameplay consequences. Attack and dodge timing in action game
 
 ## See also
 - [[Motion Capture]]
-- [[Transformation Matrix]]
+- [[Morph Target]]
 - [[Keyframe Animation]]
-- [[Twelve Basic Principles of Animation]]
+- [[Scene Graph]]
 - [[Stop Motion]]
 - [[Verlet Integration]]

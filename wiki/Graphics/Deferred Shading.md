@@ -27,7 +27,7 @@ The underlying idea is separating what is visible from how it looks, decoupling 
 ## See also
 - [[Shading Model]]
 - [[Shadow Volume]]
-- [[Culling]]
+- [[Stencil Buffer]]
 - [[Order-Independent Transparency]]
 - [[Swap Chain]]
 - [[Screen Space Reflections]]

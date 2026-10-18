@@ -27,5 +27,5 @@ Outside entertainment, motion capture analyzes athletes' technique, patients' ga
 
 ## See also
 - [[Object Detection]]
-- [[Stop Motion]]
+- [[Morph Target]]
 - [[Imitation Learning]]

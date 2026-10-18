@@ -25,3 +25,4 @@ The classic demonstration is single-slit diffraction: light through a narrow sli
 - [[Lens]]
 - [[Faraday Cage]]
 - [[Spectroscopy]]
+- [[Lens Flare]]

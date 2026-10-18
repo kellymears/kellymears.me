@@ -30,7 +30,7 @@ Some designs break the rules. In 1822 Augustin-Jean Fresnel collapsed a thick li
 Graphics usually pretends lenses don't exist, imagining a perfect pinhole camera with everything in focus; see [[Perspective Projection]]. Realism comes from adding the flaws back, with depth of field, flare, and fringes simulated in post-processing or by tracing rays through modeled lens elements; see [[Ray Tracing]].
 
 ## See also
-- [[Polarized Light]]
+- [[Lens Flare]]
 - [[Laser]]
 - [[Image Sensor]]
 - [[Microfilm]]

@@ -32,6 +32,6 @@ The same algorithms serve beyond games. Robotics uses collision checking for mot
 
 ## See also
 - [[Convex Hull]]
-- [[Verlet Integration]]
-- [[Rigid Body Dynamics]]
+- [[Game Engine]]
+- [[Entity Component System]]
 - [[Magnus Effect]]

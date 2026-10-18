@@ -29,3 +29,4 @@ Higher [[Frame Rate]]s narrow the gap between samples, so motion looks smoother 
 - [[Sprite]]
 - [[Interlacing]]
 - [[Stop Motion]]
+- [[Smear Frame]]

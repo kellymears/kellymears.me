@@ -35,7 +35,7 @@ Space-filling curves, such as the Z-order and Hilbert curves, flatten 2D positio
 The structures share a weakness with high dimensions. As dimensions grow, nearly all points become roughly equally far apart and trees stop helping, the *curse of dimensionality*. Searching an [[Embedding]] space with hundreds of dimensions therefore uses approximate methods in a [[Vector Database]] instead.
 
 ## See also
-- [[Constructive Solid Geometry]]
+- [[Doom Engine]]
 - [[Geospatial Data]]
-- [[Geocoding]]
+- [[Scene Graph]]
 - [[A-Star Search Algorithm]]

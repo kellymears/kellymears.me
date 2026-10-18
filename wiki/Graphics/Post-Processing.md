@@ -35,4 +35,4 @@ The same pipeline exists outside games. Photo editors, video color grading, and 
 
 ## See also
 - [[Color Cycling]]
-- [[Chroma Key]]
+- [[Lens Flare]]

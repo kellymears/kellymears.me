@@ -33,7 +33,7 @@ Multicore processors add a trap called **false sharing**. When two threads write
 ## See also
 - [[SIMD]]
 - [[Memory Allocator]]
-- [[Von Neumann Architecture]]
+- [[Entity Component System]]
 - [[Cache Coherence]]
 - [[Translation Lookaside Buffer]]
 - [[Memory Hierarchy]]

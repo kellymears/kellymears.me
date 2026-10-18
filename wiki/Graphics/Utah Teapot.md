@@ -25,3 +25,4 @@ Shared test data is what made graphics research comparable: anyone could render 
 ## See also
 - [[Ray Tracing]]
 - [[Graphics Pipeline]]
+- [[Radiosity]]

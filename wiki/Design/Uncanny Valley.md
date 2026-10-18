@@ -19,7 +19,7 @@ The practical response designers converged on regardless is to route around the 
 ## See also
 - [[Opponent Process Theory]]
 - [[Suspension of Disbelief]]
-- [[Environmental Storytelling]]
+- [[Morph Target]]
 - [[Skeletal Animation]]
 - [[Subsurface Scattering]]
 - [[Pareidolia]]

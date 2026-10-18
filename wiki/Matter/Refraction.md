@@ -29,6 +29,6 @@ Rendering engines model refraction to draw water, glass, and gems. [[Ray Tracing
 - [[Lens]]
 - [[Presbyopia]]
 - [[Fresnel Effect]]
-- [[Submarine Cable]]
+- [[Lens Flare]]
 - [[Myopia]]
 - [[Rainbow]]

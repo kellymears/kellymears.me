@@ -19,7 +19,7 @@ Two practical notes. Precision and compiler optimization settings change results
 - [[Voxel]]
 - [[Graphics API]]
 - [[Shading Model]]
-- [[Cellular Automaton]]
+- [[Stencil Buffer]]
 - [[Shader Compilation Stutter]]
 - [[WebGPU]]
 - [[Normal Mapping]]

@@ -18,8 +18,8 @@ Longevity follows from all of it: a game with an active mod scene keeps being pl
 ## See also
 - [[Sim Racing]]
 - [[Package Manager]]
-- [[Live Service Game]]
-- [[Right to Repair]]
+- [[Game Engine]]
+- [[Doom Engine]]
 - [[Game Preservation]]
 - [[Temporal Upscaling]]
 - [[Game Jam]]

@@ -32,3 +32,4 @@ The captured range far exceeds what displays show, so a [[Tone Mapping]] step co
 - [[Chroma Key]]
 - [[Photogrammetry]]
 - [[Gaussian Splatting]]
+- [[Radiosity]]

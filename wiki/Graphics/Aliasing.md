@@ -28,7 +28,7 @@ The remedies all amount to either sampling more or [[Image Resampling|filtering 
 - [[Halftone]]
 - [[Interlacing]]
 - [[Bresenham's Line Algorithm]]
-- [[Blue Noise]]
+- [[Foveated Rendering]]
 - [[Timbre]]
 - [[Screen Tearing]]
 - [[Apparent Motion]]

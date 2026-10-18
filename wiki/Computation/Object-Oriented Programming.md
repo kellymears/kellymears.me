@@ -27,6 +27,6 @@ Objects with mutable state also complicate concurrency, since two threads callin
 OOP's lasting contributions are modularity and interfaces. Programming against an interface rather than a concrete class makes code easier to test with a [[Test Double]] and to rewire with [[Dependency Injection]]. Its most-cited failures are over-engineering, layers of abstract factories and managers, and the [[Leaky Abstraction]] of object-relational mapping, which tries to make relational tables look like object graphs and never quite succeeds. Some critics argue that most of OOP's benefits come from modules and interfaces, not from objects themselves.
 
 ## See also
-- [[Model-View-Controller]]
+- [[Entity Component System]]
 - [[Reflection]]
 - [[Prototype Pollution]]

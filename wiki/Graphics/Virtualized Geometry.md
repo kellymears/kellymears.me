@@ -28,3 +28,4 @@ The approach has limits. Geometry that deforms, such as skinned characters, foli
 ## See also
 - [[Bounding Volume Hierarchy]]
 - [[Tessellation]]
+- [[Game Engine]]

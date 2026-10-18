@@ -27,7 +27,7 @@ The idea is the graphics version of a general trade: precompute what doesn't cha
 ## See also
 - [[Ambient Occlusion]]
 - [[Ray Tracing]]
-- [[Physically Based Rendering]]
+- [[Radiosity]]
 - [[Memoization]]
 - [[Image-Based Lighting]]
 - [[Rendering Equation]]

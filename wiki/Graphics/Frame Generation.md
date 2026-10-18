@@ -24,5 +24,5 @@ Genres sorted by sensitivity to latency, from [[Rhythm Game|rhythm]] and fightin
 - [[Video Compression]]
 - [[Rollback Netcode]]
 - [[Motion Blur]]
-- [[Input Latency]]
+- [[Smear Frame]]
 - [[Swap Chain]]

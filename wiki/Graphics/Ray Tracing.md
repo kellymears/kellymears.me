@@ -22,7 +22,7 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 - [[Shadow Volume]]
 - [[Caustics]]
 - [[Bounding Volume Hierarchy]]
-- [[Ambient Occlusion]]
+- [[Radiosity]]
 - [[Denoising]]
 - [[Rendering Equation]]
 

@@ -22,7 +22,7 @@ Techniques span a wide range of cost and correctness:
 Overdone AO is one of the recognizable looks of late-2000s games, with heavy grime in every crease. Artists in [[Physically Based Rendering]] workflows tend to apply it only to indirect light, since direct sunlight shouldn't be darkened by geometry that doesn't block the sun. The same perceptual cue predates computers: painters and illustrators have long darkened where objects meet to show contact, as in the drop shadows of [[Skeuomorphism]].
 
 ## See also
-- [[Rendering Equation]]
+- [[Radiosity]]
 - [[Screen Space Reflections]]
 - [[Denoising]]
 - [[Shadow Volume]]

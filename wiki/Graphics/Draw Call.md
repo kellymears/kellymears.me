@@ -28,8 +28,8 @@ The latest step is *GPU-driven rendering*, in which the GPU itself decides what 
 ## See also
 - [[Virtualized Geometry]]
 - [[Sprite]]
-- [[Graphics Pipeline]]
-- [[Rasterization]]
-- [[Graphics Processing Unit]]
+- [[Stencil Buffer]]
+- [[Scene Graph]]
+- [[Game Engine]]
 - [[WebGPU]]
 - [[Graphics API]]

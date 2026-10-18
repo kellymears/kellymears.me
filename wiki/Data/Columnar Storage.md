@@ -30,7 +30,7 @@ Data usually reaches a warehouse from transactional databases through [[Change D
 - [[Pivot Table]]
 - [[Big Data]]
 - [[Object Storage]]
-- [[ETL Pipeline]]
+- [[Entity Component System]]
 - [[DataFrame]]
 - [[Wide-Column Store]]
 - [[Data Lake]]

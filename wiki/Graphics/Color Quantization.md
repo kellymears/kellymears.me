@@ -27,7 +27,7 @@ Indexed color also enabled tricks that direct color can't do. Changing one palet
 Today quantization survives in GIFs, in compressed texture formats, in [[Cel Shading]] that quantizes lighting rather than color, and in pixel art made within deliberate limits. The ideas reach into a wider [[Color Gamut]] question: which colors to keep when you can't keep them all.
 
 ## See also
-- [[Dithering]]
+- [[Doom Engine]]
 - [[GIF]]
 - [[Color Theory]]
 - [[Color Cycling]]

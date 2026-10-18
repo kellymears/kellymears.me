@@ -26,5 +26,5 @@ Ray casting in the general sense never went away. Games cast rays to test whethe
 A grid ray caster remains a popular first graphics project.
 
 ## See also
-- [[Rasterization]]
+- [[Doom Engine]]
 - [[Isometric Projection]]

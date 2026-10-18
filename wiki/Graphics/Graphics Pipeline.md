@@ -27,5 +27,5 @@ The pipeline's order has consequences. Fragments are shaded before the depth tes
 Ray tracing follows a different model, tracing paths of light from the camera into the scene rather than projecting triangles onto the screen, and modern GPUs run both, often in the same frame; see [[Ray Tracing]].
 
 ## See also
-- [[Vector Display]]
-- [[Shadow Volume]]
+- [[Stencil Buffer]]
+- [[Game Engine]]

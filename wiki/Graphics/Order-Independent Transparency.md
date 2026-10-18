@@ -28,3 +28,5 @@ True OIT techniques work per pixel:
 - [[Depth Buffer]]
 - [[Deferred Shading]]
 - [[Particle System]]
+- [[Doom Engine]]
+- [[Stencil Buffer]]

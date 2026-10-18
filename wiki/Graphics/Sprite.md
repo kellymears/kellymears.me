@@ -27,6 +27,6 @@ Sprite animation is laborious, since each frame is hand-drawn, which led many ga
 
 ## See also
 - [[Color Cycling]]
-- [[Vector Display]]
+- [[Doom Engine]]
 - [[Rotoscoping]]
-- [[Video Game Crash of 1983]]
+- [[Entity Component System]]

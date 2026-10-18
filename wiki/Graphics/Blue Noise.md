@@ -24,7 +24,7 @@ The perceptual reasoning is general. Human vision is least sensitive to error at
 Generating good blue noise is slow, so it is usually precomputed into a small tiling texture and reused with [[Seeded Randomness]] offsets. Related point sets include [[Voronoi Diagram]] relaxation, which nudges points toward the centers of their cells to even out spacing, and the smooth fields of [[Perlin Noise]], which aim at a different, lower-frequency look.
 
 ## See also
-- [[Dithering]]
+- [[Foveated Rendering]]
 - [[Aliasing]]
 - [[Halftone]]
 - [[Denoising]]

@@ -29,7 +29,7 @@ Which rule applies is often set by law, regulation, or contract, not by programm
 Money needs more than exact numbers. An amount without a currency is ambiguous, and arithmetic across currencies needs an exchange rate and a time. Displaying amounts depends on locale: `1.234,56` and `1,234.56` are the same number; see [[Internationalization]].
 
 ## See also
-- [[Type System]]
+- [[Doom Engine]]
 - [[JSON]]
 - [[Bresenham's Line Algorithm]]
 - [[Arbitrary-Precision Arithmetic]]

@@ -22,7 +22,7 @@ Gestalt grouping is the perceptual substrate that a [[Design System]]'s spacing 
 - [[Affordance]]
 
 ## Related
-- [[Hick's Law]]
+- [[Smear Frame]]
 - [[Apparent Motion]]
 - [[Optical Alignment]]
 - [[Iconography]]

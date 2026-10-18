@@ -28,7 +28,7 @@ Browsers use the same idea inside a page. Elements that animate `transform` or `
 - [[Desktop Metaphor]]
 - [[Rotoscoping]]
 - [[Frame Pacing]]
-- [[Stacking Context]]
+- [[Scene Graph]]
 - [[Layout Thrashing]]
 - [[High Dynamic Range]]
 - [[Background Tab Throttling]]
