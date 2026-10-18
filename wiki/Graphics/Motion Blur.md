@@ -21,8 +21,8 @@ Modern displays add blur of their own. LCD and OLED screens are *sample-and-hold
 Blur doesn't fix uneven frame delivery. A smooth image depends first on consistent timing, the subject of [[Frame Pacing]], and on avoiding [[Screen Tearing]]. Blur also interacts with [[Game Feel]]: heavy smearing makes controls feel less immediate.
 
 ## See also
-- [[Frame Pacing]]
-- [[Temporal Upscaling]]
+- [[Apparent Motion]]
+- [[Frame Rate]]
 - [[Aliasing]]
 - [[Reduced Motion]]
 - [[Post-Processing]]

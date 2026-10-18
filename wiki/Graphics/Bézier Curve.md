@@ -28,6 +28,6 @@ Related curves handle cases Béziers handle poorly. B-splines and NURBS, used in
 - [[Twelve Basic Principles of Animation]]
 - [[Easing]]
 - [[Rasterization]]
-- [[Motion Design]]
+- [[Keyframe Animation]]
 - [[Font Rendering]]
 - [[Linear Interpolation]]

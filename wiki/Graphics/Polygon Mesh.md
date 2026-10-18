@@ -30,5 +30,5 @@ Polygon count drives cost. Games swap in simpler meshes for distant objects, as 
 Some uses need meshes to be *manifold*, or watertight: every edge shared by exactly two faces, enclosing a solid with no holes. 3D printing, physics collision, and boolean operations that cut one shape with another all fail or misbehave on meshes with gaps, flipped normals, or stray internal faces, so cleanup tools exist mainly to repair them. Before drawing, every vertex is transformed into screen space by [[Perspective Projection]].
 
 ## See also
-- [[Tessellation]]
+- [[Virtualized Geometry]]
 - [[Constructive Solid Geometry]]

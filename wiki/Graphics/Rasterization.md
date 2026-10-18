@@ -25,6 +25,6 @@ Performance work in a rasterizer is mostly about reducing [[Draw Call|draw calls
 - [[Bresenham's Line Algorithm]]
 - [[Transformation Matrix]]
 - [[Cellular Automaton]]
-- [[Game Feel]]
+- [[Virtualized Geometry]]
 - [[Vector Graphics]]
 - [[L-System]]

@@ -27,5 +27,5 @@ Generating good blue noise is slow, so it is usually precomputed into a small ti
 - [[Dithering]]
 - [[Aliasing]]
 - [[Halftone]]
-- [[Voronoi Diagram]]
+- [[Denoising]]
 - [[Volumetric Lighting]]

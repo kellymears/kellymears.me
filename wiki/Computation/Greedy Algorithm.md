@@ -32,5 +32,5 @@ Outside computing, greedy choices explain a lot of [[Path Dependence]]: each loc
 - [[Beam Search]]
 - [[Linear Programming]]
 - [[Minimum Spanning Tree]]
-- [[Decision Tree]]
+- [[Seam Carving]]
 - [[Graph Coloring]]

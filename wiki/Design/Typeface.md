@@ -30,6 +30,6 @@ In a [[Design System]], typefaces are recorded as a [[Design Token]], so they ch
 
 ## See also
 - [[OpenType Features]]
-- [[Optical Alignment]]
+- [[ASCII Art]]
 - [[Lorem Ipsum]]
 - [[Bauhaus]]

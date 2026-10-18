@@ -16,14 +16,14 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 
 ## See also
 - [[Ray Casting]]
-- [[Physically Based Rendering]]
+- [[Screen Space Reflections]]
 - [[Signed Distance Field]]
 - [[Ray Marching]]
 - [[Monte Carlo Method]]
-- [[Temporal Upscaling]]
+- [[Caustics]]
 - [[Bounding Volume Hierarchy]]
 - [[Ambient Occlusion]]
-- [[Aliasing]]
+- [[Denoising]]
 - [[Rendering Equation]]
 
 ## Related

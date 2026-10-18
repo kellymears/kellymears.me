@@ -24,7 +24,7 @@ The general lesson applies outside graphics: for interactive systems, **variance
 - [[Input Latency]]
 - [[Game Loop]]
 - [[Swap Chain]]
-- [[Game Feel]]
+- [[Frame Rate]]
 - [[Debounce and Throttle]]
 - [[Racing the Beam]]
 - [[Resource Starvation]]

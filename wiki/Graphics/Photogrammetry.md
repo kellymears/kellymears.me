@@ -35,7 +35,7 @@ The same camera-solving step now feeds [[Gaussian Splatting]], which skips meshe
 
 ## See also
 - [[Stereoscopy]]
-- [[Polygon Mesh]]
+- [[Virtualized Geometry]]
 - [[Image-Based Lighting]]
 - [[Voxel]]
 - [[Motion Capture]]

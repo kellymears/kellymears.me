@@ -28,7 +28,7 @@ Game engines store object orientations as quaternions internally, even when the 
 
 ## See also
 - [[Motion Capture]]
-- [[Angular Momentum]]
+- [[Keyframe Animation]]
 - [[Floating-Point Arithmetic]]
 - [[Easing]]
 - [[Newton's Laws of Motion]]

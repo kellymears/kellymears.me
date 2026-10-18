@@ -26,6 +26,6 @@ Related hygiene: explicit `width` and `height` attributes reserve space and prev
 - [[Responsive Web Design]]
 - [[Layout Shift]]
 - [[Above the Fold]]
-- [[Critical Rendering Path]]
+- [[Seam Carving]]
 - [[JPEG]]
 - [[Mipmapping]]

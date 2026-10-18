@@ -34,3 +34,4 @@ Desktop environments face the same problem. A [[Compositor]] that assembles ever
 - [[Input Latency]]
 - [[Swap Chain]]
 - [[Racing the Beam]]
+- [[Frame Rate]]

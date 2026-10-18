@@ -31,4 +31,4 @@ The remedies all amount to either sampling more or [[Image Resampling|filtering 
 - [[Blue Noise]]
 - [[Timbre]]
 - [[Screen Tearing]]
-- [[Dithering]]
+- [[Apparent Motion]]

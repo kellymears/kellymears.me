@@ -27,6 +27,6 @@ Games also ray-march against the [[Depth Buffer]] for screen-space reflections, 
 - [[Fractal]]
 - [[Constructive Solid Geometry]]
 - [[Marching Cubes]]
-- [[Perlin Noise]]
+- [[Screen Space Reflections]]
 - [[Ray Casting]]
 - [[Volumetric Lighting]]

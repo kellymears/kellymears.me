@@ -22,7 +22,7 @@ Several constraints shape any real implementation.
 
 ## See also
 - [[Uncanny Valley]]
-- [[Easing]]
+- [[Keyframe Animation]]
 - [[Staggered Animation]]
 - [[Carousel]]
 - [[Stacking Context]]

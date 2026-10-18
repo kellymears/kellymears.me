@@ -27,5 +27,5 @@ Better formats exist. JPEG 2000, WebP, AVIF, and JPEG XL all compress more effic
 
 ## See also
 - [[Image Resampling]]
-- [[Video Compression]]
+- [[Seam Carving]]
 - [[Metadata]]

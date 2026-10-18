@@ -23,7 +23,7 @@ The buffer is useful for more than visibility. Shadow maps are depth buffers ren
 
 ## See also
 - [[Stereoscopy]]
-- [[Culling]]
+- [[Screen Space Reflections]]
 - [[Barycentric Coordinates]]
 - [[Isometric Projection]]
 - [[Ray Casting]]

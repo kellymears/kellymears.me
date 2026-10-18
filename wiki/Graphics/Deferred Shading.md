@@ -30,7 +30,7 @@ The underlying idea is separating what is visible from how it looks, decoupling 
 - [[Culling]]
 - [[Order-Independent Transparency]]
 - [[Swap Chain]]
-- [[Lazy Evaluation]]
+- [[Screen Space Reflections]]
 - [[Shader]]
 - [[Subsurface Scattering]]
 - [[Post-Processing]]

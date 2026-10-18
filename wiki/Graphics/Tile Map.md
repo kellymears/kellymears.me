@@ -29,4 +29,4 @@ The style constraints of old hardware have become an aesthetic in their own righ
 - [[Platformer]]
 - [[Ray Casting]]
 - [[Parallax Scrolling]]
-- [[Sprite]]
+- [[Color Cycling]]

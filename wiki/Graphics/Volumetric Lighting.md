@@ -27,6 +27,6 @@ The same techniques render clouds, explosions, and underwater scenes, where ligh
 Fog has a long history in games as a performance trick: early 3D titles hid short draw distances by fading everything into gray; see [[Level of Detail]]. Volumetric lighting turned that limitation into a main tool for mood and for guiding the player's eye; see [[Environmental Storytelling]].
 
 ## See also
-- [[Fluid Simulation]]
+- [[Caustics]]
 - [[Particle System]]
 - [[Dew Point]]

@@ -25,3 +25,4 @@ That GIF persists anyway shows how support everywhere outweighs technical merit.
 - [[JPEG]]
 - [[Sprite]]
 - [[Modem]]
+- [[Color Cycling]]

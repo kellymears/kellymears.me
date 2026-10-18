@@ -24,7 +24,7 @@ The discipline this imposes is as important as the math: an albedo texture must 
 - [[Gamma Correction]]
 - [[Ambient Occlusion]]
 - [[Inverse-Square Law]]
-- [[Refraction]]
+- [[Screen Space Reflections]]
 - [[Subsurface Scattering]]
 - [[Baked Lighting]]
 - [[Texture Mapping]]

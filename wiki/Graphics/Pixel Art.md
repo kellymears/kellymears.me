@@ -27,7 +27,7 @@ Its appeal is partly economic, since small teams can produce consistent art, and
 
 ## See also
 - [[GIF]]
-- [[Game Preservation]]
+- [[ASCII Art]]
 - [[Racing the Beam]]
 - [[Game Jam]]
-- [[Parallax Scrolling]]
+- [[Color Cycling]]

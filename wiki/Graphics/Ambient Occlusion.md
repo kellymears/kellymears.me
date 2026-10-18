@@ -23,8 +23,8 @@ Overdone AO is one of the recognizable looks of late-2000s games, with heavy gri
 
 ## See also
 - [[Rendering Equation]]
-- [[Deferred Shading]]
-- [[Ray Tracing]]
+- [[Screen Space Reflections]]
+- [[Denoising]]
 - [[Ray Marching]]
 - [[Normal Mapping]]
 - [[Blue Noise]]

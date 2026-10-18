@@ -29,3 +29,4 @@ The aesthetic ceiling is higher than most people assume. Color, spacing, and res
 - [[Dithering]]
 - [[Pseudoterminal]]
 - [[ANSI Escape Code]]
+- [[ASCII Art]]

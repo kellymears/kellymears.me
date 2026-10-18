@@ -18,8 +18,8 @@ The artifacts are those of any interpolation: UI elements and text smeared becau
 Genres sorted by sensitivity to latency, from [[Rhythm Game|rhythm]] and fighting games ([[Frame Data]]) down to slow exploration, map fairly directly onto how acceptable generation is.
 
 ## See also
-- [[Temporal Upscaling]]
-- [[Frame Pacing]]
+- [[Denoising]]
+- [[Frame Rate]]
 - [[Game Feel]]
 - [[Video Compression]]
 - [[Rollback Netcode]]

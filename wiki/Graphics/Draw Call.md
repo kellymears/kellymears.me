@@ -26,7 +26,7 @@ Newer graphics APIs, Vulkan, Direct3D 12, and Apple's Metal, all released around
 The latest step is *GPU-driven rendering*, in which the GPU itself decides what to draw through indirect draw commands, culling and building its own work lists without a round trip to the CPU. Large numbers of small effects, such as those in a [[Particle System]], are usually instanced or generated on the GPU for the same reason.
 
 ## See also
-- [[Culling]]
+- [[Virtualized Geometry]]
 - [[Sprite]]
 - [[Shader]]
 - [[Rasterization]]

@@ -21,7 +21,7 @@ Physical documents solved the adjacent problem — proving a record was not alte
 - [[Commit]]
 - [[Documentation Rot]]
 - [[Data Lineage]]
-- [[Code Review]]
+- [[Seam Carving]]
 - [[Code Comment]]
 
 ## Related

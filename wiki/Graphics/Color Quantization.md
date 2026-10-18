@@ -30,7 +30,7 @@ Today quantization survives in GIFs, in compressed texture formats, in [[Cel Sha
 - [[Dithering]]
 - [[GIF]]
 - [[Color Theory]]
-- [[Tile Map]]
+- [[Color Cycling]]
 - [[Pixel Art]]
 - [[Texture Compression]]
 - [[Halftone]]

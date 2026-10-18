@@ -25,7 +25,7 @@ The alternatives are known. **Constant-current reduction** dims by lowering curr
 
 ## See also
 - [[Color Temperature]]
-- [[Frame Pacing]]
+- [[Apparent Motion]]
 - [[Reduced Motion]]
 - [[Accessibility]]
 - [[Latency and Jitter]]

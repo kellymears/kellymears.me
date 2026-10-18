@@ -26,6 +26,6 @@ Games use mocap differently from film, because the player controls the character
 Outside entertainment, motion capture analyzes athletes' technique, patients' gait during rehabilitation, and a rider's position during a [[Bike Fit]]; see [[Exercise Economy]].
 
 ## See also
-- [[Gaussian Splatting]]
+- [[Keyframe Animation]]
 - [[Rotoscoping]]
 - [[Imitation Learning]]

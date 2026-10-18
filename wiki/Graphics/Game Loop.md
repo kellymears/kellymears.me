@@ -34,6 +34,6 @@ Where in the loop input is sampled, how many frames the CPU queues ahead of the 
 ## See also
 - [[Rigid Body Dynamics]]
 - [[Collision Detection]]
-- [[Event Loop]]
+- [[Frame Rate]]
 - [[Frame Data]]
 - [[Verlet Integration]]

@@ -29,7 +29,7 @@ Practical traits follow from the method:
 The same idea spread to video, 3D assets that feed [[Gaussian Splatting]], speech in [[Text-to-Speech]], and protein structure. It also raised hard questions: models trained on scraped artwork drew copyright lawsuits, and convincing fake images pushed industry toward provenance standards such as C2PA, which sign media at creation.
 
 ## See also
-- [[Multimodal Model]]
+- [[Seam Carving]]
 - [[Contrastive Learning]]
 - [[Image Resampling]]
 - [[Autoencoder]]
