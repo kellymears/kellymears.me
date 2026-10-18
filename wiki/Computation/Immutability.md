@@ -21,3 +21,4 @@ Immutability and [[Pure Function]]s reinforce each other: a pure function is eas
 - [[Copy-on-Write]]
 - [[Determinism]]
 - [[Soft Delete]]
+- [[Log-Structured Merge Tree]]

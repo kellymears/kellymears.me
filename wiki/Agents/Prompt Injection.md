@@ -28,3 +28,4 @@ The defenses that hold are architectural rather than linguistic:
 ## Related
 - [[Tool Use]]
 - [[Large Language Model]]
+- [[SQL Injection]]

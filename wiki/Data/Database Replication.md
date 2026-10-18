@@ -24,3 +24,4 @@ Replication lag is the source of a specific, easy-to-miss class of bug: a user s
 - [[Write-Ahead Logging]]
 - [[Quorum]]
 - [[Network Partition]]
+- [[Backup and Restore]]

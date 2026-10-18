@@ -30,3 +30,5 @@ The only verification that proves any of this is running the real path: reset, m
 - [[Write-Ahead Logging]]
 - [[Hash Table]]
 - [[Determinism]]
+- [[Backup and Restore]]
+- [[Object-Relational Mapping]]

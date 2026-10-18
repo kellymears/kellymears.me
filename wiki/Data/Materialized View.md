@@ -30,3 +30,4 @@ The difficulty is the familiar one of [[Cache Invalidation]], since a materializ
 - [[Eventual Consistency]]
 - [[Database Index]]
 - [[Incremental Static Regeneration]]
+- [[Columnar Storage]]

@@ -22,3 +22,4 @@ The root cause across all three is the same: untrusted input rendered into a con
 
 ## Related
 - [[JSON Web Token]]
+- [[SQL Injection]]

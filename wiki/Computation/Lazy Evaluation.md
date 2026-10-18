@@ -21,3 +21,4 @@ Most languages are strict by default (arguments evaluated before a call) and opt
 - [[Recursion]]
 - [[Determinism]]
 - [[Deferred Shading]]
+- [[Object-Relational Mapping]]

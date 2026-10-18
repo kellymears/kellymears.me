@@ -10,7 +10,7 @@ summary: Fetching a list with one query and then each item's related data with o
 ---
 The **N+1 query problem** is a performance bug in which code fetches a list of records with one query, then loops over the list and runs a separate query for each record's related data. Showing 50 blog posts with their authors becomes 1 query for the posts plus 50 queries for authors: N+1 round trips where 2, or 1, would do. Each query is fast, so nothing looks wrong in isolation. Together they add up to hundreds of milliseconds of network latency per page, and the total grows with the size of the list.
 
-It is the classic hazard of object-relational mappers (ORMs), which make related data look like ordinary properties. Writing `post.author.name` in a template reads like accessing a field, but with *lazy loading* it silently issues a query the first time it is touched. The code is clean and obviously correct, and the database traffic is invisible unless someone looks. It also appears in GraphQL resolvers, which naturally fetch each field independently, and in microservice architectures as N+1 network calls instead of queries.
+It is the classic hazard of [[Object-Relational Mapping|object-relational mappers]] (ORMs), which make related data look like ordinary properties. Writing `post.author.name` in a template reads like accessing a field, but with *lazy loading* it silently issues a query the first time it is touched. The code is clean and obviously correct, and the database traffic is invisible unless someone looks. It also appears in GraphQL resolvers, which naturally fetch each field independently, and in microservice architectures as N+1 network calls instead of queries.
 
 The fixes all batch the related lookups:
 

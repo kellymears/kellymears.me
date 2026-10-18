@@ -21,3 +21,4 @@ The rhetorical version is just as costly: an "everything passes" claim assembled
 - [[Fail Fast]]
 - [[Observability]]
 - [[Coverage Gate]]
+- [[Backup and Restore]]

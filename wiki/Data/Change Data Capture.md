@@ -18,3 +18,4 @@ This is what makes CDC the practical backbone for keeping a search index, a cach
 - [[Eventual Consistency]]
 - [[Materialized View]]
 - [[Transactional Outbox]]
+- [[Columnar Storage]]

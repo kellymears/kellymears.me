@@ -35,3 +35,4 @@ UUIDs let clients create records offline and sync later, as in [[Conflict-Free R
 - [[Database Sharding]]
 - [[Seeded Randomness]]
 - [[Transactional Outbox]]
+- [[Foreign Key]]

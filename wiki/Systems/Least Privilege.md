@@ -29,3 +29,4 @@ The principle is stated easily and applied poorly, because broad permissions are
 
 ## Related
 - [[System Prompt]]
+- [[SQL Injection]]

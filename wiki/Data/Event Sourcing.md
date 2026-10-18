@@ -18,3 +18,5 @@ The cost is that querying "current state" now requires either replaying potentia
 - [[Denormalization]]
 - [[Materialized View]]
 - [[Soft Delete]]
+- [[Log-Structured Merge Tree]]
+- [[Multiversion Concurrency Control]]

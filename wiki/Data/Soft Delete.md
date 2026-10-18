@@ -35,3 +35,4 @@ Distributed systems use a related idea under the name *tombstone*: a marker that
 - [[Draft and Published]]
 - [[Immutability]]
 - [[Rollback]]
+- [[Foreign Key]]

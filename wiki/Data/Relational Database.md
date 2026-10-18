@@ -8,7 +8,7 @@ summary: Data organized as tables with declared relationships, queried declarati
 ---
 A **relational database** stores data as tables of rows and columns, with relationships expressed by keys and integrity enforced by declared constraints. It is queried declaratively: you describe the result you want and the engine chooses how to obtain it.
 
-Its enduring advantage is that **correctness can be delegated to the schema**. A foreign key, a uniqueness constraint, or a not-null declaration is enforced for every writer, including the ones written years later by people who never read the original code. Application-level validation protects only the paths that go through it.
+Its enduring advantage is that **correctness can be delegated to the schema**. A [[Foreign Key|foreign key]], a uniqueness constraint, or a not-null declaration is enforced for every writer, including the ones written years later by people who never read the original code. Application-level validation protects only the paths that go through it.
 
 Transactions are the second pillar: a set of changes either all happen or none do, which is what makes multi-step operations safe under concurrency and failure.
 
@@ -28,3 +28,6 @@ Two things worth holding onto when working through an abstraction layer. The lay
 - [[Seed Data]]
 - [[Headless CMS]]
 - [[Feature Flag]]
+- [[Database Normalization]]
+- [[Query Planner]]
+- [[Object-Relational Mapping]]

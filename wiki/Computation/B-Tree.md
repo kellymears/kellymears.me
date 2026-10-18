@@ -19,3 +19,5 @@ The self-balancing part matters as much as the fan-out: an insert that overflows
 - [[Bounding Volume Hierarchy]]
 - [[Database Index]]
 - [[Universally Unique Identifier]]
+- [[Log-Structured Merge Tree]]
+- [[Query Planner]]
