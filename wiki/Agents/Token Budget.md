@@ -25,3 +25,4 @@ Budgeting also shapes what is worth automating. A recording run that costs a few
 ## Related
 - [[Race Condition]]
 - [[Agentic Loop]]
+- [[Context Engineering]]

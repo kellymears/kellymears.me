@@ -28,4 +28,4 @@ Outside entertainment, motion capture analyzes athletes' technique, patients' ga
 ## See also
 - [[Gaussian Splatting]]
 - [[Rotoscoping]]
-- [[Virtual Reality]]
+- [[Imitation Learning]]

@@ -14,7 +14,7 @@ The practical rule of thumb is that temperature should track the task's toleranc
 
 ## See also
 - [[Large Language Model]]
-- [[Nondeterminism]]
+- [[Beam Search]]
 - [[Calibration]]
 - [[Constrained Decoding]]
 - [[Entropy]]

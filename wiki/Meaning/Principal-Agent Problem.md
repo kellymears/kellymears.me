@@ -16,7 +16,7 @@ Every fix compounds the problem rather than resolving it. Add a second metric to
 - [[Information Asymmetry]]
 - [[Prisoner's Dilemma]]
 - [[Cobra Effect]]
-- [[Externality]]
+- [[AI Alignment]]
 - [[Ground Truth]]
 - [[Hanlon's Razor]]
 - [[Reward Hacking]]

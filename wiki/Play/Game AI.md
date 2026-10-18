@@ -23,7 +23,7 @@ Legibility is also a presentation problem, not only a behavior one. If a player 
 - [[Roguelike]]
 
 ## Related
-- [[Procedural Generation]]
+- [[Monte Carlo Tree Search]]
 - [[Cellular Automaton]]
 - [[L-System]]
 - [[Dynamic Difficulty Adjustment]]

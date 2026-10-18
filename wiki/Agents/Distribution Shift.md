@@ -34,4 +34,4 @@ The underlying lesson isn't unique to machine learning. Any system built on past
 
 ## See also
 - [[Overfitting]]
-- [[Silent Failure]]
+- [[Imitation Learning]]

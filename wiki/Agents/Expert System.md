@@ -27,7 +27,7 @@ Then the limits showed:
 
 When the market collapsed in the late 1980s, funding for the field dried up for years, the second **AI winter**. The first, in the 1970s, had followed early machine translation and perceptron research failing to meet their promises; see [[Neural Network]]. Both winters were cited later as warnings about overclaiming.
 
-What replaced hand-written rules was learning from data: [[Supervised Learning]], then deep learning, then [[Large Language Model]]s that absorb expert knowledge from text rather than interviews. Rich Sutton's essay "The Bitter Lesson" argues this pattern recurs: methods that scale with computation beat methods built on human knowledge; see [[Scaling Laws]].
+What replaced hand-written rules was learning from data: [[Supervised Learning]], then deep learning, then [[Large Language Model]]s that absorb expert knowledge from text rather than interviews. Rich Sutton's essay [[The Bitter Lesson]] argues this pattern recurs: methods that scale with computation beat methods built on human knowledge.
 
 The ideas survive in business rules engines, tax software, and medical decision support, and in neuro-symbolic research combining learned models with explicit rules. A modern agent following a written procedure looks a little like an expert system whose rules are in prose; see [[Agent Skill]] and [[System Prompt]].
 

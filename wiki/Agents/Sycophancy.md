@@ -36,4 +36,4 @@ Sycophancy is related to [[Hallucination]]: both produce fluent, confident text 
 - [[Calibration]]
 - [[ELIZA Effect]]
 - [[Implicature]]
-- [[Theory of Mind]]
+- [[AI Alignment]]

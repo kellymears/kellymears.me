@@ -31,3 +31,4 @@ The adversarial idea outlived the architecture. Pitting a system against an oppo
 - [[Neural Network]]
 - [[Convolution]]
 - [[Adversarial Example]]
+- [[Self-Play]]

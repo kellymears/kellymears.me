@@ -25,3 +25,4 @@ The metadata-filtering problem is where most real deployments spend their engine
 - [[Stemming and Lemmatization]]
 - [[Locality-Sensitive Hashing]]
 - [[K-Means Clustering]]
+- [[Contrastive Learning]]

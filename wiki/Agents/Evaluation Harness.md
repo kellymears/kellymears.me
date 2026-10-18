@@ -17,7 +17,7 @@ Live evaluation costs money and time, which is why most harnesses replay; see [[
 ## See also
 - [[LLM-as-Judge]]
 - [[Fingerprint]]
-- [[Nondeterminism]]
+- [[Synthetic Data]]
 - [[Prompt Engineering]]
 - [[Guardrail]]
 - [[Safety Case]]

@@ -28,5 +28,5 @@ The brain's answer may be similar. The theory of complementary learning systems 
 Large models mostly sidestep the problem by not learning after deployment: their weights are fixed, and new information arrives through the prompt or retrieval instead; see [[In-Context Learning]] and [[Retrieval-Augmented Generation]]. That avoids forgetting but means nothing is retained between conversations, the gap that [[Agent Memory]] systems try to fill.
 
 ## See also
-- [[Pretraining]]
+- [[Self-Play]]
 - [[Distribution Shift]]

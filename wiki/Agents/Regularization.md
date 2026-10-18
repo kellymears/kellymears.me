@@ -25,6 +25,6 @@ Large language models complicated the picture. Classical theory said bigger mode
 Other techniques regularize indirectly. Stochastic [[Gradient Descent]] adds noise that seems to favor solutions that generalize. Some argue that [[Quantization]] and [[Knowledge Distillation]] do too, by removing capacity a model may have spent on noise.
 
 ## See also
-- [[Supervised Learning]]
-- [[Regression to the Mean]]
+- [[Double Descent]]
+- [[Synthetic Data]]
 - [[Decision Tree]]

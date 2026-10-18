@@ -29,6 +29,6 @@ The comparison to human thinking is common. A direct answer resembles fast, intu
 In agents, reasoning interleaves with action: the model thinks, calls a tool, reads the result, and thinks again, as in an [[Agentic Loop]]. Capabilities developed in large reasoning models are often transferred to smaller ones through [[Knowledge Distillation]].
 
 ## See also
-- [[Chain-of-Thought Prompting]]
+- [[Monte Carlo Tree Search]]
 - [[Scaling Laws]]
 - [[Token Budget]]

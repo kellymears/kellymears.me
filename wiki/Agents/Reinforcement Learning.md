@@ -27,6 +27,6 @@ RL also has a neuroscience link. In 1997 Wolfram Schultz and colleagues showed t
 
 ## See also
 - [[Supervised Learning]]
-- [[Reward Hacking]]
+- [[Self-Play]]
 - [[Game AI]]
 - [[Agentic Loop]]

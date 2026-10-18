@@ -15,7 +15,7 @@ Embeddings are the mechanism underneath [[Retrieval-Augmented Generation]]: a co
 Embedding models are also usually distinct from the generation model in a pipeline, trained separately and optimized for a different objective (similarity structure, not fluent text), which means swapping one embedding model for another changes retrieval behavior even if the downstream language model never changes.
 
 ## See also
-- [[Vector Database]]
+- [[Contrastive Learning]]
 - [[Retrieval-Augmented Generation]]
 - [[Large Language Model]]
 - [[Context Window]]

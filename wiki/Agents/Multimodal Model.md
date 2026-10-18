@@ -30,4 +30,4 @@ Uses are broad. Vision lets an agent read screens for [[Computer Use]], parse do
 ## See also
 - [[Moravec's Paradox]]
 - [[Optical Character Recognition]]
-- [[Autoencoder]]
+- [[Contrastive Learning]]

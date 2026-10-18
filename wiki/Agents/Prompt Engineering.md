@@ -28,3 +28,4 @@ Because a prompt change cannot be type-checked, the only way to know whether it 
 - [[In-Context Learning]]
 - [[Priming]]
 - [[Implicature]]
+- [[Context Engineering]]

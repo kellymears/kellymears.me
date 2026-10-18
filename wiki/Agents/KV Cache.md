@@ -17,6 +17,6 @@ Because the cache is keyed by exact token prefix, anything that changes an early
 ## See also
 - [[Recurrent Neural Network]]
 - [[Softmax]]
-- [[Context Window]]
+- [[Beam Search]]
 - [[Token Budget]]
 - [[Latency and Jitter]]

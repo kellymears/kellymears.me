@@ -27,3 +27,4 @@ The razor pairs naturally with [[Plausible Mechanism]]: prefer the account with 
 - [[Regularization]]
 - [[Kolmogorov Complexity]]
 - [[Burden of Proof]]
+- [[Double Descent]]

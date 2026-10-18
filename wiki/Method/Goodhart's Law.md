@@ -21,7 +21,7 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 - [[Operationalization]]
 - [[Reward Hacking]]
 - [[Map and Territory]]
-- [[Prompt Engineering]]
+- [[AI Alignment]]
 - [[Story Points]]
 - [[PageRank]]
 

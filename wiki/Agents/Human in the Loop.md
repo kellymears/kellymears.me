@@ -28,3 +28,4 @@ The complementary practice is honest reporting: a gate is only as good as the ac
 - [[Tool Use]]
 - [[Computer Use]]
 - [[Calibration]]
+- [[AI Alignment]]

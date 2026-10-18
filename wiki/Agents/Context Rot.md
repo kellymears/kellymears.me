@@ -34,7 +34,7 @@ These pull against [[Prompt Caching]], which rewards keeping a long, stable pref
 
 ## See also
 - [[Context Window]]
-- [[Serial Position Effect]]
+- [[Context Engineering]]
 - [[Subagent]]
 - [[Token Budget]]
 - [[Distribution Shift]]

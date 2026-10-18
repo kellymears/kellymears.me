@@ -29,3 +29,4 @@ The technique parallels branch prediction in CPUs: guess, compute ahead, and thr
 - [[Markov Chain]]
 - [[Determinism]]
 - [[Knowledge Distillation]]
+- [[Beam Search]]

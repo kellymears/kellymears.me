@@ -33,5 +33,5 @@ Inside a transformer, the [[Attention Mechanism]] uses scaled dot products, clos
 
 ## See also
 - [[Autocomplete]]
-- [[Entity Resolution]]
+- [[Contrastive Learning]]
 - [[Locality-Sensitive Hashing]]

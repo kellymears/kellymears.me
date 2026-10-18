@@ -20,6 +20,6 @@ What none of this licenses is folk prompting advice. Discovering that a [[Large 
 - [[Residual Connection]]
 - [[Expert System]]
 - [[Autoencoder]]
-- [[Attention Mechanism]]
+- [[Double Descent]]
 - [[In-Context Learning]]
-- [[Neural Network]]
+- [[AI Alignment]]

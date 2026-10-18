@@ -28,7 +28,7 @@ Results are only as good as the randomness and the model. A weak [[Pseudorandom 
 
 ## See also
 - [[Quantum Computing]]
-- [[Fault Tree Analysis]]
+- [[Monte Carlo Tree Search]]
 - [[Rendering Equation]]
 - [[Gambler's Fallacy]]
 - [[Radioactive Decay]]

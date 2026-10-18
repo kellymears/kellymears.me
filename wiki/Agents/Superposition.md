@@ -24,5 +24,5 @@ Superposition is usually studied in the [[Residual stream]], the shared channel 
 - [[Dimensionality Reduction]]
 - [[Embedding]]
 - [[Residual Connection]]
-- [[Attention Mechanism]]
+- [[Double Descent]]
 - [[Autoencoder]]

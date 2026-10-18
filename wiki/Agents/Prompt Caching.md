@@ -19,7 +19,7 @@ In an [[Agentic Loop]], each turn's prompt is the previous turn's prompt plus a 
 Caches expire after minutes of inactivity and are evicted under memory pressure, much like a [[Least Recently Used Cache]]. Treat a hit as an optimization rather than a guarantee, and measure the hit rate rather than assume it. The same reasoning applies to a [[Fingerprint]] used as a cache key: whatever goes into the key decides what counts as a repeat.
 
 ## See also
-- [[KV Cache]]
+- [[Context Engineering]]
 - [[Token Budget]]
 - [[Cache Invalidation]]
 - [[System Prompt]]

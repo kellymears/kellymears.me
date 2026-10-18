@@ -20,3 +20,4 @@ The design tension runs in both directions. Too little systemic interaction and 
 - [[Boids]]
 - [[Sequence Breaking]]
 - [[MDA Framework]]
+- [[Self-Play]]

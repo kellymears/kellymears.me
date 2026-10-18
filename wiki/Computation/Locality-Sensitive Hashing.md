@@ -34,6 +34,6 @@ In high dimensions, exact nearest-neighbor search slows to a crawl, and approxim
 LSH belongs to a larger family of probabilistic data structures that trade exactness for scale; see [[Bloom Filter]] and [[HyperLogLog]].
 
 ## See also
-- [[Monte Carlo Method]]
+- [[Contrastive Learning]]
 - [[Consistent Hashing]]
 - [[Dimensionality Reduction]]

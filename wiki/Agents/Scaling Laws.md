@@ -3,7 +3,6 @@ aliases:
   - Neural scaling laws
   - Chinchilla scaling
   - Compute-optimal training
-  - The Bitter Lesson
   - Emergent abilities
 tags:
   - agents
@@ -17,7 +16,7 @@ In 2022, DeepMind's **Chinchilla** paper by Jordan Hoffmann and colleagues corre
 
 Practice then moved past "optimal." Training cost is paid once, but running a model is paid on every request, so labs now train smaller models on far more data than Chinchilla suggests. The model costs more to train but less to serve, which matters for [[Model Routing]] across tiers and for running models locally with [[Quantization]].
 
-The scaling results gave weight to an argument Richard Sutton made in a 2019 essay, *The Bitter Lesson*: across decades of AI research, general methods that exploit growing computation have beaten approaches built on human insight about the problem.
+The scaling results gave weight to an argument Richard Sutton made in a 2019 essay, [[The Bitter Lesson]]: across decades of AI research, general methods that exploit growing computation have beaten approaches built on human insight about the problem.
 
 Several caveats apply:
 
@@ -29,7 +28,7 @@ As gains from pretraining slowed, attention turned to a second axis: spending mo
 
 ## See also
 - [[Pretraining]]
-- [[Reasoning Model]]
+- [[Double Descent]]
 - [[Knowledge Distillation]]
 - [[Large Language Model]]
 - [[Neural Network]]

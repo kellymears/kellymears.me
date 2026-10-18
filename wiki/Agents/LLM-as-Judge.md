@@ -32,3 +32,4 @@ It works best under a few constraints.
 - [[Subagent]]
 - [[Benchmark Contamination]]
 - [[Calibration]]
+- [[Synthetic Data]]

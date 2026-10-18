@@ -30,5 +30,5 @@ The model has critics. Real people cooperate more than the theory predicts in on
 - [[Linear Programming]]
 - [[Social Deduction Game]]
 - [[BitTorrent]]
-- [[Rent-Seeking]]
+- [[Self-Play]]
 - [[Generative Adversarial Network]]

@@ -35,6 +35,6 @@ Monitoring a model's visible reasoning can catch stated plans to cheat. But Open
 
 ## See also
 - [[Gradient Descent]]
-- [[Sycophancy]]
+- [[AI Alignment]]
 - [[Cobra Effect]]
 - [[Operationalization]]

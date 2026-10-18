@@ -27,6 +27,6 @@ The per-token probabilities themselves come from [[Softmax]], and the temperatur
 
 ## See also
 - [[Softmax]]
-- [[Scaling Laws]]
+- [[Beam Search]]
 - [[Information Theory]]
 - [[Markov Chain]]

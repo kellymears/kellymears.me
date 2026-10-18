@@ -37,3 +37,4 @@ The judgments themselves carry the values and blind spots of whoever writes the 
 - [[Reward Hacking]]
 - [[Pretraining]]
 - [[Reinforcement Learning]]
+- [[AI Alignment]]

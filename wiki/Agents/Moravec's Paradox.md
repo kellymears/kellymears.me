@@ -24,4 +24,4 @@ The paradox also reframes intelligence: much of what people call "common sense" 
 ## See also
 - [[Turing Test]]
 - [[Multimodal Model]]
-- [[Reinforcement Learning]]
+- [[Bitter Lesson]]

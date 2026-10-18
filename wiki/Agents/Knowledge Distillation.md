@@ -26,7 +26,7 @@ The idea echoes human teaching: a learner gains from seeing how close the altern
 
 ## See also
 - [[Autoencoder]]
-- [[Quantization]]
+- [[Synthetic Data]]
 - [[Fine-Tuning]]
 - [[Catastrophic Forgetting]]
 - [[Diffusion Model]]

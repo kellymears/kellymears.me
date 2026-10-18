@@ -30,7 +30,7 @@ The same idea spread to video, 3D assets that feed [[Gaussian Splatting]], speec
 
 ## See also
 - [[Multimodal Model]]
-- [[Pretraining]]
+- [[Contrastive Learning]]
 - [[Image Resampling]]
 - [[Autoencoder]]
 - [[Diffusion]]

@@ -31,7 +31,7 @@ Where an API exists, it is usually better: faster, cheaper, and more reliable. P
 
 ## See also
 - [[Moravec's Paradox]]
-- [[Tool Use]]
+- [[Imitation Learning]]
 - [[Background Agent]]
 - [[End-to-End Test]]
 - [[Turing Test]]

@@ -37,5 +37,5 @@ Machine learning faces the same risk: models can memorize training examples, and
 - [[Data Retention]]
 - [[Browser Fingerprinting]]
 - [[Open Data]]
-- [[Bloom Filter]]
+- [[Synthetic Data]]
 - [[Personal Data]]

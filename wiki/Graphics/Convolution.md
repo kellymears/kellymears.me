@@ -32,7 +32,7 @@ Convolution reaches well beyond photo filters. The filters used in [[Image Resam
 - [[Image Resampling]]
 - [[Post-Processing]]
 - [[Aliasing]]
-- [[Graphics Processing Unit]]
+- [[Bitter Lesson]]
 - [[Neural Network]]
 - [[Prosopagnosia]]
 - [[Generative Adversarial Network]]

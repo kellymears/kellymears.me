@@ -36,4 +36,4 @@ A leaderboard score is best read alongside its date and the question: could the 
 - [[Perplexity]]
 - [[Train-Test Split]]
 - [[Benchmarking]]
-- [[LLM-as-Judge]]
+- [[Synthetic Data]]

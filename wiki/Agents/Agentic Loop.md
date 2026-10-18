@@ -31,3 +31,4 @@ Practical design centers on a few pressures.
 - [[Token]]
 - [[Model Context Protocol]]
 - [[Distribution Shift]]
+- [[Bitter Lesson]]
