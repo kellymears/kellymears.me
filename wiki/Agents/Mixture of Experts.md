@@ -27,3 +27,4 @@ MoE is [[Model Routing]] moved inside the network, decided per token by a learne
 - [[KV Cache]]
 - [[Load Balancing]]
 - [[Open-Weight Model]]
+- [[Catastrophic Forgetting]]

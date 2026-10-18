@@ -28,6 +28,6 @@ Calibration also shifts with data. A model calibrated on its training distributi
 
 ## See also
 - [[Precision and Recall]]
-- [[Bayes' Theorem]]
+- [[ELIZA Effect]]
 - [[Sycophancy]]
 - [[Confidence Interval]]

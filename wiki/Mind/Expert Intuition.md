@@ -24,7 +24,7 @@ Where these are missing, confident intuitions are often just [[Overfitting]] to 
 Expert patterns are also brittle outside their domain. The chess master's memory advantage disappears on random boards, and an expert in one system can be confidently wrong in a superficially similar one. Good [[Metacognition]] means knowing which environments one's intuition was trained in. The same chunking underlies physical skill, described under [[Motor Learning]].
 
 ## See also
-- [[Dual Process Theory]]
+- [[Expert System]]
 - [[Working Memory]]
 - [[Metacognition]]
 - [[Motor Learning]]

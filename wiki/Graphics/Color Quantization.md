@@ -34,3 +34,4 @@ Today quantization survives in GIFs, in compressed texture formats, in [[Cel Sha
 - [[Pixel Art]]
 - [[Texture Compression]]
 - [[Halftone]]
+- [[K-Means Clustering]]

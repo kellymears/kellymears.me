@@ -25,7 +25,7 @@ The same discipline applies to humans reviewing machine output, and to the revie
 
 ## Related
 - [[Provenance]]
-- [[Ground Truth]]
+- [[Adversarial Example]]
 - [[Exhaustive Claim]]
 - [[Penetration Testing]]
 - [[Jailbreak]]

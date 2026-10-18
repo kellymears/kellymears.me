@@ -35,3 +35,4 @@ As gains from pretraining slowed, attention turned to a second axis: spending mo
 - [[Neural Network]]
 - [[Gradient Descent]]
 - [[Perplexity]]
+- [[Expert System]]

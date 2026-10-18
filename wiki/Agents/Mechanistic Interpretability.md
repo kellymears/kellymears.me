@@ -18,7 +18,7 @@ What none of this licenses is folk prompting advice. Discovering that a [[Large 
 - [[Superposition]]
 - [[Dimensionality Reduction]]
 - [[Residual Connection]]
-- [[Falsifiability]]
+- [[Expert System]]
 - [[Autoencoder]]
 - [[Attention Mechanism]]
 - [[In-Context Learning]]

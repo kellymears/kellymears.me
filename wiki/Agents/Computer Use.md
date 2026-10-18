@@ -30,7 +30,8 @@ Security is the central problem. Everything on screen is input, so a webpage, em
 Where an API exists, it is usually better: faster, cheaper, and more reliable. Protocols such as the [[Model Context Protocol]] expose applications to agents directly, leaving computer use for what nothing else can reach.
 
 ## See also
-- [[Agent Sandbox]]
+- [[Moravec's Paradox]]
 - [[Tool Use]]
 - [[Background Agent]]
 - [[End-to-End Test]]
+- [[Turing Test]]

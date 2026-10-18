@@ -35,4 +35,4 @@ Whether brains do anything similar is debated, since real neurons have no obviou
 - [[Recurrent Neural Network]]
 - [[Residual Connection]]
 - [[Fine-Tuning]]
-- [[Graphics Processing Unit]]
+- [[Adversarial Example]]

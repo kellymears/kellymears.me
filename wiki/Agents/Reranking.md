@@ -27,6 +27,6 @@ Evaluation uses ranking metrics: recall at *k* for the first stage, since anythi
 
 ## See also
 - [[Cosine Similarity]]
-- [[Vector Database]]
+- [[Recommender System]]
 - [[Inverted Index]]
 - [[Embedding]]

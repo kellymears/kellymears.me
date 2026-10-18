@@ -15,7 +15,7 @@ The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed up
 
 ## See also
 - [[Polyfill]]
-- [[Secret Management]]
+- [[Adversarial Example]]
 - [[Commit Signing]]
 - [[Open Source Sustainability]]
 - [[Code Signing]]

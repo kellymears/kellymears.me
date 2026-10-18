@@ -33,4 +33,4 @@ The biological analogy is loose. Real neurons spike, learn locally, and are wire
 - [[Supervised Learning]]
 - [[Residual Connection]]
 - [[Pretraining]]
-- [[Recurrent Neural Network]]
+- [[Expert System]]

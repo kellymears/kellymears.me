@@ -27,3 +27,4 @@ Other techniques regularize indirectly. Stochastic [[Gradient Descent]] adds noi
 ## See also
 - [[Supervised Learning]]
 - [[Regression to the Mean]]
+- [[Decision Tree]]

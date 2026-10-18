@@ -19,3 +19,4 @@ Parasocial bonds aren't inherently pathological — they scale a normal social i
 - [[Body Doubling]]
 - [[Dunbar's Number]]
 - [[Context Collapse]]
+- [[ELIZA Effect]]

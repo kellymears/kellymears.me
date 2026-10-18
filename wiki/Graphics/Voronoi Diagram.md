@@ -30,7 +30,7 @@ Voronoi questions are also nearest-facility questions. Which hospital, cell towe
 Weighted variants give some seeds more pull, modeling crystal grains and the market areas of competing towns.
 
 ## See also
-- [[Procedural Generation]]
+- [[K-Means Clustering]]
 - [[Perlin Noise]]
 - [[Spatial Partitioning]]
 - [[Cellular Automaton]]

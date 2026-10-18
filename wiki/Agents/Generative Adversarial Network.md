@@ -30,3 +30,4 @@ The adversarial idea outlived the architecture. Pitting a system against an oppo
 - [[Adversarial Review]]
 - [[Neural Network]]
 - [[Convolution]]
+- [[Adversarial Example]]

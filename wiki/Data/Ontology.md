@@ -31,3 +31,4 @@ The limits are human. Agreeing on definitions across communities is slow and pol
 - [[Graph Database]]
 - [[Information Architecture]]
 - [[Zettelkasten]]
+- [[Expert System]]

@@ -21,7 +21,7 @@ The defenses that hold are architectural rather than linguistic:
 - [[Guardrail]]
 - [[Secret Management]]
 - [[Supply Chain Security]]
-- [[Least Privilege]]
+- [[Adversarial Example]]
 - [[Model Context Protocol]]
 - [[Prompt]]
 

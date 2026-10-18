@@ -28,7 +28,7 @@ Synthetic speech matters greatly for [[Accessibility]]. Screen readers often run
 Voice cloning brings serious risks. Fraudsters have imitated relatives in distress and executives authorizing payments, and in 2024 a robocall imitating a US president's voice told voters to skip a primary, after which the FCC ruled AI voices in robocalls illegal under existing law. Responses include consent requirements, inaudible watermarks, and detection tools, none fully reliable, a reminder that voice alone no longer proves identity.
 
 ## See also
-- [[Automatic Speech Recognition]]
+- [[Optical Character Recognition]]
 - [[Multimodal Model]]
 - [[Token]]
 - [[Accessibility]]

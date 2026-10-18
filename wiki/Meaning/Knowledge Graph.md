@@ -27,3 +27,4 @@ The failure mode of the formal kind is over-modeling — an ontology so precise 
 - [[Graph Database]]
 - [[Ontology]]
 - [[Small-World Network]]
+- [[Expert System]]

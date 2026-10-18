@@ -26,8 +26,8 @@ Machines raised the question again in 2023, when [[Large Language Model]] system
 
 ## See also
 - [[Dunbar's Number]]
-- [[Neurodiversity]]
-- [[Masking]]
+- [[Turing Test]]
+- [[ELIZA Effect]]
 - [[Parasocial Relationship]]
 - [[Aphantasia]]
 - [[Prosopagnosia]]

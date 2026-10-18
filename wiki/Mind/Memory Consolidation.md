@@ -30,3 +30,4 @@ Machine learning ran into the same problem. A neural network trained on a new ta
 - [[Working Memory]]
 - [[Segmented Sleep]]
 - [[Sleep Deprivation]]
+- [[Catastrophic Forgetting]]

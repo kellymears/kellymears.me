@@ -26,7 +26,7 @@ The bandit is also the one-state special case of [[Reinforcement Learning]], whe
 People face the same dilemma: the favorite restaurant or a new one. Research on human choice finds that people explore more when they have a long horizon ahead, which suggests [[Curiosity]] is partly a rational response to uncertainty. Children explore more than adults, which fits: they have the most future ahead.
 
 ## See also
-- [[Reinforcement Learning]]
+- [[Recommender System]]
 - [[AB Testing]]
 - [[Model Routing]]
 - [[Curiosity]]

@@ -30,5 +30,5 @@ Counterweights exist. Blind review, lotteries for grant funding among qualified 
 - [[Availability Cascade]]
 - [[Rent-Seeking]]
 - [[Dunbar's Number]]
-- [[Search Engine Optimization]]
+- [[Recommender System]]
 - [[Small-World Network]]

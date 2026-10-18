@@ -17,8 +17,8 @@ Real accuracy is dominated by what the headline number omits: proper nouns and r
 ## See also
 - [[Distribution Shift]]
 - [[Subtitling]]
-- [[Large Language Model]]
-- [[Token]]
+- [[Moravec's Paradox]]
+- [[Optical Character Recognition]]
 - [[Nondeterminism]]
 - [[Edit Distance]]
 - [[Text-to-Speech]]

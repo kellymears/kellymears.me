@@ -25,7 +25,7 @@ Live evaluation costs money and time, which is why most harnesses replay; see [[
 - [[Sycophancy]]
 
 ## Related
-- [[Tool Use]]
+- [[Turing Test]]
 - [[Test Double]]
 - [[Benchmark Contamination]]
 - [[Train-Test Split]]
