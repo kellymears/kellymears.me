@@ -28,3 +28,4 @@ Fuzzing is a major source of security fixes, because parsers of untrusted input,
 - [[Supply Chain Security]]
 - [[Cross-Site Scripting]]
 - [[Code Coverage]]
+- [[Differential Testing]]

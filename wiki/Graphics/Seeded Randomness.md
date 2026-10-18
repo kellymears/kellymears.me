@@ -23,6 +23,7 @@ Two cautions. A generator's *quality* matters for simulation and not much for ga
 - [[Constraint Propagation]]
 - [[L-System]]
 - [[Game AI]]
+- [[Deterministic Simulation Testing]]
 
 ## Related
 - [[Voxel]]

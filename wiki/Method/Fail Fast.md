@@ -20,6 +20,7 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 - [[Observability]]
 - [[Assertion]]
 - [[Human in the Loop]]
+- [[Design by Contract]]
 
 ## Related
 - [[Unreachable Code]]

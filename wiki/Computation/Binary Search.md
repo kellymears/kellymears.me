@@ -22,3 +22,4 @@ The halving generalizes to any predicate that is false then true, which is why b
 - [[Assertion]]
 - [[Unit Test]]
 - [[Reproducible Case]]
+- [[Boundary Value Analysis]]

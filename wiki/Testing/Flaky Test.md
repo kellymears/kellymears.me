@@ -28,6 +28,7 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 - [[Regression]]
 - [[Test Isolation]]
 - [[End-to-End Test]]
+- [[Deterministic Simulation Testing]]
 
 ## Related
 - [[Ground Truth]]

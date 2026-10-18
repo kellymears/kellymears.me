@@ -24,6 +24,7 @@ It works best under a few constraints.
 - [[Assertion]]
 - [[Nondeterminism]]
 - [[Multi-Agent Orchestration]]
+- [[Test Oracle]]
 
 ## Related
 - [[Record and Replay Testing]]

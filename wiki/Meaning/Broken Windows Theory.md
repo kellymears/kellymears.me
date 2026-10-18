@@ -21,3 +21,4 @@ The implementation costs are documented separately and little disputed. Enforcem
 - [[Root Cause Analysis]]
 - [[Collective Action]]
 - [[Goodhart's Law]]
+- [[Static Analysis]]

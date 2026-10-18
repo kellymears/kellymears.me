@@ -19,3 +19,4 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 - [[Documentation Rot]]
 - [[Regression]]
 - [[API Translation Layer]]
+- [[Characterization Test]]

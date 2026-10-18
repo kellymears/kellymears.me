@@ -21,6 +21,7 @@ It composes naturally with [[Continuous Deployment]]: a pipeline that ships ever
 - [[Continuous Deployment]]
 - [[AB Testing]]
 - [[Chaos Engineering]]
+- [[Shadow Traffic]]
 
 ## Related
 - [[Zero-Downtime Deployment]]

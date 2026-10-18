@@ -22,6 +22,8 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Reproducible Case]]
 - [[Fan-Out and Fan-In]]
 - [[Logical Clock]]
+- [[Deterministic Simulation Testing]]
+- [[Formal Verification]]
 
 ## Related
 - [[Ground Truth]]

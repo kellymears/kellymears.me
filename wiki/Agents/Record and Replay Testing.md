@@ -24,6 +24,7 @@ Recordings are also a corpus meant to be read later, so a false verdict inside o
 - [[Determinism]]
 - [[Test Double]]
 - [[Nondeterminism]]
+- [[Shadow Traffic]]
 
 ## Related
 - [[LLM-as-Judge]]

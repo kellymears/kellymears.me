@@ -14,14 +14,13 @@ The anti-pattern it warns against is the **ice cream cone**: a suite that is mos
 
 The pyramid has been challenged, mostly over the middle:
 
-- **The testing trophy**, from Kent C. Dodds, argues that integration tests give the best confidence per cost for typical web applications, so the middle should be the widest layer, with static analysis such as type checking as the base.
+- **The testing trophy**, from Kent C. Dodds, argues that integration tests give the best confidence per cost for typical web applications, so the middle should be the widest layer, with [[Static Analysis|static analysis]] such as type checking as the base.
 - **Over-mocked unit tests** can pass while the system is broken. A unit suite full of [[Test Double]] objects verifies how code calls its collaborators, not that the collaboration works, and refactoring breaks such tests without breaking behavior.
 - **Definitions blur.** "Unit" can mean one function or one module with its real dependencies, so teams arguing about shapes are often arguing about vocabulary.
 
 The durable lesson is about the trade-offs, not the triangle. Each test should sit at the lowest level that can catch the failure it guards against. Logic belongs in fast tests, wiring in integration tests, and only critical user journeys in E2E. [[Contract Testing]] covers service boundaries without full environments. A [[Code Coverage]] number says nothing about whether the shape is right, and treating it as the goal invites [[Goodhart's Law]]. [[Mutation Testing]] is a better check on whether the base actually catches anything.
 
 ## See also
-- [[Unit Test]]
 - [[Integration Test]]
 - [[End-to-End Test]]
 - [[Contract Testing]]

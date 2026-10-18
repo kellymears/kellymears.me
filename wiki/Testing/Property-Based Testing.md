@@ -19,3 +19,6 @@ The hard part is the one the technique's name is honest about: finding a propert
 - [[Test Fixture]]
 - [[Fuzzing]]
 - [[Exploratory Testing]]
+- [[Boundary Value Analysis]]
+- [[Test Oracle]]
+- [[Design by Contract]]

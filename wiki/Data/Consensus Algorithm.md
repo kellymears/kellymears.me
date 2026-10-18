@@ -20,3 +20,5 @@ The core guarantee any consensus algorithm provides is safety under partial fail
 - [[Database Replication]]
 - [[Gossip Protocol]]
 - [[Logical Clock]]
+- [[Formal Verification]]
+- [[Deterministic Simulation Testing]]

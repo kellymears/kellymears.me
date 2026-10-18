@@ -19,6 +19,8 @@ The main misuse is treating it as a mandate to test every function in isolation.
 - [[Assertion]]
 - [[Regression]]
 - [[Code Coverage]]
+- [[Behavior-Driven Development]]
+- [[Characterization Test]]
 
 ## Related
 - [[Vacuous Truth]]

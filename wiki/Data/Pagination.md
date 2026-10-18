@@ -28,3 +28,4 @@ Interface design shapes which one fits. Numbered pages suit search results where
 - [[Truncation Bias]]
 - [[Optimistic Locking]]
 - [[N+1 Query Problem]]
+- [[Boundary Value Analysis]]

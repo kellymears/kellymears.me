@@ -18,6 +18,7 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 - [[Defensive Default]]
 - [[Fail Fast]]
 - [[Design System]]
+- [[Design by Contract]]
 
 ## Related
 - [[Worse Is Better]]

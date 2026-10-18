@@ -22,6 +22,7 @@ Two habits keep repros honest. Write the reproduction *before* the fix, so you h
 - [[Observability]]
 - [[Fuzzing]]
 - [[Exploratory Testing]]
+- [[Deterministic Simulation Testing]]
 
 ## Related
 - [[Vacuous Truth]]

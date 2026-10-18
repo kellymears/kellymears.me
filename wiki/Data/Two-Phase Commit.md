@@ -18,6 +18,7 @@ Modern distributed systems mostly route around it rather than fixing it: [[Event
 - [[Eventual Consistency]]
 - [[Saga Pattern]]
 - [[Transactional Outbox]]
+- [[Formal Verification]]
 
 ## Related
 - [[CAP Theorem]]

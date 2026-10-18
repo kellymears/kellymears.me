@@ -20,6 +20,7 @@ Two further notes. Fixtures should be *local and deterministic* where the assert
 - [[Record and Replay Testing]]
 - [[Integration Test]]
 - [[Test Isolation]]
+- [[Behavior-Driven Development]]
 
 ## Related
 - [[Unit Test]]

@@ -22,6 +22,7 @@ Ground truth also has a *staleness* dimension. A measurement is only about the t
 - [[Silent Failure]]
 - [[Root Cause Analysis]]
 - [[Vacuous Truth]]
+- [[Test Oracle]]
 
 ## Related
 - [[Exhaustive Claim]]

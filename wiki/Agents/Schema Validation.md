@@ -22,6 +22,7 @@ Validation is the natural boundary for a system taking model output; see [[Struc
 - [[Constrained Decoding]]
 - [[Tool Use]]
 - [[Unreachable Code]]
+- [[Design by Contract]]
 
 ## Related
 - [[Prompt Engineering]]

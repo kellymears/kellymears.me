@@ -18,3 +18,6 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Type Inference]]
 - [[Pattern Matching]]
 - [[Garbage Collection]]
+- [[Static Analysis]]
+- [[Differential Testing]]
+- [[Formal Verification]]

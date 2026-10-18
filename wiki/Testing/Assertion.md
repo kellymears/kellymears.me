@@ -26,6 +26,8 @@ A related discipline: when a test is written after a fix, revert the fix and wat
 - [[LLM-as-Judge]]
 - [[Fail Fast]]
 - [[Nondeterminism]]
+- [[Design by Contract]]
+- [[Test Oracle]]
 
 ## Related
 - [[Silent Failure]]

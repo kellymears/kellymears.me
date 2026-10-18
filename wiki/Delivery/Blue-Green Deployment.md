@@ -18,6 +18,7 @@ It's a coarser instrument than [[Canary Release]], which shifts a small percenta
 - [[Rollback]]
 - [[Zero-Downtime Deployment]]
 - [[Feature Flag]]
+- [[Shadow Traffic]]
 
 ## Related
 - [[Database Migration]]

@@ -18,6 +18,8 @@ The practical cost is why mutation testing isn't run on every commit the way cov
 - [[Unit Test]]
 - [[Fuzzing]]
 - [[Test Pyramid]]
+- [[Boundary Value Analysis]]
+- [[Test Oracle]]
 
 ## Related
 - [[Assertion]]

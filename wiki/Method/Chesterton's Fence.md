@@ -19,6 +19,7 @@ The principle has a mirror, and both are needed. A fence whose reason has expire
 - [[Naming]]
 - [[Code Review]]
 - [[Unreachable Code]]
+- [[Characterization Test]]
 
 ## Related
 - [[Plausible Mechanism]]
