@@ -18,3 +18,5 @@ Both tissue types share a frustrating property: they are relatively **poorly vas
 - [[Fracture Fixation]]
 - [[Supercompensation]]
 - [[Protein Denaturation]]
+- [[Delayed Onset Muscle Soreness]]
+- [[Hormesis]]

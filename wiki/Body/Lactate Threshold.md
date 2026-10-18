@@ -10,7 +10,7 @@ summary: The intensity above which lactate builds up in the blood faster than it
 ---
 The **lactate threshold** is the exercise intensity above which lactate accumulates in the blood faster than the body can clear it. Below it, effort can be held for a long time. Above it, fatigue arrives on a clock measured in minutes. Most endurance performance comes down to how high this line sits.
 
-Lactate itself has an undeserved reputation. It is not a waste product and it does not cause next-day muscle soreness, which is a separate process of micro-damage and [[Inflammation]]. Muscles produce lactate constantly, even at rest. It is a fuel: George Brooks' *lactate shuttle* work showed it moving between muscle fibers, the heart, and the liver, which burn it or rebuild it into glucose. The trouble above threshold is the accompanying accumulation of hydrogen ions and other metabolites, which interferes with muscle contraction. Lactate is a convenient marker for that state, not its cause.
+Lactate itself has an undeserved reputation. It is not a waste product and it does not cause next-day [[Delayed Onset Muscle Soreness|muscle soreness]], which is a separate process of micro-damage and [[Inflammation]]. Muscles produce lactate constantly, even at rest. It is a fuel: George Brooks' *lactate shuttle* work showed it moving between muscle fibers, the heart, and the liver, which burn it or rebuild it into glucose. The trouble above threshold is the accompanying accumulation of hydrogen ions and other metabolites, which interferes with muscle contraction. Lactate is a convenient marker for that state, not its cause.
 
 Physiologists usually describe two turn points:
 
@@ -29,3 +29,5 @@ Measuring it properly means drawing blood from a fingertip or earlobe at progres
 - [[Glycogen]]
 - [[Backpressure]]
 - [[Fermentation]]
+- [[Delayed Onset Muscle Soreness]]
+- [[Muscle Fiber Types]]

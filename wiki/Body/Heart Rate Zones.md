@@ -30,3 +30,5 @@ Perceived exertion is the other half. Rating how hard an effort feels is surpris
 - [[Thermoregulation]]
 - [[Interoception]]
 - [[Latency and Jitter]]
+- [[Heart Rate Variability]]
+- [[Heat Acclimation]]

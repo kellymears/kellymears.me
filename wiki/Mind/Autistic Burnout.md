@@ -29,3 +29,4 @@ Recovery is mostly about reducing load: dropping masking where safe, cutting dem
 - [[Neurodiversity]]
 - [[Training Load]]
 - [[Autistic Inertia]]
+- [[Allostatic Load]]

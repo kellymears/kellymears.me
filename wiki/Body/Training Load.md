@@ -34,3 +34,5 @@ The models are useful and easy to over-trust. They see only what the sensors see
 - [[Pressure Stall Information]]
 - [[Overfitting]]
 - [[Autistic Burnout]]
+- [[Heart Rate Variability]]
+- [[Allostatic Load]]

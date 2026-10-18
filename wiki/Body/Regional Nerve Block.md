@@ -20,6 +20,7 @@ The countermeasure is planning around the cliff rather than reacting to it: star
 - [[Fracture Fixation]]
 - [[Xenobiotic Metabolism]]
 - [[Moist Wound Healing]]
+- [[Central Sensitization]]
 
 ## Related
 - [[Plausible Mechanism]]

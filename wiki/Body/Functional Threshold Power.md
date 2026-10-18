@@ -33,3 +33,4 @@ The number invites [[Goodhart's Law]]. Riders retest, chase the figure, and trai
 - [[Torque]]
 - [[Goodhart's Law]]
 - [[Rolling Resistance]]
+- [[Muscle Fiber Types]]

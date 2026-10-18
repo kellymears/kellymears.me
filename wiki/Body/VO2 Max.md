@@ -25,3 +25,5 @@ Its strongest claim may be outside sport. Cardiorespiratory fitness is one of th
 - [[Supercompensation]]
 - [[Thermoregulation]]
 - [[Goodhart's Law]]
+- [[Muscle Fiber Types]]
+- [[Heat Acclimation]]

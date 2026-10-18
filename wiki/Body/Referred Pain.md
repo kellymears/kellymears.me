@@ -18,3 +18,4 @@ Referred pain is distinct from radiating pain, which travels along a single nerv
 - [[Proprioception]]
 - [[Compartment Syndrome]]
 - [[Analgesic Ladder]]
+- [[Central Sensitization]]

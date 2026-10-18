@@ -30,3 +30,4 @@ Habits save effort. Each automatic action is one decision fewer, protecting agai
 - [[Compulsion Loop]]
 - [[Doomscrolling]]
 - [[Path Dependence]]
+- [[Motor Learning]]

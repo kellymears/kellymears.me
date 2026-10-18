@@ -32,3 +32,4 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 - [[Fail Fast]]
 - [[CAP Theorem]]
 - [[Canary Release]]
+- [[Hormesis]]

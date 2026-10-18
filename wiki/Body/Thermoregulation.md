@@ -19,3 +19,5 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 - [[Heart Rate Zones]]
 - [[Protein Denaturation]]
 - [[Osmosis]]
+- [[Heat Acclimation]]
+- [[Hormesis]]

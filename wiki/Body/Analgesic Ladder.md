@@ -19,3 +19,4 @@ The ladder's underlying premise — that pain severity should be matched, not ex
 - [[Regional Nerve Block]]
 - [[Referred Pain]]
 - [[Inflammation]]
+- [[Central Sensitization]]

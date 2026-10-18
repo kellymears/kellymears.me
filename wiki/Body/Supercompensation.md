@@ -30,3 +30,6 @@ The single-session curve is a simplification. Real training overlaps sessions lo
 - [[Tendon and Ligament]]
 - [[Inflammation]]
 - [[Segmented Sleep]]
+- [[Hormesis]]
+- [[Delayed Onset Muscle Soreness]]
+- [[Heart Rate Variability]]

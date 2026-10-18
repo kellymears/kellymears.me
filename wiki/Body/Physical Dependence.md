@@ -22,3 +22,5 @@ Folk comparisons — "X is basically the same as Y" — collapse these axes into
 - [[Prototype Theory]]
 - [[Segmented Sleep]]
 - [[Fracture Nonunion]]
+- [[Central Sensitization]]
+- [[Sleep Pressure]]

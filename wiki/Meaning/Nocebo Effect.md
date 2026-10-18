@@ -17,3 +17,4 @@ The effect creates a genuine ethical bind in medicine: informed consent requires
 - [[Availability Cascade]]
 - [[Umami]]
 - [[Predictive Processing]]
+- [[Central Sensitization]]
