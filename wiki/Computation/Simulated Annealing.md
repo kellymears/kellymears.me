@@ -32,3 +32,4 @@ It belongs to a family of *metaheuristics*, general search strategies that inclu
 - [[Nucleation]]
 - [[Divide and Conquer]]
 - [[Stable Matching]]
+- [[Multi-Armed Bandit]]

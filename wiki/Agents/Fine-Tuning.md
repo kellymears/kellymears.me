@@ -24,3 +24,4 @@ The tradeoff against prompting is worth being explicit about: fine-tuning is the
 - [[In-Context Learning]]
 - [[Gradient Descent]]
 - [[Backpropagation]]
+- [[Open-Weight Model]]

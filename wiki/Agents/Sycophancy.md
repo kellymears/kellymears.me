@@ -32,7 +32,7 @@ Mitigations work at several levels:
 Sycophancy is related to [[Hallucination]]: both produce fluent, confident text shaped by what seems expected rather than by what is true.
 
 ## See also
-- [[Reinforcement Learning from Human Feedback]]
+- [[Jailbreak]]
 - [[Reward Hacking]]
 - [[Confirmation Bias]]
 - [[Adversarial Review]]

@@ -29,3 +29,4 @@ The practical rule: measure the compiled schema, not the source. See [[JSON Sche
 ## Related
 - [[Tool Use]]
 - [[Large Language Model]]
+- [[Softmax]]

@@ -36,3 +36,4 @@ The judgments themselves carry the values and blind spots of whoever writes the 
 - [[Sycophancy]]
 - [[Reward Hacking]]
 - [[Pretraining]]
+- [[Reinforcement Learning]]

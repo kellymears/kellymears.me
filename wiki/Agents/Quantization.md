@@ -23,3 +23,5 @@ Quantization is largely orthogonal to [[Fine-Tuning]] — a model can be fine-tu
 - [[Graphics Processing Unit]]
 - [[Knowledge Distillation]]
 - [[Neural Network]]
+- [[Open-Weight Model]]
+- [[Perplexity]]

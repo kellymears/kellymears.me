@@ -24,7 +24,7 @@ The statistics are easy to misuse:
 A/B testing also carries ethical and strategic risks. Optimizing a single metric tends to find [[Dark Pattern]] designs that win the measurement while hurting users, and short-term clicks are a poor proxy for long-term trust. That is [[Goodhart's Law]] applied through statistics. The approach also only compares the options someone thought to build, and local optimization can't find a better design far from the current one. It is the product world's form of [[Falsifiability]]: an idea counts only if it could have lost.
 
 ## See also
-- [[Correlation and Causation]]
+- [[Multi-Armed Bandit]]
 - [[Feature Flag]]
 - [[P-Hacking]]
 - [[Simpson's Paradox]]

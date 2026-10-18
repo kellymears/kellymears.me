@@ -33,7 +33,7 @@ Mitigations:
 A leaderboard score is best read alongside its date and the question: could the model have seen this before?
 
 ## See also
-- [[Goodhart's Law]]
+- [[Perplexity]]
 - [[Evaluation Harness]]
 - [[Benchmarking]]
 - [[LLM-as-Judge]]

@@ -15,7 +15,7 @@ RAG competes conceptually with just widening the [[Context Window]] and pasting 
 
 ## See also
 - [[Embedding]]
-- [[Vector Database]]
+- [[Reranking]]
 - [[Context Window]]
 - [[Hallucination]]
 - [[Inverted Index]]

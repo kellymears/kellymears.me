@@ -34,3 +34,4 @@ A related measure, *Kolmogorov complexity*, defines the information in a single 
 - [[Hash Function]]
 - [[Bloom Filter]]
 - [[Byte-Pair Encoding]]
+- [[Perplexity]]

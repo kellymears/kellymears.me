@@ -31,7 +31,8 @@ Attention spreads finite weight across everything in context, which helps explai
 
 ## See also
 - [[Backpropagation]]
-- [[KV Cache]]
-- [[Context Window]]
+- [[Residual Connection]]
+- [[Recurrent Neural Network]]
 - [[Context Rot]]
 - [[Neural Network]]
+- [[Softmax]]

@@ -23,3 +23,4 @@ Real accuracy is dominated by what the headline number omits: proper nouns and r
 - [[Edit Distance]]
 - [[Text-to-Speech]]
 - [[Multimodal Model]]
+- [[Recurrent Neural Network]]

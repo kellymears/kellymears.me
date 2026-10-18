@@ -32,6 +32,6 @@ Earlier n-gram models, essentially a [[Markov Chain]] over words, predicted the 
 
 ## See also
 - [[Information Theory]]
-- [[Fine-Tuning]]
+- [[Perplexity]]
 - [[Gradient Descent]]
 - [[Benchmark Contamination]]

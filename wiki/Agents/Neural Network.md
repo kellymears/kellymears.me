@@ -23,7 +23,7 @@ Architectures shape networks for their data:
 - **Recurrent networks** process sequences one step at a time, carrying a hidden state forward.
 - **Transformers** let every position look at every other through the [[Attention Mechanism]], and now dominate language, vision, and audio.
 
-Training adjusts weights by [[Gradient Descent]] to reduce a loss, a number measuring how wrong the outputs are. Networks large enough to memorize their training data risk [[Overfitting]], yet very large networks trained on enough data generalize surprisingly well, part of what [[Scaling Laws]] describe.
+Training adjusts weights by [[Gradient Descent]] to reduce a loss, a number measuring how wrong the outputs are. Networks large enough to memorize their training data risk [[Overfitting]], yet large networks trained on enough data generalize surprisingly well, part of what [[Scaling Laws]] describe.
 
 Inside, a trained network represents concepts as directions in its layers' activations, the same geometry that makes an [[Embedding]] useful. What each part computes is not written anywhere, which is why understanding a network requires the reverse-engineering of [[Mechanistic Interpretability]].
 
@@ -31,6 +31,6 @@ The biological analogy is loose. Real neurons spike, learn locally, and are wire
 
 ## See also
 - [[Pareidolia]]
-- [[Backpropagation]]
+- [[Residual Connection]]
 - [[Pretraining]]
-- [[Quantization]]
+- [[Recurrent Neural Network]]

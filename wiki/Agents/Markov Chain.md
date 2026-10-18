@@ -21,3 +21,5 @@ The result is text that is locally fluent and globally incoherent. Each transiti
 - [[Automatic Speech Recognition]]
 - [[Mechanistic Interpretability]]
 - [[Pretraining]]
+- [[Reinforcement Learning]]
+- [[Recurrent Neural Network]]

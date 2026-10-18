@@ -15,8 +15,8 @@ Inference splits into two phases with different bottlenecks. **Prefill** process
 Because the cache is keyed by exact token prefix, anything that changes an early token, such as a timestamp in the [[System Prompt]], invalidates everything after it.
 
 ## See also
-- [[Prompt Caching]]
-- [[Speculative Decoding]]
+- [[Recurrent Neural Network]]
+- [[Softmax]]
 - [[Context Window]]
 - [[Token Budget]]
 - [[Latency and Jitter]]

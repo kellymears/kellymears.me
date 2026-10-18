@@ -22,3 +22,4 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 - [[HyperLogLog]]
 - [[Skip List]]
 - [[Information Theory]]
+- [[Superposition]]

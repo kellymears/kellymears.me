@@ -30,3 +30,4 @@ The idea echoes human teaching: a learner gains from seeing how close the altern
 - [[Fine-Tuning]]
 - [[Speculative Decoding]]
 - [[Diffusion Model]]
+- [[Open-Weight Model]]

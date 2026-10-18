@@ -28,3 +28,4 @@ The same discipline applies to humans reviewing machine output, and to the revie
 - [[Ground Truth]]
 - [[Exhaustive Claim]]
 - [[Penetration Testing]]
+- [[Jailbreak]]

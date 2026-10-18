@@ -23,3 +23,5 @@ The practical rule of thumb is that temperature should track the task's toleranc
 - [[Diffusion Model]]
 - [[Simulated Annealing]]
 - [[Information Theory]]
+- [[Softmax]]
+- [[Perplexity]]

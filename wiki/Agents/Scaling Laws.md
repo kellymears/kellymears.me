@@ -34,3 +34,4 @@ As gains from pretraining slowed, attention turned to a second axis: spending mo
 - [[Large Language Model]]
 - [[Neural Network]]
 - [[Gradient Descent]]
+- [[Perplexity]]

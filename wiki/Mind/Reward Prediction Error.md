@@ -23,8 +23,8 @@ The signal underpins [[Habit Formation]], where behavior that is reliably reward
 
 ## See also
 - [[Boredom]]
-- [[Habit Formation]]
-- [[Hedonic Treadmill]]
+- [[Reinforcement Learning]]
+- [[Multi-Armed Bandit]]
 - [[Compulsion Loop]]
 - [[Placebo Effect]]
 - [[Rabbit Hole]]

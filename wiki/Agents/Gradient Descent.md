@@ -32,6 +32,6 @@ Large training runs spread minibatches across thousands of GPUs and average thei
 
 ## See also
 - [[Backpropagation]]
-- [[Neural Network]]
+- [[Residual Connection]]
 - [[Overfitting]]
 - [[Simulated Annealing]]

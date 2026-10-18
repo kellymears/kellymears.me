@@ -21,3 +21,5 @@ Embedding models are also usually distinct from the generation model in a pipeli
 - [[Context Window]]
 - [[Inverted Index]]
 - [[Multimodal Model]]
+- [[Reranking]]
+- [[Superposition]]

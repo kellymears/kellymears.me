@@ -33,3 +33,4 @@ Curiosity varies between people. *Need for cognition*, the enjoyment of effortfu
 - [[Self-Determination Theory]]
 - [[Desirable Difficulty]]
 - [[Boredom]]
+- [[Multi-Armed Bandit]]

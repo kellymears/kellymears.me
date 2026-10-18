@@ -31,3 +31,4 @@ The defenses that hold are architectural rather than linguistic:
 - [[SQL Injection]]
 - [[Agent Sandbox]]
 - [[Computer Use]]
+- [[Jailbreak]]

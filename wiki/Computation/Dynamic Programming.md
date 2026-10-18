@@ -24,3 +24,4 @@ The common mistake is reaching for DP on a problem that only has optimal substru
 - [[Greedy Algorithm]]
 - [[Divide and Conquer]]
 - [[Backpropagation]]
+- [[Reinforcement Learning]]
