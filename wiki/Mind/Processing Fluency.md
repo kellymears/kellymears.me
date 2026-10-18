@@ -27,7 +27,7 @@ Some fluency findings have not held up. A widely cited 2011 claim that hard-to-r
 The practical lessons run in two directions. When communicating, fluency helps: plain language, clear type, and familiar structure make messages easier to accept. When evaluating, fluency is a warning sign. A claim that feels obviously true may just be familiar, an error that compounds with the [[Availability Heuristic]] and [[Confirmation Bias]].
 
 ## See also
-- [[Desirable Difficulty]]
+- [[Priming]]
 - [[Metacognition]]
 - [[Aesthetic-Usability Effect]]
-- [[Dual Process Theory]]
+- [[Mere-Exposure Effect]]

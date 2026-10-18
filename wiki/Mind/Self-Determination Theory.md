@@ -32,6 +32,6 @@ The needs map onto other ideas in this collection. Competence and absorption mee
 - [[Flow]]
 - [[Bartle Taxonomy]]
 - [[Cozy Game]]
-- [[Learned Helplessness]]
+- [[Locus of Control]]
 - [[Self-Efficacy]]
 - [[Magic Circle]]

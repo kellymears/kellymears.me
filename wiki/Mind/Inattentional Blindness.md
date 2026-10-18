@@ -24,5 +24,5 @@ Strong focus, as in [[Monotropism]] or [[Hyperfocus]], exaggerates both sides: d
 ## See also
 - [[Banner Blindness]]
 - [[Preattentive Processing]]
-- [[Working Memory]]
+- [[Attentional Blink]]
 - [[Vigilance Decrement]]

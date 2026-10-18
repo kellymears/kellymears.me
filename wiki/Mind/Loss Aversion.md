@@ -35,3 +35,4 @@ It fits with other findings about judgment: [[Anchoring Effect]] shows that refe
 - [[Decision Fatigue]]
 - [[Planning Fallacy]]
 - [[Variable-Ratio Reinforcement]]
+- [[Hyperbolic Discounting]]

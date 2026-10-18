@@ -28,3 +28,4 @@ Good practice reports the estimated effect with its [[Confidence Interval]], dec
 - [[Correlation and Causation]]
 - [[Pareto Principle]]
 - [[Goodhart's Law]]
+- [[Growth Mindset]]

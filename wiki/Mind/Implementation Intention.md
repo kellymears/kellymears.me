@@ -24,7 +24,7 @@ For programmers the structure will feel familiar. An implementation intention is
 ## See also
 - [[ADHD]]
 - [[Ironic Process Theory]]
-- [[Time Blindness]]
+- [[Commitment Device]]
 - [[Defensive Default]]
 - [[Pomodoro Technique]]
 - [[Prospective Memory]]

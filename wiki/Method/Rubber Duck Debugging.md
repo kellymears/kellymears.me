@@ -17,7 +17,7 @@ The technique's real relative is not conversation but writing: forcing a problem
 ## See also
 - [[Falsifiability]]
 - [[Silent Failure]]
-- [[Ground Truth]]
+- [[Functional Fixedness]]
 - [[Yak Shaving]]
 - [[Body Doubling]]
 - [[Default Mode Network]]

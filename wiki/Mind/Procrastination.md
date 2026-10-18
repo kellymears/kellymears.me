@@ -28,5 +28,5 @@ An unfinished task also keeps nagging, the [[Zeigarnik Effect]], which is why st
 - [[Emotional Regulation]]
 - [[Self-Compassion]]
 - [[ADHD]]
-- [[Parkinson's Law]]
-- [[Pomodoro Technique]]
+- [[Hyperbolic Discounting]]
+- [[Commitment Device]]

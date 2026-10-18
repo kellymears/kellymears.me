@@ -30,7 +30,7 @@ Self-compassion matters especially for people who spend much of their lives bein
 
 ## See also
 - [[Negativity Bias]]
-- [[Impostor Syndrome]]
-- [[Mindfulness]]
+- [[Fresh Start Effect]]
+- [[Growth Mindset]]
 - [[Emotional Regulation]]
 - [[Ironic Process Theory]]

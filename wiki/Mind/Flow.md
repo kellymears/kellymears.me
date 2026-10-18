@@ -25,7 +25,7 @@ Flow is not automatically good. It is indifferent to what it attaches to, and a 
 - [[Boredom]]
 - [[Choking Under Pressure]]
 - [[Dynamic Difficulty Adjustment]]
-- [[Compulsion Loop]]
+- [[Mind-Wandering]]
 - [[Hedonic Treadmill]]
 - [[Default Mode Network]]
 - [[Yerkes-Dodson Law]]

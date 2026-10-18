@@ -28,4 +28,4 @@ There is a close analogy in machines. A [[Context Window]] is a language model's
 - [[Recognition Rather Than Recall]]
 - [[Zettelkasten]]
 - [[Spaced Repetition]]
-- [[Selective Attention]]
+- [[Attentional Blink]]

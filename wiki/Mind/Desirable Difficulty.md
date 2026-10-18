@@ -29,6 +29,6 @@ The idea reaches beyond classrooms. Explaining a concept aloud, as in [[Rubber D
 ## See also
 - [[Expert Intuition]]
 - [[Metacognition]]
-- [[Motor Learning]]
-- [[Cognitive Load]]
+- [[Functional Fixedness]]
+- [[Growth Mindset]]
 - [[Processing Fluency]]

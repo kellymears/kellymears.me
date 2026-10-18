@@ -18,3 +18,4 @@ The error matters most where it has consequences: it drives harsher judgments of
 - [[Groupthink]]
 - [[Executive Function]]
 - [[Theory of Mind]]
+- [[Locus of Control]]

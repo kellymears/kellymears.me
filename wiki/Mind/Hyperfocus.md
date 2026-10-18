@@ -23,7 +23,7 @@ Living well with hyperfocus is mostly about the edges. External timers and alarm
 - [[Flow]]
 - [[Monotropism]]
 - [[ADHD]]
-- [[Executive Function]]
+- [[Mind-Wandering]]
 - [[Interoception]]
 - [[Neurodiversity]]
 - [[Autistic Inertia]]

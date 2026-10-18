@@ -27,7 +27,7 @@ Boredom is not evenly distributed. People with ADHD tend to be highly *boredom-p
 Games have even built a genre around tolerating it. An [[Idle Game]] turns waiting into the core loop, rewarding you for coming back after doing nothing.
 
 ## See also
-- [[Curiosity]]
-- [[Flow]]
+- [[Mere-Exposure Effect]]
+- [[Mind-Wandering]]
 - [[Doomscrolling]]
 - [[Vigilance Decrement]]

@@ -26,8 +26,8 @@ Habits save effort. Each automatic action is one decision fewer, protecting agai
 ## See also
 - [[Neuroplasticity]]
 - [[Classical Conditioning]]
-- [[Decision Fatigue]]
-- [[Compulsion Loop]]
+- [[Commitment Device]]
+- [[Fresh Start Effect]]
 - [[Doomscrolling]]
 - [[Path Dependence]]
 - [[Motor Learning]]

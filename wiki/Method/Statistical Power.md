@@ -34,3 +34,4 @@ Power also explains why absence of evidence is weak evidence of absence when a s
 - [[Randomized Controlled Trial]]
 - [[Fermi Estimation]]
 - [[Survivorship Bias]]
+- [[Priming]]

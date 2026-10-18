@@ -28,3 +28,4 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 - [[Premature Optimization]]
 - [[Refactoring]]
 - [[Spreadsheet]]
+- [[Hyperbolic Discounting]]

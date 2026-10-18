@@ -28,3 +28,4 @@ Because a subtitle file is plain text with stable indices, a change log keyed to
 - [[Video Game Localization]]
 - [[Internationalization]]
 - [[Creole Language]]
+- [[Attentional Blink]]

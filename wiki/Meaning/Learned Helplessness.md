@@ -20,3 +20,5 @@ The concept is easy to over-apply to any case of low motivation; it specifically
 - [[Allostatic Load]]
 - [[Self-Determination Theory]]
 - [[Self-Efficacy]]
+- [[Locus of Control]]
+- [[Growth Mindset]]

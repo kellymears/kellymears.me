@@ -15,7 +15,7 @@ What distinguishes the two is not the loop's shape but its **incentive structure
 ## See also
 - [[MDA Framework]]
 - [[Bartle Taxonomy]]
-- [[Roguelike Deckbuilder]]
+- [[Hyperbolic Discounting]]
 - [[Idle Game]]
 - [[Magic Circle]]
 - [[Flow]]

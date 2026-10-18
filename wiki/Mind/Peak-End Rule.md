@@ -27,7 +27,7 @@ It also explains some distortions. Vacations are remembered by their best day an
 The rule interacts with other memory effects. The [[Serial Position Effect]] also gives endings extra weight in lists. Distinctive peaks are remembered for the same reason as the [[Von Restorff Effect]]. And the gap between experience and memory relates to the [[Hedonic Treadmill]], since people adapt quickly to steady states while remembering changes. Reconstructed memories of experiences can drift further over time, as described under [[False Memory]].
 
 ## See also
-- [[Serial Position Effect]]
+- [[Fresh Start Effect]]
 - [[Dual Process Theory]]
 - [[Hedonic Treadmill]]
 - [[Response Time Limits]]

@@ -27,3 +27,4 @@ The defense is to track a claim's actual evidentiary history rather than the fee
 - [[False Memory]]
 - [[Processing Fluency]]
 - [[Brandolini's Law]]
+- [[Mere-Exposure Effect]]

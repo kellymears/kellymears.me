@@ -26,5 +26,5 @@ Countermeasures are external, since effort alone doesn't cure it. Test explanati
 - [[Metacognition]]
 - [[Theory of Mind]]
 - [[Expert Intuition]]
-- [[Usability Testing]]
+- [[Functional Fixedness]]
 - [[Prompt Engineering]]

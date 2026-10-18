@@ -24,10 +24,10 @@ The DMN generally works in opposition to the networks behind focused attention. 
 Boredom may partly be the experience of the DMN without anything good to work on, which is one reason a constant feed can feel calming and then draining. [[Doomscrolling]] fills every idle moment and leaves no room for the incubation that idle moments provide.
 
 ## See also
-- [[Flow]]
+- [[Functional Fixedness]]
 - [[Vigilance Decrement]]
 - [[Inner Speech]]
-- [[Doomscrolling]]
+- [[Mind-Wandering]]
 - [[Working Memory]]
 - [[Hyperfocus]]
 - [[Mindfulness]]

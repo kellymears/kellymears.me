@@ -38,3 +38,4 @@ The choice between showing and telling recurs in practice. Instructions state ru
 - [[Fine-Tuning]]
 - [[Attention Mechanism]]
 - [[Prompt Caching]]
+- [[Priming]]

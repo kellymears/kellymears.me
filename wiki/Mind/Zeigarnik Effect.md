@@ -25,8 +25,8 @@ For people whose [[Working Memory]] is already loaded, [[Extended Mind|offloadin
 ## See also
 - [[Prospective Memory]]
 - [[Progress Indicator]]
-- [[Compulsion Loop]]
-- [[Working Memory]]
+- [[Fresh Start Effect]]
+- [[Mind-Wandering]]
 - [[Chekhov's Gun]]
 - [[Publication Bias]]
 - [[Procrastination]]
