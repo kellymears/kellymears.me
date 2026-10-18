@@ -25,3 +25,5 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 - [[Tool Use]]
 - [[Nondeterminism]]
 - [[System Prompt]]
+- [[Planning Fallacy]]
+- [[Pre-mortem]]

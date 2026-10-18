@@ -28,7 +28,7 @@ The remedies all **externalize time**, turning an internal sense that doesn't wo
 ## See also
 - [[Prospective Memory]]
 - [[Hyperfocus]]
-- [[Hofstadter's Law]]
+- [[Planning Fallacy]]
 - [[Parkinson's Law]]
 - [[Circadian Rhythm]]
 - [[Body Doubling]]

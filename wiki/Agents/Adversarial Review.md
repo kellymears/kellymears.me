@@ -29,3 +29,5 @@ The same discipline applies to humans reviewing machine output, and to the revie
 - [[Exhaustive Claim]]
 - [[Penetration Testing]]
 - [[Jailbreak]]
+- [[Pre-mortem]]
+- [[Steelmanning]]

@@ -22,3 +22,5 @@ The law pairs naturally with [[Parkinson's Law]]: one says the work will take lo
 
 ## Related
 - [[Brooks's Law]]
+- [[Planning Fallacy]]
+- [[Pareto Principle]]

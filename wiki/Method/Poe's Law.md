@@ -24,3 +24,4 @@ The law grew more relevant as online audiences lost shared context — the same 
 - [[Naming]]
 - [[Kayfabe]]
 - [[Regulatory Capture]]
+- [[Steelmanning]]

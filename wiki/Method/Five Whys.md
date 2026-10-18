@@ -21,3 +21,5 @@ Five Whys works best as a prompt to keep asking, paired with a [[Blameless Postm
 
 ## Related
 - [[Rubber Duck Debugging]]
+- [[Hindsight Bias]]
+- [[Pre-mortem]]

@@ -33,7 +33,7 @@ Choosing an ORM shapes a codebase for years, much like choosing a framework. Its
 
 ## See also
 - [[Document Database]]
-- [[Relational Database]]
+- [[Leaky Abstraction]]
 - [[Query Planner]]
 - [[Database Migration]]
 - [[SQL Join]]

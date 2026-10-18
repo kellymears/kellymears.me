@@ -37,4 +37,4 @@ Layering lets each layer change independently: the same TCP runs over fiber, Wi-
 - [[Ethernet]]
 - [[Packet Switching]]
 - [[IP Routing]]
-- [[End-to-End Principle]]
+- [[Leaky Abstraction]]

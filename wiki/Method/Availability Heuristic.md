@@ -26,3 +26,4 @@ The corrective is the same move [[Fermi Estimation]] makes explicit: force yours
 - [[Availability Cascade]]
 - [[Von Restorff Effect]]
 - [[Processing Fluency]]
+- [[Hindsight Bias]]

@@ -30,3 +30,4 @@ People face the same dilemma: the favorite restaurant or a new one. Research on 
 - [[AB Testing]]
 - [[Model Routing]]
 - [[Curiosity]]
+- [[Randomized Controlled Trial]]

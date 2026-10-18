@@ -14,12 +14,12 @@ Confirmation bias compounds with [[Anchoring Effect]] — the first hypothesis a
 The practical countermeasure is cheap and specific: before accepting an explanation, write down one observation that would disprove it, then go check that observation before checking the ones that would confirm it. This single reordering — falsify first — does more work than any amount of "staying open-minded."
 
 ## See also
-- [[Falsifiability]]
+- [[Hindsight Bias]]
 - [[Processing Fluency]]
 - [[Pareidolia]]
 - [[Ground Truth]]
 - [[Base Rate Fallacy]]
-- [[Rejection Sensitivity]]
+- [[Steelmanning]]
 - [[Cognitive Dissonance]]
 - [[Sycophancy]]
 

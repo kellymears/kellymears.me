@@ -22,9 +22,9 @@ The framework explains a range of familiar effects:
 - **The body.** Applied inward, prediction underlies [[Interoception]]: the brain predicts heartbeat, hunger, and temperature and acts to keep them in range.
 - **Learning from surprise.** Dopamine's [[Reward Prediction Error]] signal is a special case: learning driven by the gap between expected and actual reward.
 
-Predictive accounts of autism propose that perception there relies less on prior expectations and gives more weight to incoming detail. That would make the world feel less predictable and more intense, plausibly contributing to [[Sensory Overload]] and to the comfort found in routine and sameness. Researchers still debate whether that is right.
+Predictive accounts of autism propose that perception there relies less on prior expectations, the priors of [[Bayes' Theorem]], and gives more weight to incoming detail. That would make the world feel less predictable and more intense, plausibly contributing to [[Sensory Overload]] and to the comfort found in routine and sameness. Researchers still debate whether that is right.
 
-Critics argue the framework is so flexible it risks explaining everything and predicting nothing, the worry raised by [[Falsifiability]]. The analogy to machine learning is close, though: a [[Large Language Model]] is trained only to predict the next [[Token]], and much of what it does emerges from that one objective.
+Critics argue the framework is so flexible it risks explaining everything and predicting nothing, the worry raised by [[Falsifiability]]. The analogy to machine learning is close, though: a [[Large Language Model]] is trained only to predict the next token, and much of what it does emerges from that one objective.
 
 ## See also
 - [[Homeostasis]]

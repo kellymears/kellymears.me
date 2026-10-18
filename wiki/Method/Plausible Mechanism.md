@@ -27,3 +27,4 @@ The rule that survives: before writing "because X", run something that would tel
 - [[Naming]]
 - [[Chesterton's Fence]]
 - [[Muscle Cramp]]
+- [[Bayes' Theorem]]

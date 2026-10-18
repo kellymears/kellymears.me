@@ -22,3 +22,4 @@ Most tests have a threshold, and moving it trades one error for the other; where
 - [[Monty Hall Problem]]
 - [[Falsifiability]]
 - [[Truncation Bias]]
+- [[Bayes' Theorem]]

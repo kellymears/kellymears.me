@@ -22,3 +22,5 @@ The method fails where its assumptions do. Heavy-tailed quantities have no typic
 - [[Sensitivity and Specificity]]
 - [[Plausible Mechanism]]
 - [[Anchoring Effect]]
+- [[Planning Fallacy]]
+- [[Bayes' Theorem]]

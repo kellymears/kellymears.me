@@ -25,3 +25,6 @@ It also disciplines prose. "This cast is required because the checker demands it
 ## Related
 - [[Glob]]
 - [[Truncation Bias]]
+- [[Hindsight Bias]]
+- [[Bayes' Theorem]]
+- [[Randomized Controlled Trial]]

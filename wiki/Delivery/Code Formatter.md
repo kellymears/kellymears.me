@@ -32,3 +32,4 @@ Enforcement usually happens twice: locally, so developers rarely see a failure, 
 - [[Atomic Commit]]
 - [[Branch Protection]]
 - [[YAML]]
+- [[Refactoring]]

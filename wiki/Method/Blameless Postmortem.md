@@ -25,10 +25,10 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 ## Related
 - [[Bus Factor]]
 - [[DORA Metrics]]
-- [[Backup and Restore]]
+- [[Pre-mortem]]
 - [[Incident Response]]
 - [[Site Reliability Engineering]]
-- [[Error Message]]
-- [[Risk-Based Testing]]
+- [[Hindsight Bias]]
+- [[Normalization of Deviance]]
 - [[Bug Triage]]
 - [[Git Blame]]

@@ -25,3 +25,4 @@ Scaling makes it obvious: with a hundred doors and a host who opens ninety-eight
 - [[Ground Truth]]
 - [[Root Cause Analysis]]
 - [[Exhaustive Claim]]
+- [[Bayes' Theorem]]

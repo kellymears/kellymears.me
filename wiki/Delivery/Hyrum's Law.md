@@ -15,7 +15,7 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 ## See also
 - [[Backward Compatibility]]
 - [[Polyfill]]
-- [[Chesterton's Fence]]
+- [[Leaky Abstraction]]
 - [[Documentation Rot]]
 - [[Regression]]
 - [[API Translation Layer]]

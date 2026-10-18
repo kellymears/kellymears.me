@@ -16,3 +16,4 @@ The razor has a clear edge, though, and treating it as absolute is its own error
 - [[Motte and Bailey]]
 - [[Ground Truth]]
 - [[Provenance]]
+- [[Steelmanning]]

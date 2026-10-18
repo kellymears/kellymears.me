@@ -23,7 +23,7 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 - [[Fake Clock]]
 - [[Determinism]]
 - [[Reproducible Case]]
-- [[Bundler]]
+- [[Normalization of Deviance]]
 - [[Instrumentation]]
 - [[Regression]]
 - [[Test Isolation]]

@@ -16,7 +16,7 @@ Naming interacts with the [[Taxonomy]] problem: a vocabulary is a shared model, 
 Test names are a special case: they should describe the scenario and the expected behavior, not the function under test, so a failure reads as a statement about the system.
 
 ## See also
-- [[Code Comment]]
+- [[Refactoring]]
 - [[Design System]]
 - [[Taxonomy]]
 - [[Code Review]]

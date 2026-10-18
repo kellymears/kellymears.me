@@ -28,3 +28,4 @@ For engineers, the practical corollary is to distrust your own confidence exactl
 - [[Impostor Syndrome]]
 - [[Expert Intuition]]
 - [[Processing Fluency]]
+- [[Planning Fallacy]]

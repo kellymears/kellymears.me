@@ -25,3 +25,4 @@ It sits directly behind [[Gall's Law]] and [[Minimum Viable Product]] as one mor
 - [[Network Effect]]
 - [[End-to-End Principle]]
 - [[Tesler's Law]]
+- [[Leaky Abstraction]]

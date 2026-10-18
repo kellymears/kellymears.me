@@ -32,5 +32,5 @@ The idea extends beyond programming languages. [[Markdown]] processors parse doc
 Languages often represent ASTs with an [[Algebraic Data Type]], where each node kind is one alternative, and transform them with [[Pattern Matching]]. Lisp is the extreme case: its code is written directly as nested lists, so programs and their syntax trees look the same, which makes it easy for Lisp programs to generate and transform other Lisp programs.
 
 ## See also
-- [[Static Analysis]]
+- [[Refactoring]]
 - [[Code Formatter]]

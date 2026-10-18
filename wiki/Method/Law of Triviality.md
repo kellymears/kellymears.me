@@ -18,3 +18,5 @@ The practical counter is to decide the trivial matters by default rather than by
 - [[Semantic Versioning]]
 - [[Fail Fast]]
 - [[Code Formatter]]
+- [[Steelmanning]]
+- [[Pareto Principle]]

@@ -22,3 +22,5 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 ## Related
 - [[Survivorship Bias]]
 - [[Blood Pressure]]
+- [[Randomized Controlled Trial]]
+- [[Hindsight Bias]]

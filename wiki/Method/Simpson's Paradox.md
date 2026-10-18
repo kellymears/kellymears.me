@@ -24,3 +24,4 @@ The defense is the same move every time: before trusting an aggregate comparison
 - [[Percentage Point]]
 - [[Small Multiples]]
 - [[Choropleth Map]]
+- [[Randomized Controlled Trial]]

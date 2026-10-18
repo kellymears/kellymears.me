@@ -19,3 +19,5 @@ The standard defenses are structural, matching the mechanism directly: preregist
 - [[Availability Cascade]]
 - [[AB Testing]]
 - [[Replication Crisis]]
+- [[Randomized Controlled Trial]]
+- [[Bayes' Theorem]]

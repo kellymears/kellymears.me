@@ -22,3 +22,4 @@ The corollary for software architecture is to build the smallest version that ac
 ## Related
 - [[Path Dependence]]
 - [[Strangler Fig Pattern]]
+- [[Leaky Abstraction]]

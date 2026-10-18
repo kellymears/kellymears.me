@@ -26,3 +26,4 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 - [[Naming]]
 - [[Code Comment]]
 - [[Premature Optimization]]
+- [[Refactoring]]

@@ -25,7 +25,7 @@ The pattern isn't unique to databases. [[Layout Thrashing]] in the browser is th
 
 ## See also
 - [[Stored Procedure]]
-- [[Denormalization]]
+- [[Leaky Abstraction]]
 - [[SQL Join]]
 - [[Latency and Jitter]]
 - [[Lazy Loading]]

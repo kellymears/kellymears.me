@@ -18,3 +18,4 @@ The uncomfortable edge is that the law describes a manipulation tactic as much a
 - [[Documentation Rot]]
 - [[Collective Action]]
 - [[Knowledge Graph]]
+- [[Steelmanning]]

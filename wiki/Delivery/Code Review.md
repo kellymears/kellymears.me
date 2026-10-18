@@ -15,7 +15,7 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 
 ## See also
 - [[Pull Request]]
-- [[Heuristic Evaluation]]
+- [[Refactoring]]
 - [[Atomic Commit]]
 - [[Human in the Loop]]
 - [[Code Comment]]
@@ -24,6 +24,6 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 
 ## Related
 - [[Documentation Rot]]
-- [[Squash Merge]]
+- [[Steelmanning]]
 - [[Pair Programming]]
 - [[Code Owners]]

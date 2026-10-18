@@ -28,7 +28,7 @@ Continuous profiling, which samples production systems at low overhead all the t
 
 ## See also
 - [[eBPF]]
-- [[Instrumentation]]
+- [[Pareto Principle]]
 - [[Call Stack]]
 - [[Observability]]
 - [[Locality of Reference]]

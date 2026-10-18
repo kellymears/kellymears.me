@@ -17,3 +17,4 @@ The caution runs the other way too: the accusation is frequently leveled at peop
 - [[Anchoring Effect]]
 - [[Naming]]
 - [[Hanlon's Razor]]
+- [[Steelmanning]]

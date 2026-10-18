@@ -25,7 +25,7 @@ A/B testing also carries ethical and strategic risks. Optimizing a single metric
 
 ## See also
 - [[Multi-Armed Bandit]]
-- [[Feature Flag]]
+- [[Randomized Controlled Trial]]
 - [[P-Hacking]]
 - [[Simpson's Paradox]]
 - [[Usability Testing]]

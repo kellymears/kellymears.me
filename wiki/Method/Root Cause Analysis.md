@@ -19,3 +19,5 @@ The same instinct applies one level up. When a fix introduces a [[Regression]], 
 - [[Silent Failure]]
 - [[Plausible Mechanism]]
 - [[Data Lineage]]
+- [[Hindsight Bias]]
+- [[Normalization of Deviance]]

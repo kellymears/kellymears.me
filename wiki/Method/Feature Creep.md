@@ -23,3 +23,5 @@ The defense isn't refusing all requests — it's requiring that a new feature's 
 
 ## Related
 - [[Parkinson's Law]]
+- [[Planning Fallacy]]
+- [[Pareto Principle]]

@@ -19,3 +19,4 @@ The counterintuitive consequence is that a larger biased sample is not safer tha
 - [[Automation Bias]]
 - [[Usability Testing]]
 - [[Reservoir Sampling]]
+- [[Randomized Controlled Trial]]

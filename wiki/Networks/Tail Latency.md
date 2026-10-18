@@ -38,5 +38,5 @@ Measuring the tail takes care. Percentiles can't be averaged across servers, and
 - [[Latency and Jitter]]
 - [[Queueing Theory]]
 - [[Microservices]]
-- [[Head-of-Line Blocking]]
+- [[Pareto Principle]]
 - [[Service Level Objective]]

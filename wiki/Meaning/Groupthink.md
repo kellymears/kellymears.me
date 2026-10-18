@@ -17,3 +17,5 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Spiral of Silence]]
 - [[Fundamental Attribution Error]]
 - [[Cognitive Dissonance]]
+- [[Pre-mortem]]
+- [[Steelmanning]]

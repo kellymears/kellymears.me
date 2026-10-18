@@ -23,3 +23,4 @@ The implementation costs are documented separately and little disputed. Enforcem
 - [[Goodhart's Law]]
 - [[Static Analysis]]
 - [[Entropy]]
+- [[Normalization of Deviance]]

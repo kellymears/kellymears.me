@@ -30,6 +30,6 @@ Floating point also undermines reproducibility. Different compilers, instruction
 ## See also
 - [[Microcode]]
 - [[JSON]]
-- [[Quantization]]
+- [[Leaky Abstraction]]
 - [[Null]]
 - [[Quaternion]]
