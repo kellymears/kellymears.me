@@ -33,3 +33,4 @@ The models are useful and easy to over-trust. They see only what the sensors see
 - [[Goodhart's Law]]
 - [[Pressure Stall Information]]
 - [[Overfitting]]
+- [[Autistic Burnout]]

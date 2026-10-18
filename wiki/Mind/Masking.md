@@ -3,7 +3,6 @@ aliases:
   - Camouflaging
   - Social camouflaging
   - Autistic masking
-  - Autistic burnout
 tags:
   - mind
 summary: Consciously or habitually suppressing neurodivergent traits and performing typical ones to fit in, at a cost that accumulates.
@@ -29,3 +28,4 @@ The social side is the [[Neurodiversity]] paradigm's point in miniature. Masking
 - [[Survivorship Bias]]
 - [[Stimming]]
 - [[Rejection Sensitivity]]
+- [[Autistic Burnout]]

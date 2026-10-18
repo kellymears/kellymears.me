@@ -28,3 +28,5 @@ For programmers the structure will feel familiar. An implementation intention is
 - [[Defensive Default]]
 - [[Pomodoro Technique]]
 - [[Finite State Machine]]
+- [[Habit Formation]]
+- [[Procrastination]]

@@ -30,3 +30,4 @@ Several practices follow:
 - [[Doomscrolling]]
 - [[Parkinson's Law]]
 - [[Zeigarnik Effect]]
+- [[Default Mode Network]]

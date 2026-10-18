@@ -20,6 +20,7 @@ It also disciplines prose. "This cast is required because the checker demands it
 - [[Coverage Gate]]
 - [[Ground Truth]]
 - [[Exhaustive Claim]]
+- [[Replication Crisis]]
 
 ## Related
 - [[Glob]]

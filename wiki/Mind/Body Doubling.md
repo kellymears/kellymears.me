@@ -29,3 +29,4 @@ There is a parallel in software practice. Pair programming, and even [[Rubber Du
 - [[Rubber Duck Debugging]]
 - [[Bystander Effect]]
 - [[Social Proof]]
+- [[Autistic Inertia]]

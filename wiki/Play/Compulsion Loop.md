@@ -20,3 +20,5 @@ What distinguishes the two is not the loop's shape but its **incentive structure
 - [[Live Service Game]]
 - [[Flow]]
 - [[Zeigarnik Effect]]
+- [[Reward Prediction Error]]
+- [[Habit Formation]]

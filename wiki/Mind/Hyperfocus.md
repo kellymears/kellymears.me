@@ -26,3 +26,4 @@ Living well with hyperfocus is mostly about the edges. External timers and alarm
 - [[Executive Function]]
 - [[Interoception]]
 - [[Neurodiversity]]
+- [[Autistic Inertia]]

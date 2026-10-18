@@ -32,3 +32,5 @@ Executive capacity also varies within one person. Sleep, stress, illness, and [[
 - [[Yak Shaving]]
 - [[Implementation Intention]]
 - [[Spoon Theory]]
+- [[Autistic Inertia]]
+- [[Procrastination]]

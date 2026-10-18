@@ -26,3 +26,5 @@ The concepts this domain collects, such as [[Executive Function]], [[Monotropism
 - [[Fundamental Attribution Error]]
 - [[Legibility]]
 - [[Sensory Overload]]
+- [[Autistic Burnout]]
+- [[Demand Avoidance]]

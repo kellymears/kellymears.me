@@ -29,3 +29,5 @@ The case is a good example of a [[Plausible Mechanism]] outrunning its evidence.
 - [[Publication Bias]]
 - [[Spoon Theory]]
 - [[Dark Pattern]]
+- [[Habit Formation]]
+- [[Replication Crisis]]

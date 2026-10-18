@@ -17,3 +17,4 @@ Placebo effects are strongest and most reliable for subjective, self-reported sy
 - [[Hedonic Treadmill]]
 - [[Publication Bias]]
 - [[Regression to the Mean]]
+- [[Reward Prediction Error]]

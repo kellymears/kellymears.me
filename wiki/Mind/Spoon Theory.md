@@ -27,3 +27,4 @@ It also changes how others read behavior. Cancelling plans or skipping something
 - [[Cognitive Load]]
 - [[Performance Budget]]
 - [[Supercompensation]]
+- [[Autistic Burnout]]

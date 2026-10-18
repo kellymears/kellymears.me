@@ -20,6 +20,7 @@ The practical use of the law is as a scheduling lever rather than a complaint: a
 - [[Second-System Effect]]
 - [[Time Blindness]]
 - [[Pomodoro Technique]]
+- [[Procrastination]]
 
 ## Related
 - [[Brooks's Law]]

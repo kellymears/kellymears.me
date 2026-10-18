@@ -27,3 +27,4 @@ There is a close analogy in machines. A [[Context Window]] is a language model's
 - [[Context Window]]
 - [[Least Recently Used Cache]]
 - [[Zettelkasten]]
+- [[Spaced Repetition]]

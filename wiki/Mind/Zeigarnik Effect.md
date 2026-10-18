@@ -29,3 +29,4 @@ For people whose [[Working Memory]] is already loaded, offloading open loops is 
 - [[Working Memory]]
 - [[Chekhov's Gun]]
 - [[Publication Bias]]
+- [[Procrastination]]

@@ -31,3 +31,5 @@ The most effective remedies change the environment rather than the person. Noise
 - [[Reduced Motion]]
 - [[LED Flicker]]
 - [[Spoon Theory]]
+- [[Autistic Burnout]]
+- [[Emotional Regulation]]

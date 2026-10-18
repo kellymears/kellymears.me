@@ -26,3 +26,5 @@ What helps is mostly recognition and slowing down: naming the reaction ("this is
 - [[Learned Helplessness]]
 - [[Neurodiversity]]
 - [[Spiral of Silence]]
+- [[Emotional Regulation]]
+- [[Demand Avoidance]]

@@ -3,7 +3,6 @@ aliases:
   - Monotropic attention
   - Attention tunnel
   - Special interest
-  - Autistic inertia
 tags:
   - mind
 summary: A theory of autism as a tendency to concentrate attention on a few interests at a time with great depth, rather than spreading it widely.
@@ -30,3 +29,4 @@ It also connects to design. A [[Focus Trap]] and careful [[Focus Management]] in
 - [[Flow]]
 - [[Executive Function]]
 - [[Sensory Overload]]
+- [[Autistic Inertia]]

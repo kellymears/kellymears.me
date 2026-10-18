@@ -18,3 +18,4 @@ The standard defenses are structural, matching the mechanism directly: preregist
 - [[Placebo Effect]]
 - [[Availability Cascade]]
 - [[AB Testing]]
+- [[Replication Crisis]]

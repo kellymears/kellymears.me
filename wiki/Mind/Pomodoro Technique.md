@@ -27,3 +27,4 @@ Pomodoro is a specific form of the broader practice of *timeboxing*, allotting a
 - [[Flow]]
 - [[Body Doubling]]
 - [[Implementation Intention]]
+- [[Procrastination]]

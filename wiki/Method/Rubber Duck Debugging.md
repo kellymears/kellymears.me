@@ -20,3 +20,4 @@ The technique's real relative is not conversation but writing: forcing a problem
 - [[Ground Truth]]
 - [[Yak Shaving]]
 - [[Body Doubling]]
+- [[Default Mode Network]]
