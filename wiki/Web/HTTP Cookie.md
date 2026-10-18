@@ -31,3 +31,4 @@ Cookies compete with bearer tokens such as a [[JSON Web Token]] in a header. Hea
 - [[Cross-Site Scripting]]
 - [[Silent Failure]]
 - [[Domain Name System]]
+- [[Web Storage]]

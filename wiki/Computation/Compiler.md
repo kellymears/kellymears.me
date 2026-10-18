@@ -25,3 +25,4 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Lambda Calculus]]
 - [[Sanitizer]]
 - [[Abstract Syntax Tree]]
+- [[WebAssembly]]

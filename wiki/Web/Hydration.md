@@ -22,3 +22,4 @@ A subtler hazard: content rendered by the server and then mutated directly by th
 ## Related
 - [[Lazy Loading]]
 - [[Performance Budget]]
+- [[Single-Page Application]]

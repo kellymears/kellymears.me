@@ -22,3 +22,4 @@ The rhetorical version is just as costly: an "everything passes" claim assembled
 - [[Observability]]
 - [[Coverage Gate]]
 - [[Backup and Restore]]
+- [[HTTP Status Code]]

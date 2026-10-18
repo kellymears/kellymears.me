@@ -31,3 +31,4 @@ It also helps to identify *who* made a change. A tab receiving its own broadcast
 - [[Optimistic UI]]
 - [[Service Worker]]
 - [[Message Queue]]
+- [[Web Storage]]

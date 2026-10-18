@@ -23,3 +23,5 @@ The design constraint it imposes is real and worth stating. An entrance animatio
 - [[React Server Components]]
 - [[Document Object Model]]
 - [[Static Site Generation]]
+- [[Progressive Web App]]
+- [[Polyfill]]

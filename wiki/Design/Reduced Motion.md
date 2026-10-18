@@ -31,3 +31,4 @@ Test environments frequently emulate the preference by default, which means ever
 - [[Stacking Context]]
 - [[Motion Blur]]
 - [[Skeleton Screen]]
+- [[View Transitions]]

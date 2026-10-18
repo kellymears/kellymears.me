@@ -14,7 +14,7 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 
 ## See also
 - [[Semantic Versioning]]
-- [[Deprecation]]
+- [[Polyfill]]
 - [[Chesterton's Fence]]
 - [[Documentation Rot]]
 - [[Regression]]

@@ -18,3 +18,4 @@ SSR sits on a spectrum with [[Static Site Generation]] (render once at build tim
 - [[Islands Architecture]]
 - [[Incremental Static Regeneration]]
 - [[Progressive Enhancement]]
+- [[Single-Page Application]]

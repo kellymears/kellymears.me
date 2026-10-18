@@ -25,3 +25,4 @@ Where they are not yet practical, the honest fallback is to make components tole
 - [[Typographic Scale]]
 - [[Silent Failure]]
 - [[Line Length]]
+- [[Intersection Observer]]

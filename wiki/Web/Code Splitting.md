@@ -23,3 +23,4 @@ This is why splitting must be *measured* rather than assumed. Two plausible refa
 ## Related
 - [[Islands Architecture]]
 - [[Server-Side Rendering]]
+- [[Single-Page Application]]

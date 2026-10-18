@@ -30,3 +30,4 @@ Interface design shapes which one fits. Numbered pages suit search results where
 - [[N+1 Query Problem]]
 - [[Boundary Value Analysis]]
 - [[Empty State]]
+- [[Intersection Observer]]

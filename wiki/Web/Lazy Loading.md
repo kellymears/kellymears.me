@@ -26,3 +26,4 @@ Lazy loading interacts with perceived performance rather than just measured perf
 ## Related
 - [[Server-Side Rendering]]
 - [[Performance Budget]]
+- [[Intersection Observer]]

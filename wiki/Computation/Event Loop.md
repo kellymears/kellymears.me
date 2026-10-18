@@ -22,3 +22,4 @@ The event loop is one specific answer to the concurrency-without-threads problem
 - [[Background Tab Throttling]]
 - [[Coroutine]]
 - [[System Call]]
+- [[Event Delegation]]

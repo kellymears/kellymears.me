@@ -26,6 +26,6 @@ Backoff pairs naturally with a [[Circuit Breaker]], which stops calling a failin
 
 ## See also
 - [[Thundering Herd]]
-- [[Circuit Breaker]]
+- [[HTTP Status Code]]
 - [[Rate Limiting]]
 - [[Idempotence]]

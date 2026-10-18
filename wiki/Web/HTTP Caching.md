@@ -23,3 +23,4 @@ This layer is orthogonal to [[Cache Invalidation]] inside an application's own d
 - [[Core Web Vitals]]
 - [[Time to Live]]
 - [[Thundering Herd]]
+- [[HTTP Status Code]]

@@ -26,3 +26,4 @@ Thrashing is hard to spot in code review because the expensive line looks harmle
 - [[Compositor]]
 - [[N+1 Query Problem]]
 - [[Profiling]]
+- [[Intersection Observer]]

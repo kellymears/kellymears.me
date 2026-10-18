@@ -22,3 +22,4 @@ JWTs commonly carry [[OAuth]] and OpenID Connect identity claims, and get passed
 
 ## Related
 - [[Cache Invalidation]]
+- [[Web Storage]]

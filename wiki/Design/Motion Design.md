@@ -32,3 +32,4 @@ Several constraints shape any real implementation.
 - [[Component Story]]
 - [[Accessibility]]
 - [[Bézier Curve]]
+- [[View Transitions]]

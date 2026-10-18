@@ -24,3 +24,4 @@ Not every framework uses this model — Svelte compiles away the diffing entirel
 - [[Web Components]]
 - [[Edit Distance]]
 - [[Persistent Data Structure]]
+- [[Event Delegation]]

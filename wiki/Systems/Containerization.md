@@ -29,3 +29,4 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 - [[Vacuous Truth]]
 - [[Silent Failure]]
 - [[Hypervisor]]
+- [[WebAssembly]]

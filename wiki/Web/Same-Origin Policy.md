@@ -23,3 +23,4 @@ The recurring practical symptom is asymmetric: read requests succeed while write
 - [[eSIM]]
 - [[Secret Management]]
 - [[Caller ID Authentication]]
+- [[Web Storage]]

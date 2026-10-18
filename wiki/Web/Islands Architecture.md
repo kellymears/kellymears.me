@@ -24,3 +24,4 @@ The pattern is most associated with content-first site frameworks, but the under
 ## Related
 - [[Core Web Vitals]]
 - [[Module Graph]]
+- [[Single-Page Application]]
