@@ -36,3 +36,4 @@ CABs persist partly because they feel safe and are easy to explain to auditors, 
 - [[DevOps]]
 - [[Normalization of Deviance]]
 - [[Value Stream Mapping]]
+- [[Patch Tuesday]]

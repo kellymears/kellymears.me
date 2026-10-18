@@ -23,7 +23,7 @@ MVP is often confused with "prototype" or "beta," but neither of those implies t
 - [[Walking Skeleton]]
 - [[Acceptance Testing]]
 - [[Game Jam]]
-- [[Pareto Principle]]
+- [[User Story]]
 - [[Agile Software Development]]
 - [[Jobs to Be Done]]
 - [[Persona]]

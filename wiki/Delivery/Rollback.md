@@ -14,7 +14,7 @@ The alternative discipline is "fix forward": rather than reverting, ship a fix a
 ## See also
 - [[Knight Capital Incident]]
 - [[Mean Time to Recovery]]
-- [[Database Migration]]
+- [[Patch Tuesday]]
 
 ## Related
 - [[Zero-Downtime Deployment]]

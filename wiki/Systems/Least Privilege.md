@@ -20,7 +20,7 @@ The principle is stated easily and applied poorly, because broad permissions are
 
 ## See also
 - [[Linux Capabilities]]
-- [[Agent Sandbox]]
+- [[SolarWinds Hack]]
 - [[Browser Extension]]
 - [[Mandatory Access Control]]
 - [[Server-Side Request Forgery]]

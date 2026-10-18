@@ -31,8 +31,8 @@ Free riding also shows up in teams, as social loafing: people exert less effort 
 Not all free riding is harmful. Knowledge spillovers, where one person's idea benefits many, are a main source of economic growth. The problem is not that people benefit freely, but that some goods won't exist unless someone finds a way to pay for them.
 
 ## See also
-- [[Cooperative Game]]
+- [[Event-stream Incident]]
 - [[BitTorrent]]
 - [[Universal Basic Income]]
 - [[Herd Immunity]]
-- [[Open Core]]
+- [[Protestware]]

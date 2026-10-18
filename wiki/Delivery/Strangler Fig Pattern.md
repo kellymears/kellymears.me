@@ -27,4 +27,4 @@ The approach fits [[Gall's Law]], which observes that working complex systems ev
 
 ## See also
 - [[Branch by Abstraction]]
-- [[Big Rewrite]]
+- [[Lehman's Laws of Software Evolution]]

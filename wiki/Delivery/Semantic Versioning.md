@@ -20,7 +20,7 @@ The practical consequences are that a major bump deserves a migration path and a
 - [[Package Manager]]
 
 ## Related
-- [[Supply Chain Security]]
+- [[Protestware]]
 - [[API Versioning]]
 - [[Monorepo]]
 - [[Secret Management]]

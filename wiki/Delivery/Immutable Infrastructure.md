@@ -20,7 +20,7 @@ The tradeoff is that anything genuinely needing in-place mutation — a long-liv
 - [[Zero-Downtime Deployment]]
 
 ## Related
-- [[Rollback]]
+- [[Over-the-Air Update]]
 - [[Deployment Pipeline]]
 - [[Configuration Drift]]
 - [[Twelve-Factor App]]

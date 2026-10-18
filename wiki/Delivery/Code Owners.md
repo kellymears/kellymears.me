@@ -35,5 +35,5 @@ Owners do not replace good review practice. A required approval is only as meani
 - [[Inner Source]]
 - [[Team Topologies]]
 - [[Benevolent Dictator for Life]]
-- [[Branch Protection]]
+- [[Extreme Programming]]
 - [[Bug Triage]]

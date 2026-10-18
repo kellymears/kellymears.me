@@ -27,7 +27,7 @@ Several practices follow:
 - [[Developer Experience]]
 - [[Modal Dialog]]
 - [[Attention Economy]]
-- [[Doomscrolling]]
+- [[Daily Standup]]
 - [[Parkinson's Law]]
 - [[Zeigarnik Effect]]
 - [[Default Mode Network]]

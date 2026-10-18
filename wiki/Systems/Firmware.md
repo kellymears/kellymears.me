@@ -21,5 +21,5 @@ Firmware also decides who controls a device after sale. Updates can remove featu
 
 ## See also
 - [[Instruction Set Architecture]]
-- [[Hardware-in-the-Loop]]
+- [[Over-the-Air Update]]
 - [[Internet of Things]]

@@ -18,7 +18,7 @@ The main misuse is treating it as a mandate to test every function in isolation.
 - [[Unit Test]]
 - [[Assertion]]
 - [[Regression]]
-- [[Code Coverage]]
+- [[Extreme Programming]]
 - [[Behavior-Driven Development]]
 - [[Characterization Test]]
 

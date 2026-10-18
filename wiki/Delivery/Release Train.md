@@ -27,4 +27,4 @@ A release train is not a [[Merge Train]], which queues pull requests so each is 
 
 ## See also
 - [[Release Candidate]]
-- [[Calendar Versioning]]
+- [[Patch Tuesday]]

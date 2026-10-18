@@ -36,3 +36,4 @@ Critics note that real organizations rarely fit four boxes and that the model sa
 - [[Data Mesh]]
 - [[Inner Source]]
 - [[Value Stream Mapping]]
+- [[Daily Standup]]

@@ -33,6 +33,6 @@ Used well, BDD keeps executable scenarios for the handful of behaviors that matt
 - [[Persona]]
 - [[Requirements Traceability]]
 - [[Test Fixture]]
-- [[Exploratory Testing]]
+- [[User Story]]
 - [[Acceptance Testing]]
 - [[Decision Table Testing]]

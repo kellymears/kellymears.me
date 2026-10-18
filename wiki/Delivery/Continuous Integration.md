@@ -21,7 +21,7 @@ Several failure modes are worth knowing because they all produce a *false* green
 
 ## See also
 - [[Build System]]
-- [[Coverage Gate]]
+- [[Extreme Programming]]
 - [[Merge Train]]
 - [[Build Matrix]]
 - [[Branching Model]]

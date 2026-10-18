@@ -27,6 +27,6 @@ Automated acceptance tests are expensive. They are slow, they break when the int
 Modern delivery has softened the line between acceptance and release. With a [[Feature Flag]] or [[Canary Release]], a feature can reach a small group of real users in production, and their behavior becomes the acceptance test. A [[Minimum Viable Product]] is acceptance testing applied to a whole product: build the smallest thing that can show whether anyone wants it.
 
 ## See also
-- [[Verification and Validation]]
+- [[User Story]]
 - [[Jobs to Be Done]]
 - [[Definition of Done]]

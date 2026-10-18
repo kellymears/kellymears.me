@@ -24,6 +24,6 @@ The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed up
 ## Related
 - [[Dependency Confusion]]
 - [[Secrets Management]]
-- [[Free Rider Problem]]
+- [[XZ Utils Backdoor]]
 - [[Node.js]]
-- [[Software Bill of Materials]]
+- [[SolarWinds Hack]]

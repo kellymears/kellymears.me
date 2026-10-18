@@ -27,3 +27,4 @@ It's a coarser instrument than [[Canary Release]], which shifts a small percenta
 - [[Rolling Deployment]]
 - [[Progressive Delivery]]
 - [[Live Patching]]
+- [[Over-the-Air Update]]

@@ -20,7 +20,7 @@ The practice scales down well — it is close to what a single developer natural
 - [[Fast-Forward Merge]]
 - [[Kanban]]
 - [[Merge Train]]
-- [[Squash Merge]]
+- [[Extreme Programming]]
 
 ## Related
 - [[Branch by Abstraction]]

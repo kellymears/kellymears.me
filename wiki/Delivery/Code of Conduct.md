@@ -26,3 +26,4 @@ Communities that grow quickly face this sharply, as a wave of newcomers arrives 
 - [[Social Proof]]
 - [[Gift Economy]]
 - [[Iron Law of Oligarchy]]
+- [[Protestware]]

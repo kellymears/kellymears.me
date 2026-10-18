@@ -36,8 +36,8 @@ Staying on LTS is not free either. Lagging behind means missing improvements, ac
 ## See also
 - [[Cherry-Pick]]
 - [[Build Matrix]]
-- [[Semantic Versioning]]
-- [[Release Train]]
+- [[Patch Tuesday]]
+- [[Over-the-Air Update]]
 - [[Calendar Versioning]]
 - [[Git Tag]]
 - [[Software Fork]]

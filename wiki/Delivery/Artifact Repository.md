@@ -32,7 +32,7 @@ Defenses include signing artifacts, attaching build provenance and a [[Software 
 Storage grows quickly, since every build of every branch produces artifacts. Retention policies delete old snapshots while keeping anything released, much as [[Garbage Collection]] keeps only what is still referenced.
 
 ## See also
-- [[Containerization]]
+- [[SolarWinds Hack]]
 - [[Vendoring]]
 - [[Twelve-Factor App]]
 - [[Dependency Confusion]]

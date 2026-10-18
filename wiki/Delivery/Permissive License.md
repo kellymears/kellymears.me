@@ -17,8 +17,8 @@ Recent years have produced source-available licenses that publish code without m
 ## See also
 - [[Copyleft]]
 - [[Open Core]]
-- [[Package Manager]]
-- [[Semantic Versioning]]
+- [[Event-stream Incident]]
+- [[Protestware]]
 - [[Software Fork]]
 - [[Developer Certificate of Origin]]
 - [[The Cathedral and the Bazaar]]

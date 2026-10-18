@@ -27,5 +27,5 @@ Bazel, released by Google in 2015 from its internal tool Blaze, and similar syst
 Language ecosystems often bundle their own build tools with dependency resolution, such as Cargo for Rust or Gradle for Java; see [[Package Manager]] and [[Lockfile]]. Build steps feed a [[Deployment Pipeline]] in [[Continuous Integration]], where build speed directly sets how quickly a team learns whether a change works. The final products are stored as versioned outputs; see [[Artifact Repository]].
 
 ## See also
-- [[Compiler]]
+- [[SolarWinds Hack]]
 - [[Linker]]

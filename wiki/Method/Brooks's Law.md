@@ -21,7 +21,7 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Conway's Law]]
 
 ## Related
-- [[Technical Debt]]
+- [[Lehman's Laws of Software Evolution]]
 - [[Planning Fallacy]]
 - [[Dunbar's Number]]
 - [[Agile Software Development]]

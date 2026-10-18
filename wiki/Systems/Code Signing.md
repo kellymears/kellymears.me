@@ -15,7 +15,7 @@ The consequence for anyone sharing a small tool informally is concrete: an ad-ho
 Testing this requires a machine other than the one that built it, since a local build has no quarantine attribute and a development-path fallback can mask the failure entirely. See [[Ground Truth]].
 
 ## See also
-- [[Supply Chain Security]]
+- [[SolarWinds Hack]]
 - [[Letterlocking]]
 - [[Daemon]]
 - [[Live Patching]]
@@ -23,7 +23,7 @@ Testing this requires a machine other than the one that built it, since a local 
 - [[Certificate Authority]]
 
 ## Related
-- [[Secret Management]]
+- [[Over-the-Air Update]]
 - [[Prompt Injection]]
 - [[Firmware]]
 - [[Anti-Cheat]]

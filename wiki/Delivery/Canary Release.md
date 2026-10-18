@@ -25,6 +25,6 @@ It composes naturally with [[Continuous Deployment]]: a pipeline that ships ever
 
 ## Related
 - [[Zero-Downtime Deployment]]
-- [[Service Level Objective]]
+- [[Over-the-Air Update]]
 - [[Progressive Delivery]]
 - [[Rolling Deployment]]

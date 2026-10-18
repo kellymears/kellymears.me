@@ -15,12 +15,12 @@ A second: how installed packages are laid out on disk is a property of the packa
 
 ## See also
 - [[Artifact Repository]]
-- [[Semantic Versioning]]
+- [[Event-stream Incident]]
 - [[Build System]]
 - [[Node.js]]
 
 ## Related
-- [[Bundler]]
+- [[Protestware]]
 - [[Left-Pad Incident]]
 - [[Module Graph]]
 - [[Software Bill of Materials]]

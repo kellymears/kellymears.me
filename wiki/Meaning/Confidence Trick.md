@@ -24,3 +24,4 @@ High-status milieus are permeable for structural reasons. Credentials go uncheck
 - [[Email Authentication]]
 - [[Information Asymmetry]]
 - [[Ideomotor Effect]]
+- [[XZ Utils Backdoor]]

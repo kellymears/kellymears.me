@@ -14,7 +14,7 @@ Some recognizable forms: a workaround kept after its cause was fixed upstream; a
 Two practices keep it visible. Record *why* a shortcut was taken and what would let it be removed, so a later reader is not stuck at [[Chesterton's Fence]]. And prefer paying an adjacent debt inside the change that exposes it over filing a follow-up item — a follow-up moves the work to a backlog that may never be read, while the person with the context is right there.
 
 ## See also
-- [[Deprecation]]
+- [[Lehman's Laws of Software Evolution]]
 - [[Definition of Done]]
 - [[You Aren't Gonna Need It]]
 - [[Big Rewrite]]

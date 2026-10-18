@@ -19,5 +19,5 @@ The caveat is honest but narrower than usually stated. There are no controlled e
 - [[Data Mesh]]
 - [[Value Stream Mapping]]
 - [[Code Owners]]
-- [[Platform Engineering]]
+- [[Lehman's Laws of Software Evolution]]
 - [[Iron Law of Oligarchy]]

@@ -30,7 +30,7 @@ Staying in sync is the practical work of a long-lived fork. The fork adds the or
 
 ## See also
 - [[The Cathedral and the Bazaar]]
-- [[Open Source Sustainability]]
+- [[Protestware]]
 - [[Benevolent Dictator for Life]]
 - [[Strangler Fig Pattern]]
 - [[Distributed Version Control]]

@@ -24,7 +24,7 @@ Living things don't violate the second law. A body keeps its internal order by c
 In 1948 Claude Shannon defined *information entropy*, the average uncertainty in a message, with the same mathematical form. Information entropy measures how unpredictable random keys are in [[Public-Key Cryptography]], how compressible data is, and how spread out a model's choices are under [[Temperature Sampling]], whose "temperature" comes straight from Boltzmann's statistics. The metaphor of *software entropy*, code decaying as small compromises pile up, is the theme of [[Broken Windows Theory]] applied to programs and of [[Technical Debt]].
 
 ## See also
-- [[Phase Transition]]
+- [[Lehman's Laws of Software Evolution]]
 - [[Diffusion]]
 - [[Specific Heat Capacity]]
 - [[Kolmogorov Complexity]]

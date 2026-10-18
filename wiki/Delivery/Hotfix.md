@@ -29,7 +29,7 @@ The deeper lesson, reflected in [[DORA Metrics]], is that teams who deploy frequ
 A hotfix usually belongs to an incident, and the [[Incident Response]] review that follows should ask why the bug reached production and whether the fix process itself worked.
 
 ## See also
-- [[Release Train]]
+- [[Patch Tuesday]]
 - [[Code Freeze]]
 - [[Cherry-Pick]]
 - [[Live Patching]]

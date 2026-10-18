@@ -24,4 +24,4 @@ Even sites with no Node server depend on it, because nearly every web build tool
 
 ## See also
 - [[JavaScript]]
-- [[Dependency Hell]]
+- [[Event-stream Incident]]

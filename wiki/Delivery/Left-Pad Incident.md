@@ -28,5 +28,5 @@ The left-pad incident is a standard example of a dependency nobody chose directl
 
 ## See also
 - [[Node.js]]
-- [[Software Bill of Materials]]
-- [[Knight Capital Incident]]
+- [[Event-stream Incident]]
+- [[Protestware]]

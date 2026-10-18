@@ -25,5 +25,5 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 ## Related
 - [[Change Advisory Board]]
 - [[Code of Conduct]]
-- [[Pair Programming]]
-- [[Code Owners]]
+- [[Event-stream Incident]]
+- [[XZ Utils Backdoor]]

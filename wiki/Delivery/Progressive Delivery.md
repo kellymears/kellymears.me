@@ -34,7 +34,7 @@ Automating the decisions is what distinguishes progressive delivery from cautiou
 Gradual exposure has limits. Some failures, such as a database migration or a change to shared data, affect everyone the moment they run, whatever percentage of traffic sees new code. Users can also see inconsistent behavior across devices or sessions while a rollout is in progress. And small samples hide rare problems: a bug hitting one request in a million may not appear at 1 percent. [[Incident Response]] stays necessary, but there are fewer incidents to respond to.
 
 ## See also
-- [[DORA Metrics]]
+- [[Patch Tuesday]]
 - [[CrowdStrike Outage]]
 - [[Site Reliability Engineering]]
 - [[Testing in Production]]

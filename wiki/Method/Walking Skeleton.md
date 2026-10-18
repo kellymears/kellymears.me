@@ -34,3 +34,5 @@ The common pitfall is gold-plating the skeleton, adding the features and abstrac
 ## See also
 - [[Planning Fallacy]]
 - [[Big Rewrite]]
+- [[Extreme Programming]]
+- [[User Story]]

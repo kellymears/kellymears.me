@@ -27,7 +27,7 @@ The practical benefits:
 It has costs too. Pairing is intense and tiring, and constant conversation is hard to sustain for a full day. It breaks the solitary concentration that [[Flow]] depends on, and an expert can easily dominate, leaving the other person typing without learning, the [[Curse of Knowledge]] at work. Its fit varies from person to person. For some neurodivergent programmers, a partner's presence works like [[Body Doubling]] and helps with starting and staying on a task. For others, the social load adds to [[Cognitive Load]] and drains energy fast. Remote pairing with shared editors has made the practice easier to dip into for short sessions, and coding assistants are now marketed as AI pair programmers, though they can't share the human pair's accountability.
 
 ## See also
-- [[Terminal Multiplexer]]
+- [[Daily Standup]]
 - [[Transactive Memory]]
 - [[Software Inspection]]
-- [[Kanban]]
+- [[Extreme Programming]]

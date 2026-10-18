@@ -33,4 +33,4 @@ A watchdog does not fix anything; it buys time to investigate. Logs, a [[Core Du
 - [[Hardware-in-the-Loop]]
 - [[Crash-Only Software]]
 - [[Kernel Panic]]
-- [[Patriot Missile Failure]]
+- [[Over-the-Air Update]]

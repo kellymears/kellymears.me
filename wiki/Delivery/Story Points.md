@@ -22,6 +22,6 @@ Estimates also shape the work. Tasks expand to fit the time allowed; see [[Parki
 
 ## See also
 - [[McNamara Fallacy]]
-- [[Pair Programming]]
-- [[Ninety-Ninety Rule]]
+- [[User Story]]
+- [[Extreme Programming]]
 - [[Definition of Done]]

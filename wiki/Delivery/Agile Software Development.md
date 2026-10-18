@@ -36,6 +36,6 @@ Agile's ideas fed into later movements. DevOps extended the feedback loop past d
 ## See also
 - [[Cone of Uncertainty]]
 - [[Definition of Done]]
-- [[Story Points]]
-- [[DevOps]]
+- [[Extreme Programming]]
+- [[Daily Standup]]
 - [[Fresh Start Effect]]
