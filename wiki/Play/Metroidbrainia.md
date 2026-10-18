@@ -17,3 +17,4 @@ The term itself is fan-coined, first circulating in enthusiast criticism rather 
 - [[Fair-Play Mystery]]
 - [[Ground Truth]]
 - [[Environmental Storytelling]]
+- [[Sequence Breaking]]

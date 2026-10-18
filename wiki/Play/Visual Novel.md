@@ -19,3 +19,4 @@ summary: a narrative form told through text and portraits, where branching is ma
 - [[Fair-Play Mystery]]
 - [[Spoiler Etiquette]]
 - [[Achievement Hunting]]
+- [[Interactive Fiction]]

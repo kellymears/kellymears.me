@@ -20,3 +20,4 @@ The structure also solves a narrative problem that resource economies cannot. Be
 - [[Idle Game]]
 - [[Goodhart's Law]]
 - [[Game Feel]]
+- [[Cozy Game]]

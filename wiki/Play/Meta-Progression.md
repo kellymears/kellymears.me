@@ -21,3 +21,4 @@ The line worth holding is whether persistence removes obstacles or removes decis
 - [[Procedural Generation]]
 - [[Gacha Monetization]]
 - [[Skill Tree]]
+- [[Dynamic Difficulty Adjustment]]

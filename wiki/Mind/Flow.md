@@ -24,7 +24,7 @@ Flow is not automatically good. It is indifferent to what it attaches to, and a 
 - [[Hyperfocus]]
 - [[Boredom]]
 - [[Choking Under Pressure]]
-- [[Attention Residue]]
+- [[Dynamic Difficulty Adjustment]]
 - [[Compulsion Loop]]
 - [[Hedonic Treadmill]]
 - [[Default Mode Network]]

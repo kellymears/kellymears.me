@@ -35,3 +35,4 @@ Personas connect to a broader principle: design for the user's [[Mental Model]],
 - [[Card Sorting]]
 - [[Heuristic Evaluation]]
 - [[Minimum Viable Product]]
+- [[Bartle Taxonomy]]

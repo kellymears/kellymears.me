@@ -15,6 +15,6 @@ This is why i-frames convert dodging into a **timing problem rather than a spaci
 ## See also
 - [[Frame Data]]
 - [[Poise]]
-- [[Parry and Riposte]]
+- [[Coyote Time]]
 - [[Soulslike]]
 - [[Game Feel]]

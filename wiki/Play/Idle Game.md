@@ -21,3 +21,4 @@ The form sits uncomfortably close to its own critique. A game engineered so that
 - [[Roguelike]]
 - [[Game Feel]]
 - [[Boredom]]
+- [[Cozy Game]]

@@ -17,3 +17,5 @@ The stronger argument runs the other way: a toggle nobody is shamed for using is
 - [[Accessibility]]
 - [[Permadeath]]
 - [[Invincibility Frames]]
+- [[Coyote Time]]
+- [[Dynamic Difficulty Adjustment]]

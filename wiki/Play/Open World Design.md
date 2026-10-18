@@ -16,3 +16,4 @@ Open world design shares [[Fog of War]]'s reveal-the-map instinct at a meta leve
 - [[Metroidvania]]
 - [[Environmental Storytelling]]
 - [[Emergent Gameplay]]
+- [[Sequence Breaking]]

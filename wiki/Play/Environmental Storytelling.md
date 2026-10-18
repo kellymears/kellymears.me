@@ -20,3 +20,4 @@ Two limits. Legibility depends on placement and sightlines, so the discipline ov
 - [[Voxel]]
 - [[Taxonomy]]
 - [[Curiosity]]
+- [[Interactive Fiction]]

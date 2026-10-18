@@ -13,8 +13,8 @@ The metagame moves for two reasons. A **patch or new release** changes the under
 Published **[[Tier List]]** rankings are where the metagame becomes visible and where it becomes **reflexive**: a list that ranks a strategy highly increases the number of players who adopt it, which increases the sample of wins attributed to it, which reinforces the ranking regardless of whether the original assessment was correct. The ranking stops describing the metagame and starts producing it — a direct case of [[Goodhart's Law]], where a measure built to track strength becomes a target that strength is optimized toward, and a tier list published early enough can entrench a metagame that a more patient analysis would never have produced.
 
 ## See also
-- [[Tier List]]
-- [[Goodhart's Law]]
+- [[Power Creep]]
+- [[MDA Framework]]
 - [[Frame Data]]
 - [[Datamining]]
 - [[Speedrun]]

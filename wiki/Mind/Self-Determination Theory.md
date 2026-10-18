@@ -30,7 +30,8 @@ The needs map onto other ideas in this collection. Competence and absorption mee
 
 ## See also
 - [[Flow]]
-- [[Demand Avoidance]]
-- [[Compulsion Loop]]
+- [[Bartle Taxonomy]]
+- [[Cozy Game]]
 - [[Learned Helplessness]]
 - [[Self-Efficacy]]
+- [[Magic Circle]]

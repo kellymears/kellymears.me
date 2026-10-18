@@ -18,3 +18,4 @@ Deckbuilding is also worth distinguishing from [[Worker Placement]], another eco
 - [[Engine Building]]
 - [[Worker Placement]]
 - [[Roguelike]]
+- [[Power Creep]]

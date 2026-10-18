@@ -20,3 +20,5 @@ That shift is expensive, and the expense is mostly in verification. A scripted e
 - [[Diegetic Interface]]
 - [[Ludonarrative Dissonance]]
 - [[Procedural Generation]]
+- [[Sequence Breaking]]
+- [[Tabletop Role-Playing Game]]

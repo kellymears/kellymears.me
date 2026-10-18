@@ -18,3 +18,4 @@ Nostalgia is worth distinguishing from simple sentimentality about old things an
 - [[Terror Management Theory]]
 - [[Context-Dependent Memory]]
 - [[False Memory]]
+- [[Cozy Game]]

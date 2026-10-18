@@ -16,3 +16,6 @@ A sandbox's entire value proposition rests on its systems being rich enough to r
 - [[Emergent Gameplay]]
 - [[Factory Game]]
 - [[Colony Sim]]
+- [[Magic Circle]]
+- [[Cozy Game]]
+- [[MDA Framework]]

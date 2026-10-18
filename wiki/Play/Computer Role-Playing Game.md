@@ -18,3 +18,5 @@ summary: the isometric, party-based tradition whose hardest unsolved problem is 
 - [[Visual Novel]]
 - [[Skill Check]]
 - [[Constraint Propagation]]
+- [[Tabletop Role-Playing Game]]
+- [[Interactive Fiction]]

@@ -16,3 +16,5 @@ The game is often cited for treating [[Ludonarrative Dissonance]] as solved, sin
 - [[Computer Role-Playing Game]]
 - [[Ludonarrative Dissonance]]
 - [[Environmental Storytelling]]
+- [[Tabletop Role-Playing Game]]
+- [[Interactive Fiction]]

@@ -17,3 +17,5 @@ MMR should not be confused with a [[Tier List]]: a tier list is a static, commun
 - [[Tier List]]
 - [[Live Service Game]]
 - [[Battle Royale]]
+- [[Dynamic Difficulty Adjustment]]
+- [[Magic Circle]]

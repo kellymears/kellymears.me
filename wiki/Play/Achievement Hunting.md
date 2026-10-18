@@ -17,3 +17,4 @@ Whether this extends play or distorts it is a live argument, and a clean instanc
 - [[Metagame]]
 - [[Compulsion Loop]]
 - [[Datamining]]
+- [[Bartle Taxonomy]]

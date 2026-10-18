@@ -21,3 +21,4 @@ Design bends around the paying minority in ways non-paying players absorb withou
 - [[Meta-Progression]]
 - [[Time as Resource]]
 - [[Enshittification]]
+- [[Power Creep]]

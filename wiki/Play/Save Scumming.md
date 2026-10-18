@@ -17,3 +17,5 @@ The interesting question isn't whether scumming is possible but whether it's *ra
 - [[Roguelike]]
 - [[Determinism]]
 - [[Pseudorandom Number Generator]]
+- [[Dynamic Difficulty Adjustment]]
+- [[Sequence Breaking]]

@@ -15,9 +15,9 @@ The draw itself is ordinary [[Seeded Randomness]] resolved on a server; the effo
 Disclosure rules followed. Japan banned "complete gacha" in 2012 under prize-labeling law; China has required published probabilities since 2017; Belgium's regulator treated paid loot boxes as gambling in 2018; South Korea mandated rate disclosure in 2024. Enforcement varies, and disclosure in [[Plain Language]] remains rarer than disclosure as such.
 
 ## See also
-- [[Roguelike]]
+- [[Magic Circle]]
 - [[Ludonarrative Dissonance]]
-- [[Procedural Generation]]
+- [[Power Creep]]
 - [[Confidence Trick]]
 - [[Loss Aversion]]
 - [[Gambler's Fallacy]]

@@ -16,3 +16,5 @@ The genre's real weakness is a legibility gap between generation and experience.
 - [[Procedural Generation]]
 - [[Emergent Gameplay]]
 - [[Companion AI]]
+- [[Tabletop Role-Playing Game]]
+- [[Interactive Fiction]]

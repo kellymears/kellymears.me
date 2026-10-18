@@ -18,3 +18,5 @@ The design argument underneath is that stakes require irreversibility — a thre
 - [[Assist Mode]]
 - [[Soulslike]]
 - [[Save Scumming]]
+- [[Magic Circle]]
+- [[Cozy Game]]

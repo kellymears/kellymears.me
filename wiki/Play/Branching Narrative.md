@@ -18,3 +18,5 @@ It's also distinct from [[Procedural Narrative]]: every branch here was written 
 - [[Procedural Narrative]]
 - [[Disco Elysium]]
 - [[Visual Novel]]
+- [[Interactive Fiction]]
+- [[Tabletop Role-Playing Game]]

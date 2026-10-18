@@ -16,7 +16,7 @@ Knowing a matchup's numbers changes how it is played: a habitually minus move ge
 
 ## See also
 - [[Determinism]]
-- [[Invincibility Frames]]
+- [[Coyote Time]]
 - [[Poise]]
 - [[Input Latency]]
 - [[Metagame]]

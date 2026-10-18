@@ -23,3 +23,5 @@ There's a second, subtler curve worth separating from the authored one: the play
 - [[Peak-End Rule]]
 - [[Desirable Difficulty]]
 - [[Self-Efficacy]]
+- [[Dynamic Difficulty Adjustment]]
+- [[Coyote Time]]

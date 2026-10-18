@@ -15,9 +15,9 @@ The useful claim is that "the controls feel wrong" is almost always a tuning pro
 Two adjacent concerns. Consistency requires a fixed timestep and clean [[Determinism]], since a feel tuned against a variable frame rate is not reproducible. And several of these effects are hostile to some players: shake and camera sway belong behind [[Reduced Motion]] settings, while buffering and coyote time are quietly among the most effective [[Accessibility]] measures a game can ship.
 
 ## See also
-- [[Game AI]]
+- [[MDA Framework]]
 - [[Environmental Storytelling]]
-- [[Rasterization]]
+- [[Coyote Time]]
 - [[Frame Pacing]]
 - [[Frame Generation]]
 - [[Flow]]

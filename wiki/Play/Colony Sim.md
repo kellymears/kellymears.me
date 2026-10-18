@@ -18,3 +18,4 @@ summary: a genre of indirect settlement control where production chains and mood
 - [[Path Dependence]]
 - [[Goodhart's Law]]
 - [[Observability]]
+- [[Cozy Game]]
