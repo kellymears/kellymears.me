@@ -24,8 +24,8 @@ Heart rate is an *output*, not an input, and it has quirks. It lags changes in e
 Perceived exertion is the other half. Rating how hard an effort feels is surprisingly reliable for most people, and good athletes cross-check it against the numbers. When people with weak [[Interoception]] lose that cross-check, the zone numbers carry more of the load.
 
 ## See also
-- [[Lactate Threshold]]
-- [[Polarized Training]]
+- [[Cardiac Output]]
+- [[Metabolic Flexibility]]
 - [[Functional Threshold Power]]
 - [[Thermoregulation]]
 - [[Interoception]]

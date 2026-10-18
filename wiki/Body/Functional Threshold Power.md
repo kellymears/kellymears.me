@@ -30,7 +30,7 @@ The number invites [[Goodhart's Law]]. Riders retest, chase the figure, and trai
 - [[Critical Power]]
 - [[Heart Rate Zones]]
 - [[Bike Fit]]
-- [[Goodhart's Law]]
+- [[Exercise Economy]]
 - [[Rolling Resistance]]
 - [[Muscle Fiber Types]]
 - [[Cadence]]

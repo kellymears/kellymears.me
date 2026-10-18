@@ -23,10 +23,10 @@ It changes treatment. If the volume is turned up in the nervous system, treating
 Expectation and attention also modulate pain, as [[Predictive Processing]] and the [[Nocebo Effect]] describe. Fear of movement can sustain pain, and reassurance can reduce it. [[Referred Pain]] shows a related principle: the brain can misattribute where a signal comes from. Many people with chronic pain also report heightened sensitivity to light and sound, overlapping with [[Sensory Overload]].
 
 ## See also
-- [[Nociception]]
+- [[Tendinopathy]]
 - [[Neuroplasticity]]
 - [[Habituation]]
 - [[Concussion]]
 - [[Inflammation]]
-- [[Predictive Processing]]
+- [[Low Back Pain]]
 - [[Repetitive Strain Injury]]

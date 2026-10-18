@@ -30,8 +30,8 @@ Temperature also costs energy. Cold exposure raises metabolic rate through shive
 
 ## See also
 - [[Energy Systems]]
-- [[Glycogen]]
+- [[Appetite Regulation]]
 - [[Insulin Sensitivity]]
 - [[Muscle Hypertrophy]]
 - [[Relative Energy Deficiency in Sport]]
-- [[Cold Exposure]]
+- [[Body Composition]]

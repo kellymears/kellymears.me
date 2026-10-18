@@ -29,7 +29,7 @@ Water also travels with fuel. Each gram of stored [[Glycogen]] binds about three
 
 ## See also
 - [[Thermoregulation]]
-- [[Heat Acclimation]]
+- [[Endocrine System]]
 - [[Muscle Cramp]]
 - [[Heart Rate Zones]]
 - [[Dew Point]]

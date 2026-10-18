@@ -19,3 +19,4 @@ The effect creates a genuine ethical bind in medicine: informed consent requires
 - [[Predictive Processing]]
 - [[Central Sensitization]]
 - [[Classical Conditioning]]
+- [[Low Back Pain]]

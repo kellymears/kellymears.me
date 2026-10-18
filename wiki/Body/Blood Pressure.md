@@ -30,3 +30,4 @@ Lifestyle changes have real effects. Regular aerobic exercise lowers systolic pr
 - [[Fluid Balance]]
 - [[Allostatic Load]]
 - [[Reynolds Number]]
+- [[Cardiac Output]]

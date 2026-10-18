@@ -22,9 +22,9 @@ Training moves both lines. Untrained people hit LT2 at perhaps 60% of their [[VO
 Measuring it properly means drawing blood from a fingertip or earlobe at progressively harder stages. Field tests, ventilatory thresholds (the point where breathing changes character), and power or heart rate tests all estimate the same boundary less directly. The threshold is less a sharp line than a steep bend in a curve, and different methods place it a little differently. Precise-looking numbers from any single method deserve some humility.
 
 ## See also
-- [[VO2 Max]]
+- [[Metabolic Flexibility]]
 - [[Critical Power]]
-- [[Heart Rate Zones]]
+- [[Exercise Economy]]
 - [[Polarized Training]]
 - [[Glycogen]]
 - [[Backpressure]]

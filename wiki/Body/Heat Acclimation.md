@@ -30,6 +30,6 @@ Heat also changes fuel use, increasing reliance on [[Glycogen]], and dampens [[H
 - [[Cold Exposure]]
 - [[VO2 Max]]
 - [[Training Load]]
-- [[Osmosis]]
+- [[Cardiac Output]]
 - [[Latent Heat]]
 - [[Altitude Training]]

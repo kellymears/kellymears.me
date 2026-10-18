@@ -25,9 +25,9 @@ The modern fueling rules come from that:
 Glycogen also binds water, about three grams per gram, which is why weight swings by a kilogram or two with carbohydrate intake and why loading makes people feel heavy. The rise in that weight is fuel, not fat.
 
 ## See also
-- [[Supercompensation]]
+- [[Metabolic Flexibility]]
 - [[Lactate Threshold]]
-- [[Interoception]]
+- [[Appetite Regulation]]
 - [[Training Load]]
 - [[Thermoregulation]]
 - [[Starch Gelatinization]]

@@ -23,7 +23,7 @@ There is a [[Survivorship Bias]] caveat. Elite athletes train 15 to 30 hours a w
 
 ## See also
 - [[Lactate Threshold]]
-- [[Heart Rate Zones]]
+- [[Metabolic Flexibility]]
 - [[Supercompensation]]
 - [[Training Load]]
 - [[VO2 Max]]

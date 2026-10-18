@@ -14,11 +14,11 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 ## See also
 - [[Circadian Rhythm]]
 - [[Vestibular System]]
-- [[Vapor-Compression Refrigeration]]
+- [[Warm-Up]]
 - [[Interoception]]
 - [[Heart Rate Zones]]
 - [[Protein Denaturation]]
-- [[Osmosis]]
+- [[Cardiac Output]]
 - [[Heat Acclimation]]
 - [[Hormesis]]
 - [[Latent Heat]]

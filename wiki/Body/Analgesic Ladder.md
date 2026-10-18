@@ -21,3 +21,4 @@ The ladder's underlying premise — that pain severity should be matched, not ex
 - [[Inflammation]]
 - [[Central Sensitization]]
 - [[Fever]]
+- [[Low Back Pain]]

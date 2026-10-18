@@ -25,7 +25,7 @@ Training targets each system differently. Short sprints with full recovery devel
 The systems are also inefficient in a useful way: only about a quarter of the energy released ends up as mechanical work, and the rest becomes heat, which is why exercise demands so much from [[Thermoregulation]]. How quickly muscles take up glucose afterward depends on [[Insulin Sensitivity]].
 
 ## See also
-- [[Glycogen]]
+- [[Warm-Up]]
 - [[Basal Metabolic Rate]]
 - [[Mitochondria]]
-- [[Work and Power]]
+- [[Metabolic Flexibility]]

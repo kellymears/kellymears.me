@@ -33,5 +33,5 @@ Muscle matters beyond appearance. It is the body's largest site of glucose dispo
 - [[Cold Exposure]]
 - [[Supercompensation]]
 - [[Strength Training]]
-- [[Bone Remodeling]]
+- [[Body Composition]]
 - [[Sarcopenia]]

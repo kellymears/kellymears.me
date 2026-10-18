@@ -30,3 +30,4 @@ The two numbers respond to different training. Long sessions at moderate intensi
 - [[Lactate Threshold]]
 - [[Energy Systems]]
 - [[Polarized Training]]
+- [[Exercise Economy]]

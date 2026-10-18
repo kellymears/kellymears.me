@@ -26,7 +26,7 @@ Inactivity speeds all of it. A week or two of bed rest in an older adult can cos
 The encouraging finding is that muscle stays trainable. In a 1990 study by Maria Fiatarone, nursing-home residents aged 86 to 96 lifted weights for eight weeks and nearly tripled their leg strength, with some walking unaided again. Resistance training, progressing load gradually as in [[Muscle Hypertrophy]], plus adequate protein, is the most effective treatment known. Drug treatments remain unproven. The useful frame is a reserve built earlier in life and defended later, much like bone density.
 
 ## See also
-- [[Muscle Hypertrophy]]
+- [[Body Composition]]
 - [[Strength Training]]
-- [[Detraining]]
+- [[Vitamin D]]
 - [[Training Load]]

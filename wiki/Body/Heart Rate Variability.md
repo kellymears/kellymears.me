@@ -29,5 +29,5 @@ HRV is also used as a broad index of stress physiology, linking it to [[Allostat
 ## See also
 - [[Blood Pressure]]
 - [[Supercompensation]]
-- [[Allostatic Load]]
+- [[Cardiac Output]]
 - [[Sleep Stages]]

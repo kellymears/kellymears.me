@@ -28,5 +28,5 @@ Fast fibers are also more vulnerable to the strain behind [[Delayed Onset Muscle
 - [[Glycogen]]
 - [[Critical Power]]
 - [[Strength Training]]
-- [[Polarized Training]]
+- [[Exercise Economy]]
 - [[Sarcopenia]]
