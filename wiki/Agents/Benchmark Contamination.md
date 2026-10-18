@@ -34,6 +34,6 @@ A leaderboard score is best read alongside its date and the question: could the 
 
 ## See also
 - [[Perplexity]]
-- [[Train-Test Split]]
+- [[ImageNet]]
 - [[Model Merging]]
 - [[Synthetic Data]]

@@ -31,6 +31,6 @@ Voice cloning brings serious risks. Fraudsters have imitated relatives in distre
 - [[Optical Character Recognition]]
 - [[AI Watermarking]]
 - [[Token]]
-- [[Accessibility]]
+- [[Hidden Markov Model]]
 - [[Dyslexia]]
 - [[Screen Reader]]

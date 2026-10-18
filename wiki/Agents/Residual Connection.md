@@ -24,7 +24,7 @@ The broader lesson is that architecture often succeeds by making optimization ea
 
 ## See also
 - [[Backpropagation]]
-- [[Attention Mechanism]]
+- [[ImageNet]]
 - [[Mechanistic Interpretability]]
 - [[Gradient Descent]]
 - [[Activation Steering]]

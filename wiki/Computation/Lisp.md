@@ -31,4 +31,4 @@ Greenspun's tenth rule, a joke, holds that any sufficiently complicated program 
 
 ## See also
 - [[Logic Programming]]
-- [[Time-Sharing]]
+- [[Dartmouth Workshop]]

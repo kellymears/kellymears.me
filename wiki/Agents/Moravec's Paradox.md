@@ -22,6 +22,6 @@ The practical lesson is to distrust intuitions about which tasks will be automat
 The paradox also reframes intelligence: much of what people call "common sense" is perception and motor skill that never reaches words; see [[Interoception]] and [[Expert Intuition]].
 
 ## See also
-- [[Turing Test]]
+- [[Dartmouth Workshop]]
 - [[Multimodal Model]]
-- [[Bitter Lesson]]
+- [[Deep Blue]]

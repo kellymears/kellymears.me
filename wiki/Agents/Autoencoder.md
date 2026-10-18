@@ -32,3 +32,4 @@ The encoder-decoder shape recurs throughout machine learning. The original trans
 ## See also
 - [[Neural Network]]
 - [[Multimodal Model]]
+- [[Hopfield Network]]

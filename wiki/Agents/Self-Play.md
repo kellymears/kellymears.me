@@ -28,3 +28,4 @@ The idea extends well beyond board and video games. A [[Generative Adversarial N
 - [[Game AI]]
 - [[Reward Hacking]]
 - [[Solved Game]]
+- [[Deep Blue]]

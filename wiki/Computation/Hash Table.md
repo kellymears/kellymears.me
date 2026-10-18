@@ -24,4 +24,4 @@ Hash tables promise no ordering. Where ranges or sorted traversal matter, a sort
 - [[Pigeonhole Principle]]
 - [[Birthday Problem]]
 - [[Denial-of-Service Attack]]
-- [[Key-Value Store]]
+- [[Hopfield Network]]

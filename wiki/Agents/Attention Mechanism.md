@@ -33,6 +33,6 @@ Attention spreads finite weight across everything in context, which helps explai
 - [[Backpropagation]]
 - [[Residual Connection]]
 - [[Neural Network Pruning]]
-- [[Cosine Similarity]]
-- [[Machine Translation]]
+- [[Object Detection]]
+- [[Hopfield Network]]
 - [[Softmax]]

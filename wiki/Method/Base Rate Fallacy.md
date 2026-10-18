@@ -24,8 +24,8 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 
 ## Related
 - [[Statistical Significance]]
-- [[Truncation Bias]]
+- [[Algorithmic Bias]]
 - [[Multiple Comparisons Problem]]
 - [[Choropleth Map]]
 - [[Pareidolia]]
-- [[Planning Fallacy]]
+- [[Naive Bayes]]

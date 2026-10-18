@@ -32,4 +32,4 @@ It belongs to a family of *metaheuristics*, general search strategies that inclu
 - [[Linear Programming]]
 - [[Work Hardening]]
 - [[Knapsack Problem]]
-- [[Multi-Armed Bandit]]
+- [[Hopfield Network]]

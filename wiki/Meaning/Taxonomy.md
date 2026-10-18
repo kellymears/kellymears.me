@@ -20,7 +20,7 @@ Two practical notes. A vocabulary is a shared model, so every near-synonym costs
 - [[Knowledge Graph]]
 - [[Web 2.0]]
 - [[Frontmatter]]
-- [[Design System]]
+- [[ImageNet]]
 - [[Linguistic Relativity]]
 - [[Tarot]]
 

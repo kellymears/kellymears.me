@@ -18,7 +18,7 @@ What none of this licenses is folk prompting advice. Discovering that a [[Large 
 - [[Activation Steering]]
 - [[Dimensionality Reduction]]
 - [[Residual Connection]]
-- [[Expert System]]
+- [[Explainable AI]]
 - [[Autoencoder]]
 - [[Double Descent]]
 - [[In-Context Learning]]

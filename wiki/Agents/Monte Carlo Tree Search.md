@@ -29,3 +29,4 @@ Its success with Go is a leading example of a general method that improves with 
 - [[A-Star Search Algorithm]]
 - [[Greedy Algorithm]]
 - [[Solved Game]]
+- [[Deep Blue]]

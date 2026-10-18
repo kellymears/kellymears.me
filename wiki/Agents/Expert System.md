@@ -32,6 +32,6 @@ What replaced hand-written rules was learning from data: [[Supervised Learning]]
 The ideas survive in business rules engines, tax software, and medical decision support, and in neuro-symbolic research combining learned models with explicit rules. A modern agent following a written procedure looks a little like an expert system whose rules are in prose; see [[Agent Skill]] and [[System Prompt]].
 
 ## See also
-- [[Decision Tree]]
-- [[Machine Translation]]
+- [[Dartmouth Workshop]]
+- [[Deep Blue]]
 - [[Logic Programming]]

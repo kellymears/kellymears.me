@@ -19,7 +19,7 @@ The common mistake is reaching for DP on a problem that only has optimal substru
 - [[Text Justification]]
 - [[Amortized Analysis]]
 - [[Dijkstra's Algorithm]]
-- [[P versus NP Problem]]
+- [[Hidden Markov Model]]
 - [[Edit Distance]]
 - [[Collatz Conjecture]]
 - [[Divide and Conquer]]

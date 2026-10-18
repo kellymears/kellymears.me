@@ -34,7 +34,7 @@ Bayesian statistics, which treats probabilities as degrees of belief, contrasts 
 
 ## See also
 - [[Occam's Razor]]
-- [[Falsifiability]]
+- [[Naive Bayes]]
 - [[Abductive Reasoning]]
 - [[Information Cascade]]
 - [[Calibration]]

@@ -23,5 +23,6 @@ The deeper question Turing set aside, whether anything is going on inside, is no
 
 ## See also
 - [[Moravec's Paradox]]
-- [[Goodhart's Law]]
+- [[Dartmouth Workshop]]
 - [[Analytical Engine]]
+- [[Deep Blue]]

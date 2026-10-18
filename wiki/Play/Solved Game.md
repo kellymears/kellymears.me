@@ -30,3 +30,4 @@ Solving a game rarely ends people's interest in it. Human players can't execute 
 - [[Dominant Strategy]]
 - [[Game AI]]
 - [[Bushnell's Law]]
+- [[Deep Blue]]

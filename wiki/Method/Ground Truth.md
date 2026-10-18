@@ -15,7 +15,7 @@ Ground truth also has a *staleness* dimension. A measurement is only about the t
 
 ## See also
 - [[Falsifiability]]
-- [[Observability]]
+- [[ImageNet]]
 - [[Reproducible Case]]
 - [[Determinism]]
 - [[Instrumentation]]

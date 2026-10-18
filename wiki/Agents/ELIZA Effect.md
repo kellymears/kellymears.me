@@ -25,6 +25,6 @@ The reverse error exists too: dismissing everything a model does as "mere" patte
 Design choices push the effect either way. A chatbot that says "I feel," types with simulated pauses, or has a name and face invites anthropomorphism; plain tool-like framing discourages it. That choice is partly an ethical one, close to the territory of the [[Dark Pattern]]; see [[Uncanny Valley]].
 
 ## See also
-- [[Turing Test]]
+- [[Dartmouth Workshop]]
 - [[Text-to-Speech]]
 - [[Companion AI]]

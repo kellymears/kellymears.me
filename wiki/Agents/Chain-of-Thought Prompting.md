@@ -22,3 +22,4 @@ The technique has since been absorbed into models themselves: so-called "reasoni
 - [[Reasoning Model]]
 - [[Choice Blindness]]
 - [[Self-Consistency]]
+- [[Explainable AI]]

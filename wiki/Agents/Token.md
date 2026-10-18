@@ -17,7 +17,7 @@ Because tokens are consumed by everything in the request — instructions, tool 
 ## See also
 - [[Stemming and Lemmatization]]
 - [[Jevons Paradox]]
-- [[Character Encoding]]
+- [[Naive Bayes]]
 - [[Prompt]]
 - [[Nondeterminism]]
 - [[Tool Use]]

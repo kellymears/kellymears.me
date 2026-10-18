@@ -21,7 +21,7 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 - [[Reward Hacking]]
 
 ## Related
-- [[Second-System Effect]]
+- [[Support Vector Machine]]
 - [[Differential Privacy]]
 - [[Benchmark Contamination]]
 - [[Gradient Descent]]

@@ -40,3 +40,4 @@ Optimizing hard against any fixed measure tends to corrupt it; see [[Goodhart's 
 - [[Selection Bias]]
 - [[Decision Tree]]
 - [[Double Descent]]
+- [[Naive Bayes]]

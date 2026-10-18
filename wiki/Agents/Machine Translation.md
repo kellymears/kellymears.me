@@ -32,3 +32,4 @@ Professional translators now often edit machine drafts; see [[Internationalizati
 ## See also
 - [[Automatic Speech Recognition]]
 - [[Text-to-Speech]]
+- [[Hidden Markov Model]]

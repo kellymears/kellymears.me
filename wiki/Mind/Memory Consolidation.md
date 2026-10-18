@@ -27,7 +27,7 @@ Machine learning ran into the same problem. A neural network trained on a new ta
 - [[Dreaming]]
 - [[Napping]]
 - [[Cognitive Map]]
-- [[Working Memory]]
+- [[Hopfield Network]]
 - [[Segmented Sleep]]
 - [[Sleep Deprivation]]
 - [[Catastrophic Forgetting]]

@@ -21,6 +21,6 @@ The counterintuitive consequence is that a larger biased sample is not safer tha
 - [[Reservoir Sampling]]
 - [[Law of Large Numbers]]
 - [[Train-Test Split]]
-- [[Distribution Shift]]
+- [[Algorithmic Bias]]
 - [[Data Cleaning]]
 - [[Confounding]]

@@ -37,3 +37,4 @@ A useful habit when shown a correlation is to ask what else differs between the 
 - [[Berkson's Paradox]]
 - [[Natural Experiment]]
 - [[Ecological Fallacy]]
+- [[Algorithmic Bias]]

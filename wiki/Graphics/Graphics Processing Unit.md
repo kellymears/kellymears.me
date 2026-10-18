@@ -29,4 +29,4 @@ The work a GPU does each frame is a pipeline: transform vertices of a [[Polygon 
 
 ## See also
 - [[Virtualized Geometry]]
-- [[Dynamic Random-Access Memory]]
+- [[ImageNet]]

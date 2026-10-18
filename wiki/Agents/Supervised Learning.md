@@ -28,5 +28,5 @@ Modern language models combine all three. Self-supervised pretraining builds bro
 Whatever the paradigm, the central worry is generalization: doing well on new data, not just memorizing the training set. Evaluating on held-out data guards against [[Overfitting]]; see [[Train-Test Split]]. A model that performs well in testing can still fail when real-world data differs from what it learned on; see [[Distribution Shift]].
 
 ## See also
-- [[Abductive Reasoning]]
-- [[Imitation Learning]]
+- [[Support Vector Machine]]
+- [[Naive Bayes]]

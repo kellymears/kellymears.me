@@ -23,7 +23,7 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Ecological Fallacy]]
 
 ## Related
-- [[Regression to the Mean]]
+- [[Explainable AI]]
 - [[Scatter Plot]]
 - [[Logical Fallacy]]
 - [[Vitamin D]]

@@ -20,7 +20,7 @@ Real accuracy is dominated by what the headline number omits: proper nouns and r
 - [[Moravec's Paradox]]
 - [[Optical Character Recognition]]
 - [[Bitter Lesson]]
-- [[Edit Distance]]
+- [[Hidden Markov Model]]
 - [[Text-to-Speech]]
 - [[Multimodal Model]]
 - [[Recurrent Neural Network]]
