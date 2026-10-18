@@ -33,3 +33,4 @@ The needs map onto other ideas in this collection. Competence and absorption mee
 - [[Demand Avoidance]]
 - [[Compulsion Loop]]
 - [[Learned Helplessness]]
+- [[Self-Efficacy]]

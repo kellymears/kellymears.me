@@ -22,7 +22,7 @@ What helps is mostly recognition and slowing down: naming the reaction ("this is
 ## See also
 - [[Masking]]
 - [[Confirmation Bias]]
-- [[Fundamental Attribution Error]]
+- [[Impostor Syndrome]]
 - [[Learned Helplessness]]
 - [[Neurodiversity]]
 - [[Spiral of Silence]]

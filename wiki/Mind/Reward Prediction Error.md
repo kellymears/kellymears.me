@@ -22,7 +22,7 @@ Several popular ideas get revised by this view:
 The signal underpins [[Habit Formation]], where behavior that is reliably rewarded eventually runs on cues alone. ADHD is often linked to differences in dopamine signaling, and stimulant medications raise dopamine availability, though the full picture is more complicated than a simple shortage. The pull of novelty that drives a [[Rabbit Hole]] is prediction error at work. So is part of the [[Placebo Effect]], since expectation itself shapes how rewards are processed.
 
 ## See also
-- [[Variable-Ratio Reinforcement]]
+- [[Boredom]]
 - [[Habit Formation]]
 - [[Hedonic Treadmill]]
 - [[Compulsion Loop]]
@@ -30,3 +30,4 @@ The signal underpins [[Habit Formation]], where behavior that is reliably reward
 - [[Rabbit Hole]]
 - [[Predictive Processing]]
 - [[Curiosity]]
+- [[Neuroplasticity]]

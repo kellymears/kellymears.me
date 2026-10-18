@@ -32,3 +32,4 @@ Protection comes from good practice: asking open rather than leading questions, 
 - [[Illusory Truth Effect]]
 - [[Predictive Processing]]
 - [[Confirmation Bias]]
+- [[Memory Consolidation]]

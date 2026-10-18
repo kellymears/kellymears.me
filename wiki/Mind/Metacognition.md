@@ -27,5 +27,5 @@ Practical tools mostly externalize it, making the inner check visible:
 The same distinction appears in software that reasons. A [[Large Language Model]] often states wrong answers with the same fluency as right ones, a form of [[Hallucination]], and research on model calibration asks whether a system can know when it doesn't know. [[Chain-of-Thought Prompting]] is a crude form of externalized monitoring. [[Dual Process Theory]] frames the human case: metacognition is part of what decides when a fast intuitive answer needs a slower second look.
 
 ## See also
-- [[Dual Process Theory]]
+- [[Tip of the Tongue]]
 - [[Rubber Duck Debugging]]

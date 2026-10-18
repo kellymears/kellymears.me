@@ -23,7 +23,7 @@ The useful finding for daily life came from E. J. Masicampo and Roy Baumeister i
 For people whose [[Working Memory]] is already loaded, [[Extended Mind|offloading]] open loops is a large share of the work of staying organized. A [[Zettelkasten]] or task inbox gives the tension somewhere to go.
 
 ## See also
-- [[Implementation Intention]]
+- [[Prospective Memory]]
 - [[Attention Residue]]
 - [[Compulsion Loop]]
 - [[Working Memory]]

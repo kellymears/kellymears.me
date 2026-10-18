@@ -23,5 +23,5 @@ Neurodivergent accounts describe the same accumulation in everyday terms. Contin
 
 ## See also
 - [[Supercompensation]]
-- [[Heart Rate Variability]]
+- [[Window of Tolerance]]
 - [[Circadian Rhythm]]

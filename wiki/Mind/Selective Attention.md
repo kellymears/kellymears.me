@@ -24,6 +24,6 @@ When the filter is narrow, the rest of the scene can vanish, as [[Inattentional 
 
 ## See also
 - [[Preattentive Processing]]
-- [[Monotropism]]
+- [[Habituation]]
 - [[Attention Restoration Theory]]
 - [[Cognitive Load]]

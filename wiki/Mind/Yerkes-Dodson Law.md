@@ -24,7 +24,7 @@ Designers apply the same idea. A game's [[Difficulty Curve]] tries to keep playe
 The practical lesson is to adjust stimulation to the task rather than maximize focus or calm. Interesting background noise for dull work, quiet for hard work, and a break when everything starts to feel urgent.
 
 ## See also
-- [[Sensory Overload]]
-- [[Executive Function]]
+- [[Boredom]]
+- [[Window of Tolerance]]
 - [[Difficulty Curve]]
 - [[Hyperfocus]]

@@ -26,7 +26,7 @@ The remedies all **externalize time**, turning an internal sense that doesn't wo
 - Estimating from measured past durations rather than from feel. It is [[Fermi Estimation]] for one's own life, with [[Base Rate Fallacy|base rates]] instead of intuition.
 
 ## See also
-- [[Executive Function]]
+- [[Prospective Memory]]
 - [[Hyperfocus]]
 - [[Hofstadter's Law]]
 - [[Parkinson's Law]]

@@ -28,3 +28,4 @@ Test names are a special case: they should describe the scenario and the expecte
 ## Related
 - [[Plain Language]]
 - [[Zettelkasten]]
+- [[Tip of the Tongue]]

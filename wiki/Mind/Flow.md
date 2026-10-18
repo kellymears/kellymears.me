@@ -22,7 +22,7 @@ Flow is not automatically good. It is indifferent to what it attaches to, and a 
 
 ## See also
 - [[Hyperfocus]]
-- [[Difficulty Curve]]
+- [[Boredom]]
 - [[Game Feel]]
 - [[Attention Residue]]
 - [[Compulsion Loop]]

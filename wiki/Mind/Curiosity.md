@@ -32,3 +32,4 @@ Curiosity varies between people. *Need for cognition*, the enjoyment of effortfu
 - [[Rabbit Hole]]
 - [[Self-Determination Theory]]
 - [[Desirable Difficulty]]
+- [[Boredom]]

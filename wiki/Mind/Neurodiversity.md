@@ -18,7 +18,7 @@ Several ideas come out of the paradigm. The **double empathy problem** (Damian M
 The concepts this domain collects, such as [[Executive Function]], [[Monotropism]], [[Time Blindness]], [[Masking]], and [[Interoception]], are general human traits, distributed unevenly. Everyone has a [[Working Memory]] limit and loses time to [[Attention Residue]]; some people hit those limits much harder and much earlier. Design that accounts for the extremes, as in [[Accessibility]] and [[Plain Language]], tends to help everyone, the curb-cut effect.
 
 ## See also
-- [[Executive Function]]
+- [[Theory of Mind]]
 - [[Monotropism]]
 - [[Masking]]
 - [[Accessibility]]

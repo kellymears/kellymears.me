@@ -27,7 +27,7 @@ For programmers the structure will feel familiar. An implementation intention is
 - [[Time Blindness]]
 - [[Defensive Default]]
 - [[Pomodoro Technique]]
-- [[Finite State Machine]]
+- [[Prospective Memory]]
 - [[Habit Formation]]
 - [[Procrastination]]
 - [[Context-Dependent Memory]]

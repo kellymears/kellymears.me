@@ -27,7 +27,7 @@ Distinctiveness has costs. Isolating one item can reduce memory for its neighbor
 The effect connects to broader ideas about memory and attention. Vivid, unusual events dominate recall, which feeds the [[Availability Heuristic]]: a rare plane crash is easier to remember than thousands of uneventful flights. The same principle explains why memory techniques such as the [[Method of Loci]] favor bizarre images.
 
 ## See also
-- [[Serial Position Effect]]
+- [[Habituation]]
 - [[Selective Attention]]
 - [[Visual Hierarchy]]
 - [[Availability Heuristic]]

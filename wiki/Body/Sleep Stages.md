@@ -35,3 +35,4 @@ Consumer wearables estimate stages from movement and heart rate rather than brai
 - [[Motor Learning]]
 - [[Spaced Repetition]]
 - [[Supercompensation]]
+- [[Memory Consolidation]]

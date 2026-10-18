@@ -24,8 +24,8 @@ Expectation and attention also modulate pain, as [[Predictive Processing]] and t
 
 ## See also
 - [[Nociception]]
-- [[Referred Pain]]
-- [[Analgesic Ladder]]
+- [[Neuroplasticity]]
+- [[Habituation]]
 - [[Physical Dependence]]
 - [[Inflammation]]
 - [[Predictive Processing]]
