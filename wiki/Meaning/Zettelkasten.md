@@ -27,6 +27,6 @@ The modern practice adds tooling — automatic [[Backlink]]s, graph views, full-
 - [[Taxonomy]]
 - [[Markdown]]
 - [[Documentation Rot]]
-- [[Naming]]
+- [[Levels of Processing]]
 - [[Search Engine Optimization]]
 - [[Desirable Difficulty]]

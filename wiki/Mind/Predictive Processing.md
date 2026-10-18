@@ -27,4 +27,4 @@ Predictive accounts of autism propose that perception there relies less on prior
 Critics argue the framework is so flexible it risks explaining everything and predicting nothing, the worry raised by [[Falsifiability]]. The analogy to machine learning is close, though: a [[Large Language Model]] is trained only to predict the next token, and much of what it does emerges from that one objective.
 
 ## See also
-- [[Dreaming]]
+- [[Naive Realism]]

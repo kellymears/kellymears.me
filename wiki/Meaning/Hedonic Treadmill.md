@@ -16,7 +16,7 @@ The concept is often overstated into "money can't buy happiness," which the orig
 - [[Affective Forecasting]]
 - [[Learned Helplessness]]
 - [[Nostalgia]]
-- [[Doomscrolling]]
+- [[Savoring]]
 - [[Polarized Training]]
 - [[Reward Prediction Error]]
 - [[Peak-End Rule]]

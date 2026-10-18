@@ -35,3 +35,4 @@ The bias isn't simply an error. Taking threats seriously is often wise, and dism
 - [[Hedonic Treadmill]]
 - [[Self-Compassion]]
 - [[Framing Effect]]
+- [[Savoring]]

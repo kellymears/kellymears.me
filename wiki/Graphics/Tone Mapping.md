@@ -21,7 +21,7 @@ Several practical points follow:
 Tone mapping is a perceptual problem, not a mathematical one, so its references are perceptual too: [[Opponent Process Theory]], perceptually uniform spaces like [[OKLCH]], and the old craft of film grading.
 
 ## See also
-- [[High Dynamic Range]]
+- [[Weber-Fechner Law]]
 - [[Physically Based Rendering]]
 - [[Shader]]
 - [[Game Modding]]

@@ -29,4 +29,4 @@ As with [[Time Blindness]], the remedies are external. Scheduled meals and water
 - [[Sleep Paralysis]]
 - [[Glycogen]]
 - [[Itch]]
-- [[Emotional Regulation]]
+- [[Misattribution of Arousal]]

@@ -27,7 +27,7 @@ The great obstacle is that learners misjudge which methods work. Rereading and h
 The idea reaches beyond classrooms. Explaining a concept aloud, as in [[Rubber Duck Debugging]], is a form of generation and retrieval. Writing notes in your own words, the practice behind a [[Zettelkasten]], beats copying. In games, a well-tuned [[Difficulty Curve]] keeps players struggling productively, close to the balance described in [[Flow]]. The lesson in each case is that ease during practice is not evidence of learning.
 
 ## See also
-- [[Expert Intuition]]
+- [[Levels of Processing]]
 - [[Deliberate Practice]]
 - [[Functional Fixedness]]
 - [[Growth Mindset]]

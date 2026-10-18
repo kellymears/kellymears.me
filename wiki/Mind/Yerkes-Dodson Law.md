@@ -26,5 +26,5 @@ The practical lesson is to adjust stimulation to the task rather than maximize f
 ## See also
 - [[Boredom]]
 - [[Fight-or-Flight Response]]
-- [[Choking Under Pressure]]
+- [[Misattribution of Arousal]]
 - [[Burnout]]

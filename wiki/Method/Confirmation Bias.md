@@ -21,7 +21,7 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Self-Fulfilling Prophecy]]
 - [[Steelmanning]]
 - [[Cognitive Dissonance]]
-- [[Sycophancy]]
+- [[Naive Realism]]
 
 ## Related
 - [[Availability Heuristic]]

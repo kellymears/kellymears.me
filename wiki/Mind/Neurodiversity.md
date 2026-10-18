@@ -22,7 +22,7 @@ The concepts this domain collects, such as [[Executive Function]], [[Monotropism
 - [[Sensory Processing]]
 - [[Inclusive Design]]
 - [[Aphantasia]]
-- [[Fundamental Attribution Error]]
+- [[Ideomotor Effect]]
 - [[Legibility]]
 - [[Dyscalculia]]
 - [[Autistic Burnout]]

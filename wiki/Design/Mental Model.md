@@ -35,4 +35,4 @@ The concept reaches well beyond interfaces. [[Information Architecture]] organiz
 - [[Card Sorting]]
 - [[Natural Mapping]]
 - [[Conceptual Metaphor]]
-- [[Direct Manipulation]]
+- [[Cognitive Map]]

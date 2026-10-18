@@ -33,6 +33,6 @@ Digital wayfinding uses the same ideas. Navigation bars are paths; sections are 
 
 ## See also
 - [[Signifier]]
-- [[Legibility]]
+- [[Cognitive Map]]
 - [[Level Design]]
 - [[Breadcrumb]]

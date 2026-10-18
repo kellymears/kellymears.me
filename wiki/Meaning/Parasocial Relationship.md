@@ -25,3 +25,4 @@ Parasocial bonds aren't inherently pathological — they scale a normal social i
 - [[Fourth Wall]]
 - [[Imagined Community]]
 - [[Death of the Author]]
+- [[Social Comparison]]

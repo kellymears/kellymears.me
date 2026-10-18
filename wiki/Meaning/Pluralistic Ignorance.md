@@ -25,7 +25,7 @@ It's related to the [[Spiral of Silence]], in which people who believe their vie
 The remedy is making private views visible. Anonymous surveys that report actual norms reduce problem drinking on campuses, an approach called social norms marketing. In teams, a [[Pre-mortem]], anonymous voting, or asking each person to speak before the most senior person does helps surface doubts. A single dissenting voice often has outsized effect, since it shows others they are not alone. [[Blameless Postmortem]] practice and psychological safety exist partly to keep this channel open.
 
 ## See also
-- [[Availability Cascade]]
+- [[Naive Realism]]
 - [[Spotlight Effect]]
 - [[Information Cascade]]
 - [[Steelmanning]]

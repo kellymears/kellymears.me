@@ -32,5 +32,5 @@ The idea of a single unified stress response has been refined over time. Respons
 
 ## See also
 - [[Fever]]
-- [[Diaphragmatic Breathing]]
+- [[Misattribution of Arousal]]
 - [[Fight-or-Flight Response]]

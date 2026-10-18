@@ -23,3 +23,4 @@ Nostalgia is worth distinguishing from simple sentimentality about old things an
 - [[Awe]]
 - [[Invented Tradition]]
 - [[Rite of Passage]]
+- [[Savoring]]

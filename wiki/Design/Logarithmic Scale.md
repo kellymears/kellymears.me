@@ -37,3 +37,4 @@ The same idea runs through design and computing. Typographic scales step font si
 ## See also
 - [[Data Visualization]]
 - [[Color Scale]]
+- [[Weber-Fechner Law]]

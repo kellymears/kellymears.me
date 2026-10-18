@@ -31,3 +31,4 @@ Teams show a similar dynamic. When mistakes are treated as evidence of incompete
 - [[Metacognition]]
 - [[Self-Fulfilling Prophecy]]
 - [[Deliberate Practice]]
+- [[Social Comparison]]

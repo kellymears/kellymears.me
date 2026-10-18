@@ -26,6 +26,6 @@ For people prone to [[Sensory Overload]] or [[Autistic Burnout]], calm, predicta
 
 ## See also
 - [[Decision Fatigue]]
-- [[Sensory Processing]]
+- [[Savoring]]
 - [[Awe]]
 - [[Vigilance Decrement]]

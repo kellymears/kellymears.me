@@ -38,3 +38,4 @@ Therapy uses the mechanism directly. Exposure-based treatments in [[Cognitive Be
 - [[Memory Consolidation]]
 - [[Window of Tolerance]]
 - [[Neuroplasticity]]
+- [[Exposure Therapy]]

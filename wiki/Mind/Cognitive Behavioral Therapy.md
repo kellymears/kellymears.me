@@ -36,5 +36,5 @@ CBT has limits. It works less well when problems stem from circumstances rather 
 - [[Locus of Control]]
 - [[Classical Conditioning]]
 - [[Insomnia]]
-- [[Self-Compassion]]
+- [[Exposure Therapy]]
 - [[Ironic Process Theory]]

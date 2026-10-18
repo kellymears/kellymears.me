@@ -25,8 +25,8 @@ Habituation explains some broader patterns too. The [[Hedonic Treadmill]] is hab
 Infant researchers rely on it. Babies cannot answer questions, but they look longer at something new, so showing an image until looking drops and then changing one feature reveals what differences they can perceive. The same method works with animals.
 
 ## See also
-- [[Multi-Factor Authentication]]
-- [[Classical Conditioning]]
+- [[Savoring]]
+- [[Exposure Therapy]]
 - [[Calm Technology]]
 - [[Web Push]]
 - [[Onboarding]]

@@ -15,7 +15,7 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Rite of Passage]]
 - [[Bystander Effect]]
 - [[Spiral of Silence]]
-- [[Fundamental Attribution Error]]
+- [[Naive Realism]]
 - [[Cognitive Dissonance]]
 - [[Pre-mortem]]
 - [[Steelmanning]]

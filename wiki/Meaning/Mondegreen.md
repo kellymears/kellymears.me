@@ -16,6 +16,6 @@ The cross-language cousin is *soramimi*, a Japanese term for hearing foreign-lan
 - [[Eggcorn]]
 - [[Malaphor]]
 - [[Snowclone]]
-- [[Folk Etymology]]
+- [[Earworm]]
 - [[Death of the Author]]
 - [[Predictive Processing]]

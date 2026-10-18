@@ -29,7 +29,7 @@ The research has some limits. Rebound effects vary in size across studies, and a
 
 ## See also
 - [[Selective Attention]]
-- [[Working Memory]]
+- [[Earworm]]
 - [[Dual Process Theory]]
 - [[Implementation Intention]]
 - [[Itch]]

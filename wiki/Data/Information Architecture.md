@@ -20,7 +20,7 @@ At scale the interesting problems become taxonomic: whether structure should be 
 - [[Headless CMS]]
 - [[Card Sorting]]
 - [[Rent Strike]]
-- [[Ontology]]
+- [[Cognitive Map]]
 
 ## Related
 - [[Hierarchical Data]]

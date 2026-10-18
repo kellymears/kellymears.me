@@ -22,3 +22,4 @@ MMR should not be confused with a [[Tier List]]: a tier list is a static, commun
 - [[Anti-Cheat]]
 - [[Bushnell's Law]]
 - [[Griefing]]
+- [[Social Comparison]]

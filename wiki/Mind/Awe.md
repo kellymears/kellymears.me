@@ -29,6 +29,6 @@ Awe has a darker side. Leaders, rallies, and spectacles can deliberately inspire
 Awe is one of several emotions studied as distinct from general happiness, which helps people describe their experiences more precisely; see [[Emotional Granularity]]. Unlike pleasures that fade with repetition, awe often renews itself with new encounters; see [[Hedonic Treadmill]] and [[Nostalgia]].
 
 ## See also
-- [[Flow]]
+- [[Misattribution of Arousal]]
 - [[Mindfulness]]
 - [[Self-Compassion]]

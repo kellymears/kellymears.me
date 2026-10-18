@@ -27,4 +27,4 @@ The spotlight effect has a mirror image: people also underestimate how much othe
 ## See also
 - [[Third-Person Effect]]
 - [[Fundamental Attribution Error]]
-- [[Social Proof]]
+- [[Social Comparison]]

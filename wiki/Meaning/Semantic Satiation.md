@@ -15,7 +15,7 @@ Psychology experiments use the effect both as a probe and as a tool. Reaction-ti
 ## See also
 - [[Déjà Vu]]
 - [[Godwin's Law]]
-- [[Collocation]]
+- [[Earworm]]
 - [[Semantic Change]]
 - [[Habituation]]
 - [[Tip of the Tongue]]

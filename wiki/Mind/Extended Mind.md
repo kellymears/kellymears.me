@@ -25,5 +25,5 @@ For many neurodivergent people, offloading isn't a convenience but the main acco
 Note-taking systems are the extended mind built on purpose. A [[Zettelkasten]] is a memory designed to be consulted and to talk back, and personal wikis and linked-note tools are its digital descendants, often sold as a "second brain." The same design problem appears for software agents: a [[Large Language Model]] has no lasting memory beyond its [[Context Window]], so [[Agent Memory]] and [[Retrieval-Augmented Generation]] give it an Otto's notebook to consult.
 
 ## See also
-- [[Transactive Memory]]
+- [[Cognitive Map]]
 - [[Project Xanadu]]

@@ -27,4 +27,4 @@ Speed reading persists partly because people judge their own understanding poorl
 
 ## See also
 - [[Dyslexia]]
-- [[Cognitive Load]]
+- [[Levels of Processing]]

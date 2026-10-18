@@ -21,3 +21,4 @@ The effect is worth distinguishing from ordinary correlation, where traits reall
 - [[Matthew Effect]]
 - [[Veblen Good]]
 - [[Death of the Author]]
+- [[Misattribution of Arousal]]

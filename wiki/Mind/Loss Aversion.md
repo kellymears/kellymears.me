@@ -32,7 +32,7 @@ It fits with other findings about judgment: [[Anchoring Effect]] shows that refe
 
 ## See also
 - [[Peak-End Rule]]
-- [[Decision Fatigue]]
+- [[Weber-Fechner Law]]
 - [[Trolley Problem]]
 - [[Expected Value]]
 - [[Hyperbolic Discounting]]

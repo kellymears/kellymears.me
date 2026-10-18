@@ -29,6 +29,6 @@ Inner experience varies along many such dimensions. Some people have little [[In
 - [[Inner Speech]]
 - [[Synesthesia]]
 - [[Neurodiversity]]
-- [[Method of Loci]]
+- [[Earworm]]
 - [[Prosopagnosia]]
 - [[Dreaming]]

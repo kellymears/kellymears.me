@@ -34,4 +34,4 @@ Several practices reduce unwanted wandering. Meditation trains noticing the drif
 ## See also
 - [[Insight]]
 - [[Inner Speech]]
-- [[Selective Attention]]
+- [[Earworm]]

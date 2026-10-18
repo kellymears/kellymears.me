@@ -31,3 +31,4 @@ In design, the effect argues for following conventions, since users arrive alrea
 - [[Availability Heuristic]]
 - [[Skeuomorphism]]
 - [[Déjà Vu]]
+- [[Earworm]]

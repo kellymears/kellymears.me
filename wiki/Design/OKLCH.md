@@ -26,7 +26,7 @@ The practical caution is that perceptual uniformity is not the same as *contrast
 - [[Motion Design]]
 - [[CSS Custom Property]]
 - [[Utility-First CSS]]
-- [[Silent Failure]]
+- [[Weber-Fechner Law]]
 - [[Cascade]]
 - [[Color Vision Deficiency]]
 - [[Color Scale]]

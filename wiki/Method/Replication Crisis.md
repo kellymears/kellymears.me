@@ -27,6 +27,6 @@ The reforms are mostly about committing in advance. **Preregistration** records 
 - [[Superconductivity]]
 - [[Priming]]
 - [[Open Data]]
-- [[Effect Size]]
+- [[Misattribution of Arousal]]
 - [[Benchmark Contamination]]
 - [[Statistical Power]]

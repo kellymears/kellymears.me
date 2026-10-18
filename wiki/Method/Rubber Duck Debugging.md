@@ -21,7 +21,7 @@ The technique's real relative is not conversation but writing: forcing a problem
 - [[Yak Shaving]]
 - [[Body Doubling]]
 - [[Default Mode Network]]
-- [[Metacognition]]
+- [[Levels of Processing]]
 - [[Software Inspection]]
 - [[Pair Programming]]
 - [[Desirable Difficulty]]

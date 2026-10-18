@@ -29,7 +29,7 @@ The rule interacts with other memory effects. The [[Serial Position Effect]] als
 ## See also
 - [[Fresh Start Effect]]
 - [[Dual Process Theory]]
-- [[Hedonic Treadmill]]
+- [[Savoring]]
 - [[Affective Forecasting]]
 - [[Aesthetic-Usability Effect]]
 - [[Progress Indicator]]

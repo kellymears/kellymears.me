@@ -30,6 +30,6 @@ RCTs have limits. Some questions can't ethically be randomized, such as whether 
 - [[Meta-Analysis]]
 - [[Statistical Power]]
 - [[Hawthorne Effect]]
-- [[Bayes' Theorem]]
+- [[Ideomotor Effect]]
 - [[Confounding]]
 - [[Statistical Significance]]

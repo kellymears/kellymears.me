@@ -25,7 +25,7 @@ What helps is making evidence count: keeping a record of finished work and feedb
 
 ## See also
 - [[Choking Under Pressure]]
-- [[Cognitive Behavioral Therapy]]
+- [[Social Comparison]]
 - [[Psychological Safety]]
 - [[Fundamental Attribution Error]]
 - [[Self-Compassion]]

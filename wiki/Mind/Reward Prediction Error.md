@@ -27,7 +27,7 @@ The signal underpins [[Habit Formation]], where behavior that is reliably reward
 - [[Multi-Armed Bandit]]
 - [[Classical Conditioning]]
 - [[Runner's High]]
-- [[Rabbit Hole]]
+- [[Exposure Therapy]]
 - [[Predictive Processing]]
 - [[Curiosity]]
 - [[Neuroplasticity]]

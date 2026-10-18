@@ -27,5 +27,5 @@ There is a close analogy in machines. A [[Context Window]] is a language model's
 - [[Choking Under Pressure]]
 - [[Document Chunking]]
 - [[Dyscalculia]]
-- [[Spaced Repetition]]
+- [[Levels of Processing]]
 - [[Attentional Blink]]

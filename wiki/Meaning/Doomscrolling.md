@@ -13,7 +13,7 @@ It's distinct from simply staying informed, which has a natural endpoint once th
 
 ## See also
 - [[Filter Bubble]]
-- [[Moral Panic]]
+- [[Savoring]]
 - [[Availability Cascade]]
 - [[Hedonic Treadmill]]
 - [[Third Place]]

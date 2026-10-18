@@ -27,9 +27,9 @@ The method has limits. It suits ordered lists, names, numbers, and speeches bett
 It still offers a useful lesson about memory: it is not a passive recording but an active construction tied to context and imagery, which also makes it fallible, as research on [[False Memory]] shows. Spatial cues can serve as [[Context-Dependent Memory]] triggers. The memory palace also resembles the [[Extended Mind]] idea in reverse: rather than storing information in the world, it builds an imagined world to store information in. Its demands on visualization connect it to [[Working Memory]] research.
 
 ## See also
-- [[Spaced Repetition]]
+- [[Levels of Processing]]
 - [[Episodic Memory]]
-- [[Context-Dependent Memory]]
+- [[Cognitive Map]]
 - [[Working Memory]]
 - [[Aphantasia]]
 - [[Wayfinding]]

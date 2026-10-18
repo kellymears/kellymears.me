@@ -28,7 +28,7 @@ Externalizing inner speech can make it clearer. Explaining a problem aloud, as i
 At the far end, voices that seem to come from outside, as in some psychiatric conditions, may arise when the brain fails to recognize inner speech as self-generated. Normally the brain predicts the sensory consequences of its own speech and dampens them, a mechanism described under [[Predictive Processing]]; when that prediction fails, one's own inner voice can feel alien.
 
 ## See also
-- [[Working Memory]]
+- [[Earworm]]
 - [[Rumination]]
 - [[Aphantasia]]
 - [[Self-Compassion]]

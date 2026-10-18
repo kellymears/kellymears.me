@@ -25,3 +25,4 @@ Priming has a direct counterpart in language models, which continue text in the 
 - [[Context-Dependent Memory]]
 - [[Selective Attention]]
 - [[Illusory Truth Effect]]
+- [[Ideomotor Effect]]

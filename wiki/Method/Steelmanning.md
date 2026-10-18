@@ -31,6 +31,6 @@ In technical work, the same habit improves [[Code Review]] and design discussion
 - [[Groupthink]]
 - [[Godwin's Law]]
 - [[Cunningham's Law]]
-- [[Framing Effect]]
+- [[Naive Realism]]
 - [[Brandolini's Law]]
 - [[Logical Fallacy]]

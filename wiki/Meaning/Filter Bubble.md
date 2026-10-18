@@ -15,7 +15,7 @@ The empirical picture is more contested than the popular story: several large st
 - [[Spiral of Silence]]
 - [[Availability Cascade]]
 - [[Third-Person Effect]]
-- [[Network Effect]]
+- [[Naive Realism]]
 - [[Doomscrolling]]
 - [[Rabbit Hole]]
 - [[Sycophancy]]

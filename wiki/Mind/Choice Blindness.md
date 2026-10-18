@@ -26,3 +26,4 @@ The findings have implications for surveys and research that rely on self-report
 - [[Dual Process Theory]]
 - [[Inner Speech]]
 - [[Expert Intuition]]
+- [[Ideomotor Effect]]

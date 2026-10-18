@@ -26,7 +26,7 @@ The concept links to broader questions of well-being. If satisfaction depends on
 
 ## See also
 - [[Jevons Paradox]]
-- [[Matthew Effect]]
+- [[Social Comparison]]
 - [[Planned Obsolescence]]
 - [[Collectible Card Game]]
 - [[Gift Economy]]

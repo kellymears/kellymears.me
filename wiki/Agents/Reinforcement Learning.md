@@ -29,4 +29,4 @@ RL also has a neuroscience link. In 1997 Wolfram Schultz and colleagues showed t
 - [[Supervised Learning]]
 - [[Self-Play]]
 - [[Expected Value]]
-- [[Agentic Loop]]
+- [[Cognitive Map]]
