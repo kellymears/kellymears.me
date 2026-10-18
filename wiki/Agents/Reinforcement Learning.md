@@ -28,5 +28,5 @@ RL also has a neuroscience link. In 1997 Wolfram Schultz and colleagues showed t
 ## See also
 - [[Deep Blue]]
 - [[Self-Play]]
-- [[Expected Value]]
+- [[Elo Rating System]]
 - [[Cognitive Map]]

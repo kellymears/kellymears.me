@@ -21,3 +21,4 @@ Deckbuilding is also worth distinguishing from [[Worker Placement]], another eco
 - [[Power Creep]]
 - [[Collectible Card Game]]
 - [[Input and Output Randomness]]
+- [[Eurogame]]

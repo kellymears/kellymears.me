@@ -20,6 +20,6 @@ Legal ambiguity slows all of it down, the same [[Right to Repair]]-adjacent terr
 - [[Vector Display]]
 - [[Deprecation]]
 - [[Point-and-Click Adventure]]
-- [[Pixel Art]]
+- [[Video Game Crash of 1983]]
 - [[Digital Preservation]]
 - [[Interactive Fiction]]

@@ -29,5 +29,5 @@ Machine learning ran into the same problem. A neural network trained on a new ta
 - [[Cognitive Map]]
 - [[Hopfield Network]]
 - [[Segmented Sleep]]
-- [[Sleep Deprivation]]
+- [[Tetris]]
 - [[Catastrophic Forgetting]]

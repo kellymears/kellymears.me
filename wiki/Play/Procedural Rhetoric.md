@@ -29,3 +29,4 @@ For designers, the lesson is to ask what a system implies when someone plays it 
 - [[Emergent Gameplay]]
 - [[Immersive Sim]]
 - [[Catch-Up Mechanic]]
+- [[Wargame]]

@@ -32,3 +32,4 @@ The genre has appeared in research on group decision-making and in tests of lang
 - [[Perfect Information]]
 - [[Griefing]]
 - [[Cooperative Game]]
+- [[Eurogame]]

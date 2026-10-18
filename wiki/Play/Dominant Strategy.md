@@ -30,3 +30,4 @@ The concept also helps explain why players optimize the fun out of games. Given 
 - [[Solved Game]]
 - [[Bushnell's Law]]
 - [[Interesting Decisions]]
+- [[Playtesting]]

@@ -23,3 +23,5 @@ MMR should not be confused with a [[Tier List]]: a tier list is a static, commun
 - [[Bushnell's Law]]
 - [[Griefing]]
 - [[Social Comparison]]
+- [[Elo Rating System]]
+- [[Esports]]

@@ -24,6 +24,6 @@ The habit worth keeping is to look at the data before assuming its shape. A hist
 ## See also
 - [[Mean and Median]]
 - [[Box Plot]]
-- [[Wisdom of the Crowd]]
+- [[Elo Rating System]]
 - [[Benford's Law]]
 - [[Outlier]]

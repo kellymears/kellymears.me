@@ -27,5 +27,5 @@ The debate has returned with language models. Systems trained only on text have 
 
 ## See also
 - [[Posture]]
-- [[Ideomotor Effect]]
+- [[Tetris]]
 - [[Stimming]]

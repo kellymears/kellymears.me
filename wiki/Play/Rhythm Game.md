@@ -15,8 +15,8 @@ summary: a genre that judges player input against a musical beat, where calibrat
 ## See also
 - [[MDA Framework]]
 - [[Adaptive Music]]
-- [[Accessibility]]
+- [[Tetris]]
 - [[Shoot 'em Up]]
-- [[Procedural Generation]]
+- [[Arcade Game]]
 - [[Motor Learning]]
 - [[Sound]]

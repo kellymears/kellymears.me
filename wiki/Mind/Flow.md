@@ -23,10 +23,10 @@ Flow is not automatically good. It is indifferent to what it attaches to, and a 
 ## See also
 - [[Runner's High]]
 - [[Boredom]]
-- [[Choking Under Pressure]]
+- [[Tutorial Design]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Mind-Wandering]]
 - [[Deliberate Practice]]
-- [[Escape Room]]
+- [[Tetris]]
 - [[Savoring]]
 - [[Daily Standup]]

@@ -29,3 +29,4 @@ The idea extends well beyond board and video games. A [[Generative Adversarial N
 - [[Reward Hacking]]
 - [[Solved Game]]
 - [[Deep Blue]]
+- [[Elo Rating System]]

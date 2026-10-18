@@ -14,14 +14,14 @@ There's a second, subtler curve worth separating from the authored one: the play
 [[Assist Mode]] exists precisely to decouple these two curves for players whose skill trajectory won't converge with the authored one on the same schedule — it doesn't flatten the intended curve so much as offer an alternate one running in parallel.
 
 ## See also
-- [[Level Design]]
+- [[Tutorial Design]]
 - [[Bushnell's Law]]
 - [[Checkpoint]]
 - [[Boss Rush]]
 - [[Cooperative Game]]
 - [[Yerkes-Dodson Law]]
 - [[Peak-End Rule]]
-- [[Desirable Difficulty]]
+- [[Playtesting]]
 - [[Self-Efficacy]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Coyote Time]]

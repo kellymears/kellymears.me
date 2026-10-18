@@ -17,9 +17,9 @@ That shift is expensive, and the expense is mostly in verification. A scripted e
 ## See also
 - [[Game AI]]
 - [[Fourth Wall]]
-- [[Diegetic Interface]]
+- [[Playtesting]]
 - [[Ludonarrative Dissonance]]
-- [[Procedural Generation]]
+- [[Walking Simulator]]
 - [[Sequence Breaking]]
 - [[Tabletop Role-Playing Game]]
 - [[Procedural Rhetoric]]

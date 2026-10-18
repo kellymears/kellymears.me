@@ -29,3 +29,4 @@ Programmers like the genre as an exercise: detecting matches, applying gravity, 
 ## See also
 - [[Idle Game]]
 - [[Compulsion Loop]]
+- [[Tetris]]

@@ -32,3 +32,4 @@ The tension mirrors a debate outside games, between rewarding success and limiti
 - [[Difficulty Curve]]
 - [[Metagame]]
 - [[Input and Output Randomness]]
+- [[Eurogame]]

@@ -30,3 +30,4 @@ Board game and box versions bring the format home, and some games online borrow 
 ## See also
 - [[Alternate Reality Game]]
 - [[Interesting Decisions]]
+- [[Eurogame]]

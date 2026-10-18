@@ -26,3 +26,4 @@ Parasocial bonds aren't inherently pathological — they scale a normal social i
 - [[Imagined Community]]
 - [[Death of the Author]]
 - [[Social Comparison]]
+- [[Esports]]

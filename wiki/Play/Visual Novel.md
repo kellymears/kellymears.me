@@ -15,7 +15,7 @@ summary: a narrative form told through text and portraits, where branching is ma
 ## See also
 - [[Point-and-Click Adventure]]
 - [[Metroidvania]]
-- [[Constraint Propagation]]
+- [[Walking Simulator]]
 - [[Fair-Play Mystery]]
 - [[Spoiler Etiquette]]
 - [[Achievement Hunting]]

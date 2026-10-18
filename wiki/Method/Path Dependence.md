@@ -18,7 +18,7 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[Gopher]]
 - [[Paper Size]]
 - [[GIF]]
-- [[Sunk Cost Fallacy]]
+- [[Video Game Crash of 1983]]
 - [[Second-Order Thinking]]
 - [[Encrypted Media Extensions]]
 - [[Two-Sided Market]]

@@ -19,3 +19,4 @@ The spectrum is also a choice about who the [[Metagame]] serves. Setup tuning â€
 - [[Determinism]]
 - [[Metagame]]
 - [[Catch-Up Mechanic]]
+- [[Esports]]

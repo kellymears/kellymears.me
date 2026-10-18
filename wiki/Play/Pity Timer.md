@@ -20,3 +20,4 @@ The mechanism is best understood as damage control on [[Variable-Ratio Reinforce
 - [[Pseudorandom Number Generator]]
 - [[Collectible Card Game]]
 - [[Input and Output Randomness]]
+- [[Tetris]]

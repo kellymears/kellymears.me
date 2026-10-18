@@ -17,10 +17,10 @@ The durable failure mode is reading "best in role" as "required" — an [[Exhaus
 
 ## See also
 - [[Metagame]]
-- [[Goodhart's Law]]
+- [[Elo Rating System]]
 - [[Live Service Game]]
 - [[Selection Bias]]
-- [[Anchoring Effect]]
+- [[Esports]]
 - [[Power Creep]]
 - [[Fighting Game]]
 - [[Dominant Strategy]]

@@ -29,4 +29,4 @@ Sprite animation is laborious, since each frame is hand-drawn, which led many ga
 - [[Color Cycling]]
 - [[Vector Display]]
 - [[Rotoscoping]]
-- [[Stop Motion]]
+- [[Video Game Crash of 1983]]

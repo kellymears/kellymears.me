@@ -26,3 +26,4 @@ Everyday engineering is full of small thought experiments: what happens if this 
 ## See also
 - [[Abductive Reasoning]]
 - [[Occam's Razor]]
+- [[Wargame]]

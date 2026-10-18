@@ -16,7 +16,7 @@ Affordance is downstream of the same perceptual machinery [[Gestalt Principles]]
 ## See also
 - [[Form Follows Function]]
 - [[Dieter Rams]]
-- [[Dark Pattern]]
+- [[Tutorial Design]]
 - [[UI Primitive]]
 
 ## Related

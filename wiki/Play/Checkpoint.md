@@ -32,3 +32,4 @@ Under the hood, a checkpoint is a snapshot of game state, which needs to capture
 ## See also
 - [[Roguelike]]
 - [[New Game Plus]]
+- [[Arcade Game]]

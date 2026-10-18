@@ -30,3 +30,4 @@ Its success with Go is a leading example of a general method that improves with 
 - [[Greedy Algorithm]]
 - [[Solved Game]]
 - [[Deep Blue]]
+- [[Elo Rating System]]

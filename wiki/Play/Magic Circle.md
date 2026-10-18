@@ -29,7 +29,7 @@ Critics argue the circle is more porous than Huizinga suggested, and modern game
 The circle also connects to how stories absorb us, and to why a mismatch between a game's rules and its story is jarring; see [[Ludonarrative Dissonance]]. It suggests why play matters to well-being: activities chosen freely, for their own sake, are what psychologists associate with intrinsic motivation; see [[Self-Determination Theory]] and [[Flow]].
 
 ## See also
-- [[Metagame]]
+- [[Esports]]
 - [[Sandbox Game]]
 - [[Tabletop Role-Playing Game]]
 - [[Social Deduction Game]]

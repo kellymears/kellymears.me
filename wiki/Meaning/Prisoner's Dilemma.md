@@ -28,7 +28,7 @@ The model has critics. Real people cooperate more than the theory predicts in on
 
 ## See also
 - [[Linear Programming]]
-- [[Blood Doping]]
+- [[Wargame]]
 - [[BitTorrent]]
 - [[Trolley Problem]]
 - [[Dominant Strategy]]

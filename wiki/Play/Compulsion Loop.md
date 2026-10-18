@@ -13,7 +13,7 @@ The same machinery produces a well-paced [[Roguelike Deckbuilder]] run and a pre
 What distinguishes the two is not the loop's shape but its **incentive structure** — who benefits when the loop keeps running, and whether the player's stopping point was engineered to be uncomfortable. The underlying reward pattern is frequently [[Variable-Ratio Reinforcement]], since an unpredictable payout produces the loop's most compulsive form, which is why the ethical argument about a compulsion loop is never about whether it exists but about who calibrated it and toward what. [[Live Service Game]] and [[Meta-Progression]] design both depend on the loop staying open across sessions rather than closing at the end of one.
 
 ## See also
-- [[MDA Framework]]
+- [[Arcade Game]]
 - [[Bartle Taxonomy]]
 - [[Hyperbolic Discounting]]
 - [[Gamification]]

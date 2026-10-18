@@ -18,4 +18,4 @@ Published **[[Tier List]]** rankings are where the metagame becomes visible and 
 - [[Collectible Card Game]]
 - [[Self-Play]]
 - [[Dominant Strategy]]
-- [[Prisoner's Dilemma]]
+- [[Esports]]

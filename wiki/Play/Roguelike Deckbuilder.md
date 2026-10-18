@@ -15,7 +15,7 @@ The genre departs from its parent in what progression means. A roguelike proper 
 ## See also
 - [[Roguelike]]
 - [[Meta-Progression]]
-- [[Tier List]]
+- [[Eurogame]]
 - [[Procedural Generation]]
 - [[Variable-Ratio Reinforcement]]
 - [[Collectible Card Game]]

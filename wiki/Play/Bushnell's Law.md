@@ -33,5 +33,6 @@ Speedrunners keep pushing the ceiling past anything the designers imagined; see 
 The idea extends beyond games. The educator Seymour Papert described good learning tools as having a low floor and a high ceiling, and his colleague Mitchel Resnick added wide walls, many different paths to explore. Interface designers pursue the same goal by keeping advanced features available but out of the way; see [[Progressive Disclosure]]. Learning research suggests the climb itself, with challenge just beyond current skill, is where engagement lives; see [[Flow]] and [[Desirable Difficulty]].
 
 ## See also
-- [[Game Feel]]
+- [[Video Game Crash of 1983]]
 - [[Interesting Decisions]]
+- [[Arcade Game]]

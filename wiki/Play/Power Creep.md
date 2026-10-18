@@ -40,3 +40,4 @@ Power creep has parallels outside games. Software accumulates features each rele
 - [[Collectible Card Game]]
 - [[Dominant Strategy]]
 - [[Faucets and Sinks]]
+- [[Esports]]

@@ -23,3 +23,4 @@ Rollback depends entirely on [[Determinism]]: the resimulation only produces the
 - [[Fighting Game]]
 - [[Nagle's Algorithm]]
 - [[Hit Stop]]
+- [[Esports]]

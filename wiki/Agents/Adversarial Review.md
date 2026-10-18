@@ -24,7 +24,7 @@ The same discipline applies to humans reviewing machine output, and to the revie
 - [[Sycophancy]]
 
 ## Related
-- [[Provenance]]
+- [[Wargame]]
 - [[Adversarial Example]]
 - [[Exhaustive Claim]]
 - [[Penetration Testing]]

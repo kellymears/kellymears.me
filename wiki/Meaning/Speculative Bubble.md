@@ -30,3 +30,4 @@ Bubbles also spread costs beyond the people who bought in. Debt taken on during 
 - [[Wisdom of the Crowd]]
 - [[Matthew Effect]]
 - [[Sunk Cost Fallacy]]
+- [[Video Game Crash of 1983]]

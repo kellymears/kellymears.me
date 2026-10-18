@@ -28,5 +28,5 @@ The style constraints of old hardware have become an aesthetic in their own righ
 - [[Isometric Projection]]
 - [[Platformer]]
 - [[Ray Casting]]
-- [[Parallax Scrolling]]
+- [[Wargame]]
 - [[Color Cycling]]

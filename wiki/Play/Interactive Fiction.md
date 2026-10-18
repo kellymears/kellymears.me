@@ -30,5 +30,5 @@ Language models have revived old questions. A model can understand any phrasing 
 - [[Alternate Reality Game]]
 - [[Game Preservation]]
 - [[Point-and-Click Adventure]]
-- [[Unreliable Narrator]]
+- [[Walking Simulator]]
 - [[Deus ex Machina]]

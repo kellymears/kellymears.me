@@ -27,7 +27,7 @@ The fighting game community grew around open tournaments, most famously Evo, whe
 Barriers to entry are a long-running problem: new players often face opponents far better than them and quit. Modern games add simplified control schemes, detailed tutorials, and skill-based matching; see [[Matchmaking Rating]] and [[Assist Mode]].
 
 ## See also
-- [[Parry and Riposte]]
-- [[Hit Stop]]
-- [[Skill Check]]
-- [[Dominant Strategy]]
+- [[Tutorial Design]]
+- [[Arcade Game]]
+- [[Esports]]
+- [[Elo Rating System]]

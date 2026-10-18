@@ -25,6 +25,6 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 - [[Dashboard]]
 - [[Team Topologies]]
 - [[Data-Ink Ratio]]
-- [[Affordance]]
+- [[Tutorial Design]]
 - [[Developer Experience]]
 - [[Extended Mind]]

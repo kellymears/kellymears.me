@@ -20,3 +20,4 @@ The pattern carries a specific risk: a snowball. Once an engine is running well 
 - [[Catch-Up Mechanic]]
 - [[Faucets and Sinks]]
 - [[Interesting Decisions]]
+- [[Eurogame]]

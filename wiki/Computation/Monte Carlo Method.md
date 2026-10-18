@@ -30,5 +30,5 @@ Results are only as good as the randomness and the model. A weak [[Pseudorandom 
 - [[Quantum Computing]]
 - [[Monte Carlo Tree Search]]
 - [[Birthday Problem]]
-- [[Thought Experiment]]
+- [[Wargame]]
 - [[Radioactive Decay]]

@@ -17,6 +17,6 @@ The unavoidable cost is preservation. A single-player game from 1998 still runs;
 ## See also
 - [[Battle Royale]]
 - [[Multi-User Dungeon]]
-- [[Third Place]]
+- [[Esports]]
 - [[Faucets and Sinks]]
 - [[Battle Pass]]

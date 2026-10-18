@@ -27,7 +27,7 @@ The commercial version oversells. Brain-training games mostly improve performanc
 
 ## See also
 - [[Dyslexia]]
-- [[Hopfield Network]]
+- [[Tetris]]
 - [[Phantom Limb]]
 - [[Cognitive Map]]
 - [[Neural Network Pruning]]

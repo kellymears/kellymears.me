@@ -26,3 +26,4 @@ Raster displays won as memory got cheaper, because a framebuffer can hold any im
 ## See also
 - [[Interlacing]]
 - [[Pixel Art]]
+- [[Arcade Game]]

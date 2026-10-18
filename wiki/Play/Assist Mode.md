@@ -16,7 +16,7 @@ The stronger argument runs the other way: a toggle nobody is shamed for using is
 - [[Bushnell's Law]]
 - [[Accessibility]]
 - [[Permadeath]]
-- [[Invincibility Frames]]
+- [[Tutorial Design]]
 - [[Coyote Time]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Checkpoint]]

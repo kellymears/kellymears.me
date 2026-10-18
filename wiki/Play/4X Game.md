@@ -19,3 +19,4 @@ The genre's known failure mode is the "empire ceiling": a 4X that scales well th
 - [[Colony Sim]]
 - [[City Builder]]
 - [[Catch-Up Mechanic]]
+- [[Wargame]]

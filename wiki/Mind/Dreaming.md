@@ -32,3 +32,4 @@ Daydreams share some features with night dreams, drawing on the same brain netwo
 ## See also
 - [[Aphantasia]]
 - [[Déjà Vu]]
+- [[Tetris]]

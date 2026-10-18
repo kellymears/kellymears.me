@@ -24,7 +24,7 @@ Countermeasures are external, since effort alone doesn't cure it. Test explanati
 
 ## See also
 - [[Transactive Memory]]
-- [[Docs as Code]]
+- [[Playtesting]]
 - [[Naive Realism]]
 - [[Functional Fixedness]]
 - [[Spotlight Effect]]

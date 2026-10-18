@@ -34,3 +34,4 @@ The broader principle applies outside games: an interface that interprets what s
 - [[Fighting Game]]
 - [[Platformer]]
 - [[Hit Stop]]
+- [[Tetris]]

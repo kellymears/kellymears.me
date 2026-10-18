@@ -35,3 +35,4 @@ Onboarding is usually measured by activation, the share of new users who reach t
 ## See also
 - [[Gamification]]
 - [[Mental Model]]
+- [[Tutorial Design]]

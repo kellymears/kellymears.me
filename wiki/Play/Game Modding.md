@@ -23,3 +23,4 @@ Longevity follows from all of it: a game with an active mod scene keeps being pl
 - [[Game Preservation]]
 - [[Temporal Upscaling]]
 - [[Game Jam]]
+- [[Walking Simulator]]

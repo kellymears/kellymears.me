@@ -33,3 +33,4 @@ Platformers are a favorite of speedrunners, since tight controls reward mastery 
 ## See also
 - [[Invincibility Frames]]
 - [[Collision Detection]]
+- [[Video Game Crash of 1983]]

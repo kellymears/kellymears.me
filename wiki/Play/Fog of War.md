@@ -21,3 +21,4 @@ Because information is scarce, vision itself becomes a sub-game — wards, scout
 - [[Culling]]
 - [[Ray Casting]]
 - [[Perfect Information]]
+- [[Wargame]]
