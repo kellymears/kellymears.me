@@ -14,7 +14,7 @@ The other recurring failure is trusting the token's own unverified header. Early
 JWTs commonly carry [[OAuth]] and OpenID Connect identity claims, and get passed as a bearer token in an `Authorization` header — a choice with a real tradeoff: an `HttpOnly` [[HTTP Cookie|cookie]] is the one storage a [[Cross-Site Scripting]] payload *cannot* read (its weakness is [[Cross-Site Request Forgery|CSRF]], since the browser attaches it automatically), while a bearer token sent from JavaScript must live somewhere script-accessible like `localStorage` or memory, where any XSS can exfiltrate it.
 
 ## See also
-- [[OAuth]]
+- [[Base64]]
 - [[Session Management]]
 - [[Same-Origin Policy]]
 - [[Content Security Policy]]

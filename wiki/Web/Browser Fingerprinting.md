@@ -31,7 +31,7 @@ Privacy law in Europe treats fingerprinting like cookies: storing or reading inf
 
 ## See also
 - [[Favicon]]
-- [[Cookie Consent]]
+- [[Data Broker]]
 - [[Turing Test]]
 - [[User Agent String]]
 - [[Browser Extension]]

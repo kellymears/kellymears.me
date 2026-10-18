@@ -33,5 +33,5 @@ Threat modeling is a thought exercise, so its blind spots are the team's blind s
 
 ## See also
 - [[Honeypot]]
-- [[Open Redirect]]
+- [[Data Breach]]
 - [[MicroVM]]

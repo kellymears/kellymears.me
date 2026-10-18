@@ -33,5 +33,5 @@ Normalization is a form of the "single source of truth" principle found througho
 - [[Entity-Attribute-Value]]
 - [[Dimensional Modeling]]
 - [[Database Constraint]]
-- [[SQL Join]]
+- [[Tidy Data]]
 - [[Entity-Relationship Model]]

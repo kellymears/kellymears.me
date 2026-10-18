@@ -33,4 +33,4 @@ Facets cause trouble for crawlers. Every combination of filters can produce its 
 - [[Information Scent]]
 - [[Card Sorting]]
 - [[Metadata]]
-- [[Autocomplete]]
+- [[Library Classification]]

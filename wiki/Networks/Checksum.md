@@ -30,3 +30,4 @@ Storage needs the same care. Disks silently return wrong data more often than pe
 - [[Information Theory]]
 - [[Modular Arithmetic]]
 - [[Sneakernet]]
+- [[Barcode]]

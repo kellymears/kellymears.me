@@ -36,5 +36,5 @@ Misconfigured buckets are a recurring source of leaks. A bucket made public by m
 - [[Metadata]]
 - [[Data Retention]]
 - [[Responsive Images]]
-- [[Key-Value Store]]
+- [[Data Sovereignty]]
 - [[Filesystem]]

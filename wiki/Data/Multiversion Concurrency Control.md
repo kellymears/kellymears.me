@@ -30,4 +30,4 @@ Versions also interact with durability and replication. New versions are recorde
 - [[Bitemporal Data]]
 - [[ACID]]
 - [[Copy-on-Write]]
-- [[Garbage Collection]]
+- [[Distributed SQL]]

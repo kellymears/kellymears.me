@@ -33,6 +33,6 @@ Inverted indexes are optimized for reading. Posting lists are compressed and sto
 - [[Web Crawler]]
 - [[String-Searching Algorithm]]
 - [[Zipf's Law]]
-- [[Faceted Search]]
+- [[Library Classification]]
 - [[Reranking]]
 - [[Boolean Algebra]]

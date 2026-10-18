@@ -28,7 +28,7 @@ Planners also explain several familiar performance surprises. A query fast in de
 When the planner's choice is wrong and can't be fixed with better statistics, the usual answers are rewriting the query, adding a [[Materialized View]], or [[Denormalization]].
 
 ## See also
-- [[Database Index]]
+- [[DataFrame]]
 - [[Row-Level Security]]
 - [[Relational Database]]
 - [[Benchmarking]]

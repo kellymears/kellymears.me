@@ -29,3 +29,4 @@ Local development for a multi-tenant system needs the same addressing scheme as 
 - [[Row-Level Security]]
 - [[Serverless Computing]]
 - [[MicroVM]]
+- [[Data Sovereignty]]

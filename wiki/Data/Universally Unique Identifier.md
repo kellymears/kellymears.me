@@ -29,7 +29,7 @@ Sort order matters for databases. Random v4 IDs scatter inserts across a [[B-Tre
 UUIDs let clients create records offline and sync later, as in [[Conflict-Free Replicated Data Type]] designs. They make operations safe to retry, since a request carrying its own ID can be deduplicated, which gives [[Idempotence]]. They also make [[Database Sharding]] and merging simple. The costs are size (16 bytes against 4 or 8), poor readability, and the false sense of security that unguessable IDs give. An unguessable ID is not access control.
 
 ## See also
-- [[Hash Function]]
+- [[Barcode]]
 - [[B-Tree]]
 - [[Idempotence]]
 - [[Database Sharding]]

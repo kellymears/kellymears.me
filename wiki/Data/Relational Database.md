@@ -16,7 +16,7 @@ Two things worth holding onto when working through an abstraction layer. The lay
 
 ## See also
 - [[Entity-Relationship Model]]
-- [[Schema Drift]]
+- [[Tidy Data]]
 - [[Stored Procedure]]
 - [[Database View]]
 - [[Multi-Tenancy]]

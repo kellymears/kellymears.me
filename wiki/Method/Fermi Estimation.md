@@ -21,7 +21,7 @@ The method fails where its assumptions do. Heavy-tailed quantities have no typic
 - [[Percentage Point]]
 - [[Sensitivity and Specificity]]
 - [[Fault Seeding]]
-- [[Anchoring Effect]]
+- [[Benford's Law]]
 - [[Planning Fallacy]]
 - [[Bayes' Theorem]]
 - [[Confidence Interval]]

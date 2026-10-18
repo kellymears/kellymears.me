@@ -31,7 +31,7 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 ## See also
 - [[Quantum Computing]]
 - [[Rowhammer]]
-- [[Amateur Radio]]
+- [[Barcode]]
 - [[Checksum]]
 - [[N-Version Programming]]
 - [[Solid-State Drive]]

@@ -31,5 +31,5 @@ Licenses differ in what they ask. Some only require credit, while share-alike li
 
 ## See also
 - [[Geospatial Data]]
-- [[Spreadsheet]]
+- [[Data Sovereignty]]
 - [[Structured Data]]

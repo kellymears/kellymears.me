@@ -30,5 +30,5 @@ SQL injection has declined as frameworks made parameterization the default, but 
 ## See also
 - [[CSV]]
 - [[Prototype Pollution]]
-- [[Serialization]]
+- [[Data Breach]]
 - [[Stored Procedure]]

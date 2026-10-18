@@ -28,7 +28,7 @@ Unattended unlocking adds trade-offs. A Trusted Platform Module can release the 
 
 ## See also
 - [[Public-Key Cryptography]]
-- [[Boot Process]]
+- [[Data Breach]]
 - [[Secret Management]]
 - [[Hash Function]]
 - [[Trusted Platform Module]]

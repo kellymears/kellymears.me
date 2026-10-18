@@ -26,7 +26,7 @@ Used well, the principle is a prompt to look for the vital few: find what produc
 
 ## See also
 - [[Zipf's Law]]
-- [[Fermi Estimation]]
+- [[Benford's Law]]
 - [[Law of Triviality]]
 - [[Ninety-Ninety Rule]]
 - [[Herd Immunity]]

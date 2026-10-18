@@ -29,3 +29,4 @@ Phones' NFC chips connect to a secure element that holds payment keys apart from
 - [[Electromagnetic Spectrum]]
 - [[Affordance]]
 - [[Antenna]]
+- [[Barcode]]

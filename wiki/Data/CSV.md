@@ -29,7 +29,7 @@ For anything beyond simple interchange, better formats exist: JSON Lines for rec
 ## See also
 - [[Serialization]]
 - [[Open Data]]
-- [[ETL Pipeline]]
+- [[Tidy Data]]
 - [[Seed Data]]
 - [[JSON]]
 - [[Spreadsheet]]

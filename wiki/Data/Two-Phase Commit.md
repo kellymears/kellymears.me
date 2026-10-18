@@ -24,3 +24,4 @@ Modern distributed systems mostly route around it rather than fixing it: [[Event
 - [[CAP Theorem]]
 - [[Isolation Level]]
 - [[Two Generals Problem]]
+- [[Distributed SQL]]

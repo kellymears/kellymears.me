@@ -37,6 +37,6 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 - [[GIF]]
 - [[SQLite]]
 - [[Ship of Theseus]]
-- [[Checksum]]
+- [[Library Classification]]
 - [[Optical Character Recognition]]
 - [[Sneakernet]]

@@ -32,7 +32,7 @@ Nulls deserve the same edge-case attention as zero and empty strings in [[Bounda
 
 ## See also
 - [[Exception Handling]]
-- [[Database Constraint]]
+- [[DataFrame]]
 - [[Decimal Arithmetic]]
 - [[Defensive Programming]]
 - [[CSV]]

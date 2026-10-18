@@ -25,5 +25,5 @@ Build systems are a frequent weak point. Pipelines need deployment credentials, 
 When a secret does leak, the response is to revoke it first, then investigate how far it was used; see [[Incident Response]].
 
 ## See also
-- [[Infrastructure as Code]]
+- [[Base64]]
 - [[Configuration Management]]

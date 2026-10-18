@@ -19,7 +19,7 @@ Two practical cautions.
 
 ## See also
 - [[Breadcrumb]]
-- [[Semantic HTML]]
+- [[Barcode]]
 - [[JSON Schema]]
 - [[Knowledge Graph]]
 - [[RSS]]

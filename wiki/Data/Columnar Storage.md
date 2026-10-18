@@ -31,6 +31,6 @@ Data usually reaches a warehouse from transactional databases through [[Change D
 - [[Denormalization]]
 - [[Object Storage]]
 - [[ETL Pipeline]]
-- [[Locality of Reference]]
+- [[DataFrame]]
 - [[Wide-Column Store]]
 - [[Data Lake]]

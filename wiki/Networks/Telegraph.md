@@ -33,3 +33,4 @@ Radio extended telegraphy to ships around 1900, and the telephone replaced it fo
 - [[ARPANET]]
 - [[Optical Fiber]]
 - [[Amateur Radio]]
+- [[Barcode]]

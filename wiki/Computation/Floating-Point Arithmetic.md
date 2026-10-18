@@ -32,4 +32,4 @@ Floating point also undermines reproducibility. Different compilers, instruction
 - [[Decimal Arithmetic]]
 - [[Leaky Abstraction]]
 - [[N-Version Programming]]
-- [[Quaternion]]
+- [[Benford's Law]]

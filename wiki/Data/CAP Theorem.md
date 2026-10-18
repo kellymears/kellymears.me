@@ -22,3 +22,4 @@ In practice, systems pick a lean rather than an absolute: a leader-based [[Datab
 - [[Fallacies of Distributed Computing]]
 - [[Two Generals Problem]]
 - [[Linearizability Checking]]
+- [[Distributed SQL]]

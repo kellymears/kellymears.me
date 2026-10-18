@@ -29,4 +29,4 @@ Requiring MFA through a central identity provider covers many applications at on
 
 ## See also
 - [[Threat Modeling]]
-- [[Same-Origin Policy]]
+- [[Data Breach]]

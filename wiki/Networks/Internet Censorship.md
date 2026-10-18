@@ -32,5 +32,5 @@ Censorship works partly through people's own expectations: those who believe the
 Measurement projects run tests from volunteers' devices worldwide, recording what's blocked where, so censorship can be documented even when it isn't announced; see [[Observability]].
 
 ## See also
-- [[Sneakernet]]
+- [[Data Sovereignty]]
 - [[Net Neutrality]]

@@ -20,7 +20,7 @@ The core guarantee any consensus algorithm provides is safety under partial fail
 - [[Database Replication]]
 - [[Gossip Protocol]]
 - [[Logical Clock]]
-- [[Formal Verification]]
+- [[Distributed SQL]]
 - [[Deterministic Simulation Testing]]
 - [[Network Partition]]
 - [[Byzantine Fault Tolerance]]

@@ -21,7 +21,7 @@ The tradeoff CDNs make explicit is between consistency and locality: an edge nod
 - [[API Gateway]]
 - [[Edge Computing]]
 - [[Denial-of-Service Attack]]
-- [[Reverse Proxy]]
+- [[Data Sovereignty]]
 - [[Net Neutrality]]
 
 ## Related

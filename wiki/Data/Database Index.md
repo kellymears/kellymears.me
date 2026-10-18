@@ -22,7 +22,7 @@ Designing indexes is mostly about matching the queries that actually run:
 Indexes are not free. Every insert, update, and delete must update every index on the table, so each one slows writes and takes storage. Unused indexes are pure cost. Adding an index to a large live table can lock it for a long time, so production systems build them concurrently as part of a careful [[Database Migration]]. A missing index is the most common cause of a query that was fast in development, with a few hundred rows of [[Seed Data]], and slow in production with millions, a gap [[Big-O Notation]] predicts and [[Load Testing]] reveals.
 
 ## See also
-- [[N+1 Query Problem]]
+- [[Library Classification]]
 - [[Denormalization]]
 - [[Collation]]
 - [[Binary Search]]

@@ -28,7 +28,7 @@ The weakness is just as clear. Without discipline, lakes became **data swamps**:
 Lakes are fed in batches and from [[Change Data Capture]] streams. Keeping a lake useful depends less on technology than on knowing where each dataset came from and who owns it, the role of [[Data Lineage]] and a data catalog.
 
 ## See also
-- [[Object Storage]]
+- [[DataFrame]]
 - [[Data Contract]]
 - [[Data Mesh]]
 - [[Dimensional Modeling]]

@@ -34,3 +34,4 @@ The principle underneath comes from [[Information Theory]]: compression removes 
 - [[HTTP2 and HTTP3]]
 - [[MIME Type]]
 - [[Data URI]]
+- [[Base64]]

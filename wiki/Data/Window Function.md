@@ -37,3 +37,4 @@ They are central to analytics, where [[Columnar Storage]] engines and [[Dimensio
 - [[MapReduce]]
 - [[Training Load]]
 - [[Pivot Table]]
+- [[DataFrame]]

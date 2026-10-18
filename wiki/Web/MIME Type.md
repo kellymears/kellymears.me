@@ -31,7 +31,7 @@ Types also drive caching and optimization. Compression is usually applied to tex
 A related idea in files is the *magic number*, the fixed bytes at the start of a format such as `%PDF` or the PNG signature. Sniffing is essentially reading magic numbers when the label can't be trusted; see [[Serialization]].
 
 ## See also
-- [[Fetch API]]
+- [[Base64]]
 - [[Favicon]]
 - [[Simple Mail Transfer Protocol]]
 - [[Data URI]]

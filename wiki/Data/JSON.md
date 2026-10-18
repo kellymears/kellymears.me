@@ -27,7 +27,7 @@ JSON is also the [[Structured Output]] format language models are most often ask
 As a [[Serialization]] format, JSON trades size and speed for readability. Binary formats such as Protocol Buffers or MessagePack are smaller and faster but need tools to inspect. For most public APIs, being readable has won.
 
 ## See also
-- [[XML]]
+- [[Base64]]
 - [[Entity-Attribute-Value]]
 - [[Decimal Arithmetic]]
 - [[ISO 8601]]

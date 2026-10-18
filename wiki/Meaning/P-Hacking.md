@@ -25,3 +25,4 @@ The standard defenses are structural, matching the mechanism directly: preregist
 - [[Texas Sharpshooter Fallacy]]
 - [[Operationalization]]
 - [[Multiple Comparisons Problem]]
+- [[Benford's Law]]

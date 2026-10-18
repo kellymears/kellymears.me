@@ -27,7 +27,7 @@ The most cited case is economic. A 2010 paper by Carmen Reinhart and Kenneth Rog
 None of this makes spreadsheets bad tools. They're often the right first version of a system, and many businesses run on them for years. The risk is in the moment they quietly become critical infrastructure without picking up the testing, versioning, and review that critical infrastructure needs; see [[Technical Debt]].
 
 ## See also
-- [[Local-First Software]]
+- [[Tidy Data]]
 - [[CSV]]
 - [[Open Data]]
 - [[Direct Manipulation]]

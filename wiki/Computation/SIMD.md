@@ -30,3 +30,4 @@ The gains are bounded. Only the vectorized part speeds up, so the rest of the pr
 - [[Moore's Law]]
 - [[Neural Network]]
 - [[Hybrid CPU Architecture]]
+- [[DataFrame]]

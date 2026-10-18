@@ -20,7 +20,7 @@ The general move Wald's analysis teaches is to ask what is missing from a datase
 - [[Representativeness Heuristic]]
 - [[Sensitivity and Specificity]]
 - [[Hindsight Bias]]
-- [[Pareto Principle]]
+- [[Benford's Law]]
 - [[Speculative Bubble]]
 - [[Confounding]]
 - [[Texas Sharpshooter Fallacy]]

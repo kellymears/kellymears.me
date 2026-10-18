@@ -29,3 +29,4 @@ EAV is still the right shape in places. The web's linked data standard stores ev
 ## See also
 - [[Database Normalization]]
 - [[Key-Value Store]]
+- [[Tidy Data]]

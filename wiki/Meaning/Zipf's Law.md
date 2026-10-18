@@ -35,3 +35,4 @@ The law has practical uses in computing:
 - [[Fractal]]
 - [[Hot Partition]]
 - [[Normal Distribution]]
+- [[Benford's Law]]

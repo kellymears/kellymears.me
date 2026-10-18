@@ -34,5 +34,5 @@ Backups also carry obligations. They contain the same sensitive data as producti
 - [[Digital Preservation]]
 - [[Hard Link]]
 - [[Data Retention]]
-- [[Personal Data]]
+- [[Data Sovereignty]]
 - [[Object Storage]]

@@ -44,3 +44,4 @@ Isolation is a single-database concern. Across replicas, the analogous guarantee
 - [[Optimistic Locking]]
 - [[Pessimistic Locking]]
 - [[Linearizability Checking]]
+- [[Distributed SQL]]
