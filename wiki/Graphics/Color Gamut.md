@@ -28,9 +28,9 @@ When a source color falls outside the destination gamut, **gamut mapping** must 
 
 ## See also
 - [[Color Quantization]]
-- [[Tone Mapping]]
+- [[Laser]]
 - [[Metamerism]]
-- [[Color Temperature]]
+- [[Structural Color]]
 - [[Physically Based Rendering]]
 - [[Design Token]]
 - [[Gamma Correction]]

@@ -32,3 +32,4 @@ Fiber doesn't make the network faster in every sense. Light in glass travels at 
 - [[Wave Interference]]
 - [[Cellular Network]]
 - [[Satellite Internet]]
+- [[Laser]]

@@ -39,3 +39,4 @@ Correct time matters in more places than expected:
 - [[Falsehoods Programmers Believe]]
 - [[Simple Harmonic Motion]]
 - [[Unix Time]]
+- [[Piezoelectric Effect]]

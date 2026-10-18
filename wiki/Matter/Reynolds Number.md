@@ -28,5 +28,5 @@ Turbulence remains famously unsolved. Its governing equations are known, but whe
 ## See also
 - [[Bernoulli's Principle]]
 - [[Surface Tension]]
-- [[Resonance]]
+- [[Magnus Effect]]
 - [[Emulsion]]

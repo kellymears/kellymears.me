@@ -24,5 +24,5 @@ Static electricity is also put to work. Laser printers and photocopiers use char
 - [[Friction]]
 - [[Electromagnetic Induction]]
 - [[Lithium-Ion Battery]]
-- [[Semiconductor]]
+- [[Piezoelectric Effect]]
 - [[Capacitor]]

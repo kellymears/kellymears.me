@@ -34,4 +34,4 @@ The same algorithms serve beyond games. Robotics uses collision checking for mot
 - [[Tile Map]]
 - [[Verlet Integration]]
 - [[Particle System]]
-- [[Floating-Point Arithmetic]]
+- [[Magnus Effect]]

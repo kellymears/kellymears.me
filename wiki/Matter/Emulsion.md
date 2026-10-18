@@ -22,7 +22,7 @@ Emulsions **break** in predictable ways: oil added faster than it can be broken 
 Beyond the kitchen, emulsions are everywhere: paint, cosmetics, salad dressing, crude oil spills, and the fat transport in blood, where lipoproteins play the emulsifier's role.
 
 ## See also
-- [[Surface Tension]]
+- [[Freezing Point Depression]]
 - [[Viscosity]]
 - [[Buoyancy]]
 - [[Protein Denaturation]]
@@ -32,3 +32,4 @@ Beyond the kitchen, emulsions are everywhere: paint, cosmetics, salad dressing, 
 - [[Phase Transition]]
 - [[Chemical Leavening]]
 - [[Polymerization]]
+- [[Surfactant]]

@@ -25,9 +25,9 @@ Resonance is also enormously useful. Musical instruments are resonators: a violi
 The human body has resonances too. Vertical motion at around 0.2 cycles per second, the slow heave of a ship, is especially likely to cause motion sickness, as the [[Vestibular System]] struggles with conflicting signals. A sound's pitch, and its shift with motion in the [[Doppler Effect]], are both about frequency, the quantity resonance responds to.
 
 ## See also
-- [[Elasticity]]
+- [[Piezoelectric Effect]]
 - [[Material Fatigue]]
-- [[Wave Interference]]
+- [[Laser]]
 - [[Sound]]
-- [[Simple Harmonic Motion]]
+- [[Timbre]]
 - [[Hearing Loss]]

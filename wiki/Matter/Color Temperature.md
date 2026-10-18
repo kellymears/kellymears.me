@@ -20,7 +20,7 @@ Dimming used to change color for free. An incandescent filament dimmed to 10% ru
 Color temperature also matters for the body. Cooler, bluer light at night delays the [[Circadian Rhythm]] more than warm light of the same brightness, the basis of [[Circadian Lighting]] and of night modes on screens. Displays and cameras use the same scale for their *white point*: the reference white a [[Color Gamut]] is built around, typically 6,500 K (D65) for screens.
 
 ## See also
-- [[Color Rendering Index]]
+- [[Greenhouse Effect]]
 - [[Circadian Lighting]]
 - [[Color Gamut]]
 - [[Metamerism]]

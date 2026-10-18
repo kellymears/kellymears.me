@@ -14,7 +14,7 @@ The dominant implementation is the **metallic-roughness workflow**: a surface is
 The discipline this imposes is as important as the math: an albedo texture must contain only the material's inherent color, never baked-in shadows or highlights, because the renderer supplies real lighting information itself. A texture painted with fake ambient occlusion baked in will look wrong under every light except the one it was painted for.
 
 ## See also
-- [[Shader]]
+- [[Structural Color]]
 - [[Ray Tracing]]
 - [[Shading Model]]
 - [[Rendering Equation]]

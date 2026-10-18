@@ -20,5 +20,5 @@ Two adjacent concerns. Consistency requires a fixed timestep and clean [[Determi
 - [[Coyote Time]]
 - [[Frame Pacing]]
 - [[Frame Generation]]
-- [[Flow]]
+- [[Magnus Effect]]
 - [[Motor Learning]]

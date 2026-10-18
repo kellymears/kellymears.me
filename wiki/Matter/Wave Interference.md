@@ -29,8 +29,8 @@ Interference also relates to [[Polarized Light]], since waves polarized at right
 Colors produced by interference rather than pigment are called structural colors: the shimmer of peacock feathers, butterfly wings, and beetle shells comes from microscopic layers, and they do not fade the way dyes do.
 
 ## See also
-- [[Diffraction]]
-- [[Resonance]]
+- [[Structural Color]]
+- [[Laser]]
 - [[Refraction]]
 - [[Hearing Loss]]
 - [[Wi-Fi]]

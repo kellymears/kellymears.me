@@ -30,3 +30,4 @@ Capillary action relates to [[Osmosis]], which also moves water through fine str
 - [[Dew Point]]
 - [[Emulsion]]
 - [[Heat Transfer]]
+- [[Surfactant]]

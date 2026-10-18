@@ -34,3 +34,4 @@ Roller coaster loops are teardrop-shaped rather than circular so that the force 
 - [[Inertial Frame of Reference]]
 - [[Angular Momentum]]
 - [[Bicycle Stability]]
+- [[Coriolis Effect]]

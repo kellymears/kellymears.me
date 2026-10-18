@@ -32,6 +32,6 @@ Projection choice shapes perception: a map is a model, and decides in advance wh
 - [[Data Visualization]]
 - [[Vector Graphics]]
 - [[Mipmapping]]
-- [[Floating-Point Arithmetic]]
+- [[Coriolis Effect]]
 - [[Choropleth Map]]
 - [[Dimensionality Reduction]]

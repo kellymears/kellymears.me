@@ -31,3 +31,4 @@ It pairs with [[Chesterton's Fence]], which counsels understanding why something
 - [[Not Invented Here]]
 - [[Worse Is Better]]
 - [[Backward Compatibility]]
+- [[Radioactive Decay]]

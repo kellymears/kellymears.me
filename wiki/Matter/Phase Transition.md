@@ -29,7 +29,7 @@ The kitchen is full of phase transitions. Butter melting into a sauce, sugar cry
 
 ## See also
 - [[Magnetism]]
-- [[Boiling Point]]
+- [[Freezing Point Depression]]
 - [[Dew Point]]
 - [[Entropy]]
 - [[Simulated Annealing]]

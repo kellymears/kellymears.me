@@ -24,3 +24,4 @@ Certification is narrower than it is usually read to be. A device is tested at m
 - [[Resonance]]
 - [[Microwave Heating]]
 - [[Electromagnetic Spectrum]]
+- [[Radioactive Decay]]

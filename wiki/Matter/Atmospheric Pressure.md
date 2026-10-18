@@ -28,3 +28,5 @@ Gauges usually read pressure relative to the atmosphere, so a bicycle tire at 80
 ## See also
 - [[Buoyancy]]
 - [[Blood Pressure]]
+- [[Coriolis Effect]]
+- [[Greenhouse Effect]]

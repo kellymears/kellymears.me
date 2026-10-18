@@ -28,6 +28,6 @@ Graphics programmers simulate atmospheric scattering to render skies, sunsets, a
 
 ## See also
 - [[Electromagnetic Spectrum]]
-- [[Color Temperature]]
-- [[Refraction]]
+- [[Structural Color]]
+- [[Greenhouse Effect]]
 - [[Dispersion]]

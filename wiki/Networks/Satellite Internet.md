@@ -28,3 +28,4 @@ Satellites also connect directly to ordinary phones in some areas, merging with 
 ## See also
 - [[Packet Switching]]
 - [[Mesh Network]]
+- [[Laser]]

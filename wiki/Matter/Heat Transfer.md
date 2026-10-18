@@ -26,4 +26,4 @@ Electronics fight the same battle. A chip conducts heat into a metal heat spread
 - [[Electromagnetic Spectrum]]
 - [[Cold Exposure]]
 - [[Reynolds Number]]
-- [[Conservation of Energy]]
+- [[Greenhouse Effect]]

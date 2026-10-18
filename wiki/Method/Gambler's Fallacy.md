@@ -29,5 +29,5 @@ Game designers exploit the feeling, using near-misses and variable rewards to ke
 
 ## See also
 - [[Monty Hall Problem]]
-- [[Bayes' Theorem]]
+- [[Radioactive Decay]]
 - [[Availability Heuristic]]

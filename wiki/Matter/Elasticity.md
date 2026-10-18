@@ -32,3 +32,5 @@ The body exploits elasticity constantly. The Achilles tendon stretches on landin
 - [[Torque]]
 - [[Bicycle Stability]]
 - [[Viscosity]]
+- [[Piezoelectric Effect]]
+- [[Timbre]]

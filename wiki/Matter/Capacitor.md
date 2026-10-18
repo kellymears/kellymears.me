@@ -34,3 +34,4 @@ Failing capacitors are common faults in electronics. Electrolytic types dry out 
 - [[Semiconductor]]
 - [[Electromagnetic Induction]]
 - [[Simple Harmonic Motion]]
+- [[Piezoelectric Effect]]

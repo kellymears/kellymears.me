@@ -31,6 +31,6 @@ A watchdog does not fix anything; it buys time to investigate. Logs, a [[Core Du
 ## See also
 - [[Runtime Verification]]
 - [[Daemon]]
-- [[Silent Failure]]
+- [[Piezoelectric Effect]]
 - [[Fail Fast]]
 - [[Real-Time Operating System]]

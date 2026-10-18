@@ -29,6 +29,6 @@ The remedies all amount to either sampling more or [[Image Resampling|filtering 
 - [[Wave Interference]]
 - [[Rasterization]]
 - [[Blue Noise]]
-- [[LED Flicker]]
+- [[Timbre]]
 - [[Screen Tearing]]
 - [[Dithering]]

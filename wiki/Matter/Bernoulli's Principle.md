@@ -30,5 +30,5 @@ Static fluids follow simpler rules: pressure spreads evenly through an enclosed 
 ## See also
 - [[Atmospheric Pressure]]
 - [[Viscosity]]
-- [[Aerodynamic Drag]]
+- [[Magnus Effect]]
 - [[Reynolds Number]]

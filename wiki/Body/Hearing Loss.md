@@ -32,3 +32,4 @@ The inner ear also houses the [[Vestibular System]], so some damage brings dizzi
 - [[Myopia]]
 - [[Resonance]]
 - [[Sound]]
+- [[Timbre]]

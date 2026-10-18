@@ -27,5 +27,5 @@ In cooking, latent heat caps the temperature of anything wet at about 100 °C un
 ## See also
 - [[Dew Point]]
 - [[Phase Transition]]
-- [[Capillary Action]]
+- [[Freezing Point Depression]]
 - [[Entropy]]

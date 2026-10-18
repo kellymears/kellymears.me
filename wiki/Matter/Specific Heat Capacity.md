@@ -24,9 +24,10 @@ Water's high specific heat shapes much of the world. Oceans warm and cool slowly
 In electronics, thermal mass buys time rather than capacity. A heavy heatsink absorbs a short burst of work without the chip heating up, so a brief benchmark may never trigger [[Thermal Throttling]], while a sustained load eventually saturates it. That is why long runs are a better test of cooling than short ones. Temperature changes also change size, through [[Thermal Expansion]], and how energy ultimately spreads out as heat is governed by [[Entropy]].
 
 ## See also
-- [[Heat Transfer]]
+- [[Freezing Point Depression]]
 - [[Latent Heat]]
 - [[Carryover Cooking]]
 - [[Boiling Point]]
 - [[Conservation of Energy]]
 - [[Microwave Heating]]
+- [[Greenhouse Effect]]

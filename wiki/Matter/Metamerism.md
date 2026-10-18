@@ -23,8 +23,8 @@ The compression fails in predictable ways, called **metameric failure**:
 Metamerism is also a useful general idea: when a system measures a few summary numbers, any inputs with the same summary are indistinguishable to it. A [[Hash Function]] collision is the same thing, applied deliberately.
 
 ## See also
-- [[Color Rendering Index]]
-- [[Color Gamut]]
+- [[Structural Color]]
+- [[Timbre]]
 - [[Color Temperature]]
 - [[Color Contrast]]
 - [[Dispersion]]
