@@ -32,3 +32,5 @@ The underlying behavior shows up wherever a system with stored energy responds w
 - [[Thermal Expansion]]
 - [[Terminal Velocity]]
 - [[Latency and Jitter]]
+- [[Specific Heat Capacity]]
+- [[Heat Transfer]]

@@ -22,3 +22,4 @@ The implementation costs are documented separately and little disputed. Enforcem
 - [[Collective Action]]
 - [[Goodhart's Law]]
 - [[Static Analysis]]
+- [[Entropy]]

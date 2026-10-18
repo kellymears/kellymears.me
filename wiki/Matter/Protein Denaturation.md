@@ -27,3 +27,4 @@ Denaturation is mostly irreversible in cooking. You can't unboil an egg, though 
 - [[Thermoregulation]]
 - [[Emulsion]]
 - [[Osmosis]]
+- [[Boiling Point]]

@@ -26,3 +26,5 @@ Color temperature also matters for the body. Cooler, bluer light at night delays
 - [[Metamerism]]
 - [[Dispersion]]
 - [[Tone Mapping]]
+- [[Rayleigh Scattering]]
+- [[Inverse-Square Law]]

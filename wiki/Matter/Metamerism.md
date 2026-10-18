@@ -29,3 +29,4 @@ Metamerism is also a useful general idea: when a system measures a few summary n
 - [[Color Contrast]]
 - [[Dispersion]]
 - [[Hash Function]]
+- [[Rayleigh Scattering]]

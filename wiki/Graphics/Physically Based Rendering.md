@@ -23,3 +23,5 @@ The discipline this imposes is as important as the math: an albedo texture must 
 - [[Normal Mapping]]
 - [[Gamma Correction]]
 - [[Ambient Occlusion]]
+- [[Inverse-Square Law]]
+- [[Refraction]]

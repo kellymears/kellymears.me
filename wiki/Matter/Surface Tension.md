@@ -16,3 +16,4 @@ summary: A liquid's surface behaves like a stretched elastic membrane because su
 - [[Buoyancy]]
 - [[Diffraction]]
 - [[Emulsion]]
+- [[Leidenfrost Effect]]

@@ -20,3 +20,6 @@ Two common devices are not refrigeration at all. An evaporative cooler lowers ai
 - [[Fermi Estimation]]
 - [[Root Cause Analysis]]
 - [[Determinism]]
+- [[Latent Heat]]
+- [[Boiling Point]]
+- [[Entropy]]

@@ -16,3 +16,4 @@ That static-to-kinetic gap also produces **stick-slip**, an oscillation where an
 - [[Terminal Velocity]]
 - [[Viscosity]]
 - [[Rolling Resistance]]
+- [[Entropy]]

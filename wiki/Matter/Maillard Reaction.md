@@ -28,3 +28,5 @@ It differs from [[Caramelization]], which involves sugars alone and needs higher
 - [[Retronasal Olfaction]]
 - [[Umami]]
 - [[Xenobiotic Metabolism]]
+- [[Boiling Point]]
+- [[Leidenfrost Effect]]

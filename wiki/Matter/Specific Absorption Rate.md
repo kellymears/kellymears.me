@@ -20,3 +20,5 @@ Certification is narrower than it is usually read to be. A device is tested at m
 - [[Goodhart's Law]]
 - [[Falsifiability]]
 - [[Plain Language]]
+- [[Inverse-Square Law]]
+- [[Resonance]]

@@ -26,3 +26,5 @@ The practical guidance is simpler than the numbers suggest. Use refined, stable 
 - [[Streetlight Effect]]
 - [[Viscosity]]
 - [[Xenobiotic Metabolism]]
+- [[Leidenfrost Effect]]
+- [[Boiling Point]]

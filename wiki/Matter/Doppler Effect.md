@@ -15,3 +15,5 @@ The effect scales with the ratio of relative velocity to wave speed, which is wh
 - [[Diffraction]]
 - [[Polarized Light]]
 - [[Inertial Frame of Reference]]
+- [[Resonance]]
+- [[Inverse-Square Law]]

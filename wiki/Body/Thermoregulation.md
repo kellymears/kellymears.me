@@ -21,3 +21,5 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 - [[Osmosis]]
 - [[Heat Acclimation]]
 - [[Hormesis]]
+- [[Latent Heat]]
+- [[Heat Transfer]]
