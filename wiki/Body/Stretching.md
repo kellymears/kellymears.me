@@ -33,7 +33,7 @@ Stretching is pleasant for many people and a reasonable way to unwind, and it do
 
 ## See also
 - [[Proprioception]]
-- [[Delayed Onset Muscle Soreness]]
+- [[Plantar Fasciitis]]
 - [[Strength Training]]
 - [[Tendon and Ligament]]
 - [[Warm-Up]]

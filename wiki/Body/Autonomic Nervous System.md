@@ -33,4 +33,4 @@ The idea of a single unified stress response has been refined over time. Respons
 ## See also
 - [[Fever]]
 - [[Misattribution of Arousal]]
-- [[Fight-or-Flight Response]]
+- [[Goosebumps]]

@@ -29,3 +29,4 @@ Film has resisted higher rates. *The Hobbit* (2012) was shown in many theaters a
 ## See also
 - [[Swap Chain]]
 - [[Virtual Reality]]
+- [[Motion Sickness]]

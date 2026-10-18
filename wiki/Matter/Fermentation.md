@@ -23,7 +23,7 @@ Fermentation preserves food by making it hostile to spoilage organisms. Acid low
 Fermentation also transforms flavor. Proteins become savory amino acids, sugars become sour and complex, and new aromatic compounds appear. A sourdough starter is a stable community of yeasts and bacteria maintained by repeated feeding, often for decades, and shared by giving away a portion. Each starter is a fork of another, adapting to its new kitchen. Kombucha and kefir grains spread the same way.
 
 ## See also
-- [[Lactate Threshold]]
+- [[Hangover]]
 - [[Osmosis]]
 - [[Umami]]
 - [[Glycogen]]

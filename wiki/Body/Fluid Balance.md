@@ -28,9 +28,9 @@ Several popular beliefs do not hold up:
 Water also travels with fuel. Each gram of stored [[Glycogen]] binds about three grams of water, which is why carb loading adds weight and why early weight loss on a low-carbohydrate diet is mostly water. [[Altitude Training]] adds losses through dry air and faster breathing, and thirst itself is a form of [[Interoception]].
 
 ## See also
-- [[Thermoregulation]]
+- [[Heat Stroke]]
 - [[Endocrine System]]
-- [[Muscle Cramp]]
+- [[Side Stitch]]
 - [[Heart Rate Zones]]
 - [[Dew Point]]
 - [[Blood Pressure]]

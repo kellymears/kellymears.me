@@ -30,3 +30,4 @@ Two practical notes. Because the common implementation toggles a class on the ro
 - [[Flat Design]]
 - [[Color Theory]]
 - [[Favicon]]
+- [[Dark Adaptation]]

@@ -23,3 +23,4 @@ The ladder's underlying premise — that pain severity should be matched, not ex
 - [[Fever]]
 - [[Low Back Pain]]
 - [[Gate Control Theory]]
+- [[Hangover]]

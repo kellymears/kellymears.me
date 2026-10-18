@@ -28,6 +28,6 @@ Tendinopathy overlaps with [[Repetitive Strain Injury]], the broader category of
 
 ## See also
 - [[Delayed Onset Muscle Soreness]]
-- [[Nociception]]
+- [[Plantar Fasciitis]]
 - [[Scar Tissue]]
 - [[Stress Fracture]]

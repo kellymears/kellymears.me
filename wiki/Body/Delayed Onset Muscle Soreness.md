@@ -30,4 +30,4 @@ Severe pain, marked swelling, or dark urine after extreme exercise isn't DOMS bu
 - [[Warm-Up]]
 - [[Fascia]]
 - [[Stretching]]
-- [[Tendon and Ligament]]
+- [[Rhabdomyolysis]]

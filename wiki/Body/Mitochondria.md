@@ -29,4 +29,4 @@ In brown fat, a special protein lets mitochondria burn fuel without making ATP, 
 - [[Basal Metabolic Rate]]
 - [[Oxidation]]
 - [[Iron Deficiency]]
-- [[Supercompensation]]
+- [[Excess Post-Exercise Oxygen Consumption]]

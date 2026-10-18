@@ -32,7 +32,7 @@ The models are useful and easy to over-trust. They see only what the sensors see
 - [[Polarized Training]]
 - [[Immune System]]
 - [[Relative Energy Deficiency in Sport]]
-- [[Overfitting]]
+- [[Side Stitch]]
 - [[Autistic Burnout]]
 - [[Heart Rate Variability]]
 - [[Allostatic Load]]

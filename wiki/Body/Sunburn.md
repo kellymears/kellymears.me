@@ -29,3 +29,4 @@ Treatment for sunburn is supportive: cool compresses, moisturizer, fluids, and p
 - [[Heat Acclimation]]
 - [[Immune System]]
 - [[Moist Wound Healing]]
+- [[Heat Stroke]]

@@ -26,7 +26,7 @@ The body adapts to repeated cold. After as few as five or six immersions, the co
 Deliberate cold exposure, through ice baths and cold plunges, has become popular. Some claims hold up: it reduces perceived soreness after hard exercise, described under [[Delayed Onset Muscle Soreness]], and many people report improved mood. Others are overstated. Regular ice baths straight after strength sessions blunt gains in muscle size and strength, since the cold dampens the [[Inflammation]] and signaling that drive [[Muscle Hypertrophy]]. Cold as a mild stressor fits the idea of [[Hormesis]], but the dose and timing matter, and people with heart conditions should be cautious about the cardiovascular jolt.
 
 ## See also
-- [[Thermoregulation]]
-- [[Heat Acclimation]]
+- [[Goosebumps]]
+- [[Heat Stroke]]
 - [[Hormesis]]
 - [[Heat Transfer]]

@@ -26,7 +26,7 @@ Tone mapping is a perceptual problem, not a mathematical one, so its references 
 - [[Shader]]
 - [[Game Modding]]
 - [[Easing]]
-- [[Temporal Upscaling]]
+- [[Dark Adaptation]]
 - [[Color Gamut]]
 - [[Gamma Correction]]
 - [[Dithering]]

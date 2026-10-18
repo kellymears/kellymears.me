@@ -17,7 +17,7 @@ Folk comparisons — "X is basically the same as Y" — collapse these axes into
 ## See also
 - [[Nociception]]
 - [[Insomnia]]
-- [[Xenobiotic Metabolism]]
+- [[Hangover]]
 - [[Taxonomy]]
 - [[Prototype Theory]]
 - [[Segmented Sleep]]

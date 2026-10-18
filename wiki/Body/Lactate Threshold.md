@@ -27,7 +27,7 @@ Measuring it properly means drawing blood from a fingertip or earlobe at progres
 - [[Exercise Economy]]
 - [[Interval Training]]
 - [[Glycogen]]
-- [[Backpressure]]
+- [[Excess Post-Exercise Oxygen Consumption]]
 - [[Fermentation]]
 - [[Central Governor Theory]]
 - [[Muscle Fiber Types]]

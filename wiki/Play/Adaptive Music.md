@@ -31,3 +31,4 @@ Sound design overlaps with music here. Combat music and effects need to fit toge
 - [[Emergent Gameplay]]
 - [[Game Loop]]
 - [[Earworm]]
+- [[Goosebumps]]

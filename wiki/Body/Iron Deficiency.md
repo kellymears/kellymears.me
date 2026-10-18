@@ -34,5 +34,5 @@ Iron matters especially before [[Altitude Training]], since the body needs ample
 ## See also
 - [[VO2 Max]]
 - [[Altitude Training]]
-- [[Relative Energy Deficiency in Sport]]
+- [[Blood Doping]]
 - [[Mitochondria]]

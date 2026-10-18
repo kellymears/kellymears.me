@@ -28,6 +28,6 @@ Both views agree that the brain shapes endurance and that a felt limit is not th
 
 ## See also
 - [[Runner's High]]
-- [[VO2 Max]]
+- [[Heat Stroke]]
 - [[Energy Systems]]
-- [[Heat Acclimation]]
+- [[Blood Doping]]

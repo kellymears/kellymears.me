@@ -31,4 +31,4 @@ Power meters and heart rate monitors have made intervals precise, but heart rate
 ## See also
 - [[Creatine]]
 - [[Warm-Up]]
-- [[Muscle Fiber Types]]
+- [[Excess Post-Exercise Oxygen Consumption]]

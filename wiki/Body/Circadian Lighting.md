@@ -30,6 +30,6 @@ Popular advice compresses this into "blue light is bad", which overstates the ca
 - [[Chronotype]]
 - [[Black-Body Radiation]]
 - [[Sleep Pressure]]
-- [[Rayleigh Scattering]]
+- [[Dark Adaptation]]
 - [[Myopia]]
 - [[Jet Lag]]

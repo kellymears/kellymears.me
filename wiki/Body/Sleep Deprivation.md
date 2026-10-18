@@ -30,5 +30,5 @@ A small number of people carry gene variants that let them function well on abou
 
 ## See also
 - [[Napping]]
-- [[Sleep Apnea]]
+- [[Hangover]]
 - [[Burnout]]

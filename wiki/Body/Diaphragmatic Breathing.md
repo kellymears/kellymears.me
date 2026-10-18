@@ -29,4 +29,4 @@ Paying attention to the breath is a common entry point to sensing the body's int
 
 ## See also
 - [[Posture]]
-- [[Cold Exposure]]
+- [[Side Stitch]]

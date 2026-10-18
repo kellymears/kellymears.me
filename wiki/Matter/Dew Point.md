@@ -40,3 +40,4 @@ Dew forms on clear, still nights because surfaces lose heat by radiation to the 
 - [[Capillary Action]]
 - [[Electrostatic Discharge]]
 - [[Atmospheric Pressure]]
+- [[Heat Stroke]]

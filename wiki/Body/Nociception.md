@@ -21,7 +21,7 @@ One practical consequence: pain cannot be measured from outside. Only self-repor
 - [[Itch]]
 - [[Phantom Limb]]
 - [[Fracture Fixation]]
-- [[Bone Remodeling]]
+- [[Side Stitch]]
 - [[Retinoid]]
 - [[Retronasal Olfaction]]
 - [[Central Sensitization]]

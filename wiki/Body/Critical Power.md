@@ -26,7 +26,7 @@ CP and [[Functional Threshold Power]] measure similar things. FTP is defined pra
 The two numbers respond to different training. Long sessions at moderate intensity, the base of [[Polarized Training]], raise CP by building aerobic capacity and [[VO2 Max]]. Hard intervals and sprints enlarge W′, which depends more on fast-twitch muscle, as described under [[Muscle Fiber Types]], and anaerobic [[Energy Systems]]. The model simplifies: it misjudges very short and very long efforts and ignores the fatigue of hours in the saddle.
 
 ## See also
-- [[Functional Threshold Power]]
+- [[Blood Doping]]
 - [[Lactate Threshold]]
 - [[Energy Systems]]
 - [[Polarized Training]]

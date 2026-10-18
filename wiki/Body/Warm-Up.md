@@ -31,3 +31,4 @@ The **cool-down** is the warm-up's popular partner, and the evidence is less kin
 - [[Cold Exposure]]
 - [[Motor Learning]]
 - [[Fascia]]
+- [[Side Stitch]]

@@ -26,9 +26,9 @@ Heat also changes fuel use, increasing reliance on [[Glycogen]], and dampens [[H
 
 ## See also
 - [[Dew Point]]
-- [[Fluid Balance]]
+- [[Heat Stroke]]
 - [[Cold Exposure]]
-- [[VO2 Max]]
+- [[Blood Doping]]
 - [[Sunburn]]
 - [[Cardiac Output]]
 - [[Latent Heat]]

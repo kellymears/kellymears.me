@@ -33,7 +33,7 @@ Prevention and management:
 Wrist splints at night help carpal tunnel symptoms, and surgery to release the carpal ligament is effective for severe cases. Most other forms improve with load management and time.
 
 ## See also
-- [[Material Fatigue]]
+- [[Plantar Fasciitis]]
 - [[Ulnar Neuropathy]]
 - [[Digital Eye Strain]]
 - [[Nociception]]

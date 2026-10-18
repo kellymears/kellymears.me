@@ -15,7 +15,7 @@ Proprioception is precisely what field sobriety tests probe when they ask someon
 
 ## See also
 - [[Vestibular System]]
-- [[Nociception]]
+- [[Motion Sickness]]
 - [[Referred Pain]]
 - [[Phantom Limb]]
 - [[Stimming]]

@@ -26,6 +26,6 @@ The systems are also inefficient in a useful way: only about a quarter of the en
 
 ## See also
 - [[Warm-Up]]
-- [[Heat Engine]]
+- [[Excess Post-Exercise Oxygen Consumption]]
 - [[Creatine]]
 - [[Metabolic Flexibility]]

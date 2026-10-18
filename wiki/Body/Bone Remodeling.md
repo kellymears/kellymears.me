@@ -16,7 +16,7 @@ Imaging lags the biology, so a radiograph is a proxy and not [[Ground Truth]] fo
 
 ## See also
 - [[Relative Energy Deficiency in Sport]]
-- [[Strength Training]]
+- [[Plantar Fasciitis]]
 - [[Sarcopenia]]
 - [[Vitamin D]]
 - [[Osteoporosis]]

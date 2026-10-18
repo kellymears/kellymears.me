@@ -27,5 +27,5 @@ Blood pressure is cardiac output multiplied by the resistance of the blood vesse
 
 ## See also
 - [[Altitude Sickness]]
-- [[Polarized Training]]
+- [[Blood Doping]]
 - [[Fight-or-Flight Response]]

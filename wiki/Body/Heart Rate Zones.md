@@ -29,7 +29,7 @@ Perceived exertion is the other half. Rating how hard an effort feels is surpris
 - [[Functional Threshold Power]]
 - [[Runner's High]]
 - [[Interval Training]]
-- [[Latency and Jitter]]
+- [[Heat Stroke]]
 - [[Heart Rate Variability]]
 - [[Heat Acclimation]]
 - [[Central Governor Theory]]

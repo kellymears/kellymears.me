@@ -19,3 +19,4 @@ Risk factors track anything that causes swelling in a sealed space fast: long bo
 - [[Tendon and Ligament]]
 - [[Inflammation]]
 - [[Fascia]]
+- [[Rhabdomyolysis]]

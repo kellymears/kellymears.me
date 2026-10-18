@@ -12,14 +12,14 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 **Fever** is not thermoregulation failing; it is thermoregulation working normally against a deliberately raised set point. Pyrogens released during infection — part of [[Inflammation]]'s signaling cascade — instruct the hypothalamus to defend a higher temperature, which is why a feverish person feels cold and shivers even while their measured temperature climbs — the body is chasing a set point that has moved, not losing control of one that hasn't. This is also why fever breaks with sweating: once the pyrogen signal clears, the set point drops back down and the body suddenly needs to shed the excess heat it had been actively maintaining.
 
 ## See also
-- [[Circadian Rhythm]]
-- [[Vestibular System]]
+- [[Rhabdomyolysis]]
+- [[Heat Stroke]]
 - [[Warm-Up]]
 - [[Sunburn]]
 - [[Heart Rate Zones]]
 - [[Protein Denaturation]]
 - [[Cardiac Output]]
-- [[Heat Acclimation]]
+- [[Goosebumps]]
 - [[Hormesis]]
 - [[Latent Heat]]
 - [[Black-Body Radiation]]

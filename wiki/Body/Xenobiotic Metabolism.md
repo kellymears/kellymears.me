@@ -18,8 +18,8 @@ Everything here is dose and clearance: toxicity depends on amount relative to bo
 - [[Catalysis]]
 - [[Retinoid]]
 - [[Gut Microbiome]]
-- [[Retronasal Olfaction]]
-- [[Fermi Estimation]]
+- [[Rhabdomyolysis]]
+- [[Hangover]]
 - [[Maillard Reaction]]
 
 ## Related

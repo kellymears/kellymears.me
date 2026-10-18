@@ -31,4 +31,4 @@ Cycling and swimming, being low-impact, do little to load bone, and endurance cy
 - [[Tendinopathy]]
 - [[Osteoporosis]]
 - [[Periodization]]
-- [[Non-Destructive Testing]]
+- [[Plantar Fasciitis]]

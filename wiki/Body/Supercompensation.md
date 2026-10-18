@@ -28,7 +28,7 @@ The single-session curve is a simplification. Real training overlaps sessions lo
 - [[Periodization]]
 - [[Relative Energy Deficiency in Sport]]
 - [[Detraining]]
-- [[Inflammation]]
+- [[Excess Post-Exercise Oxygen Consumption]]
 - [[Segmented Sleep]]
 - [[Hormesis]]
 - [[Delayed Onset Muscle Soreness]]

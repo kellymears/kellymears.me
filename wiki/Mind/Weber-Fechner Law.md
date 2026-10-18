@@ -35,3 +35,4 @@ Steady stimuli fade further as the senses adapt; see [[Habituation]]. Difference
 ## See also
 - [[Tone Mapping]]
 - [[Color Theory]]
+- [[Dark Adaptation]]

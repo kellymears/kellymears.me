@@ -26,7 +26,7 @@ Altitude training is a textbook case of [[Hormesis]] and [[Supercompensation]]: 
 
 ## See also
 - [[Altitude Sickness]]
-- [[Atmospheric Pressure]]
+- [[Blood Doping]]
 - [[Hormesis]]
 - [[Mitochondria]]
 - [[Ideal Gas Law]]

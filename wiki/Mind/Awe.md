@@ -31,4 +31,4 @@ Awe is one of several emotions studied as distinct from general happiness, which
 ## See also
 - [[Misattribution of Arousal]]
 - [[Mindfulness]]
-- [[Self-Compassion]]
+- [[Goosebumps]]

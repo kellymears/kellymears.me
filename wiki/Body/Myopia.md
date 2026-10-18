@@ -24,7 +24,7 @@ Time in natural settings has other benefits for attention and mood, described in
 
 ## See also
 - [[Digital Eye Strain]]
-- [[Vitamin D]]
+- [[Dark Adaptation]]
 - [[Hearing Loss]]
 - [[Lens]]
 - [[Presbyopia]]

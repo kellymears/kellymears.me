@@ -28,6 +28,6 @@ The signal underpins [[Habit Formation]], where behavior that is reliably reward
 - [[Classical Conditioning]]
 - [[Runner's High]]
 - [[Exposure Therapy]]
-- [[Predictive Processing]]
+- [[Goosebumps]]
 - [[Curiosity]]
 - [[Neuroplasticity]]

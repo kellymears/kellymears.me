@@ -33,5 +33,5 @@ Mostly earworms fade on their own as the brain adjusts to the loop; see [[Habitu
 They interact with how songs are heard in the first place. Misheard lyrics often get stuck in their misheard form; see [[Mondegreen]]. Games build musical motifs that return in new arrangements, which can make soundtracks especially sticky; see [[Adaptive Music]]. Repeated phrases also lose their sense when looped, as with words repeated aloud; see [[Semantic Satiation]].
 
 ## See also
-- [[Stimming]]
+- [[Goosebumps]]
 - [[Rhythm Game]]

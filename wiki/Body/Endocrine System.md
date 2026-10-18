@@ -32,4 +32,4 @@ Hard training interacts with the system. Sustained low energy availability suppr
 Endocrine disorders usually come from too much or too little of one hormone: type 1 diabetes, hypothyroidism, or Cushing's syndrome. Because hormones act everywhere, their symptoms are often vague and widespread, such as fatigue or weight change.
 
 ## See also
-- [[Fight-or-Flight Response]]
+- [[Goosebumps]]

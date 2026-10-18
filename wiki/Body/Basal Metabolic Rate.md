@@ -33,5 +33,5 @@ Temperature also costs energy. Cold exposure raises metabolic rate through shive
 - [[Appetite Regulation]]
 - [[Intermittent Fasting]]
 - [[Muscle Hypertrophy]]
-- [[Relative Energy Deficiency in Sport]]
+- [[Excess Post-Exercise Oxygen Consumption]]
 - [[Body Composition]]

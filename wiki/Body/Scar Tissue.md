@@ -20,3 +20,4 @@ The same collagen-remodeling logic explains why [[Fracture Nonunion]] and proble
 - [[Tendon and Ligament]]
 - [[Inflammation]]
 - [[Fascia]]
+- [[Plantar Fasciitis]]
