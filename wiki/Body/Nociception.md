@@ -19,7 +19,7 @@ One practical consequence: pain cannot be measured from outside. Only self-repor
 - [[Gate Control Theory]]
 - [[Moist Wound Healing]]
 - [[Itch]]
-- [[Observability]]
+- [[Phantom Limb]]
 - [[Fracture Fixation]]
 - [[Bone Remodeling]]
 - [[Retinoid]]

@@ -23,5 +23,5 @@ Neurodivergent accounts describe the same accumulation in everyday terms. Contin
 
 ## See also
 - [[Burnout]]
-- [[Autonomic Nervous System]]
-- [[Sleep Deprivation]]
+- [[Fight-or-Flight Response]]
+- [[Sleep Apnea]]

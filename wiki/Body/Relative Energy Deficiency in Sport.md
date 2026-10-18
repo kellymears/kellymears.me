@@ -28,7 +28,7 @@ The treatment is mostly to eat more, especially around training, and often to tr
 
 ## See also
 - [[Endocrine System]]
-- [[Vitamin D]]
+- [[Osteoporosis]]
 - [[Intermittent Fasting]]
 - [[Stress Fracture]]
 - [[Appetite Regulation]]

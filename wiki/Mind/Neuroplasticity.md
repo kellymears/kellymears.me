@@ -28,7 +28,7 @@ The commercial version oversells. Brain-training games mostly improve performanc
 ## See also
 - [[Dyslexia]]
 - [[Growth Mindset]]
-- [[Habit Formation]]
+- [[Phantom Limb]]
 - [[Desirable Difficulty]]
 - [[Neural Network]]
 - [[Synesthesia]]

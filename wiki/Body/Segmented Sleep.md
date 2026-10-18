@@ -16,8 +16,8 @@ What electric light changed is not in doubt. Evening illumination suppresses mel
 
 ## See also
 - [[Memory Consolidation]]
-- [[Provenance]]
-- [[Falsifiability]]
+- [[Napping]]
+- [[Insomnia]]
 - [[Sleep Paralysis]]
 - [[Chronotype]]
 - [[Circadian Lighting]]

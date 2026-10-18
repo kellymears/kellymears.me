@@ -23,3 +23,4 @@ Referred pain is distinct from radiating pain, which travels along a single nerv
 - [[Gate Control Theory]]
 - [[Ulnar Neuropathy]]
 - [[Itch]]
+- [[Phantom Limb]]

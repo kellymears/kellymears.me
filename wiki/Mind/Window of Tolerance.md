@@ -30,7 +30,7 @@ Talking or reasoning rarely helps once someone is far outside the window, becaus
 Siegel's model is often paired with polyvagal theory, which proposes specific nerve pathways for each state. That theory's physiology is disputed, but the window itself does not depend on it.
 
 ## See also
-- [[Sensory Processing]]
-- [[Choking Under Pressure]]
+- [[Insomnia]]
+- [[Fight-or-Flight Response]]
 - [[Autonomic Nervous System]]
 - [[Mindfulness]]

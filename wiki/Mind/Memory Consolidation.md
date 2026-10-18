@@ -25,7 +25,7 @@ Machine learning ran into the same problem. A neural network trained on a new ta
 
 ## See also
 - [[Dreaming]]
-- [[Spaced Repetition]]
+- [[Napping]]
 - [[False Memory]]
 - [[Working Memory]]
 - [[Segmented Sleep]]

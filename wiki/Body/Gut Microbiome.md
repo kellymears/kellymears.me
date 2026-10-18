@@ -32,7 +32,8 @@ Gut signals also contribute to the body sense of [[Interoception]], which may ex
 ## See also
 - [[Inflammation]]
 - [[Fermentation]]
-- [[Vagus Nerve]]
+- [[Antibiotic Resistance]]
 - [[Umami]]
 - [[Immune System]]
 - [[Appetite Regulation]]
+- [[Allergy]]

@@ -32,3 +32,4 @@ Most acute episodes improve within weeks, which makes almost any treatment look 
 - [[Proprioception]]
 - [[Bike Fit]]
 - [[Posture]]
+- [[Diaphragmatic Breathing]]

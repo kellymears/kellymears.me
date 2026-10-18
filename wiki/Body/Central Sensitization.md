@@ -24,7 +24,7 @@ Expectation and attention also modulate pain, as [[Predictive Processing]] and t
 
 ## See also
 - [[Tendinopathy]]
-- [[Neuroplasticity]]
+- [[Phantom Limb]]
 - [[Gate Control Theory]]
 - [[Concussion]]
 - [[Itch]]

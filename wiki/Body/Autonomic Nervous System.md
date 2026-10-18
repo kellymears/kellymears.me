@@ -32,5 +32,5 @@ The idea of a single unified stress response has been refined over time. Respons
 
 ## See also
 - [[Fever]]
-- [[Emotional Regulation]]
-- [[Sleep Stages]]
+- [[Diaphragmatic Breathing]]
+- [[Fight-or-Flight Response]]

@@ -16,7 +16,7 @@ Folk comparisons — "X is basically the same as Y" — collapse these axes into
 
 ## See also
 - [[Nociception]]
-- [[Regional Nerve Block]]
+- [[Insomnia]]
 - [[Xenobiotic Metabolism]]
 - [[Taxonomy]]
 - [[Prototype Theory]]

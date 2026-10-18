@@ -35,3 +35,6 @@ Like other adaptive systems, immunity benefits from manageable challenge, a para
 - [[Gut Microbiome]]
 - [[Allostatic Load]]
 - [[Itch]]
+- [[Allergy]]
+- [[Antibiotic Resistance]]
+- [[Herd Immunity]]

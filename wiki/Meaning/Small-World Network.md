@@ -30,3 +30,4 @@ Short paths explain how quickly things spread, from rumors and diseases to compu
 - [[Knowledge Graph]]
 - [[PageRank]]
 - [[Social Capital]]
+- [[Herd Immunity]]

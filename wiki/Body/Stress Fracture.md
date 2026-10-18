@@ -29,5 +29,5 @@ Cycling and swimming, being low-impact, do little to load bone, and endurance cy
 
 ## See also
 - [[Tendinopathy]]
-- [[Repetitive Strain Injury]]
+- [[Osteoporosis]]
 - [[Periodization]]

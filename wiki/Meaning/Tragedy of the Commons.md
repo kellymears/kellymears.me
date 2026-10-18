@@ -14,7 +14,7 @@ The sharpest correction is definitional: Hardin was describing **open access** â
 
 ## See also
 - [[Software Fork]]
-- [[Prisoner's Dilemma]]
+- [[Antibiotic Resistance]]
 - [[Greenhouse Effect]]
 - [[Trolley Problem]]
 - [[Open Source Sustainability]]

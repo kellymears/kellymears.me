@@ -21,3 +21,4 @@ The effect creates a genuine ethical bind in medicine: informed consent requires
 - [[Classical Conditioning]]
 - [[Low Back Pain]]
 - [[Self-Fulfilling Prophecy]]
+- [[Insomnia]]

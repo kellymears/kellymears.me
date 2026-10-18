@@ -25,4 +25,4 @@ Low pressure and a misaligned clock are both reasons people can't sleep, and lig
 - [[Sleep Deprivation]]
 - [[Sleep Paralysis]]
 - [[Chronotype]]
-- [[Heart Rate Variability]]
+- [[Napping]]

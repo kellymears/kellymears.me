@@ -24,7 +24,7 @@ As with [[Time Blindness]], the remedies are external. Scheduled meals and water
 - [[Emotional Granularity]]
 - [[Appetite Regulation]]
 - [[Autonomic Nervous System]]
-- [[Circadian Rhythm]]
+- [[Diaphragmatic Breathing]]
 - [[Neurodiversity]]
 - [[Sleep Paralysis]]
 - [[Glycogen]]

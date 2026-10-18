@@ -29,5 +29,5 @@ Used well, the principle is a prompt to look for the vital few: find what produc
 - [[Fermi Estimation]]
 - [[Law of Triviality]]
 - [[Ninety-Ninety Rule]]
-- [[Matthew Effect]]
+- [[Herd Immunity]]
 - [[Lindy Effect]]

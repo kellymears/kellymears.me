@@ -21,3 +21,4 @@ The concept doesn't require the underlying claim to be false — some cascades b
 - [[Matthew Effect]]
 - [[Self-Fulfilling Prophecy]]
 - [[Information Cascade]]
+- [[Herd Immunity]]

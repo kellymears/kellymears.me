@@ -30,7 +30,7 @@ Popular claims about "vagal tone" often outrun the evidence. Polyvagal theory, p
 ## See also
 - [[Blood Pressure]]
 - [[Autonomic Nervous System]]
-- [[Inflammation]]
+- [[Diaphragmatic Breathing]]
 - [[Cold Exposure]]
 - [[Awe]]
 - [[Gut Microbiome]]

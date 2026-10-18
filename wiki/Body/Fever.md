@@ -32,3 +32,4 @@ For athletes the usual rule is not to train hard with a fever. It raises heart r
 - [[Heat Acclimation]]
 - [[Sleep Pressure]]
 - [[Immune System]]
+- [[Allergy]]

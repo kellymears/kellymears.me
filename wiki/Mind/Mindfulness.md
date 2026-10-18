@@ -22,5 +22,5 @@ Mindfulness is also a counterweight to the attention economy. It trains the same
 - [[Emotional Granularity]]
 - [[Self-Compassion]]
 - [[Ironic Process Theory]]
-- [[Selective Attention]]
+- [[Diaphragmatic Breathing]]
 - [[Attention Restoration Theory]]

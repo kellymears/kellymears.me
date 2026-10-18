@@ -24,5 +24,5 @@ Some people scratch or pick at their skin compulsively, a pattern related to oth
 
 ## See also
 - [[Referred Pain]]
-- [[Moist Wound Healing]]
+- [[Allergy]]
 - [[Scar Tissue]]

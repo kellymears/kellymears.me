@@ -19,7 +19,7 @@ Imaging lags the biology, so a radiograph is a proxy and not [[Ground Truth]] fo
 - [[Strength Training]]
 - [[Sarcopenia]]
 - [[Vitamin D]]
-- [[Nociception]]
+- [[Osteoporosis]]
 - [[Stress Fracture]]
 - [[Hormesis]]
 

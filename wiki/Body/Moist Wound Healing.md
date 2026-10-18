@@ -27,3 +27,4 @@ Practical technique. **Irrigate** with clean water or saline at adequate volume 
 - [[Ground Truth]]
 - [[Xenobiotic Metabolism]]
 - [[Physical Dependence]]
+- [[Antibiotic Resistance]]

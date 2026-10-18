@@ -35,3 +35,4 @@ It's also a caution against [[Chesterton's Fence]] in reverse: a new interventio
 - [[Risk Compensation]]
 - [[Jevons Paradox]]
 - [[Gamification]]
+- [[Allergy]]

@@ -26,7 +26,7 @@ Lifestyle changes have real effects. Regular aerobic exercise lowers systolic pr
 
 ## See also
 - [[Vagus Nerve]]
-- [[Heart Rate Variability]]
+- [[Sleep Apnea]]
 - [[Fluid Balance]]
 - [[Allostatic Load]]
 - [[Reynolds Number]]

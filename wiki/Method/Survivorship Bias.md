@@ -15,7 +15,7 @@ The general move Wald's analysis teaches is to ask what is missing from a datase
 
 ## See also
 - [[Black Swan]]
-- [[Fermi Estimation]]
+- [[Antibiotic Resistance]]
 - [[Berkson's Paradox]]
 - [[Representativeness Heuristic]]
 - [[Sensitivity and Specificity]]
