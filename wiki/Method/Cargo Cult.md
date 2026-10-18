@@ -19,3 +19,4 @@ Calling something a cargo cult is only useful if it is followed by naming the mi
 - [[Naming]]
 - [[Ground Truth]]
 - [[Not Invented Here]]
+- [[Checklist]]

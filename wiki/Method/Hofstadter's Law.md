@@ -26,3 +26,4 @@ The law pairs naturally with [[Parkinson's Law]]: one says the work will take lo
 - [[Pareto Principle]]
 - [[Agile Software Development]]
 - [[Confidence Interval]]
+- [[Murphy's Law]]

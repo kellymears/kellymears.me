@@ -26,3 +26,4 @@ The concept is often overstated into "money can't buy happiness," which the orig
 - [[Power Creep]]
 - [[Veblen Good]]
 - [[Jevons Paradox]]
+- [[Satisficing]]

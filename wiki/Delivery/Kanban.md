@@ -34,3 +34,4 @@ Kanban's metrics connect to delivery performance more broadly. Cycle time on the
 - [[Continuous Deployment]]
 - [[Release Train]]
 - [[DevOps]]
+- [[Theory of Constraints]]

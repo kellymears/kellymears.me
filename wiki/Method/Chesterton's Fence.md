@@ -22,7 +22,7 @@ The principle has a mirror, and both are needed. A fence whose reason has expire
 - [[Characterization Test]]
 
 ## Related
-- [[Plausible Mechanism]]
+- [[Burden of Proof]]
 - [[Lindy Effect]]
 - [[Strangler Fig Pattern]]
 - [[Git Blame]]

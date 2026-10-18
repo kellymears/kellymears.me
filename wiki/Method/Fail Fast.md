@@ -17,7 +17,7 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 - [[Kernel Panic]]
 - [[Monad]]
 - [[Defensive Programming]]
-- [[Observability]]
+- [[Murphy's Law]]
 - [[Assertion]]
 - [[Human in the Loop]]
 - [[Design by Contract]]

@@ -30,3 +30,4 @@ Product teams meet the same traps in [[AB Testing]], especially by checking resu
 - [[Randomized Controlled Trial]]
 - [[Falsifiability]]
 - [[Sensitivity and Specificity]]
+- [[Burden of Proof]]

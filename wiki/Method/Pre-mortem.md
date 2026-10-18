@@ -32,3 +32,4 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Framing Effect]]
 - [[Pluralistic Ignorance]]
 - [[Cobra Effect]]
+- [[Checklist]]

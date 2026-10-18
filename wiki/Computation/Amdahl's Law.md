@@ -26,7 +26,7 @@ In 1988 John Gustafson offered a more optimistic view. Amdahl assumes a fixed pr
 The law connects to [[Concurrency and Parallelism]] more broadly. Choosing algorithms with small serial fractions, such as [[Divide and Conquer]] approaches that split work evenly, and avoiding shared mutable state, often matters more than adding hardware. [[Queueing Theory]] describes the related limit for systems serving many independent requests.
 
 ## See also
-- [[Big-O Notation]]
+- [[Theory of Constraints]]
 - [[Lock-Free Data Structure]]
 - [[Monte Carlo Method]]
 - [[Baumol's Cost Disease]]

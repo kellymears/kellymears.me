@@ -16,7 +16,7 @@ It also disciplines prose. "This cast is required because the checker demands it
 
 ## See also
 - [[Brandolini's Law]]
-- [[Assertion]]
+- [[Burden of Proof]]
 - [[Coverage Gate]]
 - [[Statistical Significance]]
 - [[Exhaustive Claim]]

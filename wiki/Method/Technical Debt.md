@@ -29,3 +29,4 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 - [[Refactoring]]
 - [[Spreadsheet]]
 - [[Hyperbolic Discounting]]
+- [[Opportunity Cost]]

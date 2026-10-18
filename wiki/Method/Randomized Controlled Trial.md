@@ -29,7 +29,7 @@ RCTs have limits. Some questions can't ethically be randomized, such as whether 
 ## See also
 - [[Regression to the Mean]]
 - [[Statistical Power]]
-- [[Survivorship Bias]]
+- [[Hawthorne Effect]]
 - [[Bayes' Theorem]]
 - [[Confounding]]
 - [[Statistical Significance]]

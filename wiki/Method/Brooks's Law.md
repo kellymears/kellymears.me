@@ -27,3 +27,4 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Agile Software Development]]
 - [[Amdahl's Law]]
 - [[Team Topologies]]
+- [[Theory of Constraints]]

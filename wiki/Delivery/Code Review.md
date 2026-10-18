@@ -20,7 +20,7 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 - [[Human in the Loop]]
 - [[Code Comment]]
 - [[Vigilance Decrement]]
-- [[Static Analysis]]
+- [[Theory of Constraints]]
 
 ## Related
 - [[Change Advisory Board]]

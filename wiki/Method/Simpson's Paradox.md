@@ -27,3 +27,4 @@ The defense is the same move every time: before trusting an aggregate comparison
 - [[Randomized Controlled Trial]]
 - [[Data Visualization]]
 - [[Confounding]]
+- [[Berkson's Paradox]]

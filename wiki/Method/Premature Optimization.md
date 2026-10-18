@@ -25,3 +25,4 @@ The rule has a real boundary, worth stating so it doesn't get taken as absolute:
 - [[Profiling]]
 - [[Refactoring]]
 - [[Pareto Principle]]
+- [[Opportunity Cost]]

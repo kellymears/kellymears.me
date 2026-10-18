@@ -30,3 +30,4 @@ Ground truth also has a *staleness* dimension. A measurement is only about the t
 - [[Supervised Learning]]
 - [[Precision and Recall]]
 - [[Data Cleaning]]
+- [[Map and Territory]]

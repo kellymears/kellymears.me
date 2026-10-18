@@ -19,7 +19,7 @@ Countermeasures concern ordering and visibility: give the basis and the confiden
 ## See also
 - [[Calibration]]
 - [[Risk Compensation]]
-- [[Hallucination]]
+- [[Checklist]]
 - [[Adversarial Review]]
 - [[Ground Truth]]
 - [[Inattentional Blindness]]

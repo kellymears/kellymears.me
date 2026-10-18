@@ -27,3 +27,4 @@ MVP is often confused with "prototype" or "beta," but neither of those implies t
 - [[Agile Software Development]]
 - [[Jobs to Be Done]]
 - [[Persona]]
+- [[Satisficing]]

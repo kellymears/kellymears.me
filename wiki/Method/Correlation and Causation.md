@@ -17,7 +17,7 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Effect Size]]
 - [[Simpson's Paradox]]
 - [[Base Rate Fallacy]]
-- [[Plausible Mechanism]]
+- [[Berkson's Paradox]]
 - [[Falsifiability]]
 - [[P-Hacking]]
 - [[AB Testing]]

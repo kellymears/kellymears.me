@@ -14,7 +14,7 @@ The counterintuitive consequence is that a larger biased sample is not safer tha
 ## See also
 - [[Streetlight Effect]]
 - [[Fermi Estimation]]
-- [[Truncation Bias]]
+- [[Berkson's Paradox]]
 - [[Percentage Point]]
 - [[Automation Bias]]
 - [[Usability Testing]]

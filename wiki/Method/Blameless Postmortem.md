@@ -20,7 +20,7 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[Mean Time to Recovery]]
 - [[Hanlon's Razor]]
 - [[Fundamental Attribution Error]]
-- [[Chaos Engineering]]
+- [[Checklist]]
 
 ## Related
 - [[Bus Factor]]

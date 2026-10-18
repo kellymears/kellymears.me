@@ -28,3 +28,4 @@ Rot also afflicts prose *inside* source files. A docblock is only attached to a 
 - [[Code Review]]
 - [[Agent Memory]]
 - [[Doctest]]
+- [[Map and Territory]]

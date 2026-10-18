@@ -34,3 +34,4 @@ A useful habit when shown a correlation is to ask what else differs between the 
 - [[Base Rate Fallacy]]
 - [[Survivorship Bias]]
 - [[Root Cause Analysis]]
+- [[Berkson's Paradox]]

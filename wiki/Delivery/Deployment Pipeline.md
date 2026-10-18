@@ -28,5 +28,5 @@ Several principles make pipelines work well:
 Pipelines degrade in recognizable ways. A [[Flaky Test]] fails at random, and people learn to rerun until it passes, which erodes trust in every red build. Slow stages encourage batching changes, which makes failures harder to diagnose. A manual approval step that nobody understands becomes a ritual. Pipeline health shows up directly in [[DORA Metrics]], especially lead time for changes. Some teams add a short-lived [[Ephemeral Environment]] per pull request as an early stage.
 
 ## See also
-- [[Rollback]]
+- [[Theory of Constraints]]
 - [[Immutable Infrastructure]]

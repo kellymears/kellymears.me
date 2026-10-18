@@ -23,7 +23,7 @@ Leaks aren't failures of design so much as the price of usefulness. Hiding every
 Leaks also become dependencies. Users come to rely on behavior that was never promised, such as the order of a hash map or the timing of an error, which is [[Hyrum's Law]]. The abstraction's real interface becomes everything observable, not just what was documented. And people new to a system see the abstraction, while experts see what's under it, which is part of why explanations from experts can be hard to follow, the [[Curse of Knowledge]].
 
 ## See also
-- [[Worse Is Better]]
+- [[Map and Territory]]
 - [[Gall's Law]]
 - [[OSI Model]]
 - [[Cargo Cult]]

@@ -20,3 +20,4 @@ The chain is sometimes literal: a [[Package Manager]] resolving a dependency of 
 - [[Deprecation]]
 - [[Rabbit Hole]]
 - [[Refactoring]]
+- [[Opportunity Cost]]

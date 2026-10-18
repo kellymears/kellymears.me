@@ -17,7 +17,7 @@ A negative is treated even more carelessly. On an imperfect test it lowers the p
 Most tests have a threshold, and moving it trades one error for the other; where to place it depends on the cost of a missed case against an unnecessary follow-up. Optimizing a screening program for cases detected rather than outcomes is [[Goodhart's Law]] with clinical consequences, and a false negative is the purest form of [[Silent Failure]].
 
 ## See also
-- [[Ground Truth]]
+- [[Operationalization]]
 - [[Percentage Point]]
 - [[Monty Hall Problem]]
 - [[Falsifiability]]

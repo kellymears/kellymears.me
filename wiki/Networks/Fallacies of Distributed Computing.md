@@ -24,5 +24,5 @@ Partitions in particular force hard trade-offs, formalized in the [[CAP Theorem]
 
 ## See also
 - [[Timeout]]
-- [[Zero Trust Network]]
+- [[Murphy's Law]]
 

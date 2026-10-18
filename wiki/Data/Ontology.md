@@ -33,3 +33,4 @@ The limits are human. Agreeing on definitions across communities is slow and pol
 - [[Zettelkasten]]
 - [[Expert System]]
 - [[Entity-Relationship Model]]
+- [[Map and Territory]]

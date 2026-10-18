@@ -31,4 +31,4 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 - [[Risk-Based Testing]]
 - [[Failure Detection]]
 - [[Mean Time to Recovery]]
-- [[Hormesis]]
+- [[Murphy's Law]]

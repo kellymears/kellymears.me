@@ -23,3 +23,4 @@ The standard defenses are structural, matching the mechanism directly: preregist
 - [[Bayes' Theorem]]
 - [[Statistical Significance]]
 - [[Texas Sharpshooter Fallacy]]
+- [[Operationalization]]

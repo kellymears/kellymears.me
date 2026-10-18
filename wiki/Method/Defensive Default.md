@@ -29,3 +29,4 @@ A related shape is the defensive *guard*: a null check protecting against a stat
 - [[Choice Architecture]]
 - [[Forcing Function]]
 - [[Risk Compensation]]
+- [[Murphy's Law]]

@@ -30,5 +30,5 @@ A/B testing also carries ethical and strategic risks. Optimizing a single metric
 - [[Progressive Delivery]]
 - [[Usability Testing]]
 - [[Statistical Significance]]
-- [[Canary Release]]
+- [[Hawthorne Effect]]
 - [[Replication Crisis]]

@@ -28,3 +28,4 @@ The defense isn't refusing all requests — it's requiring that a new feature's 
 - [[Jobs to Be Done]]
 - [[Persona]]
 - [[Power Creep]]
+- [[Opportunity Cost]]

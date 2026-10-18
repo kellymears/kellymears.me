@@ -24,7 +24,7 @@ Used well, benchmarks catch performance regressions in [[Continuous Integration]
 
 ## See also
 - [[Monotonic Clock]]
-- [[Benchmark Contamination]]
+- [[Operationalization]]
 - [[Just-in-Time Compilation]]
 - [[Amdahl's Law]]
 - [[Confidence Interval]]

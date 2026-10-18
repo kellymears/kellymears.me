@@ -18,9 +18,9 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 ## See also
 - [[Coverage Gate]]
 - [[Code Coverage]]
-- [[Fail Fast]]
+- [[Operationalization]]
 - [[Reward Hacking]]
-- [[Performance Budget]]
+- [[Map and Territory]]
 - [[Prompt Engineering]]
 - [[Core Web Vitals]]
 - [[PageRank]]

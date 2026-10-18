@@ -29,3 +29,4 @@ The rule that survives: before writing "because X", run something that would tel
 - [[Muscle Cramp]]
 - [[Bayes' Theorem]]
 - [[Confounding]]
+- [[Burden of Proof]]

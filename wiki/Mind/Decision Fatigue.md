@@ -26,7 +26,7 @@ The case is a good example of a [[Plausible Mechanism]] outrunning its evidence.
 - [[Central Governor Theory]]
 - [[Vigilance Decrement]]
 - [[Loss Aversion]]
-- [[Publication Bias]]
+- [[Satisficing]]
 - [[Spoon Theory]]
 - [[Dark Pattern]]
 - [[Habit Formation]]

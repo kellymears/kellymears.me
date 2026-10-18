@@ -33,3 +33,4 @@ Normalization of deviance also explains why [[Hindsight Bias]] is so tempting af
 - [[Root Cause Analysis]]
 - [[Chaos Engineering]]
 - [[Forcing Function]]
+- [[Checklist]]
