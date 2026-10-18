@@ -15,7 +15,7 @@ Circadian timing governs far more than sleep: core body temperature, cortisol, a
 
 ## See also
 - [[Segmented Sleep]]
-- [[Thermoregulation]]
+- [[Chronotype]]
 - [[Retronasal Olfaction]]
 - [[Time Blindness]]
 - [[Supercompensation]]

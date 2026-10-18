@@ -27,7 +27,7 @@ Popular advice compresses this into "blue light is bad", which overstates the ca
 - [[Digital Eye Strain]]
 - [[Fluorescence]]
 - [[LED Flicker]]
-- [[Interoception]]
+- [[Chronotype]]
 - [[Time Blindness]]
 - [[Sleep Pressure]]
 - [[Rayleigh Scattering]]

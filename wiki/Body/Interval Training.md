@@ -29,6 +29,6 @@ Gains from intervals also come and go faster than those from base training. A bl
 Power meters and heart rate monitors have made intervals precise, but heart rate lags behind effort during short intervals, so power or pace is a better guide; see [[Critical Power]].
 
 ## See also
-- [[Mitochondria]]
+- [[Creatine]]
 - [[Warm-Up]]
 - [[Muscle Fiber Types]]

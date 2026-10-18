@@ -27,6 +27,6 @@ Expectation and attention also modulate pain, as [[Predictive Processing]] and t
 - [[Neuroplasticity]]
 - [[Gate Control Theory]]
 - [[Concussion]]
-- [[Inflammation]]
+- [[Itch]]
 - [[Low Back Pain]]
 - [[Repetitive Strain Injury]]

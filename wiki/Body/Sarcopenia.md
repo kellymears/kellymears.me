@@ -27,6 +27,6 @@ The encouraging finding is that muscle stays trainable. In a 1990 study by Maria
 
 ## See also
 - [[Body Composition]]
-- [[Strength Training]]
+- [[Creatine]]
 - [[Vitamin D]]
 - [[Muscle Protein Synthesis]]

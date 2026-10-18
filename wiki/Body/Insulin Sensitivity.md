@@ -34,7 +34,7 @@ For athletes, insulin sensitivity is generally high, and post-exercise is when m
 
 ## See also
 - [[Endocrine System]]
-- [[Strength Training]]
+- [[Intermittent Fasting]]
 - [[Metabolic Flexibility]]
 - [[Body Composition]]
 - [[Homeostasis]]

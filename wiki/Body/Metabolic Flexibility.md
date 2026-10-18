@@ -27,3 +27,4 @@ Flexibility also matters outside sport. Exercise, adequate sleep, and avoiding s
 - [[Energy Systems]]
 - [[Lactate Threshold]]
 - [[Supercompensation]]
+- [[Intermittent Fasting]]

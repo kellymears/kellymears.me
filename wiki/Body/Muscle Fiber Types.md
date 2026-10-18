@@ -25,7 +25,7 @@ Proportions vary widely. Elite distance runners commonly have around 70 to 80 pe
 Fast fibers are also more vulnerable to the strain behind [[Delayed Onset Muscle Soreness]]. Fiber type sets a range, and [[Training Load]] and [[Supercompensation]] decide where in it a person ends up.
 
 ## See also
-- [[Glycogen]]
+- [[Creatine]]
 - [[Critical Power]]
 - [[Strength Training]]
 - [[Exercise Economy]]

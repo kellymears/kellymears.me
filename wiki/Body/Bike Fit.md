@@ -28,6 +28,6 @@ Good fitters change one thing at a time, in small steps of a few millimeters, an
 - [[Motion Capture]]
 - [[Tendinopathy]]
 - [[Ulnar Neuropathy]]
-- [[Functional Threshold Power]]
+- [[Posture]]
 - [[Exercise Economy]]
 - [[Low Back Pain]]

@@ -19,7 +19,7 @@ What electric light changed is not in doubt. Evening illumination suppresses mel
 - [[Provenance]]
 - [[Falsifiability]]
 - [[Sleep Paralysis]]
-- [[Time Zone]]
+- [[Chronotype]]
 - [[Circadian Lighting]]
 
 ## Related

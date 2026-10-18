@@ -15,7 +15,7 @@ The thing worth internalizing is **what [[Accessibility Testing|automated checki
 Automated checks also produce characteristic false signals: a burst of violations across an entire suite usually means the pages failed to load and the tool is scanning an error overlay; a contrast violation on a mid-transition element means the check ran too early. Diagnosing those before treating them as regressions saves a great deal of time.
 
 ## See also
-- [[ARIA]]
+- [[Presbyopia]]
 - [[Text-to-Speech]]
 - [[Screen Reader]]
 - [[Dyslexia]]

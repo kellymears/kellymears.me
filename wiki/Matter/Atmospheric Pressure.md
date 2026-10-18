@@ -30,3 +30,4 @@ Gauges usually read pressure relative to the atmosphere, so a bicycle tire at 80
 - [[Blood Pressure]]
 - [[Coriolis Effect]]
 - [[Greenhouse Effect]]
+- [[Altitude Sickness]]

@@ -22,3 +22,4 @@ Referred pain is distinct from radiating pain, which travels along a single nerv
 - [[Low Back Pain]]
 - [[Gate Control Theory]]
 - [[Ulnar Neuropathy]]
+- [[Itch]]

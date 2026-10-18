@@ -39,3 +39,4 @@ The law connects to deeper physics. Kinetic theory explains pressure as countles
 - [[Chemical Leavening]]
 - [[Atmospheric Pressure]]
 - [[Sound]]
+- [[Altitude Sickness]]

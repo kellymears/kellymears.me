@@ -26,5 +26,5 @@ Engineers apply the same logic to systems. [[Chaos Engineering]] injects small, 
 
 ## See also
 - [[Homeostasis]]
-- [[Inflammation]]
+- [[Intermittent Fasting]]
 - [[Runner's High]]

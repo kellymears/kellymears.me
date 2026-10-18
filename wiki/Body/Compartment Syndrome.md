@@ -18,3 +18,4 @@ Risk factors track anything that causes swelling in a sealed space fast: long bo
 - [[Watershed Blood Supply]]
 - [[Tendon and Ligament]]
 - [[Inflammation]]
+- [[Fascia]]

@@ -18,7 +18,7 @@ One practical consequence: pain cannot be measured from outside. Only self-repor
 - [[Low Back Pain]]
 - [[Gate Control Theory]]
 - [[Moist Wound Healing]]
-- [[Ground Truth]]
+- [[Itch]]
 - [[Observability]]
 - [[Fracture Fixation]]
 - [[Bone Remodeling]]

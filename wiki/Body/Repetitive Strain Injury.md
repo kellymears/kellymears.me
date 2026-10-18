@@ -37,6 +37,6 @@ Wrist splints at night help carpal tunnel symptoms, and surgery to release the c
 - [[Ulnar Neuropathy]]
 - [[Digital Eye Strain]]
 - [[Nociception]]
-- [[Bike Fit]]
+- [[Posture]]
 - [[Stretching]]
 - [[Tendinopathy]]

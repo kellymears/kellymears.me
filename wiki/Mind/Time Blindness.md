@@ -30,7 +30,7 @@ The remedies all **externalize time**, turning an internal sense that doesn't wo
 - [[ADHD]]
 - [[Planning Fallacy]]
 - [[Progress Indicator]]
-- [[Circadian Rhythm]]
+- [[Chronotype]]
 - [[Body Doubling]]
 - [[Pomodoro Technique]]
 - [[Procrastination]]

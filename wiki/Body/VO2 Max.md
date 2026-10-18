@@ -23,7 +23,7 @@ Its strongest claim may be outside sport. Cardiorespiratory fitness is one of th
 - [[Heart Rate Zones]]
 - [[Polarized Training]]
 - [[Supercompensation]]
-- [[Thermoregulation]]
+- [[Altitude Sickness]]
 - [[Cardiac Output]]
 - [[Exercise Economy]]
 - [[Heat Acclimation]]

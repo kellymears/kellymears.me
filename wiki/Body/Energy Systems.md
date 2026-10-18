@@ -27,5 +27,5 @@ The systems are also inefficient in a useful way: only about a quarter of the en
 ## See also
 - [[Warm-Up]]
 - [[Basal Metabolic Rate]]
-- [[Mitochondria]]
+- [[Creatine]]
 - [[Metabolic Flexibility]]

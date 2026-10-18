@@ -27,7 +27,7 @@ The stakes reach beyond hearing. A 2020 Lancet Commission named midlife hearing 
 The inner ear also houses the [[Vestibular System]], so some damage brings dizziness, and loud environments add to [[Sensory Overload]] for people already sensitive to sound.
 
 ## See also
-- [[Vestibular System]]
+- [[Presbyopia]]
 - [[Inverse-Square Law]]
 - [[Myopia]]
 - [[Resonance]]

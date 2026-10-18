@@ -28,5 +28,5 @@ As with [[Time Blindness]], the remedies are external. Scheduled meals and water
 - [[Neurodiversity]]
 - [[Sleep Paralysis]]
 - [[Glycogen]]
-- [[Sensory Overload]]
+- [[Itch]]
 - [[Emotional Regulation]]

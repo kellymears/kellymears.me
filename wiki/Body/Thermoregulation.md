@@ -15,7 +15,7 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 - [[Circadian Rhythm]]
 - [[Vestibular System]]
 - [[Warm-Up]]
-- [[Interoception]]
+- [[Sunburn]]
 - [[Heart Rate Zones]]
 - [[Protein Denaturation]]
 - [[Cardiac Output]]

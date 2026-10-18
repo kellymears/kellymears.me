@@ -33,4 +33,4 @@ Gate control also explains some approaches to pain management that don't involve
 ## See also
 - [[Low Back Pain]]
 - [[Proprioception]]
-- [[Predictive Processing]]
+- [[Fascia]]

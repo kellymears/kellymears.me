@@ -36,3 +36,4 @@ Muscle damage and soreness after unfamiliar exercise aren't required for growth,
 - [[Muscle Fiber Types]]
 - [[Insulin Sensitivity]]
 - [[Basal Metabolic Rate]]
+- [[Intermittent Fasting]]

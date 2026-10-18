@@ -25,7 +25,7 @@ Altitude also carries risks. Above roughly 2,500 meters, many people develop acu
 Altitude training is a textbook case of [[Hormesis]] and [[Supercompensation]]: a stress that, dosed correctly and followed by recovery, leaves the body stronger. Heat produces some similar blood adaptations, through plasma volume expansion, and [[Heat Acclimation]] is sometimes called the poor athlete's altitude training. Synthetic EPO and blood transfusions, which produce the same end result directly, are banned in sport, and testing for them through the athlete biological passport, which tracks blood values over time, has been a central part of anti-doping work since the late 2000s.
 
 ## See also
-- [[Cardiac Output]]
+- [[Altitude Sickness]]
 - [[Atmospheric Pressure]]
 - [[Hormesis]]
 - [[Mitochondria]]

@@ -32,3 +32,4 @@ Designers sometimes work with the effect rather than against it. Some traffic en
 - [[Cobra Effect]]
 - [[Moral Panic]]
 - [[Third-Person Effect]]
+- [[Sunburn]]

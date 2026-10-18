@@ -25,3 +25,4 @@ The important correction is that irritation is a poor proxy for effect. Some of 
 - [[Regional Nerve Block]]
 - [[Physical Dependence]]
 - [[Bone Remodeling]]
+- [[Sunburn]]

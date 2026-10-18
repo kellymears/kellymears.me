@@ -35,3 +35,4 @@ The brain's ability to recover, described under [[Neuroplasticity]], is substant
 - [[Central Sensitization]]
 - [[Neuroplasticity]]
 - [[Sensory Overload]]
+- [[Creatine]]

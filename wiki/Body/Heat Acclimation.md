@@ -29,7 +29,7 @@ Heat also changes fuel use, increasing reliance on [[Glycogen]], and dampens [[H
 - [[Fluid Balance]]
 - [[Cold Exposure]]
 - [[VO2 Max]]
-- [[Training Load]]
+- [[Sunburn]]
 - [[Cardiac Output]]
 - [[Latent Heat]]
 - [[Altitude Training]]

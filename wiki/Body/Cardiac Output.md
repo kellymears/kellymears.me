@@ -26,6 +26,6 @@ Cardiac output also explains **cardiac drift**. During a long effort in the heat
 Blood pressure is cardiac output multiplied by the resistance of the blood vessels, so the two are linked; see [[Blood Pressure]]. During exercise, vessels in working muscle widen, which lets output rise severalfold while pressure rises only modestly.
 
 ## See also
-- [[Lactate Threshold]]
+- [[Altitude Sickness]]
 - [[Polarized Training]]
 - [[Energy Systems]]

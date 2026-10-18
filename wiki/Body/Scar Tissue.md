@@ -19,3 +19,4 @@ The same collagen-remodeling logic explains why [[Fracture Nonunion]] and proble
 - [[Fracture Nonunion]]
 - [[Tendon and Ligament]]
 - [[Inflammation]]
+- [[Fascia]]

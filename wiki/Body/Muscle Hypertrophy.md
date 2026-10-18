@@ -31,6 +31,6 @@ Muscle matters beyond appearance. It is the body's largest site of glucose dispo
 ## See also
 - [[Cold Exposure]]
 - [[Muscle Protein Synthesis]]
-- [[Strength Training]]
+- [[Creatine]]
 - [[Body Composition]]
 - [[Sarcopenia]]
