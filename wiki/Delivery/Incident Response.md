@@ -32,5 +32,5 @@ Teams practice before real outages. Game days and [[Chaos Engineering]] inject f
 - [[Bug Triage]]
 - [[Crash Reporting]]
 - [[Rollback]]
-- [[Chaos Engineering]]
+- [[Vigilance Decrement]]
 - [[Site Reliability Engineering]]

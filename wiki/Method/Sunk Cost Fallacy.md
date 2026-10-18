@@ -25,3 +25,4 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 - [[Yak Shaving]]
 - [[Planning Fallacy]]
 - [[Hindsight Bias]]
+- [[Loss Aversion]]

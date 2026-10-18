@@ -27,7 +27,7 @@ The remedies all **externalize time**, turning an internal sense that doesn't wo
 
 ## See also
 - [[Prospective Memory]]
-- [[Hyperfocus]]
+- [[ADHD]]
 - [[Planning Fallacy]]
 - [[Progress Indicator]]
 - [[Circadian Rhythm]]

@@ -31,6 +31,6 @@ Siegel's model is often paired with polyvagal theory, which proposes specific ne
 
 ## See also
 - [[Sensory Processing]]
-- [[Sensory Overload]]
+- [[Choking Under Pressure]]
 - [[Rumination]]
 - [[Mindfulness]]

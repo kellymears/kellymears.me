@@ -24,8 +24,8 @@ The case is a good example of a [[Plausible Mechanism]] outrunning its evidence.
 ## See also
 - [[Executive Function]]
 - [[Central Governor Theory]]
-- [[Hick's Law]]
-- [[Defensive Default]]
+- [[Vigilance Decrement]]
+- [[Loss Aversion]]
 - [[Publication Bias]]
 - [[Spoon Theory]]
 - [[Dark Pattern]]

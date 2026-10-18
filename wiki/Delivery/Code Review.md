@@ -19,7 +19,7 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 - [[Atomic Commit]]
 - [[Human in the Loop]]
 - [[Code Comment]]
-- [[Provenance]]
+- [[Vigilance Decrement]]
 - [[Static Analysis]]
 
 ## Related

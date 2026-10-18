@@ -21,7 +21,7 @@ The stopping side links to [[Hyperfocus]] and [[Flow]]. The same channel that is
 What helps works with the inertia rather than against it. External cues such as alarms, a visual schedule, or a timer, warnings before a transition, and keeping the first step small and concrete all lower the cost of starting. [[Body Doubling]] gives momentum through another person's presence. [[Implementation Intention]] plans pre-decide the trigger. Building transitions into routines turns them into [[Habit Formation]], so they no longer have to be willed each time. Others can help most by giving notice before interruptions and accepting that "in a minute" may be an honest estimate of what switching costs.
 
 ## See also
-- [[Executive Function]]
+- [[ADHD]]
 - [[Hyperfocus]]
 - [[Body Doubling]]
 - [[Autistic Burnout]]

@@ -22,8 +22,8 @@ Several refinements make plans work better:
 For programmers the structure will feel familiar. An implementation intention is an event handler for behavior: it registers a callback on a situation instead of polling willpower. It is closer to a [[Webhook]] than to a [[Cron]] job, and close to a [[Finite State Machine]] transition defined in advance. It also closes the open loop described by the [[Zeigarnik Effect]], since a credible plan quiets intrusive thoughts about an unfinished goal even before it is done.
 
 ## See also
-- [[Executive Function]]
-- [[Zeigarnik Effect]]
+- [[ADHD]]
+- [[Ironic Process Theory]]
 - [[Time Blindness]]
 - [[Defensive Default]]
 - [[Pomodoro Technique]]

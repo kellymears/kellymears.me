@@ -23,7 +23,7 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Visual Hierarchy]]
 - [[Touch Target Size]]
 - [[Modal Dialog]]
-- [[Data-Ink Ratio]]
+- [[Loss Aversion]]
 - [[Clickjacking]]
 - [[Banner Blindness]]
 - [[Choice Architecture]]

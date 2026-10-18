@@ -24,7 +24,7 @@ It also connects to design. A [[Focus Trap]] and careful [[Focus Management]] in
 ## See also
 - [[Neurodiversity]]
 - [[Hyperfocus]]
-- [[Attention Residue]]
+- [[ADHD]]
 - [[Masking]]
 - [[Flow]]
 - [[Executive Function]]

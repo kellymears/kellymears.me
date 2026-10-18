@@ -32,7 +32,8 @@ Still, the principle is useful:
 The phenomenon fits a broader view of memory as reconstruction guided by cues rather than retrieval of stored recordings. Spatial memory techniques such as the [[Method of Loci]] exploit this by building a context deliberately. The [[Extended Mind]] view goes further, treating cues in the environment as part of how thinking works.
 
 ## See also
-- [[Method of Loci]]
+- [[Classical Conditioning]]
 - [[False Memory]]
 - [[Habit Formation]]
 - [[Desirable Difficulty]]
+- [[Prosopagnosia]]

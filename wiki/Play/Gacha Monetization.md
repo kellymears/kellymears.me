@@ -19,3 +19,4 @@ Disclosure rules followed. Japan banned "complete gacha" in 2012 under prize-lab
 - [[Ludonarrative Dissonance]]
 - [[Procedural Generation]]
 - [[Confidence Trick]]
+- [[Loss Aversion]]

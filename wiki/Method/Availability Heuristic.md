@@ -27,3 +27,4 @@ The corrective is the same move [[Fermi Estimation]] makes explicit: force yours
 - [[Von Restorff Effect]]
 - [[Processing Fluency]]
 - [[Hindsight Bias]]
+- [[Negativity Bias]]

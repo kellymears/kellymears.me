@@ -4,12 +4,11 @@ aliases:
   - Neurodivergent
   - Neurotypical
   - Double empathy problem
-  - AuDHD
 tags:
   - mind
 summary: The view that variation in how brains work, as in autism and ADHD, is natural human diversity rather than only a set of defects to be corrected.
 ---
-**Neurodiversity** is the idea that variation in human neurology, the differences labeled autism, ADHD, dyslexia, dyspraxia and others, is natural diversity, the way variation in height or temperament is, rather than only a catalogue of defects measured against a single correct brain. The term is usually credited to the sociologist Judy Singer in the late 1990s and was popularized by the autistic self-advocacy movement. A *neurodivergent* person is one whose brain diverges from the typical pattern; *neurotypical* names that pattern.
+**Neurodiversity** is the idea that variation in human neurology, the differences labeled autism, [[ADHD]], dyslexia, dyspraxia and others, is natural diversity, the way variation in height or temperament is, rather than only a catalogue of defects measured against a single correct brain. The term is usually credited to the sociologist Judy Singer in the late 1990s and was popularized by the autistic self-advocacy movement. A *neurodivergent* person is one whose brain diverges from the typical pattern; *neurotypical* names that pattern.
 
 The framing borrows from the **social model of disability**: a lot of what disables people comes from an environment built for one kind of mind. An open-plan office, a meeting-heavy calendar, or an interview that scores eye contact disables people who would be fine elsewhere. That does not claim neurodivergence is never hard, or that support and medication are unwelcome. Many people use both while rejecting the idea that the goal is to look typical. It moves the question from "what is wrong with this person" to "what does this person need, and what is the environment costing them".
 

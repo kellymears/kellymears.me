@@ -34,6 +34,7 @@ CBT has limits. It works less well when problems stem from circumstances rather 
 
 ## See also
 - [[Rumination]]
-- [[Emotional Regulation]]
+- [[Classical Conditioning]]
 - [[Metacognition]]
 - [[Self-Compassion]]
+- [[Ironic Process Theory]]

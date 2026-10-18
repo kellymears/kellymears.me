@@ -30,3 +30,4 @@ The condition fits the wider picture of [[Neurodiversity]]: perception is constr
 - [[Neurodiversity]]
 - [[Sensory Processing]]
 - [[Preattentive Processing]]
+- [[Prosopagnosia]]

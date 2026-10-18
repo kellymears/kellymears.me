@@ -24,7 +24,7 @@ There is a strong critique of the concept. Calling it a syndrome locates the pro
 What helps is making evidence count: keeping a record of finished work and feedback, talking openly about doubt, which reveals how common it is, and working where mistakes are discussed without blame, as in a [[Blameless Postmortem]].
 
 ## See also
-- [[Self-Efficacy]]
+- [[Choking Under Pressure]]
 - [[Cognitive Behavioral Therapy]]
 - [[Curse of Knowledge]]
 - [[Fundamental Attribution Error]]

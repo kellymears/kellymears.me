@@ -25,7 +25,7 @@ Regulation isn't purely individual. **Co-regulation**, calming through another p
 ## See also
 - [[Window of Tolerance]]
 - [[Cognitive Behavioral Therapy]]
-- [[Stimming]]
-- [[Procrastination]]
+- [[Ironic Process Theory]]
+- [[Choking Under Pressure]]
 - [[Emotional Granularity]]
 - [[Demand Avoidance]]

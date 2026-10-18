@@ -23,7 +23,7 @@ Flow is not automatically good. It is indifferent to what it attaches to, and a 
 ## See also
 - [[Hyperfocus]]
 - [[Boredom]]
-- [[Game Feel]]
+- [[Choking Under Pressure]]
 - [[Attention Residue]]
 - [[Compulsion Loop]]
 - [[Hedonic Treadmill]]

@@ -25,3 +25,4 @@ Countermeasures concern ordering and visibility: give the basis and the confiden
 - [[Inattentional Blindness]]
 - [[Dual Process Theory]]
 - [[Sycophancy]]
+- [[Vigilance Decrement]]

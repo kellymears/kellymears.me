@@ -31,3 +31,4 @@ In technical work, the same habit improves [[Code Review]] and design discussion
 - [[Groupthink]]
 - [[Pre-mortem]]
 - [[Cunningham's Law]]
+- [[Framing Effect]]

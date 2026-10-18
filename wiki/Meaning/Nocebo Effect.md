@@ -18,3 +18,4 @@ The effect creates a genuine ethical bind in medicine: informed consent requires
 - [[Umami]]
 - [[Predictive Processing]]
 - [[Central Sensitization]]
+- [[Classical Conditioning]]

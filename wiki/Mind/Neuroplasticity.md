@@ -26,7 +26,7 @@ Not all plasticity helps. In [[Central Sensitization]], pain pathways learn to a
 The commercial version oversells. Brain-training games mostly improve performance on the games themselves, with little transfer to everyday thinking, and in 2016 the maker of Lumosity paid $2 million to settle US Federal Trade Commission charges over claims to the contrary. The reliable route to a changed brain is the slow one: repeated, effortful practice of the actual skill, spread over time with sleep in between, much like [[Supercompensation]] in training.
 
 ## See also
-- [[Memory Consolidation]]
+- [[Dyslexia]]
 - [[Motor Learning]]
 - [[Habit Formation]]
 - [[Desirable Difficulty]]

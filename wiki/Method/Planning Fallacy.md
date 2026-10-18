@@ -30,3 +30,4 @@ Adding people late rarely saves a late project, as [[Brooks's Law]] warns, and w
 - [[Feature Creep]]
 - [[Survivorship Bias]]
 - [[Dunning-Kruger Effect]]
+- [[Loss Aversion]]

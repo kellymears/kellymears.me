@@ -24,7 +24,7 @@ There is a close analogy in machines. A [[Context Window]] is a language model's
 - [[Command Palette]]
 - [[Expert Intuition]]
 - [[Context Rot]]
-- [[Small Multiples]]
+- [[Choking Under Pressure]]
 - [[Recognition Rather Than Recall]]
 - [[Zettelkasten]]
 - [[Spaced Repetition]]

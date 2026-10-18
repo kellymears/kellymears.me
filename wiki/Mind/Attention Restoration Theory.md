@@ -28,4 +28,4 @@ For people prone to [[Sensory Overload]] or [[Autistic Burnout]], calm, predicta
 - [[Decision Fatigue]]
 - [[Sensory Processing]]
 - [[Doomscrolling]]
-- [[Pomodoro Technique]]
+- [[Vigilance Decrement]]

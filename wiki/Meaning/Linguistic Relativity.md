@@ -27,3 +27,4 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 - [[Hallucination]]
 - [[Emotional Granularity]]
 - [[Inner Speech]]
+- [[Framing Effect]]

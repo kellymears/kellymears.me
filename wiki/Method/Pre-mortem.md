@@ -29,3 +29,4 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Root Cause Analysis]]
 - [[Sunk Cost Fallacy]]
 - [[Steelmanning]]
+- [[Framing Effect]]

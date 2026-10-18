@@ -19,3 +19,4 @@ The mechanism rhymes with [[Anchoring Effect]]: a proposal's plausibility is jud
 - [[Regulatory Capture]]
 - [[Collective Action]]
 - [[Jaywalking]]
+- [[Framing Effect]]

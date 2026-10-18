@@ -24,3 +24,4 @@ It's distinct from simply staying informed, which has a natural endpoint once th
 - [[Mindfulness]]
 - [[Curiosity]]
 - [[Boredom]]
+- [[Negativity Bias]]

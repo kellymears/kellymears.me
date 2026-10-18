@@ -23,3 +23,4 @@ The practical response designers converged on regardless is to route around the 
 - [[Skeletal Animation]]
 - [[Subsurface Scattering]]
 - [[Pareidolia]]
+- [[Prosopagnosia]]

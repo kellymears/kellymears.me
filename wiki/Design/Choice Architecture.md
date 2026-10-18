@@ -32,3 +32,4 @@ The same tools can be turned against people. A [[Dark Pattern]] is choice archit
 - [[Tesler's Law]]
 - [[Forcing Function]]
 - [[Goodhart's Law]]
+- [[Loss Aversion]]

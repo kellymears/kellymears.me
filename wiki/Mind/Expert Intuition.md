@@ -28,3 +28,4 @@ Expert patterns are also brittle outside their domain. The chess master's memory
 - [[Working Memory]]
 - [[Metacognition]]
 - [[Motor Learning]]
+- [[Choking Under Pressure]]

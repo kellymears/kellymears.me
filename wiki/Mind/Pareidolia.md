@@ -25,3 +25,4 @@ Designers use pareidolia deliberately. Car fronts are styled as friendly or aggr
 - [[Gestalt Principles]]
 - [[Uncanny Valley]]
 - [[Confirmation Bias]]
+- [[Prosopagnosia]]

@@ -33,3 +33,5 @@ The rule interacts with other memory effects. The [[Serial Position Effect]] als
 - [[Response Time Limits]]
 - [[Aesthetic-Usability Effect]]
 - [[Progress Indicator]]
+- [[Negativity Bias]]
+- [[Loss Aversion]]

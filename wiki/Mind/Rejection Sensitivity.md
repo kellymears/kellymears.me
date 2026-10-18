@@ -20,7 +20,7 @@ The mechanisms connect to familiar biases:
 What helps is mostly recognition and slowing down: naming the reaction ("this is the rejection feeling") before acting on it, checking the ambiguous evidence, and choosing environments that give explicit, kind feedback. Practices from code review culture apply directly. Feedback aimed at the work rather than the person, as in a [[Blameless Postmortem]], and written in clear [[Plain Language]] lowers the ambiguity that sensitized readers fill in for themselves.
 
 ## See also
-- [[Masking]]
+- [[ADHD]]
 - [[Self-Compassion]]
 - [[Impostor Syndrome]]
 - [[Cognitive Behavioral Therapy]]

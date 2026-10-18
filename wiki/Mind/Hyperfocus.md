@@ -22,7 +22,7 @@ Living well with hyperfocus is mostly about the edges. External timers and alarm
 ## See also
 - [[Flow]]
 - [[Monotropism]]
-- [[Time Blindness]]
+- [[ADHD]]
 - [[Executive Function]]
 - [[Interoception]]
 - [[Neurodiversity]]
