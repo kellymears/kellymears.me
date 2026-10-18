@@ -29,3 +29,4 @@ Personal wikis have become common as a private reference — the same mechanics,
 - [[Link Rot]]
 - [[Project Xanadu]]
 - [[Open Data]]
+- [[Eternal September]]

@@ -29,3 +29,4 @@ The concept links to broader questions of well-being. If satisfaction depends on
 - [[Matthew Effect]]
 - [[Planned Obsolescence]]
 - [[Collectible Card Game]]
+- [[Gift Economy]]

@@ -19,3 +19,4 @@ What the effect demonstrates regardless is that editing is authorship, not assem
 - [[Falsifiability]]
 - [[Prototype Theory]]
 - [[Naming]]
+- [[Unreliable Narrator]]

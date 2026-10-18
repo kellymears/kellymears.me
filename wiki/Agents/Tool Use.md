@@ -20,3 +20,4 @@ Several practical constraints repeat. Input schemas are typically validated by t
 - [[Guardrail]]
 - [[Fingerprint]]
 - [[Computer Use]]
+- [[Speech Act]]

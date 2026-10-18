@@ -22,3 +22,4 @@ The mechanism rhymes with [[Anchoring Effect]]: a proposal's plausibility is jud
 - [[Framing Effect]]
 - [[Pluralistic Ignorance]]
 - [[Euphemism Treadmill]]
+- [[Conceptual Metaphor]]

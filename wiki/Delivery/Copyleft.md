@@ -19,7 +19,7 @@ Running a program as a network service, rather than distributing copies, trigger
 Incompatible copyleft terms cannot legally combine in one distributed work, and a strong copyleft dependency arriving through a [[Package Manager]] can force a project's effective license upward — often caught in a [[Supply Chain Security]] audit rather than [[Code Review]]. Tracking [[Provenance]] and pinning versions in a [[Lockfile]] makes that catchable before release. [[Permissive License]] covers the alternative that drops the condition.
 
 ## See also
-- [[Permissive License]]
+- [[Gift Economy]]
 - [[The Cathedral and the Bazaar]]
 - [[Package Manager]]
 - [[Provenance]]

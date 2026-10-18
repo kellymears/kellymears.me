@@ -27,3 +27,4 @@ Because a prompt change cannot be type-checked, the only way to know whether it 
 - [[Chain-of-Thought Prompting]]
 - [[In-Context Learning]]
 - [[Priming]]
+- [[Implicature]]

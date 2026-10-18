@@ -23,7 +23,7 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 - [[Creole Language]]
 - [[Markdown]]
 - [[Information Architecture]]
-- [[Taxonomy]]
+- [[Social Capital]]
 - [[Linguistic Relativity]]
 - [[Knowledge Graph]]
 - [[Free Rider Problem]]

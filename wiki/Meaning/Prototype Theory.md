@@ -16,7 +16,7 @@ This is why arguments about whether a hot dog is a sandwich never resolve. Each 
 
 ## See also
 - [[Map and Territory]]
-- [[Naming]]
+- [[Implicature]]
 - [[Folk Etymology]]
 - [[Knowledge Graph]]
 - [[Linguistic Relativity]]

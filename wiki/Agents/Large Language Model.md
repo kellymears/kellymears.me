@@ -19,5 +19,5 @@ Models are typically offered in tiers trading capability against cost and latenc
 
 ## See also
 - [[Prompt]]
-- [[Agentic Loop]]
+- [[Implicature]]
 - [[Turing Test]]

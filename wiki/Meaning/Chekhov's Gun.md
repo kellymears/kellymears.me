@@ -21,3 +21,4 @@ A red herring exploits the same convention in reverse, planting false emphasis t
 - [[Falsifiability]]
 - [[Zeigarnik Effect]]
 - [[Telegraphing]]
+- [[Unreliable Narrator]]

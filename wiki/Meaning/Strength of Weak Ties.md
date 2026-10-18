@@ -29,3 +29,5 @@ Technical networks show the same structure. A few long-range links in a mostly l
 - [[Network Effect]]
 - [[Matthew Effect]]
 - [[Collective Action]]
+- [[Social Capital]]
+- [[Third Place]]

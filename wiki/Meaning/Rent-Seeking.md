@@ -13,7 +13,7 @@ Occupational licensing and lobbying are the canonical cases because the mechanis
 The empirical difficulty is real: licensing that exists to seek rent and licensing that exists to correct a genuine [[Externality]] — unsafe electrical work harms people who never chose the electrician — look identical from the outside, since both restrict entry and both raise incumbent incomes. Telling them apart needs a falsifiable prediction tested against outcomes rather than an assertion about motive, a matter of [[Falsifiability]] and [[Ground Truth]] rather than theory. A [[Principal-Agent Problem]] on the enacting side compounds the difficulty: legislators who rely on the regulated industry for the technical detail of a rule often produce a statute where both motives are genuinely present at once.
 
 ## See also
-- [[Regulatory Capture]]
+- [[Public Domain]]
 - [[Principal-Agent Problem]]
 - [[Externality]]
 - [[Path Dependence]]

@@ -18,7 +18,7 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Processing Fluency]]
 - [[Pareidolia]]
 - [[Texas Sharpshooter Fallacy]]
-- [[Base Rate Fallacy]]
+- [[Self-Fulfilling Prophecy]]
 - [[Steelmanning]]
 - [[Cognitive Dissonance]]
 - [[Sycophancy]]

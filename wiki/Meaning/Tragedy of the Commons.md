@@ -18,7 +18,7 @@ The sharpest correction is definitional: Hardin was describing **open access** â
 - [[Greenhouse Effect]]
 - [[Free Rider Problem]]
 - [[Open Source Sustainability]]
-- [[Congestion Control]]
+- [[Public Domain]]
 
 ## Related
 - [[Universal Basic Income]]

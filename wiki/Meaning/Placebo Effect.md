@@ -25,3 +25,4 @@ Placebo effects are strongest and most reliable for subjective, self-reported sy
 - [[Veblen Good]]
 - [[Gate Control Theory]]
 - [[Hawthorne Effect]]
+- [[Self-Fulfilling Prophecy]]

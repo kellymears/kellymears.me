@@ -20,7 +20,7 @@ Skeuomorphism is the clearest historical case study for [[Affordance]] because i
 - [[Dark Mode]]
 
 ## Related
-- [[Motion Design]]
+- [[Conceptual Metaphor]]
 - [[Diegetic Interface]]
 - [[Swiss Style]]
 - [[Aesthetic-Usability Effect]]

@@ -27,3 +27,4 @@ The phenomenon also matters for technology. Speech recognition and language mode
 - [[Grammatical Gender]]
 - [[Theory of Mind]]
 - [[Creole Language]]
+- [[Speech Act]]

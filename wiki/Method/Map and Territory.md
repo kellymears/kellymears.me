@@ -28,4 +28,4 @@ The practical habits follow: check the territory directly when stakes are high, 
 
 ## See also
 - [[Ontology]]
-- [[Procedural Rhetoric]]
+- [[Conceptual Metaphor]]

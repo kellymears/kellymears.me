@@ -17,7 +17,7 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 
 ## See also
 - [[Context-Free Grammar]]
-- [[Taxonomy]]
+- [[Conceptual Metaphor]]
 - [[Semantic Change]]
 
 ## Related

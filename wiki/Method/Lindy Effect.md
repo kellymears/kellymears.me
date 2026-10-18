@@ -32,3 +32,4 @@ It pairs with [[Chesterton's Fence]], which counsels understanding why something
 - [[Worse Is Better]]
 - [[Backward Compatibility]]
 - [[Radioactive Decay]]
+- [[Public Domain]]

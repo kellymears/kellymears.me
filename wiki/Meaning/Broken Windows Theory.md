@@ -24,3 +24,4 @@ The implementation costs are documented separately and little disputed. Enforcem
 - [[Static Analysis]]
 - [[Entropy]]
 - [[Normalization of Deviance]]
+- [[Eternal September]]

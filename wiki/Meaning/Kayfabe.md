@@ -20,3 +20,4 @@ The term migrated outward to describe any arrangement where insiders know a cont
 - [[Naming]]
 - [[Masking]]
 - [[Context Collapse]]
+- [[Speech Act]]

@@ -16,7 +16,7 @@ Legal ambiguity slows all of it down, the same [[Right to Repair]]-adjacent terr
 
 ## See also
 - [[Racing the Beam]]
-- [[Provenance]]
+- [[Public Domain]]
 - [[Emulation]]
 - [[Deprecation]]
 - [[Point-and-Click Adventure]]

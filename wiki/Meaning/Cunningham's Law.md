@@ -20,3 +20,4 @@ The uncomfortable edge is that the law describes a manipulation tactic as much a
 - [[Knowledge Graph]]
 - [[Steelmanning]]
 - [[Brandolini's Law]]
+- [[Implicature]]

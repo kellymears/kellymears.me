@@ -27,3 +27,4 @@ The practical lesson is to assume observation has some effect and to design arou
 ## See also
 - [[Regression to the Mean]]
 - [[Cobra Effect]]
+- [[Self-Fulfilling Prophecy]]

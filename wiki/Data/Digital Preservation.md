@@ -33,7 +33,7 @@ The field has shared standards. The OAIS reference model, an ISO standard first 
 Notable efforts include the Internet Archive's web captures, national libraries' web archiving, and Software Heritage, which archives public source code. They share a lesson: preservation is an ongoing process with recurring costs, not a one-time act. Data that nobody is actively responsible for will, eventually, be lost.
 
 ## See also
-- [[Character Encoding]]
+- [[Public Domain]]
 - [[Backward Compatibility]]
 - [[CSV]]
 - [[JPEG]]

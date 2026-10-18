@@ -31,5 +31,5 @@ Critics note the term is vivid but loose, sometimes applied to any product chang
 
 ## See also
 - [[Principal-Agent Problem]]
-- [[Recommender System]]
+- [[Eternal September]]
 - [[IndieWeb]]

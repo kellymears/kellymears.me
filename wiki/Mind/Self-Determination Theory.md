@@ -34,4 +34,4 @@ The needs map onto other ideas in this collection. Competence and absorption mee
 - [[Cozy Game]]
 - [[Locus of Control]]
 - [[Self-Efficacy]]
-- [[Magic Circle]]
+- [[Gift Economy]]

@@ -16,7 +16,7 @@ The lesson generalizes past words. Visible internal structure is evidence about 
 
 ## See also
 - [[Provenance]]
-- [[Plausible Mechanism]]
+- [[Conceptual Metaphor]]
 - [[Malaphor]]
 - [[Prototype Theory]]
 - [[Ground Truth]]

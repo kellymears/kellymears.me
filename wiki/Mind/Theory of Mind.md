@@ -28,6 +28,6 @@ Machines raised the question again in 2023, when [[Large Language Model]] system
 - [[Social Deduction Game]]
 - [[Turing Test]]
 - [[ELIZA Effect]]
-- [[Parasocial Relationship]]
+- [[Speech Act]]
 - [[Aphantasia]]
 - [[Prosopagnosia]]

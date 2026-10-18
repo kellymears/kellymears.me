@@ -20,3 +20,4 @@ The effect creates a genuine ethical bind in medicine: informed consent requires
 - [[Central Sensitization]]
 - [[Classical Conditioning]]
 - [[Low Back Pain]]
+- [[Self-Fulfilling Prophecy]]

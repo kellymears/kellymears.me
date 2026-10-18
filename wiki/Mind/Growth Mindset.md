@@ -29,3 +29,4 @@ Teams show a similar dynamic. When mistakes are treated as evidence of incompete
 - [[Self-Compassion]]
 - [[Self-Determination Theory]]
 - [[Metacognition]]
+- [[Self-Fulfilling Prophecy]]

@@ -18,7 +18,7 @@ Network effects are often confused with switching costs, and the two are related
 - [[Regulatory Capture]]
 - [[Strength of Weak Ties]]
 - [[Small-World Network]]
-- [[Legibility]]
+- [[Social Capital]]
 - [[Internet Exchange Point]]
 - [[Stable Matching]]
 - [[Pareto Principle]]

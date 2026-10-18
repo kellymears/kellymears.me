@@ -34,5 +34,5 @@ The concept reaches well beyond interfaces. [[Information Architecture]] organiz
 ## See also
 - [[Card Sorting]]
 - [[Signifier]]
-- [[Map and Territory]]
+- [[Conceptual Metaphor]]
 - [[Direct Manipulation]]

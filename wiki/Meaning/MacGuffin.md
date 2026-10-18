@@ -20,3 +20,4 @@ Both rely on the same trick as [[Chekhov's Gun]]: an object earns narrative weig
 - [[Fair-Play Mystery]]
 - [[Prototype Theory]]
 - [[Environmental Storytelling]]
+- [[Unreliable Narrator]]

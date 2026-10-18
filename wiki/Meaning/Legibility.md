@@ -15,7 +15,7 @@ The pattern recurs below the level of the state. A [[Taxonomy]] built purely for
 This is the social-scale sibling of [[Goodhart's Law]]: the same simplification that makes a system governable is what makes it gameable, because the map, not the territory, is what gets optimized against. [[Information Architecture]] and [[Plain Language]] are legibility used well, when the simplification is checked against what the reader needs rather than only what the administrator needs.
 
 ## See also
-- [[Goodhart's Law]]
+- [[Social Capital]]
 - [[Taxonomy]]
 - [[Naming]]
 - [[Chesterton's Fence]]

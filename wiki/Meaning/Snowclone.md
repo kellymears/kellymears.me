@@ -19,4 +19,4 @@ It is deliberate where its cousins are accidents of production — nobody sets o
 - [[Mondegreen]]
 - [[Semantic Change]]
 - [[Retronym]]
-- [[Network Effect]]
+- [[Conceptual Metaphor]]

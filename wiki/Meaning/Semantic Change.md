@@ -35,3 +35,4 @@ Semantic change also connects to how categories work, with central meanings shif
 - [[Retronym]]
 - [[Snowclone]]
 - [[Linguistic Relativity]]
+- [[Implicature]]

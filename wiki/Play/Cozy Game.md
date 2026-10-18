@@ -30,3 +30,4 @@ Related forms include [[Idle Game]] structures, management games such as the [[C
 - [[Assist Mode]]
 - [[Time as Resource]]
 - [[Magic Circle]]
+- [[Third Place]]

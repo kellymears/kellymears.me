@@ -14,7 +14,7 @@ The word is also overused. "Capture" can function as a [[Plausible Mechanism]] t
 
 ## See also
 - [[Rent-Seeking]]
-- [[Principal-Agent Problem]]
+- [[Public Domain]]
 - [[Externality]]
 - [[Falsifiability]]
 - [[Net Neutrality]]

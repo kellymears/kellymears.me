@@ -29,6 +29,6 @@ Counterweights exist. Blind review, lotteries for grant funding among qualified 
 ## See also
 - [[PageRank]]
 - [[Rent-Seeking]]
-- [[Dunbar's Number]]
+- [[Self-Fulfilling Prophecy]]
 - [[Recommender System]]
 - [[Small-World Network]]

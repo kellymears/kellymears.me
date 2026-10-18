@@ -34,4 +34,4 @@ Low self-efficacy is a quiet driver of [[Procrastination]] and [[Demand Avoidanc
 - [[Choking Under Pressure]]
 - [[Rejection Sensitivity]]
 - [[Growth Mindset]]
-- [[Cognitive Behavioral Therapy]]
+- [[Self-Fulfilling Prophecy]]

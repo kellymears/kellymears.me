@@ -27,7 +27,7 @@ That shadow fails when interactions are one-off or anonymous, which is one reaso
 The model has critics. Real people cooperate more than the theory predicts in one-shot games, often punishing unfairness at a cost to themselves. And the label can become self-fulfilling: assuming everyone defects can make defection rational.
 
 ## See also
-- [[Principal-Agent Problem]]
+- [[Gift Economy]]
 - [[Social Deduction Game]]
 - [[BitTorrent]]
 - [[Rent-Seeking]]

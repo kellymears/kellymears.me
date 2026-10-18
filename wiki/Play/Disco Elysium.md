@@ -13,7 +13,7 @@ The game is often cited for treating [[Ludonarrative Dissonance]] as solved, sin
 
 ## See also
 - [[Skill Check]]
-- [[Computer Role-Playing Game]]
+- [[Unreliable Narrator]]
 - [[Ludonarrative Dissonance]]
 - [[Environmental Storytelling]]
 - [[Tabletop Role-Playing Game]]

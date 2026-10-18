@@ -34,5 +34,5 @@ Inside a [[Wiki]], internal links can be checked mechanically: a link to a page 
 - [[Object Storage]]
 - [[Project Xanadu]]
 - [[URL]]
-- [[Data Lineage]]
+- [[Public Domain]]
 - [[Digital Preservation]]

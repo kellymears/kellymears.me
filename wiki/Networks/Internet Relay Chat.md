@@ -27,3 +27,4 @@ IRC conventions passed into later chat apps: channels with hash names, `/me` act
 ## See also
 - [[Peer-to-Peer]]
 - [[MQTT]]
+- [[Third Place]]
