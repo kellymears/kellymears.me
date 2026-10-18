@@ -23,7 +23,7 @@ Several practical points recur:
 - [[Three-Way Merge]]
 - [[Rebase]]
 - [[Semantic Conflict]]
-- [[Ground Truth]]
+- [[Jujutsu]]
 - [[Stacked Pull Requests]]
 
 ## Related
@@ -35,3 +35,5 @@ Several practical points recur:
 - [[Local-First Software]]
 - [[Diff]]
 - [[Git Stash]]
+- [[Subversion]]
+- [[Perforce]]

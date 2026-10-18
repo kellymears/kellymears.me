@@ -29,7 +29,7 @@ The reflog changes how people use Git. Knowing that history rewriting is recover
 Remote repositories have their own protections. Force-pushing over a shared branch can destroy history for everyone who has not fetched it, which is why [[Branch Protection]] rules often forbid it. For finding which commit introduced a bug rather than recovering a lost one, the tool is [[Git Bisect]].
 
 ## See also
-- [[Commit]]
+- [[Jujutsu]]
 - [[Git Stash]]
 - [[Interactive Rebase]]
 - [[Persistent Data Structure]]

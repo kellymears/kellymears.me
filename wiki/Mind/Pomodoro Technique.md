@@ -23,7 +23,7 @@ The common criticism concerns [[Flow]]. A timer that rings just as concentration
 Pomodoro is a specific form of the broader practice of *timeboxing*, allotting a fixed time to a task and stopping when it ends, which is also used for meetings, spikes, and investigations so they don't drift into a [[Rabbit Hole]]. Shared online pomodoro sessions combine it with [[Body Doubling]].
 
 ## See also
-- [[ADHD]]
+- [[Shape Up]]
 - [[Napping]]
 - [[Vigilance Decrement]]
 - [[Implementation Intention]]

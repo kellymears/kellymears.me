@@ -19,7 +19,7 @@ The defense isn't refusing all requests — it's requiring that a new feature's 
 - [[You Aren't Gonna Need It]]
 - [[Dieter Rams]]
 - [[Law of Triviality]]
-- [[Hick's Law]]
+- [[Shape Up]]
 
 ## Related
 - [[Parkinson's Law]]

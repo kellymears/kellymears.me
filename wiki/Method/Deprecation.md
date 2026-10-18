@@ -14,7 +14,7 @@ The removal half is where deprecations actually fail. Retiring a component leave
 Version numbering is how deprecations are communicated at the package boundary; see [[Semantic Versioning]].
 
 ## See also
-- [[Documentation Rot]]
+- [[Yanked Release]]
 - [[Backward Compatibility]]
 - [[Retronym]]
 - [[Regression]]

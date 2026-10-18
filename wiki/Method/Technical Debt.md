@@ -27,6 +27,6 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 - [[Code Comment]]
 - [[Premature Optimization]]
 - [[Refactoring]]
-- [[Spreadsheet]]
+- [[Issue Tracker]]
 - [[Hyperbolic Discounting]]
 - [[Opportunity Cost]]

@@ -34,3 +34,4 @@ Both mechanisms record intent rather than prove it. They create a paper trail ty
 - [[Code Owners]]
 - [[Commit Message]]
 - [[Open Core]]
+- [[Email Patch Workflow]]

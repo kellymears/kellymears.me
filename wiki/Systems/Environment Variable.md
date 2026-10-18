@@ -15,7 +15,7 @@ Directory-scoped environment loaders make per-project variables ergonomic, which
 
 ## See also
 - [[Shell]]
-- [[Secret Management]]
+- [[Gitignore]]
 - [[Dotfiles]]
 - [[Common Gateway Interface]]
 - [[Command-Line Interface]]

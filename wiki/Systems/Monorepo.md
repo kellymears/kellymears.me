@@ -21,7 +21,7 @@ Package managers support the pattern through *workspaces*: a root manifest listi
 - [[Version Control]]
 
 ## Related
-- [[Supply Chain Security]]
+- [[Perforce]]
 - [[Semantic Versioning]]
 - [[Bundler]]
 - [[Inner Source]]

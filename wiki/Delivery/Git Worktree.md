@@ -19,7 +19,7 @@ The complications are all about the things a worktree does *not* isolate.
 
 ## See also
 - [[Version Control]]
-- [[Race Condition]]
+- [[Jujutsu]]
 - [[Environment Variable]]
 - [[Port]]
 - [[Subagent]]
@@ -33,3 +33,4 @@ The complications are all about the things a worktree does *not* isolate.
 - [[Git Submodule]]
 - [[Git Stash]]
 - [[Shallow Clone]]
+- [[Gitignore]]

@@ -23,7 +23,7 @@ The practical consequences are that a major bump deserves a migration path and a
 - [[Protestware]]
 - [[API Versioning]]
 - [[Monorepo]]
-- [[Secret Management]]
+- [[Yanked Release]]
 - [[Bundler]]
 - [[Changelog]]
 - [[Release Train]]

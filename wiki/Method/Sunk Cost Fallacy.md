@@ -28,7 +28,7 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 - [[Post Office Horizon Scandal]]
 - [[Gambler's Fallacy]]
 - [[Commitment Device]]
-- [[Opportunity Cost]]
+- [[Shape Up]]
 - [[Battle Pass]]
 - [[Speculative Bubble]]
 - [[Big Rewrite]]

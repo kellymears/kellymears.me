@@ -29,6 +29,6 @@ The essay's lasting point is that openness and frequent feedback can beat carefu
 ## See also
 - [[Heartbleed]]
 - [[Software Inspection]]
-- [[XZ Utils Backdoor]]
+- [[Email Patch Workflow]]
 - [[Benevolent Dictator for Life]]
 - [[Wisdom of the Crowd]]

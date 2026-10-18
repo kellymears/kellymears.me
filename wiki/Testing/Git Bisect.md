@@ -29,5 +29,5 @@ Bisection is the simplest version of [[Delta Debugging]], which generalizes the 
 - [[Spectrum-Based Fault Localization]]
 - [[Scientific Debugging]]
 - [[Git Revert]]
-- [[Regression Testing]]
+- [[Gerrit]]
 - [[Interactive Rebase]]

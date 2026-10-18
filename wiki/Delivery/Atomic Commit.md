@@ -16,7 +16,7 @@ Two notes for shared working copies. Stage by explicit path — a bulk add captu
 ## See also
 - [[Commit]]
 - [[Conventional Commits]]
-- [[Code Review]]
+- [[Subversion]]
 - [[Regression]]
 - [[Squash Merge]]
 

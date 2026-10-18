@@ -22,9 +22,9 @@ Several failure modes are worth knowing because they all produce a *false* green
 ## See also
 - [[Build System]]
 - [[Extreme Programming]]
-- [[Merge Train]]
+- [[Gerrit]]
 - [[Build Matrix]]
-- [[Branching Model]]
+- [[Andon Cord]]
 - [[Semantic Conflict]]
 - [[Smoke Test]]
 - [[DevOps]]

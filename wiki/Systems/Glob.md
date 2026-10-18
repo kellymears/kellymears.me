@@ -31,3 +31,4 @@ The habit that closes all three: enumerate what the pattern matches before relyi
 - [[Root Cause Analysis]]
 - [[POSIX]]
 - [[Command-Line Interface]]
+- [[Gitignore]]

@@ -26,7 +26,7 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 
 ## Related
 - [[Left-Pad Incident]]
-- [[Module Graph]]
+- [[Yanked Release]]
 - [[Topological Sort]]
 - [[P versus NP Problem]]
 - [[Dependency Hell]]

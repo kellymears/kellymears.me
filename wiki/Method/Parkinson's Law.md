@@ -18,7 +18,7 @@ The practical use of the law is as a scheduling lever rather than a complaint: a
 - [[Ninety-Ninety Rule]]
 - [[Feature Creep]]
 - [[Second-System Effect]]
-- [[Time Blindness]]
+- [[Shape Up]]
 - [[Pomodoro Technique]]
 - [[Procrastination]]
 - [[Yerkes-Dodson Law]]

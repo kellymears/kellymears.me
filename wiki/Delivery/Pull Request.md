@@ -23,9 +23,9 @@ Two mechanical notes. Changing only the target branch of a pull request does not
 - [[Branching Model]]
 
 ## Related
-- [[Trunk-Based Development]]
+- [[Email Patch Workflow]]
 - [[Merge Train]]
-- [[Provenance]]
+- [[Gerrit]]
 - [[Ephemeral Environment]]
 - [[Code Owners]]
 - [[Diff]]

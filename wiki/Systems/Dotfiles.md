@@ -26,7 +26,7 @@ Package manifests belong here too: a declarative list of installed software make
 - [[Terminal User Interface]]
 - [[Command-Line Interface]]
 - [[Time Zone]]
-- [[Secret Management]]
+- [[Gitignore]]
 - [[Containerization]]
 - [[Configuration Management]]
 - [[Atomic File Write]]

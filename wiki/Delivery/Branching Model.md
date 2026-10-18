@@ -15,9 +15,9 @@ The model also determines what a merge means and therefore what history looks li
 
 ## See also
 - [[Hotfix]]
-- [[Pull Request]]
+- [[Subversion]]
 - [[Branch by Abstraction]]
-- [[Version Control]]
+- [[Perforce]]
 
 ## Related
 - [[Three-Way Merge]]

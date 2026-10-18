@@ -18,3 +18,5 @@ Its characteristic failure mode is the **deadlock**: transaction A holds a lock 
 - [[Two-Phase Commit]]
 - [[Deadlock]]
 - [[Isolation Level]]
+- [[Subversion]]
+- [[Perforce]]

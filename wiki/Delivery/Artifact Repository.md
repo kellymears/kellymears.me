@@ -33,7 +33,7 @@ Storage grows quickly, since every build of every branch produces artifacts. Ret
 
 ## See also
 - [[SolarWinds Hack]]
-- [[Vendoring]]
-- [[Twelve-Factor App]]
+- [[Yanked Release]]
+- [[Perforce]]
 - [[Dependency Confusion]]
 - [[Git LFS]]

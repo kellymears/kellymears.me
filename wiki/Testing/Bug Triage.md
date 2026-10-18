@@ -32,4 +32,4 @@ Crash reporters such as those in [[Crash Reporting]] do part of this automatical
 - [[Exploratory Testing]]
 - [[Post Office Horizon Scandal]]
 - [[Error Message]]
-- [[Bus Factor]]
+- [[Issue Tracker]]

@@ -19,7 +19,7 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[Five Whys]]
 - [[Mean Time to Recovery]]
 - [[Hanlon's Razor]]
-- [[Fundamental Attribution Error]]
+- [[Andon Cord]]
 - [[Checklist]]
 
 ## Related

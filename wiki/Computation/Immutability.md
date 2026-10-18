@@ -18,7 +18,7 @@ Immutability and [[Pure Function]]s reinforce each other: a pure function is eas
 - [[Memory Model]]
 - [[Closure]]
 - [[Ship of Theseus]]
-- [[Copy-on-Write]]
+- [[Yanked Release]]
 - [[State Management]]
 - [[Soft Delete]]
 - [[Log-Structured Merge Tree]]

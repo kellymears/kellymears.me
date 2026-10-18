@@ -22,9 +22,9 @@ A second: how installed packages are laid out on disk is a property of the packa
 ## Related
 - [[Protestware]]
 - [[Left-Pad Incident]]
-- [[Module Graph]]
+- [[Yanked Release]]
 - [[Software Bill of Materials]]
-- [[Reproducible Build]]
+- [[Gitignore]]
 - [[Dependency Hell]]
 - [[Vendoring]]
 - [[Automated Dependency Updates]]

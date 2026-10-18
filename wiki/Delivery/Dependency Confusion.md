@@ -31,7 +31,7 @@ The problem is an example of a broader rule: names are a weak form of identity. 
 Dependency confusion is one branch of [[Supply Chain Security]]. A [[Software Bill of Materials]] helps answer the question that follows every such incident: which of our builds installed it?
 
 ## See also
-- [[Dependency Hell]]
+- [[Yanked Release]]
 - [[Vendoring]]
 - [[Penetration Testing]]
 - [[Threat Modeling]]

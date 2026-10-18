@@ -20,7 +20,7 @@ Three practical notes.
 
 ## See also
 - [[Entropy Pool]]
-- [[Environment Variable]]
+- [[Gitignore]]
 - [[Enigma Machine]]
 - [[Server-Side Request Forgery]]
 - [[Defensive Default]]

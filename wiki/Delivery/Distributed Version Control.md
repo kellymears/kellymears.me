@@ -29,5 +29,5 @@ The model has costs. Full copies of history grow large, and Git handles big bina
 The same ideas show up elsewhere. Applications that keep a full local copy and sync changes later borrow from distributed version control; see [[Local-First Software]].
 
 ## See also
-- [[The Cathedral and the Bazaar]]
-- [[Shallow Clone]]
+- [[Subversion]]
+- [[Perforce]]

@@ -17,7 +17,7 @@ The implementation costs are documented separately and little disputed. Enforcem
 ## See also
 - [[Lehman's Laws of Software Evolution]]
 - [[Plausible Mechanism]]
-- [[Ground Truth]]
+- [[Issue Tracker]]
 - [[Root Cause Analysis]]
 - [[Collective Action]]
 - [[Griefing]]

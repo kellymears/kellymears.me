@@ -34,5 +34,5 @@ The same ideas appear outside programming languages. Git stores history as a per
 - [[Lisp]]
 - [[Ship of Theseus]]
 - [[Self-Balancing Binary Search Tree]]
-- [[Undo]]
+- [[Jujutsu]]
 - [[Linked List]]

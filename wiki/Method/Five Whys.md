@@ -26,3 +26,4 @@ Five Whys works best as a prompt to keep asking, paired with a [[Blameless Postm
 - [[Jobs to Be Done]]
 - [[Fault Tree Analysis]]
 - [[First Principles Thinking]]
+- [[Andon Cord]]

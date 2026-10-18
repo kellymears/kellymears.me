@@ -32,7 +32,7 @@ SLOs depend on good measurement, the territory of [[Observability]]. They also d
 ## See also
 - [[Status Page]]
 - [[Dashboard]]
-- [[Tail Latency]]
+- [[Andon Cord]]
 - [[Margin of Safety]]
 - [[Synthetic Monitoring]]
 - [[Site Reliability Engineering]]

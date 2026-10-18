@@ -32,7 +32,7 @@ The **minimum viable product** applies the same reasoning to the business: the s
 The common pitfall is gold-plating the skeleton, adding the features and abstractions it was meant to postpone; see [[You Aren't Gonna Need It]]. Unfinished paths can ship to production hidden behind switches, so the skeleton grows on the main branch rather than in a long-lived one; see [[Feature Flag]] and [[Trunk-Based Development]].
 
 ## See also
-- [[Planning Fallacy]]
+- [[Shape Up]]
 - [[Big Rewrite]]
 - [[Extreme Programming]]
 - [[User Story]]

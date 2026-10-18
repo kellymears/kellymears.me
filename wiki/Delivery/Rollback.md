@@ -18,12 +18,12 @@ The alternative discipline is "fix forward": rather than reverting, ship a fix a
 
 ## Related
 - [[Zero-Downtime Deployment]]
-- [[Immutable Infrastructure]]
+- [[Andon Cord]]
 - [[Reversible Decision]]
 - [[AT&T Network Collapse of 1990]]
 - [[Expand and Contract]]
 - [[Code Freeze]]
-- [[Undo]]
+- [[Yanked Release]]
 - [[Hotfix]]
 - [[Git Revert]]
 - [[Progressive Delivery]]

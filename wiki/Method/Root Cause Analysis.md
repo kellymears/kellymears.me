@@ -22,5 +22,5 @@ The same instinct applies one level up. When a fix introduces a [[Regression]], 
 - [[Hindsight Bias]]
 - [[Mars Climate Orbiter]]
 - [[Scientific Debugging]]
-- [[Logging]]
+- [[Andon Cord]]
 - [[Jobs to Be Done]]

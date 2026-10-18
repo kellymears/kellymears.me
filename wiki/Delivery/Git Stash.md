@@ -33,6 +33,6 @@ Stash still earns daily use for small moves: pulling with a dirty tree, carrying
 
 ## See also
 - [[Rebase]]
-- [[Atomic Commit]]
-- [[Version Control]]
+- [[Jujutsu]]
+- [[Gitignore]]
 - [[Cherry-Pick]]

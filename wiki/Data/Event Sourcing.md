@@ -22,7 +22,7 @@ The cost is that querying "current state" now requires either replaying potentia
 - [[Multiversion Concurrency Control]]
 - [[Persistent Data Structure]]
 - [[Stream Processing]]
-- [[Undo]]
+- [[Jujutsu]]
 - [[Schema Evolution]]
 - [[Serialization]]
 - [[Data Retention]]

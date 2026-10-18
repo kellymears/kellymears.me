@@ -24,5 +24,5 @@ The log doubles as a [[Provenance]] trail for every mutation, which is why it fe
 
 ## Related
 - [[SQLite]]
-- [[Seed Data]]
+- [[Jujutsu]]
 - [[Record and Replay Testing]]

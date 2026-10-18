@@ -25,9 +25,9 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 - [[Spectrum-Based Fault Localization]]
 - [[Developer Experience]]
 - [[Systematic Concurrency Testing]]
-- [[Regression]]
+- [[Issue Tracker]]
 - [[Test Isolation]]
-- [[End-to-End Test]]
+- [[Andon Cord]]
 - [[Deterministic Simulation Testing]]
 
 ## Related

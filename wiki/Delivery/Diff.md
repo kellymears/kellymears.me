@@ -26,9 +26,9 @@ Diffs underlie merging. A [[Three-Way Merge]] compares each branch with their co
 Line-based diffs know nothing about code structure. Renaming a variable or reformatting produces noisy diffs that hide the real change, one reason teams adopt an automatic [[Code Formatter]] and keep each change small and [[Atomic Commit]]-sized. Structural diff tools parse the code into an [[Abstract Syntax Tree]] and compare trees instead.
 
 ## See also
-- [[Pull Request]]
+- [[Gerrit]]
 - [[Git Blame]]
-- [[Cherry-Pick]]
+- [[Email Patch Workflow]]
 - [[Commit Message]]
 - [[Patch Tuesday]]
 - [[Histogram]]

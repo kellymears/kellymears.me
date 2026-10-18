@@ -19,7 +19,7 @@ Two things merges cannot do.
 There is also a duplication hazard: two branches that each added the same content in the same place can merge with no conflict markers and produce it twice, which a compiler catches and a reader might not.
 
 ## See also
-- [[Merge Conflict]]
+- [[Subversion]]
 - [[Rebase]]
 - [[Semantic Conflict]]
 - [[Version Control]]

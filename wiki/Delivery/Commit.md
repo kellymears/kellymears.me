@@ -18,15 +18,15 @@ Staging deserves care in shared working directories: a bulk "add everything" swe
 - [[Conventional Commits]]
 - [[Commit Message]]
 - [[Interactive Rebase]]
-- [[Squash Merge]]
+- [[Jujutsu]]
 - [[Rebase]]
 
 ## Related
 - [[Three-Way Merge]]
 - [[Git Revert]]
 - [[Diff]]
-- [[Merkle Tree]]
+- [[Subversion]]
 - [[Git Hook]]
 - [[Cherry-Pick]]
-- [[Git Bisect]]
+- [[Gitignore]]
 - [[Commit Signing]]

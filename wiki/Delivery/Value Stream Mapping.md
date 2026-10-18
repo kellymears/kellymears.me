@@ -30,3 +30,4 @@ The method has limits. A map is a snapshot built from people's estimates, and it
 - [[Platform Engineering]]
 - [[Release Train]]
 - [[Sankey Diagram]]
+- [[Andon Cord]]

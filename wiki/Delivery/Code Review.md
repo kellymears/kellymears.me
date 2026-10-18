@@ -16,10 +16,10 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 ## See also
 - [[Definition of Done]]
 - [[Inner Source]]
-- [[Commit Message]]
+- [[Gerrit]]
 - [[Heartbleed]]
 - [[Software Inspection]]
-- [[Vigilance Decrement]]
+- [[Email Patch Workflow]]
 - [[Theory of Constraints]]
 
 ## Related

@@ -30,9 +30,9 @@ Compared with Scrum, the most common [[Agile Software Development]] framework, K
 Kanban's metrics connect to delivery performance more broadly. Cycle time on the board is a local version of lead time in [[DORA Metrics]], and both reward small batches. A team that limits WIP and shrinks work items tends to deploy more often and fail less, for the same underlying reason.
 
 ## See also
-- [[User Story]]
+- [[Issue Tracker]]
 - [[Definition of Done]]
 - [[Value Stream Mapping]]
 - [[DevOps]]
 - [[Theory of Constraints]]
-- [[Daily Standup]]
+- [[Shape Up]]

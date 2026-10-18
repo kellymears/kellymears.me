@@ -33,3 +33,4 @@ Teams usually estimate stories in relative units and track them on a shared boar
 - [[Agile Software Development]]
 - [[Requirements Traceability]]
 - [[Daily Standup]]
+- [[Issue Tracker]]

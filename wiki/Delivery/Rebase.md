@@ -26,7 +26,7 @@ Several things about rebasing are worth knowing concretely.
 
 ## Related
 - [[Merge Train]]
-- [[Version Control]]
+- [[Jujutsu]]
 - [[Regression]]
 - [[Retcon]]
 - [[Trunk-Based Development]]
