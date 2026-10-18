@@ -27,6 +27,6 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 ## Related
 - [[Daemon]]
 - [[Distributed Tracing]]
-- [[Tail Latency]]
+- [[Status Page]]
 - [[Columnar Storage]]
 - [[Service Level Objective]]

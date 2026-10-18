@@ -31,4 +31,4 @@ Tooling can automate much of it. With [[Conventional Commits]], a `feat:` or `fi
 - [[Git Tag]]
 - [[Commit Message]]
 - [[Deprecation]]
-- [[Release Train]]
+- [[Docs as Code]]

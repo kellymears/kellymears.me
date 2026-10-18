@@ -15,9 +15,9 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 
 ## See also
 - [[Deprecation]]
-- [[Documentation Rot]]
+- [[Definition of Done]]
 - [[You Aren't Gonna Need It]]
-- [[Root Cause Analysis]]
+- [[Big Rewrite]]
 - [[Feature Flag]]
 - [[Characterization Test]]
 

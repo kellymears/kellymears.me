@@ -23,7 +23,7 @@ The practice scales down well — it is close to what a single developer natural
 - [[Squash Merge]]
 
 ## Related
-- [[Pull Request]]
+- [[Branch by Abstraction]]
 - [[Three-Way Merge]]
 - [[Git Revert]]
 - [[Cherry-Pick]]

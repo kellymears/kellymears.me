@@ -21,7 +21,7 @@ Interoperability has improved: browser makers now jointly pick problem areas eac
 
 ## See also
 - [[World Wide Web]]
-- [[Polyfill]]
+- [[Big Rewrite]]
 - [[Quirks Mode]]
 - [[Cross-Browser Testing]]
 - [[GIF]]

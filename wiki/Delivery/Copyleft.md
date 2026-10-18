@@ -22,7 +22,7 @@ Incompatible copyleft terms cannot legally combine in one distributed work, and 
 - [[Gift Economy]]
 - [[The Cathedral and the Bazaar]]
 - [[Benevolent Dictator for Life]]
-- [[Provenance]]
+- [[Open Core]]
 - [[Commons-Based Peer Production]]
 - [[Software Bill of Materials]]
 - [[Software Fork]]

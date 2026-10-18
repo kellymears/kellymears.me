@@ -26,3 +26,4 @@ The defense isn't refusing improvements — it's keeping the same discipline tha
 - [[Platform Engineering]]
 - [[Refactoring]]
 - [[You Aren't Gonna Need It]]
+- [[Big Rewrite]]

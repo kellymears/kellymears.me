@@ -35,7 +35,7 @@ Agile's ideas fed into later movements. DevOps extended the feedback loop past d
 
 ## See also
 - [[Cone of Uncertainty]]
-- [[Hofstadter's Law]]
+- [[Definition of Done]]
 - [[Story Points]]
 - [[DevOps]]
 - [[Fresh Start Effect]]

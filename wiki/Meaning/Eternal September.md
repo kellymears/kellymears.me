@@ -26,6 +26,6 @@ The term carries some snobbery. Newcomers have always been treated as a problem 
 
 ## See also
 - [[Wiki]]
-- [[Tragedy of the Commons]]
+- [[Code of Conduct]]
 - [[Pluralistic Ignorance]]
 - [[Modem]]

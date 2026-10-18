@@ -19,7 +19,7 @@ Governance strains as a project grows. Early contributors often accumulate outsi
 - [[Gift Economy]]
 - [[Open Data]]
 - [[Internet Relay Chat]]
-- [[Free Rider Problem]]
+- [[Open Core]]
 - [[Prisoner's Dilemma]]
 - [[The Cathedral and the Bazaar]]
 - [[Open Source Sustainability]]

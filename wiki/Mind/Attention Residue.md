@@ -24,7 +24,7 @@ Several practices follow:
 ## See also
 - [[Calm Technology]]
 - [[Flow]]
-- [[Monotropism]]
+- [[Developer Experience]]
 - [[Modal Dialog]]
 - [[Attention Economy]]
 - [[Doomscrolling]]

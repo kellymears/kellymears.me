@@ -28,7 +28,7 @@ What survives is a modest but useful point: attention for relationships is finit
 
 ## See also
 - [[Eternal September]]
-- [[Context Collapse]]
+- [[Code of Conduct]]
 - [[Gift Economy]]
 - [[Groupthink]]
 - [[Strength of Weak Ties]]

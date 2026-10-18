@@ -23,6 +23,6 @@ The hard part is side effects. A shadowed request that writes to a database, cha
 Shadow traffic fits into a progression of release safety. Shadowing tests with real input and no user exposure. A [[Canary Release]] then exposes a small fraction of users. [[Blue-Green Deployment]] makes switching between versions instant, and a [[Rollback]] undoes a bad release. Each step depends on [[Observability]] to see what the new version is doing. Recording traffic to replay later, as in [[Record and Replay Testing]], is the offline cousin of the same idea.
 
 ## See also
-- [[Synthetic Monitoring]]
+- [[Branch by Abstraction]]
 - [[Staging Environment]]
 - [[Zero-Downtime Deployment]]

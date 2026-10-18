@@ -30,3 +30,4 @@ The theory has critics, who note that real systems often have shifting or multip
 - [[Brooks's Law]]
 - [[Pareto Principle]]
 - [[Resource Starvation]]
+- [[Value Stream Mapping]]

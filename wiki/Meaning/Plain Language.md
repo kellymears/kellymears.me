@@ -22,7 +22,7 @@ Two writing habits are worth naming as failure modes because they are so easy to
 - [[Linguistic Relativity]]
 - [[Microcopy]]
 - [[Typographic Scale]]
-- [[Accessibility]]
+- [[Docs as Code]]
 - [[Cognitive Load]]
 - [[Curse of Knowledge]]
 - [[Behavior-Driven Development]]

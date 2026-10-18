@@ -16,7 +16,7 @@ At scale the interesting problems become taxonomic: whether structure should be 
 
 ## See also
 - [[Hamburger Menu]]
-- [[Autocomplete]]
+- [[Docs as Code]]
 - [[Headless CMS]]
 - [[Card Sorting]]
 - [[Rent Strike]]

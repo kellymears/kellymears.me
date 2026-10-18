@@ -30,6 +30,6 @@ Like any target, MTTR can be gamed. Closing incidents quickly, splitting one lon
 The more durable idea is the design goal behind the metric: build systems and teams that expect failure and are good at recovering from it; see [[Site Reliability Engineering]] and [[Service Level Objective]].
 
 ## See also
-- [[Crash-Only Software]]
+- [[Status Page]]
 - [[Bathtub Curve]]
 - [[Pets vs Cattle]]

@@ -33,3 +33,4 @@ Both mechanisms record intent rather than prove it. They create a paper trail ty
 - [[Supply Chain Security]]
 - [[Code Owners]]
 - [[Commit Message]]
+- [[Open Core]]

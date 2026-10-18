@@ -35,3 +35,4 @@ Critics note that real organizations rarely fit four boxes and that the model sa
 - [[DORA Metrics]]
 - [[Data Mesh]]
 - [[Inner Source]]
+- [[Value Stream Mapping]]

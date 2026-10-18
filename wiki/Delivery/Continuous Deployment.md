@@ -24,7 +24,7 @@ The only honest verification is to reproduce the deployment path end to end — 
 ## Related
 - [[Vacuous Truth]]
 - [[Trunk-Based Development]]
-- [[Silent Failure]]
+- [[Definition of Done]]
 - [[Deployment Pipeline]]
 - [[DORA Metrics]]
 - [[Code Freeze]]

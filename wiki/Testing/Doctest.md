@@ -34,3 +34,4 @@ A related idea runs the other way: tests written to read as documentation. [[Beh
 - [[Test Oracle]]
 - [[Naming]]
 - [[Shift-Left Testing]]
+- [[Docs as Code]]

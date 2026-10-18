@@ -33,7 +33,7 @@ Whatever the scheme, the goal is the same: a version number that answers the que
 
 ## See also
 - [[ISO 8601]]
-- [[Release Train]]
+- [[API Versioning]]
 - [[Long-Term Support]]
 - [[Backward Compatibility]]
 - [[Git Tag]]

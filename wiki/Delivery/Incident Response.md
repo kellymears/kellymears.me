@@ -29,7 +29,7 @@ After the incident comes the review. A [[Blameless Postmortem]] reconstructs wha
 Teams practice before real outages. Game days and [[Chaos Engineering]] inject failures on purpose so responders rehearse the process and find gaps in alerts and runbooks. On-call load is also a health signal: frequent pages wear people down and drive turnover, and a high [[Bus Factor]] risk appears when only one person knows how to fix a system.
 
 ## See also
-- [[Psychological Safety]]
+- [[Status Page]]
 - [[Mean Time to Recovery]]
 - [[Secrets Management]]
 - [[Git Revert]]

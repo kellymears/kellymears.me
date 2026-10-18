@@ -21,7 +21,7 @@ The practical consequences are that a major bump deserves a migration path and a
 
 ## Related
 - [[Supply Chain Security]]
-- [[Silent Failure]]
+- [[API Versioning]]
 - [[Monorepo]]
 - [[Secret Management]]
 - [[Bundler]]

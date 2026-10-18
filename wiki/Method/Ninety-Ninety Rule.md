@@ -31,3 +31,4 @@ Recognizing the pattern doesn't make the tail shorter, but it makes it less of a
 ## See also
 - [[Parkinson's Law]]
 - [[Cone of Uncertainty]]
+- [[Definition of Done]]

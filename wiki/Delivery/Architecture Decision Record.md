@@ -27,7 +27,7 @@ ADRs are one kind of design documentation. Many organizations write longer **des
 The common failure is neglect. Teams write a burst of ADRs, then stop, and the log becomes misleading. Keeping them short, a page or less, helps. So does writing one whenever a decision is hard to reverse, would surprise a newcomer, or took real argument to settle; see [[Technical Debt]], [[Conway's Law]], and [[Pre-mortem]].
 
 ## See also
-- [[Deprecation]]
+- [[Docs as Code]]
 - [[Change Advisory Board]]
 - [[Zettelkasten]]
 - [[Requirements Traceability]]

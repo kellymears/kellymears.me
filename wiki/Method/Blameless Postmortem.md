@@ -26,7 +26,7 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[Bus Factor]]
 - [[Psychological Safety]]
 - [[Pre-mortem]]
-- [[Incident Response]]
+- [[Status Page]]
 - [[Site Reliability Engineering]]
 - [[Hindsight Bias]]
 - [[Normalization of Deviance]]

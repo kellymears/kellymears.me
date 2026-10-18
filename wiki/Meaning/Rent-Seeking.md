@@ -14,7 +14,7 @@ The empirical difficulty is real: licensing that exists to seek rent and licensi
 
 ## See also
 - [[Public Domain]]
-- [[Principal-Agent Problem]]
+- [[Open Core]]
 - [[Externality]]
 - [[Path Dependence]]
 - [[Legibility]]

@@ -30,7 +30,7 @@ Responses have come from several directions:
 None of these fully solves the mismatch between how much value open source creates and how little of it reaches the people who maintain it; see [[Matthew Effect]].
 
 ## See also
-- [[Commons-Based Peer Production]]
+- [[Code of Conduct]]
 - [[Inner Source]]
-- [[Dependency Hell]]
+- [[Open Core]]
 - [[Benevolent Dictator for Life]]

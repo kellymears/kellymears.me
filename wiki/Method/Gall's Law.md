@@ -26,3 +26,4 @@ The corollary for software architecture is to build the smallest version that ac
 - [[Lindy Effect]]
 - [[Request for Comments]]
 - [[You Aren't Gonna Need It]]
+- [[Big Rewrite]]

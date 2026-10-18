@@ -33,4 +33,4 @@ The idea reaches well beyond economics. Software users can't inspect what's in t
 - [[Shibboleth]]
 - [[Social Deduction Game]]
 - [[Perfect Information]]
-- [[Cobra Effect]]
+- [[Status Page]]

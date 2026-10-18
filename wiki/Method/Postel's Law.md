@@ -27,6 +27,6 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 - [[Schema Evolution]]
 - [[Error Message]]
 - [[YAML]]
-- [[JSON]]
+- [[API Versioning]]
 - [[MIME Type]]
 - [[World Wide Web]]

@@ -28,7 +28,7 @@ Enforcement usually happens twice: locally, so developers rarely see a failure, 
 
 ## See also
 - [[Conventional Commits]]
-- [[Design Token]]
+- [[Developer Experience]]
 - [[Atomic Commit]]
 - [[Branch Protection]]
 - [[YAML]]

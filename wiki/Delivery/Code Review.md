@@ -14,7 +14,7 @@ What makes review effective is mostly logistical. Small changes get read; large 
 A reviewer's own reasoning deserves the same skepticism they apply to the change. A configuration set to strict plus a clean run feels like execution, and is configuration plus an untested inference.
 
 ## See also
-- [[The Cathedral and the Bazaar]]
+- [[Definition of Done]]
 - [[Inner Source]]
 - [[Commit Message]]
 - [[Psychological Safety]]
@@ -24,6 +24,6 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 
 ## Related
 - [[Change Advisory Board]]
-- [[Diff]]
+- [[Code of Conduct]]
 - [[Pair Programming]]
 - [[Code Owners]]

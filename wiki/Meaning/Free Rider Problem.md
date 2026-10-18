@@ -35,4 +35,4 @@ Not all free riding is harmful. Knowledge spillovers, where one person's idea be
 - [[BitTorrent]]
 - [[Universal Basic Income]]
 - [[Herd Immunity]]
-- [[Antibiotic Resistance]]
+- [[Open Core]]

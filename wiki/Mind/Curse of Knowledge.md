@@ -24,7 +24,7 @@ Countermeasures are external, since effort alone doesn't cure it. Test explanati
 
 ## See also
 - [[Transactive Memory]]
-- [[Theory of Mind]]
+- [[Docs as Code]]
 - [[Expert Intuition]]
 - [[Functional Fixedness]]
 - [[Spotlight Effect]]

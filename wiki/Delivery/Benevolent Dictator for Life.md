@@ -30,3 +30,4 @@ Who holds commit access and review authority is the practical day-to-day form of
 - [[Conway's Law]]
 - [[Dunbar's Number]]
 - [[Inner Source]]
+- [[Code of Conduct]]

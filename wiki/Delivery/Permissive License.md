@@ -16,7 +16,7 @@ Recent years have produced source-available licenses that publish code without m
 
 ## See also
 - [[Copyleft]]
-- [[Supply Chain Security]]
+- [[Open Core]]
 - [[Package Manager]]
 - [[Semantic Versioning]]
 - [[Software Fork]]

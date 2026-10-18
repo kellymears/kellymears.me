@@ -30,7 +30,7 @@ Practical habits that go with SLOs:
 SLOs depend on good measurement, the territory of [[Observability]]. They also depend on the services underneath: a service can be no more reliable than the dependencies it calls in sequence, which is one reason designs add a [[Circuit Breaker]] and graceful degradation so a failing dependency costs part of the budget instead of all of it.
 
 ## See also
-- [[Incident Response]]
+- [[Status Page]]
 - [[DORA Metrics]]
 - [[Tail Latency]]
 - [[Margin of Safety]]

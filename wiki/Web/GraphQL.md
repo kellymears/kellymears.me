@@ -31,4 +31,4 @@ GraphQL also works as a gateway: one schema stitching together many backend serv
 It's not always the right choice. For simple APIs, public data that benefits from HTTP caching, or teams where frontend and backend are the same people, plain REST or typed [[Remote Procedure Call]]s are simpler. Server components that fetch data on the server and send only what the page needs address the same over-fetching problem differently; see [[React Server Components]].
 
 ## See also
-- [[Graph Database]]
+- [[API Versioning]]

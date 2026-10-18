@@ -33,5 +33,5 @@ These failures appear only under real load and coupling. Deliberately injecting 
 ## See also
 - [[Backpressure]]
 - [[Kernel Panic]]
-- [[Small-World Network]]
+- [[Status Page]]
 - [[Orbit]]

@@ -22,7 +22,7 @@ Version numbering is how deprecations are communicated at the package boundary; 
 ## Related
 - [[Architecture Decision Record]]
 - [[Semantic Conflict]]
-- [[Package Manager]]
+- [[API Versioning]]
 - [[Changelog]]
 - [[Expand and Contract]]
 - [[Long-Term Support]]

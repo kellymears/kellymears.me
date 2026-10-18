@@ -23,7 +23,7 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 - [[Fake Clock]]
 - [[Pesticide Paradox]]
 - [[Spectrum-Based Fault Localization]]
-- [[Normalization of Deviance]]
+- [[Developer Experience]]
 - [[Systematic Concurrency Testing]]
 - [[Regression]]
 - [[Test Isolation]]

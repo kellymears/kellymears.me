@@ -29,7 +29,7 @@ The pattern costs time and some temporary complexity. For a while, the code supp
 Expand and contract works hand in hand with [[Feature Flag]] switches, which control when the application starts reading the new form, and with [[Trunk-Based Development]], since every step can merge to the main branch without waiting for the whole change. The same thinking scaled up to entire systems is the [[Strangler Fig Pattern]], which replaces an old system piece by piece while both run.
 
 ## See also
-- [[Database Migration]]
+- [[Branch by Abstraction]]
 - [[Zero-Downtime Deployment]]
 - [[Database View]]
 - [[Deprecation]]

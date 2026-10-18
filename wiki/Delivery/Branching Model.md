@@ -16,7 +16,7 @@ The model also determines what a merge means and therefore what history looks li
 ## See also
 - [[Hotfix]]
 - [[Pull Request]]
-- [[Continuous Integration]]
+- [[Branch by Abstraction]]
 - [[Version Control]]
 
 ## Related

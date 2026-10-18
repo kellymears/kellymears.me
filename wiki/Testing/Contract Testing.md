@@ -17,7 +17,7 @@ Consumer-driven contract testing (the flavor Pact popularized) inverts the usual
 - [[Data Contract]]
 - [[Service Virtualization]]
 - [[Snapshot Testing]]
-- [[Schema Drift]]
+- [[API Versioning]]
 - [[End-to-End Test]]
 - [[Test Pyramid]]
 - [[Design by Contract]]

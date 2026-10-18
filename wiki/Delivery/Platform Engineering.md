@@ -30,5 +30,5 @@ The common failure is building too much too early: a large portal before anyone 
 - [[Ephemeral Environment]]
 - [[Inner Source]]
 - [[Data Mesh]]
-- [[Kubernetes]]
+- [[Developer Experience]]
 - [[DevOps]]

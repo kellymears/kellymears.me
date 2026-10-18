@@ -35,3 +35,4 @@ CABs persist partly because they feel safe and are easy to explain to auditors, 
 - [[Code Freeze]]
 - [[DevOps]]
 - [[Normalization of Deviance]]
+- [[Value Stream Mapping]]
