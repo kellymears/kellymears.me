@@ -25,6 +25,6 @@ TTLs are the simplest answer to [[Cache Invalidation]], one of the famously hard
 The same idea covers other expiring things: session tokens and [[OAuth]] access tokens that stop working after an hour, signed URLs, lock leases in [[Leader Election]], [[Message Queue]] messages that are dropped if not consumed in time, and records that a database deletes automatically after a set age.
 
 ## See also
-- [[HTTP Caching]]
+- [[DNS Cache Poisoning]]
 - [[Cache Invalidation]]
 - [[IP Routing]]

@@ -34,6 +34,6 @@ The two approaches have converged in places. Telephone calls now travel as packe
 ## See also
 - [[IP Routing]]
 - [[Ethernet]]
-- [[World Wide Web]]
+- [[ARPANET]]
 - [[OSI Model]]
 - [[Submarine Cable]]

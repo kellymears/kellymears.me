@@ -27,7 +27,7 @@ The same model appears elsewhere: [[Code Signing]] certificates for software, de
 
 ## See also
 - [[Information Asymmetry]]
-- [[Public-Key Cryptography]]
+- [[DNS Cache Poisoning]]
 - [[Mutual TLS]]
 - [[Code Signing]]
 - [[Audit Log]]

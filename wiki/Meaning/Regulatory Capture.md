@@ -17,7 +17,7 @@ The word is also overused. "Capture" can function as a [[Plausible Mechanism]] t
 - [[Principal-Agent Problem]]
 - [[Externality]]
 - [[Falsifiability]]
-- [[Motte and Bailey]]
+- [[Net Neutrality]]
 - [[Hanlon's Razor]]
 - [[Right to Repair]]
 - [[Jaywalking]]

@@ -29,3 +29,4 @@ Satellites also connect directly to ordinary phones in some areas, merging with 
 - [[Packet Switching]]
 - [[Mesh Network]]
 - [[Laser]]
+- [[Global Positioning System]]

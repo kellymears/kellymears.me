@@ -15,7 +15,7 @@ WireGuard, merged into the Linux kernel in 2020, reorganized the problem around 
 A commercial VPN relocates trust rather than removing it: the local network and access provider stop seeing destinations, and the provider starts. It does not anonymize. Logged-in accounts, cookies and browser fingerprints identify the same person, [[Domain Name System]] queries leak whenever the resolver is not tunnelled too, and [[WebRTC]] can expose local addresses. Since transport is already encrypted, the hostile-café argument is largely obsolete.
 
 ## See also
-- [[Secret Management]]
+- [[Internet Censorship]]
 - [[eSIM]]
 - [[Streaming Response]]
 - [[Code Signing]]

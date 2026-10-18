@@ -29,6 +29,6 @@ HSTS doesn't protect against a compromised server, a fraudulent certificate, or 
 
 ## See also
 - [[Man-in-the-Middle Attack]]
-- [[HTTP Cookie]]
+- [[DNS Cache Poisoning]]
 - [[Certificate Authority]]
 - [[Same-Origin Policy]]

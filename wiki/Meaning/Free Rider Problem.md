@@ -32,7 +32,7 @@ Not all free riding is harmful. Knowledge spillovers, where one person's idea be
 
 ## See also
 - [[Externality]]
-- [[Network Effect]]
+- [[BitTorrent]]
 - [[Universal Basic Income]]
 - [[Software Fork]]
 - [[Open Source Sustainability]]

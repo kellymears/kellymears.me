@@ -29,7 +29,7 @@ Practical consequences follow. Distance between coordinates must be computed on 
 Projection choice shapes perception: a map is a model, and decides in advance what to leave out.
 
 ## See also
-- [[Data Visualization]]
+- [[Global Positioning System]]
 - [[Vector Graphics]]
 - [[Mipmapping]]
 - [[Coriolis Effect]]

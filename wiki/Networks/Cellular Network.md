@@ -35,5 +35,5 @@ The radio itself is expensive in energy. Keeping it active drains the [[Lithium-
 - [[Bluetooth]]
 - [[Adaptive Bitrate Streaming]]
 - [[Caller ID Authentication]]
-- [[Doppler Effect]]
+- [[Global Positioning System]]
 - [[Satellite Internet]]

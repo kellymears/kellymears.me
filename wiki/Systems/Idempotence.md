@@ -17,7 +17,7 @@ The corresponding design work is usually to make the operation *express the desi
 - [[Race Condition]]
 - [[Microservices]]
 - [[Two Generals Problem]]
-- [[Determinism]]
+- [[Dead Letter Queue]]
 - [[Relational Database]]
 - [[Hedged Requests]]
 - [[Conflict-Free Replicated Data Type]]

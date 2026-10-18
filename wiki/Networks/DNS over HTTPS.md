@@ -19,3 +19,4 @@ DoH is also politically loaded in a way plain protocol changes rarely are, becau
 - [[Transport Layer Security]]
 - [[Onion Routing]]
 - [[Man-in-the-Middle Attack]]
+- [[DNS Cache Poisoning]]

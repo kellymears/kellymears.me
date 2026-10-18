@@ -23,7 +23,7 @@ Before such engines, the same reliability was assembled by hand from a [[Message
 - [[Idempotence]]
 - [[Determinism]]
 - [[Message Queue]]
-- [[Finite State Machine]]
+- [[Dead Letter Queue]]
 - [[Background Agent]]
 - [[Circuit Breaker]]
 - [[Transactional Outbox]]

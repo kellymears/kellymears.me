@@ -34,7 +34,7 @@ Its users range from journalists and abuse survivors to criminals, the dual-use 
 
 ## See also
 - [[Browser Fingerprinting]]
-- [[Transport Layer Security]]
+- [[Internet Censorship]]
 - [[DNS over HTTPS]]
 - [[Peer-to-Peer]]
 - [[Man-in-the-Middle Attack]]

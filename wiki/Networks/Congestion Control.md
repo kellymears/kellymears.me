@@ -33,5 +33,5 @@ Congestion control lives in [[TCP and UDP]] stacks, and [[QUIC]] reimplements it
 - [[Bandwidth]]
 - [[Wi-Fi]]
 - [[Packet Switching]]
-- [[Exponential Backoff]]
+- [[Net Neutrality]]
 - [[Head-of-Line Blocking]]

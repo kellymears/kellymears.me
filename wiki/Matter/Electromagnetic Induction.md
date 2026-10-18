@@ -27,7 +27,7 @@ Eddy currents also brake without contact. Roller coasters, some trains, and many
 Guitar pickups, metal detectors, and contactless cards rely on induction too. The heat these currents produce is ordinary resistive heating, and getting rid of it is a [[Heat Transfer]] problem.
 
 ## See also
-- [[Ohm's Law]]
+- [[Near-Field Communication]]
 - [[Magnetism]]
 - [[Resonance]]
 - [[Heat Transfer]]

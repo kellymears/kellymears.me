@@ -16,7 +16,7 @@ Queues come with delivery guarantees that matter more than they first appear to.
 - [[Queueing Theory]]
 - [[MQTT]]
 - [[Serialization]]
-- [[Eventual Consistency]]
+- [[Dead Letter Queue]]
 - [[Backpressure]]
 - [[Durable Execution]]
 - [[Transactional Outbox]]

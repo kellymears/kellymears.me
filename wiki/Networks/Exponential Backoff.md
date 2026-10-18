@@ -26,6 +26,6 @@ Backoff pairs naturally with a [[Circuit Breaker]], which stops calling a failin
 
 ## See also
 - [[Fake Clock]]
-- [[HTTP Status Code]]
+- [[Dead Letter Queue]]
 - [[Long Polling]]
 - [[Ethernet]]

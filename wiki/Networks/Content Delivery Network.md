@@ -22,7 +22,7 @@ The tradeoff CDNs make explicit is between consistency and locality: an edge nod
 - [[Edge Computing]]
 - [[Denial-of-Service Attack]]
 - [[Reverse Proxy]]
-- [[Transport Layer Security]]
+- [[Net Neutrality]]
 
 ## Related
 - [[DNS over HTTPS]]

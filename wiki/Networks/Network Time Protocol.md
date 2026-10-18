@@ -37,6 +37,6 @@ Correct time matters in more places than expected:
 - [[Timeout]]
 - [[Time Zone]]
 - [[Falsehoods Programmers Believe]]
-- [[Simple Harmonic Motion]]
+- [[Global Positioning System]]
 - [[Unix Time]]
 - [[Piezoelectric Effect]]

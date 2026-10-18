@@ -27,5 +27,5 @@ Products that advertise exactly-once semantics, such as Kafka's, provide this wi
 ## See also
 - [[Timeout]]
 - [[MQTT]]
-- [[Stream Processing]]
+- [[Dead Letter Queue]]
 - [[Two-Phase Commit]]

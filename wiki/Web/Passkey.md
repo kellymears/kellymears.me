@@ -34,5 +34,5 @@ A passkey proves who you are; it doesn't decide what you may do. After sign-in, 
 
 ## See also
 - [[JSON Web Token]]
-- [[Least Privilege]]
+- [[Near-Field Communication]]
 - [[Cross-Site Request Forgery]]

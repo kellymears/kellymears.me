@@ -19,7 +19,7 @@ The rhetorical version is just as costly: an "everything passes" claim assembled
 - [[Root Cause Analysis]]
 - [[Defensive Programming]]
 - [[Fail Fast]]
-- [[Observability]]
+- [[Dead Letter Queue]]
 - [[Coverage Gate]]
 - [[Backup and Restore]]
 - [[HTTP Status Code]]

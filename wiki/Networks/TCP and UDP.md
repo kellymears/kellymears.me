@@ -17,7 +17,7 @@ Reliability is also why TCP is the wrong tool for anything latency-sensitive und
 ## See also
 - [[Network Socket]]
 - [[Packet Switching]]
-- [[Latency and Jitter]]
+- [[ARPANET]]
 - [[Port]]
 - [[Endianness]]
 - [[Congestion Control]]

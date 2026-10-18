@@ -28,5 +28,5 @@ Several ideas build on routing. [[Anycast]] announces the same address from many
 ## See also
 - [[OSI Model]]
 - [[IPv6]]
-- [[Graph Traversal]]
+- [[ARPANET]]
 - [[Internet Exchange Point]]

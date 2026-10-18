@@ -27,6 +27,6 @@ The common record types are few: an address record, an alias record pointing one
 
 ## Related
 - [[Dependency Confusion]]
-- [[Hash Function]]
+- [[DNS Cache Poisoning]]
 - [[Secret Management]]
 - [[Time to Live]]

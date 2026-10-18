@@ -22,5 +22,5 @@ Webhooks are also a poor fit for anything that needs a response mid-transaction 
 - [[Transactional Outbox]]
 - [[Delivery Guarantees]]
 - [[Git Hook]]
-- [[Exponential Backoff]]
+- [[Internet Relay Chat]]
 - [[Hypertext Transfer Protocol]]

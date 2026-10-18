@@ -32,4 +32,4 @@ That last weakness drove the move to [[Zero Trust Network]] designs, which treat
 ## See also
 - [[eBPF]]
 - [[Network Address Translation]]
-- [[Virtual Private Network]]
+- [[Internet Censorship]]

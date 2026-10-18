@@ -30,4 +30,4 @@ Human color perception compresses visible light into three channels, so very dif
 
 ## See also
 - [[Radioactive Decay]]
-- [[Circadian Lighting]]
+- [[Global Positioning System]]

@@ -29,6 +29,6 @@ The model has critics. Real people cooperate more than the theory predicts in on
 ## See also
 - [[Principal-Agent Problem]]
 - [[Information Asymmetry]]
-- [[Metagame]]
+- [[BitTorrent]]
 - [[Rent-Seeking]]
 - [[Generative Adversarial Network]]

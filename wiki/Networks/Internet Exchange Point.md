@@ -33,6 +33,6 @@ Exchanges are mostly neutral, member-run organizations, and their dense local me
 ## See also
 - [[IP Routing]]
 - [[Submarine Cable]]
-- [[Content Delivery Network]]
+- [[Net Neutrality]]
 - [[Packet Switching]]
 - [[Optical Fiber]]
