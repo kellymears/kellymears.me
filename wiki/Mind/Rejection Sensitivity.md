@@ -21,9 +21,9 @@ What helps is mostly recognition and slowing down: naming the reaction ("this is
 
 ## See also
 - [[Masking]]
-- [[Confirmation Bias]]
+- [[Self-Compassion]]
 - [[Impostor Syndrome]]
-- [[Learned Helplessness]]
+- [[Cognitive Behavioral Therapy]]
 - [[Neurodiversity]]
 - [[Spiral of Silence]]
 - [[Emotional Regulation]]

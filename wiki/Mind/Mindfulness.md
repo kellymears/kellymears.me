@@ -19,8 +19,8 @@ It isn't harmless for everyone. A minority of meditators report adverse experien
 Mindfulness is also a counterweight to the attention economy. It trains the same capacity that [[Doomscrolling]] and [[Dark Pattern]] designs erode: noticing what has captured attention and choosing whether to stay.
 
 ## See also
-- [[Interoception]]
-- [[Default Mode Network]]
+- [[Emotional Granularity]]
+- [[Self-Compassion]]
 - [[Metacognition]]
 - [[Selective Attention]]
 - [[Attention Restoration Theory]]

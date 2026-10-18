@@ -26,7 +26,7 @@ Boredom may partly be the experience of the DMN without anything good to work on
 ## See also
 - [[Flow]]
 - [[Attention Residue]]
-- [[Rubber Duck Debugging]]
+- [[Inner Speech]]
 - [[Doomscrolling]]
 - [[Working Memory]]
 - [[Hyperfocus]]

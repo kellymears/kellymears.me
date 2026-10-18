@@ -23,7 +23,7 @@ It also changes how others read behavior. Cancelling plans or skipping something
 ## See also
 - [[Executive Function]]
 - [[Masking]]
-- [[Decision Fatigue]]
+- [[Sensory Processing]]
 - [[Cognitive Load]]
 - [[Performance Budget]]
 - [[Supercompensation]]

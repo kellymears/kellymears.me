@@ -19,10 +19,10 @@ The concepts this domain collects, such as [[Executive Function]], [[Monotropism
 
 ## See also
 - [[Theory of Mind]]
-- [[Monotropism]]
-- [[Masking]]
+- [[Synesthesia]]
+- [[Sensory Processing]]
 - [[Accessibility]]
-- [[Prototype Theory]]
+- [[Aphantasia]]
 - [[Fundamental Attribution Error]]
 - [[Legibility]]
 - [[Sensory Overload]]

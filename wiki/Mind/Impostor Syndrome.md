@@ -25,6 +25,7 @@ What helps is making evidence count: keeping a record of finished work and feedb
 
 ## See also
 - [[Self-Efficacy]]
-- [[Dunning-Kruger Effect]]
+- [[Cognitive Behavioral Therapy]]
 - [[Curse of Knowledge]]
 - [[Fundamental Attribution Error]]
+- [[Self-Compassion]]

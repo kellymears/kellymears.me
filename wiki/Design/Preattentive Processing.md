@@ -33,7 +33,7 @@ For charts, William Cleveland and Robert McGill (1984) ranked visual encodings b
 Preattentive pop-out has limits: it tells you *that* something differs, not what it means. And what isn't attended can go entirely unseen, as [[Inattentional Blindness]] shows. Good design uses pop-out to direct attention and text to explain.
 
 ## See also
-- [[Visual Hierarchy]]
+- [[Synesthesia]]
 - [[Selective Attention]]
 - [[Banner Blindness]]
 - [[Choropleth Map]]

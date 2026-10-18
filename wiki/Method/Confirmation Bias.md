@@ -15,8 +15,8 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 
 ## See also
 - [[Falsifiability]]
-- [[Anchoring Effect]]
-- [[Motte and Bailey]]
+- [[Processing Fluency]]
+- [[Pareidolia]]
 - [[Ground Truth]]
 - [[Base Rate Fallacy]]
 - [[Rejection Sensitivity]]

@@ -25,3 +25,5 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 - [[Code Review]]
 - [[Code Comment]]
 - [[Hallucination]]
+- [[Emotional Granularity]]
+- [[Inner Speech]]

@@ -29,3 +29,4 @@ Machines raised the question again in 2023, when [[Large Language Model]] system
 - [[Neurodiversity]]
 - [[Masking]]
 - [[Parasocial Relationship]]
+- [[Aphantasia]]

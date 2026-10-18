@@ -25,6 +25,6 @@ Countermeasures are external, since effort alone doesn't cure it. Test explanati
 ## See also
 - [[Metacognition]]
 - [[Theory of Mind]]
-- [[Dunning-Kruger Effect]]
+- [[Expert Intuition]]
 - [[Usability Testing]]
 - [[Prompt Engineering]]

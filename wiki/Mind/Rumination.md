@@ -34,7 +34,8 @@ Approaches that help:
 Rumination is common in [[Rejection Sensitivity]], where a perceived slight is replayed at length, and features in [[Autistic Burnout]] and [[Sensory Overload]] recovery for some people. Unfinished tasks also nag at attention, as in the [[Zeigarnik Effect]], and writing down a plan can quiet them.
 
 ## See also
-- [[Default Mode Network]]
+- [[Inner Speech]]
 - [[Emotional Regulation]]
 - [[Mindfulness]]
 - [[Rejection Sensitivity]]
+- [[Cognitive Behavioral Therapy]]

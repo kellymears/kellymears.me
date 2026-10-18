@@ -23,8 +23,8 @@ Recovery is mostly about reducing load: dropping masking where safe, cutting dem
 
 ## See also
 - [[Masking]]
-- [[Spoon Theory]]
-- [[Sensory Overload]]
+- [[Self-Compassion]]
+- [[Sensory Processing]]
 - [[Executive Function]]
 - [[Neurodiversity]]
 - [[Training Load]]

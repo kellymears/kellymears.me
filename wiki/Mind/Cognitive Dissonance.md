@@ -32,3 +32,4 @@ Some classic findings have replicated less cleanly than textbooks suggest, but t
 - [[Motte and Bailey]]
 - [[Ludonarrative Dissonance]]
 - [[Fundamental Attribution Error]]
+- [[Cognitive Behavioral Therapy]]

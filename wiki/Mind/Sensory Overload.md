@@ -24,7 +24,7 @@ Overload also accumulates. Input that is tolerable for ten minutes becomes unbea
 The most effective remedies change the environment rather than the person. Noise-canceling headphones, sunglasses, warm dim lighting rather than harsh overhead light (see [[Color Temperature]]), a quiet room to retreat to, and advance notice of loud events all help. Some stores now run *sensory-friendly hours* with lowered music and lights. In interfaces, the same principle drives [[Reduced Motion]] settings, muted notification defaults, and avoiding autoplaying media. These are [[Accessibility]] features that many users who would never call themselves sensitive also prefer.
 
 ## See also
-- [[Monotropism]]
+- [[Sensory Processing]]
 - [[Stimming]]
 - [[Interoception]]
 - [[Masking]]

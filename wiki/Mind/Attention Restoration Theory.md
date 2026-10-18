@@ -26,6 +26,6 @@ For people prone to [[Sensory Overload]] or [[Autistic Burnout]], calm, predicta
 
 ## See also
 - [[Decision Fatigue]]
-- [[Default Mode Network]]
+- [[Sensory Processing]]
 - [[Doomscrolling]]
 - [[Pomodoro Technique]]

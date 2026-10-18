@@ -31,3 +31,4 @@ It still offers a useful lesson about memory: it is not a passive recording but 
 - [[Von Restorff Effect]]
 - [[Context-Dependent Memory]]
 - [[Working Memory]]
+- [[Aphantasia]]

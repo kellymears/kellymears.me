@@ -23,7 +23,7 @@ The social side is the [[Neurodiversity]] paradigm's point in miniature. Masking
 - [[Monotropism]]
 - [[Theory of Mind]]
 - [[Social Proof]]
-- [[Shibboleth]]
+- [[Self-Compassion]]
 - [[Kayfabe]]
 - [[Impostor Syndrome]]
 - [[Stimming]]

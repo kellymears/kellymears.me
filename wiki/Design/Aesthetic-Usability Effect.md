@@ -34,3 +34,4 @@ For designers, the practical upshot is to invest in aesthetics, test early with 
 - [[Usability Testing]]
 - [[Visual Hierarchy]]
 - [[Skeuomorphism]]
+- [[Processing Fluency]]

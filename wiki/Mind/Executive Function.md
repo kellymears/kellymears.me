@@ -23,7 +23,7 @@ Practical support follows directly from that model. Each technique moves an exec
 Executive capacity also varies within one person. Sleep, stress, illness, and [[Cognitive Load]] all drain it. A day of [[Masking]] or constant interruption leaves less for everything else, which is why the same task can be easy on Tuesday and impossible on Thursday.
 
 ## See also
-- [[Working Memory]]
+- [[Inner Speech]]
 - [[Time Blindness]]
 - [[Body Doubling]]
 - [[Neurodiversity]]

@@ -26,3 +26,5 @@ For engineers, the practical corollary is to distrust your own confidence exactl
 - [[Anchoring Effect]]
 - [[Self-Efficacy]]
 - [[Impostor Syndrome]]
+- [[Expert Intuition]]
+- [[Processing Fluency]]

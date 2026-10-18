@@ -24,8 +24,8 @@ Regulation isn't purely individual. **Co-regulation**, calming through another p
 
 ## See also
 - [[Window of Tolerance]]
-- [[Interoception]]
+- [[Cognitive Behavioral Therapy]]
 - [[Stimming]]
 - [[Procrastination]]
-- [[Executive Function]]
+- [[Emotional Granularity]]
 - [[Demand Avoidance]]

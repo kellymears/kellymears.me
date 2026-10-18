@@ -31,3 +31,4 @@ The commercial version oversells. Brain-training games mostly improve performanc
 - [[Habit Formation]]
 - [[Desirable Difficulty]]
 - [[Neural Network]]
+- [[Synesthesia]]

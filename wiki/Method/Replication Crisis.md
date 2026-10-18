@@ -24,7 +24,7 @@ The reforms are mostly about committing in advance. **Preregistration** records 
 
 ## See also
 - [[P-Hacking]]
-- [[Publication Bias]]
+- [[Processing Fluency]]
 - [[Falsifiability]]
 - [[Decision Fatigue]]
 - [[Survivorship Bias]]

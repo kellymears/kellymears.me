@@ -26,7 +26,7 @@ An unfinished task also keeps nagging, the [[Zeigarnik Effect]], which is why st
 
 ## See also
 - [[Emotional Regulation]]
-- [[Implementation Intention]]
+- [[Self-Compassion]]
 - [[Zeigarnik Effect]]
 - [[Parkinson's Law]]
 - [[Pomodoro Technique]]

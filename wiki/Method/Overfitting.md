@@ -25,3 +25,5 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 - [[Differential Privacy]]
 - [[Benchmark Contamination]]
 - [[Gradient Descent]]
+- [[Expert Intuition]]
+- [[Pareidolia]]
