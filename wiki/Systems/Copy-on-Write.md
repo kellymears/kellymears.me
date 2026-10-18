@@ -19,3 +19,5 @@ The trade copy-on-write makes is complexity for cost: tracking which pages or bl
 - [[Virtual Memory]]
 - [[Multiversion Concurrency Control]]
 - [[Backup and Restore]]
+- [[Reference Counting]]
+- [[Persistent Data Structure]]

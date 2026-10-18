@@ -20,3 +20,4 @@ The common mistake is reaching for DP on a problem that only has optimal substru
 - [[Amortized Analysis]]
 - [[Dijkstra's Algorithm]]
 - [[P versus NP Problem]]
+- [[Edit Distance]]

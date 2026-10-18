@@ -22,3 +22,5 @@ Not every framework uses this model — Svelte compiles away the diffing entirel
 
 ## Related
 - [[Web Components]]
+- [[Edit Distance]]
+- [[Persistent Data Structure]]

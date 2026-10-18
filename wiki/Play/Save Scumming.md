@@ -16,3 +16,4 @@ The interesting question isn't whether scumming is possible but whether it's *ra
 - [[Seeded Randomness]]
 - [[Roguelike]]
 - [[Determinism]]
+- [[Pseudorandom Number Generator]]

@@ -32,3 +32,4 @@ Determinism also enables *incremental* generation: extending a world without reg
 - [[Reproducible Case]]
 - [[Perlin Noise]]
 - [[Particle System]]
+- [[Pseudorandom Number Generator]]

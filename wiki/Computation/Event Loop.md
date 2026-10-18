@@ -20,3 +20,4 @@ The event loop is one specific answer to the concurrency-without-threads problem
 - [[Race Condition]]
 - [[requestAnimationFrame]]
 - [[Background Tab Throttling]]
+- [[Coroutine]]

@@ -17,7 +17,7 @@ The mechanism has two halves, and most mistakes come from supplying only one:
 
 With `srcset` but no `sizes`, the browser assumes the image fills the viewport (`100vw`), so a thumbnail in a three-column grid downloads a full-width file. This is the most common responsive-image bug, and it is invisible: the page looks perfect and costs several times what it should. Lighthouse's "properly size images" warning is usually this. The duplication is real. `sizes` restates in HTML what the CSS layout already decides, and it falls out of date when the layout changes, much like a [[Responsive Breakpoint]] copied into two places. Newer browsers accept `sizes="auto"` for lazily loaded images, measuring the laid-out size instead, which closes the gap for [[Container Query|container-driven]] layouts.
 
-**`<picture>`** handles two further jobs. *Art direction* means a different crop at different widths, not only a different resolution. *Format negotiation* means offering AVIF or WebP with a JPEG fallback, chosen by `type`, which is [[Progressive Enhancement]] for codecs.
+**`<picture>`** handles two further jobs. *Art direction* means a different crop at different widths, not only a different resolution. *Format negotiation*, a matter of [[Data Compression|compression]], means offering AVIF or WebP with a JPEG fallback, chosen by `type`, which is [[Progressive Enhancement]] for codecs.
 
 Related hygiene: explicit `width` and `height` attributes reserve space and prevent layout shift; `loading="lazy"` belongs on images below the fold and never on the main above-the-fold image, which instead deserves `fetchpriority="high"` or a [[Preload and Prefetch|preload]] (see [[Lazy Loading]]). Generating every size by hand doesn't scale, so most sites delegate it to a build step or an image service at a [[Content Delivery Network]] edge that resizes on request and caches the result.
 
@@ -28,5 +28,4 @@ Related hygiene: explicit `width` and `height` attributes reserve space and prev
 - [[Performance Budget]]
 - [[Critical Rendering Path]]
 - [[Content Delivery Network]]
-- [[Progressive Enhancement]]
 - [[Mipmapping]]

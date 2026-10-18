@@ -21,3 +21,5 @@ The self-balancing part matters as much as the fan-out: an insert that overflows
 - [[Universally Unique Identifier]]
 - [[Log-Structured Merge Tree]]
 - [[Query Planner]]
+- [[Locality of Reference]]
+- [[Sorting Algorithm]]

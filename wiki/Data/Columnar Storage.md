@@ -31,3 +31,5 @@ Data usually reaches a warehouse from transactional databases through [[Change D
 - [[Denormalization]]
 - [[Change Data Capture]]
 - [[Log-Structured Merge Tree]]
+- [[Locality of Reference]]
+- [[Data Compression]]

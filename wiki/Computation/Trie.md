@@ -20,3 +20,4 @@ Tries also underlie IP routing tables (longest-prefix match over binary strings)
 - [[B-Tree]]
 - [[Big-O Notation]]
 - [[Inverted Index]]
+- [[Persistent Data Structure]]

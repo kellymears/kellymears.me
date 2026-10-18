@@ -30,3 +30,4 @@ Noise is one of several procedural building blocks. An [[L-System]] grows branch
 - [[Seeded Randomness]]
 - [[Voxel]]
 - [[Shader]]
+- [[Pseudorandom Number Generator]]

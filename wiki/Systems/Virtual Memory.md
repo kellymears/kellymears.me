@@ -29,3 +29,4 @@ The same design appears wherever a fixed pool has to be shared among variable de
 - [[Garbage Collection]]
 - [[Control Groups]]
 - [[Hypervisor]]
+- [[Locality of Reference]]

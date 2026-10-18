@@ -31,3 +31,4 @@ Continuous profiling, which samples production systems at low overhead all the t
 - [[Instrumentation]]
 - [[Premature Optimization]]
 - [[Observability]]
+- [[Locality of Reference]]

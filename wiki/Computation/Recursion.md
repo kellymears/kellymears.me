@@ -21,3 +21,5 @@ Recursion is the natural fit for anything with a recursive shape in the data its
 - [[Finite State Machine]]
 - [[Lambda Calculus]]
 - [[Graph Traversal]]
+- [[Sorting Algorithm]]
+- [[Abstract Syntax Tree]]

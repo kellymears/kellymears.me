@@ -26,3 +26,4 @@ Because tokens are consumed by everything in the request — instructions, tool 
 ## Related
 - [[Prompt Engineering]]
 - [[Structured Output]]
+- [[Data Compression]]

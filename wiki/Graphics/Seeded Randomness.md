@@ -29,3 +29,4 @@ Two cautions. A generator's *quality* matters for simulation and not much for ga
 - [[Voxel]]
 - [[Trick-Taking Game]]
 - [[Perlin Noise]]
+- [[Pseudorandom Number Generator]]

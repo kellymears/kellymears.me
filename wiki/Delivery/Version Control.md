@@ -27,3 +27,4 @@ History is also a document. It is the durable answer to *why is this here*, whic
 - [[Squash Merge]]
 - [[Pull Request]]
 - [[Merkle Tree]]
+- [[Edit Distance]]

@@ -23,3 +23,4 @@ That last case has a non-obvious consequence beyond size. Routing a value import
 - [[React Server Components]]
 - [[Performance Budget]]
 - [[Lazy Loading]]
+- [[Abstract Syntax Tree]]

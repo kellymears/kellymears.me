@@ -24,3 +24,4 @@ Swap usage is a symptom that needs context. A large amount sitting in swap and r
 - [[Memory Leak]]
 - [[Least Recently Used Cache]]
 - [[Resource Starvation]]
+- [[Locality of Reference]]

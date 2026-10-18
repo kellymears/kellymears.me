@@ -22,3 +22,4 @@ The word is the obstacle. It arrives from category theory, and the definitions i
 - [[Naming]]
 - [[Idempotence]]
 - [[Fail Fast]]
+- [[Algebraic Data Type]]

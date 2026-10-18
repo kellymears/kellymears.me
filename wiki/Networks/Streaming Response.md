@@ -27,3 +27,4 @@ Cancellation deserves particular attention in agent systems, where a timeout typ
 - [[Islands Architecture]]
 - [[Critical Rendering Path]]
 - [[Skeleton Screen]]
+- [[Coroutine]]

@@ -18,3 +18,4 @@ The failure mode is a match that looks exhaustive but isn't, in a language witho
 - [[Currying]]
 - [[Duck Typing]]
 - [[Finite State Machine]]
+- [[Algebraic Data Type]]
