@@ -36,3 +36,4 @@ The effect is weaponized as well as avoided. Native advertising disguises ads as
 - [[Information Scent]]
 - [[Eye Tracking]]
 - [[Browser Extension]]
+- [[Carousel]]

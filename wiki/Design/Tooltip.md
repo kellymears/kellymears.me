@@ -28,7 +28,7 @@ Positioning is harder than it looks. A tooltip must avoid being clipped by a scr
 
 ## See also
 - [[Iconography]]
-- [[Progressive Disclosure]]
+- [[Text Truncation]]
 - [[ARIA]]
 - [[Touch Target Size]]
 - [[Microcopy]]

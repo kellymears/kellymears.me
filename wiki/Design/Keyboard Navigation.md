@@ -24,7 +24,7 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 ## Related
 - [[ARIA]]
 - [[Portal]]
-- [[Document Object Model]]
+- [[Carousel]]
 - [[Touch Target Size]]
 - [[Accessibility Testing]]
 - [[Command Palette]]

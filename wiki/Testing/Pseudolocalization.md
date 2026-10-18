@@ -28,3 +28,4 @@ Games face these problems at scale, with text in tight UI and voice timing, whic
 - [[Falsehoods Programmers Believe]]
 - [[Visual Regression Testing]]
 - [[Error Message]]
+- [[Text Truncation]]

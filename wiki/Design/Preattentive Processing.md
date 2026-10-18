@@ -36,4 +36,4 @@ Preattentive pop-out has limits: it tells you *that* something differs, not what
 - [[Synesthesia]]
 - [[Calm Technology]]
 - [[Stroop Effect]]
-- [[Choropleth Map]]
+- [[Pie Chart]]

@@ -31,5 +31,5 @@ On screens, small multiples reflow naturally. A grid can drop from four columns 
 - [[Data Visualization]]
 - [[CSS Grid]]
 - [[Treemap]]
-- [[Simpson's Paradox]]
+- [[Pie Chart]]
 - [[Choropleth Map]]

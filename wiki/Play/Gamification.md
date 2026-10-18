@@ -25,6 +25,6 @@ Gamification also blurs into manipulation. Many apps use game mechanics mainly t
 Some designers prefer making activities genuinely game-like: giving people real choices, interesting problems, and room to play, rather than adding scores on top. Citizen science projects such as Foldit, where players solve protein-folding puzzles, are often cited as successes because the play is the work. Others argue that a little structure, used honestly and optionally, can help people stick with things they already want to do; see [[Achievement Hunting]] and [[Bartle Taxonomy]].
 
 ## See also
-- [[Magic Circle]]
+- [[Onboarding]]
 - [[Cobra Effect]]
 - [[Free-to-Play]]

@@ -21,3 +21,4 @@ This is close kin to [[Chesterton's Fence]] in structure — both are about the 
 
 ## Related
 - [[Streetlight Effect]]
+- [[Design Thinking]]

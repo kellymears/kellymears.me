@@ -18,7 +18,7 @@ Measure [[Line Length|line length]] too. Readability falls off sharply beyond ro
 - [[Design System]]
 - [[Design Token]]
 - [[Web Font Loading]]
-- [[Plain Language]]
+- [[Lorem Ipsum]]
 
 ## Related
 - [[Utility-First CSS]]

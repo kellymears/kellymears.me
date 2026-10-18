@@ -31,5 +31,5 @@ Eye movements also reveal attention, fatigue, and possibly health, so gaze data 
 
 ## See also
 - [[Virtual Reality]]
-- [[Selective Attention]]
+- [[Above the Fold]]
 - [[Blind Spot]]

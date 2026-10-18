@@ -15,7 +15,7 @@ Fitts's Law and Hick's Law are often cited together because they cover the two h
 
 ## See also
 - [[Fitts's Law]]
-- [[Progressive Disclosure]]
+- [[Above the Fold]]
 - [[Gestalt Principles]]
 - [[Design System]]
 - [[Cognitive Load]]

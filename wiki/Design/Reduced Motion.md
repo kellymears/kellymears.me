@@ -25,7 +25,7 @@ Test environments frequently emulate the preference by default, which means ever
 
 ## Related
 - [[Virtual Reality]]
-- [[Progressive Enhancement]]
+- [[Carousel]]
 - [[Twelve Basic Principles of Animation]]
 - [[contenteditable]]
 - [[Stacking Context]]

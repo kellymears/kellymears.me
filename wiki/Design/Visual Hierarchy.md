@@ -30,4 +30,4 @@ Strong hierarchy reduces [[Cognitive Load]]: readers don't have to work out what
 ## See also
 - [[Wireframe]]
 - [[Banner Blindness]]
-- [[Level Design]]
+- [[Above the Fold]]

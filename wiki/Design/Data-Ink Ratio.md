@@ -31,7 +31,7 @@ The durable lesson is to make every mark justify itself. Each element of a chart
 
 ## See also
 - [[Treemap]]
-- [[Visual Hierarchy]]
+- [[Pie Chart]]
 - [[Preattentive Processing]]
 - [[White Space]]
 - [[Choropleth Map]]

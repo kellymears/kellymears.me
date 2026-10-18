@@ -19,7 +19,7 @@ Field data (real visitors) and lab data (a synthetic run) frequently disagree, a
 - [[Layout Shift]]
 - [[Input Latency]]
 - [[Web Font Loading]]
-- [[Search Engine Optimization]]
+- [[Above the Fold]]
 - [[Lazy Loading]]
 - [[Responsive Images]]
 - [[Layout Thrashing]]

@@ -29,3 +29,4 @@ The legacy is mixed. Critics argue that functionalism became a style of its own,
 - [[Gestalt Principles]]
 - [[Design System]]
 - [[Affordance]]
+- [[Color Theory]]

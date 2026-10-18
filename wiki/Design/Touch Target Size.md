@@ -32,5 +32,5 @@ Small targets are an [[Accessibility]] issue for people with tremors, limited de
 - [[Accessibility]]
 - [[Haptic Feedback]]
 - [[Affordance]]
-- [[Form Design]]
+- [[Hamburger Menu]]
 - [[Signifier]]

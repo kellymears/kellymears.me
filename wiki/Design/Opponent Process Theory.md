@@ -24,3 +24,4 @@ For design the theory sits underneath perceptual color models rather than compet
 - [[JPEG]]
 - [[Blind Spot]]
 - [[Stereoscopy]]
+- [[Color Theory]]

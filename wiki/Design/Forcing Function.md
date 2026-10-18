@@ -28,6 +28,6 @@ When something goes wrong, a [[Blameless Postmortem]] often ends by asking which
 
 ## See also
 - [[Checklist]]
-- [[Signifier]]
+- [[Natural Mapping]]
 - [[Error Message]]
 - [[Murphy's Law]]

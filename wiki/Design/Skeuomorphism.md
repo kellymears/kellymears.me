@@ -17,7 +17,7 @@ Skeuomorphism is the clearest historical case study for [[Affordance]] because i
 - [[Bauhaus]]
 - [[Uncanny Valley]]
 - [[Flat Design]]
-- [[Dark Mode]]
+- [[Natural Mapping]]
 
 ## Related
 - [[Conceptual Metaphor]]

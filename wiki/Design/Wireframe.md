@@ -39,3 +39,4 @@ The wireframe's spirit lives on in production: a [[Skeleton Screen]] is essentia
 - [[Visual Hierarchy]]
 - [[Skeleton Screen]]
 - [[Card Sorting]]
+- [[Design Thinking]]

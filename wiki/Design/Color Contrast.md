@@ -28,7 +28,7 @@ Contrast is one of the few accessibility criteria a machine can genuinely evalua
 ## Related
 - [[Presbyopia]]
 - [[Digital Eye Strain]]
-- [[Progressive Enhancement]]
+- [[Color Theory]]
 - [[Easing]]
 - [[Color Vision Deficiency]]
 - [[Bauhaus]]

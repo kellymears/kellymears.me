@@ -30,5 +30,5 @@ Games and GPUs often render glyphs once into a texture atlas and reuse them. Val
 
 ## See also
 - [[Cross-Browser Testing]]
-- [[Iconography]]
+- [[Text Truncation]]
 - [[Typeface]]

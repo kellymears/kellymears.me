@@ -26,4 +26,4 @@ Fitting the screen is not the whole job. Phones have no hover state, and fingers
 
 ## See also
 - [[Layout Shift]]
-- [[Box Model]]
+- [[Hamburger Menu]]

@@ -16,7 +16,7 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 ## See also
 - [[Affordance]]
 - [[Microcopy]]
-- [[Progressive Disclosure]]
+- [[Carousel]]
 - [[Calm Technology]]
 - [[Compulsion Loop]]
 - [[AB Testing]]

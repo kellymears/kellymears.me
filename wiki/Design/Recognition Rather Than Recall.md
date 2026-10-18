@@ -28,6 +28,6 @@ The principle interacts with others. Showing everything at once, in the name of 
 
 ## See also
 - [[Heuristic Evaluation]]
-- [[Empty State]]
+- [[Onboarding]]
 - [[Direct Manipulation]]
 - [[Serial Position Effect]]

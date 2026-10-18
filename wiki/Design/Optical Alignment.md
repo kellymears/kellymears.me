@@ -35,5 +35,5 @@ This is why a pixel-perfect build can look worse than the mockup: the designer n
 - [[Kerning]]
 - [[OpenType Features]]
 - [[Iconography]]
-- [[Grid System]]
+- [[Lorem Ipsum]]
 - [[Flexbox]]

@@ -33,6 +33,6 @@ The concept reaches well beyond interfaces. [[Information Architecture]] organiz
 
 ## See also
 - [[Card Sorting]]
-- [[Signifier]]
+- [[Natural Mapping]]
 - [[Conceptual Metaphor]]
 - [[Direct Manipulation]]

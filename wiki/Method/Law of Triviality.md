@@ -22,3 +22,4 @@ The practical counter is to decide the trivial matters by default rather than by
 - [[Pareto Principle]]
 - [[Opportunity Cost]]
 - [[Benevolent Dictator for Life]]
+- [[Carousel]]

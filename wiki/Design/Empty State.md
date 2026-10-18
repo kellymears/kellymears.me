@@ -32,7 +32,7 @@ Writing matters as much as layout. The text should be brief, specific, and in pl
 
 ## See also
 - [[Progress Indicator]]
-- [[Progressive Disclosure]]
+- [[Onboarding]]
 - [[Mental Model]]
 - [[Affordance]]
 - [[Faceted Search]]

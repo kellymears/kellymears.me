@@ -27,7 +27,7 @@ A choropleth is honest when it maps a rate, uses an equal-area projection, choos
 
 ## See also
 - [[Geospatial Data]]
-- [[Color Scale]]
+- [[Pie Chart]]
 - [[Small Multiples]]
 - [[Simpson's Paradox]]
 - [[Data Visualization]]

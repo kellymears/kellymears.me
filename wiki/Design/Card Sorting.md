@@ -33,3 +33,4 @@ The method has relatives in [[Taxonomy]] work, where controlled vocabularies are
 - [[Hick's Law]]
 - [[Progressive Disclosure]]
 - [[Persona]]
+- [[Design Thinking]]

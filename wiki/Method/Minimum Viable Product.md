@@ -28,3 +28,4 @@ MVP is often confused with "prototype" or "beta," but neither of those implies t
 - [[Jobs to Be Done]]
 - [[Persona]]
 - [[Satisficing]]
+- [[Design Thinking]]

@@ -24,7 +24,7 @@ Two lessons repeat.
 
 ## Related
 - [[Relational Database]]
-- [[Determinism]]
+- [[Lorem Ipsum]]
 - [[Write-Ahead Logging]]
 - [[Hash Table]]
 - [[Ephemeral Environment]]

@@ -26,7 +26,7 @@ Scent also explains why [[Recognition Rather Than Recall]] matters for navigatio
 
 ## See also
 - [[Mental Model]]
-- [[Search Engine Optimization]]
+- [[Hamburger Menu]]
 - [[Hick's Law]]
 - [[Link Rot]]
 - [[Wayfinding]]

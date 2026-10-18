@@ -18,12 +18,12 @@ Progressive disclosure is one of the load-bearing arguments for keeping a produc
 - [[Information Scent]]
 - [[Fitts's Law]]
 - [[Wayfinding]]
-- [[Working Memory]]
+- [[Onboarding]]
 
 ## Related
 - [[Affordance]]
 - [[Empty State]]
-- [[Mental Model]]
+- [[Hamburger Menu]]
 - [[Faceted Search]]
 - [[Tesler's Law]]
 - [[Command Palette]]

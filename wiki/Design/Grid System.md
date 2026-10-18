@@ -16,7 +16,7 @@ The main risk of a grid system is treating it as decoration rather than constrai
 
 ## See also
 - [[Golden Ratio]]
-- [[Gestalt Principles]]
+- [[Lorem Ipsum]]
 - [[Typographic Scale]]
 - [[Design System]]
 

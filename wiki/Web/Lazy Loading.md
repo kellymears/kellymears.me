@@ -24,7 +24,7 @@ Lazy loading interacts with perceived performance rather than just measured perf
 - [[Pagination]]
 
 ## Related
-- [[Server-Side Rendering]]
+- [[Above the Fold]]
 - [[Layout Shift]]
 - [[Intersection Observer]]
 - [[Iframe]]

@@ -29,3 +29,4 @@ Related forms show the same hierarchy differently. Sunburst charts use concentri
 - [[Gestalt Principles]]
 - [[Choropleth Map]]
 - [[Hierarchical Data]]
+- [[Pie Chart]]

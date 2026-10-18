@@ -24,7 +24,7 @@ Several constraints shape any real implementation.
 - [[Uncanny Valley]]
 - [[Easing]]
 - [[Staggered Animation]]
-- [[Color Contrast]]
+- [[Carousel]]
 - [[Stacking Context]]
 - [[requestAnimationFrame]]
 

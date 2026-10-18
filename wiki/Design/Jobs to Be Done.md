@@ -35,3 +35,4 @@ The lasting insight is about framing. Teams describe their work in terms of thei
 - [[Choice Architecture]]
 - [[Root Cause Analysis]]
 - [[MDA Framework]]
+- [[Design Thinking]]

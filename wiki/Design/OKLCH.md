@@ -30,3 +30,4 @@ The practical caution is that perceptual uniformity is not the same as *contrast
 - [[Cascade]]
 - [[Color Vision Deficiency]]
 - [[Color Scale]]
+- [[Color Theory]]
