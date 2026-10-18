@@ -19,6 +19,7 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 - [[Environment Variable]]
 - [[Determinism]]
 - [[Continuous Deployment]]
+- [[Dynamic Linking]]
 
 ## Related
 - [[Shell]]

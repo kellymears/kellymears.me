@@ -26,6 +26,8 @@ The principle is stated easily and applied poorly, because broad permissions are
 - [[Code Signing]]
 - [[Model Context Protocol]]
 - [[Display Server]]
+- [[File Permissions]]
+- [[System Call]]
 
 ## Related
 - [[System Prompt]]

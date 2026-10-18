@@ -19,6 +19,7 @@ Scheduled work is the daemon's near relative; see [[Cron]].
 - [[Cron]]
 - [[Code Signing]]
 - [[Observability]]
+- [[Unix Signal]]
 
 ## Related
 - [[Silent Failure]]

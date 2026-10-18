@@ -22,6 +22,7 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 - [[Supply Chain Security]]
 - [[Bundler]]
 - [[Dotfiles]]
+- [[Dynamic Linking]]
 
 ## Related
 - [[Secret Management]]

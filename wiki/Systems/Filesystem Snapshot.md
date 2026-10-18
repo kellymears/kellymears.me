@@ -17,3 +17,4 @@ A snapshot is not a [[Backup and Restore|backup]] by itself, even though it's of
 - [[Database Migration]]
 - [[Idempotence]]
 - [[Multiversion Concurrency Control]]
+- [[Journaling File System]]

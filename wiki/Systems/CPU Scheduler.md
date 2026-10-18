@@ -33,3 +33,4 @@ The general principle is the one behind every [[Event Loop]]: whoever holds the 
 - [[Race Condition]]
 - [[Attention Residue]]
 - [[Dynamic Voltage and Frequency Scaling]]
+- [[Kernel]]

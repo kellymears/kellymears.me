@@ -17,3 +17,5 @@ Traditional filesystems like ext4 fix the number of inodes at creation time, all
 - [[Filesystem Snapshot]]
 - [[Process]]
 - [[Reference Counting]]
+- [[File Permissions]]
+- [[Journaling File System]]

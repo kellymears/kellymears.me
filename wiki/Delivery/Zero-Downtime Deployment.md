@@ -16,6 +16,7 @@ The harder part, and the one that actually causes outages labeled "the deploy br
 - [[Canary Release]]
 - [[Rollback]]
 - [[Database Migration]]
+- [[Unix Signal]]
 
 ## Related
 - [[Immutable Infrastructure]]

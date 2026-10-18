@@ -25,3 +25,4 @@ Swap usage is a symptom that needs context. A large amount sitting in swap and r
 - [[Least Recently Used Cache]]
 - [[Resource Starvation]]
 - [[Locality of Reference]]
+- [[Page Cache]]

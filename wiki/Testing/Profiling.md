@@ -9,7 +9,7 @@ tags:
   - testing
 summary: Measuring where a running program actually spends its time or memory, so optimization goes to the few places that matter instead of where intuition guesses.
 ---
-**Profiling** measures where a program spends its resources while it runs: CPU time, memory, allocations, locks, or input and output. Its main lesson, repeated across decades, is that programmers are bad at guessing where time goes. A profiler replaces the guess with data, usually showing that a small fraction of the code, the *hot path*, accounts for most of the cost.
+**Profiling** measures where a program spends its resources while it runs: CPU time, memory, allocations, locks, or input and output. Its main lesson is that programmers are bad at guessing where time goes. A profiler replaces the guess with data, usually showing that a small fraction of the code, the *hot path*, accounts for most of the cost.
 
 Donald Knuth's 1974 remark that "premature optimization is the root of all evil" is usually quoted without its next sentence, which says not to pass up the critical 3 percent. Profiling is how you find that 3 percent; see [[Premature Optimization]].
 

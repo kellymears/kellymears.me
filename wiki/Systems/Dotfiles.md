@@ -20,6 +20,7 @@ Package manifests belong here too: a declarative list of installed software make
 - [[Package Manager]]
 - [[Environment Variable]]
 - [[Ricing]]
+- [[Secure Shell]]
 
 ## Related
 - [[Terminal User Interface]]

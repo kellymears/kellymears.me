@@ -18,6 +18,7 @@ Whichever init a system runs, it remains the process that must never crash: its 
 - [[Daemon]]
 - [[Process]]
 - [[Chroot]]
+- [[Kernel]]
 
 ## Related
 - [[Rolling Release]]

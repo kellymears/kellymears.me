@@ -34,3 +34,4 @@ Whatever the approach, the goal is the same: knowing exactly what third-party co
 - [[Lockfile]]
 - [[Reproducible Build]]
 - [[Supply Chain Security]]
+- [[Dynamic Linking]]

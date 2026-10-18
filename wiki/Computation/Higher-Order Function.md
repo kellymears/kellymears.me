@@ -19,3 +19,4 @@ The risk is indirection outrunning its benefit — a codebase where every operat
 - [[Pure Function]]
 - [[Recursion]]
 - [[Lambda Calculus]]
+- [[Unix Pipeline]]

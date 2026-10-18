@@ -8,7 +8,7 @@ tags:
   - systems
 summary: Giving every process its own private address space that the kernel maps onto physical memory page by page, on demand.
 ---
-**Virtual memory** gives every [[Process]] its own private address space, which the kernel maps onto physical memory in fixed-size *pages* (usually 4 KB) through per-process page tables. A process sees one contiguous range of addresses. Behind it, the pages may sit anywhere in RAM, may be shared with other processes, may live on disk in [[Swap]], or may not exist at all yet.
+**Virtual memory** gives every [[Process]] its own private address space, which the [[Kernel|kernel]] maps onto physical memory in fixed-size *pages* (usually 4 KB) through per-process page tables. A process sees one contiguous range of addresses. Behind it, the pages may sit anywhere in RAM, may be shared with other processes, may live on disk in [[Swap]], or may not exist at all yet.
 
 Most of a modern operating system's memory behavior follows from that indirection:
 
@@ -24,9 +24,9 @@ The same design appears wherever a fixed pool has to be shared among variable de
 ## See also
 - [[Swap]]
 - [[Out-of-Memory Killer]]
-- [[Copy-on-Write]]
 - [[Memory Leak]]
 - [[Garbage Collection]]
 - [[Control Groups]]
 - [[Hypervisor]]
 - [[Locality of Reference]]
+- [[Page Cache]]

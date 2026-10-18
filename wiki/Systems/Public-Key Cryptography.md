@@ -19,14 +19,13 @@ It gives two main capabilities:
 
 The security rests on mathematical problems that are easy in one direction and infeasible to reverse: multiplying two large primes is easy but factoring the product is not (RSA, 1977), and the discrete logarithm problem on elliptic curves underpins the smaller, faster keys used today. Because public-key operations are slow, real systems use them only to agree on a symmetric key or to sign a [[Hash Function]] digest, then do bulk encryption with fast symmetric ciphers.
 
-It is everywhere in modern computing. [[Transport Layer Security]] uses key exchange to set up encrypted connections and signatures to prove a server's identity. SSH uses key pairs instead of passwords. [[Code Signing]] proves software came from its publisher, and package managers verify signed releases as part of [[Supply Chain Security]]. A [[JSON Web Token]] can be signed with a private key so any service can verify it. WireGuard and other [[Virtual Private Network]] protocols, end-to-end encrypted messaging, and cryptocurrencies all rest on it.
+It is everywhere in modern computing. [[Transport Layer Security]] uses key exchange to set up encrypted connections and signatures to prove a server's identity. [[Secure Shell|SSH]] uses key pairs instead of passwords. [[Code Signing]] proves software came from its publisher, and package managers verify signed releases as part of [[Supply Chain Security]]. A [[JSON Web Token]] can be signed with a private key so any service can verify it. WireGuard and other [[Virtual Private Network]] protocols, end-to-end encrypted messaging, and cryptocurrencies all rest on it.
 
 The weak point is binding a public key to an identity. A public key proves only that someone holds the matching private key, not who that someone is. Connecting keys to names takes a trust system, such as a [[Certificate Authority]], a web of trust, or simply checking a fingerprint in person. Large quantum computers would break RSA and elliptic-curve schemes, so *post-quantum* algorithms are now being deployed alongside them, since encrypted traffic recorded today could be decrypted later. Keeping private keys private is its own discipline, covered by [[Secret Management]].
 
 ## See also
 - [[Transport Layer Security]]
 - [[Certificate Authority]]
-- [[Hash Function]]
 - [[Code Signing]]
 - [[Secret Management]]
 - [[Zero Trust Network]]

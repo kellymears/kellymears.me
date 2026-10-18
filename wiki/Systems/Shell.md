@@ -29,6 +29,8 @@ Exit status is the shell's only universal signal, and it means "the program retu
 - [[Port]]
 - [[Character Encoding]]
 - [[Terminal User Interface]]
+- [[Unix Pipeline]]
+- [[File Descriptor]]
 
 ## Related
 - [[Silent Failure]]

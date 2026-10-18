@@ -24,3 +24,4 @@ It's the flip side of [[Rate Limiting]]: rate limiting is a hard external cap a 
 - [[Congestion Control]]
 - [[Exponential Backoff]]
 - [[Coroutine]]
+- [[Unix Pipeline]]

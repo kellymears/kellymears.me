@@ -18,6 +18,7 @@ It sits directly behind [[Gall's Law]] and [[Minimum Viable Product]] as one mor
 - [[Minimum Viable Product]]
 - [[Postel's Law]]
 - [[Technical Debt]]
+- [[Unix Pipeline]]
 
 ## Related
 - [[Path Dependence]]

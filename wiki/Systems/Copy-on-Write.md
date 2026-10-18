@@ -21,3 +21,4 @@ The trade copy-on-write makes is complexity for cost: tracking which pages or bl
 - [[Backup and Restore]]
 - [[Reference Counting]]
 - [[Persistent Data Structure]]
+- [[Journaling File System]]

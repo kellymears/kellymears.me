@@ -18,6 +18,7 @@ Namespaces are also not a security boundary on their own. The kernel underneath 
 - [[Containerization]]
 - [[Chroot]]
 - [[Least Privilege]]
+- [[Kernel]]
 
 ## Related
 - [[Process]]

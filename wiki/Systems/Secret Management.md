@@ -26,6 +26,7 @@ Three practical notes.
 - [[Defensive Default]]
 - [[Prompt Injection]]
 - [[Continuous Deployment]]
+- [[Secure Shell]]
 
 ## Related
 - [[Observability]]
