@@ -19,3 +19,4 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 - [[Log-Structured Merge Tree]]
 - [[Pretraining]]
 - [[Differential Privacy]]
+- [[HyperLogLog]]

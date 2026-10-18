@@ -27,3 +27,4 @@ The same structure appears in type inference, scheduling, layout solvers, and de
 - [[Determinism]]
 - [[Voxel]]
 - [[Shader]]
+- [[Backtracking]]

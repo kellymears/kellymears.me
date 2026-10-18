@@ -23,3 +23,5 @@ Recursion is the natural fit for anything with a recursive shape in the data its
 - [[Graph Traversal]]
 - [[Sorting Algorithm]]
 - [[Abstract Syntax Tree]]
+- [[Divide and Conquer]]
+- [[Call Stack]]

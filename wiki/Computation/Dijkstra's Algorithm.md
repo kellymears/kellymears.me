@@ -38,3 +38,5 @@ Shortest paths are easy, but small changes make problems much harder: the travel
 - [[Game AI]]
 - [[Dynamic Programming]]
 - [[Big-O Notation]]
+- [[Binary Heap]]
+- [[Greedy Algorithm]]

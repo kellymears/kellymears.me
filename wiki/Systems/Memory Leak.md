@@ -25,7 +25,7 @@ Leaks in code you can't fix, such as a driver, a vendor library, or a long-runni
 - [[Garbage Collection]]
 - [[Out-of-Memory Killer]]
 - [[Virtual Memory]]
-- [[Least Recently Used Cache]]
+- [[Linked List]]
 - [[Closure]]
 - [[Observability]]
 - [[Heisenbug]]

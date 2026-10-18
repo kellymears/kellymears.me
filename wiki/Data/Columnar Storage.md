@@ -29,7 +29,7 @@ Data usually reaches a warehouse from transactional databases through [[Change D
 ## See also
 - [[Relational Database]]
 - [[Denormalization]]
-- [[Change Data Capture]]
+- [[HyperLogLog]]
 - [[ETL Pipeline]]
 - [[Locality of Reference]]
 - [[Data Compression]]

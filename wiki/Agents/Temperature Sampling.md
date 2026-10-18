@@ -19,3 +19,4 @@ The practical rule of thumb is that temperature should track the task's toleranc
 - [[Constrained Decoding]]
 - [[Entropy]]
 - [[Knowledge Distillation]]
+- [[Greedy Algorithm]]

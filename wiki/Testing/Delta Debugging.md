@@ -35,3 +35,4 @@ The payoff is the same one a [[Reproducible Case]] provides by hand. A minimal f
 - [[Property-Based Testing]]
 - [[Fuzzing]]
 - [[Git Bisect]]
+- [[Divide and Conquer]]

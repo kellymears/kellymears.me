@@ -30,6 +30,7 @@ Common uses include fraud detection, live dashboards, alerting, keeping search i
 
 ## See also
 - [[Message Queue]]
-- [[Change Data Capture]]
+- [[Reservoir Sampling]]
 - [[Event Sourcing]]
 - [[Delivery Guarantees]]
+- [[HyperLogLog]]

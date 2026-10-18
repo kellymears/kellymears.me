@@ -16,7 +16,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 
 ## See also
 - [[Determinism]]
-- [[Fingerprint]]
+- [[Error-Correcting Code]]
 - [[Cache Invalidation]]
 - [[Version Control]]
 - [[Public-Key Cryptography]]
@@ -30,3 +30,4 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[Hash Table]]
 - [[Merkle Tree]]
 - [[Pseudorandom Number Generator]]
+- [[HyperLogLog]]

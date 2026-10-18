@@ -31,3 +31,4 @@ Entity resolution also works against privacy. Linking supposedly anonymous recor
 - [[Database Normalization]]
 - [[Knowledge Graph]]
 - [[Differential Privacy]]
+- [[Union-Find]]

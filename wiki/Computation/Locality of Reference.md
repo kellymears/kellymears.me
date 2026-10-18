@@ -31,8 +31,9 @@ The same principle repeats at every level of the memory hierarchy. [[Virtual Mem
 Multicore processors add a trap called **false sharing**. When two threads write to different variables that happen to share a cache line, the cores keep passing the line back and forth, slowing both, though they never touch each other's data. Padding variables onto separate lines fixes it. Problems like these rarely show up in code review and are found with [[Profiling]] and [[Benchmarking]].
 
 ## See also
-- [[Virtual Memory]]
+- [[Binary Heap]]
 - [[B-Tree]]
 - [[Columnar Storage]]
 - [[Profiling]]
 - [[MapReduce]]
+- [[Linked List]]

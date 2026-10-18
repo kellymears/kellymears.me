@@ -20,3 +20,4 @@ The general workaround where TCO isn't guaranteed is manual: rewrite the recursi
 - [[Interpreter]]
 - [[Finite State Machine]]
 - [[Closure]]
+- [[Call Stack]]

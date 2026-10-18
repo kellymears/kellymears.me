@@ -28,6 +28,6 @@ Traversals do a lot of practical work:
 When edges have different costs, such as road lengths, plain BFS no longer finds the shortest path. [[Dijkstra's Algorithm]] replaces the queue with a priority queue ordered by distance, and A* adds a heuristic toward the goal, the basis of pathfinding in [[Game AI]]. Iterative deepening combines the two basic searches: repeated depth-limited DFS that finds shortest paths like BFS while using little memory.
 
 ## See also
-- [[Topological Sort]]
-- [[Recursion]]
+- [[Union-Find]]
+- [[Backtracking]]
 - [[Big-O Notation]]

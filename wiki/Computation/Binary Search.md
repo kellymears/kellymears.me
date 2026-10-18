@@ -17,7 +17,7 @@ Boundaries are where implementations break. Whether the upper index is inclusive
 The halving generalizes to any predicate that is false then true, which is why [[Git Bisect|bisecting]] a history in [[Version Control]] finds the commit that introduced a [[Regression]].
 
 ## See also
-- [[Big-O Notation]]
+- [[Divide and Conquer]]
 - [[Hash Table]]
 - [[Reproducible Case]]
 - [[Boundary Value Analysis]]

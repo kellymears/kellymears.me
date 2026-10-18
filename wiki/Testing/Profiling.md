@@ -29,6 +29,6 @@ Continuous profiling, which samples production systems at low overhead all the t
 ## See also
 - [[Benchmarking]]
 - [[Instrumentation]]
-- [[Premature Optimization]]
+- [[Call Stack]]
 - [[Observability]]
 - [[Locality of Reference]]

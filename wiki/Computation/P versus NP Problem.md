@@ -32,3 +32,5 @@ Small changes can cross the line. Finding the shortest path in a graph is easy, 
 - [[Public-Key Cryptography]]
 - [[Dynamic Programming]]
 - [[Graph Traversal]]
+- [[Greedy Algorithm]]
+- [[Backtracking]]

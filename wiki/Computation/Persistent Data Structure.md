@@ -35,3 +35,4 @@ The same ideas appear outside programming languages. Git stores history as a per
 - [[Trie]]
 - [[Merkle Tree]]
 - [[Undo]]
+- [[Linked List]]

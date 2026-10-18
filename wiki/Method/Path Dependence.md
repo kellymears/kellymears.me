@@ -19,3 +19,4 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[Version Control]]
 - [[Regression]]
 - [[Sunk Cost Fallacy]]
+- [[Greedy Algorithm]]

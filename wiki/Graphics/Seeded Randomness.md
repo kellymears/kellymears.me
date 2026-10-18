@@ -18,7 +18,7 @@ Two cautions. A generator's *quality* matters for simulation and not much for ga
 - [[Determinism]]
 - [[Procedural Generation]]
 - [[Roguelike]]
-- [[Reproducible Case]]
+- [[Reservoir Sampling]]
 - [[Cellular Automaton]]
 - [[Constraint Propagation]]
 - [[L-System]]

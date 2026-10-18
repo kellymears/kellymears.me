@@ -21,3 +21,5 @@ The common mistake is reaching for DP on a problem that only has optimal substru
 - [[Dijkstra's Algorithm]]
 - [[P versus NP Problem]]
 - [[Edit Distance]]
+- [[Greedy Algorithm]]
+- [[Divide and Conquer]]

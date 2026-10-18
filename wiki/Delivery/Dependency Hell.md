@@ -37,3 +37,4 @@ Dependencies are also a security surface. Each one can be compromised, typosquat
 - [[Supply Chain Security]]
 - [[Dynamic Linking]]
 - [[Automated Dependency Updates]]
+- [[Backtracking]]

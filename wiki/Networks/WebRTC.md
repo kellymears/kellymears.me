@@ -23,3 +23,4 @@ The practical caution for anything built on public signaling infrastructure is t
 - [[Idempotence]]
 - [[Virtual Private Network]]
 - [[Network Effect]]
+- [[Error-Correcting Code]]
