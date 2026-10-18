@@ -30,6 +30,6 @@ Tracking identifiers such as an [[HTTP Cookie]] count as personal data in Europe
 ## See also
 - [[Data Retention]]
 - [[Geospatial Data]]
-- [[Row-Level Security]]
+- [[Machine Unlearning]]
 - [[Object Storage]]
 - [[Browser Fingerprinting]]

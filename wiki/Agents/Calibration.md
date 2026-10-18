@@ -27,7 +27,7 @@ People need calibration too. Forecasting research found that most people are ove
 Calibration also shifts with data. A model calibrated on its training distribution can become overconfident when inputs change, precisely when caution matters most; see [[Distribution Shift]].
 
 ## See also
-- [[Precision and Recall]]
+- [[Self-Consistency]]
 - [[ELIZA Effect]]
 - [[Wisdom of the Crowd]]
 - [[Confidence Interval]]

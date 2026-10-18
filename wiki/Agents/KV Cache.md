@@ -19,4 +19,4 @@ Because the cache is keyed by exact token prefix, anything that changes an early
 - [[Softmax]]
 - [[Beam Search]]
 - [[Token Budget]]
-- [[Latency and Jitter]]
+- [[Inference Serving]]

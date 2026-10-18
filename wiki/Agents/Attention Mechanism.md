@@ -32,7 +32,7 @@ Attention spreads finite weight across everything in context, which helps explai
 ## See also
 - [[Backpropagation]]
 - [[Residual Connection]]
-- [[Recurrent Neural Network]]
+- [[Neural Network Pruning]]
 - [[Cosine Similarity]]
-- [[Neural Network]]
+- [[Machine Translation]]
 - [[Softmax]]

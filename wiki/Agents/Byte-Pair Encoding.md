@@ -36,4 +36,4 @@ The tokenizer is fixed before [[Pretraining]] and cannot easily change afterward
 - [[Zipf's Law]]
 - [[Information Theory]]
 - [[Stemming and Lemmatization]]
-- [[Large Language Model]]
+- [[Machine Translation]]

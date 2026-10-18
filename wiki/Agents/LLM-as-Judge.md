@@ -33,3 +33,4 @@ It works best under a few constraints.
 - [[Benchmark Contamination]]
 - [[Calibration]]
 - [[Synthetic Data]]
+- [[Self-Consistency]]

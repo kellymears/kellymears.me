@@ -26,5 +26,5 @@ Trees need little preprocessing: they're indifferent to the scale of features an
 Ensembles give up the single tree's readability. Feature-importance scores and per-prediction attributions recover some of it.
 
 ## See also
-- [[Train-Test Split]]
-- [[Fault Tree Analysis]]
+- [[Self-Consistency]]
+- [[Neural Network Pruning]]

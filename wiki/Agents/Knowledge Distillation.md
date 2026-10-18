@@ -29,6 +29,6 @@ The idea echoes human teaching: a learner gains from seeing how close the altern
 - [[Synthetic Data]]
 - [[Fine-Tuning]]
 - [[Catastrophic Forgetting]]
-- [[Diffusion Model]]
+- [[Model Merging]]
 - [[Open-Weight Model]]
 - [[Regularization]]

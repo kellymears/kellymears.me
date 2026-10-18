@@ -27,7 +27,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[LLM-as-Judge]]
 - [[Write-Ahead Logging]]
 - [[Caller ID Authentication]]
-- [[Hash Table]]
+- [[AI Watermarking]]
 - [[Merkle Tree]]
 - [[Pseudorandom Number Generator]]
 - [[HyperLogLog]]

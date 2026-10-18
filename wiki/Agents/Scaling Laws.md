@@ -29,7 +29,7 @@ As gains from pretraining slowed, attention turned to a second axis: spending mo
 ## See also
 - [[Pretraining]]
 - [[Double Descent]]
-- [[Knowledge Distillation]]
+- [[Neural Network Pruning]]
 - [[Large Language Model]]
 - [[Neural Network]]
 - [[Gradient Descent]]

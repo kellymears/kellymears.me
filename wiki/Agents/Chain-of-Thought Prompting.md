@@ -21,3 +21,4 @@ The technique has since been absorbed into models themselves: so-called "reasoni
 - [[Metacognition]]
 - [[Reasoning Model]]
 - [[Choice Blindness]]
+- [[Self-Consistency]]

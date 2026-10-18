@@ -13,13 +13,13 @@ Quantization is largely orthogonal to [[Fine-Tuning]] — a model can be fine-tu
 
 ## See also
 - [[K-Means Clustering]]
-- [[Large Language Model]]
+- [[Inference Serving]]
 - [[Token Budget]]
 - [[Temperature Sampling]]
 - [[Mixture of Experts]]
 - [[KV Cache]]
 - [[Dithering]]
-- [[Data Compression]]
+- [[Neural Network Pruning]]
 - [[Graphics Processing Unit]]
 - [[Knowledge Distillation]]
 - [[Neural Network]]

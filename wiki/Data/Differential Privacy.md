@@ -35,7 +35,7 @@ Machine learning faces the same risk: models can memorize training examples, and
 
 ## See also
 - [[Data Retention]]
-- [[Browser Fingerprinting]]
+- [[Machine Unlearning]]
 - [[Open Data]]
 - [[Synthetic Data]]
 - [[Geospatial Data]]

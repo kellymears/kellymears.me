@@ -32,7 +32,7 @@ Lineage pairs with pipeline [[Observability]]: freshness, volume, and schema mon
 
 ## See also
 - [[Audit Log]]
-- [[ETL Pipeline]]
+- [[Machine Unlearning]]
 - [[Data Cleaning]]
 - [[Data Mesh]]
 - [[Data Contract]]

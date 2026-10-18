@@ -31,6 +31,6 @@ Why not just measure accuracy, the fraction of predictions that are right? Becau
 These metrics depend entirely on correct labels for comparison; see [[Ground Truth]]. They also need a fixed test set the model hasn't seen; see [[Train-Test Split]]. Language model evaluations often reduce to them, such as how many true facts an answer includes against how many claims are invented; see [[Hallucination]] and [[Evaluation Harness]]. Systems that report a confidence score are also judged on whether those confidences mean what they say; see [[Calibration]].
 
 ## See also
-- [[Inverted Index]]
+- [[Hybrid Search]]
 - [[Guardrail]]
 - [[Stemming and Lemmatization]]

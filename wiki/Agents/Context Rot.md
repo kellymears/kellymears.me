@@ -33,7 +33,7 @@ The response is to treat context as a scarce resource to curate, sometimes calle
 These pull against [[Prompt Caching]], which rewards keeping a long, stable prefix, so systems balance cost against freshness. The human parallel is [[Working Memory]]: capacity is limited, and overload degrades performance, which is why managing [[Cognitive Load]] matters for people and models alike.
 
 ## See also
-- [[Context Window]]
+- [[Document Chunking]]
 - [[Context Engineering]]
 - [[Subagent]]
 - [[Token Budget]]

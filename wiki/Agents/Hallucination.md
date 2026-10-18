@@ -17,7 +17,7 @@ Mitigations that work are all about grounding. Give the model tools to *look* ra
 - [[Dependency Confusion]]
 - [[Choice Blindness]]
 - [[Guardrail]]
-- [[Nondeterminism]]
+- [[Self-Consistency]]
 - [[Sycophancy]]
 - [[Pretraining]]
 

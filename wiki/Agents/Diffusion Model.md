@@ -33,5 +33,5 @@ The same idea spread to video, 3D assets that feed [[Gaussian Splatting]], speec
 - [[Contrastive Learning]]
 - [[Image Resampling]]
 - [[Autoencoder]]
-- [[Diffusion]]
+- [[AI Watermarking]]
 - [[Generative Adversarial Network]]

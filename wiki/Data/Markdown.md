@@ -32,3 +32,4 @@ Two authoring points are worth stating.
 - [[YAML]]
 - [[Local-First Software]]
 - [[Docs as Code]]
+- [[Document Chunking]]

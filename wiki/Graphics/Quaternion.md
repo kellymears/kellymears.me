@@ -30,7 +30,7 @@ Game engines store object orientations as quaternions internally, even when the 
 - [[Motion Capture]]
 - [[Keyframe Animation]]
 - [[Inertial Measurement Unit]]
-- [[Easing]]
+- [[Model Merging]]
 - [[Newton's Laws of Motion]]
 - [[Perspective Projection]]
 - [[Linear Interpolation]]

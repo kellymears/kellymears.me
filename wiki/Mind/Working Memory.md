@@ -25,7 +25,7 @@ There is a close analogy in machines. A [[Context Window]] is a language model's
 - [[Expert Intuition]]
 - [[Context Rot]]
 - [[Choking Under Pressure]]
-- [[Recognition Rather Than Recall]]
+- [[Document Chunking]]
 - [[Dyscalculia]]
 - [[Spaced Repetition]]
 - [[Attentional Blink]]

@@ -31,3 +31,4 @@ Synthetic data is also promoted for privacy, replacing real records with statist
 ## See also
 - [[Scaling Laws]]
 - [[Evaluation Harness]]
+- [[AI Watermarking]]

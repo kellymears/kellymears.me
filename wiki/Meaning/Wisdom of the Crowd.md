@@ -32,3 +32,4 @@ The idea has limits. Crowds do well on questions with a measurable answer that i
 - [[Speculative Bubble]]
 - [[Social Proof]]
 - [[Pluralistic Ignorance]]
+- [[Self-Consistency]]

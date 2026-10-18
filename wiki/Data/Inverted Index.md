@@ -29,7 +29,7 @@ Inverted indexes are optimized for reading. Posting lists are compressed and sto
 ## See also
 - [[PageRank]]
 - [[Stemming and Lemmatization]]
-- [[Cosine Similarity]]
+- [[Hybrid Search]]
 - [[Web Crawler]]
 - [[String-Searching Algorithm]]
 - [[Zipf's Law]]

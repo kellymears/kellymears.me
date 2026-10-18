@@ -33,5 +33,5 @@ The ideas survive in business rules engines, tax software, and medical decision 
 
 ## See also
 - [[Decision Tree]]
-- [[Ontology]]
+- [[Machine Translation]]
 - [[Logic Programming]]

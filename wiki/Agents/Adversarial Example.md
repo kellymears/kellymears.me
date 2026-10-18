@@ -30,3 +30,5 @@ The practical lesson is to treat a model's input as untrusted, and not to assume
 ## See also
 - [[Adversarial Review]]
 - [[Guardrail]]
+- [[AI Watermarking]]
+- [[Machine Unlearning]]

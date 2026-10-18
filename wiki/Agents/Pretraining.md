@@ -33,5 +33,5 @@ Earlier n-gram models, essentially a [[Markov Chain]] over words, predicted the 
 ## See also
 - [[Bitter Lesson]]
 - [[Perplexity]]
-- [[Gradient Descent]]
-- [[Benchmark Contamination]]
+- [[Model Merging]]
+- [[Machine Unlearning]]

@@ -31,3 +31,4 @@ Two failure modes are worth naming. A guardrail can be *too strong for its conte
 - [[Jailbreak]]
 - [[Precision and Recall]]
 - [[AI Alignment]]
+- [[Activation Steering]]

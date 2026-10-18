@@ -25,3 +25,4 @@ Outside language, beam search is a general technique for searching huge spaces w
 ## See also
 - [[Speculative Decoding]]
 - [[Large Language Model]]
+- [[Machine Translation]]

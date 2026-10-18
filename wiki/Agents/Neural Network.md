@@ -33,4 +33,4 @@ The biological analogy is loose. Real neurons spike, learn locally, and are wire
 - [[SIMD]]
 - [[Residual Connection]]
 - [[Denoising]]
-- [[Expert System]]
+- [[Neural Network Pruning]]

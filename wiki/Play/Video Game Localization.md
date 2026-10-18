@@ -20,6 +20,6 @@ The historical record includes outright alteration: religious and violent conten
 - [[Internationalization]]
 - [[Creole Language]]
 - [[Wiki]]
-- [[Documentation Rot]]
+- [[Machine Translation]]
 - [[Pseudolocalization]]
 - [[Dogfooding]]

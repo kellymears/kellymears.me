@@ -23,4 +23,4 @@ The method spread well beyond the web. Variants rank scientific papers, find inf
 ## See also
 - [[Inverted Index]]
 - [[Graph Database]]
-- [[Network Effect]]
+- [[Hybrid Search]]

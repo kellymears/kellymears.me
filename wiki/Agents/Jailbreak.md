@@ -26,5 +26,5 @@ Jailbreaks also show the limits of trained-in behavior. A model that can be talk
 ## See also
 - [[Adversarial Example]]
 - [[Guardrail]]
-- [[Adversarial Review]]
+- [[Activation Steering]]
 - [[Sycophancy]]

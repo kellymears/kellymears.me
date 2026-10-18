@@ -27,7 +27,7 @@ The reasons people choose open weights:
 The costs are real too. Safety training can be stripped by further fine-tuning, so a released model's [[Guardrail]] behavior isn't permanent, and a release can't be recalled. Model files are also part of the [[Supply Chain Security]] surface: older formats based on Python's pickle could execute arbitrary code when loaded, which is why the **safetensors** format, holding only raw tensors, became the norm. Model hubs such as Hugging Face play the role a [[Package Manager]] registry plays for code.
 
 ## See also
-- [[Quantization]]
+- [[Activation Steering]]
 - [[Model Routing]]
 - [[Fine-Tuning]]
-- [[Knowledge Distillation]]
+- [[Model Merging]]

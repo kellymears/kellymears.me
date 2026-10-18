@@ -32,7 +32,7 @@ Distributed systems use a related idea under the name *tombstone*: a marker that
 - [[Audit Log]]
 - [[Bitemporal Data]]
 - [[Undo]]
-- [[Personal Data]]
+- [[Machine Unlearning]]
 - [[Data Retention]]
 - [[Rollback]]
 - [[Foreign Key]]

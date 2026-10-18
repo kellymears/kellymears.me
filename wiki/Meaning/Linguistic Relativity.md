@@ -24,7 +24,7 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 - [[Information Architecture]]
 - [[Creole Language]]
 - [[Code Comment]]
-- [[Hallucination]]
+- [[Machine Translation]]
 - [[Emotional Granularity]]
 - [[Inner Speech]]
 - [[Framing Effect]]

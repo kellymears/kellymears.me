@@ -24,7 +24,7 @@ Recurrence keeps one real advantage: **inference cost**. An RNN's memory is cons
 That has revived recurrent designs. **State space models**, from S4 (2021) to Mamba (2023, Albert Gu and Tri Dao), are linear recurrences that can be computed in parallel during training and run as a cheap loop at inference. Pure recurrent models still struggle to recall exact details from far back, since everything must squeeze through a fixed state, so many recent models are hybrids, mixing a few attention layers with many recurrent ones. The trade-off is between compressing history and keeping all of it, which [[Context Rot]] measures from the other side.
 
 ## See also
-- [[Attention Mechanism]]
+- [[Machine Translation]]
 - [[Markov Chain]]
 - [[Automatic Speech Recognition]]
 - [[Finite State Machine]]

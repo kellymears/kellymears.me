@@ -26,6 +26,6 @@ Physical documents solved the adjacent problem — proving a record was not alte
 
 ## Related
 - [[Atomic Commit]]
-- [[Technical Debt]]
+- [[AI Watermarking]]
 - [[Reproducible Build]]
 - [[ETL Pipeline]]

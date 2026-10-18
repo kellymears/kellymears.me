@@ -15,8 +15,8 @@ The tradeoff against prompting is worth being explicit about: fine-tuning is the
 ## See also
 - [[Catastrophic Forgetting]]
 - [[Supervised Learning]]
-- [[Retrieval-Augmented Generation]]
-- [[Quantization]]
+- [[Model Merging]]
+- [[Machine Unlearning]]
 - [[Regularization]]
 - [[Imitation Learning]]
 - [[Reinforcement Learning from Human Feedback]]

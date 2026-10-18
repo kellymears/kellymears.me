@@ -22,6 +22,6 @@ Caches expire after minutes of inactivity and are evicted under memory pressure,
 - [[Context Engineering]]
 - [[Token Budget]]
 - [[Cache Invalidation]]
-- [[System Prompt]]
+- [[Inference Serving]]
 - [[Memoization]]
 - [[Context Rot]]

@@ -25,5 +25,5 @@ Tools are part of the context too. Each tool's description takes up space, and a
 The discipline resembles managing human attention. People can hold only a few things in mind at once, and good documentation surfaces what's relevant instead of everything; see [[Working Memory]]. As models improve, they need less hand-holding, but context remains finite, so choosing what to show stays a design problem.
 
 ## See also
-- [[Prompt]]
+- [[Document Chunking]]
 - [[Multi-Agent Orchestration]]
