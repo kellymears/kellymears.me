@@ -24,10 +24,10 @@ Exit status is the shell's only universal signal, and it means "the program retu
 ## See also
 - [[Environment Variable]]
 - [[Glob]]
-- [[Process]]
+- [[Terminal Multiplexer]]
 - [[Dotfiles]]
 - [[Port]]
-- [[Character Encoding]]
+- [[Fork and Exec]]
 - [[Terminal User Interface]]
 - [[Unix Pipeline]]
 - [[File Descriptor]]

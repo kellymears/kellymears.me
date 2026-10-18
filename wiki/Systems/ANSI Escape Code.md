@@ -33,3 +33,4 @@ Text encoding interacts with all of this. A terminal must know how many columns 
 - [[Font Rendering]]
 - [[Logging]]
 - [[ASCII Art]]
+- [[Terminal Multiplexer]]

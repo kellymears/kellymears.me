@@ -37,4 +37,4 @@ A [[Unix Signal]] is the user-space analog, an asynchronous notification deliver
 - [[Context Switch]]
 - [[Watchdog Timer]]
 - [[Real-Time Operating System]]
-- [[Lock-Free Data Structure]]
+- [[Entropy Pool]]

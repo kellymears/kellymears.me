@@ -27,7 +27,7 @@ Every stage is a place to break. A corrupt bootloader configuration stops the ma
 
 ## See also
 - [[Trusted Platform Module]]
-- [[Kernel]]
+- [[MicroVM]]
 - [[Systemd]]
 - [[Immutable Infrastructure]]
 - [[Full-Disk Encryption]]

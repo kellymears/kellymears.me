@@ -22,9 +22,9 @@ Scheduled work is the daemon's near relative; see [[Cron]].
 - [[Unix Signal]]
 
 ## Related
-- [[Silent Failure]]
+- [[Terminal Multiplexer]]
 - [[Resource Starvation]]
-- [[Ground Truth]]
+- [[File Watching]]
 - [[Truncation Bias]]
 - [[Root Cause Analysis]]
 - [[Instrumentation]]

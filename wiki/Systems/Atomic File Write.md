@@ -33,3 +33,4 @@ Databases need finer-grained guarantees than whole-file replacement and use logs
 ## See also
 - [[Idempotence]]
 - [[Time-of-Check to Time-of-Use]]
+- [[File Watching]]

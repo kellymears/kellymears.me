@@ -28,7 +28,7 @@ Pipelines have sharp edges. By default the shell reports only the last command's
 
 ## See also
 - [[Shell]]
-- [[File Descriptor]]
+- [[Fork and Exec]]
 - [[Backpressure]]
 - [[Communicating Sequential Processes]]
 - [[Exit Status]]

@@ -32,3 +32,5 @@ Fast feedback matters: each wait between a change and its result breaks concentr
 - [[Source Map]]
 - [[ES Modules]]
 - [[Developer Experience]]
+- [[Live Patching]]
+- [[File Watching]]

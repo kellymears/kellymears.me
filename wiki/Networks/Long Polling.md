@@ -24,7 +24,7 @@ Polling hasn't gone away. It survives proxies and [[Firewall]] rules that break 
 Polling well means being polite. Clients should back off when nothing changes or the server struggles, using [[Exponential Backoff]] with random jitter, since thousands of clients polling in lockstep produce a [[Thundering Herd]]. Browsers throttle timers in hidden tabs, which slows polling too, a deliberate saving described in [[Background Tab Throttling]].
 
 ## See also
-- [[Backpressure]]
+- [[File Watching]]
 - [[Rate Limiting]]
 - [[MQTT]]
 - [[Optimistic UI]]

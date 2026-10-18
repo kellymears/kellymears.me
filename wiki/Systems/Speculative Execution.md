@@ -27,6 +27,6 @@ Variants have kept appearing, many involving [[Simultaneous Multithreading]], wh
 - [[Moore's Law]]
 - [[Cross-Origin Isolation]]
 - [[Address Space Layout Randomization]]
-- [[Virtual Memory]]
+- [[Rowhammer]]
 - [[Just-in-Time Compilation]]
 - [[Memory Model]]

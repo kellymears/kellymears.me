@@ -32,7 +32,7 @@ SSH does much more than remote shells:
 Because SSH is powerful, its servers are constant targets. Internet-facing servers see password-guessing bots within minutes. Common hardening disables password login and direct root login, limits which users may connect, and puts SSH behind a [[Firewall]] or a mesh network, moving toward a [[Zero Trust Network]] model where access depends on identity rather than network location. A 2024 backdoor planted in the xz compression library, aimed at OpenSSH, was caught shortly before wide release.
 
 ## See also
-- [[Superuser]]
+- [[Terminal Multiplexer]]
 - [[Job Control]]
 - [[Pseudoterminal]]
 - [[Configuration Management]]

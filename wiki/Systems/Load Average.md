@@ -31,3 +31,4 @@ Load averages remain useful as a quick smoke alarm. A glance at `uptime` when a 
 - [[Observability]]
 - [[Thermal Throttling]]
 - [[Simultaneous Multithreading]]
+- [[Live Patching]]

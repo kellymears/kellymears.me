@@ -19,7 +19,7 @@ Working with them from a script has a few sharp edges.
 Diagnosing contention needs per-process detail rather than an aggregate load figure, which lags and never says which program is responsible. See [[Resource Starvation]]; [[Pressure Stall Information]] measures the waiting directly, per resource.
 
 ## See also
-- [[Shell]]
+- [[Fork and Exec]]
 - [[Daemon]]
 - [[Port]]
 - [[Inter-Process Communication]]

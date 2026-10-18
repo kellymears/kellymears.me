@@ -27,6 +27,6 @@ The weak point is binding a public key to an identity. A public key proves only 
 - [[Commit Signing]]
 - [[Full-Disk Encryption]]
 - [[Arbitrary-Precision Arithmetic]]
-- [[Trusted Platform Module]]
+- [[Entropy Pool]]
 - [[Secrets Management]]
 - [[Quantum Computing]]

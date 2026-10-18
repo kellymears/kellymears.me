@@ -17,7 +17,7 @@ Where full determinism is not achievable, the fallback is to isolate the non-det
 ## See also
 - [[Fingerprint]]
 - [[Testability]]
-- [[Flaky Test]]
+- [[Entropy Pool]]
 - [[Nondeterminism]]
 - [[Bundler]]
 - [[Cache Invalidation]]

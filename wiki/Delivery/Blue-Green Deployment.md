@@ -26,3 +26,4 @@ It's a coarser instrument than [[Canary Release]], which shifts a small percenta
 - [[Twelve-Factor App]]
 - [[Rolling Deployment]]
 - [[Progressive Delivery]]
+- [[Live Patching]]

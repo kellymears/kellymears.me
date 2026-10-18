@@ -23,7 +23,7 @@ Leaks in code you can't fix, such as a driver, a vendor library, or a long-runni
 
 ## See also
 - [[Ownership and Borrowing]]
-- [[Out-of-Memory Killer]]
+- [[Memory Allocator]]
 - [[Virtual Memory]]
 - [[Linked List]]
 - [[Closure]]

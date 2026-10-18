@@ -32,3 +32,4 @@ Rolling back is a rolling deployment of the old version, so it takes as long as 
 - [[Deployment Pipeline]]
 - [[Service Level Objective]]
 - [[Kubernetes]]
+- [[Live Patching]]

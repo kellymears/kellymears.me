@@ -20,7 +20,7 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 - [[Monorepo]]
 - [[Node.js]]
 - [[Dependency Confusion]]
-- [[Bundler]]
+- [[Filesystem Hierarchy Standard]]
 - [[Dotfiles]]
 - [[Dynamic Linking]]
 

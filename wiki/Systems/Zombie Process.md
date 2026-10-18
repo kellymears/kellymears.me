@@ -27,4 +27,4 @@ The pattern of keeping a tombstone until someone acknowledges it shows up elsewh
 
 ## See also
 - [[Unix Pipeline]]
-- [[Systemd]]
+- [[Fork and Exec]]

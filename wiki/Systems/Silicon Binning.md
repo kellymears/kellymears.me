@@ -31,3 +31,4 @@ Binning is a general pattern beyond chips: LEDs are binned by [[Color Temperatur
 - [[Color Temperature]]
 - [[Microcode]]
 - [[Simultaneous Multithreading]]
+- [[Hybrid CPU Architecture]]

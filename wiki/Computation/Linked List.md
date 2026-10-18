@@ -31,6 +31,6 @@ Lists have hazards. A cycle, where a node points back to an earlier one, turns a
 ## See also
 - [[Ring Buffer]]
 - [[Binary Heap]]
-- [[Call Stack]]
+- [[Memory Allocator]]
 - [[Skip List]]
 - [[Lisp]]

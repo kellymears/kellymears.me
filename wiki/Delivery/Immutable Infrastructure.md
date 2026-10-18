@@ -15,7 +15,7 @@ The tradeoff is that anything genuinely needing in-place mutation — a long-liv
 
 ## See also
 - [[Overlay Filesystem]]
-- [[Blue-Green Deployment]]
+- [[Filesystem Hierarchy Standard]]
 - [[GitOps]]
 - [[Zero-Downtime Deployment]]
 

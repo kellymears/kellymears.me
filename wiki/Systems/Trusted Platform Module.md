@@ -26,8 +26,8 @@ The register values also enable **remote attestation**: the TPM signs its measur
 TPMs are a simple, cheap kind of hardware security module. Larger ones protect the keys of certificate authorities and banks. All share the principle that keys should live in hardware that uses them without revealing them, a hardware form of [[Least Privilege]] that also shrinks what [[Secret Management]] must guard.
 
 ## See also
-- [[Microcode]]
-- [[Firmware]]
+- [[Rowhammer]]
+- [[Entropy Pool]]
 - [[Passkey]]
 - [[Near-Field Communication]]
 - [[Anti-Cheat]]

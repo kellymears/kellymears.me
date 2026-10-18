@@ -26,9 +26,10 @@ Rewriting everything isn't practical, so the industry works on several fronts. M
 The most effective strategy so far has been writing *new* code in memory-safe languages. Vulnerabilities concentrate in new and recently changed code, so old code that is well tested matters less. Google reported in 2024 that memory safety bugs in Android fell from 76% of its vulnerabilities in 2019 to 24%, mostly because new code was written in Rust and Kotlin. Government security agencies in the United States and elsewhere have since urged software makers to publish roadmaps toward memory-safe languages, treating it as part of [[Supply Chain Security]].
 
 ## See also
-- [[Address Space Layout Randomization]]
+- [[Memory Allocator]]
 - [[Ownership and Borrowing]]
 - [[Sanitizer]]
 - [[Integer Overflow]]
 - [[Abstract Interpretation]]
 - [[Von Neumann Architecture]]
+- [[Rowhammer]]

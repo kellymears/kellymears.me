@@ -4,8 +4,6 @@ aliases:
   - CPU pinning
   - Core pinning
   - taskset
-  - Hybrid CPU architecture
-  - P-cores and E-cores
 tags:
   - systems
 summary: Restricting which cores a thread may run on, which matters most on processors whose cores are not all alike.
@@ -27,6 +25,6 @@ The costs are real. A pinned thread can't escape a busy core, so badly chosen af
 - [[Simultaneous Multithreading]]
 - [[Concurrency and Parallelism]]
 - [[Cache Coherence]]
-- [[Resource Starvation]]
+- [[Hybrid CPU Architecture]]
 - [[Process]]
 - [[Thermal Throttling]]

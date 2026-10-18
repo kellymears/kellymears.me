@@ -24,3 +24,4 @@ Deleting a partition usually erases only its table entry, not its data, which is
 ## See also
 - [[Inode]]
 - [[Journaling File System]]
+- [[Filesystem Hierarchy Standard]]

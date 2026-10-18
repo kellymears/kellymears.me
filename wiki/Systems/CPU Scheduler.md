@@ -33,4 +33,4 @@ The general principle is the one behind every [[Event Loop]]: whoever holds the 
 - [[Semaphore]]
 - [[Real-Time Operating System]]
 - [[Dynamic Voltage and Frequency Scaling]]
-- [[Kernel]]
+- [[Hybrid CPU Architecture]]

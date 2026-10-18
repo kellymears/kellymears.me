@@ -28,3 +28,4 @@ Pointing the configuration root somewhere unusual has one consequence worth anti
 - [[Secret Management]]
 - [[Character Encoding]]
 - [[Filesystem]]
+- [[Filesystem Hierarchy Standard]]

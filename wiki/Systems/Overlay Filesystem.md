@@ -29,3 +29,4 @@ The approach has costs:
 ## See also
 - [[Filesystem Snapshot]]
 - [[Package Manager]]
+- [[Filesystem Hierarchy Standard]]

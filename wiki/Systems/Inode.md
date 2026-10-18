@@ -22,3 +22,4 @@ Traditional filesystems like ext4 fix the number of inodes at creation time, all
 - [[Hard Link]]
 - [[Metadata]]
 - [[Device File]]
+- [[File Watching]]

@@ -32,4 +32,4 @@ A hotfix usually belongs to an incident, and the [[Incident Response]] review th
 - [[Release Train]]
 - [[Code Freeze]]
 - [[Cherry-Pick]]
-- [[Semantic Versioning]]
+- [[Live Patching]]

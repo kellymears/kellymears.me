@@ -22,7 +22,7 @@ Each operating point is a *performance state* (P-state). The operating system's 
 DVFS can also be a source of instability. A chip that needs more voltage than the firmware supplies at some point on the curve fails only when the load lands on that point, so it can crash under light loads and pass every stress test. That is the [[Heisenbug]] pattern produced by hardware.
 
 ## See also
-- [[Thermal Throttling]]
+- [[Hybrid CPU Architecture]]
 - [[Electromigration]]
 - [[Silicon Binning]]
 - [[CPU Scheduler]]

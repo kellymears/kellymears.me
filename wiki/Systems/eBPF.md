@@ -30,4 +30,4 @@ eBPF is not limited to Linux any more. Microsoft has an implementation for Windo
 - [[Seccomp]]
 - [[Service Mesh]]
 - [[Packet Capture]]
-- [[Interrupt]]
+- [[Live Patching]]

@@ -35,3 +35,4 @@ The same ideas, suspend, resume, run unattended, recur in newer forms: graphical
 - [[Process]]
 - [[Zombie Process]]
 - [[Terminal User Interface]]
+- [[Terminal Multiplexer]]

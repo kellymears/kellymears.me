@@ -19,7 +19,7 @@ Three practical notes.
 **Rotation must be possible.** A secret nobody can rotate without downtime will not be rotated, which turns a routine hygiene task into an incident.
 
 ## See also
-- [[Least Privilege]]
+- [[Entropy Pool]]
 - [[Environment Variable]]
 - [[Supply Chain Security]]
 - [[Server-Side Request Forgery]]

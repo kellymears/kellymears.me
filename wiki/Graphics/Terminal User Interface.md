@@ -30,3 +30,4 @@ The aesthetic ceiling is higher than most people assume. Color, spacing, and res
 - [[Pseudoterminal]]
 - [[ANSI Escape Code]]
 - [[ASCII Art]]
+- [[Terminal Multiplexer]]

@@ -30,7 +30,7 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 
 ## See also
 - [[Quantum Computing]]
-- [[Bitwise Operation]]
+- [[Rowhammer]]
 - [[Modem]]
 - [[Checksum]]
 - [[N-Version Programming]]

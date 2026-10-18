@@ -18,7 +18,7 @@ Testing this requires a machine other than the one that built it, since a local 
 - [[Supply Chain Security]]
 - [[Letterlocking]]
 - [[Daemon]]
-- [[Least Privilege]]
+- [[Live Patching]]
 - [[Public-Key Cryptography]]
 - [[Certificate Authority]]
 

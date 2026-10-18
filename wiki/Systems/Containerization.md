@@ -22,7 +22,7 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 - [[Dynamic Linking]]
 
 ## Related
-- [[Shell]]
+- [[MicroVM]]
 - [[Linux Capabilities]]
 - [[Kubernetes]]
 - [[Git Worktree]]

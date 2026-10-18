@@ -35,3 +35,4 @@ Higher up, virtual ISAs blur the line: [[WebAssembly]] and Java bytecode define 
 - [[Emulation]]
 - [[Endianness]]
 - [[Von Neumann Architecture]]
+- [[Hybrid CPU Architecture]]

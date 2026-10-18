@@ -29,4 +29,4 @@ In testing, randomness drives [[Property-Based Testing]] and [[Fuzzing]], and re
 ## See also
 - [[Reservoir Sampling]]
 - [[Radioactive Decay]]
-- [[Modular Arithmetic]]
+- [[Entropy Pool]]

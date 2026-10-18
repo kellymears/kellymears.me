@@ -31,3 +31,4 @@ Careless linking of a home directory's important files is a genuinely destructiv
 - [[Filesystem]]
 - [[Hard Link]]
 - [[Time-of-Check to Time-of-Use]]
+- [[Filesystem Hierarchy Standard]]

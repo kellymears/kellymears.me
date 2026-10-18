@@ -33,3 +33,4 @@ Seccomp is one layer. It limits which kernel entry points are reachable; [[Linux
 - [[Least Privilege]]
 - [[Agent Sandbox]]
 - [[Memory Safety]]
+- [[MicroVM]]

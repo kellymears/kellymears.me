@@ -28,3 +28,4 @@ Local development for a multi-tenant system needs the same addressing scheme as 
 - [[Virtual Private Network]]
 - [[Row-Level Security]]
 - [[Serverless Computing]]
+- [[MicroVM]]
