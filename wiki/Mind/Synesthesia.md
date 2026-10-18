@@ -32,3 +32,4 @@ The condition fits the wider picture of [[Neurodiversity]]: perception is constr
 - [[Preattentive Processing]]
 - [[Prosopagnosia]]
 - [[Timbre]]
+- [[Stroop Effect]]

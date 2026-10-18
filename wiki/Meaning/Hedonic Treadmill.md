@@ -20,7 +20,7 @@ The concept is often overstated into "money can't buy happiness," which the orig
 - [[Polarized Training]]
 - [[Reward Prediction Error]]
 - [[Peak-End Rule]]
-- [[Habituation]]
+- [[Awe]]
 - [[Loss Aversion]]
 - [[Negativity Bias]]
 - [[Power Creep]]

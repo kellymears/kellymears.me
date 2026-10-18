@@ -35,3 +35,4 @@ The goal is not more feelings or better ones, but more precise ones. A well-name
 - [[Interoception]]
 - [[Predictive Processing]]
 - [[Rumination]]
+- [[Awe]]

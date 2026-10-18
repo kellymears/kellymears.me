@@ -20,3 +20,4 @@ Nostalgia is worth distinguishing from simple sentimentality about old things an
 - [[False Memory]]
 - [[Cozy Game]]
 - [[Mere-Exposure Effect]]
+- [[Awe]]

@@ -26,3 +26,4 @@ Proprioception is precisely what field sobriety tests probe when they ask someon
 - [[Stretching]]
 - [[Bike Fit]]
 - [[Haptic Feedback]]
+- [[Embodied Cognition]]

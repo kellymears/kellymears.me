@@ -32,5 +32,5 @@ Popular claims about "vagal tone" often outrun the evidence. Polyvagal theory, p
 - [[Autonomic Nervous System]]
 - [[Inflammation]]
 - [[Cold Exposure]]
-- [[Window of Tolerance]]
+- [[Awe]]
 - [[Gut Microbiome]]

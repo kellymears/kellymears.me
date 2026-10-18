@@ -22,3 +22,4 @@ The critique cuts the other way with equal force: naming something a moral panic
 - [[Umami]]
 - [[Negativity Bias]]
 - [[Risk Compensation]]
+- [[Just-World Hypothesis]]

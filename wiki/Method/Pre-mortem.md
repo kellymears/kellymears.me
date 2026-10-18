@@ -26,7 +26,7 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 
 ## See also
 - [[Five Whys]]
-- [[Root Cause Analysis]]
+- [[Psychological Safety]]
 - [[Sunk Cost Fallacy]]
 - [[Steelmanning]]
 - [[Framing Effect]]

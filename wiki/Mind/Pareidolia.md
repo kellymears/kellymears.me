@@ -22,7 +22,7 @@ Designers use pareidolia deliberately. Car fronts are styled as friendly or aggr
 
 ## See also
 - [[Texas Sharpshooter Fallacy]]
-- [[Gambler's Fallacy]]
+- [[Sleep Paralysis]]
 - [[ELIZA Effect]]
 - [[Golden Ratio]]
 - [[Prosopagnosia]]

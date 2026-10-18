@@ -25,6 +25,6 @@ It also changes how others read behavior. Cancelling plans or skipping something
 - [[Masking]]
 - [[Sensory Processing]]
 - [[Cognitive Load]]
-- [[Performance Budget]]
+- [[Just-World Hypothesis]]
 - [[Supercompensation]]
 - [[Autistic Burnout]]

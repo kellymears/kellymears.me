@@ -29,7 +29,7 @@ Countering it takes deliberate effort, because the drift feels like experience:
 Normalization of deviance also explains why [[Hindsight Bias]] is so tempting after a disaster: from outside, the warning signs look obvious, because outsiders never watched them become normal.
 
 ## See also
-- [[Silent Failure]]
+- [[Psychological Safety]]
 - [[Root Cause Analysis]]
 - [[Chaos Engineering]]
 - [[Forcing Function]]

@@ -20,3 +20,4 @@ The error matters most where it has consequences: it drives harsher judgments of
 - [[Theory of Mind]]
 - [[Locus of Control]]
 - [[Unreliable Narrator]]
+- [[Just-World Hypothesis]]

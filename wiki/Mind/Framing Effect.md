@@ -30,7 +30,7 @@ The idea extends well beyond individual choices. Political and media framing dec
 Framing also works as a thinking tool. The [[Pre-mortem]] reframes a plan as having already failed so people can say what went wrong. Reframing a situation is a core technique in [[Cognitive Behavioral Therapy]] and in [[Emotional Regulation]]. Deliberately describing a decision in both frames, and checking whether your answer changes, is a simple guard against the effect.
 
 ## See also
-- [[Anchoring Effect]]
+- [[Choice Blindness]]
 - [[Dual Process Theory]]
 - [[Steelmanning]]
 - [[Negativity Bias]]

@@ -18,7 +18,7 @@ What electric light changed is not in doubt. Evening illumination suppresses mel
 - [[Memory Consolidation]]
 - [[Provenance]]
 - [[Falsifiability]]
-- [[Physical Dependence]]
+- [[Sleep Paralysis]]
 - [[Time Zone]]
 - [[Circadian Lighting]]
 

@@ -30,3 +30,4 @@ In design, the effect argues for following conventions, since users arrive alrea
 - [[Priming]]
 - [[Availability Heuristic]]
 - [[Skeuomorphism]]
+- [[Déjà Vu]]

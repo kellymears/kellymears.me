@@ -14,7 +14,7 @@ Availability also drives estimation in the other direction: a task feels quick t
 The corrective is the same move [[Fermi Estimation]] makes explicit: force yourself to actually estimate a rate or count rather than reach for the first example that surfaces, and prefer a log query or incident tracker's real tally over a gut sense built from whichever incidents happened to be dramatic.
 
 ## See also
-- [[Base Rate Fallacy]]
+- [[Representativeness Heuristic]]
 - [[Fermi Estimation]]
 - [[Anchoring Effect]]
 - [[Confirmation Bias]]

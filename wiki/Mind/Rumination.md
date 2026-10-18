@@ -38,4 +38,4 @@ Rumination is common in [[Rejection Sensitivity]], where a perceived slight is r
 - [[Ironic Process Theory]]
 - [[Locus of Control]]
 - [[Negativity Bias]]
-- [[Cognitive Behavioral Therapy]]
+- [[Spotlight Effect]]

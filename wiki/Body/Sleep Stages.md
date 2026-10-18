@@ -30,7 +30,7 @@ Consumer wearables estimate stages from movement and heart rate rather than brai
 
 ## See also
 - [[Sleep Deprivation]]
-- [[Circadian Rhythm]]
+- [[Sleep Paralysis]]
 - [[Segmented Sleep]]
 - [[Motor Learning]]
 - [[Spaced Repetition]]

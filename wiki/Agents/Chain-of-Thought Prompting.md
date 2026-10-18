@@ -20,3 +20,4 @@ The technique has since been absorbed into models themselves: so-called "reasoni
 - [[Dual Process Theory]]
 - [[Metacognition]]
 - [[Reasoning Model]]
+- [[Choice Blindness]]

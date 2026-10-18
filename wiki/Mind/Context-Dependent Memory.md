@@ -33,7 +33,7 @@ The phenomenon fits a broader view of memory as reconstruction guided by cues ra
 
 ## See also
 - [[Classical Conditioning]]
-- [[False Memory]]
+- [[Déjà Vu]]
 - [[Habit Formation]]
 - [[Desirable Difficulty]]
 - [[Prosopagnosia]]

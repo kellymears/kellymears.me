@@ -17,7 +17,7 @@ The general move Wald's analysis teaches is to ask what is missing from a datase
 - [[Truncation Bias]]
 - [[Fermi Estimation]]
 - [[Berkson's Paradox]]
-- [[Root Cause Analysis]]
+- [[Representativeness Heuristic]]
 - [[Sensitivity and Specificity]]
 - [[Hindsight Bias]]
 - [[Pareto Principle]]

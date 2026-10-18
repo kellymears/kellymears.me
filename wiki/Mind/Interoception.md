@@ -26,7 +26,7 @@ As with [[Time Blindness]], the remedies are external. Scheduled meals and water
 - [[Autonomic Nervous System]]
 - [[Circadian Rhythm]]
 - [[Neurodiversity]]
-- [[Nociception]]
+- [[Sleep Paralysis]]
 - [[Glycogen]]
 - [[Sensory Overload]]
 - [[Emotional Regulation]]

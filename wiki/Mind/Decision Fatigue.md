@@ -28,6 +28,6 @@ The case is a good example of a [[Plausible Mechanism]] outrunning its evidence.
 - [[Loss Aversion]]
 - [[Satisficing]]
 - [[Spoon Theory]]
-- [[Dark Pattern]]
+- [[Stroop Effect]]
 - [[Habit Formation]]
 - [[Replication Crisis]]

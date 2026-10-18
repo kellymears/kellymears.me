@@ -28,3 +28,4 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Gambler's Fallacy]]
 - [[Effect Size]]
 - [[Hawthorne Effect]]
+- [[Representativeness Heuristic]]

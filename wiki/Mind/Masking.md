@@ -21,7 +21,7 @@ The social side is the [[Neurodiversity]] paradigm's point in miniature. Masking
 ## See also
 - [[Window of Tolerance]]
 - [[Monotropism]]
-- [[Theory of Mind]]
+- [[Spotlight Effect]]
 - [[Code-Switching]]
 - [[Self-Compassion]]
 - [[Kayfabe]]

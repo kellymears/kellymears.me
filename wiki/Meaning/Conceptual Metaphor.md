@@ -31,3 +31,4 @@ Critics argue that the theory relies on intuition about phrases and can't show t
 - [[Snowclone]]
 - [[Euphemism Treadmill]]
 - [[Information Scent]]
+- [[Embodied Cognition]]

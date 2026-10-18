@@ -21,7 +21,7 @@ Stimming has been treated very differently over time. Older behavioral therapies
 The commercial fidget toy boom of the late 2010s made stimming mainstream almost by accident: spinners, cubes, and putty sold to everyone, and a behavior once pathologized became a desk accessory. That is a small instance of the [[Neurodiversity]] argument. Traits that look like deficits in one frame are ordinary human variation in another, and design that accommodates them, such as fidget-friendly classrooms and meetings where moving around is fine, costs very little.
 
 ## See also
-- [[Sensory Overload]]
+- [[Embodied Cognition]]
 - [[Masking]]
 - [[Proprioception]]
 - [[Vestibular System]]

@@ -27,4 +27,4 @@ Countermeasures are external, since effort alone doesn't cure it. Test explanati
 - [[Theory of Mind]]
 - [[Expert Intuition]]
 - [[Functional Fixedness]]
-- [[Prompt Engineering]]
+- [[Spotlight Effect]]

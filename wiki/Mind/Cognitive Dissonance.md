@@ -27,7 +27,7 @@ Some classic findings have replicated less cleanly than textbooks suggest, but t
 
 ## See also
 - [[Confirmation Bias]]
-- [[Sunk Cost Fallacy]]
+- [[Choice Blindness]]
 - [[Groupthink]]
 - [[Motte and Bailey]]
 - [[Ludonarrative Dissonance]]

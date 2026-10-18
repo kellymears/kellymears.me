@@ -20,3 +20,4 @@ The effect has been replicated across dozens of experimental setups, from staged
 - [[Pluralistic Ignorance]]
 - [[Free Rider Problem]]
 - [[Change Advisory Board]]
+- [[Spotlight Effect]]

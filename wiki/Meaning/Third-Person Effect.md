@@ -18,3 +18,4 @@ The effect has real behavioral consequences precisely because policy and censors
 - [[Spiral of Silence]]
 - [[Availability Cascade]]
 - [[Risk Compensation]]
+- [[Spotlight Effect]]

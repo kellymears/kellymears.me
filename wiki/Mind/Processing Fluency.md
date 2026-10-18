@@ -28,6 +28,6 @@ The practical lessons run in two directions. When communicating, fluency helps: 
 
 ## See also
 - [[Priming]]
-- [[Metacognition]]
-- [[Aesthetic-Usability Effect]]
+- [[Déjà Vu]]
+- [[Stroop Effect]]
 - [[Mere-Exposure Effect]]

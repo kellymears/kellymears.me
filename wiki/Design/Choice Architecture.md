@@ -28,7 +28,7 @@ Software makes every one of these explicit. Every [[Form Design]] decision about
 The same tools can be turned against people. A [[Dark Pattern]] is choice architecture designed for the company at the user's expense: preticked marketing consent, a cancel button hidden behind five screens, or "accept all" styled bright while "manage options" is gray. Privacy law such as GDPR, discussed under [[Personal Data]], responded partly by banning preticked consent. Thaler and Sunstein proposed a test: a nudge should be transparent and easy to avoid, and people should plausibly endorse it if they knew about it.
 
 ## See also
-- [[Mental Model]]
+- [[Choice Blindness]]
 - [[Tesler's Law]]
 - [[Forcing Function]]
 - [[Procedural Rhetoric]]

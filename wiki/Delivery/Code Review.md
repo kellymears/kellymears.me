@@ -17,7 +17,7 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 - [[The Cathedral and the Bazaar]]
 - [[Refactoring]]
 - [[Atomic Commit]]
-- [[Human in the Loop]]
+- [[Psychological Safety]]
 - [[Code Comment]]
 - [[Vigilance Decrement]]
 - [[Theory of Constraints]]

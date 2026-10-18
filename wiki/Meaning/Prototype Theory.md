@@ -20,7 +20,7 @@ This is why arguments about whether a hot dog is a sandwich never resolve. Each 
 - [[Folk Etymology]]
 - [[Knowledge Graph]]
 - [[Linguistic Relativity]]
-- [[Falsifiability]]
+- [[Representativeness Heuristic]]
 - [[Neurodiversity]]
 - [[Mental Model]]
 - [[Ontology]]

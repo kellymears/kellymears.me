@@ -31,4 +31,4 @@ Counterweights exist. Blind review, lotteries for grant funding among qualified 
 - [[Rent-Seeking]]
 - [[Self-Fulfilling Prophecy]]
 - [[Recommender System]]
-- [[Small-World Network]]
+- [[Just-World Hypothesis]]

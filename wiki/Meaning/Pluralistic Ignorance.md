@@ -26,7 +26,7 @@ The remedy is making private views visible. Anonymous surveys that report actual
 
 ## See also
 - [[Availability Cascade]]
-- [[Moral Panic]]
+- [[Spotlight Effect]]
 - [[Fundamental Attribution Error]]
 - [[Steelmanning]]
 - [[Eternal September]]

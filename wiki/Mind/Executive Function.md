@@ -28,7 +28,7 @@ Executive capacity also varies within one person. Sleep, stress, illness, and [[
 - [[ADHD]]
 - [[Neurodiversity]]
 - [[Learned Helplessness]]
-- [[Defensive Default]]
+- [[Stroop Effect]]
 - [[Yak Shaving]]
 - [[Implementation Intention]]
 - [[Spoon Theory]]

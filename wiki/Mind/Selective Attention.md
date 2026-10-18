@@ -26,4 +26,4 @@ When the filter is narrow, the rest of the scene can vanish, as [[Inattentional 
 - [[Calm Technology]]
 - [[Attentional Blink]]
 - [[Attention Restoration Theory]]
-- [[Vigilance Decrement]]
+- [[Stroop Effect]]

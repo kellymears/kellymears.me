@@ -17,7 +17,7 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 - [[Prompt Engineering]]
 - [[Structured Output]]
 - [[Root Cause Analysis]]
-- [[Plausible Mechanism]]
+- [[Representativeness Heuristic]]
 - [[Dual Process Theory]]
 - [[In-Context Learning]]
 

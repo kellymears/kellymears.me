@@ -23,6 +23,6 @@ Low pressure and a misaligned clock are both reasons people can't sleep, and lig
 
 ## See also
 - [[Sleep Deprivation]]
-- [[Segmented Sleep]]
+- [[Sleep Paralysis]]
 - [[Circadian Lighting]]
 - [[Heart Rate Variability]]

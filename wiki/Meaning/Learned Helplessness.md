@@ -22,3 +22,4 @@ The concept is easy to over-apply to any case of low motivation; it specifically
 - [[Self-Efficacy]]
 - [[Locus of Control]]
 - [[Growth Mindset]]
+- [[Just-World Hypothesis]]

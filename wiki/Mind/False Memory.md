@@ -29,7 +29,7 @@ Protection comes from good practice: asking open rather than leading questions, 
 
 ## See also
 - [[Context-Dependent Memory]]
-- [[Illusory Truth Effect]]
+- [[Déjà Vu]]
 - [[Predictive Processing]]
 - [[Confirmation Bias]]
 - [[Memory Consolidation]]

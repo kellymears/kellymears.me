@@ -33,3 +33,4 @@ Choking also connects to [[Ironic Process Theory]]: telling yourself not to miss
 - [[Metacognition]]
 - [[Desirable Difficulty]]
 - [[Rumination]]
+- [[Spotlight Effect]]

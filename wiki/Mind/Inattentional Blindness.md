@@ -25,4 +25,4 @@ Strong focus, as in [[Monotropism]] or [[Hyperfocus]], exaggerates both sides: d
 - [[Banner Blindness]]
 - [[Eye Tracking]]
 - [[Attentional Blink]]
-- [[Vigilance Decrement]]
+- [[Choice Blindness]]

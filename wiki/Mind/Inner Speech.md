@@ -32,3 +32,4 @@ At the far end, voices that seem to come from outside, as in some psychiatric co
 - [[Rumination]]
 - [[Aphantasia]]
 - [[Self-Compassion]]
+- [[Embodied Cognition]]
