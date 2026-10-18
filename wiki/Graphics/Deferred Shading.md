@@ -25,11 +25,11 @@ Modern engines often use **forward+** or **clustered shading** instead: a light-
 The underlying idea is separating what is visible from how it looks, decoupling an expensive computation from the count of things that might need it. It is a form of [[Lazy Evaluation]]: do the expensive work only for results that will survive. Screen-space effects such as [[Ambient Occlusion]] and reflections fall out of it, since the G-buffer already holds normals and depth for every pixel.
 
 ## See also
-- [[Depth Buffer]]
+- [[Shading Model]]
 - [[Rasterization]]
 - [[Culling]]
 - [[Order-Independent Transparency]]
-- [[Ambient Occlusion]]
+- [[Swap Chain]]
 - [[Lazy Evaluation]]
 - [[Shader]]
 - [[Subsurface Scattering]]

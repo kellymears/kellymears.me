@@ -22,7 +22,7 @@ Failures in this stack can be misleading. A hang or a [[Graphics Processing Unit
 Translation layers are also a [[Game Preservation]] mechanism: a game that runs through one no longer depends on its original platform still existing. Much as [[Containerization|a container]] does for a service, the layer gives an old program the environment it expects.
 
 ## See also
-- [[Emulation]]
+- [[Graphics API]]
 - [[Application Binary Interface]]
 - [[Compiler]]
 - [[Interpreter]]

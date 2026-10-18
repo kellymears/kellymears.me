@@ -23,7 +23,7 @@ The rendering rule that follows is simple and easy to break: **do math on light 
 GPUs handle sRGB textures and framebuffers in hardware, converting to linear on read and back on write, so the bug usually comes from tagging data incorrectly, such as treating a normal map as color. [[High Dynamic Range]] replaces the sRGB curve with transfer functions such as PQ, designed for far brighter displays, and [[Tone Mapping]] decides how scene light maps into them. On the web, color spaces such as [[OKLCH]] go a step further, aiming for steps that are perceptually uniform in lightness as well as encoded efficiently. The curve is separate from the [[Color Gamut]], which sets which colors are representable rather than how brightness is spaced.
 
 ## See also
-- [[Color Gamut]]
+- [[Shading Model]]
 - [[Linear Interpolation]]
 - [[Tone Mapping]]
 - [[OKLCH]]

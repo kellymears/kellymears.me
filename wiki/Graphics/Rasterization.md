@@ -16,14 +16,14 @@ Performance work in a rasterizer is mostly about reducing [[Draw Call|draw calls
 
 ## See also
 - [[Voxel]]
-- [[Determinism]]
+- [[Barycentric Coordinates]]
 - [[Aliasing]]
 - [[Culling]]
 - [[Deferred Shading]]
 
 ## Related
 - [[Procedural Generation]]
-- [[Seeded Randomness]]
+- [[Transformation Matrix]]
 - [[Cellular Automaton]]
 - [[Game Feel]]
 - [[Vector Graphics]]

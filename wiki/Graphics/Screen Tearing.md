@@ -32,3 +32,4 @@ Desktop environments face the same problem. A [[Compositor]] that assembles ever
 - [[Frame Generation]]
 - [[Race Condition]]
 - [[Input Latency]]
+- [[Swap Chain]]

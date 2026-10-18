@@ -35,3 +35,4 @@ Browsers use the same idea inside a page. Elements that animate `transform` or `
 - [[Alpha Compositing]]
 - [[Browser Engine]]
 - [[Long Task]]
+- [[Swap Chain]]

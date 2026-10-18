@@ -31,3 +31,4 @@ Support still varies across devices and operating systems, so sites detect WebGP
 - [[Graphics Processing Unit]]
 - [[Shader]]
 - [[WebAssembly]]
+- [[Graphics API]]

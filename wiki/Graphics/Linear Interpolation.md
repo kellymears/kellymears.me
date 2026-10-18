@@ -33,3 +33,5 @@ Interpolating between known samples also lets [[Frame Generation]] and [[Tempora
 - [[Bézier Curve]]
 - [[Quaternion]]
 - [[Skeletal Animation]]
+- [[Barycentric Coordinates]]
+- [[Transformation Matrix]]

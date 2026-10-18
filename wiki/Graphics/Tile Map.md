@@ -25,7 +25,8 @@ Tile maps are also the natural canvas for [[Procedural Generation]]. Cave maps a
 The style constraints of old hardware have become an aesthetic in their own right. Limited tiles and palettes, which [[Color Quantization]] imitates, push artists toward strong, readable shapes, and the visible grid gives players a clear sense of space that 3D worlds work harder to provide.
 
 ## See also
-- [[Wave Function Collapse]]
-- [[Collision Detection]]
+- [[Isometric Projection]]
+- [[Pixel Art]]
 - [[Spatial Partitioning]]
 - [[Voxel]]
+- [[Sprite]]

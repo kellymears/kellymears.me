@@ -27,3 +27,5 @@ That is the general lesson of NPR. Realism has an objective target, the way ligh
 - [[Post-Processing]]
 - [[Dithering]]
 - [[Color Quantization]]
+- [[Shading Model]]
+- [[Pixel Art]]

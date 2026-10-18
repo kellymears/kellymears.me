@@ -21,9 +21,9 @@ The trick has limits, because the geometry is still flat:
 Normal mapping is one input to [[Physically Based Rendering]], where it works together with roughness and metalness maps to describe a material. It filters badly. Averaging normals in [[Mipmapping]] loses the bumps and can make distant surfaces look unnaturally shiny, a source of shimmering specular highlights and [[Aliasing]] that engines correct with special filtering. [[Signed Distance Field]] rendering and [[Voxel]] engines can carry real surface detail instead of a painted illusion, at higher cost.
 
 ## See also
-- [[Shader]]
+- [[Shading Model]]
 - [[Tessellation]]
-- [[Level of Detail]]
+- [[Texture Compression]]
 - [[Mipmapping]]
 - [[Ambient Occlusion]]
 - [[Skeuomorphism]]

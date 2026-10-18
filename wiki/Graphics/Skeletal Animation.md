@@ -26,8 +26,8 @@ Animation also has gameplay consequences. Attack and dodge timing in action game
 
 ## See also
 - [[Quaternion]]
-- [[Game Feel]]
-- [[Frame Data]]
+- [[Transformation Matrix]]
+- [[Sprite]]
 - [[Uncanny Valley]]
 - [[Polygon Mesh]]
 - [[Verlet Integration]]

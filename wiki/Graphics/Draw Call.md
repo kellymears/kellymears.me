@@ -27,8 +27,9 @@ The latest step is *GPU-driven rendering*, in which the GPU itself decides what 
 
 ## See also
 - [[Culling]]
-- [[Level of Detail]]
+- [[Sprite]]
 - [[Shader]]
 - [[Rasterization]]
 - [[Graphics Processing Unit]]
 - [[WebGPU]]
+- [[Graphics API]]

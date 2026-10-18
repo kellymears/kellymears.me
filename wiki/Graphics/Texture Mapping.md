@@ -31,4 +31,4 @@ Textures dominate video memory, so they're stored in *block compression* formats
 Some surfaces skip stored images entirely. Procedural textures compute patterns in the shader from functions such as [[Perlin Noise]], and *triplanar mapping* projects textures from three axes so terrain needs no unwrapping.
 
 ## See also
-- [[Photogrammetry]]
+- [[Texture Compression]]

@@ -24,7 +24,7 @@ The same idea appears elsewhere. [[Level of Detail]] is mipmapping for geometry.
 ## See also
 - [[Aliasing]]
 - [[Map Projection]]
-- [[Responsive Images]]
+- [[Texture Compression]]
 - [[Memoization]]
 - [[Temporal Upscaling]]
 - [[Shader]]

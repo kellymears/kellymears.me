@@ -30,3 +30,4 @@ Audio uses the same idea. When a recording is reduced from 24-bit to 16-bit for 
 - [[Post-Processing]]
 - [[Color Quantization]]
 - [[Blue Noise]]
+- [[Pixel Art]]

@@ -28,7 +28,7 @@ Fresnel also explains energy balance. Light that reflects at the surface does no
 Artists also borrow Fresnel terms for stylized rim glows and force-field shimmer. Thin coatings on surfaces add [[Wave Interference]] on top, producing the shifting colors of car paint and soap films.
 
 ## See also
-- [[Physically Based Rendering]]
+- [[Rendering Equation]]
 - [[Refraction]]
 - [[Image-Based Lighting]]
 - [[Ray Tracing]]

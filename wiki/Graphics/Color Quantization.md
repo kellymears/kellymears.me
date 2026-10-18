@@ -31,3 +31,5 @@ Today quantization survives in GIFs, in compressed texture formats, in [[Cel Sha
 - [[Color Gamut]]
 - [[Data Compression]]
 - [[Tile Map]]
+- [[Pixel Art]]
+- [[Texture Compression]]

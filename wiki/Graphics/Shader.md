@@ -17,8 +17,8 @@ Two practical notes. Precision and compiler optimization settings change results
 ## See also
 - [[Rasterization]]
 - [[Voxel]]
-- [[Determinism]]
-- [[OKLCH]]
+- [[Graphics API]]
+- [[Shading Model]]
 - [[Cellular Automaton]]
 - [[Shader Compilation Stutter]]
 - [[WebGPU]]

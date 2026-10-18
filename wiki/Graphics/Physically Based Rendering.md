@@ -16,8 +16,8 @@ The discipline this imposes is as important as the math: an albedo texture must 
 ## See also
 - [[Shader]]
 - [[Ray Tracing]]
-- [[Level of Detail]]
-- [[OKLCH]]
+- [[Shading Model]]
+- [[Rendering Equation]]
 - [[High Dynamic Range]]
 - [[Tone Mapping]]
 - [[Normal Mapping]]

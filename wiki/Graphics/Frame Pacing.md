@@ -23,7 +23,7 @@ The general lesson applies outside graphics: for interactive systems, **variance
 ## See also
 - [[Input Latency]]
 - [[Game Loop]]
-- [[Frame Generation]]
+- [[Swap Chain]]
 - [[Game Feel]]
 - [[Debounce and Throttle]]
 - [[Event Loop]]

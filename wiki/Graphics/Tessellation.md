@@ -30,3 +30,4 @@ In games, the fixed tessellation stages have been largely overtaken. Mesh shader
 - [[Normal Mapping]]
 - [[Marching Cubes]]
 - [[Draw Call]]
+- [[Barycentric Coordinates]]
