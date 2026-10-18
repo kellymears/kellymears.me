@@ -28,3 +28,5 @@ Audio uses the same idea. When a recording is reduced from 24-bit to 16-bit for 
 - [[Color Gamut]]
 - [[Perlin Noise]]
 - [[Post-Processing]]
+- [[Color Quantization]]
+- [[Blue Noise]]

@@ -30,3 +30,4 @@ The aesthetic dimension is separable from the technical one. Voxel art is a deli
 - [[Perlin Noise]]
 - [[Spatial Partitioning]]
 - [[Gaussian Splatting]]
+- [[Tile Map]]

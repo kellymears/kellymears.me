@@ -22,7 +22,7 @@ Normal mapping is one input to [[Physically Based Rendering]], where it works to
 
 ## See also
 - [[Shader]]
-- [[Physically Based Rendering]]
+- [[Tessellation]]
 - [[Level of Detail]]
 - [[Mipmapping]]
 - [[Ambient Occlusion]]

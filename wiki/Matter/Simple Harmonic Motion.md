@@ -30,3 +30,4 @@ Interface design borrows the physics directly. "Spring" animations are damped ha
 - [[Angular Momentum]]
 - [[Doppler Effect]]
 - [[Circadian Rhythm]]
+- [[Verlet Integration]]

@@ -17,3 +17,4 @@ The design tension runs in both directions. Too little systemic interaction and 
 - [[Procedural Generation]]
 - [[Game AI]]
 - [[Speedrun]]
+- [[Boids]]

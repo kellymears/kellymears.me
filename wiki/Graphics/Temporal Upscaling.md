@@ -20,7 +20,7 @@ Upscaling is now load-bearing in modern games. Expensive techniques like real-ti
 [[Frame Generation]] uses the same inputs to synthesize whole frames instead of pixels.
 
 ## See also
-- [[Frame Generation]]
+- [[Blue Noise]]
 - [[Rasterization]]
 - [[Level of Detail]]
 - [[Ray Tracing]]

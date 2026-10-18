@@ -27,7 +27,7 @@ The space attached to an image has to be known. Pixel values are coordinates, no
 When a source color falls outside the destination gamut, **gamut mapping** must choose a replacement. *Clipping* is simple but flattens subtle gradations. *Compressing* the whole range preserves relationships at the cost of overall saturation. It is the color equivalent of [[Tone Mapping]], which does the same for brightness. Light sources have gamuts too: an RGB smart bulb's triangle is set by its LEDs, and [[Color Rendering Index|color rendering]] describes how it lights other things. Good [[Color Contrast]] also depends on what the gamut can actually show.
 
 ## See also
-- [[High Dynamic Range]]
+- [[Color Quantization]]
 - [[Tone Mapping]]
 - [[Metamerism]]
 - [[Color Temperature]]

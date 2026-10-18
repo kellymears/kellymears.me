@@ -28,3 +28,4 @@ Alpha has limits in what it can represent. A single value per pixel can't expres
 - [[Depth Buffer]]
 - [[Gamma Correction]]
 - [[Aliasing]]
+- [[Order-Independent Transparency]]

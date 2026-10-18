@@ -29,8 +29,8 @@ Determinism also enables *incremental* generation: extending a world without reg
 ## Related
 - [[Shader]]
 - [[Constraint Propagation]]
-- [[Reproducible Case]]
+- [[Tile Map]]
 - [[Perlin Noise]]
 - [[Particle System]]
 - [[Pseudorandom Number Generator]]
-- [[Union-Find]]
+- [[Wave Function Collapse]]

@@ -28,7 +28,7 @@ The underlying idea is separating what is visible from how it looks, decoupling 
 - [[Depth Buffer]]
 - [[Rasterization]]
 - [[Culling]]
-- [[Physically Based Rendering]]
+- [[Order-Independent Transparency]]
 - [[Ambient Occlusion]]
 - [[Lazy Evaluation]]
 - [[Shader]]

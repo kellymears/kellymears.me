@@ -30,3 +30,4 @@ Animation also has gameplay consequences. Attack and dodge timing in action game
 - [[Frame Data]]
 - [[Uncanny Valley]]
 - [[Polygon Mesh]]
+- [[Verlet Integration]]

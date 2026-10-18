@@ -34,3 +34,4 @@ Weighted variants give some seeds more pull, modeling crystal grains and the mar
 - [[Perlin Noise]]
 - [[Spatial Partitioning]]
 - [[Cellular Automaton]]
+- [[Blue Noise]]

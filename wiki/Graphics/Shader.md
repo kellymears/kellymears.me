@@ -28,6 +28,6 @@ Two practical notes. Precision and compiler optimization settings change results
 ## Related
 - [[Procedural Generation]]
 - [[Seeded Randomness]]
-- [[Roguelike]]
+- [[Cel Shading]]
 - [[L-System]]
-- [[Reproducible Case]]
+- [[Ray Marching]]

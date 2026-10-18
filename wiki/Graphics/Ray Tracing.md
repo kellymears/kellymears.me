@@ -18,7 +18,7 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 - [[Rasterization]]
 - [[Physically Based Rendering]]
 - [[Signed Distance Field]]
-- [[Level of Detail]]
+- [[Ray Marching]]
 - [[Seeded Randomness]]
 - [[Temporal Upscaling]]
 - [[Bounding Volume Hierarchy]]
@@ -27,7 +27,7 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 - [[Post-Processing]]
 
 ## Related
-- [[Determinism]]
+- [[Blue Noise]]
 - [[Refraction]]
 - [[Inverse-Square Law]]
 - [[Subsurface Scattering]]

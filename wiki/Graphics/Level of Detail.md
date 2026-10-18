@@ -23,3 +23,4 @@ The same idea generalizes past meshes: **impostors** replace a whole complex obj
 - [[Culling]]
 - [[Draw Call]]
 - [[Polygon Mesh]]
+- [[Tessellation]]

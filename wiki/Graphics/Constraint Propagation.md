@@ -28,3 +28,4 @@ The same structure appears in type inference, scheduling, layout solvers, and de
 - [[Voxel]]
 - [[Shader]]
 - [[Backtracking]]
+- [[Wave Function Collapse]]

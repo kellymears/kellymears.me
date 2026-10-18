@@ -36,6 +36,6 @@ The structures share a weakness with high dimensions. As dimensions grow, nearly
 
 ## See also
 - [[Map Projection]]
-- [[Collision Detection]]
+- [[Tile Map]]
 - [[Voronoi Diagram]]
 - [[B-Tree]]

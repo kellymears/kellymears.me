@@ -31,3 +31,4 @@ Tone mapping is a perceptual problem, not a mathematical one, so its references 
 - [[Gamma Correction]]
 - [[Dithering]]
 - [[Post-Processing]]
+- [[Cel Shading]]

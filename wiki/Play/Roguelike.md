@@ -25,3 +25,5 @@ The genre's ideas have migrated widely, most successfully as a *mode* layered on
 - [[Determinism]]
 - [[Voxel]]
 - [[Shader]]
+- [[Wave Function Collapse]]
+- [[Tile Map]]

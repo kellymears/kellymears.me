@@ -31,3 +31,4 @@ Legibility is also a presentation problem, not only a behavior one. If a player 
 - [[Shader]]
 - [[Dijkstra's Algorithm]]
 - [[Backtracking]]
+- [[Boids]]
