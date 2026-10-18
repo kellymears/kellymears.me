@@ -16,3 +16,4 @@ DoH is also politically loaded in a way plain protocol changes rarely are, becau
 - [[Content Delivery Network]]
 - [[Zero Trust Network]]
 - [[QUIC]]
+- [[Transport Layer Security]]

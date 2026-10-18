@@ -21,3 +21,4 @@ Queues come with delivery guarantees that matter more than they first appear to.
 - [[Durable Execution]]
 - [[Transactional Outbox]]
 - [[Saga Pattern]]
+- [[Delivery Guarantees]]

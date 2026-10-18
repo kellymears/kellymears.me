@@ -17,6 +17,8 @@ Replication lag is the source of a specific, easy-to-miss class of bug: a user s
 - [[Database Sharding]]
 - [[Eventual Consistency]]
 - [[CAP Theorem]]
+- [[Gossip Protocol]]
+- [[Logical Clock]]
 
 ## Related
 - [[Write-Ahead Logging]]

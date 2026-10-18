@@ -19,6 +19,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[Fingerprint]]
 - [[Cache Invalidation]]
 - [[Version Control]]
+- [[Public-Key Cryptography]]
 
 ## Related
 - [[Record and Replay Testing]]

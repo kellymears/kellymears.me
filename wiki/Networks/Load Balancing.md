@@ -20,3 +20,4 @@ Layer 4 balancers work at the TCP/UDP level and just forward packets, cheap and 
 - [[Anycast]]
 - [[Rate Limiting]]
 - [[Consistent Hashing]]
+- [[Reverse Proxy]]

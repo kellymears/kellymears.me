@@ -19,3 +19,5 @@ The honest cost is operational complexity: every service now needs to participat
 - [[API Gateway]]
 - [[Caller ID Authentication]]
 - [[IPv6]]
+- [[Firewall]]
+- [[Transport Layer Security]]

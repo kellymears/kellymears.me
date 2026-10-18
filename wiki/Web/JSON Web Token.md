@@ -18,6 +18,7 @@ JWTs commonly carry [[OAuth]] and OpenID Connect identity claims, and get passed
 - [[Cross-Site Scripting]]
 - [[Same-Origin Policy]]
 - [[Content Security Policy]]
+- [[Public-Key Cryptography]]
 
 ## Related
 - [[Cache Invalidation]]

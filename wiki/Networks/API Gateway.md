@@ -19,3 +19,5 @@ It's easy to conflate an API gateway with a plain [[Load Balancing|load balancer
 - [[Circuit Breaker]]
 - [[Webhook]]
 - [[Content Delivery Network]]
+- [[Reverse Proxy]]
+- [[Transport Layer Security]]

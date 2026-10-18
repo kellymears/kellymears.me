@@ -18,3 +18,5 @@ The core guarantee any consensus algorithm provides is safety under partial fail
 - [[Two-Phase Commit]]
 - [[CAP Theorem]]
 - [[Database Replication]]
+- [[Gossip Protocol]]
+- [[Logical Clock]]

@@ -20,6 +20,7 @@ Both versions are transparent to application code — no request or response for
 - [[WebSocket]]
 - [[HTTP Caching]]
 - [[Core Web Vitals]]
+- [[Transport Layer Security]]
 
 ## Related
 - [[Critical Rendering Path]]

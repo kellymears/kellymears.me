@@ -20,3 +20,6 @@ Reliability is also why TCP is the wrong tool for anything latency-sensitive und
 - [[Latency and Jitter]]
 - [[Port]]
 - [[IPv6]]
+- [[Congestion Control]]
+- [[Maximum Transmission Unit]]
+- [[Delivery Guarantees]]

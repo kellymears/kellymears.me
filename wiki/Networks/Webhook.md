@@ -20,3 +20,4 @@ Webhooks are also a poor fit for anything that needs a response mid-transaction 
 - [[Streaming Response]]
 - [[Implementation Intention]]
 - [[Transactional Outbox]]
+- [[Delivery Guarantees]]

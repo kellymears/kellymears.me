@@ -20,3 +20,4 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Streaming Response]]
 - [[Backpressure]]
 - [[Frame Pacing]]
+- [[Congestion Control]]

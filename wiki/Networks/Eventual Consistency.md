@@ -21,6 +21,8 @@ A specific, easily-missed instance: a cache whose scope is a single process beha
 - [[Peer-to-Peer]]
 - [[Idempotence]]
 - [[Saga Pattern]]
+- [[Logical Clock]]
+- [[Gossip Protocol]]
 
 ## Related
 - [[WebRTC]]

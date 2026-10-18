@@ -59,7 +59,7 @@ Getting changes from a working copy into the world.
 
 The machine underneath.
 
-[[Character Encoding]] · [[Chroot]] · [[Code Signing]] · [[Containerization]] · [[Control Groups]] · [[Copy-on-Write]] · [[CPU Affinity]] · [[CPU Scheduler]] · [[Cron]] · [[Daemon]] · [[Determinism]] · [[Display Server]] · [[Domain Name System]] · [[Dotfiles]] · [[Dynamic Voltage and Frequency Scaling]] · [[Environment Variable]] · [[Filesystem Snapshot]] · [[Glob]] · [[Hash Function]] · [[Hypervisor]] · [[Idempotence]] · [[Init System]] · [[Inode]] · [[Least Privilege]] · [[Linux Namespaces]] · [[Memory Leak]] · [[Monorepo]] · [[Out-of-Memory Killer]] · [[Package Manager]] · [[Port]] · [[Pressure Stall Information]] · [[Process]] · [[Rolling Release]] · [[Secret Management]] · [[Shell]] · [[Silicon Binning]] · [[Swap]] · [[Symbolic Link]] · [[Systemd]] · [[Thermal Throttling]] · [[Time Zone]] · [[Virtual Memory]] · [[XDG Base Directory Specification]]
+[[Character Encoding]] · [[Chroot]] · [[Code Signing]] · [[Containerization]] · [[Control Groups]] · [[Copy-on-Write]] · [[CPU Affinity]] · [[CPU Scheduler]] · [[Cron]] · [[Daemon]] · [[Determinism]] · [[Display Server]] · [[Domain Name System]] · [[Dotfiles]] · [[Dynamic Voltage and Frequency Scaling]] · [[Environment Variable]] · [[Filesystem Snapshot]] · [[Glob]] · [[Hash Function]] · [[Hypervisor]] · [[Idempotence]] · [[Init System]] · [[Inode]] · [[Least Privilege]] · [[Linux Namespaces]] · [[Memory Leak]] · [[Monorepo]] · [[Out-of-Memory Killer]] · [[Package Manager]] · [[Port]] · [[Pressure Stall Information]] · [[Process]] · [[Public-Key Cryptography]] · [[Rolling Release]] · [[Secret Management]] · [[Shell]] · [[Silicon Binning]] · [[Swap]] · [[Symbolic Link]] · [[Systemd]] · [[Thermal Throttling]] · [[Time Zone]] · [[Virtual Memory]] · [[XDG Base Directory Specification]]
 
 ## Data & Content
 
@@ -83,7 +83,7 @@ Games as designed experience, and the culture around them.
 
 Coordination without a center.
 
-[[Anycast]] · [[API Gateway]] · [[Backpressure]] · [[Caller ID Authentication]] · [[Circuit Breaker]] · [[Conflict-Free Replicated Data Type]] · [[Content Delivery Network]] · [[DNS over HTTPS]] · [[Durable Execution]] · [[eSIM]] · [[Eventual Consistency]] · [[IPv6]] · [[Latency and Jitter]] · [[Load Balancing]] · [[Mesh Network]] · [[Multicast]] · [[NAT Traversal]] · [[Peer-to-Peer]] · [[QUIC]] · [[Rate Limiting]] · [[Signaling Server]] · [[Streaming Response]] · [[TCP and UDP]] · [[Virtual Private Network]] · [[Webhook]] · [[WebRTC]] · [[Zero Trust Network]]
+[[Anycast]] · [[API Gateway]] · [[Backpressure]] · [[Border Gateway Protocol]] · [[Caller ID Authentication]] · [[Certificate Authority]] · [[Circuit Breaker]] · [[Conflict-Free Replicated Data Type]] · [[Congestion Control]] · [[Content Delivery Network]] · [[Delivery Guarantees]] · [[DNS over HTTPS]] · [[Durable Execution]] · [[eSIM]] · [[Eventual Consistency]] · [[Firewall]] · [[Gossip Protocol]] · [[IPv6]] · [[Latency and Jitter]] · [[Load Balancing]] · [[Logical Clock]] · [[Maximum Transmission Unit]] · [[Mesh Network]] · [[Multicast]] · [[NAT Traversal]] · [[Peer-to-Peer]] · [[QUIC]] · [[Rate Limiting]] · [[Reverse Proxy]] · [[Signaling Server]] · [[Streaming Response]] · [[TCP and UDP]] · [[Transport Layer Security]] · [[Virtual Private Network]] · [[Webhook]] · [[WebRTC]] · [[Zero Trust Network]]
 
 ## Matter
 

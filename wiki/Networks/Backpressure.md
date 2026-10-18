@@ -21,3 +21,4 @@ It's the flip side of [[Rate Limiting]]: rate limiting is a hard external cap a 
 - [[Message Queue]]
 - [[Load Testing]]
 - [[Connection Pool]]
+- [[Congestion Control]]

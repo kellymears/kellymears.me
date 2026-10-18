@@ -19,3 +19,4 @@ It's a close cousin of [[Backpressure]], but the direction of control is differe
 - [[Circuit Breaker]]
 - [[Load Balancing]]
 - [[Load Testing]]
+- [[Congestion Control]]

@@ -5,7 +5,7 @@ tags:
   - networks
 summary: Anycast announces the same IP address from many locations and lets normal routing send each client to the nearest one.
 ---
-**Anycast** is a routing technique where the same IP address is advertised from multiple, geographically separate locations, and ordinary internet routing (BGP) delivers each client's traffic to whichever announcement is topologically nearest — with no client-side awareness that a choice was even made. It's a one-to-nearest-of-many relationship, distinct from unicast (one-to-one) and [[Multicast]] (one-to-every-subscriber).
+**Anycast** is a routing technique where the same IP address is advertised from multiple, geographically separate locations, and ordinary internet routing ([[Border Gateway Protocol|BGP]]) delivers each client's traffic to whichever announcement is topologically nearest — with no client-side awareness that a choice was even made. It's a one-to-nearest-of-many relationship, distinct from unicast (one-to-one) and [[Multicast]] (one-to-every-subscriber).
 
 The mechanism is almost boring in its simplicity: routers already pick the shortest path to a destination as their basic job, and anycast just exploits that by making "the destination" ambiguous — several data centers claim to *be* address X, and each router along the way forwards toward whichever claim looks closest by its own metrics. No DNS trickery, no client redirect, no extra round trip; the routing fabric itself does the geo-selection for free.
 
@@ -19,3 +19,4 @@ The tradeoff is that anycast routing can be unstable for long-lived connections:
 - [[Multicast]]
 - [[Load Balancing]]
 - [[IPv6]]
+- [[Border Gateway Protocol]]

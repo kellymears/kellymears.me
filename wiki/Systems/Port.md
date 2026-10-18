@@ -24,6 +24,8 @@ Confirming which process holds a port — and what directory it is running from 
 - [[Containerization]]
 - [[Same-Origin Policy]]
 - [[Domain Name System]]
+- [[Firewall]]
+- [[Reverse Proxy]]
 
 ## Related
 - [[Environment Variable]]

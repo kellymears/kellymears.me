@@ -18,6 +18,7 @@ The pattern is at its best where the value is in the connection rather than in s
 - [[Signaling Server]]
 - [[Conflict-Free Replicated Data Type]]
 - [[Eventual Consistency]]
+- [[Gossip Protocol]]
 
 ## Related
 - [[Idempotence]]
