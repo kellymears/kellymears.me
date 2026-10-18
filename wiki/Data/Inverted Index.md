@@ -29,9 +29,9 @@ Inverted indexes are optimized for reading. Posting lists are compressed and sto
 ## See also
 - [[Database Index]]
 - [[Embedding]]
-- [[Vector Database]]
+- [[Cosine Similarity]]
 - [[Retrieval-Augmented Generation]]
-- [[Search Engine Optimization]]
+- [[Precision and Recall]]
 - [[Trie]]
 - [[Faceted Search]]
 - [[Reranking]]

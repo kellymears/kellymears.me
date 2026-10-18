@@ -37,3 +37,4 @@ These pull against [[Prompt Caching]], which rewards keeping a long, stable pref
 - [[Serial Position Effect]]
 - [[Subagent]]
 - [[Token Budget]]
+- [[Distribution Shift]]

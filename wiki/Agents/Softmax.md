@@ -28,7 +28,7 @@ Some practical details matter:
 Logits are also a window for research. The *logit lens* applies the final output layer to intermediate activations to see what the model would predict at each depth, a basic tool of [[Mechanistic Interpretability]]. And because softmax never assigns exactly zero, a model always gives some probability to an absurd continuation, one ingredient of [[Hallucination]].
 
 ## See also
-- [[Temperature Sampling]]
-- [[Attention Mechanism]]
+- [[Calibration]]
+- [[Cosine Similarity]]
 - [[Perplexity]]
 - [[Entropy]]

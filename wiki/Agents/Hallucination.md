@@ -25,3 +25,5 @@ Mitigations that work are all about grounding. Give the model tools to *look* ra
 - [[Vacuous Truth]]
 - [[Prompt Engineering]]
 - [[Pareidolia]]
+- [[Calibration]]
+- [[Precision and Recall]]

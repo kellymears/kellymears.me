@@ -23,3 +23,6 @@ Embedding models are also usually distinct from the generation model in a pipeli
 - [[Multimodal Model]]
 - [[Reranking]]
 - [[Superposition]]
+- [[Cosine Similarity]]
+- [[Dimensionality Reduction]]
+- [[Supervised Learning]]

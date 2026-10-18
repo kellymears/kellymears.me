@@ -14,10 +14,10 @@ The tradeoff against prompting is worth being explicit about: fine-tuning is the
 
 ## See also
 - [[Large Language Model]]
-- [[Prompt Engineering]]
+- [[Supervised Learning]]
 - [[Retrieval-Augmented Generation]]
 - [[Quantization]]
-- [[Temperature Sampling]]
+- [[Regularization]]
 - [[Pretraining]]
 - [[Reinforcement Learning from Human Feedback]]
 - [[Knowledge Distillation]]

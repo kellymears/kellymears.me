@@ -16,10 +16,10 @@ RAG competes conceptually with just widening the [[Context Window]] and pasting 
 ## See also
 - [[Embedding]]
 - [[Reranking]]
-- [[Context Window]]
+- [[Cosine Similarity]]
 - [[Hallucination]]
 - [[Inverted Index]]
 - [[In-Context Learning]]
 
 ## Related
-- [[Token Budget]]
+- [[Precision and Recall]]

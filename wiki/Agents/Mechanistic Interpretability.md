@@ -16,10 +16,10 @@ What none of this licenses is folk prompting advice. Discovering that a [[Large 
 
 ## See also
 - [[Superposition]]
-- [[Context Window]]
+- [[Dimensionality Reduction]]
 - [[Residual Connection]]
 - [[Falsifiability]]
-- [[Markov Chain]]
+- [[Autoencoder]]
 - [[Attention Mechanism]]
 - [[In-Context Learning]]
 - [[Neural Network]]

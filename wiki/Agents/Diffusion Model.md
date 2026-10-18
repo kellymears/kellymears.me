@@ -32,5 +32,6 @@ The same idea spread to video, 3D assets that feed [[Gaussian Splatting]], speec
 - [[Multimodal Model]]
 - [[Pretraining]]
 - [[Image Resampling]]
-- [[Perlin Noise]]
+- [[Autoencoder]]
 - [[Diffusion]]
+- [[Generative Adversarial Network]]

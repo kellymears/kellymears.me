@@ -20,3 +20,5 @@ The counterintuitive consequence is that a larger biased sample is not safer tha
 - [[Usability Testing]]
 - [[Reservoir Sampling]]
 - [[Randomized Controlled Trial]]
+- [[Train-Test Split]]
+- [[Distribution Shift]]

@@ -34,3 +34,4 @@ Projection choice shapes perception: a map is a model, and decides in advance wh
 - [[Mipmapping]]
 - [[Floating-Point Arithmetic]]
 - [[Choropleth Map]]
+- [[Dimensionality Reduction]]

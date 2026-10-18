@@ -24,3 +24,4 @@ The razor pairs naturally with [[Plausible Mechanism]]: prefer the account with 
 ## Related
 - [[Confirmation Bias]]
 - [[Bayes' Theorem]]
+- [[Regularization]]

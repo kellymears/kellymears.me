@@ -30,3 +30,4 @@ A related asymmetry causes real bugs: a system may *advertise* a richer schema t
 - [[ETL Pipeline]]
 - [[Schema Evolution]]
 - [[Data Lineage]]
+- [[Distribution Shift]]

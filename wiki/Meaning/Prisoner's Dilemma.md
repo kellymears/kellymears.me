@@ -31,3 +31,4 @@ The model has critics. Real people cooperate more than the theory predicts in on
 - [[Information Asymmetry]]
 - [[Metagame]]
 - [[Rent-Seeking]]
+- [[Generative Adversarial Network]]

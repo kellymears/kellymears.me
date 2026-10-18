@@ -35,3 +35,5 @@ Convolution reaches well beyond photo filters. The filters used in [[Image Resam
 - [[Graphics Processing Unit]]
 - [[Neural Network]]
 - [[Prosopagnosia]]
+- [[Generative Adversarial Network]]
+- [[Regularization]]

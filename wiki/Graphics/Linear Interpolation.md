@@ -30,7 +30,7 @@ Interpolating between known samples also lets [[Frame Generation]] and [[Tempora
 
 ## See also
 - [[Easing]]
-- [[Bézier Curve]]
+- [[Autoencoder]]
 - [[Quaternion]]
 - [[Skeletal Animation]]
 - [[Barycentric Coordinates]]

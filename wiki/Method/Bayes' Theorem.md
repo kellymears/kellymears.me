@@ -37,3 +37,4 @@ Bayesian statistics, which treats probabilities as degrees of belief, contrasts 
 - [[Falsifiability]]
 - [[Correlation and Causation]]
 - [[Fermi Estimation]]
+- [[Calibration]]

@@ -30,3 +30,4 @@ Uses are broad. Vision lets an agent read screens for [[Computer Use]], parse do
 ## See also
 - [[Computer Use]]
 - [[Convolution]]
+- [[Autoencoder]]

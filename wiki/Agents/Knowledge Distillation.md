@@ -25,9 +25,10 @@ Distillation has limits and controversies. A student copies its teacher's errors
 The idea echoes human teaching: a learner gains from seeing how close the alternatives were, not just the expert's answer.
 
 ## See also
-- [[Model Routing]]
+- [[Autoencoder]]
 - [[Quantization]]
 - [[Fine-Tuning]]
 - [[Speculative Decoding]]
 - [[Diffusion Model]]
 - [[Open-Weight Model]]
+- [[Regularization]]

@@ -29,3 +29,4 @@ Two failure modes are worth naming. A guardrail can be *too strong for its conte
 - [[Large Language Model]]
 - [[Agent Sandbox]]
 - [[Jailbreak]]
+- [[Precision and Recall]]

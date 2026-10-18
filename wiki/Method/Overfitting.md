@@ -27,3 +27,5 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 - [[Gradient Descent]]
 - [[Expert Intuition]]
 - [[Pareidolia]]
+- [[Train-Test Split]]
+- [[Regularization]]

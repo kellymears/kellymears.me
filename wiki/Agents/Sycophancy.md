@@ -33,7 +33,7 @@ Sycophancy is related to [[Hallucination]]: both produce fluent, confident text 
 
 ## See also
 - [[Jailbreak]]
-- [[Reward Hacking]]
+- [[Calibration]]
 - [[Confirmation Bias]]
 - [[Adversarial Review]]
 - [[Theory of Mind]]

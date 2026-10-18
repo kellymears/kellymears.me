@@ -20,3 +20,5 @@ The metadata-filtering problem is where most real deployments spend their engine
 - [[Inverted Index]]
 - [[Spatial Partitioning]]
 - [[Reranking]]
+- [[Cosine Similarity]]
+- [[Dimensionality Reduction]]

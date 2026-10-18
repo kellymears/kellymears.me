@@ -26,7 +26,7 @@ In retrieval-augmented systems, reranking matters more than in classic search, b
 Evaluation uses ranking metrics: recall at *k* for the first stage, since anything it misses can't be recovered, and normalized discounted cumulative gain or mean reciprocal rank for the final order. An [[Evaluation Harness]] with labeled queries keeps changes honest, and [[LLM-as-Judge]] can label relevance at scale where human judgments are scarce.
 
 ## See also
-- [[Retrieval-Augmented Generation]]
+- [[Cosine Similarity]]
 - [[Vector Database]]
 - [[Inverted Index]]
 - [[Embedding]]

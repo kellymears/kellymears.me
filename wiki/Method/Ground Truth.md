@@ -27,3 +27,5 @@ Ground truth also has a *staleness* dimension. A measurement is only about the t
 ## Related
 - [[Exhaustive Claim]]
 - [[Truncation Bias]]
+- [[Supervised Learning]]
+- [[Precision and Recall]]

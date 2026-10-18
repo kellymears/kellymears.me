@@ -31,7 +31,7 @@ The loss is all the optimizer sees. Whatever reduces it gets learned, including 
 Large training runs spread minibatches across thousands of GPUs and average their gradients, use 16-bit [[Floating-Point Arithmetic]] to save memory, and watch for loss spikes that force a restart from a checkpoint. [[Pretraining]] and [[Fine-Tuning]] differ mainly in data and learning rate, not in method, and [[Scaling Laws]] predict how far the loss will fall.
 
 ## See also
-- [[Backpropagation]]
+- [[Regularization]]
 - [[Residual Connection]]
 - [[Overfitting]]
 - [[Simulated Annealing]]

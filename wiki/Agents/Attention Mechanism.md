@@ -33,6 +33,6 @@ Attention spreads finite weight across everything in context, which helps explai
 - [[Backpropagation]]
 - [[Residual Connection]]
 - [[Recurrent Neural Network]]
-- [[Context Rot]]
+- [[Cosine Similarity]]
 - [[Neural Network]]
 - [[Softmax]]
