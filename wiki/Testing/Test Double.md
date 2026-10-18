@@ -19,10 +19,10 @@ The second risk is that a double drifts from the real interface, so the tests pa
 - [[Test Fixture]]
 - [[Record and Replay Testing]]
 - [[Testability]]
-- [[Vacuous Truth]]
+- [[Ariane 5 Flight 501]]
 
 ## Related
-- [[Nondeterminism]]
+- [[Hardware-in-the-Loop]]
 - [[Service Virtualization]]
 - [[Integration Test]]
 - [[Fingerprint]]

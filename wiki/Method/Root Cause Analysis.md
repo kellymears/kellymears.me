@@ -15,12 +15,12 @@ The same instinct applies one level up. When a fix introduces a [[Regression]], 
 
 ## See also
 - [[Abductive Reasoning]]
-- [[Reproducible Case]]
+- [[Ariane 5 Flight 501]]
 - [[Confounding]]
 - [[Failure Mode and Effects Analysis]]
 - [[Data Lineage]]
 - [[Hindsight Bias]]
-- [[Normalization of Deviance]]
+- [[Mars Climate Orbiter]]
 - [[Scientific Debugging]]
 - [[Logging]]
 - [[Jobs to Be Done]]

@@ -27,5 +27,5 @@ Static analysis complements testing rather than replacing it. It finds whole cla
 
 ## See also
 - [[Abstract Interpretation]]
-- [[Software Inspection]]
+- [[Heartbleed]]
 - [[Gödel's Incompleteness Theorems]]

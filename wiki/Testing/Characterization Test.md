@@ -30,5 +30,5 @@ Characterization tests are a means, not an end. Once code is refactored and unde
 - [[Dependency Injection]]
 - [[Testability]]
 - [[Branch by Abstraction]]
-- [[Strangler Fig Pattern]]
-- [[Regression Testing]]
+- [[Ariane 5 Flight 501]]
+- [[Year 2000 Problem]]

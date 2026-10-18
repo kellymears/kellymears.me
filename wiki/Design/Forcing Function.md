@@ -27,7 +27,7 @@ Forcing functions have costs. Too many become friction people work around, propp
 When something goes wrong, a [[Blameless Postmortem]] often ends by asking which forcing function would have made the error impossible, rather than asking people to try harder.
 
 ## See also
-- [[Checklist]]
+- [[Therac-25]]
 - [[Natural Mapping]]
 - [[Error Message]]
 - [[Murphy's Law]]

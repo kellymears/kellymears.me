@@ -27,8 +27,8 @@ The most effective strategy so far has been writing *new* code in memory-safe la
 
 ## See also
 - [[Memory Allocator]]
-- [[Ownership and Borrowing]]
-- [[Sanitizer]]
+- [[Heartbleed]]
+- [[CrowdStrike Outage]]
 - [[Integer Overflow]]
 - [[Abstract Interpretation]]
 - [[Von Neumann Architecture]]

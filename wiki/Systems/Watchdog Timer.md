@@ -30,7 +30,7 @@ A watchdog does not fix anything; it buys time to investigate. Logs, a [[Core Du
 
 ## See also
 - [[Runtime Verification]]
-- [[Daemon]]
+- [[Hardware-in-the-Loop]]
 - [[Crash-Only Software]]
 - [[Kernel Panic]]
-- [[Real-Time Operating System]]
+- [[Patriot Missile Failure]]

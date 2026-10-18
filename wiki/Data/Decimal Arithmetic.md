@@ -33,3 +33,5 @@ Money needs more than exact numbers. An amount without a currency is ambiguous, 
 - [[JSON]]
 - [[Bresenham's Line Algorithm]]
 - [[Arbitrary-Precision Arithmetic]]
+- [[Pentium FDIV Bug]]
+- [[Patriot Missile Failure]]

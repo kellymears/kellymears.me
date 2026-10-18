@@ -23,7 +23,7 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[Checklist]]
 
 ## Related
-- [[Bus Factor]]
+- [[Therac-25]]
 - [[Psychological Safety]]
 - [[Pre-mortem]]
 - [[Status Page]]

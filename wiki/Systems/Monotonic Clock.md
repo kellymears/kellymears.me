@@ -33,5 +33,5 @@ There are subtleties. On Linux, `CLOCK_MONOTONIC` stops while the machine is sus
 Testing time-dependent code is easier when the clock is passed in rather than read from the system, so a test can step time forward precisely; see [[Fake Clock]]. Deterministic simulators take this further, controlling every clock a program sees; see [[Deterministic Simulation Testing]].
 
 ## See also
-- [[Real-Time Clock]]
+- [[Patriot Missile Failure]]
 - [[Suspend and Hibernation]]

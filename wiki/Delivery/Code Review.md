@@ -17,7 +17,7 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 - [[Definition of Done]]
 - [[Inner Source]]
 - [[Commit Message]]
-- [[Psychological Safety]]
+- [[Heartbleed]]
 - [[Software Inspection]]
 - [[Vigilance Decrement]]
 - [[Theory of Constraints]]

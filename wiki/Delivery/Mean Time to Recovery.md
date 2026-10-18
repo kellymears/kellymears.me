@@ -32,4 +32,4 @@ The more durable idea is the design goal behind the metric: build systems and te
 ## See also
 - [[Status Page]]
 - [[Bathtub Curve]]
-- [[Pets vs Cattle]]
+- [[Knight Capital Incident]]

@@ -33,4 +33,4 @@ None of these fully solves the mismatch between how much value open source creat
 - [[Code of Conduct]]
 - [[Inner Source]]
 - [[Open Core]]
-- [[Benevolent Dictator for Life]]
+- [[Heartbleed]]

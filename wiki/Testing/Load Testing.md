@@ -31,7 +31,7 @@ Load tests also check the protective machinery: [[Rate Limiting]], [[Backpressur
 - [[Queueing Theory]]
 - [[Backpressure]]
 - [[Bathtub Curve]]
-- [[Circuit Breaker]]
+- [[Patriot Missile Failure]]
 - [[Benchmarking]]
 - [[Chaos Engineering]]
 - [[Connection Pool]]

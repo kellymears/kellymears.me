@@ -25,7 +25,7 @@ Symbolic execution sits between [[Fuzzing]], which is fast and shallow and strug
 ## See also
 - [[Fuzzing]]
 - [[Program Slicing]]
-- [[Branch Coverage]]
+- [[Pentium FDIV Bug]]
 - [[Halting Problem]]
 - [[Backtracking]]
 - [[Boolean Satisfiability Problem]]

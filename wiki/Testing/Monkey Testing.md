@@ -28,6 +28,6 @@ Random testing has well-known strengths and weaknesses:
 Monkey testing works best alongside structured tests rather than instead of them. Run against every build, it acts as a cheap stability check, catching crashes before users find them; see [[Crash Reporting]]. In web apps, libraries such as gremlins.js unleash random clicks and form input on a page, often catching unhandled errors and layouts that collapse under odd input; see [[Exploratory Testing]] for the human version of wandering off the scripted path.
 
 ## See also
-- [[Property-Based Testing]]
+- [[Pentium FDIV Bug]]
 - [[Smoke Test]]
 - [[Heisenbug]]

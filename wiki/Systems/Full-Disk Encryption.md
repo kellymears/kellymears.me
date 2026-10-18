@@ -29,7 +29,7 @@ Unattended unlocking adds trade-offs. A Trusted Platform Module can release the 
 ## See also
 - [[Public-Key Cryptography]]
 - [[Data Breach]]
-- [[Secret Management]]
+- [[CrowdStrike Outage]]
 - [[Hash Function]]
 - [[Trusted Platform Module]]
 - [[Disk Partition]]

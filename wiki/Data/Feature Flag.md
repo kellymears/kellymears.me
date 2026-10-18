@@ -21,14 +21,14 @@ Flags accumulate. A flag whose feature has fully shipped is dead conditional log
 ## See also
 - [[Progressive Delivery]]
 - [[Git Revert]]
-- [[Technical Debt]]
+- [[Knight Capital Incident]]
 - [[Multi-Tenancy]]
 - [[Draft and Published]]
 - [[AB Testing]]
 - [[Shadow Traffic]]
 
 ## Related
-- [[Relational Database]]
+- [[CrowdStrike Outage]]
 - [[Headless CMS]]
 - [[Branch by Abstraction]]
 - [[Documentation Rot]]

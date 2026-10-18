@@ -29,8 +29,8 @@ Countering it takes deliberate effort, because the drift feels like experience:
 Normalization of deviance also explains why [[Hindsight Bias]] is so tempting after a disaster: from outside, the warning signs look obvious, because outsiders never watched them become normal.
 
 ## See also
-- [[Psychological Safety]]
+- [[Therac-25]]
 - [[Margin of Safety]]
-- [[Black Swan]]
+- [[Mars Climate Orbiter]]
 - [[Forcing Function]]
 - [[Checklist]]

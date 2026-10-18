@@ -31,7 +31,7 @@ Microcode sits in an awkward position for trust. It runs below the [[Kernel]] an
 
 ## See also
 - [[Instruction Set Architecture]]
-- [[Von Neumann Architecture]]
+- [[Pentium FDIV Bug]]
 - [[Silicon Binning]]
 - [[Dynamic Voltage and Frequency Scaling]]
 - [[Firmware]]

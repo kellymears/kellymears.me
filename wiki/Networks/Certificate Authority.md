@@ -31,6 +31,6 @@ The same model appears elsewhere: [[Code Signing]] certificates for software, de
 - [[Mutual TLS]]
 - [[Phishing]]
 - [[Audit Log]]
-- [[Supply Chain Security]]
+- [[Heartbleed]]
 - [[HTTP Strict Transport Security]]
 - [[Man-in-the-Middle Attack]]

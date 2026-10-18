@@ -26,6 +26,6 @@ The concept also explains how labels stick. Treating someone as a troublemaker c
 
 ## See also
 - [[Learned Helplessness]]
-- [[Goodhart's Law]]
+- [[Year 2000 Problem]]
 - [[Overton Window]]
 - [[Moore's Law]]

@@ -32,5 +32,5 @@ The trade-off is cost and confidence. A staging environment that mirrors product
 
 ## See also
 - [[Shift-Left Testing]]
-- [[Continuous Integration]]
+- [[Year 2000 Problem]]
 - [[Testing in Production]]

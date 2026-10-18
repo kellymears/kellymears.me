@@ -31,5 +31,5 @@ The tester's mindset carries over to all testing: assume the system is broken an
 ## See also
 - [[Threat Modeling]]
 - [[Honeypot]]
-- [[Adversarial Review]]
+- [[Heartbleed]]
 - [[Port Scanning]]

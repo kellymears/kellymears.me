@@ -32,6 +32,6 @@ Drift is not purely a server problem. Documentation drifts from the system it de
 The honest response to drift is not to forbid manual change entirely. Incidents sometimes require it. The discipline is to treat any manual change as temporary and bring it back into the declared state quickly, so the definition stays true. Systems with no drift detection drift; the only question is how far.
 
 ## See also
-- [[YAML]]
+- [[Knight Capital Incident]]
 - [[Configuration Management]]
 - [[Pets vs Cattle]]

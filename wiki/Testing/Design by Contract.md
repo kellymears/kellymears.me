@@ -28,6 +28,6 @@ Contracts between functions are different from [[Contract Testing]], which check
 ## See also
 - [[Loop Invariant]]
 - [[Dependent Types]]
-- [[Verification and Validation]]
+- [[Ariane 5 Flight 501]]
 - [[Polymorphism]]
 - [[Database Constraint]]

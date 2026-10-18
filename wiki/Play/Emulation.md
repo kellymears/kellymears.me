@@ -25,4 +25,4 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 - [[Right to Repair]]
 - [[Point-and-Click Adventure]]
 - [[Differential Testing]]
-- [[Vector Graphics]]
+- [[Hardware-in-the-Loop]]

@@ -26,7 +26,7 @@ Pairwise selection fits naturally with other techniques for choosing inputs:
 The technique has limits. It selects combinations but doesn't say what the correct output is, which still needs a [[Test Oracle]]. It assumes failures involve few parameters, which holds often but not always. And it covers only the values someone thought to list, so it complements rather than replaces [[Exploratory Testing]] and generated inputs from [[Property-Based Testing]], which can find values no one wrote down. Measuring how much of the space was exercised is a form of coverage like [[Code Coverage]], measured over configurations instead of lines.
 
 ## See also
-- [[Boundary Value Analysis]]
+- [[Pentium FDIV Bug]]
 - [[Feature Flag]]
 - [[Property-Based Testing]]
 - [[Test Oracle]]

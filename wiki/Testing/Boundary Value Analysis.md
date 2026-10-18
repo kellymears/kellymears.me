@@ -29,6 +29,6 @@ These techniques make [[Unit Test]] design systematic rather than ad hoc, and th
 
 ## See also
 - [[Parameterized Test]]
-- [[Decision Table Testing]]
+- [[Ariane 5 Flight 501]]
 - [[Black-Box and White-Box Testing]]
-- [[Loop Invariant]]
+- [[Year 2000 Problem]]

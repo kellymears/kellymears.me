@@ -31,6 +31,6 @@ Teams practice before real outages. Game days and [[Chaos Engineering]] inject f
 ## See also
 - [[Status Page]]
 - [[Mean Time to Recovery]]
-- [[Secrets Management]]
+- [[Knight Capital Incident]]
 - [[Git Revert]]
 - [[Site Reliability Engineering]]

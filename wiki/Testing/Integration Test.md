@@ -28,3 +28,5 @@ The pragmatic position that most teams converge on: integration tests for anythi
 - [[Responsive Breakpoint]]
 - [[Code Coverage]]
 - [[Contract Testing]]
+- [[Mars Climate Orbiter]]
+- [[Hardware-in-the-Loop]]

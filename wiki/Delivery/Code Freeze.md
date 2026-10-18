@@ -32,6 +32,6 @@ In practice, many organizations keep short, targeted freezes for genuinely high-
 ## See also
 - [[Hotfix]]
 - [[Continuous Deployment]]
-- [[Rollback]]
+- [[Year 2000 Problem]]
 - [[Change Advisory Board]]
 - [[Release Candidate]]

@@ -25,7 +25,7 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 **Game days** bring the same idea to people and process: a team rehearses a simulated [[Incident Response|incident]], testing runbooks, alerting, and communication as well as software, and reviews the results in the spirit of a [[Blameless Postmortem]]. The underlying philosophy matches [[Fail Fast]]: failure is inevitable, so make it frequent, small, and visible rather than rare, large, and surprising. Production is the only environment exactly like production, which is why mature practitioners eventually run experiments there.
 
 ## See also
-- [[Penetration Testing]]
+- [[Hardware-in-the-Loop]]
 - [[Failure Mode and Effects Analysis]]
 - [[Load Testing]]
 - [[Risk-Based Testing]]

@@ -19,7 +19,7 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Git Worktree]]
 - [[Semaphore]]
 - [[Memory Model]]
-- [[Reproducible Case]]
+- [[Therac-25]]
 - [[Fan-Out and Fan-In]]
 - [[Logical Clock]]
 - [[Deterministic Simulation Testing]]

@@ -35,4 +35,4 @@ Defensive code needs testing too. The branches for bad input and failures are of
 ## See also
 - [[Murphy's Law]]
 - [[Graceful degradation]]
-- [[Sanitizer]]
+- [[Therac-25]]

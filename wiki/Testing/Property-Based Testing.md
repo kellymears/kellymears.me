@@ -19,7 +19,7 @@ The hard part is the one the technique's name is honest about: finding a propert
 - [[Test Fixture]]
 - [[Pesticide Paradox]]
 - [[Exploratory Testing]]
-- [[Boundary Value Analysis]]
+- [[Pentium FDIV Bug]]
 - [[Loop Invariant]]
 - [[Design by Contract]]
 - [[Delta Debugging]]
