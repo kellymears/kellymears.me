@@ -39,4 +39,4 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 - [[Ship of Theseus]]
 - [[Checksum]]
 - [[Optical Character Recognition]]
-- [[Adobe Flash]]
+- [[Sneakernet]]

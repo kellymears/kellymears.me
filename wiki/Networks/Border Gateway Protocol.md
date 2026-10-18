@@ -27,7 +27,7 @@ BGP is also a tool. [[Anycast]] announces the same addresses from many locations
 - [[Anycast]]
 - [[IP Routing]]
 - [[Domain Name System]]
-- [[Collective Action]]
+- [[Software-Defined Networking]]
 - [[Man-in-the-Middle Attack]]
 - [[Mesh Network]]
 - [[IPv6]]

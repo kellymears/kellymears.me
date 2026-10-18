@@ -29,5 +29,5 @@ Bluetooth mesh, from 2017, lets low-energy devices relay messages for lighting a
 - [[Spread Spectrum]]
 - [[Near-Field Communication]]
 - [[Peer-to-Peer]]
-- [[Latency and Jitter]]
+- [[Radio Spectrum]]
 - [[Cellular Network]]

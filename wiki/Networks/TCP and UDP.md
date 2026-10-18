@@ -16,7 +16,7 @@ Reliability is also why TCP is the wrong tool for anything latency-sensitive und
 
 ## See also
 - [[Network Socket]]
-- [[Packet Switching]]
+- [[Port Scanning]]
 - [[ARPANET]]
 - [[Nagle's Algorithm]]
 - [[Endianness]]

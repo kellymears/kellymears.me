@@ -30,6 +30,6 @@ Fiber doesn't make the network faster in every sense. Light in glass travels at 
 - [[Internet Exchange Point]]
 - [[Glass]]
 - [[Telegraph]]
-- [[Cellular Network]]
+- [[Last Mile]]
 - [[Satellite Internet]]
 - [[Laser]]

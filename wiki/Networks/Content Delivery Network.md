@@ -16,7 +16,7 @@ The tradeoff CDNs make explicit is between consistency and locality: an edge nod
 ## See also
 - [[Internet Exchange Point]]
 - [[Subresource Integrity]]
-- [[Load Balancing]]
+- [[Sneakernet]]
 - [[Adaptive Bitrate Streaming]]
 - [[API Gateway]]
 - [[Edge Computing]]

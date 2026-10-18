@@ -28,3 +28,4 @@ Displaying it reliably is hard. The art depends on exact character widths and th
 ## See also
 - [[Color Quantization]]
 - [[Vector Graphics]]
+- [[Bulletin Board System]]

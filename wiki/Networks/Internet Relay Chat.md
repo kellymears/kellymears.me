@@ -28,3 +28,4 @@ IRC conventions passed into later chat apps: channels with hash names, `/me` act
 - [[Peer-to-Peer]]
 - [[MQTT]]
 - [[Third Place]]
+- [[Bulletin Board System]]

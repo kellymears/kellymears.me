@@ -32,4 +32,4 @@ The mesh reflects a recurring pattern: moving cross-cutting concerns out of appl
 
 ## See also
 - [[Fallacies of Distributed Computing]]
-- [[Observability]]
+- [[Software-Defined Networking]]

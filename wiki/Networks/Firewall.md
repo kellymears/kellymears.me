@@ -30,6 +30,6 @@ Firewalls have well-known failure modes:
 That last weakness drove the move to [[Zero Trust Network]] designs, which treat every connection as untrusted regardless of where it comes from. Firewalls remain valuable, but as one layer among several rather than the wall around a trusted interior. [[NAT Traversal]] exists largely because firewalls and NAT block the unsolicited inbound connections peer-to-peer applications need.
 
 ## See also
-- [[eBPF]]
-- [[Internet Control Message Protocol]]
-- [[Internet Censorship]]
+- [[Port Scanning]]
+- [[Software-Defined Networking]]
+- [[Honeypot]]

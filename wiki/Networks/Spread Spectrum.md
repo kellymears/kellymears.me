@@ -32,3 +32,5 @@ Newer Wi-Fi and cellular standards mostly use a different scheme that divides th
 ## See also
 - [[Electromagnetic Spectrum]]
 - [[Modem]]
+- [[Radio Spectrum]]
+- [[Amateur Radio]]

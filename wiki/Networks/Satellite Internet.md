@@ -26,9 +26,9 @@ Limits and concerns:
 Satellites also connect directly to ordinary phones in some areas, merging with [[Cellular Network]]s. The broader lesson is that physics sets latency floors; see [[Tail Latency]].
 
 ## See also
-- [[Packet Switching]]
-- [[Mesh Network]]
-- [[Laser]]
-- [[Global Positioning System]]
-- [[Orbit]]
+- [[Radio Spectrum]]
+- [[Antenna]]
+- [[Amateur Radio]]
+- [[Delay-Tolerant Networking]]
+- [[Last Mile]]
 - [[Aurora]]

@@ -20,7 +20,7 @@ The honest cost is operational complexity: every service now needs to participat
 - [[Caller ID Authentication]]
 - [[IPv6]]
 - [[Firewall]]
-- [[Transport Layer Security]]
+- [[Honeypot]]
 - [[Subnet]]
 - [[Man-in-the-Middle Attack]]
 - [[Row-Level Security]]

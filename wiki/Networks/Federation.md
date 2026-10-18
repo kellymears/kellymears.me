@@ -38,7 +38,7 @@ The underlying idea is interoperability through an open protocol rather than thr
 
 ## See also
 - [[Two-Sided Market]]
-- [[Conflict-Free Replicated Data Type]]
+- [[Bulletin Board System]]
 - [[Distributed Hash Table]]
 - [[IndieWeb]]
 - [[Internet Relay Chat]]

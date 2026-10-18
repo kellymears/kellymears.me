@@ -32,7 +32,7 @@ The cost is the [[End-to-End Principle]]. On the original internet any host coul
 NAT also appears inside machines. [[Containerization]] tools usually give containers private addresses and translate their traffic through the host. IPv6 has enough addresses for every device to have its own, removing the original reason for NAT, though many networks keep a firewall that blocks unsolicited inbound connections by default.
 
 ## See also
-- [[IP Routing]]
+- [[Port Scanning]]
 - [[Captive Portal]]
 - [[Network Socket]]
 - [[Subnet]]

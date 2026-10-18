@@ -33,7 +33,7 @@ The two approaches have converged in places. Telephone calls now travel as packe
 
 ## See also
 - [[Telegraph]]
-- [[Telephone Network]]
+- [[Amateur Radio]]
 - [[ARPANET]]
 - [[OSI Model]]
-- [[Submarine Cable]]
+- [[Delay-Tolerant Networking]]

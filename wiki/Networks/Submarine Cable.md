@@ -31,6 +31,6 @@ Resilience comes from redundancy: many cables on different paths, with [[Border 
 - [[Anycast]]
 - [[Wave Interference]]
 - [[Optical Fiber]]
-- [[Bandwidth]]
+- [[Sneakernet]]
 - [[Satellite Internet]]
 - [[Telegraph]]

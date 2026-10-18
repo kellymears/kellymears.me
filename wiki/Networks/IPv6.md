@@ -15,7 +15,7 @@ Dual-stack — running IPv4 and IPv6 side by side — has been the transition st
 
 ## See also
 - [[Ethernet]]
-- [[TCP and UDP]]
+- [[Port Scanning]]
 - [[Internet Control Message Protocol]]
 - [[Anycast]]
 - [[Zero Trust Network]]

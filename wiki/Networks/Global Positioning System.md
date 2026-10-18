@@ -28,7 +28,7 @@ That dependence is a weakness. GPS signals arrive very faint, so they're easy to
 The system was built for the US military and opened fully to civilian accuracy in 2000.
 
 ## See also
-- [[Satellite Internet]]
+- [[Radio Spectrum]]
 - [[Map Projection]]
 - [[Aurora]]
 - [[Orbit]]

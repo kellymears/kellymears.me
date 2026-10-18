@@ -26,7 +26,7 @@ Sockets also work without a network. A *Unix domain socket* is addressed by a fi
 Ports are finite resources. A busy client making many short-lived connections can run out of ephemeral ports, because closed TCP connections linger for up to a few minutes before their port can be reused. [[Network Address Translation]] rewrites ports too, mapping many private connections onto one public address.
 
 ## See also
-- [[Remote Procedure Call]]
+- [[Port Scanning]]
 - [[WebSocket]]
 - [[Inter-Process Communication]]
 - [[Typestate]]

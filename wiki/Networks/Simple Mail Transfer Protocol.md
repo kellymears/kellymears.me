@@ -29,5 +29,6 @@ Encryption was also an afterthought. Servers upgrade a connection to [[Transport
 Email remains the largest example of [[Federation]]: millions of independently run servers, owned by different organizations, exchange messages through one shared protocol, and an address at one provider can write to any other. In practice, a few large providers now handle most personal email, and their filtering decisions effectively set the rules for everyone, an illustration of [[Network Effect]]s concentrating even an open system.
 
 ## See also
-- [[Phishing]]
+- [[Bulletin Board System]]
 - [[ARPANET]]
+- [[Honeypot]]

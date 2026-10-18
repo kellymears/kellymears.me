@@ -27,7 +27,7 @@ The theoretical ceiling for any channel comes from [[Information Theory]]. Shann
 Bandwidth is also shared. A home connection is split among every device, and a provider's capacity is oversubscribed on the assumption that not everyone uses it at once. When a link is saturated, queues fill and latency rises for everyone, the problem known as bufferbloat. The same tradeoffs appear in [[Queueing Theory]], and [[Data Compression]] is the cheapest way to need less of it.
 
 ## See also
-- [[Rate Limiting]]
+- [[Sneakernet]]
 - [[Head-of-Line Blocking]]
 - [[Ethernet]]
 - [[Modem]]

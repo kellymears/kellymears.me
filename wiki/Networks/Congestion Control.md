@@ -32,6 +32,6 @@ Congestion control lives in [[TCP and UDP]] stacks, and [[QUIC]] reimplements it
 - [[Adaptive Bitrate Streaming]]
 - [[Bandwidth]]
 - [[Modem]]
-- [[Packet Switching]]
+- [[Last Mile]]
 - [[Net Neutrality]]
 - [[Head-of-Line Blocking]]

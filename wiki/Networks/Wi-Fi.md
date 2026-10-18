@@ -31,6 +31,6 @@ At the network layers, Wi-Fi is another link: devices get addresses on a [[Subne
 ## See also
 - [[Bluetooth]]
 - [[Captive Portal]]
-- [[OSI Model]]
-- [[Modem]]
-- [[Spread Spectrum]]
+- [[Radio Spectrum]]
+- [[Antenna]]
+- [[Last Mile]]

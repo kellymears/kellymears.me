@@ -32,3 +32,4 @@ The debate concerns the same thing as other platform fights: who controls access
 - [[Network Effect]]
 - [[Bandwidth]]
 - [[Telephone Network]]
+- [[Last Mile]]

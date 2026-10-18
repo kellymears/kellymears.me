@@ -26,7 +26,7 @@ The problem sits beside other impossibility results that shape the field, includ
 
 ## See also
 - [[Logical Clock]]
-- [[Exponential Backoff]]
+- [[Delay-Tolerant Networking]]
 - [[Quorum]]
 - [[Halting Problem]]
 - [[Timeout]]

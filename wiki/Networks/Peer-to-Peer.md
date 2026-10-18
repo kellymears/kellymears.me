@@ -17,7 +17,7 @@ The pattern is at its best where the value is in the connection rather than in s
 - [[WebRTC]]
 - [[Signaling Server]]
 - [[Strength of Weak Ties]]
-- [[Eventual Consistency]]
+- [[Bulletin Board System]]
 - [[Gossip Protocol]]
 
 ## Related

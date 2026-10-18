@@ -32,7 +32,7 @@ Exchanges are mostly neutral, member-run organizations, and their dense local me
 
 ## See also
 - [[IP Routing]]
-- [[Submarine Cable]]
+- [[Last Mile]]
 - [[Net Neutrality]]
 - [[Packet Switching]]
 - [[Optical Fiber]]

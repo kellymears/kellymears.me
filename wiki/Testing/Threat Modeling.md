@@ -32,6 +32,6 @@ Threat models need updating as systems change. Language-model agents that read u
 Threat modeling is a thought exercise, so its blind spots are the team's blind spots. Testing the result against a real adversary catches what imagination missed; see [[Penetration Testing]] and [[Adversarial Review]]. Imagining that a breach has already happened and asking how is a useful prompt; see [[Pre-mortem]].
 
 ## See also
-- [[Multi-Factor Authentication]]
+- [[Honeypot]]
 - [[Open Redirect]]
 - [[MicroVM]]
