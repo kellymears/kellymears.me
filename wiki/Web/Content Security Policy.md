@@ -23,3 +23,4 @@ CSP composes with, but is distinct from, [[Cross-Origin Resource Sharing]]: CORS
 - [[JSON Web Token]]
 - [[Clickjacking]]
 - [[Subresource Integrity]]
+- [[Penetration Testing]]

@@ -30,3 +30,4 @@ Two traps recur. A static server that rewrites URLs can silently serve an error 
 - [[Reproducible Case]]
 - [[Regression Testing]]
 - [[Page Object Model]]
+- [[Pseudolocalization]]

@@ -35,3 +35,4 @@ Parameterized tests sit on a spectrum. At one end is a single example, an ordina
 - [[Property-Based Testing]]
 - [[Unit Test]]
 - [[Assertion]]
+- [[Decision Table Testing]]

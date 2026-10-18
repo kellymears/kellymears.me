@@ -19,3 +19,5 @@ In CI pipelines, smoke tests commonly gate whether the expensive suite even runs
 - [[Canary Release]]
 - [[End-to-End Test]]
 - [[Synthetic Monitoring]]
+- [[Dogfooding]]
+- [[Risk-Based Testing]]

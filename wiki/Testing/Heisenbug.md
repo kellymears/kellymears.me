@@ -14,8 +14,8 @@ The fault is still [[Nondeterminism]] in the ordinary sense — the same input d
 
 ## See also
 - [[Core Dump]]
-- [[Flaky Test]]
-- [[Nondeterminism]]
+- [[Minimal Reproducible Example]]
+- [[Crash Reporting]]
 - [[Determinism]]
 - [[Dynamic Voltage and Frequency Scaling]]
 - [[Test Isolation]]

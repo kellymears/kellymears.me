@@ -29,3 +29,5 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[Incident Response]]
 - [[Site Reliability Engineering]]
 - [[Error Message]]
+- [[Risk-Based Testing]]
+- [[Bug Triage]]

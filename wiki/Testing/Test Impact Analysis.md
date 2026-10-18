@@ -28,5 +28,5 @@ Test impact analysis is one piece of keeping a [[Deployment Pipeline]] fast as a
 
 ## See also
 - [[Regression Testing]]
-- [[Code Coverage]]
-- [[Test Pyramid]]
+- [[Test Parallelization]]
+- [[Risk-Based Testing]]

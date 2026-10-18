@@ -22,6 +22,6 @@ The durable lesson is about the trade-offs, not the triangle. Each test should s
 
 ## See also
 - [[Humble Object]]
-- [[End-to-End Test]]
-- [[Contract Testing]]
+- [[Risk-Based Testing]]
+- [[Solitary and Sociable Tests]]
 - [[Test-Driven Development]]

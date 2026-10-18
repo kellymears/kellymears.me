@@ -25,10 +25,11 @@ It complements rather than competes with [[Fuzzing]], which explores input space
 
 ## See also
 - [[Fuzzing]]
-- [[Property-Based Testing]]
+- [[Bug Triage]]
 - [[End-to-End Test]]
 - [[Accessibility]]
-- [[Finite State Machine]]
+- [[Risk-Based Testing]]
 - [[Reproducible Case]]
 - [[Rubber Duck Debugging]]
 - [[Usability Testing]]
+- [[Dogfooding]]

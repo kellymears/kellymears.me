@@ -32,3 +32,4 @@ Good line length is one of the cheapest improvements to readability, and it supp
 - [[Grid System]]
 - [[Accessibility]]
 - [[Banner Blindness]]
+- [[Pseudolocalization]]

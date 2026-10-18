@@ -25,7 +25,7 @@ Merge-heavy histories complicate the picture, since the "middle" of a graph with
 Bisection is the simplest version of [[Delta Debugging]], which generalizes the idea to sets of changes that don't have a natural order. It answers *when* a [[Regression]] arrived, which is often the fastest route to *why*: the diff of one small commit is usually short enough to read in full. Some teams bisect automatically in [[Continuous Integration]] when a test that passed yesterday fails today.
 
 ## See also
-- [[Binary Search]]
+- [[Minimal Reproducible Example]]
 - [[Delta Debugging]]
 - [[Atomic Commit]]
 - [[Regression]]

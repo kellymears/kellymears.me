@@ -33,3 +33,4 @@ Outside computing, greedy choices explain a lot of [[Path Dependence]]: each loc
 - [[Divide and Conquer]]
 - [[Overfitting]]
 - [[Gradient Descent]]
+- [[Test Parallelization]]

@@ -37,3 +37,4 @@ The cost is an extra layer and the discipline to keep the shell humble. Logic th
 - [[Pure Function]]
 - [[Unit Test]]
 - [[Test Pyramid]]
+- [[Solitary and Sociable Tests]]

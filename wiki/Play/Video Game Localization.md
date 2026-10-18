@@ -21,3 +21,5 @@ The historical record includes outright alteration: religious and violent conten
 - [[Visual Novel]]
 - [[Wiki]]
 - [[Documentation Rot]]
+- [[Pseudolocalization]]
+- [[Dogfooding]]

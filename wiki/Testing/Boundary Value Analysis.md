@@ -29,6 +29,6 @@ These techniques make [[Unit Test]] design systematic rather than ad hoc, and th
 
 ## See also
 - [[Parameterized Test]]
-- [[Property-Based Testing]]
+- [[Decision Table Testing]]
 - [[Mutation Testing]]
 - [[Null]]

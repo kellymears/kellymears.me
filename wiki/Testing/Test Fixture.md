@@ -27,3 +27,4 @@ Two further notes. Fixtures should be *local and deterministic* where the assert
 - [[Nondeterminism]]
 - [[Test Smell]]
 - [[Test Data Builder]]
+- [[Test Parallelization]]

@@ -36,3 +36,4 @@ Programming tools have shown how much good messages help. The Elm compiler's 201
 - [[Undo]]
 - [[Empty State]]
 - [[Silent Failure]]
+- [[Bug Triage]]

@@ -26,3 +26,4 @@ There is also a measurement artifact worth recognizing. When two runners instrum
 - [[Vacuous Truth]]
 - [[Fail Fast]]
 - [[Symbolic Execution]]
+- [[Decision Table Testing]]

@@ -36,3 +36,4 @@ Owners do not replace good review practice. A required approval is only as meani
 - [[Conway's Law]]
 - [[Bus Factor]]
 - [[Branch Protection]]
+- [[Bug Triage]]

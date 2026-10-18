@@ -24,3 +24,5 @@ The practical cost is why mutation testing isn't run on every commit the way cov
 
 ## Related
 - [[Assertion]]
+- [[Solitary and Sociable Tests]]
+- [[Risk-Based Testing]]

@@ -27,3 +27,4 @@ Coverage also behaves oddly across multiple test environments measuring the same
 ## Related
 - [[Unit Test]]
 - [[Vacuous Truth]]
+- [[Risk-Based Testing]]

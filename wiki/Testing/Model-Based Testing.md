@@ -32,3 +32,4 @@ The main costs are building the model and keeping it right. A model that is as c
 - [[Property-Based Testing]]
 - [[Test Oracle]]
 - [[Fuzzing]]
+- [[Decision Table Testing]]

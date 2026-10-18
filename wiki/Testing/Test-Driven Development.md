@@ -27,3 +27,4 @@ The main misuse is treating it as a mandate to test every function in isolation.
 - [[Tree Shaking]]
 - [[Root Cause Analysis]]
 - [[Pair Programming]]
+- [[Solitary and Sociable Tests]]

@@ -27,5 +27,5 @@ Static analysis complements testing rather than replacing it. It finds whole cla
 
 ## See also
 - [[Compiler]]
-- [[Code Review]]
+- [[Penetration Testing]]
 - [[Unit Test]]
