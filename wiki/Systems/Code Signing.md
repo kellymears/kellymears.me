@@ -30,3 +30,4 @@ Testing this requires a machine other than the one that built it, since a local 
 - [[Cron]]
 - [[Reproducible Build]]
 - [[Commit Signing]]
+- [[Boot Process]]

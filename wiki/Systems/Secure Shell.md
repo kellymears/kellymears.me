@@ -34,5 +34,5 @@ Because SSH is powerful, its servers are constant targets. Internet-facing serve
 ## See also
 - [[Public-Key Cryptography]]
 - [[Secret Management]]
-- [[Virtual Private Network]]
+- [[Pseudoterminal]]
 - [[Transport Layer Security]]

@@ -24,3 +24,4 @@ The practical upshot is that solving a slowdown requires diagnosing which one is
 - [[Coroutine]]
 - [[Graphics Processing Unit]]
 - [[MapReduce]]
+- [[Context Switch]]

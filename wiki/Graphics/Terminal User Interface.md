@@ -27,3 +27,4 @@ The aesthetic ceiling is higher than most people assume. Color, spacing, and res
 ## Related
 - [[Environment Variable]]
 - [[Dithering]]
+- [[Pseudoterminal]]

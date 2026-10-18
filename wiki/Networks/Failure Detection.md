@@ -30,6 +30,6 @@ Detection also interacts with load. Declaring a node dead shifts its traffic ont
 
 ## See also
 - [[Synthetic Monitoring]]
-- [[Leader Election]]
+- [[Watchdog Timer]]
 - [[Network Partition]]
 - [[Circuit Breaker]]

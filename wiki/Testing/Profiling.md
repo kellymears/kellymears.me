@@ -27,7 +27,7 @@ Profiling and [[Benchmarking]] go together. A benchmark says *how fast* somethin
 Continuous profiling, which samples production systems at low overhead all the time, has become part of [[Observability]], since some problems appear only under real load and data. The measurement should still be treated with care: a profile shows where time went for one workload on one machine, and a program throttled by the [[CPU Scheduler]] or by heat may look different elsewhere.
 
 ## See also
-- [[Benchmarking]]
+- [[eBPF]]
 - [[Instrumentation]]
 - [[Call Stack]]
 - [[Observability]]

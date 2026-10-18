@@ -32,5 +32,5 @@ Signals also explain some confusing behavior. In a container, the main process r
 ## See also
 - [[Process]]
 - [[Daemon]]
-- [[Out-of-Memory Killer]]
-- [[Zero-Downtime Deployment]]
+- [[Interrupt]]
+- [[Exit Status]]

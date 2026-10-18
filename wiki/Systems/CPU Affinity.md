@@ -23,7 +23,7 @@ Affinity matters most on **heterogeneous processors**, where cores are not inter
 The costs are real. A pinned thread can't escape a busy core, so badly chosen affinity produces [[Resource Starvation]] on one core while others sit idle. Affinity is inherited by child processes, so a restriction applied to a launcher quietly applies to everything it starts. And because a manual pinning scheme encodes one machine's topology, it is configuration that does not port, and it has to be undone when the work is done. Tools that apply it temporarily, and revert only what they changed, follow the same principle as [[Idempotence|idempotent]] setup scripts.
 
 ## See also
-- [[CPU Scheduler]]
+- [[Context Switch]]
 - [[Control Groups]]
 - [[Concurrency and Parallelism]]
 - [[Frame Pacing]]

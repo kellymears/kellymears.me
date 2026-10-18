@@ -28,6 +28,6 @@ Userspace OOM daemons (earlyoom, systemd-oomd) act earlier, using [[Pressure Sta
 - [[Control Groups]]
 - [[Systemd]]
 - [[Swap]]
-- [[Pressure Stall Information]]
+- [[Exit Status]]
 - [[Circuit Breaker]]
 - [[Unix Signal]]

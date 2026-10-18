@@ -29,3 +29,5 @@ Scheduled work is the daemon's near relative; see [[Cron]].
 - [[Root Cause Analysis]]
 - [[Instrumentation]]
 - [[Network Time Protocol]]
+- [[Pseudoterminal]]
+- [[Watchdog Timer]]

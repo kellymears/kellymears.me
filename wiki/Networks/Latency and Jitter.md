@@ -14,7 +14,7 @@ Latency itself splits into components worth naming separately: propagation delay
 [[QUIC]] and modern congestion control algorithms both target latency directly rather than just throughput, on the theory that a fast-but-bursty connection is worse to use than a slightly slower, steadier one.
 
 ## See also
-- [[WebRTC]]
+- [[Interrupt]]
 - [[QUIC]]
 - [[TCP and UDP]]
 - [[Streaming Response]]

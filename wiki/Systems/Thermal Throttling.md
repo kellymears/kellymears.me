@@ -26,10 +26,10 @@ Remedies run from physical to configured:
 Heat is also the main accelerator of chip wear such as [[Electromigration]], so a cooler chip lasts longer.
 
 ## See also
-- [[Dynamic Voltage and Frequency Scaling]]
+- [[Load Average]]
 - [[Electromigration]]
 - [[Silicon Binning]]
-- [[Frame Pacing]]
+- [[Microcode]]
 - [[Conservation of Energy]]
 - [[Pressure Stall Information]]
 - [[Thermal Expansion]]

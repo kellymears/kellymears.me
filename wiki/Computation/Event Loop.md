@@ -25,3 +25,5 @@ The event loop is one specific answer to the concurrency-without-threads problem
 - [[Event Delegation]]
 - [[Binary Heap]]
 - [[Call Stack]]
+- [[Interrupt]]
+- [[Context Switch]]

@@ -29,3 +29,4 @@ Binning is a general pattern beyond chips: LEDs are binned by [[Color Temperatur
 - [[Planned Obsolescence]]
 - [[Survivorship Bias]]
 - [[Color Temperature]]
+- [[Microcode]]

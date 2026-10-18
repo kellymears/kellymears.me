@@ -35,3 +35,5 @@ Exit status is the shell's only universal signal, and it means "the program retu
 ## Related
 - [[Silent Failure]]
 - [[Ground Truth]]
+- [[Exit Status]]
+- [[Pseudoterminal]]

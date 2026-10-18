@@ -38,3 +38,4 @@ Descriptors also carry security meaning. Holding an open descriptor is itself a 
 - [[System Call]]
 - [[Inode]]
 - [[Shell]]
+- [[Pseudoterminal]]

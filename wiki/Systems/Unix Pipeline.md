@@ -31,3 +31,4 @@ Pipelines have sharp edges. By default the shell reports only the last command's
 - [[File Descriptor]]
 - [[Backpressure]]
 - [[Worse Is Better]]
+- [[Exit Status]]

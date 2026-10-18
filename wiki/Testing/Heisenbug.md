@@ -13,7 +13,7 @@ The usual causes share a theme: behavior that depends on something the source co
 The fault is still [[Nondeterminism]] in the ordinary sense — the same input does not reliably produce the same output — and it produces the same symptom as a [[Flaky Test]] in a test suite: intermittent failure that resists a single [[Reproducible Case]]. The strategies that work avoid perturbing the system: logging to a lock-free buffer instead of a synchronizing output stream, execution recording that captures enough state to replay a run exactly, and [[Determinism|deterministic]] replay tooling built to reproduce a specific interleaving on demand — the same idea, applied to production failures, that [[Record and Replay Testing]] applies to test suites.
 
 ## See also
-- [[Race Condition]]
+- [[Core Dump]]
 - [[Flaky Test]]
 - [[Nondeterminism]]
 - [[Determinism]]

@@ -33,3 +33,4 @@ A related discipline: when a test is written after a fix, revert the fix and wat
 - [[Silent Failure]]
 - [[Regression]]
 - [[Hallucination]]
+- [[Core Dump]]

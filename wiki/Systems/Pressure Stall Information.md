@@ -22,7 +22,7 @@ Like any single metric, it needs cross-checking. The I/O figure counts time task
 
 ## See also
 - [[Resource Starvation]]
-- [[Out-of-Memory Killer]]
+- [[Load Average]]
 - [[Swap]]
 - [[CPU Scheduler]]
 - [[Observability]]

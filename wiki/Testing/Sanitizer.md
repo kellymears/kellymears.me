@@ -31,3 +31,4 @@ Older tools such as Valgrind find similar memory errors without recompiling, by 
 - [[Instrumentation]]
 - [[Race Condition]]
 - [[Static Analysis]]
+- [[Core Dump]]

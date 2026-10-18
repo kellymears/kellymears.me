@@ -27,3 +27,4 @@ Instrumentation also has its own failure modes to distinguish from real ones: a 
 - [[Unreachable Code]]
 - [[Profiling]]
 - [[Time Series Database]]
+- [[eBPF]]

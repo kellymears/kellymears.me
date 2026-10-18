@@ -20,3 +20,4 @@ That dual-leader scenario — **[[Network Partition|split brain]]** — is the f
 - [[Quorum]]
 - [[Byzantine Fault Tolerance]]
 - [[Failure Detection]]
+- [[Watchdog Timer]]
