@@ -33,7 +33,7 @@ Compared with a [[Message Queue]] built for work distribution, MQTT is about rou
 Security is often neglected. Port 1883 carries plain text, while 8883 wraps it in [[Transport Layer Security]]. Scans regularly find many thousands of brokers exposed to the internet without authentication, so brokers belong behind a [[Firewall]] with credentials and access rules per topic.
 
 ## See also
-- [[Message Queue]]
+- [[Mutual TLS]]
 - [[Delivery Guarantees]]
 - [[Webhook]]
 - [[Mesh Network]]

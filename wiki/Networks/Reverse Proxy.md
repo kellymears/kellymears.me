@@ -25,7 +25,7 @@ The proxy hides the client from the backend, which causes predictable trouble. T
 
 ## See also
 - [[Microservices]]
-- [[API Gateway]]
+- [[Service Mesh]]
 - [[Man-in-the-Middle Attack]]
 - [[Hypertext Transfer Protocol]]
 - [[Firewall]]

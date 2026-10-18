@@ -18,7 +18,7 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Real-Time Operating System]]
 - [[TCP and UDP]]
 - [[Streaming Response]]
-- [[Backpressure]]
+- [[Satellite Internet]]
 - [[Frame Pacing]]
 - [[Congestion Control]]
 - [[Tail Latency]]

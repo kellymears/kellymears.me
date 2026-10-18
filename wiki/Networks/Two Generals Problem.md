@@ -29,3 +29,4 @@ The problem sits beside other impossibility results that shape the field, includ
 - [[Exponential Backoff]]
 - [[Quorum]]
 - [[Halting Problem]]
+- [[Timeout]]

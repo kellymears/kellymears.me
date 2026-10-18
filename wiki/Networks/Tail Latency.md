@@ -3,7 +3,6 @@ aliases:
   - p99
   - p99 latency
   - Latency percentiles
-  - Hedged request
   - The tail at scale
 tags:
   - networks
@@ -38,5 +37,5 @@ Measuring the tail takes care. Percentiles can't be averaged across servers, and
 - [[Latency and Jitter]]
 - [[Queueing Theory]]
 - [[Microservices]]
-- [[Pareto Principle]]
+- [[Hedged Requests]]
 - [[Service Level Objective]]

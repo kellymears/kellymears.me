@@ -15,7 +15,7 @@ Layer 4 balancers work at the TCP/UDP level and just forward packets, cheap and 
 
 ## See also
 - [[Rolling Deployment]]
-- [[API Gateway]]
+- [[Cascading Failure]]
 - [[Stable Matching]]
 - [[Anycast]]
 - [[Rate Limiting]]

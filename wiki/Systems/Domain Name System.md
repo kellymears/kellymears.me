@@ -20,7 +20,7 @@ The common record types are few: an address record, an alias record pointing one
 - [[Email Authentication]]
 - [[Cache Invalidation]]
 - [[Virtual Private Network]]
-- [[Caller ID Authentication]]
+- [[Simple Mail Transfer Protocol]]
 - [[URL]]
 - [[Certificate Authority]]
 - [[Border Gateway Protocol]]

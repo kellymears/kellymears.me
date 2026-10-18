@@ -19,7 +19,7 @@ The corresponding design work is usually to make the operation *express the desi
 - [[Two Generals Problem]]
 - [[Determinism]]
 - [[Relational Database]]
-- [[Seed Data]]
+- [[Hedged Requests]]
 - [[Conflict-Free Replicated Data Type]]
 - [[Eventual Consistency]]
 - [[Durable Execution]]

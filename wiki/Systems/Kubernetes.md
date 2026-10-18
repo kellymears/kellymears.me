@@ -27,4 +27,4 @@ Its reputation for complexity is earned. Networking, storage, permissions, and u
 
 ## See also
 - [[Microservices]]
-- [[Daemon]]
+- [[Service Discovery]]

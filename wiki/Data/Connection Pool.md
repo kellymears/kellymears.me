@@ -22,7 +22,7 @@ The common failures:
 The pattern is general: thread pools, HTTP keep-alive, and object pools in games all trade a bounded set of reusable resources for repeated setup costs. [[Load Testing]] is where pool limits usually surface first, often as [[Resource Starvation]].
 
 ## See also
-- [[Backpressure]]
+- [[Timeout]]
 - [[Row-Level Security]]
 - [[Serverless Computing]]
 - [[Relational Database]]

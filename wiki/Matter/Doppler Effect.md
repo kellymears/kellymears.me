@@ -20,3 +20,4 @@ The effect scales with the ratio of relative velocity to wave speed, which is wh
 - [[Wave Interference]]
 - [[Cellular Network]]
 - [[Sound]]
+- [[Satellite Internet]]

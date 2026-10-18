@@ -31,3 +31,4 @@ The web's founding tolerance for imperfection still shows. Browsers render broke
 ## See also
 - [[Domain Name System]]
 - [[HTTP2 and HTTP3]]
+- [[Federation]]

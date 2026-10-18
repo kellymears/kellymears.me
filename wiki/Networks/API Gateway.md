@@ -23,3 +23,5 @@ It's easy to conflate an API gateway with a plain [[Load Balancing|load balancer
 - [[Transport Layer Security]]
 - [[Remote Procedure Call]]
 - [[Microservices]]
+- [[Service Mesh]]
+- [[Service Discovery]]

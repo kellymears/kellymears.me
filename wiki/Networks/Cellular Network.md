@@ -36,3 +36,4 @@ The radio itself is expensive in energy. Keeping it active drains the [[Lithium-
 - [[Adaptive Bitrate Streaming]]
 - [[Caller ID Authentication]]
 - [[Doppler Effect]]
+- [[Satellite Internet]]

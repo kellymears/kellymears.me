@@ -28,7 +28,7 @@ The same model appears elsewhere: [[Code Signing]] certificates for software, de
 ## See also
 - [[Information Asymmetry]]
 - [[Public-Key Cryptography]]
-- [[Domain Name System]]
+- [[Mutual TLS]]
 - [[Code Signing]]
 - [[Caller ID Authentication]]
 - [[Supply Chain Security]]

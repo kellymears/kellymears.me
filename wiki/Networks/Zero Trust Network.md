@@ -25,3 +25,5 @@ The honest cost is operational complexity: every service now needs to participat
 - [[Man-in-the-Middle Attack]]
 - [[Row-Level Security]]
 - [[Trusted Platform Module]]
+- [[Mutual TLS]]
+- [[Service Mesh]]

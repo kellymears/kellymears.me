@@ -34,7 +34,7 @@ Correct time matters in more places than expected:
 
 ## See also
 - [[Logical Clock]]
-- [[Latency and Jitter]]
+- [[Timeout]]
 - [[Time Zone]]
 - [[Transport Layer Security]]
 - [[Simple Harmonic Motion]]

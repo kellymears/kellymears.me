@@ -32,4 +32,4 @@ TLS encrypts content but not everything. The server's IP address is visible, and
 - [[QUIC]]
 - [[HTTP2 and HTTP3]]
 - [[HTTP Strict Transport Security]]
-- [[Reverse Proxy]]
+- [[Mutual TLS]]

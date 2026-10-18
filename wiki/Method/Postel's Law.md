@@ -14,7 +14,7 @@ The law has also aged into a genuine controversy, and it's worth knowing the cou
 The modern synthesis is roughly: be liberal when the cost of an accepted edge case is confusion, and strict when the cost is a vulnerability — the law was never meant to be applied uniformly, only where robustness against honest bugs outweighs robustness against adversarial ones.
 
 ## See also
-- [[Hyrum's Law]]
+- [[Simple Mail Transfer Protocol]]
 - [[Defensive Default]]
 - [[Fail Fast]]
 - [[Design System]]

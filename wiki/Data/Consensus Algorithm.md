@@ -25,3 +25,4 @@ The core guarantee any consensus algorithm provides is safety under partial fail
 - [[Network Partition]]
 - [[Byzantine Fault Tolerance]]
 - [[Two Generals Problem]]
+- [[Service Discovery]]
