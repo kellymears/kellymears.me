@@ -34,3 +34,4 @@ Muscle matters beyond appearance. It is the body's largest site of glucose dispo
 - [[Supercompensation]]
 - [[Delayed Onset Muscle Soreness]]
 - [[Bone Remodeling]]
+- [[Sarcopenia]]

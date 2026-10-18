@@ -26,7 +26,7 @@ Mitochondria also produce reactive oxygen species as a byproduct, molecules that
 In brown fat, a special protein lets mitochondria burn fuel without making ATP, releasing the energy as heat instead, a contribution to [[Thermoregulation]] that is especially important in infants. Mitochondrial function also bears on metabolic health: active, plentiful mitochondria in muscle support good [[Insulin Sensitivity]], and declining mitochondrial function is associated with aging and type 2 diabetes. Inherited mitochondrial diseases, caused by faulty mitochondrial DNA, often affect muscle and nerves first, the tissues with the highest energy needs. Training at altitude adds further oxygen-related adaptations, described under [[Altitude Training]].
 
 ## See also
-- [[Energy Systems]]
+- [[Basal Metabolic Rate]]
 - [[VO2 Max]]
 - [[Hormesis]]
 - [[Supercompensation]]

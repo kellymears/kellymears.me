@@ -22,3 +22,5 @@ Mechanistically, injured or infected tissue releases signaling molecules — his
 - [[Delayed Onset Muscle Soreness]]
 - [[Allostatic Load]]
 - [[Hormesis]]
+- [[Fever]]
+- [[Gut Microbiome]]

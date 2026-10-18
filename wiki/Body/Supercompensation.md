@@ -27,7 +27,7 @@ The single-session curve is a simplification. Real training overlaps sessions lo
 - [[Polarized Training]]
 - [[Glycogen]]
 - [[Bone Remodeling]]
-- [[Tendon and Ligament]]
+- [[Detraining]]
 - [[Inflammation]]
 - [[Segmented Sleep]]
 - [[Hormesis]]

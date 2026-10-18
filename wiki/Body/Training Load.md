@@ -27,7 +27,7 @@ The models are useful and easy to over-trust. They see only what the sensors see
 
 ## See also
 - [[Supercompensation]]
-- [[Functional Threshold Power]]
+- [[Detraining]]
 - [[Heart Rate Zones]]
 - [[Polarized Training]]
 - [[Goodhart's Law]]

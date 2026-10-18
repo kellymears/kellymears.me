@@ -26,7 +26,7 @@ Heat also changes fuel use, increasing reliance on [[Glycogen]], and dampens [[H
 
 ## See also
 - [[Thermoregulation]]
-- [[Heart Rate Zones]]
+- [[Fluid Balance]]
 - [[Hormesis]]
 - [[VO2 Max]]
 - [[Training Load]]

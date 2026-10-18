@@ -29,4 +29,4 @@ Fast fibers are also more vulnerable to the strain behind [[Delayed Onset Muscle
 - [[Lactate Threshold]]
 - [[VO2 Max]]
 - [[Polarized Training]]
-- [[Delayed Onset Muscle Soreness]]
+- [[Sarcopenia]]

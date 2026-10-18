@@ -23,3 +23,6 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 - [[Hormesis]]
 - [[Latent Heat]]
 - [[Heat Transfer]]
+- [[Homeostasis]]
+- [[Fluid Balance]]
+- [[Fever]]

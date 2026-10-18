@@ -25,5 +25,5 @@ Time in natural settings has other benefits for attention and mood, described in
 ## See also
 - [[Refraction]]
 - [[Circadian Lighting]]
-- [[Attention Restoration Theory]]
+- [[Hearing Loss]]
 - [[Color Vision Deficiency]]

@@ -19,7 +19,7 @@ VO2 max is a ceiling, not a performance. Among athletes with similar values, the
 Its strongest claim may be outside sport. Cardiorespiratory fitness is one of the most powerful predictors of all-cause mortality in large cohort studies, comparable to or stronger than smoking or blood pressure. The gap between the least fit and the merely below-average is the largest. Wearables now estimate VO2 max from heart rate and pace. Those figures are model outputs, useful for trends rather than as measurements, and prone to [[Regression to the Mean]] when a single good or bad day moves them.
 
 ## See also
-- [[Lactate Threshold]]
+- [[Detraining]]
 - [[Heart Rate Zones]]
 - [[Polarized Training]]
 - [[Supercompensation]]
@@ -30,3 +30,4 @@ Its strongest claim may be outside sport. Cardiorespiratory fitness is one of th
 - [[Energy Systems]]
 - [[Mitochondria]]
 - [[Altitude Training]]
+- [[Central Governor Theory]]

@@ -29,3 +29,4 @@ Fermentation also transforms flavor. Proteins become savory amino acids, sugars 
 - [[Glycogen]]
 - [[Xenobiotic Metabolism]]
 - [[Maillard Reaction]]
+- [[Gut Microbiome]]

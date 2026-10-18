@@ -17,7 +17,7 @@ Everything here is dose and clearance: toxicity depends on amount relative to bo
 ## See also
 - [[Physical Dependence]]
 - [[Retinoid]]
-- [[Regional Nerve Block]]
+- [[Gut Microbiome]]
 - [[Retronasal Olfaction]]
 - [[Fermi Estimation]]
 - [[Maillard Reaction]]

@@ -29,5 +29,5 @@ Measuring it properly means drawing blood from a fingertip or earlobe at progres
 - [[Glycogen]]
 - [[Backpressure]]
 - [[Fermentation]]
-- [[Delayed Onset Muscle Soreness]]
+- [[Central Governor Theory]]
 - [[Muscle Fiber Types]]

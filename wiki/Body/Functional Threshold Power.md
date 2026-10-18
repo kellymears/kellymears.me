@@ -26,7 +26,7 @@ FTP anchors everything else. Coggan's training levels are percentages of it: rec
 The number invites [[Goodhart's Law]]. Riders retest, chase the figure, and train for the test protocol rather than for the hours and terrain they actually ride. FTP says little about durability: how much of that power remains after three hours and [[Work and Power|2,000 kilojoules of work]]. For long events, durability often matters as much as the headline number.
 
 ## See also
-- [[Lactate Threshold]]
+- [[Central Governor Theory]]
 - [[Training Load]]
 - [[Heart Rate Zones]]
 - [[Aerodynamic Drag]]

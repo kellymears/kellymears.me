@@ -26,3 +26,4 @@ The rule that survives: before writing "because X", run something that would tel
 ## Related
 - [[Naming]]
 - [[Chesterton's Fence]]
+- [[Muscle Cramp]]

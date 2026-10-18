@@ -30,3 +30,4 @@ There is a [[Survivorship Bias]] caveat. Elite athletes train 15 to 30 hours a w
 - [[Survivorship Bias]]
 - [[Muscle Fiber Types]]
 - [[Mitochondria]]
+- [[Detraining]]

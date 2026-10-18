@@ -17,7 +17,7 @@ Imaging lags the biology, so a radiograph is a proxy and not [[Ground Truth]] fo
 ## See also
 - [[Fracture Fixation]]
 - [[Fracture Nonunion]]
-- [[Watershed Blood Supply]]
+- [[Sarcopenia]]
 - [[Moist Wound Healing]]
 - [[Nociception]]
 - [[Supercompensation]]
