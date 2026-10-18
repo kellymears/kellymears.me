@@ -19,7 +19,7 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 - [[String-Searching Algorithm]]
 - [[CSV]]
 - [[Form Design]]
-- [[Boundary Value Analysis]]
+- [[Telegraph]]
 - [[Font Rendering]]
 
 ## Related

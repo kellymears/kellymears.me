@@ -24,3 +24,4 @@ That GIF persists anyway shows how support everywhere outweighs technical merit.
 ## See also
 - [[JPEG]]
 - [[Sprite]]
+- [[Modem]]

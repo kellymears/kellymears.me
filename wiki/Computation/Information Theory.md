@@ -32,6 +32,6 @@ A related measure, *Kolmogorov complexity*, defines the information in a single 
 ## See also
 - [[Kolmogorov Complexity]]
 - [[Zipf's Law]]
-- [[Boolean Algebra]]
+- [[Modem]]
 - [[Byte-Pair Encoding]]
 - [[Perplexity]]

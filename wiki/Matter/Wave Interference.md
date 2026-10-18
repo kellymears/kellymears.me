@@ -33,7 +33,7 @@ Colors produced by interference rather than pigment are called structural colors
 - [[Laser]]
 - [[Refraction]]
 - [[Hearing Loss]]
-- [[Wi-Fi]]
+- [[Spread Spectrum]]
 - [[Microwave Heating]]
 - [[Quantum Computing]]
 - [[Optical Fiber]]

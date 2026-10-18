@@ -19,6 +19,6 @@ The principle has been eroded in practice. *Middleboxes*, devices in the path th
 The idea has policy echoes. Net neutrality arguments draw on it, holding that the network should carry packets without favoring particular applications. In software design more broadly, it resembles advice to put checks where the knowledge lives: a [[Reverse Proxy]] can retry a request, but only the application knows whether retrying is safe, which takes [[Idempotence]] and agreed [[Delivery Guarantees]]. Its preference for a simple core that leaves complexity at the edges is a cousin of [[Worse Is Better]].
 
 ## See also
-- [[ARPANET]]
+- [[Checksum]]
 - [[Onion Routing]]
 - [[Net Neutrality]]

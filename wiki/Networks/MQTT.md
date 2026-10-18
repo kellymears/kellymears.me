@@ -34,7 +34,7 @@ Security is often neglected. Port 1883 carries plain text, while 8883 wraps it i
 
 ## See also
 - [[Mutual TLS]]
-- [[Delivery Guarantees]]
+- [[Internet of Things]]
 - [[Webhook]]
 - [[Mesh Network]]
 - [[Long Polling]]

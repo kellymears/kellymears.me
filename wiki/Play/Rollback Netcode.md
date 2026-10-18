@@ -21,3 +21,4 @@ Rollback depends entirely on [[Determinism]]: the resimulation only produces the
 - [[Game Loop]]
 - [[Input Latency]]
 - [[Fighting Game]]
+- [[Nagle's Algorithm]]

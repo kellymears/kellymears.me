@@ -19,7 +19,7 @@ A commercial VPN relocates trust rather than removing it: the local network and 
 - [[eSIM]]
 - [[Streaming Response]]
 - [[Code Signing]]
-- [[Public-Key Cryptography]]
+- [[Captive Portal]]
 - [[Maximum Transmission Unit]]
 - [[Secure Shell]]
 - [[Subnet]]

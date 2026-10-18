@@ -31,6 +31,6 @@ The same idea appears at other scales. [[Shadow Traffic]] records or mirrors pro
 Record and replay has found a new use in testing applications built on language models. Model responses are slow, cost money, and vary between calls, so recording them makes a test suite fast, cheap, and repeatable, with the same drift caveat when the model changes.
 
 ## See also
-- [[Integration Test]]
+- [[Packet Capture]]
 - [[Hypertext Transfer Protocol]]
 - [[Service Virtualization]]

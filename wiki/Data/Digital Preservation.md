@@ -37,6 +37,6 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 - [[GIF]]
 - [[CSV]]
 - [[JPEG]]
-- [[Demoscene]]
+- [[Checksum]]
 - [[Optical Character Recognition]]
 - [[Metadata]]

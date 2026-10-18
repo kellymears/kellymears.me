@@ -36,3 +36,4 @@ In software, the same pattern shows up in naming versions. When a successor take
 - [[Snowclone]]
 - [[Folk Etymology]]
 - [[Lindy Effect]]
+- [[Telephone Network]]

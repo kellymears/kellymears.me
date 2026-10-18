@@ -26,7 +26,7 @@ Low Energy also enables location features. Beacons broadcast small identifiers t
 Bluetooth mesh, from 2017, lets low-energy devices relay messages for lighting and building control, competing with Zigbee and Thread in the [[Mesh Network]] space.
 
 ## See also
-- [[Wi-Fi]]
+- [[Spread Spectrum]]
 - [[Near-Field Communication]]
 - [[Peer-to-Peer]]
 - [[Latency and Jitter]]

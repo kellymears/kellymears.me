@@ -37,3 +37,4 @@ With [[Solid-State Drive]]s, some trade-offs shift: rebuilds are faster and stri
 - [[Chaos Engineering]]
 - [[Fault Tree Analysis]]
 - [[Disk Partition]]
+- [[Checksum]]

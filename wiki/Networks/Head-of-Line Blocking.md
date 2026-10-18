@@ -27,7 +27,7 @@ The general remedies are to keep independent work in separate queues, to allow o
 
 ## See also
 - [[QUIC]]
-- [[HTTP2 and HTTP3]]
+- [[Nagle's Algorithm]]
 - [[TCP and UDP]]
 - [[Tail Latency]]
 - [[Bandwidth]]

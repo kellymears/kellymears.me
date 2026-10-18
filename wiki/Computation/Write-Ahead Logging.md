@@ -18,7 +18,7 @@ The log doubles as a [[Provenance]] trail for every mutation, which is why it fe
 
 ## See also
 - [[Atomic File Write]]
-- [[Determinism]]
+- [[Checksum]]
 - [[Durable Execution]]
 - [[Journaling File System]]
 

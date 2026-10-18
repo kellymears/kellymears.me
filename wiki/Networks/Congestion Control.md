@@ -27,11 +27,11 @@ Short queues matter because of **bufferbloat**: routers and modems with oversize
 Congestion control lives in [[TCP and UDP]] stacks, and [[QUIC]] reimplements it in user space, which makes new algorithms easier to deploy. UDP applications such as video calls over [[WebRTC]] must do their own. The idea generalizes: [[Backpressure]] in software systems and [[Rate Limiting]] in APIs are the same principle of slowing the source rather than overflowing the queue.
 
 ## See also
-- [[Queueing Theory]]
+- [[Nagle's Algorithm]]
 - [[Ring Buffer]]
 - [[Adaptive Bitrate Streaming]]
 - [[Bandwidth]]
-- [[Wi-Fi]]
+- [[Modem]]
 - [[Packet Switching]]
 - [[Net Neutrality]]
 - [[Head-of-Line Blocking]]

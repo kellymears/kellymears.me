@@ -32,3 +32,4 @@ Magnetic forces also shape light: certain materials rotate the plane of [[Polari
 - [[Ohm's Law]]
 - [[Torque]]
 - [[Steel]]
+- [[Telegraph]]

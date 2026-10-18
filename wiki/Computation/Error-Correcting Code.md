@@ -31,8 +31,8 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 ## See also
 - [[Quantum Computing]]
 - [[Bitwise Operation]]
-- [[Journaling File System]]
-- [[Byzantine Fault Tolerance]]
+- [[Modem]]
+- [[Checksum]]
 - [[N-Version Programming]]
 - [[Solid-State Drive]]
 - [[RAID]]

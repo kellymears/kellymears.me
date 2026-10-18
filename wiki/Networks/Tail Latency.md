@@ -34,7 +34,7 @@ Dean and Barroso's remedies accept that variability can't be eliminated and work
 Measuring the tail takes care. Percentiles can't be averaged across servers, and many tools measure only from when a request was served rather than when it was sent, hiding queueing time, a flaw Gil Tene called *coordinated omission*. Good [[Observability]] keeps full histograms. Tail percentiles are the usual target of a [[Performance Budget]] and of [[Load Testing]], and [[Core Web Vitals]] are judged at the 75th percentile of real visits for a similar reason.
 
 ## See also
-- [[Latency and Jitter]]
+- [[Nagle's Algorithm]]
 - [[Queueing Theory]]
 - [[Microservices]]
 - [[Hedged Requests]]

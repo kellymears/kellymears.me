@@ -18,7 +18,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[String-Searching Algorithm]]
 - [[Error-Correcting Code]]
 - [[Cache Invalidation]]
-- [[Version Control]]
+- [[Checksum]]
 - [[Public-Key Cryptography]]
 
 ## Related

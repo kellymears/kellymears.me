@@ -29,7 +29,7 @@ Cookies compete with bearer tokens such as a [[JSON Web Token]] in a header. Hea
 - [[Third-Party Cookie]]
 - [[OAuth]]
 - [[Passkey]]
-- [[Silent Failure]]
+- [[Packet Capture]]
 - [[Domain Name System]]
 - [[Web Storage]]
 - [[Hypertext Transfer Protocol]]

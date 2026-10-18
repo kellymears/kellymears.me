@@ -31,3 +31,4 @@ The debate concerns the same thing as other platform fights: who controls access
 ## See also
 - [[Network Effect]]
 - [[Bandwidth]]
+- [[Telephone Network]]

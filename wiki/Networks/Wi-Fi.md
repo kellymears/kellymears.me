@@ -30,7 +30,7 @@ At the network layers, Wi-Fi is another link: devices get addresses on a [[Subne
 
 ## See also
 - [[Bluetooth]]
-- [[Mesh Network]]
+- [[Captive Portal]]
 - [[OSI Model]]
-- [[Packet Switching]]
-- [[Ethernet]]
+- [[Modem]]
+- [[Spread Spectrum]]

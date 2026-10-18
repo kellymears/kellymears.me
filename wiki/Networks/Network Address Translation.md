@@ -33,6 +33,6 @@ NAT also appears inside machines. [[Containerization]] tools usually give contai
 
 ## See also
 - [[IP Routing]]
-- [[IPv6]]
+- [[Captive Portal]]
 - [[Network Socket]]
 - [[Subnet]]

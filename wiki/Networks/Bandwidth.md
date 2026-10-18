@@ -30,5 +30,5 @@ Bandwidth is also shared. A home connection is split among every device, and a p
 - [[Rate Limiting]]
 - [[Head-of-Line Blocking]]
 - [[Ethernet]]
-- [[Tail Latency]]
+- [[Modem]]
 - [[Video Compression]]

@@ -21,7 +21,7 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 - [[Resource Starvation]]
 - [[Testing in Production]]
 - [[Logging]]
-- [[Fail Fast]]
+- [[Packet Capture]]
 - [[Chaos Engineering]]
 
 ## Related

@@ -31,5 +31,5 @@ That last weakness drove the move to [[Zero Trust Network]] designs, which treat
 
 ## See also
 - [[eBPF]]
-- [[Network Address Translation]]
+- [[Internet Control Message Protocol]]
 - [[Internet Censorship]]

@@ -26,7 +26,7 @@ Inside data centers, **jumbo frames** of around 9,000 bytes reduce per-packet ov
 - [[TCP and UDP]]
 - [[Ethernet]]
 - [[IPv6]]
-- [[Silent Failure]]
+- [[Internet Control Message Protocol]]
 - [[Firewall]]
 - [[Path Dependence]]
 - [[NAT Traversal]]

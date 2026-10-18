@@ -36,5 +36,5 @@ Lessons follow:
 - [[Kanban]]
 - [[Amdahl's Law]]
 - [[Thundering Herd]]
-- [[Message Queue]]
+- [[Telephone Network]]
 - [[Bandwidth]]

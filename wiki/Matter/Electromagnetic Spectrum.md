@@ -29,5 +29,5 @@ Many optical effects depend on wavelength. [[Refraction]] bends short wavelength
 Human color perception compresses visible light into three channels, so very different spectra can look identical, the basis of [[Metamerism]]. Displays exploit this, producing every color from red, green, and blue alone.
 
 ## See also
-- [[Black-Body Radiation]]
+- [[Spread Spectrum]]
 - [[Global Positioning System]]

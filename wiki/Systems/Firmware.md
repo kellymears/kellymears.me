@@ -22,3 +22,4 @@ Firmware also decides who controls a device after sale. Updates can remove featu
 ## See also
 - [[Instruction Set Architecture]]
 - [[Hypervisor]]
+- [[Internet of Things]]

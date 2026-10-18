@@ -26,6 +26,6 @@ The central criticism is that hiding the network is dangerous. A 1994 paper by J
 Typed interfaces also help teams evolve services safely. Generated stubs catch mismatches at compile time, and [[Contract Testing]] checks that a server still honors what its clients expect, a job [[JSON Schema]] does for JSON-based APIs. Messages that need no reply, or that must survive the receiver being down, usually go through a [[Message Queue]] instead, and the [[Actor Model]] offers an alternative built on asynchronous messages rather than calls.
 
 ## See also
-- [[Inter-Process Communication]]
+- [[Nagle's Algorithm]]
 - [[GraphQL]]
 - [[Distributed Tracing]]

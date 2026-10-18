@@ -35,3 +35,4 @@ The 2.4 GHz band is shared with Wi-Fi and Bluetooth, so Zigbee and Thread channe
 - [[Wi-Fi]]
 - [[Bluetooth]]
 - [[Small-World Network]]
+- [[Internet of Things]]

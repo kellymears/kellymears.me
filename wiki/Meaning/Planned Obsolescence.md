@@ -20,7 +20,7 @@ The usual exhibit for the strong version is the Phoebus cartel: manufacturers of
 - [[Electromigration]]
 
 ## Related
-- [[Root Cause Analysis]]
+- [[Internet of Things]]
 - [[Truncation Bias]]
 - [[Terror Management Theory]]
 - [[Specific Absorption Rate]]
