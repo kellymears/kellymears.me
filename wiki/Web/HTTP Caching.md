@@ -15,7 +15,7 @@ This layer is orthogonal to [[Cache Invalidation]] inside an application's own d
 
 ## See also
 - [[ETag]]
-- [[Cache Invalidation]]
+- [[Data URI]]
 - [[GraphQL]]
 - [[Service Worker]]
 

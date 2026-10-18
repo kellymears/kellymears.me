@@ -34,3 +34,4 @@ URLs are also an interface. People read them, share them, and bookmark them, so 
 - [[Fetch API]]
 - [[Web Crawler]]
 - [[Wayfinding]]
+- [[Data URI]]

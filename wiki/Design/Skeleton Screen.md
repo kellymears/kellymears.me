@@ -30,9 +30,10 @@ The pattern has limits:
 Skeletons are one tool among several for making interfaces feel fast. [[Optimistic UI]] shows the result of an action before the server confirms it. Server rendering and [[Streaming Response]] send the page's frame first and fill in slower parts as they finish, a natural fit for skeleton placeholders. [[Lazy Loading]] defers offscreen content, often with a placeholder of its own, such as a blurred low-resolution image.
 
 ## See also
-- [[Response Time Limits]]
+- [[Layout Shift]]
 - [[Optimistic UI]]
 - [[Core Web Vitals]]
 - [[Empty State]]
 - [[Wireframe]]
 - [[Progress Indicator]]
+- [[Virtual Scrolling]]

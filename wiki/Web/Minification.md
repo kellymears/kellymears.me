@@ -33,3 +33,4 @@ Minified code is often mistaken for protection. It isn't: formatters restore the
 - [[Tree Shaking]]
 - [[Source Map]]
 - [[Data Compression]]
+- [[Transpiler]]

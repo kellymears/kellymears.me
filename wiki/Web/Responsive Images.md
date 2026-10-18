@@ -23,8 +23,8 @@ Related hygiene: explicit `width` and `height` attributes reserve space and prev
 
 ## See also
 - [[Object Storage]]
-- [[Lazy Loading]]
-- [[Responsive Breakpoint]]
+- [[Responsive Web Design]]
+- [[Layout Shift]]
 - [[Performance Budget]]
 - [[Critical Rendering Path]]
 - [[JPEG]]

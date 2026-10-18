@@ -25,5 +25,5 @@ The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed up
 - [[Dependency Confusion]]
 - [[Secrets Management]]
 - [[Free Rider Problem]]
-- [[Reproducible Build]]
+- [[Node.js]]
 - [[Software Bill of Materials]]

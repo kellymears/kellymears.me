@@ -21,7 +21,7 @@ The recurring practical symptom is asymmetric: read requests succeed while write
 ## Related
 - [[Virtual Private Network]]
 - [[eSIM]]
-- [[Secret Management]]
+- [[Browser Extension]]
 - [[Caller ID Authentication]]
 - [[Web Storage]]
 - [[Penetration Testing]]

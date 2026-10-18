@@ -27,8 +27,8 @@ Two developments are changing how it runs. Node.js began stripping types nativel
 The build step usually belongs to the [[Bundler]] or a fast transpiler that strips types without checking them, while the full checker runs separately in the editor and in continuous integration. [[Source Map]]s connect the output back to the typed source.
 
 ## See also
-- [[Duck Typing]]
-- [[Type Inference]]
+- [[JavaScript]]
+- [[Transpiler]]
 - [[Dependent Types]]
 - [[Polyfill]]
 - [[Type System]]

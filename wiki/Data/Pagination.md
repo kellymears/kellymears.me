@@ -32,3 +32,4 @@ Interface design shapes which one fits. Numbered pages suit search results where
 - [[Empty State]]
 - [[Intersection Observer]]
 - [[Window Function]]
+- [[Virtual Scrolling]]

@@ -31,6 +31,6 @@ Spacing, in design terms [[White Space]], is mostly decided through padding, mar
 Boxes also determine painting order and overlap: positioned boxes can form a [[Stacking Context]], and the [[Cascade]] decides which box properties apply in the first place.
 
 ## See also
-- [[Document Object Model]]
+- [[Quirks Mode]]
 - [[Optical Alignment]]
 - [[Browser Wars]]

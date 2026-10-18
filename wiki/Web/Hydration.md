@@ -25,3 +25,4 @@ A subtler hazard: content rendered by the server and then mutated directly by th
 - [[Single-Page Application]]
 - [[Reactive Signals]]
 - [[Long Task]]
+- [[Layout Shift]]

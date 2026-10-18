@@ -29,3 +29,4 @@ Frameworks that keep a virtual model of the tree add a fourth: the framework's p
 - [[Headless Component]]
 - [[Event Delegation]]
 - [[World Wide Web]]
+- [[Virtual Scrolling]]

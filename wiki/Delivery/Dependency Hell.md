@@ -33,7 +33,7 @@ Dependencies are also a security surface. Each one can be compromised, typosquat
 ## See also
 - [[Left-Pad Incident]]
 - [[Artifact Repository]]
-- [[Lindy Effect]]
+- [[Node.js]]
 - [[Boolean Satisfiability Problem]]
 - [[Dynamic Linking]]
 - [[Automated Dependency Updates]]

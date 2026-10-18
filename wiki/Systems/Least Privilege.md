@@ -21,7 +21,7 @@ The principle is stated easily and applied poorly, because broad permissions are
 ## See also
 - [[Linux Capabilities]]
 - [[Agent Sandbox]]
-- [[Guardrail]]
+- [[Browser Extension]]
 - [[Mandatory Access Control]]
 - [[Server-Side Request Forgery]]
 - [[Model Context Protocol]]

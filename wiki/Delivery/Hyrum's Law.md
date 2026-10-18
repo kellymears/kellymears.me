@@ -19,4 +19,4 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 - [[Data Contract]]
 - [[Left-Pad Incident]]
 - [[API Translation Layer]]
-- [[Characterization Test]]
+- [[Quirks Mode]]

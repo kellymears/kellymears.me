@@ -39,6 +39,6 @@ Observers are cheap, not free: thousands of targets or many thresholds still cos
 
 ## See also
 - [[Scroll-Driven Animations]]
-- [[Layout Thrashing]]
+- [[Virtual Scrolling]]
 - [[requestAnimationFrame]]
 - [[Container Query]]

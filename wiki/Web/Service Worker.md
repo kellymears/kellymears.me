@@ -25,3 +25,4 @@ It's a cousin of [[Web Worker]], sharing the same off-main-thread execution mode
 - [[Progressive Web App]]
 - [[Fetch API]]
 - [[Local-First Software]]
+- [[Web Push]]

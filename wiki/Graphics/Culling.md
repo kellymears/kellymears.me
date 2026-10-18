@@ -24,7 +24,7 @@ Modern engines move culling onto the GPU itself, where compute shaders or mesh s
 
 ## See also
 - [[Spatial Partitioning]]
-- [[Level of Detail]]
+- [[Virtual Scrolling]]
 - [[Depth Buffer]]
 - [[Deferred Shading]]
 - [[Fog of War]]

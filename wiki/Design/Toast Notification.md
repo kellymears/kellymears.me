@@ -27,7 +27,7 @@ Accessibility requires care, since a toast appears visually without any focus ch
 Placement should be consistent across the product so people learn where to glance, with new toasts stacking predictably. Used sparingly, toasts make an interface feel attentive. Used for everything, they become noise that people learn to wave away.
 
 ## See also
-- [[Undo]]
+- [[Web Push]]
 - [[Microcopy]]
 - [[Screen Reader]]
 - [[Calm Technology]]

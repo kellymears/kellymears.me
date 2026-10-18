@@ -34,3 +34,4 @@ A related idea in files is the *magic number*, the fixed bytes at the start of a
 - [[Fetch API]]
 - [[Responsive Images]]
 - [[Simple Mail Transfer Protocol]]
+- [[Data URI]]

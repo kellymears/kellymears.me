@@ -29,3 +29,4 @@ Servers still use the string for analytics, debugging, blocking abusive bots, an
 - [[Backward Compatibility]]
 - [[Headless Browser]]
 - [[Third-Party Cookie]]
+- [[Responsive Web Design]]

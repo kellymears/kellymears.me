@@ -31,3 +31,4 @@ None of this makes spreadsheets bad tools. They're often the right first version
 - [[CSV]]
 - [[Open Data]]
 - [[Direct Manipulation]]
+- [[Virtual Scrolling]]

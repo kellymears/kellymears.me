@@ -21,7 +21,7 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Context-Free Grammar]]
 - [[Just-in-Time Compilation]]
 - [[Graph Coloring]]
-- [[Halting Problem]]
+- [[Transpiler]]
 - [[Linker]]
 - [[Sanitizer]]
 - [[Von Neumann Architecture]]

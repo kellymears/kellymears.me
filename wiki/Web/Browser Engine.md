@@ -29,7 +29,7 @@ Differences between engines are why developers rely on [[Progressive Enhancement
 
 ## See also
 - [[Cross-Browser Testing]]
-- [[Critical Rendering Path]]
-- [[Compositor]]
+- [[Quirks Mode]]
+- [[Browser Extension]]
 - [[Browser Wars]]
 - [[Seccomp]]

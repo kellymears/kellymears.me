@@ -17,7 +17,7 @@ A second: how installed packages are laid out on disk is a property of the packa
 - [[Artifact Repository]]
 - [[Semantic Versioning]]
 - [[Build System]]
-- [[Supply Chain Security]]
+- [[Node.js]]
 
 ## Related
 - [[Bundler]]

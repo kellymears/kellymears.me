@@ -28,6 +28,6 @@ Language features sit on top. `async`/`await` and the [[Coroutine]] let code rea
 
 ## See also
 - [[Network Socket]]
-- [[File Descriptor]]
+- [[Node.js]]
 - [[Thundering Herd]]
 - [[WebSocket]]

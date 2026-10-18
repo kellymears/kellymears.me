@@ -23,7 +23,7 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 ## Related
 - [[Worse Is Better]]
 - [[Email Authentication]]
-- [[Backward Compatibility]]
+- [[Quirks Mode]]
 - [[Schema Evolution]]
 - [[Error Message]]
 - [[YAML]]

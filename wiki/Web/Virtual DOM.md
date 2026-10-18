@@ -27,3 +27,4 @@ Not every framework uses this model — Svelte compiles away the diffing entirel
 - [[Event Delegation]]
 - [[Reactive Signals]]
 - [[State Management]]
+- [[Transpiler]]

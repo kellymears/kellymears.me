@@ -28,3 +28,4 @@ Polling well means being polite. Clients should back off when nothing changes or
 - [[Rate Limiting]]
 - [[MQTT]]
 - [[Optimistic UI]]
+- [[Web Push]]

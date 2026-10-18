@@ -39,3 +39,4 @@ Grids also support visual order beyond layout. Aligning elements to shared lines
 - [[Visual Hierarchy]]
 - [[White Space]]
 - [[Tiling Window Manager]]
+- [[Responsive Web Design]]

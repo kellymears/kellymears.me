@@ -32,6 +32,6 @@ The transition was long and painful. Node.js shipped stable ES module support in
 ## See also
 - [[Bundler]]
 - [[MIME Type]]
-- [[Tree Shaking]]
+- [[Node.js]]
 - [[Polyfill]]
 - [[Hot Module Replacement]]

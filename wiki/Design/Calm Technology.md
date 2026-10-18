@@ -28,3 +28,4 @@ Most consumer technology went the other way. Notifications, badges, and infinite
 - [[Progressive Disclosure]]
 - [[Sensory Overload]]
 - [[Inclusive Design]]
+- [[Web Push]]

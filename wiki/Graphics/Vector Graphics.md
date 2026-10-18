@@ -32,4 +32,4 @@ The line between the two has blurred. A [[Signed Distance Field]] stores shapes 
 - [[Iconography]]
 - [[HTML Canvas]]
 - [[Bresenham's Line Algorithm]]
-- [[Font Rendering]]
+- [[Data URI]]

@@ -33,3 +33,4 @@ The principle underneath comes from [[Information Theory]]: compression removes 
 - [[Minification]]
 - [[HTTP2 and HTTP3]]
 - [[MIME Type]]
+- [[Data URI]]

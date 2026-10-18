@@ -16,7 +16,7 @@ Lazy loading interacts with perceived performance rather than just measured perf
 ## See also
 - [[Code Splitting]]
 - [[Critical Rendering Path]]
-- [[Core Web Vitals]]
+- [[Data URI]]
 - [[Islands Architecture]]
 - [[React Server Components]]
 - [[Streaming Response]]
@@ -25,7 +25,7 @@ Lazy loading interacts with perceived performance rather than just measured perf
 
 ## Related
 - [[Server-Side Rendering]]
-- [[Performance Budget]]
+- [[Layout Shift]]
 - [[Intersection Observer]]
 - [[Iframe]]
 - [[Third-Party Script]]

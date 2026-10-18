@@ -34,6 +34,6 @@ Privacy is the other cost. Trackers follow people across sites using third-party
 
 ## See also
 - [[Subresource Integrity]]
-- [[Content Security Policy]]
+- [[Layout Shift]]
 - [[Third-Party Cookie]]
-- [[Performance Budget]]
+- [[Browser Extension]]

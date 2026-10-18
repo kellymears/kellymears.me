@@ -26,3 +26,4 @@ The same idea generalizes past meshes: **impostors** replace a whole complex obj
 - [[Tessellation]]
 - [[Eye Tracking]]
 - [[Terrain Generation]]
+- [[Virtual Scrolling]]

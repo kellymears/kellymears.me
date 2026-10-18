@@ -30,7 +30,7 @@ Publishing maps has a cost. Many teams upload maps privately to their error trac
 Maps also go stale. A map from a different build gives confidently wrong lines, which is one reason a [[Reproducible Build]] helps. Newer tooling embeds a debug ID in both the file and its map so they can be matched reliably.
 
 ## See also
-- [[Call Stack]]
+- [[Transpiler]]
 - [[Crash Reporting]]
 - [[Minification]]
 - [[TypeScript]]

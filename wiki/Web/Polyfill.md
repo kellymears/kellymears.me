@@ -31,6 +31,6 @@ Every polyfill should have a planned end. Once all supported browsers ship the f
 
 ## See also
 - [[Cross-Browser Testing]]
-- [[Web Standards]]
+- [[Transpiler]]
 - [[User Agent String]]
 - [[Browser Engine]]

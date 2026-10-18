@@ -16,7 +16,7 @@ Each has a characteristic cause. Largest Contentful Paint is usually dominated b
 Field data (real visitors) and lab data (a synthetic run) frequently disagree, and the disagreement is informative rather than a measurement error: lab runs use a fixed device and network, and real users do not.
 
 ## See also
-- [[Performance Budget]]
+- [[Layout Shift]]
 - [[Input Latency]]
 - [[Web Font Loading]]
 - [[Search Engine Optimization]]

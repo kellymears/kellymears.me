@@ -17,7 +17,7 @@ The event loop is one specific answer to the concurrency-without-threads problem
 - [[Game Loop]]
 - [[Promise]]
 - [[Concurrency and Parallelism]]
-- [[Race Condition]]
+- [[JavaScript]]
 - [[requestAnimationFrame]]
 - [[Background Tab Throttling]]
 - [[Coroutine]]

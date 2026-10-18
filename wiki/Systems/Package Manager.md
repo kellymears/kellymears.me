@@ -18,7 +18,7 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 ## See also
 - [[Artifact Repository]]
 - [[Monorepo]]
-- [[Semantic Versioning]]
+- [[Node.js]]
 - [[Dependency Confusion]]
 - [[Bundler]]
 - [[Dotfiles]]

@@ -34,4 +34,4 @@ The right balance depends on who pays. A library with a few users can break free
 ## See also
 - [[Data Contract]]
 - [[Calendar Versioning]]
-- [[Schema Evolution]]
+- [[Quirks Mode]]

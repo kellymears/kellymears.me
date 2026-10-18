@@ -18,8 +18,8 @@ They also complicate development in a specific way: a development server keeps a
 ## See also
 - [[Minification]]
 - [[TypeScript]]
-- [[Determinism]]
-- [[Package Manager]]
+- [[Node.js]]
+- [[Transpiler]]
 
 ## Related
 - [[Reproducible Case]]

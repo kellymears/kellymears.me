@@ -35,7 +35,7 @@ Frameworks absorb some of this. React's concurrent rendering slices rendering wo
 [[Profiling]] in browser developer tools marks long tasks in red, which is usually the fastest way to find them. A [[Performance Budget]] that caps main-thread time keeps them from creeping back.
 
 ## See also
-- [[Core Web Vitals]]
+- [[Virtual Scrolling]]
 - [[Event Loop]]
 - [[Web Worker]]
 - [[Debounce and Throttle]]

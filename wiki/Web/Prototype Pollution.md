@@ -32,5 +32,5 @@ Static analysis tools and [[Fuzzing]] find many cases, and dependency scanners f
 It belongs to a family of bugs where data is interpreted as structure, alongside [[SQL Injection]] and unsafe deserialization; see [[Serialization]]. Each is a case of the language's flexibility, here, prototypes that any code can modify, becoming the attack surface; see [[Duck Typing]].
 
 ## See also
-- [[TypeScript]]
+- [[JavaScript]]
 - [[Defensive Programming]]
