@@ -23,7 +23,7 @@ There is a close analogy in machines. A [[Context Window]] is a language model's
 ## See also
 - [[Executive Function]]
 - [[Cognitive Load]]
-- [[Attention Residue]]
+- [[Context Rot]]
 - [[Context Window]]
 - [[Least Recently Used Cache]]
 - [[Zettelkasten]]

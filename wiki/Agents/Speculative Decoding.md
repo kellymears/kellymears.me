@@ -28,3 +28,4 @@ The technique parallels branch prediction in CPUs: guess, compute ahead, and thr
 - [[Mixture of Experts]]
 - [[Markov Chain]]
 - [[Determinism]]
+- [[Knowledge Distillation]]

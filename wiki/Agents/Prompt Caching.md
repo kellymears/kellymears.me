@@ -24,4 +24,4 @@ Caches expire after minutes of inactivity and are evicted under memory pressure,
 - [[Cache Invalidation]]
 - [[System Prompt]]
 - [[Memoization]]
-- [[Fingerprint]]
+- [[Context Rot]]

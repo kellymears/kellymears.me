@@ -19,6 +19,7 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 - [[Root Cause Analysis]]
 - [[Plausible Mechanism]]
 - [[Dual Process Theory]]
+- [[In-Context Learning]]
 
 ## Related
 - [[Tool Use]]

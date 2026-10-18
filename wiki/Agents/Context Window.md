@@ -19,6 +19,8 @@ Long-running work eventually exceeds any window. The usual answers are summarizi
 - [[Agentic Loop]]
 - [[Multi-Agent Orchestration]]
 - [[Working Memory]]
+- [[Context Rot]]
+- [[Attention Mechanism]]
 
 ## Related
 - [[Tool Use]]

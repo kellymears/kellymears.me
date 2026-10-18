@@ -25,3 +25,4 @@ Because a prompt change cannot be type-checked, the only way to know whether it 
 - [[Tool Use]]
 - [[Nondeterminism]]
 - [[Chain-of-Thought Prompting]]
+- [[In-Context Learning]]

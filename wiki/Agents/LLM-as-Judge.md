@@ -25,6 +25,7 @@ It works best under a few constraints.
 - [[Nondeterminism]]
 - [[Multi-Agent Orchestration]]
 - [[Test Oracle]]
+- [[Sycophancy]]
 
 ## Related
 - [[Record and Replay Testing]]

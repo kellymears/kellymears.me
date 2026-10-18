@@ -19,6 +19,8 @@ Budgeting also shapes what is worth automating. A recording run that costs a few
 - [[Multi-Agent Orchestration]]
 - [[Resource Starvation]]
 - [[Large Language Model]]
+- [[Reasoning Model]]
+- [[Context Rot]]
 
 ## Related
 - [[Race Condition]]

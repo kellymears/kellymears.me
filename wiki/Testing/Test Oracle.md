@@ -24,4 +24,4 @@ The problem has become central to systems built on language models, whose output
 
 ## See also
 - [[Property-Based Testing]]
-- [[Golden File Testing]]
+- [[Reward Hacking]]

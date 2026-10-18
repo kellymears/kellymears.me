@@ -18,3 +18,7 @@ The tradeoff against prompting is worth being explicit about: fine-tuning is the
 - [[Retrieval-Augmented Generation]]
 - [[Quantization]]
 - [[Temperature Sampling]]
+- [[Pretraining]]
+- [[Reinforcement Learning from Human Feedback]]
+- [[Knowledge Distillation]]
+- [[In-Context Learning]]

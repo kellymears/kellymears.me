@@ -24,3 +24,4 @@ Countermeasures concern ordering and visibility: give the basis and the confiden
 - [[Ground Truth]]
 - [[Inattentional Blindness]]
 - [[Dual Process Theory]]
+- [[Sycophancy]]

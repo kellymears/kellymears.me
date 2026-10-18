@@ -18,3 +18,4 @@ The practical rule of thumb is that temperature should track the task's toleranc
 - [[Structured Output]]
 - [[Constrained Decoding]]
 - [[Entropy]]
+- [[Knowledge Distillation]]

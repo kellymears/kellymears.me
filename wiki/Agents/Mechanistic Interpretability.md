@@ -20,3 +20,5 @@ What none of this licenses is folk prompting advice. Discovering that a [[Large 
 - [[Evaluation Harness]]
 - [[Falsifiability]]
 - [[Markov Chain]]
+- [[Attention Mechanism]]
+- [[In-Context Learning]]

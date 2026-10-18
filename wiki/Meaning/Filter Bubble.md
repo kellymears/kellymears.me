@@ -18,3 +18,4 @@ The empirical picture is more contested than the popular story: several large st
 - [[Network Effect]]
 - [[Doomscrolling]]
 - [[Rabbit Hole]]
+- [[Sycophancy]]

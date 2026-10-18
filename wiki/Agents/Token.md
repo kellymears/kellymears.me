@@ -22,6 +22,7 @@ Because tokens are consumed by everything in the request — instructions, tool 
 - [[Nondeterminism]]
 - [[Tool Use]]
 - [[Constrained Decoding]]
+- [[Pretraining]]
 
 ## Related
 - [[Prompt Engineering]]

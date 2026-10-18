@@ -20,3 +20,4 @@ The result is text that is locally fluent and globally incoherent. Each transiti
 - [[Procedural Generation]]
 - [[Automatic Speech Recognition]]
 - [[Mechanistic Interpretability]]
+- [[Pretraining]]

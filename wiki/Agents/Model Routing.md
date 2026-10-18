@@ -22,6 +22,8 @@ Routing also interacts with testing: an environment configured for a cheap tier 
 - [[Structured Output]]
 - [[Evaluation Harness]]
 - [[Mixture of Experts]]
+- [[Knowledge Distillation]]
+- [[Reasoning Model]]
 
 ## Related
 - [[Prompt Engineering]]

@@ -19,6 +19,7 @@ Every fix compounds the problem rather than resolving it. Add a second metric to
 - [[Externality]]
 - [[Ground Truth]]
 - [[Hanlon's Razor]]
+- [[Reward Hacking]]
 
 ## Related
 - [[Universal Basic Income]]

@@ -21,6 +21,7 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Base Rate Fallacy]]
 - [[Rejection Sensitivity]]
 - [[Cognitive Dissonance]]
+- [[Sycophancy]]
 
 ## Related
 - [[Availability Heuristic]]

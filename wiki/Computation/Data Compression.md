@@ -35,3 +35,4 @@ There is a deep link between compression and prediction: a model that predicts t
 - [[Quantization]]
 - [[Chroma Subsampling]]
 - [[Texture Mapping]]
+- [[Pretraining]]

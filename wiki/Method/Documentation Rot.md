@@ -22,6 +22,7 @@ Rot also afflicts prose *inside* source files. A docblock is only attached to a 
 - [[Plausible Mechanism]]
 - [[Chesterton's Fence]]
 - [[Curse of Knowledge]]
+- [[Context Rot]]
 
 ## Related
 - [[Code Review]]

@@ -21,6 +21,7 @@ The related design question is retrieval: a memory that is never surfaced at the
 - [[Agent Skill]]
 - [[Spaced Repetition]]
 - [[Extended Mind]]
+- [[Context Rot]]
 
 ## Related
 - [[Wiki]]
