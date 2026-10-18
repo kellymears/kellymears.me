@@ -30,3 +30,4 @@ The common failure is neglect. Teams write a burst of ADRs, then stop, and the l
 - [[Deprecation]]
 - [[Change Advisory Board]]
 - [[Zettelkasten]]
+- [[Requirements Traceability]]

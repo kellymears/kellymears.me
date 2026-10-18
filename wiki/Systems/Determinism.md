@@ -16,7 +16,7 @@ Where full determinism is not achievable, the fallback is to isolate the non-det
 
 ## See also
 - [[Fingerprint]]
-- [[Hash Function]]
+- [[Testability]]
 - [[Flaky Test]]
 - [[Nondeterminism]]
 - [[Bundler]]

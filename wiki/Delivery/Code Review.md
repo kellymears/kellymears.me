@@ -18,7 +18,7 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 - [[Inner Source]]
 - [[Commit Message]]
 - [[Psychological Safety]]
-- [[Code Comment]]
+- [[Software Inspection]]
 - [[Vigilance Decrement]]
 - [[Theory of Constraints]]
 

@@ -24,7 +24,7 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 - [[Pesticide Paradox]]
 - [[Spectrum-Based Fault Localization]]
 - [[Normalization of Deviance]]
-- [[Instrumentation]]
+- [[Systematic Concurrency Testing]]
 - [[Regression]]
 - [[Test Isolation]]
 - [[End-to-End Test]]

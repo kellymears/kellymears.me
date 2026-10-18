@@ -19,4 +19,4 @@ It combines ideas from several techniques. Like [[Fuzzing]] and [[Property-Based
 
 ## See also
 - [[Linearizability Checking]]
-- [[Seeded Randomness]]
+- [[Systematic Concurrency Testing]]

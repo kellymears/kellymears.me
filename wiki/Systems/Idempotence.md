@@ -20,7 +20,7 @@ The corresponding design work is usually to make the operation *express the desi
 - [[Dead Letter Queue]]
 - [[Upsert]]
 - [[Hedged Requests]]
-- [[Conflict-Free Replicated Data Type]]
+- [[Crash-Only Software]]
 - [[Atomic File Write]]
 - [[Durable Execution]]
 - [[Universally Unique Identifier]]

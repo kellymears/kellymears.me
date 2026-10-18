@@ -25,7 +25,7 @@ The main misuse is treating it as a mandate to test every function in isolation.
 ## Related
 - [[Vacuous Truth]]
 - [[Tree Shaking]]
-- [[Root Cause Analysis]]
+- [[Testability]]
 - [[Pair Programming]]
 - [[Solitary and Sociable Tests]]
 - [[Refactoring]]

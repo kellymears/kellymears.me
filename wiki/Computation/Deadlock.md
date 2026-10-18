@@ -35,6 +35,6 @@ Deadlocks, like a [[Race Condition]], depend on timing and are hard to reproduce
 
 ## See also
 - [[Software Transactional Memory]]
-- [[Communicating Sequential Processes]]
+- [[Systematic Concurrency Testing]]
 - [[Spinlock]]
 - [[Typestate]]

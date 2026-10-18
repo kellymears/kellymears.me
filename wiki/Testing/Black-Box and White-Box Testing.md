@@ -33,5 +33,5 @@ Each stance has characteristic blind spots. Black-box tests can't tell which par
 The distinction also maps onto independence. Separate testing teams and users in acceptance testing see the system as a black box and bring different expectations, catching misunderstandings that developers can't; see [[Acceptance Testing]] and [[Verification and Validation]]. Security testing comes in both forms, from external attacks on a running system to source code review; see [[Penetration Testing]].
 
 ## See also
-- [[Test Oracle]]
+- [[Non-Destructive Testing]]
 - [[Risk-Based Testing]]

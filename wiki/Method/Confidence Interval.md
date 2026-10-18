@@ -34,3 +34,4 @@ Most people are badly calibrated with their own intervals. Asked for 90% ranges 
 - [[Randomized Controlled Trial]]
 - [[Regression to the Mean]]
 - [[Cone of Uncertainty]]
+- [[Fault Seeding]]

@@ -30,6 +30,6 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Sunk Cost Fallacy]]
 - [[Failure Mode and Effects Analysis]]
 - [[Black Swan]]
-- [[Pluralistic Ignorance]]
+- [[Threat Modeling]]
 - [[Architecture Decision Record]]
 - [[Checklist]]

@@ -17,7 +17,7 @@ It composes naturally with [[Continuous Deployment]]: a pipeline that ships ever
 ## See also
 - [[Dogfooding]]
 - [[Crash Reporting]]
-- [[Rollback]]
+- [[Bathtub Curve]]
 - [[Staging Environment]]
 - [[AB Testing]]
 - [[Testing in Production]]

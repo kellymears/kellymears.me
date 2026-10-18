@@ -31,7 +31,7 @@ Used well, BDD keeps executable scenarios for the handful of behaviors that matt
 
 ## See also
 - [[Persona]]
-- [[End-to-End Test]]
+- [[Requirements Traceability]]
 - [[Test Fixture]]
 - [[Exploratory Testing]]
 - [[Acceptance Testing]]

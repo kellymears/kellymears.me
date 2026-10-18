@@ -32,6 +32,6 @@ Linearizability checking complements other approaches:
 The approach has a lesson beyond databases: a system's guarantees are only as good as the evidence for them, and that evidence must include faults. Systems that work on a healthy network may behave differently during a partition; see [[CAP Theorem]] and [[Eventual Consistency]].
 
 ## See also
-- [[Race Condition]]
+- [[Systematic Concurrency Testing]]
 - [[Two-Phase Commit]]
 - [[Byzantine Fault Tolerance]]

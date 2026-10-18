@@ -28,7 +28,7 @@ The essay's lasting point is that openness and frequent feedback can beat carefu
 
 ## See also
 - [[Bus Factor]]
-- [[Code Review]]
+- [[Software Inspection]]
 - [[Agile Software Development]]
 - [[Benevolent Dictator for Life]]
 - [[Wisdom of the Crowd]]

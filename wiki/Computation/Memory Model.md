@@ -34,5 +34,5 @@ The modern approach, adopted by Java in 2004 and C++ in 2011, is "sequential con
 Data races are notoriously hard to find. They depend on timing, so they appear as a [[Heisenbug]] or [[Flaky Test]]. ThreadSanitizer, a [[Sanitizer]], detects them at runtime. Rust's [[Ownership and Borrowing]] rules prevent them at compile time, and message-passing designs such as [[Communicating Sequential Processes]] and the [[Actor Model]] avoid shared mutable memory entirely, sidestepping the problem.
 
 ## See also
-- [[Concurrency and Parallelism]]
+- [[Systematic Concurrency Testing]]
 - [[Cache Coherence]]

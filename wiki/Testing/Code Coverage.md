@@ -21,7 +21,7 @@ Coverage also behaves oddly across multiple test environments measuring the same
 - [[Unreachable Code]]
 - [[Modified Condition Decision Coverage]]
 - [[Pesticide Paradox]]
-- [[Regression]]
+- [[Fault Seeding]]
 - [[Test-Driven Development]]
 
 ## Related

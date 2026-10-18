@@ -28,7 +28,7 @@ Fluorescence differs from the other ways objects color light. [[Dispersion]] sep
 
 ## See also
 - [[Photovoltaic Effect]]
-- [[Electromagnetic Spectrum]]
+- [[Non-Destructive Testing]]
 - [[Radioactive Decay]]
 - [[Laser]]
 - [[Semiconductor]]

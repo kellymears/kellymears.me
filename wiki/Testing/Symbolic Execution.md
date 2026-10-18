@@ -24,7 +24,7 @@ Symbolic execution sits between [[Fuzzing]], which is fast and shallow and strug
 
 ## See also
 - [[Fuzzing]]
-- [[Formal Verification]]
+- [[Program Slicing]]
 - [[Branch Coverage]]
 - [[Halting Problem]]
 - [[Backtracking]]

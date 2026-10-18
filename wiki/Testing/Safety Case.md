@@ -25,6 +25,6 @@ Good practice responds by seeking out what would defeat the argument. Reviewers 
 The idea is now being applied to AI. Some developers and researchers propose safety cases arguing that a model can't cause specified harms, backed by capability evaluations and red-team results; see [[Evaluation Harness]]. How such arguments can be made convincing for systems that are hard to inspect remains an open question.
 
 ## See also
-- [[Regulatory Capture]]
+- [[Requirements Traceability]]
 - [[Checklist]]
 - [[Audit Log]]

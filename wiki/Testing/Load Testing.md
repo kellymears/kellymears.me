@@ -30,7 +30,7 @@ Load tests also check the protective machinery: [[Rate Limiting]], [[Backpressur
 ## See also
 - [[Queueing Theory]]
 - [[Backpressure]]
-- [[Rate Limiting]]
+- [[Bathtub Curve]]
 - [[Circuit Breaker]]
 - [[Benchmarking]]
 - [[Chaos Engineering]]

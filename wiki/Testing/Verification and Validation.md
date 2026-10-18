@@ -37,4 +37,4 @@ High-stakes fields formalize V&V. Aerospace, medical devices, and nuclear system
 
 ## See also
 - [[Model-Based Testing]]
-- [[Safety Case]]
+- [[Requirements Traceability]]

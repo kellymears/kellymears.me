@@ -36,3 +36,4 @@ Reliability needs care too. A drive can lose cached writes on sudden power loss,
 - [[Electromigration]]
 - [[RAID]]
 - [[Firmware]]
+- [[Bathtub Curve]]

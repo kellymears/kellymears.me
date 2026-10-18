@@ -28,7 +28,7 @@ Characterization tests are a means, not an end. Once code is refactored and unde
 ## See also
 - [[Git Blame]]
 - [[Dependency Injection]]
-- [[Hyrum's Law]]
+- [[Testability]]
 - [[Unit Test]]
 - [[Strangler Fig Pattern]]
 - [[Regression Testing]]

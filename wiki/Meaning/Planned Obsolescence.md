@@ -16,7 +16,7 @@ The usual exhibit for the strong version is the Phoebus cartel: manufacturers of
 - [[Power Creep]]
 - [[Moore's Law]]
 - [[Firmware]]
-- [[Exhaustive Claim]]
+- [[Bathtub Curve]]
 - [[Electromigration]]
 
 ## Related

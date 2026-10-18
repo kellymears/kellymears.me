@@ -28,3 +28,4 @@ It shares a weakness with all test-based methods: the results are only as good a
 - [[Branch Coverage]]
 - [[Test Impact Analysis]]
 - [[Root Cause Analysis]]
+- [[Program Slicing]]

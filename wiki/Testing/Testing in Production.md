@@ -27,6 +27,6 @@ It also needs care with data and users. Test accounts, synthetic orders, and pro
 Testing in production doesn't replace earlier testing. Unit, integration, and end-to-end tests still catch most bugs cheaply; production verification catches what they can't. The two together form a feedback loop: incidents and surprises found in production become regression tests, so the same failure is caught earlier next time; see [[Regression Testing]].
 
 ## See also
-- [[Continuous Deployment]]
+- [[Non-Destructive Testing]]
 - [[Crash Reporting]]
 - [[Blue-Green Deployment]]

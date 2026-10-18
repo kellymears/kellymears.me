@@ -18,7 +18,7 @@ The second risk is that a double drifts from the real interface, so the tests pa
 ## See also
 - [[Test Fixture]]
 - [[Record and Replay Testing]]
-- [[Unit Test]]
+- [[Testability]]
 - [[Vacuous Truth]]
 
 ## Related

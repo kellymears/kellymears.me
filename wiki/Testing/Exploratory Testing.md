@@ -29,7 +29,7 @@ It complements rather than competes with [[Fuzzing]], which explores input space
 - [[End-to-End Test]]
 - [[Monkey Testing]]
 - [[Risk-Based Testing]]
-- [[Reproducible Case]]
+- [[Fault Seeding]]
 - [[Rubber Duck Debugging]]
 - [[Usability Testing]]
 - [[Dogfooding]]

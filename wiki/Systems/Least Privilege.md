@@ -26,7 +26,7 @@ The principle is stated easily and applied poorly, because broad permissions are
 - [[Server-Side Request Forgery]]
 - [[Model Context Protocol]]
 - [[Row-Level Security]]
-- [[File Permissions]]
+- [[Threat Modeling]]
 - [[Time-of-Check to Time-of-Use]]
 
 ## Related

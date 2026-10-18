@@ -20,7 +20,7 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 - [[Murphy's Law]]
 - [[Margin of Safety]]
 - [[Human in the Loop]]
-- [[Design by Contract]]
+- [[Crash-Only Software]]
 
 ## Related
 - [[Unreachable Code]]

@@ -32,7 +32,7 @@ The payoff is the same one a [[Reproducible Case]] provides by hand. A minimal f
 
 ## See also
 - [[Spectrum-Based Fault Localization]]
-- [[Property-Based Testing]]
+- [[Program Slicing]]
 - [[Fuzzing]]
 - [[Git Bisect]]
 - [[Divide and Conquer]]

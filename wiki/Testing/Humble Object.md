@@ -34,7 +34,7 @@ The cost is an extra layer and the discipline to keep the shell humble. Logic th
 
 ## See also
 - [[Dependency Injection]]
-- [[Pure Function]]
+- [[Testability]]
 - [[Unit Test]]
 - [[Test Pyramid]]
 - [[Solitary and Sociable Tests]]

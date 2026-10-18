@@ -30,5 +30,5 @@ Practical verification therefore sits on a spectrum with testing. [[Static Analy
 - [[Verification and Validation]]
 - [[Runtime Verification]]
 - [[Linearizability Checking]]
-- [[Abstract Interpretation]]
+- [[Systematic Concurrency Testing]]
 - [[Symbolic Execution]]

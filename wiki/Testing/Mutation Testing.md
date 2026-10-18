@@ -16,7 +16,7 @@ The practical cost is why mutation testing isn't run on every commit the way cov
 - [[Spectrum-Based Fault Localization]]
 - [[Coverage Gate]]
 - [[Unit Test]]
-- [[Fuzzing]]
+- [[Fault Seeding]]
 - [[Test Pyramid]]
 - [[Boundary Value Analysis]]
 - [[Test Oracle]]

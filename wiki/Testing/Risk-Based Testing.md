@@ -25,7 +25,7 @@ The same lens applies at release time. [[Test Impact Analysis]] selects tests by
 The weakness is that risk assessment is a judgment, and judgments carry bias. Teams overweight risks that bit them recently, an [[Availability Heuristic]], and underweight unfamiliar failure modes. Revisiting the assessment after incidents, as part of a [[Blameless Postmortem]], keeps it tied to what actually went wrong.
 
 ## See also
-- [[Test Pyramid]]
+- [[Threat Modeling]]
 - [[Pairwise Testing]]
 - [[Failure Mode and Effects Analysis]]
 - [[Premature Optimization]]

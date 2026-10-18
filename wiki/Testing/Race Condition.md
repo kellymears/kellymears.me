@@ -23,7 +23,7 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Fan-Out and Fan-In]]
 - [[Logical Clock]]
 - [[Deterministic Simulation Testing]]
-- [[Formal Verification]]
+- [[Systematic Concurrency Testing]]
 
 ## Related
 - [[Database Constraint]]

@@ -14,7 +14,7 @@ That last case has a non-obvious consequence beyond size. Routing a value import
 ## See also
 - [[Code Splitting]]
 - [[Module Graph]]
-- [[Bundler]]
+- [[Program Slicing]]
 - [[Code Coverage]]
 - [[Unit Test]]
 

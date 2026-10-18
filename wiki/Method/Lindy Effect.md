@@ -30,7 +30,7 @@ It pairs with [[Chesterton's Fence]], which counsels understanding why something
 ## See also
 - [[Not Invented Here]]
 - [[Worse Is Better]]
-- [[Backward Compatibility]]
+- [[Bathtub Curve]]
 - [[Radioactive Decay]]
 - [[Public Domain]]
 - [[Black Swan]]

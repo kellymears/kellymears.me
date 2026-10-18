@@ -33,5 +33,5 @@ The broader lesson is that silence from a test suite is ambiguous. No failures c
 
 ## See also
 - [[Test Smell]]
-- [[Coverage Gate]]
-- [[Flaky Test]]
+- [[Fault Seeding]]
+- [[Software Inspection]]

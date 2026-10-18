@@ -20,7 +20,7 @@ The method fails where its assumptions do. Heavy-tailed quantities have no typic
 - [[Ground Truth]]
 - [[Percentage Point]]
 - [[Sensitivity and Specificity]]
-- [[Plausible Mechanism]]
+- [[Fault Seeding]]
 - [[Anchoring Effect]]
 - [[Planning Fallacy]]
 - [[Bayes' Theorem]]

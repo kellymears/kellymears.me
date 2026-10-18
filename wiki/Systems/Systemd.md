@@ -27,3 +27,4 @@ Its most consequential feature for daily debugging is the systemd unit's **autom
 - [[Watchdog Timer]]
 - [[Logging]]
 - [[Suspend and Hibernation]]
+- [[Crash-Only Software]]

@@ -31,5 +31,5 @@ The candidate's notes become the release's [[Changelog]], and a stable release m
 
 ## See also
 - [[Git Tag]]
-- [[Artifact Repository]]
+- [[Bathtub Curve]]
 - [[Smoke Test]]

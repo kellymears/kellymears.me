@@ -16,6 +16,6 @@ The fault is still [[Nondeterminism]] in the ordinary sense — the same input d
 - [[Core Dump]]
 - [[Minimal Reproducible Example]]
 - [[Hawthorne Effect]]
-- [[Scientific Debugging]]
-- [[Dynamic Voltage and Frequency Scaling]]
+- [[Crash-Only Software]]
+- [[Systematic Concurrency Testing]]
 - [[Monkey Testing]]

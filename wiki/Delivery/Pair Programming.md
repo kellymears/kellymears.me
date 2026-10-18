@@ -29,5 +29,5 @@ It has costs too. Pairing is intense and tiring, and constant conversation is ha
 ## See also
 - [[Agile Software Development]]
 - [[Transactive Memory]]
-- [[Test-Driven Development]]
+- [[Software Inspection]]
 - [[Kanban]]

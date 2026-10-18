@@ -13,7 +13,7 @@ The mechanism is accessibility, not malice: a topic invites debate in proportion
 The practical counter is to decide the trivial matters by default rather than by discussion — a house style, a [[Static Analysis|linter]], a documented convention picked once and left alone — and to spend deliberate discussion time only where the cost of being wrong is actually high. A [[Code Review]] that flags every naming preference with the same weight as a data-loss bug has not skipped this lesson; it has simply moved the bikeshed into the [[Pull Request]].
 
 ## See also
-- [[Continuous Integration]]
+- [[Software Inspection]]
 - [[Code Comment]]
 - [[Semantic Versioning]]
 - [[Fail Fast]]

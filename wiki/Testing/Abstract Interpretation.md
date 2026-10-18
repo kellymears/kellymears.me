@@ -24,5 +24,5 @@ Most commercial bug-finding tools are deliberately unsound, giving up guarantees
 
 ## See also
 - [[Null]]
-- [[Design by Contract]]
+- [[Program Slicing]]
 - [[Unreachable Code]]

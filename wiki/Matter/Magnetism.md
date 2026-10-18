@@ -29,7 +29,7 @@ Magnetic forces also shape light: certain materials rotate the plane of [[Polari
 
 ## See also
 - [[Semiconductor]]
-- [[Ohm's Law]]
+- [[Non-Destructive Testing]]
 - [[Torque]]
 - [[Steel]]
 - [[Telegraph]]

@@ -27,5 +27,5 @@ Static analysis complements testing rather than replacing it. It finds whole cla
 
 ## See also
 - [[Abstract Interpretation]]
-- [[Shift-Left Testing]]
+- [[Software Inspection]]
 - [[Gödel's Incompleteness Theorems]]
