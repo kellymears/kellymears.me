@@ -25,3 +25,4 @@ A [[Service Worker]] is a specialized sibling, not a general-purpose worker: sam
 - [[HTML Canvas]]
 - [[Long Task]]
 - [[Promise]]
+- [[Cross-Origin Isolation]]

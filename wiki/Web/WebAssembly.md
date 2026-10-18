@@ -31,7 +31,7 @@ Two extensions widened its reach. **WasmGC** (2023) lets a module use the engine
 Wasm does not replace JavaScript. It joins it as a second target, and a [[Bundler]] usually wires the two together.
 
 ## See also
-- [[eBPF]]
+- [[Cross-Origin Isolation]]
 - [[Instruction Set Architecture]]
 - [[Just-in-Time Compilation]]
 - [[WebGPU]]

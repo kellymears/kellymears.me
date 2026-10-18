@@ -23,7 +23,7 @@ The principle is stated easily and applied poorly, because broad permissions are
 - [[Agent Sandbox]]
 - [[Guardrail]]
 - [[Mandatory Access Control]]
-- [[Code Signing]]
+- [[Server-Side Request Forgery]]
 - [[Model Context Protocol]]
 - [[Row-Level Security]]
 - [[File Permissions]]

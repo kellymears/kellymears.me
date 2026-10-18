@@ -35,4 +35,4 @@ Schema evolution is the deliberate counterpart to [[Schema Drift]], where the sh
 - [[Serialization]]
 - [[Local-First Software]]
 - [[Data Contract]]
-- [[Postel's Law]]
+- [[GraphQL]]

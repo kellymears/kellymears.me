@@ -33,3 +33,4 @@ Privacy law in Europe treats fingerprinting like cookies: storing or reading inf
 - [[Third-Party Script]]
 - [[Same-Origin Policy]]
 - [[Turing Test]]
+- [[User Agent String]]

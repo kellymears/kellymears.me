@@ -23,7 +23,7 @@ The allowlist approach has an operational trap. An allowlist computed **once at 
 Two boundaries are worth knowing. CSRF defenses assume no [[Cross-Site Scripting]]: script running on the site can read any token and send any request, so XSS defeats every CSRF defense. And APIs authenticated by a bearer token in a header, rather than a cookie, are immune by construction, because nothing is attached automatically. That is [[Least Privilege]] for credentials: send them only where they were explicitly meant to go.
 
 ## See also
-- [[HTTP Cookie]]
+- [[Server-Side Request Forgery]]
 - [[Same-Origin Policy]]
 - [[Third-Party Cookie]]
 - [[Cross-Site Scripting]]

@@ -16,7 +16,7 @@ The modern practice adds tooling — automatic [[Backlink]]s, graph views, full-
 
 ## See also
 - [[Wiki]]
-- [[Knowledge Graph]]
+- [[Project Xanadu]]
 - [[Backlink]]
 - [[Agent Memory]]
 - [[Frontmatter]]

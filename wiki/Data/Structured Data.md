@@ -32,3 +32,4 @@ Two practical cautions.
 - [[Open Graph]]
 - [[Web Crawler]]
 - [[Ontology]]
+- [[IndieWeb]]

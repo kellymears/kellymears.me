@@ -36,3 +36,4 @@ These trade-offs drove alternatives. [[WebAssembly]] ships pre-compiled, lower-l
 - [[Abstract Syntax Tree]]
 - [[Event Loop]]
 - [[Memoization]]
+- [[Browser Wars]]

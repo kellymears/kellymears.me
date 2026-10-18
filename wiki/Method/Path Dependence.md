@@ -16,7 +16,7 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[Flanderization]]
 - [[JPEG]]
 - [[Lindy Effect]]
-- [[Version Control]]
+- [[Browser Wars]]
 - [[Regression]]
 - [[Sunk Cost Fallacy]]
 - [[Greedy Algorithm]]

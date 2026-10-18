@@ -29,3 +29,4 @@ Crawled text is also raw material for AI. Nonprofit archives of crawled pages, s
 - [[Inverted Index]]
 - [[Structured Data]]
 - [[Open Graph]]
+- [[User Agent String]]

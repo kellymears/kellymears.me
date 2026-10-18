@@ -40,3 +40,4 @@ The underlying idea is interoperability through an open protocol rather than thr
 - [[Gossip Protocol]]
 - [[Conflict-Free Replicated Data Type]]
 - [[Distributed Hash Table]]
+- [[IndieWeb]]

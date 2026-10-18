@@ -27,3 +27,4 @@ It sits directly behind [[Gall's Law]] and [[Minimum Viable Product]] as one mor
 - [[Tesler's Law]]
 - [[Leaky Abstraction]]
 - [[Lindy Effect]]
+- [[Project Xanadu]]

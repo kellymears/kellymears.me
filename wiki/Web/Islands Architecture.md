@@ -28,3 +28,4 @@ The pattern is most associated with content-first site frameworks, but the under
 - [[Reactive Signals]]
 - [[Long Task]]
 - [[Edge Computing]]
+- [[Hypermedia]]

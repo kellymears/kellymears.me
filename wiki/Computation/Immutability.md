@@ -19,7 +19,7 @@ Immutability and [[Pure Function]]s reinforce each other: a pure function is eas
 - [[Closure]]
 - [[Hash Table]]
 - [[Copy-on-Write]]
-- [[Determinism]]
+- [[State Management]]
 - [[Soft Delete]]
 - [[Log-Structured Merge Tree]]
 - [[Reference Counting]]

@@ -26,3 +26,4 @@ Not every framework uses this model — Svelte compiles away the diffing entirel
 - [[Persistent Data Structure]]
 - [[Event Delegation]]
 - [[Reactive Signals]]
+- [[State Management]]

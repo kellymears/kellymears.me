@@ -23,3 +23,4 @@ The common failure is an object that has the right method name but a subtly wron
 - [[Type System]]
 - [[Polymorphism]]
 - [[Generics]]
+- [[Prototype Pollution]]

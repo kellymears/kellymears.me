@@ -14,7 +14,7 @@ The recurring practical symptom is asymmetric: read requests succeed while write
 ## See also
 - [[Browser Engine]]
 - [[Domain Name System]]
-- [[Least Privilege]]
+- [[Cross-Origin Isolation]]
 - [[Port]]
 - [[Multi-Tenancy]]
 

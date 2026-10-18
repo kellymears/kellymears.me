@@ -29,3 +29,4 @@ OOP's lasting contributions are modularity and interfaces. Programming against a
 ## See also
 - [[Generics]]
 - [[Reflection]]
+- [[Prototype Pollution]]

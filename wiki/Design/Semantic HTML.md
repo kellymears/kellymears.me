@@ -15,7 +15,7 @@ Landmarks — header, navigation, main, footer, and named regions — give scree
 Semantics also help outside accessibility. A well-structured document is what makes reader modes, link previews, search indexing, and content extraction work; see [[Structured Data]] and [[Search Engine Optimization]].
 
 ## See also
-- [[Accessibility]]
+- [[Hypermedia]]
 - [[Screen Reader]]
 - [[Document Object Model]]
 - [[Progressive Enhancement]]

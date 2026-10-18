@@ -30,3 +30,4 @@ For a page whose content is genuinely fixed, static generation dominates on ever
 - [[Baked Lighting]]
 - [[Link Rot]]
 - [[Open Graph]]
+- [[IndieWeb]]

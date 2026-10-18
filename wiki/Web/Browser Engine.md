@@ -31,5 +31,5 @@ Differences between engines are why developers rely on [[Progressive Enhancement
 - [[World Wide Web]]
 - [[Critical Rendering Path]]
 - [[Compositor]]
-- [[Same-Origin Policy]]
+- [[Browser Wars]]
 - [[Seccomp]]

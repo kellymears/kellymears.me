@@ -25,7 +25,7 @@ Variants have kept appearing, many involving [[Simultaneous Multithreading]], wh
 
 ## See also
 - [[Microcode]]
-- [[Locality of Reference]]
+- [[Cross-Origin Isolation]]
 - [[Address Space Layout Randomization]]
 - [[Virtual Memory]]
 - [[Just-in-Time Compilation]]

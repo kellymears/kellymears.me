@@ -22,7 +22,7 @@ Three practical notes.
 - [[Least Privilege]]
 - [[Environment Variable]]
 - [[Supply Chain Security]]
-- [[Silent Failure]]
+- [[Server-Side Request Forgery]]
 - [[Defensive Default]]
 - [[Prompt Injection]]
 - [[Continuous Deployment]]

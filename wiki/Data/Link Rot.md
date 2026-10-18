@@ -32,7 +32,7 @@ Inside a [[Wiki]], internal links can be checked mechanically: a link to a page 
 
 ## See also
 - [[Object Storage]]
-- [[Web Crawler]]
+- [[Project Xanadu]]
 - [[URL]]
 - [[Data Lineage]]
 - [[Digital Preservation]]

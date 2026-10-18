@@ -28,7 +28,7 @@ Graphs have weaknesses too. Splitting a large graph across machines is hard, sin
 A wiki is itself a graph: notes as nodes, links as relationships, and a [[Backlink]] is simply the same relationship read in reverse.
 
 ## See also
-- [[Knowledge Graph]]
+- [[GraphQL]]
 - [[Graph Traversal]]
 - [[Relational Database]]
 - [[Document Database]]

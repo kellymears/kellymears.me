@@ -30,7 +30,7 @@ Some details always need deciding:
 Serialization cost adds up. In busy services, encoding and decoding can dominate CPU time, and a [[Remote Procedure Call]] framework's choice of format matters for tail latency. Choosing formats that copy less, or that can be read without decoding at all, is a common optimization found with [[Profiling]].
 
 ## See also
-- [[Data Compression]]
+- [[Prototype Pollution]]
 - [[Immutability]]
 - [[Event Sourcing]]
 - [[Structured Output]]

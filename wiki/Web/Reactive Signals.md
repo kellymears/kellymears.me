@@ -34,6 +34,6 @@ Build systems that rebuild only what changed use the same idea. Where [[Optimist
 
 ## See also
 - [[Spreadsheet]]
-- [[Memoization]]
+- [[State Management]]
 - [[Islands Architecture]]
 - [[Immutability]]

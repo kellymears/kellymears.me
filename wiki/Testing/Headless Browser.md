@@ -31,3 +31,4 @@ Two limits are worth knowing in advance. Synthetic events are not real user inpu
 - [[Stacking Context]]
 - [[Page Object Model]]
 - [[Computer Use]]
+- [[User Agent String]]

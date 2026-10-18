@@ -37,3 +37,4 @@ For developers, the practical tools are [[Progressive Enhancement]], building on
 - [[Progressive Enhancement]]
 - [[Backward Compatibility]]
 - [[World Wide Web]]
+- [[Browser Wars]]

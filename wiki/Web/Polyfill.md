@@ -32,5 +32,5 @@ Every polyfill should have a planned end. Once all supported browsers ship the f
 ## See also
 - [[TypeScript]]
 - [[Web Standards]]
-- [[Bundler]]
+- [[User Agent String]]
 - [[Browser Engine]]

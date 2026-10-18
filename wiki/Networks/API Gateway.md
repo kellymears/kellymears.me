@@ -25,3 +25,4 @@ It's easy to conflate an API gateway with a plain [[Load Balancing|load balancer
 - [[Microservices]]
 - [[Service Mesh]]
 - [[Service Discovery]]
+- [[GraphQL]]

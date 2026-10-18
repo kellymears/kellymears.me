@@ -26,4 +26,4 @@ Note-taking systems are the extended mind built on purpose. A [[Zettelkasten]] i
 
 ## See also
 - [[Spaced Repetition]]
-- [[Predictive Processing]]
+- [[Project Xanadu]]
