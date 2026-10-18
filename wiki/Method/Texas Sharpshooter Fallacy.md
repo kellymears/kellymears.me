@@ -34,3 +34,4 @@ The fallacy pairs naturally with [[Confirmation Bias]] and [[Hindsight Bias]]: o
 - [[Pareidolia]]
 - [[Golden Ratio]]
 - [[Multiple Comparisons Problem]]
+- [[Logical Fallacy]]

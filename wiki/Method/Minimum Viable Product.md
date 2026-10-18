@@ -20,7 +20,7 @@ MVP is often confused with "prototype" or "beta," but neither of those implies t
 - [[Worse Is Better]]
 
 ## Related
-- [[Fermi Estimation]]
+- [[Walking Skeleton]]
 - [[Acceptance Testing]]
 - [[Game Jam]]
 - [[Pareto Principle]]

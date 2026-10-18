@@ -26,3 +26,4 @@ In practice, the heuristic matters wherever stories are used as evidence. Doctor
 - [[Framing Effect]]
 - [[Processing Fluency]]
 - [[Pareidolia]]
+- [[Law of Large Numbers]]

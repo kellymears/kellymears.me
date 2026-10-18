@@ -32,4 +32,4 @@ Thundering herds are a classic reason systems fail during recovery rather than d
 
 ## See also
 - [[Cache-Aside]]
-- [[Cascading Failure]]
+- [[Feedback Loop]]

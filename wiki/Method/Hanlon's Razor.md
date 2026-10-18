@@ -17,3 +17,4 @@ The razor has a clear edge, though, and treating it as absolute is its own error
 - [[Ground Truth]]
 - [[Provenance]]
 - [[Steelmanning]]
+- [[Abductive Reasoning]]

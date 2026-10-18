@@ -19,7 +19,7 @@ The counterintuitive consequence is that a larger biased sample is not safer tha
 - [[Automation Bias]]
 - [[Ecological Fallacy]]
 - [[Reservoir Sampling]]
-- [[Randomized Controlled Trial]]
+- [[Law of Large Numbers]]
 - [[Train-Test Split]]
 - [[Distribution Shift]]
 - [[Data Cleaning]]

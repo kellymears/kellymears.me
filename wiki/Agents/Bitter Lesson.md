@@ -28,3 +28,4 @@ The lesson has a practical corollary for building on language models. Elaborate 
 - [[Neural Network]]
 - [[Reinforcement Learning]]
 - [[Machine Translation]]
+- [[Law of the Instrument]]

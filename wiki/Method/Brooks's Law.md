@@ -30,3 +30,4 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Theory of Constraints]]
 - [[Story Points]]
 - [[Ninety-Ninety Rule]]
+- [[Second-Order Thinking]]

@@ -27,6 +27,6 @@ The practice scales down well — it is close to what a single developer natural
 - [[Three-Way Merge]]
 - [[Git Revert]]
 - [[Cherry-Pick]]
-- [[DORA Metrics]]
+- [[Walking Skeleton]]
 - [[Expand and Contract]]
 - [[Code Freeze]]

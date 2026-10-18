@@ -18,5 +18,5 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 - [[Leaky Abstraction]]
 - [[Data Contract]]
 - [[Left-Pad Incident]]
-- [[API Translation Layer]]
+- [[Second-Order Thinking]]
 - [[Quirks Mode]]

@@ -19,7 +19,7 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[Browser Wars]]
 - [[GIF]]
 - [[Sunk Cost Fallacy]]
-- [[Greedy Algorithm]]
+- [[Second-Order Thinking]]
 - [[Normalization of Deviance]]
 - [[Two-Sided Market]]
 - [[Enshittification]]

@@ -32,3 +32,4 @@ Margins also have costs: extra weight, idle capacity, slower schedules. Choosing
 ## See also
 - [[Murphy's Law]]
 - [[Fail Fast]]
+- [[Expected Value]]

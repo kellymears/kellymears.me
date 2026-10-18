@@ -30,7 +30,7 @@ Congestion control lives in [[TCP and UDP]] stacks, and [[QUIC]] reimplements it
 - [[Nagle's Algorithm]]
 - [[Ring Buffer]]
 - [[Adaptive Bitrate Streaming]]
-- [[Bandwidth]]
+- [[Feedback Loop]]
 - [[Modem]]
 - [[Last Mile]]
 - [[Net Neutrality]]

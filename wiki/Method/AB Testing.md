@@ -25,7 +25,7 @@ A/B testing also carries ethical and strategic risks. Optimizing a single metric
 
 ## See also
 - [[Multi-Armed Bandit]]
-- [[Randomized Controlled Trial]]
+- [[Law of Large Numbers]]
 - [[Statistical Power]]
 - [[Progressive Delivery]]
 - [[Multiple Comparisons Problem]]

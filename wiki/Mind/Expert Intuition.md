@@ -28,5 +28,5 @@ Expert patterns are also brittle outside their domain. The chess master's memory
 - [[Satisficing]]
 - [[Deliberate Practice]]
 - [[Embodied Cognition]]
-- [[Choking Under Pressure]]
+- [[First Principles Thinking]]
 - [[Functional Fixedness]]

@@ -18,7 +18,7 @@ The general move Wald's analysis teaches is to ask what is missing from a datase
 - [[Antibiotic Resistance]]
 - [[Berkson's Paradox]]
 - [[Representativeness Heuristic]]
-- [[Sensitivity and Specificity]]
+- [[McNamara Fallacy]]
 - [[Hindsight Bias]]
 - [[Benford's Law]]
 - [[Speculative Bubble]]

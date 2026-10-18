@@ -28,3 +28,4 @@ The cone also explains why commitments made at the start of a project become sou
 ## See also
 - [[Hofstadter's Law]]
 - [[Brooks's Law]]
+- [[Second-Order Thinking]]

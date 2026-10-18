@@ -36,3 +36,4 @@ Children younger than about five show less functional fixedness than older child
 - [[Cognitive Load]]
 - [[Point-and-Click Adventure]]
 - [[Insight]]
+- [[Law of the Instrument]]

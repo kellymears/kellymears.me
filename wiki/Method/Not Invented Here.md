@@ -28,3 +28,5 @@ NIH is a close cousin of [[Cargo Cult]] thinking but inverted — cargo cult is 
 - [[Inner Source]]
 - [[You Aren't Gonna Need It]]
 - [[Big Rewrite]]
+- [[First Principles Thinking]]
+- [[Law of the Instrument]]

@@ -35,3 +35,4 @@ Brandolini's law sits alongside other observations about online discourse, such 
 - [[Falsifiability]]
 - [[Betteridge's Law of Headlines]]
 - [[Burden of Proof]]
+- [[Logical Fallacy]]

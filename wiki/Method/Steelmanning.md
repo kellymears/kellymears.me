@@ -33,3 +33,4 @@ In technical work, the same habit improves [[Code Review]] and design discussion
 - [[Cunningham's Law]]
 - [[Framing Effect]]
 - [[Brandolini's Law]]
+- [[Logical Fallacy]]

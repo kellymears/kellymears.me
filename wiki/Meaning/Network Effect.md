@@ -21,6 +21,6 @@ Network effects are often confused with switching costs, and the two are related
 - [[Social Capital]]
 - [[Internet Exchange Point]]
 - [[Stable Matching]]
-- [[Telegraph]]
+- [[Feedback Loop]]
 - [[Web 2.0]]
 - [[Speculative Bubble]]

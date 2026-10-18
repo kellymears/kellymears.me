@@ -14,7 +14,7 @@ Root cause work depends on [[Ground Truth]]. A hypothesis about a cause is worth
 The same instinct applies one level up. When a fix introduces a [[Regression]], the interesting question is not "what broke" but "what about the way I fixed it made this breakable". Fixing the substrate rather than the symptom is what keeps [[Technical Debt]] from compounding.
 
 ## See also
-- [[Falsifiability]]
+- [[Abductive Reasoning]]
 - [[Reproducible Case]]
 - [[Confounding]]
 - [[Failure Mode and Effects Analysis]]

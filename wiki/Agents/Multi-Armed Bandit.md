@@ -27,7 +27,7 @@ People face the same dilemma: the favorite restaurant or a new one. Research on 
 
 ## See also
 - [[Recommender System]]
-- [[AB Testing]]
+- [[Expected Value]]
 - [[Model Routing]]
 - [[Curiosity]]
 - [[Randomized Controlled Trial]]

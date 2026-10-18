@@ -22,7 +22,7 @@ The method fails where its assumptions do. Heavy-tailed quantities have no typic
 - [[Sensitivity and Specificity]]
 - [[Fault Seeding]]
 - [[Benford's Law]]
-- [[Planning Fallacy]]
+- [[First Principles Thinking]]
 - [[Bayes' Theorem]]
 - [[Confidence Interval]]
 - [[Cone of Uncertainty]]

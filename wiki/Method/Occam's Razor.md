@@ -28,3 +28,4 @@ The razor pairs naturally with [[Plausible Mechanism]]: prefer the account with 
 - [[Kolmogorov Complexity]]
 - [[Burden of Proof]]
 - [[Double Descent]]
+- [[Abductive Reasoning]]

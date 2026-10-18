@@ -24,7 +24,7 @@ Communication is synchronous, through [[Remote Procedure Call]] or HTTP APIs, or
 The common failure is the **distributed monolith**: services that still must deploy together because they share a database or change in lockstep, combining the costs of both approaches with the benefits of neither. Splitting along the wrong boundaries is expensive to undo, so many teams now start with a well-modularized monolith and extract services only where team or scaling pressure is real. Extraction itself is usually done gradually, routing one capability at a time to new code with the [[Strangler Fig Pattern]].
 
 ## See also
-- [[Team Topologies]]
+- [[Law of the Instrument]]
 - [[Data Mesh]]
 - [[Service Discovery]]
 - [[Distributed Tracing]]

@@ -27,7 +27,7 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 ## See also
 - [[Five Whys]]
 - [[Psychological Safety]]
-- [[Sunk Cost Fallacy]]
+- [[Second-Order Thinking]]
 - [[Failure Mode and Effects Analysis]]
 - [[Black Swan]]
 - [[Threat Modeling]]

@@ -31,3 +31,4 @@ Critics argue that the label gets applied to events that were foreseeable and si
 - [[Normalization of Deviance]]
 - [[Pre-mortem]]
 - [[Speculative Bubble]]
+- [[Expected Value]]

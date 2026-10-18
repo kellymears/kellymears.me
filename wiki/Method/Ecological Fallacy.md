@@ -24,3 +24,4 @@ The same logic applies to software and product metrics. A feature used more in t
 ## See also
 - [[Berkson's Paradox]]
 - [[Map and Territory]]
+- [[Logical Fallacy]]

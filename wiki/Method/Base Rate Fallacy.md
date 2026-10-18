@@ -16,7 +16,7 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 
 ## See also
 - [[Bayes' Theorem]]
-- [[Fermi Estimation]]
+- [[Logical Fallacy]]
 - [[Representativeness Heuristic]]
 - [[Allergy]]
 - [[Streetlight Effect]]

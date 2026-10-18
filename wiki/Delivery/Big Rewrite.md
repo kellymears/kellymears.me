@@ -25,5 +25,5 @@ Rewrites do sometimes succeed, usually when the scope is small, the old platform
 The usual alternative is incremental replacement. The [[Strangler Fig Pattern]] routes traffic piece by piece from the old system to new components, and [[Branch by Abstraction]] does the same inside one codebase, so every step ships and can be reversed. Most successful "rewrites" turn out to be this, done patiently over years. [[Gall's Law]] gives the underlying reason: complex systems that work evolved from simple systems that worked, and a complex system designed from scratch rarely does.
 
 ## See also
-- [[Refactoring]]
+- [[First Principles Thinking]]
 - [[Not Invented Here]]

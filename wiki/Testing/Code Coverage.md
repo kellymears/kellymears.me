@@ -22,7 +22,7 @@ Coverage also behaves oddly across multiple test environments measuring the same
 - [[Modified Condition Decision Coverage]]
 - [[Pesticide Paradox]]
 - [[Fault Seeding]]
-- [[Test-Driven Development]]
+- [[McNamara Fallacy]]
 
 ## Related
 - [[Operationalization]]

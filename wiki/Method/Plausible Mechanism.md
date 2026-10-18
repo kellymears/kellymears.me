@@ -17,7 +17,7 @@ The rule that survives: before writing "because X", run something that would tel
 ## See also
 - [[Falsifiability]]
 - [[Exhaustive Claim]]
-- [[Ground Truth]]
+- [[Abductive Reasoning]]
 - [[Code Comment]]
 - [[Hallucination]]
 - [[Code Review]]

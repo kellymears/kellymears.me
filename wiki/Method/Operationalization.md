@@ -29,3 +29,4 @@ Practical habits help. State the operational definition explicitly. Use several 
 - [[Confounding]]
 - [[Benchmarking]]
 - [[Ecological Fallacy]]
+- [[McNamara Fallacy]]

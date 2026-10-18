@@ -36,3 +36,4 @@ Designers exploit the same pattern: daily login rewards, timed offers, and insta
 - [[Executive Function]]
 - [[Habit Formation]]
 - [[Affective Forecasting]]
+- [[Expected Value]]

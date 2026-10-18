@@ -20,3 +20,4 @@ The caution runs the other way too: the accusation is frequently leveled at peop
 - [[Steelmanning]]
 - [[Brandolini's Law]]
 - [[Burden of Proof]]
+- [[Logical Fallacy]]

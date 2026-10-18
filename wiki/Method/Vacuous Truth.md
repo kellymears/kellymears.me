@@ -29,3 +29,4 @@ The remedy is always the same: assert the *precondition* first. Confirm the cont
 ## Related
 - [[Glob]]
 - [[Truncation Bias]]
+- [[Logical Fallacy]]

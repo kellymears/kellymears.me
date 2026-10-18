@@ -29,6 +29,6 @@ Results are only as good as the randomness and the model. A weak [[Pseudorandom 
 ## See also
 - [[Quantum Computing]]
 - [[Monte Carlo Tree Search]]
-- [[Denoising]]
+- [[Law of Large Numbers]]
 - [[Normal Distribution]]
 - [[Radioactive Decay]]

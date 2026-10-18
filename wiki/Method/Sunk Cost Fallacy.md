@@ -16,7 +16,7 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 
 ## See also
 - [[Path Dependence]]
-- [[Technical Debt]]
+- [[Expected Value]]
 - [[Second-System Effect]]
 - [[Anchoring Effect]]
 - [[Cognitive Dissonance]]

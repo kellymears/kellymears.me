@@ -32,6 +32,6 @@ Most people are badly calibrated with their own intervals. Asked for 90% ranges 
 ## See also
 - [[Scatter Plot]]
 - [[Randomized Controlled Trial]]
-- [[Regression to the Mean]]
+- [[Law of Large Numbers]]
 - [[Cone of Uncertainty]]
 - [[Fault Seeding]]

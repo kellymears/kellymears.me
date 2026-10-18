@@ -27,3 +27,5 @@ The defense isn't refusing improvements — it's keeping the same discipline tha
 - [[Refactoring]]
 - [[You Aren't Gonna Need It]]
 - [[Big Rewrite]]
+- [[Law of the Instrument]]
+- [[First Principles Thinking]]

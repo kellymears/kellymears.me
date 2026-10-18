@@ -19,7 +19,7 @@ Ground truth also has a *staleness* dimension. A measurement is only about the t
 - [[Reproducible Case]]
 - [[Determinism]]
 - [[Instrumentation]]
-- [[Silent Failure]]
+- [[McNamara Fallacy]]
 - [[Root Cause Analysis]]
 - [[Vacuous Truth]]
 - [[Test Oracle]]

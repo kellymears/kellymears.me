@@ -24,3 +24,4 @@ What most programming languages call "regex" (PCRE and its descendants: Perl's, 
 - [[Context-Free Grammar]]
 - [[String-Searching Algorithm]]
 - [[Esoteric Programming Language]]
+- [[Law of the Instrument]]

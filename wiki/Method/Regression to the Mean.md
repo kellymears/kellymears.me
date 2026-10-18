@@ -20,7 +20,7 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Simpson's Paradox]]
 
 ## Related
-- [[Survivorship Bias]]
+- [[Law of Large Numbers]]
 - [[Blood Pressure]]
 - [[Randomized Controlled Trial]]
 - [[Hindsight Bias]]

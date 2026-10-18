@@ -34,4 +34,4 @@ The method ends with understanding, not with a passing test. A fix that makes th
 ## See also
 - [[Spectrum-Based Fault Localization]]
 - [[Program Slicing]]
-- [[Regression Testing]]
+- [[Abductive Reasoning]]

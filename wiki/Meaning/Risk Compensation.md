@@ -34,3 +34,4 @@ Designers sometimes work with the effect rather than against it. Some traffic en
 - [[Third-Person Effect]]
 - [[Sunburn]]
 - [[Trolley Problem]]
+- [[Second-Order Thinking]]
