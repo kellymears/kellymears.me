@@ -34,7 +34,7 @@ For athletes, insulin sensitivity is generally high, and post-exercise is when m
 
 ## See also
 - [[Glycogen]]
-- [[Energy Systems]]
+- [[Strength Training]]
 - [[Muscle Hypertrophy]]
 - [[Allostatic Load]]
 - [[Homeostasis]]

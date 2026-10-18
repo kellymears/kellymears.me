@@ -29,7 +29,7 @@ On a bike, cadence also interacts with position and [[Aerodynamic Drag]], since 
 
 ## See also
 - [[Torque]]
-- [[Muscle Fiber Types]]
+- [[Bike Fit]]
 - [[Functional Threshold Power]]
 - [[Motor Learning]]
 - [[Gear Ratio]]

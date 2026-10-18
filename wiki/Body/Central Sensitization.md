@@ -26,7 +26,7 @@ Expectation and attention also modulate pain, as [[Predictive Processing]] and t
 - [[Nociception]]
 - [[Neuroplasticity]]
 - [[Habituation]]
-- [[Physical Dependence]]
+- [[Concussion]]
 - [[Inflammation]]
 - [[Predictive Processing]]
 - [[Repetitive Strain Injury]]

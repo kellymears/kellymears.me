@@ -33,3 +33,4 @@ Engines and motors are rated the same way: power is torque times rotational spee
 - [[Functional Threshold Power]]
 - [[Aerodynamic Drag]]
 - [[Gear Ratio]]
+- [[Critical Power]]

@@ -27,7 +27,7 @@ The caveats are substantial:
 HRV is also used as a broad index of stress physiology, linking it to [[Allostatic Load]], [[Emotional Regulation]], and [[Interoception]]. Some popular theories built on vagal tone, notably polyvagal theory, go well beyond the evidence. HRV rises during deep [[Sleep Stages]], follows a [[Circadian Rhythm]], and drops in heat (see [[Thermoregulation]]).
 
 ## See also
-- [[Training Load]]
+- [[Blood Pressure]]
 - [[Supercompensation]]
 - [[Allostatic Load]]
 - [[Sleep Stages]]

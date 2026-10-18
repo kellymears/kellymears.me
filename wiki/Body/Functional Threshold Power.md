@@ -27,9 +27,9 @@ The number invites [[Goodhart's Law]]. Riders retest, chase the figure, and trai
 
 ## See also
 - [[Central Governor Theory]]
-- [[Training Load]]
+- [[Critical Power]]
 - [[Heart Rate Zones]]
-- [[Aerodynamic Drag]]
+- [[Bike Fit]]
 - [[Goodhart's Law]]
 - [[Rolling Resistance]]
 - [[Muscle Fiber Types]]

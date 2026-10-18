@@ -24,6 +24,6 @@ Electronics fight the same battle. A chip conducts heat into a metal heat spread
 ## See also
 - [[Dew Point]]
 - [[Combustion]]
-- [[Thermoregulation]]
+- [[Cold Exposure]]
 - [[Entropy]]
 - [[Conservation of Energy]]

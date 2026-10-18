@@ -27,6 +27,6 @@ The encouraging finding is that muscle stays trainable. In a 1990 study by Maria
 
 ## See also
 - [[Muscle Hypertrophy]]
-- [[Muscle Fiber Types]]
+- [[Strength Training]]
 - [[Detraining]]
 - [[Training Load]]

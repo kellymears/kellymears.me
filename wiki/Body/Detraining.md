@@ -27,6 +27,6 @@ The practical good news is how little it takes to hold on. Studies from the 1980
 Detraining matters most for older adults. An illness or hospital stay that would cost a young athlete a few weeks can push an older person into lasting decline, accelerating [[Sarcopenia]].
 
 ## See also
-- [[Training Load]]
+- [[Strength Training]]
 - [[Sarcopenia]]
 - [[Altitude Training]]

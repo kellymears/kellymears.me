@@ -35,3 +35,5 @@ Glycogen also binds water, about three grams per gram, which is why weight swing
 - [[Energy Systems]]
 - [[Insulin Sensitivity]]
 - [[Fluid Balance]]
+- [[Relative Energy Deficiency in Sport]]
+- [[Cold Exposure]]

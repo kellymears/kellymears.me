@@ -26,8 +26,8 @@ Severe pain, marked swelling, or dark urine after extreme exercise isn't DOMS bu
 
 ## See also
 - [[Muscle Cramp]]
-- [[Inflammation]]
+- [[Cold Exposure]]
 - [[Supercompensation]]
 - [[Muscle Fiber Types]]
-- [[Training Load]]
+- [[Stretching]]
 - [[Tendon and Ligament]]

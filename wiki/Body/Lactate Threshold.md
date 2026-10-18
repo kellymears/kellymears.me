@@ -23,7 +23,7 @@ Measuring it properly means drawing blood from a fingertip or earlobe at progres
 
 ## See also
 - [[VO2 Max]]
-- [[Functional Threshold Power]]
+- [[Critical Power]]
 - [[Heart Rate Zones]]
 - [[Polarized Training]]
 - [[Glycogen]]

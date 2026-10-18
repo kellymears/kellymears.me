@@ -26,7 +26,7 @@ Fast fibers are also more vulnerable to the strain behind [[Delayed Onset Muscle
 
 ## See also
 - [[Glycogen]]
-- [[Lactate Threshold]]
-- [[VO2 Max]]
+- [[Critical Power]]
+- [[Strength Training]]
 - [[Polarized Training]]
 - [[Sarcopenia]]

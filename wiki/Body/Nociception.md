@@ -25,3 +25,4 @@ One practical consequence: pain cannot be measured from outside. Only self-repor
 - [[Retinoid]]
 - [[Retronasal Olfaction]]
 - [[Central Sensitization]]
+- [[Stretching]]
