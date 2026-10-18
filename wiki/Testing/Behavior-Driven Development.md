@@ -34,3 +34,4 @@ Used well, BDD keeps executable scenarios for the handful of behaviors that matt
 - [[End-to-End Test]]
 - [[Test Fixture]]
 - [[Exploratory Testing]]
+- [[Acceptance Testing]]

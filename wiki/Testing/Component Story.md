@@ -29,3 +29,4 @@ Practical hazards worth knowing:
 ## Related
 - [[contenteditable]]
 - [[Test Fixture]]
+- [[Humble Object]]

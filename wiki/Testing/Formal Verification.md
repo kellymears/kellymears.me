@@ -26,7 +26,7 @@ Practical verification therefore sits on a spectrum with testing. [[Static Analy
 
 ## See also
 - [[Static Analysis]]
-- [[Design by Contract]]
+- [[Model-Based Testing]]
 - [[Property-Based Testing]]
 - [[Logical Clock]]
 - [[Two-Phase Commit]]

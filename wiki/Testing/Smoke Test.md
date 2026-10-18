@@ -18,3 +18,4 @@ In CI pipelines, smoke tests commonly gate whether the expensive suite even runs
 - [[Flaky Test]]
 - [[Canary Release]]
 - [[End-to-End Test]]
+- [[Synthetic Monitoring]]

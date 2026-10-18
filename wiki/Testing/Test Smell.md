@@ -30,7 +30,7 @@ Smells matter because tests are read far more often than written, usually by som
 Smells in test code are usually fixed the same way as in regular code: extract helper functions for setup, name things clearly, split eager tests into focused ones, and replace hidden shared data with explicit builders. A [[Unit Test]] that reads as a short, plain example of how the code should behave doubles as documentation.
 
 ## See also
-- [[Test Isolation]]
-- [[Test Double]]
+- [[Test Data Builder]]
+- [[Parameterized Test]]
 - [[Flaky Test]]
 - [[Test Fixture]]

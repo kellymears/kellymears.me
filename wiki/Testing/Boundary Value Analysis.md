@@ -28,7 +28,7 @@ These techniques make [[Unit Test]] design systematic rather than ad hoc, and th
 [[Property-Based Testing]] and [[Fuzzing]] automate the search, and good generators deliberately bias toward boundary values such as zero, empty collections, and extreme numbers, because experience shows that is where bugs live.
 
 ## See also
-- [[Unit Test]]
+- [[Parameterized Test]]
 - [[Property-Based Testing]]
 - [[Mutation Testing]]
 - [[Null]]

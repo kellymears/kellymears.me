@@ -29,3 +29,4 @@ Bisection is the simplest version of [[Delta Debugging]], which generalizes the 
 - [[Delta Debugging]]
 - [[Atomic Commit]]
 - [[Regression]]
+- [[Regression Testing]]

@@ -34,3 +34,4 @@ SLOs depend on good measurement, the territory of [[Observability]]. They also d
 - [[DORA Metrics]]
 - [[Tail Latency]]
 - [[Observability]]
+- [[Synthetic Monitoring]]

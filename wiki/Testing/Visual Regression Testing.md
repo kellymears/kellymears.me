@@ -28,3 +28,5 @@ Two traps recur. A static server that rewrites URLs can silently serve an error 
 ## Related
 - [[Integration Test]]
 - [[Reproducible Case]]
+- [[Regression Testing]]
+- [[Page Object Model]]

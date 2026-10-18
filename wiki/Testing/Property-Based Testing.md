@@ -24,3 +24,5 @@ The hard part is the one the technique's name is honest about: finding a propert
 - [[Design by Contract]]
 - [[Delta Debugging]]
 - [[Pairwise Testing]]
+- [[Model-Based Testing]]
+- [[Parameterized Test]]

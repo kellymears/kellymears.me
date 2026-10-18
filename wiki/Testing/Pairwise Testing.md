@@ -30,3 +30,4 @@ The technique has limits. It selects combinations but doesn't say what the corre
 - [[Feature Flag]]
 - [[Property-Based Testing]]
 - [[Test Oracle]]
+- [[Parameterized Test]]

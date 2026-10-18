@@ -21,7 +21,7 @@ The pyramid has been challenged, mostly over the middle:
 The durable lesson is about the trade-offs, not the triangle. Each test should sit at the lowest level that can catch the failure it guards against. Logic belongs in fast tests, wiring in integration tests, and only critical user journeys in E2E. [[Contract Testing]] covers service boundaries without full environments. A [[Code Coverage]] number says nothing about whether the shape is right, and treating it as the goal invites [[Goodhart's Law]]. [[Mutation Testing]] is a better check on whether the base actually catches anything.
 
 ## See also
-- [[Integration Test]]
+- [[Humble Object]]
 - [[End-to-End Test]]
 - [[Contract Testing]]
 - [[Test-Driven Development]]

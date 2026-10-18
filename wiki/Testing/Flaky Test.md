@@ -20,7 +20,7 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 
 ## See also
 - [[Race Condition]]
-- [[Resource Starvation]]
+- [[Fake Clock]]
 - [[Determinism]]
 - [[Reproducible Case]]
 - [[Bundler]]

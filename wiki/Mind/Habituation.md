@@ -29,3 +29,4 @@ Infant researchers rely on it. Babies cannot answer questions, but they look lon
 - [[Semantic Satiation]]
 - [[Sensory Overload]]
 - [[Inattentional Blindness]]
+- [[Synthetic Monitoring]]

@@ -21,3 +21,4 @@ MVP is often confused with "prototype" or "beta," but neither of those implies t
 
 ## Related
 - [[Fermi Estimation]]
+- [[Acceptance Testing]]

@@ -26,3 +26,4 @@ Two further notes. Fixtures should be *local and deterministic* where the assert
 - [[Unit Test]]
 - [[Nondeterminism]]
 - [[Test Smell]]
+- [[Test Data Builder]]

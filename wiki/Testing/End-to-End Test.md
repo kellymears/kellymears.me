@@ -25,7 +25,7 @@ The usual conclusion is the [[Test Pyramid]]: a small number of E2E tests coveri
 Good E2E tests are written against what a user sees, such as visible labels and roles, rather than CSS classes or DOM structure, which ties them to [[Accessibility]] semantics and keeps them from breaking on every restyle. A [[Smoke Test]] after deploy is often just a handful of E2E checks run against production.
 
 ## See also
-- [[Integration Test]]
-- [[Test Pyramid]]
+- [[Page Object Model]]
+- [[Acceptance Testing]]
 - [[Headless Browser]]
 - [[Flaky Test]]

@@ -15,7 +15,7 @@ There is also an environmental cost worth knowing about. A unit test that import
 
 ## See also
 - [[Integration Test]]
-- [[Test Double]]
+- [[Humble Object]]
 - [[Test-Driven Development]]
 - [[Component Story]]
 - [[Test Pyramid]]

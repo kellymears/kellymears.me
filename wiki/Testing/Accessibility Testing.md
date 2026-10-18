@@ -25,5 +25,5 @@ Automated tools can't judge meaning. They can confirm an image has alternative t
 Accessibility testing works best early and continuously. Components built and tested in isolation, as in a [[Component Story]], can carry accessibility checks with them, so every page that uses them inherits the result. Bugs found at the end of a project tend to be structural and expensive, while bugs caught per component are cheap, the same economics that drive the rest of testing.
 
 ## See also
-- [[Accessibility]]
+- [[Page Object Model]]
 - [[Usability Testing]]

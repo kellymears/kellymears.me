@@ -27,3 +27,5 @@ The second risk is that a double drifts from the real interface, so the tests pa
 - [[Integration Test]]
 - [[Fingerprint]]
 - [[Test Smell]]
+- [[Fake Clock]]
+- [[Humble Object]]
