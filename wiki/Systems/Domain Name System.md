@@ -21,7 +21,7 @@ The common record types are few: an address record, an alias record pointing one
 - [[Cache Invalidation]]
 - [[Virtual Private Network]]
 - [[Caller ID Authentication]]
-- [[eSIM]]
+- [[URL]]
 - [[Certificate Authority]]
 - [[Border Gateway Protocol]]
 

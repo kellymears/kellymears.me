@@ -26,3 +26,4 @@ CSP composes with, but is distinct from, [[Cross-Origin Resource Sharing]]: CORS
 - [[Penetration Testing]]
 - [[Third-Party Script]]
 - [[Iframe]]
+- [[MIME Type]]

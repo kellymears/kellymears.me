@@ -24,7 +24,7 @@ The pattern is general: thread pools, HTTP keep-alive, and object pools in games
 ## See also
 - [[Backpressure]]
 - [[Row-Level Security]]
-- [[Load Testing]]
+- [[Serverless Computing]]
 - [[Relational Database]]
 - [[N+1 Query Problem]]
 - [[Circuit Breaker]]

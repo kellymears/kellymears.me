@@ -17,7 +17,7 @@ A specific, easily-missed instance: a cache whose scope is a single process beha
 
 ## See also
 - [[Conflict-Free Replicated Data Type]]
-- [[Cache Invalidation]]
+- [[Edge Computing]]
 - [[Peer-to-Peer]]
 - [[Idempotence]]
 - [[Saga Pattern]]

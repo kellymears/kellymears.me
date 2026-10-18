@@ -19,7 +19,7 @@ The tradeoff CDNs make explicit is between consistency and locality: an edge nod
 - [[Load Balancing]]
 - [[Adaptive Bitrate Streaming]]
 - [[API Gateway]]
-- [[HTTP Caching]]
+- [[Edge Computing]]
 - [[Denial-of-Service Attack]]
 - [[Reverse Proxy]]
 - [[Transport Layer Security]]

@@ -25,3 +25,4 @@ JWTs commonly carry [[OAuth]] and OpenID Connect identity claims, and get passed
 - [[Web Storage]]
 - [[Row-Level Security]]
 - [[JSON]]
+- [[Passkey]]

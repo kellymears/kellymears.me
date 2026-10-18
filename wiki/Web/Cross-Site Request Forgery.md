@@ -25,9 +25,10 @@ Two boundaries are worth knowing. CSRF defenses assume no [[Cross-Site Scripting
 ## See also
 - [[HTTP Cookie]]
 - [[Same-Origin Policy]]
-- [[Cross-Origin Resource Sharing]]
+- [[Third-Party Cookie]]
 - [[Cross-Site Scripting]]
 - [[Content Security Policy]]
 - [[Defensive Default]]
 - [[OAuth]]
 - [[Clickjacking]]
+- [[Passkey]]

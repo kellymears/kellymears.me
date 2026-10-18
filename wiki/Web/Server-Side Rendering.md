@@ -19,3 +19,6 @@ SSR sits on a spectrum with [[Static Site Generation]] (render once at build tim
 - [[Incremental Static Regeneration]]
 - [[Progressive Enhancement]]
 - [[Single-Page Application]]
+- [[Edge Computing]]
+- [[Serverless Computing]]
+- [[Open Graph]]

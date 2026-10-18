@@ -24,3 +24,4 @@ It's a close cousin of [[Backpressure]], but the direction of control is differe
 - [[Thundering Herd]]
 - [[HTTP Status Code]]
 - [[Denial-of-Service Attack]]
+- [[Web Crawler]]

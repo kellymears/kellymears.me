@@ -36,3 +36,4 @@ For developers, the practical tools are [[Progressive Enhancement]], building on
 - [[Polyfill]]
 - [[Progressive Enhancement]]
 - [[Backward Compatibility]]
+- [[World Wide Web]]

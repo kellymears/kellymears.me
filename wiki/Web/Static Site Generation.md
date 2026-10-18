@@ -29,3 +29,4 @@ For a page whose content is genuinely fixed, static generation dominates on ever
 - [[Search Engine Optimization]]
 - [[Baked Lighting]]
 - [[Link Rot]]
+- [[Open Graph]]

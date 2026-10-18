@@ -28,3 +28,5 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 - [[Error Message]]
 - [[YAML]]
 - [[JSON]]
+- [[MIME Type]]
+- [[World Wide Web]]

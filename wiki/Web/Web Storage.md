@@ -33,5 +33,5 @@ Stored data also outlives the code that wrote it. When an app changes the shape 
 
 ## See also
 - [[Local-First Software]]
-- [[Service Worker]]
+- [[Third-Party Cookie]]
 - [[Cross-Tab Communication]]

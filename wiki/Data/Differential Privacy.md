@@ -35,7 +35,7 @@ Machine learning faces the same risk: models can memorize training examples, and
 
 ## See also
 - [[Entity Resolution]]
-- [[Pseudorandom Number Generator]]
+- [[Browser Fingerprinting]]
 - [[Least Privilege]]
 - [[Bloom Filter]]
 - [[Personal Data]]

@@ -26,9 +26,9 @@ Cookies compete with bearer tokens such as a [[JSON Web Token]] in a header. Hea
 ## See also
 - [[Personal Data]]
 - [[Same-Origin Policy]]
-- [[JSON Web Token]]
+- [[Third-Party Cookie]]
 - [[OAuth]]
-- [[Cross-Site Scripting]]
+- [[Passkey]]
 - [[Silent Failure]]
 - [[Domain Name System]]
 - [[Web Storage]]

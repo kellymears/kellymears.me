@@ -32,7 +32,7 @@ Inside a [[Wiki]], internal links can be checked mechanically: a link to a page 
 
 ## See also
 - [[Object Storage]]
-- [[Backlink]]
-- [[Search Engine Optimization]]
+- [[Web Crawler]]
+- [[URL]]
 - [[Data Lineage]]
 - [[Local-First Software]]

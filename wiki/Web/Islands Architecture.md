@@ -27,3 +27,4 @@ The pattern is most associated with content-first site frameworks, but the under
 - [[Single-Page Application]]
 - [[Reactive Signals]]
 - [[Long Task]]
+- [[Edge Computing]]

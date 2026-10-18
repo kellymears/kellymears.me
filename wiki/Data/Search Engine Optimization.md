@@ -16,7 +16,7 @@ It is worth being clear about the incentive structure. Search optimization is an
 ## See also
 - [[Enshittification]]
 - [[Information Scent]]
-- [[Matthew Effect]]
+- [[Open Graph]]
 - [[Information Architecture]]
 - [[RSS]]
 - [[Semantic HTML]]

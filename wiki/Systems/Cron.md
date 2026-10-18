@@ -28,3 +28,4 @@ The practical rules: use absolute paths, set the environment explicitly, log to 
 - [[Root Cause Analysis]]
 - [[Fake Clock]]
 - [[Unix Time]]
+- [[Serverless Computing]]

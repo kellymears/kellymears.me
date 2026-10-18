@@ -30,7 +30,7 @@ Inverted indexes are optimized for reading. Posting lists are compressed and sto
 - [[Database Index]]
 - [[Embedding]]
 - [[Cosine Similarity]]
-- [[Retrieval-Augmented Generation]]
+- [[Web Crawler]]
 - [[Precision and Recall]]
 - [[Trie]]
 - [[Faceted Search]]

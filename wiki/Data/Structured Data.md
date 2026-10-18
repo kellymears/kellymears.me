@@ -29,3 +29,5 @@ Two practical cautions.
 - [[Information Architecture]]
 - [[Static Site Generation]]
 - [[Backlink]]
+- [[Open Graph]]
+- [[Web Crawler]]

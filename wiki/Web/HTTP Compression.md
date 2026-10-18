@@ -32,3 +32,4 @@ The principle underneath comes from [[Information Theory]]: compression removes 
 - [[HTTP Caching]]
 - [[Minification]]
 - [[HTTP2 and HTTP3]]
+- [[MIME Type]]
