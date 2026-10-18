@@ -33,7 +33,7 @@ Dependencies are also a security surface. Each one can be compromised, typosquat
 ## See also
 - [[Lockfile]]
 - [[Artifact Repository]]
-- [[Semantic Versioning]]
+- [[Lindy Effect]]
 - [[Software Fork]]
 - [[Dynamic Linking]]
 - [[Automated Dependency Updates]]

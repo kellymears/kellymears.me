@@ -15,7 +15,7 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 ## See also
 - [[Flanderization]]
 - [[Root Cause Analysis]]
-- [[Naming]]
+- [[Lindy Effect]]
 - [[Version Control]]
 - [[Regression]]
 - [[Sunk Cost Fallacy]]

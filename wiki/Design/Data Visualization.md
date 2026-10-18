@@ -36,3 +36,4 @@ Two purposes differ. *Exploratory* visualization helps an analyst find what's in
 ## See also
 - [[Gestalt Principles]]
 - [[Dimensionality Reduction]]
+- [[Confidence Interval]]

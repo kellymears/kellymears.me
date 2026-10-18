@@ -17,7 +17,7 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Hindsight Bias]]
 - [[Processing Fluency]]
 - [[Pareidolia]]
-- [[Ground Truth]]
+- [[Texas Sharpshooter Fallacy]]
 - [[Base Rate Fallacy]]
 - [[Steelmanning]]
 - [[Cognitive Dissonance]]

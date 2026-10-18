@@ -25,8 +25,8 @@ The reforms are mostly about committing in advance. **Preregistration** records 
 ## See also
 - [[Train-Test Split]]
 - [[Processing Fluency]]
-- [[Falsifiability]]
+- [[Statistical Significance]]
 - [[Randomized Controlled Trial]]
-- [[Bayes' Theorem]]
+- [[Effect Size]]
 - [[Benchmark Contamination]]
-- [[Base Rate Fallacy]]
+- [[Statistical Power]]

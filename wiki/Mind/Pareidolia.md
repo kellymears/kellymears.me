@@ -21,8 +21,8 @@ Machines show their own pareidolia. Google's DeepDream, released in 2015, amplif
 Designers use pareidolia deliberately. Car fronts are styled as friendly or aggressive faces, and products are given eyes to seem approachable. Push faces toward realism and the effect can turn unsettling, as described under [[Uncanny Valley]]. The Rorschach inkblot test, published in 1921, tried to use pareidolia diagnostically, reading personality from what people saw in ambiguous shapes, though its scientific validity remains contested. [[Gestalt Principles]] describe the grouping rules that make random marks cohere into figures in the first place.
 
 ## See also
-- [[Predictive Processing]]
-- [[Gestalt Principles]]
+- [[Texas Sharpshooter Fallacy]]
+- [[Gambler's Fallacy]]
 - [[Uncanny Valley]]
 - [[Confirmation Bias]]
 - [[Prosopagnosia]]

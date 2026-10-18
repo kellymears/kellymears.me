@@ -28,7 +28,7 @@ Adding people late rarely saves a late project, as [[Brooks's Law]] warns, and w
 ## See also
 - [[Sunk Cost Fallacy]]
 - [[Feature Creep]]
-- [[Survivorship Bias]]
+- [[Confidence Interval]]
 - [[Dunning-Kruger Effect]]
 - [[Loss Aversion]]
 - [[Agile Software Development]]

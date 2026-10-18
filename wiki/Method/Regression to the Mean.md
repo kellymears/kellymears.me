@@ -25,3 +25,5 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Randomized Controlled Trial]]
 - [[Hindsight Bias]]
 - [[Low Back Pain]]
+- [[Gambler's Fallacy]]
+- [[Effect Size]]

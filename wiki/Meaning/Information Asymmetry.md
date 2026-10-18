@@ -33,3 +33,4 @@ The idea reaches well beyond economics. Software users can't inspect what's in t
 - [[Shibboleth]]
 - [[Enshittification]]
 - [[Social Proof]]
+- [[Cobra Effect]]

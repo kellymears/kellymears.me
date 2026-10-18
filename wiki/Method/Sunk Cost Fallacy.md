@@ -26,3 +26,4 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 - [[Planning Fallacy]]
 - [[Hindsight Bias]]
 - [[Loss Aversion]]
+- [[Gambler's Fallacy]]

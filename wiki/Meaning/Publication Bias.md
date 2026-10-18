@@ -19,3 +19,5 @@ The distortion is visible and quantifiable: meta-analyses use a funnel plot, whi
 - [[Decision Fatigue]]
 - [[Replication Crisis]]
 - [[Matthew Effect]]
+- [[Statistical Significance]]
+- [[Effect Size]]

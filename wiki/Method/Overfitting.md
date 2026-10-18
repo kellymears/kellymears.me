@@ -29,3 +29,4 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 - [[Pareidolia]]
 - [[Train-Test Split]]
 - [[Regularization]]
+- [[Texas Sharpshooter Fallacy]]

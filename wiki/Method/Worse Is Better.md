@@ -26,3 +26,4 @@ It sits directly behind [[Gall's Law]] and [[Minimum Viable Product]] as one mor
 - [[End-to-End Principle]]
 - [[Tesler's Law]]
 - [[Leaky Abstraction]]
+- [[Lindy Effect]]

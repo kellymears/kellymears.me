@@ -24,3 +24,5 @@ Most tests have a threshold, and moving it trades one error for the other; where
 - [[Truncation Bias]]
 - [[Bayes' Theorem]]
 - [[Precision and Recall]]
+- [[Statistical Power]]
+- [[Statistical Significance]]

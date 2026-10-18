@@ -23,3 +23,4 @@ The counterintuitive consequence is that a larger biased sample is not safer tha
 - [[Train-Test Split]]
 - [[Distribution Shift]]
 - [[Data Cleaning]]
+- [[Confounding]]

@@ -14,7 +14,7 @@ The gold-standard fix is a randomized controlled experiment, because randomizati
 Engineers hit this constantly in incident analysis: a deploy correlates with a spike in errors, and it's usually the deploy — but "usually" is doing real work in that sentence, and a [[Root Cause Analysis]] that stops at correlation is one confound away from blaming the wrong commit.
 
 ## See also
-- [[Root Cause Analysis]]
+- [[Effect Size]]
 - [[Simpson's Paradox]]
 - [[Base Rate Fallacy]]
 - [[Plausible Mechanism]]
@@ -29,3 +29,4 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Vitamin D]]
 - [[Distribution Shift]]
 - [[Data Visualization]]
+- [[Confounding]]

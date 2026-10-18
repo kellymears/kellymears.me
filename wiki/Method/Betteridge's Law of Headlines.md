@@ -25,3 +25,4 @@ The incentive it names — implying more certainty than a story earns — is not
 - [[Motte and Bailey]]
 - [[Ground Truth]]
 - [[Truncation Bias]]
+- [[Brandolini's Law]]

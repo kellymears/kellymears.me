@@ -23,7 +23,7 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 - [[Dual Process Theory]]
 
 ## Related
-- [[Ground Truth]]
+- [[Statistical Significance]]
 - [[Truncation Bias]]
 - [[Survivorship Bias]]
 - [[Choropleth Map]]

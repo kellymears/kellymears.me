@@ -5,7 +5,6 @@ aliases:
   - Double-blind
   - Blinding
   - Clinical trial
-  - Confounding variable
 tags:
   - method
 summary: The experiment design that assigns treatments by chance and compares against a control, the strongest everyday tool for telling whether something actually causes an effect.
@@ -29,6 +28,8 @@ RCTs have limits. Some questions can't ethically be randomized, such as whether 
 
 ## See also
 - [[Regression to the Mean]]
-- [[Falsifiability]]
+- [[Statistical Power]]
 - [[Survivorship Bias]]
 - [[Bayes' Theorem]]
+- [[Confounding]]
+- [[Statistical Significance]]

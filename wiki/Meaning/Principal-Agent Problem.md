@@ -15,7 +15,7 @@ Every fix compounds the problem rather than resolving it. Add a second metric to
 ## See also
 - [[Information Asymmetry]]
 - [[Prisoner's Dilemma]]
-- [[Rent-Seeking]]
+- [[Cobra Effect]]
 - [[Externality]]
 - [[Ground Truth]]
 - [[Hanlon's Razor]]

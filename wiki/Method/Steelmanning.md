@@ -32,3 +32,4 @@ In technical work, the same habit improves [[Code Review]] and design discussion
 - [[Pre-mortem]]
 - [[Cunningham's Law]]
 - [[Framing Effect]]
+- [[Brandolini's Law]]

@@ -28,3 +28,4 @@ The rule that survives: before writing "because X", run something that would tel
 - [[Chesterton's Fence]]
 - [[Muscle Cramp]]
 - [[Bayes' Theorem]]
+- [[Confounding]]

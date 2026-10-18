@@ -24,3 +24,4 @@ The method fails where its assumptions do. Heavy-tailed quantities have no typic
 - [[Anchoring Effect]]
 - [[Planning Fallacy]]
 - [[Bayes' Theorem]]
+- [[Confidence Interval]]

@@ -30,3 +30,4 @@ Used well, the principle is a prompt to look for the vital few: find what produc
 - [[Law of Triviality]]
 - [[Selection Bias]]
 - [[Matthew Effect]]
+- [[Lindy Effect]]

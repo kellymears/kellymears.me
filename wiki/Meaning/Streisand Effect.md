@@ -16,3 +16,5 @@ It is not a universal law — plenty of suppression works exactly as intended, q
 - [[Moral Panic]]
 - [[Confidence Trick]]
 - [[Context Collapse]]
+- [[Brandolini's Law]]
+- [[Cobra Effect]]

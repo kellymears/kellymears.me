@@ -23,7 +23,7 @@ The principle has a mirror, and both are needed. A fence whose reason has expire
 
 ## Related
 - [[Plausible Mechanism]]
-- [[Silent Failure]]
+- [[Lindy Effect]]
 - [[Strangler Fig Pattern]]
 - [[Git Blame]]
 - [[Refactoring]]

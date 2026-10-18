@@ -21,3 +21,5 @@ The standard defenses are structural, matching the mechanism directly: preregist
 - [[Replication Crisis]]
 - [[Randomized Controlled Trial]]
 - [[Bayes' Theorem]]
+- [[Statistical Significance]]
+- [[Texas Sharpshooter Fallacy]]

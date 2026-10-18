@@ -31,3 +31,4 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Steelmanning]]
 - [[Framing Effect]]
 - [[Pluralistic Ignorance]]
+- [[Cobra Effect]]

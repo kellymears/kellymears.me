@@ -28,3 +28,4 @@ The corrective is the same move [[Fermi Estimation]] makes explicit: force yours
 - [[Processing Fluency]]
 - [[Hindsight Bias]]
 - [[Negativity Bias]]
+- [[Gambler's Fallacy]]

@@ -30,3 +30,4 @@ Calibration also shifts with data. A model calibrated on its training distributi
 - [[Precision and Recall]]
 - [[Bayes' Theorem]]
 - [[Sycophancy]]
+- [[Confidence Interval]]

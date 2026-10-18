@@ -26,3 +26,4 @@ The defense is to track a claim's actual evidentiary history rather than the fee
 - [[Poe's Law]]
 - [[False Memory]]
 - [[Processing Fluency]]
+- [[Brandolini's Law]]
