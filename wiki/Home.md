@@ -23,7 +23,7 @@ How to know things, and how to avoid being confidently wrong.
 
 Algorithms, data structures, and what they cost.
 
-[[Actor Model]] · [[Amortized Analysis]] · [[B-Tree]] · [[Big-O Notation]] · [[Binary Search]] · [[Bloom Filter]] · [[Closure]] · [[Compiler]] · [[Concurrency and Parallelism]] · [[Consistent Hashing]] · [[Currying]] · [[Duck Typing]] · [[Dynamic Programming]] · [[Event Loop]] · [[Finite State Machine]] · [[Garbage Collection]] · [[Hash Table]] · [[Higher-Order Function]] · [[Immutability]] · [[Interpreter]] · [[Lazy Evaluation]] · [[Least Recently Used Cache]] · [[Memoization]] · [[Monad]] · [[Pattern Matching]] · [[Pure Function]] · [[Recursion]] · [[Reflection]] · [[Regular Expression]] · [[Tail Call Optimization]] · [[Trie]] · [[Type Inference]] · [[Write-Ahead Logging]]
+[[Actor Model]] · [[Amortized Analysis]] · [[B-Tree]] · [[Big-O Notation]] · [[Binary Search]] · [[Bloom Filter]] · [[Closure]] · [[Compiler]] · [[Concurrency and Parallelism]] · [[Consistent Hashing]] · [[Currying]] · [[Deadlock]] · [[Dijkstra's Algorithm]] · [[Duck Typing]] · [[Dynamic Programming]] · [[Event Loop]] · [[Finite State Machine]] · [[Floating-Point Arithmetic]] · [[Garbage Collection]] · [[Graph Traversal]] · [[Halting Problem]] · [[Hash Table]] · [[Higher-Order Function]] · [[Immutability]] · [[Integer Overflow]] · [[Interpreter]] · [[Lambda Calculus]] · [[Lazy Evaluation]] · [[Least Recently Used Cache]] · [[Memoization]] · [[Merkle Tree]] · [[Monad]] · [[P versus NP Problem]] · [[Pattern Matching]] · [[Pure Function]] · [[Recursion]] · [[Reflection]] · [[Regular Expression]] · [[Tail Call Optimization]] · [[Topological Sort]] · [[Trie]] · [[Turing Completeness]] · [[Type Inference]] · [[Write-Ahead Logging]]
 
 ## Agents & Language Models
 

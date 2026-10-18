@@ -26,3 +26,4 @@ Two implementation notes. **Simultaneity is load-bearing**: updating in place le
 - [[Determinism]]
 - [[Voxel]]
 - [[Game AI]]
+- [[Turing Completeness]]

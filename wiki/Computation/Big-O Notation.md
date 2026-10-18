@@ -22,3 +22,5 @@ It is a vocabulary for reasoning, not a measurement. Treating it as a proxy for 
 - [[Performance Budget]]
 - [[Observability]]
 - [[Determinism]]
+- [[P versus NP Problem]]
+- [[Graph Traversal]]

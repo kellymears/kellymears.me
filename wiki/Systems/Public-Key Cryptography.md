@@ -30,3 +30,4 @@ The weak point is binding a public key to an identity. A public key proves only 
 - [[Code Signing]]
 - [[Secret Management]]
 - [[Zero Trust Network]]
+- [[P versus NP Problem]]

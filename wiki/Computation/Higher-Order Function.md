@@ -18,3 +18,4 @@ The risk is indirection outrunning its benefit — a codebase where every operat
 - [[Currying]]
 - [[Pure Function]]
 - [[Recursion]]
+- [[Lambda Calculus]]

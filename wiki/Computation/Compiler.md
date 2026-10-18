@@ -21,3 +21,5 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Static Analysis]]
 - [[Differential Testing]]
 - [[Formal Verification]]
+- [[Halting Problem]]
+- [[Lambda Calculus]]

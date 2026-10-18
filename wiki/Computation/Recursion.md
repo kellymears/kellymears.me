@@ -19,3 +19,5 @@ Recursion is the natural fit for anything with a recursive shape in the data its
 - [[Dynamic Programming]]
 - [[Trie]]
 - [[Finite State Machine]]
+- [[Lambda Calculus]]
+- [[Graph Traversal]]

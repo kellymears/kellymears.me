@@ -25,3 +25,4 @@ Staging deserves care in shared working directories: a bulk "add everything" swe
 - [[Three-Way Merge]]
 - [[Regression]]
 - [[Plausible Mechanism]]
+- [[Merkle Tree]]

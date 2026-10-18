@@ -26,3 +26,5 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 ## Related
 - [[Secret Management]]
 - [[Module Graph]]
+- [[Topological Sort]]
+- [[P versus NP Problem]]

@@ -21,3 +21,4 @@ The failure mode of *not* modeling something explicitly as a state machine is sc
 - [[Determinism]]
 - [[Exploratory Testing]]
 - [[Formal Verification]]
+- [[Turing Completeness]]
