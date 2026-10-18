@@ -26,5 +26,5 @@ Responses range from personal to structural. Individuals use blockers, grayscale
 
 ## See also
 - [[Personal Data]]
-- [[Network Effect]]
+- [[Web 2.0]]
 - [[Context Collapse]]

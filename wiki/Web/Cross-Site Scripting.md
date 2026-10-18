@@ -26,3 +26,5 @@ The root cause across all three is the same: untrusted input rendered into a con
 - [[Penetration Testing]]
 - [[MIME Type]]
 - [[ANSI Escape Code]]
+- [[Session Management]]
+- [[Open Redirect]]

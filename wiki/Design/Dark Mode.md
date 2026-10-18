@@ -29,3 +29,4 @@ Two practical notes. Because the common implementation toggles a class on the ro
 - [[Digital Eye Strain]]
 - [[Flat Design]]
 - [[Color Theory]]
+- [[Favicon]]

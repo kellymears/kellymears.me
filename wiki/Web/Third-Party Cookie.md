@@ -30,7 +30,8 @@ Blocking cookies didn't end tracking; it moved it. Trackers shifted to [[Browser
 The cookie banners across the web come from European privacy law requiring consent before setting non-essential cookies; see [[Personal Data]]. Many banners make refusing harder than accepting, a [[Dark Pattern]] regulators have increasingly penalized. Partitioning also applies to other storage, such as [[Web Storage]] and caches, closing side channels the [[Same-Origin Policy]] alone left open.
 
 ## See also
-- [[Content Security Policy]]
+- [[Cookie Consent]]
 - [[Differential Privacy]]
 - [[Browser Extension]]
 - [[Attention Economy]]
+- [[Single Sign-On]]

@@ -33,6 +33,6 @@ Remaining problems:
 A passkey proves who you are; it doesn't decide what you may do. After sign-in, the site still issues a session, usually an [[HTTP Cookie]], and delegated access still runs through [[OAuth]]. The binding to a domain extends the browser's broader rule that credentials belong to an origin; see [[Same-Origin Policy]].
 
 ## See also
-- [[JSON Web Token]]
+- [[Single Sign-On]]
 - [[Near-Field Communication]]
-- [[Cross-Site Request Forgery]]
+- [[Multi-Factor Authentication]]

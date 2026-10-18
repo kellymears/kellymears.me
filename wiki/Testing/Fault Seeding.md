@@ -26,3 +26,4 @@ Seeding also explains a common worry. A bug bash that finds nothing doesn't prov
 ## See also
 - [[Pesticide Paradox]]
 - [[Survivorship Bias]]
+- [[Phishing]]

@@ -29,6 +29,6 @@ Request options cover most needs: method, headers, body, cache mode, redirect ha
 
 ## See also
 - [[XML]]
-- [[Streaming Response]]
+- [[jQuery]]
 - [[Promise]]
 - [[WebSocket]]

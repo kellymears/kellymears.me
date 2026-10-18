@@ -33,4 +33,4 @@ Every polyfill should have a planned end. Once all supported browsers ship the f
 - [[Cross-Browser Testing]]
 - [[Transpiler]]
 - [[User Agent String]]
-- [[Browser Engine]]
+- [[jQuery]]

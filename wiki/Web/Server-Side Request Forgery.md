@@ -27,4 +27,4 @@ It was added to the OWASP Top 10 list of critical web risks in 2021; see [[Penet
 
 ## See also
 - [[XML]]
-- [[URL]]
+- [[Open Redirect]]

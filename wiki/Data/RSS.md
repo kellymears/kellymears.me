@@ -30,3 +30,4 @@ Because the format is machine-readable and low-friction, it is also a decent gen
 - [[Enshittification]]
 - [[IndieWeb]]
 - [[XML]]
+- [[Web 2.0]]

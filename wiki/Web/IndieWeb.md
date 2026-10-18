@@ -27,4 +27,4 @@ Many personal sites, including this one, carry IndieWeb habits: a feed, permanen
 
 ## See also
 - [[Open Graph]]
-- [[Local-First Software]]
+- [[Web 2.0]]

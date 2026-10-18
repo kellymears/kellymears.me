@@ -24,3 +24,5 @@ The access token itself is usually opaque to the client and short-lived, paired 
 - [[Passkey]]
 - [[Third-Party Cookie]]
 - [[Secrets Management]]
+- [[Single Sign-On]]
+- [[Open Redirect]]

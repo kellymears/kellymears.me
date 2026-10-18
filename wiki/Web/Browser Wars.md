@@ -20,9 +20,9 @@ The **browser wars** are the rounds of competition between web browser makers, e
 Interoperability has improved: browser makers now jointly pick problem areas each year to fix, and features are marked "Baseline" once all major engines support them. The lessons are that interoperability needs more than one serious engine, and that bundling a default can matter more than quality; see [[Choice Architecture]].
 
 ## See also
-- [[World Wide Web]]
+- [[Adobe Flash]]
 - [[Big Rewrite]]
 - [[Quirks Mode]]
 - [[Cross-Browser Testing]]
 - [[GIF]]
-- [[JavaScript]]
+- [[jQuery]]

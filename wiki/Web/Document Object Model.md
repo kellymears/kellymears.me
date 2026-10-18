@@ -30,3 +30,4 @@ Frameworks that keep a virtual model of the tree add a fourth: the framework's p
 - [[Event Delegation]]
 - [[World Wide Web]]
 - [[Virtual Scrolling]]
+- [[jQuery]]

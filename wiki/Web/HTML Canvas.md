@@ -32,7 +32,7 @@ Canvas also exposes pixels for reading. `getImageData` returns raw RGBA values f
 **OffscreenCanvas** lets a [[Web Worker]] draw off the main thread, keeping heavy rendering from blocking input. Each draw command has overhead much like a GPU [[Draw Call]], so batching paths matters for performance.
 
 ## See also
-- [[Vector Graphics]]
+- [[Adobe Flash]]
 - [[WebGPU]]
 - [[requestAnimationFrame]]
 - [[Alpha Compositing]]

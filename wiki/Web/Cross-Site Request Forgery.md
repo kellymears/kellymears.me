@@ -24,9 +24,9 @@ Two boundaries are worth knowing. CSRF defenses assume no [[Cross-Site Scripting
 
 ## See also
 - [[Server-Side Request Forgery]]
-- [[Same-Origin Policy]]
+- [[Session Management]]
 - [[Third-Party Cookie]]
-- [[Cross-Site Scripting]]
+- [[Open Redirect]]
 - [[Content Security Policy]]
 - [[Defensive Default]]
 - [[OAuth]]

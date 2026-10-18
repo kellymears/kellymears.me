@@ -31,3 +31,4 @@ Motion vectors have uses beyond compression. Game renderers produce similar per-
 - [[GIF]]
 - [[Rotoscoping]]
 - [[Frame Rate]]
+- [[Adobe Flash]]

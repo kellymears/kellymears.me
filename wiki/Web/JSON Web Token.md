@@ -15,7 +15,7 @@ JWTs commonly carry [[OAuth]] and OpenID Connect identity claims, and get passed
 
 ## See also
 - [[OAuth]]
-- [[Cross-Site Scripting]]
+- [[Session Management]]
 - [[Same-Origin Policy]]
 - [[Content Security Policy]]
 - [[Public-Key Cryptography]]
@@ -26,3 +26,4 @@ JWTs commonly carry [[OAuth]] and OpenID Connect identity claims, and get passed
 - [[Row-Level Security]]
 - [[JSON]]
 - [[Passkey]]
+- [[Single Sign-On]]

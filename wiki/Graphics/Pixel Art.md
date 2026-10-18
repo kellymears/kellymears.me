@@ -28,6 +28,6 @@ Its appeal is partly economic, since small teams can produce consistent art, and
 ## See also
 - [[GIF]]
 - [[ASCII Art]]
-- [[Racing the Beam]]
+- [[Favicon]]
 - [[Game Jam]]
 - [[Color Cycling]]

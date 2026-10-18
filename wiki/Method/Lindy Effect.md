@@ -33,4 +33,4 @@ It pairs with [[Chesterton's Fence]], which counsels understanding why something
 - [[Bathtub Curve]]
 - [[Radioactive Decay]]
 - [[Public Domain]]
-- [[Black Swan]]
+- [[jQuery]]

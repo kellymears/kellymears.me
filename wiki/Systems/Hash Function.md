@@ -29,5 +29,5 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[Caller ID Authentication]]
 - [[AI Watermarking]]
 - [[Merkle Tree]]
-- [[Pseudorandom Number Generator]]
+- [[Multi-Factor Authentication]]
 - [[HyperLogLog]]

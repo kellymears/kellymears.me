@@ -24,7 +24,7 @@ Personal wikis have become common as a private reference — the same mechanics,
 - [[Rabbit Hole]]
 
 ## Related
-- [[Plain Language]]
+- [[Web 2.0]]
 - [[Agent Memory]]
 - [[Link Rot]]
 - [[Project Xanadu]]

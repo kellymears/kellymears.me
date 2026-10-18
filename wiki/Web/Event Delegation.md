@@ -36,6 +36,6 @@ The pitfalls:
 The pattern is a small instance of a general one: one dispatcher at a choke point routes messages to handlers, rather than every sender knowing every receiver, as a [[Message Queue]] does for services. Handlers run one at a time on the [[Event Loop]], so a slow delegated handler delays everything else.
 
 ## See also
-- [[Document Object Model]]
+- [[jQuery]]
 - [[Shadow DOM]]
 - [[Focus Management]]

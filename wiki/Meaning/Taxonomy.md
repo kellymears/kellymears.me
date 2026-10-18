@@ -18,7 +18,7 @@ Two practical notes. A vocabulary is a shared model, so every near-synonym costs
 ## See also
 - [[Information Architecture]]
 - [[Knowledge Graph]]
-- [[Naming]]
+- [[Web 2.0]]
 - [[Frontmatter]]
 - [[Design System]]
 - [[Linguistic Relativity]]

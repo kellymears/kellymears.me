@@ -28,3 +28,4 @@ Not every framework uses this model — Svelte compiles away the diffing entirel
 - [[Reactive Signals]]
 - [[State Management]]
 - [[Transpiler]]
+- [[jQuery]]

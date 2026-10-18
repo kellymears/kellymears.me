@@ -13,13 +13,13 @@ The recurring practical symptom is asymmetric: read requests succeed while write
 
 ## See also
 - [[Browser Engine]]
-- [[Domain Name System]]
+- [[Multi-Factor Authentication]]
 - [[Cross-Origin Isolation]]
 - [[Port]]
 - [[Multi-Tenancy]]
 
 ## Related
-- [[Virtual Private Network]]
+- [[Open Redirect]]
 - [[eSIM]]
 - [[Browser Extension]]
 - [[Caller ID Authentication]]

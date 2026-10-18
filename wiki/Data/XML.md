@@ -32,4 +32,4 @@ Modern parsers disable both by default, but older libraries and configurations s
 ## See also
 - [[YAML]]
 - [[Document Object Model]]
-- [[Character Encoding]]
+- [[Single Sign-On]]

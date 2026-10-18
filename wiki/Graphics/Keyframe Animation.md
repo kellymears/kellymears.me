@@ -29,3 +29,4 @@ Interpolation also has a perceptual floor. Keys spaced too far apart produce mot
 ## See also
 - [[Game Loop]]
 - [[Procedural Generation]]
+- [[Adobe Flash]]

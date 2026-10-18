@@ -22,5 +22,5 @@ Network effects are often confused with switching costs, and the two are related
 - [[Internet Exchange Point]]
 - [[Stable Matching]]
 - [[Telegraph]]
-- [[Browser Wars]]
+- [[Web 2.0]]
 - [[Speculative Bubble]]

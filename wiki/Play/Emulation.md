@@ -20,7 +20,7 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 ## See also
 - [[Racing the Beam]]
 - [[Instruction Set Architecture]]
-- [[Demoscene]]
+- [[Adobe Flash]]
 - [[Color Quantization]]
 - [[Right to Repair]]
 - [[Point-and-Click Adventure]]

@@ -18,7 +18,7 @@ Layer 4 balancers work at the TCP/UDP level and just forward packets, cheap and 
 - [[Cascading Failure]]
 - [[Stable Matching]]
 - [[Anycast]]
-- [[Rate Limiting]]
+- [[Session Management]]
 - [[Consistent Hashing]]
 - [[Reverse Proxy]]
 - [[Hot Partition]]

@@ -27,7 +27,7 @@ Isolation now reaches into the browser's architecture. Since 2018, site isolatio
 Iframes have costs. Each is a full document with its own scripts, styles, and memory, so a page with many embeds is heavy; `loading="lazy"` defers offscreen frames, as described under [[Lazy Loading]]. Sizing an iframe to its content requires the child to report its height by message. Micro-frontend architectures sometimes compose whole applications from iframes, trading those costs for strong separation between teams.
 
 ## See also
-- [[Same-Origin Policy]]
+- [[Single Sign-On]]
 - [[Clickjacking]]
 - [[Cross-Origin Isolation]]
 - [[Portal]]

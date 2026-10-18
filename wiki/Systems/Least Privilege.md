@@ -32,4 +32,4 @@ The principle is stated easily and applied poorly, because broad permissions are
 ## Related
 - [[Secrets Management]]
 - [[Superuser]]
-- [[Differential Privacy]]
+- [[Single Sign-On]]

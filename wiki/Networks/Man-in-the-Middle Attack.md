@@ -28,6 +28,6 @@ The middle isn't always hostile. Corporate networks and antivirus products insta
 
 ## See also
 - [[Onion Routing]]
-- [[Captive Portal]]
+- [[Multi-Factor Authentication]]
 - [[Email Authentication]]
 - [[Near-Field Communication]]

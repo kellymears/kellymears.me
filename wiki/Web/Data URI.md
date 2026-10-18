@@ -26,5 +26,5 @@ Data URIs also caused security trouble. A phishing page could be built entirely 
 **Blob URLs** solve a related problem. Code can turn data it already holds in memory, such as a generated file or an image the user picked, into a short `blob:` address for downloads and previews, with no encoding. Each one holds its data until released, so forgetting to revoke them leaks memory; see [[Memory Leak]].
 
 ## See also
-- [[Data Compression]]
-- [[Cross-Site Scripting]]
+- [[Phishing]]
+- [[Favicon]]

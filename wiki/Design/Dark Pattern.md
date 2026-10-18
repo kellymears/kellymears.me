@@ -19,7 +19,7 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Carousel]]
 - [[Calm Technology]]
 - [[Attention Economy]]
-- [[AB Testing]]
+- [[Cookie Consent]]
 - [[Gamification]]
 - [[Enshittification]]
 - [[Modal Dialog]]

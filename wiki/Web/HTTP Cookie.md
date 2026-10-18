@@ -24,13 +24,13 @@ Most cookie failures are silent. A cookie with an invalid domain, a missing `Sec
 Cookies compete with bearer tokens such as a [[JSON Web Token]] in a header. Header tokens aren't sent automatically, so they are immune to CSRF, but they have to be stored somewhere JavaScript can read, which exposes them to XSS. The trade-off sits between the two attack classes.
 
 ## See also
-- [[Personal Data]]
+- [[Session Management]]
 - [[Same-Origin Policy]]
 - [[Third-Party Cookie]]
 - [[OAuth]]
 - [[Passkey]]
 - [[Packet Capture]]
-- [[Domain Name System]]
+- [[Cookie Consent]]
 - [[Web Storage]]
 - [[Hypertext Transfer Protocol]]
 - [[HTTP Strict Transport Security]]
