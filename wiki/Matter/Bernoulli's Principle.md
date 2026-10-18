@@ -29,6 +29,6 @@ Static fluids follow simpler rules: pressure spreads evenly through an enclosed 
 
 ## See also
 - [[Atmospheric Pressure]]
-- [[Viscosity]]
+- [[Fluid Simulation]]
 - [[Magnus Effect]]
 - [[Reynolds Number]]

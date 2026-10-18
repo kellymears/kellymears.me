@@ -22,7 +22,7 @@ The depth buffer has characteristic failures:
 The buffer is useful for more than visibility. Shadow maps are depth buffers rendered from the light's point of view. [[Ambient Occlusion]] in screen space reads it to find creases. A *depth pre-pass* fills it first so that expensive shading runs only on visible pixels, a form of [[Culling]] that [[Deferred Shading]] gets automatically.
 
 ## See also
-- [[Rasterization]]
+- [[Stereoscopy]]
 - [[Culling]]
 - [[Barycentric Coordinates]]
 - [[Isometric Projection]]

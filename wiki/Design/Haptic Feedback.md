@@ -32,3 +32,4 @@ Overuse dulls it. Vibration on every keypress or notification teaches people to 
 ## See also
 - [[Touch Target Size]]
 - [[Microcopy]]
+- [[Virtual Reality]]

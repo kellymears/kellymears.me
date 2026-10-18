@@ -36,4 +36,4 @@ It is part of a broader move toward representations learned from data, alongside
 - [[Diffusion Model]]
 - [[Signed Distance Field]]
 - [[Image-Based Lighting]]
-- [[Voxel]]
+- [[Stereoscopy]]

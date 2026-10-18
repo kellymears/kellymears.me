@@ -21,7 +21,7 @@ Genres sorted by sensitivity to latency, from [[Rhythm Game|rhythm]] and fightin
 - [[Temporal Upscaling]]
 - [[Frame Pacing]]
 - [[Game Feel]]
-- [[Latency and Jitter]]
+- [[Video Compression]]
 - [[Rollback Netcode]]
 - [[Motion Blur]]
 - [[Input Latency]]

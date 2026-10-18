@@ -34,7 +34,7 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 
 ## See also
 - [[Public Domain]]
-- [[Backward Compatibility]]
+- [[GIF]]
 - [[CSV]]
 - [[JPEG]]
 - [[Demoscene]]

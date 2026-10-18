@@ -33,5 +33,5 @@ The same algorithms serve beyond games. Robotics uses collision checking for mot
 ## See also
 - [[Ray Casting]]
 - [[Verlet Integration]]
-- [[Particle System]]
+- [[Rigid Body Dynamics]]
 - [[Magnus Effect]]

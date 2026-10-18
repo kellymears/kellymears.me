@@ -24,8 +24,8 @@ Because the whole scene is one function evaluated per pixel, ray marching fits n
 Games also ray-march against the [[Depth Buffer]] for screen-space reflections, a [[Post-Processing]] effect that treats the visible frame as a crude height field.
 
 ## See also
-- [[Signed Distance Field]]
-- [[Ray Tracing]]
+- [[Fractal]]
+- [[Constructive Solid Geometry]]
 - [[Marching Cubes]]
 - [[Perlin Noise]]
 - [[Ray Casting]]

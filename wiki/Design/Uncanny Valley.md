@@ -25,3 +25,4 @@ The practical response designers converged on regardless is to route around the 
 - [[Pareidolia]]
 - [[Prosopagnosia]]
 - [[Motion Capture]]
+- [[Rotoscoping]]

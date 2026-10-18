@@ -32,3 +32,4 @@ The law has practical uses in computing:
 - [[Semantic Change]]
 - [[Network Effect]]
 - [[Linguistic Relativity]]
+- [[Fractal]]

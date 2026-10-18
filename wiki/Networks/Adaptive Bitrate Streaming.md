@@ -29,7 +29,7 @@ Encoding got smarter. Netflix introduced per-title encoding in 2015, tailoring e
 Live streaming adds a latency trade-off. Larger buffers absorb [[Latency and Jitter]] but put viewers 20 to 30 seconds behind real time, which matters when neighbors cheer a goal first. Low-latency HLS and chunked delivery cut this to a few seconds, while interactive uses that need under a second turn to [[WebRTC]] instead. Big live events also test infrastructure, as millions request the same new segment at once, a [[Thundering Herd]] that edge caches absorb.
 
 ## See also
-- [[Content Delivery Network]]
+- [[Video Compression]]
 - [[Congestion Control]]
 - [[QUIC]]
 - [[Frame Pacing]]

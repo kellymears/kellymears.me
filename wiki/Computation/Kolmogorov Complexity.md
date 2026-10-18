@@ -35,3 +35,4 @@ The concept gives a precise meaning to an intuitive idea: understanding somethin
 - [[Monte Carlo Method]]
 - [[Lambda Calculus]]
 - [[Demoscene]]
+- [[Fractal]]

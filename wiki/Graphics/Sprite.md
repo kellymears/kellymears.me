@@ -28,5 +28,5 @@ Sprite animation is laborious, since each frame is hand-drawn, which led many ga
 ## See also
 - [[Parallax Scrolling]]
 - [[Mipmapping]]
-- [[Game Loop]]
+- [[Rotoscoping]]
 - [[Racing the Beam]]

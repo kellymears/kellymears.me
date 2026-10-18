@@ -29,3 +29,4 @@ Two implementation notes. **Simultaneity is load-bearing**: updating in place le
 - [[Game AI]]
 - [[Turing Completeness]]
 - [[Boids]]
+- [[Fractal]]

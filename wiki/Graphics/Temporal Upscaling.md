@@ -23,7 +23,7 @@ Upscaling is now load-bearing in modern games. Expensive techniques like real-ti
 - [[Blue Noise]]
 - [[Rasterization]]
 - [[Level of Detail]]
-- [[Ray Tracing]]
+- [[Video Compression]]
 - [[Shader]]
 - [[Hallucination]]
 - [[Lazy Evaluation]]

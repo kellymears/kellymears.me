@@ -27,7 +27,7 @@ Two practical notes. Precision and compiler optimization settings change results
 
 ## Related
 - [[Demoscene]]
-- [[Seeded Randomness]]
+- [[Fluid Simulation]]
 - [[Cel Shading]]
 - [[L-System]]
 - [[Ray Marching]]

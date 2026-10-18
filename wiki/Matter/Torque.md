@@ -24,3 +24,4 @@ Torque is easy to confuse with work, since both share units that reduce to the s
 - [[Newton's Laws of Motion]]
 - [[Electric Motor]]
 - [[Magnetism]]
+- [[Rigid Body Dynamics]]

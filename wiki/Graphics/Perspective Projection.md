@@ -29,7 +29,7 @@ Projection sits between geometry and pixels. After it, [[Rasterization]] fills t
 ## See also
 - [[Ray Casting]]
 - [[Parallax Scrolling]]
-- [[Culling]]
+- [[Stereoscopy]]
 - [[Quaternion]]
 - [[Transformation Matrix]]
 - [[Isometric Projection]]

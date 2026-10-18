@@ -25,3 +25,4 @@ The same idea generalizes past meshes: **impostors** replace a whole complex obj
 - [[Polygon Mesh]]
 - [[Tessellation]]
 - [[Eye Tracking]]
+- [[Terrain Generation]]

@@ -30,4 +30,4 @@ Noise is one of several procedural building blocks. An [[L-System]] grows branch
 - [[Ray Marching]]
 - [[Blue Noise]]
 - [[Demoscene]]
-- [[Pseudorandom Number Generator]]
+- [[Fractal]]

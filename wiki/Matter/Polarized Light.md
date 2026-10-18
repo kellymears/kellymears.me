@@ -26,4 +26,4 @@ Crossed polarizers also reveal **stress birefringence**: strained plastics and t
 - [[Electromagnetic Induction]]
 - [[Wave Interference]]
 - [[Fresnel Effect]]
-- [[Electromagnetic Spectrum]]
+- [[Stereoscopy]]

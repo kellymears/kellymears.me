@@ -30,6 +30,6 @@ Beyond research, gaze is increasingly an input:
 Eye movements also reveal attention, fatigue, and possibly health, so gaze data is sensitive; see [[Personal Data]].
 
 ## See also
-- [[Visual Hierarchy]]
+- [[Virtual Reality]]
 - [[Selective Attention]]
 - [[Blind Spot]]

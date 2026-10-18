@@ -26,7 +26,7 @@ Browsers use the same idea inside a page. Elements that animate `transform` or `
 
 ## See also
 - [[Desktop Metaphor]]
-- [[Screen Tearing]]
+- [[Rotoscoping]]
 - [[Frame Pacing]]
 - [[Stacking Context]]
 - [[Layout Thrashing]]

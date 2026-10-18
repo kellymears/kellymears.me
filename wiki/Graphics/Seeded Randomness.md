@@ -16,7 +16,7 @@ Two cautions. A generator's *quality* matters for simulation and not much for ga
 
 ## See also
 - [[Wave Function Collapse]]
-- [[Procedural Generation]]
+- [[Terrain Generation]]
 - [[Roguelike]]
 - [[Reservoir Sampling]]
 - [[Cellular Automaton]]

@@ -24,3 +24,4 @@ Interoperability has improved: browser makers now jointly pick problem areas eac
 - [[Polyfill]]
 - [[Enshittification]]
 - [[Cross-Browser Testing]]
+- [[GIF]]

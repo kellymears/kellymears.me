@@ -36,4 +36,4 @@ Latency is a large part of [[Game Feel]]: a steady, responsive 60 fps often beat
 
 ## See also
 - [[Bluetooth]]
-- [[Telegraphing]]
+- [[Virtual Reality]]

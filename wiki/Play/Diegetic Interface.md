@@ -21,3 +21,4 @@ There is a middle category worth naming. **Spatial** interfaces are drawn in the
 - [[Accessibility]]
 - [[UI Primitive]]
 - [[Adaptive Music]]
+- [[Virtual Reality]]

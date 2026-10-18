@@ -15,8 +15,8 @@ The aesthetic dimension is separable from the technical one. Voxel art is a deli
 
 ## See also
 - [[Rasterization]]
-- [[Procedural Generation]]
-- [[Shader]]
+- [[Terrain Generation]]
+- [[Constructive Solid Geometry]]
 - [[Ray Casting]]
 - [[Polygon Mesh]]
 

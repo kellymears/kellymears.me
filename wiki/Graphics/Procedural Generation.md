@@ -21,7 +21,7 @@ Determinism also enables *incremental* generation: extending a world without reg
 - [[Voronoi Diagram]]
 - [[L-System]]
 - [[Minimum Spanning Tree]]
-- [[Voxel]]
+- [[Terrain Generation]]
 - [[Cellular Automaton]]
 - [[Level Design]]
 - [[Colony Sim]]

@@ -24,7 +24,7 @@ Test environments frequently emulate the preference by default, which means ever
 - [[LED Flicker]]
 
 ## Related
-- [[Color Contrast]]
+- [[Virtual Reality]]
 - [[Progressive Enhancement]]
 - [[Twelve Basic Principles of Animation]]
 - [[contenteditable]]

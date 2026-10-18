@@ -18,3 +18,4 @@ Open world design shares [[Fog of War]]'s reveal-the-map instinct at a meta leve
 - [[Emergent Gameplay]]
 - [[Sequence Breaking]]
 - [[Level Design]]
+- [[Terrain Generation]]

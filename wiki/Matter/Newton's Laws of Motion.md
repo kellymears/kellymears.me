@@ -27,6 +27,6 @@ Game physics engines are Newton's laws applied many times a second. Each step, t
 ## See also
 - [[Simple Harmonic Motion]]
 - [[Elasticity]]
-- [[Centripetal Force]]
+- [[Rigid Body Dynamics]]
 - [[Torque]]
 - [[Concussion]]

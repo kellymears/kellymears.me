@@ -25,9 +25,9 @@ Audio uses the same idea. When a recording is reduced from 24-bit to 16-bit for 
 ## See also
 - [[Bresenham's Line Algorithm]]
 - [[Halftone]]
-- [[Color Gamut]]
+- [[GIF]]
 - [[Perlin Noise]]
 - [[Post-Processing]]
 - [[Color Quantization]]
 - [[Blue Noise]]
-- [[Pixel Art]]
+- [[Video Compression]]

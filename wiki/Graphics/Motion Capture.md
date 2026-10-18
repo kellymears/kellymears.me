@@ -27,4 +27,5 @@ Outside entertainment, motion capture analyzes athletes' technique, patients' ga
 
 ## See also
 - [[Gaussian Splatting]]
-- [[Verlet Integration]]
+- [[Rotoscoping]]
+- [[Virtual Reality]]

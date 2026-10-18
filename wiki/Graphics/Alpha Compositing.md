@@ -26,6 +26,6 @@ Alpha has limits in what it can represent. A single value per pixel can't expres
 ## See also
 - [[Compositor]]
 - [[Sprite]]
-- [[Gamma Correction]]
+- [[GIF]]
 - [[Aliasing]]
 - [[Order-Independent Transparency]]
