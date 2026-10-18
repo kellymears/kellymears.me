@@ -6,7 +6,7 @@ tags:
   - graphics
 summary: Converting geometry into pixels — the dominant real-time rendering approach.
 ---
-**Rasterization** determines which pixels a piece of geometry covers and shades them. It is the basis of essentially all real-time rendering: transform vertices into screen space, find covered pixels, run a [[Shader]] for each, and resolve visibility with a depth buffer. It is fast because it is embarrassingly parallel and because most geometry can be discarded early.
+**Rasterization** determines which pixels a piece of geometry covers and shades them. It is the basis of essentially all real-time rendering: transform vertices into screen space, find covered pixels, run a [[Shader]] for each, and resolve visibility with a [[Depth Buffer]]. It is fast because it is embarrassingly parallel and because most geometry can be discarded early.
 
 Its limitation is that a rasterizer sees one triangle at a time, so effects requiring knowledge of the whole scene — shadows, reflections, indirect light — must be approximated with extra passes.
 
@@ -18,6 +18,9 @@ Performance work in a rasterizer is mostly about reducing draw calls and avoidin
 - [[Shader]]
 - [[Voxel]]
 - [[Determinism]]
+- [[Aliasing]]
+- [[Culling]]
+- [[Deferred Shading]]
 
 ## Related
 - [[Procedural Generation]]

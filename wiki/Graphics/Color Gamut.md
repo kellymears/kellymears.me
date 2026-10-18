@@ -34,3 +34,4 @@ When a source color falls outside the destination gamut, **gamut mapping** must 
 - [[Color Contrast]]
 - [[Physically Based Rendering]]
 - [[Design Token]]
+- [[Gamma Correction]]

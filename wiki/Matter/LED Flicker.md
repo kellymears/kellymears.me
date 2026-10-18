@@ -31,3 +31,4 @@ The alternatives are known. **Constant-current reduction** dims by lowering curr
 - [[Latency and Jitter]]
 - [[Circadian Lighting]]
 - [[Sensory Overload]]
+- [[Aliasing]]

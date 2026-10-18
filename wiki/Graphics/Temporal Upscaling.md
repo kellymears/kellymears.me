@@ -27,3 +27,5 @@ Upscaling is now load-bearing in modern games. Expensive techniques like real-ti
 - [[Shader]]
 - [[Hallucination]]
 - [[Lazy Evaluation]]
+- [[Aliasing]]
+- [[Mipmapping]]

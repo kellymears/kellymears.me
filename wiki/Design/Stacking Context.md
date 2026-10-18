@@ -22,6 +22,7 @@ Occlusion is nearly invisible to component tests: role queries and accessibility
 - [[Motion Design]]
 - [[Visual Regression Testing]]
 - [[Compositor]]
+- [[Depth Buffer]]
 
 ## Related
 - [[Focus Management]]

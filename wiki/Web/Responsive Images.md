@@ -29,3 +29,4 @@ Related hygiene: explicit `width` and `height` attributes reserve space and prev
 - [[Critical Rendering Path]]
 - [[Content Delivery Network]]
 - [[Progressive Enhancement]]
+- [[Mipmapping]]

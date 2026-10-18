@@ -22,6 +22,8 @@ Two practical notes. Precision and compiler optimization settings change results
 - [[Cellular Automaton]]
 - [[Shader Compilation Stutter]]
 - [[Tone Mapping]]
+- [[Normal Mapping]]
+- [[Deferred Shading]]
 
 ## Related
 - [[Procedural Generation]]

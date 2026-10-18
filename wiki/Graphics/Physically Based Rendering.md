@@ -20,3 +20,6 @@ The discipline this imposes is as important as the math: an albedo texture must 
 - [[OKLCH]]
 - [[High Dynamic Range]]
 - [[Tone Mapping]]
+- [[Normal Mapping]]
+- [[Gamma Correction]]
+- [[Ambient Occlusion]]

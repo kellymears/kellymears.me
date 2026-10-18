@@ -19,6 +19,7 @@ The practical caution is that perceptual uniformity is not the same as *contrast
 - [[Color Contrast]]
 - [[Dark Mode]]
 - [[Shader]]
+- [[Gamma Correction]]
 
 ## Related
 - [[Scoped Styling]]
