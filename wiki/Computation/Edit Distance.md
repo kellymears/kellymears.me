@@ -33,6 +33,6 @@ Edit distance has limits. A purely textual diff doesn't know what code means, so
 - [[Command Palette]]
 - [[Diff]]
 - [[Stemming and Lemmatization]]
-- [[Semantic Conflict]]
+- [[String-Searching Algorithm]]
 - [[Entity Resolution]]
 - [[Autocomplete]]

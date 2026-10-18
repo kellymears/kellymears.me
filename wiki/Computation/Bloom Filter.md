@@ -13,7 +13,7 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 
 ## See also
 - [[Web Crawler]]
-- [[Hash Table]]
+- [[Boolean Algebra]]
 - [[Trie]]
 - [[Wide-Column Store]]
 - [[Log-Structured Merge Tree]]

@@ -31,7 +31,7 @@ Microcode sits in an awkward position for trust. It runs below the [[Kernel]] an
 
 ## See also
 - [[Instruction Set Architecture]]
-- [[Thermal Throttling]]
+- [[Von Neumann Architecture]]
 - [[Silicon Binning]]
 - [[Dynamic Voltage and Frequency Scaling]]
 - [[Semiconductor]]

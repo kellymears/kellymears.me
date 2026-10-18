@@ -34,3 +34,4 @@ Higher up, virtual ISAs blur the line: [[WebAssembly]] and Java bytecode define 
 - [[Silicon Binning]]
 - [[Emulation]]
 - [[Endianness]]
+- [[Von Neumann Architecture]]

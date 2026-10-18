@@ -27,6 +27,6 @@ Refactoring is how code stays changeable over years. Teams that never do it accu
 
 ## See also
 - [[Regression]]
-- [[Unit Test]]
+- [[Structured Programming]]
 - [[Code Formatter]]
 - [[Yak Shaving]]

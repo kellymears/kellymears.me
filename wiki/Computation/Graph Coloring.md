@@ -32,3 +32,4 @@ Graph coloring shows a common pattern in computing: a problem that's intractable
 - [[Wave Function Collapse]]
 - [[Dynamic Programming]]
 - [[Union-Find]]
+- [[Boolean Satisfiability Problem]]

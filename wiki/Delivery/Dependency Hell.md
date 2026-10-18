@@ -34,7 +34,7 @@ Dependencies are also a security surface. Each one can be compromised, typosquat
 - [[Left-Pad Incident]]
 - [[Artifact Repository]]
 - [[Lindy Effect]]
-- [[Software Fork]]
+- [[Boolean Satisfiability Problem]]
 - [[Dynamic Linking]]
 - [[Automated Dependency Updates]]
 - [[Build Matrix]]

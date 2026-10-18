@@ -19,7 +19,7 @@ The practical upshot is that solving a slowdown requires diagnosing which one is
 - [[Actor Model]]
 - [[Software Transactional Memory]]
 - [[Memory Model]]
-- [[CPU Scheduler]]
+- [[Moore's Law]]
 - [[Deadlock]]
 - [[Coroutine]]
 - [[Graphics Processing Unit]]

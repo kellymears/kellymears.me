@@ -26,7 +26,7 @@ Practical verification therefore sits on a spectrum with testing. [[Static Analy
 
 ## See also
 - [[Gödel's Incompleteness Theorems]]
-- [[Model-Based Testing]]
+- [[Boolean Satisfiability Problem]]
 - [[Verification and Validation]]
 - [[Runtime Verification]]
 - [[Linearizability Checking]]

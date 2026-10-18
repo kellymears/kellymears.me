@@ -33,3 +33,4 @@ Lists have hazards. A cycle, where a node points back to an earlier one, turns a
 - [[Binary Heap]]
 - [[Call Stack]]
 - [[Skip List]]
+- [[Lisp]]

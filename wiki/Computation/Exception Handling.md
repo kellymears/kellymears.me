@@ -35,5 +35,5 @@ A related trap is returning [[Null]] to signal failure, which defers the error t
 ## See also
 - [[Crash Reporting]]
 - [[Coroutine]]
-- [[Design by Contract]]
+- [[Structured Programming]]
 - [[Continuation]]

@@ -30,3 +30,4 @@ WFC has clear limits. It enforces only local rules, so it can't guarantee that a
 - [[Tile Map]]
 - [[Backtracking]]
 - [[Graph Coloring]]
+- [[Boolean Satisfiability Problem]]

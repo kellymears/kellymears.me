@@ -35,3 +35,4 @@ The idea extends beyond algorithms. Spatial structures such as the [[Bounding Vo
 ## See also
 - [[Greedy Algorithm]]
 - [[Backtracking]]
+- [[Quantum Computing]]

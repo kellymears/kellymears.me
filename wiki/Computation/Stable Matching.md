@@ -35,3 +35,4 @@ Stable matching sits beside other assignment problems in computing. Allocating r
 - [[Network Effect]]
 - [[Goodhart's Law]]
 - [[Backtracking]]
+- [[Linear Programming]]

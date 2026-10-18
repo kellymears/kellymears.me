@@ -15,7 +15,7 @@ Two practical cautions. A hash covers exactly what was fed into it — including
 And a hash used to derive a value from a small space — a port number, a bucket index — collides regularly. Hashing does not eliminate collisions; it only makes them uniform.
 
 ## See also
-- [[Determinism]]
+- [[String-Searching Algorithm]]
 - [[Error-Correcting Code]]
 - [[Cache Invalidation]]
 - [[Version Control]]

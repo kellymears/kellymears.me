@@ -17,7 +17,7 @@ It's the flip side of [[Rate Limiting]]: rate limiting is a hard external cap a 
 - [[Queueing Theory]]
 - [[Ring Buffer]]
 - [[Streaming Response]]
-- [[Latency and Jitter]]
+- [[Semaphore]]
 - [[Message Queue]]
 - [[Load Testing]]
 - [[Connection Pool]]

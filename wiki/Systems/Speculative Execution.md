@@ -24,7 +24,7 @@ Two families were announced together:
 Variants have kept appearing, many involving [[Simultaneous Multithreading]], where two threads share a core's internals. The lesson is structural: performance features that share hardware state between security domains leak information through timing, so isolation has to cover microarchitectural state, not just memory permissions. [[Hypervisor]] vendors and cloud providers now treat it that way.
 
 ## See also
-- [[Microcode]]
+- [[Moore's Law]]
 - [[Cross-Origin Isolation]]
 - [[Address Space Layout Randomization]]
 - [[Virtual Memory]]

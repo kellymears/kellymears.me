@@ -24,6 +24,6 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Halting Problem]]
 - [[Linker]]
 - [[Sanitizer]]
-- [[Abstract Syntax Tree]]
+- [[Von Neumann Architecture]]
 - [[WebAssembly]]
 - [[Dynamic Dispatch]]

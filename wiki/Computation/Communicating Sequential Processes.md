@@ -31,3 +31,4 @@ Lightweight implementations are what made the model widespread. Goroutines are a
 - [[Event Loop]]
 - [[Message Queue]]
 - [[Lambda Calculus]]
+- [[Semaphore]]

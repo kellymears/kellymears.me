@@ -28,3 +28,4 @@ Related patterns appear in personal life: a faster commute often leads to living
 - [[Cobra Effect]]
 - [[Baumol's Cost Disease]]
 - [[Network Effect]]
+- [[Moore's Law]]

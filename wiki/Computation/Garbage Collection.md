@@ -17,7 +17,7 @@ Rust is the notable outlier: it reclaims memory deterministically via ownership 
 ## See also
 - [[Compiler]]
 - [[Immutability]]
-- [[Process]]
+- [[Lisp]]
 - [[Closure]]
 - [[Memory Leak]]
 - [[Graph Traversal]]

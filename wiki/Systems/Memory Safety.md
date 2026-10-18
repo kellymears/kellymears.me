@@ -31,3 +31,4 @@ The most effective strategy so far has been writing *new* code in memory-safe la
 - [[Sanitizer]]
 - [[Integer Overflow]]
 - [[Abstract Interpretation]]
+- [[Von Neumann Architecture]]

@@ -28,4 +28,4 @@ Turing completeness also underlies [[Emulation]]: any complete system can, given
 ## See also
 - [[Gödel's Incompleteness Theorems]]
 - [[Context-Free Grammar]]
-- [[Interpreter]]
+- [[Quantum Computing]]

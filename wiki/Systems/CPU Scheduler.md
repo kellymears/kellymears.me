@@ -30,7 +30,7 @@ The general principle is the one behind every [[Event Loop]]: whoever holds the 
 - [[Simultaneous Multithreading]]
 - [[Resource Starvation]]
 - [[Pressure Stall Information]]
-- [[Race Condition]]
+- [[Semaphore]]
 - [[Real-Time Operating System]]
 - [[Dynamic Voltage and Frequency Scaling]]
 - [[Kernel]]

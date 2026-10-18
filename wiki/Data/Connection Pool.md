@@ -25,7 +25,7 @@ The pattern is general: thread pools, HTTP keep-alive, and object pools in games
 - [[Timeout]]
 - [[Row-Level Security]]
 - [[Serverless Computing]]
-- [[Relational Database]]
+- [[Semaphore]]
 - [[N+1 Query Problem]]
 - [[Circuit Breaker]]
 - [[Rate Limiting]]

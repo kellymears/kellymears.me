@@ -29,7 +29,7 @@ It belongs to a family of *metaheuristics*, general search strategies that inclu
 
 ## See also
 - [[Satisficing]]
-- [[Nucleation]]
-- [[Monte Carlo Method]]
+- [[Linear Programming]]
+- [[Quantum Computing]]
 - [[Traveling Salesman Problem]]
 - [[Multi-Armed Bandit]]

@@ -29,4 +29,4 @@ The weak point is binding a public key to an identity. A public key proves only 
 - [[Man-in-the-Middle Attack]]
 - [[Trusted Platform Module]]
 - [[Secrets Management]]
-- [[P versus NP Problem]]
+- [[Quantum Computing]]

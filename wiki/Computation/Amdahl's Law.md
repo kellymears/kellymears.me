@@ -27,6 +27,6 @@ The law connects to [[Concurrency and Parallelism]] more broadly. Choosing algor
 
 ## See also
 - [[Theory of Constraints]]
-- [[Lock-Free Data Structure]]
+- [[Moore's Law]]
 - [[Monte Carlo Method]]
 - [[Baumol's Cost Disease]]

@@ -24,3 +24,4 @@ An interpreter also changes where errors surface: a type or name error in a bran
 - [[Dynamic Dispatch]]
 - [[Just-in-Time Compilation]]
 - [[Shebang]]
+- [[Von Neumann Architecture]]

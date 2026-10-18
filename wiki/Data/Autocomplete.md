@@ -27,6 +27,6 @@ Autocomplete also shapes behavior. Suggestions steer people toward popular queri
 
 ## See also
 - [[Form Design]]
-- [[Information Architecture]]
+- [[String-Searching Algorithm]]
 - [[Search Engine Optimization]]
 - [[Recognition Rather Than Recall]]

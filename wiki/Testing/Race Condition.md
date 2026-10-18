@@ -17,7 +17,7 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Flaky Test]]
 - [[Multi-Agent Orchestration]]
 - [[Git Worktree]]
-- [[Determinism]]
+- [[Semaphore]]
 - [[Memory Model]]
 - [[Reproducible Case]]
 - [[Fan-Out and Fan-In]]

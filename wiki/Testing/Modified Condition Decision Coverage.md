@@ -33,3 +33,4 @@ Outside aviation and automotive safety standards it's rare, but its idea is usef
 - [[Cyclomatic Complexity]]
 - [[Coverage Gate]]
 - [[Safety Case]]
+- [[Boolean Algebra]]

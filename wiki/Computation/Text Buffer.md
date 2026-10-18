@@ -27,6 +27,6 @@ The choice reflects a trade-off seen throughout data structure design: a simple 
 A [[Ring Buffer]], by contrast, solves a narrower problem: a fixed-size queue for streaming data, such as terminal scrollback, where old lines simply fall off.
 
 ## See also
-- [[Immutability]]
+- [[String-Searching Algorithm]]
 - [[Trie]]
 - [[Edit Distance]]

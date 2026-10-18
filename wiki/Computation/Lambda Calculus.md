@@ -31,6 +31,6 @@ The order in which reductions happen matters. Evaluating arguments only when nee
 
 ## See also
 - [[Continuation]]
-- [[Dependent Types]]
+- [[Lisp]]
 - [[Gödel's Incompleteness Theorems]]
 - [[Monad]]

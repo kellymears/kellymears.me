@@ -28,4 +28,4 @@ In everyday code, invariants are useful even unproven. Writing one as a comment 
 
 ## See also
 - [[Static Analysis]]
-- [[Code Review]]
+- [[Structured Programming]]

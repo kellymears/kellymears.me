@@ -27,7 +27,7 @@ Computer science distinguishes two kinds of **randomized algorithm**. A *Monte C
 Results are only as good as the randomness and the model. A weak [[Pseudorandom Number Generator]] can bias results, and a simulation of the wrong model produces precise-looking nonsense. Variance reduction techniques, such as importance sampling, focus samples where they matter and can cut the required work dramatically.
 
 ## See also
-- [[Information Theory]]
+- [[Quantum Computing]]
 - [[Fault Tree Analysis]]
 - [[Rendering Equation]]
 - [[Gambler's Fallacy]]

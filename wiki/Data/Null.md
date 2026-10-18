@@ -37,4 +37,4 @@ Nulls deserve the same edge-case attention as zero and empty strings in [[Bounda
 - [[Defensive Programming]]
 - [[CSV]]
 - [[Typestate]]
-- [[Data Cleaning]]
+- [[Boolean Algebra]]

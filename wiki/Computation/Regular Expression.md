@@ -22,3 +22,4 @@ What most programming languages call "regex" (PCRE and its descendants: Perl's, 
 - [[Denial-of-Service Attack]]
 - [[Backtracking]]
 - [[Context-Free Grammar]]
+- [[String-Searching Algorithm]]

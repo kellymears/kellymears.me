@@ -31,6 +31,6 @@ Coroutines also underpin streaming. A generator that yields chunks as they're pr
 - [[Communicating Sequential Processes]]
 - [[Promise]]
 - [[Continuation]]
-- [[Call Stack]]
+- [[Structured Programming]]
 - [[Context Switch]]
 - [[Fetch API]]

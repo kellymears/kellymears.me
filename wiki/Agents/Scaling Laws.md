@@ -36,3 +36,4 @@ As gains from pretraining slowed, attention turned to a second axis: spending mo
 - [[Gradient Descent]]
 - [[Perplexity]]
 - [[Expert System]]
+- [[Moore's Law]]

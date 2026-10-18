@@ -28,5 +28,5 @@ Programs don't call the GPU directly. They record commands through a graphics AP
 The work a GPU does each frame is a pipeline: transform vertices of a [[Polygon Mesh]] with [[Perspective Projection]], rasterize triangles, apply [[Texture Mapping]] and lighting in shaders, then run [[Post-Processing]]. High-end cards now draw 450 watts or more under load, so cooling and [[Thermal Throttling]] shape their sustained performance as much as their specifications do.
 
 ## See also
-- [[Neural Network]]
+- [[Moore's Law]]
 - [[Graphics API]]

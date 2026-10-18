@@ -15,7 +15,7 @@ Recursion is the natural fit for anything with a recursive shape in the data its
 
 ## See also
 - [[Common Table Expression]]
-- [[Memoization]]
+- [[Lisp]]
 - [[Dependent Types]]
 - [[Trie]]
 - [[Finite State Machine]]

@@ -22,3 +22,4 @@ The general workaround where TCO isn't guaranteed is manual: rewrite the recursi
 - [[Closure]]
 - [[Call Stack]]
 - [[Continuation]]
+- [[Structured Programming]]
