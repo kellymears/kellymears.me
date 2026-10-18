@@ -27,3 +27,4 @@ Leaders shape safety most, by admitting their own uncertainty, asking for input,
 - [[Self-Determination Theory]]
 - [[Bus Factor]]
 - [[Choking Under Pressure]]
+- [[Transactive Memory]]

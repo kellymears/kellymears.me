@@ -35,5 +35,5 @@ Dyslexia often co-occurs with [[ADHD]] and with dyscalculia, a related difficult
 ## See also
 - [[Eye Tracking]]
 - [[Inner Speech]]
-- [[Spaced Repetition]]
+- [[Dyscalculia]]
 - [[Kerning]]

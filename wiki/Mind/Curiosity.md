@@ -29,7 +29,7 @@ Curiosity varies between people. *Need for cognition*, the enjoyment of effortfu
 
 ## See also
 - [[Awe]]
-- [[Rabbit Hole]]
+- [[Insight]]
 - [[Self-Determination Theory]]
 - [[Desirable Difficulty]]
 - [[Boredom]]

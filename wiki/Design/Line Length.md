@@ -30,7 +30,7 @@ Good line length is one of the cheapest improvements to readability, and it supp
 - [[Dyslexia]]
 - [[Golden Ratio]]
 - [[Text Truncation]]
-- [[Accessibility]]
+- [[Speed Reading]]
 - [[Banner Blindness]]
 - [[Pseudolocalization]]
 - [[Typeface]]

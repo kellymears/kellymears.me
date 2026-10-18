@@ -30,7 +30,7 @@ A striking item in the middle can escape the slump, which is the [[Von Restorff 
 
 ## See also
 - [[Working Memory]]
-- [[Von Restorff Effect]]
+- [[Episodic Memory]]
 - [[Peak-End Rule]]
 - [[Spaced Repetition]]
 - [[Context Rot]]

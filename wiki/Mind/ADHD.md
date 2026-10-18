@@ -33,4 +33,4 @@ Because it is invisible and inconsistent, ADHD is often mistaken for a character
 
 ## See also
 - [[Dyslexia]]
-- [[Vigilance Decrement]]
+- [[Dyscalculia]]

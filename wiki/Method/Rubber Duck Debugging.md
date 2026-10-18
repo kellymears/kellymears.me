@@ -15,7 +15,7 @@ The mechanism is not the duck. It is that ordinary thinking skips steps the way 
 The technique's real relative is not conversation but writing: forcing a problem into a [[Reproducible Case]] — the smallest input that reliably triggers the fault, stated precisely enough for someone else to run it — does the same work as the duck and keeps the result. A [[Code Review]] gets a milder version of the same benefit for free, since writing the explanation a reviewer will need often finds the bug before the reviewer reads a line.
 
 ## See also
-- [[Falsifiability]]
+- [[Insight]]
 - [[Loop Invariant]]
 - [[Functional Fixedness]]
 - [[Yak Shaving]]

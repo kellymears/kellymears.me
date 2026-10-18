@@ -28,7 +28,7 @@ It still offers a useful lesson about memory: it is not a passive recording but 
 
 ## See also
 - [[Spaced Repetition]]
-- [[Von Restorff Effect]]
+- [[Episodic Memory]]
 - [[Context-Dependent Memory]]
 - [[Working Memory]]
 - [[Aphantasia]]

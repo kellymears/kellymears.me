@@ -17,7 +17,7 @@ Gestalt grouping is the perceptual substrate that a [[Design System]]'s spacing 
 
 ## See also
 - [[Bauhaus]]
-- [[Grid System]]
+- [[Insight]]
 - [[Typographic Scale]]
 - [[Affordance]]
 

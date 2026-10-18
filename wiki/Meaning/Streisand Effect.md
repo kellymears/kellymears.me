@@ -19,3 +19,4 @@ It is not a universal law — plenty of suppression works exactly as intended, q
 - [[Brandolini's Law]]
 - [[Cobra Effect]]
 - [[Internet Censorship]]
+- [[Psychological Reactance]]

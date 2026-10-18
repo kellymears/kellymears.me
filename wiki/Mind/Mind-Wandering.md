@@ -32,6 +32,6 @@ People with [[ADHD]] report more frequent and less controllable mind-wandering, 
 Several practices reduce unwanted wandering. Meditation trains noticing the drift and returning, which is less about stopping thought than about catching it sooner; see [[Mindfulness]]. Reducing interruptions and closing loose ends also helps, since unfinished business keeps pulling at attention; see [[Attention Residue]].
 
 ## See also
-- [[Flow]]
+- [[Insight]]
 - [[Inner Speech]]
 - [[Selective Attention]]

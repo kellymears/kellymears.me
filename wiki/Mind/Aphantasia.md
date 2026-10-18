@@ -31,3 +31,4 @@ Inner experience varies along many such dimensions. Some people have little [[In
 - [[Neurodiversity]]
 - [[Method of Loci]]
 - [[Prosopagnosia]]
+- [[Dreaming]]

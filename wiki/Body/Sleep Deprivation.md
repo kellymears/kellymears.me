@@ -31,4 +31,4 @@ A small number of people carry gene variants that let them function well on abou
 ## See also
 - [[Segmented Sleep]]
 - [[Sleep Paralysis]]
-- [[Decision Fatigue]]
+- [[Burnout]]

@@ -36,3 +36,4 @@ It fits with other findings about judgment: [[Anchoring Effect]] shows that refe
 - [[Planning Fallacy]]
 - [[Variable-Ratio Reinforcement]]
 - [[Hyperbolic Discounting]]
+- [[Affective Forecasting]]

@@ -30,3 +30,4 @@ The practical implications concern fast information. Alerts that arrive just aft
 - [[Cognitive Load]]
 - [[Attention Residue]]
 - [[Preattentive Processing]]
+- [[Speed Reading]]

@@ -29,7 +29,7 @@ Some classic findings have replicated less cleanly than textbooks suggest, but t
 - [[Confirmation Bias]]
 - [[Choice Blindness]]
 - [[Groupthink]]
-- [[Motte and Bailey]]
+- [[Psychological Reactance]]
 - [[Ludonarrative Dissonance]]
 - [[Fundamental Attribution Error]]
 - [[Cognitive Behavioral Therapy]]

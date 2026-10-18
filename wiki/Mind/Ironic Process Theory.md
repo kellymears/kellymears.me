@@ -33,3 +33,4 @@ The research has some limits. Rebound effects vary in size across studies, and a
 - [[Dual Process Theory]]
 - [[Implementation Intention]]
 - [[Itch]]
+- [[Psychological Reactance]]

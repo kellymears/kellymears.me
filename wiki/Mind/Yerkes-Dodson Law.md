@@ -27,4 +27,4 @@ The practical lesson is to adjust stimulation to the task rather than maximize f
 - [[Boredom]]
 - [[Window of Tolerance]]
 - [[Choking Under Pressure]]
-- [[Hyperfocus]]
+- [[Burnout]]

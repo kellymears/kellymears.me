@@ -15,7 +15,7 @@ Where duplication cannot be removed, it can be *checked*. A rule requiring every
 Rot also afflicts prose *inside* source files. A docblock is only attached to a declaration by adjacency, so inserting anything above it silently reassigns it to the wrong neighbor — see [[Code Comment]].
 
 ## See also
-- [[Code Comment]]
+- [[Transactive Memory]]
 - [[Deprecation]]
 - [[Technical Debt]]
 - [[Provenance]]

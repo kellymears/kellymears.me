@@ -30,7 +30,7 @@ The needs map onto other ideas in this collection. Competence and absorption mee
 
 ## See also
 - [[Gamification]]
-- [[Bartle Taxonomy]]
+- [[Psychological Reactance]]
 - [[Cozy Game]]
 - [[Locus of Control]]
 - [[Self-Efficacy]]

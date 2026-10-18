@@ -14,7 +14,7 @@ That reframing points to what actually raises the number. Writing things down is
 
 ## See also
 - [[Benevolent Dictator for Life]]
-- [[Git Blame]]
+- [[Transactive Memory]]
 - [[The Cathedral and the Bazaar]]
 - [[Architecture Decision Record]]
 - [[Open Source Sustainability]]

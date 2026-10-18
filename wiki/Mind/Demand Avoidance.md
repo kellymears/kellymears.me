@@ -30,3 +30,4 @@ The supportive approach is the opposite of firm boundaries and consequences, whi
 - [[Spoon Theory]]
 - [[Self-Determination Theory]]
 - [[Sensory Processing]]
+- [[Psychological Reactance]]

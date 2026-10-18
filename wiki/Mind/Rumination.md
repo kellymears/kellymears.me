@@ -37,5 +37,5 @@ Rumination is common in [[Rejection Sensitivity]], where a perceived slight is r
 - [[Inner Speech]]
 - [[Ironic Process Theory]]
 - [[Locus of Control]]
-- [[Negativity Bias]]
+- [[Affective Forecasting]]
 - [[Spotlight Effect]]

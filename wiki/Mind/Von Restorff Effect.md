@@ -32,3 +32,4 @@ The effect connects to broader ideas about memory and attention. Vivid, unusual 
 - [[Visual Hierarchy]]
 - [[Availability Heuristic]]
 - [[Preattentive Processing]]
+- [[Episodic Memory]]

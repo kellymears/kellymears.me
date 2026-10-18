@@ -28,7 +28,7 @@ The remedies all **externalize time**, turning an internal sense that doesn't wo
 ## See also
 - [[Prospective Memory]]
 - [[ADHD]]
-- [[Planning Fallacy]]
+- [[Dyscalculia]]
 - [[Progress Indicator]]
 - [[Chronotype]]
 - [[Body Doubling]]

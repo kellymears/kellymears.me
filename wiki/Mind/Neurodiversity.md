@@ -24,6 +24,6 @@ The concepts this domain collects, such as [[Executive Function]], [[Monotropism
 - [[Aphantasia]]
 - [[Fundamental Attribution Error]]
 - [[Legibility]]
-- [[Sensory Overload]]
+- [[Dyscalculia]]
 - [[Autistic Burnout]]
 - [[Demand Avoidance]]

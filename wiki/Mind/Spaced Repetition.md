@@ -24,7 +24,7 @@ Spaced repetition handles discrete facts best. Understanding comes from connecti
 - [[Memory Consolidation]]
 - [[Zettelkasten]]
 - [[Processing Fluency]]
-- [[Cognitive Load]]
+- [[Deliberate Practice]]
 - [[Agent Memory]]
 - [[Default Mode Network]]
 - [[Metacognition]]

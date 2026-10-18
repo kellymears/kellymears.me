@@ -22,6 +22,6 @@ The idea parallels training science. A training stress followed by recovery lead
 Neurodivergent accounts describe the same accumulation in everyday terms. Continuous [[Masking]], [[Sensory Overload]], and unpredictable environments impose stress that rarely switches off, and [[Autistic Burnout]] is often described as what happens when the load exceeds capacity. [[Spoon Theory]] is an informal way of budgeting the same finite reserve.
 
 ## See also
-- [[Homeostasis]]
+- [[Burnout]]
 - [[Autonomic Nervous System]]
 - [[Sleep Deprivation]]

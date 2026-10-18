@@ -30,7 +30,7 @@ The rule interacts with other memory effects. The [[Serial Position Effect]] als
 - [[Fresh Start Effect]]
 - [[Dual Process Theory]]
 - [[Hedonic Treadmill]]
-- [[Response Time Limits]]
+- [[Affective Forecasting]]
 - [[Aesthetic-Usability Effect]]
 - [[Progress Indicator]]
 - [[Negativity Bias]]

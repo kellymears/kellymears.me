@@ -24,7 +24,7 @@ In 2000 Karim Nader showed that **reconsolidation** reopens the process. Recalli
 Machine learning ran into the same problem. A neural network trained on a new task tends to overwrite what it knew, called *catastrophic forgetting*, a known hazard of [[Fine-Tuning]]. The complementary learning systems theory of 1995 argued that the brain avoids this by learning fast in the hippocampus and slowly in the cortex, interleaving old memories with new during replay. Reinforcement learning borrowed the idea as *experience replay*, revisiting stored past episodes while training.
 
 ## See also
-- [[Sleep Stages]]
+- [[Dreaming]]
 - [[Spaced Repetition]]
 - [[False Memory]]
 - [[Working Memory]]

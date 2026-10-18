@@ -29,6 +29,6 @@ Boredom may partly be the experience of the DMN without anything good to work on
 - [[Inner Speech]]
 - [[Mind-Wandering]]
 - [[Awe]]
-- [[Hyperfocus]]
+- [[Insight]]
 - [[Mindfulness]]
 - [[Attention Restoration Theory]]

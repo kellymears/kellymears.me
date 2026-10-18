@@ -26,7 +26,7 @@ Flow is not automatically good. It is indifferent to what it attaches to, and a 
 - [[Choking Under Pressure]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Mind-Wandering]]
-- [[Hedonic Treadmill]]
+- [[Deliberate Practice]]
 - [[Default Mode Network]]
 - [[Yerkes-Dodson Law]]
 - [[Response Time Limits]]

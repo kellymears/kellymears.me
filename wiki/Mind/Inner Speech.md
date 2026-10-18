@@ -33,3 +33,4 @@ At the far end, voices that seem to come from outside, as in some psychiatric co
 - [[Aphantasia]]
 - [[Self-Compassion]]
 - [[Embodied Cognition]]
+- [[Speed Reading]]

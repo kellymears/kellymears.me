@@ -28,6 +28,6 @@ It has costs too. Pairing is intense and tiring, and constant conversation is ha
 
 ## See also
 - [[Agile Software Development]]
-- [[Bus Factor]]
+- [[Transactive Memory]]
 - [[Test-Driven Development]]
 - [[Kanban]]

@@ -32,5 +32,5 @@ Self-compassion matters especially for people who spend much of their lives bein
 - [[Negativity Bias]]
 - [[Fresh Start Effect]]
 - [[Growth Mindset]]
-- [[Emotional Regulation]]
+- [[Burnout]]
 - [[Ironic Process Theory]]

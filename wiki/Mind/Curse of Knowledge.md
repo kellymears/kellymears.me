@@ -23,7 +23,7 @@ It shows up wherever experts write for others:
 Countermeasures are external, since effort alone doesn't cure it. Test explanations on real newcomers. Use concrete examples. Write in [[Plain Language]]. Explain aloud to an imaginary novice, as in [[Rubber Duck Debugging]]. The fresh eyes of someone new to a project are a scarce, temporary resource, and their confusion is the most useful feedback the documentation will get.
 
 ## See also
-- [[Metacognition]]
+- [[Transactive Memory]]
 - [[Theory of Mind]]
 - [[Expert Intuition]]
 - [[Functional Fixedness]]

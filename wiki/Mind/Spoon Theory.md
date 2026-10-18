@@ -22,7 +22,7 @@ It also changes how others read behavior. Cancelling plans or skipping something
 
 ## See also
 - [[Executive Function]]
-- [[Masking]]
+- [[Burnout]]
 - [[Sensory Processing]]
 - [[Cognitive Load]]
 - [[Just-World Hypothesis]]

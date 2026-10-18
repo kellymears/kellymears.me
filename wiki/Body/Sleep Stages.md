@@ -31,7 +31,7 @@ Consumer wearables estimate stages from movement and heart rate rather than brai
 ## See also
 - [[Sleep Deprivation]]
 - [[Sleep Paralysis]]
-- [[Segmented Sleep]]
+- [[Dreaming]]
 - [[Motor Learning]]
 - [[Spaced Repetition]]
 - [[Supercompensation]]

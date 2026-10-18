@@ -13,7 +13,7 @@ The mechanism is comparison, not memory loss: a person judges their situation ag
 The concept is often overstated into "money can't buy happiness," which the original research doesn't fully support — later work finds income continues to correlate with day-to-day emotional well-being past the plateau Kahneman and Deaton's 2010 study made famous — Killingsworth's 2021 data, and his subsequent adversarial collaboration with Kahneman, showed the plateau holds only for an unhappy minority — just at a shrinking rate per dollar. The treadmill is better read as a claim about the *shape* of adaptation than a claim that circumstances are irrelevant: some changes ([[Central Sensitization|chronic pain]], noise, a long commute) resist adaptation far more than others (a bigger house), which is exactly the kind of asymmetry that makes the concept useful for deciding what to actually optimize for.
 
 ## See also
-- [[Placebo Effect]]
+- [[Affective Forecasting]]
 - [[Learned Helplessness]]
 - [[Nostalgia]]
 - [[Doomscrolling]]

@@ -30,7 +30,7 @@ Choking also connects to [[Ironic Process Theory]]: telling yourself not to miss
 
 ## See also
 - [[Window of Tolerance]]
-- [[Metacognition]]
+- [[Dyscalculia]]
 - [[Desirable Difficulty]]
 - [[Rumination]]
 - [[Spotlight Effect]]

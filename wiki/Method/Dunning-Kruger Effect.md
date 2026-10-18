@@ -29,3 +29,4 @@ For engineers, the practical corollary is to distrust your own confidence exactl
 - [[Expert Intuition]]
 - [[Processing Fluency]]
 - [[Planning Fallacy]]
+- [[Deliberate Practice]]
