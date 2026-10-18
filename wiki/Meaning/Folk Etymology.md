@@ -21,3 +21,6 @@ The lesson generalizes past words. Visible internal structure is evidence about 
 - [[Prototype Theory]]
 - [[Ground Truth]]
 - [[Euphemism Treadmill]]
+- [[Semantic Change]]
+- [[Retronym]]
+- [[Creole Language]]

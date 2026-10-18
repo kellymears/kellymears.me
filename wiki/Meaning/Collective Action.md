@@ -20,7 +20,7 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 - [[Drafting]]
 
 ## Related
-- [[Naming]]
+- [[Creole Language]]
 - [[Markdown]]
 - [[Information Architecture]]
 - [[Taxonomy]]
@@ -29,3 +29,4 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 - [[Free Rider Problem]]
 - [[Prisoner's Dilemma]]
 - [[Pluralistic Ignorance]]
+- [[Strength of Weak Ties]]

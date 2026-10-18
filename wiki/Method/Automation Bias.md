@@ -18,7 +18,7 @@ Countermeasures concern ordering and visibility: give the basis and the confiden
 
 ## See also
 - [[Calibration]]
-- [[Silent Failure]]
+- [[Risk Compensation]]
 - [[Hallucination]]
 - [[Adversarial Review]]
 - [[Ground Truth]]

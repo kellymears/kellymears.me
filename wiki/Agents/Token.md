@@ -16,7 +16,7 @@ Because tokens are consumed by everything in the request — instructions, tool 
 
 ## See also
 - [[Stemming and Lemmatization]]
-- [[Token Budget]]
+- [[Jevons Paradox]]
 - [[Character Encoding]]
 - [[Prompt]]
 - [[Nondeterminism]]
@@ -27,5 +27,5 @@ Because tokens are consumed by everything in the request — instructions, tool 
 ## Related
 - [[Prompt Engineering]]
 - [[Structured Output]]
-- [[Data Compression]]
+- [[Zipf's Law]]
 - [[Byte-Pair Encoding]]

@@ -16,7 +16,7 @@ Psychology experiments use the effect both as a probe and as a tool. Reaction-ti
 - [[Mondegreen]]
 - [[Eggcorn]]
 - [[Collocation]]
-- [[Prototype Theory]]
+- [[Semantic Change]]
 - [[Habituation]]
 - [[Tip of the Tongue]]
 - [[Euphemism Treadmill]]

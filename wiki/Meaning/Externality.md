@@ -16,8 +16,8 @@ The genuinely hard part is measurement, not theory. Pricing a harm with no marke
 
 ## See also
 - [[Tragedy of the Commons]]
-- [[Collective Action]]
-- [[Principal-Agent Problem]]
+- [[Jevons Paradox]]
+- [[Baumol's Cost Disease]]
 - [[Rent-Seeking]]
 - [[Regulatory Capture]]
 - [[Universal Basic Income]]

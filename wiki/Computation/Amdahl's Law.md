@@ -29,3 +29,4 @@ The law connects to [[Concurrency and Parallelism]] more broadly. Choosing algor
 - [[Big-O Notation]]
 - [[Lock-Free Data Structure]]
 - [[Monte Carlo Method]]
+- [[Baumol's Cost Disease]]

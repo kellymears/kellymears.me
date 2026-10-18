@@ -33,7 +33,7 @@ Many odd model behaviors trace back to the tokenizer:
 The tokenizer is fixed before [[Pretraining]] and cannot easily change afterward, so its quirks live as long as the model. Some research models skip it entirely and read raw bytes, at the cost of longer sequences.
 
 ## See also
-- [[Token]]
+- [[Zipf's Law]]
 - [[Information Theory]]
 - [[Stemming and Lemmatization]]
 - [[Large Language Model]]

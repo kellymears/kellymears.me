@@ -16,7 +16,7 @@ The pattern is at its best where the value is in the connection rather than in s
 ## See also
 - [[WebRTC]]
 - [[Signaling Server]]
-- [[Conflict-Free Replicated Data Type]]
+- [[Strength of Weak Ties]]
 - [[Eventual Consistency]]
 - [[Gossip Protocol]]
 

@@ -24,3 +24,5 @@ The concept is often overstated into "money can't buy happiness," which the orig
 - [[Loss Aversion]]
 - [[Negativity Bias]]
 - [[Power Creep]]
+- [[Veblen Good]]
+- [[Jevons Paradox]]

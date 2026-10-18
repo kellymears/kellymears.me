@@ -16,8 +16,8 @@ Network effects are often confused with switching costs, and the two are related
 
 ## See also
 - [[Regulatory Capture]]
-- [[Peer-to-Peer]]
-- [[Taxonomy]]
+- [[Strength of Weak Ties]]
+- [[Small-World Network]]
 - [[Legibility]]
 - [[Internet Exchange Point]]
 - [[Stable Matching]]

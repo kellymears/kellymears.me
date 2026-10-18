@@ -19,3 +19,4 @@ Whether the surviving classes shape thought beyond grammar is contested, and the
 - [[Collocation]]
 - [[Folk Etymology]]
 - [[Code-Switching]]
+- [[Creole Language]]

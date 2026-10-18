@@ -16,7 +16,7 @@ Version numbering is how deprecations are communicated at the package boundary; 
 ## See also
 - [[Documentation Rot]]
 - [[Backward Compatibility]]
-- [[Semantic Versioning]]
+- [[Retronym]]
 - [[Regression]]
 
 ## Related

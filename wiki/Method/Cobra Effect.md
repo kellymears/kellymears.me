@@ -32,3 +32,5 @@ It's also a caution against [[Chesterton's Fence]] in reverse: a new interventio
 - [[Streisand Effect]]
 - [[Normalization of Deviance]]
 - [[Moral hazard]]
+- [[Risk Compensation]]
+- [[Jevons Paradox]]

@@ -18,11 +18,11 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 ## See also
 - [[Plain Language]]
 - [[Taxonomy]]
-- [[Naming]]
+- [[Semantic Change]]
 
 ## Related
 - [[Information Architecture]]
-- [[Code Review]]
+- [[Creole Language]]
 - [[Code Comment]]
 - [[Hallucination]]
 - [[Emotional Granularity]]

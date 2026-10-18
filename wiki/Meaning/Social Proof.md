@@ -20,3 +20,5 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 - [[Spiral of Silence]]
 - [[Pluralistic Ignorance]]
 - [[Matthew Effect]]
+- [[Veblen Good]]
+- [[Strength of Weak Ties]]

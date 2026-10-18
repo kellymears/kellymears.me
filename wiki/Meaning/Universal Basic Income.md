@@ -21,3 +21,4 @@ The proposal also has an odd political signature: it draws praise across nearly 
 - [[Fermi Estimation]]
 - [[Externality]]
 - [[Free Rider Problem]]
+- [[Baumol's Cost Disease]]

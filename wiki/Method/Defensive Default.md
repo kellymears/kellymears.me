@@ -28,3 +28,4 @@ A related shape is the defensive *guard*: a null check protecting against a stat
 - [[Tesler's Law]]
 - [[Choice Architecture]]
 - [[Forcing Function]]
+- [[Risk Compensation]]

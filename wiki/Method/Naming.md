@@ -17,8 +17,8 @@ Test names are a special case: they should describe the scenario and the expecte
 
 ## See also
 - [[Refactoring]]
-- [[Design System]]
-- [[Taxonomy]]
+- [[Retronym]]
+- [[Semantic Change]]
 - [[Code Review]]
 - [[Documentation Rot]]
 - [[Chesterton's Fence]]

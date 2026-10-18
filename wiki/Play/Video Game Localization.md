@@ -18,7 +18,7 @@ The historical record includes outright alteration: religious and violent conten
 ## See also
 - [[Subtitling]]
 - [[Internationalization]]
-- [[Visual Novel]]
+- [[Creole Language]]
 - [[Wiki]]
 - [[Documentation Rot]]
 - [[Pseudolocalization]]

@@ -27,3 +27,4 @@ Because a subtitle file is plain text with stable indices, a change log keyed to
 - [[Assist Mode]]
 - [[Video Game Localization]]
 - [[Internationalization]]
+- [[Creole Language]]

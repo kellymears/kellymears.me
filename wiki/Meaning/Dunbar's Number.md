@@ -31,3 +31,4 @@ What survives is a modest but useful point: attention for relationships is finit
 - [[Context Collapse]]
 - [[Network Effect]]
 - [[Groupthink]]
+- [[Strength of Weak Ties]]

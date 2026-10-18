@@ -33,3 +33,4 @@ These failures appear only under real load and coupling. Deliberately injecting 
 ## See also
 - [[Backpressure]]
 - [[Tail Latency]]
+- [[Small-World Network]]

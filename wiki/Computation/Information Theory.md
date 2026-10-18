@@ -31,7 +31,7 @@ A related measure, *Kolmogorov complexity*, defines the information in a single 
 
 ## See also
 - [[Bandwidth]]
-- [[Hash Function]]
+- [[Zipf's Law]]
 - [[Bloom Filter]]
 - [[Byte-Pair Encoding]]
 - [[Perplexity]]

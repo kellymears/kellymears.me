@@ -27,10 +27,10 @@ Common uses:
 Gossip pairs naturally with data that merges cleanly. A [[Conflict-Free Replicated Data Type]] can be gossiped in any order and still converge. [[Logical Clock]] stamps such as vector clocks help nodes decide which version of a piece of gossip is newer. The protocol is the network version of how information moves through social groups, with the same weakness: a false rumor spreads just as efficiently as a true one, as with an [[Availability Cascade]].
 
 ## See also
-- [[Eventual Consistency]]
+- [[Small-World Network]]
 - [[Distributed Hash Table]]
 - [[Peer-to-Peer]]
-- [[Logical Clock]]
+- [[Strength of Weak Ties]]
 - [[Failure Detection]]
 - [[Mesh Network]]
 - [[Multicast]]

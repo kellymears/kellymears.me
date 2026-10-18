@@ -22,3 +22,4 @@ The empirical difficulty is real: licensing that exists to seek rent and licensi
 - [[Right to Repair]]
 - [[Enshittification]]
 - [[Matthew Effect]]
+- [[Baumol's Cost Disease]]

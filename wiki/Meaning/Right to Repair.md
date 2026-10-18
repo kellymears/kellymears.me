@@ -24,3 +24,4 @@ Legislative movement has been real: several jurisdictions now require manufactur
 - [[Principal-Agent Problem]]
 - [[Network Effect]]
 - [[Enshittification]]
+- [[Baumol's Cost Disease]]

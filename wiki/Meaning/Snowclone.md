@@ -17,6 +17,6 @@ It is deliberate where its cousins are accidents of production — nobody sets o
 - [[Malaphor]]
 - [[Eggcorn]]
 - [[Mondegreen]]
-- [[Folk Etymology]]
-- [[Constrained Decoding]]
+- [[Semantic Change]]
+- [[Retronym]]
 - [[Network Effect]]

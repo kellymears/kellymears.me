@@ -26,3 +26,4 @@ The phenomenon also matters for technology. Speech recognition and language mode
 - [[Euphemism Treadmill]]
 - [[Grammatical Gender]]
 - [[Theory of Mind]]
+- [[Creole Language]]

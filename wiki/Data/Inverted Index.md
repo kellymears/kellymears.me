@@ -32,7 +32,7 @@ Inverted indexes are optimized for reading. Posting lists are compressed and sto
 - [[Cosine Similarity]]
 - [[Web Crawler]]
 - [[Precision and Recall]]
-- [[Trie]]
+- [[Zipf's Law]]
 - [[Faceted Search]]
 - [[Reranking]]
 - [[Autocomplete]]

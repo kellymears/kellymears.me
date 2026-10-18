@@ -17,3 +17,4 @@ What makes the eggcorn worth naming separately is that it is evidence of reasoni
 - [[Mondegreen]]
 - [[Plausible Mechanism]]
 - [[Naming]]
+- [[Semantic Change]]

@@ -26,3 +26,4 @@ Skeuomorphism is the clearest historical case study for [[Affordance]] because i
 - [[Aesthetic-Usability Effect]]
 - [[Iconography]]
 - [[Signifier]]
+- [[Retronym]]

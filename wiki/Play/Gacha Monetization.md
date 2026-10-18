@@ -16,7 +16,7 @@ Disclosure rules followed. Japan banned "complete gacha" in 2012 under prize-lab
 
 ## See also
 - [[Magic Circle]]
-- [[Ludonarrative Dissonance]]
+- [[Veblen Good]]
 - [[Power Creep]]
 - [[Confidence Trick]]
 - [[Loss Aversion]]

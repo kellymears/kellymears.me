@@ -31,3 +31,4 @@ For autistic and other neurodivergent people, who may already work hard at readi
 - [[Kayfabe]]
 - [[Theory of Mind]]
 - [[Shibboleth]]
+- [[Strength of Weak Ties]]
