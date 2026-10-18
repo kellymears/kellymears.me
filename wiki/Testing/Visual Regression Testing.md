@@ -15,7 +15,7 @@ For pixel comparison the practical problems are all about determinism. Fonts mus
 Two traps recur. A static server that rewrites URLs can silently serve an error page for every capture, producing a baseline of identically-sized images that look fine in aggregate — check that file sizes vary. And a wrapper applied to some renders and not others produces an offset that fails everything for one reason.
 
 ## See also
-- [[Snapshot Testing]]
+- [[Cross-Browser Testing]]
 - [[Component Story]]
 - [[Headless Browser]]
 - [[Determinism]]

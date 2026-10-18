@@ -28,7 +28,7 @@ Platform rules also shape the field. On iOS, Apple required every browser to use
 Differences between engines are why developers rely on [[Progressive Enhancement]] and a [[Polyfill]] for missing features, and why compatibility tables are a standard reference.
 
 ## See also
-- [[World Wide Web]]
+- [[Cross-Browser Testing]]
 - [[Critical Rendering Path]]
 - [[Compositor]]
 - [[Browser Wars]]

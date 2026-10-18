@@ -33,6 +33,6 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 - [[Bitwise Operation]]
 - [[Journaling File System]]
 - [[Byzantine Fault Tolerance]]
-- [[Information Theory]]
+- [[N-Version Programming]]
 - [[Solid-State Drive]]
 - [[RAID]]

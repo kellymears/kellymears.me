@@ -31,6 +31,6 @@ Teams practice before real outages. Game days and [[Chaos Engineering]] inject f
 ## See also
 - [[Psychological Safety]]
 - [[Mean Time to Recovery]]
-- [[Checklist]]
+- [[Failure Mode and Effects Analysis]]
 - [[Git Revert]]
 - [[Site Reliability Engineering]]

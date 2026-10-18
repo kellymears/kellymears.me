@@ -28,7 +28,7 @@ Results are only as good as the randomness and the model. A weak [[Pseudorandom 
 
 ## See also
 - [[Information Theory]]
-- [[Floating-Point Arithmetic]]
+- [[Fault Tree Analysis]]
 - [[Rendering Equation]]
 - [[Gambler's Fallacy]]
 - [[Radioactive Decay]]

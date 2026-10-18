@@ -24,4 +24,4 @@ The problem has become central to systems built on language models, whose output
 
 ## See also
 - [[Model-Based Testing]]
-- [[Reward Hacking]]
+- [[N-Version Programming]]

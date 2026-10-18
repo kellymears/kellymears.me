@@ -32,7 +32,7 @@ Quorum ideas reach beyond databases. A [[Gossip Protocol]] may require several i
 
 ## See also
 - [[Wide-Column Store]]
-- [[Network Partition]]
+- [[N-Version Programming]]
 - [[Database Replication]]
 - [[CAP Theorem]]
 - [[Byzantine Fault Tolerance]]

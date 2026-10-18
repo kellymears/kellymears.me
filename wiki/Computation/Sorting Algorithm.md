@@ -30,5 +30,5 @@ Sorting at scale shapes databases too. A [[B-Tree]] keeps data sorted as it chan
 - [[Divide and Conquer]]
 - [[Internationalization]]
 - [[Recursion]]
-- [[Topological Sort]]
+- [[Loop Invariant]]
 - [[Binary Heap]]

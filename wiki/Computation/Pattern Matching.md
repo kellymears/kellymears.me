@@ -21,3 +21,4 @@ The failure mode is a match that looks exhaustive but isn't, in a language witho
 - [[Algebraic Data Type]]
 - [[Null]]
 - [[Dynamic Dispatch]]
+- [[Dependent Types]]

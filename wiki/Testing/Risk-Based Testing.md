@@ -27,5 +27,5 @@ The weakness is that risk assessment is a judgment, and judgments carry bias. Te
 ## See also
 - [[Test Pyramid]]
 - [[Pairwise Testing]]
-- [[Chaos Engineering]]
+- [[Failure Mode and Effects Analysis]]
 - [[Premature Optimization]]

@@ -13,7 +13,7 @@ The practical cost is why mutation testing isn't run on every commit the way cov
 
 ## See also
 - [[Pesticide Paradox]]
-- [[Branch Coverage]]
+- [[Spectrum-Based Fault Localization]]
 - [[Coverage Gate]]
 - [[Unit Test]]
 - [[Fuzzing]]

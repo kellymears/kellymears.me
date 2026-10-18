@@ -32,6 +32,6 @@ Some bugs resist the method. A [[Heisenbug]] changes when observed, and a [[Flak
 The method ends with understanding, not with a passing test. A fix that makes the symptom disappear without explaining the cause may mask the problem, and the same root issue returns elsewhere. Asking why once more, as in the [[Five Whys]], and writing a regression test that captures the cause, makes the fix stick. [[Occam's Razor]] helps choose which hypothesis to test first: the simple explanation is usually right.
 
 ## See also
-- [[Root Cause Analysis]]
+- [[Spectrum-Based Fault Localization]]
 - [[Test Oracle]]
 - [[Regression Testing]]

@@ -17,7 +17,7 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Instruction Set Architecture]]
 - [[Type Inference]]
 - [[Ownership and Borrowing]]
-- [[Garbage Collection]]
+- [[Abstract Interpretation]]
 - [[Context-Free Grammar]]
 - [[Just-in-Time Compilation]]
 - [[Graph Coloring]]

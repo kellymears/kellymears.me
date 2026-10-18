@@ -25,7 +25,7 @@ Undecidability applies to the general case. For restricted models, such as a [[F
 
 ## See also
 - [[Kolmogorov Complexity]]
-- [[Lambda Calculus]]
+- [[Abstract Interpretation]]
 - [[Recursion]]
 - [[Compiler]]
 - [[Symbolic Execution]]

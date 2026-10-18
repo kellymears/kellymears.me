@@ -33,3 +33,4 @@ The idea spreads beyond Rust. Swift, C++, and newer research languages have adde
 - [[Lock-Free Data Structure]]
 - [[Least Privilege]]
 - [[Memory Safety]]
+- [[Typestate]]

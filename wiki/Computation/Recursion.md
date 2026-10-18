@@ -16,7 +16,7 @@ Recursion is the natural fit for anything with a recursive shape in the data its
 ## See also
 - [[Common Table Expression]]
 - [[Memoization]]
-- [[Dynamic Programming]]
+- [[Dependent Types]]
 - [[Trie]]
 - [[Finite State Machine]]
 - [[Lambda Calculus]]

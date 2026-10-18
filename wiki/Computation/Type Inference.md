@@ -25,3 +25,5 @@ The trade-off inference introduces is an error message pointing to where a const
 - [[TypeScript]]
 - [[Type System]]
 - [[Generics]]
+- [[Abstract Interpretation]]
+- [[Dependent Types]]

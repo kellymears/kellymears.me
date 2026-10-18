@@ -27,4 +27,4 @@ In engineering, the burden falls on the proposal for change: the person who want
 ## See also
 - [[Occam's Razor]]
 - [[Steelmanning]]
-- [[Replication Crisis]]
+- [[Safety Case]]

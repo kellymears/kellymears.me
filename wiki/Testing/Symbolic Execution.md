@@ -29,3 +29,4 @@ Symbolic execution sits between [[Fuzzing]], which is fast and shallow and strug
 - [[Halting Problem]]
 - [[Backtracking]]
 - [[Black-Box and White-Box Testing]]
+- [[Abstract Interpretation]]

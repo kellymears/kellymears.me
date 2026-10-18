@@ -31,4 +31,4 @@ These techniques make [[Unit Test]] design systematic rather than ad hoc, and th
 - [[Parameterized Test]]
 - [[Decision Table Testing]]
 - [[Black-Box and White-Box Testing]]
-- [[Null]]
+- [[Loop Invariant]]

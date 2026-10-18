@@ -18,7 +18,7 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Simpson's Paradox]]
 - [[Base Rate Fallacy]]
 - [[Berkson's Paradox]]
-- [[Falsifiability]]
+- [[Spectrum-Based Fault Localization]]
 - [[P-Hacking]]
 - [[AB Testing]]
 

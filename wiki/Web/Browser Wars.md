@@ -23,3 +23,4 @@ Interoperability has improved: browser makers now jointly pick problem areas eac
 - [[World Wide Web]]
 - [[Polyfill]]
 - [[Enshittification]]
+- [[Cross-Browser Testing]]

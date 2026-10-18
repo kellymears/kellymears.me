@@ -17,7 +17,7 @@ The same instinct applies one level up. When a fix introduces a [[Regression]], 
 - [[Falsifiability]]
 - [[Reproducible Case]]
 - [[Confounding]]
-- [[Plausible Mechanism]]
+- [[Failure Mode and Effects Analysis]]
 - [[Data Lineage]]
 - [[Hindsight Bias]]
 - [[Normalization of Deviance]]

@@ -19,7 +19,7 @@ Three practical notes recur.
 **Fewer breakpoints is usually better.** Maintaining the same spatial arrangement across sizes, where it works, removes a whole dimension from everyone's mental model.
 
 ## See also
-- [[Container Query]]
+- [[Cross-Browser Testing]]
 - [[Component Story]]
 - [[Headless Browser]]
 - [[Visual Regression Testing]]

@@ -24,7 +24,7 @@ Two limits are worth knowing in advance. Synthetic events are not real user inpu
 - [[End-to-End Test]]
 
 ## Related
-- [[Unit Test]]
+- [[Cross-Browser Testing]]
 - [[Test Fixture]]
 - [[Focus Management]]
 - [[Test Double]]

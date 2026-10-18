@@ -26,3 +26,4 @@ The failure mode of *not* modeling something explicitly as a state machine is sc
 - [[Coroutine]]
 - [[Model-Based Testing]]
 - [[Context-Free Grammar]]
+- [[Typestate]]

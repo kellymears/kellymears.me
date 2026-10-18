@@ -31,7 +31,7 @@ Delta debugging shows up under several names:
 The payoff is the same one a [[Reproducible Case]] provides by hand. A minimal failing input points almost directly at the cause, and it makes a good regression test, since it is small, fast, and clearly about one thing.
 
 ## See also
-- [[Reproducible Case]]
+- [[Spectrum-Based Fault Localization]]
 - [[Property-Based Testing]]
 - [[Fuzzing]]
 - [[Git Bisect]]

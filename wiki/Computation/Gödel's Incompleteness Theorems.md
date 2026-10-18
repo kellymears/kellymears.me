@@ -31,3 +31,4 @@ They are also frequently misapplied. Claims that incompleteness proves minds are
 - [[P versus NP Problem]]
 - [[Type System]]
 - [[Falsifiability]]
+- [[Dependent Types]]

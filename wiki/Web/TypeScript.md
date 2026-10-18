@@ -29,7 +29,7 @@ The build step usually belongs to the [[Bundler]] or a fast transpiler that stri
 ## See also
 - [[Duck Typing]]
 - [[Type Inference]]
-- [[Algebraic Data Type]]
+- [[Dependent Types]]
 - [[Polyfill]]
 - [[Type System]]
 - [[Generics]]

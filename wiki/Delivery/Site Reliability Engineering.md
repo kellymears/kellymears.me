@@ -29,5 +29,5 @@ SRE adopted badly becomes an operations team renamed. Without error budgets that
 
 ## See also
 - [[Platform Engineering]]
-- [[DevOps]]
+- [[Failure Mode and Effects Analysis]]
 - [[Configuration Drift]]

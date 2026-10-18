@@ -31,5 +31,5 @@ Defenses include using wide enough types, checked arithmetic that reports overfl
 - [[Bitwise Operation]]
 - [[Endianness]]
 - [[Decimal Arithmetic]]
-- [[Sanitizer]]
+- [[Abstract Interpretation]]
 - [[Memory Safety]]

@@ -20,7 +20,7 @@ It also disciplines prose. "This cast is required because the checker demands it
 - [[Coverage Gate]]
 - [[Statistical Significance]]
 - [[Exhaustive Claim]]
-- [[Replication Crisis]]
+- [[Safety Case]]
 
 ## Related
 - [[Glob]]

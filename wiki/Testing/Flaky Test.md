@@ -22,7 +22,7 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 - [[Build Matrix]]
 - [[Fake Clock]]
 - [[Pesticide Paradox]]
-- [[Reproducible Case]]
+- [[Spectrum-Based Fault Localization]]
 - [[Normalization of Deviance]]
 - [[Instrumentation]]
 - [[Regression]]

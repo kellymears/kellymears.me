@@ -32,6 +32,6 @@ A debugger answers "what is the state?" but not "what should it be?", and most d
 
 ## See also
 - [[Scientific Debugging]]
-- [[Call Stack]]
+- [[Spectrum-Based Fault Localization]]
 - [[Source Map]]
 - [[Core Dump]]

@@ -28,7 +28,7 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Five Whys]]
 - [[Psychological Safety]]
 - [[Sunk Cost Fallacy]]
-- [[Steelmanning]]
+- [[Failure Mode and Effects Analysis]]
 - [[Framing Effect]]
 - [[Pluralistic Ignorance]]
 - [[Cobra Effect]]

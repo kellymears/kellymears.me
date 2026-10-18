@@ -29,5 +29,5 @@ Ports are finite resources. A busy client making many short-lived connections ca
 - [[Remote Procedure Call]]
 - [[WebSocket]]
 - [[Firewall]]
-- [[Process]]
+- [[Typestate]]
 - [[Internet Relay Chat]]

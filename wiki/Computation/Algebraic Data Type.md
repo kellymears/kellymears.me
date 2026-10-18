@@ -31,7 +31,7 @@ Recursive sum types describe trees: an expression is a number, *or* a sum of two
 ## See also
 - [[Generics]]
 - [[Exception Handling]]
-- [[Type System]]
+- [[Typestate]]
 - [[Type Inference]]
 - [[Null]]
 - [[Dynamic Dispatch]]

@@ -37,4 +37,4 @@ Deadlocks, like a [[Race Condition]], depend on timing and are hard to reproduce
 - [[Software Transactional Memory]]
 - [[Communicating Sequential Processes]]
 - [[Memory Model]]
-- [[Lock-Free Data Structure]]
+- [[Typestate]]

@@ -26,7 +26,7 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 
 ## See also
 - [[Penetration Testing]]
-- [[Pre-mortem]]
+- [[Failure Mode and Effects Analysis]]
 - [[Load Testing]]
 - [[Risk-Based Testing]]
 - [[Failure Detection]]

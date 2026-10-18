@@ -15,7 +15,7 @@ The core guarantee any consensus algorithm provides is safety under partial fail
 
 ## See also
 - [[Linearizability Checking]]
-- [[Two-Phase Commit]]
+- [[N-Version Programming]]
 - [[CAP Theorem]]
 - [[Database Replication]]
 - [[Gossip Protocol]]

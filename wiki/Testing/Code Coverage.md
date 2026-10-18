@@ -26,6 +26,6 @@ Coverage also behaves oddly across multiple test environments measuring the same
 
 ## Related
 - [[Operationalization]]
-- [[Vacuous Truth]]
+- [[Spectrum-Based Fault Localization]]
 - [[Risk-Based Testing]]
 - [[Cyclomatic Complexity]]

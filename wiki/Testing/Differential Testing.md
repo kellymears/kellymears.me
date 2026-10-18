@@ -25,7 +25,7 @@ Random input generation, as in [[Fuzzing]], pairs naturally with it, since the c
 The main practical difficulty is noise. Implementations can legitimately differ: in floating-point rounding, in the order of results, in timestamps, in error message wording, and in behavior the specification leaves undefined. Every legitimate difference must be normalized away, or real bugs drown in false alarms. [[Nondeterminism]] makes it harder still. Characterizing the old system first, as in a [[Characterization Test]], helps separate intended differences from regressions.
 
 ## See also
-- [[Test Oracle]]
+- [[N-Version Programming]]
 - [[Fuzzing]]
 - [[Shadow Traffic]]
 - [[Golden File Testing]]

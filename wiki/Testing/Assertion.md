@@ -24,7 +24,7 @@ A related discipline: when a test is written after a fix, revert the fix and wat
 - [[Exception Handling]]
 - [[Test-Driven Development]]
 - [[LLM-as-Judge]]
-- [[Fail Fast]]
+- [[N-Version Programming]]
 - [[Nondeterminism]]
 - [[Design by Contract]]
 - [[Test Oracle]]
@@ -32,6 +32,6 @@ A related discipline: when a test is written after a fix, revert the fix and wat
 ## Related
 - [[Runtime Verification]]
 - [[Regression]]
-- [[Hallucination]]
+- [[Loop Invariant]]
 - [[Core Dump]]
 - [[Forcing Function]]

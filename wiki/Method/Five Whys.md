@@ -24,3 +24,4 @@ Five Whys works best as a prompt to keep asking, paired with a [[Blameless Postm
 - [[Hindsight Bias]]
 - [[Pre-mortem]]
 - [[Jobs to Be Done]]
+- [[Fault Tree Analysis]]

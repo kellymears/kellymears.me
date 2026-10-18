@@ -30,3 +30,4 @@ The most effective strategy so far has been writing *new* code in memory-safe la
 - [[Ownership and Borrowing]]
 - [[Sanitizer]]
 - [[Integer Overflow]]
+- [[Abstract Interpretation]]

@@ -20,7 +20,7 @@ The same discipline applies to humans reviewing machine output, and to the revie
 - [[LLM-as-Judge]]
 - [[Subagent]]
 - [[Multi-Agent Orchestration]]
-- [[Falsifiability]]
+- [[Fault Tree Analysis]]
 - [[Sycophancy]]
 
 ## Related

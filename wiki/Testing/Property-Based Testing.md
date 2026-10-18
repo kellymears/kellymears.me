@@ -20,7 +20,7 @@ The hard part is the one the technique's name is honest about: finding a propert
 - [[Pesticide Paradox]]
 - [[Exploratory Testing]]
 - [[Boundary Value Analysis]]
-- [[Test Oracle]]
+- [[Loop Invariant]]
 - [[Design by Contract]]
 - [[Delta Debugging]]
 - [[Pairwise Testing]]

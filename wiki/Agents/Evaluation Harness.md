@@ -20,7 +20,7 @@ Live evaluation costs money and time, which is why most harnesses replay; see [[
 - [[Nondeterminism]]
 - [[Prompt Engineering]]
 - [[Guardrail]]
-- [[Test Oracle]]
+- [[Safety Case]]
 - [[Reward Hacking]]
 - [[Sycophancy]]
 
