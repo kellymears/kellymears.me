@@ -22,3 +22,5 @@ Progressive disclosure is one of the load-bearing arguments for keeping a produc
 
 ## Related
 - [[Affordance]]
+- [[Empty State]]
+- [[Mental Model]]

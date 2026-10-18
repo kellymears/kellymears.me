@@ -21,3 +21,5 @@ Affordance is downstream of the same perceptual machinery [[Gestalt Principles]]
 
 ## Related
 - [[Fitts's Law]]
+- [[Mental Model]]
+- [[Touch Target Size]]

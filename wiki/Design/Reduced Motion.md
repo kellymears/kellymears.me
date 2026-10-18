@@ -30,3 +30,4 @@ Test environments frequently emulate the preference by default, which means ever
 - [[contenteditable]]
 - [[Stacking Context]]
 - [[Motion Blur]]
+- [[Skeleton Screen]]

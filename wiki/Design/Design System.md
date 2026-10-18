@@ -25,3 +25,5 @@ The maintenance question is not whether the system covers everything but whether
 
 ## Related
 - [[Plain Language]]
+- [[Empty State]]
+- [[Visual Hierarchy]]

@@ -24,3 +24,4 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Tail Latency]]
 - [[Head-of-Line Blocking]]
 - [[Fallacies of Distributed Computing]]
+- [[Response Time Limits]]

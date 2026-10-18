@@ -11,7 +11,7 @@ Common forms include images and iframes deferred until near the viewport (now a 
 
 Two hazards recur. **Deferral changes timing, and timing is observable.** A script that only loads after a genuine user gesture will not load in an automated test that dispatches a synthetic event at an element rather than at the document — a real class of test that passes locally and fails in headless. **Deferral can be undone by accident**, since a single eager import elsewhere in the graph can pull the deferred module back into the initial chunk. See [[Module Graph]].
 
-Lazy loading interacts with perceived performance rather than just measured performance: something loading late is only an improvement if the page is usable meanwhile, which is what skeleton states and streaming boundaries provide.
+Lazy loading interacts with perceived performance rather than just measured performance: something loading late is only an improvement if the page is usable meanwhile, which is what [[Skeleton Screen|skeleton states]] and streaming boundaries provide.
 
 ## See also
 - [[Code Splitting]]

@@ -22,3 +22,4 @@ This is why arguments about whether a hot dog is a sandwich never resolve. Each 
 - [[Linguistic Relativity]]
 - [[Falsifiability]]
 - [[Neurodiversity]]
+- [[Mental Model]]

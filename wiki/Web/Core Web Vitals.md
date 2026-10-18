@@ -27,3 +27,5 @@ Field data (real visitors) and lab data (a synthetic run) frequently disagree, a
 ## Related
 - [[React Server Components]]
 - [[Server-Side Rendering]]
+- [[Response Time Limits]]
+- [[Skeleton Screen]]

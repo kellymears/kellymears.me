@@ -26,3 +26,4 @@ Automated checks also produce characteristic false signals: a burst of violation
 ## Related
 - [[Portal]]
 - [[Headless Component]]
+- [[Color Vision Deficiency]]

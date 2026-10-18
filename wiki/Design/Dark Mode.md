@@ -25,3 +25,4 @@ Two practical notes. Because the common implementation toggles a class on the ro
 - [[Silent Failure]]
 - [[Portal]]
 - [[Motion Design]]
+- [[Color Vision Deficiency]]

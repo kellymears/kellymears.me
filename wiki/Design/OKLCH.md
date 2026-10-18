@@ -28,3 +28,4 @@ The practical caution is that perceptual uniformity is not the same as *contrast
 - [[Utility-First CSS]]
 - [[Silent Failure]]
 - [[Cascade]]
+- [[Color Vision Deficiency]]

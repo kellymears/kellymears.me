@@ -18,7 +18,7 @@ The compression fails in predictable ways, called **metameric failure**:
 - **Observer metamerism.** Cone sensitivities vary between people. Two colors that match for one viewer differ for another. Displays with very narrow-band primaries, such as laser projectors and some wide-gamut panels, magnify this, so two people calibrating the same screen can disagree about what white looks like.
 - **Device metamerism.** A camera's sensor filters do not match human cones, so a scene that looks right to the eye can photograph wrong, especially under spiky LED light.
 
-Color-blind people experience a broader metamerism. With one cone type missing or shifted, more spectra collapse together, and colors that differ for others look identical. [[Color Contrast]] guidance in [[Accessibility]] exists partly for this reason.
+[[Color Vision Deficiency|Color-blind]] people experience a broader metamerism. With one cone type missing or shifted, more spectra collapse together, and colors that differ for others look identical. [[Color Contrast]] guidance in [[Accessibility]] exists partly for this reason.
 
 Metamerism is also a useful general idea: when a system measures a few summary numbers, any inputs with the same summary are indistinguishable to it. A [[Hash Function]] collision is the same thing, applied deliberately.
 

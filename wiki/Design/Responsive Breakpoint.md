@@ -30,3 +30,5 @@ Three practical notes recur.
 - [[Test Fixture]]
 - [[Test Double]]
 - [[Stacking Context]]
+- [[Touch Target Size]]
+- [[Line Length]]

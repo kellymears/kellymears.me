@@ -30,3 +30,5 @@ Contrast is one of the few accessibility criteria a machine can genuinely evalua
 - [[Design Token]]
 - [[Progressive Enhancement]]
 - [[Easing]]
+- [[Color Vision Deficiency]]
+- [[Visual Hierarchy]]

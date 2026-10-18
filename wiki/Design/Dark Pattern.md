@@ -20,3 +20,5 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Accessibility]]
 - [[Compulsion Loop]]
 - [[AB Testing]]
+- [[Visual Hierarchy]]
+- [[Touch Target Size]]
