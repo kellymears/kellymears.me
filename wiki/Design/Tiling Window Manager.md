@@ -26,7 +26,7 @@ The approach shares principles with layout on the web. A tiling layout is a [[Gr
 ## See also
 - [[Display Server]]
 - [[CSS Grid]]
-- [[Keyboard Navigation]]
+- [[Desktop Metaphor]]
 - [[Focus Management]]
 - [[Grid System]]
 - [[Ricing]]

@@ -38,3 +38,4 @@ Long uninterrupted stretches of close focus strain more than the eyes; see [[Rep
 - [[Ulnar Neuropathy]]
 - [[Sleep Deprivation]]
 - [[Hyperfocus]]
+- [[Eye Tracking]]

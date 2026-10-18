@@ -30,7 +30,7 @@ The effect complicates austere design doctrine. Minimalism and a high [[Data-Ink
 For designers, the practical upshot is to invest in aesthetics, test early with low-fidelity designs, and measure task success rather than asking whether people *liked* it. Like the [[Placebo Effect]], perceived quality partly creates real quality, through mood and patience, but it does not replace the real thing.
 
 ## See also
-- [[Halo Effect]]
+- [[Golden Ratio]]
 - [[Usability Testing]]
 - [[Visual Hierarchy]]
 - [[Skeuomorphism]]

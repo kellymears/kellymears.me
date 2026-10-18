@@ -32,3 +32,4 @@ The fallacy pairs naturally with [[Confirmation Bias]] and [[Hindsight Bias]]: o
 - [[Gambler's Fallacy]]
 - [[Streetlight Effect]]
 - [[Pareidolia]]
+- [[Golden Ratio]]

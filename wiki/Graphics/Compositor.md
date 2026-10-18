@@ -25,7 +25,7 @@ On Linux, the architecture differs by [[Display Server]]. Under X11, compositing
 Browsers use the same idea inside a page. Elements that animate `transform` or `opacity` can be promoted to their own layers and moved by the compositor thread without layout or paint, which is why those properties animate smoothly while animating `top` or `width` causes [[Layout Thrashing]]. A [[Stacking Context]] is the browser's grouping unit for this kind of layered painting.
 
 ## See also
-- [[Display Server]]
+- [[Desktop Metaphor]]
 - [[Screen Tearing]]
 - [[Frame Pacing]]
 - [[Stacking Context]]

@@ -30,6 +30,6 @@ On screens, small multiples reflow naturally. A grid can drop from four columns 
 ## See also
 - [[Data Visualization]]
 - [[CSS Grid]]
-- [[Grid System]]
+- [[Treemap]]
 - [[Simpson's Paradox]]
 - [[Choropleth Map]]

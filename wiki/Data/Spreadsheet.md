@@ -30,3 +30,4 @@ None of this makes spreadsheets bad tools. They're often the right first version
 - [[Local-First Software]]
 - [[CSV]]
 - [[Open Data]]
+- [[Direct Manipulation]]

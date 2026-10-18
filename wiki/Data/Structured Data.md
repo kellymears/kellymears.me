@@ -18,7 +18,7 @@ Two practical cautions.
 **Structured data is a claim about content, not a substitute for it.** Markup describing something the page does not contain is a policy violation as well as a lie.
 
 ## See also
-- [[Search Engine Optimization]]
+- [[Breadcrumb]]
 - [[Semantic HTML]]
 - [[JSON Schema]]
 - [[Knowledge Graph]]

@@ -30,3 +30,4 @@ Scent also explains why [[Recognition Rather Than Recall]] matters for navigatio
 - [[Hick's Law]]
 - [[Link Rot]]
 - [[Wayfinding]]
+- [[Eye Tracking]]

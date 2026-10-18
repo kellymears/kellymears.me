@@ -35,3 +35,4 @@ Digital wayfinding uses the same ideas. Navigation bars are paths; sections are 
 - [[Signifier]]
 - [[Legibility]]
 - [[Visual Hierarchy]]
+- [[Breadcrumb]]

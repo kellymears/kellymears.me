@@ -23,7 +23,7 @@ They also complicate development in a specific way: a development server keeps a
 
 ## Related
 - [[Reproducible Case]]
-- [[Ground Truth]]
+- [[Treemap]]
 - [[Abstract Syntax Tree]]
 - [[Source Map]]
 - [[ES Modules]]

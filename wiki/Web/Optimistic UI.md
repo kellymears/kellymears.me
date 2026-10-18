@@ -17,7 +17,7 @@ It's a close cousin of client-side prediction in networked games (see [[Rollback
 - [[Debounce and Throttle]]
 - [[WebSocket]]
 - [[State Management]]
-- [[Cache Invalidation]]
+- [[Direct Manipulation]]
 
 ## Related
 - [[Virtual DOM]]

@@ -25,7 +25,7 @@ Measure [[Line Length|line length]] too. Readability falls off sharply beyond ro
 - [[Naming]]
 - [[UI Primitive]]
 - [[Taxonomy]]
-- [[Silent Failure]]
+- [[Golden Ratio]]
 - [[Visual Hierarchy]]
 - [[Swiss Style]]
 - [[Optical Alignment]]

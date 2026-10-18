@@ -34,5 +34,5 @@ The effect is weaponized as well as avoided. Native advertising disguises ads as
 ## See also
 - [[Habituation]]
 - [[Information Scent]]
-- [[Inattentional Blindness]]
+- [[Eye Tracking]]
 - [[Dark Pattern]]

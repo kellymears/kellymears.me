@@ -29,3 +29,4 @@ Practical hazards accumulate around the details. Some attributes are computed by
 - [[Toast Notification]]
 - [[Autocomplete]]
 - [[Screen Reader]]
+- [[Breadcrumb]]

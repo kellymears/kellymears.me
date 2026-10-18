@@ -22,7 +22,7 @@ Several practices follow:
 "Multitasking" mostly means rapid switching, with its costs hidden. Real parallelism happens only when tasks use different resources and one is automatic, like walking while talking. It is the [[Concurrency and Parallelism]] distinction applied to people. Minds differ in switching cost, too. For people whose attention runs [[Monotropism|monotropically]], transitions are especially expensive, and a day of interruptions can drain [[Executive Function]] without any single task being hard.
 
 ## See also
-- [[Working Memory]]
+- [[Calm Technology]]
 - [[Flow]]
 - [[Monotropism]]
 - [[Modal Dialog]]

@@ -30,7 +30,7 @@ Small targets are an [[Accessibility]] issue for people with tremors, limited de
 ## See also
 - [[Tooltip]]
 - [[Accessibility]]
-- [[Inclusive Design]]
+- [[Haptic Feedback]]
 - [[Affordance]]
 - [[Form Design]]
 - [[Signifier]]

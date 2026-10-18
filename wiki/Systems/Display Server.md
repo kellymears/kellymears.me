@@ -31,3 +31,4 @@ Each design choice made one set of problems hard and a different set easy, a pat
 - [[Tiling Window Manager]]
 - [[Daemon]]
 - [[Process]]
+- [[Desktop Metaphor]]

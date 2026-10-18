@@ -17,7 +17,7 @@ The maintenance question is not whether the system covers everything but whether
 - [[Design Token]]
 - [[UI Primitive]]
 - [[Headless Component]]
-- [[Naming]]
+- [[Flat Design]]
 - [[Taxonomy]]
 - [[Utility-First CSS]]
 - [[Container Query]]

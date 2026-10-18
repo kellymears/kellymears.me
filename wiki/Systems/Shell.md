@@ -33,7 +33,7 @@ Exit status is the shell's only universal signal, and it means "the program retu
 - [[File Descriptor]]
 
 ## Related
-- [[Silent Failure]]
+- [[Desktop Metaphor]]
 - [[Shebang]]
 - [[Exit Status]]
 - [[Pseudoterminal]]

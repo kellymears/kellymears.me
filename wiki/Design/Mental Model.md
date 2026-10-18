@@ -35,4 +35,4 @@ The concept reaches well beyond interfaces. [[Information Architecture]] organiz
 - [[Card Sorting]]
 - [[Signifier]]
 - [[Error Message]]
-- [[Usability Testing]]
+- [[Direct Manipulation]]

@@ -27,6 +27,6 @@ Infant researchers rely on it. Babies cannot answer questions, but they look lon
 ## See also
 - [[Banner Blindness]]
 - [[Classical Conditioning]]
-- [[Cognitive Behavioral Therapy]]
+- [[Calm Technology]]
 - [[Inattentional Blindness]]
 - [[Vigilance Decrement]]

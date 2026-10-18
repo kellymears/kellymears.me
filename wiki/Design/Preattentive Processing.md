@@ -34,6 +34,6 @@ Preattentive pop-out has limits: it tells you *that* something differs, not what
 
 ## See also
 - [[Synesthesia]]
-- [[Data Visualization]]
+- [[Calm Technology]]
 - [[Banner Blindness]]
 - [[Choropleth Map]]

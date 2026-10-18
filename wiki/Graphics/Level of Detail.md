@@ -24,3 +24,4 @@ The same idea generalizes past meshes: **impostors** replace a whole complex obj
 - [[Draw Call]]
 - [[Polygon Mesh]]
 - [[Tessellation]]
+- [[Eye Tracking]]

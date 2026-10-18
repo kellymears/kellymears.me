@@ -32,4 +32,4 @@ In a [[Design System]], typefaces are recorded as a [[Design Token]], so they ch
 - [[OpenType Features]]
 - [[Optical Alignment]]
 - [[White Space]]
-- [[Grid System]]
+- [[Bauhaus]]

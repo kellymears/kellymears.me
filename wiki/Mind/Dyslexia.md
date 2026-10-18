@@ -33,7 +33,7 @@ These accommodations follow the logic of [[Inclusive Design]] and [[Accessibilit
 Dyslexia often co-occurs with [[ADHD]] and with dyscalculia, a related difficulty with numbers. Adults frequently describe years of being thought careless or slow before diagnosis, with lasting effects on [[Self-Efficacy]]. Within the framework of [[Neurodiversity]], some argue dyslexia brings strengths in big-picture or spatial thinking. Those claims have mixed evidence, but the cost of treating reading difficulty as a measure of intelligence is clear.
 
 ## See also
-- [[Executive Function]]
+- [[Eye Tracking]]
 - [[Inner Speech]]
 - [[Spaced Repetition]]
 - [[Kerning]]

@@ -28,7 +28,7 @@ Web icons moved from image sprites to **icon fonts**, which scaled but broke acc
 
 ## See also
 - [[Wayfinding]]
-- [[Screen Reader]]
+- [[Desktop Metaphor]]
 - [[Tooltip]]
-- [[Swiss Style]]
+- [[Flat Design]]
 - [[Signifier]]

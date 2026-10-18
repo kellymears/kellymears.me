@@ -18,7 +18,7 @@ Two adjacent concerns. Consistency requires a fixed timestep and clean [[Determi
 - [[MDA Framework]]
 - [[Twelve Basic Principles of Animation]]
 - [[Coyote Time]]
-- [[Frame Pacing]]
+- [[Haptic Feedback]]
 - [[Frame Generation]]
 - [[Magnus Effect]]
 - [[Motor Learning]]

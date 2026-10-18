@@ -37,3 +37,4 @@ Two purposes differ. *Exploratory* visualization helps an analyst find what's in
 - [[Gestalt Principles]]
 - [[Dimensionality Reduction]]
 - [[Confidence Interval]]
+- [[Treemap]]

@@ -29,7 +29,7 @@ Under the hood, search engines build facets from an [[Inverted Index]]: each fac
 Facets cause trouble for crawlers. Every combination of filters can produce its own URL, multiplying a thousand products into millions of near-duplicate pages that waste crawl budget and dilute rankings. Sites mark most combinations as non-indexable and point them to a canonical URL, a routine concern of [[Search Engine Optimization]].
 
 ## See also
-- [[Taxonomy]]
+- [[Breadcrumb]]
 - [[Information Scent]]
 - [[Card Sorting]]
 - [[Metadata]]
