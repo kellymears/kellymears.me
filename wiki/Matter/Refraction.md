@@ -30,3 +30,4 @@ Rendering engines model refraction to draw water, glass, and gems. [[Ray Tracing
 - [[Diffraction]]
 - [[Ray Tracing]]
 - [[Rayleigh Scattering]]
+- [[Myopia]]

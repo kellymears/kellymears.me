@@ -18,3 +18,4 @@ Torque is easy to confuse with work, since both share units that reduce to the s
 - [[Inertial Frame of Reference]]
 - [[Functional Threshold Power]]
 - [[Angular Momentum]]
+- [[Cadence]]

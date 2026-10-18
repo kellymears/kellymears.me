@@ -9,7 +9,7 @@ summary: The pattern in which a small dose of a stressor strengthens a living sy
 ---
 **Hormesis** is a dose-response pattern in which a low dose of something harmful produces a beneficial effect, while a high dose does damage. Graphed, the response is biphasic: improvement at low doses, crossing to harm as the dose rises. The term was coined in 1943 by Chester Southam and John Ehrlich, who found that low concentrations of an extract from red cedar stimulated the growth of fungi that higher concentrations killed. The toxicologist Edward Calabrese spent decades documenting the pattern across thousands of studies and argued it is common rather than exceptional.
 
-The mechanism is adaptive overcompensation. A mild stressor triggers repair and defense systems, such as antioxidant enzymes, heat shock proteins that refold damaged proteins, and mitochondrial growth, and the response overshoots, leaving the organism more resilient than before. That is the same logic as the old saying "what doesn't kill you makes you stronger," with the crucial qualifier that dose determines which outcome you get.
+The mechanism is adaptive overcompensation. A mild stressor triggers repair and defense systems, such as antioxidant enzymes, heat shock proteins that refold damaged proteins, and [[Mitochondria|mitochondrial growth]], and the response overshoots, leaving the organism more resilient than before. That is the same logic as the old saying "what doesn't kill you makes you stronger," with the crucial qualifier that dose determines which outcome you get.
 
 Familiar examples:
 
@@ -27,5 +27,4 @@ Engineers apply the same logic to systems. [[Chaos Engineering]] injects small, 
 ## See also
 - [[Heat Acclimation]]
 - [[Inflammation]]
-- [[Chaos Engineering]]
 - [[Training Load]]

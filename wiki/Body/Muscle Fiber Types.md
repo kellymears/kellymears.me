@@ -12,7 +12,7 @@ summary: Skeletal muscle mixes slow, fatigue-resistant fibers with fast, powerfu
 ---
 Skeletal muscle is made of fibers that come in distinct types, distinguished by how quickly they contract and how they make energy. Every muscle contains a mixture, and the proportions shape what a person, or an animal, is good at.
 
-- **Type I (slow-twitch).** Contract slowly with modest force, and resist fatigue almost indefinitely. They are packed with mitochondria, capillaries, and myoglobin, the oxygen-storing protein that makes them red, and they burn fat and carbohydrate aerobically. Posture muscles and the calf's soleus are rich in them.
+- **Type I (slow-twitch).** Contract slowly with modest force, and resist fatigue almost indefinitely. They are packed with [[Mitochondria|mitochondria]], capillaries, and myoglobin, the oxygen-storing protein that makes them red, and they burn fat and carbohydrate aerobically. Posture muscles and the calf's soleus are rich in them.
 - **Type IIa (fast oxidative).** Fast and fairly powerful, with decent aerobic capacity. They are the most adaptable type, and endurance or strength training pushes them toward one end or the other.
 - **Type IIx (fast glycolytic).** The fastest and most powerful, relying on stored [[Glycogen]] and anaerobic energy. They fatigue within seconds to minutes.
 
@@ -30,4 +30,3 @@ Fast fibers are also more vulnerable to the strain behind [[Delayed Onset Muscle
 - [[VO2 Max]]
 - [[Polarized Training]]
 - [[Delayed Onset Muscle Soreness]]
-- [[Functional Threshold Power]]

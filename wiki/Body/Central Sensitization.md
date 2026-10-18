@@ -29,3 +29,4 @@ Expectation and attention also modulate pain, as [[Predictive Processing]] and t
 - [[Physical Dependence]]
 - [[Inflammation]]
 - [[Predictive Processing]]
+- [[Repetitive Strain Injury]]

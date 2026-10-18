@@ -9,7 +9,7 @@ tags:
   - body
 summary: The variation in time between heartbeats, a window into the balance between rest and stress in the nervous system, and a popular, noisy readiness signal.
 ---
-**Heart rate variability (HRV)** is the variation in time between successive heartbeats. A resting heart at 60 beats per minute doesn't beat exactly once a second. The gaps might run 0.95, 1.08, 1.01 seconds. That variation is healthy. It reflects the *autonomic nervous system* continually adjusting the heart, balancing the sympathetic branch (fight or flight, which speeds the heart and steadies its rhythm) against the parasympathetic branch (rest and digest, which slows it and adds variability through the vagus nerve).
+**Heart rate variability (HRV)** is the variation in time between successive heartbeats. A resting heart at 60 beats per minute doesn't beat exactly once a second. The gaps might run 0.95, 1.08, 1.01 seconds. That variation is healthy. It reflects the *autonomic nervous system* continually adjusting the heart, balancing the sympathetic branch (fight or flight, which speeds the heart and steadies its rhythm) against the parasympathetic branch (rest and digest, which slows it and adds variability through the [[Vagus Nerve|vagus nerve]]).
 
 The clearest example is *respiratory sinus arrhythmia*: heart rate rises slightly on each inhale and falls on each exhale. Slow breathing at around six breaths a minute amplifies the swing, which is the basis of HRV biofeedback.
 
@@ -31,4 +31,3 @@ HRV is also used as a broad index of stress physiology, linking it to [[Allostat
 - [[Supercompensation]]
 - [[Allostatic Load]]
 - [[Sleep Stages]]
-- [[Interoception]]

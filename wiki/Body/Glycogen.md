@@ -32,3 +32,5 @@ Glycogen also binds water, about three grams per gram, which is why weight swing
 - [[Thermoregulation]]
 - [[Starch Gelatinization]]
 - [[Muscle Fiber Types]]
+- [[Energy Systems]]
+- [[Insulin Sensitivity]]

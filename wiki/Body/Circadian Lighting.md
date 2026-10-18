@@ -31,3 +31,5 @@ Popular advice compresses this into "blue light is bad", which overstates the ca
 - [[Time Blindness]]
 - [[Sleep Pressure]]
 - [[Rayleigh Scattering]]
+- [[Myopia]]
+- [[Jet Lag]]

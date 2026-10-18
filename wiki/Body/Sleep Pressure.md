@@ -11,7 +11,7 @@ summary: The drive to sleep that builds the longer you are awake, carried largel
 ---
 **Sleep pressure** is the drive to sleep that builds steadily the longer you stay awake and drains away during sleep. It is one of two forces that decide when you feel sleepy. In the *two-process model*, proposed by the sleep researcher Alexander Borbély in 1982, *Process S* (sleep pressure) rises across the waking day, while *Process C*, the [[Circadian Rhythm]], swings up and down on a roughly 24-hour cycle regardless of how long you have been awake. You fall asleep easily when pressure is high and the circadian alerting signal has dropped, and you wake when pressure has drained and the circadian signal rises.
 
-The circadian signal explains a familiar oddity: the second wind. After an all-nighter, pressure is enormous, yet people often feel more alert the next morning than at 4 a.m., because the circadian clock has started pushing for wakefulness. It also explains jet lag, in which pressure and clock disagree, a body still running on another [[Time Zone]].
+The circadian signal explains a familiar oddity: the second wind. After an all-nighter, pressure is enormous, yet people often feel more alert the next morning than at 4 a.m., because the circadian clock has started pushing for wakefulness. It also explains [[Jet Lag|jet lag]], in which pressure and clock disagree, a body still running on another [[Time Zone]].
 
 Much of the pressure is carried by **adenosine**, a by-product of the brain's energy use. As neurons burn ATP through the day, adenosine accumulates outside cells and binds to receptors that dampen arousal-promoting circuits. Sleep, especially deep slow-wave sleep, clears it. Slow-wave sleep is concentrated early in the night for this reason, since that is when there is most pressure to discharge (see [[Sleep Stages]]).
 
@@ -25,5 +25,4 @@ Low pressure and a misaligned clock are both reasons people can't sleep, and lig
 - [[Sleep Stages]]
 - [[Segmented Sleep]]
 - [[Circadian Lighting]]
-- [[Physical Dependence]]
 - [[Heart Rate Variability]]

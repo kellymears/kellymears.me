@@ -13,7 +13,7 @@ summary: The cumulative wear on the body from adapting to stress over and over, 
 
 The body's stress response is built for short emergencies. A threat activates the sympathetic nervous system within seconds, raising heart rate and blood pressure, and the *HPA axis* (hypothalamus, pituitary, adrenal glands) within minutes, releasing **cortisol**. Cortisol mobilizes energy, sharpens attention, and dampens [[Inflammation]] and non-urgent functions such as digestion and repair. When the threat passes, the system shuts off and levels return to baseline.
 
-Allostatic load accumulates when that shutdown doesn't happen. McEwen described four patterns: frequent stress, failure to adapt to repeated stress, failure to switch the response off afterward, and an inadequate response that lets other systems overreact. Over months and years, chronically elevated stress mediators contribute to high blood pressure, insulin resistance, abdominal fat, impaired immunity, disrupted sleep, and memory problems. Researchers measure it with composite scores of biomarkers such as blood pressure, waist-to-hip ratio, cholesterol, blood sugar, cortisol, and inflammatory markers.
+Allostatic load accumulates when that shutdown doesn't happen. McEwen described four patterns: frequent stress, failure to adapt to repeated stress, failure to switch the response off afterward, and an inadequate response that lets other systems overreact. Over months and years, chronically elevated stress mediators contribute to high blood pressure, [[Insulin Sensitivity|insulin resistance]], abdominal fat, impaired immunity, disrupted sleep, and memory problems. Researchers measure it with composite scores of biomarkers such as blood pressure, waist-to-hip ratio, cholesterol, blood sugar, cortisol, and inflammatory markers.
 
 The load isn't distributed evenly. Studies of British civil servants found that health tracked rank: lower-grade workers had higher death rates than their superiors, independent of smoking and other habits, and later studies found allostatic load follows the same social gradient. Lack of control over one's work and circumstances is one of the strongest predictors of the burden, which ties stress physiology to [[Learned Helplessness]].
 
@@ -24,5 +24,4 @@ Neurodivergent accounts describe the same accumulation in everyday terms. Contin
 ## See also
 - [[Supercompensation]]
 - [[Heart Rate Variability]]
-- [[Autistic Burnout]]
 - [[Circadian Rhythm]]
