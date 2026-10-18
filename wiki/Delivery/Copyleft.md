@@ -25,3 +25,5 @@ Incompatible copyleft terms cannot legally combine in one distributed work, and 
 - [[Provenance]]
 - [[Commons-Based Peer Production]]
 - [[Software Bill of Materials]]
+- [[Software Fork]]
+- [[Developer Certificate of Origin]]

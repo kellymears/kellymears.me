@@ -23,3 +23,4 @@ The defense isn't refusing improvements — it's keeping the same discipline tha
 ## Related
 - [[Brooks's Law]]
 - [[Strangler Fig Pattern]]
+- [[Platform Engineering]]

@@ -28,3 +28,4 @@ Two operational notes. Branch protection settings that appear to enforce up-to-d
 - [[Release Train]]
 - [[Branch Protection]]
 - [[Test Parallelization]]
+- [[Fast-Forward Merge]]

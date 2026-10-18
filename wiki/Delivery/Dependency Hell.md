@@ -32,9 +32,9 @@ Dependencies are also a security surface. Each one can be compromised, typosquat
 
 ## See also
 - [[Lockfile]]
-- [[Package Manager]]
+- [[Artifact Repository]]
 - [[Semantic Versioning]]
-- [[Supply Chain Security]]
+- [[Software Fork]]
 - [[Dynamic Linking]]
 - [[Automated Dependency Updates]]
 - [[Backtracking]]

@@ -36,3 +36,4 @@ Strict rules have costs:
 ## See also
 - [[Code Review]]
 - [[Coverage Gate]]
+- [[Force Push]]

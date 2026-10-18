@@ -18,7 +18,7 @@ Two mechanical notes. Changing only the target branch of a pull request does not
 - [[Law of Triviality]]
 - [[Code Review]]
 - [[Continuous Integration]]
-- [[Squash Merge]]
+- [[Software Fork]]
 - [[Human in the Loop]]
 - [[Branching Model]]
 

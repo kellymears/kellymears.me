@@ -36,3 +36,4 @@ Whatever the scheme, the goal is the same: a version number that answers the que
 - [[Release Train]]
 - [[Long-Term Support]]
 - [[Backward Compatibility]]
+- [[Git Tag]]

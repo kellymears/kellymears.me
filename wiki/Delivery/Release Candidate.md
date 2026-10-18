@@ -30,6 +30,6 @@ Release candidates suit software that ships in versions users install: operating
 The candidate's notes become the release's [[Changelog]], and a stable release may then enter a [[Long-Term Support]] line that receives fixes for years.
 
 ## See also
-- [[Code Freeze]]
-- [[Release Train]]
+- [[Git Tag]]
+- [[Artifact Repository]]
 - [[Smoke Test]]

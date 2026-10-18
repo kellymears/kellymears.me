@@ -14,7 +14,7 @@ A few mechanical facts worth knowing. Commits record two dates, author and commi
 Staging deserves care in shared working directories: a bulk "add everything" sweeps in other people's in-flight work under your message, producing history that lies. See [[Atomic Commit]].
 
 ## See also
-- [[Atomic Commit]]
+- [[Fast-Forward Merge]]
 - [[Conventional Commits]]
 - [[Version Control]]
 - [[Provenance]]

@@ -24,3 +24,5 @@ The model also determines what a merge means and therefore what history looks li
 - [[Semantic Conflict]]
 - [[Cherry-Pick]]
 - [[Release Train]]
+- [[Fast-Forward Merge]]
+- [[Software Fork]]

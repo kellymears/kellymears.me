@@ -32,3 +32,5 @@ Several things about rebasing are worth knowing concretely.
 - [[Trunk-Based Development]]
 - [[Cherry-Pick]]
 - [[Reflog]]
+- [[Fast-Forward Merge]]
+- [[Force Push]]

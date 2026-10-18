@@ -20,7 +20,7 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 "Mental load" has also come to mean the ongoing, invisible work of tracking a household's or team's open loops: remembering, anticipating, scheduling. It is the same mechanism stretched over weeks instead of seconds. That load drains [[Executive Function]] whether or not anyone can see it, and when unevenly shared it is a real cost that never shows up in a task list.
 
 ## See also
-- [[Working Memory]]
+- [[Platform Engineering]]
 - [[Executive Function]]
 - [[Hick's Law]]
 - [[Progressive Disclosure]]

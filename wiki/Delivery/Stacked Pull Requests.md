@@ -29,3 +29,4 @@ Git's *rerere* helps disproportionately here, since stacked branches share early
 - [[Semantic Conflict]]
 - [[Continuous Integration]]
 - [[Branching Model]]
+- [[Force Push]]

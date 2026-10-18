@@ -21,3 +21,4 @@ It fits naturally with stateless web request handling, where a "lock," if taken,
 - [[Optimistic UI]]
 - [[Isolation Level]]
 - [[Multiversion Concurrency Control]]
+- [[Force Push]]

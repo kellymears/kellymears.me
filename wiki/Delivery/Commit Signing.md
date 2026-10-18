@@ -31,6 +31,6 @@ The limits matter as much as the guarantees:
 Signing is one layer of [[Supply Chain Security]]. It establishes who made a change, complementing build [[Provenance]] that establishes how an artifact was produced and a [[Software Bill of Materials]] that lists what went into it. It differs from [[Code Signing]], which signs finished binaries so operating systems can decide whether to run them.
 
 ## See also
-- [[Public-Key Cryptography]]
+- [[Git Tag]]
 - [[Commit]]
 - [[Hash Function]]

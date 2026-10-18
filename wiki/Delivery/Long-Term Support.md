@@ -39,3 +39,5 @@ Staying on LTS is not free either. Lagging behind means missing improvements, ac
 - [[Semantic Versioning]]
 - [[Release Train]]
 - [[Calendar Versioning]]
+- [[Git Tag]]
+- [[Software Fork]]

@@ -34,3 +34,4 @@ The honest response to drift is not to forbid manual change entirely. Incidents 
 ## See also
 - [[GitOps]]
 - [[Reproducible Build]]
+- [[Twelve-Factor App]]

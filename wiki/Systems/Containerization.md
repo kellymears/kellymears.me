@@ -15,7 +15,7 @@ The costs are also concrete. Filesystem and network performance are lower than n
 Containers also concentrate the [[Port]] problem: published ports are host ports, so two projects both mapping a database port collide.
 
 ## See also
-- [[Port]]
+- [[Twelve-Factor App]]
 - [[Environment Variable]]
 - [[Determinism]]
 - [[Continuous Deployment]]

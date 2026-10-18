@@ -13,7 +13,7 @@ The correction, from Elinor Ostrom's decades of fieldwork, is substantial, not a
 The sharpest correction is definitional: Hardin was describing **open access** — a resource nobody owns and nobody can exclude anyone from — not a commons in the sense Ostrom studied, governed by a defined community with rules and the standing to enforce them. Calling every shared resource "a commons" and citing Hardin to argue it must fail conflates the two. Both halves of the record matter: unmanaged open access does collapse under the incentives Hardin described, managed commons routinely do not, and which one is in front of you is an empirical, [[Ground Truth]] question about the [[Collective Action]] and governance in place, not a property of the resource itself. [[Commons-Based Peer Production]] borrows the vocabulary but not the mechanism: Hardin's argument needs a rivalrous resource that use depletes, while a digital commons is non-rival and fails the other way, by under-provision, held together by norms and licensing rather than price.
 
 ## See also
-- [[Collective Action]]
+- [[Software Fork]]
 - [[Externality]]
 - [[Wi-Fi]]
 - [[Legibility]]

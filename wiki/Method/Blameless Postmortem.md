@@ -31,3 +31,4 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[Error Message]]
 - [[Risk-Based Testing]]
 - [[Bug Triage]]
+- [[Git Blame]]

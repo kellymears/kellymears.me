@@ -22,3 +22,5 @@ The tools split on a real distinction: declarative tools (Terraform) describe th
 ## Related
 - [[Continuous Deployment]]
 - [[Configuration Drift]]
+- [[Twelve-Factor App]]
+- [[Platform Engineering]]

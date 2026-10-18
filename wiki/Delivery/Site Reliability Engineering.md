@@ -28,6 +28,6 @@ The relationship to DevOps is often summarized with Google's line that SRE is on
 SRE adopted badly becomes an operations team renamed. Without error budgets that actually gate releases, a toil cap that is enforced, and the authority to push back on unreliable launches, the title changes and the work does not.
 
 ## See also
-- [[Incident Response]]
+- [[Platform Engineering]]
 - [[Blameless Postmortem]]
 - [[Configuration Drift]]

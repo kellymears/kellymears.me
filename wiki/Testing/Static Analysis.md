@@ -26,6 +26,6 @@ False positives are the practical problem. Developers who see too many stop read
 Static analysis complements testing rather than replacing it. It finds whole classes of bugs everywhere at once, including in paths tests never execute, like [[Unreachable Code]]. Tests, [[Fuzzing]], and [[Property-Based Testing]] find bugs that depend on actual values and behavior.
 
 ## See also
-- [[Compiler]]
+- [[Code Formatter]]
 - [[Penetration Testing]]
 - [[Unit Test]]

@@ -25,3 +25,4 @@ The principle has a mirror, and both are needed. A fence whose reason has expire
 - [[Plausible Mechanism]]
 - [[Silent Failure]]
 - [[Strangler Fig Pattern]]
+- [[Git Blame]]

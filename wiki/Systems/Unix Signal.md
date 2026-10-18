@@ -30,7 +30,7 @@ Signal handlers are tricky. A signal can arrive at any instruction, including in
 Signals also explain some confusing behavior. In a container, the main process runs as PID 1, which the kernel treats specially: signals without a handler are ignored rather than triggering the default action, so a program that never registered for SIGTERM won't stop until it is killed. Small init programs exist to fix this, playing the role an [[Init System]] plays on a full machine.
 
 ## See also
-- [[Process]]
+- [[Twelve-Factor App]]
 - [[Daemon]]
 - [[Interrupt]]
 - [[Exit Status]]

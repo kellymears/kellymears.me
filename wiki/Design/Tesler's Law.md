@@ -33,7 +33,7 @@ Tesler is also known for inventing cut, copy and paste with Tim Mott, and for hi
 The law connects to [[Worse Is Better]], which argues that simple implementations sometimes beat correct ones even when that leaves work for users, and to [[Cognitive Load]], the cost users pay when complexity lands on them.
 
 ## See also
-- [[Progressive Disclosure]]
+- [[Platform Engineering]]
 - [[Cognitive Load]]
 - [[Form Design]]
 - [[Defensive Default]]

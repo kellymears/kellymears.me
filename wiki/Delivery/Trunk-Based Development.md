@@ -17,7 +17,7 @@ The practice scales down well — it is close to what a single developer natural
 
 ## See also
 - [[Branching Model]]
-- [[Continuous Integration]]
+- [[Fast-Forward Merge]]
 - [[Feature Flag]]
 - [[Merge Train]]
 - [[Squash Merge]]

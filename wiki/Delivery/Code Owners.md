@@ -31,8 +31,8 @@ Ownership data is useful beyond reviews. It tells an [[Incident Response]] proce
 Owners do not replace good review practice. A required approval is only as meaningful as the attention behind it, and rubber-stamped approvals give the appearance of oversight without the substance; see [[Code Review]]. Ownership works best paired with automated checks in [[Continuous Integration]], so reviewers can focus on design and intent rather than style.
 
 ## See also
-- [[Code Review]]
-- [[Pull Request]]
+- [[Developer Certificate of Origin]]
+- [[Git Blame]]
 - [[Conway's Law]]
 - [[Bus Factor]]
 - [[Branch Protection]]

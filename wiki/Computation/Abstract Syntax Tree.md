@@ -33,4 +33,4 @@ Languages often represent ASTs with an [[Algebraic Data Type]], where each node 
 
 ## See also
 - [[Static Analysis]]
-- [[Algebraic Data Type]]
+- [[Code Formatter]]

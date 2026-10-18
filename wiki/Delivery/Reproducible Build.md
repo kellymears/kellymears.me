@@ -24,5 +24,5 @@ The Reproducible Builds project, which grew out of work in Debian starting aroun
 Reproducibility pays off beyond security. Identical outputs can be [[Build Cache|cached]] and shared between machines, which speeds up [[Continuous Integration]] and large [[Monorepo]] builds. A build that can be recreated exactly makes old bugs debuggable. It also supports the "build once" rule of a [[Deployment Pipeline]] and the [[Provenance]] claims in a [[Software Bill of Materials]], and pairs naturally with [[Code Signing]] and [[Immutable Infrastructure]].
 
 ## See also
-- [[Determinism]]
+- [[Artifact Repository]]
 - [[Containerization]]

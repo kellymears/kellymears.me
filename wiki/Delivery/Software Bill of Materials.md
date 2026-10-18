@@ -31,5 +31,5 @@ An SBOM has limits. It is only as accurate as the tool that produced it. Listing
 
 ## See also
 - [[Lockfile]]
-- [[Package Manager]]
-- [[Reproducible Build]]
+- [[Developer Certificate of Origin]]
+- [[Artifact Repository]]

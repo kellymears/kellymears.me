@@ -27,4 +27,4 @@ A cache shared across machines is also a trust boundary. Anyone who can write to
 - [[Reproducible Build]]
 - [[Monorepo]]
 - [[Continuous Integration]]
-- [[Test Impact Analysis]]
+- [[Artifact Repository]]

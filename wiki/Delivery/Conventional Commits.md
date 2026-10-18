@@ -15,8 +15,8 @@ The convention is orthogonal to how much a commit should contain — see [[Atomi
 
 ## See also
 - [[Commit]]
-- [[Atomic Commit]]
-- [[Semantic Versioning]]
+- [[Git Tag]]
+- [[Code Formatter]]
 - [[Naming]]
 
 ## Related

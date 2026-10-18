@@ -23,3 +23,5 @@ The tradeoff is that anything genuinely needing in-place mutation — a long-liv
 - [[Rollback]]
 - [[Deployment Pipeline]]
 - [[Configuration Drift]]
+- [[Twelve-Factor App]]
+- [[Artifact Repository]]

@@ -30,3 +30,5 @@ Several practical points recur:
 - [[Merge Train]]
 - [[Continuous Integration]]
 - [[Trunk-Based Development]]
+- [[Fast-Forward Merge]]
+- [[Software Fork]]

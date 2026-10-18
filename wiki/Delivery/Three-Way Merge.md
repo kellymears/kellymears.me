@@ -31,3 +31,4 @@ There is also a duplication hazard: two branches that each added the same conten
 - [[Regression]]
 - [[Continuous Integration]]
 - [[Edit Distance]]
+- [[Fast-Forward Merge]]
