@@ -30,7 +30,8 @@ The system was built for the US military and opened fully to civilian accuracy i
 ## See also
 - [[Satellite Internet]]
 - [[Map Projection]]
-- [[Time Zone]]
+- [[Aurora]]
 - [[Orbit]]
 - [[Spread Spectrum]]
 - [[Geospatial Data]]
+- [[Inertial Measurement Unit]]

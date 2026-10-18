@@ -29,3 +29,4 @@ Two properties surprise people. Every steel has nearly the same stiffness, whate
 ## See also
 - [[Gear Ratio]]
 - [[Thermal Expansion]]
+- [[Work Hardening]]

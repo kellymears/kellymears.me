@@ -30,6 +30,6 @@ Projection sits between geometry and pixels. After it, [[Rasterization]] fills t
 - [[Ray Casting]]
 - [[Parallax Scrolling]]
 - [[Stereoscopy]]
-- [[Quaternion]]
+- [[Lens]]
 - [[Transformation Matrix]]
 - [[Isometric Projection]]

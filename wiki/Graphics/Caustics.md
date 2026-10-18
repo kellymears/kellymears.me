@@ -25,3 +25,4 @@ Caustics belong to a family of effects where light's path, not just a surface's 
 ## See also
 - [[Fresnel Effect]]
 - [[Physically Based Rendering]]
+- [[Rainbow]]

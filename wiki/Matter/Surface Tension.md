@@ -23,3 +23,4 @@ summary: A liquid's surface behaves like a stretched elastic membrane because su
 - [[Surfactant]]
 - [[Fluid Simulation]]
 - [[Cavitation]]
+- [[Colloid]]

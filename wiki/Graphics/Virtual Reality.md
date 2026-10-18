@@ -25,4 +25,4 @@ Interaction is shaped by the body. Hands tracked by controllers or cameras grab 
 
 ## See also
 - [[Phantom Limb]]
-- [[Apparent Motion]]
+- [[Inertial Measurement Unit]]

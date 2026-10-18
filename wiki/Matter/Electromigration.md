@@ -24,7 +24,7 @@ All of these show up the same way at the system level. A part needs **more volta
 The defenses are conservative operating points: lower voltage via [[Dynamic Voltage and Frequency Scaling|undervolting]] or frequency caps, lower temperatures, and firmware that doesn't push boost voltages to the edge. [[Silicon Binning]] decides how much margin a given part starts with. Wear spends it.
 
 ## See also
-- [[Dynamic Voltage and Frequency Scaling]]
+- [[Superconductivity]]
 - [[Silicon Binning]]
 - [[Thermal Throttling]]
 - [[Thermal Expansion]]

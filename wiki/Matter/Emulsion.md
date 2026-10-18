@@ -23,7 +23,7 @@ Beyond the kitchen, emulsions are everywhere: paint, cosmetics, salad dressing, 
 
 ## See also
 - [[Freezing Point Depression]]
-- [[Viscosity]]
+- [[Colloid]]
 - [[Buoyancy]]
 - [[Non-Newtonian Fluid]]
 - [[Starch Gelatinization]]

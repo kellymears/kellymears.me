@@ -29,8 +29,8 @@ Current also has effects beyond heat. In the microscopic wires of a chip, high c
 The energy lost to resistance doesn't vanish; it becomes heat, as [[Conservation of Energy]] requires, and has to be carried away by [[Heat Transfer]].
 
 ## See also
-- [[Work and Power]]
-- [[Electromagnetic Induction]]
+- [[Hall Effect]]
+- [[Superconductivity]]
 - [[Capacitor]]
 - [[Alternating Current]]
 - [[Electrostatic Discharge]]

@@ -26,7 +26,7 @@ Floors and roads that harvest energy from footsteps or traffic have been tried r
 Related effects form a family. **Pyroelectric** crystals produce a voltage when their temperature changes, which is how motion-sensing lights detect body heat. **Magnetostrictive** materials change shape in a magnetic field, the source of the hum from transformers; see [[Magnetism]] and [[Alternating Current]].
 
 ## See also
-- [[Semiconductor]]
+- [[Hall Effect]]
 - [[Real-Time Clock]]
 - [[Watchdog Timer]]
 - [[Haptic Feedback]]

@@ -27,3 +27,4 @@ Non-Newtonian behavior makes flows hard to predict, and simulations need models 
 ## See also
 - [[Surface Tension]]
 - [[Capillary Action]]
+- [[Colloid]]

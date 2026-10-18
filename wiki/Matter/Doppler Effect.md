@@ -21,3 +21,4 @@ The effect scales with the ratio of relative velocity to wave speed, which is wh
 - [[Cellular Network]]
 - [[Sound]]
 - [[Satellite Internet]]
+- [[Shock Wave]]

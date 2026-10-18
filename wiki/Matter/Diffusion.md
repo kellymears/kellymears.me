@@ -29,6 +29,7 @@ The idea extends beyond physics. Generative [[Diffusion Model]]s in machine lear
 
 ## See also
 - [[Ideal Gas Law]]
-- [[Viscosity]]
+- [[Work Hardening]]
 - [[Emulsion]]
 - [[Steel]]
+- [[Colloid]]

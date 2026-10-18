@@ -31,7 +31,7 @@ Convolution reaches well beyond photo filters. The filters used in [[Image Resam
 ## See also
 - [[Denoising]]
 - [[Seam Carving]]
-- [[Aliasing]]
+- [[Reverberation]]
 - [[Bitter Lesson]]
 - [[Neural Network]]
 - [[Prosopagnosia]]

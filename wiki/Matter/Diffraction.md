@@ -21,3 +21,5 @@ The classic demonstration is single-slit diffraction: light through a narrow sli
 - [[Sound]]
 - [[Structural Color]]
 - [[Laser]]
+- [[Reverberation]]
+- [[Lens]]

@@ -33,7 +33,7 @@ In the kitchen, controlled combustion gives the high heat behind searing and gri
 
 ## See also
 - [[Greenhouse Effect]]
-- [[Heat Transfer]]
+- [[Shock Wave]]
 - [[Electric Motor]]
 - [[Heat Engine]]
 - [[Capillary Action]]

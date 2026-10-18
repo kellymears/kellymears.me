@@ -29,7 +29,7 @@ Rendering engines once used linear or artistic falloff curves for lights, which 
 - [[Sound]]
 - [[Orbit]]
 - [[Gravity]]
-- [[Color Temperature]]
+- [[Reverberation]]
 - [[Hearing Loss]]
 - [[Wi-Fi]]
 - [[Cellular Network]]

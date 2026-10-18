@@ -28,7 +28,7 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 
 ## Related
 - [[Blue Noise]]
-- [[Refraction]]
+- [[Reverberation]]
 - [[Inverse-Square Law]]
 - [[Subsurface Scattering]]
 - [[Baked Lighting]]

@@ -28,7 +28,7 @@ The inner ear also houses the [[Vestibular System]], so some damage brings dizzi
 
 ## See also
 - [[Presbyopia]]
-- [[Inverse-Square Law]]
+- [[Reverberation]]
 - [[Myopia]]
 - [[Resonance]]
 - [[Sound]]

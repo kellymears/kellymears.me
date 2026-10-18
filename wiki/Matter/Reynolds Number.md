@@ -26,7 +26,7 @@ In the body, blood flow is mostly laminar. Turbulence in narrowed arteries or fa
 Turbulence remains famously unsolved. Its governing equations are known, but whether their solutions always stay well behaved is an open Millennium Prize problem, and predicting turbulent flow still means heavy simulation.
 
 ## See also
-- [[Bernoulli's Principle]]
+- [[Shock Wave]]
 - [[Cavitation]]
 - [[Magnus Effect]]
 - [[Fluid Simulation]]

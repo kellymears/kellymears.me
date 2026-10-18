@@ -28,7 +28,7 @@ Running has a parallel debate. The coach Jack Daniels counted the steps of elite
 On a bike, cadence also interacts with position and [[Aerodynamic Drag]], since a high cadence lets riders hold an aero tuck without grinding, and with group riding, where frequent changes in speed in a [[Drafting]] line reward riders who can spin up quickly. How cadence affects fuel use ties it to the body's [[Energy Systems]].
 
 ## See also
-- [[Torque]]
+- [[Hall Effect]]
 - [[Bike Fit]]
 - [[Exercise Economy]]
 - [[Motor Learning]]

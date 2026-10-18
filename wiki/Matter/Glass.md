@@ -28,3 +28,5 @@ Glass forms naturally too: volcanic obsidian, which made the sharpest stone tool
 ## See also
 - [[Elasticity]]
 - [[Steel]]
+- [[Lens]]
+- [[Work Hardening]]

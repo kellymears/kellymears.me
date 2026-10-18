@@ -28,10 +28,10 @@ Guitar pickups, metal detectors, and contactless cards rely on induction too. Th
 
 ## See also
 - [[Near-Field Communication]]
-- [[Non-Destructive Testing]]
+- [[Hall Effect]]
 - [[Lightning]]
 - [[Tide]]
 - [[Microwave Heating]]
-- [[Electrostatic Discharge]]
+- [[Superconductivity]]
 - [[Alternating Current]]
-- [[Electric Motor]]
+- [[Aurora]]

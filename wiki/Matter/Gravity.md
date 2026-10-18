@@ -22,3 +22,4 @@ Games tune gravity for feel rather than accuracy. Platformers often use gravity 
 ## See also
 - [[Newton's Laws of Motion]]
 - [[Centripetal Force]]
+- [[Inertial Measurement Unit]]

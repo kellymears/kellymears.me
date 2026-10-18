@@ -26,9 +26,9 @@ The refractive index varies slightly with wavelength, so different colors bend b
 Rendering engines model refraction to draw water, glass, and gems. [[Ray Tracing]] follows each ray as it bends through surfaces, while [[Physically Based Rendering]] uses the refractive index to compute how much light reflects versus passes through, the Fresnel effect, which is why a lake mirrors the sky at a low angle but is transparent looking straight down. Cheaper real-time techniques distort the image behind a surface in a [[Shader]] to fake it. The blue of the sky, by contrast, comes from scattering, not bending: see [[Rayleigh Scattering]].
 
 ## See also
-- [[Glass]]
+- [[Lens]]
 - [[Presbyopia]]
 - [[Fresnel Effect]]
 - [[Submarine Cable]]
 - [[Myopia]]
-- [[Caustics]]
+- [[Rainbow]]

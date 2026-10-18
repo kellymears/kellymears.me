@@ -29,7 +29,7 @@ The body exploits elasticity constantly. The Achilles tendon stretches on landin
 
 ## See also
 - [[Non-Newtonian Fluid]]
-- [[Torque]]
+- [[Work Hardening]]
 - [[Bicycle Stability]]
 - [[Steel]]
 - [[Piezoelectric Effect]]

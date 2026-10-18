@@ -22,7 +22,7 @@ Color temperature also matters for the body. Cooler, bluer light at night delays
 ## See also
 - [[Greenhouse Effect]]
 - [[Black-Body Radiation]]
-- [[Color Gamut]]
+- [[Aurora]]
 - [[Metamerism]]
 - [[Dispersion]]
 - [[Tone Mapping]]

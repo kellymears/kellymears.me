@@ -31,3 +31,4 @@ Satellites also connect directly to ordinary phones in some areas, merging with 
 - [[Laser]]
 - [[Global Positioning System]]
 - [[Orbit]]
+- [[Aurora]]

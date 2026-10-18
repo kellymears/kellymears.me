@@ -26,4 +26,4 @@ Some surfactants are a problem in themselves. Fluorinated ones used in firefight
 ## See also
 - [[Non-Newtonian Fluid]]
 - [[Diffusion]]
-- [[Immune System]]
+- [[Colloid]]

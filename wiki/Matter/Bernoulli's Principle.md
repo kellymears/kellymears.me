@@ -29,6 +29,6 @@ Static fluids follow simpler rules: pressure spreads evenly through an enclosed 
 
 ## See also
 - [[Cavitation]]
-- [[Fluid Simulation]]
+- [[Shock Wave]]
 - [[Magnus Effect]]
 - [[Sleep Apnea]]

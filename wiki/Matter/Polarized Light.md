@@ -17,10 +17,10 @@ Crossed polarizers also reveal **stress birefringence**: strained plastics and t
 ## See also
 - [[Opponent Process Theory]]
 - [[Quantum Computing]]
-- [[Dark Mode]]
+- [[Rainbow]]
 - [[Structural Color]]
 - [[Laser]]
-- [[Color Temperature]]
+- [[Lens]]
 - [[Rayleigh Scattering]]
 - [[Glass]]
 - [[Electromagnetic Induction]]

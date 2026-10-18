@@ -23,3 +23,5 @@ Safety advice is short: if thunder is audible, lightning is close enough to stri
 ## See also
 - [[Atmospheric Pressure]]
 - [[Magnetism]]
+- [[Shock Wave]]
+- [[Aurora]]

@@ -30,4 +30,4 @@ Electric motors use roughly 45 percent of the world's electricity, in everything
 
 ## See also
 - [[Friction]]
-- [[Heat Engine]]
+- [[Hall Effect]]

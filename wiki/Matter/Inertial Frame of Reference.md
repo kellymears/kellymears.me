@@ -15,7 +15,7 @@ The everyday consequence is that objects share the motion of whatever carries th
 Acceleration breaks the symmetry. A frame that speeds up, brakes or turns is non-inertial, and inside it motion appears to need extra forces — centrifugal, Coriolis — that are artifacts of the frame rather than interactions. Treating them as physical pushes is a durable [[Plausible Mechanism]] error; the [[Ground Truth]] is the choice of frame.
 
 ## See also
-- [[Determinism]]
+- [[Inertial Measurement Unit]]
 - [[Pascal's Principle]]
 - [[Time Zone]]
 - [[Root Cause Analysis]]

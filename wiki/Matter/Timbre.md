@@ -30,3 +30,4 @@ Hearing differs from sight here. The eye reduces a whole spectrum of light to th
 - [[Adaptive Music]]
 - [[Synesthesia]]
 - [[JPEG]]
+- [[Reverberation]]
