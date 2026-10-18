@@ -18,3 +18,4 @@ Buoyancy is not exclusive to liquids: air is a fluid too, and a hot air balloon 
 - [[Pascal's Principle]]
 - [[Center of Mass]]
 - [[Surface Tension]]
+- [[Emulsion]]

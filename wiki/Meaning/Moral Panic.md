@@ -19,3 +19,4 @@ The critique cuts the other way with equal force: naming something a moral panic
 - [[Legibility]]
 - [[Motte and Bailey]]
 - [[Confidence Trick]]
+- [[Umami]]

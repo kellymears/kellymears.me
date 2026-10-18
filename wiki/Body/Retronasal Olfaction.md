@@ -20,6 +20,8 @@ Regulation splits along the same seam: a compound may be approved as a fragrance
 - [[Prototype Theory]]
 - [[Linguistic Relativity]]
 - [[Taxonomy]]
+- [[Maillard Reaction]]
+- [[Umami]]
 
 ## Related
 - [[Physical Dependence]]

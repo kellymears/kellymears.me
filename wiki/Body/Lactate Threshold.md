@@ -28,3 +28,4 @@ Measuring it properly means drawing blood from a fingertip or earlobe at progres
 - [[Polarized Training]]
 - [[Glycogen]]
 - [[Backpressure]]
+- [[Fermentation]]

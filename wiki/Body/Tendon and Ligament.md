@@ -17,3 +17,4 @@ Both tissue types share a frustrating property: they are relatively **poorly vas
 - [[Compartment Syndrome]]
 - [[Fracture Fixation]]
 - [[Supercompensation]]
+- [[Protein Denaturation]]

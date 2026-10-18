@@ -19,3 +19,4 @@ Because pressure is force per unit area, the principle multiplies force. Push a 
 - [[Fail Fast]]
 - [[Ground Truth]]
 - [[Inertial Frame of Reference]]
+- [[Osmosis]]
