@@ -25,3 +25,4 @@ The pattern is most associated with content-first site frameworks, but the under
 - [[Core Web Vitals]]
 - [[Module Graph]]
 - [[Single-Page Application]]
+- [[Reactive Signals]]

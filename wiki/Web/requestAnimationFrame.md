@@ -20,9 +20,9 @@ The last property catches out code and tests alike. Animation code that assumes 
 rAF is the browser's version of the game loop, and the [[Event Loop]] runs it at a fixed point in each frame. Work that doesn't need to be on screen this frame belongs elsewhere: an idle callback, a [[Web Worker]], or a [[Debounce and Throttle|throttled]] handler.
 
 ## See also
-- [[Layout Thrashing]]
+- [[HTML Canvas]]
 - [[Game Loop]]
-- [[Event Loop]]
+- [[Scroll-Driven Animations]]
 - [[Motion Design]]
 - [[Easing]]
 - [[Reduced Motion]]

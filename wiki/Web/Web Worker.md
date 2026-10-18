@@ -22,3 +22,4 @@ A [[Service Worker]] is a specialized sibling, not a general-purpose worker: sam
 ## Related
 - [[Optimistic UI]]
 - [[WebAssembly]]
+- [[HTML Canvas]]

@@ -39,3 +39,4 @@ The robust patterns treat visibility as an event to handle rather than a conditi
 - [[Resource Starvation]]
 - [[Silent Failure]]
 - [[Progressive Web App]]
+- [[Back-Forward Cache]]

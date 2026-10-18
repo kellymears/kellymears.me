@@ -33,3 +33,5 @@ Cookies compete with bearer tokens such as a [[JSON Web Token]] in a header. Hea
 - [[Domain Name System]]
 - [[Web Storage]]
 - [[Hypertext Transfer Protocol]]
+- [[HTTP Strict Transport Security]]
+- [[Clickjacking]]

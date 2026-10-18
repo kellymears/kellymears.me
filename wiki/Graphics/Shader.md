@@ -21,7 +21,7 @@ Two practical notes. Precision and compiler optimization settings change results
 - [[OKLCH]]
 - [[Cellular Automaton]]
 - [[Shader Compilation Stutter]]
-- [[Tone Mapping]]
+- [[WebGPU]]
 - [[Normal Mapping]]
 - [[Deferred Shading]]
 

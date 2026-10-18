@@ -32,3 +32,4 @@ Test environments frequently emulate the preference by default, which means ever
 - [[Motion Blur]]
 - [[Skeleton Screen]]
 - [[View Transitions]]
+- [[Scroll-Driven Animations]]

@@ -25,3 +25,4 @@ Not every framework uses this model — Svelte compiles away the diffing entirel
 - [[Edit Distance]]
 - [[Persistent Data Structure]]
 - [[Event Delegation]]
+- [[Reactive Signals]]

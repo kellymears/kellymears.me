@@ -25,3 +25,4 @@ This layer is orthogonal to [[Cache Invalidation]] inside an application's own d
 - [[Thundering Herd]]
 - [[HTTP Status Code]]
 - [[Hypertext Transfer Protocol]]
+- [[Back-Forward Cache]]

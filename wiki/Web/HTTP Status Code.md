@@ -32,5 +32,5 @@ Getting codes right has practical consequences:
 A [[Smoke Test]] after deploy usually starts by checking that key URLs return 200.
 
 ## See also
-- [[HTTP Caching]]
+- [[Fetch API]]
 - [[Hypertext Transfer Protocol]]

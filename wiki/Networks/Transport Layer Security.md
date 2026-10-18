@@ -31,5 +31,5 @@ TLS encrypts content but not everything. The server's IP address is visible, and
 - [[Certificate Authority]]
 - [[QUIC]]
 - [[HTTP2 and HTTP3]]
-- [[DNS over HTTPS]]
+- [[HTTP Strict Transport Security]]
 - [[Reverse Proxy]]

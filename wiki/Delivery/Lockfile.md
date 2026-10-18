@@ -28,3 +28,4 @@ A second: how installed packages are laid out on disk is a property of the packa
 - [[Dependency Hell]]
 - [[Vendoring]]
 - [[Automated Dependency Updates]]
+- [[Subresource Integrity]]

@@ -32,3 +32,4 @@ The same model appears elsewhere: [[Code Signing]] certificates for software, de
 - [[Code Signing]]
 - [[Caller ID Authentication]]
 - [[Supply Chain Security]]
+- [[HTTP Strict Transport Security]]

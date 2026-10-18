@@ -15,7 +15,7 @@ The tradeoff CDNs make explicit is between consistency and locality: an edge nod
 
 ## See also
 - [[Anycast]]
-- [[Domain Name System]]
+- [[Subresource Integrity]]
 - [[Load Balancing]]
 - [[Eventual Consistency]]
 - [[API Gateway]]

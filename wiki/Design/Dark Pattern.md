@@ -24,3 +24,4 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Touch Target Size]]
 - [[Modal Dialog]]
 - [[Data-Ink Ratio]]
+- [[Clickjacking]]

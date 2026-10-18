@@ -30,6 +30,6 @@ The line between the two has blurred. A [[Signed Distance Field]] stores shapes 
 ## See also
 - [[Bézier Curve]]
 - [[Rasterization]]
-- [[Signed Distance Field]]
+- [[HTML Canvas]]
 - [[Aliasing]]
 - [[Font Rendering]]

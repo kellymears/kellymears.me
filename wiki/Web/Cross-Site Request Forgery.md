@@ -30,3 +30,4 @@ Two boundaries are worth knowing. CSRF defenses assume no [[Cross-Site Scripting
 - [[Content Security Policy]]
 - [[Defensive Default]]
 - [[OAuth]]
+- [[Clickjacking]]

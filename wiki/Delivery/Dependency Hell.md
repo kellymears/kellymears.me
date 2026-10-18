@@ -38,3 +38,4 @@ Dependencies are also a security surface. Each one can be compromised, typosquat
 - [[Dynamic Linking]]
 - [[Automated Dependency Updates]]
 - [[Backtracking]]
+- [[ES Modules]]

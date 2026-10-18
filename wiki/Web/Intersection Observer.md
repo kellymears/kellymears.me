@@ -38,7 +38,7 @@ A version 2 adds `trackVisibility`, which also reports whether the element is co
 Observers are cheap, not free: thousands of targets or many thresholds still cost work each frame. One shared observer per purpose, with `unobserve()` once an element has done its job, keeps it light.
 
 ## See also
-- [[Lazy Loading]]
+- [[Scroll-Driven Animations]]
 - [[Layout Thrashing]]
 - [[requestAnimationFrame]]
 - [[Container Query]]
