@@ -29,3 +29,4 @@ The main practical difficulty is noise. Implementations can legitimately differ:
 - [[Fuzzing]]
 - [[Shadow Traffic]]
 - [[Golden File Testing]]
+- [[Delta Debugging]]

@@ -22,3 +22,5 @@ The hard part is the one the technique's name is honest about: finding a propert
 - [[Boundary Value Analysis]]
 - [[Test Oracle]]
 - [[Design by Contract]]
+- [[Delta Debugging]]
+- [[Pairwise Testing]]

@@ -16,7 +16,7 @@ Purely random input finds shallow bugs quickly but rarely gets past the first ch
 - **Coverage-guided** fuzzers, popularized by American Fuzzy Lop (AFL) and libFuzzer, use [[Instrumentation]] to observe which code paths each input reaches and keep any input that discovers new ones as a seed for further mutation. The fuzzer evolves inputs that burrow steadily deeper into the program, an approach close to [[Mutation Testing]] turned on the input rather than the code.
 - **Grammar-based** fuzzers generate inputs from a description of the format, so they always get past the parser and test the logic behind it.
 
-Fuzzing pairs with sanitizers, compiler options that turn silent memory corruption into immediate crashes, since a buffer overflow that doesn't crash is invisible to a fuzzer. When a fuzzer finds a failure, it *minimizes* the input to the smallest one that still triggers it, producing a [[Reproducible Case]]. That is the same shrinking step [[Property-Based Testing]] performs. The two sit on a spectrum: property tests generate structured inputs and check a stated property, while fuzzers generate raw inputs and check that nothing breaks.
+Fuzzing pairs with [[Sanitizer|sanitizers]], compiler options that turn silent memory corruption into immediate crashes, since a buffer overflow that doesn't crash is invisible to a fuzzer. When a fuzzer finds a failure, it *[[Delta Debugging|minimizes]]* the input to the smallest one that still triggers it, producing a [[Reproducible Case]]. That is the same shrinking step [[Property-Based Testing]] performs. The two sit on a spectrum: property tests generate structured inputs and check a stated property, while fuzzers generate raw inputs and check that nothing breaks.
 
 Fuzzing is a major source of security fixes, because parsers of untrusted input, such as image decoders, font renderers, network protocols, and file formats, are where attackers aim. Google's OSS-Fuzz has run continuous fuzzing on open source projects since 2016 and found tens of thousands of bugs. It strengthens [[Supply Chain Security]] in a quiet way, catching flaws in the libraries everyone depends on. The input fuzzers reach for first, with malformed lengths, bad [[Character Encoding]], and deep nesting, is a list of the assumptions [[Postel's Law]] invites programs to make.
 
@@ -24,8 +24,6 @@ Fuzzing is a major source of security fixes, because parsers of untrusted input,
 - [[Property-Based Testing]]
 - [[Mutation Testing]]
 - [[Instrumentation]]
-- [[Reproducible Case]]
-- [[Supply Chain Security]]
 - [[Cross-Site Scripting]]
 - [[Code Coverage]]
 - [[Differential Testing]]

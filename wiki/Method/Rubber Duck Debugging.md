@@ -25,3 +25,4 @@ The technique's real relative is not conversation but writing: forcing a problem
 - [[Curse of Knowledge]]
 - [[Pair Programming]]
 - [[Desirable Difficulty]]
+- [[Debugger]]

@@ -33,3 +33,4 @@ Flags accumulate. A flag whose feature has fully shipped is dead conditional log
 - [[Continuous Integration]]
 - [[Documentation Rot]]
 - [[Release Train]]
+- [[Pairwise Testing]]

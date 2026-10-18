@@ -34,3 +34,4 @@ Several failure modes are worth knowing because they all produce a *false* green
 - [[Three-Way Merge]]
 - [[Git Hook]]
 - [[Deployment Pipeline]]
+- [[Test Impact Analysis]]

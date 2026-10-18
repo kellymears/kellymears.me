@@ -25,3 +25,4 @@ Thrashing is hard to spot in code review because the expensive line looks harmle
 - [[Frame Pacing]]
 - [[Compositor]]
 - [[N+1 Query Problem]]
+- [[Profiling]]

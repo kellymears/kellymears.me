@@ -23,3 +23,4 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Formal Verification]]
 - [[Halting Problem]]
 - [[Lambda Calculus]]
+- [[Sanitizer]]

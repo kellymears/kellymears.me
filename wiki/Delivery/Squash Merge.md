@@ -26,3 +26,4 @@ Squash merging pairs naturally with [[Trunk-Based Development]], where branches 
 ## Related
 - [[Code Review]]
 - [[Version Control]]
+- [[Git Bisect]]

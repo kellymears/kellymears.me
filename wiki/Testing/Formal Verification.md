@@ -31,3 +31,4 @@ Practical verification therefore sits on a spectrum with testing. [[Static Analy
 - [[Logical Clock]]
 - [[Two-Phase Commit]]
 - [[Halting Problem]]
+- [[Symbolic Execution]]

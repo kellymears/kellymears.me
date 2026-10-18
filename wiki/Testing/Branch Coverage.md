@@ -25,3 +25,4 @@ There is also a measurement artifact worth recognizing. When two runners instrum
 - [[Chesterton's Fence]]
 - [[Vacuous Truth]]
 - [[Fail Fast]]
+- [[Symbolic Execution]]

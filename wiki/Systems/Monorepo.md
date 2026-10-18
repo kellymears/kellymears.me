@@ -25,3 +25,4 @@ Package managers support the pattern through *workspaces*: a root manifest listi
 - [[Semantic Versioning]]
 - [[Bundler]]
 - [[Silent Failure]]
+- [[Test Impact Analysis]]

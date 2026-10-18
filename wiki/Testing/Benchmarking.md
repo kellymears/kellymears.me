@@ -20,7 +20,7 @@ The common ways a benchmark lies:
 
 Benchmarks drive decisions, so they attract optimization aimed at the score rather than real use. GPU drivers and phones have been caught detecting benchmark programs and changing behavior for them. Machine learning leaderboards suffer when models are tuned against fixed test sets, a form of [[Overfitting]]. This is [[Goodhart's Law]] in a lab coat: once a benchmark becomes the target, it stops measuring general performance.
 
-Used well, benchmarks catch performance regressions in [[Continuous Integration]] the way tests catch functional ones, by tracking results over time and flagging significant changes. They also keep optimization honest. [[Premature Optimization]] is often optimization without measurement, and a profiler shows where time actually goes before a benchmark confirms the fix helped. [[Performance Budget]] targets for web pages are benchmarks expressed as limits. [[Frame Pacing]] shows the general lesson: averages hide the stutter, and percentiles reveal it.
+Used well, benchmarks catch performance regressions in [[Continuous Integration]] the way tests catch functional ones, by tracking results over time and flagging significant changes. They also keep optimization honest. [[Premature Optimization]] is often optimization without measurement, and a [[Profiling|profiler]] shows where time actually goes before a benchmark confirms the fix helped. [[Performance Budget]] targets for web pages are benchmarks expressed as limits. [[Frame Pacing]] shows the general lesson: averages hide the stutter, and percentiles reveal it.
 
 ## See also
 - [[Load Testing]]
@@ -28,4 +28,3 @@ Used well, benchmarks catch performance regressions in [[Continuous Integration]
 - [[Goodhart's Law]]
 - [[Thermal Throttling]]
 - [[Performance Budget]]
-- [[Overfitting]]

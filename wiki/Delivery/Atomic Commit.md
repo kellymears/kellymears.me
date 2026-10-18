@@ -25,3 +25,4 @@ Two notes for shared working copies. Stage by explicit path — a bulk add captu
 - [[Version Control]]
 - [[Pull Request]]
 - [[Plausible Mechanism]]
+- [[Git Bisect]]

@@ -28,3 +28,4 @@ Undecidability applies to the general case. For restricted models, such as a [[F
 - [[Lambda Calculus]]
 - [[Recursion]]
 - [[Compiler]]
+- [[Symbolic Execution]]

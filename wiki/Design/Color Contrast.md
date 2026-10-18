@@ -32,3 +32,4 @@ Contrast is one of the few accessibility criteria a machine can genuinely evalua
 - [[Easing]]
 - [[Color Vision Deficiency]]
 - [[Visual Hierarchy]]
+- [[Accessibility Testing]]

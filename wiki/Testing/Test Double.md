@@ -26,3 +26,4 @@ The second risk is that a double drifts from the real interface, so the tests pa
 - [[Large Language Model]]
 - [[Integration Test]]
 - [[Fingerprint]]
+- [[Test Smell]]

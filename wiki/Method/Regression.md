@@ -19,3 +19,5 @@ Guarding against regressions is what a test suite is *for*, and the guard only e
 - [[Version Control]]
 - [[Root Cause Analysis]]
 - [[Visual Regression Testing]]
+- [[Git Bisect]]
+- [[Test Impact Analysis]]

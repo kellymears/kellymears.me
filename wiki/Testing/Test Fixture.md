@@ -25,3 +25,4 @@ Two further notes. Fixtures should be *local and deterministic* where the assert
 ## Related
 - [[Unit Test]]
 - [[Nondeterminism]]
+- [[Test Smell]]
