@@ -15,9 +15,9 @@ Its limitation is that a rasterizer sees one [[Polygon Mesh|triangle]] at a time
 Performance work in a rasterizer is mostly about reducing [[Draw Call|draw calls]] and avoiding stalls where the processor and the graphics device wait on each other. Passing small per-draw values directly rather than through shared buffers removes a whole class of synchronization hazard.
 
 ## See also
-- [[Voxel]]
+- [[Shadow Volume]]
 - [[Barycentric Coordinates]]
-- [[Aliasing]]
+- [[Graphics Pipeline]]
 - [[Culling]]
 - [[Deferred Shading]]
 

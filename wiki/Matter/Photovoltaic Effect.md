@@ -27,7 +27,7 @@ Panels produce direct current, so homes and the grid need inverters to convert i
 The same physics runs in reverse in an LED, where current produces light, and in camera sensors, which count photons by the charge they free.
 
 ## See also
-- [[Black-Body Radiation]]
+- [[Image Sensor]]
 - [[Fluorescence]]
 - [[Thermoelectric Effect]]
 - [[Laser]]

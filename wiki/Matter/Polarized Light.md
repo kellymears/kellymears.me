@@ -24,6 +24,6 @@ Crossed polarizers also reveal **stress birefringence**: strained plastics and t
 - [[Rayleigh Scattering]]
 - [[Glass]]
 - [[Antenna]]
-- [[Wave Interference]]
+- [[Liquid-Crystal Display]]
 - [[Fresnel Effect]]
 - [[Stereoscopy]]

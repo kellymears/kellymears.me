@@ -29,5 +29,5 @@ Animation also has gameplay consequences. Attack and dodge timing in action game
 - [[Transformation Matrix]]
 - [[Keyframe Animation]]
 - [[Twelve Basic Principles of Animation]]
-- [[Polygon Mesh]]
+- [[Stop Motion]]
 - [[Verlet Integration]]

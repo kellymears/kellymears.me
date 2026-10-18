@@ -32,3 +32,4 @@ Buffers also hold more than color. Renderers use many intermediate images per fr
 - [[High Dynamic Range]]
 - [[Racing the Beam]]
 - [[Frame Rate]]
+- [[Graphics Pipeline]]

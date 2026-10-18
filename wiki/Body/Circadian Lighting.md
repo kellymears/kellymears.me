@@ -25,7 +25,7 @@ Popular advice compresses this into "blue light is bad", which overstates the ca
 ## See also
 - [[Insomnia]]
 - [[Digital Eye Strain]]
-- [[Fluorescence]]
+- [[OLED]]
 - [[LED Flicker]]
 - [[Chronotype]]
 - [[Black-Body Radiation]]

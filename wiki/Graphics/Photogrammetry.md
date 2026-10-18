@@ -36,6 +36,6 @@ The same camera-solving step now feeds [[Gaussian Splatting]], which skips meshe
 ## See also
 - [[Stereoscopy]]
 - [[Virtualized Geometry]]
-- [[Image-Based Lighting]]
-- [[Voxel]]
-- [[Motion Capture]]
+- [[Image Sensor]]
+- [[Utah Teapot]]
+- [[Chroma Key]]

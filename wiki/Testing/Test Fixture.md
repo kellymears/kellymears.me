@@ -28,3 +28,4 @@ Two further notes. Fixtures should be *local and deterministic* where the assert
 - [[Test Smell]]
 - [[Test Data Builder]]
 - [[Test Parallelization]]
+- [[Utah Teapot]]

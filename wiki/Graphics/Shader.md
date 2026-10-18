@@ -15,7 +15,7 @@ Shaders are where nearly all visual character lives: lighting, shadowing, atmosp
 Two practical notes. Precision and compiler optimization settings change results — strict math is slower and reproducible, fast math is neither. And color space handling is a persistent source of quiet error: an image tagged with the wrong profile lets display adjustments leak into exported output.
 
 ## See also
-- [[Rasterization]]
+- [[Graphics Pipeline]]
 - [[Voxel]]
 - [[Graphics API]]
 - [[Shading Model]]

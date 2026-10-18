@@ -29,5 +29,5 @@ They generalize: a point in a tetrahedron has four weights, and blending between
 
 ## See also
 - [[Tessellation]]
-- [[Graphics Processing Unit]]
+- [[Graphics Pipeline]]
 - [[Transformation Matrix]]

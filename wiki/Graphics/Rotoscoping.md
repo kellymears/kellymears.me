@@ -21,6 +21,6 @@ In visual effects, rotoscoping is everyday labor. The glowing lightsabers in the
 Software increasingly automates it. Tracking follows shapes from frame to frame using the same motion estimation that video codecs rely on; see [[Video Compression]]. Neural networks trained to separate people and objects from backgrounds now produce rough mattes instantly, leaving artists to refine the edges; see [[Neural Network]].
 
 ## See also
-- [[Apparent Motion]]
-- [[Skeletal Animation]]
+- [[Stop Motion]]
+- [[Chroma Key]]
 - [[Keyframe Animation]]

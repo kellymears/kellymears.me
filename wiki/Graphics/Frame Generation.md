@@ -20,7 +20,7 @@ Genres sorted by sensitivity to latency, from [[Rhythm Game|rhythm]] and fightin
 ## See also
 - [[Denoising]]
 - [[Frame Rate]]
-- [[Game Feel]]
+- [[Interlacing]]
 - [[Video Compression]]
 - [[Rollback Netcode]]
 - [[Motion Blur]]

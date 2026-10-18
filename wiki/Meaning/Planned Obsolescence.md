@@ -21,7 +21,7 @@ The usual exhibit for the strong version is the Phoebus cartel: manufacturers of
 
 ## Related
 - [[Internet of Things]]
-- [[Truncation Bias]]
+- [[OLED]]
 - [[Terror Management Theory]]
 - [[Specific Absorption Rate]]
 - [[Sensitivity and Specificity]]

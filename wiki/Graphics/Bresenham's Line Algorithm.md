@@ -29,3 +29,4 @@ The algorithm is a classic of efficient computing: it replaces arithmetic the ha
 - [[Pixel Art]]
 - [[Vector Graphics]]
 - [[Bitwise Operation]]
+- [[Vector Display]]

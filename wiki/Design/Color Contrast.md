@@ -20,7 +20,7 @@ Contrast is one of the few accessibility criteria a machine can genuinely evalua
 - [[OKLCH]]
 - [[Dark Mode]]
 - [[Color Scale]]
-- [[Motion Design]]
+- [[Liquid-Crystal Display]]
 - [[Staggered Animation]]
 - [[High Dynamic Range]]
 - [[Metamerism]]

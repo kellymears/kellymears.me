@@ -21,11 +21,11 @@ The output path fails in many places, because each layer has to pass metadata th
 HDR also changes how UI is designed. Interface elements need a fixed paper-white level, or menus become uncomfortably bright next to dark scenes. That is a [[Color Contrast]] problem in absolute units rather than relative ones.
 
 ## See also
-- [[Tone Mapping]]
+- [[Image Sensor]]
 - [[Image-Based Lighting]]
 - [[OKLCH]]
-- [[Shader]]
-- [[Dark Mode]]
+- [[Liquid-Crystal Display]]
+- [[OLED]]
 - [[Opponent Process Theory]]
 - [[Color Gamut]]
 - [[Gamma Correction]]

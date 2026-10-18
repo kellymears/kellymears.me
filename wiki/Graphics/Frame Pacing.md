@@ -28,5 +28,5 @@ The general lesson applies outside graphics: for interactive systems, **variance
 - [[Debounce and Throttle]]
 - [[Racing the Beam]]
 - [[Resource Starvation]]
-- [[Thermal Throttling]]
+- [[Interlacing]]
 - [[Screen Tearing]]

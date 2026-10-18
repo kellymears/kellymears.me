@@ -30,5 +30,5 @@ Real-time graphics spent decades approximating global illumination. Hardware ray
 ## See also
 - [[Denoising]]
 - [[Caustics]]
-- [[High Dynamic Range]]
+- [[Utah Teapot]]
 - [[Volumetric Lighting]]

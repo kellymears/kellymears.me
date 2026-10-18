@@ -30,5 +30,5 @@ Games and GPUs often render glyphs once into a texture atlas and reuse them. Val
 
 ## See also
 - [[Emoji]]
-- [[Text Truncation]]
-- [[ASCII Art]]
+- [[Liquid-Crystal Display]]
+- [[OLED]]

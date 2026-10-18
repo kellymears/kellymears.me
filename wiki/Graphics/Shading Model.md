@@ -32,3 +32,4 @@ Shading models are also a stylistic choice. [[Cel Shading]] deliberately quantiz
 - [[Ambient Occlusion]]
 - [[Subsurface Scattering]]
 - [[Image-Based Lighting]]
+- [[Utah Teapot]]

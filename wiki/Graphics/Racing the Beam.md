@@ -20,5 +20,5 @@ Reproducing these tricks faithfully is hard. An emulator must model timing down 
 Modern displays still scan out line by line, top to bottom, without a beam. Normally a renderer finishes a whole frame and hands it over during the blanking interval; see [[Swap Chain]]. **Beam racing** in the modern sense renders strips of the frame just ahead of scan-out, cutting latency to a fraction of a frame. Some emulators and virtual reality systems use it, trading safety margin for responsiveness, since any strip that finishes late tears; see [[Input Latency]] and [[Frame Pacing]].
 
 ## See also
-- [[Color Cycling]]
-- [[Shoot 'em Up]]
+- [[Interlacing]]
+- [[Vector Display]]

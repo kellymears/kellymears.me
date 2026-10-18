@@ -32,3 +32,4 @@ Graphics usually pretends lenses don't exist, imagining a perfect pinhole camera
 ## See also
 - [[Polarized Light]]
 - [[Laser]]
+- [[Image Sensor]]

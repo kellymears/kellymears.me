@@ -26,8 +26,8 @@ The alternatives are known. **Constant-current reduction** dims by lowering curr
 ## See also
 - [[Color Temperature]]
 - [[Apparent Motion]]
-- [[Reduced Motion]]
-- [[Accessibility]]
+- [[Liquid-Crystal Display]]
+- [[OLED]]
 - [[Latency and Jitter]]
 - [[Circadian Lighting]]
 - [[Sensory Overload]]

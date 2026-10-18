@@ -26,7 +26,7 @@ GPUs handle sRGB textures and framebuffers in hardware, converting to linear on 
 - [[Shading Model]]
 - [[Linear Interpolation]]
 - [[Weber-Fechner Law]]
-- [[OKLCH]]
+- [[Image Sensor]]
 - [[Color Scale]]
 - [[Aliasing]]
 - [[Color Contrast]]

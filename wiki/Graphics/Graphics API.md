@@ -34,3 +34,4 @@ The API also shapes how frames reach the screen, through the [[Swap Chain]] and 
 - [[Deferred Shading]]
 - [[Frame Pacing]]
 - [[Virtualized Geometry]]
+- [[Graphics Pipeline]]

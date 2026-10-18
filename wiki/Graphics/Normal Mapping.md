@@ -24,7 +24,7 @@ Normal mapping is one input to [[Physically Based Rendering]], where it works to
 - [[Shading Model]]
 - [[Tessellation]]
 - [[Texture Compression]]
-- [[Mipmapping]]
+- [[Shadow Volume]]
 - [[Ambient Occlusion]]
 - [[Skeuomorphism]]
 - [[Texture Mapping]]

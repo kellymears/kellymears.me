@@ -29,3 +29,4 @@ The same pattern recurs outside processors. Any staged process gains throughput 
 - [[Microcode]]
 - [[Memory Hierarchy]]
 - [[Assembly Language]]
+- [[Graphics Pipeline]]

@@ -26,8 +26,8 @@ Modern pixel art often mixes eras. Games such as *Celeste*, *Stardew Valley*, an
 Its appeal is partly economic, since small teams can produce consistent art, and partly creative: a tight canvas forces clarity. It sits alongside other deliberately non-photorealistic styles such as [[Cel Shading]] and [[Voxel]] art, a 3D cousin built from cubes.
 
 ## See also
-- [[GIF]]
+- [[Vector Display]]
 - [[ASCII Art]]
-- [[Favicon]]
+- [[Stop Motion]]
 - [[Game Jam]]
 - [[Color Cycling]]

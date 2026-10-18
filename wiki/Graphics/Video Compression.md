@@ -28,7 +28,7 @@ Starved of bits, codecs fail in recognizable ways: blockiness, smeared detail, a
 Motion vectors have uses beyond compression. Game renderers produce similar per-pixel motion data to upscale images and to generate in-between frames; see [[Temporal Upscaling]] and [[Frame Generation]]. The limits on how far any of this can go are set by [[Information Theory]]; see [[Data Compression]].
 
 ## See also
-- [[GIF]]
+- [[Interlacing]]
 - [[Rotoscoping]]
-- [[Frame Rate]]
+- [[Chroma Key]]
 - [[Adobe Flash]]

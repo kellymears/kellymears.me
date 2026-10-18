@@ -19,7 +19,7 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 - [[Screen Space Reflections]]
 - [[Signed Distance Field]]
 - [[Ray Marching]]
-- [[Monte Carlo Method]]
+- [[Shadow Volume]]
 - [[Caustics]]
 - [[Bounding Volume Hierarchy]]
 - [[Ambient Occlusion]]
@@ -29,6 +29,6 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 ## Related
 - [[Blue Noise]]
 - [[Reverberation]]
-- [[Inverse-Square Law]]
+- [[Utah Teapot]]
 - [[Subsurface Scattering]]
 - [[Baked Lighting]]

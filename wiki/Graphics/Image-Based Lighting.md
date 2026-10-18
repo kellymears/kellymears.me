@@ -28,7 +28,7 @@ Games place **reflection probes** throughout a level, each capturing the surroun
 The captured range far exceeds what displays show, so a [[Tone Mapping]] step compresses it. It pairs naturally with [[Ambient Occlusion]], which darkens the places where the environment's light would be blocked.
 
 ## See also
-- [[Rendering Equation]]
-- [[Screen Space Reflections]]
+- [[Shadow Volume]]
+- [[Chroma Key]]
 - [[Photogrammetry]]
 - [[Gaussian Splatting]]

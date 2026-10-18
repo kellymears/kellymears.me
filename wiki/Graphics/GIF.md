@@ -22,7 +22,7 @@ As a video format, GIF is wildly inefficient. Each frame is compressed mostly on
 That GIF persists anyway shows how support everywhere outweighs technical merit. Every browser, app, and image tool reads it, and it needs no player; see [[Path Dependence]] and [[Lindy Effect]]. Archivists value it for the same reason; see [[Digital Preservation]].
 
 ## See also
-- [[JPEG]]
+- [[Interlacing]]
 - [[Sprite]]
 - [[Modem]]
 - [[Color Cycling]]

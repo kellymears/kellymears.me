@@ -23,6 +23,6 @@ Blur doesn't fix uneven frame delivery. A smooth image depends first on consiste
 ## See also
 - [[Apparent Motion]]
 - [[Frame Rate]]
-- [[Aliasing]]
-- [[Reduced Motion]]
+- [[Stop Motion]]
+- [[Chroma Key]]
 - [[Post-Processing]]

@@ -28,7 +28,7 @@ The latest step is *GPU-driven rendering*, in which the GPU itself decides what 
 ## See also
 - [[Virtualized Geometry]]
 - [[Sprite]]
-- [[Shader]]
+- [[Graphics Pipeline]]
 - [[Rasterization]]
 - [[Graphics Processing Unit]]
 - [[WebGPU]]

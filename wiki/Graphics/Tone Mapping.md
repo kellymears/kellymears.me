@@ -23,7 +23,7 @@ Tone mapping is a perceptual problem, not a mathematical one, so its references 
 ## See also
 - [[Weber-Fechner Law]]
 - [[Physically Based Rendering]]
-- [[Shader]]
+- [[Image Sensor]]
 - [[Game Modding]]
 - [[Easing]]
 - [[Dark Adaptation]]

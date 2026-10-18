@@ -27,5 +27,5 @@ Alpha has limits in what it can represent. A single value per pixel can't expres
 - [[Scatter Plot]]
 - [[Sprite]]
 - [[GIF]]
-- [[Aliasing]]
+- [[Chroma Key]]
 - [[Order-Independent Transparency]]

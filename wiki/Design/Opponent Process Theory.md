@@ -17,7 +17,7 @@ For design the theory sits underneath perceptual color models rather than compet
 ## See also
 - [[Accessibility]]
 - [[Design Token]]
-- [[Ground Truth]]
+- [[Image Sensor]]
 - [[Plausible Mechanism]]
 - [[Color Vision Deficiency]]
 - [[Color Scale]]

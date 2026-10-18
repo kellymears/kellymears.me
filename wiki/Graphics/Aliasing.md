@@ -26,7 +26,7 @@ The remedies all amount to either sampling more or [[Image Resampling|filtering 
 
 ## See also
 - [[Halftone]]
-- [[Wave Interference]]
+- [[Interlacing]]
 - [[Bresenham's Line Algorithm]]
 - [[Blue Noise]]
 - [[Timbre]]

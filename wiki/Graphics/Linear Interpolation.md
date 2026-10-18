@@ -32,6 +32,6 @@ Interpolating between known samples also lets [[Frame Generation]] and [[Tempora
 - [[Bresenham's Line Algorithm]]
 - [[Autoencoder]]
 - [[Keyframe Animation]]
-- [[Skeletal Animation]]
+- [[Image Sensor]]
 - [[Barycentric Coordinates]]
 - [[Transformation Matrix]]

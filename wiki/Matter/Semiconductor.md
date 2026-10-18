@@ -31,4 +31,4 @@ Semiconductor devices obey the same basic physics as other circuits, including [
 - [[Photovoltaic Effect]]
 - [[Superconductivity]]
 - [[Solid-State Drive]]
-- [[Binary Number]]
+- [[Liquid-Crystal Display]]

@@ -26,11 +26,11 @@ The underlying idea is separating what is visible from how it looks, decoupling 
 
 ## See also
 - [[Shading Model]]
-- [[Rasterization]]
+- [[Shadow Volume]]
 - [[Culling]]
 - [[Order-Independent Transparency]]
 - [[Swap Chain]]
 - [[Screen Space Reflections]]
-- [[Shader]]
+- [[Graphics Pipeline]]
 - [[Subsurface Scattering]]
 - [[Post-Processing]]

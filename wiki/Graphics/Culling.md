@@ -25,9 +25,9 @@ Modern engines move culling onto the GPU itself, where compute shaders or mesh s
 ## See also
 - [[Spatial Partitioning]]
 - [[Virtual Scrolling]]
-- [[Depth Buffer]]
+- [[Graphics Pipeline]]
 - [[Deferred Shading]]
 - [[Virtualized Geometry]]
-- [[Rasterization]]
+- [[Shadow Volume]]
 - [[Draw Call]]
 - [[Baked Lighting]]

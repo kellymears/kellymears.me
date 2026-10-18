@@ -36,4 +36,4 @@ On the web, the best resampling is often none: serving each device an image alre
 - [[Seam Carving]]
 - [[Favicon]]
 - [[Pixel Art]]
-- [[Convolution]]
+- [[Interlacing]]

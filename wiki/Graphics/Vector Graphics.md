@@ -29,7 +29,7 @@ The line between the two has blurred. A [[Signed Distance Field]] stores shapes 
 
 ## See also
 - [[Map Projection]]
-- [[Adobe Flash]]
+- [[Vector Display]]
 - [[HTML Canvas]]
 - [[Bresenham's Line Algorithm]]
 - [[Data URI]]

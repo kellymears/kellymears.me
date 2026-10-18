@@ -29,8 +29,9 @@ There are subtler errors too. Luma is computed from gamma-encoded values rather 
 
 ## See also
 - [[Video Compression]]
-- [[Gamma Correction]]
+- [[Chroma Key]]
 - [[Font Rendering]]
 - [[Image Resampling]]
 - [[Texture Compression]]
 - [[JPEG]]
+- [[Interlacing]]

@@ -26,3 +26,4 @@ The practical response designers converged on regardless is to route around the 
 - [[Prosopagnosia]]
 - [[Motion Capture]]
 - [[Rotoscoping]]
+- [[Stop Motion]]
