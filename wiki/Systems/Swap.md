@@ -19,7 +19,7 @@ Swap usage is a symptom that needs context. A large amount sitting in swap and r
 
 ## See also
 - [[Suspend and Hibernation]]
-- [[Out-of-Memory Killer]]
+- [[Dynamic Random-Access Memory]]
 - [[Disk Partition]]
 - [[Memory Leak]]
 - [[Least Recently Used Cache]]

@@ -29,3 +29,4 @@ Both states raise security questions. A suspended machine keeps its memory, incl
 ## See also
 - [[Dynamic Voltage and Frequency Scaling]]
 - [[Page Cache]]
+- [[Dynamic Random-Access Memory]]

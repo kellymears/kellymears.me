@@ -28,7 +28,7 @@ ARPANET's history is a case of infrastructure built for one purpose finding a di
 
 ## See also
 - [[OSI Model]]
-- [[Optical Fiber]]
+- [[Time-Sharing]]
 - [[Telegraph]]
 - [[Delay-Tolerant Networking]]
 - [[Multi-User Dungeon]]

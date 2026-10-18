@@ -23,7 +23,7 @@ Several things make OOM kills hard to diagnose:
 Userspace OOM daemons (earlyoom, systemd-oomd) act earlier, using [[Pressure Stall Information]] or free-memory thresholds, and with policy: kill a whole [[Control Groups|cgroup]] rather than one process, protect the session, prefer the browser tab over the editor. A memory cgroup limit contains the problem further by triggering the killer inside the group before it reaches the rest of the machine. That is [[Fail Fast]] applied to memory: a prompt, scoped kill beats a slow collapse of everything.
 
 ## See also
-- [[Virtual Memory]]
+- [[Dynamic Random-Access Memory]]
 - [[Memory Leak]]
 - [[Control Groups]]
 - [[Systemd]]

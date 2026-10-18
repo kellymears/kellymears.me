@@ -32,6 +32,6 @@ Staying in sync is the practical work of a long-lived fork. The fork adds the or
 - [[The Cathedral and the Bazaar]]
 - [[Protestware]]
 - [[Benevolent Dictator for Life]]
-- [[Strangler Fig Pattern]]
+- [[Unix]]
 - [[Distributed Version Control]]
 - [[Open Core]]

@@ -18,7 +18,7 @@ Scheduled work is the daemon's near relative; see [[Cron]].
 - [[Process]]
 - [[Zombie Process]]
 - [[Code Signing]]
-- [[Observability]]
+- [[Syslog]]
 - [[Unix Signal]]
 
 ## Related

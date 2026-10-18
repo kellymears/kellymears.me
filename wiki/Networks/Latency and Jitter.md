@@ -20,7 +20,7 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Sneakernet]]
 - [[Satellite Internet]]
 - [[Delay-Tolerant Networking]]
-- [[Congestion Control]]
+- [[Memory Hierarchy]]
 - [[Internet Control Message Protocol]]
 - [[Head-of-Line Blocking]]
 - [[Fallacies of Distributed Computing]]

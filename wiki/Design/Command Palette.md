@@ -28,6 +28,6 @@ The palette's weakness is discoverability. People cannot search for a feature th
 
 ## See also
 - [[Autocomplete]]
-- [[Recognition Rather Than Recall]]
+- [[Command-Line Interface]]
 - [[Direct Manipulation]]
 - [[Context Menu]]

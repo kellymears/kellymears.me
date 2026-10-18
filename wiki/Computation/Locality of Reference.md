@@ -36,4 +36,4 @@ Multicore processors add a trap called **false sharing**. When two threads write
 - [[Von Neumann Architecture]]
 - [[Cache Coherence]]
 - [[Translation Lookaside Buffer]]
-- [[Linked List]]
+- [[Memory Hierarchy]]

@@ -26,5 +26,5 @@ Because separate machines' clocks never agree exactly, timestamps can't reliably
 Timestamps appear throughout systems tooling: [[Cron]] schedules, file modification times that drive build tools, and expiry values such as a [[Time to Live]].
 
 ## See also
-- [[Tide]]
+- [[Unix]]
 - [[ISO 8601]]

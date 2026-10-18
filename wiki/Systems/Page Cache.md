@@ -26,7 +26,7 @@ The page cache is a cache like any other: it relies on [[Locality of Reference]]
 
 ## See also
 - [[Device File]]
-- [[Swap]]
+- [[Memory Hierarchy]]
 - [[Atomic File Write]]
 - [[Filesystem]]
 - [[Solid-State Drive]]

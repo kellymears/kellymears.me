@@ -36,4 +36,4 @@ Because SSH is powerful, its servers are constant targets. Internet-facing serve
 - [[Job Control]]
 - [[Pseudoterminal]]
 - [[Configuration Management]]
-- [[Network Socket]]
+- [[Command-Line Interface]]

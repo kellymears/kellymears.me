@@ -33,7 +33,7 @@ A [[Unix Signal]] is the user-space analog, an asynchronous notification deliver
 
 ## See also
 - [[Translation Lookaside Buffer]]
-- [[Event Loop]]
+- [[Time-Sharing]]
 - [[Hardware-in-the-Loop]]
 - [[Watchdog Timer]]
 - [[Real-Time Operating System]]

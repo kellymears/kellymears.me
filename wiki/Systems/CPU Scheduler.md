@@ -28,7 +28,7 @@ The general principle is the one behind every [[Event Loop]]: whoever holds the 
 - [[Concurrency and Parallelism]]
 - [[Context Switch]]
 - [[Simultaneous Multithreading]]
-- [[Resource Starvation]]
+- [[Time-Sharing]]
 - [[Pressure Stall Information]]
 - [[Semaphore]]
 - [[Real-Time Operating System]]

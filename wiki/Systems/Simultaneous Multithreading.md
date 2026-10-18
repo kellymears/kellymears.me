@@ -24,7 +24,7 @@ Sharing a core also shares its internals, and that has a security cost. Since 20
 Designs keep shifting. IBM's POWER processors run eight threads per core. Intel left SMT out of the efficiency cores in its hybrid designs, and dropped it from some 2024 desktop and laptop chips altogether, preferring more cores and lower power per thread, a trade-off tied to [[Dynamic Voltage and Frequency Scaling]] and [[Thermal Throttling]] limits.
 
 ## See also
-- [[CPU Affinity]]
+- [[Instruction Pipelining]]
 - [[CPU Scheduler]]
 - [[Concurrency and Parallelism]]
 - [[Silicon Binning]]

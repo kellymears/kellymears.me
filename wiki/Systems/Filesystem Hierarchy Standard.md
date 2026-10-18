@@ -28,5 +28,6 @@ Distributions have been undoing it. The **usr merge**, adopted by Fedora in 2012
 Not everyone follows the standard. macOS layers its own folders, such as Applications and System, over a hidden Unix tree. NixOS deliberately abandons it, installing every package in its own directory named by a hash of its inputs, so many versions coexist and builds stay reproducible; programs that assume a standard path need compatibility shims there; see [[Reproducible Build]]. Container images usually keep the standard layout, but many contain only a handful of its directories; see [[Containerization]] and [[Overlay Filesystem]].
 
 ## See also
-- [[Boot Process]]
+- [[POSIX]]
 - [[Hard Link]]
+- [[Unix]]

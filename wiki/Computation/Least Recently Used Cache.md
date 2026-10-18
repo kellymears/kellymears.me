@@ -25,3 +25,4 @@ Eviction is not [[Cache Invalidation]]: dropping an entry is safe because it can
 - [[Key-Value Store]]
 - [[Linked List]]
 - [[Cache-Aside]]
+- [[Memory Hierarchy]]

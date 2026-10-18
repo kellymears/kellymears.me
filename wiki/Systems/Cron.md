@@ -25,7 +25,7 @@ The practical rules: use absolute paths, set the environment explicitly, log to 
 - [[Fail Fast]]
 - [[Truncation Bias]]
 - [[Secret Management]]
-- [[Root Cause Analysis]]
+- [[Syslog]]
 - [[Fake Clock]]
 - [[Unix Time]]
 - [[Serverless Computing]]

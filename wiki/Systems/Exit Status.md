@@ -31,7 +31,7 @@ Good command-line tools treat the exit status as part of their interface. Return
 Exit statuses carry no detail. They report that something failed, not what; the explanation belongs on standard error, a stream described under [[File Descriptor]]. Wrapping commands in [[Idempotence|idempotent]] scripts that check statuses at every step is the basis of reliable automation, from [[Cron]] jobs to deployment pipelines.
 
 ## See also
-- [[Process]]
+- [[Command-Line Interface]]
 - [[Fork and Exec]]
 - [[Zombie Process]]
-- [[Continuous Integration]]
+- [[POSIX]]

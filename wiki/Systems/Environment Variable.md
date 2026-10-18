@@ -18,7 +18,7 @@ Directory-scoped environment loaders make per-project variables ergonomic, which
 - [[Secret Management]]
 - [[Dotfiles]]
 - [[Containerization]]
-- [[Least Privilege]]
+- [[Command-Line Interface]]
 - [[XDG Base Directory Specification]]
 
 ## Related

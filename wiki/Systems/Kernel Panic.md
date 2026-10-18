@@ -25,5 +25,5 @@ What happens next matters more than the panic itself. Systems can be set to rebo
 Panics are also a fleet-scale risk. In July 2024, a faulty content update to a widely deployed security product loaded by a Windows kernel driver crashed about 8.5 million machines at once, grounding flights and closing hospitals. The driver read malformed input it hadn't validated, and machines crashed again on every boot. It became a textbook case for [[Canary Release]]s and for keeping third-party code out of the kernel; see [[Cascading Failure]].
 
 ## See also
-- [[Heisenbug]]
+- [[Syslog]]
 - [[CrowdStrike Outage]]

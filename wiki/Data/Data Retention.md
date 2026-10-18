@@ -32,5 +32,5 @@ Retention differs from preservation. [[Digital Preservation]] is about keeping c
 
 ## See also
 - [[Data Broker]]
-- [[Differential Privacy]]
+- [[Syslog]]
 - [[Machine Unlearning]]

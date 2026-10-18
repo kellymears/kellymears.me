@@ -20,6 +20,6 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[GIF]]
 - [[Sunk Cost Fallacy]]
 - [[Second-Order Thinking]]
-- [[Normalization of Deviance]]
+- [[Unix]]
 - [[Two-Sided Market]]
 - [[Enshittification]]

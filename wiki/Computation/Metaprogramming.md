@@ -29,6 +29,6 @@ The costs are about understanding. Code that writes code is harder to read, beca
 A program that does nothing but reproduce itself is the limiting case; see [[Quine]]. Treating code as data also runs through [[Lambda Calculus]], where functions are the only values.
 
 ## See also
-- [[Compiler]]
+- [[Assembly Language]]
 - [[Higher-Order Function]]
 - [[Lexical Scope]]

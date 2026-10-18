@@ -30,7 +30,7 @@ Microcode has become the main way hardware flaws get patched:
 Microcode sits in an awkward position for trust. It runs below the [[Kernel]] and [[Hypervisor]], it is opaque, and its updates can change performance or behavior silently. A benchmark from before and after a microcode update can differ, which matters for [[Benchmarking]] and for reasoning about [[Determinism]] across machines.
 
 ## See also
-- [[Instruction Set Architecture]]
+- [[Instruction Pipelining]]
 - [[Pentium FDIV Bug]]
 - [[Silicon Binning]]
 - [[Dynamic Voltage and Frequency Scaling]]

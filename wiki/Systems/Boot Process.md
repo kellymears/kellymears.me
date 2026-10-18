@@ -28,7 +28,7 @@ Every stage is a place to break. A corrupt bootloader configuration stops the ma
 ## See also
 - [[Over-the-Air Update]]
 - [[MicroVM]]
-- [[Systemd]]
+- [[Assembly Language]]
 - [[CrowdStrike Outage]]
 - [[Full-Disk Encryption]]
 - [[Firmware]]

@@ -33,3 +33,4 @@ Serverless is one point on a spectrum. [[Containerization]] gives more control w
 - [[Webhook]]
 - [[Static Site Generation]]
 - [[MicroVM]]
+- [[Time-Sharing]]

@@ -25,7 +25,7 @@ The TLB also shapes the cost of other operations:
 The TLB rarely appears in application code, but it explains a lot of puzzling performance: why random access is slower than its cache-miss count suggests, and why the same workload speeds up when the pages get bigger.
 
 ## See also
-- [[Virtual Memory]]
+- [[Memory Hierarchy]]
 - [[Page Cache]]
 - [[Context Switch]]
 - [[Swap]]

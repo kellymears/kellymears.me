@@ -18,7 +18,7 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 - [[XML]]
 - [[Request for Comments]]
 - [[Defensive Programming]]
-- [[Design by Contract]]
+- [[POSIX]]
 
 ## Related
 - [[Worse Is Better]]

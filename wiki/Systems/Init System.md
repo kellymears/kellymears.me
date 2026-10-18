@@ -24,3 +24,4 @@ Whichever init a system runs, it remains the process that must never crash: its 
 - [[Rolling Release]]
 - [[Boot Process]]
 - [[Zombie Process]]
+- [[Unix]]

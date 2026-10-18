@@ -24,5 +24,5 @@ The shebang is part of why a script and a compiled binary look the same to whate
 It also explains a classic security hole. Early systems that honored setuid permissions on scripts were open to swapping the script out between the kernel checking it and the interpreter opening it, so most Unix kernels now ignore setuid on scripts entirely; see [[Race Condition]].
 
 ## See also
-- [[Dotfiles]]
-- [[Exit Status]]
+- [[POSIX]]
+- [[Command-Line Interface]]

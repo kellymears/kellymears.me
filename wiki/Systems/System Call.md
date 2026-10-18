@@ -27,7 +27,7 @@ System calls are expensive compared with ordinary function calls, because switch
 System calls are also a natural place to observe and restrict programs. `strace` on Linux prints every call a program makes, which often reveals why something fails faster than reading its source. Sandboxes filter which calls a program may make; Linux's seccomp lets a process lock itself down to a short allowed list, and container runtimes use it alongside [[Linux Namespaces]] to apply [[Least Privilege]]. A [[Hypervisor]] adds another boundary below, intercepting the kernel's own privileged operations.
 
 ## See also
-- [[Memory Allocator]]
+- [[POSIX]]
 - [[Time-of-Check to Time-of-Use]]
 - [[Seccomp]]
 - [[eBPF]]

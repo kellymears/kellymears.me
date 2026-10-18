@@ -25,3 +25,4 @@ What most programming languages call "regex" (PCRE and its descendants: Perl's, 
 - [[String-Searching Algorithm]]
 - [[Esoteric Programming Language]]
 - [[Law of the Instrument]]
+- [[Unix]]

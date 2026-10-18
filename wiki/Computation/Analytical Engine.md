@@ -27,3 +27,4 @@ The design also met problems still familiar. Babbage devised an "anticipating ca
 - [[Enigma Machine]]
 - [[Moore's Law]]
 - [[Spreadsheet]]
+- [[Assembly Language]]

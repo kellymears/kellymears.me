@@ -24,6 +24,6 @@ The practical upshot is that solving a slowdown requires diagnosing which one is
 - [[Coroutine]]
 - [[SIMD]]
 - [[Amdahl's Law]]
-- [[Context Switch]]
+- [[Clock Signal]]
 - [[Communicating Sequential Processes]]
 - [[Lock-Free Data Structure]]

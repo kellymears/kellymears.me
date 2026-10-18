@@ -32,3 +32,4 @@ Their value goes beyond play: stripping out readable syntax, named variables, an
 - [[Regular Expression]]
 - [[Analytical Engine]]
 - [[Collatz Conjecture]]
+- [[Assembly Language]]

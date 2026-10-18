@@ -32,3 +32,4 @@ Managed languages sit a layer above. A [[Garbage Collection]] runtime decides wh
 ## See also
 - [[Out-of-Memory Killer]]
 - [[Copy-on-Write]]
+- [[Dynamic Random-Access Memory]]

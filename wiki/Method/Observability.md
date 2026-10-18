@@ -22,7 +22,7 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 - [[Testing in Production]]
 - [[Logging]]
 - [[Packet Capture]]
-- [[Chaos Engineering]]
+- [[Syslog]]
 
 ## Related
 - [[Daemon]]

@@ -36,4 +36,4 @@ The idea extends beyond native code. A JavaScript [[Bundler]] does a linker's jo
 
 ## See also
 - [[Build System]]
-- [[Call Stack]]
+- [[Assembly Language]]

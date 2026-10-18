@@ -28,3 +28,4 @@ Its most consequential feature for daily debugging is the systemd unit's **autom
 - [[Logging]]
 - [[Suspend and Hibernation]]
 - [[Crash-Only Software]]
+- [[Syslog]]

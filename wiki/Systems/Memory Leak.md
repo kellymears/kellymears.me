@@ -26,7 +26,7 @@ Leaks in code you can't fix, such as a driver, a vendor library, or a long-runni
 - [[Memory Allocator]]
 - [[Virtual Memory]]
 - [[Linked List]]
-- [[Closure]]
+- [[Dynamic Random-Access Memory]]
 - [[Observability]]
 - [[Heisenbug]]
 - [[Load Testing]]

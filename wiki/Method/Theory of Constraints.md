@@ -32,3 +32,4 @@ The theory has critics, who note that real systems often have shifting or multip
 - [[Resource Starvation]]
 - [[Value Stream Mapping]]
 - [[Maximum Flow]]
+- [[Instruction Pipelining]]

@@ -26,4 +26,4 @@ Phones replaced the metaphor with full-screen apps and touch, and web apps moved
 
 ## See also
 - [[Conceptual Metaphor]]
-- [[Context Menu]]
+- [[Command-Line Interface]]

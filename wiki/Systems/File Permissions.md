@@ -29,7 +29,7 @@ Permissions cause everyday errors. A private SSH key readable by others is refus
 
 ## See also
 - [[Filesystem]]
-- [[Inode]]
+- [[POSIX]]
 - [[Binary Number]]
 - [[Kernel]]
 - [[Superuser]]

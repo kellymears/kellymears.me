@@ -24,9 +24,9 @@ The same design appears wherever a fixed pool has to be shared among variable de
 ## See also
 - [[Address Space Layout Randomization]]
 - [[Translation Lookaside Buffer]]
-- [[Memory Leak]]
+- [[Time-Sharing]]
 - [[Rowhammer]]
 - [[Control Groups]]
-- [[Hypervisor]]
+- [[Memory Hierarchy]]
 - [[Memory Allocator]]
 - [[Page Cache]]
