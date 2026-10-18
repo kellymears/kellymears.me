@@ -23,6 +23,7 @@ Diagnosing contention needs per-process detail rather than an aggregate load fig
 - [[Daemon]]
 - [[Port]]
 - [[Observability]]
+- [[Connection Pool]]
 
 ## Related
 - [[Instrumentation]]

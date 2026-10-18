@@ -20,3 +20,4 @@ It's the flip side of [[Rate Limiting]]: rate limiting is a hard external cap a 
 - [[Latency and Jitter]]
 - [[Message Queue]]
 - [[Load Testing]]
+- [[Connection Pool]]

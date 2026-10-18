@@ -16,3 +16,5 @@ The cost is that querying "current state" now requires either replaying potentia
 - [[Message Queue]]
 - [[Write-Ahead Logging]]
 - [[Denormalization]]
+- [[Materialized View]]
+- [[Soft Delete]]

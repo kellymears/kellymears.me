@@ -19,3 +19,4 @@ Embedding models are also usually distinct from the generation model in a pipeli
 - [[Retrieval-Augmented Generation]]
 - [[Large Language Model]]
 - [[Context Window]]
+- [[Inverted Index]]

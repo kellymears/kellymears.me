@@ -18,6 +18,7 @@ RAG competes conceptually with just widening the [[Context Window]] and pasting 
 - [[Vector Database]]
 - [[Context Window]]
 - [[Hallucination]]
+- [[Inverted Index]]
 
 ## Related
 - [[Token Budget]]

@@ -20,6 +20,8 @@ Mature libraries make them practical for real applications: a shared document ty
 - [[WebRTC]]
 - [[Idempotence]]
 - [[Signaling Server]]
+- [[Soft Delete]]
+- [[Universally Unique Identifier]]
 
 ## Related
 - [[Virtual Private Network]]

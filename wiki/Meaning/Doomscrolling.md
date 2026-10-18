@@ -19,3 +19,4 @@ It's distinct from simply staying informed, which has a natural endpoint once th
 - [[Attention Residue]]
 - [[Habit Formation]]
 - [[Default Mode Network]]
+- [[Pagination]]

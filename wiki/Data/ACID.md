@@ -16,6 +16,8 @@ ACID is a single-node concept at heart — it describes what one database's tran
 - [[Two-Phase Commit]]
 - [[Eventual Consistency]]
 - [[Write-Ahead Logging]]
+- [[Saga Pattern]]
+- [[Transactional Outbox]]
 
 ## Related
 - [[Relational Database]]

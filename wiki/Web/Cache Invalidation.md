@@ -22,6 +22,7 @@ The subtlest form is a cache whose *scope* is smaller than assumed: a value memo
 - [[Hash Function]]
 - [[React Server Components]]
 - [[Domain Name System]]
+- [[Materialized View]]
 
 ## Related
 - [[Server-Side Rendering]]

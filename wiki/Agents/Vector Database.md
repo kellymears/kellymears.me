@@ -17,3 +17,4 @@ The metadata-filtering problem is where most real deployments spend their engine
 - [[Retrieval-Augmented Generation]]
 - [[Context Window]]
 - [[Token Budget]]
+- [[Inverted Index]]

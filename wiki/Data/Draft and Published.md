@@ -23,6 +23,7 @@ Two failure patterns recur.
 - [[Headless CMS]]
 - [[Agentic Loop]]
 - [[Feature Flag]]
+- [[Soft Delete]]
 
 ## Related
 - [[Multi-Tenancy]]

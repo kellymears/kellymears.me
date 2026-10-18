@@ -3,8 +3,6 @@ aliases:
   - Durable workflow
   - Workflow engine
   - Durable functions
-  - Saga pattern
-  - Compensating transaction
 tags:
   - networks
 summary: Running long, multi-step processes so that their progress is persisted at every step, letting them survive crashes, restarts, and waits of days without losing their place.
@@ -16,7 +14,7 @@ The common implementation records an **event history** and uses **replay**. The 
 - **Workflow code must be deterministic.** Replay only works if the code takes the same path given the same recorded inputs, so randomness, the clock, and direct I/O must go through the engine. See [[Determinism]].
 - **Side effects should be idempotent.** A step can run, succeed, and crash before its result is recorded, and then it runs again. [[Idempotence]] makes the retry safe.
 
-Durable execution makes some hard patterns ordinary. A workflow can sleep for thirty days waiting for a trial to end, wait indefinitely for a human approval delivered by [[Webhook]], or retry a flaky dependency with backoff for hours, all without a server process staying alive the whole time. Multi-step operations across services that cannot share a transaction use the **saga pattern**: each step has a *compensating action*, such as refunding a charge or releasing a reservation, which the workflow runs in reverse order if a later step fails.
+Durable execution makes some hard patterns ordinary. A workflow can sleep for thirty days waiting for a trial to end, wait indefinitely for a human approval delivered by [[Webhook]], or retry a flaky dependency with backoff for hours, all without a server process staying alive the whole time. Multi-step operations across services that cannot share a transaction use the [[Saga Pattern]]: each step has a *compensating action*, such as refunding a charge or releasing a reservation, which the workflow runs in reverse order if a later step fails.
 
 Before such engines, the same reliability was assembled by hand from a [[Message Queue]], a status column, [[Cron]] jobs that hunt for stuck rows, and an implicit [[Finite State Machine]]. Durable execution makes that state machine explicit and the bookkeeping automatic. [[Background Agent|Long-running agents]] are a natural fit, since an agent run is a long sequence of expensive, failure-prone steps.
 
@@ -28,3 +26,4 @@ Before such engines, the same reliability was assembled by hand from a [[Message
 - [[Finite State Machine]]
 - [[Background Agent]]
 - [[Circuit Breaker]]
+- [[Transactional Outbox]]

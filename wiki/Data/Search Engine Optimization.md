@@ -21,6 +21,7 @@ It is worth being clear about the incentive structure. Search optimization is an
 - [[RSS]]
 - [[Semantic HTML]]
 - [[Backlink]]
+- [[Inverted Index]]
 
 ## Related
 - [[Knowledge Graph]]

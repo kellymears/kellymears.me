@@ -22,3 +22,4 @@ Hash tables promise no ordering. Where ranges or sorted traversal matter, a sort
 - [[Least Recently Used Cache]]
 - [[Relational Database]]
 - [[Determinism]]
+- [[Database Index]]

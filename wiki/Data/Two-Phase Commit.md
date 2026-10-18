@@ -16,6 +16,8 @@ Modern distributed systems mostly route around it rather than fixing it: [[Event
 - [[Consensus Algorithm]]
 - [[Event Sourcing]]
 - [[Eventual Consistency]]
+- [[Saga Pattern]]
+- [[Transactional Outbox]]
 
 ## Related
 - [[CAP Theorem]]

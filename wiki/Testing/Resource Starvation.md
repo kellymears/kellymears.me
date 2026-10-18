@@ -23,6 +23,7 @@ Responses that work: serialize rather than parallelize the contended step, give 
 - [[Token Budget]]
 - [[Pressure Stall Information]]
 - [[CPU Scheduler]]
+- [[Connection Pool]]
 
 ## Related
 - [[Vacuous Truth]]

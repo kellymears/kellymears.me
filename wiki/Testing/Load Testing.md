@@ -34,3 +34,5 @@ Load tests also check the protective machinery: [[Rate Limiting]], [[Backpressur
 - [[Circuit Breaker]]
 - [[Benchmarking]]
 - [[Chaos Engineering]]
+- [[Connection Pool]]
+- [[Database Index]]

@@ -17,3 +17,5 @@ The self-balancing part matters as much as the fan-out: an insert that overflows
 - [[Write-Ahead Logging]]
 - [[Big-O Notation]]
 - [[Bounding Volume Hierarchy]]
+- [[Database Index]]
+- [[Universally Unique Identifier]]

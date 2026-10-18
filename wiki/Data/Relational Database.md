@@ -20,6 +20,9 @@ Two things worth holding onto when working through an abstraction layer. The lay
 - [[Draft and Published]]
 - [[Idempotence]]
 - [[Multi-Tenancy]]
+- [[Database Index]]
+- [[N+1 Query Problem]]
+- [[Connection Pool]]
 
 ## Related
 - [[Seed Data]]

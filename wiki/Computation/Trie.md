@@ -19,3 +19,4 @@ Tries also underlie IP routing tables (longest-prefix match over binary strings)
 - [[Bloom Filter]]
 - [[B-Tree]]
 - [[Big-O Notation]]
+- [[Inverted Index]]

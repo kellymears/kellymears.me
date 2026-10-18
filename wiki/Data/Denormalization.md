@@ -16,3 +16,5 @@ The operational cost is that every denormalized copy is now a piece of data that
 - [[Database Replication]]
 - [[Relational Database]]
 - [[Event Sourcing]]
+- [[Materialized View]]
+- [[N+1 Query Problem]]

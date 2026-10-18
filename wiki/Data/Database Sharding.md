@@ -15,6 +15,7 @@ The partitioning key is the single decision the whole design hangs on, and it's 
 - [[Database Replication]]
 - [[Two-Phase Commit]]
 - [[Multi-Tenancy]]
+- [[Universally Unique Identifier]]
 
 ## Related
 - [[CAP Theorem]]

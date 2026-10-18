@@ -23,6 +23,8 @@ The corresponding design work is usually to make the operation *express the desi
 - [[Conflict-Free Replicated Data Type]]
 - [[Eventual Consistency]]
 - [[Durable Execution]]
+- [[Universally Unique Identifier]]
+- [[Transactional Outbox]]
 
 ## Related
 - [[WebRTC]]

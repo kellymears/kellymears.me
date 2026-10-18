@@ -21,6 +21,7 @@ Lazy loading interacts with perceived performance rather than just measured perf
 - [[React Server Components]]
 - [[Streaming Response]]
 - [[Responsive Images]]
+- [[Pagination]]
 
 ## Related
 - [[Server-Side Rendering]]

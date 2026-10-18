@@ -20,6 +20,7 @@ The same shape appears wherever a view is partial by default: a paginated list, 
 - [[Ground Truth]]
 - [[Observability]]
 - [[Silent Failure]]
+- [[Pagination]]
 
 ## Related
 - [[Falsifiability]]
