@@ -21,7 +21,7 @@ Two things worth holding onto when working through an abstraction layer. The lay
 - [[Database View]]
 - [[Multi-Tenancy]]
 - [[SQLite]]
-- [[N+1 Query Problem]]
+- [[WordPress]]
 - [[Connection Pool]]
 
 ## Related

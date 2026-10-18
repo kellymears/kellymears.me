@@ -29,6 +29,6 @@ A/B testing also carries ethical and strategic risks. Optimizing a single metric
 - [[Statistical Power]]
 - [[Progressive Delivery]]
 - [[Multiple Comparisons Problem]]
-- [[Statistical Significance]]
+- [[Web Analytics]]
 - [[Hawthorne Effect]]
 - [[Natural Experiment]]

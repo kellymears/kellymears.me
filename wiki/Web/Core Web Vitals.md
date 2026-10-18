@@ -26,6 +26,6 @@ Field data (real visitors) and lab data (a synthetic run) frequently disagree, a
 
 ## Related
 - [[React Server Components]]
-- [[Server-Side Rendering]]
+- [[Browser DevTools]]
 - [[Response Time Limits]]
 - [[Long Task]]

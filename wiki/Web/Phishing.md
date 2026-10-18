@@ -35,3 +35,4 @@ Training and simulated phishing campaigns are widespread, but studies find their
 - [[Single Sign-On]]
 - [[Threat Modeling]]
 - [[Barcode]]
+- [[Internationalized Domain Name]]

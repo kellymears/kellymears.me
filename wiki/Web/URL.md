@@ -30,7 +30,7 @@ Parsing is harder than it looks. The original specification (RFC 3986) and the W
 URLs are also an interface. People read them, share them, and bookmark them, so a URL is a promise that the resource will stay there. Breaking that promise is [[Link Rot]]. Clean, stable, readable paths help both users and search engines; see [[Search Engine Optimization]]. Encoding application state in the URL, such as filters and the current page, makes views shareable and keeps the back button working.
 
 ## See also
-- [[Phishing]]
+- [[Internationalized Domain Name]]
 - [[Fetch API]]
 - [[Open Redirect]]
 - [[Wayfinding]]

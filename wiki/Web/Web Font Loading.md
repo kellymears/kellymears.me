@@ -18,7 +18,7 @@ Two practical notes. Build tools that self-host fonts commonly hash the family n
 - [[Layout Shift]]
 - [[Typographic Scale]]
 - [[Performance Budget]]
-- [[Ground Truth]]
+- [[Flash of Unstyled Content]]
 - [[Font Rendering]]
 
 ## Related

@@ -25,7 +25,7 @@ The weak point is binding a public key to an identity. A public key proves only 
 
 ## See also
 - [[Commit Signing]]
-- [[Enigma Machine]]
+- [[Encrypted Media Extensions]]
 - [[Multi-Factor Authentication]]
 - [[Entropy Pool]]
 - [[Single Sign-On]]

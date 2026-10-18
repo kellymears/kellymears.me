@@ -28,3 +28,5 @@ The security problem is breadth. A prompt reading "read and change all your data
 - [[Cross-Site Scripting]]
 - [[Browser Engine]]
 - [[Content Security Policy]]
+- [[Browser DevTools]]
+- [[Pop-up Ad]]

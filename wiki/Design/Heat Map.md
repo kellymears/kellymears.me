@@ -34,4 +34,4 @@ Order matters as much as color. The same table sorted alphabetically looks like 
 
 ## See also
 - [[Treemap]]
-- [[Data Visualization]]
+- [[Web Analytics]]

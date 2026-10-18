@@ -28,7 +28,7 @@ Iframes have costs. Each is a full document with its own scripts, styles, and me
 
 ## See also
 - [[Single Sign-On]]
-- [[Clickjacking]]
+- [[Pop-up Ad]]
 - [[Cross-Origin Isolation]]
 - [[Portal]]
 - [[Third-Party Cookie]]

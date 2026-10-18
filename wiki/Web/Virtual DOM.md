@@ -29,3 +29,4 @@ Not every framework uses this model — Svelte compiles away the diffing entirel
 - [[State Management]]
 - [[Transpiler]]
 - [[jQuery]]
+- [[Model-View-Controller]]

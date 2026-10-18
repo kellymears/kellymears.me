@@ -15,7 +15,7 @@ The design constraint it imposes is real and worth stating. An entrance animatio
 
 ## See also
 - [[Semantic HTML]]
-- [[Server-Side Rendering]]
+- [[Flash of Unstyled Content]]
 - [[Cross-Browser Testing]]
 - [[Hydration]]
 

@@ -32,5 +32,5 @@ Tracking identifiers such as an [[HTTP Cookie]] count as personal data in Europe
 - [[Geospatial Data]]
 - [[Machine Unlearning]]
 - [[Cookie Consent]]
-- [[Explainable AI]]
+- [[Web Analytics]]
 - [[Panopticon]]

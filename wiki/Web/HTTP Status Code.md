@@ -33,4 +33,4 @@ A [[Smoke Test]] after deploy usually starts by checking that key URLs return 20
 
 ## See also
 - [[Captive Portal]]
-- [[Open Redirect]]
+- [[Common Gateway Interface]]

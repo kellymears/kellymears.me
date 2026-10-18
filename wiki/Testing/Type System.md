@@ -30,7 +30,7 @@ Type checking has limits rooted in computation itself. Because of the [[Halting 
 The research frontier pushes types closer to full proofs. [[Type Inference]] removes the need to write most annotations. Dependent types can express "a list of length n" or "a sorted array," blurring into [[Formal Verification]]. Gradual typing lets a codebase add types incrementally, which is how many JavaScript and Python projects adopt them.
 
 ## See also
-- [[Ariane 5 Flight 501]]
+- [[PHP]]
 - [[Dependent Types]]
 - [[Mars Climate Orbiter]]
 - [[Generics]]

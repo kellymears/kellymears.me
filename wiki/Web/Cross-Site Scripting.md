@@ -28,3 +28,4 @@ The root cause across all three is the same: untrusted input rendered into a con
 - [[ANSI Escape Code]]
 - [[Session Management]]
 - [[Open Redirect]]
+- [[PHP]]

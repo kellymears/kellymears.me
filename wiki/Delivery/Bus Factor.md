@@ -16,7 +16,7 @@ That reframing points to what actually raises the number. Writing things down is
 - [[Benevolent Dictator for Life]]
 - [[Transactive Memory]]
 - [[The Cathedral and the Bazaar]]
-- [[Architecture Decision Record]]
+- [[WordPress]]
 - [[XZ Utils Backdoor]]
 - [[Heartbleed]]
 - [[Peter Principle]]

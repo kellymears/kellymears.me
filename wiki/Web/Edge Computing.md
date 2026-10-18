@@ -27,3 +27,4 @@ Outside the web, "edge computing" also means processing data on or near the devi
 ## See also
 - [[Locality of Reference]]
 - [[Islands Architecture]]
+- [[PHP]]

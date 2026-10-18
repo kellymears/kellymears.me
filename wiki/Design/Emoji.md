@@ -31,3 +31,4 @@ In interfaces, emoji can add warmth to [[Microcopy]], but a [[Screen Reader]] re
 ## See also
 - [[Typeface]]
 - [[OpenType Features]]
+- [[Internationalized Domain Name]]

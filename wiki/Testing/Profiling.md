@@ -28,7 +28,7 @@ Continuous profiling, which samples production systems at low overhead all the t
 
 ## See also
 - [[eBPF]]
-- [[Pareto Principle]]
+- [[Browser DevTools]]
 - [[Call Stack]]
 - [[Observability]]
 - [[XZ Utils Backdoor]]

@@ -25,13 +25,13 @@ Cookies compete with bearer tokens such as a [[JSON Web Token]] in a header. Hea
 
 ## See also
 - [[Session Management]]
-- [[Same-Origin Policy]]
+- [[Internationalized Domain Name]]
 - [[Third-Party Cookie]]
 - [[OAuth]]
 - [[Passkey]]
 - [[Packet Capture]]
 - [[Cookie Consent]]
 - [[Web Storage]]
-- [[Hypertext Transfer Protocol]]
+- [[Web Analytics]]
 - [[HTTP Strict Transport Security]]
 - [[Clickjacking]]

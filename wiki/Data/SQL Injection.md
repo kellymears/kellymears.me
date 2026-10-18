@@ -28,7 +28,7 @@ Layered defenses limit the damage when something slips through. The application'
 SQL injection has declined as frameworks made parameterization the default, but it persists in legacy code, hand-built reporting queries, and anywhere a developer reaches for string concatenation because it seemed quicker. It remains a standard case for the principle that the safe path should also be the easy one.
 
 ## See also
-- [[CSV]]
+- [[PHP]]
 - [[Prototype Pollution]]
 - [[Data Breach]]
-- [[Stored Procedure]]
+- [[WordPress]]

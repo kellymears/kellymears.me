@@ -29,7 +29,7 @@ Diagnosing contention needs per-process detail rather than an aggregate load fig
 - [[File Descriptor]]
 
 ## Related
-- [[Instrumentation]]
+- [[Common Gateway Interface]]
 - [[Cron]]
 - [[Vacuous Truth]]
 - [[Truncation Bias]]

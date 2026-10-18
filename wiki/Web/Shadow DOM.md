@@ -23,3 +23,4 @@ The tradeoff mirrors [[Web Components]]' own: real isolation, at the cost of the
 - [[Event Delegation]]
 - [[Screen Reader]]
 - [[Lexical Scope]]
+- [[Flash of Unstyled Content]]

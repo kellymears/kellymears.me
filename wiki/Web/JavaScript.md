@@ -23,4 +23,4 @@ Most professional JavaScript is now written in something slightly different and 
 
 ## See also
 - [[Arbitrary-Precision Arithmetic]]
-- [[Lexical Scope]]
+- [[PHP]]

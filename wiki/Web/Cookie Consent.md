@@ -29,6 +29,7 @@ Browser signals were meant to make the question once rather than everywhere. **D
 The simplest compliant banner is none: a site that sets only essential cookies and uses analytics without personal identifiers needs no permission at all. The banners mostly measure how much tracking a site does.
 
 ## See also
-- [[Modal Dialog]]
+- [[Web Analytics]]
 - [[Data Retention]]
 - [[Data Broker]]
+- [[Pop-up Ad]]

@@ -28,5 +28,5 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 - [[Daemon]]
 - [[Distributed Tracing]]
 - [[Status Page]]
-- [[Columnar Storage]]
+- [[Web Analytics]]
 - [[Service Level Objective]]

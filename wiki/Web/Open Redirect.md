@@ -31,3 +31,4 @@ Checking is harder than it looks. Validators that test whether a value "starts w
 ## See also
 - [[Same-Origin Policy]]
 - [[Content Security Policy]]
+- [[Internationalized Domain Name]]

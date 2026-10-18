@@ -17,7 +17,7 @@ Thrashing is hard to spot in code review because the expensive line looks harmle
 
 ## See also
 - [[Box Model]]
-- [[Document Object Model]]
+- [[Browser DevTools]]
 - [[Critical Rendering Path]]
 - [[Core Web Vitals]]
 - [[Long Task]]

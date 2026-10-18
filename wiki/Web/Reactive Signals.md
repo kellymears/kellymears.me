@@ -36,4 +36,4 @@ Build systems that rebuild only what changed use the same idea. Where [[Optimist
 - [[Spreadsheet]]
 - [[State Management]]
 - [[Islands Architecture]]
-- [[Immutability]]
+- [[Model-View-Controller]]

@@ -19,7 +19,7 @@ Legislative movement has been real: several jurisdictions now require manufactur
 - [[Regulatory Capture]]
 
 ## Related
-- [[Ground Truth]]
+- [[Encrypted Media Extensions]]
 - [[Universal Basic Income]]
 - [[Principal-Agent Problem]]
 - [[Network Effect]]

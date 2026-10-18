@@ -24,3 +24,4 @@ Each notification is an interruption, and the cost of switching attention lasts 
 ## See also
 - [[Background Tab Throttling]]
 - [[Choice Architecture]]
+- [[Pop-up Ad]]

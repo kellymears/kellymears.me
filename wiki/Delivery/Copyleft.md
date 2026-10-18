@@ -24,6 +24,6 @@ Incompatible copyleft terms cannot legally combine in one distributed work, and 
 - [[Benevolent Dictator for Life]]
 - [[Open Core]]
 - [[Commons-Based Peer Production]]
-- [[Unix]]
+- [[WordPress]]
 - [[Software Fork]]
 - [[Developer Certificate of Origin]]

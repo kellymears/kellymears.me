@@ -31,7 +31,7 @@ It has costs. Over-injected code passes many tiny interfaces around and becomes 
 Dependency injection is also a [[Seam]], in Michael Feathers's sense: a place where behavior can be changed without editing the code, which is how legacy code gets brought under test with a [[Characterization Test]].
 
 ## See also
-- [[Lexical Scope]]
+- [[Model-View-Controller]]
 - [[Leaky Abstraction]]
 - [[Testability]]
 - [[Branch by Abstraction]]

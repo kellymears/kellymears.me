@@ -18,7 +18,7 @@ For a page whose content is genuinely fixed, static generation dominates on ever
 
 ## See also
 - [[Server-Side Rendering]]
-- [[Incremental Static Regeneration]]
+- [[WordPress]]
 - [[Islands Architecture]]
 - [[Performance Budget]]
 - [[Cache Invalidation]]

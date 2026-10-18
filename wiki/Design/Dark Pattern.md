@@ -21,7 +21,7 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Attention Economy]]
 - [[Cookie Consent]]
 - [[Gamification]]
-- [[Enshittification]]
+- [[Pop-up Ad]]
 - [[Modal Dialog]]
 - [[Loss Aversion]]
 - [[Clickjacking]]

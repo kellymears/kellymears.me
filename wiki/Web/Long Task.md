@@ -36,6 +36,6 @@ Frameworks absorb some of this. React's concurrent rendering slices rendering wo
 
 ## See also
 - [[Virtual Scrolling]]
-- [[Event Loop]]
+- [[Browser DevTools]]
 - [[Web Worker]]
 - [[Debounce and Throttle]]

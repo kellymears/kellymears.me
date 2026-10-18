@@ -23,3 +23,4 @@ SSR sits on a spectrum with [[Static Site Generation]] (render once at build tim
 - [[Serverless Computing]]
 - [[Open Graph]]
 - [[Hypermedia]]
+- [[Model-View-Controller]]

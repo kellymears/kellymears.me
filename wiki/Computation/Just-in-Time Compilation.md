@@ -33,7 +33,7 @@ JITs have costs:
 These trade-offs drove alternatives. [[WebAssembly]] ships pre-compiled, lower-level code to browsers for predictable performance, and some platforms compile ahead of time to avoid warm-up entirely. Many runtimes now mix both.
 
 ## See also
-- [[Abstract Syntax Tree]]
+- [[PHP]]
 - [[JavaScript]]
 - [[Metaprogramming]]
 - [[Browser Wars]]

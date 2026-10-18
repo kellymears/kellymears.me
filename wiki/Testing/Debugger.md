@@ -32,6 +32,6 @@ A debugger answers "what is the state?" but not "what should it be?", and most d
 
 ## See also
 - [[Program Slicing]]
-- [[Spectrum-Based Fault Localization]]
+- [[Browser DevTools]]
 - [[Source Map]]
 - [[Core Dump]]

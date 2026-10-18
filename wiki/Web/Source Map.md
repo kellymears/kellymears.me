@@ -33,4 +33,4 @@ Maps also go stale. A map from a different build gives confidently wrong lines, 
 - [[Transpiler]]
 - [[Crash Reporting]]
 - [[Minification]]
-- [[TypeScript]]
+- [[Browser DevTools]]

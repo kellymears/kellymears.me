@@ -27,5 +27,5 @@ The deepest shift is in how changes propagate. Rather than re-rendering whole co
 Moving data fetching to the server, as with [[React Server Components]] or classic [[Server-Side Rendering]], removes much client state altogether, since data that never reaches the browser needs no management there; see [[Single-Page Application]].
 
 ## See also
-- [[jQuery]]
+- [[Model-View-Controller]]
 - [[Cross-Tab Communication]]
