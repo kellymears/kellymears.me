@@ -32,7 +32,7 @@ The concept gives a precise meaning to an intuitive idea: understanding somethin
 
 ## See also
 - [[Edit Distance]]
-- [[Monte Carlo Method]]
-- [[Lambda Calculus]]
+- [[Esoteric Programming Language]]
+- [[Quine]]
 - [[Demoscene]]
 - [[Fractal]]

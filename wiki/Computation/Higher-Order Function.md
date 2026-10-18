@@ -23,3 +23,4 @@ The risk is indirection outrunning its benefit — a codebase where every operat
 - [[MapReduce]]
 - [[Dynamic Dispatch]]
 - [[Lisp]]
+- [[Metaprogramming]]

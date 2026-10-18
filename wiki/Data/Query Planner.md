@@ -35,3 +35,4 @@ When the planner's choice is wrong and can't be fixed with better statistics, th
 - [[SQL Join]]
 - [[Window Function]]
 - [[Common Table Expression]]
+- [[Logic Programming]]

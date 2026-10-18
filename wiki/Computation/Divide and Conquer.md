@@ -33,6 +33,6 @@ Independent subproblems are also easy to run in parallel, which is why the patte
 The idea extends beyond algorithms. Spatial structures such as the [[Bounding Volume Hierarchy]] divide space recursively so a renderer can discard most of a scene at once. Debugging uses it too: [[Git Bisect]] halves a commit range to find a regression, and [[Delta Debugging]] halves a failing input until only the essential part remains.
 
 ## See also
-- [[Greedy Algorithm]]
-- [[Backtracking]]
+- [[Convex Hull]]
+- [[Arbitrary-Precision Arithmetic]]
 - [[Quantum Computing]]

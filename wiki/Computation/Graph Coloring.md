@@ -33,3 +33,4 @@ Graph coloring shows a common pattern in computing: a problem that's intractable
 - [[Dynamic Programming]]
 - [[Union-Find]]
 - [[Boolean Satisfiability Problem]]
+- [[Maximum Flow]]

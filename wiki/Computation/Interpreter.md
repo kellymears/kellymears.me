@@ -14,9 +14,9 @@ The cost is speed: re-parsing and re-dispatching on each statement every time it
 An interpreter also changes where errors surface: a type or name error in a branch that never executes can go completely unnoticed in an interpreted language (syntax errors are still caught up front, since the whole file gets parsed), since nothing inspects code that isn't reached, whereas a compiler that does full [[Static Analysis|static analysis]] ahead of time would catch a type error in dead code before the program ever ran. This is one reason dynamically typed interpreted languages lean more heavily on [[Code Coverage|test coverage]] — the interpreter offers no static safety net for the paths tests don't exercise.
 
 ## See also
-- [[Compiler]]
+- [[Esoteric Programming Language]]
 - [[Type Inference]]
-- [[Event Loop]]
+- [[Metaprogramming]]
 - [[Garbage Collection]]
 - [[Turing Completeness]]
 - [[Abstract Syntax Tree]]
@@ -25,3 +25,4 @@ An interpreter also changes where errors surface: a type or name error in a bran
 - [[Just-in-Time Compilation]]
 - [[Shebang]]
 - [[Von Neumann Architecture]]
+- [[Quine]]

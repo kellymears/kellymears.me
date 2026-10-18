@@ -33,5 +33,5 @@ Weighted variants give some seeds more pull, modeling crystal grains and the mar
 - [[K-Means Clustering]]
 - [[Treemap]]
 - [[Terrain Generation]]
-- [[Cellular Automaton]]
+- [[Convex Hull]]
 - [[Blue Noise]]

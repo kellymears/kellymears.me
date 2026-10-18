@@ -27,6 +27,6 @@ Undecidability applies to the general case. For restricted models, such as a [[F
 - [[Kolmogorov Complexity]]
 - [[Abstract Interpretation]]
 - [[Recursion]]
-- [[Compiler]]
+- [[Quine]]
 - [[Symbolic Execution]]
 - [[Gödel's Incompleteness Theorems]]

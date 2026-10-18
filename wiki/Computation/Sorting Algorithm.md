@@ -28,7 +28,7 @@ Sorting at scale shapes databases too. A [[B-Tree]] keeps data sorted as it chan
 
 ## See also
 - [[Divide and Conquer]]
-- [[Internationalization]]
+- [[Convex Hull]]
 - [[Collation]]
 - [[Loop Invariant]]
 - [[Binary Heap]]

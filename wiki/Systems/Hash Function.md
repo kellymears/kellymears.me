@@ -19,7 +19,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[Error-Correcting Code]]
 - [[Cache Invalidation]]
 - [[Checksum]]
-- [[Public-Key Cryptography]]
+- [[Modular Arithmetic]]
 
 ## Related
 - [[Record and Replay Testing]]

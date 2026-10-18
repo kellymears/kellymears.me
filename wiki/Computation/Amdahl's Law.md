@@ -30,3 +30,4 @@ The law connects to [[Concurrency and Parallelism]] more broadly. Choosing algor
 - [[Moore's Law]]
 - [[Monte Carlo Method]]
 - [[Baumol's Cost Disease]]
+- [[SIMD]]

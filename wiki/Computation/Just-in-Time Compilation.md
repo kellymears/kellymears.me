@@ -35,5 +35,5 @@ These trade-offs drove alternatives. [[WebAssembly]] ships pre-compiled, lower-l
 ## See also
 - [[Abstract Syntax Tree]]
 - [[JavaScript]]
-- [[Memoization]]
+- [[Metaprogramming]]
 - [[Browser Wars]]

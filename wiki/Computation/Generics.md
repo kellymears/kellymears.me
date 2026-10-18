@@ -29,5 +29,5 @@ Generics have costs. Error messages from heavily templated C++ are notoriously l
 ## See also
 - [[Type System]]
 - [[Pattern Matching]]
-- [[Compiler]]
+- [[Metaprogramming]]
 - [[Typestate]]

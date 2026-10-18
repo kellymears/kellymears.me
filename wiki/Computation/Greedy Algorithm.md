@@ -30,7 +30,7 @@ Outside computing, greedy choices explain a lot of [[Path Dependence]]: each loc
 
 ## See also
 - [[Beam Search]]
-- [[Linear Programming]]
+- [[Maximum Flow]]
 - [[Minimum Spanning Tree]]
-- [[Seam Carving]]
+- [[Knapsack Problem]]
 - [[Graph Coloring]]

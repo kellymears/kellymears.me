@@ -30,6 +30,6 @@ Dependency graphs are everywhere in computing:
 Cycles are the recurring problem. Circular imports in a module system, packages that require each other, and services that wait on each other at boot all fail for the same reason, and they hint at [[Deadlock]], its runtime cousin. Breaking a cycle usually means extracting the shared part into a new node both can depend on.
 
 ## See also
-- [[ES Modules]]
+- [[Maximum Flow]]
 - [[Build System]]
 - [[Common Table Expression]]

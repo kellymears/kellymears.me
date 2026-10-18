@@ -22,7 +22,7 @@ Building a good BVH is a trade between build time and query speed:
 BVHs serve far beyond ray tracing. [[Culling]] uses them to reject whole regions of the scene outside the view frustum. Physics engines use them for *broad-phase* collision detection, finding which pairs of objects might be touching before running exact tests, and games use them for [[Hitbox and Hurtbox]] queries. Spatial alternatives such as octrees, k-d trees, and uniform grids divide space rather than objects. A BVH divides objects, so it never splits a triangle and handles uneven scenes well. The principle of checking a cheap conservative bound before doing exact work also drives [[Level of Detail]] and [[Signed Distance Field]] sphere tracing.
 
 ## See also
-- [[Ray Tracing]]
+- [[Convex Hull]]
 - [[Culling]]
 - [[B-Tree]]
 - [[Binary Search]]

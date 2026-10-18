@@ -22,7 +22,7 @@ The practical upshot is that solving a slowdown requires diagnosing which one is
 - [[Moore's Law]]
 - [[Deadlock]]
 - [[Coroutine]]
-- [[Graphics Processing Unit]]
+- [[SIMD]]
 - [[Amdahl's Law]]
 - [[Context Switch]]
 - [[Communicating Sequential Processes]]

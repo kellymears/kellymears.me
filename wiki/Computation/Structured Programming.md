@@ -25,3 +25,4 @@ Some code still benefits from explicit jumps: state machines, interpreters, and 
 ## See also
 - [[Refactoring]]
 - [[Tail Call Optimization]]
+- [[Esoteric Programming Language]]

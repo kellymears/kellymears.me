@@ -27,4 +27,5 @@ Local search methods, which flip variables to reduce the number of unsatisfied c
 
 ## See also
 - [[Halting Problem]]
-- [[Turing Completeness]]
+- [[Logic Programming]]
+- [[Knapsack Problem]]

@@ -22,3 +22,4 @@ The failure modes are a cache with no eviction policy — a memoized function ca
 - [[Baked Lighting]]
 - [[Reactive Signals]]
 - [[Cache-Aside]]
+- [[Knapsack Problem]]

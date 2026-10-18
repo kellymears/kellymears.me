@@ -24,3 +24,4 @@ The trade-off is a small amount of load imbalance even with virtual nodes — th
 - [[Stable Matching]]
 - [[Wide-Column Store]]
 - [[Hot Partition]]
+- [[Modular Arithmetic]]

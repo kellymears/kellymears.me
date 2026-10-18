@@ -31,3 +31,4 @@ The same structure appears in type inference, scheduling, layout solvers, and de
 - [[Wave Function Collapse]]
 - [[Graph Coloring]]
 - [[Boolean Satisfiability Problem]]
+- [[Logic Programming]]

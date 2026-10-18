@@ -33,5 +33,5 @@ Small changes can cross the line. Finding the shortest path in a graph is easy, 
 - [[Graph Coloring]]
 - [[Graph Traversal]]
 - [[Boolean Satisfiability Problem]]
-- [[Backtracking]]
+- [[Knapsack Problem]]
 - [[Simulated Annealing]]

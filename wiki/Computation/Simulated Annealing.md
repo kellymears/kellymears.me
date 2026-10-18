@@ -31,5 +31,5 @@ It belongs to a family of *metaheuristics*, general search strategies that inclu
 - [[Satisficing]]
 - [[Linear Programming]]
 - [[Steel]]
-- [[Traveling Salesman Problem]]
+- [[Knapsack Problem]]
 - [[Multi-Armed Bandit]]

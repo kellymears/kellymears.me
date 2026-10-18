@@ -20,3 +20,4 @@ Python and JavaScript blur reflection into the ordinary language, since `getattr
 - [[Type Inference]]
 - [[Dynamic Dispatch]]
 - [[Lisp]]
+- [[Metaprogramming]]

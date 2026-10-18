@@ -17,9 +17,9 @@ The coarseness is the point. Constants depend on the processor, the compiler, an
 It is a vocabulary for reasoning, not a measurement. Treating it as a proxy for observed speed is [[Goodhart's Law]] in miniature; the [[Ground Truth]] is [[Instrumentation]] on representative input.
 
 ## See also
-- [[Binary Search]]
+- [[Convex Hull]]
 - [[Performance Budget]]
-- [[Observability]]
+- [[Arbitrary-Precision Arithmetic]]
 - [[Determinism]]
 - [[P versus NP Problem]]
 - [[Graph Traversal]]

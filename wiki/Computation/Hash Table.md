@@ -20,7 +20,7 @@ Hash tables promise no ordering. Where ranges or sorted traversal matter, a sort
 - [[Linked List]]
 - [[Self-Balancing Binary Search Tree]]
 - [[Least Recently Used Cache]]
-- [[Relational Database]]
+- [[Modular Arithmetic]]
 - [[Determinism]]
 - [[Database Index]]
 - [[Denial-of-Service Attack]]

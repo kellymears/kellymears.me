@@ -34,3 +34,4 @@ The problem is a good example of how structure makes a problem easy. Small chang
 - [[Amortized Analysis]]
 - [[Small-World Network]]
 - [[Dynamic Programming]]
+- [[Maximum Flow]]

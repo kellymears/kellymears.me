@@ -30,7 +30,7 @@ Its influence on programming is direct:
 The order in which reductions happen matters. Evaluating arguments only when needed corresponds to [[Lazy Evaluation]], while evaluating them first is the strict order most languages use. Without side effects, every expression is a [[Pure Function]] application, which is why functional programmers lean on [[Immutability]]. Typed versions of the calculus underpin proof assistants, through the Curry–Howard correspondence: a type is a proposition and a program of that type is its proof. That idea connects programming to [[Formal Verification]].
 
 ## See also
-- [[Continuation]]
-- [[Lisp]]
+- [[Esoteric Programming Language]]
+- [[Quine]]
 - [[Gödel's Incompleteness Theorems]]
 - [[Monad]]

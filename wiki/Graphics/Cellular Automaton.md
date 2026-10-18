@@ -30,3 +30,5 @@ Two implementation notes. **Simultaneity is load-bearing**: updating in place le
 - [[Turing Completeness]]
 - [[Boids]]
 - [[Fractal]]
+- [[Quine]]
+- [[Esoteric Programming Language]]

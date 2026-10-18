@@ -37,5 +37,5 @@ The structures share a weakness with high dimensions. As dimensions grow, nearly
 ## See also
 - [[Constructive Solid Geometry]]
 - [[Geospatial Data]]
-- [[Voronoi Diagram]]
+- [[Convex Hull]]
 - [[A-Star Search Algorithm]]

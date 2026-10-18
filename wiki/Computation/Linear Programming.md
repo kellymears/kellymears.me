@@ -25,3 +25,5 @@ Applications include airline crew scheduling, freight routing, refinery blending
 - [[Greedy Algorithm]]
 - [[Gradient Descent]]
 - [[Transformation Matrix]]
+- [[Convex Hull]]
+- [[Maximum Flow]]

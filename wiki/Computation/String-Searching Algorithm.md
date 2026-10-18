@@ -32,3 +32,4 @@ Unicode complicates everything, since the same visible text can be encoded in se
 - [[Autocomplete]]
 - [[Bloom Filter]]
 - [[Collation]]
+- [[SIMD]]

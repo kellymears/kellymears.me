@@ -26,6 +26,6 @@ The scene has its own aesthetics: [[Pixel Art]] drawn by hand on old machines, t
 Several European countries, starting with Finland in 2020, have recognized the demoscene as intangible cultural heritage. Preserving it raises the usual problems of keeping old software runnable; see [[Emulation]] and [[Digital Preservation]].
 
 ## See also
-- [[ASCII Art]]
+- [[Esoteric Programming Language]]
 - [[Game Jam]]
 - [[Color Cycling]]

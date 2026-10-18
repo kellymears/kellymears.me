@@ -31,3 +31,4 @@ The theory has critics, who note that real systems often have shifting or multip
 - [[Pareto Principle]]
 - [[Resource Starvation]]
 - [[Value Stream Mapping]]
+- [[Maximum Flow]]

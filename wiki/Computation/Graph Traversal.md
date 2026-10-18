@@ -29,5 +29,5 @@ When edges have different costs, such as road lengths, plain BFS no longer finds
 
 ## See also
 - [[Union-Find]]
-- [[Backtracking]]
+- [[Maximum Flow]]
 - [[A-Star Search Algorithm]]
