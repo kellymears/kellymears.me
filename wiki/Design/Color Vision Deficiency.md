@@ -28,7 +28,7 @@ Color vision deficiency also affects [[Dark Mode]] themes and brand palettes, wh
 
 ## See also
 - [[Preattentive Processing]]
-- [[Color Contrast]]
+- [[Choropleth Map]]
 - [[Accessibility]]
 - [[OKLCH]]
 - [[Color Scale]]

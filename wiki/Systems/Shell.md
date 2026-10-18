@@ -37,3 +37,4 @@ Exit status is the shell's only universal signal, and it means "the program retu
 - [[Ground Truth]]
 - [[Exit Status]]
 - [[Pseudoterminal]]
+- [[Command Palette]]

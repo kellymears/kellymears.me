@@ -24,3 +24,4 @@ The main risk of a grid system is treating it as decoration rather than constrai
 - [[Container Query]]
 - [[White Space]]
 - [[Small Multiples]]
+- [[Optical Alignment]]

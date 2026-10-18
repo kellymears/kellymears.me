@@ -24,3 +24,4 @@ It's a close cousin of client-side prediction in networked games (see [[Rollback
 - [[Response Time Limits]]
 - [[Skeleton Screen]]
 - [[Undo]]
+- [[Toast Notification]]

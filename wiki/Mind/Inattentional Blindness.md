@@ -22,7 +22,7 @@ It has practical consequences:
 Strong focus, as in [[Monotropism]] or [[Hyperfocus]], exaggerates both sides: deep engagement with the task and little awareness of anything outside it.
 
 ## See also
-- [[Automation Bias]]
+- [[Banner Blindness]]
 - [[Preattentive Processing]]
 - [[Working Memory]]
 - [[Monotropism]]

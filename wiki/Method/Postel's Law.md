@@ -25,3 +25,4 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 - [[Email Authentication]]
 - [[Backward Compatibility]]
 - [[Schema Evolution]]
+- [[Error Message]]

@@ -27,3 +27,5 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 - [[Document Object Model]]
 - [[Touch Target Size]]
 - [[Accessibility Testing]]
+- [[Command Palette]]
+- [[Tooltip]]

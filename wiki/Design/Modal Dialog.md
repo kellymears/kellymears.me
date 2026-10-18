@@ -34,7 +34,7 @@ The native HTML `<dialog>` element, opened with `showModal()`, now handles most 
 Alternatives often serve better: inline editing, an expanding panel, a non-blocking side sheet, or a toast that reports an action and offers to undo it. If the user might want to see the page while answering, don't block it.
 
 ## See also
-- [[Focus Trap]]
-- [[Focus Management]]
+- [[Command Palette]]
+- [[Toast Notification]]
 - [[Portal]]
 - [[Dark Pattern]]

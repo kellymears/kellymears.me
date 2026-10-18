@@ -34,3 +34,4 @@ Skeletons are one tool among several for making interfaces feel fast. [[Optimist
 - [[Optimistic UI]]
 - [[Core Web Vitals]]
 - [[Empty State]]
+- [[Wireframe]]

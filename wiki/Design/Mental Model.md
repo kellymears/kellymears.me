@@ -34,5 +34,5 @@ The concept reaches well beyond interfaces. [[Information Architecture]] organiz
 ## See also
 - [[Affordance]]
 - [[Skeuomorphism]]
-- [[Cognitive Load]]
+- [[Error Message]]
 - [[Usability Testing]]

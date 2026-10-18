@@ -34,7 +34,7 @@ The limits are real:
 That is why heuristic evaluation complements [[Usability Testing]] rather than replacing it: inspect first to clear away obvious problems, then test with users to find the ones only they reveal. WCAG audits for [[Accessibility Testing]] apply the same approach.
 
 ## See also
-- [[Usability Testing]]
+- [[Command Palette]]
 - [[Mental Model]]
 - [[Undo]]
-- [[Response Time Limits]]
+- [[Error Message]]

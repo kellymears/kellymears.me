@@ -36,3 +36,5 @@ Writing matters as much as layout. The text should be brief, specific, and in pl
 - [[Mental Model]]
 - [[Affordance]]
 - [[Faceted Search]]
+- [[Error Message]]
+- [[Wireframe]]

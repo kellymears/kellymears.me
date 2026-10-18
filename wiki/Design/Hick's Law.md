@@ -26,3 +26,4 @@ Fitts's Law and Hick's Law are often cited together because they cover the two h
 - [[Visual Hierarchy]]
 - [[Mental Model]]
 - [[Faceted Search]]
+- [[Command Palette]]

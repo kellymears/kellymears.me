@@ -22,3 +22,4 @@ The design payoff beyond file size is that weight and width become animatable an
 - [[Bézier Curve]]
 - [[Line Length]]
 - [[Font Rendering]]
+- [[Optical Alignment]]

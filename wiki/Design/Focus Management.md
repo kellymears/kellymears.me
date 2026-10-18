@@ -32,3 +32,5 @@ Component tests can catch a lot of this, provided the test harness reproduces th
 - [[Semantic HTML]]
 - [[Single-Page Application]]
 - [[Modal Dialog]]
+- [[Toast Notification]]
+- [[Form Design]]

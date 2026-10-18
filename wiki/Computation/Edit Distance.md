@@ -30,7 +30,7 @@ Edit distance turns up in many places:
 Edit distance has limits. A purely textual diff doesn't know what code means, so two changes can merge cleanly line by line and still conflict in behavior, the [[Semantic Conflict]] problem. Comparing trees, such as an [[Abstract Syntax Tree]], instead of lines gives more meaningful diffs for code but is much more expensive. UI frameworks compute a related tree diff when reconciling a [[Virtual DOM]], trading exactness for speed with simplifying assumptions.
 
 ## See also
-- [[Dynamic Programming]]
+- [[Command Palette]]
 - [[Version Control]]
 - [[Three-Way Merge]]
 - [[Semantic Conflict]]

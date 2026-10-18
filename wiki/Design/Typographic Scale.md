@@ -28,3 +28,4 @@ Measure [[Line Length|line length]] too. Readability falls off sharply beyond ro
 - [[Silent Failure]]
 - [[Visual Hierarchy]]
 - [[Swiss Style]]
+- [[Optical Alignment]]

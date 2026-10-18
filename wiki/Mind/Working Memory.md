@@ -21,7 +21,7 @@ Design consequences show up everywhere:
 There is a close analogy in machines. A [[Context Window]] is a language model's working memory, with the same consequence: what isn't in it doesn't exist for the computation, and moving things out to durable notes ([[Agent Memory]]) is the remedy for people and models alike.
 
 ## See also
-- [[Executive Function]]
+- [[Command Palette]]
 - [[Cognitive Load]]
 - [[Context Rot]]
 - [[Small Multiples]]

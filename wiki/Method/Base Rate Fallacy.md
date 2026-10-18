@@ -26,3 +26,4 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 - [[Ground Truth]]
 - [[Truncation Bias]]
 - [[Survivorship Bias]]
+- [[Choropleth Map]]

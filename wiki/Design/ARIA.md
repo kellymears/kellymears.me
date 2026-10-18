@@ -25,3 +25,5 @@ Practical hazards accumulate around the details. Some attributes are computed by
 - [[Document Object Model]]
 - [[UI Primitive]]
 - [[Accessibility Testing]]
+- [[Tooltip]]
+- [[Toast Notification]]

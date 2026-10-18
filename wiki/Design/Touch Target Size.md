@@ -28,7 +28,8 @@ On the web, the `pointer: coarse` media query detects touch-first devices, letti
 Small targets are an [[Accessibility]] issue for people with tremors, limited dexterity, or low vision, and for older users, but they frustrate everyone. Small targets also show up in deliberately hostile design, as when a [[Dark Pattern]] makes the close button on an advertisement a tiny, faint X. The same sizing thinking applies beyond touch: large click targets help mouse users, and [[Keyboard Navigation]] needs clearly visible focus on each target, as part of good [[Focus Management]].
 
 ## See also
-- [[Fitts's Law]]
+- [[Tooltip]]
 - [[Accessibility]]
 - [[Responsive Breakpoint]]
 - [[Affordance]]
+- [[Form Design]]

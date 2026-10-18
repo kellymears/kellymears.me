@@ -32,3 +32,4 @@ On screens, small multiples reflow naturally. A grid can drop from four columns 
 - [[Working Memory]]
 - [[Grid System]]
 - [[Simpson's Paradox]]
+- [[Choropleth Map]]

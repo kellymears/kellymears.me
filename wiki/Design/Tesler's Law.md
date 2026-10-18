@@ -35,5 +35,5 @@ The law connects to [[Worse Is Better]], which argues that simple implementation
 ## See also
 - [[Progressive Disclosure]]
 - [[Cognitive Load]]
-- [[Worse Is Better]]
+- [[Form Design]]
 - [[Defensive Default]]

@@ -35,5 +35,5 @@ Preattentive pop-out has limits: it tells you *that* something differs, not what
 ## See also
 - [[Visual Hierarchy]]
 - [[Selective Attention]]
-- [[Von Restorff Effect]]
-- [[Color Vision Deficiency]]
+- [[Banner Blindness]]
+- [[Choropleth Map]]
