@@ -16,7 +16,7 @@ The empirical picture is more contested than the popular story: several large st
 - [[Availability Cascade]]
 - [[Third-Person Effect]]
 - [[Naive Realism]]
-- [[Doomscrolling]]
+- [[Motivated Reasoning]]
 - [[Rabbit Hole]]
 - [[Sycophancy]]
 - [[Context Collapse]]

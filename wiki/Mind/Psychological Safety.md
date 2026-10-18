@@ -24,7 +24,7 @@ Fields with high stakes have built practices to protect speaking up. Aviation's 
 Leaders shape safety most, by admitting their own uncertainty, asking for input, and responding to bad news with curiosity rather than anger. People who already feel like outsiders are often the least likely to speak up, so the effects of low safety fall unevenly; see [[Impostor Syndrome]] and [[Rejection Sensitivity]].
 
 ## See also
-- [[Daily Standup]]
+- [[Attachment Theory]]
 - [[Code of Conduct]]
 - [[Politeness Theory]]
 - [[Transactive Memory]]

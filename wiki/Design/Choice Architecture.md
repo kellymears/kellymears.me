@@ -30,6 +30,6 @@ The same tools can be turned against people. A [[Dark Pattern]] is choice archit
 ## See also
 - [[Choice Blindness]]
 - [[Tesler's Law]]
-- [[Toggle Switch]]
+- [[Mental Accounting]]
 - [[Procedural Rhetoric]]
 - [[Psychological Reactance]]

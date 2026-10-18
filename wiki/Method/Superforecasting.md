@@ -32,3 +32,4 @@ Uncertainty also widens with distance; see [[Cone of Uncertainty]].
 ## See also
 - [[Expected Value]]
 - [[Dunning-Kruger Effect]]
+- [[Motivated Reasoning]]

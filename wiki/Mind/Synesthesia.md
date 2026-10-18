@@ -33,3 +33,4 @@ The condition fits the wider picture of [[Neurodiversity]]: perception is constr
 - [[Prosopagnosia]]
 - [[Timbre]]
 - [[Stroop Effect]]
+- [[Blindsight]]

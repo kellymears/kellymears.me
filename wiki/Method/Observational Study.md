@@ -28,3 +28,4 @@ The same issues apply far outside medicine. Product analytics comparing users wh
 ## See also
 - [[Survivorship Bias]]
 - [[Ecological Fallacy]]
+- [[Loneliness]]

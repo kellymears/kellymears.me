@@ -37,3 +37,4 @@ Designers sometimes compare the role to a central bank's: money creation and rem
 - [[Engine Building]]
 - [[Meta-Progression]]
 - [[Eurogame]]
+- [[Mental Accounting]]

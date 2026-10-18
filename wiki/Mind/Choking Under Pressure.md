@@ -31,6 +31,6 @@ Choking also connects to [[Ironic Process Theory]]: telling yourself not to miss
 ## See also
 - [[Fight-or-Flight Response]]
 - [[Dyscalculia]]
-- [[Misattribution of Arousal]]
+- [[Stereotype Threat]]
 - [[Diaphragmatic Breathing]]
 - [[Spotlight Effect]]

@@ -30,7 +30,7 @@ Curiosity varies between people. *Need for cognition*, the enjoyment of effortfu
 ## See also
 - [[Awe]]
 - [[Insight]]
-- [[Self-Determination Theory]]
+- [[Attachment Theory]]
 - [[Desirable Difficulty]]
 - [[Boredom]]
 - [[Multi-Armed Bandit]]

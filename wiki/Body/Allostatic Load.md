@@ -23,5 +23,5 @@ Neurodivergent accounts describe the same accumulation in everyday terms. Contin
 
 ## See also
 - [[Burnout]]
-- [[Fight-or-Flight Response]]
-- [[Sleep Apnea]]
+- [[Grief]]
+- [[Loneliness]]

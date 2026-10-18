@@ -29,5 +29,5 @@ The case is a good example of a [[Plausible Mechanism]] outrunning its evidence.
 - [[Satisficing]]
 - [[Spoon Theory]]
 - [[Stroop Effect]]
-- [[Habit Formation]]
+- [[Mental Accounting]]
 - [[Interesting Decisions]]

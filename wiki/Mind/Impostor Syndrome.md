@@ -27,5 +27,5 @@ What helps is making evidence count: keeping a record of finished work and feedb
 - [[Choking Under Pressure]]
 - [[Social Comparison]]
 - [[Psychological Safety]]
-- [[Fundamental Attribution Error]]
+- [[Stereotype Threat]]
 - [[Self-Compassion]]

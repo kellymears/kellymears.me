@@ -19,7 +19,7 @@ The technique's real relative is not conversation but writing: forcing a problem
 - [[Loop Invariant]]
 - [[Functional Fixedness]]
 - [[Yak Shaving]]
-- [[Body Doubling]]
+- [[Psychological Distance]]
 - [[Default Mode Network]]
 - [[Levels of Processing]]
 - [[Software Inspection]]

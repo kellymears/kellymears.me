@@ -13,7 +13,7 @@ The mechanism exploits how a p-value is actually defined: it's the probability o
 The standard defenses are structural, matching the mechanism directly: preregistering the hypothesis and the exact analysis plan before seeing the data removes the researcher's freedom to choose after the fact, and reporting every test actually run, not just the significant one, restores the reader's ability to judge how much the result should be discounted. P-hacking and [[Publication Bias]] compound each other: a p-hacked result is more likely to look novel and significant, which is exactly the profile publication bias rewards.
 
 ## See also
-- [[Publication Bias]]
+- [[Stereotype Threat]]
 - [[Selection Bias]]
 - [[Placebo Effect]]
 - [[Availability Cascade]]

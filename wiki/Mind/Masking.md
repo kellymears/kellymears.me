@@ -27,5 +27,5 @@ The social side is the [[Neurodiversity]] paradigm's point in miniature. Masking
 - [[Kayfabe]]
 - [[Impostor Syndrome]]
 - [[Stimming]]
-- [[Rejection Sensitivity]]
+- [[Mirror Neurons]]
 - [[Autistic Burnout]]

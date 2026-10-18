@@ -28,7 +28,7 @@ Critics note that online spaces differ in important ways. Many are run by compan
 Libraries are often cited as the last free third places, open to everyone without buying anything, though they are rarely places for conversation. Group size matters too: regulars can only know so many people; see [[Dunbar's Number]].
 
 ## See also
-- [[Magic Circle]]
+- [[Loneliness]]
 - [[Gift Economy]]
 - [[Small-World Network]]
 - [[Multi-User Dungeon]]

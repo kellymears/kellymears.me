@@ -30,5 +30,5 @@ What survives is a modest but useful point: attention for relationships is finit
 - [[Imagined Community]]
 - [[Code of Conduct]]
 - [[Gift Economy]]
-- [[Groupthink]]
+- [[Loneliness]]
 - [[Strength of Weak Ties]]

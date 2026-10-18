@@ -30,3 +30,4 @@ Not everything that looks reversible is. Trust, reputation, and users' habits re
 ## See also
 - [[Fail Fast]]
 - [[Chesterton's Fence]]
+- [[Psychological Distance]]

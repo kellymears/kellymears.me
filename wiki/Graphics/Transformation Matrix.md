@@ -28,6 +28,6 @@ Rotations are where matrices get awkward. Composing many small rotations accumul
 Matrices are the core of linear algebra, which underlies far more than graphics: [[Convolution]] filters, machine learning, and physics simulation. GPUs are, at heart, machines for doing enormous numbers of these multiplications in parallel, which is why they turned out to suit neural networks so well. [[Floating-Point Arithmetic]] precision limits matter here too: in very large worlds, coordinates far from the origin lose precision and vertices jitter, which open-world games avoid by shifting the origin with the player.
 
 ## See also
-- [[Linear Interpolation]]
+- [[Mental Rotation]]
 - [[Parallax Scrolling]]
 - [[Linear Programming]]

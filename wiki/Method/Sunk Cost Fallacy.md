@@ -18,12 +18,12 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 - [[Reversible Decision]]
 - [[Expected Value]]
 - [[Second-System Effect]]
-- [[Anchoring Effect]]
+- [[Motivated Reasoning]]
 - [[Cognitive Dissonance]]
 
 ## Related
 - [[Yak Shaving]]
-- [[Planning Fallacy]]
+- [[Mental Accounting]]
 - [[Hindsight Bias]]
 - [[Loss Aversion]]
 - [[Gambler's Fallacy]]

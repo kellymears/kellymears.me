@@ -29,5 +29,5 @@ Related forms include [[Idle Game]] structures, management games such as the [[C
 ## See also
 - [[Match-Three]]
 - [[Time as Resource]]
-- [[Walking Simulator]]
+- [[Loneliness]]
 - [[Third Place]]

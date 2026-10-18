@@ -27,5 +27,5 @@ The debate has returned with language models. Systems trained only on text have 
 
 ## See also
 - [[Posture]]
-- [[Tetris]]
-- [[Stimming]]
+- [[Mirror Neurons]]
+- [[Mental Rotation]]

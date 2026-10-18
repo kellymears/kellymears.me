@@ -31,7 +31,7 @@ Game engines store object orientations as quaternions internally, even when the 
 - [[Keyframe Animation]]
 - [[Inertial Measurement Unit]]
 - [[Model Merging]]
-- [[Newton's Laws of Motion]]
+- [[Mental Rotation]]
 - [[Perspective Projection]]
 - [[Linear Interpolation]]
 - [[Transformation Matrix]]

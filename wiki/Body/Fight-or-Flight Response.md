@@ -30,5 +30,5 @@ The system evolved for brief physical threats, and modern triggers are mostly ne
 Slow breathing with long exhales is one of the few direct ways to signal safety back to the body; see [[Diaphragmatic Breathing]]. Exercise uses up the same mobilized resources and trains the system to recover faster.
 
 ## See also
-- [[Cold Exposure]]
+- [[Attachment Theory]]
 - [[Goosebumps]]

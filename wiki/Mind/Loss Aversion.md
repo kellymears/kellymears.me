@@ -34,7 +34,7 @@ It fits with other findings about judgment: [[Anchoring Effect]] shows that refe
 - [[Peak-End Rule]]
 - [[Weber-Fechner Law]]
 - [[Trolley Problem]]
-- [[Expected Value]]
+- [[Mental Accounting]]
 - [[Hyperbolic Discounting]]
 - [[Affective Forecasting]]
 - [[Speculative Bubble]]

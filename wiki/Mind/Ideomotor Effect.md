@@ -30,3 +30,4 @@ The same mechanism operates in [[Tarot]] readings and many alternative therapies
 ## See also
 - [[Predictive Processing]]
 - [[Self-Fulfilling Prophecy]]
+- [[Mirror Neurons]]

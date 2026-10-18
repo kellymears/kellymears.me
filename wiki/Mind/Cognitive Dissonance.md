@@ -30,6 +30,6 @@ Some classic findings have replicated less cleanly than textbooks suggest, but t
 - [[Choice Blindness]]
 - [[Groupthink]]
 - [[Psychological Reactance]]
-- [[Ludonarrative Dissonance]]
+- [[Motivated Reasoning]]
 - [[Fundamental Attribution Error]]
 - [[Cognitive Behavioral Therapy]]

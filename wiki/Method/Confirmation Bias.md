@@ -16,7 +16,7 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 ## See also
 - [[Law of the Instrument]]
 - [[Processing Fluency]]
-- [[Pareidolia]]
+- [[Motivated Reasoning]]
 - [[Texas Sharpshooter Fallacy]]
 - [[Self-Fulfilling Prophecy]]
 - [[Superforecasting]]

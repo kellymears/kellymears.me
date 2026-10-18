@@ -28,7 +28,7 @@ Teams show a similar dynamic. When mistakes are treated as evidence of incompete
 ## See also
 - [[Self-Compassion]]
 - [[Self-Determination Theory]]
-- [[Metacognition]]
+- [[Stereotype Threat]]
 - [[Self-Fulfilling Prophecy]]
 - [[Deliberate Practice]]
 - [[Social Comparison]]

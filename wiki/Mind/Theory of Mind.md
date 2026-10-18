@@ -25,9 +25,9 @@ Theory of mind is also where predictive accounts of the brain meet social life. 
 Machines raised the question again in 2023, when [[Large Language Model]] systems passed classic false-belief vignettes. Small changes to the stories, such as making the container transparent, often broke the success, which suggests pattern matching on familiar test wording. The same habit of modeling a listener drives [[Sycophancy]], telling a reader what the model predicts they want to hear.
 
 ## See also
-- [[Naive Realism]]
+- [[Mirror Neurons]]
 - [[Turing Test]]
 - [[ELIZA Effect]]
-- [[Speech Act]]
+- [[Attachment Theory]]
 - [[Aphantasia]]
 - [[Prosopagnosia]]

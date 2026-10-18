@@ -26,3 +26,4 @@ The original Nintendo version became a competitive scene, with a world champions
 - [[Match-Three]]
 - [[Embodied Cognition]]
 - [[Deliberate Practice]]
+- [[Mental Rotation]]

@@ -29,7 +29,7 @@ At the far end, voices that seem to come from outside, as in some psychiatric co
 
 ## See also
 - [[Earworm]]
-- [[Rumination]]
+- [[Psychological Distance]]
 - [[Aphantasia]]
 - [[Self-Compassion]]
 - [[Embodied Cognition]]

@@ -23,9 +23,9 @@ Studies consistently find that strategies acting early, such as reappraisal, wor
 Regulation isn't purely individual. **Co-regulation**, calming through another person's steady presence, is how infants learn to regulate at all, and adults still use it. [[Body Doubling]] partly works this way. [[Stimming]] is a regulation strategy, which is why suppressing it can make things worse. Many productivity problems are regulation problems in disguise. [[Procrastination]] in particular is often avoidance of a bad feeling rather than of the task, which makes regulation skills a more direct fix than any time-management system. Regulation also takes resources from [[Executive Function]], and running low on them is one way to read [[Spoon Theory]].
 
 ## See also
-- [[Exposure Therapy]]
+- [[Psychological Distance]]
 - [[Misattribution of Arousal]]
-- [[Ironic Process Theory]]
-- [[Choking Under Pressure]]
+- [[Grief]]
+- [[Attachment Theory]]
 - [[Emotional Granularity]]
 - [[Demand Avoidance]]

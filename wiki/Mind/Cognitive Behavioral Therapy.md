@@ -33,8 +33,8 @@ So-called third-wave therapies grew from CBT: acceptance and commitment therapy,
 CBT has limits. It works less well when problems stem from circumstances rather than interpretation, and labeling accurate perceptions as distortions can be invalidating. That matters for autistic and other neurodivergent people, whose negative expectations may reflect real experiences of exclusion. Adapted CBT for autistic clients uses more concrete and visual material, attends to [[Sensory Processing]] needs, and avoids treating [[Masking]] as a goal. Done well, CBT is less about thinking positively than thinking accurately, and acting on that.
 
 ## See also
-- [[Locus of Control]]
-- [[Classical Conditioning]]
+- [[Psychological Distance]]
+- [[Grief]]
 - [[Insomnia]]
 - [[Exposure Therapy]]
 - [[Ironic Process Theory]]

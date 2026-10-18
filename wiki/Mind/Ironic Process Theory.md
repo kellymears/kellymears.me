@@ -30,7 +30,7 @@ The research has some limits. Rebound effects vary in size across studies, and a
 ## See also
 - [[Selective Attention]]
 - [[Earworm]]
-- [[Dual Process Theory]]
+- [[Stereotype Threat]]
 - [[Implementation Intention]]
 - [[Itch]]
 - [[Psychological Reactance]]

@@ -32,7 +32,7 @@ The bias isn't simply an error. Taking threats seriously is often wise, and dism
 
 ## See also
 - [[Peak-End Rule]]
-- [[Hedonic Treadmill]]
+- [[Loneliness]]
 - [[Self-Compassion]]
 - [[Framing Effect]]
 - [[Savoring]]

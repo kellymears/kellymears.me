@@ -17,7 +17,7 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Spiral of Silence]]
 - [[Naive Realism]]
 - [[Cognitive Dissonance]]
-- [[Pre-mortem]]
+- [[Motivated Reasoning]]
 - [[Steelmanning]]
 - [[Pluralistic Ignorance]]
 - [[Social Deduction Game]]

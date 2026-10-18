@@ -33,7 +33,7 @@ Designers exploit the same pattern: daily login rewards, timed offers, and insta
 
 ## See also
 - [[Loss Aversion]]
-- [[Executive Function]]
-- [[Habit Formation]]
+- [[Mental Accounting]]
+- [[Psychological Distance]]
 - [[Affective Forecasting]]
 - [[Expected Value]]

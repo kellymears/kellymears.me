@@ -29,3 +29,5 @@ Affective forecasting matters for anxiety too. Imagining a feared event as overw
 - [[Planning Fallacy]]
 - [[Loss Aversion]]
 - [[Savoring]]
+- [[Psychological Distance]]
+- [[Grief]]

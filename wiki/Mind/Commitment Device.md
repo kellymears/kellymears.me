@@ -31,3 +31,4 @@ The milder relative of the commitment device is the plan: deciding in advance ex
 - [[Procrastination]]
 - [[Fresh Start Effect]]
 - [[Habit Formation]]
+- [[Mental Accounting]]

@@ -25,7 +25,7 @@ For programmers the structure will feel familiar. An implementation intention is
 - [[ADHD]]
 - [[Ironic Process Theory]]
 - [[Commitment Device]]
-- [[Defensive Default]]
+- [[Psychological Distance]]
 - [[Pomodoro Technique]]
 - [[Prospective Memory]]
 - [[Habit Formation]]

@@ -28,6 +28,6 @@ In 1956 John Kelly, at Bell Labs, worked out the fraction of a bankroll to stake
 Rare, extreme outcomes make the estimate fragile, since it depends on probabilities no one can measure well; see [[Black Swan]]. Future payoffs also feel smaller than present ones; see [[Hyperbolic Discounting]].
 
 ## See also
-- [[Pre-mortem]]
+- [[Mental Accounting]]
 - [[Monte Carlo Method]]
 - [[Relative Risk]]

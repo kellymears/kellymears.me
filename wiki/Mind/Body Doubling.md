@@ -23,10 +23,10 @@ The pattern has been productized: coworking sites, scheduled focus sessions with
 There is a parallel in software practice. Pair programming, and even [[Rubber Duck Debugging]], are partly body doubling: the second presence, real or inanimate, changes how a person works through a problem.
 
 ## See also
-- [[Executive Function]]
-- [[Time Blindness]]
+- [[Attachment Theory]]
+- [[Loneliness]]
 - [[Parasocial Relationship]]
-- [[Rubber Duck Debugging]]
+- [[Mirror Neurons]]
 - [[Bystander Effect]]
 - [[Social Proof]]
 - [[Autistic Inertia]]

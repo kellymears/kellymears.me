@@ -31,3 +31,5 @@ Remedies start from taking another's view seriously: restate an opponent's posit
 ## See also
 - [[Spotlight Effect]]
 - [[Groupthink]]
+- [[Motivated Reasoning]]
+- [[Psychological Distance]]

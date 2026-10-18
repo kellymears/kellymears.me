@@ -32,7 +32,7 @@ Power also explains why absence of evidence is weak evidence of absence when a s
 
 ## See also
 - [[Randomized Controlled Trial]]
-- [[Fermi Estimation]]
+- [[Stereotype Threat]]
 - [[Relative Risk]]
 - [[Priming]]
 - [[Meta-Analysis]]

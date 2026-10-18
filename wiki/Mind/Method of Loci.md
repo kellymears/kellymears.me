@@ -30,6 +30,6 @@ It still offers a useful lesson about memory: it is not a passive recording but 
 - [[Levels of Processing]]
 - [[Episodic Memory]]
 - [[Cognitive Map]]
-- [[Working Memory]]
+- [[Mental Rotation]]
 - [[Aphantasia]]
 - [[Wayfinding]]

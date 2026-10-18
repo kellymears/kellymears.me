@@ -26,4 +26,4 @@ Designers use pareidolia deliberately. Car fronts are styled as friendly or aggr
 - [[ELIZA Effect]]
 - [[Golden Ratio]]
 - [[Prosopagnosia]]
-- [[Ideomotor Effect]]
+- [[Blindsight]]

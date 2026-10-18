@@ -28,4 +28,4 @@ The same distinction appears in software that reasons. A [[Large Language Model]
 
 ## See also
 - [[Blind Spot]]
-- [[Levels of Processing]]
+- [[Blindsight]]

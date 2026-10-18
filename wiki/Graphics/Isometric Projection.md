@@ -31,3 +31,4 @@ Isometric views appear outside games too: infographics, technical diagrams, and 
 - [[Voxel]]
 - [[Fog of War]]
 - [[Parallax Scrolling]]
+- [[Mental Rotation]]

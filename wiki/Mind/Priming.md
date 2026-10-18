@@ -22,7 +22,7 @@ The lesson isn't that context doesn't matter. Some related effects remain well s
 Priming has a direct counterpart in language models, which continue text in the direction its earlier content sets. Examples and phrasing in a prompt prime the output, which is why careful wording and well-chosen examples matter; see [[Prompt Engineering]] and [[In-Context Learning]].
 
 ## See also
-- [[Context-Dependent Memory]]
-- [[Selective Attention]]
+- [[Stereotype Threat]]
+- [[Blindsight]]
 - [[Illusory Truth Effect]]
 - [[Ideomotor Effect]]

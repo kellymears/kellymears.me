@@ -23,7 +23,7 @@ The concepts this domain collects, such as [[Executive Function]], [[Monotropism
 - [[Inclusive Design]]
 - [[Aphantasia]]
 - [[Ideomotor Effect]]
-- [[Legibility]]
+- [[Mirror Neurons]]
 - [[Dyscalculia]]
 - [[Autistic Burnout]]
 - [[Demand Avoidance]]

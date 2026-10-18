@@ -26,9 +26,10 @@ Objective evidence has accumulated. A 2022 study found that imagining a bright s
 Inner experience varies along many such dimensions. Some people have little [[Inner Speech]], some experience [[Synesthesia]], and some form imagery only in [[Working Memory]] for an instant. Asking how someone thinks, rather than assuming, usually turns up surprises.
 
 ## See also
-- [[Inner Speech]]
+- [[Mental Rotation]]
 - [[Synesthesia]]
 - [[Neurodiversity]]
 - [[Earworm]]
 - [[Prosopagnosia]]
 - [[Dreaming]]
+- [[Blindsight]]

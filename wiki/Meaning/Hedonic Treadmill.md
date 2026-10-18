@@ -21,7 +21,7 @@ The concept is often overstated into "money can't buy happiness," which the orig
 - [[Reward Prediction Error]]
 - [[Peak-End Rule]]
 - [[Awe]]
-- [[Loss Aversion]]
+- [[Grief]]
 - [[Negativity Bias]]
 - [[Power Creep]]
 - [[Veblen Good]]
