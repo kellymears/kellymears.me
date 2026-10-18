@@ -26,3 +26,4 @@ As software, this family is unusually pleasant to model: a card type, a move as 
 - [[Procedural Generation]]
 - [[Cellular Automaton]]
 - [[L-System]]
+- [[Collectible Card Game]]

@@ -34,3 +34,4 @@ Children younger than about five show less functional fixedness than older child
 - [[Curse of Knowledge]]
 - [[Path Dependence]]
 - [[Cognitive Load]]
+- [[Point-and-Click Adventure]]

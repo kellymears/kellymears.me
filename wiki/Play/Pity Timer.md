@@ -18,3 +18,4 @@ The mechanism is best understood as damage control on [[Variable-Ratio Reinforce
 - [[Free-to-Play]]
 - [[Compulsion Loop]]
 - [[Pseudorandom Number Generator]]
+- [[Collectible Card Game]]

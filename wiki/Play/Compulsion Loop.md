@@ -16,7 +16,7 @@ What distinguishes the two is not the loop's shape but its **incentive structure
 - [[MDA Framework]]
 - [[Bartle Taxonomy]]
 - [[Hyperbolic Discounting]]
-- [[Idle Game]]
+- [[Gamification]]
 - [[Magic Circle]]
 - [[Flow]]
 - [[Zeigarnik Effect]]

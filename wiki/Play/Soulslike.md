@@ -20,3 +20,4 @@ The lineage is frequently misread as a case for hostility toward players. It is 
 - [[Meta-Progression]]
 - [[Environmental Storytelling]]
 - [[Metroidvania]]
+- [[Telegraphing]]

@@ -19,5 +19,5 @@ Disclosure rules followed. Japan banned "complete gacha" in 2012 under prize-lab
 - [[Veblen Good]]
 - [[Power Creep]]
 - [[Confidence Trick]]
-- [[Loss Aversion]]
+- [[Collectible Card Game]]
 - [[Gambler's Fallacy]]

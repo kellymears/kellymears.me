@@ -17,7 +17,7 @@ Knowing a matchup's numbers changes how it is played: a habitually minus move ge
 ## See also
 - [[Twelve Basic Principles of Animation]]
 - [[Coyote Time]]
-- [[Poise]]
+- [[Fighting Game]]
 - [[Input Latency]]
 - [[Metagame]]
 - [[Rollback Netcode]]

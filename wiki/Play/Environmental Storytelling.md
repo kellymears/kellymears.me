@@ -21,3 +21,4 @@ Two limits. Legibility depends on placement and sightlines, so the discipline ov
 - [[Taxonomy]]
 - [[Curiosity]]
 - [[Interactive Fiction]]
+- [[Level Design]]

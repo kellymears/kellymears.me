@@ -13,7 +13,7 @@ summary: a narrative form told through text and portraits, where branching is ma
 **The genre's identity sits in UI and pacing, not simulation.** *Danganronpa*'s trial sequences and *Ace Attorney*'s cross-examinations dress a largely linear core in rhythm and text-as-spectacle rather than systemic depth, though both draw real structure from the [[Fair-Play Mystery]] tradition of clues shown before the reveal. Because text carries nearly the whole product, [[Video Game Localization]] and [[Spoiler Etiquette]] matter more here than in most genres, and completionists [[Datamining]] flag conditions for a true ending treat full-route [[Achievement Hunting]] as a puzzle in the game's own logic.
 
 ## See also
-- [[Computer Role-Playing Game]]
+- [[Point-and-Click Adventure]]
 - [[Metroidvania]]
 - [[Constraint Propagation]]
 - [[Fair-Play Mystery]]

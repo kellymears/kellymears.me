@@ -22,3 +22,4 @@ Two forces pull against the form. Sequence breaking — reaching a gate's far si
 - [[Knowledge Graph]]
 - [[Sequence Breaking]]
 - [[Parallax Scrolling]]
+- [[Level Design]]

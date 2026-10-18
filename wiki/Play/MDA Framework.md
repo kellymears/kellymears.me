@@ -34,3 +34,4 @@ The model has parallels in other fields. In software, simple components interact
 - [[Game Feel]]
 - [[Compulsion Loop]]
 - [[Bartle Taxonomy]]
+- [[Procedural Rhetoric]]

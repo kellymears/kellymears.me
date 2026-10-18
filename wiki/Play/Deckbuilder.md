@@ -19,3 +19,4 @@ Deckbuilding is also worth distinguishing from [[Worker Placement]], another eco
 - [[Worker Placement]]
 - [[Roguelike]]
 - [[Power Creep]]
+- [[Collectible Card Game]]

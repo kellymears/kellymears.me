@@ -23,7 +23,7 @@ Determinism also enables *incremental* generation: extending a world without reg
 - [[Minimum Spanning Tree]]
 - [[Voxel]]
 - [[Cellular Automaton]]
-- [[Roguelike]]
+- [[Level Design]]
 - [[Colony Sim]]
 
 ## Related

@@ -14,7 +14,7 @@ summary: a genre that judges player input against a musical beat, where calibrat
 
 ## See also
 - [[MDA Framework]]
-- [[Game Feel]]
+- [[Adaptive Music]]
 - [[Accessibility]]
 - [[Assist Mode]]
 - [[Procedural Generation]]

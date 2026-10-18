@@ -19,3 +19,4 @@ MMR should not be confused with a [[Tier List]]: a tier list is a static, commun
 - [[Battle Royale]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Magic Circle]]
+- [[Anti-Cheat]]

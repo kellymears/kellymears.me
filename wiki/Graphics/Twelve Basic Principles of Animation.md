@@ -32,4 +32,4 @@ The principles describe what audiences read as alive, which isn't the same as ac
 
 ## See also
 - [[Cel Shading]]
-- [[Pixel Art]]
+- [[Telegraphing]]

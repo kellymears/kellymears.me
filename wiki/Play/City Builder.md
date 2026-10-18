@@ -25,3 +25,4 @@ The genre's real tension is between simulation depth and legibility. A model det
 - [[Legibility]]
 - [[Isometric Projection]]
 - [[Cozy Game]]
+- [[Procedural Rhetoric]]

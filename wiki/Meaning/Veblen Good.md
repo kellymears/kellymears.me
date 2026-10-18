@@ -28,3 +28,4 @@ The concept links to broader questions of well-being. If satisfaction depends on
 - [[Jevons Paradox]]
 - [[Matthew Effect]]
 - [[Planned Obsolescence]]
+- [[Collectible Card Game]]

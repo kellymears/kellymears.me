@@ -18,3 +18,4 @@ The game is often cited for treating [[Ludonarrative Dissonance]] as solved, sin
 - [[Environmental Storytelling]]
 - [[Tabletop Role-Playing Game]]
 - [[Interactive Fiction]]
+- [[Point-and-Click Adventure]]

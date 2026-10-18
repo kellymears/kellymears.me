@@ -31,3 +31,4 @@ The broader principle applies outside games: an interface that interprets what s
 - [[Invincibility Frames]]
 - [[Difficulty Curve]]
 - [[Collision Detection]]
+- [[Fighting Game]]

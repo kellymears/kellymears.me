@@ -17,7 +17,7 @@ Datamined numbers also age unevenly. A figure pulled from a [[Live Service Game]
 ## See also
 - [[Poise]]
 - [[Provenance]]
-- [[Spoiler Etiquette]]
+- [[Anti-Cheat]]
 - [[Emulation]]
 - [[Game Modding]]
 - [[Sequence Breaking]]

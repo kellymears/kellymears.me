@@ -20,3 +20,4 @@ A red herring exploits the same convention in reverse, planting false emphasis t
 - [[Ground Truth]]
 - [[Falsifiability]]
 - [[Zeigarnik Effect]]
+- [[Telegraphing]]

@@ -18,3 +18,4 @@ The genre departs from its parent in what progression means. A roguelike proper 
 - [[Tier List]]
 - [[Procedural Generation]]
 - [[Variable-Ratio Reinforcement]]
+- [[Collectible Card Game]]

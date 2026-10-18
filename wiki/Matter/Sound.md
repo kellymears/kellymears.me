@@ -32,6 +32,6 @@ Digital audio samples sound pressure many thousands of times a second. CD audio 
 
 ## See also
 - [[Rhythm Game]]
-- [[Ideal Gas Law]]
+- [[Adaptive Music]]
 - [[Timbre]]
 - [[Piezoelectric Effect]]

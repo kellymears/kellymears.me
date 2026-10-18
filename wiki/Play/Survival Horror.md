@@ -18,3 +18,4 @@ The genre has two ancestors, and they gave different things. [[Sweet Home]] (198
 - [[Environmental Storytelling]]
 - [[Game Feel]]
 - [[Cozy Game]]
+- [[Adaptive Music]]

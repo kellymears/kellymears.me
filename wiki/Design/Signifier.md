@@ -27,7 +27,7 @@ Good signifiers draw on [[Gestalt Principles]] and [[Visual Hierarchy]] so the i
 
 ## See also
 - [[Flat Design]]
-- [[Iconography]]
+- [[Telegraphing]]
 - [[Touch Target Size]]
 - [[Forcing Function]]
 - [[Wayfinding]]

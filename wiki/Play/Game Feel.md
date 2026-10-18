@@ -21,4 +21,4 @@ Two adjacent concerns. Consistency requires a fixed timestep and clean [[Determi
 - [[Haptic Feedback]]
 - [[Frame Generation]]
 - [[Magnus Effect]]
-- [[Motor Learning]]
+- [[Adaptive Music]]

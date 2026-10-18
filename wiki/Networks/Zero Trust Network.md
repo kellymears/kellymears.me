@@ -16,7 +16,7 @@ The honest cost is operational complexity: every service now needs to participat
 
 ## See also
 - [[Mandatory Access Control]]
-- [[API Gateway]]
+- [[Anti-Cheat]]
 - [[Caller ID Authentication]]
 - [[IPv6]]
 - [[Firewall]]

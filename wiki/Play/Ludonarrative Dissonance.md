@@ -21,3 +21,4 @@ What survives is a design check. A reward schedule teaches behavior regardless o
 - [[Game AI]]
 - [[Cognitive Dissonance]]
 - [[Magic Circle]]
+- [[Procedural Rhetoric]]

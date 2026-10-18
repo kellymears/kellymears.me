@@ -31,6 +31,6 @@ The idea reaches well beyond economics. Software users can't inspect what's in t
 ## See also
 - [[Regulatory Capture]]
 - [[Shibboleth]]
-- [[Enshittification]]
+- [[Social Deduction Game]]
 - [[Social Proof]]
 - [[Cobra Effect]]

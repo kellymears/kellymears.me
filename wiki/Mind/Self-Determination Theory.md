@@ -29,7 +29,7 @@ The theory has wide application:
 The needs map onto other ideas in this collection. Competence and absorption meet in [[Flow]]. Loss of autonomy features in [[Demand Avoidance]], where demands themselves trigger resistance. Repeated failure to control outcomes can lead to [[Learned Helplessness]], and reward systems in the brain are described under [[Reward Prediction Error]]. [[Procrastination]] often reflects tasks experienced as externally imposed rather than chosen. [[Habit Formation]] offers a complementary route, building behaviors that run on cues rather than motivation.
 
 ## See also
-- [[Flow]]
+- [[Gamification]]
 - [[Bartle Taxonomy]]
 - [[Cozy Game]]
 - [[Locus of Control]]

@@ -19,3 +19,4 @@ The interesting question isn't whether scumming is possible but whether it's *ra
 - [[Pseudorandom Number Generator]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Sequence Breaking]]
+- [[Point-and-Click Adventure]]

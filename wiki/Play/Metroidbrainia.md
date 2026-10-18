@@ -13,7 +13,7 @@ The term itself is fan-coined, first circulating in enthusiast criticism rather 
 
 ## See also
 - [[Metroidvania]]
-- [[Spoiler Etiquette]]
+- [[Point-and-Click Adventure]]
 - [[Fair-Play Mystery]]
 - [[Ground Truth]]
 - [[Environmental Storytelling]]

@@ -15,7 +15,7 @@ Published **[[Tier List]]** rankings are where the metagame becomes visible and 
 ## See also
 - [[Power Creep]]
 - [[MDA Framework]]
-- [[Frame Data]]
+- [[Collectible Card Game]]
 - [[Datamining]]
 - [[Speedrun]]
 - [[Prisoner's Dilemma]]

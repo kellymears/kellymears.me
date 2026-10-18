@@ -20,3 +20,4 @@ It's also distinct from [[Procedural Narrative]]: every branch here was written 
 - [[Visual Novel]]
 - [[Interactive Fiction]]
 - [[Tabletop Role-Playing Game]]
+- [[Procedural Rhetoric]]

@@ -28,6 +28,6 @@ Habits save effort. Each automatic action is one decision fewer, protecting agai
 - [[Classical Conditioning]]
 - [[Commitment Device]]
 - [[Fresh Start Effect]]
-- [[Doomscrolling]]
+- [[Gamification]]
 - [[Path Dependence]]
 - [[Motor Learning]]

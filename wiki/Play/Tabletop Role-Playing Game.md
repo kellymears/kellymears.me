@@ -31,3 +31,4 @@ Language models have renewed interest in automated game masters. They can improv
 - [[Branching Narrative]]
 - [[Disco Elysium]]
 - [[Game Modding]]
+- [[Social Deduction Game]]

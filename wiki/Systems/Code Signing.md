@@ -26,7 +26,7 @@ Testing this requires a machine other than the one that built it, since a local 
 - [[Secret Management]]
 - [[Prompt Injection]]
 - [[Observability]]
-- [[Silent Failure]]
+- [[Anti-Cheat]]
 - [[Cron]]
 - [[Reproducible Build]]
 - [[Commit Signing]]

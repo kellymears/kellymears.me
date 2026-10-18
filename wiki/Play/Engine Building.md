@@ -16,3 +16,4 @@ The pattern carries a specific risk: a snowball. Once an engine is running well 
 - [[Worker Placement]]
 - [[Factory Game]]
 - [[City Builder]]
+- [[Collectible Card Game]]

@@ -31,5 +31,5 @@ The same tools can be turned against people. A [[Dark Pattern]] is choice archit
 - [[Mental Model]]
 - [[Tesler's Law]]
 - [[Forcing Function]]
-- [[Goodhart's Law]]
+- [[Procedural Rhetoric]]
 - [[Loss Aversion]]

@@ -20,3 +20,4 @@ Rollback depends entirely on [[Determinism]]: the resimulation only produces the
 - [[Peer-to-Peer]]
 - [[Game Loop]]
 - [[Input Latency]]
+- [[Fighting Game]]

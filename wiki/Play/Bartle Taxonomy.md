@@ -35,3 +35,4 @@ The broader lesson holds: players don't all want the same thing, and design choi
 - [[Live Service Game]]
 - [[Compulsion Loop]]
 - [[Magic Circle]]
+- [[Gamification]]

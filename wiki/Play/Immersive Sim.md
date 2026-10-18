@@ -22,3 +22,4 @@ That shift is expensive, and the expense is mostly in verification. A scripted e
 - [[Procedural Generation]]
 - [[Sequence Breaking]]
 - [[Tabletop Role-Playing Game]]
+- [[Procedural Rhetoric]]

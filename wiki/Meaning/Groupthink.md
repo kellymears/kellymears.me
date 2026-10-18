@@ -20,3 +20,4 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Pre-mortem]]
 - [[Steelmanning]]
 - [[Pluralistic Ignorance]]
+- [[Social Deduction Game]]

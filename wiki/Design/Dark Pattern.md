@@ -20,7 +20,7 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Calm Technology]]
 - [[Compulsion Loop]]
 - [[AB Testing]]
-- [[Visual Hierarchy]]
+- [[Gamification]]
 - [[Enshittification]]
 - [[Modal Dialog]]
 - [[Loss Aversion]]

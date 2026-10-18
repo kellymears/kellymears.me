@@ -20,3 +20,4 @@ There is a middle category worth naming. **Spatial** interfaces are drawn in the
 - [[Game Feel]]
 - [[Accessibility]]
 - [[UI Primitive]]
+- [[Adaptive Music]]
