@@ -15,8 +15,8 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 
 ## See also
 - [[The Cathedral and the Bazaar]]
-- [[Refactoring]]
-- [[Atomic Commit]]
+- [[Inner Source]]
+- [[Commit Message]]
 - [[Psychological Safety]]
 - [[Code Comment]]
 - [[Vigilance Decrement]]

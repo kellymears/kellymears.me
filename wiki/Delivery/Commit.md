@@ -16,8 +16,8 @@ Staging deserves care in shared working directories: a bulk "add everything" swe
 ## See also
 - [[Fast-Forward Merge]]
 - [[Conventional Commits]]
-- [[Version Control]]
-- [[Provenance]]
+- [[Commit Message]]
+- [[Interactive Rebase]]
 - [[Squash Merge]]
 - [[Rebase]]
 

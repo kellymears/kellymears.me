@@ -33,5 +33,5 @@ The honest response to drift is not to forbid manual change entirely. Incidents 
 
 ## See also
 - [[YAML]]
-- [[Reproducible Build]]
+- [[Configuration Management]]
 - [[Pets vs Cattle]]

@@ -30,3 +30,4 @@ Two notes for shared working copies. Stage by explicit path — a bulk add captu
 - [[Fast-Forward Merge]]
 - [[Diff]]
 - [[Git Revert]]
+- [[Interactive Rebase]]

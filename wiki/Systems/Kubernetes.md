@@ -26,5 +26,5 @@ Kubernetes treats machines as interchangeable and containers as disposable, the 
 Its reputation for complexity is earned. Networking, storage, permissions, and upgrades each carry a learning curve, and a small application can need hundreds of lines of configuration. Many teams find it worth it only at scale, or use managed services that hide the control plane. Internal tooling that wraps it for application developers is a large part of [[Platform Engineering]].
 
 ## See also
-- [[Pets vs Cattle]]
+- [[Configuration Management]]
 - [[Service Discovery]]

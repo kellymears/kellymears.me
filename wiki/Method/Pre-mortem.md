@@ -31,5 +31,5 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Failure Mode and Effects Analysis]]
 - [[Framing Effect]]
 - [[Pluralistic Ignorance]]
-- [[Cobra Effect]]
+- [[Architecture Decision Record]]
 - [[Checklist]]

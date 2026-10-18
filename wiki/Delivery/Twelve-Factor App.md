@@ -29,7 +29,7 @@ Container platforms implement most of these directly. A container image is the b
 The list has aged unevenly. It predates [[Observability]] beyond logs, says little about security, and its "config in environment variables" advice now coexists with mounted secret files. Its strongest idea has held up: anything that makes one deployment special, such as hand-edited config or local state, eventually turns into [[Configuration Drift]].
 
 ## See also
-- [[Containerization]]
+- [[Secrets Management]]
 - [[Infrastructure as Code]]
 - [[Blue-Green Deployment]]
 - [[Pets vs Cattle]]

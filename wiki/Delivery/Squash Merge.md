@@ -30,3 +30,4 @@ Squash merging pairs naturally with [[Trunk-Based Development]], where branches 
 - [[Fast-Forward Merge]]
 - [[Git Blame]]
 - [[Git Stash]]
+- [[Interactive Rebase]]

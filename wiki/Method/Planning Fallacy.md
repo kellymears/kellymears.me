@@ -30,5 +30,5 @@ Adding people late rarely saves a late project, as [[Brooks's Law]] warns, and w
 - [[Feature Creep]]
 - [[Confidence Interval]]
 - [[Dunning-Kruger Effect]]
-- [[Loss Aversion]]
+- [[Story Points]]
 - [[Agile Software Development]]

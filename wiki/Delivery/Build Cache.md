@@ -27,4 +27,4 @@ A cache shared across machines is also a trust boundary. Anyone who can write to
 - [[Git LFS]]
 - [[Linker]]
 - [[Shallow Clone]]
-- [[Artifact Repository]]
+- [[Build System]]

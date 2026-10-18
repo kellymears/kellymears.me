@@ -30,3 +30,4 @@ The underlying idea is about knowledge rather than machines. A pet holds knowled
 - [[GitOps]]
 - [[Site Reliability Engineering]]
 - [[DevOps]]
+- [[Configuration Management]]

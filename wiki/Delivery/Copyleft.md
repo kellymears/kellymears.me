@@ -21,7 +21,7 @@ Incompatible copyleft terms cannot legally combine in one distributed work, and 
 ## See also
 - [[Gift Economy]]
 - [[The Cathedral and the Bazaar]]
-- [[Package Manager]]
+- [[Benevolent Dictator for Life]]
 - [[Provenance]]
 - [[Commons-Based Peer Production]]
 - [[Software Bill of Materials]]

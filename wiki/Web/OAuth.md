@@ -23,3 +23,4 @@ The access token itself is usually opaque to the client and short-lived, paired 
 - [[Cross-Site Scripting]]
 - [[Passkey]]
 - [[Third-Party Cookie]]
+- [[Secrets Management]]

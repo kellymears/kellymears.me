@@ -28,5 +28,5 @@ The tension between rewriting and preserving history runs through Git practice. 
 - [[Fast-Forward Merge]]
 - [[Branching Model]]
 - [[Stacked Pull Requests]]
-- [[Merge Conflict]]
+- [[Interactive Rebase]]
 - [[Git Revert]]

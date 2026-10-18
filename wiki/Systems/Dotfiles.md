@@ -28,3 +28,4 @@ Package manifests belong here too: a declarative list of installed software make
 - [[Time Zone]]
 - [[Secret Management]]
 - [[Containerization]]
+- [[Configuration Management]]

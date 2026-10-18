@@ -14,7 +14,7 @@ It also makes automation tractable. A provisioning script that can be run repeat
 The corresponding design work is usually to make the operation *express the desired end state* rather than a delta — write the value rather than adjust it, upsert rather than insert, and derive rather than accumulate. Where a delta is unavoidable, a caller-supplied key and a record of keys already seen restores the property.
 
 ## See also
-- [[Race Condition]]
+- [[Configuration Management]]
 - [[Microservices]]
 - [[Two Generals Problem]]
 - [[Dead Letter Queue]]

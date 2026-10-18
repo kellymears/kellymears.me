@@ -32,3 +32,4 @@ Both mechanisms record intent rather than prove it. They create a paper trail ty
 - [[Software Fork]]
 - [[Supply Chain Security]]
 - [[Code Owners]]
+- [[Commit Message]]

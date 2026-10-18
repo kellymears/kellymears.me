@@ -29,3 +29,4 @@ Its openness has been tested. After 2013 revelations about mass surveillance, th
 - [[Hypertext Transfer Protocol]]
 - [[Open Source Sustainability]]
 - [[Conventional Commits]]
+- [[Architecture Decision Record]]

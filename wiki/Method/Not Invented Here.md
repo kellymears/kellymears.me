@@ -25,3 +25,4 @@ NIH is a close cousin of [[Cargo Cult]] thinking but inverted — cargo cult is 
 - [[Mere-Exposure Effect]]
 - [[Left-Pad Incident]]
 - [[Opportunity Cost]]
+- [[Inner Source]]

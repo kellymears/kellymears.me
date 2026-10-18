@@ -31,7 +31,7 @@ Remote repositories have their own protections. Force-pushing over a shared bran
 ## See also
 - [[Commit]]
 - [[Git Stash]]
-- [[Version Control]]
+- [[Interactive Rebase]]
 - [[Persistent Data Structure]]
 - [[Force Push]]
 - [[Git Blame]]

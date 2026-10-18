@@ -31,3 +31,4 @@ TPMs are a simple, cheap kind of hardware security module. Larger ones protect t
 - [[Passkey]]
 - [[Near-Field Communication]]
 - [[Anti-Cheat]]
+- [[Secrets Management]]

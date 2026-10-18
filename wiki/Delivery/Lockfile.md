@@ -16,7 +16,7 @@ A second: how installed packages are laid out on disk is a property of the packa
 ## See also
 - [[Artifact Repository]]
 - [[Semantic Versioning]]
-- [[Determinism]]
+- [[Build System]]
 - [[Supply Chain Security]]
 
 ## Related

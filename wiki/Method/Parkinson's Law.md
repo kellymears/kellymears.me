@@ -28,3 +28,4 @@ The practical use of the law is as a scheduling lever rather than a complaint: a
 - [[Planning Fallacy]]
 - [[Kanban]]
 - [[Opportunity Cost]]
+- [[Story Points]]

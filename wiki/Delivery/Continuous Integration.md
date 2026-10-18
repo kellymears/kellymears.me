@@ -20,7 +20,7 @@ Several failure modes are worth knowing because they all produce a *false* green
 **A stale reference.** A run computed against a merge preview that predates a recent merge tells you nothing about the current state.
 
 ## See also
-- [[Continuous Deployment]]
+- [[Build System]]
 - [[Coverage Gate]]
 - [[Merge Train]]
 - [[Build Matrix]]

@@ -33,3 +33,4 @@ There is also a duplication hazard: two branches that each added the same conten
 - [[Edit Distance]]
 - [[Fast-Forward Merge]]
 - [[Diff]]
+- [[Distributed Version Control]]

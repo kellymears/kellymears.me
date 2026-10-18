@@ -34,5 +34,5 @@ Not all free riding is harmful. Knowledge spillovers, where one person's idea be
 - [[Gift Economy]]
 - [[BitTorrent]]
 - [[Universal Basic Income]]
-- [[Software Fork]]
+- [[Inner Source]]
 - [[Open Source Sustainability]]

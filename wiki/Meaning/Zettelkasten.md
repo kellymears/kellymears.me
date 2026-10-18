@@ -17,7 +17,7 @@ The modern practice adds tooling — automatic [[Backlink]]s, graph views, full-
 ## See also
 - [[Wiki]]
 - [[Project Xanadu]]
-- [[Backlink]]
+- [[Architecture Decision Record]]
 - [[Agent Memory]]
 - [[Frontmatter]]
 - [[Spaced Repetition]]

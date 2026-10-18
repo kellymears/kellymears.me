@@ -30,3 +30,4 @@ Git's *rerere* helps disproportionately here, since stacked branches share early
 - [[Continuous Integration]]
 - [[Branching Model]]
 - [[Force Push]]
+- [[Interactive Rebase]]

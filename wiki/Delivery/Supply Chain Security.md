@@ -23,7 +23,7 @@ The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed up
 
 ## Related
 - [[Dependency Confusion]]
-- [[Semantic Versioning]]
+- [[Secrets Management]]
 - [[Free Rider Problem]]
 - [[Reproducible Build]]
 - [[Software Bill of Materials]]

@@ -30,3 +30,4 @@ The essay's lasting point is that openness and frequent feedback can beat carefu
 - [[Bus Factor]]
 - [[Code Review]]
 - [[Agile Software Development]]
+- [[Benevolent Dictator for Life]]

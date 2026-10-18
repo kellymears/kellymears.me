@@ -29,5 +29,5 @@ Small, focused commits pick cleanly, which is one practical argument for an [[At
 - [[Reflog]]
 - [[Hotfix]]
 - [[Semantic Versioning]]
-- [[Version Control]]
+- [[Interactive Rebase]]
 - [[Long-Term Support]]

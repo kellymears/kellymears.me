@@ -34,3 +34,4 @@ Several things about rebasing are worth knowing concretely.
 - [[Reflog]]
 - [[Fast-Forward Merge]]
 - [[Force Push]]
+- [[Interactive Rebase]]

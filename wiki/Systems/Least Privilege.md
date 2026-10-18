@@ -30,6 +30,6 @@ The principle is stated easily and applied poorly, because broad permissions are
 - [[System Call]]
 
 ## Related
-- [[System Prompt]]
+- [[Secrets Management]]
 - [[Superuser]]
 - [[Differential Privacy]]

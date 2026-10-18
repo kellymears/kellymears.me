@@ -22,7 +22,7 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 - [[Characterization Test]]
 
 ## Related
-- [[Plausible Mechanism]]
+- [[Architecture Decision Record]]
 - [[Naming]]
 - [[Code Comment]]
 - [[Premature Optimization]]

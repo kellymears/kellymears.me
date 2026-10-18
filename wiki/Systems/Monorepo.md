@@ -24,7 +24,7 @@ Package managers support the pattern through *workspaces*: a root manifest listi
 - [[Supply Chain Security]]
 - [[Semantic Versioning]]
 - [[Bundler]]
-- [[Silent Failure]]
+- [[Inner Source]]
 - [[Test Impact Analysis]]
 - [[Build Cache]]
 - [[Code Owners]]

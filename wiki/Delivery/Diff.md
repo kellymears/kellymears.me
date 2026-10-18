@@ -29,3 +29,4 @@ Line-based diffs know nothing about code structure. Renaming a variable or refor
 - [[Pull Request]]
 - [[Git Blame]]
 - [[Cherry-Pick]]
+- [[Commit Message]]

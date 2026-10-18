@@ -29,6 +29,6 @@ Tooling can automate much of it. With [[Conventional Commits]], a `feat:` or `fi
 
 ## See also
 - [[Git Tag]]
-- [[Conventional Commits]]
+- [[Commit Message]]
 - [[Deprecation]]
 - [[Release Train]]

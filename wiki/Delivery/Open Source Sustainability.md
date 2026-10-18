@@ -31,5 +31,6 @@ None of these fully solves the mismatch between how much value open source creat
 
 ## See also
 - [[Commons-Based Peer Production]]
-- [[Collective Action]]
+- [[Inner Source]]
 - [[Dependency Hell]]
+- [[Benevolent Dictator for Life]]

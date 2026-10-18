@@ -28,3 +28,4 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Amdahl's Law]]
 - [[Team Topologies]]
 - [[Theory of Constraints]]
+- [[Story Points]]

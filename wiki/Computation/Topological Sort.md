@@ -31,5 +31,5 @@ Cycles are the recurring problem. Circular imports in a module system, packages 
 
 ## See also
 - [[ES Modules]]
-- [[Spreadsheet]]
+- [[Build System]]
 - [[Common Table Expression]]

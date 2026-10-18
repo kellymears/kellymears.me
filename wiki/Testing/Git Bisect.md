@@ -30,4 +30,4 @@ Bisection is the simplest version of [[Delta Debugging]], which generalizes the 
 - [[Scientific Debugging]]
 - [[Git Revert]]
 - [[Regression Testing]]
-- [[Divide and Conquer]]
+- [[Interactive Rebase]]

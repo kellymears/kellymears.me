@@ -27,4 +27,4 @@ The convention is orthogonal to how much a commit should contain — see [[Atomi
 - [[Version Control]]
 - [[Pull Request]]
 - [[Git Hook]]
-- [[Changelog]]
+- [[Commit Message]]

@@ -32,6 +32,6 @@ Alternatives depend on the job. Game studios often prefer Perforce, a centralize
 A good rule: track source in Git, generated files nowhere, and large binaries that people edit in LFS.
 
 ## See also
-- [[Monorepo]]
+- [[Distributed Version Control]]
 - [[Vendoring]]
 - [[Git Submodule]]

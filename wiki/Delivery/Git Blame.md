@@ -29,5 +29,5 @@ Where history is thin, as in code copied in from elsewhere or after a migration 
 - [[Reflog]]
 - [[Code Owners]]
 - [[Bus Factor]]
-- [[Provenance]]
+- [[Commit Message]]
 - [[Diff]]

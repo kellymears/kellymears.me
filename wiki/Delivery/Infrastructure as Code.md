@@ -16,7 +16,7 @@ The tools split on a real distinction: declarative tools (Terraform) describe th
 ## See also
 - [[GitOps]]
 - [[Pets vs Cattle]]
-- [[Version Control]]
+- [[Configuration Management]]
 - [[Code Review]]
 
 ## Related

@@ -22,3 +22,4 @@ This is a stronger claim than "we keep our infra config in Git." Many teams do t
 - [[Configuration Drift]]
 - [[Kubernetes]]
 - [[Pets vs Cattle]]
+- [[Configuration Management]]

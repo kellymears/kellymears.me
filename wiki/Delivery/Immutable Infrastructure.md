@@ -27,3 +27,4 @@ The tradeoff is that anything genuinely needing in-place mutation — a long-liv
 - [[Artifact Repository]]
 - [[Kubernetes]]
 - [[Pets vs Cattle]]
+- [[Configuration Management]]

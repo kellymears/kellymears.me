@@ -36,6 +36,6 @@ Agile's ideas fed into later movements. DevOps extended the feedback loop past d
 ## See also
 - [[Brooks's Law]]
 - [[Hofstadter's Law]]
-- [[Trunk-Based Development]]
+- [[Story Points]]
 - [[DevOps]]
 - [[Fresh Start Effect]]

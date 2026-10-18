@@ -32,6 +32,6 @@ In the browser, local-first apps store data in [[Web Storage]] such as IndexedDB
 
 ## See also
 - [[Database Replication]]
-- [[Personal Data]]
+- [[Distributed Version Control]]
 - [[Peer-to-Peer]]
 - [[Spreadsheet]]

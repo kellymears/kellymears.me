@@ -20,7 +20,7 @@ Version numbering is how deprecations are communicated at the package boundary; 
 - [[Regression]]
 
 ## Related
-- [[Root Cause Analysis]]
+- [[Architecture Decision Record]]
 - [[Semantic Conflict]]
 - [[Package Manager]]
 - [[Changelog]]

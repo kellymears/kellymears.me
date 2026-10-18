@@ -35,5 +35,5 @@ Because SSH is powerful, its servers are constant targets. Internet-facing serve
 - [[Superuser]]
 - [[Job Control]]
 - [[Pseudoterminal]]
-- [[Man-in-the-Middle Attack]]
+- [[Configuration Management]]
 - [[Network Socket]]
