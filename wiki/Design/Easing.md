@@ -31,3 +31,4 @@ Duration still matters and the useful range is narrow. Under roughly 100 millise
 - [[View Transitions]]
 - [[Linear Interpolation]]
 - [[Simple Harmonic Motion]]
+- [[Twelve Basic Principles of Animation]]

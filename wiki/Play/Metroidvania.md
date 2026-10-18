@@ -21,3 +21,4 @@ Two forces pull against the form. Sequence breaking — reaching a gate's far si
 - [[Procedural Generation]]
 - [[Knowledge Graph]]
 - [[Sequence Breaking]]
+- [[Parallax Scrolling]]

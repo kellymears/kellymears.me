@@ -29,4 +29,4 @@ Hearing differs from sight here. The eye reduces a whole spectrum of light to th
 ## See also
 - [[Doppler Effect]]
 - [[Synesthesia]]
-- [[Color Temperature]]
+- [[JPEG]]

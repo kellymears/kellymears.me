@@ -33,3 +33,4 @@ There are subtler errors too. Luma is computed from gamma-encoded values rather 
 - [[Font Rendering]]
 - [[Image Resampling]]
 - [[Texture Compression]]
+- [[JPEG]]

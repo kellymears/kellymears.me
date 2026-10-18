@@ -29,4 +29,4 @@ Matrices are the core of linear algebra, which underlies far more than graphics:
 
 ## See also
 - [[Linear Interpolation]]
-- [[Bounding Volume Hierarchy]]
+- [[Parallax Scrolling]]

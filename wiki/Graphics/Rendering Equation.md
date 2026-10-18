@@ -31,3 +31,4 @@ Real-time graphics spent decades approximating global illumination. Hardware ray
 - [[Inverse-Square Law]]
 - [[Refraction]]
 - [[High Dynamic Range]]
+- [[Volumetric Lighting]]

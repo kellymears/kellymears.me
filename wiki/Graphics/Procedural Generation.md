@@ -27,7 +27,7 @@ Determinism also enables *incremental* generation: extending a world without reg
 - [[Colony Sim]]
 
 ## Related
-- [[Shader]]
+- [[Demoscene]]
 - [[Constraint Propagation]]
 - [[Tile Map]]
 - [[Perlin Noise]]

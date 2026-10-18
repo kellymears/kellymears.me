@@ -33,3 +33,4 @@ Desktop environments face the same problem. A [[Compositor]] that assembles ever
 - [[Race Condition]]
 - [[Input Latency]]
 - [[Swap Chain]]
+- [[Racing the Beam]]

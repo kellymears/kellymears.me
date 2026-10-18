@@ -37,3 +37,4 @@ Clean data also isn't the same as correct data. A perfectly formatted dataset ca
 ## See also
 - [[ETL Pipeline]]
 - [[Database Normalization]]
+- [[Motion Capture]]

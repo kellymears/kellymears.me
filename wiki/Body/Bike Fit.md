@@ -25,7 +25,7 @@ Fit always balances competing aims. A lower, narrower position reduces [[Aerodyn
 Good fitters change one thing at a time, in small steps of a few millimeters, and let the body adapt for several rides before judging. A sudden large change is effectively a spike in [[Training Load]] on tissues that were tuned to the old position. Riders' sense of their own body position, [[Proprioception]], also adjusts, so a correct new position can feel wrong for a week. [[Stretching|Flexibility]], [[Strength Training|strength]], and injury history all shape the right fit, so fits change over time.
 
 ## See also
-- [[Cadence]]
+- [[Motion Capture]]
 - [[Tendinopathy]]
 - [[Ulnar Neuropathy]]
 - [[Functional Threshold Power]]

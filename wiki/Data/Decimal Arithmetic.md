@@ -31,3 +31,4 @@ Money needs more than exact numbers. An amount without a currency is ambiguous, 
 ## See also
 - [[Type System]]
 - [[JSON]]
+- [[Bresenham's Line Algorithm]]

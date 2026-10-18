@@ -36,3 +36,5 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 - [[Character Encoding]]
 - [[Backward Compatibility]]
 - [[CSV]]
+- [[JPEG]]
+- [[Demoscene]]

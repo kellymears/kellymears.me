@@ -23,8 +23,8 @@ It remains important in modern pipelines. Eight bits per channel gives 256 level
 Audio uses the same idea. When a recording is reduced from 24-bit to 16-bit for distribution, a small amount of noise is added first, so quiet passages fade smoothly instead of turning into gritty distortion. In every case dithering trades a tiny amount of fine noise for the removal of a larger, structured error, the same reason [[Aliasing]] is often fought with jitter rather than more samples. The reduction it smooths over is a form of [[Quantization]], the term also used when language models are compressed to fewer bits.
 
 ## See also
-- [[Gamma Correction]]
-- [[Aliasing]]
+- [[Bresenham's Line Algorithm]]
+- [[Halftone]]
 - [[Color Gamut]]
 - [[Perlin Noise]]
 - [[Post-Processing]]

@@ -26,7 +26,7 @@ Two practical notes. Precision and compiler optimization settings change results
 - [[Deferred Shading]]
 
 ## Related
-- [[Procedural Generation]]
+- [[Demoscene]]
 - [[Seeded Randomness]]
 - [[Cel Shading]]
 - [[L-System]]

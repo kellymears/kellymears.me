@@ -30,3 +30,4 @@ Isometric views appear outside games too: infographics, technical diagrams, and 
 - [[Sprite]]
 - [[Voxel]]
 - [[Fog of War]]
+- [[Parallax Scrolling]]

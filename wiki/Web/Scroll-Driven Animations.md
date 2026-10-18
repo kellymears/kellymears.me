@@ -35,3 +35,4 @@ Because unsupported browsers simply ignore the property, the feature is naturall
 - [[Motion Design]]
 - [[requestAnimationFrame]]
 - [[Reduced Motion]]
+- [[Parallax Scrolling]]

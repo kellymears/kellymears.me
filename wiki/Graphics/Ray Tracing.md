@@ -15,7 +15,7 @@ Both approaches live or die on acceleration structures. Testing every ray agains
 Real-time ray tracing in games is almost never pure — it is a hybrid where rasterization draws the primary visible surfaces cheaply and ray tracing is reserved for a few expensive effects (reflections, ambient occlusion, global illumination), run at reduced sample counts and cleaned up with a denoiser trained to hallucinate a plausible converged image from a noisy one.
 
 ## See also
-- [[Rasterization]]
+- [[Ray Casting]]
 - [[Physically Based Rendering]]
 - [[Signed Distance Field]]
 - [[Ray Marching]]

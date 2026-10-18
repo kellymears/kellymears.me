@@ -26,7 +26,7 @@ The general lesson applies outside graphics: for interactive systems, **variance
 - [[Swap Chain]]
 - [[Game Feel]]
 - [[Debounce and Throttle]]
-- [[Event Loop]]
+- [[Racing the Beam]]
 - [[Resource Starvation]]
 - [[Thermal Throttling]]
 - [[Screen Tearing]]

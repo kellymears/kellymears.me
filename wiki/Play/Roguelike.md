@@ -27,3 +27,4 @@ The genre's ideas have migrated widely, most successfully as a *mode* layered on
 - [[Shader]]
 - [[Wave Function Collapse]]
 - [[Tile Map]]
+- [[Bresenham's Line Algorithm]]

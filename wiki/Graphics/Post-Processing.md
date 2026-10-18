@@ -35,4 +35,4 @@ The same pipeline exists outside games. Photo editors, video color grading, and 
 
 ## See also
 - [[Cel Shading]]
-- [[Deferred Shading]]
+- [[Volumetric Lighting]]

@@ -24,3 +24,4 @@ Two testing notes. Automated accessibility checks that run immediately after an 
 - [[Progressive Enhancement]]
 - [[Focus Management]]
 - [[View Transitions]]
+- [[Twelve Basic Principles of Animation]]

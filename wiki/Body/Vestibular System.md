@@ -26,3 +26,4 @@ The vestibular system drives the **vestibulo-ocular reflex (VOR)**: eye movement
 - [[Bicycle Stability]]
 - [[Concussion]]
 - [[Coriolis Effect]]
+- [[Parallax Scrolling]]

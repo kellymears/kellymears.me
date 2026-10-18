@@ -26,6 +26,7 @@ Modern GPUs have no sprite hardware. A sprite is a textured rectangle of two tri
 Sprite animation is laborious, since each frame is hand-drawn, which led many games toward [[Skeletal Animation]] of 2D cut-out parts. Others render 3D models to sprites, as *Donkey Kong Country* did in 1994. Hand-drawn frame animation remains valued for its expressiveness, and it's central to [[Game Feel]]: how many frames a jump or attack takes to wind up shapes how responsive it seems.
 
 ## See also
-- [[Emulation]]
+- [[Parallax Scrolling]]
 - [[Mipmapping]]
 - [[Game Loop]]
+- [[Racing the Beam]]

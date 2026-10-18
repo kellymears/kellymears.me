@@ -38,3 +38,4 @@ The same camera-solving step now feeds [[Gaussian Splatting]], which skips meshe
 - [[Polygon Mesh]]
 - [[Image-Based Lighting]]
 - [[Voxel]]
+- [[Motion Capture]]

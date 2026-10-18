@@ -27,8 +27,8 @@ The division by depth also affects everything interpolated across a triangle. Te
 Projection sits between geometry and pixels. After it, [[Rasterization]] fills the projected triangles. [[Ray Tracing]] does the same job in reverse, shooting rays from the eye through each pixel, and reaches the same image.
 
 ## See also
-- [[Rasterization]]
-- [[Depth Buffer]]
+- [[Ray Casting]]
+- [[Parallax Scrolling]]
 - [[Culling]]
 - [[Quaternion]]
 - [[Transformation Matrix]]

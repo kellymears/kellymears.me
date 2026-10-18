@@ -25,9 +25,9 @@ The remedies all amount to either sampling more or [[Image Resampling|filtering 
 [[Ray Tracing]] aliases too. Path tracers trade aliasing for noise by placing samples randomly within each pixel, since noise reads as grain while aliasing reads as structure.
 
 ## See also
-- [[Mipmapping]]
+- [[Halftone]]
 - [[Wave Interference]]
-- [[Rasterization]]
+- [[Bresenham's Line Algorithm]]
 - [[Blue Noise]]
 - [[Timbre]]
 - [[Screen Tearing]]

@@ -27,7 +27,7 @@ One quirk is that each rotation has two representations, q and −q, so interpol
 Game engines store object orientations as quaternions internally, even when the editor shows Euler angles. [[Skeletal Animation]] blends joint rotations with them, cameras use them to turn smoothly, and physics engines integrate [[Angular Momentum]] with them. Spacecraft attitude control, drones, VR headsets, and phones fuse gyroscope and accelerometer readings into a quaternion to track orientation, the engineered counterpart of what the [[Vestibular System]] does. Orientation is always relative to some [[Inertial Frame of Reference]] or parent object. The math also gives smooth camera motion that combines well with [[Easing]], and avoiding sudden rotational jumps matters for [[Game Feel]].
 
 ## See also
-- [[Skeletal Animation]]
+- [[Motion Capture]]
 - [[Angular Momentum]]
 - [[Floating-Point Arithmetic]]
 - [[Easing]]

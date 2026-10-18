@@ -16,7 +16,7 @@ Two adjacent concerns. Consistency requires a fixed timestep and clean [[Determi
 
 ## See also
 - [[MDA Framework]]
-- [[Environmental Storytelling]]
+- [[Twelve Basic Principles of Animation]]
 - [[Coyote Time]]
 - [[Frame Pacing]]
 - [[Frame Generation]]

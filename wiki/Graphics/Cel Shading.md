@@ -23,7 +23,7 @@ The most careful work treats the rules of drawing as data. Arc System Works' *Gu
 That is the general lesson of NPR. Realism has an objective target, the way light behaves, so [[Physically Based Rendering]] can be judged against measurement. A stylized look has only an artistic target, so its parameters are artist-facing controls, and the effort shifts from simulating physics to encoding taste. Good stylization also needs consistency across the frame: banding, [[Dithering]], and [[Tone Mapping]] choices must agree, or the image looks like several styles stitched together.
 
 ## See also
-- [[Physically Based Rendering]]
+- [[Halftone]]
 - [[Post-Processing]]
 - [[Dithering]]
 - [[Color Quantization]]

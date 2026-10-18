@@ -31,5 +31,5 @@ The line between the two has blurred. A [[Signed Distance Field]] stores shapes 
 - [[Map Projection]]
 - [[Iconography]]
 - [[HTML Canvas]]
-- [[Aliasing]]
+- [[Bresenham's Line Algorithm]]
 - [[Font Rendering]]

@@ -17,7 +17,7 @@ Test environments frequently emulate the preference by default, which means ever
 
 ## See also
 - [[Motion Design]]
-- [[Accessibility]]
+- [[Parallax Scrolling]]
 - [[Component Story]]
 - [[Staggered Animation]]
 - [[Easing]]
@@ -26,7 +26,7 @@ Test environments frequently emulate the preference by default, which means ever
 ## Related
 - [[Color Contrast]]
 - [[Progressive Enhancement]]
-- [[Focus Management]]
+- [[Twelve Basic Principles of Animation]]
 - [[contenteditable]]
 - [[Stacking Context]]
 - [[Motion Blur]]

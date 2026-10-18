@@ -32,7 +32,7 @@ There is a deep link between compression and prediction: a model that predicts t
 
 ## See also
 - [[Kolmogorov Complexity]]
-- [[Time Series Database]]
+- [[Demoscene]]
 - [[Chroma Subsampling]]
-- [[Texture Mapping]]
+- [[JPEG]]
 - [[HTTP Compression]]

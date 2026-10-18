@@ -22,7 +22,7 @@ Performance work in a rasterizer is mostly about reducing [[Draw Call|draw calls
 - [[Deferred Shading]]
 
 ## Related
-- [[Procedural Generation]]
+- [[Bresenham's Line Algorithm]]
 - [[Transformation Matrix]]
 - [[Cellular Automaton]]
 - [[Game Feel]]

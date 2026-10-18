@@ -17,7 +17,7 @@ The aesthetic dimension is separable from the technical one. Voxel art is a deli
 - [[Rasterization]]
 - [[Procedural Generation]]
 - [[Shader]]
-- [[Determinism]]
+- [[Ray Casting]]
 - [[Polygon Mesh]]
 
 ## Related
@@ -25,7 +25,7 @@ The aesthetic dimension is separable from the technical one. Voxel art is a deli
 - [[Cellular Automaton]]
 - [[Roguelike]]
 - [[L-System]]
-- [[Reproducible Case]]
+- [[Volumetric Lighting]]
 - [[Game AI]]
 - [[Perlin Noise]]
 - [[Spatial Partitioning]]

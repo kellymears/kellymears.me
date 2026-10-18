@@ -30,7 +30,7 @@ Several constraints shape any real implementation.
 
 ## Related
 - [[Component Story]]
-- [[Accessibility]]
+- [[Twelve Basic Principles of Animation]]
 - [[Bézier Curve]]
 - [[View Transitions]]
 - [[Scroll-Driven Animations]]

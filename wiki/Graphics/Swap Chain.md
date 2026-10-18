@@ -30,3 +30,4 @@ Buffers also hold more than color. Renderers use many intermediate images per fr
 ## See also
 - [[Game Loop]]
 - [[High Dynamic Range]]
+- [[Racing the Beam]]

@@ -29,7 +29,7 @@ When a source color falls outside the destination gamut, **gamut mapping** must 
 ## See also
 - [[Color Quantization]]
 - [[Laser]]
-- [[Metamerism]]
+- [[Halftone]]
 - [[Structural Color]]
 - [[Physically Based Rendering]]
 - [[Design Token]]

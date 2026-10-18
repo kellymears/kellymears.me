@@ -31,7 +31,7 @@ Widely used engines include Erin Catto's Box2D (2007), Havok, PhysX, Bullet, and
 The same algorithms serve beyond games. Robotics uses collision checking for motion planning, CAD software checks parts for interference, and [[Ray Tracing]] is in essence collision detection between light rays and a scene.
 
 ## See also
-- [[Tile Map]]
+- [[Ray Casting]]
 - [[Verlet Integration]]
 - [[Particle System]]
 - [[Magnus Effect]]

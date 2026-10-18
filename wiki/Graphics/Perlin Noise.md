@@ -29,5 +29,5 @@ Noise is one of several procedural building blocks. An [[L-System]] grows branch
 - [[Voronoi Diagram]]
 - [[Ray Marching]]
 - [[Blue Noise]]
-- [[Shader]]
+- [[Demoscene]]
 - [[Pseudorandom Number Generator]]

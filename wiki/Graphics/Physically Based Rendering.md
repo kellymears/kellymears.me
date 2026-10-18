@@ -15,7 +15,7 @@ The discipline this imposes is as important as the math: an albedo texture must 
 
 ## See also
 - [[Structural Color]]
-- [[Ray Tracing]]
+- [[Volumetric Lighting]]
 - [[Shading Model]]
 - [[Rendering Equation]]
 - [[High Dynamic Range]]

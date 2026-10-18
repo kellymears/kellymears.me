@@ -24,3 +24,4 @@ The practical response designers converged on regardless is to route around the 
 - [[Subsurface Scattering]]
 - [[Pareidolia]]
 - [[Prosopagnosia]]
+- [[Motion Capture]]

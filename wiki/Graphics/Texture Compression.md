@@ -36,3 +36,4 @@ These formats compress poorly on disk, since they're designed for random access,
 - [[Chroma Subsampling]]
 - [[Graphics Processing Unit]]
 - [[Graphics API]]
+- [[JPEG]]

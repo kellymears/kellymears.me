@@ -26,7 +26,7 @@ Metamerism is also a useful general idea: when a system measures a few summary n
 - [[Structural Color]]
 - [[Timbre]]
 - [[Color Temperature]]
-- [[Color Contrast]]
+- [[Halftone]]
 - [[Dispersion]]
 - [[Hash Function]]
 - [[Rayleigh Scattering]]

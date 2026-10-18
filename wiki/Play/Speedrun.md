@@ -18,7 +18,7 @@ Submitted runs carry video, and a leaderboard's authority rests on moderators re
 ## See also
 - [[Collision Detection]]
 - [[Sequence Breaking]]
-- [[Metagame]]
+- [[Demoscene]]
 - [[Datamining]]
 - [[Game Loop]]
 - [[Motor Learning]]

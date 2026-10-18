@@ -27,5 +27,5 @@ Related hygiene: explicit `width` and `height` attributes reserve space and prev
 - [[Responsive Breakpoint]]
 - [[Performance Budget]]
 - [[Critical Rendering Path]]
-- [[Content Delivery Network]]
+- [[JPEG]]
 - [[Mipmapping]]

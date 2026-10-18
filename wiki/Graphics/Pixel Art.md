@@ -28,4 +28,6 @@ Its appeal is partly economic, since small teams can produce consistent art, and
 ## See also
 - [[Font Rendering]]
 - [[Game Preservation]]
-- [[Procedural Generation]]
+- [[Racing the Beam]]
+- [[Demoscene]]
+- [[Parallax Scrolling]]

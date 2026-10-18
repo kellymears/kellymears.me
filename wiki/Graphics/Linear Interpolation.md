@@ -29,7 +29,7 @@ There is also a numerical subtlety. The form a + (b − a) × t can miss *b* sli
 Interpolating between known samples also lets [[Frame Generation]] and [[Temporal Upscaling]] create in-between images.
 
 ## See also
-- [[Easing]]
+- [[Bresenham's Line Algorithm]]
 - [[Autoencoder]]
 - [[Quaternion]]
 - [[Skeletal Animation]]
