@@ -15,7 +15,7 @@ The sharpest practical hazard is **control characters**, and particularly the nu
 Terminal alignment is a related concern: East Asian characters occupy two columns and combining marks occupy none, so column arithmetic must use display width. See [[Terminal User Interface]].
 
 ## See also
-- [[Token]]
+- [[ANSI Escape Code]]
 - [[Shell]]
 - [[CSV]]
 - [[Form Design]]

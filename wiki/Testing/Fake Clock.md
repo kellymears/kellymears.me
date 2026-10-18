@@ -31,4 +31,4 @@ Two clocks are worth distinguishing. *Wall-clock* time follows the calendar and 
 ## See also
 - [[Dependency Injection]]
 - [[Unix Time]]
-- [[Heisenbug]]
+- [[Monotonic Clock]]

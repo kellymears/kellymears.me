@@ -23,3 +23,4 @@ An interpreter also changes where errors surface: a type or name error in a bran
 - [[WebAssembly]]
 - [[Dynamic Dispatch]]
 - [[Just-in-Time Compilation]]
+- [[Shebang]]

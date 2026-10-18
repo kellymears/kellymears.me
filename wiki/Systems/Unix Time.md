@@ -27,4 +27,4 @@ Timestamps appear throughout systems tooling: [[Cron]] schedules, file modificat
 
 ## See also
 - [[Logging]]
-- [[Determinism]]
+- [[Monotonic Clock]]

@@ -32,3 +32,4 @@ Differences between engines are why developers rely on [[Progressive Enhancement
 - [[Critical Rendering Path]]
 - [[Compositor]]
 - [[Same-Origin Policy]]
+- [[Seccomp]]

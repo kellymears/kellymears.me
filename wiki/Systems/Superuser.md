@@ -28,6 +28,7 @@ Remote access adds its own rules. Most systems forbid logging in as root directl
 The same concern now applies to automated tools and AI agents: running them with full privileges is convenient and risky, which is why they are increasingly confined; see [[Agent Sandbox]].
 
 ## See also
-- [[Package Manager]]
+- [[Mandatory Access Control]]
 - [[Kernel]]
 - [[Control Groups]]
+- [[Linux Capabilities]]

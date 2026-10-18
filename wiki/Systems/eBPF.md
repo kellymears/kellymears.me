@@ -27,7 +27,7 @@ Main uses:
 eBPF is not limited to Linux any more. Microsoft has an implementation for Windows, and the instruction set was published as an IETF standard in 2024. It also works well with [[Control Groups]], attaching programs per container to account for or limit their resource use.
 
 ## See also
-- [[Kernel]]
+- [[Seccomp]]
 - [[Service Mesh]]
 - [[Containerization]]
 - [[Interrupt]]

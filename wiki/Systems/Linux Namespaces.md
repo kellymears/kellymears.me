@@ -25,3 +25,5 @@ Namespaces are also not a security boundary on their own. The kernel underneath 
 - [[Agent Sandbox]]
 - [[Kubernetes]]
 - [[Superuser]]
+- [[Linux Capabilities]]
+- [[Seccomp]]

@@ -26,3 +26,4 @@ Directory-scoped environment loaders make per-project variables ergonomic, which
 - [[Terminal User Interface]]
 - [[Twelve-Factor App]]
 - [[YAML]]
+- [[Shebang]]

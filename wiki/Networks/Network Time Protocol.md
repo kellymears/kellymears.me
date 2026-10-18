@@ -33,7 +33,7 @@ Correct time matters in more places than expected:
 - **Abuse.** Older NTP servers answered a small status query with a large list, which made them a popular tool for [[Denial-of-Service Attack]] amplification. Network Time Security (2020) adds authentication to NTP.
 
 ## See also
-- [[Logical Clock]]
+- [[Monotonic Clock]]
 - [[Timeout]]
 - [[Time Zone]]
 - [[Falsehoods Programmers Believe]]

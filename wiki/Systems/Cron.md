@@ -18,7 +18,7 @@ The practical rules: use absolute paths, set the environment explicitly, log to 
 - [[Daemon]]
 - [[Environment Variable]]
 - [[Idempotence]]
-- [[Silent Failure]]
+- [[Shebang]]
 - [[Background Agent]]
 
 ## Related

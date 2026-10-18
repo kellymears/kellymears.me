@@ -25,6 +25,6 @@ Removing the watcher removes a safety layer, so the design work shifts to the ed
 [[Observability]] matters more than for interactive use. A transcript, tool-call log, and diff let someone audit a run after the fact, which is the background equivalent of watching it happen.
 
 ## See also
-- [[Agentic Loop]]
+- [[Job Control]]
 - [[Durable Execution]]
 - [[Agent Sandbox]]

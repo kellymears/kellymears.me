@@ -31,5 +31,5 @@ The kernel starts first at boot, hands control to the [[Init System]] as process
 
 ## See also
 - [[Boot Process]]
-- [[Ring Buffer]]
+- [[Kernel Panic]]
 - [[eBPF]]

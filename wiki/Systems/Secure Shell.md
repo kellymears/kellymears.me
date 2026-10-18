@@ -33,7 +33,7 @@ Because SSH is powerful, its servers are constant targets. Internet-facing serve
 
 ## See also
 - [[Superuser]]
-- [[Secret Management]]
+- [[Job Control]]
 - [[Pseudoterminal]]
 - [[Man-in-the-Middle Attack]]
 - [[Network Socket]]

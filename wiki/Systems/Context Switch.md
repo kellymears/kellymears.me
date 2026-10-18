@@ -33,6 +33,6 @@ Context switching also has a human version, the cost of moving attention between
 
 ## See also
 - [[Simultaneous Multithreading]]
-- [[Concurrency and Parallelism]]
+- [[Job Control]]
 - [[Load Average]]
 - [[Lock-Free Data Structure]]

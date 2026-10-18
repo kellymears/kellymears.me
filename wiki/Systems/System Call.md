@@ -29,5 +29,5 @@ System calls are also a natural place to observe and restrict programs. `strace`
 ## See also
 - [[Network Socket]]
 - [[Interrupt]]
-- [[Process]]
+- [[Seccomp]]
 - [[eBPF]]

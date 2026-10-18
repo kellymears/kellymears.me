@@ -23,3 +23,4 @@ Whichever init a system runs, it remains the process that must never crash: its 
 ## Related
 - [[Rolling Release]]
 - [[Boot Process]]
+- [[Zombie Process]]

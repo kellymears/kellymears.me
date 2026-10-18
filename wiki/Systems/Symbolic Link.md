@@ -29,3 +29,4 @@ Careless linking of a home directory's important files is a genuinely destructiv
 - [[Containerization]]
 - [[Secret Management]]
 - [[Filesystem]]
+- [[Hard Link]]

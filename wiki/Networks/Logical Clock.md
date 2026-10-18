@@ -31,7 +31,7 @@ Version control already lives by these ideas. A commit graph is a happens-before
 ## See also
 - [[Local-First Software]]
 - [[Unix Time]]
-- [[Three-Way Merge]]
+- [[Monotonic Clock]]
 - [[Race Condition]]
 - [[Time Zone]]
 - [[Gossip Protocol]]

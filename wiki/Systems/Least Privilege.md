@@ -19,10 +19,10 @@ The principle is stated easily and applied poorly, because broad permissions are
 **Wildcards are not a configuration.** An allowlist of "anything" in a system that defaults to nothing is a common and understandable shortcut, and it grants exactly what the mechanism existed to restrict.
 
 ## See also
-- [[Secret Management]]
+- [[Linux Capabilities]]
 - [[Agent Sandbox]]
 - [[Guardrail]]
-- [[Same-Origin Policy]]
+- [[Mandatory Access Control]]
 - [[Code Signing]]
 - [[Model Context Protocol]]
 - [[Row-Level Security]]

@@ -35,7 +35,7 @@ Descriptors also carry security meaning. Holding an open descriptor is itself a 
 
 ## See also
 - [[Network Socket]]
-- [[System Call]]
+- [[Hard Link]]
 - [[Filesystem]]
 - [[Shell]]
 - [[Pseudoterminal]]

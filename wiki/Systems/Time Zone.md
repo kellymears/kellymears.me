@@ -17,7 +17,7 @@ Abolishing daylight saving would end future transitions but not the problem: his
 ## See also
 - [[Unix Time]]
 - [[Falsehoods Programmers Believe]]
-- [[Defensive Default]]
+- [[Monotonic Clock]]
 - [[Inertial Frame of Reference]]
 - [[Boundary Value Analysis]]
 - [[Jet Lag]]

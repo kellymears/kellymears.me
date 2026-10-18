@@ -32,5 +32,5 @@ These failures appear only under real load and coupling. Deliberately injecting 
 
 ## See also
 - [[Backpressure]]
-- [[Tail Latency]]
+- [[Kernel Panic]]
 - [[Small-World Network]]

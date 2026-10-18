@@ -23,7 +23,7 @@ Benchmarks drive decisions, so they attract optimization aimed at the score rath
 Used well, benchmarks catch performance regressions in [[Continuous Integration]] the way tests catch functional ones, by tracking results over time and flagging significant changes. They also keep optimization honest. [[Premature Optimization]] is often optimization without measurement, and a [[Profiling|profiler]] shows where time actually goes before a benchmark confirms the fix helped. [[Performance Budget]] targets for web pages are benchmarks expressed as limits. [[Frame Pacing]] shows the general lesson: averages hide the stutter, and percentiles reveal it.
 
 ## See also
-- [[Load Testing]]
+- [[Monotonic Clock]]
 - [[Benchmark Contamination]]
 - [[Just-in-Time Compilation]]
 - [[Amdahl's Law]]

@@ -34,6 +34,6 @@ Crash reporting is one strand of [[Observability]]: errors, alongside logs, metr
 
 ## See also
 - [[Synthetic Monitoring]]
-- [[Incident Response]]
+- [[Kernel Panic]]
 - [[Logging]]
 - [[Debugger]]
