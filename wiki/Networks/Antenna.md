@@ -32,4 +32,4 @@ Hobbyists often build their own from wire and pipe; see [[Amateur Radio]]. Which
 
 ## See also
 - [[Global Positioning System]]
-- [[Doppler Effect]]
+- [[Faraday Cage]]

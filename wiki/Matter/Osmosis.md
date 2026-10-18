@@ -25,7 +25,7 @@ Engineering runs the process backwards. **Reverse osmosis** applies pressure gre
 Sweating is osmosis's counterpart in [[Thermoregulation]], losing salt and water together, which is why endurance athletes replace both and why water alone can dilute blood sodium dangerously during very long events.
 
 ## See also
-- [[Fermentation]]
+- [[Henry's Law]]
 - [[Diffusion]]
 - [[Freezing Point Depression]]
 - [[Thermoregulation]]

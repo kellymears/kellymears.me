@@ -29,7 +29,7 @@ Magnetic forces also shape light: certain materials rotate the plane of [[Polari
 
 ## See also
 - [[Superconductivity]]
-- [[Hall Effect]]
+- [[Faraday Cage]]
 - [[Aurora]]
 - [[Steel]]
 - [[Telegraph]]

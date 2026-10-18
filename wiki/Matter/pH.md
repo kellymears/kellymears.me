@@ -37,9 +37,9 @@ Taste tracks pH too: sourness is the tongue detecting hydrogen ions, one of the 
 Acids and bases react with metals and other substances in ways closely tied to [[Oxidation]].
 
 ## See also
-- [[Fermentation]]
+- [[Henry's Law]]
 - [[Logarithmic Scale]]
 - [[Osmosis]]
-- [[Oxidation]]
+- [[Electrolysis]]
 - [[Chemical Leavening]]
 - [[Catalysis]]

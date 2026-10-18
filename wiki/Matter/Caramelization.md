@@ -30,3 +30,4 @@ Once cooled, caramel's texture depends on its final temperature, from soft sauce
 - [[Thermal Expansion]]
 - [[Boiling Point]]
 - [[Chemical Leavening]]
+- [[Chocolate Tempering]]

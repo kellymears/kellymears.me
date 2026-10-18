@@ -36,7 +36,7 @@ Simulations have to respect conservation too. Game physics engines step motion f
 Einstein's E = mc² extended the law to include mass as a form of energy, which is what powers the sun and nuclear reactors.
 
 ## See also
-- [[Simple Harmonic Motion]]
+- [[Siphon]]
 - [[Work and Power]]
 - [[Orbit]]
 - [[Sankey Diagram]]

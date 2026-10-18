@@ -31,7 +31,7 @@ Guitar pickups, metal detectors, and contactless cards rely on induction too. Th
 - [[Hall Effect]]
 - [[Lightning]]
 - [[Tide]]
-- [[Microwave Heating]]
+- [[Faraday Cage]]
 - [[Superconductivity]]
 - [[Alternating Current]]
 - [[Aurora]]

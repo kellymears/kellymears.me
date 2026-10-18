@@ -29,5 +29,6 @@ The same physics runs in reverse in an LED, where current produces light, and in
 ## See also
 - [[Black-Body Radiation]]
 - [[Fluorescence]]
-- [[Color Temperature]]
+- [[Thermoelectric Effect]]
 - [[Laser]]
+- [[Electrolysis]]

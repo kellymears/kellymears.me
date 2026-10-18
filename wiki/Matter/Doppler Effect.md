@@ -23,3 +23,5 @@ The effect scales with the ratio of relative velocity to wave speed, which is wh
 - [[Satellite Internet]]
 - [[Shock Wave]]
 - [[Antenna]]
+- [[Time Dilation]]
+- [[Spectroscopy]]

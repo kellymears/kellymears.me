@@ -28,7 +28,7 @@ Bernoulli's equation in its simple form assumes a fluid that is steady, incompre
 Static fluids follow simpler rules: pressure spreads evenly through an enclosed fluid, as in [[Pascal's Principle]], and pushes up on submerged objects, as described under [[Buoyancy]].
 
 ## See also
-- [[Cavitation]]
+- [[Siphon]]
 - [[Shock Wave]]
 - [[Magnus Effect]]
 - [[Sleep Apnea]]

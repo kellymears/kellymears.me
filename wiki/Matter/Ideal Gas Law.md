@@ -33,7 +33,7 @@ The law connects to deeper physics. Kinetic theory explains pressure as countles
 
 ## See also
 - [[Heat Engine]]
-- [[Buoyancy]]
+- [[Henry's Law]]
 - [[Pascal's Principle]]
 - [[Entropy]]
 - [[Chemical Leavening]]

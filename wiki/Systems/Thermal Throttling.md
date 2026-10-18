@@ -32,7 +32,7 @@ Heat is also the main accelerator of chip wear such as [[Electromigration]], so 
 - [[Microcode]]
 - [[Suspend and Hibernation]]
 - [[Pressure Stall Information]]
-- [[Thermal Expansion]]
+- [[Thermoelectric Effect]]
 - [[Carryover Cooking]]
 - [[Hybrid CPU Architecture]]
 - [[Specific Heat Capacity]]

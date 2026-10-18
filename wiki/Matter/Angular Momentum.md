@@ -29,7 +29,7 @@ Wheels carry rotational inertia as well as ordinary inertia, so lighter rims do 
 - [[Magnus Effect]]
 - [[Coriolis Effect]]
 - [[Rigid Body Dynamics]]
-- [[Quaternion]]
+- [[Seasons]]
 - [[Centripetal Force]]
 - [[Bicycle Stability]]
 - [[Inertial Measurement Unit]]

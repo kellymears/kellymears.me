@@ -34,3 +34,4 @@ It differs from [[Caramelization]], which involves sugars alone and needs higher
 - [[Chemical Leavening]]
 - [[Microwave Heating]]
 - [[Catalysis]]
+- [[Chocolate Tempering]]

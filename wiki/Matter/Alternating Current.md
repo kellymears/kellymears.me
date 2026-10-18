@@ -32,3 +32,4 @@ Cheap dimmers and LED drivers that pass AC ripple through cause visible [[LED Fl
 - [[Resonance]]
 - [[Magnetism]]
 - [[Conservation of Energy]]
+- [[Electrolysis]]

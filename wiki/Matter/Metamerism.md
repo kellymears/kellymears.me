@@ -28,7 +28,7 @@ Metamerism is also a useful general idea: when a system measures a few summary n
 - [[Color Temperature]]
 - [[Halftone]]
 - [[Dispersion]]
-- [[Hash Function]]
+- [[Spectroscopy]]
 - [[Rayleigh Scattering]]
 - [[Fluorescence]]
 - [[Electromagnetic Spectrum]]

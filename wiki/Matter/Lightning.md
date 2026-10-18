@@ -25,3 +25,4 @@ Safety advice is short: if thunder is audible, lightning is close enough to stri
 - [[Magnetism]]
 - [[Shock Wave]]
 - [[Aurora]]
+- [[Faraday Cage]]

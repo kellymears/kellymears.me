@@ -30,6 +30,6 @@ Food chemistry is polymer chemistry too: [[Gluten]] forms a stretchy protein net
 
 ## See also
 - [[Non-Newtonian Fluid]]
-- [[Maillard Reaction]]
+- [[Hydrogen Bond]]
 - [[Thermal Expansion]]
 - [[Emulsion]]

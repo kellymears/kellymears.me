@@ -26,7 +26,7 @@ Denaturation is mostly irreversible in cooking. You can't unboil an egg, though 
 - [[Chemical Leavening]]
 - [[Surfactant]]
 - [[Colloid]]
-- [[Osmosis]]
+- [[Hydrogen Bond]]
 - [[Boiling Point]]
 - [[pH]]
 - [[Gluten]]

@@ -25,3 +25,5 @@ Water is the well-known exception near its freezing point: it contracts as it co
 - [[Lightning]]
 - [[Glass]]
 - [[Work Hardening]]
+- [[Hydrogen Bond]]
+- [[Thermoelectric Effect]]

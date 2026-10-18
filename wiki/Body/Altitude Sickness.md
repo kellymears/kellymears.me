@@ -31,3 +31,4 @@ Altitude affects other things too. Water boils at a lower temperature, so cookin
 - [[Blood Pressure]]
 - [[Heat Acclimation]]
 - [[Sleep Apnea]]
+- [[Henry's Law]]

@@ -28,3 +28,4 @@ At very low temperatures and strong fields, the effect becomes quantized. In 198
 ## See also
 - [[Superconductivity]]
 - [[Piezoelectric Effect]]
+- [[Thermoelectric Effect]]

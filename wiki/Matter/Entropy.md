@@ -26,6 +26,6 @@ In 1948 Claude Shannon defined *information entropy*, the average uncertainty in
 ## See also
 - [[Lehman's Laws of Software Evolution]]
 - [[Diffusion]]
-- [[Specific Heat Capacity]]
+- [[Thermoelectric Effect]]
 - [[Kolmogorov Complexity]]
 - [[Heat Engine]]

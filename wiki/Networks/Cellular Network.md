@@ -36,4 +36,4 @@ The radio itself is expensive in energy. Keeping it active drains the [[Lithium-
 - [[Adaptive Bitrate Streaming]]
 - [[Last Mile]]
 - [[Spread Spectrum]]
-- [[Antenna]]
+- [[Faraday Cage]]

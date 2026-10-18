@@ -35,3 +35,4 @@ The energy lost to resistance doesn't vanish; it becomes heat, as [[Conservation
 - [[Alternating Current]]
 - [[Electrostatic Discharge]]
 - [[Lightning]]
+- [[Electrolysis]]

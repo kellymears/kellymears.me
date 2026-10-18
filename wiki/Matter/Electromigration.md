@@ -25,7 +25,7 @@ The defenses are conservative operating points: lower voltage via [[Dynamic Volt
 
 ## See also
 - [[Superconductivity]]
-- [[Silicon Binning]]
+- [[Electrolysis]]
 - [[Thermal Throttling]]
 - [[Thermal Expansion]]
 - [[Planned Obsolescence]]

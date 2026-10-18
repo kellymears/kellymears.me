@@ -28,3 +28,4 @@ The rainbow's order of hues has a poorer reputation in data visualization. Rainb
 ## See also
 - [[Rayleigh Scattering]]
 - [[Structural Color]]
+- [[Spectroscopy]]

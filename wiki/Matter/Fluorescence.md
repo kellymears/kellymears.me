@@ -30,5 +30,5 @@ Fluorescence differs from the other ways objects color light. [[Dispersion]] sep
 - [[Photovoltaic Effect]]
 - [[Non-Destructive Testing]]
 - [[Radioactive Decay]]
-- [[Laser]]
+- [[Spectroscopy]]
 - [[Aurora]]

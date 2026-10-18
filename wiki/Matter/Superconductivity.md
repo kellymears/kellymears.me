@@ -30,3 +30,4 @@ That makes a superconductor working at room temperature and ordinary pressure a 
 ## See also
 - [[Semiconductor]]
 - [[Electromigration]]
+- [[Thermoelectric Effect]]

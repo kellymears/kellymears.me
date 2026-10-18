@@ -26,7 +26,7 @@ Rotating frames fool the body too. A pilot who tilts their head during a sustain
 Weather and ballistics simulations include the term. Most game engines leave it out; see [[Physics engine]].
 
 ## See also
-- [[Aerodynamic Drag]]
+- [[Seasons]]
 - [[Map Projection]]
 - [[Bernoulli's Principle]]
 - [[Tide]]

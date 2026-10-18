@@ -30,6 +30,6 @@ Venus shows the extreme: its thick carbon dioxide atmosphere holds the surface n
 Most added carbon dioxide comes from [[Combustion]] of fossil fuels. Some refrigerants used in air conditioners and heat pumps trap thousands of times more heat per molecule, so leaks matter; see [[Vapor-Compression Refrigeration]]. Because the costs fall on everyone cutting emissions is a textbook problem of [[Collective Action]] and the [[Tragedy of the Commons]].
 
 ## See also
-- [[Rayleigh Scattering]]
-- [[Latent Heat]]
+- [[Seasons]]
+- [[Henry's Law]]
 - [[Black-Body Radiation]]

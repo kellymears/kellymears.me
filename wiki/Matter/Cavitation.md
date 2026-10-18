@@ -28,3 +28,5 @@ Cavitation is probably behind the crack of knuckles. A 2015 study filmed a finge
 - [[Atmospheric Pressure]]
 - [[Leidenfrost Effect]]
 - [[Shock Wave]]
+- [[Henry's Law]]
+- [[Siphon]]

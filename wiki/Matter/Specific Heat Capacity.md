@@ -25,8 +25,8 @@ In electronics, thermal mass buys time rather than capacity. A heavy heatsink ab
 
 ## See also
 - [[Freezing Point Depression]]
-- [[Latent Heat]]
-- [[Carryover Cooking]]
+- [[Hydrogen Bond]]
+- [[Seasons]]
 - [[Boiling Point]]
 - [[Conservation of Energy]]
 - [[Microwave Heating]]

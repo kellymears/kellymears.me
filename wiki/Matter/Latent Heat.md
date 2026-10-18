@@ -25,7 +25,7 @@ Machines exploit the same physics. A [[Vapor-Compression Refrigeration]] system 
 In cooking, latent heat caps the temperature of anything wet at about 100 °C until its surface water has boiled off. That is why food must dry before the [[Maillard Reaction]] can brown it, why moist foods resist burning, and why a hot pan briefly loses heat when wet food goes in, sometimes ending a sear before it starts. The extreme case is a drop skating on a vapor cushion, the [[Leidenfrost Effect]].
 
 ## See also
-- [[Heat Engine]]
-- [[Phase Transition]]
+- [[Chocolate Tempering]]
+- [[Hydrogen Bond]]
 - [[Freezing Point Depression]]
 - [[Entropy]]

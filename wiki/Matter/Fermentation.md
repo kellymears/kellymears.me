@@ -24,8 +24,8 @@ Fermentation also transforms flavor. Proteins become savory amino acids, sugars 
 
 ## See also
 - [[Hangover]]
-- [[Osmosis]]
-- [[Umami]]
+- [[Henry's Law]]
+- [[Chocolate Tempering]]
 - [[Glycogen]]
 - [[Xenobiotic Metabolism]]
 - [[Maillard Reaction]]
