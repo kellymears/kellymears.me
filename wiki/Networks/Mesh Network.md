@@ -32,3 +32,5 @@ The 2.4 GHz band is shared with Wi-Fi and Bluetooth, so Zigbee and Thread channe
 - [[Latency and Jitter]]
 - [[Network Effect]]
 - [[Packet Switching]]
+- [[Wi-Fi]]
+- [[Bluetooth]]

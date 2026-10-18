@@ -20,3 +20,4 @@ The trade-off is a small amount of load imbalance even with virtual nodes — th
 - [[Least Recently Used Cache]]
 - [[Database Sharding]]
 - [[Key-Value Store]]
+- [[Distributed Hash Table]]

@@ -27,7 +27,7 @@ Products that advertise exactly-once semantics, such as Kafka's, provide this wi
 
 ## See also
 - [[Idempotence]]
-- [[Transactional Outbox]]
+- [[MQTT]]
 - [[Webhook]]
 - [[Stream Processing]]
 - [[Two-Phase Commit]]

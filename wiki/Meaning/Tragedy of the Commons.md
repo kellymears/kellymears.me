@@ -15,7 +15,7 @@ The sharpest correction is definitional: Hardin was describing **open access** â
 ## See also
 - [[Collective Action]]
 - [[Externality]]
-- [[Commons-Based Peer Production]]
+- [[Wi-Fi]]
 - [[Legibility]]
 - [[Path Dependence]]
 - [[Congestion Control]]

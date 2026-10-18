@@ -19,3 +19,5 @@ This is why multicast has historically mattered for things like live TV distribu
 - [[Streaming Response]]
 - [[Mesh Network]]
 - [[Subnet]]
+- [[Multicast DNS]]
+- [[Bluetooth]]

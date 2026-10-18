@@ -28,7 +28,7 @@ Gossip pairs naturally with data that merges cleanly. A [[Conflict-Free Replicat
 
 ## See also
 - [[Eventual Consistency]]
-- [[Conflict-Free Replicated Data Type]]
+- [[Distributed Hash Table]]
 - [[Peer-to-Peer]]
 - [[Logical Clock]]
 - [[Failure Detection]]

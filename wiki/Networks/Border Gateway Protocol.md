@@ -32,3 +32,5 @@ BGP is also a tool. [[Anycast]] announces the same addresses from many locations
 - [[Mesh Network]]
 - [[IPv6]]
 - [[Subnet]]
+- [[Internet Exchange Point]]
+- [[Submarine Cable]]

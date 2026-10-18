@@ -28,7 +28,7 @@ Load tests are notoriously easy to get wrong:
 Load tests also check the protective machinery: [[Rate Limiting]], [[Backpressure]], [[Circuit Breaker]] trips, and [[Load Balancing]] all only show their worth under load. A test that overloads a system on purpose shades into [[Chaos Engineering]]. [[Resource Starvation]] and [[Race Condition]] bugs that never appear in development often surface here first.
 
 ## See also
-- [[Latency and Jitter]]
+- [[Queueing Theory]]
 - [[Backpressure]]
 - [[Rate Limiting]]
 - [[Circuit Breaker]]

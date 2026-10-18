@@ -15,7 +15,7 @@ Webhooks are also a poor fit for anything that needs a response mid-transaction 
 
 ## See also
 - [[Idempotence]]
-- [[API Gateway]]
+- [[MQTT]]
 - [[Race Condition]]
 - [[Streaming Response]]
 - [[Implementation Intention]]

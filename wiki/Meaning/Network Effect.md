@@ -19,3 +19,4 @@ Network effects are often confused with switching costs, and the two are related
 - [[Peer-to-Peer]]
 - [[Taxonomy]]
 - [[Legibility]]
+- [[Internet Exchange Point]]

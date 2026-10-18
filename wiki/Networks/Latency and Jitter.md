@@ -15,7 +15,7 @@ Latency itself splits into components worth naming separately: propagation delay
 
 ## See also
 - [[Interrupt]]
-- [[QUIC]]
+- [[Wi-Fi]]
 - [[TCP and UDP]]
 - [[Streaming Response]]
 - [[Backpressure]]

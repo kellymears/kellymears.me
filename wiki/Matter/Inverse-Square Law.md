@@ -31,3 +31,4 @@ Rendering engines once used linear or artistic falloff curves for lights, which 
 - [[Rayleigh Scattering]]
 - [[Color Temperature]]
 - [[Hearing Loss]]
+- [[Wi-Fi]]

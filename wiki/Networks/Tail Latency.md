@@ -36,7 +36,7 @@ Measuring the tail takes care. Percentiles can't be averaged across servers, and
 
 ## See also
 - [[Latency and Jitter]]
-- [[Fan-Out and Fan-In]]
+- [[Queueing Theory]]
 - [[Load Balancing]]
 - [[Head-of-Line Blocking]]
 - [[Service Level Objective]]

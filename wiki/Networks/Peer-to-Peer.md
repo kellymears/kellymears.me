@@ -27,3 +27,4 @@ The pattern is at its best where the value is in the connection rather than in s
 - [[Battle Royale]]
 - [[End-to-End Principle]]
 - [[Network Address Translation]]
+- [[Distributed Hash Table]]

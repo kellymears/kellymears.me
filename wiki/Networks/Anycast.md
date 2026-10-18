@@ -21,3 +21,4 @@ The tradeoff is that anycast routing can be unstable for long-lived connections:
 - [[IPv6]]
 - [[Border Gateway Protocol]]
 - [[Denial-of-Service Attack]]
+- [[Internet Exchange Point]]
