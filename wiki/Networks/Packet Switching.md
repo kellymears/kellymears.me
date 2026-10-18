@@ -34,6 +34,6 @@ The two approaches have converged in places. Telephone calls now travel as packe
 ## See also
 - [[Telegraph]]
 - [[Amateur Radio]]
-- [[ARPANET]]
+- [[ALOHAnet]]
 - [[OSI Model]]
-- [[Delay-Tolerant Networking]]
+- [[Hourglass Model]]

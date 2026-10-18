@@ -26,8 +26,9 @@ Ethernet's weakness is that the local link trusts its neighbors. ARP has no auth
 Compared with [[Wi-Fi]], a cable gives lower and steadier latency, no interference, and no sharing of airtime with neighbors, which is why gaming, streaming boxes, and servers prefer a wire whenever one is available. Wireless still uses the same addressing, and a Wi-Fi access point bridges its clients onto Ethernet.
 
 ## See also
-- [[Packet Switching]]
-- [[Latency and Jitter]]
-- [[IP Routing]]
-- [[Optical Fiber]]
+- [[Token Ring]]
+- [[Carrier-Sense Multiple Access]]
+- [[Spanning Tree Protocol]]
+- [[Hourglass Model]]
 - [[Packet Capture]]
+- [[ALOHAnet]]

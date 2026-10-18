@@ -38,7 +38,7 @@ The underlying idea is interoperability through an open protocol rather than thr
 
 ## See also
 - [[Two-Sided Market]]
-- [[Bulletin Board System]]
+- [[Napster]]
 - [[Distributed Hash Table]]
 - [[IndieWeb]]
 - [[Internet Relay Chat]]

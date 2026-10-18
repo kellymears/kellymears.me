@@ -35,3 +35,5 @@ Commercial online services and then the web emptied the boards in the mid-1990s,
 - [[Sneakernet]]
 - [[Multi-User Dungeon]]
 - [[Time-Sharing]]
+- [[Telnet]]
+- [[Gopher]]

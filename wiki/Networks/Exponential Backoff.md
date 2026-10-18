@@ -25,7 +25,7 @@ A good retry policy has several more parts:
 Backoff pairs naturally with a [[Circuit Breaker]], which stops calling a failing dependency altogether for a while. [[Message Queue]] systems apply it when redelivering failed jobs, [[Webhook]] senders use it when a receiver is down, and [[Durable Execution]] frameworks build it into each step. Within a test suite, automatic retries can hide real problems, which is how a [[Flaky Test]] survives.
 
 ## See also
-- [[Fake Clock]]
+- [[Carrier-Sense Multiple Access]]
 - [[Dead Letter Queue]]
 - [[Long Polling]]
-- [[Ethernet]]
+- [[ALOHAnet]]

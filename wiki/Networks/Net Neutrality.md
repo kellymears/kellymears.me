@@ -29,7 +29,7 @@ A related fight happens one level up, between the large networks that carry traf
 The debate concerns the same thing as other platform fights: who controls access to an audience, and what they may charge for it; see [[Enshittification]] and [[Regulatory Capture]].
 
 ## See also
-- [[Network Effect]]
+- [[Quality of Service]]
 - [[Bandwidth]]
 - [[Telephone Network]]
 - [[Last Mile]]

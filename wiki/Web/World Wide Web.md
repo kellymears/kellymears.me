@@ -31,4 +31,4 @@ The web's founding tolerance for imperfection still shows. Browsers render broke
 ## See also
 - [[Common Gateway Interface]]
 - [[HTTP2 and HTTP3]]
-- [[Federation]]
+- [[Gopher]]

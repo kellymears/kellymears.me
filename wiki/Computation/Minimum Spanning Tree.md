@@ -32,6 +32,6 @@ The problem is a good example of how structure makes a problem easy. Small chang
 
 ## See also
 - [[Amortized Analysis]]
-- [[Seven Bridges of Königsberg]]
+- [[Spanning Tree Protocol]]
 - [[Ackermann Function]]
 - [[Maximum Flow]]

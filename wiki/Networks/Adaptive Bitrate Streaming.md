@@ -30,8 +30,8 @@ Live streaming adds a latency trade-off. Larger buffers absorb [[Latency and Jit
 
 ## See also
 - [[Video Compression]]
-- [[Encrypted Media Extensions]]
+- [[Quality of Service]]
 - [[QUIC]]
-- [[Frame Pacing]]
+- [[Napster]]
 - [[Bandwidth]]
 - [[Cellular Network]]

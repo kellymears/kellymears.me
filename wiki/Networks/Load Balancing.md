@@ -22,7 +22,7 @@ Layer 4 balancers work at the TCP/UDP level and just forward packets, cheap and 
 - [[Consistent Hashing]]
 - [[Reverse Proxy]]
 - [[Hot Partition]]
-- [[Thundering Herd]]
+- [[Quality of Service]]
 - [[OSI Model]]
 - [[Failure Detection]]
 - [[Software-Defined Networking]]

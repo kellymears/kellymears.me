@@ -27,4 +27,4 @@ Metadata also decays. Fields go unfilled, formats change, and links in records s
 
 ## See also
 - [[AI Watermarking]]
-- [[Library Classification]]
+- [[Encrypted Client Hello]]

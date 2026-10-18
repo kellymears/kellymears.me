@@ -14,7 +14,7 @@ Latency itself splits into components worth naming separately: propagation delay
 [[QUIC]] and modern congestion control algorithms both target latency directly rather than just throughput, on the theory that a fast-but-bursty connection is worse to use than a slightly slower, steadier one.
 
 ## See also
-- [[Bandwidth]]
+- [[Token Ring]]
 - [[Real-Time Operating System]]
 - [[Nagle's Algorithm]]
 - [[Sneakernet]]
@@ -25,5 +25,5 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Head-of-Line Blocking]]
 - [[Fallacies of Distributed Computing]]
 - [[Response Time Limits]]
-- [[Packet Switching]]
-- [[Network Time Protocol]]
+- [[Carrier-Sense Multiple Access]]
+- [[Quality of Service]]

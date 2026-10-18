@@ -22,7 +22,7 @@ The pattern is at its best where the value is in the connection rather than in s
 
 ## Related
 - [[BitTorrent]]
-- [[Virtual Private Network]]
+- [[Napster]]
 - [[Distributed Version Control]]
 - [[Battle Royale]]
 - [[End-to-End Principle]]

@@ -35,7 +35,7 @@ Measuring the tail takes care. Percentiles can't be averaged across servers, and
 
 ## See also
 - [[Nagle's Algorithm]]
-- [[Normal Distribution]]
+- [[Quality of Service]]
 - [[Inference Serving]]
 - [[Hedged Requests]]
 - [[Hot Partition]]

@@ -30,5 +30,5 @@ Email remains the largest example of [[Federation]]: millions of independently r
 
 ## See also
 - [[Base64]]
-- [[ARPANET]]
+- [[Telnet]]
 - [[Honeypot]]

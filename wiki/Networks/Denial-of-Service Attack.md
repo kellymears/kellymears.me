@@ -34,4 +34,4 @@ Not every flood is an attack. A popular link or a reconnect storm after an outag
 ## See also
 - [[Honeypot]]
 - [[Internet Control Message Protocol]]
-- [[Internet of Things]]
+- [[Telnet]]

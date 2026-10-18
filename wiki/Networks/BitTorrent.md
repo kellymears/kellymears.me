@@ -28,4 +28,4 @@ Torrents also tend to decay: once the last seeder leaves, a swarm can stall with
 The design has influenced later systems that distribute data by content hash rather than location, such as content-addressed storage networks; see [[Gossip Protocol]].
 
 ## See also
-- [[Sneakernet]]
+- [[Napster]]

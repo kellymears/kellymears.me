@@ -32,4 +32,4 @@ Fiber doesn't make the network faster in every sense. Light in glass travels at 
 - [[Telegraph]]
 - [[Last Mile]]
 - [[Satellite Internet]]
-- [[Laser]]
+- [[Token Ring]]

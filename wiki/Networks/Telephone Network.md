@@ -28,3 +28,5 @@ The system is now being retired. Calls increasingly travel as internet packets, 
 - [[Bulletin Board System]]
 - [[Last Mile]]
 - [[Time-Sharing]]
+- [[Token Ring]]
+- [[Quality of Service]]

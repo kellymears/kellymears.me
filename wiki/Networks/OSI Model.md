@@ -35,6 +35,6 @@ Layering lets each layer change independently: the same TCP runs over fiber, Wi-
 
 ## See also
 - [[Ethernet]]
-- [[Packet Switching]]
+- [[Hourglass Model]]
 - [[IP Routing]]
 - [[Leaky Abstraction]]

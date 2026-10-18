@@ -31,5 +31,6 @@ Placement matters as much as design. In 2010 one phone model's antenna formed pa
 Hobbyists often build their own from wire and pipe; see [[Amateur Radio]]. Which frequencies an antenna may use is set by regulation; see [[Radio Spectrum]].
 
 ## See also
-- [[Global Positioning System]]
+- [[Carrier-Sense Multiple Access]]
 - [[Faraday Cage]]
+- [[ALOHAnet]]

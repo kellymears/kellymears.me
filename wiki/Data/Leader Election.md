@@ -21,3 +21,5 @@ That dual-leader scenario — **[[Network Partition|split brain]]** — is the f
 - [[Byzantine Fault Tolerance]]
 - [[Failure Detection]]
 - [[Watchdog Timer]]
+- [[Token Ring]]
+- [[Spanning Tree Protocol]]

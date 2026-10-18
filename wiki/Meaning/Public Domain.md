@@ -27,6 +27,6 @@ Similar debates surround patents, software that can't legally be repaired, and o
 
 ## See also
 - [[Death of the Author]]
-- [[Planned Obsolescence]]
-- [[Lindy Effect]]
+- [[Napster]]
+- [[Gopher]]
 - [[SQLite]]

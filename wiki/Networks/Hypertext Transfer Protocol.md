@@ -34,4 +34,4 @@ Roy Fielding, one of the HTTP/1.1 authors, described the web's architecture in h
 Plain HTTP sends everything in readable text. HTTPS is HTTP over [[Transport Layer Security]], and browsers now treat unencrypted pages as insecure. HTTP has also become a general-purpose transport: [[Remote Procedure Call]] frameworks, a webhook and a [[Streaming Response]] all ride on it, and [[WebSocket]] begins as an HTTP request before upgrading to its own protocol.
 
 ## See also
-- [[Common Gateway Interface]]
+- [[Gopher]]

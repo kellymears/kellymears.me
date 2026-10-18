@@ -15,7 +15,7 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 ## See also
 - [[User Agent String]]
 - [[Lehman's Laws of Software Evolution]]
-- [[Leaky Abstraction]]
+- [[Hourglass Model]]
 - [[Data Contract]]
 - [[Left-Pad Incident]]
 - [[Second-Order Thinking]]

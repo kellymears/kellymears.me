@@ -35,5 +35,5 @@ Still, DHTs proved a directory for millions can work with no one in charge.
 - [[Peer-to-Peer]]
 - [[Federation]]
 - [[Gossip Protocol]]
-- [[Merkle Tree]]
+- [[Napster]]
 - [[BitTorrent]]

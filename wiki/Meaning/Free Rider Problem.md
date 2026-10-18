@@ -36,3 +36,4 @@ Not all free riding is harmful. Knowledge spillovers, where one person's idea be
 - [[Universal Basic Income]]
 - [[Herd Immunity]]
 - [[Protestware]]
+- [[Napster]]

@@ -23,4 +23,4 @@ The idea predates the web: hypertext systems from the 1960s onward explored link
 
 ## See also
 - [[Model-View-Controller]]
-- [[URL]]
+- [[Gopher]]

@@ -27,7 +27,7 @@ Used well, the principle is a prompt to look for the vital few: find what produc
 ## See also
 - [[Zipf's Law]]
 - [[Benford's Law]]
-- [[Law of Triviality]]
+- [[Napster]]
 - [[Ninety-Ninety Rule]]
 - [[Herd Immunity]]
 - [[Logarithmic Scale]]

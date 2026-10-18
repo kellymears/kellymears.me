@@ -26,7 +26,7 @@ Because every decision is local, routing can go wrong locally. A misconfigured r
 Several ideas build on routing. [[Anycast]] announces the same address from many places and lets routing pick the nearest, which is how a [[Content Delivery Network]] and public DNS resolvers stay close to users. [[Network Address Translation]] rewrites addresses at the edge so many devices can share one public IP, and a [[Virtual Private Network]] adds routes that send selected traffic through an encrypted tunnel. Mesh network protocols route between peers without fixed infrastructure.
 
 ## See also
-- [[Software-Defined Networking]]
+- [[Spanning Tree Protocol]]
 - [[Internet Control Message Protocol]]
 - [[ARPANET]]
 - [[Internet Exchange Point]]

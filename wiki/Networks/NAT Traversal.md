@@ -23,3 +23,4 @@ Some NATs are more hostile than others: "symmetric" NATs assign a different exte
 - [[Firewall]]
 - [[Network Address Translation]]
 - [[BitTorrent]]
+- [[Napster]]

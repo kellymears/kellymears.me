@@ -28,6 +28,6 @@ The general remedies are to keep independent work in separate queues, to allow o
 ## See also
 - [[QUIC]]
 - [[Nagle's Algorithm]]
-- [[TCP and UDP]]
+- [[Quality of Service]]
 - [[Tail Latency]]
 - [[Bandwidth]]

@@ -14,7 +14,7 @@ The idea is often misquoted as "quality doesn't matter" or as blanket permission
 It sits directly behind [[Gall's Law]] and [[Minimum Viable Product]] as one more argument for shipping the small thing now — worse-is-better is what happens to that small thing once it meets the market, not always a virtue, but a force to plan around rather than deny.
 
 ## See also
-- [[Gall's Law]]
+- [[Token Ring]]
 - [[You Aren't Gonna Need It]]
 - [[Postel's Law]]
 - [[Technical Debt]]

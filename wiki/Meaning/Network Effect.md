@@ -15,12 +15,12 @@ A popular version of the idea, its [[Naming]] borrowed from Robert Metcalfe, cla
 Network effects are often confused with switching costs, and the two are related but distinct sources of lock-in. A network effect is a positive [[Externality]] — each new user makes the good more valuable to everyone already there. A switching cost is private: the effort of moving your own data, habits, or relationships elsewhere, which would exist even in a network of one.
 
 ## See also
-- [[Telephone Network]]
+- [[Napster]]
 - [[Two-Sided Market]]
 - [[Small-World Network]]
-- [[Social Capital]]
+- [[Token Ring]]
 - [[Internet Exchange Point]]
 - [[Stable Matching]]
-- [[Feedback Loop]]
+- [[Gopher]]
 - [[Web 2.0]]
 - [[Speculative Bubble]]

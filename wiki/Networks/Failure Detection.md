@@ -31,5 +31,5 @@ Detection also interacts with load. Declaring a node dead shifts its traffic ont
 ## See also
 - [[Internet Control Message Protocol]]
 - [[N-Version Programming]]
-- [[Two Generals Problem]]
-- [[Rolling Deployment]]
+- [[Token Ring]]
+- [[Spanning Tree Protocol]]

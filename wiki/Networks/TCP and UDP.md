@@ -20,7 +20,7 @@ Reliability is also why TCP is the wrong tool for anything latency-sensitive und
 - [[ARPANET]]
 - [[Nagle's Algorithm]]
 - [[Endianness]]
-- [[Congestion Control]]
+- [[Hourglass Model]]
 - [[Maximum Transmission Unit]]
 - [[Delivery Guarantees]]
 - [[End-to-End Principle]]

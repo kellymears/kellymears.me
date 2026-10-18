@@ -36,5 +36,5 @@ Its users range from journalists and abuse survivors to criminals, the dual-use 
 - [[Browser Fingerprinting]]
 - [[Internet Censorship]]
 - [[DNS over HTTPS]]
-- [[Peer-to-Peer]]
+- [[Encrypted Client Hello]]
 - [[Man-in-the-Middle Attack]]

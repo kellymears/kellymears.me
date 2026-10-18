@@ -35,6 +35,6 @@ Lessons follow:
 ## See also
 - [[Kanban]]
 - [[Amdahl's Law]]
-- [[Thundering Herd]]
-- [[Telephone Network]]
+- [[ALOHAnet]]
+- [[Quality of Service]]
 - [[Bandwidth]]

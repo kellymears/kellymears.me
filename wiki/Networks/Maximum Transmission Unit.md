@@ -28,6 +28,6 @@ Inside data centers, **jumbo frames** of around 9,000 bytes reduce per-packet ov
 - [[IPv6]]
 - [[Internet Control Message Protocol]]
 - [[Firewall]]
-- [[Path Dependence]]
+- [[Spanning Tree Protocol]]
 - [[NAT Traversal]]
 - [[OSI Model]]

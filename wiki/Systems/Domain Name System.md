@@ -18,7 +18,7 @@ The common record types are few: an address record, an alias record pointing one
 - [[Multicast DNS]]
 - [[Port]]
 - [[Email Authentication]]
-- [[Cache Invalidation]]
+- [[Encrypted Client Hello]]
 - [[Virtual Private Network]]
 - [[Simple Mail Transfer Protocol]]
 - [[URL]]

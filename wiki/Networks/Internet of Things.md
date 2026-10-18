@@ -22,4 +22,4 @@ The early vision of computing that disappears into the environment is still the 
 
 ## See also
 - [[Honeypot]]
-- [[Over-the-Air Update]]
+- [[Telnet]]

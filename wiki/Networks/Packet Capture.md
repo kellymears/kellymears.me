@@ -30,4 +30,4 @@ One classic confusion: captures of outgoing traffic often show bad checksums, be
 ## See also
 - [[Internet Control Message Protocol]]
 - [[Honeypot]]
-- [[Port Scanning]]
+- [[Telnet]]
