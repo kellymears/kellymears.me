@@ -37,3 +37,4 @@ Its users range from journalists and abuse survivors to criminals, the dual-use 
 - [[Transport Layer Security]]
 - [[DNS over HTTPS]]
 - [[Peer-to-Peer]]
+- [[Man-in-the-Middle Attack]]

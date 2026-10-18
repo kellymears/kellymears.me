@@ -31,7 +31,8 @@ Interconnection is also where commercial fights happen. In 2005 Cogent and Level
 Exchanges are mostly neutral, member-run organizations, and their dense local meshes, with [[Anycast]] routing to the nearest copy of a service, give the internet much of its resilience.
 
 ## See also
-- [[Border Gateway Protocol]]
+- [[IP Routing]]
 - [[Submarine Cable]]
 - [[Content Delivery Network]]
 - [[Packet Switching]]
+- [[Optical Fiber]]

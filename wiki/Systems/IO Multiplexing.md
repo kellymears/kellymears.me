@@ -27,7 +27,7 @@ Each descriptor must be set to *nonblocking* mode, so a call that can't finish r
 Language features sit on top. `async`/`await` and the [[Coroutine]] let code read as if it blocks while the runtime multiplexes underneath, and [[Backpressure]] decides when to stop reading. The model is the one [[Concurrency and Parallelism]] describes: many tasks in flight, one thread doing the work.
 
 ## See also
-- [[Event Loop]]
+- [[Network Socket]]
 - [[File Descriptor]]
 - [[Thundering Herd]]
 - [[WebSocket]]

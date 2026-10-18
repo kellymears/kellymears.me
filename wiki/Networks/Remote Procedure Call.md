@@ -27,5 +27,5 @@ Typed interfaces also help teams evolve services safely. Generated stubs catch m
 
 ## See also
 - [[Schema Evolution]]
-- [[Contract Testing]]
+- [[Microservices]]
 - [[API Gateway]]

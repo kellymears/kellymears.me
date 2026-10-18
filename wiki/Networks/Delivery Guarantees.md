@@ -4,7 +4,6 @@ aliases:
   - At-most-once delivery
   - Exactly-once delivery
   - Message delivery semantics
-  - Two Generals' Problem
 tags:
   - networks
 summary: The three promises a messaging system can make about whether a message arrives, at most once, at least once, or exactly once, and why the last is only possible as an effect.
@@ -15,7 +14,7 @@ summary: The three promises a messaging system can make about whether a message 
 - **At-least-once.** Retry until acknowledged. Messages are never lost, but a retry after a lost acknowledgment delivers the same message again. Most [[Message Queue]] systems and [[Webhook]] senders default to this.
 - **Exactly-once.** Each message delivered and processed exactly once. It is what everyone wants, and in the strict sense across independent systems it is impossible.
 
-The impossibility follows from the **Two Generals' Problem**: two parties communicating over an unreliable channel can never be certain they agree, since every confirmation needs its own confirmation. A sender can't distinguish "processed but the acknowledgment was lost" from "never processed," so it must either risk losing the message or risk sending it twice.
+The impossibility follows from the [[Two Generals Problem]]: two parties communicating over an unreliable channel can never be certain they agree, since every confirmation needs its own confirmation. A sender can't distinguish "processed but the acknowledgment was lost" from "never processed," so it must either risk losing the message or risk sending it twice.
 
 What systems actually achieve is **exactly-once effect**: at-least-once delivery combined with processing that tolerates duplicates. The usual techniques:
 
@@ -28,6 +27,5 @@ Products that advertise exactly-once semantics, such as Kafka's, provide this wi
 ## See also
 - [[Idempotence]]
 - [[MQTT]]
-- [[Webhook]]
 - [[Stream Processing]]
 - [[Two-Phase Commit]]

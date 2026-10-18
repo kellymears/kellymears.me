@@ -33,3 +33,4 @@ The same model appears elsewhere: [[Code Signing]] certificates for software, de
 - [[Caller ID Authentication]]
 - [[Supply Chain Security]]
 - [[HTTP Strict Transport Security]]
+- [[Man-in-the-Middle Attack]]

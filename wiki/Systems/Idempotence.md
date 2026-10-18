@@ -15,8 +15,8 @@ The corresponding design work is usually to make the operation *express the desi
 
 ## See also
 - [[Race Condition]]
-- [[Cron]]
-- [[Database Migration]]
+- [[Microservices]]
+- [[Two Generals Problem]]
 - [[Determinism]]
 - [[Relational Database]]
 - [[Seed Data]]

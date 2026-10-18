@@ -37,3 +37,4 @@ Security is often neglected. Port 1883 carries plain text, while 8883 wraps it i
 - [[Delivery Guarantees]]
 - [[Webhook]]
 - [[Mesh Network]]
+- [[Long Polling]]

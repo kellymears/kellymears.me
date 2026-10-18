@@ -22,3 +22,4 @@ The honest cost is operational complexity: every service now needs to participat
 - [[Firewall]]
 - [[Transport Layer Security]]
 - [[Subnet]]
+- [[Man-in-the-Middle Attack]]

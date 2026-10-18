@@ -22,3 +22,4 @@ The cost is CPU: encrypting and processing every packet in userspace is more wor
 - [[Transport Layer Security]]
 - [[Congestion Control]]
 - [[End-to-End Principle]]
+- [[Cellular Network]]

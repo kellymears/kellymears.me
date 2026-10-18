@@ -33,7 +33,7 @@ Most datacenter systems don't use BFT. Their nodes are run by one operator, so c
 It differs from the Two Generals' Problem, covered under [[Delivery Guarantees]], which concerns unreliable messengers rather than dishonest participants. Both show that the network can't be trusted, as the [[Fallacies of Distributed Computing]] warn.
 
 ## See also
-- [[Consensus Algorithm]]
+- [[Two Generals Problem]]
 - [[Quorum]]
 - [[Leader Election]]
 - [[Network Partition]]

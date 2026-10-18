@@ -15,7 +15,7 @@ This tradeoff is exactly why real-time media favors UDP: a [[WebRTC]] call would
 Reliability is also why TCP is the wrong tool for anything latency-sensitive under packet loss: its congestion control treats loss as a signal to slow down, which is correct for bulk transfer and actively harmful for a live call.
 
 ## See also
-- [[Error-Correcting Code]]
+- [[Network Socket]]
 - [[Packet Switching]]
 - [[Latency and Jitter]]
 - [[Port]]
@@ -24,5 +24,5 @@ Reliability is also why TCP is the wrong tool for anything latency-sensitive und
 - [[Maximum Transmission Unit]]
 - [[Delivery Guarantees]]
 - [[End-to-End Principle]]
-- [[Time to Live]]
+- [[Two Generals Problem]]
 - [[OSI Model]]

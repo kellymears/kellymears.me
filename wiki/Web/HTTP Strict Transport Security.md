@@ -28,7 +28,7 @@ Related protections fill in around it. Browsers block or upgrade **mixed content
 HSTS doesn't protect against a compromised server, a fraudulent certificate, or [[Domain Name System]] attacks; it only ensures no network attacker can talk the browser out of HTTPS.
 
 ## See also
-- [[Transport Layer Security]]
+- [[Man-in-the-Middle Attack]]
 - [[HTTP Cookie]]
 - [[Certificate Authority]]
 - [[Same-Origin Policy]]

@@ -32,8 +32,8 @@ The internet's IP layer offers only *best effort*: no guarantees of delivery, or
 The two approaches have converged in places. Telephone calls now travel as packets, and real-time media such as [[WebRTC]] uses jitter buffers to smooth out variable delay. Meanwhile, technologies such as MPLS set up virtual circuits over packet networks for predictable performance. Baran's survivability goal shows up in a [[Mesh Network]], which routes around failed nodes just as he described.
 
 ## See also
-- [[TCP and UDP]]
-- [[Latency and Jitter]]
+- [[IP Routing]]
+- [[Ethernet]]
 - [[Congestion Control]]
 - [[OSI Model]]
 - [[Submarine Cable]]

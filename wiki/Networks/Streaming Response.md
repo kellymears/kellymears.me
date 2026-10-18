@@ -29,3 +29,4 @@ Cancellation deserves particular attention in agent systems, where a timeout typ
 - [[Skeleton Screen]]
 - [[Coroutine]]
 - [[Fetch API]]
+- [[Long Polling]]

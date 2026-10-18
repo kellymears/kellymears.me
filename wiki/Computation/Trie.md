@@ -23,3 +23,4 @@ Tries also underlie IP routing tables (longest-prefix match over binary strings)
 - [[Persistent Data Structure]]
 - [[Subnet]]
 - [[Self-Balancing Binary Search Tree]]
+- [[IP Routing]]

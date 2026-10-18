@@ -20,3 +20,4 @@ In practice, systems pick a lean rather than an absolute: a leader-based [[Datab
 ## Related
 - [[ACID]]
 - [[Fallacies of Distributed Computing]]
+- [[Two Generals Problem]]

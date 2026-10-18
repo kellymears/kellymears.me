@@ -26,5 +26,5 @@ The pattern has costs. Running two systems for a long time means duplicate opera
 The approach fits [[Gall's Law]], which observes that working complex systems evolve from working simple ones. It treats replacement as a series of small, reversible deployments rather than one irreversible leap, the same principle behind [[Trunk-Based Development]] and continuous delivery. It also pays down [[Technical Debt]] in installments while the business keeps running.
 
 ## See also
-- [[Expand and Contract]]
+- [[Microservices]]
 - [[Gall's Law]]

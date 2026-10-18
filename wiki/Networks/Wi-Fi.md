@@ -26,10 +26,11 @@ Wireless links lose packets far more often than cables, so Wi-Fi retransmits at 
 
 Security has improved in stages. WEP, the original encryption, was broken in 2001. WPA2, from 2004, held up until the KRACK attack in 2017. WPA3, from 2018, resists offline password guessing. Open networks in cafés and airports encrypt nothing at the radio level, so security there depends on HTTPS and [[Transport Layer Security]], or a [[Virtual Private Network]].
 
-At the network layers, Wi-Fi is just another link: devices get addresses on a [[Subnet]], usually behind [[Network Address Translation]], and services are found with [[Multicast DNS]].
+At the network layers, Wi-Fi is another link: devices get addresses on a [[Subnet]], usually behind [[Network Address Translation]], and services are found with [[Multicast DNS]].
 
 ## See also
 - [[Bluetooth]]
 - [[Mesh Network]]
 - [[OSI Model]]
 - [[Packet Switching]]
+- [[Ethernet]]

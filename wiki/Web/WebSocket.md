@@ -22,3 +22,5 @@ The tradeoff is statefulness: a WebSocket connection is pinned to one server pro
 
 ## Related
 - [[Web Worker]]
+- [[Long Polling]]
+- [[Network Socket]]

@@ -35,7 +35,7 @@ Common trouble spots:
 
 ## See also
 - [[Wi-Fi]]
-- [[IPv6]]
-- [[Border Gateway Protocol]]
+- [[IP Routing]]
+- [[Ethernet]]
 - [[Firewall]]
 - [[Multicast DNS]]

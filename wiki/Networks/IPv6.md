@@ -14,7 +14,7 @@ IPv6 addresses look different enough to trip people up: eight groups of four hex
 Dual-stack — running IPv4 and IPv6 side by side — has been the transition strategy for over a decade, and it's the reason both protocols still need to be understood: a client and server can each prefer a different one, and "happy eyeballs" algorithms race both to pick whichever connects first.
 
 ## See also
-- [[NAT Traversal]]
+- [[Ethernet]]
 - [[TCP and UDP]]
 - [[Domain Name System]]
 - [[Anycast]]
@@ -24,3 +24,4 @@ Dual-stack — running IPv4 and IPv6 side by side — has been the transition st
 - [[Time to Live]]
 - [[Network Address Translation]]
 - [[Subnet]]
+- [[IP Routing]]

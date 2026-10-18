@@ -27,7 +27,7 @@ Sagas demand careful design:
 The pattern accepts that distributed systems can't make several services behave as one atomic database, the lesson of [[ACID]] at scale and the [[CAP Theorem]], and replaces atomicity with a plan for undoing. [[Rollback]] in deployment follows the same reasoning.
 
 ## See also
-- [[Two-Phase Commit]]
+- [[Microservices]]
 - [[Transactional Outbox]]
 - [[Durable Execution]]
 - [[Idempotence]]

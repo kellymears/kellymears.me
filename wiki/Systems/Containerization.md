@@ -26,7 +26,7 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 - [[Secret Management]]
 - [[Ground Truth]]
 - [[Git Worktree]]
-- [[Vacuous Truth]]
+- [[Microservices]]
 - [[Silent Failure]]
 - [[Hypervisor]]
 - [[WebAssembly]]

@@ -14,7 +14,7 @@ Verifying a webhook actually came from who it claims to be usually means checkin
 Webhooks are also a poor fit for anything that needs a response mid-transaction — they're fire-and-forget by design, which is why bidirectional real-time needs look instead to a persistent [[WebSocket]] (or [[WebRTC]] for peer-to-peer media), not a webhook.
 
 ## See also
-- [[Idempotence]]
+- [[Long Polling]]
 - [[MQTT]]
 - [[Race Condition]]
 - [[Streaming Response]]

@@ -34,7 +34,7 @@ Applications are everywhere:
 Shortest paths are easy, but small changes make problems much harder: the traveling salesman's shortest tour through every city is NP-hard (see [[P versus NP Problem]]).
 
 ## See also
-- [[Graph Traversal]]
+- [[IP Routing]]
 - [[Game AI]]
 - [[Dynamic Programming]]
 - [[Big-O Notation]]

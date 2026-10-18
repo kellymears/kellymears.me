@@ -18,3 +18,4 @@ DoH is also politically loaded in a way plain protocol changes rarely are, becau
 - [[QUIC]]
 - [[Transport Layer Security]]
 - [[Onion Routing]]
+- [[Man-in-the-Middle Attack]]

@@ -23,3 +23,4 @@ Modern distributed systems mostly route around it rather than fixing it: [[Event
 ## Related
 - [[CAP Theorem]]
 - [[Isolation Level]]
+- [[Two Generals Problem]]

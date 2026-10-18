@@ -27,4 +27,4 @@ The same idea covers other expiring things: session tokens and [[OAuth]] access 
 ## See also
 - [[HTTP Caching]]
 - [[Cache Invalidation]]
-- [[Content Delivery Network]]
+- [[IP Routing]]

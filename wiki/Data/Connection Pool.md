@@ -31,3 +31,4 @@ The pattern is general: thread pools, HTTP keep-alive, and object pools in games
 - [[Rate Limiting]]
 - [[Thundering Herd]]
 - [[Queueing Theory]]
+- [[Network Socket]]

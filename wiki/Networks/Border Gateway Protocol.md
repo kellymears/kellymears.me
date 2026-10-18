@@ -25,10 +25,10 @@ BGP is also a tool. [[Anycast]] announces the same addresses from many locations
 
 ## See also
 - [[Anycast]]
-- [[Content Delivery Network]]
+- [[IP Routing]]
 - [[Domain Name System]]
 - [[Collective Action]]
-- [[Latency and Jitter]]
+- [[Man-in-the-Middle Attack]]
 - [[Mesh Network]]
 - [[IPv6]]
 - [[Subnet]]

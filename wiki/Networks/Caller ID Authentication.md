@@ -21,3 +21,4 @@ Spoofing persists for reasons the design does not address. Gateway providers acc
 - [[Virtual Private Network]]
 - [[Certificate Authority]]
 - [[Email Authentication]]
+- [[Cellular Network]]

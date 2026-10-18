@@ -24,7 +24,7 @@ Inside data centers, **jumbo frames** of around 9,000 bytes reduce per-packet ov
 
 ## See also
 - [[TCP and UDP]]
-- [[Virtual Private Network]]
+- [[Ethernet]]
 - [[IPv6]]
 - [[Silent Failure]]
 - [[Firewall]]

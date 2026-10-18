@@ -26,3 +26,4 @@ It's a close cousin of client-side prediction in networked games (see [[Rollback
 - [[Undo]]
 - [[Toast Notification]]
 - [[Promise]]
+- [[Long Polling]]

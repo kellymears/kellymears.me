@@ -26,3 +26,4 @@ Circuit breakers are usually scoped per dependency, not globally — a failing p
 - [[Service Level Objective]]
 - [[Failure Detection]]
 - [[Watchdog Timer]]
+- [[Microservices]]

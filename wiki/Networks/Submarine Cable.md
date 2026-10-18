@@ -3,7 +3,6 @@ aliases:
   - Undersea cable
   - Submarine communications cable
   - Transatlantic cable
-  - Fiber-optic cable
 tags:
   - networks
 summary: The few hundred fiber-optic cables on the seabed that carry nearly all intercontinental internet traffic, thin as a garden hose in deep water and cut more than a hundred times a year.
@@ -31,3 +30,5 @@ Resilience comes from redundancy: many cables on different paths, with [[Border 
 - [[Packet Switching]]
 - [[Anycast]]
 - [[Wave Interference]]
+- [[Optical Fiber]]
+- [[Bandwidth]]

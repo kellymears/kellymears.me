@@ -30,7 +30,7 @@ Congestion control lives in [[TCP and UDP]] stacks, and [[QUIC]] reimplements it
 - [[Queueing Theory]]
 - [[Ring Buffer]]
 - [[Adaptive Bitrate Streaming]]
-- [[Backpressure]]
+- [[Bandwidth]]
 - [[Wi-Fi]]
 - [[Packet Switching]]
 - [[Exponential Backoff]]

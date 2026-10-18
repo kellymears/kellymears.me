@@ -30,3 +30,4 @@ Bluetooth mesh, from 2017, lets low-energy devices relay messages for lighting a
 - [[Mesh Network]]
 - [[Peer-to-Peer]]
 - [[Latency and Jitter]]
+- [[Cellular Network]]
