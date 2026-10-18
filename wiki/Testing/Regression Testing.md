@@ -32,4 +32,4 @@ When a regression slips through, [[Git Bisect]] finds the commit that introduced
 A regression suite is only as good as its assertions. [[Mutation Testing]] checks whether the suite would notice if the code were subtly broken, a stricter measure than coverage.
 
 ## See also
-- [[Patriot Missile Failure]]
+- [[AT&T Network Collapse of 1990]]

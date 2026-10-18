@@ -16,7 +16,7 @@ The critique cuts the other way with equal force: naming something a moral panic
 
 ## See also
 - [[Godwin's Law]]
-- [[Social Identity Theory]]
+- [[Toyota Unintended Acceleration]]
 - [[Motte and Bailey]]
 - [[Conspiracy Theory]]
 - [[Umami]]

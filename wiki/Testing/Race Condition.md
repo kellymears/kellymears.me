@@ -21,8 +21,8 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Memory Model]]
 - [[Therac-25]]
 - [[Fan-Out and Fan-In]]
-- [[Logical Clock]]
-- [[Deterministic Simulation Testing]]
+- [[Northeast Blackout of 2003]]
+- [[AT&T Network Collapse of 1990]]
 - [[Systematic Concurrency Testing]]
 
 ## Related

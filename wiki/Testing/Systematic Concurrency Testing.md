@@ -30,3 +30,4 @@ Concurrency bugs that slip through tend to surface as intermittently failing tes
 ## See also
 - [[Property-Based Testing]]
 - [[Logical Clock]]
+- [[Northeast Blackout of 2003]]

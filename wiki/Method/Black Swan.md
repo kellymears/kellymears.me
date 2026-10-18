@@ -28,7 +28,7 @@ Engineering cultures have similar instincts. Outages are often caused by events 
 Critics argue that the label gets applied to events that were foreseeable and simply ignored, such as pandemics, which experts had warned about for years. Taleb calls those "gray swans." The useful lesson is narrower than the slogan: in fat-tailed domains, a long record of calm says less about the future than it seems to; see [[Lindy Effect]].
 
 ## See also
-- [[Normalization of Deviance]]
+- [[Normal Accidents]]
 - [[Superforecasting]]
 - [[Speculative Bubble]]
 - [[Expected Value]]

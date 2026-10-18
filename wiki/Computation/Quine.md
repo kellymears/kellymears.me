@@ -31,3 +31,4 @@ A quine's output has a short description, its own source, which bounds its compl
 - [[Lambda Calculus]]
 - [[Interpreter]]
 - [[Cantor's Diagonal Argument]]
+- [[Morris Worm]]

@@ -25,5 +25,5 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 ## Related
 - [[Change Advisory Board]]
 - [[Code of Conduct]]
-- [[Event-stream Incident]]
+- [[Toyota Unintended Acceleration]]
 - [[XZ Utils Backdoor]]

@@ -18,7 +18,7 @@ Circuit breakers are usually scoped per dependency, not globally — a failing p
 - [[Cascading Failure]]
 - [[Service Virtualization]]
 - [[Dead Letter Queue]]
-- [[Chaos Engineering]]
+- [[Normal Accidents]]
 - [[Load Testing]]
 - [[Exponential Backoff]]
 - [[Remote Procedure Call]]

@@ -9,7 +9,7 @@ summary: How one overloaded component pushes its load onto others until the whol
 ---
 A **cascading failure** happens when the failure of one part of a system pushes work onto the parts that remain, overloading them in turn until the whole system collapses. The trigger is often small; the damage comes from coupling.
 
-The classic example is a power grid. In the 2003 Northeast blackout, a few transmission lines in Ohio sagged into trees and tripped offline. Their power flow shifted onto neighboring lines, which overheated and tripped too. Within minutes, 50 million people had lost power.
+The classic example is a power grid. In the 2003 [[Northeast blackout]], a few transmission lines in Ohio sagged into trees and tripped offline. Their power flow shifted onto neighboring lines, which overheated and tripped too. Within minutes, 50 million people had lost power.
 
 Software systems fail the same way:
 
@@ -33,5 +33,5 @@ These failures appear only under real load and coupling. Deliberately injecting 
 ## See also
 - [[Backpressure]]
 - [[Kernel Panic]]
-- [[Software-Defined Networking]]
+- [[Normal Accidents]]
 - [[Orbit]]

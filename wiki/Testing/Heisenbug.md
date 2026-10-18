@@ -15,7 +15,7 @@ The fault is still [[Nondeterminism]] in the ordinary sense — the same input d
 ## See also
 - [[Core Dump]]
 - [[Minimal Reproducible Example]]
-- [[Hawthorne Effect]]
-- [[Crash-Only Software]]
+- [[Northeast Blackout of 2003]]
+- [[Single-Event Upset]]
 - [[Systematic Concurrency Testing]]
 - [[Monkey Testing]]

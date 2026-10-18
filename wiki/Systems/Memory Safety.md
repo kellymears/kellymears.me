@@ -29,7 +29,7 @@ The most effective strategy so far has been writing *new* code in memory-safe la
 - [[Memory Allocator]]
 - [[Heartbleed]]
 - [[CrowdStrike Outage]]
-- [[Assembly Language]]
+- [[Morris Worm]]
 - [[Abstract Interpretation]]
 - [[Von Neumann Architecture]]
 - [[Rowhammer]]

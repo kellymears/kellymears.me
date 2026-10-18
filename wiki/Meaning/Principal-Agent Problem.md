@@ -23,5 +23,5 @@ Every fix compounds the problem rather than resolving it. Add a second metric to
 
 ## Related
 - [[Universal Basic Income]]
-- [[Tragedy of the Commons]]
+- [[Boeing 737 MAX Groundings]]
 - [[Obedience to Authority]]

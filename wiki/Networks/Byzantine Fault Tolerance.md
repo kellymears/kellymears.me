@@ -34,6 +34,6 @@ It differs from the Two Generals' Problem, covered under [[Delivery Guarantees]]
 
 ## See also
 - [[Fault Tree Analysis]]
-- [[Prisoner's Dilemma]]
+- [[Single-Event Upset]]
 - [[Leader Election]]
 - [[Network Partition]]

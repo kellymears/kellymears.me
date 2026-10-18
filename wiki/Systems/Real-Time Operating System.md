@@ -29,4 +29,4 @@ Linux, a general-purpose [[Kernel]], has long had patches to improve its predict
 
 ## See also
 - [[Spinlock]]
-- [[Hardware-in-the-Loop]]
+- [[Toyota Unintended Acceleration]]

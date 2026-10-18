@@ -15,7 +15,7 @@ The corollary for software architecture is to build the smallest version that ac
 
 ## See also
 - [[Second-System Effect]]
-- [[Minimum Viable Product]]
+- [[Normal Accidents]]
 - [[Worse Is Better]]
 - [[Technical Debt]]
 

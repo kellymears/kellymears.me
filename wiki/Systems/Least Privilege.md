@@ -24,7 +24,7 @@ The principle is stated easily and applied poorly, because broad permissions are
 - [[Browser Extension]]
 - [[Mandatory Access Control]]
 - [[Server-Side Request Forgery]]
-- [[Model Context Protocol]]
+- [[Morris Worm]]
 - [[Row-Level Security]]
 - [[Data Breach]]
 - [[Time-of-Check to Time-of-Use]]

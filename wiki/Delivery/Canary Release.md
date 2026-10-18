@@ -16,7 +16,7 @@ It composes naturally with [[Continuous Deployment]]: a pipeline that ships ever
 
 ## See also
 - [[Dogfooding]]
-- [[Crash Reporting]]
+- [[AT&T Network Collapse of 1990]]
 - [[Bathtub Curve]]
 - [[Staging Environment]]
 - [[Knight Capital Incident]]

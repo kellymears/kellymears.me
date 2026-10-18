@@ -25,4 +25,4 @@ Syslog's plain lines of text were made for people reading files with standard to
 
 ## See also
 - [[Incident Response]]
-- [[Unix]]
+- [[Log4Shell]]

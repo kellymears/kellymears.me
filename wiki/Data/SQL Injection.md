@@ -32,3 +32,4 @@ SQL injection has declined as frameworks made parameterization the default, but 
 - [[Prototype Pollution]]
 - [[Data Breach]]
 - [[WordPress]]
+- [[Log4Shell]]

@@ -26,5 +26,5 @@ The idea is now being applied to AI. Some developers and researchers propose saf
 
 ## See also
 - [[Requirements Traceability]]
-- [[Checklist]]
-- [[Audit Log]]
+- [[Normal Accidents]]
+- [[Boeing 737 MAX Groundings]]

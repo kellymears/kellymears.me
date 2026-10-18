@@ -24,6 +24,6 @@ Fuzzing is a major source of security fixes, because parsers of untrusted input,
 - [[Memory Safety]]
 - [[Generative Adversarial Network]]
 - [[Monkey Testing]]
-- [[Cross-Site Scripting]]
+- [[Morris Worm]]
 - [[Heartbleed]]
 - [[Differential Testing]]

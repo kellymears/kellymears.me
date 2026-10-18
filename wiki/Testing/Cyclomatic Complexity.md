@@ -27,7 +27,7 @@ That gap led to alternatives. **Cognitive complexity**, introduced by SonarSourc
 All such metrics share a trap. Enforced as a hard gate, a number becomes a target, and people satisfy it by splitting functions mechanically or hiding logic in lookup tables, which may not make the code clearer. That is [[Goodhart's Law]], the same risk that applies to a [[Coverage Gate]]. Used as a prompt for [[Code Review]] and a way to find the most tangled corners of a codebase, complexity metrics are useful. Used as a verdict, they mislead.
 
 ## See also
-- [[Code Coverage]]
+- [[Toyota Unintended Acceleration]]
 - [[Structured Programming]]
 - [[Test Smell]]
 - [[Modified Condition Decision Coverage]]

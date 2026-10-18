@@ -27,8 +27,8 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 ## See also
 - [[Hardware-in-the-Loop]]
 - [[Failure Mode and Effects Analysis]]
-- [[Load Testing]]
+- [[Normal Accidents]]
 - [[Risk-Based Testing]]
-- [[Black Swan]]
+- [[Single-Event Upset]]
 - [[Mean Time to Recovery]]
 - [[Murphy's Law]]

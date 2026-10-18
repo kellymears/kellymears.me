@@ -15,7 +15,7 @@ The word is also overused. "Capture" can function as a [[Plausible Mechanism]] t
 ## See also
 - [[Safety Case]]
 - [[Public Domain]]
-- [[Externality]]
+- [[Boeing 737 MAX Groundings]]
 - [[Iron Law of Oligarchy]]
 - [[Net Neutrality]]
 - [[Hanlon's Razor]]

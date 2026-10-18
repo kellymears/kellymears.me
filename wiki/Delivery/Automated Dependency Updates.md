@@ -32,4 +32,4 @@ Projects that need stability over currency often pair the bots with a [[Long-Ter
 
 ## See also
 - [[SolarWinds Hack]]
-- [[Protestware]]
+- [[Log4Shell]]

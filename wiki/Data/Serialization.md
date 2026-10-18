@@ -33,4 +33,4 @@ Serialization cost adds up. In busy services, encoding and decoding can dominate
 - [[Prototype Pollution]]
 - [[DataFrame]]
 - [[XML]]
-- [[Structured Output]]
+- [[Log4Shell]]

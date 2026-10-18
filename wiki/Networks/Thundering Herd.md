@@ -32,4 +32,4 @@ Thundering herds are a classic reason systems fail during recovery rather than d
 
 ## See also
 - [[Carrier-Sense Multiple Access]]
-- [[ALOHAnet]]
+- [[AT&T Network Collapse of 1990]]

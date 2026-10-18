@@ -33,4 +33,4 @@ None of these fully solves the mismatch between how much value open source creat
 - [[Event-stream Incident]]
 - [[Inner Source]]
 - [[Open Core]]
-- [[XZ Utils Backdoor]]
+- [[Log4Shell]]

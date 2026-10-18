@@ -35,3 +35,4 @@ Designers sometimes work with the effect rather than against it. Some traffic en
 - [[Sunburn]]
 - [[Trolley Problem]]
 - [[Second-Order Thinking]]
+- [[Normal Accidents]]

@@ -23,5 +23,5 @@ Many corollaries have accumulated, mostly as humor. **Finagle's law** adds that 
 
 ## See also
 - [[Margin of Safety]]
-- [[Hanlon's Razor]]
+- [[Mariner 1]]
 - [[Inversion]]

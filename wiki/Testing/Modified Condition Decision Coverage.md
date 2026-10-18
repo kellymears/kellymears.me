@@ -29,7 +29,7 @@ MC/DC has costs and critics. It takes a lot of effort, and results depend on how
 Outside aviation and automotive safety standards it's rare, but its idea is useful anywhere: for an important condition, write a test that shows what happens when only that condition changes; see [[Decision Table Testing]] and [[Boundary Value Analysis]]. For the highest assurance, aviation and others are increasingly adding mathematical proof; see [[Formal Verification]].
 
 ## See also
-- [[Black-Box and White-Box Testing]]
+- [[Boeing 737 MAX Groundings]]
 - [[Cyclomatic Complexity]]
 - [[SQLite]]
 - [[Requirements Traceability]]

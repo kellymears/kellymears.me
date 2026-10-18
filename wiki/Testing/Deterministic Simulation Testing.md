@@ -19,4 +19,4 @@ It combines ideas from several techniques. Like [[Fuzzing]] and [[Property-Based
 
 ## See also
 - [[Linearizability Checking]]
-- [[Hardware-in-the-Loop]]
+- [[AT&T Network Collapse of 1990]]

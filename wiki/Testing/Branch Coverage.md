@@ -21,7 +21,7 @@ There is also a measurement artifact worth recognizing. When two runners instrum
 
 ## Related
 - [[Silent Failure]]
-- [[Goodhart's Law]]
+- [[Mariner 1]]
 - [[Chesterton's Fence]]
 - [[Vacuous Truth]]
 - [[Fail Fast]]

@@ -18,6 +18,6 @@ The caveat is honest but narrower than usually stated. There are no controlled e
 - [[Team Topologies]]
 - [[Data Mesh]]
 - [[Value Stream Mapping]]
-- [[Code Owners]]
+- [[Normal Accidents]]
 - [[Lehman's Laws of Software Evolution]]
 - [[Iron Law of Oligarchy]]

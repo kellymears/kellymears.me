@@ -33,5 +33,5 @@ Long reviews have the same limit, which is why [[Code Review]] catches less when
 
 ## See also
 - [[Dashboard]]
-- [[Yerkes-Dodson Law]]
+- [[Normal Accidents]]
 - [[Pomodoro Technique]]

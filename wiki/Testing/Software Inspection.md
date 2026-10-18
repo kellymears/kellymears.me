@@ -30,3 +30,4 @@ Explaining code line by line to a listener is part of why inspections work, and 
 ## See also
 - [[Pair Programming]]
 - [[Exploratory Testing]]
+- [[Mariner 1]]

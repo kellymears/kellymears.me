@@ -31,5 +31,5 @@ Radiation from decay is **ionizing**, energetic enough to knock electrons off at
 Simulating how neutrons scatter through material for the first atomic bombs gave rise to the [[Monte Carlo Method]].
 
 ## See also
-- [[Time Dilation]]
+- [[Single-Event Upset]]
 - [[Entropy]]

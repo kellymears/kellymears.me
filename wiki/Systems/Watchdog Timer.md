@@ -31,6 +31,6 @@ A watchdog does not fix anything; it buys time to investigate. Logs, a [[Core Du
 ## See also
 - [[Runtime Verification]]
 - [[Hardware-in-the-Loop]]
-- [[Crash-Only Software]]
+- [[Toyota Unintended Acceleration]]
 - [[Kernel Panic]]
 - [[Over-the-Air Update]]

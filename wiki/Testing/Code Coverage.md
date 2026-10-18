@@ -27,5 +27,5 @@ Coverage also behaves oddly across multiple test environments measuring the same
 ## Related
 - [[Operationalization]]
 - [[Spectrum-Based Fault Localization]]
-- [[Risk-Based Testing]]
+- [[Mariner 1]]
 - [[Cyclomatic Complexity]]

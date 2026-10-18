@@ -28,4 +28,4 @@ Modern infrastructure builds the pattern in. Service managers restart processes 
 Restarts aren't free. A component that crashes on every start loops forever, so supervisors limit restart rates and escalate; see [[Circuit Breaker]]. Fast, automatic recovery is the goal that [[Mean Time to Recovery]] measures.
 
 ## See also
-- [[Patriot Missile Failure]]
+- [[AT&T Network Collapse of 1990]]

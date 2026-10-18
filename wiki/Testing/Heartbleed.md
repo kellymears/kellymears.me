@@ -27,3 +27,4 @@ In response, the Linux Foundation set up the Core Infrastructure Initiative to f
 - [[Software Bill of Materials]]
 - [[Bug bounty]]
 - [[Patch Tuesday]]
+- [[Log4Shell]]

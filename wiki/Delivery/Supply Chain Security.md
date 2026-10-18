@@ -19,7 +19,7 @@ The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed up
 - [[Commit Signing]]
 - [[Open Source Sustainability]]
 - [[Firmware]]
-- [[Third-Party Script]]
+- [[Log4Shell]]
 
 ## Related
 - [[Dependency Confusion]]

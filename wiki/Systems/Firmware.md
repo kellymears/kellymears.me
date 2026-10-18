@@ -22,4 +22,4 @@ Firmware also decides who controls a device after sale. Updates can remove featu
 ## See also
 - [[Instruction Set Architecture]]
 - [[Over-the-Air Update]]
-- [[Internet of Things]]
+- [[Toyota Unintended Acceleration]]

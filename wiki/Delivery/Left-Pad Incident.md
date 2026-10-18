@@ -27,6 +27,6 @@ One concrete lesson stuck: the JavaScript language later gained a built-in `padS
 The left-pad incident is a standard example of a dependency nobody chose directly but everybody relied on, a case of [[Hyrum's Law]]'s wider point that whatever a system depends on, someone will notice when it changes.
 
 ## See also
-- [[Node.js]]
+- [[Log4Shell]]
 - [[Event-stream Incident]]
 - [[Protestware]]

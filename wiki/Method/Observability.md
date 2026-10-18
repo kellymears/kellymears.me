@@ -25,7 +25,7 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 - [[Syslog]]
 
 ## Related
-- [[Daemon]]
+- [[Northeast Blackout of 2003]]
 - [[Distributed Tracing]]
 - [[Status Page]]
 - [[Web Analytics]]
