@@ -36,5 +36,5 @@ Internationalization is a form of [[Inclusive Design]]: most of the world doesn'
 ## See also
 - [[Typeface]]
 - [[Subtitling]]
-- [[Postal Address]]
+- [[Closed Captions]]
 - [[Collation]]

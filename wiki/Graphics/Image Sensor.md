@@ -27,3 +27,4 @@ Phones compensate with computation, capturing a burst of frames and aligning and
 - [[JPEG]]
 - [[Lens]]
 - [[Object Detection]]
+- [[Histogram]]

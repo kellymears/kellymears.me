@@ -30,3 +30,5 @@ The legacy is mixed. Critics argue that functionalism became a style of its own,
 - [[Design System]]
 - [[Affordance]]
 - [[Color Theory]]
+- [[Dieter Rams]]
+- [[Form Follows Function]]

@@ -32,7 +32,7 @@ Signage depends on legible type and symbols. Airport and transit signs borrow he
 Digital wayfinding uses the same ideas. Navigation bars are paths; sections are districts; the home page is a node; a distinctive page header is a landmark. Breadcrumbs answer "where am I," and a stable, readable [[URL]] tells people where they are and lets them return. People follow cues that promise their goal is near; see [[Information Scent]]. The overall structure that makes this possible is [[Information Architecture]]. Search and a command palette serve people who know their destination and want to skip the walk.
 
 ## See also
-- [[Signifier]]
+- [[Transit Map]]
 - [[Cognitive Map]]
 - [[Level Design]]
 - [[Breadcrumb]]

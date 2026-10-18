@@ -28,6 +28,6 @@ Weaknesses are characteristic. Models misread dense charts, miscount objects, st
 Uses are broad. Vision lets an agent read screens for [[Computer Use]], parse documents and handwriting, check a rendered page against a design, and describe images for people who can't see them, an important [[Accessibility]] gain when descriptions are accurate. Video understanding and real-time voice are where native models are moving next.
 
 ## See also
-- [[Object Detection]]
+- [[Alt Text]]
 - [[Optical Character Recognition]]
 - [[Contrastive Learning]]

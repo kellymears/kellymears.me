@@ -33,5 +33,5 @@ Even with a good scale, color is one of the least precise ways to show a quantit
 Order matters as much as color. The same table sorted alphabetically looks like noise, and sorted by similarity it shows blocks. Large heat maps work well as [[Small Multiples]] and as panels on a [[Dashboard]].
 
 ## See also
-- [[Treemap]]
-- [[Web Analytics]]
+- [[Box Plot]]
+- [[Histogram]]

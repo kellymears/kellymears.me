@@ -17,9 +17,9 @@ Automated checks also produce characteristic false signals: a burst of violation
 ## See also
 - [[Presbyopia]]
 - [[Text-to-Speech]]
-- [[Screen Reader]]
+- [[Closed Captions]]
 - [[Dyslexia]]
-- [[Neurodiversity]]
+- [[Alt Text]]
 - [[Inclusive Design]]
 
 ## Related

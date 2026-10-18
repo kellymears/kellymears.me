@@ -22,9 +22,9 @@ Skeuomorphism is the clearest historical case study for [[Affordance]] because i
 ## Related
 - [[Conceptual Metaphor]]
 - [[Diegetic Interface]]
-- [[Swiss Style]]
+- [[Dieter Rams]]
 - [[Aesthetic-Usability Effect]]
-- [[Iconography]]
+- [[Form Follows Function]]
 - [[Toggle Switch]]
 - [[Retronym]]
 - [[Mere-Exposure Effect]]

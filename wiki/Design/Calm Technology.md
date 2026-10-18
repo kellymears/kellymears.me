@@ -25,7 +25,7 @@ The idea draws on how attention works. People filter most of what reaches their 
 Most consumer technology went the other way. Notifications, badges, and infinite feeds compete for the center of attention, because attention is what many products are paid for; see [[Doomscrolling]] and [[Dark Pattern]]. Each interruption has a cost beyond its own duration; see [[Attention Residue]]. Calm technology offers a counter-principle for designers: the right default is quiet, and the burden of proof is on interrupting. Notification design, from a quiet [[Toast Notification]] to a blocking [[Modal Dialog]], is a direct application, as is respecting [[Reduced Motion]].
 
 ## See also
-- [[Internet of Things]]
+- [[Dieter Rams]]
 - [[Dashboard]]
 - [[Inclusive Design]]
 - [[Web Push]]

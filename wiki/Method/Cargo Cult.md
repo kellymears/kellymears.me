@@ -23,3 +23,4 @@ Calling something a cargo cult is only useful if it is followed by naming the mi
 - [[Imitation Learning]]
 - [[First Principles Thinking]]
 - [[Law of the Instrument]]
+- [[Form Follows Function]]

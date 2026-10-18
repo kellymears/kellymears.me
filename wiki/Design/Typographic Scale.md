@@ -26,7 +26,7 @@ Measure [[Line Length|line length]] too. Readability falls off sharply beyond ro
 - [[UI Primitive]]
 - [[Logarithmic Scale]]
 - [[Golden Ratio]]
-- [[Visual Hierarchy]]
+- [[Paper Size]]
 - [[Swiss Style]]
 - [[Optical Alignment]]
 - [[Typeface]]

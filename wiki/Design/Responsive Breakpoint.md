@@ -28,7 +28,7 @@ Three practical notes recur.
 - [[Integration Test]]
 - [[Responsive Web Design]]
 - [[Test Fixture]]
-- [[Test Double]]
+- [[Paper Size]]
 - [[Stacking Context]]
 - [[Touch Target Size]]
 - [[Line Length]]

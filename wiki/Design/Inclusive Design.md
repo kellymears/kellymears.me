@@ -31,7 +31,7 @@ The movement around [[Neurodiversity]] has pushed inclusive design beyond physic
 The common objection is cost, but inclusive decisions are cheap when made early and expensive to retrofit. A design system that bakes in focus states, contrast, and semantic structure makes every later screen inclusive by default. The opposite approach, building for an imagined average user, fails often, because almost nobody is average in every dimension at once.
 
 ## See also
-- [[Usability Testing]]
+- [[Alt Text]]
 - [[Persona]]
-- [[Typeface]]
+- [[Closed Captions]]
 - [[Signifier]]

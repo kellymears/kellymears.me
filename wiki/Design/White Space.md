@@ -28,7 +28,7 @@ The modernist [[Swiss Style]] made white space central, using asymmetric layouts
 The main failure is too little space, which makes a page feel cluttered and makes groups hard to see. Too much can also fail, scattering related items so far apart that they no longer look connected.
 
 ## See also
-- [[Optical Alignment]]
-- [[Box Model]]
-- [[CSS Grid]]
+- [[Form Follows Function]]
+- [[Dieter Rams]]
+- [[Paper Size]]
 - [[Text Justification]]

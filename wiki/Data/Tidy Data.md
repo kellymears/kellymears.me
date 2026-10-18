@@ -36,3 +36,4 @@ Wickham built a family of R packages, the tidyverse, around the idea, and the sa
 ## See also
 - [[Columnar Storage]]
 - [[Schema Drift]]
+- [[Data Table]]

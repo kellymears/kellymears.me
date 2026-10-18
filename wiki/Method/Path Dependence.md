@@ -16,7 +16,7 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[Flanderization]]
 - [[JPEG]]
 - [[Gopher]]
-- [[Browser Wars]]
+- [[Paper Size]]
 - [[GIF]]
 - [[Sunk Cost Fallacy]]
 - [[Second-Order Thinking]]

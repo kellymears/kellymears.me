@@ -24,7 +24,7 @@ At scale the interesting problems become taxonomic: whether structure should be 
 
 ## Related
 - [[Hierarchical Data]]
-- [[Wayfinding]]
+- [[Transit Map]]
 - [[Breadcrumb]]
 - [[Library Classification]]
 - [[Wireframe]]

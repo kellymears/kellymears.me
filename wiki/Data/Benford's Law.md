@@ -34,3 +34,4 @@ After the 2020 US election, claims circulated that precinct vote counts violated
 - [[Fermi Estimation]]
 - [[Survivorship Bias]]
 - [[Logarithmic Scale]]
+- [[Bar Chart]]

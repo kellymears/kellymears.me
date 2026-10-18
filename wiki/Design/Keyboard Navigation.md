@@ -22,7 +22,7 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 - [[Tiling Window Manager]]
 
 ## Related
-- [[ARIA]]
+- [[Data Table]]
 - [[Portal]]
 - [[Carousel]]
 - [[Touch Target Size]]

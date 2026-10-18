@@ -28,7 +28,7 @@ Web icons moved from image sprites to **icon fonts**, which scaled but broke acc
 
 ## See also
 - [[Wayfinding]]
-- [[Hamburger Menu]]
+- [[Alt Text]]
 - [[Favicon]]
-- [[Flat Design]]
+- [[Transit Map]]
 - [[Emoji]]

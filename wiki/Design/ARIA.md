@@ -13,7 +13,7 @@ Its first rule is the one most worth remembering: **do not use ARIA if a native 
 Practical hazards accumulate around the details. Some attributes are computed by the browser and must not be supplied by hand, while their siblings must be. An accessible name derived from a related element outranks a directly supplied label, so a menu can end up announcing its trigger's text instead of its own — and clearing that requires explicitly passing nothing, not simply omitting it. Hiding content outside a modal can be done by marking it hidden from the accessibility tree or by making it truly inert; those are different, and only one of them stops pointer events, which produces a very specific class of bug where clicks land on elements a screen reader cannot see.
 
 ## See also
-- [[Accessibility]]
+- [[Alt Text]]
 - [[Semantic HTML]]
 - [[Headless Component]]
 - [[Focus Trap]]

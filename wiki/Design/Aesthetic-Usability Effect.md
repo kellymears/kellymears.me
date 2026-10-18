@@ -31,7 +31,7 @@ For designers, the practical upshot is to invest in aesthetics, test early with 
 
 ## See also
 - [[Golden Ratio]]
-- [[Usability Testing]]
+- [[Dieter Rams]]
 - [[Visual Hierarchy]]
 - [[Skeuomorphism]]
 - [[Processing Fluency]]

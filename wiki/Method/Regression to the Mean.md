@@ -14,7 +14,7 @@ This is one of the more counterintuitive traps in engineering metrics: praise or
 The discipline is to ask, before crediting an intervention: was the starting point already unusually extreme? If so, some reversion was owed independent of anything you did, and only a proper baseline or control group can tell you how much.
 
 ## See also
-- [[Base Rate Fallacy]]
+- [[Histogram]]
 - [[Correlation and Causation]]
 - [[Overfitting]]
 - [[Simpson's Paradox]]

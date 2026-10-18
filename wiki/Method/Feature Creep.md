@@ -17,7 +17,7 @@ The defense isn't refusing all requests — it's requiring that a new feature's 
 ## See also
 - [[Requirements Traceability]]
 - [[You Aren't Gonna Need It]]
-- [[Technical Debt]]
+- [[Dieter Rams]]
 - [[Law of Triviality]]
 - [[Hick's Law]]
 

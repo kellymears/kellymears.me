@@ -29,7 +29,7 @@ None of this makes spreadsheets bad tools. They're often the right first version
 ## See also
 - [[Tidy Data]]
 - [[CSV]]
-- [[Punched Card]]
+- [[Data Table]]
 - [[Heat Map]]
 - [[Virtual Scrolling]]
 - [[Pivot Table]]

@@ -28,3 +28,4 @@ The word is also used for a different idea in image files. An interlaced GIF or 
 ## See also
 - [[Vector Display]]
 - [[Chroma Subsampling]]
+- [[Closed Captions]]

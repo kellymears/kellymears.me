@@ -19,7 +19,7 @@ Real accuracy is dominated by what the headline number omits: proper nouns and r
 - [[Subtitling]]
 - [[Moravec's Paradox]]
 - [[Optical Character Recognition]]
-- [[Bitter Lesson]]
+- [[Closed Captions]]
 - [[Hidden Markov Model]]
 - [[Text-to-Speech]]
 - [[Multimodal Model]]

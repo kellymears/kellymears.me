@@ -31,3 +31,4 @@ Line-based diffs know nothing about code structure. Renaming a variable or refor
 - [[Cherry-Pick]]
 - [[Commit Message]]
 - [[Patch Tuesday]]
+- [[Histogram]]

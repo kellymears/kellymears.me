@@ -15,7 +15,7 @@ The defense is the same move every time: before trusting an aggregate comparison
 
 ## See also
 - [[Correlation and Causation]]
-- [[Base Rate Fallacy]]
+- [[Box Plot]]
 - [[Regression to the Mean]]
 - [[Selection Bias]]
 - [[AB Testing]]

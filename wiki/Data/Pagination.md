@@ -23,7 +23,7 @@ Interface design shapes which one fits. Numbered pages suit search results where
 
 ## See also
 - [[Collation]]
-- [[Lazy Loading]]
+- [[Data Table]]
 - [[Doomscrolling]]
 - [[Truncation Bias]]
 - [[Optimistic Locking]]

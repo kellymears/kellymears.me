@@ -29,3 +29,4 @@ Spreadsheets and code editors virtualize as a matter of course; see [[Spreadshee
 ## See also
 - [[Long Task]]
 - [[Intersection Observer]]
+- [[Data Table]]

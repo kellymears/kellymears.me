@@ -32,7 +32,7 @@ Practical guidance:
 Color is a weak channel for precise values, as rankings of [[Preattentive Processing]] show. It excels at revealing patterns across large areas, such as maps and heatmaps, and it should be applied consistently across [[Small Multiples]] so the same color always means the same value. In a design system, a chart palette belongs among the [[Design Token]] values like any other.
 
 ## See also
-- [[Color Theory]]
+- [[Bar Chart]]
 - [[Rainbow]]
 - [[Treemap]]
 - [[Weber-Fechner Law]]

@@ -35,6 +35,6 @@ The costs:
 The same idea runs through design and computing. Typographic scales step font sizes by a constant ratio, so they are evenly spaced on a log scale; see [[Typographic Scale]]. Floating-point numbers keep constant relative precision across magnitudes; see [[Floating-Point Arithmetic]]. Leading digits of real-world data are spread evenly on a log scale; see [[Benford's Law]]. Rough estimation works in orders of magnitude; see [[Fermi Estimation]].
 
 ## See also
-- [[Data Visualization]]
-- [[Color Scale]]
+- [[Bar Chart]]
+- [[Histogram]]
 - [[Weber-Fechner Law]]

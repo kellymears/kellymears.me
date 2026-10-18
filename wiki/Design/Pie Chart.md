@@ -34,5 +34,5 @@ Edward Tufte called pie charts a poor choice in almost every case, while others 
 
 ## See also
 - [[Choropleth Map]]
-- [[Color Scale]]
+- [[Bar Chart]]
 - [[Sankey Diagram]]

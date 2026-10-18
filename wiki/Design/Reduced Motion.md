@@ -18,7 +18,7 @@ Test environments frequently emulate the preference by default, which means ever
 ## See also
 - [[Motion Sickness]]
 - [[Parallax Scrolling]]
-- [[Component Story]]
+- [[Closed Captions]]
 - [[Staggered Animation]]
 - [[Easing]]
 - [[LED Flicker]]

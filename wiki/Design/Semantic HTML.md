@@ -18,13 +18,13 @@ Semantics also help outside accessibility. A well-structured document is what ma
 - [[Hypermedia]]
 - [[Screen Reader]]
 - [[Breadcrumb]]
-- [[Progressive Enhancement]]
-- [[Keyboard Navigation]]
+- [[Data Table]]
+- [[Form Follows Function]]
 - [[UI Primitive]]
 
 ## Related
 - [[Headless Component]]
-- [[Focus Management]]
+- [[Alt Text]]
 - [[Toggle Switch]]
 - [[Accessibility Testing]]
 - [[Form Design]]

@@ -29,3 +29,4 @@ The law also has conditions. Trials must be independent, and a sample that isn't
 - [[Base Rate Fallacy]]
 - [[Survivorship Bias]]
 - [[Birthday Problem]]
+- [[Histogram]]

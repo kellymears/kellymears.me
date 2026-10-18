@@ -35,3 +35,4 @@ Desktop environments face the same problem. A [[Compositor]] that assembles ever
 - [[Swap Chain]]
 - [[Racing the Beam]]
 - [[Frame Rate]]
+- [[Closed Captions]]

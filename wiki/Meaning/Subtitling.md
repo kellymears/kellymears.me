@@ -29,3 +29,4 @@ Because a subtitle file is plain text with stable indices, a change log keyed to
 - [[Internationalization]]
 - [[Creole Language]]
 - [[Attentional Blink]]
+- [[Closed Captions]]

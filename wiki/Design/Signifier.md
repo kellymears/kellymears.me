@@ -27,7 +27,7 @@ Good signifiers draw on [[Gestalt Principles]] and [[Visual Hierarchy]] so the i
 
 ## See also
 - [[Flat Design]]
-- [[Telegraphing]]
+- [[Form Follows Function]]
 - [[Natural Mapping]]
 - [[Context Menu]]
-- [[Wayfinding]]
+- [[Dieter Rams]]

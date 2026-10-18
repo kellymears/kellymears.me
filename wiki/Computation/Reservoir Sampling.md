@@ -34,6 +34,6 @@ Sampling also does not fix bias in the stream itself. If the data reaching the s
 
 ## See also
 - [[Stream Processing]]
-- [[Pseudorandom Number Generator]]
+- [[Histogram]]
 - [[HyperLogLog]]
 - [[Monte Carlo Method]]

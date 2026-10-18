@@ -14,8 +14,8 @@ The recurring failure is a false affordance: styling something to look clickable
 Affordance is downstream of the same perceptual machinery [[Gestalt Principles]] describes, and it's the reason a well-designed [[Design Token]] system (consistent shadow, consistent radius) keeps affordance legible across an entire product rather than only within one screen.
 
 ## See also
-- [[Skeuomorphism]]
-- [[Gestalt Principles]]
+- [[Form Follows Function]]
+- [[Dieter Rams]]
 - [[Dark Pattern]]
 - [[UI Primitive]]
 

@@ -29,6 +29,6 @@ Product teams meet the same traps in [[AB Testing]], especially by checking resu
 ## See also
 - [[Big Data]]
 - [[Multiple Comparisons Problem]]
-- [[Sensitivity and Specificity]]
+- [[Box Plot]]
 - [[Burden of Proof]]
 - [[Meta-Analysis]]

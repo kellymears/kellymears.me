@@ -33,5 +33,6 @@ Design considerations:
 Related forms divide a whole differently. A [[Treemap]] shows a hierarchy of parts at one moment, and a [[Pie Chart]] shows a single split. Network algorithms that compute how much can move through a system produce exactly the numbers a Sankey diagram draws; see [[Maximum Flow]].
 
 ## See also
-- [[Gestalt Principles]]
+- [[Transit Map]]
 - [[Dashboard]]
+- [[Bar Chart]]

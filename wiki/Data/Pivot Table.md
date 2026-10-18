@@ -29,3 +29,4 @@ Statistics uses the same layout under the name contingency table, counting how o
 - [[Materialized View]]
 - [[Faceted Search]]
 - [[Tidy Data]]
+- [[Data Table]]

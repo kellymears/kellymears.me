@@ -27,7 +27,7 @@ Good practice reports the estimated effect with its [[Confidence Interval]], dec
 ## See also
 - [[Correlation and Causation]]
 - [[Pareto Principle]]
-- [[Goodhart's Law]]
+- [[Box Plot]]
 - [[Growth Mindset]]
 - [[Operationalization]]
 - [[Meta-Analysis]]
