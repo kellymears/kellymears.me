@@ -29,3 +29,4 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 - [[Ground Truth]]
 - [[Falsifiability]]
 - [[Coverage Gate]]
+- [[Byte-Pair Encoding]]

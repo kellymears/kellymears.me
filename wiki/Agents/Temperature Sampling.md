@@ -20,3 +20,4 @@ The practical rule of thumb is that temperature should track the task's toleranc
 - [[Entropy]]
 - [[Knowledge Distillation]]
 - [[Greedy Algorithm]]
+- [[Diffusion Model]]

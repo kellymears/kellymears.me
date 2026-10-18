@@ -22,3 +22,5 @@ The tradeoff against prompting is worth being explicit about: fine-tuning is the
 - [[Reinforcement Learning from Human Feedback]]
 - [[Knowledge Distillation]]
 - [[In-Context Learning]]
+- [[Gradient Descent]]
+- [[Backpropagation]]

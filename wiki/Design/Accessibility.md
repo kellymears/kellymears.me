@@ -16,7 +16,7 @@ Automated checks also produce characteristic false signals: a burst of violation
 
 ## See also
 - [[ARIA]]
-- [[Semantic HTML]]
+- [[Text-to-Speech]]
 - [[Plain Language]]
 - [[Document Object Model]]
 - [[Neurodiversity]]

@@ -33,5 +33,5 @@ Earlier n-gram models, essentially a [[Markov Chain]] over words, predicted the 
 ## See also
 - [[Scaling Laws]]
 - [[Fine-Tuning]]
-- [[Reinforcement Learning from Human Feedback]]
-- [[Large Language Model]]
+- [[Gradient Descent]]
+- [[Benchmark Contamination]]

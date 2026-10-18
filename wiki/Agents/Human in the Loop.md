@@ -26,3 +26,4 @@ The complementary practice is honest reporting: a gate is only as good as the ac
 ## Related
 - [[Context Window]]
 - [[Tool Use]]
+- [[Computer Use]]

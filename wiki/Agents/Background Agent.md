@@ -27,4 +27,4 @@ Removing the watcher removes a safety layer, so the design work shifts to the ed
 ## See also
 - [[Agentic Loop]]
 - [[Durable Execution]]
-- [[Human in the Loop]]
+- [[Agent Sandbox]]

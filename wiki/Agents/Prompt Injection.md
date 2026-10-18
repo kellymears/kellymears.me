@@ -29,3 +29,5 @@ The defenses that hold are architectural rather than linguistic:
 - [[Tool Use]]
 - [[Large Language Model]]
 - [[SQL Injection]]
+- [[Agent Sandbox]]
+- [[Computer Use]]

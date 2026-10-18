@@ -32,3 +32,4 @@ Outside computing, greedy choices explain a lot of [[Path Dependence]]: each loc
 - [[Dynamic Programming]]
 - [[Divide and Conquer]]
 - [[Overfitting]]
+- [[Gradient Descent]]

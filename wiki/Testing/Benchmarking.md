@@ -24,7 +24,7 @@ Used well, benchmarks catch performance regressions in [[Continuous Integration]
 
 ## See also
 - [[Load Testing]]
-- [[Premature Optimization]]
+- [[Benchmark Contamination]]
 - [[Goodhart's Law]]
 - [[Thermal Throttling]]
 - [[Performance Budget]]

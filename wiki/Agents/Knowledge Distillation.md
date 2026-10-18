@@ -29,3 +29,4 @@ The idea echoes human teaching: a learner gains from seeing how close the altern
 - [[Quantization]]
 - [[Fine-Tuning]]
 - [[Speculative Decoding]]
+- [[Diffusion Model]]

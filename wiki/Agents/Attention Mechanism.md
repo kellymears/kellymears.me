@@ -30,7 +30,8 @@ The cost is that comparing every token with every other grows with the *square* 
 Attention spreads finite weight across everything in context, which helps explain why irrelevant material degrades answers, as described under [[Context Rot]]. It is also where much of [[Mechanistic Interpretability]] looks: researchers have identified *induction heads*, which copy patterns seen earlier in the context and appear to underpin [[In-Context Learning]]. The analogy to human [[Selective Attention]] is loose, but in both cases attending to one thing means attending less to others.
 
 ## See also
-- [[Large Language Model]]
+- [[Backpropagation]]
 - [[KV Cache]]
 - [[Context Window]]
 - [[Context Rot]]
+- [[Neural Network]]

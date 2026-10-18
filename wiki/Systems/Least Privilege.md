@@ -20,7 +20,7 @@ The principle is stated easily and applied poorly, because broad permissions are
 
 ## See also
 - [[Secret Management]]
-- [[Supply Chain Security]]
+- [[Agent Sandbox]]
 - [[Guardrail]]
 - [[Same-Origin Policy]]
 - [[Code Signing]]

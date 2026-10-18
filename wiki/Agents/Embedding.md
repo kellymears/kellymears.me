@@ -20,3 +20,4 @@ Embedding models are also usually distinct from the generation model in a pipeli
 - [[Large Language Model]]
 - [[Context Window]]
 - [[Inverted Index]]
+- [[Multimodal Model]]

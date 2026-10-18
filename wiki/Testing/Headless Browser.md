@@ -30,3 +30,4 @@ Two limits are worth knowing in advance. Synthetic events are not real user inpu
 - [[Test Double]]
 - [[Stacking Context]]
 - [[Page Object Model]]
+- [[Computer Use]]

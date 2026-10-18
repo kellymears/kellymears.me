@@ -28,3 +28,4 @@ Because tokens are consumed by everything in the request — instructions, tool 
 - [[Prompt Engineering]]
 - [[Structured Output]]
 - [[Data Compression]]
+- [[Byte-Pair Encoding]]

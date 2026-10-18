@@ -21,3 +21,5 @@ Real accuracy is dominated by what the headline number omits: proper nouns and r
 - [[Token]]
 - [[Nondeterminism]]
 - [[Edit Distance]]
+- [[Text-to-Speech]]
+- [[Multimodal Model]]

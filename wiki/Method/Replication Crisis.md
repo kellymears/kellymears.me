@@ -28,5 +28,5 @@ The reforms are mostly about committing in advance. **Preregistration** records 
 - [[Falsifiability]]
 - [[Decision Fatigue]]
 - [[Survivorship Bias]]
-- [[Regression to the Mean]]
+- [[Benchmark Contamination]]
 - [[Base Rate Fallacy]]

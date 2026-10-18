@@ -22,3 +22,4 @@ What none of this licenses is folk prompting advice. Discovering that a [[Large 
 - [[Markov Chain]]
 - [[Attention Mechanism]]
 - [[In-Context Learning]]
+- [[Neural Network]]
