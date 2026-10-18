@@ -28,3 +28,5 @@ The practical guidance is simpler than the numbers suggest. Use refined, stable 
 - [[Xenobiotic Metabolism]]
 - [[Leidenfrost Effect]]
 - [[Boiling Point]]
+- [[Oxidation]]
+- [[Combustion]]

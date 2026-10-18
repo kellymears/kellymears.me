@@ -24,3 +24,4 @@ Crossed polarizers also reveal **stress birefringence**: strained plastics and t
 - [[Rayleigh Scattering]]
 - [[Refraction]]
 - [[Electromagnetic Induction]]
+- [[Wave Interference]]

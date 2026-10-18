@@ -21,7 +21,7 @@ Drag also sets [[Terminal Velocity]]: a falling object stops accelerating once d
 
 ## See also
 - [[Drafting]]
-- [[Terminal Velocity]]
+- [[Ideal Gas Law]]
 - [[Rolling Resistance]]
 - [[Viscosity]]
 - [[Friction]]

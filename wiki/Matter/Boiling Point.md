@@ -29,3 +29,5 @@ Refrigeration relies on boiling at the other extreme. A [[Vapor-Compression Refr
 - [[Leidenfrost Effect]]
 - [[Smoke Point]]
 - [[Specific Heat Capacity]]
+- [[Phase Transition]]
+- [[Nucleation]]

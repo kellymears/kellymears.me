@@ -39,5 +39,5 @@ Einstein's E = mc² extended the law to include mass as a form of energy, which 
 - [[Entropy]]
 - [[Work and Power]]
 - [[Heat Transfer]]
-- [[Newton's Laws of Motion]]
+- [[Combustion]]
 - [[Basal Metabolic Rate]]

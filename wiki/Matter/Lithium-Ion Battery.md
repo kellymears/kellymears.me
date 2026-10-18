@@ -31,6 +31,6 @@ Charging and discharging both waste some energy as heat, accounted for by [[Cons
 
 ## See also
 - [[Ohm's Law]]
-- [[Work and Power]]
+- [[Oxidation]]
 - [[Electromagnetic Induction]]
 - [[Thermal Throttling]]

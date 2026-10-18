@@ -20,3 +20,5 @@ Buoyancy is not exclusive to liquids: air is a fluid too, and a hot air balloon 
 - [[Surface Tension]]
 - [[Emulsion]]
 - [[Bernoulli's Principle]]
+- [[Combustion]]
+- [[Ideal Gas Law]]

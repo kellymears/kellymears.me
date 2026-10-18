@@ -26,7 +26,7 @@ The remedies all amount to either sampling more or [[Image Resampling|filtering 
 
 ## See also
 - [[Mipmapping]]
-- [[Temporal Upscaling]]
+- [[Wave Interference]]
 - [[Rasterization]]
 - [[Deferred Shading]]
 - [[LED Flicker]]

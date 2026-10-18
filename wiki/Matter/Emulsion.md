@@ -28,3 +28,5 @@ Beyond the kitchen, emulsions are everywhere: paint, cosmetics, salad dressing, 
 - [[Protein Denaturation]]
 - [[Starch Gelatinization]]
 - [[Osmosis]]
+- [[Gluten]]
+- [[Phase Transition]]

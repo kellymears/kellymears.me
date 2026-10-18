@@ -25,7 +25,7 @@ Sweat rates vary from about half a liter to over two liters an hour between indi
 Heat also changes fuel use, increasing reliance on [[Glycogen]], and dampens [[Heart Rate Variability]]. Evaporation works only when the air can absorb moisture, so humid heat is much more dangerous than dry heat at the same temperature. Airflow matters too, which is why a cyclist moving at speed feels cooler than a runner. At the slow speeds of a long climb, [[Aerodynamic Drag]] and its cooling breeze disappear and overheating risk rises. Heat stroke, with confusion and a core temperature above about 40 °C, is a medical emergency, and acclimation reduces but doesn't remove the risk.
 
 ## See also
-- [[Thermoregulation]]
+- [[Dew Point]]
 - [[Fluid Balance]]
 - [[Hormesis]]
 - [[VO2 Max]]

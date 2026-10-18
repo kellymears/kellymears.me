@@ -30,3 +30,6 @@ Fermentation also transforms flavor. Proteins become savory amino acids, sugars 
 - [[Xenobiotic Metabolism]]
 - [[Maillard Reaction]]
 - [[Gut Microbiome]]
+- [[Nucleation]]
+- [[pH]]
+- [[Gluten]]

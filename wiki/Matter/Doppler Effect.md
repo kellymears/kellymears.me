@@ -17,3 +17,4 @@ The effect scales with the ratio of relative velocity to wave speed, which is wh
 - [[Inertial Frame of Reference]]
 - [[Resonance]]
 - [[Inverse-Square Law]]
+- [[Wave Interference]]

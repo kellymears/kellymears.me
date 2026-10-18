@@ -32,3 +32,4 @@ The defenses are conservative operating points: lower voltage via [[Dynamic Volt
 - [[Memory Leak]]
 - [[Ohm's Law]]
 - [[Microcode]]
+- [[Oxidation]]
