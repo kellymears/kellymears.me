@@ -17,7 +17,7 @@ The rhetorical version is just as costly: an "everything passes" claim assembled
 
 ## See also
 - [[Root Cause Analysis]]
-- [[Ground Truth]]
+- [[Defensive Programming]]
 - [[Fail Fast]]
 - [[Observability]]
 - [[Coverage Gate]]

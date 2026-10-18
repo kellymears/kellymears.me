@@ -33,3 +33,4 @@ Record and replay has found a new use in testing applications built on language 
 ## See also
 - [[Integration Test]]
 - [[Hypertext Transfer Protocol]]
+- [[Service Virtualization]]

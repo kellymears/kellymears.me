@@ -14,10 +14,10 @@ The hard part is the one the technique's name is honest about: finding a propert
 
 ## See also
 - [[Decimal Arithmetic]]
-- [[Assertion]]
+- [[Monkey Testing]]
 - [[Mutation Testing]]
 - [[Test Fixture]]
-- [[Fuzzing]]
+- [[Pesticide Paradox]]
 - [[Exploratory Testing]]
 - [[Boundary Value Analysis]]
 - [[Test Oracle]]

@@ -14,7 +14,7 @@ Paxos, first published in 1998, was the foundational protocol and is notoriously
 The core guarantee any consensus algorithm provides is safety under partial failure: a decision, once made, is never silently reversed even if the node that helped make it later disappears, and progress only requires a majority (a [[Quorum|quorum]]) rather than every node — which is precisely how it survives the blocking problem that [[Two-Phase Commit]] has, since a failed *minority* never freezes the rest. The trade is latency and complexity: every agreed value costs a round of majority voting, and running one correctly, with the right edge cases around network partitions and stale leaders, is genuinely hard to get right from scratch, which is why nearly everyone reaches for an existing implementation rather than writing one.
 
 ## See also
-- [[Leader Election]]
+- [[Linearizability Checking]]
 - [[Two-Phase Commit]]
 - [[CAP Theorem]]
 - [[Database Replication]]

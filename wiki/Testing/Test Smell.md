@@ -33,4 +33,4 @@ Smells in test code are usually fixed the same way as in regular code: extract h
 - [[Test Data Builder]]
 - [[Parameterized Test]]
 - [[Solitary and Sociable Tests]]
-- [[Test Fixture]]
+- [[Pesticide Paradox]]

@@ -21,3 +21,4 @@ In CI pipelines, smoke tests commonly gate whether the expensive suite even runs
 - [[Synthetic Monitoring]]
 - [[Dogfooding]]
 - [[Risk-Based Testing]]
+- [[Monkey Testing]]

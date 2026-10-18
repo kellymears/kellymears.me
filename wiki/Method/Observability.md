@@ -15,11 +15,11 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 
 ## See also
 - [[Instrumentation]]
-- [[Ground Truth]]
+- [[Runtime Verification]]
 - [[Time Series Database]]
 - [[Reproducible Case]]
 - [[Resource Starvation]]
-- [[Root Cause Analysis]]
+- [[Testing in Production]]
 - [[Logging]]
 - [[Fail Fast]]
 - [[Chaos Engineering]]

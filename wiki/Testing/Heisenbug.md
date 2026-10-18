@@ -18,4 +18,4 @@ The fault is still [[Nondeterminism]] in the ordinary sense — the same input d
 - [[Crash Reporting]]
 - [[Scientific Debugging]]
 - [[Dynamic Voltage and Frequency Scaling]]
-- [[Test Isolation]]
+- [[Monkey Testing]]

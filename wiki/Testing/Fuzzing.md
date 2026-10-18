@@ -23,7 +23,7 @@ Fuzzing is a major source of security fixes, because parsers of untrusted input,
 ## See also
 - [[Memory Safety]]
 - [[Generative Adversarial Network]]
-- [[Instrumentation]]
+- [[Monkey Testing]]
 - [[Cross-Site Scripting]]
 - [[Code Coverage]]
 - [[Differential Testing]]

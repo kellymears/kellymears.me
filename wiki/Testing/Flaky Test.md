@@ -21,7 +21,7 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 ## See also
 - [[Race Condition]]
 - [[Fake Clock]]
-- [[Determinism]]
+- [[Pesticide Paradox]]
 - [[Reproducible Case]]
 - [[Normalization of Deviance]]
 - [[Instrumentation]]
@@ -31,5 +31,5 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 - [[Deterministic Simulation Testing]]
 
 ## Related
-- [[Ground Truth]]
+- [[Service Virtualization]]
 - [[Visual Regression Testing]]

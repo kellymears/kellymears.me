@@ -33,5 +33,5 @@ The strictest form is a **hermetic** test, which depends on nothing outside its 
 ## See also
 - [[Test Parallelization]]
 - [[Dependency Injection]]
-- [[Test Double]]
+- [[Service Virtualization]]
 - [[Determinism]]

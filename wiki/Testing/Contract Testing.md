@@ -15,7 +15,7 @@ Consumer-driven contract testing (the flavor Pact popularized) inverts the usual
 ## See also
 - [[Solitary and Sociable Tests]]
 - [[Data Contract]]
-- [[Test Double]]
+- [[Service Virtualization]]
 - [[Snapshot Testing]]
 - [[Schema Drift]]
 - [[End-to-End Test]]

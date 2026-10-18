@@ -29,7 +29,7 @@ The same idea appears in distributed systems as **heartbeats**. A node that stop
 A watchdog does not fix anything; it buys time to investigate. Logs, a [[Core Dump]] or a kernel crash dump from before the reset show why the hang happened.
 
 ## See also
-- [[Failure Detection]]
+- [[Runtime Verification]]
 - [[Daemon]]
 - [[Silent Failure]]
 - [[Fail Fast]]

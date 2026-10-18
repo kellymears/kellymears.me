@@ -16,7 +16,7 @@ Circuit breakers are usually scoped per dependency, not globally — a failing p
 ## See also
 - [[Load Shedding]]
 - [[Cascading Failure]]
-- [[Load Balancing]]
+- [[Service Virtualization]]
 - [[Race Condition]]
 - [[Chaos Engineering]]
 - [[Load Testing]]

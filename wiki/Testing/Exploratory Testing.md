@@ -24,10 +24,10 @@ Exploratory testing is strongest early in a feature's life and right after major
 It complements rather than competes with [[Fuzzing]], which explores input space at machine speed without judgment, and [[Property-Based Testing]], which explores within stated rules. People bring something neither has: a sense of what would confuse or annoy a real user, which no assertion can encode.
 
 ## See also
-- [[Fuzzing]]
+- [[Black-Box and White-Box Testing]]
 - [[Bug Triage]]
 - [[End-to-End Test]]
-- [[Accessibility]]
+- [[Monkey Testing]]
 - [[Risk-Based Testing]]
 - [[Reproducible Case]]
 - [[Rubber Duck Debugging]]

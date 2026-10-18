@@ -30,3 +30,4 @@ All such metrics share a trap. Enforced as a hard gate, a number becomes a targe
 - [[Code Coverage]]
 - [[Unit Test]]
 - [[Test Smell]]
+- [[Modified Condition Decision Coverage]]

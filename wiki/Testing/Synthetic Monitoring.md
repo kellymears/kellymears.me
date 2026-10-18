@@ -34,6 +34,6 @@ The usual pitfalls:
 [[Shadow Traffic]] is a related idea in the other direction: real requests sent to an unreleased system, rather than synthetic requests sent to a released one.
 
 ## See also
-- [[Service Level Objective]]
-- [[Incident Response]]
+- [[Testing in Production]]
+- [[Runtime Verification]]
 - [[Cron]]

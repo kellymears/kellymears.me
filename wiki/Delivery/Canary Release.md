@@ -20,7 +20,7 @@ It composes naturally with [[Continuous Deployment]]: a pipeline that ships ever
 - [[Rollback]]
 - [[Staging Environment]]
 - [[AB Testing]]
-- [[Chaos Engineering]]
+- [[Testing in Production]]
 - [[Shadow Traffic]]
 
 ## Related

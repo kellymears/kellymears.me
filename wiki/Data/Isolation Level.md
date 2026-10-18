@@ -43,3 +43,4 @@ Isolation is a single-database concern. Across replicas, the analogous guarantee
 - [[Multiversion Concurrency Control]]
 - [[Optimistic Locking]]
 - [[Pessimistic Locking]]
+- [[Linearizability Checking]]

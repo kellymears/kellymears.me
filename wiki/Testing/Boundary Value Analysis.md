@@ -30,5 +30,5 @@ These techniques make [[Unit Test]] design systematic rather than ad hoc, and th
 ## See also
 - [[Parameterized Test]]
 - [[Decision Table Testing]]
-- [[Mutation Testing]]
+- [[Black-Box and White-Box Testing]]
 - [[Null]]

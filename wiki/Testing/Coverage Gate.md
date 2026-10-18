@@ -26,3 +26,5 @@ The costs are also real. A strict gate makes any measurement artifact a hard blo
 - [[Instrumentation]]
 - [[Risk-Based Testing]]
 - [[Cyclomatic Complexity]]
+- [[Modified Condition Decision Coverage]]
+- [[Pesticide Paradox]]

@@ -23,7 +23,7 @@ The second risk is that a double drifts from the real interface, so the tests pa
 
 ## Related
 - [[Nondeterminism]]
-- [[Large Language Model]]
+- [[Service Virtualization]]
 - [[Integration Test]]
 - [[Fingerprint]]
 - [[Test Smell]]

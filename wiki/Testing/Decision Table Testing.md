@@ -32,3 +32,5 @@ Where a rule depends on history rather than current inputs, such as "lock the ac
 - [[Pairwise Testing]]
 - [[Property-Based Testing]]
 - [[Design by Contract]]
+- [[Black-Box and White-Box Testing]]
+- [[Modified Condition Decision Coverage]]

@@ -17,10 +17,10 @@ Coverage also behaves oddly across multiple test environments measuring the same
 
 ## See also
 - [[Cobra Effect]]
-- [[Coverage Gate]]
+- [[Black-Box and White-Box Testing]]
 - [[Unreachable Code]]
-- [[Instrumentation]]
-- [[Module Graph]]
+- [[Modified Condition Decision Coverage]]
+- [[Pesticide Paradox]]
 - [[Regression]]
 - [[Test-Driven Development]]
 
