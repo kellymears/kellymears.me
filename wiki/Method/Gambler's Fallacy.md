@@ -30,4 +30,4 @@ Game designers exploit the feeling, using near-misses and variable rewards to ke
 ## See also
 - [[Monty Hall Problem]]
 - [[Radioactive Decay]]
-- [[Representativeness Heuristic]]
+- [[Normal Distribution]]

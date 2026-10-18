@@ -35,3 +35,5 @@ A useful habit when shown a correlation is to ask what else differs between the 
 - [[Survivorship Bias]]
 - [[Root Cause Analysis]]
 - [[Berkson's Paradox]]
+- [[Natural Experiment]]
+- [[Ecological Fallacy]]

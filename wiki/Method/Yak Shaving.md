@@ -21,3 +21,4 @@ The chain is sometimes literal: a [[Package Manager]] resolving a dependency of 
 - [[Rabbit Hole]]
 - [[Refactoring]]
 - [[Opportunity Cost]]
+- [[Ninety-Ninety Rule]]

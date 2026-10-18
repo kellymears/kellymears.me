@@ -16,11 +16,11 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 ## See also
 - [[Effect Size]]
 - [[Simpson's Paradox]]
-- [[Base Rate Fallacy]]
+- [[Natural Experiment]]
 - [[Berkson's Paradox]]
 - [[Spectrum-Based Fault Localization]]
 - [[P-Hacking]]
-- [[AB Testing]]
+- [[Ecological Fallacy]]
 
 ## Related
 - [[Regression to the Mean]]

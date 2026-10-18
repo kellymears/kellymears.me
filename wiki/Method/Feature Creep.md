@@ -16,7 +16,7 @@ The defense isn't refusing all requests — it's requiring that a new feature's 
 
 ## See also
 - [[Second-System Effect]]
-- [[Minimum Viable Product]]
+- [[You Aren't Gonna Need It]]
 - [[Technical Debt]]
 - [[Law of Triviality]]
 - [[Hick's Law]]
@@ -29,3 +29,4 @@ The defense isn't refusing all requests — it's requiring that a new feature's 
 - [[Persona]]
 - [[Power Creep]]
 - [[Opportunity Cost]]
+- [[Cone of Uncertainty]]

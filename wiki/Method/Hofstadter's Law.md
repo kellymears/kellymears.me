@@ -28,3 +28,4 @@ The law pairs naturally with [[Parkinson's Law]]: one says the work will take lo
 - [[Confidence Interval]]
 - [[Murphy's Law]]
 - [[Story Points]]
+- [[Ninety-Ninety Rule]]

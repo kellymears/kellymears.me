@@ -15,7 +15,7 @@ The practical use of the law is as a scheduling lever rather than a complaint: a
 
 ## See also
 - [[Hofstadter's Law]]
-- [[Minimum Viable Product]]
+- [[Ninety-Ninety Rule]]
 - [[Feature Creep]]
 - [[Second-System Effect]]
 - [[Time Blindness]]

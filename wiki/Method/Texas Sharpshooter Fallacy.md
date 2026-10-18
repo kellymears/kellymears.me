@@ -33,3 +33,4 @@ The fallacy pairs naturally with [[Confirmation Bias]] and [[Hindsight Bias]]: o
 - [[Streetlight Effect]]
 - [[Pareidolia]]
 - [[Golden Ratio]]
+- [[Multiple Comparisons Problem]]

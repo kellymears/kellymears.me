@@ -30,7 +30,7 @@ Normalization of deviance also explains why [[Hindsight Bias]] is so tempting af
 
 ## See also
 - [[Psychological Safety]]
-- [[Fault Tree Analysis]]
-- [[Chaos Engineering]]
+- [[Margin of Safety]]
+- [[Black Swan]]
 - [[Forcing Function]]
 - [[Checklist]]

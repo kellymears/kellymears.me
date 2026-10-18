@@ -30,3 +30,4 @@ The rule that survives: before writing "because X", run something that would tel
 - [[Bayes' Theorem]]
 - [[Confounding]]
 - [[Burden of Proof]]
+- [[Natural Experiment]]

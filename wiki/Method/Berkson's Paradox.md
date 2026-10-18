@@ -26,3 +26,4 @@ The practical defense is to ask how the cases in front of you got there. If the 
 - [[Streetlight Effect]]
 - [[Regression to the Mean]]
 - [[Randomized Controlled Trial]]
+- [[Ecological Fallacy]]

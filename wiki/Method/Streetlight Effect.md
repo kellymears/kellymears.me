@@ -20,3 +20,4 @@ Because the cause is instrumentation rather than laziness, the fix is rarely "lo
 - [[Inattentional Blindness]]
 - [[Statistical Power]]
 - [[Texas Sharpshooter Fallacy]]
+- [[Multiple Comparisons Problem]]

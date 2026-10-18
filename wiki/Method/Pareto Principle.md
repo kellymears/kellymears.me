@@ -28,6 +28,6 @@ Used well, the principle is a prompt to look for the vital few: find what produc
 - [[Zipf's Law]]
 - [[Fermi Estimation]]
 - [[Law of Triviality]]
-- [[Selection Bias]]
+- [[Ninety-Ninety Rule]]
 - [[Matthew Effect]]
 - [[Lindy Effect]]

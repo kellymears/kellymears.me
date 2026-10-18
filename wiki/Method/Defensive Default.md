@@ -16,7 +16,7 @@ A related shape is the defensive *guard*: a null check protecting against a stat
 
 ## See also
 - [[Fail Fast]]
-- [[Silent Failure]]
+- [[Margin of Safety]]
 - [[Environment Variable]]
 - [[Secret Management]]
 - [[Chesterton's Fence]]

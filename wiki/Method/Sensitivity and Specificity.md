@@ -20,7 +20,7 @@ Most tests have a threshold, and moving it trades one error for the other; where
 - [[Operationalization]]
 - [[Percentage Point]]
 - [[Monty Hall Problem]]
-- [[Falsifiability]]
+- [[Multiple Comparisons Problem]]
 - [[Truncation Bias]]
 - [[Bayes' Theorem]]
 - [[Precision and Recall]]

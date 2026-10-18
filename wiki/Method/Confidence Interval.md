@@ -33,3 +33,4 @@ Most people are badly calibrated with their own intervals. Asked for 90% ranges 
 - [[AB Testing]]
 - [[Randomized Controlled Trial]]
 - [[Regression to the Mean]]
+- [[Cone of Uncertainty]]

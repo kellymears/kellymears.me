@@ -14,7 +14,7 @@ The core discipline is naming the assumption being tested *before* deciding what
 MVP is often confused with "prototype" or "beta," but neither of those implies the same commitment to learning from real usage — a prototype can be thrown away after a demo, an MVP is supposed to generate data that changes the next decision. It's the practical expression of [[Gall's Law]] applied to product strategy: start with something that works at a small scale, and let the complex version grow from what that teaches you.
 
 ## See also
-- [[Gall's Law]]
+- [[You Aren't Gonna Need It]]
 - [[Feature Creep]]
 - [[Second-System Effect]]
 - [[Worse Is Better]]
@@ -29,3 +29,4 @@ MVP is often confused with "prototype" or "beta," but neither of those implies t
 - [[Persona]]
 - [[Satisficing]]
 - [[Design Thinking]]
+- [[Cone of Uncertainty]]

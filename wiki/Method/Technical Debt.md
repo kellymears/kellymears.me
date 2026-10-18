@@ -16,14 +16,14 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 ## See also
 - [[Deprecation]]
 - [[Documentation Rot]]
-- [[Code Review]]
+- [[You Aren't Gonna Need It]]
 - [[Root Cause Analysis]]
 - [[Feature Flag]]
 - [[Characterization Test]]
 
 ## Related
 - [[Architecture Decision Record]]
-- [[Naming]]
+- [[Ninety-Ninety Rule]]
 - [[Code Comment]]
 - [[Premature Optimization]]
 - [[Refactoring]]

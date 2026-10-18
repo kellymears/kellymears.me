@@ -27,5 +27,5 @@ Checklists also have failure modes. Ticking boxes without performing the checks 
 
 ## See also
 - [[Pre-mortem]]
-- [[Blameless Postmortem]]
+- [[Margin of Safety]]
 - [[Failure Mode and Effects Analysis]]

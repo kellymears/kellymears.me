@@ -24,3 +24,4 @@ The standard defenses are structural, matching the mechanism directly: preregist
 - [[Statistical Significance]]
 - [[Texas Sharpshooter Fallacy]]
 - [[Operationalization]]
+- [[Multiple Comparisons Problem]]

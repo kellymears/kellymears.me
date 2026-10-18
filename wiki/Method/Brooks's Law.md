@@ -29,3 +29,4 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Team Topologies]]
 - [[Theory of Constraints]]
 - [[Story Points]]
+- [[Ninety-Ninety Rule]]

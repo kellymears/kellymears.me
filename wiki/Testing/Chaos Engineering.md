@@ -29,6 +29,6 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 - [[Failure Mode and Effects Analysis]]
 - [[Load Testing]]
 - [[Risk-Based Testing]]
-- [[Failure Detection]]
+- [[Black Swan]]
 - [[Mean Time to Recovery]]
 - [[Murphy's Law]]

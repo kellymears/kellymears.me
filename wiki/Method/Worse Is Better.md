@@ -15,7 +15,7 @@ It sits directly behind [[Gall's Law]] and [[Minimum Viable Product]] as one mor
 
 ## See also
 - [[Gall's Law]]
-- [[Minimum Viable Product]]
+- [[You Aren't Gonna Need It]]
 - [[Postel's Law]]
 - [[Technical Debt]]
 - [[Unix Pipeline]]

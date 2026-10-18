@@ -23,3 +23,4 @@ Estimates also shape the work. Tasks expand to fit the time allowed; see [[Parki
 ## See also
 - [[Law of Triviality]]
 - [[Pair Programming]]
+- [[Ninety-Ninety Rule]]

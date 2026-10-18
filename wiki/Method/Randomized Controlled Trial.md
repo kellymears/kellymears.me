@@ -27,7 +27,7 @@ The same logic runs outside medicine. [[AB Testing]] is an RCT on a website, wit
 RCTs have limits. Some questions can't ethically be randomized, such as whether smoking causes cancer, so researchers rely on careful observational studies and natural experiments. Trial participants may differ from the people who'll eventually use a treatment, so results may not generalize. An average effect can hide groups who respond very differently, the territory of [[Simpson's Paradox]]. And trials measure what they measure: a well-chosen outcome can still be the wrong target, a version of [[Goodhart's Law]].
 
 ## See also
-- [[Regression to the Mean]]
+- [[Meta-Analysis]]
 - [[Statistical Power]]
 - [[Hawthorne Effect]]
 - [[Bayes' Theorem]]

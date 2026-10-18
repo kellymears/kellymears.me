@@ -22,3 +22,4 @@ The distortion is visible and quantifiable: meta-analyses use a funnel plot, whi
 - [[Statistical Significance]]
 - [[Effect Size]]
 - [[Berkson's Paradox]]
+- [[Meta-Analysis]]

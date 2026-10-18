@@ -29,7 +29,7 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Psychological Safety]]
 - [[Sunk Cost Fallacy]]
 - [[Failure Mode and Effects Analysis]]
-- [[Framing Effect]]
+- [[Black Swan]]
 - [[Pluralistic Ignorance]]
 - [[Architecture Decision Record]]
 - [[Checklist]]

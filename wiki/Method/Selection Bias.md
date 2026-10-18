@@ -13,11 +13,11 @@ The counterintuitive consequence is that a larger biased sample is not safer tha
 
 ## See also
 - [[Streetlight Effect]]
-- [[Fermi Estimation]]
+- [[Natural Experiment]]
 - [[Berkson's Paradox]]
 - [[Percentage Point]]
 - [[Automation Bias]]
-- [[Usability Testing]]
+- [[Ecological Fallacy]]
 - [[Reservoir Sampling]]
 - [[Randomized Controlled Trial]]
 - [[Train-Test Split]]

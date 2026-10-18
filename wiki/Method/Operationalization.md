@@ -28,3 +28,4 @@ Practical habits help. State the operational definition explicitly. Use several 
 - [[Sensitivity and Specificity]]
 - [[Confounding]]
 - [[Benchmarking]]
+- [[Ecological Fallacy]]

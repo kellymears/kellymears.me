@@ -18,7 +18,7 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 - [[Monad]]
 - [[Defensive Programming]]
 - [[Murphy's Law]]
-- [[Assertion]]
+- [[Margin of Safety]]
 - [[Human in the Loop]]
 - [[Design by Contract]]
 

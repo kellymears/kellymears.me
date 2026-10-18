@@ -29,3 +29,4 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Effect Size]]
 - [[Hawthorne Effect]]
 - [[Representativeness Heuristic]]
+- [[Normal Distribution]]

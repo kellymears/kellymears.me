@@ -34,7 +34,7 @@ Agile's success brought a backlash. The authors meant the manifesto as a set of 
 Agile's ideas fed into later movements. DevOps extended the feedback loop past development into operations, and [[Continuous Deployment]] took small releases to their limit. [[DORA Metrics]] research gave evidence that small batches and fast feedback predict better outcomes. [[Conway's Law]] adds a caution: no process fixes a team structure that fights the architecture.
 
 ## See also
-- [[Brooks's Law]]
+- [[Cone of Uncertainty]]
 - [[Hofstadter's Law]]
 - [[Story Points]]
 - [[DevOps]]

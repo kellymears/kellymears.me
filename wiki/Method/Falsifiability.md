@@ -19,7 +19,7 @@ It also disciplines prose. "This cast is required because the checker demands it
 - [[Burden of Proof]]
 - [[Coverage Gate]]
 - [[Statistical Significance]]
-- [[Exhaustive Claim]]
+- [[Black Swan]]
 - [[Safety Case]]
 
 ## Related

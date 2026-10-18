@@ -17,7 +17,7 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 - [[Decision Tree]]
 - [[Double Descent]]
 - [[Regression to the Mean]]
-- [[Root Cause Analysis]]
+- [[Multiple Comparisons Problem]]
 - [[Reward Hacking]]
 
 ## Related

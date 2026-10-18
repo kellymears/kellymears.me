@@ -31,7 +31,7 @@ A [[Pre-mortem]] turns the effect into a tool, borrowing the clarity of hindsigh
 
 ## See also
 - [[Five Whys]]
-- [[Architecture Decision Record]]
+- [[Black Swan]]
 - [[Sunk Cost Fallacy]]
 - [[Hanlon's Razor]]
 - [[Just-World Hypothesis]]

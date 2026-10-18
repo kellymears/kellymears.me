@@ -34,3 +34,4 @@ The law has practical uses in computing:
 - [[Linguistic Relativity]]
 - [[Fractal]]
 - [[Hot Partition]]
+- [[Normal Distribution]]

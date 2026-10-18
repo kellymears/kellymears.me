@@ -22,6 +22,6 @@ As a description of luck, it is false, and the reason it feels true is instructi
 Many corollaries have accumulated, mostly as humor. **Finagle's law** adds that things will go wrong at the worst possible moment. Others are close to [[Hofstadter's Law]]: everything takes longer than expected. Serious or not, they share a stance that makes systems more reliable: plan for failure as the normal case, not the exception; see [[Pre-mortem]].
 
 ## See also
-- [[Silent Failure]]
+- [[Margin of Safety]]
 - [[Hanlon's Razor]]
-- [[Planning Fallacy]]
+- [[Black Swan]]

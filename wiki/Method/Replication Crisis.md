@@ -23,7 +23,7 @@ The causes were mostly not fraud but ordinary incentives and methods:
 The reforms are mostly about committing in advance. **Preregistration** records hypotheses and analysis plans before data collection. **Registered reports** have journals accept a study on its design before results exist, removing the reward for positive findings. Larger samples, multi-lab collaborations, open data, and routine replication are now far more common. The underlying lesson is about [[Falsifiability]]: a claim earns trust by surviving attempts to break it, not by appearing once in print. [[AB Testing]] in industry faces the same pitfalls on a smaller scale, and [[Regression to the Mean]] explains why surprising first results usually come back smaller.
 
 ## See also
-- [[Train-Test Split]]
+- [[Meta-Analysis]]
 - [[Processing Fluency]]
 - [[Priming]]
 - [[Open Data]]

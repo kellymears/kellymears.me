@@ -25,3 +25,4 @@ The method fails where its assumptions do. Heavy-tailed quantities have no typic
 - [[Planning Fallacy]]
 - [[Bayes' Theorem]]
 - [[Confidence Interval]]
+- [[Cone of Uncertainty]]
