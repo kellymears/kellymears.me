@@ -34,3 +34,4 @@ Averages hide the experience. A system that is usually fast but occasionally tak
 - [[Skeleton Screen]]
 - [[Optimistic UI]]
 - [[Flow]]
+- [[Peak-End Rule]]

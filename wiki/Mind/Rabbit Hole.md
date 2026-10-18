@@ -14,7 +14,7 @@ Hypertext is built for rabbit holes. A [[Wiki]] in particular turns every concep
 
 Rabbit holes are worth distinguishing from two neighbors:
 
-- **[[Yak Shaving]]** is a chain of *prerequisites*. Each step is needed for the one before it, and the original goal is still the point. A rabbit hole is a chain of *curiosity*, and the original goal often stops mattering.
+- **[[Yak Shaving]]** is a chain of *prerequisites*. Each step is needed for the one before it, and the original goal is still the point. A rabbit hole is a chain of *[[Curiosity|curiosity]]*, and the original goal often stops mattering.
 - **[[Doomscrolling]]** is a feed that delivers the next item without any choice. A rabbit hole involves active choosing at every step, which is why it feels like learning, and often is.
 
 Rabbit holes interact strongly with attention style. Interest-led attention, as in [[Monotropism]] and [[Hyperfocus]], makes the descent effortless and the exit hard, and [[Time Blindness]] hides how long it lasted. The same chain that eats an afternoon also produces deep expertise, since many specialists describe their field as a rabbit hole that never ended.
@@ -24,7 +24,6 @@ Recommendation systems have industrialized a darker variant, where each suggesti
 The practical skill is entering on purpose. A rabbit hole entered deliberately, with time set aside for it, is one of the best things the web offers. One fallen into an hour before a deadline is not.
 
 ## See also
-- [[Hyperfocus]]
 - [[Yak Shaving]]
 - [[Wiki]]
 - [[Zettelkasten]]

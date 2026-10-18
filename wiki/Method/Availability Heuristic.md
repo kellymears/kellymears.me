@@ -24,3 +24,4 @@ The corrective is the same move [[Fermi Estimation]] makes explicit: force yours
 ## Related
 - [[Survivorship Bias]]
 - [[Availability Cascade]]
+- [[Von Restorff Effect]]

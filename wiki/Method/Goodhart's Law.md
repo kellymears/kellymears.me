@@ -29,3 +29,4 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 - [[Silent Failure]]
 - [[Schema Validation]]
 - [[DORA Metrics]]
+- [[Self-Determination Theory]]

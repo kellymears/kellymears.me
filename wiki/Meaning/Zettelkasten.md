@@ -29,3 +29,4 @@ The modern practice adds tooling — automatic [[Backlink]]s, graph views, full-
 - [[Documentation Rot]]
 - [[Naming]]
 - [[Search Engine Optimization]]
+- [[Desirable Difficulty]]

@@ -25,3 +25,4 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 ## Related
 - [[Availability Heuristic]]
 - [[Selection Bias]]
+- [[False Memory]]

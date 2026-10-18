@@ -20,3 +20,5 @@ There's a second, subtler curve worth separating from the authored one: the play
 - [[Boss Rush]]
 - [[Flow]]
 - [[Yerkes-Dodson Law]]
+- [[Peak-End Rule]]
+- [[Desirable Difficulty]]

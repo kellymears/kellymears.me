@@ -30,3 +30,4 @@ For people whose [[Working Memory]] is already loaded, [[Extended Mind|offloadin
 - [[Chekhov's Gun]]
 - [[Publication Bias]]
 - [[Procrastination]]
+- [[Rumination]]

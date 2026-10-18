@@ -19,3 +19,4 @@ The concept is often overstated into "money can't buy happiness," which the orig
 - [[Doomscrolling]]
 - [[Polarized Training]]
 - [[Reward Prediction Error]]
+- [[Peak-End Rule]]

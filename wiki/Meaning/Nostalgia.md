@@ -16,3 +16,5 @@ Nostalgia is worth distinguishing from simple sentimentality about old things an
 - [[Cultural Cringe]]
 - [[Parasocial Relationship]]
 - [[Terror Management Theory]]
+- [[Context-Dependent Memory]]
+- [[False Memory]]
