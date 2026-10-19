@@ -25,5 +25,5 @@ Counting photons sets practical limits. In dim light, a camera pixel collects fe
 Rendering programs that trace light, such as photon mapping, simulate photons as particles bouncing through a scene; see [[Caustics]].
 
 ## See also
-- [[Polarized Light]]
-- [[Inverse-Square Law]]
+- [[Black Hole]]
+- [[Bioluminescence]]

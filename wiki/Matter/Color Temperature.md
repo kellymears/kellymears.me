@@ -27,7 +27,7 @@ Color temperature also matters for the body. Cooler, bluer light at night delays
 - [[Dispersion]]
 - [[Tone Mapping]]
 - [[Rayleigh Scattering]]
-- [[Inverse-Square Law]]
+- [[Big Bang]]
 - [[Fluorescence]]
 - [[Combustion]]
 - [[Absolute Zero]]

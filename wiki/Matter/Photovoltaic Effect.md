@@ -30,5 +30,5 @@ The same physics runs in reverse in an LED, where current produces light, and in
 - [[Quantum Tunneling]]
 - [[Photon]]
 - [[Thermoelectric Effect]]
-- [[Laser]]
+- [[Eclipse]]
 - [[Electrolysis]]

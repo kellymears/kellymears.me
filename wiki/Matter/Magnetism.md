@@ -29,7 +29,7 @@ Magnetic forces also shape light: certain materials rotate the plane of [[Polari
 
 ## See also
 - [[Hysteresis]]
-- [[Pigeon Post]]
-- [[Aurora]]
+- [[Plate Tectonics]]
+- [[Gyroscope]]
 - [[Steel]]
 - [[Telegraph]]

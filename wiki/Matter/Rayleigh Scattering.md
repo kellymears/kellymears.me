@@ -29,5 +29,5 @@ Graphics programmers simulate atmospheric scattering to render skies, sunsets, a
 ## See also
 - [[Rainbow]]
 - [[Colloid]]
-- [[Greenhouse Effect]]
+- [[Eclipse]]
 - [[Volumetric Lighting]]

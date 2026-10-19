@@ -19,7 +19,7 @@ The vestibular system drives the **vestibulo-ocular reflex (VOR)**: eye movement
 - [[Referred Pain]]
 - [[Motion Sickness]]
 - [[Vertigo]]
-- [[Angular Momentum]]
+- [[Gyroscope]]
 - [[Ankle Sprain]]
 - [[Centripetal Force]]
 - [[Hearing Loss]]

@@ -22,7 +22,7 @@ Two common devices are not refrigeration at all. An evaporative cooler lowers ai
 - [[Thermoelectric Effect]]
 - [[Latent Heat]]
 - [[Boiling Point]]
-- [[Entropy]]
+- [[Heat Pump]]
 - [[Conservation of Energy]]
 - [[Dew Point]]
 - [[Ideal Gas Law]]

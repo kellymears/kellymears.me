@@ -23,7 +23,7 @@ Surfaces don't brown, because evaporating water holds them near the [[Boiling Po
 The 2.4 GHz band is shared with [[Wi-Fi]] and Bluetooth, so a leaky microwave oven can disrupt nearby wireless connections while it runs. Induction cooktops heat differently, through currents set up in the pan by [[Electromagnetic Induction]].
 
 ## See also
-- [[Specific Heat Capacity]]
+- [[Big Bang]]
 - [[Faraday Cage]]
 - [[Radio Spectrum]]
 - [[Ionizing Radiation]]

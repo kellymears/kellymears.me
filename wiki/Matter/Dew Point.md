@@ -33,7 +33,7 @@ Condensation explains many everyday puzzles:
 Dew forms on clear, still nights because surfaces lose heat by radiation to the open sky, a form of [[Heat Transfer]], and cool below the air around them.
 
 ## See also
-- [[Latent Heat]]
+- [[Heat Pump]]
 - [[Phase Transition]]
 - [[Nucleation]]
 - [[Ideal Gas Law]]

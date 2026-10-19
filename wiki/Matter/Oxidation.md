@@ -32,7 +32,7 @@ Controlled redox reactions power the modern world. A [[Lithium-Ion Battery]] sto
 
 ## See also
 - [[Combustion]]
-- [[Lithium-Ion Battery]]
+- [[Bioluminescence]]
 - [[Electromigration]]
 - [[Maillard Reaction]]
 - [[Material Fatigue]]

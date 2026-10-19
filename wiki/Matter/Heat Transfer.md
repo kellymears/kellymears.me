@@ -24,6 +24,6 @@ Electronics fight the same battle. A chip conducts heat into a metal heat spread
 ## See also
 - [[Shock Wave]]
 - [[Thermoelectric Effect]]
-- [[Fourier Transform]]
+- [[Plate Tectonics]]
 - [[Seasons]]
-- [[Greenhouse Effect]]
+- [[Heat Pump]]

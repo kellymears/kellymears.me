@@ -26,3 +26,4 @@ Torque is easy to confuse with work, since both share units that reduce to the s
 - [[Magnetism]]
 - [[Rigid Body Dynamics]]
 - [[Lever]]
+- [[Gyroscope]]

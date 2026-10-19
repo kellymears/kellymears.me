@@ -25,3 +25,4 @@ A tumbling body, no matter how it's thrown, always rotates about its own center 
 - [[Rigid Body Dynamics]]
 - [[Gravity]]
 - [[Lever]]
+- [[Lagrange Point]]

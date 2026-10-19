@@ -37,7 +37,7 @@ Einstein's E = mc² extended the law to include mass as a form of energy, which 
 
 ## See also
 - [[Siphon]]
-- [[Nuclear Fission]]
-- [[Nuclear Fusion]]
+- [[Escape Velocity]]
+- [[Heat Pump]]
 - [[Sankey Diagram]]
 - [[Lever]]

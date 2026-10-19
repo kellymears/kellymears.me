@@ -29,7 +29,7 @@ International Atomic Time combines clocks from labs around the world, each corre
 
 ## See also
 - [[Newton's Laws of Motion]]
-- [[Electromagnetic Spectrum]]
+- [[Black Hole]]
 - [[Inertial Measurement Unit]]
 - [[Thought Experiment]]
 - [[Single-Event Upset]]

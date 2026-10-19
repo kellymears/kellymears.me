@@ -31,6 +31,6 @@ Graphics usually pretends lenses don't exist, imagining a perfect pinhole camera
 
 ## See also
 - [[Lens Flare]]
-- [[Hubble Mirror Flaw]]
-- [[Image Sensor]]
+- [[Black Hole]]
+- [[Eclipse]]
 - [[Microfilm]]

@@ -27,7 +27,7 @@ In electronics, thermal mass buys time rather than capacity. A heavy heatsink ab
 - [[Freezing Point Depression]]
 - [[Hydrogen Bond]]
 - [[Seasons]]
-- [[Boiling Point]]
+- [[Heat Pump]]
 - [[Absolute Zero]]
 - [[Microwave Heating]]
 - [[Greenhouse Effect]]

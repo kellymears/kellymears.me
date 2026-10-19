@@ -25,3 +25,6 @@ Tides can be harnessed. The La Rance plant in France has generated electricity f
 - [[Centripetal Force]]
 - [[Inertial Frame of Reference]]
 - [[Seasons]]
+- [[Lagrange Point]]
+- [[Black Hole]]
+- [[Eclipse]]

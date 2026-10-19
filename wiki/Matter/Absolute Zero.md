@@ -27,3 +27,4 @@ Absolute zero also anchors engine efficiency. The best possible heat engine turn
 ## See also
 - [[Phase Transition]]
 - [[Color Temperature]]
+- [[Big Bang]]

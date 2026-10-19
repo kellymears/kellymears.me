@@ -29,10 +29,10 @@ Rotation also creates artificial gravity. **Centrifuges** spin samples so the ef
 Roller coaster loops are teardrop-shaped rather than circular so that the force on riders changes gradually instead of spiking at the bottom. Spinning objects carry [[Angular Momentum]], which resists changes to their axis.
 
 ## See also
-- [[Newton's Laws of Motion]]
+- [[Escape Velocity]]
 - [[Friction]]
-- [[Inertial Frame of Reference]]
-- [[Angular Momentum]]
+- [[Lagrange Point]]
+- [[Gyroscope]]
 - [[Bicycle Stability]]
 - [[Coriolis Effect]]
 - [[Gravity]]

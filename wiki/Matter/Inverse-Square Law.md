@@ -27,8 +27,8 @@ Rendering engines once used linear or artistic falloff curves for lights, which 
 
 ## See also
 - [[Seasons]]
-- [[Orbit]]
-- [[Gravity]]
+- [[Black Hole]]
+- [[Escape Velocity]]
 - [[Reverberation]]
 - [[Hearing Loss]]
 - [[Antenna]]

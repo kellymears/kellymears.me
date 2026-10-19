@@ -26,6 +26,6 @@ In cooking, latent heat caps the temperature of anything wet at about 100 °C un
 
 ## See also
 - [[Chocolate Tempering]]
-- [[Absolute Zero]]
+- [[Heat Pump]]
 - [[Freezing Point Depression]]
 - [[Entropy]]

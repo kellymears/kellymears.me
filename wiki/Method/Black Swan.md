@@ -29,7 +29,7 @@ Critics argue that the label gets applied to events that were foreseeable and si
 
 ## See also
 - [[Normal Accidents]]
-- [[Superforecasting]]
+- [[Earthquake]]
 - [[Speculative Bubble]]
 - [[Anomaly Detection]]
 - [[Outlier]]

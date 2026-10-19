@@ -17,7 +17,7 @@ Viscosity is strongly temperature-dependent for most liquids, generally dropping
 - [[Thermal Expansion]]
 - [[Terminal Velocity]]
 - [[Colloid]]
-- [[Emulsion]]
+- [[Plate Tectonics]]
 - [[Starch Gelatinization]]
 - [[Non-Newtonian Fluid]]
 - [[Bernoulli's Principle]]

@@ -24,5 +24,5 @@ In each case, knowing the present input isn't enough to predict the state; you a
 
 ## See also
 - [[Material Fatigue]]
-- [[Resonance]]
+- [[Plate Tectonics]]
 - [[Gray Code]]

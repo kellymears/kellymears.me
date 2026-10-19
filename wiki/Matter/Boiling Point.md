@@ -28,7 +28,7 @@ Refrigeration relies on boiling at the other extreme. A [[Vapor-Compression Refr
 - [[Altitude Sickness]]
 - [[Cavitation]]
 - [[Freezing Point Depression]]
-- [[Solubility]]
+- [[Heat Pump]]
 - [[Superconductivity]]
 - [[Hydrogen Bond]]
 - [[Microwave Heating]]

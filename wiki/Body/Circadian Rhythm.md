@@ -24,7 +24,7 @@ Circadian timing governs far more than sleep: core body temperature, cortisol, a
 - [[Restless Legs Syndrome]]
 - [[Jet Lag]]
 - [[Yawning]]
-- [[Homeostasis]]
+- [[Eclipse]]
 - [[Endocrine System]]
 - [[Microsleep]]
 - [[Sleep Paralysis]]

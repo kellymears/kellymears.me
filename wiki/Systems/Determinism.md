@@ -26,7 +26,7 @@ Where full determinism is not achievable, the fallback is to isolate the non-det
 ## Related
 - [[Numerical Stability]]
 - [[Reproducible Case]]
-- [[Floating-Point Arithmetic]]
+- [[Lagrange Point]]
 - [[Reproducible Build]]
 - [[Pseudorandom Number Generator]]
 - [[Spreadsheet]]

@@ -30,8 +30,8 @@ The system was built for the US military and opened fully to civilian accuracy i
 ## See also
 - [[Data Broker]]
 - [[Pigeon Post]]
-- [[Aurora]]
+- [[Gyroscope]]
 - [[Time Dilation]]
 - [[Spread Spectrum]]
 - [[Geospatial Data]]
-- [[Inertial Measurement Unit]]
+- [[Plate Tectonics]]

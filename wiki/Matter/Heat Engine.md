@@ -32,3 +32,4 @@ Not every engine is a heat engine. An electric motor converts electrical energy 
 - [[Thermoelectric Effect]]
 - [[Nuclear Fission]]
 - [[Absolute Zero]]
+- [[Heat Pump]]

@@ -32,3 +32,4 @@ Light has an analogue. Nothing outruns light in a vacuum, but in water it slows 
 - [[Bernoulli's Principle]]
 - [[Reynolds Number]]
 - [[Nuclear Fission]]
+- [[Earthquake]]

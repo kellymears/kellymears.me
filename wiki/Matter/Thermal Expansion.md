@@ -12,7 +12,7 @@ Different materials expand at markedly different rates, described by a **coeffic
 Water is the well-known exception near its freezing point: it contracts as it cools from higher temperatures like most substances, but between 4°C and 0°C it expands again as it approaches freezing, because hydrogen bonding starts organizing molecules into the more open lattice structure ice will fully adopt. That anomaly is why ice floats, why lakes freeze from the top down rather than the bottom up, and why aquatic life can survive winter beneath a frozen surface instead of the whole body of water solidifying uniformly.
 
 ## See also
-- [[Viscosity]]
+- [[Plate Tectonics]]
 - [[Vapor-Compression Refrigeration]]
 - [[Buoyancy]]
 - [[Carryover Cooking]]

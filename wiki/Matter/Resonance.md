@@ -31,4 +31,4 @@ The human body has resonances too. Vertical motion at around 0.2 cycles per seco
 - [[Tide]]
 - [[Timbre]]
 - [[Hearing Loss]]
-- [[Haptic Feedback]]
+- [[Earthquake]]

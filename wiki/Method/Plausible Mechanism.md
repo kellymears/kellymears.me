@@ -25,7 +25,7 @@ The rule that survives: before writing "because X", run something that would tel
 
 ## Related
 - [[Bradford Hill Criteria]]
-- [[Chesterton's Fence]]
+- [[Plate Tectonics]]
 - [[Muscle Cramp]]
 - [[Bayes' Theorem]]
 - [[Confounding]]

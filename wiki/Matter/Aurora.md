@@ -31,4 +31,4 @@ The largest storm on record, the **Carrington Event** of September 1859, followe
 - [[Amateur Radio]]
 - [[Spectroscopy]]
 - [[Single-Event Upset]]
-- [[Ionizing Radiation]]
+- [[Lagrange Point]]

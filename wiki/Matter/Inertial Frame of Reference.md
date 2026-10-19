@@ -17,9 +17,9 @@ Acceleration breaks the symmetry. A frame that speeds up, brakes or turns is non
 ## See also
 - [[Inertial Measurement Unit]]
 - [[Pascal's Principle]]
-- [[Time Zone]]
+- [[Lagrange Point]]
 - [[Time Dilation]]
-- [[Fermi Estimation]]
+- [[Gyroscope]]
 - [[Angular Momentum]]
 - [[Quaternion]]
 - [[Newton's Laws of Motion]]

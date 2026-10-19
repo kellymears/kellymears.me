@@ -27,3 +27,4 @@ The limits come from thermodynamics and materials. No heat-to-electricity conver
 - [[Hall Effect]]
 - [[Piezoelectric Effect]]
 - [[Photovoltaic Effect]]
+- [[Heat Pump]]

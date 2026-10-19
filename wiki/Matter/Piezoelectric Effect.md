@@ -29,4 +29,4 @@ Related effects form a family. **Pyroelectric** crystals produce a voltage when 
 - [[Hall Effect]]
 - [[Real-Time Clock]]
 - [[Atomic Clock]]
-- [[Haptic Feedback]]
+- [[Earthquake]]

@@ -27,3 +27,5 @@ The engineering problems remain hard: fast neutrons damage the reactor walls and
 ## See also
 - [[Photon]]
 - [[Ionizing Radiation]]
+- [[Black Hole]]
+- [[Big Bang]]

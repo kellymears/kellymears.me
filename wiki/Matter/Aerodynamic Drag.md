@@ -27,6 +27,6 @@ Drag also sets [[Terminal Velocity]]: a falling object stops accelerating once d
 - [[Magnus Effect]]
 - [[Shock Wave]]
 - [[Center of Mass]]
-- [[Cadence]]
+- [[Escape Velocity]]
 - [[Work and Power]]
 - [[Bernoulli's Principle]]

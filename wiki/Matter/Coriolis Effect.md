@@ -28,6 +28,6 @@ Weather and ballistics simulations include the term. Most game engines leave it 
 ## See also
 - [[Seasons]]
 - [[Map Projection]]
-- [[Bernoulli's Principle]]
-- [[Tide]]
+- [[Lagrange Point]]
+- [[Gyroscope]]
 - [[Inertial Measurement Unit]]

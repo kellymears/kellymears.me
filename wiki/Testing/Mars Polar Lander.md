@@ -32,3 +32,4 @@ NASA's subsequent Mars landers, including Phoenix, which reused hardware designe
 ## See also
 - [[Hubble Mirror Flaw]]
 - [[Failure Mode and Effects Analysis]]
+- [[Escape Velocity]]

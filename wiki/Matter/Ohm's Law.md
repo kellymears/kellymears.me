@@ -32,7 +32,7 @@ The energy lost to resistance doesn't vanish; it becomes heat, as [[Conservation
 - [[Hall Effect]]
 - [[Superconductivity]]
 - [[Capacitor]]
-- [[Alternating Current]]
+- [[Heat Pump]]
 - [[Electrostatic Discharge]]
 - [[Lightning]]
 - [[Electrolysis]]

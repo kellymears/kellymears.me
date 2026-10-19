@@ -30,7 +30,7 @@ Fatigue has close relatives elsewhere. Chips wear out from [[Electromigration]],
 ## See also
 - [[Non-Destructive Testing]]
 - [[Bicycle Stability]]
-- [[Stress Fracture]]
+- [[Earthquake]]
 - [[Cavitation]]
 - [[Work Hardening]]
 - [[Hysteresis]]

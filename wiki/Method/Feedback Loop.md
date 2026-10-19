@@ -40,5 +40,5 @@ Many surprises in policy and engineering are loops nobody drew; see [[Second-Ord
 
 ## See also
 - [[OODA Loop]]
-- [[PDCA Cycle]]
+- [[Lagrange Point]]
 - [[Nuclear Fission]]

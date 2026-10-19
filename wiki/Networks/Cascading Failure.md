@@ -31,7 +31,7 @@ Defenses aim to break the feedback loops:
 These failures appear only under real load and coupling. Deliberately injecting faults in production-like conditions exposes them; see [[Chaos Engineering]]. The underlying lesson matches [[Fallacies of Distributed Computing]]: networks and dependencies fail, and a design that assumes otherwise turns a local fault into a global one.
 
 ## See also
-- [[Backpressure]]
+- [[Earthquake]]
 - [[Kernel Panic]]
 - [[Normal Accidents]]
 - [[Orbit]]

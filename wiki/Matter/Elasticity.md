@@ -30,8 +30,8 @@ The body exploits elasticity constantly. The Achilles tendon stretches on landin
 ## See also
 - [[Non-Newtonian Fluid]]
 - [[Work Hardening]]
-- [[Bicycle Stability]]
-- [[Iliotibial Band Syndrome]]
+- [[Earthquake]]
+- [[Plate Tectonics]]
 - [[Hysteresis]]
 - [[Timbre]]
 - [[Presbyopia]]

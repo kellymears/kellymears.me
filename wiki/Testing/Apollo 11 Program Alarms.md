@@ -30,3 +30,4 @@ The episode is a reminder that robustness lies partly in software that expects t
 ## See also
 - [[Mars Pathfinder Priority Inversion]]
 - [[Context Switch]]
+- [[Gyroscope]]

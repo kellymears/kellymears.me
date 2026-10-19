@@ -25,11 +25,11 @@ Bicycles are often explained by the gyroscopic effect of their wheels, but that 
 Wheels carry rotational inertia as well as ordinary inertia, so lighter rims do take slightly less energy to speed up, though the effect is small next to [[Aerodynamic Drag]] and [[Rolling Resistance]] at steady speed. Physics simulations in games and the [[Inertial Frame of Reference]] used to describe them both have to account for rotation, and errors in angular momentum are a classic source of objects spinning wildly in a game engine.
 
 ## See also
-- [[Tide]]
+- [[Escape Velocity]]
 - [[Magnus Effect]]
 - [[Lever]]
 - [[Rigid Body Dynamics]]
 - [[Seasons]]
-- [[Centripetal Force]]
+- [[Gyroscope]]
 - [[Bicycle Stability]]
 - [[Inertial Measurement Unit]]

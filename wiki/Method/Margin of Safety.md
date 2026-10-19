@@ -34,3 +34,4 @@ Margins also have costs: extra weight, idle capacity, slower schedules. Choosing
 - [[Reversible Decision]]
 - [[Expected Value]]
 - [[Inversion]]
+- [[Earthquake]]
