@@ -31,6 +31,6 @@ Limits and criticisms:
 Contracts sit alongside other data reliability practices: tracing where data came from and where it flows ([[Data Lineage]]), cleaning what arrives ([[Data Cleaning]]), and versioning schemas deliberately ([[Schema Evolution]]).
 
 ## See also
-- [[Data Dictionary]]
+- [[Reference Data]]
 - [[Data Governance]]
 - [[Data Mesh]]

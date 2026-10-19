@@ -32,4 +32,4 @@ The pattern accepts that distributed systems can't make several services behave 
 - [[Distributed Lock]]
 - [[Idempotence]]
 - [[Idempotency Key]]
-- [[Message Queue]]
+- [[Two-Phase Locking]]

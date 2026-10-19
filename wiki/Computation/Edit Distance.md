@@ -31,8 +31,8 @@ Edit distance has limits. A purely textual diff doesn't know what code means, so
 
 ## See also
 - [[Suffix Array]]
-- [[Burrows-Wheeler Transform]]
+- [[Phonetic Algorithm]]
 - [[Stemming and Lemmatization]]
 - [[String-Searching Algorithm]]
 - [[Geocoding]]
-- [[Autocomplete]]
+- [[Transliteration]]

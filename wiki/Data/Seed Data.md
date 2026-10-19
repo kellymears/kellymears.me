@@ -32,5 +32,5 @@ Two lessons repeat.
 - [[Empty State]]
 - [[Test Data Builder]]
 - [[CSV]]
-- [[Personal Data]]
+- [[Reference Data]]
 - [[Stored Procedure]]

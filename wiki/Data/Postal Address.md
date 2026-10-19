@@ -33,6 +33,6 @@ Mail that can't be delivered goes to a dead letter office, a name software borro
 People without a fixed address, including those who are homeless, often struggle to open bank accounts or receive benefits, a reminder that the field encodes who a system assumes its users are.
 
 ## See also
-- [[Collation]]
-- [[Fixed-Width File]]
-- [[Date Picker]]
+- [[Phonetic Algorithm]]
+- [[Country Code]]
+- [[Phone Number]]

@@ -40,7 +40,7 @@ Isolation is a single-database concern. Across replicas, the analogous guarantee
 
 ## See also
 - [[ACID]]
-- [[Multiversion Concurrency Control]]
+- [[Two-Phase Locking]]
 - [[Optimistic Locking]]
 - [[Pessimistic Locking]]
 - [[Linearizability Checking]]

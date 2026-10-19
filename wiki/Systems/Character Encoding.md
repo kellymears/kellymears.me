@@ -16,7 +16,7 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 
 ## See also
 - [[ANSI Escape Code]]
-- [[Mojibake]]
+- [[Personal Name]]
 - [[Emoji]]
 - [[ASCII Art]]
 - [[Text Editor]]
@@ -25,8 +25,8 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 ## Related
 - [[Endianness]]
 - [[Glob]]
-- [[Teleprinter]]
+- [[Language Tag]]
 - [[Base64]]
 - [[Stemming and Lemmatization]]
-- [[Collation]]
+- [[Transliteration]]
 - [[Byte-Pair Encoding]]

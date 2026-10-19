@@ -33,5 +33,5 @@ Two practical cautions.
 - [[Web Search Engine]]
 - [[Ontology]]
 - [[IndieWeb]]
-- [[Metadata]]
+- [[Linked Data]]
 - [[Open Data]]

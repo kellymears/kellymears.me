@@ -22,3 +22,4 @@ Its characteristic failure mode is the **deadlock**: transaction A holds a lock 
 - [[Perforce]]
 - [[Bitmap Index]]
 - [[File Locking]]
+- [[Two-Phase Locking]]

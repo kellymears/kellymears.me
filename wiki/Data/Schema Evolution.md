@@ -34,5 +34,5 @@ Schema evolution is the deliberate counterpart to [[Schema Drift]], where the sh
 ## See also
 - [[API Versioning]]
 - [[Entity-Attribute-Value]]
-- [[Data Contract]]
+- [[Reference Data]]
 - [[GraphQL]]

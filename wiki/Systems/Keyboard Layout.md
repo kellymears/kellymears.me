@@ -22,4 +22,5 @@ Programmable keyboards push layouts into hardware. Their firmware can remap any 
 
 ## See also
 - [[Pseudoterminal]]
-- [[Dotfiles]]
+- [[Transliteration]]
+- [[Language Tag]]

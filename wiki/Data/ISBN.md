@@ -26,3 +26,4 @@ Unlike a web link, an ISBN does not point anywhere; it is a name, and resolving 
 ## See also
 - [[Error-Correcting Code]]
 - [[Database Constraint]]
+- [[Country Code]]

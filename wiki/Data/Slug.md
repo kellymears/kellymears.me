@@ -29,5 +29,5 @@ Slugs carry modest weight for search engines, mostly through the words they show
 Static sites often derive slugs from file names or set them in each page's metadata; see [[Frontmatter]] and [[Static Site Generation]]. Picking a slug is a small act of naming, with the same trade-off between clarity and permanence; see [[Naming]].
 
 ## See also
-- [[Information Architecture]]
-- [[Sitemap]]
+- [[Personal Name]]
+- [[Transliteration]]

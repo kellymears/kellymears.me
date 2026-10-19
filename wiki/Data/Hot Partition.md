@@ -27,6 +27,6 @@ The problem appears in batch and stream processing as **data skew**. A job that 
 Hot partitions are easy to miss with averages. Average load across the cluster looks moderate, while requests touching the hot node are slow or throttled, which shows up in the [[Tail Latency]]. Monitoring per partition, and per key where possible, makes them visible. Write contention on a single hot row has the same shape inside one database, as transactions queue for its lock; see [[Pessimistic Locking]].
 
 ## See also
-- [[Load Balancing]]
+- [[Two-Phase Locking]]
 - [[Wide-Column Store]]
 - [[Database Partitioning]]

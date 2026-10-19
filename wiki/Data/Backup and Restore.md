@@ -35,4 +35,4 @@ Backups also carry obligations. They contain the same sensitive data as producti
 - [[Hard Link]]
 - [[Hard Disk Drive]]
 - [[Data Sovereignty]]
-- [[Data Deduplication]]
+- [[Internet Archive]]

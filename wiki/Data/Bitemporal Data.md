@@ -35,3 +35,5 @@ Related patterns approach the same problem differently. [[Event Sourcing]] store
 - [[Unix Time]]
 - [[Change Data Capture]]
 - [[Date Picker]]
+- [[Country Code]]
+- [[Reference Data]]

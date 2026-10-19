@@ -29,4 +29,4 @@ Requiring MFA through a central identity provider covers many applications at on
 
 ## See also
 - [[Password Manager]]
-- [[Data Breach]]
+- [[Phone Number]]

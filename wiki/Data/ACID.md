@@ -13,7 +13,7 @@ ACID is a single-node concept at heart — it describes what one database's tran
 
 ## See also
 - [[Distributed SQL]]
-- [[Two-Phase Commit]]
+- [[Two-Phase Locking]]
 - [[Eventual Consistency]]
 - [[Write-Ahead Logging]]
 - [[Saga Pattern]]

@@ -29,4 +29,4 @@ Static site generators typically produce sitemaps automatically at build time, f
 
 ## See also
 - [[Slug]]
-- [[Web Search Engine]]
+- [[Language Tag]]

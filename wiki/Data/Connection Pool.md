@@ -27,7 +27,7 @@ The pattern is general: thread pools, HTTP keep-alive, and object pools in games
 - [[Serverless Computing]]
 - [[Semaphore]]
 - [[N+1 Query Problem]]
-- [[Circuit Breaker]]
+- [[Two-Phase Locking]]
 - [[Rate Limiting]]
 - [[Thundering Herd]]
 - [[Queueing Theory]]

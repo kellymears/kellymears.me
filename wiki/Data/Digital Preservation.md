@@ -36,7 +36,7 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 - [[Software Heritage]]
 - [[GIF]]
 - [[SQLite]]
-- [[ZFS]]
+- [[Internet Archive]]
 - [[Hard Disk Drive]]
 - [[Optical Character Recognition]]
 - [[Sneakernet]]

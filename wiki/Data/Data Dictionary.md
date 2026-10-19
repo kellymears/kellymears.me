@@ -34,4 +34,4 @@ The underlying idea is that data separated from its meaning is close to worthles
 
 ## See also
 - [[Data Governance]]
-- [[Data Profiling]]
+- [[Reference Data]]

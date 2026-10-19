@@ -34,4 +34,4 @@ A scheduled job running on every server in a cluster is the most common place te
 ## See also
 - [[Failure Detection]]
 - [[Fallacies of Distributed Computing]]
-- [[File Locking]]
+- [[Two-Phase Locking]]

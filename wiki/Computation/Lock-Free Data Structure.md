@@ -27,7 +27,7 @@ That deferral, *safe memory reclamation*, is the hardest part. In a language wit
 Lock-free is not automatically faster. Under heavy contention, threads waste effort on failed retries, and many cores hammering one memory location saturate cache traffic, hurting [[Locality of Reference]]. Correctness is also notoriously hard to test, since bugs depend on rare interleavings: a [[Race Condition]] may appear once in billions of runs, and tools like ThreadSanitizer, a [[Sanitizer]], and model checkers are standard. Most programmers should use well-tested library versions, such as a single-producer [[Ring Buffer]] or a concurrent [[Skip List]], rather than write their own.
 
 ## See also
-- [[Multithreading]]
+- [[Two-Phase Locking]]
 - [[Software Transactional Memory]]
 - [[Spinlock]]
 - [[Peterson's Algorithm]]

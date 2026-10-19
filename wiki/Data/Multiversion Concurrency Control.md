@@ -29,5 +29,5 @@ Versions also interact with durability and replication. New versions are recorde
 ## See also
 - [[Bitemporal Data]]
 - [[ACID]]
-- [[Copy-on-Write]]
+- [[Two-Phase Locking]]
 - [[Distributed SQL]]

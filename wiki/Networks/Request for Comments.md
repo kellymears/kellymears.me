@@ -30,5 +30,5 @@ Its openness has been tested. After 2013 revelations about mass surveillance, th
 - [[Gopher]]
 - [[Conventional Commits]]
 - [[Pigeon Post]]
-- [[GNU Privacy Guard]]
+- [[Language Tag]]
 - [[Syslog]]

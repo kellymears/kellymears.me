@@ -31,3 +31,6 @@ Modern language models handle this differently. They split text into subword pie
 - [[Collation]]
 - [[Hybrid Search]]
 - [[Web Search Engine]]
+- [[Phonetic Algorithm]]
+- [[Language Tag]]
+- [[Transliteration]]

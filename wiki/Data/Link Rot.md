@@ -31,9 +31,9 @@ Other defenses work at different layers:
 Inside a [[Wiki]], internal links can be checked mechanically: a link to a page that does not exist is detectable at build time, and renames can rewrite every [[Backlink]]. External links are another matter, since the publisher controls only one end. [[Static Site Generation]] helps a little: a site rendered to plain files is cheap enough to keep hosted indefinitely.
 
 ## See also
-- [[Deep Linking]]
+- [[Internet Archive]]
 - [[Webring]]
 - [[Canonical URL]]
-- [[Domain Registrar]]
+- [[Linked Data]]
 - [[Microfilm]]
 - [[Slug]]

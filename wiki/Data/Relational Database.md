@@ -28,6 +28,6 @@ Two things worth holding onto when working through an abstraction layer. The lay
 - [[Seed Data]]
 - [[Window Function]]
 - [[Common Table Expression]]
-- [[Database Normalization]]
+- [[Two-Phase Locking]]
 - [[Query Planner]]
 - [[Object-Relational Mapping]]

@@ -17,7 +17,7 @@ The failure mode of the formal kind is over-modeling — an ontology so precise 
 - [[Seven Bridges of Königsberg]]
 - [[Wikidata]]
 - [[Word2Vec]]
-- [[Information Architecture]]
+- [[Linked Data]]
 - [[Agent Memory]]
 
 ## Related

@@ -19,7 +19,7 @@ The discipline has a few unforgiving rules, most of which are learned by violati
 The only verification that proves any of this is running the real path: reset, migrate, build, start in production mode, and request the result.
 
 ## See also
-- [[Relational Database]]
+- [[Reference Data]]
 - [[Seed Data]]
 - [[Continuous Deployment]]
 - [[Database Partitioning]]

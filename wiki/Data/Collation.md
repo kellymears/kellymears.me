@@ -35,7 +35,9 @@ Inconsistent collation between layers causes subtle bugs. If an application sort
 
 ## See also
 - [[Inverted Index]]
-- [[Spreadsheet]]
+- [[Transliteration]]
 - [[Postal Address]]
 - [[Mojibake]]
 - [[Radix Sort]]
+- [[Language Tag]]
+- [[Personal Name]]

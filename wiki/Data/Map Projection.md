@@ -32,7 +32,7 @@ Projection choice shapes perception: a map is a model, and decides in advance wh
 - [[Transit Map]]
 - [[Geospatial Data]]
 - [[Geocoding]]
-- [[Space-Filling Curve]]
+- [[Country Code]]
 - [[Choropleth Map]]
 - [[Infographic]]
 - [[Gerrymandering]]

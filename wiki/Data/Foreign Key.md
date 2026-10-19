@@ -26,7 +26,7 @@ Some teams skip foreign key constraints, especially at large scale. Checking the
 Foreign keys interact with other choices. A [[Soft Delete]] leaves rows in place, so cascades never fire and references to "deleted" rows stay valid. Columns used as foreign keys usually need a [[Database Index]], since joins and cascading checks look rows up by them, and some databases don't create one automatically. [[Seed Data]] must be inserted in dependency order, parents before children, a small [[Topological Sort]].
 
 ## See also
-- [[Database Constraint]]
+- [[Reference Data]]
 - [[Common Table Expression]]
 - [[ISBN]]
 - [[Hierarchical Data]]

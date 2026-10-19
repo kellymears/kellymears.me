@@ -24,5 +24,5 @@ Automated checks also produce characteristic false signals: a burst of violation
 
 ## Related
 - [[Keyboard Layout]]
-- [[Focus Indicator]]
+- [[Language Tag]]
 - [[Sticky Header]]

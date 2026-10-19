@@ -30,4 +30,4 @@ As a [[Serialization]] format, JSON trades size and speed for readability. Binar
 - [[Base64]]
 - [[Entity-Attribute-Value]]
 - [[Decimal Arithmetic]]
-- [[Data Portability]]
+- [[Linked Data]]

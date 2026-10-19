@@ -14,7 +14,7 @@ Modern distributed systems mostly route around it rather than fixing it: [[Event
 ## See also
 - [[ACID]]
 - [[Distributed Lock]]
-- [[Event Sourcing]]
+- [[Two-Phase Locking]]
 - [[Eventual Consistency]]
 - [[Saga Pattern]]
 - [[Transactional Outbox]]

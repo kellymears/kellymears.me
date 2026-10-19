@@ -37,5 +37,5 @@ Readable addresses make the preferred version obvious to people, too; see [[Slug
 ## See also
 - [[Persistent Identifier]]
 - [[Hotlinking]]
-- [[HTML]]
+- [[Language Tag]]
 - [[Web Search Engine]]

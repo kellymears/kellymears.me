@@ -33,3 +33,4 @@ The same idea at smaller scale is [[Memoization]], caching a function's results 
 - [[HTTP Caching]]
 - [[Hot Partition]]
 - [[In-Memory Database]]
+- [[Reference Data]]

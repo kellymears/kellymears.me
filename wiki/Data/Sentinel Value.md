@@ -24,5 +24,5 @@ In datasets, the defense is documentation and inspection. A codebook that lists 
 Testers look for sentinels deliberately, since boundary values and special markers are where code most often breaks; see [[Boundary Value Analysis]]. A sentinel nobody documented is a quiet case of the oldest rule in data processing; see [[Garbage In, Garbage Out]].
 
 ## See also
-- [[Database Constraint]]
-- [[Fixed-Width File]]
+- [[Phone Number]]
+- [[Reference Data]]

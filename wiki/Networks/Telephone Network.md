@@ -27,6 +27,6 @@ The system is now being retired. Calls increasingly travel as internet packets, 
 - [[Teleprinter]]
 - [[Pager]]
 - [[Two-Way Radio]]
-- [[Multiplexing]]
+- [[Phone Number]]
 - [[Token Ring]]
 - [[Minitel]]

@@ -37,4 +37,4 @@ Nulls deserve the same edge-case attention as zero and empty strings in [[Bounda
 - [[Geocoding]]
 - [[Data Profiling]]
 - [[Typestate]]
-- [[Sentinel Value]]
+- [[Personal Name]]

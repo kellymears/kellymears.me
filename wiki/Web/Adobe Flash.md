@@ -29,5 +29,5 @@ Flash's ideas, rich interactive applications in the browser, won even though Fla
 
 ## See also
 - [[Web Audio API]]
-- [[Web Animations API]]
+- [[Internet Archive]]
 - [[Encrypted Media Extensions]]

@@ -32,7 +32,7 @@ Defenses that don't depend on people noticing work best:
 Training and simulated phishing campaigns are widespread, but studies find their effect modest and short-lived; see [[Fault Seeding]].
 
 ## See also
-- [[Top-Level Domain]]
+- [[Phone Number]]
 - [[SMS]]
 - [[Domain Registrar]]
 - [[Internationalized Domain Name]]

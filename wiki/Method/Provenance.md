@@ -22,7 +22,7 @@ Physical documents solved the adjacent problem — proving a record was not alte
 - [[Deepfake]]
 - [[Software Heritage]]
 - [[Seam Carving]]
-- [[Code Comment]]
+- [[Internet Archive]]
 
 ## Related
 - [[Archival Science]]

@@ -28,3 +28,4 @@ Software can be designed so the question doesn't arise. Applications that keep t
 ## See also
 - [[Data Sovereignty]]
 - [[Open Data]]
+- [[Linked Data]]

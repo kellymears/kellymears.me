@@ -21,4 +21,4 @@ Spoofing persists for reasons the design does not address. Gateway providers acc
 - [[SMS]]
 - [[Certificate Authority]]
 - [[Email Authentication]]
-- [[Cellular Network]]
+- [[Phone Number]]

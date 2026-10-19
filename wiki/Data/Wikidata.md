@@ -28,3 +28,4 @@ The difficulties are those of any open, collaborative project; see [[Wiki]] and 
 ## See also
 - [[Metadata]]
 - [[Library Classification]]
+- [[Linked Data]]

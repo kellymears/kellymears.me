@@ -35,5 +35,5 @@ LSH belongs to a larger family of probabilistic data structures that trade exact
 
 ## See also
 - [[Contrastive Learning]]
-- [[Perfect Hashing]]
+- [[Phonetic Algorithm]]
 - [[Approximate Nearest Neighbor Search]]

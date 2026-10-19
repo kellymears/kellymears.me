@@ -13,7 +13,7 @@ It fits naturally with stateless web request handling, where a "lock," if taken,
 
 ## See also
 - [[File Locking]]
-- [[Race Condition]]
+- [[Two-Phase Locking]]
 - [[ACID]]
 - [[Idempotence]]
 

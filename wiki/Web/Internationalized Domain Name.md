@@ -22,7 +22,7 @@ Support remains uneven beyond the browser. Many web forms reject addresses with 
 IDNs are a case of a global system extended without replacing its foundations, compatible with the old infrastructure at the cost of a lasting translation layer; see [[Path Dependence]] and [[Web Standards]].
 
 ## See also
-- [[Browser Fingerprinting]]
+- [[Transliteration]]
 - [[Open Redirect]]
 - [[Top-Level Domain]]
 - [[Slug]]

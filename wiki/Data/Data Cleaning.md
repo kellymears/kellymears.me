@@ -35,6 +35,6 @@ Good practice:
 Clean data also isn't the same as correct data. A perfectly formatted dataset can still measure the wrong thing; see [[Ground Truth]].
 
 ## See also
-- [[Data Labeling]]
-- [[Sentinel Value]]
-- [[Spreadsheet Error]]
+- [[Phonetic Algorithm]]
+- [[Phone Number]]
+- [[Personal Name]]

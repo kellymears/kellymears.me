@@ -30,3 +30,5 @@ Deduplicating storage is distinct from deduplicating records, finding the entrie
 ## See also
 - [[Data Compression]]
 - [[Bloom Filter]]
+- [[Internet Archive]]
+- [[Phonetic Algorithm]]
