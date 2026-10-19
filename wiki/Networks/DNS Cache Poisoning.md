@@ -24,3 +24,4 @@ The attack is a lesson in trusting unauthenticated answers; see [[Zero Trust Net
 ## See also
 - [[Border Gateway Protocol]]
 - [[Penetration Testing]]
+- [[Domain Registrar]]

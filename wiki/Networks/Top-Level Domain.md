@@ -32,3 +32,4 @@ Registrars sell names under each top-level domain, while a registry runs each on
 ## See also
 - [[ARPANET]]
 - [[URL]]
+- [[Domain Registrar]]

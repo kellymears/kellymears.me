@@ -23,7 +23,7 @@ The common record types are few: an address record, an alias record pointing one
 - [[Internet Service Provider]]
 - [[Time to First Byte]]
 - [[Loopback]]
-- [[Border Gateway Protocol]]
+- [[Domain Registrar]]
 
 ## Related
 - [[Dependency Confusion]]

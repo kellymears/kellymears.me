@@ -28,3 +28,5 @@ Minitel is often cited as evidence that the hard parts of going online were soci
 ## See also
 - [[Telegraph]]
 - [[SMS]]
+- [[Instant Messaging]]
+- [[Pneumatic Tube]]

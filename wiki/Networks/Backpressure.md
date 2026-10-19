@@ -24,6 +24,6 @@ It's the flip side of [[Rate Limiting]]: rate limiting is a hard external cap a 
 - [[Congestion Control]]
 - [[Normal Accidents]]
 - [[Coroutine]]
-- [[Unix Pipeline]]
+- [[Sliding Window Protocol]]
 - [[Denial-of-Service Attack]]
 - [[Stream Processing]]

@@ -30,7 +30,7 @@ BGP is also a tool. [[Anycast]] announces the same addresses from many locations
 - [[Software-Defined Networking]]
 - [[Man-in-the-Middle Attack]]
 - [[Mesh Network]]
-- [[IPv6]]
+- [[Internet Shutdown]]
 - [[Subnet]]
 - [[Internet Exchange Point]]
 - [[Submarine Cable]]

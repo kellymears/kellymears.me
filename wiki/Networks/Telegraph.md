@@ -30,9 +30,9 @@ Tom Standage's 1998 book *The Victorian Internet* argued that the telegraph went
 Radio extended telegraphy to ships around 1900, and the telephone replaced it for most uses; see [[Telephone Network]]. Western Union stopped sending telegrams in 2006. Morse code survives in amateur radio and aviation beacons.
 
 ## See also
-- [[Minitel]]
-- [[Pigeon Post]]
-- [[Amateur Radio]]
+- [[Multiplexing]]
+- [[Teleprinter]]
+- [[Two-Way Radio]]
 - [[Barcode]]
 - [[Enigma Machine]]
-- [[Fax]]
+- [[Pneumatic Tube]]

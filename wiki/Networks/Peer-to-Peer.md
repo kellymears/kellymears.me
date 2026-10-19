@@ -25,7 +25,7 @@ The pattern is at its best where the value is in the connection rather than in s
 - [[Napster]]
 - [[Distributed Version Control]]
 - [[Battle Royale]]
-- [[End-to-End Principle]]
+- [[Dark Web]]
 - [[Sybil Attack]]
 - [[Distributed Hash Table]]
 - [[Local-First Software]]

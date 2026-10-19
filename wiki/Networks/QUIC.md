@@ -16,10 +16,10 @@ The cost is CPU: encrypting and processing every packet in userspace is more wor
 ## See also
 - [[TCP and UDP]]
 - [[HTTP/2 and HTTP/3]]
-- [[Latency and Jitter]]
+- [[Sliding Window Protocol]]
 - [[Streaming Response]]
 - [[DNS over HTTPS]]
-- [[Transport Layer Security]]
+- [[Multiplexing]]
 - [[Congestion Control]]
 - [[End-to-End Principle]]
 - [[Cellular Network]]

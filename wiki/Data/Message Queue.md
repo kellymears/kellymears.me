@@ -19,7 +19,7 @@ Queues come with delivery guarantees that matter more than they first appear to.
 - [[Dead Letter Queue]]
 - [[Inter-Process Communication]]
 - [[Durable Execution]]
-- [[Transactional Outbox]]
+- [[Pneumatic Tube]]
 - [[Saga Pattern]]
 - [[Zero-Copy]]
 - [[Delay-Tolerant Networking]]

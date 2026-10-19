@@ -33,4 +33,4 @@ At the network layers, Wi-Fi is another link: devices get addresses on a [[Subne
 - [[Captive Portal]]
 - [[Packet Loss]]
 - [[ALOHAnet]]
-- [[Network Topology]]
+- [[Virtual LAN]]

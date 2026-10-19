@@ -31,5 +31,5 @@ Fiber doesn't make the network faster in every sense. Light in glass travels at 
 - [[Glass]]
 - [[Internet Service Provider]]
 - [[Last Mile]]
-- [[Satellite Internet]]
+- [[Multiplexing]]
 - [[Token Ring]]

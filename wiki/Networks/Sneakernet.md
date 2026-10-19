@@ -30,3 +30,5 @@ Physical transfer needs its own care: data must be verified on arrival, since dr
 - [[Submarine Cable]]
 - [[Universal Serial Bus]]
 - [[Pigeon Post]]
+- [[Internet Shutdown]]
+- [[Pneumatic Tube]]

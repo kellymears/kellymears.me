@@ -31,5 +31,5 @@ Lists have been declared obsolete repeatedly, replaced by forums, chat, and soci
 
 ## See also
 - [[Multicast]]
-- [[Blog]]
+- [[Instant Messaging]]
 - [[Debian OpenSSL Bug]]

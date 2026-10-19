@@ -27,5 +27,5 @@ The provider's position makes it a chokepoint. It can see where traffic goes, ev
 Where there is little competition, complaints about price, data caps, and service quality recur. Some towns have built municipal networks in response, and some states have passed laws restricting them, a pattern that critics attribute to industry influence over regulators; see [[Regulatory Capture]].
 
 ## See also
-- [[Domain Name System]]
+- [[Internet Shutdown]]
 - [[Captive Portal]]

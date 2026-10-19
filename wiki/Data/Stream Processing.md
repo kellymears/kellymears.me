@@ -32,5 +32,5 @@ Common uses include fraud detection, live dashboards, alerting, keeping search i
 - [[Window Function]]
 - [[Reservoir Sampling]]
 - [[Big Data]]
-- [[Zero-Copy]]
+- [[Sliding Window Protocol]]
 - [[HyperLogLog]]

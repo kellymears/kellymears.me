@@ -21,7 +21,7 @@ The honest cost is operational complexity: every service now needs to participat
 - [[Zero-Knowledge Proof]]
 - [[Encrypted Client Hello]]
 - [[Honeypot]]
-- [[Subnet]]
+- [[Virtual LAN]]
 - [[End-to-End Encryption]]
 - [[Row-Level Security]]
 - [[Trusted Platform Module]]

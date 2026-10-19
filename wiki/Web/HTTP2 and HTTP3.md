@@ -28,3 +28,4 @@ Both versions are transparent to application code — no request or response for
 - [[Data Compression]]
 - [[Hypertext Transfer Protocol]]
 - [[Time to First Byte]]
+- [[Multiplexing]]

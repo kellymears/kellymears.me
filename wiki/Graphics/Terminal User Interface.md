@@ -17,7 +17,7 @@ The aesthetic ceiling is higher than most people assume. Color, spacing, and res
 ## See also
 - [[Shell]]
 - [[Command-Line Interface]]
-- [[Plain Language]]
+- [[Teleprinter]]
 - [[Keyboard Navigation]]
 - [[Typographic Scale]]
 - [[Tarot]]

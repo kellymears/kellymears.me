@@ -30,3 +30,4 @@ Centralization brings its own risks. A controller is a single point of failure t
 - [[Zero Trust Network]]
 - [[Packet Switching]]
 - [[Spanning Tree Protocol]]
+- [[Virtual LAN]]

@@ -22,3 +22,4 @@ DoH is also politically loaded in a way plain protocol changes rarely are, becau
 - [[DNS Cache Poisoning]]
 - [[Captive Portal]]
 - [[Encrypted Client Hello]]
+- [[Domain Registrar]]

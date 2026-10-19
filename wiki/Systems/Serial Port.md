@@ -34,4 +34,4 @@ Adapters that present a serial port over USB are a standard item in technicians'
 
 ## See also
 - [[Device Tree]]
-- [[Microcontroller]]
+- [[Teleprinter]]

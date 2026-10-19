@@ -25,8 +25,8 @@ Mesh networks separate devices into roles. Mains-powered devices such as plugs a
 The 2.4 GHz band is shared with Wi-Fi and Bluetooth, so Zigbee and Thread channels are usually picked to avoid the busiest Wi-Fi channels. Unlike fire-and-forget [[TCP and UDP|UDP]] commands over Wi-Fi, mesh protocols acknowledge and retry at each hop, at the cost of some [[Latency and Jitter|latency]]. Matter devices are found with multicast DNS, the same [[Multicast]] discovery other local services use.
 
 ## See also
-- [[IPv6]]
-- [[Multicast]]
+- [[Internet Shutdown]]
+- [[Two-Way Radio]]
 - [[Peer-to-Peer]]
 - [[Amateur Radio]]
 - [[Network Topology]]

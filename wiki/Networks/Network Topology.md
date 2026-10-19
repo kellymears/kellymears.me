@@ -26,5 +26,5 @@ At larger scales, topology becomes something to measure rather than design. The 
 Topology matters most when something breaks. Whether a failure stays local, splits the network into islands, or spreads depends on the shape; see [[Network Partition]] and [[Cascading Failure]].
 
 ## See also
-- [[IP Routing]]
+- [[Virtual LAN]]
 - [[Hourglass Model]]

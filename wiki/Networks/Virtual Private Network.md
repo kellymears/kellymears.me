@@ -17,9 +17,9 @@ A commercial VPN relocates trust rather than removing it: the local network and 
 ## See also
 - [[Internet Censorship]]
 - [[eSIM]]
-- [[Streaming Response]]
+- [[Dark Web]]
 - [[Encrypted Client Hello]]
 - [[Captive Portal]]
 - [[Maximum Transmission Unit]]
-- [[Secure Shell]]
+- [[Internet Shutdown]]
 - [[Subnet]]

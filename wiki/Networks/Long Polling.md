@@ -25,7 +25,7 @@ Polling well means being polite. Clients should back off when nothing changes or
 
 ## See also
 - [[File Watching]]
-- [[Rate Limiting]]
+- [[Instant Messaging]]
 - [[MQTT]]
 - [[Optimistic UI]]
 - [[Web Push]]

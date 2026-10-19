@@ -29,3 +29,4 @@ Earlier machine ciphers fell because their keys repeated in patterns; see [[Enig
 - [[Entropy]]
 - [[RSA]]
 - [[Quantum Entanglement]]
+- [[Teleprinter]]

@@ -24,6 +24,6 @@ It is worth being clear about the incentive structure. Search optimization is an
 - [[Sitemap]]
 
 ## Related
-- [[Web Search Engine]]
+- [[Domain Registrar]]
 - [[Deep Linking]]
 - [[Blog]]

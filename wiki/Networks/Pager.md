@@ -25,7 +25,9 @@ Mobile phones and text messages replaced pagers for most people by the early 200
 The vocabulary survives in software operations, where an engineer "on call" is "paged" when a system fails, though the alert now arrives on a phone; see [[On-call]]. Some services still send the most critical alerts over multiple channels at once, in case one fails.
 
 ## See also
-- [[Telephone Network]]
+- [[Two-Way Radio]]
 - [[Amateur Radio]]
 - [[ChatOps]]
 - [[Minitel]]
+- [[Instant Messaging]]
+- [[Pneumatic Tube]]

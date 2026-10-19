@@ -17,7 +17,7 @@ Reliability is also why TCP is the wrong tool for anything latency-sensitive und
 ## See also
 - [[File Transfer Protocol]]
 - [[Port Scanning]]
-- [[Packet Loss]]
+- [[Sliding Window Protocol]]
 - [[Nagle's Algorithm]]
 - [[Endianness]]
 - [[Hourglass Model]]

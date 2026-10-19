@@ -28,9 +28,9 @@ Resilience comes from redundancy: many cables on different paths, with [[Border 
 ## See also
 - [[Internet Exchange Point]]
 - [[Earthquake]]
-- [[Anycast]]
+- [[Internet Shutdown]]
 - [[Data Sovereignty]]
 - [[Optical Fiber]]
 - [[Sneakernet]]
 - [[Satellite Internet]]
-- [[Telegraph]]
+- [[Multiplexing]]

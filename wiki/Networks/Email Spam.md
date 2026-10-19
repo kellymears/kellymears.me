@@ -30,5 +30,5 @@ Laws helped at the margins. The United States' CAN-SPAM Act of 2003 required wor
 The most dangerous spam today isn't advertising but fraud and credential theft; see [[Phishing]]. Its techniques spread to every open channel, from comments to text messages; see [[SMS]].
 
 ## See also
-- [[Mailing List]]
+- [[Instant Messaging]]
 - [[Sybil Attack]]

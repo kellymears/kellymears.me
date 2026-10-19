@@ -24,5 +24,5 @@ That last role made it dangerous again. The Mirai botnet in 2016 scanned the int
 Telnet is a case study in how early protocols assumed a network of mutually trusting researchers, an assumption the internet outgrew; see [[Transport Layer Security]].
 
 ## See also
-- [[File Transfer Protocol]]
+- [[Teleprinter]]
 - [[Credential stuffing]]

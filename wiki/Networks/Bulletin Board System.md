@@ -34,7 +34,7 @@ Commercial online services and then the web emptied the boards in the mid-1990s,
 - [[Minitel]]
 - [[Mailing List]]
 - [[Multi-User Dungeon]]
-- [[Time-Sharing]]
+- [[Instant Messaging]]
 - [[Telnet]]
 - [[Gopher]]
 - [[Fax]]

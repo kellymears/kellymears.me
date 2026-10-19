@@ -29,6 +29,6 @@ Compared with [[Wi-Fi]], a cable gives lower and steadier latency, no interferen
 - [[Wake-on-LAN]]
 - [[Carrier-Sense Multiple Access]]
 - [[Spanning Tree Protocol]]
-- [[Network Topology]]
+- [[Virtual LAN]]
 - [[Packet Capture]]
 - [[ALOHAnet]]

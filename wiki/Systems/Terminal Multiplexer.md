@@ -29,6 +29,6 @@ Full-screen programs inside it are ordinary terminal applications; see [[Termina
 
 ## See also
 - [[Text Editor]]
-- [[Unix Signal]]
+- [[Multiplexing]]
 - [[Command-Line Interface]]
 - [[Clipboard]]

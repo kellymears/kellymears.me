@@ -22,7 +22,7 @@ It's a close cousin of [[Backpressure]], but the direction of control is differe
 - [[Resource Limit]]
 - [[Sybil Attack]]
 - [[Middleware]]
-- [[HTTP Status Code]]
+- [[Sliding Window Protocol]]
 - [[Denial-of-Service Attack]]
 - [[Web Crawler]]
 - [[Load Shedding]]

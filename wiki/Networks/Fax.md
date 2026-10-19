@@ -30,3 +30,5 @@ Many faxes now never touch paper, sent from software to an email inbox, keeping 
 - [[Image Sensor]]
 - [[Backward Compatibility]]
 - [[Minitel]]
+- [[Pneumatic Tube]]
+- [[Teleprinter]]

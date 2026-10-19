@@ -27,7 +27,7 @@ IRC conventions passed into later chat apps: channels with hash names, `/me` act
 ## See also
 - [[Minitel]]
 - [[MQTT]]
-- [[Mailing List]]
+- [[Instant Messaging]]
 - [[Bulletin Board System]]
 - [[Multi-User Dungeon]]
 - [[SMS]]

@@ -27,7 +27,7 @@ Email's history is a cautionary example of [[Postel's Law]]. Being liberal in wh
 - [[Mailing List]]
 - [[Top-Level Domain]]
 - [[GNU Privacy Guard]]
-- [[Simple Mail Transfer Protocol]]
+- [[Domain Registrar]]
 - [[Federation]]
 - [[Phishing]]
 - [[Email Spam]]

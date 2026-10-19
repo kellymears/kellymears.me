@@ -30,8 +30,8 @@ Theory explains why it works. Shannon's channel capacity grows with bandwidth as
 Newer Wi-Fi and cellular standards mostly use a different scheme that divides the band into many narrow subcarriers, but hopping and coded spreading persist wherever robustness matters.
 
 ## See also
-- [[Fourier Transform]]
-- [[Modem]]
+- [[Two-Way Radio]]
+- [[Multiplexing]]
 - [[De Bruijn Sequence]]
 - [[Amateur Radio]]
 - [[Pager]]

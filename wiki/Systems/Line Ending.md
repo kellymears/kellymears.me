@@ -36,5 +36,5 @@ The characters are invisible in most editors, so these bugs survive; see [[False
 
 ## See also
 - [[ANSI Escape Code]]
-- [[Time-Sharing]]
+- [[Teleprinter]]
 - [[File Transfer Protocol]]

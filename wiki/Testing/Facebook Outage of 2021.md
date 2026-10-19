@@ -26,3 +26,5 @@ It shares its shape with other outages triggered by routine operator actions; se
 ## See also
 - [[AT&T Network Collapse of 1990]]
 - [[Anycast]]
+- [[Instant Messaging]]
+- [[Internet Shutdown]]

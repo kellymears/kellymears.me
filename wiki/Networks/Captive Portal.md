@@ -20,5 +20,5 @@ Portals often ask for an email address or a social login in exchange for access,
 
 ## See also
 - [[Network Address Translation]]
-- [[Zero Trust Network]]
+- [[Virtual LAN]]
 - [[Internet Service Provider]]

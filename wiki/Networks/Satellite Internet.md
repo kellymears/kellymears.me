@@ -28,7 +28,7 @@ Satellites also connect directly to ordinary phones in some areas, merging with 
 ## See also
 - [[Escape Velocity]]
 - [[ALOHAnet]]
-- [[Amateur Radio]]
+- [[Internet Shutdown]]
 - [[Delay-Tolerant Networking]]
 - [[Last Mile]]
 - [[Aurora]]

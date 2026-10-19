@@ -24,5 +24,5 @@ Random access in the ALOHA style is still widely used where senders are many, tr
 The broader lesson, that uncoordinated access with random retries works well at light load and collapses under heavy load, recurs throughout distributed systems; see [[Thundering Herd]].
 
 ## See also
-- [[Antenna]]
+- [[Two-Way Radio]]
 - [[Token Ring]]

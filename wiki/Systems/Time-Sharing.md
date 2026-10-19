@@ -24,6 +24,6 @@ Time-sharing shaped what followed. MIT's next system, Multics, was its most ambi
 Personal computers in the late 1970s and 1980s gave each person a machine of their own, and time-sharing looked like a relic. It returned in another form. Cloud servers divide one physical computer among many customers, each in a virtual machine, and serverless platforms bill by the fraction of a second; see [[Hypervisor]] and [[Serverless Computing]]. The old problems came back too, from one tenant's heavy use slowing its neighbors to attempts to read another tenant's data; see [[Speculative Execution]].
 
 ## See also
-- [[ARPANET]]
-- [[Lisp]]
+- [[Teleprinter]]
+- [[Multiplexing]]
 - [[Mainframe]]

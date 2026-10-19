@@ -30,3 +30,4 @@ Whether internet providers may sell faster treatment to particular companies is 
 - [[Tail Latency]]
 - [[WebRTC]]
 - [[Voice over IP]]
+- [[Virtual LAN]]

@@ -27,4 +27,4 @@ Timeouts appear at every layer. TCP retransmits lost packets on a timer it adjus
 
 ## See also
 - [[Load Shedding]]
-- [[Gray Failure]]
+- [[Sliding Window Protocol]]

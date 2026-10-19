@@ -37,4 +37,4 @@ Lessons follow:
 - [[Amdahl's Law]]
 - [[ALOHAnet]]
 - [[Packet Loss]]
-- [[Small Batches]]
+- [[Pneumatic Tube]]

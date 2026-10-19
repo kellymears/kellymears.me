@@ -25,7 +25,7 @@ Inside data centers, **jumbo frames** of around 9,000 bytes reduce per-packet ov
 ## See also
 - [[TCP and UDP]]
 - [[Ethernet]]
-- [[IPv6]]
+- [[Virtual LAN]]
 - [[Internet Control Message Protocol]]
 - [[Firewall]]
 - [[Spanning Tree Protocol]]

@@ -27,6 +27,6 @@ The problem sits beside other impossibility results that shape the field, includ
 ## See also
 - [[Schelling Point]]
 - [[Delay-Tolerant Networking]]
-- [[Quorum]]
+- [[Sliding Window Protocol]]
 - [[Thought Experiment]]
 - [[Idempotency Key]]

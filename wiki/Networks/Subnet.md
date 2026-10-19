@@ -35,7 +35,7 @@ Common trouble spots:
 
 ## See also
 - [[Wake-on-LAN]]
-- [[IP Routing]]
+- [[Virtual LAN]]
 - [[Loopback]]
 - [[Software-Defined Networking]]
 - [[Multicast DNS]]

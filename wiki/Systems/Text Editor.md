@@ -28,4 +28,4 @@ Editor configuration is a classic part of personal configuration files carried b
 
 ## See also
 - [[Keyboard Layout]]
-- [[Lindy Effect]]
+- [[Teleprinter]]

@@ -26,8 +26,8 @@ The pattern shows up well beyond the web:
 The general remedies are to keep independent work in separate queues, to allow out-of-order completion when order doesn't matter, and to set timeouts so one stuck item can be skipped. Ordering is often a [[Delivery Guarantees]] requirement, so the design question is usually how narrowly it can be scoped, per stream, per user, or per key, rather than whether to drop it. Head-of-line delays show up in measurements as [[Tail Latency]] and [[Latency and Jitter]] rather than in averages.
 
 ## See also
-- [[Packet Loss]]
+- [[Sliding Window Protocol]]
 - [[Nagle's Algorithm]]
 - [[Quality of Service]]
 - [[Voice over IP]]
-- [[Bandwidth]]
+- [[Multiplexing]]

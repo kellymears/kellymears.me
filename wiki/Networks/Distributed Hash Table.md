@@ -33,7 +33,7 @@ Still, DHTs proved a directory for millions can work with no one in charge.
 
 ## See also
 - [[Blockchain]]
-- [[Federation]]
+- [[Dark Web]]
 - [[Cuckoo Hashing]]
 - [[Napster]]
 - [[BitTorrent]]

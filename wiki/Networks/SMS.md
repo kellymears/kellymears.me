@@ -25,3 +25,4 @@ Text messages also carry fraud: fake delivery notices and bank alerts with links
 - [[Federation]]
 - [[End-to-End Encryption]]
 - [[Minitel]]
+- [[Instant Messaging]]

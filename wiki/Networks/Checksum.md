@@ -26,7 +26,7 @@ Layered checksums still miss things. A 2000 study of real traffic found corrupte
 Storage needs the same care. Disks silently return wrong data more often than people expect, so filesystems such as ZFS and Btrfs store a checksum with every block and verify it on each read; see [[Bit rot]]. Trees of hashes extend the idea to whole datasets, so a single value vouches for everything beneath it; see [[Merkle Tree]].
 
 ## See also
-- [[Packet Capture]]
+- [[Sliding Window Protocol]]
 - [[Single-Event Upset]]
 - [[ZFS]]
 - [[Sneakernet]]
