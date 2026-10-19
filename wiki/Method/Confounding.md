@@ -32,7 +32,7 @@ A useful habit when shown a correlation is to ask what else differs between the 
 
 ## See also
 - [[Red Herring]]
-- [[Survivorship Bias]]
+- [[Atherosclerosis]]
 - [[Linear Regression]]
 - [[Berkson's Paradox]]
 - [[Natural Experiment]]

@@ -30,3 +30,4 @@ In 2015, a photograph of a dress divided the internet between people who saw it 
 ## See also
 - [[Framing Effect]]
 - [[Map and Territory]]
+- [[Afterimage]]

@@ -32,3 +32,4 @@ The word "blind spot" has become a metaphor for anything people can't see about 
 - [[Presbyopia]]
 - [[Opponent Process Theory]]
 - [[Dark Adaptation]]
+- [[Afterimage]]

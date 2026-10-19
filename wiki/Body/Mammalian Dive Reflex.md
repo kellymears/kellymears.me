@@ -28,3 +28,5 @@ Stories of children surviving long submersion in icy water are sometimes credite
 - [[Heart Rate Variability]]
 - [[Diaphragmatic Breathing]]
 - [[Syncope]]
+- [[Valsalva Maneuver]]
+- [[Eustachian Tube]]

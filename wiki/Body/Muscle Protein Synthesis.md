@@ -33,7 +33,7 @@ Inactivity has the opposite effect. Bed rest or immobilization cuts synthesis sh
 Muscle damage and soreness after unfamiliar exercise aren't required for growth, despite the popular idea; see [[Delayed Onset Muscle Soreness]]. Gains depend on consistent loading over weeks, gradually increased, combined with enough protein and recovery; see [[Supercompensation]].
 
 ## See also
-- [[Muscle Fiber Types]]
+- [[Lactose Intolerance]]
 - [[Excess Post-Exercise Oxygen Consumption]]
 - [[Basal Metabolic Rate]]
 - [[Intermittent Fasting]]

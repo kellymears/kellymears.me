@@ -29,5 +29,5 @@ Both views agree that the brain shapes endurance and that a felt limit is not th
 ## See also
 - [[Runner's High]]
 - [[Heat Stroke]]
-- [[Energy Systems]]
+- [[Muscle Fatigue]]
 - [[Blood Doping]]

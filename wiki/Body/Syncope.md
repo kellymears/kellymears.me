@@ -33,3 +33,4 @@ Fainting differs from vertigo, a false sense of spinning, though people describe
 ## See also
 - [[Heart Rate Variability]]
 - [[Mammalian Dive Reflex]]
+- [[Valsalva Maneuver]]

@@ -33,4 +33,4 @@ Water also travels with fuel. Each gram of stored [[Glycogen]] binds about three
 - [[Side Stitch]]
 - [[Syncope]]
 - [[Dew Point]]
-- [[Blister]]
+- [[Lactose Intolerance]]

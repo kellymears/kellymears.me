@@ -26,3 +26,5 @@ The diaphragm has other ways of misbehaving during exercise. Cramping and stabbi
 ## See also
 - [[Yawning]]
 - [[Homeostasis]]
+- [[Valsalva Maneuver]]
+- [[Sneeze]]

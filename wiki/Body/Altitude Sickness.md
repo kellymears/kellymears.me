@@ -28,7 +28,7 @@ Altitude affects other things too. Water boils at a lower temperature, so cookin
 
 ## See also
 - [[Frostbite]]
-- [[Blood Pressure]]
-- [[Heat Acclimation]]
+- [[Eustachian Tube]]
+- [[Pulse Oximetry]]
 - [[Sleep Apnea]]
 - [[Henry's Law]]

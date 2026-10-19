@@ -33,3 +33,4 @@ A screen of numbers invites the fallacy by presenting what is countable as the w
 ## See also
 - [[Survivorship Bias]]
 - [[Law of the Instrument]]
+- [[Pulse Oximetry]]

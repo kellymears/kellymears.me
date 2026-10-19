@@ -30,7 +30,7 @@ Cramps are different from [[Delayed Onset Muscle Soreness]], the ache that arriv
 ## See also
 - [[Hiccup]]
 - [[Proprioception]]
-- [[Muscle Fiber Types]]
+- [[Muscle Fatigue]]
 - [[Restless Legs Syndrome]]
 - [[Stretching]]
 - [[Warm-Up]]

@@ -24,4 +24,4 @@ Neurodivergent accounts describe the same accumulation in everyday terms. Contin
 ## See also
 - [[Burnout]]
 - [[Grief]]
-- [[Loneliness]]
+- [[Atherosclerosis]]

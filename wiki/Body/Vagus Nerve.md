@@ -33,4 +33,4 @@ Popular claims about "vagal tone" often outrun the evidence. Polyvagal theory, p
 - [[Mammalian Dive Reflex]]
 - [[Cold Exposure]]
 - [[Awe]]
-- [[Gut Microbiome]]
+- [[Valsalva Maneuver]]

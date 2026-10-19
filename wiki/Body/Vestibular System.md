@@ -14,7 +14,7 @@ The vestibular system drives the **vestibulo-ocular reflex (VOR)**: eye movement
 **Motion sickness** is widely explained by **sensory conflict**: nausea arises when the vestibular system, the eyes, and [[Proprioception|proprioception]] disagree about what's moving — reading in a moving car has the inner ear reporting motion while the eyes, fixed on a stationary page, report none, a mismatch the brain apparently interprets as evidence of poisoning and responds to accordingly.
 
 ## See also
-- [[Gravity]]
+- [[Eustachian Tube]]
 - [[Inertial Measurement Unit]]
 - [[Referred Pain]]
 - [[Motion Sickness]]

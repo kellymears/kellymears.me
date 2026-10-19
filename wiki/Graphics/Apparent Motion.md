@@ -30,4 +30,4 @@ Higher [[Frame Rate]]s narrow the gap between samples, so motion looks smoother 
 - [[Interlacing]]
 - [[Stop Motion]]
 - [[Smear Frame]]
-- [[Onion Skinning]]
+- [[Afterimage]]

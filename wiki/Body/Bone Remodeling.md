@@ -24,6 +24,6 @@ Imaging lags the biology, so a radiograph is a proxy and not [[Ground Truth]] fo
 - [[Osteoarthritis]]
 
 ## Related
-- [[Sensitivity and Specificity]]
+- [[Cellular Senescence]]
 - [[Body Composition]]
 - [[Retinoid]]

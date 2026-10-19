@@ -26,3 +26,5 @@ Yawning is controlled by the brainstem and hypothalamus and is affected by sever
 - [[Hiccup]]
 - [[Sleep Deprivation]]
 - [[Emotional Contagion]]
+- [[Sneeze]]
+- [[Eustachian Tube]]

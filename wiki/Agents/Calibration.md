@@ -29,5 +29,5 @@ Calibration also shifts with data. A model calibrated on its training distributi
 ## See also
 - [[Brier Score]]
 - [[ELIZA Effect]]
-- [[Delphi Method]]
+- [[Pulse Oximetry]]
 - [[Explainable AI]]

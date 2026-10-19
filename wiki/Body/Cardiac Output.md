@@ -27,5 +27,5 @@ Blood pressure is cardiac output multiplied by the resistance of the blood vesse
 
 ## See also
 - [[Mammalian Dive Reflex]]
-- [[Syncope]]
+- [[Atherosclerosis]]
 - [[Fight-or-Flight Response]]

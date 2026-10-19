@@ -35,3 +35,6 @@ Climate change is lengthening pollen seasons in many regions, with earlier sprin
 - [[Vagus Nerve]]
 - [[Lymphatic System]]
 - [[Asthma]]
+- [[Sneeze]]
+- [[Lactose Intolerance]]
+- [[Eustachian Tube]]

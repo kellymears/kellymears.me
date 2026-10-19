@@ -26,7 +26,7 @@ Fermentation also transforms flavor. Proteins become savory amino acids, sugars 
 - [[Hangover]]
 - [[Henry's Law]]
 - [[Chocolate Tempering]]
-- [[Glycogen]]
+- [[Lactose Intolerance]]
 - [[Xenobiotic Metabolism]]
 - [[Maillard Reaction]]
 - [[Gut Microbiome]]

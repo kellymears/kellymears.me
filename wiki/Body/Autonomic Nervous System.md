@@ -31,6 +31,6 @@ Several practices shift the balance toward parasympathetic activity. Slow breath
 The idea of a single unified stress response has been refined over time. Responses vary by threat and person, and include freezing as well as fighting or fleeing. The popular "polyvagal theory" built on vagal anatomy is disputed by many physiologists, though its practical emphasis on safety and calm remains influential.
 
 ## See also
-- [[Asthma]]
+- [[Valsalva Maneuver]]
 - [[Misattribution of Arousal]]
 - [[Syncope]]

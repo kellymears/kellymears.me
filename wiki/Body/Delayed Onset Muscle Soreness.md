@@ -29,5 +29,5 @@ Severe pain, marked swelling, or dark urine after extreme exercise isn't DOMS bu
 - [[Lymphatic System]]
 - [[Warm-Up]]
 - [[Fascia]]
-- [[Bruise]]
+- [[Muscle Fatigue]]
 - [[Rhabdomyolysis]]

@@ -33,4 +33,4 @@ Sunlight has effects beyond vitamin D. Bright daylight sets the [[Circadian Rhyt
 - [[Iron Deficiency]]
 - [[Shin Splints]]
 - [[Stress Fracture]]
-- [[Sunburn]]
+- [[Lactose Intolerance]]

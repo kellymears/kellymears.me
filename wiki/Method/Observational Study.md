@@ -26,6 +26,7 @@ Researchers fight back with careful design: measuring and adjusting for known co
 The same issues apply far outside medicine. Product analytics comparing users who adopted a feature with those who didn't is an observational study, with the same confounding, which is why teams run controlled experiments when they can; see [[AB Testing]]. Combining many observational studies can't remove a bias they all share; see [[Meta-Analysis]].
 
 ## See also
-- [[Survivorship Bias]]
+- [[Grip Strength]]
 - [[Ecological Fallacy]]
 - [[Loneliness]]
+- [[Atherosclerosis]]

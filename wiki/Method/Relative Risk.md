@@ -31,3 +31,5 @@ The general principle is that a ratio needs its denominator. A size of effect is
 - [[Randomized Controlled Trial]]
 - [[Statistical Significance]]
 - [[Logistic Regression]]
+- [[Atherosclerosis]]
+- [[Grip Strength]]

@@ -28,7 +28,7 @@ Starting out, unfamiliar movements, especially lowering phases, cause [[Delayed 
 The adaptations differ by fiber: heavy training enlarges fast-twitch fibers most, as described under [[Muscle Fiber Types]]. Strength training is one of the few interventions that improves almost every tissue it touches, which is why it shows up in advice for everything from back pain to [[Relative Energy Deficiency in Sport]].
 
 ## See also
-- [[Iliotibial Band Syndrome]]
+- [[Grip Strength]]
 - [[Muscle Protein Synthesis]]
-- [[Osteoarthritis]]
+- [[Valsalva Maneuver]]
 - [[Periodization]]

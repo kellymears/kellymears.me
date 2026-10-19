@@ -30,3 +30,4 @@ Reliability engineers describe failure rates that rise toward the end of a produ
 ## See also
 - [[Heisenbug]]
 - [[Garbage Collection]]
+- [[Cellular Senescence]]

@@ -26,6 +26,6 @@ The systems are also inefficient in a useful way: only about a quarter of the en
 
 ## See also
 - [[Bioluminescence]]
-- [[Excess Post-Exercise Oxygen Consumption]]
+- [[Muscle Fatigue]]
 - [[Creatine]]
 - [[Metabolic Flexibility]]

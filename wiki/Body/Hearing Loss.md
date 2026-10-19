@@ -32,4 +32,4 @@ The inner ear also houses the [[Vestibular System]], so some damage brings dizzi
 - [[Myopia]]
 - [[Vertigo]]
 - [[Misophonia]]
-- [[Timbre]]
+- [[Eustachian Tube]]

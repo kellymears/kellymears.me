@@ -37,3 +37,5 @@ Breathing retraining may help some people feel more in control of symptoms, thou
 ## See also
 - [[VO2 Max]]
 - [[Altitude Training]]
+- [[Pulse Oximetry]]
+- [[Sneeze]]

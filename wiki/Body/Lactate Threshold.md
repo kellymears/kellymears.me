@@ -26,7 +26,7 @@ Measuring it properly means drawing blood from a fingertip or earlobe at progres
 - [[Critical Power]]
 - [[Exercise Economy]]
 - [[Interval Training]]
-- [[Glycogen]]
+- [[Muscle Fatigue]]
 - [[Excess Post-Exercise Oxygen Consumption]]
 - [[Fermentation]]
 - [[Central Governor Theory]]

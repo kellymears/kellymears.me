@@ -27,7 +27,7 @@ Its strongest claim may be outside sport. Cardiorespiratory fitness is one of th
 - [[Cardiac Output]]
 - [[Exercise Economy]]
 - [[Heat Acclimation]]
-- [[Energy Systems]]
+- [[Atherosclerosis]]
 - [[Asthma]]
 - [[Altitude Training]]
 - [[Central Governor Theory]]

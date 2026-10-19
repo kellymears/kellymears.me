@@ -31,4 +31,4 @@ Metamerism is also a useful general idea: when a system measures a few summary n
 - [[Spectroscopy]]
 - [[Rayleigh Scattering]]
 - [[Fluorescence]]
-- [[Electromagnetic Spectrum]]
+- [[Afterimage]]

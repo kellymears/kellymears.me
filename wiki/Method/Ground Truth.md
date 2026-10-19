@@ -14,7 +14,7 @@ The habit worth building is to ask, for any claim you are about to act on, *what
 Ground truth also has a *staleness* dimension. A measurement is only about the thing you measured, at the moment you measured it. Verifying against a server compiled before your change, or a cached artifact from a prior state, produces a real number about the wrong world. Restart, rebuild, refetch before every claim you intend to stand behind.
 
 ## See also
-- [[Falsifiability]]
+- [[Pulse Oximetry]]
 - [[ImageNet]]
 - [[Reproducible Case]]
 - [[Rashomon Effect]]

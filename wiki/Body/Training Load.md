@@ -33,7 +33,7 @@ The models are useful and easy to over-trust. They see only what the sensors see
 - [[Iliotibial Band Syndrome]]
 - [[Ankle Sprain]]
 - [[Side Stitch]]
-- [[Autistic Burnout]]
+- [[Muscle Fatigue]]
 - [[Line Chart]]
 - [[Shin Splints]]
 - [[Time Series Database]]

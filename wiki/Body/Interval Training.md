@@ -30,5 +30,5 @@ Power meters and heart rate monitors have made intervals precise, but heart rate
 
 ## See also
 - [[Creatine]]
-- [[Warm-Up]]
+- [[Muscle Fatigue]]
 - [[Excess Post-Exercise Oxygen Consumption]]

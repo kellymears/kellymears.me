@@ -27,7 +27,7 @@ Treatment for sunburn is supportive: cool compresses, moisturizer, fluids, and p
 
 ## See also
 - [[Blister]]
-- [[Immune System]]
+- [[Cellular Senescence]]
 - [[Moist Wound Healing]]
 - [[Heat Stroke]]
 - [[Capsaicin]]

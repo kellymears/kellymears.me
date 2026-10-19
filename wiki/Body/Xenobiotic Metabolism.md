@@ -16,7 +16,7 @@ Everything here is dose and clearance: toxicity depends on amount relative to bo
 
 ## See also
 - [[Catalysis]]
-- [[Retinoid]]
+- [[Lactose Intolerance]]
 - [[Gut Microbiome]]
 - [[Rhabdomyolysis]]
 - [[Hangover]]

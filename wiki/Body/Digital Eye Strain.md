@@ -36,6 +36,6 @@ Long uninterrupted stretches of close focus strain more than the eyes; see [[Rep
 
 ## See also
 - [[Ulnar Neuropathy]]
-- [[Dark Adaptation]]
+- [[Afterimage]]
 - [[Posture]]
 - [[Liquid-Crystal Display]]

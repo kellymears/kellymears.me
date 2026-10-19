@@ -27,5 +27,5 @@ Osteoarthritis differs from osteoporosis, which thins bone itself, and from rheu
 
 ## See also
 - [[Low Back Pain]]
-- [[Sarcopenia]]
+- [[Cellular Senescence]]
 - [[Stress Fracture]]

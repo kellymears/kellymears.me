@@ -28,5 +28,5 @@ Detraining matters most for older adults. An illness or hospital stay that would
 
 ## See also
 - [[Rhabdomyolysis]]
-- [[Cardiac Output]]
+- [[Grip Strength]]
 - [[Altitude Training]]

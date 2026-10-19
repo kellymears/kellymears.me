@@ -29,5 +29,5 @@ Color temperature also matters for the body. Cooler, bluer light at night delays
 - [[Rayleigh Scattering]]
 - [[Big Bang]]
 - [[Fluorescence]]
-- [[Combustion]]
+- [[Afterimage]]
 - [[Absolute Zero]]

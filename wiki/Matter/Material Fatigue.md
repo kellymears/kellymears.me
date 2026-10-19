@@ -29,8 +29,8 @@ Fatigue has close relatives elsewhere. Chips wear out from [[Electromigration]],
 
 ## See also
 - [[Non-Destructive Testing]]
-- [[Bicycle Stability]]
-- [[Earthquake]]
+- [[Muscle Fatigue]]
+- [[Cellular Senescence]]
 - [[Cavitation]]
 - [[Work Hardening]]
 - [[Hysteresis]]

@@ -15,7 +15,7 @@ Afterimages follow directly. Stare at a saturated patch, fatigue one side of a c
 For design the theory sits underneath perceptual color models rather than competing with them. The axes of [[OKLCH]] and its relatives are opponent axes with lightness separated out, which is why moving along one leaves the others perceptually intact and why [[Color Contrast]] arithmetic works on lightness alone. It also explains why a palette rebuilt for [[Dark Mode]] cannot simply be inverted: adaptation shifts where the channels rest. Human vision encodes no polarization channel at all, unlike many insects — see [[Polarized Light]].
 
 ## See also
-- [[Accessibility]]
+- [[Afterimage]]
 - [[Design Token]]
 - [[Image Sensor]]
 - [[NTSC]]

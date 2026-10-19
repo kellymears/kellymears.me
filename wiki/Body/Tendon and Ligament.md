@@ -23,7 +23,7 @@ Both tissue types share a frustrating property: they are relatively **poorly vas
 - [[Repetitive Strain Injury]]
 - [[Ankle Sprain]]
 - [[Stretching]]
-- [[Elasticity]]
+- [[Grip Strength]]
 - [[Material Fatigue]]
 - [[Tendinopathy]]
 - [[Fascia]]

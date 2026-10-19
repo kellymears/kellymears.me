@@ -25,3 +25,4 @@ The same collagen-remodeling logic explains why [[Fracture Nonunion]] and proble
 - [[Ankle Sprain]]
 - [[Blister]]
 - [[Bruise]]
+- [[Cellular Senescence]]

@@ -28,7 +28,7 @@ Medication helps less than people expect. Common pain relievers offer small bene
 Most acute episodes improve within weeks, which makes almost any treatment look effective: [[Regression to the Mean]] at work. Recurrence is common, though, so the long-term aim is confidence and capacity, not a cure.
 
 ## See also
-- [[Repetitive Strain Injury]]
+- [[Valsalva Maneuver]]
 - [[Plantar Fasciitis]]
 - [[Osteoarthritis]]
 - [[Posture]]

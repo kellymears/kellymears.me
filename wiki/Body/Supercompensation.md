@@ -32,4 +32,4 @@ The single-session curve is a simplification. Real training overlaps sessions lo
 - [[Segmented Sleep]]
 - [[Hormesis]]
 - [[Delayed Onset Muscle Soreness]]
-- [[Heart Rate Variability]]
+- [[Muscle Fatigue]]

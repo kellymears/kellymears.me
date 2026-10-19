@@ -27,6 +27,6 @@ Creatine is a useful example in how supplement claims should be judged. Most pro
 Creatine doesn't replace training. It modestly increases how much work a muscle can do, which only matters when that work is part of a well-designed program; see [[Training Load]] and [[Supercompensation]].
 
 ## See also
-- [[Rhabdomyolysis]]
+- [[Muscle Fatigue]]
 - [[Muscle Protein Synthesis]]
 - [[Excess Post-Exercise Oxygen Consumption]]

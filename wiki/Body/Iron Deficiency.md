@@ -35,5 +35,5 @@ Iron matters especially before [[Altitude Training]], since the body needs ample
 - [[Bruise]]
 - [[Restless Legs Syndrome]]
 - [[Blood Doping]]
-- [[Mitochondria]]
+- [[Pulse Oximetry]]
 - [[Mammalian Dive Reflex]]
