@@ -25,7 +25,7 @@ Consequences:
 The concept links to broader questions of well-being. If satisfaction depends on relative position, rising incomes for everyone may not make people happier; see [[Hedonic Treadmill]]. Status displays spread through imitation of those with prestige; see [[Social Proof]] and [[Halo Effect]]. And a high price can make a product seem better than it is, a kind of [[Placebo Effect]] observed in wine tasting experiments.
 
 ## See also
-- [[Jevons Paradox]]
+- [[Decoy Effect]]
 - [[Social Comparison]]
 - [[Gresham's Law]]
 - [[Collectible Card Game]]

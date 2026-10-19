@@ -31,3 +31,4 @@ In 2015, a photograph of a dress divided the internet between people who saw it 
 - [[Framing Effect]]
 - [[Map and Territory]]
 - [[Afterimage]]
+- [[Optical Illusion]]

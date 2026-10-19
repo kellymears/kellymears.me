@@ -22,7 +22,7 @@ The social side is the [[Neurodiversity]] paradigm's point in miniature. Masking
 - [[Emotional Contagion]]
 - [[Monotropism]]
 - [[Spotlight Effect]]
-- [[Code-Switching]]
+- [[Dissociation]]
 - [[Self-Compassion]]
 - [[Kayfabe]]
 - [[Impostor Syndrome]]

@@ -13,12 +13,12 @@ The effect is worth distinguishing from ordinary correlation, where traits reall
 
 ## See also
 - [[Parasocial Relationship]]
-- [[Fundamental Attribution Error]]
+- [[Intelligence Quotient]]
 - [[Social Proof]]
 - [[Confidence Trick]]
 - [[Serial Position Effect]]
 - [[Aesthetic-Usability Effect]]
-- [[Matthew Effect]]
+- [[Moral Licensing]]
 - [[Veblen Good]]
 - [[Death of the Author]]
 - [[Misattribution of Arousal]]

@@ -26,3 +26,4 @@ The effect can be harnessed deliberately. Working alongside a calm, focused pers
 ## See also
 - [[Emotional Regulation]]
 - [[Embodied Cognition]]
+- [[Identifiable Victim Effect]]

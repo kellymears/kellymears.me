@@ -28,6 +28,6 @@ For programmers the structure will feel familiar. An implementation intention is
 - [[Psychological Distance]]
 - [[Pomodoro Technique]]
 - [[Prospective Memory]]
-- [[Habit Formation]]
+- [[Moral Licensing]]
 - [[Procrastination]]
 - [[Context-Dependent Memory]]

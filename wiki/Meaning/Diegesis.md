@@ -20,7 +20,7 @@ Mismanaging the line, rather than deliberately crossing it, is one recurring sou
 - [[MacGuffin]]
 - [[Fair-Play Mystery]]
 - [[Speech Act]]
-- [[Retcon]]
+- [[Event Segmentation]]
 - [[Fourth Wall]]
 - [[Deus ex Machina]]
 - [[Constructed Language]]

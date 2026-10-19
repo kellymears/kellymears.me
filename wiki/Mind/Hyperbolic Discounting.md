@@ -32,7 +32,7 @@ Since the bias is predictable, people can plan around it:
 Designers exploit the same pattern: daily login rewards, timed offers, and instant gratification loops are built to win the present-biased moment; see [[Gacha Monetization]].
 
 ## See also
-- [[Ostrich Effect]]
+- [[Ambiguity Aversion]]
 - [[Mental Accounting]]
 - [[Psychological Distance]]
 - [[Affective Forecasting]]

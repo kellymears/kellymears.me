@@ -23,7 +23,7 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 - [[Birthday Problem]]
 
 ## Related
-- [[Prosecutor's Fallacy]]
+- [[Identifiable Victim Effect]]
 - [[Anomaly Detection]]
 - [[Sturgeon's Law]]
 - [[Choropleth Map]]

@@ -31,3 +31,4 @@ Misjudging time has practical costs. Projects routinely take longer than planned
 ## See also
 - [[Predictive Processing]]
 - [[Psychological Distance]]
+- [[Event Segmentation]]

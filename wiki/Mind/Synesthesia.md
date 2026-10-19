@@ -29,7 +29,7 @@ The condition fits the wider picture of [[Neurodiversity]]: perception is constr
 - [[Aphantasia]]
 - [[Neurodiversity]]
 - [[McGurk Effect]]
-- [[Preattentive Processing]]
+- [[Eidetic Memory]]
 - [[Prosopagnosia]]
 - [[Timbre]]
 - [[Stroop Effect]]

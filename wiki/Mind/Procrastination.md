@@ -26,7 +26,7 @@ An unfinished task also keeps nagging, the [[Zeigarnik Effect]], which is why st
 
 ## See also
 - [[Ostrich Effect]]
-- [[Self-Compassion]]
+- [[Ambiguity Aversion]]
 - [[Self-Handicapping]]
 - [[Hyperbolic Discounting]]
 - [[Commitment Device]]

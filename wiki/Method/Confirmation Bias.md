@@ -19,7 +19,7 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Affinity Diagram]]
 - [[Paradigm Shift]]
 - [[Self-Fulfilling Prophecy]]
-- [[Narrative Fallacy]]
+- [[Learning Styles]]
 - [[Cognitive Dissonance]]
 - [[Naive Realism]]
 

@@ -22,3 +22,4 @@ Where a story starts shapes what it seems to be about. The same events told from
 ## See also
 - [[Chekhov's Gun]]
 - [[Suspension of Disbelief]]
+- [[Event Segmentation]]

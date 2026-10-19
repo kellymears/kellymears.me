@@ -18,12 +18,12 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 ## See also
 - [[McNamara Fallacy]]
 - [[Issue Tracker]]
-- [[Operationalization]]
+- [[Intelligence Quotient]]
 - [[Panopticon]]
 - [[Blood Doping]]
 - [[AI Alignment]]
 - [[Brier Score]]
-- [[Bechdel Test]]
+- [[Moral Licensing]]
 
 ## Related
 - [[Wicked Problem]]

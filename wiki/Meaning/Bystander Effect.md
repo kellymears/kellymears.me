@@ -25,3 +25,4 @@ The effect has been replicated across dozens of experimental setups, from staged
 - [[Obedience to Authority]]
 - [[Mailing List]]
 - [[Hyatt Regency Walkway Collapse]]
+- [[Identifiable Victim Effect]]

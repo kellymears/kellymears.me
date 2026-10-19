@@ -34,6 +34,6 @@ Advocates frame dyscalculia as part of the range of human cognition rather than 
 
 ## See also
 - [[Executive Function]]
-- [[Cognitive Load]]
+- [[Intelligence Quotient]]
 - [[Weber-Fechner Law]]
 - [[Mental Rotation]]

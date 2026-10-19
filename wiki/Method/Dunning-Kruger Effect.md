@@ -20,7 +20,7 @@ For engineers, the practical corollary is to distrust your own confidence exactl
 - [[Learning Curve]]
 - [[Illusory Truth Effect]]
 - [[Metacognition]]
-- [[Curse of Knowledge]]
+- [[Intelligence Quotient]]
 
 ## Related
 - [[Self-Serving Bias]]

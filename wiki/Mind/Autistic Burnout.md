@@ -22,7 +22,7 @@ Autistic burnout differs from occupational burnout, which centers on work and cy
 Recovery is mostly about reducing load: dropping masking where safe, cutting demands, withdrawing to low-stimulation environments, and long periods of rest. People describe recovery as slow and incomplete if load returns to its old level. It shares a shape with overtraining in sport, where [[Training Load]] outruns recovery long enough that performance declines rather than improves, and rest is the only fix. Recognizing the warning signs early, before skills begin slipping, is the most practical protection. [[Interoception]] differences can make those signals hard to read in time.
 
 ## See also
-- [[Masking]]
+- [[Dissociation]]
 - [[Self-Compassion]]
 - [[Sensory Processing]]
 - [[Code-Switching]]

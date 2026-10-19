@@ -23,7 +23,7 @@ Several practices follow:
 
 ## See also
 - [[Calm Technology]]
-- [[Flow]]
+- [[Event Segmentation]]
 - [[Developer Experience]]
 - [[Modal Dialog]]
 - [[Attention Economy]]

@@ -31,9 +31,9 @@ Research has refined the picture. The two-to-one ratio varies widely across stud
 It fits with other findings about judgment: [[Anchoring Effect]] shows that reference points are easy to move, and [[Dual Process Theory]] describes the fast, intuitive system where loss aversion operates. The [[Hedonic Treadmill]] explains why gains fade quickly while losses linger.
 
 ## See also
-- [[Extra Life]]
+- [[Decoy Effect]]
 - [[Weber-Fechner Law]]
-- [[Trolley Problem]]
+- [[Ambiguity Aversion]]
 - [[Mental Accounting]]
 - [[Precautionary Principle]]
 - [[Affective Forecasting]]

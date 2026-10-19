@@ -29,3 +29,4 @@ Industrial societies have thinned many of these rituals. Life transitions are of
 - [[Social Capital]]
 - [[Grief]]
 - [[Reminiscence Bump]]
+- [[Event Segmentation]]

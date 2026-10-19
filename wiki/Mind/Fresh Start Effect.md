@@ -28,6 +28,6 @@ For those who find time hard to track, external landmarks give structure the cal
 
 ## See also
 - [[Hyperbolic Discounting]]
-- [[Peak-End Rule]]
-- [[Procrastination]]
+- [[Event Segmentation]]
+- [[Moral Licensing]]
 - [[Reminiscence Bump]]

@@ -24,7 +24,8 @@ Mental accounting is not purely an error. Budgeting by category, including the o
 The cost is that categories can blind people to tradeoffs. Every dollar spent in one account is still a dollar unavailable elsewhere; see [[Opportunity Cost]]. Designers of financial products and policies shape these accounts deliberately, for example by defaulting a portion of pay into savings so it never enters the spending account; see [[Choice Architecture]].
 
 ## See also
-- [[Expected Value]]
+- [[Moral Licensing]]
 - [[Gambler's Fallacy]]
 - [[Paywall]]
 - [[Ostrich Effect]]
+- [[Decoy Effect]]

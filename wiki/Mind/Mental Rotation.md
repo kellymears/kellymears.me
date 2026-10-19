@@ -27,3 +27,5 @@ Mental rotation also figures in navigation, where people must align a map with t
 - [[Gestalt Principles]]
 - [[Hemispatial Neglect]]
 - [[Multistable Perception]]
+- [[Eidetic Memory]]
+- [[Optical Illusion]]

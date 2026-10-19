@@ -22,7 +22,7 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Cookie Consent]]
 - [[Gamification]]
 - [[Pop-up Ad]]
-- [[Modal Dialog]]
+- [[Decoy Effect]]
 - [[Virtual Pet]]
 - [[Clickjacking]]
 - [[Banner Blindness]]

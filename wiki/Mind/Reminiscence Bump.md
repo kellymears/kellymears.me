@@ -31,7 +31,7 @@ Cultures mark these transitions with ceremonies that make them more memorable st
 The reminiscence bump suggests that a life's memories aren't spread evenly across its years. The periods in which people change most, encounter the most firsts, and decide who they are tend to dominate the story they tell later; see [[Fresh Start Effect]].
 
 ## See also
-- [[Default Mode Network]]
+- [[Eidetic Memory]]
 - [[Grief]]
 - [[Flashbulb Memory]]
 - [[Time Perception]]

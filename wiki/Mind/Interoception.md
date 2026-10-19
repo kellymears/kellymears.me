@@ -20,7 +20,7 @@ Interoception also underlies emotion. Prominent theories of emotion hold that fe
 As with [[Time Blindness]], the remedies are external. Scheduled meals and water, alarms for breaks, and a deliberate check of body state ("when did I last eat?") all compensate. Interoceptive training through attention exercises shows some promise. Meanwhile, routines carry what the inner sense doesn't, a form of [[Defensive Default]] for the body.
 
 ## See also
-- [[Hiccup]]
+- [[Dissociation]]
 - [[Emotional Granularity]]
 - [[Appetite Regulation]]
 - [[Rubber Hand Illusion]]

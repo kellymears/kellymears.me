@@ -26,7 +26,7 @@ The case is a good example of a [[Plausible Mechanism]] outrunning its evidence.
 - [[Central Governor Theory]]
 - [[Vigilance Decrement]]
 - [[Need for Closure]]
-- [[Satisficing]]
+- [[Decoy Effect]]
 - [[Spoon Theory]]
 - [[Stroop Effect]]
 - [[Mental Accounting]]

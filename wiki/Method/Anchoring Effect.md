@@ -22,7 +22,7 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 - [[In-Context Learning]]
 
 ## Related
-- [[Framing Effect]]
+- [[Decoy Effect]]
 - [[Need for Closure]]
 - [[Survey Design]]
 - [[Wisdom of the Crowd]]

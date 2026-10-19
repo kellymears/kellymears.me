@@ -33,4 +33,4 @@ Executive capacity also varies within one person. Sleep, stress, illness, and [[
 - [[Implementation Intention]]
 - [[Spoon Theory]]
 - [[Autistic Inertia]]
-- [[Procrastination]]
+- [[Intelligence Quotient]]

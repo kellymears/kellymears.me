@@ -25,7 +25,7 @@ Regulation isn't purely individual. **Co-regulation**, calming through another p
 ## See also
 - [[Mood-Congruent Memory]]
 - [[Misattribution of Arousal]]
-- [[Emotional Contagion]]
+- [[Dissociation]]
 - [[Attachment Theory]]
 - [[Emotional Granularity]]
 - [[Demand Avoidance]]

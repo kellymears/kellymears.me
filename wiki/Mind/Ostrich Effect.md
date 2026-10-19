@@ -24,5 +24,5 @@ Organizations show the same pattern. Teams that don't want to hear about problem
 The opposite pattern exists too. Compulsively seeking threatening news, refreshing the feed for one more alarming headline, is another way that anxiety distorts information-seeking; see [[Doomscrolling]].
 
 ## See also
-- [[Self-Handicapping]]
+- [[Ambiguity Aversion]]
 - [[Mental Accounting]]

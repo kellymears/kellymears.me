@@ -26,6 +26,6 @@ Explaining a problem aloud to someone, or to an object, may work partly by forci
 Some construal level effects have proved weaker in larger replications, and the theory's breadth makes it hard to test as a whole; see [[Replication Crisis]]. The core pattern, that distance shifts attention from details to essentials, has held up well.
 
 ## See also
-- [[Naive Realism]]
+- [[Identifiable Victim Effect]]
 - [[Mind-Wandering]]
 - [[Time Perception]]

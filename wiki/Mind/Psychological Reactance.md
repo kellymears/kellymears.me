@@ -30,6 +30,6 @@ Reactance has practical consequences for anyone trying to change behavior:
 The simplest antidote is to restore the freedom: offer options, explain reasons, and make clear that the choice belongs to the other person. Even a short phrase like "but you are free to choose" has been found to raise compliance in some experiments, the reverse of reactance; see [[Framing Effect]].
 
 ## See also
-- [[Ironic Process Theory]]
+- [[Ambiguity Aversion]]
 - [[Procrastination]]
 - [[Hobson's Choice]]

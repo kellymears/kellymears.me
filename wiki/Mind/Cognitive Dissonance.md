@@ -26,7 +26,7 @@ The idea has also lent its name elsewhere. [[Ludonarrative Dissonance]] describe
 Some classic findings have replicated less cleanly than textbooks suggest, but the core observation, that people justify what they have already done, has held up.
 
 ## See also
-- [[Rite of Passage]]
+- [[Moral Licensing]]
 - [[Choice Blindness]]
 - [[Obedience to Authority]]
 - [[Psychological Reactance]]

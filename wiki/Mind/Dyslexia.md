@@ -34,6 +34,6 @@ Dyslexia often co-occurs with [[ADHD]] and with dyscalculia, a related difficult
 
 ## See also
 - [[Text Justification]]
-- [[Inner Speech]]
+- [[Intelligence Quotient]]
 - [[Dyscalculia]]
-- [[Kerning]]
+- [[Learning Styles]]

@@ -26,3 +26,4 @@ The lesson extends beyond psychology. Vivid, confident recollection is weak evid
 ## See also
 - [[Episodic Memory]]
 - [[Grief]]
+- [[Eidetic Memory]]

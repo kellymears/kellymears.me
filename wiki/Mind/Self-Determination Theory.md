@@ -32,6 +32,6 @@ The needs map onto other ideas in this collection. Competence and absorption mee
 - [[Gamification]]
 - [[Psychological Reactance]]
 - [[Two-Pizza Team]]
-- [[Sense of Agency]]
+- [[Moral Licensing]]
 - [[Self-Efficacy]]
 - [[Gift Economy]]

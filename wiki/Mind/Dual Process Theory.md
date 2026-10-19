@@ -25,4 +25,4 @@ The model has real limits. Critics argue the two "systems" are a convenient sket
 The vocabulary now also describes machines. A [[Large Language Model]] answering directly is often compared to System 1, and [[Chain-of-Thought Prompting]], which makes it write out intermediate steps, to System 2. Similarly, [[Automation Bias]] is a System 2 failure: accepting a machine's answer without checking it.
 
 ## See also
-- [[Need for Closure]]
+- [[Ambiguity Aversion]]

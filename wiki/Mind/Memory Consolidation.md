@@ -28,6 +28,6 @@ Machine learning ran into the same problem. A neural network trained on a new ta
 - [[Napping]]
 - [[Cognitive Map]]
 - [[Hopfield Network]]
-- [[Flashbulb Memory]]
-- [[Tetris]]
+- [[Eidetic Memory]]
+- [[Event Segmentation]]
 - [[Catastrophic Forgetting]]

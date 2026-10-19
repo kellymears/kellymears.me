@@ -30,7 +30,7 @@ Three practical cautions:
 - **Warmth.** Warm and cool are borrowed from light sources, where low color temperatures look amber; see [[Color Temperature]].
 
 ## See also
-- [[Memphis Group]]
+- [[Optical Illusion]]
 - [[Venn Diagram]]
 - [[Logo]]
 - [[Chroma Key]]

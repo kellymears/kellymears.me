@@ -17,7 +17,7 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Histogram]]
 - [[Control Chart]]
 - [[Mean and Median]]
-- [[Simpson's Paradox]]
+- [[Intelligence Quotient]]
 
 ## Related
 - [[Law of Large Numbers]]

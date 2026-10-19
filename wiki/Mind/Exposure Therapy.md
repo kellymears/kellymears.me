@@ -32,6 +32,6 @@ The same principle helps with social anxiety and fear of rejection; see [[Reject
 
 ## See also
 - [[Syncope]]
-- [[Learned Helplessness]]
+- [[Dissociation]]
 - [[Grief]]
 - [[Misophonia]]

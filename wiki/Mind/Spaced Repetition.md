@@ -21,11 +21,11 @@ The method spread through software. The Leitner system of the 1970s used flashca
 Spaced repetition handles discrete facts best. Understanding comes from connecting ideas, which is where linked note systems such as a [[Zettelkasten]] or [[Wiki]] fit, and the two approaches complement each other. Its short daily review sessions also suit [[Habit Formation]]. It works with the limits of [[Working Memory]] and [[Cognitive Load]] by keeping each session small. Language models face a version of the same problem, and [[Agent Memory]] systems borrow ideas about what to keep and when to refresh it.
 
 ## See also
-- [[Memory Consolidation]]
+- [[Learning Styles]]
 - [[Curriculum Learning]]
 - [[Processing Fluency]]
 - [[Deliberate Practice]]
 - [[Levels of Processing]]
 - [[Default Mode Network]]
 - [[Learning Curve]]
-- [[Sleep Stages]]
+- [[Eidetic Memory]]

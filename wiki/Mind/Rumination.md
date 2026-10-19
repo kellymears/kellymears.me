@@ -37,5 +37,5 @@ Rumination is common in [[Rejection Sensitivity]], where a perceived slight is r
 - [[Psychological Distance]]
 - [[Ironic Process Theory]]
 - [[Mood-Congruent Memory]]
-- [[Affective Forecasting]]
+- [[Eidetic Memory]]
 - [[Spotlight Effect]]

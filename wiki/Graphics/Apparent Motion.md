@@ -27,7 +27,7 @@ Higher [[Frame Rate]]s narrow the gap between samples, so motion looks smoother 
 ## See also
 - [[Rotoscoping]]
 - [[Motion Interpolation]]
-- [[Interlacing]]
+- [[Optical Illusion]]
 - [[Stop Motion]]
 - [[Smear Frame]]
 - [[Afterimage]]

@@ -34,4 +34,4 @@ A striking item in the middle can escape the slump, which is the [[Von Restorff 
 - [[Survey Design]]
 - [[Cliffhanger]]
 - [[Context Rot]]
-- [[Choice Architecture]]
+- [[Event Segmentation]]

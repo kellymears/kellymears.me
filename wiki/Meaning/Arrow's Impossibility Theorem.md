@@ -32,7 +32,7 @@ Arrow's result belongs to a family of impossibility theorems that show some comb
 
 ## See also
 - [[Sortition]]
-- [[Wisdom of the Crowd]]
+- [[Decoy Effect]]
 - [[Schelling Point]]
 - [[Tyranny of the Majority]]
 - [[Veil of Ignorance]]

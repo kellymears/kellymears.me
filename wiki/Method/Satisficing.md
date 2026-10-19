@@ -29,5 +29,5 @@ Satisficing has its own risk: setting the bar too low, or never revisiting it. T
 - [[Cost-Benefit Analysis]]
 - [[Cynefin Framework]]
 - [[Wicked Problem]]
-- [[Interesting Decisions]]
+- [[Decoy Effect]]
 - [[Approximation Algorithm]]

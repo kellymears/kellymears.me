@@ -31,5 +31,5 @@ Critics argue that the label gets applied to events that were foreseeable and si
 - [[Narrative Fallacy]]
 - [[Paradigm Shift]]
 - [[Scenario Planning]]
-- [[Antifragility]]
+- [[Ambiguity Aversion]]
 - [[Sensitivity Analysis]]

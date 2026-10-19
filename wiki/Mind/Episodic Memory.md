@@ -29,8 +29,8 @@ Episodic memory also explains why experiences feel the way they do in retrospect
 
 ## See also
 - [[Mood-Congruent Memory]]
-- [[Flashbulb Memory]]
+- [[Eidetic Memory]]
 - [[Cognitive Map]]
 - [[Hopfield Network]]
 - [[Grief]]
-- [[Time Perception]]
+- [[Event Segmentation]]

@@ -28,7 +28,7 @@ False memory has serious consequences:
 Protection comes from good practice: asking open rather than leading questions, recording accounts early, and using techniques like the cognitive interview, which leans on [[Context-Dependent Memory]] cues instead of suggestion. Memory's malleability fits [[Predictive Processing]] views of the mind as constantly filling gaps with expectations. It also shapes how people remember experiences overall, as in the [[Peak-End Rule]], and how [[Nostalgia]] edits the past into something warmer than it was.
 
 ## See also
-- [[Narrative Fallacy]]
+- [[Eidetic Memory]]
 - [[Déjà Vu]]
 - [[Rashomon Effect]]
 - [[Source Amnesia]]

@@ -27,7 +27,7 @@ The commercial version oversells. Brain-training games mostly improve performanc
 
 ## See also
 - [[Dyslexia]]
-- [[Rubber Hand Illusion]]
+- [[Learning Styles]]
 - [[Vertigo]]
 - [[Cognitive Map]]
 - [[Neural Network Pruning]]

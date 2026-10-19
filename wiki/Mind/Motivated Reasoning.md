@@ -32,7 +32,7 @@ Countermeasures that have some support:
 4. **Separate identity from belief**, so changing a mind doesn't feel like betraying a group.
 
 ## See also
-- [[Need for Closure]]
+- [[Moral Licensing]]
 - [[Ostrich Effect]]
 - [[Barnum Effect]]
 - [[Devil's Advocate]]

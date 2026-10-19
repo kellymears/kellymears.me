@@ -26,7 +26,7 @@ A practical correction is **surrogation**: ask someone who has gone through the 
 Affective forecasting matters for anxiety too. Imagining a feared event as overwhelming and permanent feeds avoidance, and therapies work partly by testing those predictions against what actually happens; see [[Cognitive Behavioral Therapy]] and [[Rumination]].
 
 ## See also
-- [[Planning Fallacy]]
+- [[Identifiable Victim Effect]]
 - [[Loss Aversion]]
 - [[Savoring]]
 - [[Psychological Distance]]

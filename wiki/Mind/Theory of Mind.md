@@ -28,6 +28,6 @@ Machines raised the question again in 2023, when [[Large Language Model]] system
 - [[Mirror Neurons]]
 - [[Turing Test]]
 - [[ELIZA Effect]]
-- [[Emotional Contagion]]
+- [[Identifiable Victim Effect]]
 - [[Aphantasia]]
 - [[Prosopagnosia]]

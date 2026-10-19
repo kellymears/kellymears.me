@@ -39,3 +39,4 @@ How results change depends on context. Ranked ballots may reward broadly accepta
 - [[Wisdom of the Crowd]]
 - [[Tyranny of the Majority]]
 - [[Veil of Ignorance]]
+- [[Decoy Effect]]

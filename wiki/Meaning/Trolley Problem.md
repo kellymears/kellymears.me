@@ -32,4 +32,4 @@ Critics argue the scenarios are so artificial that intuitions about them reveal 
 - [[Thought Experiment]]
 - [[Obedience to Authority]]
 - [[Cost-Benefit Analysis]]
-- [[Morality System]]
+- [[Identifiable Victim Effect]]

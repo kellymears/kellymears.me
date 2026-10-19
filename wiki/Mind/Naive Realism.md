@@ -29,7 +29,7 @@ Opposing groups overestimate how extreme the other side's views are, and each se
 Remedies start from taking another's view seriously: restate an opponent's position until they agree it's fair before arguing with it; see [[Steelmanning]]. Recognizing that other minds hold different information is the foundation; see [[Theory of Mind]].
 
 ## See also
-- [[Flashbulb Memory]]
+- [[Optical Illusion]]
 - [[IKEA Effect]]
 - [[Multistable Perception]]
 - [[Psychological Distance]]

@@ -26,5 +26,5 @@ Pomodoro is a specific form of the broader practice of *timeboxing*, allotting a
 - [[Shape Up]]
 - [[Napping]]
 - [[Vigilance Decrement]]
-- [[Implementation Intention]]
+- [[Event Segmentation]]
 - [[Daily Standup]]

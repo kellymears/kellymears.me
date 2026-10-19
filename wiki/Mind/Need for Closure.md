@@ -34,4 +34,4 @@ The opposite tendency is linked to curiosity and enjoyment of thinking, which ke
 
 ## See also
 - [[Cognitive Dissonance]]
-- [[Dual Process Theory]]
+- [[Ambiguity Aversion]]

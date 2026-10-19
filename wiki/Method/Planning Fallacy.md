@@ -28,7 +28,7 @@ Adding people late rarely saves a late project, as [[Brooks's Law]] warns, and w
 ## See also
 - [[Burndown Chart]]
 - [[Spiral Model]]
-- [[Crunch]]
+- [[Ambiguity Aversion]]
 - [[Time Perception]]
 - [[Delphi Method]]
 - [[Superforecasting]]

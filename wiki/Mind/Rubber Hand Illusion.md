@@ -23,6 +23,7 @@ The illusion connects to clinical phenomena. Amputees often feel a missing limb,
 Owning a body is related to but different from feeling in control of it. Moving a hand and seeing it move as expected builds a sense of agency, and agency and ownership can come apart; see [[Sense of Agency]]. People also differ in how strongly they feel the illusion, which some researchers link to differences in sensing the body's internal state; see [[Interoception]]. The body the mind experiences isn't simply given; see [[Embodied Cognition]].
 
 ## See also
-- [[Haptic Feedback]]
+- [[Optical Illusion]]
 - [[Ideomotor Effect]]
 - [[Multistable Perception]]
+- [[Dissociation]]

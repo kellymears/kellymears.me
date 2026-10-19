@@ -35,3 +35,4 @@ Depth also doesn't replace repetition and retrieval over time, which keep memori
 ## See also
 - [[Curse of Knowledge]]
 - [[Serial Position Effect]]
+- [[Learning Styles]]

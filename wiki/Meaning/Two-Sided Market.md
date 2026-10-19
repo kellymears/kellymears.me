@@ -26,6 +26,6 @@ Matching markets that run without prices, like school choice and medical residen
 
 ## See also
 - [[Diffusion of Innovations]]
-- [[Comparative Advantage]]
+- [[Decoy Effect]]
 - [[Schelling Point]]
 - [[Minitel]]

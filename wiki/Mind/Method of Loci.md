@@ -28,7 +28,7 @@ It still offers a useful lesson about memory: it is not a passive recording but 
 
 ## See also
 - [[Levels of Processing]]
-- [[Episodic Memory]]
+- [[Eidetic Memory]]
 - [[Cognitive Map]]
 - [[Mental Rotation]]
 - [[Aphantasia]]

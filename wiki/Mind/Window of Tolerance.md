@@ -31,6 +31,6 @@ Siegel's model is often paired with polyvagal theory, which proposes specific ne
 
 ## See also
 - [[Misophonia]]
-- [[Fight-or-Flight Response]]
+- [[Dissociation]]
 - [[Grief]]
 - [[Misattribution of Arousal]]

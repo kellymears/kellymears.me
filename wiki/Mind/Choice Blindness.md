@@ -24,7 +24,7 @@ The findings have implications for surveys and research that rely on self-report
 
 ## See also
 - [[Hemispatial Neglect]]
-- [[Inner Speech]]
+- [[Decoy Effect]]
 - [[Sense of Agency]]
 - [[Ideomotor Effect]]
 - [[Motivated Reasoning]]

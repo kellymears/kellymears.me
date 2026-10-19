@@ -27,6 +27,6 @@ Related findings support it. Spacing and mixing practice feels harder but produc
 ## See also
 - [[Self-Efficacy]]
 - [[Air France Flight 447]]
-- [[Learning Curve]]
-- [[Bushnell's Law]]
+- [[Learning Styles]]
+- [[Intelligence Quotient]]
 - [[Tetris]]
