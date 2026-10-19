@@ -23,6 +23,6 @@ The recurring practical symptom is asymmetric: read requests succeed while write
 - [[eSIM]]
 - [[Browser Extension]]
 - [[Caller ID Authentication]]
-- [[Web Storage]]
+- [[Loopback]]
 - [[Hotlinking]]
 - [[Origin Private File System]]

@@ -27,3 +27,4 @@ The practical caution for anything built on public signaling infrastructure is t
 - [[Adaptive Bitrate Streaming]]
 - [[Quality of Service]]
 - [[Voice over IP]]
+- [[End-to-End Encryption]]

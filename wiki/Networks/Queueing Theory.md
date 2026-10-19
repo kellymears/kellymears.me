@@ -36,5 +36,5 @@ Lessons follow:
 - [[Kanban]]
 - [[Amdahl's Law]]
 - [[ALOHAnet]]
-- [[Quality of Service]]
+- [[Packet Loss]]
 - [[Bandwidth]]

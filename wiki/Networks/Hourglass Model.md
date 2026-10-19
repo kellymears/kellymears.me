@@ -21,4 +21,5 @@ Every behavior of the waist becomes something someone depends on, which is why h
 
 ## See also
 - [[Leaky Abstraction]]
-- [[Network Effect]]
+- [[Network Topology]]
+- [[File Transfer Protocol]]

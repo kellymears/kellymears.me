@@ -27,6 +27,6 @@ The system is now being retired. Calls increasingly travel as internet packets, 
 - [[Submarine Cable]]
 - [[Pager]]
 - [[Last Mile]]
-- [[SMS]]
+- [[Internet Service Provider]]
 - [[Token Ring]]
-- [[Voice over IP]]
+- [[Minitel]]

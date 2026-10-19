@@ -25,7 +25,7 @@ Software distribution runs on archives. Most packages are archives with metadata
 Archives outlive the programs that made them, which is why open, documented formats matter for long-term storage; see [[Digital Preservation]].
 
 ## See also
-- [[Filesystem]]
+- [[File Transfer Protocol]]
 - [[Backup and Restore]]
 - [[Burrows-Wheeler Transform]]
 - [[Sparse File]]

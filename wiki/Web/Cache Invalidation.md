@@ -19,7 +19,7 @@ The subtlest form is a cache whose *scope* is smaller than assumed: a value memo
 - [[Determinism]]
 - [[Naming]]
 - [[Static Site Generation]]
-- [[Hash Function]]
+- [[Certificate Revocation]]
 - [[React Server Components]]
 - [[Domain Name System]]
 - [[Materialized View]]

@@ -31,5 +31,5 @@ Browsers support client certificates, but the experience is poor, so for people,
 
 ## See also
 - [[Virtual Private Network]]
-- [[Secure Shell]]
+- [[Certificate Revocation]]
 - [[Passkey]]

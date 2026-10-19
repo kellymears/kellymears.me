@@ -26,7 +26,7 @@ The weak point is binding a public key to an identity. A public key proves only 
 ## See also
 - [[Commit Signing]]
 - [[Encrypted Media Extensions]]
-- [[Blockchain]]
+- [[End-to-End Encryption]]
 - [[Entropy Pool]]
-- [[Zero-Knowledge Proof]]
+- [[Certificate Revocation]]
 - [[One-Time Pad]]

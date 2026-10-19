@@ -31,8 +31,8 @@ The sysop owned the board and set its rules, deciding who got access and what co
 Commercial online services and then the web emptied the boards in the mid-1990s, as internet access arrived with the whole world attached; see [[Eternal September]]. A few hundred still run, now reached over the internet rather than by phone, kept alive for nostalgia and for door games no one else hosts.
 
 ## See also
-- [[Simple Mail Transfer Protocol]]
-- [[Sneakernet]]
+- [[Minitel]]
+- [[Mailing List]]
 - [[Multi-User Dungeon]]
 - [[Time-Sharing]]
 - [[Telnet]]

@@ -33,5 +33,5 @@ Live streaming adds a latency trade-off. Larger buffers absorb [[Latency and Jit
 - [[Quality of Service]]
 - [[QUIC]]
 - [[Napster]]
-- [[Bandwidth]]
+- [[Packet Loss]]
 - [[Cellular Network]]

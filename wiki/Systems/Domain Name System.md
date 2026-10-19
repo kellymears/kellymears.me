@@ -20,9 +20,9 @@ The common record types are few: an address record, an alias record pointing one
 - [[Email Authentication]]
 - [[Encrypted Client Hello]]
 - [[Persistent Identifier]]
-- [[Simple Mail Transfer Protocol]]
+- [[Internet Service Provider]]
 - [[Time to First Byte]]
-- [[Certificate Authority]]
+- [[Loopback]]
 - [[Border Gateway Protocol]]
 
 ## Related

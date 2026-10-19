@@ -24,7 +24,7 @@ Defenses are being deployed slowly. **RPKI** lets address owners publish signed 
 BGP is also a tool. [[Anycast]] announces the same addresses from many locations and lets BGP route each user to the nearest, which is how [[Content Delivery Network]] edges and public DNS resolvers work. DDoS mitigation services redirect a victim's traffic by announcing its routes. BGP's slow, policy-driven convergence is part of why the internet tolerates link failures well but recovers from mistakes badly.
 
 ## See also
-- [[Anycast]]
+- [[Internet Service Provider]]
 - [[IP Routing]]
 - [[Domain Name System]]
 - [[Software-Defined Networking]]

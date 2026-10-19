@@ -21,5 +21,5 @@ The word is also overused. "Capture" can function as a [[Plausible Mechanism]] t
 - [[Hanlon's Razor]]
 - [[Sortition]]
 - [[Jaywalking]]
-- [[Gerrymandering]]
+- [[Internet Service Provider]]
 - [[Information Asymmetry]]

@@ -30,6 +30,6 @@ The debate concerns the same thing as other platform fights: who controls access
 
 ## See also
 - [[Quality of Service]]
-- [[Bandwidth]]
+- [[Internet Service Provider]]
 - [[Telephone Network]]
 - [[Last Mile]]

@@ -28,3 +28,4 @@ Matching markets that run without prices, like school choice and medical residen
 - [[Median Voter Theorem]]
 - [[Duverger's Law]]
 - [[Schelling Point]]
+- [[Minitel]]

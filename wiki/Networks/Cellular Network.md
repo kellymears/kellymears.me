@@ -34,6 +34,6 @@ The radio itself is expensive in energy. Keeping it active drains the [[Lithium-
 ## See also
 - [[Pager]]
 - [[Adaptive Bitrate Streaming]]
-- [[SMS]]
+- [[Internet Service Provider]]
 - [[Spread Spectrum]]
 - [[Faraday Cage]]

@@ -25,7 +25,7 @@ Communities defend themselves in various ways: requiring new accounts to wait be
 The term carries some snobbery. Newcomers have always been treated as a problem by people who were newcomers themselves not long before, and many communities that complained about AOL users went on to welcome millions more people to the internet. Still, the core observation holds: norms depend on the people who carry them, and a community that grows faster than it can pass them on becomes a different community; see [[Third Place]] and [[Context Collapse]].
 
 ## See also
-- [[Email Spam]]
+- [[Mailing List]]
 - [[Code of Conduct]]
 - [[Godwin's Law]]
 - [[Modem]]

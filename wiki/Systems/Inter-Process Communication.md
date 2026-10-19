@@ -31,4 +31,4 @@ Designs that communicate only by messages, sharing no memory at all, avoid many 
 
 ## See also
 - [[Clipboard]]
-- [[IO Multiplexing]]
+- [[Loopback]]

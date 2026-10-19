@@ -36,4 +36,4 @@ The usual pitfalls:
 ## See also
 - [[Amazon S3 Outage of 2017]]
 - [[Software Aging]]
-- [[Time to First Byte]]
+- [[Gray Failure]]

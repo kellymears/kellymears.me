@@ -30,3 +30,4 @@ Drives fail mechanically, often after warning signs such as reallocated sectors 
 - [[Moore's Law]]
 - [[Bit rot]]
 - [[PCI Express]]
+- [[Gray Failure]]

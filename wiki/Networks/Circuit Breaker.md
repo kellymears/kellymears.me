@@ -15,7 +15,7 @@ Circuit breakers are usually scoped per dependency, not globally — a failing p
 
 ## See also
 - [[Load Shedding]]
-- [[Cascading Failure]]
+- [[Gray Failure]]
 - [[Service Virtualization]]
 - [[Dead Letter Queue]]
 - [[Normal Accidents]]

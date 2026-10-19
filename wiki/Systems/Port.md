@@ -34,3 +34,4 @@ Confirming which process holds a port — and what directory it is running from 
 - [[Network Address Translation]]
 - [[Superuser]]
 - [[URL]]
+- [[Loopback]]

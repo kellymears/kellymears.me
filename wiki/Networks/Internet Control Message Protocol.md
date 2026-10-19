@@ -29,3 +29,4 @@ In IPv6, ICMP takes on more. ICMPv6 handles neighbor discovery, the job [[Addres
 - [[Packet Switching]]
 - [[Packet Capture]]
 - [[Port Scanning]]
+- [[Packet Loss]]

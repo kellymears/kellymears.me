@@ -33,4 +33,4 @@ The same model appears elsewhere: [[Code Signing]] certificates for software, de
 - [[Build Provenance]]
 - [[Heartbleed]]
 - [[HTTP Strict Transport Security]]
-- [[Man-in-the-Middle Attack]]
+- [[Certificate Revocation]]

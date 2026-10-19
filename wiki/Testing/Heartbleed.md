@@ -24,7 +24,7 @@ In response, the Linux Foundation set up the Core Infrastructure Initiative to f
 
 ## See also
 - [[XZ Utils Backdoor]]
-- [[Software Bill of Materials]]
+- [[Certificate Revocation]]
 - [[Bug bounty]]
 - [[Patch Tuesday]]
 - [[Log4Shell]]

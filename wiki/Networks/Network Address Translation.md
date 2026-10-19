@@ -34,5 +34,5 @@ NAT also appears inside machines. [[Containerization]] tools usually give contai
 ## See also
 - [[Port Scanning]]
 - [[Captive Portal]]
-- [[Network Socket]]
+- [[File Transfer Protocol]]
 - [[Wake-on-LAN]]

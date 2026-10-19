@@ -31,7 +31,7 @@ Backups also carry obligations. They contain the same sensitive data as producti
 
 ## See also
 - [[Logical Volume Manager]]
-- [[Disk Image]]
+- [[End-to-End Encryption]]
 - [[Hard Link]]
 - [[Hard Disk Drive]]
 - [[Data Sovereignty]]

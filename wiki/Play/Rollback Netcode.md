@@ -24,3 +24,4 @@ Rollback depends entirely on [[Determinism]]: the resimulation only produces the
 - [[Nagle's Algorithm]]
 - [[Hit Stop]]
 - [[Esports]]
+- [[Packet Loss]]

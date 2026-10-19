@@ -28,3 +28,4 @@ The vocabulary survives in software operations, where an engineer "on call" is "
 - [[Telephone Network]]
 - [[Amateur Radio]]
 - [[ChatOps]]
+- [[Minitel]]

@@ -22,7 +22,7 @@ The honest cost is operational complexity: every service now needs to participat
 - [[Encrypted Client Hello]]
 - [[Honeypot]]
 - [[Subnet]]
-- [[Man-in-the-Middle Attack]]
+- [[End-to-End Encryption]]
 - [[Row-Level Security]]
 - [[Trusted Platform Module]]
 - [[Mutual TLS]]

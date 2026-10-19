@@ -34,3 +34,4 @@ Unattended unlocking adds trade-offs. A Trusted Platform Module can release the 
 - [[Disk Image]]
 - [[Disk Partition]]
 - [[Rowhammer]]
+- [[End-to-End Encryption]]

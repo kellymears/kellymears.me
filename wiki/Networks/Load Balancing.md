@@ -24,5 +24,5 @@ Layer 4 balancers work at the TCP/UDP level and just forward packets, cheap and 
 - [[Hot Partition]]
 - [[Quality of Service]]
 - [[OSI Model]]
-- [[Failure Detection]]
+- [[Gray Failure]]
 - [[Software-Defined Networking]]

@@ -29,7 +29,7 @@ The 2.4 GHz band is shared with Wi-Fi and Bluetooth, so Zigbee and Thread channe
 - [[Multicast]]
 - [[Peer-to-Peer]]
 - [[Amateur Radio]]
-- [[Latency and Jitter]]
+- [[Network Topology]]
 - [[Network Effect]]
 - [[Packet Switching]]
 - [[Wi-Fi]]

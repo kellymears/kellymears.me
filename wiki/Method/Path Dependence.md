@@ -14,12 +14,12 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 
 ## See also
 - [[Flanderization]]
-- [[Technology Radar]]
+- [[File Transfer Protocol]]
 - [[Gopher]]
 - [[Paper Size]]
 - [[GIF]]
 - [[Video Game Crash of 1983]]
-- [[Second-Order Thinking]]
+- [[Minitel]]
 - [[Encrypted Media Extensions]]
 - [[Two-Sided Market]]
 - [[Boeing 737 MAX Groundings]]

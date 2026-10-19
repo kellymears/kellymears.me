@@ -31,4 +31,4 @@ Related techniques work at other layers. Some storage systems read from extra re
 ## See also
 - [[Timeout]]
 - [[Queueing Theory]]
-- [[Exponential Backoff]]
+- [[Gray Failure]]

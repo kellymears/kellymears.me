@@ -27,7 +27,7 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 ## See also
 - [[GitLab Database Incident]]
 - [[Failure Mode and Effects Analysis]]
-- [[Apollo 11 Program Alarms]]
+- [[Gray Failure]]
 - [[Amazon S3 Outage of 2017]]
 - [[Single-Event Upset]]
 - [[Mean Time to Recovery]]

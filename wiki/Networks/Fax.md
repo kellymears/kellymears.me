@@ -29,3 +29,4 @@ Many faxes now never touch paper, sent from software to an email inbox, keeping 
 ## See also
 - [[Image Sensor]]
 - [[Backward Compatibility]]
+- [[Minitel]]

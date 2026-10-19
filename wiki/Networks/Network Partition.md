@@ -27,4 +27,4 @@ After the partition heals, the system must reconcile. Replicas compare what they
 Partition behavior is hard to test because it depends on timing. Kyle Kingsbury's Jepsen project became famous for partitioning real databases and finding lost writes their documentation said couldn't happen. [[Chaos Engineering]] and [[Deterministic Simulation Testing]] inject partitions on purpose.
 
 ## See also
-- [[Distributed Lock]]
+- [[Network Topology]]

@@ -18,7 +18,7 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Real-Time Operating System]]
 - [[Nagle's Algorithm]]
 - [[Sneakernet]]
-- [[Satellite Internet]]
+- [[Packet Loss]]
 - [[Delay-Tolerant Networking]]
 - [[Memory Hierarchy]]
 - [[Internet Control Message Protocol]]

@@ -32,6 +32,6 @@ These failures appear only under real load and coupling. Deliberately injecting 
 
 ## See also
 - [[Earthquake]]
-- [[Kernel Panic]]
-- [[Normal Accidents]]
+- [[Gray Failure]]
+- [[Network Topology]]
 - [[Orbit]]

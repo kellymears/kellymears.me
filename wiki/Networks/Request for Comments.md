@@ -26,9 +26,9 @@ The process has critics. It's slow; large companies can fund many participants; 
 Its openness has been tested. After 2013 revelations about mass surveillance, the IETF declared pervasive monitoring an attack and pushed encryption across protocols; see [[Transport Layer Security]] and [[QUIC]].
 
 ## See also
-- [[Top-Level Domain]]
+- [[File Transfer Protocol]]
 - [[Gopher]]
 - [[Conventional Commits]]
 - [[Pigeon Post]]
-- [[Iron Law of Oligarchy]]
+- [[Mailing List]]
 - [[Syslog]]

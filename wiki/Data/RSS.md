@@ -22,7 +22,7 @@ Because the format is machine-readable and low-friction, it is also a decent gen
 
 ## Related
 - [[iCalendar]]
-- [[Semantic HTML]]
+- [[Mailing List]]
 - [[Frontmatter]]
 - [[Sitemap]]
 - [[Knowledge Graph]]

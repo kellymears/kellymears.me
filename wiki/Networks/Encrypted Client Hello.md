@@ -29,3 +29,4 @@ The design reflects a broader lesson about protocols: anything sent in clear tex
 ## See also
 - [[Onion Routing]]
 - [[Virtual Private Network]]
+- [[End-to-End Encryption]]

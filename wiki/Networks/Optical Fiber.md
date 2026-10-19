@@ -29,7 +29,7 @@ Fiber doesn't make the network faster in every sense. Light in glass travels at 
 ## See also
 - [[Internet Exchange Point]]
 - [[Glass]]
-- [[Telegraph]]
+- [[Internet Service Provider]]
 - [[Last Mile]]
 - [[Satellite Internet]]
 - [[Token Ring]]

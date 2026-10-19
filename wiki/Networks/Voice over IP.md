@@ -31,5 +31,5 @@ Older services that rode on phone lines, such as alarm panels and card terminals
 Browsers now include real-time audio and video directly, so calls happen inside web pages; see [[WebRTC]].
 
 ## See also
-- [[Modem]]
-- [[Head-of-Line Blocking]]
+- [[End-to-End Encryption]]
+- [[Packet Loss]]
