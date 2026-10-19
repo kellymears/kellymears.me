@@ -18,6 +18,3 @@ The genre's real risk is scope: a system detailed enough to be a genuine simulat
 - [[Fog of War]]
 - [[Time as Resource]]
 - [[Emergent Gameplay]]
-- [[Wargame]]
-- [[Real-Time Strategy]]
-- [[Asymmetric Multiplayer]]

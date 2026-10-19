@@ -12,16 +12,7 @@ The technique appears at several layers that rarely get connected. When a Unix p
 The trade copy-on-write makes is complexity for cost: tracking which pages or blocks are shared and which have diverged requires reference counting (see [[Garbage Collection]]) or a similar bookkeeping structure, and a workload that writes to nearly everything it touches gets little benefit and pays that bookkeeping overhead anyway. It earns its keep specifically when most of the shared data survives unmodified — the common case for both process forking and filesystem snapshots.
 
 ## See also
-- [[Fork and Exec]]
-- [[Zero-Copy]]
-- [[ZFS]]
-- [[Logical Volume Manager]]
-- [[Sparse File]]
-- [[Multiversion Concurrency Control]]
-- [[Data Deduplication]]
-- [[Reference Counting]]
-- [[Recycle Bin]]
-- [[Journaling File System]]
-- [[File Fragmentation]]
+- [[Inode]]
+- [[Process]]
+- [[Idempotence]]
 - [[Atomic File Write]]
-- [[Overlay Filesystem]]

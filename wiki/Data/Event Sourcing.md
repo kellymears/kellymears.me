@@ -12,17 +12,11 @@ This inverts the usual relationship between a database's current state and its h
 The cost is that querying "current state" now requires either replaying potentially very long event histories, or maintaining a **read model** — a materialized, denormalized projection kept in sync with the event log — which is exactly the split that CQRS (command query responsibility segregation) names: writes go to the event log, reads go to a separately maintained projection built for the query pattern that needs it. [[Change Data Capture]] is the more common on-ramp to this idea in practice — it turns an ordinary database's own write history into the same kind of event stream, without requiring the whole system to be designed around events from the start.
 
 ## See also
-- [[Command Query Responsibility Segregation]]
-- [[Double-Entry Bookkeeping]]
-- [[Bitemporal Data]]
 - [[Denormalization]]
+- [[Message Queue]]
+- [[Write-Ahead Logging]]
 - [[State Management]]
 - [[Soft Delete]]
-- [[Log-Structured Merge Tree]]
-- [[Multiversion Concurrency Control]]
 - [[Persistent Data Structure]]
-- [[Stream Processing]]
-- [[Jujutsu]]
 - [[Schema Evolution]]
 - [[Timeline]]
-- [[Data Retention]]

@@ -19,19 +19,16 @@ Three practical notes.
 **Rotation must be possible.** A secret nobody can rotate without downtime will not be rotated, which turns a routine hygiene task into an incident.
 
 ## See also
-- [[Entropy Pool]]
+- [[Least Privilege]]
+- [[Environment Variable]]
+- [[Supply Chain Security]]
+- [[Silent Failure]]
+- [[Defensive Default]]
+- [[Prompt Injection]]
+- [[Continuous Deployment]]
+- [[Observability]]
+- [[Ground Truth]]
 - [[Gitignore]]
-- [[Enigma Machine]]
 - [[Server-Side Request Forgery]]
 - [[Clipboard]]
-- [[Password Manager]]
-- [[Ransomware]]
 - [[GNU Privacy Guard]]
-
-## Related
-- [[Overlay Filesystem]]
-- [[Dependency Confusion]]
-- [[Data Masking]]
-- [[Air Gap]]
-- [[Full-Disk Encryption]]
-- [[Trusted Platform Module]]

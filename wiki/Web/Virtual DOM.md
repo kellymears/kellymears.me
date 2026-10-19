@@ -14,19 +14,10 @@ The diffing algorithm relies on a heuristic, not an optimal tree-diff (which is 
 Not every framework uses this model — Svelte compiles away the diffing entirely, generating direct DOM-update code at build time — but where it's used, it's the mechanism that lets component code stay declarative ("render this given this state") while the framework handles the imperative part of turning that into efficient DOM writes.
 
 ## See also
-- [[Resumability]]
-- [[Template Engine]]
 - [[Hydration]]
-- [[CSS-in-JS]]
-- [[Layout Thrashing]]
-
-## Related
 - [[Web Components]]
-- [[Edit Distance]]
+- [[React Server Components]]
+- [[Optimistic UI]]
+- [[CSS-in-JS]]
 - [[Persistent Data Structure]]
-- [[Event Delegation]]
-- [[Reactive Signals]]
 - [[State Management]]
-- [[Transpiler]]
-- [[jQuery]]
-- [[Model-View-Controller]]

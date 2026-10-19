@@ -26,11 +26,10 @@ The problems come from the same source:
 - **Matching.** Requests with timestamps, random identifiers, or signatures differ on every run, so the tool needs rules for which parts of a request must match.
 - **Error paths.** Recording success is easy; capturing a timeout or a 503 [[HTTP Status Code]] from a real service is not, so failures usually still need hand-written fakes.
 
-The same idea appears at other scales. [[Shadow Traffic]] records or mirrors production requests to exercise a new version. Reverse and time-travel features of a [[Debugger]] record a program's execution so it can be stepped backward, invaluable for a [[Heisenbug]]. [[Deterministic Simulation Testing]] makes replay exact by controlling every source of nondeterminism.
+The same idea appears at other scales. Shadow Traffic records or mirrors production requests to exercise a new version. Reverse and time-travel features of a debugger record a program's execution so it can be stepped backward, invaluable for a [[Heisenbug]]. Deterministic Simulation Testing makes replay exact by controlling every source of nondeterminism.
 
 Record and replay has found a new use in testing applications built on language models. Model responses are slow, cost money, and vary between calls, so recording them makes a test suite fast, cheap, and repeatable, with the same drift caveat when the model changes.
 
 ## See also
 - [[Packet Capture]]
-- [[Mars Pathfinder Priority Inversion]]
 - [[Service Virtualization]]

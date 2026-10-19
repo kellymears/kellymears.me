@@ -23,6 +23,5 @@ Two further practical notes. A `var()` that resolves to nothing fails *quietly*:
 ## Related
 - [[Root Cause Analysis]]
 - [[OKLCH]]
-- [[CSS Preprocessor]]
 - [[CSS-in-JS]]
 - [[Cascading Style Sheets]]

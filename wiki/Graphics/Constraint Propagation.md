@@ -16,19 +16,13 @@ The same structure appears in type inference, scheduling, layout solvers, and de
 
 ## See also
 - [[Game AI]]
-- [[Automated Planning]]
 - [[Roguelike]]
 - [[Cellular Automaton]]
-
-## Related
-- [[Crossword]]
 - [[Trick-Taking Game]]
 - [[L-System]]
-- [[Enigma Machine]]
 - [[Voxel]]
-- [[Sudoku]]
+- [[Seeded Randomness]]
+- [[Procedural Generation]]
+- [[Determinism]]
+- [[Shader]]
 - [[Backtracking]]
-- [[Wave Function Collapse]]
-- [[Graph Coloring]]
-- [[Boolean Satisfiability Problem]]
-- [[Logic Programming]]

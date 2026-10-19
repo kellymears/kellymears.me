@@ -14,18 +14,7 @@ The internet is the standard example: it grew from a simple point-to-point proto
 The corollary for software architecture is to build the smallest version that actually does the job, ship it, and let the next layer of complexity respond to something that working version taught you — rather than designing for scale, extensibility, or edge cases a system hasn't encountered yet. This is the standing argument against a premature [[Second-System Effect]], and it's a large part of why [[Minimum Viable Product]] works as a strategy rather than merely a shortcut.
 
 ## See also
-- [[Cynefin Framework]]
-- [[Normal Accidents]]
 - [[Worse Is Better]]
-- [[Don't Repeat Yourself]]
-
-## Related
+- [[Technical Debt]]
+- [[Path Dependence]]
 - [[KISS Principle]]
-- [[Strangler Fig Pattern]]
-- [[Spiral Model]]
-- [[Big Design Up Front]]
-- [[Antifragility]]
-- [[You Aren't Gonna Need It]]
-- [[Big Rewrite]]
-- [[First Principles Thinking]]
-- [[Wicked Problem]]

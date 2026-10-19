@@ -14,19 +14,7 @@ This is why the practical response isn't "estimate better" so much as "decouple 
 The law pairs naturally with [[Parkinson's Law]]: one says the work will take longer than planned, the other says it will expand to fill whatever time is available regardless — between the two, a fixed deadline provides almost no information about actual effort.
 
 ## See also
-- [[Shape Up]]
-- [[Nuclear Fusion]]
-- [[Time Perception]]
 - [[Availability Heuristic]]
-- [[Burndown Chart]]
-
-## Related
-- [[Crunch]]
-- [[Gantt Chart]]
-- [[Software Crisis]]
-- [[Agile Software Development]]
-- [[Sturgeon's Law]]
-- [[Murphy's Law]]
-- [[Story Points]]
-- [[Ninety-Ninety Rule]]
-- [[Dartmouth Workshop]]
+- [[Base Rate Fallacy]]
+- [[Second-System Effect]]
+- [[Brooks's Law]]

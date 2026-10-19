@@ -13,16 +13,8 @@ The value over a hand-written [[Unit Test]] is coverage of the input space a hum
 The hard part is the one the technique's name is honest about: finding a property that's both true and non-trivial. "The function doesn't crash" is a property but a weak one; "output length equals input length" is stronger and easier to falsify accidentally, which is exactly what makes it worth checking. Properties are also naturally suited to catching the kind of bug a fixed example-based [[Unit Test]] suite structurally can't — one that only shows up for inputs nobody thought to write down — which is why property-based testing tends to pair with, rather than replace, a normal suite of specific example tests for documented behavior and known edge cases.
 
 ## See also
-- [[Decimal Arithmetic]]
-- [[Monkey Testing]]
 - [[Mutation Testing]]
-- [[Zune Leap Year Bug]]
-- [[Pesticide Paradox]]
-- [[Collatz Conjecture]]
-- [[Pentium FDIV Bug]]
-- [[Loop Invariant]]
+- [[Assertion]]
+- [[Test Fixture]]
 - [[Design by Contract]]
-- [[Delta Debugging]]
-- [[Pairwise Testing]]
-- [[Model-Based Testing]]
 - [[Parameterized Test]]

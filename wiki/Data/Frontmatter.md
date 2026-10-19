@@ -16,18 +16,13 @@ The same pattern extends beyond publishing. Notes in a personal knowledge system
 
 ## See also
 - [[Markdown]]
-- [[Blog]]
 - [[Zettelkasten]]
-- [[Slug]]
-
-## Related
 - [[Wiki]]
 - [[RSS]]
 - [[Knowledge Graph]]
 - [[Search Engine Optimization]]
-- [[Jamstack]]
 - [[Structured Data]]
-- [[YAML]]
-- [[JSON]]
-- [[Metadata]]
-- [[ISO 8601]]
+- [[Taxonomy]]
+- [[Naming]]
+- [[Blog]]
+- [[Slug]]

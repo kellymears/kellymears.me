@@ -15,17 +15,6 @@ Referred pain is distinct from radiating pain, which travels along a single nerv
 
 ## See also
 - [[Nociception]]
-- [[Kidney]]
 - [[Compartment Syndrome]]
 - [[Analgesic Ladder]]
-- [[Central Sensitization]]
-- [[Low Back Pain]]
-- [[Gate Control Theory]]
-- [[Ulnar Neuropathy]]
-- [[Itch]]
-- [[Phantom Limb]]
-- [[Side Stitch]]
-- [[Brain Freeze]]
-- [[Iliotibial Band Syndrome]]
-- [[Patellofemoral Pain Syndrome]]
-- [[Migraine]]
+- [[Proprioception]]

@@ -16,19 +16,11 @@ Because a subtitle file is plain text with stable indices, a change log keyed to
 
 ## See also
 - [[Plain Language]]
-- [[McGurk Effect]]
 - [[Markdown]]
 - [[Automatic Speech Recognition]]
 - [[Environmental Storytelling]]
 - [[Diegesis]]
-
-## Related
-- [[Speaker Diarization]]
 - [[Assist Mode]]
 - [[Video Game Localization]]
-- [[Internationalization]]
-- [[Creole Language]]
-- [[Attentional Blink]]
-- [[Closed Captions]]
-- [[Language Death]]
-- [[Loanword]]
+- [[Accessibility]]
+- [[Game Feel]]

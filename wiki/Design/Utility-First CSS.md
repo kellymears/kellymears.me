@@ -26,5 +26,3 @@ Recent versions push configuration into CSS itself, defining the theme in a styl
 - [[Typographic Scale]]
 - [[Box Model]]
 - [[Flexbox]]
-- [[Brutalist Web Design]]
-- [[CSS Preprocessor]]

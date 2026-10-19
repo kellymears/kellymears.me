@@ -14,7 +14,7 @@ Shared temporary directories were a long-running source of these **symlink attac
 
 The general rule is to make the check and the use one operation, or to check the thing actually used rather than its name:
 
-- **Use the handle, not the name.** Open the file once, then inspect and use the resulting [[File Descriptor]]. The name can be swapped; an open file can't.
+- **Use the handle, not the name.** Open the file once, then inspect and use the resulting file descriptor. The name can be swapped; an open file can't.
 - **Let the operation fail.** Instead of checking whether a file exists and then creating it, attempt the creation with a flag that fails if it exists.
 - **Drop privileges first.** A program running as the user can just try the operation and let the kernel enforce permissions; see [[Least Privilege]].
 
@@ -26,4 +26,3 @@ Web applications have the same bug with money. Code that checks a balance and th
 - [[Atomic File Write]]
 - [[Code Signing]]
 - [[Upsert]]
-- [[File Locking]]

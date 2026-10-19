@@ -7,7 +7,7 @@ tags:
   - design
 summary: The CSS layout mode for rows and columns at once, which brought the designer's layout grid into the browser and lets responsive layouts adapt with no breakpoints at all.
 ---
-**CSS Grid** lays out elements in rows and columns at the same time. Where [[Flexbox]] arranges items along one line, grid defines a two-dimensional structure first and then places items into it. It shipped in all major browsers within a few weeks of each other in March 2017, an unusually coordinated release, and finally gave the web the kind of layout grid print designers had used for decades; see [[Grid System]] and [[Swiss Style]].
+**CSS Grid** lays out elements in rows and columns at the same time. Where [[Flexbox]] arranges items along one line, grid defines a two-dimensional structure first and then places items into it. It shipped in all major browsers within a few weeks of each other in March 2017, an unusually coordinated release, and finally gave the web the kind of layout grid print designers had used for decades; see [[Grid System]].
 
 A grid container defines its *tracks*:
 
@@ -33,12 +33,8 @@ Things to watch:
 
 The common rule of thumb is that grid works *layout-in*: you design the structure and items fill it. Flexbox works *content-out*: items' sizes shape the result. Page scaffolding, dashboards, galleries, and forms with aligned labels suit grid; toolbars and button rows suit flexbox. Both rely on the same [[Box Model]] underneath.
 
-Grids also support visual order beyond layout. Aligning elements to shared lines is one of the strongest grouping cues in [[Gestalt Principles]], and repeated consistent grids are how [[Small Multiples]] stay comparable.
+Grids also support visual order beyond layout. Aligning elements to shared lines is one of the strongest grouping cues in [[Gestalt Principles]], and repeated consistent grids are how Small Multiples stay comparable.
 
 ## See also
-- [[Masonry Layout]]
-- [[De Stijl]]
 - [[Tiling Window Manager]]
-- [[Responsive Web Design]]
 - [[Data Table]]
-- [[Bento Grid]]

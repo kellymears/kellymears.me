@@ -26,5 +26,3 @@ Growth has a cost worth planning for. A primitive that accumulates properties fr
 - [[Design Token]]
 - [[Accessibility]]
 - [[ARIA]]
-- [[Atomic Design]]
-- [[Popover API]]

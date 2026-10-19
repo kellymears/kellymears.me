@@ -21,14 +21,11 @@ Over time, root's single all-or-nothing power has been split up:
 - **[[Linux Namespaces]]** let a container have its own "root" that has no power outside it, and rootless containers avoid real root entirely; see [[Containerization]]. A [[Chroot]] was an earlier, weaker form of isolation.
 - **Mandatory access control** systems such as SELinux and AppArmor restrict even root, confining each service to the files and actions its policy allows.
 
-**Privilege escalation** is the attacker's step of turning limited access into root. It usually exploits a bug in something already privileged: the kernel, a setuid program, a misconfigured sudo rule, or a root service with a [[Memory Safety]] flaw. Escalation bugs are among the most prized in security research and a standard goal of [[Penetration Testing]].
+**Privilege escalation** is the attacker's step of turning limited access into root. It usually exploits a bug in something already privileged: the kernel, a setuid program, a misconfigured sudo rule, or a root service with a Memory Safety flaw. Escalation bugs are among the most prized in security research and a standard goal of Penetration Testing.
 
 Remote access adds its own rules. Most systems forbid logging in as root directly over [[Secure Shell]], requiring a named user who then uses sudo, so every action is traceable to a person.
 
 The same concern now applies to automated tools and AI agents: running them with full privileges is convenient and risky, which is why they are increasingly confined; see [[Agent Sandbox]].
 
 ## See also
-- [[Mandatory Access Control]]
-- [[Protection Ring]]
-- [[Rootkit]]
-- [[Linux Capabilities]]
+- [[Time-of-Check to Time-of-Use]]

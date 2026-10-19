@@ -15,7 +15,6 @@ The root cause across all three is the same: untrusted input rendered into a con
 
 ## See also
 - [[Form Validation]]
-- [[Template Engine]]
 - [[Same-Origin Policy]]
 - [[Cross-Origin Resource Sharing]]
 - [[Cross-Site Request Forgery]]
@@ -23,7 +22,6 @@ The root cause across all three is the same: untrusted input rendered into a con
 ## Related
 - [[JSON Web Token]]
 - [[SQL Injection]]
-- [[Penetration Testing]]
 - [[MIME Type]]
 - [[ANSI Escape Code]]
 - [[Session Management]]

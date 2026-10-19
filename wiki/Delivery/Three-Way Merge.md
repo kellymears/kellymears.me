@@ -19,18 +19,14 @@ Two things merges cannot do.
 There is also a duplication hazard: two branches that each added the same content in the same place can merge with no conflict markers and produce it twice, which a compiler catches and a reader might not.
 
 ## See also
-- [[Subversion]]
 - [[Rebase]]
+- [[Merge Train]]
+- [[Stacked Pull Requests]]
+- [[Regression]]
+- [[Version Control]]
+- [[Trunk-Based Development]]
+- [[Continuous Integration]]
 - [[Git Object Model]]
 - [[Staging Area]]
-- [[Merge Train]]
-
-## Related
-- [[Stacked Pull Requests]]
-- [[Source Code Control System]]
-- [[Regression]]
-- [[Darcs]]
-- [[Edit Distance]]
 - [[Fast-Forward Merge]]
 - [[Feature Branch]]
-- [[Distributed Version Control]]

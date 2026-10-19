@@ -9,19 +9,11 @@ summary: The designed trajectory of challenge across a game's length, and the ar
 
 The concept operates at a different scale than [[Skill Check]], which is a single moment's test; difficulty curve is the *shape formed by many* such moments strung across a whole game, and a well-paced game is really a claim about the sequencing of skill checks, not any one of them in isolation.
 
-There's a second, subtler curve worth separating from the authored one: the player's own skill curve. A game can hold its authored difficulty perfectly flat while the *felt* difficulty drops steadily, purely because the player is getting better at the game's actual demands — faster reads, better [[Motor Learning|muscle memory]], a cleaner mental model of enemy patterns. This is the entire premise behind [[Soulslike]]'s "get good" reputation: the fixed encounter never changes, but a player's rising skill curve does the work an authored difficulty curve would otherwise have to do, which is also why the genre's difficulty is often defended as fair even when it's unmoving.
+There's a second, subtler curve worth separating from the authored one: the player's own skill curve. A game can hold its authored difficulty perfectly flat while the *felt* difficulty drops steadily, purely because the player is getting better at the game's actual demands — faster reads, better muscle memory, a cleaner mental model of enemy patterns. This is the entire premise behind [[Soulslike]]'s "get good" reputation: the fixed encounter never changes, but a player's rising skill curve does the work an authored difficulty curve would otherwise have to do, which is also why the genre's difficulty is often defended as fair even when it's unmoving.
 
 [[Assist Mode]] exists precisely to decouple these two curves for players whose skill trajectory won't converge with the authored one on the same schedule — it doesn't flatten the intended curve so much as offer an alternate one running in parallel.
 
 ## See also
-- [[Tutorial Design]]
-- [[Bushnell's Law]]
-- [[Checkpoint]]
 - [[Boss Rush]]
-- [[Zone of Proximal Development]]
-- [[Learning Curve]]
-- [[Three-Act Structure]]
-- [[Boss Battle]]
-- [[Sudoku]]
-- [[Dynamic Difficulty Adjustment]]
-- [[Coyote Time]]
+- [[Tower Defense]]
+- [[Quick Time Event]]

@@ -12,10 +12,10 @@ In Git, HEAD is a pointer to whatever is currently checked out. Normally it poin
 
 HEAD becomes detached when it points directly at a commit instead of at a branch. Common ways to get there:
 
-- **Checking out a tag or commit**, to look at an old version; see [[Git Tag]].
+- **Checking out a tag or commit**, to look at an old version.
 - **Bisecting**, where Git checks out a series of commits to find where a bug appeared; see [[Git Bisect]].
 - **Rebasing**, which replays commits one at a time and is detached until it finishes; see [[Rebase]] and [[Interactive Rebase]].
-- **Submodules**, which deliberately record and check out an exact commit of another repository; see [[Git Submodule]].
+- **Submodules**, which deliberately record and check out an exact commit of another repository.
 - **CI systems**, which often check out the exact commit being tested; see [[Continuous Integration]].
 
 Looking around in this state is fine. The danger comes from committing. New commits in detached HEAD build on each other normally, but no branch points to them. If the user then switches to another branch, nothing refers to the new commits anymore. Git doesn't delete them right away, but they're no longer reachable from any branch, and eventually Git's housekeeping removes unreferenced objects; see [[Garbage Collection]] and [[Git Object Model]].
@@ -24,7 +24,7 @@ Recovery is usually possible. Git keeps a local record of where HEAD has been, s
 
 The simplest prevention is to create a branch before making changes. Git's newer commands make the distinction clearer than the older checkout command did: switching to a branch and detaching onto a commit are separate actions, and detaching requires an explicit flag.
 
-The confusion partly comes from Git's model, in which branches are just movable labels on commits rather than containers of work; see [[Branching Model]]. Once that model is clear, detached HEAD stops being mysterious. It simply means there's no label at the current position. Tools that make every working copy a commit, such as Jujutsu, avoid the problem entirely; see [[Jujutsu]].
+The confusion partly comes from Git's model, in which branches are just movable labels on commits rather than containers of work; see [[Branching Model]]. Once that model is clear, detached HEAD stops being mysterious. It simply means there's no label at the current position. Tools that make every working copy a commit, such as Jujutsu, avoid the problem entirely.
 
 Other workflows reduce the need to detach at all. Checking out a separate working directory for an old version keeps experiments apart; see [[Git Worktree]].
 

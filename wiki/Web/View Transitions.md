@@ -20,7 +20,7 @@ How it works:
 
 Same-document transitions shipped in Chrome in 2023 for [[Single-Page Application]] routing. Cross-document transitions followed in 2024: a multi-page site opts in with one CSS rule, `@view-transition { navigation: auto; }`, and full page loads between same-origin pages animate too. Safari supports both, and Firefox added same-document support later. That gave server-rendered sites a feature that once justified building an SPA.
 
-The design rationale comes from [[Motion Design]]. A transition shows where content went: an item that grows into a detail view is plainly the same object, which keeps the user's [[Mental Model]] of the interface intact. Elements moving together are read as related, as the common-fate rule of the [[Gestalt Principles]] predicts.
+The design rationale comes from [[Motion Design]]. A transition shows where content went: an item that grows into a detail view is plainly the same object, which keeps the user's mental model of the interface intact. Elements moving together are read as related, as the common-fate rule of the [[Gestalt Principles]] predicts.
 
 Practical cautions:
 
@@ -33,6 +33,4 @@ Keep transitions to a few hundred milliseconds; longer ones make navigation feel
 
 ## See also
 - [[Web Animations API]]
-- [[Speculation Rules]]
-- [[Popover API]]
 - [[Easing]]

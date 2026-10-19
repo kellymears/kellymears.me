@@ -21,19 +21,13 @@ Several practical points recur:
 
 ## See also
 - [[Three-Way Merge]]
-- [[Gitflow]]
 - [[Semantic Conflict]]
-- [[Jujutsu]]
 - [[Stacked Pull Requests]]
-
-## Related
 - [[Merge Train]]
-- [[Goto Fail]]
-- [[Small Batches]]
+- [[Rebase]]
+- [[Ground Truth]]
+- [[Continuous Integration]]
+- [[Trunk-Based Development]]
 - [[Fast-Forward Merge]]
 - [[Feature Branch]]
-- [[Local-First Software]]
-- [[Darcs]]
 - [[Git Stash]]
-- [[Subversion]]
-- [[Perforce]]

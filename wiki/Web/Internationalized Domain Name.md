@@ -17,13 +17,11 @@ Internationalized top-level domains followed. In 2010 the first country codes in
 
 The main problem is that different scripts contain letters that look identical. Cyrillic "а" and Latin "a" are different characters that render the same, so an attacker can register a name that displays exactly like a well-known brand's. In 2017 a researcher showed a domain spelled entirely in Cyrillic that Chrome and Firefox displayed as "apple.com"; see [[Phishing]]. Browsers now decide per name whether to show the Unicode form or the raw "xn--" code, showing the code when a name mixes scripts in suspicious ways, uses letters confusable with another script throughout, or uses scripts unrelated to the user's languages. The rules shift with each new attack.
 
-Support remains uneven beyond the browser. Many web forms reject addresses with non-ASCII characters, and email addresses with international characters in the part before the @ need additional standards that many mail systems still don't support; see [[Simple Mail Transfer Protocol]]. Certificates, cookies, and security policies all operate on the ASCII form, so developers must handle both; see [[HTTP Cookie]] and [[Same-Origin Policy]].
+Support remains uneven beyond the browser. Many web forms reject addresses with non-ASCII characters, and email addresses with international characters in the part before the @ need additional standards that many mail systems still don't support. Certificates, cookies, and security policies all operate on the ASCII form, so developers must handle both; see [[HTTP Cookie]] and [[Same-Origin Policy]].
 
-IDNs are a case of a global system extended without replacing its foundations, compatible with the old infrastructure at the cost of a lasting translation layer; see [[Path Dependence]] and [[Web Standards]].
+IDNs are a case of a global system extended without replacing its foundations, compatible with the old infrastructure at the cost of a lasting translation layer; see [[Path Dependence]].
 
 ## See also
-- [[Transliteration]]
 - [[Open Redirect]]
 - [[Top-Level Domain]]
 - [[Slug]]
-- [[Mojibake]]

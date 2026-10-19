@@ -12,7 +12,7 @@ Its popularity was often political rather than practical. When several departmen
 
 The evidence on use is poor. A widely shared 2013 analysis of a university home page found that about 1 percent of visitors clicked any slide, and of those clicks, most went to the first. Later studies found similar patterns: people look at the first slide, if anything, and skim past the rest. Several things work against it:
 
-- **Ad blindness.** Large, image-heavy panels at the top of a page look like advertising, and people have learned to ignore advertising; see [[Banner Blindness]].
+- **Ad blindness.** Large, image-heavy panels at the top of a page look like advertising, and people have learned to ignore advertising.
 - **Bad timing.** Automatic rotation moves on while someone is still reading, or just as they reach to click, so they land on the wrong slide.
 - **Low scent.** Only one slide is visible, so visitors can't tell what the others hold or whether any is worth waiting for.
 

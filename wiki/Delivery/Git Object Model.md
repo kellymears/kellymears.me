@@ -14,9 +14,9 @@ There are four kinds of object:
 - **Blobs** hold file contents, without names or metadata.
 - **Trees** represent directories, listing names, permissions, and the hashes of blobs and other trees.
 - **Commits** point to one top-level tree, a snapshot of the whole project, plus zero or more parent commits, an author, a committer, timestamps, and a message; see [[Commit]].
-- **Tags** in their annotated form name a specific object with a message and, optionally, a signature; see [[Git Tag]].
+- **Tags** in their annotated form name a specific object with a message and, optionally, a signature.
 
-Because objects are named by their contents, Git is a content-addressable store; see [[Content-addressable storage]]. Two identical files anywhere in the history are stored once. Changing any byte changes the hash, which changes the tree containing it, which changes the commit. A commit's hash therefore covers the entire history behind it, making the structure a Merkle graph: tampering with any past object would change every hash after it.
+Because objects are named by their contents, Git is a content-addressable store. Two identical files anywhere in the history are stored once. Changing any byte changes the hash, which changes the tree containing it, which changes the commit. A commit's hash therefore covers the entire history behind it, making the structure a Merkle graph: tampering with any past object would change every hash after it.
 
 A notable consequence is that Git stores snapshots, not changes. Each commit records a complete tree. Differences are computed on demand by comparing trees; see [[Diff]]. Merges work by comparing two commits with their common ancestor; see [[Three-Way Merge]].
 
@@ -26,10 +26,10 @@ Branches and tags are lightweight. A branch is a small file containing a commit 
 
 Because objects never change, history is a persistent data structure: new commits add objects without modifying old ones; see [[Persistent Data Structure]]. Rewriting history really means creating new objects and moving labels.
 
-Git originally used the SHA-1 hash. Researchers demonstrated a practical SHA-1 collision in 2017, two different files with the same hash. Git added collision detection and has been working toward SHA-256 support. Accidental collisions remain astronomically unlikely; see [[Birthday Problem]].
+Git originally used the SHA-1 hash. Researchers demonstrated a practical SHA-1 collision in 2017, two different files with the same hash. Git added collision detection and has been working toward SHA-256 support. Accidental collisions remain astronomically unlikely.
 
 Large binary files fit poorly in this model, since each version is stored in full and fetched with every clone; see [[Git LFS]].
 
 ## See also
-- [[Source Code Control System]]
 - [[Staging Area]]
+- [[Garbage Collection]]

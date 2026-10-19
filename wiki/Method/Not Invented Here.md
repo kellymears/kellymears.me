@@ -14,19 +14,7 @@ The mirror-image failure is worth naming too: uncritically adopting an outside l
 NIH is a close cousin of [[Cargo Cult]] thinking but inverted — cargo cult is imitating a form without understanding the substance behind it, where NIH is rejecting a substance solely because of who's offering the form. Both skip the actual evaluation in favor of a shortcut based on where an idea came from.
 
 ## See also
-- [[IKEA Effect]]
-- [[Technology Radar]]
 - [[Design System]]
-- [[Clean Room Design]]
-
-## Related
 - [[Second-System Effect]]
-- [[Lindy Effect]]
-- [[Mere-Exposure Effect]]
-- [[Left-Pad Incident]]
-- [[Opportunity Cost]]
-- [[Inner Source]]
-- [[You Aren't Gonna Need It]]
-- [[Big Rewrite]]
-- [[First Principles Thinking]]
-- [[Law of the Instrument]]
+- [[Technical Debt]]
+- [[Bus Factor]]

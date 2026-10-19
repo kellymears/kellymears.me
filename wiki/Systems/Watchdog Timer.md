@@ -22,15 +22,12 @@ Design questions every watchdog raises:
 - **Reboot loops.** A fault that recurs right after restart produces endless resets. Systems count consecutive resets and fall back to a safe mode, much as [[Rollback]] reverts a bad release.
 - **Independence.** A watchdog in the same software it is watching can hang along with it. Hardware watchdogs run on a separate clock.
 
-Linux supports watchdogs at several levels. Most PC chipsets include a hardware watchdog exposed as `/dev/watchdog`, and [[Systemd]] can kick it with `RuntimeWatchdogSec`, so a frozen kernel triggers a reboot. Per service, `WatchdogSec` expects the service to report health regularly and restarts it if the reports stop, catching hangs that a simple crash check would miss. The kernel also runs its own lockup detectors, warning when a CPU stops scheduling (a soft lockup) or stops handling [[Interrupt]] signals (a hard lockup).
+Linux supports watchdogs at several levels. Most PC chipsets include a hardware watchdog exposed as `/dev/watchdog`, and [[Systemd]] can kick it with `RuntimeWatchdogSec`, so a frozen kernel triggers a reboot. Per service, `WatchdogSec` expects the service to report health regularly and restarts it if the reports stop, catching hangs that a simple crash check would miss. The kernel also runs its own lockup detectors, warning when a CPU stops scheduling (a soft lockup) or stops handling interrupt signals (a hard lockup).
 
 The same idea appears in distributed systems as **heartbeats**. A node that stops sending heartbeats is declared dead and replaced, the core of [[Failure Detection]] and [[Leader Election]].
 
 A watchdog does not fix anything; it buys time to investigate. Logs, a [[Core Dump]] or a kernel crash dump from before the reset show why the hang happened.
 
 ## See also
-- [[Runtime Verification]]
 - [[Motherboard]]
-- [[Device Tree]]
 - [[Kernel Panic]]
-- [[Over-the-Air Update]]

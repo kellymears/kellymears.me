@@ -29,12 +29,11 @@ Related failures:
 - **Starvation.** A process waits indefinitely because others keep getting the resource first. See [[Resource Starvation]].
 - **Priority inversion.** A high-priority task waits on a lock held by a low-priority one, which is itself preempted by medium-priority work. NASA's Mars Pathfinder kept resetting in 1997 for this reason, until engineers enabled priority inheritance remotely. It is a hazard for any [[CPU Scheduler]].
 
-Databases deal with deadlocks constantly under [[Pessimistic Locking]]. They detect them by finding cycles in a graph of which transaction waits for which, the same check a [[Topological Sort]] performs, then abort one transaction as a victim so the rest proceed. [[Optimistic Locking]] avoids waiting altogether and retries on conflict. A subtler version is pool exhaustion: if every request holds one connection from a [[Connection Pool]] while waiting for a second, the pool runs dry and everything stalls.
+Databases deal with deadlocks constantly under [[Pessimistic Locking]]. They detect them by finding cycles in a graph of which transaction waits for which, the same check a topological sort performs, then abort one transaction as a victim so the rest proceed. [[Optimistic Locking]] avoids waiting altogether and retries on conflict. A subtler version is pool exhaustion: if every request holds one connection from a [[Connection Pool]] while waiting for a second, the pool runs dry and everything stalls.
 
-Deadlocks, like a [[Race Condition]], depend on timing and are hard to reproduce, a classic [[Heisenbug]]. [[Deterministic Simulation Testing]] and lock-order checkers help find them before production does.
+Deadlocks, like a [[Race Condition]], depend on timing and are hard to reproduce, a classic [[Heisenbug]]. Deterministic Simulation Testing and lock-order checkers help find them before production does.
 
 ## See also
-- [[Software Transactional Memory]]
-- [[Systematic Concurrency Testing]]
-- [[Process Priority]]
-- [[Read-Copy-Update]]
+- [[Thread Pool]]
+- [[Upsert]]
+- [[Lock-Free Data Structure]]

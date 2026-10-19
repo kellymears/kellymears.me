@@ -26,12 +26,10 @@ Common mistakes:
 
 Testing it means listening to it, with a screen reader on, rather than checking that the attribute exists; see [[Accessibility Testing]].
 
-Social platforms added image description fields from around 2016, and some communities developed norms of describing every image. Platforms also began generating descriptions automatically with image recognition, and modern vision-language models produce much better ones, which helps with the vast number of images posted without any; see [[Multimodal Model]]. They still can't know why the author included the picture, which is the part that matters most, so generated text works best as a draft for a person to correct.
+Social platforms added image description fields from around 2016, and some communities developed norms of describing every image. Platforms also began generating descriptions automatically with image recognition, and modern vision-language models produce much better ones, which helps with the vast number of images posted without any. They still can't know why the author included the picture, which is the part that matters most, so generated text works best as a draft for a person to correct.
 
-Alt text is a standard example of a feature built for disabled users that helps many others, including people on slow connections and anyone searching images by text; see [[Curb cut effect]].
+Alt text is a standard example of a feature built for disabled users that helps many others, including people on slow connections and anyone searching images by text.
 
 ## See also
 - [[ARIA]]
-- [[Closed Captions]]
 - [[HTML]]
-- [[Computer Vision]]

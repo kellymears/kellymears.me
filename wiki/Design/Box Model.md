@@ -14,7 +14,7 @@ The **box model** is how CSS describes the space an element occupies. Every elem
 - **Border.** A line around the padding, possibly zero width.
 - **Margin.** Transparent space outside the border that pushes neighboring boxes away.
 
-Browser developer tools draw this as nested rectangles, which answers most "where did this gap come from" questions. Layout, the step of the [[Critical Rendering Path]] that computes every box's position and size, works entirely in these terms; see [[Layout Thrashing]].
+Browser developer tools draw this as nested rectangles, which answers most "where did this gap come from" questions. Layout, the step of the [[Critical Rendering Path]] that computes every box's position and size, works entirely in these terms.
 
 **Box sizing** is the first quirk. By default, `width: 200px` sets the width of the *content* only, so adding 20 pixels of padding and a 1-pixel border on each side makes the element 242 pixels wide. That rule, `content-box`, makes it hard to fit elements to a [[Grid System]] or give columns percentage widths that add up to 100. Old versions of Internet Explorer measured width including padding and border, which was technically wrong but easier to reason about. The `box-sizing: border-box` property later made that behavior available everywhere, and most stylesheets now apply it to every element in their first lines.
 
@@ -24,13 +24,11 @@ Other rules shape the box:
 
 - **Display type.** Block boxes stack vertically and fill the available width. Inline boxes flow within a line of text and ignore vertical margins and set heights.
 - **Outlines and shadows** draw outside the border without taking space, so a focus outline never shifts layout; see [[Focus Management]].
-- **Logical properties** such as `margin-inline-start` replace left and right with start and end, so spacing flips correctly for right-to-left languages; see [[Internationalization]].
+- **Logical properties** such as `margin-inline-start` replace left and right with start and end, so spacing flips correctly for right-to-left languages.
 
-Spacing, in design terms [[White Space]], is mostly decided through padding, margins, and gaps. Design systems usually restrict these to a fixed scale so spacing stays consistent; see [[Design Token]]. Utility-class frameworks expose the same scale as short class names; see [[Utility-First CSS]].
+Spacing, in design terms White Space, is mostly decided through padding, margins, and gaps. Design systems usually restrict these to a fixed scale so spacing stays consistent; see [[Design Token]]. Utility-class frameworks expose the same scale as short class names; see [[Utility-First CSS]].
 
 Boxes also determine painting order and overlap: positioned boxes can form a [[Stacking Context]], and the [[Cascade]] decides which box properties apply in the first place.
 
 ## See also
-- [[Quirks Mode]]
-- [[Optical Alignment]]
-- [[De Stijl]]
+- [[Cascading Style Sheets]]

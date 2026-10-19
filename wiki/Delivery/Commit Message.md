@@ -16,7 +16,7 @@ Git's conventions grew out of its origins. Linux kernel changes were sent as ema
 
 The body matters most and is most often skipped. The "what" is visible in the [[Diff]]. The reasons aren't: the bug report that prompted it, the constraint that ruled out the obvious fix, the edge case that the odd-looking code handles. Without them, a later maintainer may remove something that looks pointless and reintroduce the bug; see [[Chesterton's Fence]].
 
-Messages also feed tools. Linking issue numbers connects code to discussion. A structured prefix like "feat:" or "fix:" lets tools generate a [[Changelog]] and decide the next version number automatically; see [[Conventional Commits]] and [[Semantic Versioning]]. Trailers at the end record co-authors or sign-offs; see [[Developer Certificate of Origin]].
+Messages also feed tools. Linking issue numbers connects code to discussion. A structured prefix like "feat:" or "fix:" lets tools generate a [[Changelog]] and decide the next version number automatically; see [[Conventional Commits]] and [[Semantic Versioning]]. Trailers at the end record co-authors or sign-offs.
 
 Good messages depend on good commits. A commit that mixes a refactor, a bug fix, and a formatting change can't be described clearly, so the message tends to become a vague list. Splitting the work makes each message easy to write; see [[Atomic Commit]]. Tidying history before sharing gives a chance to rewrite messages written in haste; see [[Interactive Rebase]].
 
@@ -25,5 +25,4 @@ Teams that squash each pull request into one commit move the record into the pul
 Larger choices that outlive a single change deserve a fuller document; see [[Architecture Decision Record]]. Reviewers can ask for a better message as part of [[Code Review]], the same as for better code.
 
 ## See also
-- [[Source Code Control System]]
 - [[Staging Area]]

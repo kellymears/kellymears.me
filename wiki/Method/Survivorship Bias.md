@@ -14,14 +14,9 @@ The confrontation itself is a later reconstruction. Wald's 1943 memoranda presen
 The general move Wald's analysis teaches is to ask what is missing from a dataset before asking what the data says, since a filtered sample is not a smaller version of the true population but a different, biased one. A postmortem built only from incidents that paged someone has the same shape: it describes what got noticed, not what went wrong. The same blind spot appears wherever [[Instrumentation]] only records the cases that reach it, which is one reason [[Streetlight Effect]] and survivorship bias so often compound each other, and why a specific case of it, [[Selection Bias]], deserves separate treatment for the ways sampling itself can be non-random.
 
 ## See also
-- [[Participation Inequality]]
-- [[Antibiotic Resistance]]
-- [[Berkson's Paradox]]
-- [[Representativeness Heuristic]]
-- [[McNamara Fallacy]]
-- [[Observational Study]]
-- [[Benford's Law]]
-- [[Speculative Bubble]]
-- [[Sturgeon's Law]]
+- [[Truncation Bias]]
+- [[Fermi Estimation]]
+- [[Observability]]
+- [[Root Cause Analysis]]
+- [[Sensitivity and Specificity]]
 - [[Online Review]]
-- [[Indie Game]]

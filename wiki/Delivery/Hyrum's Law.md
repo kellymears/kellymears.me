@@ -14,9 +14,5 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 
 ## See also
 - [[User Agent String]]
-- [[Lehman's Laws of Software Evolution]]
-- [[Hourglass Model]]
-- [[Clean Room Design]]
-- [[Left-Pad Incident]]
-- [[Easter Egg]]
-- [[Quirks Mode]]
+- [[Postel's Law]]
+- [[API Translation Layer]]

@@ -19,9 +19,6 @@ Detection is imperfect: plain radiographs are moderately sensitive, and computed
 ## See also
 - [[Bone Remodeling]]
 - [[Fracture Fixation]]
-- [[Vitamin D]]
-- [[Stress Fracture]]
-- [[Ankle Sprain]]
 
 ## Related
 - [[Ground Truth]]

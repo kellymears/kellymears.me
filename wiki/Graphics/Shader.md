@@ -10,24 +10,21 @@ A **shader** is a program executed on the graphics processor as part of the rend
 
 The mental model is massive data parallelism: the same tiny program runs for millions of elements simultaneously, with no communication between them. That constraint is what makes them fast and what makes branching expensive — divergent paths within a group of parallel invocations are executed serially.
 
-Shaders are where nearly all visual character lives: lighting, shadowing, atmosphere, post-processing, color grading and [[Tone Mapping]], and the whole family of generative and glitch aesthetics. A fragment shader given only screen coordinates and time can produce complete animated imagery with no geometry at all, which is the basis of the demoscene and of shader-art communities.
+Shaders are where nearly all visual character lives: lighting, shadowing, atmosphere, post-processing, color grading and Tone Mapping, and the whole family of generative and glitch aesthetics. A fragment shader given only screen coordinates and time can produce complete animated imagery with no geometry at all, which is the basis of the demoscene and of shader-art communities.
 
 Two practical notes. Precision and compiler optimization settings change results — strict math is slower and reproducible, fast math is neither. And color space handling is a persistent source of quiet error: an image tagged with the wrong profile lets display adjustments leak into exported output.
 
 ## See also
-- [[Graphics Pipeline]]
-- [[Fast Inverse Square Root]]
+- [[Rasterization]]
+- [[Voxel]]
+- [[Determinism]]
+- [[OKLCH]]
+- [[Cellular Automaton]]
+- [[Procedural Generation]]
+- [[Seeded Randomness]]
+- [[Roguelike]]
+- [[L-System]]
+- [[Reproducible Case]]
 - [[Graphics API]]
-- [[Shading Model]]
-- [[Stencil Buffer]]
 - [[Shader Compilation Stutter]]
-- [[WebGPU]]
-- [[GPU Instancing]]
 - [[HSL and HSV]]
-
-## Related
-- [[Metaballs]]
-- [[Fluid Simulation]]
-- [[Cel Shading]]
-- [[Reyes Rendering]]
-- [[Ray Marching]]

@@ -30,6 +30,5 @@ Because the kernel controls everything, its bugs are severe. A crash brings down
 The kernel starts first at boot, hands control to the [[Init System]] as process 1, and remains underneath every other program for as long as the machine runs.
 
 ## See also
-- [[Protection Ring]]
 - [[Graphics Driver]]
-- [[eBPF]]
+- [[Boot Process]]

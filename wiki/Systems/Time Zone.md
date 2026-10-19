@@ -15,9 +15,8 @@ Civil time is now defined as an offset from **UTC**, an atomic timescale nudged 
 Abolishing daylight saving would end future transitions but not the problem: historical timestamps still need historical rules, and offsets still vary with longitude. Like [[Character Encoding]], the complexity is in the world, not the software.
 
 ## See also
-- [[ISO 8601]]
-- [[Zune Leap Year Bug]]
-- [[Monotonic Clock]]
-- [[Real-Time Clock]]
+- [[Ground Truth]]
+- [[Root Cause Analysis]]
+- [[Defensive Default]]
+- [[Inertial Frame of Reference]]
 - [[Dual Boot]]
-- [[Jet Lag]]

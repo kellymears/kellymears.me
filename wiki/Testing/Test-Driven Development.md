@@ -18,15 +18,8 @@ The main misuse is treating it as a mandate to test every function in isolation.
 - [[Unit Test]]
 - [[Assertion]]
 - [[Regression]]
-- [[Extreme Programming]]
-- [[Behavior-Driven Development]]
-- [[Characterization Test]]
-
-## Related
 - [[Vacuous Truth]]
 - [[Tree Shaking]]
-- [[Testability]]
-- [[Pair Programming]]
-- [[Solitary and Sociable Tests]]
+- [[Code Coverage]]
+- [[Root Cause Analysis]]
 - [[Refactoring]]
-- [[Agile Software Development]]

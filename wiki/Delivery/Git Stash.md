@@ -33,7 +33,6 @@ Stash still earns daily use for small moves: pulling with a dirty tree, carrying
 
 ## See also
 - [[Rebase]]
-- [[Jujutsu]]
 - [[Gitignore]]
 - [[Cherry-Pick]]
 - [[Staging Area]]

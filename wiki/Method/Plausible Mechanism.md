@@ -15,19 +15,12 @@ Two things make the failure mode worse than it looks. First, unearned causal cla
 The rule that survives: before writing "because X", run something that would tell you if X were false. If you cannot, write what you observed and say the cause is not established. When a reviewer asks *why*, that question is the trigger to go find out, not permission to guess more precisely.
 
 ## See also
-- [[Conspiracy Theory]]
 - [[Exhaustive Claim]]
-- [[Abductive Reasoning]]
 - [[Code Comment]]
-- [[Narrative Fallacy]]
-- [[Mirror Neurons]]
 - [[Adversarial Review]]
-
-## Related
-- [[Bradford Hill Criteria]]
-- [[Plate Tectonics]]
-- [[Muscle Cramp]]
-- [[Bayes' Theorem]]
-- [[Causal Inference]]
-- [[Burden of Proof]]
-- [[Natural Experiment]]
+- [[Falsifiability]]
+- [[Ground Truth]]
+- [[Hallucination]]
+- [[Code Review]]
+- [[Naming]]
+- [[Chesterton's Fence]]

@@ -17,18 +17,11 @@ Two structural requirements make it work.
 The same discipline applies to humans reviewing machine output, and to the reviewer's own reasoning: a lint rule set to error plus a clean run *feels* like execution, but it is configuration plus an inference across a gap nobody tested. See [[Plausible Mechanism]] and [[Code Review]].
 
 ## See also
-- [[Deceptive Alignment]]
 - [[Subagent]]
 - [[Multi-Agent Orchestration]]
-- [[Fault Tree Analysis]]
-- [[Scalable Oversight]]
-
-## Related
-- [[Wargame]]
-- [[Adversarial Example]]
-- [[Conformity]]
-- [[Devil's Advocate]]
-- [[Jailbreak]]
-- [[Peer Review]]
+- [[LLM-as-Judge]]
+- [[Falsifiability]]
+- [[Provenance]]
+- [[Ground Truth]]
+- [[Exhaustive Claim]]
 - [[Model Card]]
-- [[Generative Adversarial Network]]

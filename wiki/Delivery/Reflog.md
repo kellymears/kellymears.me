@@ -9,7 +9,7 @@ summary: Git's private record of everywhere HEAD and each branch has pointed, th
 ---
 The **reflog** (reference log) is Git's local record of every position that HEAD and each branch has pointed to. Each time a commit, checkout, reset, rebase, merge, or amend moves a reference, Git appends the old and new positions to a log. Running `git reflog` lists them, newest first, with entries like `HEAD@{3}` that can be used anywhere a commit is expected. It is the main reason that very little in Git is truly lost.
 
-It works because commits are almost never destroyed when they disappear from view. Git stores commits as immutable objects addressed by their hash, a [[Merkle Tree]] of content. A reset, a [[Rebase]], or an amend does not alter old commits; it creates new ones and moves the branch pointer. The old commits stay in the object store, just no longer reachable from any branch. The reflog remembers where they were.
+It works because commits are almost never destroyed when they disappear from view. Git stores commits as immutable objects addressed by their hash, a Merkle Tree of content. A reset, a [[Rebase]], or an amend does not alter old commits; it creates new ones and moves the branch pointer. The old commits stay in the object store, just no longer reachable from any branch. The reflog remembers where they were.
 
 Common rescues:
 
@@ -29,7 +29,6 @@ The reflog changes how people use Git. Knowing that history rewriting is recover
 Remote repositories have their own protections. Force-pushing over a shared branch can destroy history for everyone who has not fetched it, which is why [[Branch Protection]] rules often forbid it. For finding which commit introduced a bug rather than recovering a lost one, the tool is [[Git Bisect]].
 
 ## See also
-- [[Jujutsu]]
 - [[Git Stash]]
 - [[Interactive Rebase]]
 - [[Detached HEAD]]

@@ -14,16 +14,9 @@ This is a different failure mode than a plain timeout. A timeout still pays the 
 Circuit breakers are usually scoped per dependency, not globally — a failing payment provider shouldn't trip a breaker that also gates calls to an unrelated, healthy service.
 
 ## See also
-- [[Load Shedding]]
-- [[Gray Failure]]
+- [[Load Balancing]]
+- [[Race Condition]]
 - [[Service Virtualization]]
-- [[Dead Letter Queue]]
-- [[Normal Accidents]]
-- [[Load Testing]]
 - [[Hysteresis]]
-- [[Single Point of Failure]]
-- [[Fallacies of Distributed Computing]]
 - [[Fail-Safe]]
 - [[Failure Detection]]
-- [[Amazon S3 Outage of 2017]]
-- [[Microservices]]

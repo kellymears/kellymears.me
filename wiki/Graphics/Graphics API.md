@@ -17,9 +17,9 @@ The main APIs:
 - **Direct3D**, part of Microsoft's DirectX family since the mid-1990s, dominates Windows and Xbox games. DirectX also covered sound and input, which is why the name is often used loosely for the whole stack.
 - **Metal**, introduced by Apple in 2014, is the native API on Apple platforms. Apple deprecated OpenGL in 2018.
 - **Vulkan**, released by Khronos in 2016 and descended from AMD's Mantle, is the cross-platform modern API on Windows, Linux, and Android.
-- **[[WebGPU]]** brings a modern design to browsers, mapping onto Vulkan, Metal, or Direct3D 12 underneath.
+- **WebGPU** brings a modern design to browsers, mapping onto Vulkan, Metal, or Direct3D 12 underneath.
 
-The big shift came in the mid-2010s, from **implicit** to **explicit** APIs. OpenGL and Direct3D 11 hid a great deal: the driver tracked state, managed memory, synchronized work between the processor and GPU, and compiled shaders whenever it decided to. That made them easier to use but unpredictable. Drivers grew enormous and full of game-specific workarounds, and every [[Draw Call]] carried overhead on one processor thread.
+The big shift came in the mid-2010s, from **implicit** to **explicit** APIs. OpenGL and Direct3D 11 hid a great deal: the driver tracked state, managed memory, synchronized work between the processor and GPU, and compiled shaders whenever it decided to. That made them easier to use but unpredictable. Drivers grew enormous and full of game-specific workarounds, and every draw call carried overhead on one processor thread.
 
 Vulkan, Direct3D 12, and Metal moved those responsibilities to the application. Programs allocate GPU memory themselves, record command buffers on many threads, insert their own synchronization barriers, and build pipeline state objects in advance. The result is lower overhead and more predictable performance in skilled hands, but far more code: drawing a first triangle in Vulkan famously takes around a thousand lines. Getting synchronization wrong produces corrupted frames or crashes that vary by vendor, so validation layers that check API usage at runtime are essential during development.
 
@@ -27,11 +27,8 @@ Pipeline state objects bundle shaders with fixed settings so they can be compile
 
 Most developers never touch these APIs directly. Game engines and frameworks abstract over them so one codebase targets every platform. On the other side, an [[API Translation Layer]] converts one API into another, such as Direct3D into Vulkan, which is how Windows games run on Linux. Shader languages differ too, GLSL, HLSL, and Metal Shading Language, and toolchains cross-compile between them through an intermediate representation, much as a [[Compiler]] targets several machines.
 
-The API also shapes how frames reach the screen, through the [[Swap Chain]] and its presentation modes; see [[Screen Tearing]].
+The API also shapes how frames reach the screen, through the swap chain and its presentation modes.
 
 ## See also
 - [[Rasterization]]
 - [[Graphics Driver]]
-- [[Game Engine]]
-- [[Virtualized Geometry]]
-- [[Graphics Pipeline]]

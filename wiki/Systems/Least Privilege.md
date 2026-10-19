@@ -19,17 +19,12 @@ The principle is stated easily and applied poorly, because broad permissions are
 **Wildcards are not a configuration.** An allowlist of "anything" in a system that defaults to nothing is a common and understandable shortcut, and it grants exactly what the mechanism existed to restrict.
 
 ## See also
-- [[Linux Capabilities]]
-- [[SolarWinds Hack]]
+- [[Secret Management]]
+- [[Guardrail]]
+- [[Same-Origin Policy]]
+- [[Code Signing]]
+- [[Model Context Protocol]]
+- [[System Prompt]]
 - [[Browser Extension]]
-- [[Mandatory Access Control]]
 - [[Server-Side Request Forgery]]
-- [[Air Gap]]
-- [[Zero-Knowledge Proof]]
-- [[Port Knocking]]
 - [[Time-of-Check to Time-of-Use]]
-
-## Related
-- [[Secrets Management]]
-- [[Bastion Host]]
-- [[CrowdStrike Outage]]

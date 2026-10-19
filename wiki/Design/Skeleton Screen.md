@@ -14,7 +14,7 @@ The term was popularized by designer Luke Wroblewski in 2013, writing about a mo
 
 Skeletons work through a few effects:
 
-- **Perceived progress.** A spinner says only "wait." A skeleton shows the structure immediately, so the page seems to be arriving rather than stalled. People judge speed by how long a wait feels, and a wait with visible progress feels shorter. See [[Response Time Limits]].
+- **Perceived progress.** A spinner says only "wait." A skeleton shows the structure immediately, so the page seems to be arriving rather than stalled. People judge speed by how long a wait feels, and a wait with visible progress feels shorter. 
 - **Orientation.** Users can see where the content will go and start planning where to look, which reduces the jolt when it appears.
 - **Stable layout.** If the placeholders match the size of the final content, nothing moves when it loads. Content that pushes other elements around as it arrives causes layout shift, measured as one of the [[Core Web Vitals]], and makes people tap the wrong thing.
 
@@ -31,9 +31,7 @@ Skeletons are one tool among several for making interfaces feel fast. [[Optimist
 
 ## See also
 - [[Layout Shift]]
-- [[Masonry Layout]]
 - [[Lorem Ipsum]]
 - [[Empty State]]
-- [[Wireframe]]
 - [[Progress Indicator]]
 - [[Virtual Scrolling]]

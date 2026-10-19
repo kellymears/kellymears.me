@@ -22,9 +22,6 @@ CSP composes with, but is distinct from, [[Cross-Origin Resource Sharing]]: CORS
 ## Related
 - [[JSON Web Token]]
 - [[Clickjacking]]
-- [[Subresource Integrity]]
-- [[Penetration Testing]]
-- [[Third-Party Script]]
 - [[Iframe]]
 - [[MIME Type]]
 - [[Data URI]]

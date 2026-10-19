@@ -22,13 +22,11 @@ There are two main ways to control time:
 - **Inject a clock.** Code takes a clock as a dependency instead of calling the system directly. Java 8's time API, released in 2014, included a Clock class for exactly this. In tests, a fixed or adjustable clock is passed in. The cleanest version moves time out entirely: pass the current time as an argument, turning the logic into a [[Pure Function]].
 - **Patch the runtime.** Libraries such as Sinon's fake timers in JavaScript, freezegun in Python, and Timecop in Ruby replace the language's time functions globally. In JavaScript they also take over timers and can run the scheduled callbacks of the [[Event Loop]] on demand. This works on code that was never designed for injection, but patching can leak between tests and break [[Test Isolation]] if not restored.
 
-A fake clock makes some behavior practical to test at all. A retry loop with [[Exponential Backoff]] can be checked across its whole schedule in milliseconds. A [[Cron]] scheduler can be advanced through a week. Cache expiry, session timeouts, and rate-limit windows all become ordinary assertions. Time-sensitive edges deserve explicit cases, chosen with [[Boundary Value Analysis]]: one second before expiry, the exact moment, one second after.
+A fake clock makes some behavior practical to test at all. A retry loop with [[Exponential Backoff]] can be checked across its whole schedule in milliseconds. A [[Cron]] scheduler can be advanced through a week. Cache expiry, session timeouts, and rate-limit windows all become ordinary assertions. Time-sensitive edges deserve explicit cases, chosen with Boundary Value Analysis: one second before expiry, the exact moment, one second after.
 
-Two clocks are worth distinguishing. *Wall-clock* time follows the calendar and can jump backward when synchronized by the [[Network Time Protocol]] or adjusted by hand. *Monotonic* time only moves forward and suits measuring durations. Code that measures elapsed time with the wall clock can see negative durations, a bug a fake clock can reproduce on purpose.
+Two clocks are worth distinguishing. *Wall-clock* time follows the calendar and can jump backward when synchronized by the Network Time Protocol or adjusted by hand. *Monotonic* time only moves forward and suits measuring durations. Code that measures elapsed time with the wall clock can see negative durations, a bug a fake clock can reproduce on purpose.
 
-[[Deterministic Simulation Testing]] generalizes the idea, controlling time along with threads and network so entire distributed systems run reproducibly. In distributed systems, where machine clocks disagree, ordering often comes from a [[Logical Clock]] instead.
+Deterministic Simulation Testing generalizes the idea, controlling time along with threads and network so entire distributed systems run reproducibly. In distributed systems, where machine clocks disagree, ordering often comes from a logical clock instead.
 
 ## See also
-- [[Zune Leap Year Bug]]
-- [[Testability]]
-- [[Monotonic Clock]]
+- [[Dependency Injection]]

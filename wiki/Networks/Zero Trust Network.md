@@ -15,15 +15,5 @@ This also composes naturally with [[API Gateway]] architecture: a gateway is alr
 The honest cost is operational complexity: every service now needs to participate in authentication and policy checks that used to be implicit, which is a real tax on anything not built with it in mind from the start.
 
 ## See also
-- [[Mandatory Access Control]]
-- [[Port Knocking]]
 - [[Caller ID Authentication]]
-- [[Zero-Knowledge Proof]]
-- [[Encrypted Client Hello]]
-- [[Honeypot]]
-- [[Virtual LAN]]
-- [[End-to-End Encryption]]
-- [[Row-Level Security]]
-- [[Trusted Platform Module]]
-- [[Mutual TLS]]
-- [[Service Mesh]]
+- [[IPv6]]

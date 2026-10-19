@@ -8,7 +8,7 @@ summary: Files that bundle many files and their metadata into one, from tape-era
 ---
 **An archive file** bundles many files, with their names and metadata, into one. Two designs dominate, and their differences come from what each was built for.
 
-**Tar**, short for tape archive, appeared in Version 7 Unix in 1979. It writes a plain stream for tape drives: a 512-byte header for a file, then its contents, then the next header, with no index anywhere; see [[Unix]]. A stream can be written as it's produced and read as it arrives, so tar fits in a pipe, to compress, to copy over a network, or to unpack on another machine without an intermediate file; see [[Unix Pipeline]] and [[Secure Shell]]. Tar records Unix details faithfully: permissions, owners, timestamps, and both kinds of links; see [[File Permissions]], [[Symbolic Link]], and [[Hard Link]].
+**Tar**, short for tape archive, appeared in Version 7 Unix in 1979. It writes a plain stream for tape drives: a 512-byte header for a file, then its contents, then the next header, with no index anywhere. A stream can be written as it's produced and read as it arrives, so tar fits in a pipe, to compress, to copy over a network, or to unpack on another machine without an intermediate file; see [[Secure Shell]]. Tar records Unix details faithfully: permissions, owners, timestamps, and both kinds of links; see [[File Permissions]] and [[Symbolic Link]].
 
 Tar doesn't compress. A **tarball** is usually piped through gzip, xz, or zstd as a whole, which compresses well because similar files sit next to each other in one stream, but listing the contents or extracting one file then requires reading everything before it; see [[Data Compression]].
 
@@ -20,13 +20,10 @@ Archives are untrusted input, and both formats share classic traps:
 - **Decompression bombs.** A small archive can expand to petabytes. The best-known zip bomb nests layers of archives to reach that size from 42 kilobytes.
 - **Links.** A symbolic link inside an archive can point outside the destination, and a later entry can then be written through it.
 
-Software distribution runs on archives. Most packages are archives with metadata inside, including Debian packages, which wrap tarballs in an older archive format; see [[Package Manager]]. Because archives record timestamps and file order, two builds of the same source can produce different bytes, so reproducible builds pin the timestamps and sort the entries; see [[Reproducible Build]].
+Software distribution runs on archives. Most packages are archives with metadata inside, including Debian packages, which wrap tarballs in an older archive format; see [[Package Manager]]. Because archives record timestamps and file order, two builds of the same source can produce different bytes, so reproducible builds pin the timestamps and sort the entries.
 
-Archives outlive the programs that made them, which is why open, documented formats matter for long-term storage; see [[Digital Preservation]].
+Archives outlive the programs that made them, which is why open, documented formats matter for long-term storage.
 
 ## See also
-- [[File Transfer Protocol]]
-- [[Magnetic Tape]]
-- [[Burrows-Wheeler Transform]]
-- [[Sparse File]]
 - [[Disk Image]]
+- [[Artifact Repository]]

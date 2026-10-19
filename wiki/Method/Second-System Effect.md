@@ -14,18 +14,8 @@ The pattern generalizes past software: a sequel movie with a bigger budget and n
 The defense isn't refusing improvements — it's keeping the same discipline that made the first system good: a real constraint, deliberately imposed, and a bias toward cutting scope rather than adding it just because you finally can.
 
 ## See also
-- [[Lehman's Laws of Software Evolution]]
-- [[Analytical Engine]]
-- [[Technology Radar]]
-- [[Mainframe]]
+- [[Overfitting]]
+- [[Technical Debt]]
+- [[Minimum Viable Product]]
+- [[Brooks's Law]]
 - [[KISS Principle]]
-
-## Related
-- [[Big Design Up Front]]
-- [[Waterfall Model]]
-- [[Sinking of the Vasa]]
-- [[Software Crisis]]
-- [[You Aren't Gonna Need It]]
-- [[Big Rewrite]]
-- [[Law of the Instrument]]
-- [[First Principles Thinking]]

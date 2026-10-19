@@ -12,7 +12,7 @@ summary: Changing the structure of code without changing what it does, in small 
 
 The discipline is in the definition. A refactoring changes structure *or* behavior, never both at once. Mixing a cleanup with a bug fix produces a diff that no reviewer can check, and if something breaks, nobody can tell which part caused it. Separating them keeps every step safe and every [[Code Review]] legible.
 
-Refactoring needs a safety net. Without tests, there's no way to know that behavior stayed the same. In [[Test-Driven Development]] it's a built-in step: write a failing test, make it pass, then refactor with the tests green. For untested legacy code, the first step is often a *characterization test* that records what the code currently does, right or wrong, often as a [[Snapshot Testing]] baseline. Modern editors automate many refactorings, such as renames and extractions, by working on the [[Abstract Syntax Tree]] instead of the text, and a [[Type Inference]] system catches many mistakes the moment they happen.
+Refactoring needs a safety net. Without tests, there's no way to know that behavior stayed the same. In [[Test-Driven Development]] it's a built-in step: write a failing test, make it pass, then refactor with the tests green. For untested legacy code, the first step is often a *characterization test* that records what the code currently does, right or wrong, often as a [[Snapshot Testing]] baseline. Modern editors automate many refactorings, such as renames and extractions, by working on the Abstract Syntax Tree instead of the text, and a [[Type Inference]] system catches many mistakes the moment they happen.
 
 Some guidelines practitioners lean on:
 
@@ -21,12 +21,10 @@ Some guidelines practitioners lean on:
 - **The Boy Scout rule.** Leave code a little cleaner than you found it, which pays down [[Technical Debt]] continuously instead of in rare, risky cleanups.
 - **Make the change easy, then make the easy change.** Kent Beck's advice is to refactor first so the feature becomes a small addition.
 
-The main risks are scope and timing. A refactor that grows into a rewrite stops being safe, since a rewrite discards behavior nobody wrote down, the trap of the [[Second-System Effect]]. Large structural changes are better done incrementally behind a stable interface, as in the [[Strangler Fig Pattern]]. Refactoring code before understanding why it's shaped that way can remove something load-bearing, which is the warning of [[Chesterton's Fence]]. And polishing code nobody needs to change is a form of [[Premature Optimization]] applied to design.
+The main risks are scope and timing. A refactor that grows into a rewrite stops being safe, since a rewrite discards behavior nobody wrote down, the trap of the [[Second-System Effect]]. Large structural changes are better done incrementally behind a stable interface, as in the strangler fig pattern. Refactoring code before understanding why it's shaped that way can remove something load-bearing, which is the warning of [[Chesterton's Fence]]. And polishing code nobody needs to change is a form of [[Premature Optimization]] applied to design.
 
 Refactoring is how code stays changeable over years. Teams that never do it accumulate structure that resists every feature, and every change gets slower.
 
 ## See also
-- [[Codemod]]
-- [[Kernighan's Law]]
 - [[Code Formatter]]
 - [[Yak Shaving]]

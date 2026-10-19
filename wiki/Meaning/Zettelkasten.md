@@ -16,17 +16,11 @@ The modern practice adds tooling — automatic [[Backlink]]s, graph views, full-
 
 ## See also
 - [[Wiki]]
-- [[Project Xanadu]]
-- [[Architecture Decision Record]]
 - [[Agent Memory]]
 - [[Frontmatter]]
-- [[Spaced Repetition]]
-- [[Extended Mind]]
-
-## Related
-- [[Source Amnesia]]
 - [[Markdown]]
-- [[Affinity Diagram]]
-- [[Levels of Processing]]
-- [[Writing System]]
-- [[Desirable Difficulty]]
+- [[Taxonomy]]
+- [[Documentation Rot]]
+- [[Naming]]
+- [[Search Engine Optimization]]
+- [[Architecture Decision Record]]

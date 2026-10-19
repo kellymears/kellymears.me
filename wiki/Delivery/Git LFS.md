@@ -15,7 +15,7 @@ With LFS, a pointer file in the repository holds only a hash of the content and 
 
 - **`git lfs track "*.psd"`** adds a pattern to `.gitattributes`, telling Git which files LFS should manage.
 - **On commit**, a filter replaces the file with its pointer and caches the real content locally.
-- **On push**, the content is uploaded to the LFS server, addressed by its hash, much like the content addressing in a [[Merkle Tree]].
+- **On push**, the content is uploaded to the LFS server, addressed by its hash, much like the content addressing in a Merkle Tree.
 - **On checkout**, another filter downloads the content for the current commit only, not every past version.
 
 Clones stay small because history holds pointers, and only the versions you actually check out are downloaded.
@@ -33,5 +33,5 @@ A good rule: track source in Git, generated files nowhere, and large binaries th
 
 ## See also
 - [[Git Object Model]]
-- [[Perforce]]
-- [[Git Submodule]]
+- [[Monorepo]]
+- [[Gitignore]]

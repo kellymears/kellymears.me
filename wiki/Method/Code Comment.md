@@ -21,12 +21,7 @@ Two mechanical hazards. A comment stating a causal mechanism nobody verified is 
 - [[Code Review]]
 - [[Chesterton's Fence]]
 - [[Plain Language]]
-- [[Curse of Knowledge]]
 
 ## Related
 - [[Technical Debt]]
 - [[Linguistic Relativity]]
-- [[Doctest]]
-- [[Fast Inverse Square Root]]
-- [[Don't Repeat Yourself]]
-- [[Kernighan's Law]]

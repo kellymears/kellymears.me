@@ -14,19 +14,11 @@ That last point is a design decision rather than a defect. For a game among frie
 The pattern is at its best where the value is in the connection rather than in stored state, and where "no server I run" is a goal in itself rather than merely a cost saving.
 
 ## See also
-- [[Blockchain]]
 - [[Signaling Server]]
-- [[Strength of Weak Ties]]
-- [[Bulletin Board System]]
-- [[Universal Plug and Play]]
-
-## Related
-- [[BitTorrent]]
-- [[Napster]]
-- [[Distributed Version Control]]
 - [[Battle Royale]]
-- [[Dark Web]]
-- [[Sybil Attack]]
-- [[Distributed Hash Table]]
-- [[Lag Compensation]]
-- [[Federation]]
+- [[WebRTC]]
+- [[Eventual Consistency]]
+- [[Idempotence]]
+- [[Virtual Private Network]]
+- [[Network Effect]]
+- [[BitTorrent]]

@@ -33,7 +33,6 @@ The robust patterns treat visibility as an event to handle rather than a conditi
 ## See also
 - [[Tabs]]
 - [[Event Loop]]
-- [[Web Push]]
 - [[Web Worker]]
 - [[WebSocket]]
 - [[Resource Starvation]]

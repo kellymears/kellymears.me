@@ -14,16 +14,7 @@ Confirmation bias compounds with [[Anchoring Effect]] — the first hypothesis a
 The practical countermeasure is cheap and specific: before accepting an explanation, write down one observation that would disprove it, then go check that observation before checking the ones that would confirm it. This single reordering — falsify first — does more work than any amount of "staying open-minded."
 
 ## See also
-- [[Law of the Instrument]]
-- [[Devil's Advocate]]
-- [[Affinity Diagram]]
-- [[Paradigm Shift]]
-- [[Self-Fulfilling Prophecy]]
-- [[Learning Styles]]
-- [[Cognitive Dissonance]]
-- [[Naive Realism]]
-
-## Related
-- [[Deepwater Horizon Disaster]]
-- [[Three Mile Island Accident]]
-- [[Barnum Effect]]
+- [[Ground Truth]]
+- [[Base Rate Fallacy]]
+- [[Availability Heuristic]]
+- [[Selection Bias]]

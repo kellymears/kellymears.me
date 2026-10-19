@@ -13,15 +13,6 @@ The term borrows the physics metaphor directly: it's the same softmax-with-tempe
 The practical rule of thumb is that temperature should track the task's tolerance for variety: code generation, [[Structured Output]], and anything with one correct answer wants it low, because the goal is precision, not diversity; creative writing, brainstorming, and anything sampling for breadth wants it higher, because premature convergence on the single most likely continuation is exactly the failure mode to avoid there. Temperature is usually one of several sampling controls (top-p / nucleus sampling and top-k are the other common ones), and they compose — temperature reshapes the whole distribution while top-p and top-k truncate which part of it is even eligible to be sampled from.
 
 ## See also
-- [[Self-Consistency]]
-- [[Beam Search]]
-- [[Calibration]]
 - [[Constrained Decoding]]
+- [[Large Language Model]]
 - [[Entropy]]
-- [[Knowledge Distillation]]
-- [[AI Watermarking]]
-- [[Diffusion Model]]
-- [[Simulated Annealing]]
-- [[Information Theory]]
-- [[Softmax]]
-- [[Perplexity]]

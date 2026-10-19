@@ -14,19 +14,9 @@ The gold-standard fix is a randomized controlled experiment, because randomizati
 Engineers hit this constantly in incident analysis: a deploy correlates with a spike in errors, and it's usually the deploy — but "usually" is doing real work in that sentence, and a [[Root Cause Analysis]] that stops at correlation is one confound away from blaming the wrong commit.
 
 ## See also
-- [[Linear Regression]]
-- [[Logistic Regression]]
-- [[Natural Experiment]]
-- [[Berkson's Paradox]]
-- [[Spectrum-Based Fault Localization]]
-- [[Big Data]]
-- [[Causal Inference]]
-
-## Related
-- [[Explainable AI]]
-- [[Prosecutor's Fallacy]]
-- [[Logical Fallacy]]
-- [[Vitamin D]]
-- [[Bradford Hill Criteria]]
-- [[Data Journalism]]
-- [[Correlation Coefficient]]
+- [[Simpson's Paradox]]
+- [[Base Rate Fallacy]]
+- [[Plausible Mechanism]]
+- [[Falsifiability]]
+- [[P-Hacking]]
+- [[Regression to the Mean]]

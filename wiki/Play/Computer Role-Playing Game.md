@@ -14,10 +14,4 @@ summary: the isometric, party-based tradition whose hardest unsolved problem is 
 
 ## See also
 - [[Disco Elysium]]
-- [[Gamebook]]
-- [[Grinding]]
-- [[Dialogue Tree]]
-- [[Morality System]]
-- [[Side Quest]]
-- [[Interactive Fiction]]
-- [[Multi-User Dungeon]]
+- [[Sweet Home]]

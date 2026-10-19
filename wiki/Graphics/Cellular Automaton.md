@@ -15,20 +15,12 @@ They are practically useful for cave and terrain generation, fluid and fire appr
 Two implementation notes. **Simultaneity is load-bearing**: updating in place lets a cell see its neighbor's new state, which produces a different and usually wrong system. Double-buffering is the fix. And **boundary handling is a design decision** — wrapping the grid into a torus, treating edges as permanently dead, or clamping each produce visibly different behavior at the margins.
 
 ## See also
-- [[Domain Warping]]
 - [[Seeded Randomness]]
-- [[Computer Virus]]
 - [[Constraint Propagation]]
 - [[L-System]]
-- [[Convolution]]
-
-## Related
 - [[Roguelike]]
-- [[Flood Fill]]
 - [[Voxel]]
 - [[Game AI]]
-- [[Turing Completeness]]
-- [[Boids]]
-- [[Fractal]]
-- [[Quine]]
-- [[Esoteric Programming Language]]
+- [[Procedural Generation]]
+- [[Shader]]
+- [[Determinism]]

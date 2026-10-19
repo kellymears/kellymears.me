@@ -14,15 +14,13 @@ What matters more than the choice is that the model is *stated and current*. A s
 The model also determines what a merge means and therefore what history looks like; see [[Squash Merge]] and [[Merge Train]].
 
 ## See also
-- [[Hotfix]]
-- [[Subversion]]
-- [[Branch by Abstraction]]
-- [[Perforce]]
-
-## Related
-- [[Detached HEAD]]
 - [[Semantic Conflict]]
+- [[Pull Request]]
+- [[Continuous Integration]]
+- [[Version Control]]
+- [[Three-Way Merge]]
+- [[Hotfix]]
+- [[Detached HEAD]]
 - [[Cherry-Pick]]
 - [[Release Train]]
 - [[Fast-Forward Merge]]
-- [[Gitflow]]

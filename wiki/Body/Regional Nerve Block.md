@@ -16,14 +16,11 @@ The countermeasure is planning around the cliff rather than reacting to it: star
 
 ## See also
 - [[Nociception]]
-- [[Paresthesia]]
 - [[Fracture Fixation]]
 - [[Xenobiotic Metabolism]]
 - [[Moist Wound Healing]]
-- [[Central Sensitization]]
 
 ## Related
 - [[Plausible Mechanism]]
 - [[Retinoid]]
 - [[Bone Remodeling]]
-- [[Phantom Limb]]

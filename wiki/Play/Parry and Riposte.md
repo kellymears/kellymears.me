@@ -15,9 +15,5 @@ A **deflect** variant, most legible in *Sekiro*'s posture system, inverts the in
 Parries are the clearest expression of a game's **read-and-react contract** because they collapse offense and defense into a single instant: success requires reading the enemy's [[Game AI]]-driven tell correctly and reacting inside a window that [[Determinism]] guarantees will be the same length every time. That reliability is what lets skilled play look inevitable rather than lucky, and once a community has measured a boss's parriable frames precisely enough to publish them, that number becomes as central to the [[Metagame]] as any [[Tier List]] ranking.
 
 ## See also
-- [[Telegraphing]]
-- [[Boss Battle]]
-- [[Hit Stop]]
 - [[Determinism]]
 - [[Metagame]]
-- [[Fighting Game]]

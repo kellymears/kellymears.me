@@ -13,10 +13,6 @@ summary: Character death designed to be irreversible, and the argument over what
 The design argument underneath is that stakes require irreversibility — a threat the player can always undo is a delay, not a threat, the same case made for punishing, unroutable difficulty in [[Soulslike]] games. That argument is contested: [[Assist Mode]] toggles that soften or remove permadeath are now common, and pairing permadeath with [[Meta-Progression]] — rewards that survive the character's death — is the compromise most modern roguelikes reach for, converting loss into fuel for the next attempt and keeping the genre's [[Compulsion Loop]] running on a schedule closer to [[Variable-Ratio Reinforcement]] than to a stopping point.
 
 ## See also
-- [[Griefing]]
-- [[Legacy Game]]
-- [[Checkpoint]]
-- [[Virtual Pet]]
 - [[Save Scumming]]
-- [[Extra Life]]
-- [[Cozy Game]]
+- [[Roguelite]]
+- [[Bullet Heaven]]

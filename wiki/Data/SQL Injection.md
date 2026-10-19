@@ -23,7 +23,7 @@ The fix is well established:
 
 Escaping special characters by hand is the classic wrong fix. It is easy to get wrong across character sets and database dialects, as encoding tricks described under [[Character Encoding]] have shown.
 
-Layered defenses limit the damage when something slips through. The application's database account should follow [[Least Privilege]], unable to drop tables or read data it doesn't need. Input checks through [[Schema Validation]] reject obviously malformed values early. [[Static Analysis]] tools flag string-built queries, and [[Fuzzing]] and security scanners probe for injectable parameters.
+Layered defenses limit the damage when something slips through. The application's database account should follow [[Least Privilege]], unable to drop tables or read data it doesn't need. Input checks through [[Schema Validation]] reject obviously malformed values early. [[Static Analysis]] tools flag string-built queries, and Fuzzing and security scanners probe for injectable parameters.
 
 SQL injection has declined as frameworks made parameterization the default, but it persists in legacy code, hand-built reporting queries, and anywhere a developer reaches for string concatenation because it seemed quicker. It remains a standard case for the principle that the safe path should also be the easy one.
 
@@ -32,4 +32,3 @@ SQL injection has declined as frameworks made parameterization the default, but 
 - [[Prototype Pollution]]
 - [[SQL]]
 - [[WordPress]]
-- [[Log4Shell]]

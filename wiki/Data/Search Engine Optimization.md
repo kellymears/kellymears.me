@@ -14,16 +14,14 @@ The rest is content strategy, and the durable insight there is that search rewar
 It is worth being clear about the incentive structure. Search optimization is an adversarial market where the platform changes the rules unilaterally and expertise is genuinely valuable but frequently oversold. Treating any claim about it as a hypothesis to be measured, rather than a rule, is the correct posture.
 
 ## See also
-- [[Language Tag]]
+- [[Information Architecture]]
+- [[RSS]]
+- [[Semantic HTML]]
+- [[Backlink]]
+- [[Knowledge Graph]]
+- [[Islands Architecture]]
 - [[Canonical URL]]
 - [[Open Graph]]
 - [[Alt Text]]
-- [[Linked Data]]
-- [[Hashtag]]
-- [[Infographic]]
 - [[Sitemap]]
-
-## Related
-- [[Domain Registrar]]
 - [[Deep Linking]]
-- [[Blog]]

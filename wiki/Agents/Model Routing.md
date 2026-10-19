@@ -17,19 +17,13 @@ Routing is an architectural decision because *capability differences are not uni
 Routing also interacts with testing: an environment configured for a cheap tier will produce different results from production, and a verification that never reached the interesting comparison because it bailed on a model-identity check has proved nothing.
 
 ## See also
-- [[Inference Serving]]
 - [[Token Budget]]
 - [[Structured Output]]
 - [[Evaluation Harness]]
-- [[Mixture of Experts]]
-- [[Knowledge Distillation]]
-- [[Reasoning Model]]
-
-## Related
 - [[Prompt Engineering]]
-- [[No Free Lunch Theorem]]
 - [[Nondeterminism]]
 - [[JSON Schema]]
-- [[Multi-Armed Bandit]]
-- [[Open-Weight Model]]
-- [[Calibration]]
+- [[Large Language Model]]
+- [[Token]]
+- [[Mixture of Experts]]
+- [[Reasoning Model]]

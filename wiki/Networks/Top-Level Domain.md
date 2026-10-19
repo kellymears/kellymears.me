@@ -9,7 +9,7 @@ summary: The last part of a domain name, such as .com or .uk, organized in 1984 
 ---
 **A top-level domain** is the last part of an internet name, such as .com in example.com or .jp in a Japanese site's address. The domain name system is a tree read from right to left, and the top-level domains are the branches directly under its root; see [[Domain Name System]].
 
-The original scheme was set out in a 1984 standards document by Jon Postel and Joyce Reynolds; see [[Request for Comments]]. It had a few generic categories:
+The original scheme was set out in a 1984 standards document by Jon Postel and Joyce Reynolds. It had a few generic categories:
 
 - .com for companies,
 - .edu for universities,
@@ -23,14 +23,12 @@ Since 1998, a nonprofit called ICANN has coordinated the system under contracts 
 
 Country codes became a business. Some small places license their codes to companies because the letters spell something marketable. Tuvalu's .tv has earned the country millions of dollars a year from television and streaming sites. Anguilla's .ai brought in a sizable share of government revenue after AI startups rushed to register. The .io code, popular with tech companies, belongs to the British Indian Ocean Territory, and its future became uncertain when the United Kingdom agreed in 2024 to transfer sovereignty over the islands.
 
-In 2012 ICANN opened applications for new generic names and received nearly two thousand. More than a thousand were created, including .app, .shop, .berlin, and brand names. Google required every site on .app and .dev to use encrypted connections by adding the whole domains to browsers' preload lists; see [[HTTP Strict Transport Security]]. Its .zip and .mov domains, released in 2023, drew criticism because addresses looked like file names, an opening for [[Phishing]].
+In 2012 ICANN opened applications for new generic names and received nearly two thousand. More than a thousand were created, including .app, .shop, .berlin, and brand names. Google required every site on .app and .dev to use encrypted connections by adding the whole domains to browsers' preload lists. Its .zip and .mov domains, released in 2023, drew criticism because addresses looked like file names, an opening for [[Phishing]].
 
 Names have also been fought over in court. Registering someone else's trademark to sell it back led to an international dispute process in 1999. Domains in non-Latin scripts became possible in the 2000s; see [[Internationalized Domain Name]].
 
 Registrars sell names under each top-level domain, while a registry runs each one, so trust depends on both; see [[Certificate Authority]].
 
 ## See also
-- [[ARPANET]]
 - [[URL]]
-- [[Domain Registrar]]
 - [[Country Code]]

@@ -13,10 +13,4 @@ The standard account is reactive inhibition at the level of a single neural repr
 Psychology experiments use the effect both as a probe and as a tool. Reaction-time studies show slowed semantic judgment on a satiated word while perceptual identification stays fast, isolating meaning access — the kind of category judgment [[Prototype Theory]] describes — from perception. It has also been used therapeutically, repeating a word past the point of felt meaning to blunt the emotional charge it carries. Part of the loss is structural too: a word said alone, outside the [[Collocation]] that ordinarily carries some of its sense, is missing half of what fixes its meaning — the [[Ground Truth]] meaning has not changed, only its momentary accessibility. Whatever the locus, the effect is brief and reverses once repetition stops.
 
 ## See also
-- [[Déjà Vu]]
-- [[Godwin's Law]]
-- [[Earworm]]
-- [[Semantic Change]]
-- [[Crossword]]
-- [[Tip of the Tongue]]
-- [[Euphemism Treadmill]]
+- [[Linguistic Relativity]]

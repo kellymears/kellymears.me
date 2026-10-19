@@ -12,18 +12,7 @@ A **Newtonian fluid** has a viscosity that stays constant regardless of how fast
 Viscosity is strongly temperature-dependent for most liquids, generally dropping as temperature rises — cold honey barely pours, warm honey runs freely — because added thermal energy helps molecules overcome the interactions that resist sliding past one another. Motor oil viscosity ratings (the "W" in 5W-30) exist specifically to characterize how a lubricant's viscosity holds up across a temperature range an engine actually experiences.
 
 ## See also
-- [[Siphon]]
-- [[Supercritical Fluid]]
 - [[Thermal Expansion]]
 - [[Terminal Velocity]]
-- [[Colloid]]
-- [[Plate Tectonics]]
-- [[Starch Gelatinization]]
-- [[Non-Newtonian Fluid]]
-- [[Bernoulli's Principle]]
-- [[Gluten]]
-- [[Reynolds Number]]
-- [[Capillary Action]]
-- [[Diffusion]]
-- [[Fluid Simulation]]
-- [[Glass]]
+- [[Friction]]
+- [[Surface Tension]]

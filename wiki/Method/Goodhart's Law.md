@@ -16,17 +16,13 @@ The law is not confined to software. Any institution judged on a recorded count 
 Goodhart is not an argument against measurement. It is an argument for keeping the measure and the goal distinguishable, and for expecting drift whenever they are collapsed.
 
 ## See also
-- [[McNamara Fallacy]]
-- [[Issue Tracker]]
-- [[Algorithmic Feed]]
-- [[Panopticon]]
-- [[Blood Doping]]
-- [[Like Button]]
-- [[Brier Score]]
-- [[Moral Licensing]]
-
-## Related
-- [[Wicked Problem]]
+- [[Coverage Gate]]
+- [[Code Coverage]]
+- [[Fail Fast]]
+- [[Performance Budget]]
+- [[Prompt Engineering]]
+- [[Core Web Vitals]]
+- [[Silent Failure]]
+- [[Schema Validation]]
 - [[Web Analytics]]
 - [[Online Review]]
-- [[Grip Strength]]

@@ -10,20 +10,10 @@ The **hedonic treadmill** describes the tendency for a person's baseline level o
 
 The mechanism is comparison, not memory loss: a person judges their situation against a reference point, and the reference point itself moves to track recent experience. A raise that once would have felt luxurious becomes the new normal within months, at which point maintaining the same felt level of satisfaction requires a further raise — hence "treadmill," running to stay in place. The same adaptation cuts the other way for loss, which is part of why resilience research finds most people recover more of their baseline well-being after adversity than they'd predict in advance.
 
-The concept is often overstated into "money can't buy happiness," which the original research doesn't fully support — later work finds income continues to correlate with day-to-day emotional well-being past the plateau Kahneman and Deaton's 2010 study made famous — Killingsworth's 2021 data, and his subsequent adversarial collaboration with Kahneman, showed the plateau holds only for an unhappy minority — just at a shrinking rate per dollar. The treadmill is better read as a claim about the *shape* of adaptation than a claim that circumstances are irrelevant: some changes ([[Central Sensitization|chronic pain]], noise, a long commute) resist adaptation far more than others (a bigger house), which is exactly the kind of asymmetry that makes the concept useful for deciding what to actually optimize for.
+The concept is often overstated into "money can't buy happiness," which the original research doesn't fully support — later work finds income continues to correlate with day-to-day emotional well-being past the plateau Kahneman and Deaton's 2010 study made famous — Killingsworth's 2021 data, and his subsequent adversarial collaboration with Kahneman, showed the plateau holds only for an unhappy minority — just at a shrinking rate per dollar. The treadmill is better read as a claim about the *shape* of adaptation than a claim that circumstances are irrelevant: some changes (chronic pain, noise, a long commute) resist adaptation far more than others (a bigger house), which is exactly the kind of asymmetry that makes the concept useful for deciding what to actually optimize for.
 
 ## See also
-- [[Affective Forecasting]]
-- [[Moral Licensing]]
-- [[Kano Model]]
-- [[Savoring]]
-- [[Polarized Training]]
-- [[Grinding]]
-- [[Peak-End Rule]]
-- [[Awe]]
-- [[Grief]]
-- [[Negativity Bias]]
-- [[Power Creep]]
-- [[Veblen Good]]
-- [[Jevons Paradox]]
-- [[Satisficing]]
+- [[Placebo Effect]]
+- [[Learned Helplessness]]
+- [[Nostalgia]]
+- [[Doomscrolling]]

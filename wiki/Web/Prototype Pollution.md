@@ -8,9 +8,9 @@ summary: A JavaScript vulnerability where attacker-controlled keys like "__proto
 ---
 **Prototype pollution** is a JavaScript vulnerability in which an attacker modifies the shared prototype that ordinary objects inherit from, so that a property they choose suddenly appears on every object in the program. It turns a harmless-looking data-merging bug into anything from crashes to bypassed security checks to remote code execution.
 
-It comes from how JavaScript objects work. Each object has a hidden link to a prototype, and when a property isn't found on the object itself, the engine looks it up the **prototype chain**. Almost every plain object ultimately links to one shared `Object.prototype`. Add a property there, and every object appears to have it; see [[Object-Oriented Programming]] and [[Dynamic Dispatch]].
+It comes from how JavaScript objects work. Each object has a hidden link to a prototype, and when a property isn't found on the object itself, the engine looks it up the **prototype chain**. Almost every plain object ultimately links to one shared `Object.prototype`. Add a property there, and every object appears to have it.
 
-The special key `__proto__` reaches that link. Code that writes `obj[key] = value` with keys from untrusted input, typically while deep-merging a parsed [[JSON]] body into a configuration object, can be fed something like `{"__proto__": {"isAdmin": true}}`. A naive recursive merge walks into `__proto__`, finds the shared prototype, and sets `isAdmin` on it. Now `{}.isAdmin` is `true` everywhere, including in a permission check that tests `if (user.isAdmin)` on a user object that never had that property.
+The special key `__proto__` reaches that link. Code that writes `obj[key] = value` with keys from untrusted input, typically while deep-merging a parsed JSON body into a configuration object, can be fed something like `{"__proto__": {"isAdmin": true}}`. A naive recursive merge walks into `__proto__`, finds the shared prototype, and sets `isAdmin` on it. Now `{}.isAdmin` is `true` everywhere, including in a permission check that tests `if (user.isAdmin)` on a user object that never had that property.
 
 The usual entry points:
 
@@ -27,9 +27,9 @@ Defenses:
 - **Freeze the prototype** at startup so it can't be modified.
 - **Validate input against a schema** before merging, rejecting unexpected keys; see [[Schema Validation]].
 
-Static analysis tools and [[Fuzzing]] find many cases, and dependency scanners flag known vulnerable versions; see [[Supply Chain Security]] and [[Automated Dependency Updates]].
+Static analysis tools and Fuzzing find many cases, and dependency scanners flag known vulnerable versions; see [[Supply Chain Security]] and [[Automated Dependency Updates]].
 
-It belongs to a family of bugs where data is interpreted as structure, alongside [[SQL Injection]] and unsafe deserialization; see [[Serialization]]. Each is a case of the language's flexibility, here, prototypes that any code can modify, becoming the attack surface; see [[Duck Typing]].
+It belongs to a family of bugs where data is interpreted as structure, alongside [[SQL Injection]] and unsafe deserialization. Each is a case of the language's flexibility, here, prototypes that any code can modify, becoming the attack surface; see [[Duck Typing]].
 
 ## See also
 - [[JavaScript]]

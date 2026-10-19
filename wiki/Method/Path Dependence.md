@@ -14,12 +14,9 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 
 ## See also
 - [[Flanderization]]
-- [[Keyboard Layout]]
-- [[Gopher]]
-- [[Paper Size]]
+- [[Root Cause Analysis]]
+- [[Naming]]
+- [[Version Control]]
+- [[Regression]]
+- [[Sunk Cost Fallacy]]
 - [[GIF]]
-- [[Video Game Crash of 1983]]
-- [[Diffusion of Innovations]]
-- [[Encrypted Media Extensions]]
-- [[Monopoly]]
-- [[Boeing 737 MAX Groundings]]

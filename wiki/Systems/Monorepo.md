@@ -15,19 +15,14 @@ The costs scale with size. Tooling must understand the package graph to avoid re
 Package managers support the pattern through *workspaces*: a root manifest listing member packages, dependencies between them resolved locally rather than fetched. Two details follow. Dependency-update tooling generally scans the root and traverses the workspace list, so configuring it to scan each package directory as well produces duplicate proposals that all rewrite the same lockfile and conflict with each other. And the on-disk layout of installed packages depends on the linker strategy, so reading a version from a directory may find nothing; the [[Lockfile]] is the answer.
 
 ## See also
-- [[Micro-Frontends]]
-- [[Git LFS]]
 - [[Module Graph]]
-- [[Don't Repeat Yourself]]
-
-## Related
-- [[Perforce]]
-- [[Codemod]]
-- [[Version Manager]]
-- [[Inner Source]]
+- [[Package Manager]]
+- [[Version Control]]
+- [[Supply Chain Security]]
+- [[Semantic Versioning]]
+- [[Bundler]]
+- [[Silent Failure]]
+- [[Git LFS]]
 - [[Test Impact Analysis]]
 - [[Build Cache]]
-- [[Code Owners]]
-- [[Vendoring]]
-- [[Git Submodule]]
 - [[Shallow Clone]]

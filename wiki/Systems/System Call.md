@@ -15,7 +15,7 @@ The boundary exists because the processor runs code at different privilege level
 
 This design is what makes an operating system safe. A buggy or malicious program can crash itself, but it can only affect the rest of the system through requests the kernel validates. File access checks [[File Permissions]], memory requests respect the limits of [[Virtual Memory]], and resource use is accounted for by [[Control Groups]].
 
-Programmers rarely make system calls directly. The C library wraps them in functions like `fopen` and `printf`, which add buffering so many small writes become one call. But every file, socket, and pipe a program touches is eventually a system call working on a [[File Descriptor]].
+Programmers rarely make system calls directly. The C library wraps them in functions like `fopen` and `printf`, which add buffering so many small writes become one call. But every file, socket, and pipe a program touches is eventually a system call working on a file descriptor.
 
 System calls are expensive compared with ordinary function calls, because switching privilege levels and protecting kernel state takes time, and mitigations for the 2018 Spectre and Meltdown processor flaws made the switch costlier. Performance work often comes down to making fewer of them:
 
@@ -27,7 +27,6 @@ System calls are expensive compared with ordinary function calls, because switch
 System calls are also a natural place to observe and restrict programs. `strace` on Linux prints every call a program makes, which often reveals why something fails faster than reading its source. Sandboxes filter which calls a program may make; Linux's seccomp lets a process lock itself down to a short allowed list, and container runtimes use it alongside [[Linux Namespaces]] to apply [[Least Privilege]]. A [[Hypervisor]] adds another boundary below, intercepting the kernel's own privileged operations.
 
 ## See also
-- [[Zero-Copy]]
-- [[Protection Ring]]
-- [[Seccomp]]
-- [[eBPF]]
+- [[Time-of-Check to Time-of-Use]]
+- [[Device File]]
+- [[Network Socket]]

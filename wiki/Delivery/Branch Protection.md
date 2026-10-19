@@ -13,7 +13,7 @@ summary: Server-side rules that stop anyone, including administrators by default
 
 Common rules include:
 
-- **Required reviews.** A minimum number of approvals before merging, sometimes from specific people via [[Code Owners]]. New pushes can dismiss stale approvals, so a reviewer cannot approve one version and see another merged.
+- **Required reviews.** A minimum number of approvals before merging, sometimes from specific people via Code Owners. New pushes can dismiss stale approvals, so a reviewer cannot approve one version and see another merged.
 - **Required status checks.** Named [[Continuous Integration]] jobs must pass. Optionally the branch must be up to date with the target, so checks ran against the code that will actually land.
 - **No force pushes.** Rewriting the branch's history is blocked, protecting everyone who has already fetched it. Recovering from a rewritten shared branch is far harder than using a personal [[Reflog]].
 - **No deletion.** The branch cannot be removed by accident.
@@ -34,6 +34,6 @@ Strict rules have costs:
 - **Required checks must be reliable.** A [[Flaky Test]] in a required check blocks merges at random and teaches people to rerun rather than read failures.
 
 ## See also
-- [[Change Advisory Board]]
-- [[Gitflow]]
 - [[Force Push]]
+- [[Fast-Forward Merge]]
+- [[Code Formatter]]

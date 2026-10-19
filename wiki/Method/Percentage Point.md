@@ -17,13 +17,8 @@ The reverse framing minimizes: three percentage points off a figure already at 6
 Choosing whichever framing flatters a number under scrutiny is [[Goodhart's Law]] applied to presentation rather than to the measure, and it rests on the base-rate blindness that also makes a test look conclusive under [[Sensitivity and Specificity]]. Checking it is usually one line of [[Fermi Estimation]].
 
 ## See also
-- [[Relative Risk]]
-- [[Mean and Median]]
 - [[Goodhart's Law]]
 - [[Ground Truth]]
 - [[Fermi Estimation]]
 - [[Gacha Monetization]]
 - [[Modern Monetary Theory]]
-- [[pH]]
-- [[Effect Size]]
-- [[Ecological Fallacy]]

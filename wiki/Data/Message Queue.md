@@ -13,15 +13,9 @@ Queues come with delivery guarantees that matter more than they first appear to.
 **Pub/sub** is the closely related pattern of one message reaching many independent consumers instead of exactly one — a topic broadcasting to every subscriber rather than a queue handing a job to a single worker. Kafka blurs the line by keeping messages in an ordered, replayable log that many consumer groups can each read independently at their own position, which is also the foundation [[Event Sourcing]] and [[Change Data Capture]] pipelines are usually built on top of.
 
 ## See also
-- [[Model-View-Controller]]
+- [[Eventual Consistency]]
+- [[Backpressure]]
 - [[MQTT]]
 - [[Idempotency Key]]
-- [[Dead Letter Queue]]
 - [[Inter-Process Communication]]
-- [[Durable Execution]]
 - [[Thread Pool]]
-- [[Saga Pattern]]
-- [[Zero-Copy]]
-- [[Delay-Tolerant Networking]]
-- [[Head-of-Line Blocking]]
-- [[Stream Processing]]

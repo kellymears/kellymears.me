@@ -27,6 +27,4 @@ Pointing the configuration root somewhere unusual has one consequence worth anti
 - [[Time Zone]]
 - [[Secret Management]]
 - [[Character Encoding]]
-- [[Filesystem]]
-- [[Filesystem Hierarchy Standard]]
 - [[Desktop Environment]]

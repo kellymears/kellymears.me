@@ -14,20 +14,8 @@ This is one of the more counterintuitive traps in engineering metrics: praise or
 The discipline is to ask, before crediting an intervention: was the starting point already unusually extreme? If so, some reversion was owed independent of anything you did, and only a proper baseline or control group can tell you how much.
 
 ## See also
-- [[Histogram]]
-- [[Control Chart]]
-- [[Mean and Median]]
-- [[Intelligence Quotient]]
-
-## Related
-- [[Correlation Coefficient]]
-- [[Causal Inference]]
-- [[Elo Rating System]]
-- [[Hiccup]]
-- [[Low Back Pain]]
-- [[Gambler's Fallacy]]
-- [[Linear Regression]]
-- [[Hawthorne Effect]]
-- [[Representativeness Heuristic]]
-- [[Narrative Fallacy]]
-- [[Scatter Plot]]
+- [[Base Rate Fallacy]]
+- [[Correlation and Causation]]
+- [[Overfitting]]
+- [[Simpson's Paradox]]
+- [[Survivorship Bias]]

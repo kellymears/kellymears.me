@@ -15,19 +15,16 @@ Bluetooth shares the crowded 2.4 GHz band with [[Wi-Fi]] and microwave ovens. It
 There are effectively two Bluetooths:
 
 - **Classic Bluetooth** streams continuously, for audio and older peripherals.
-- **Bluetooth Low Energy**, introduced in 2010 with Bluetooth 4.0 and derived from Nokia's Wibree, sends short bursts and sleeps in between, letting sensors run for months or years on a coin cell. It organizes data as services and characteristics, such as a heart rate service with a measurement characteristic, and powers nearly every fitness sensor, smart lock, and tracker, often with a [[Lithium-Ion Battery]] or coin cell lasting far longer than Wi-Fi would allow.
+- **Bluetooth Low Energy**, introduced in 2010 with Bluetooth 4.0 and derived from Nokia's Wibree, sends short bursts and sleeps in between, letting sensors run for months or years on a coin cell. It organizes data as services and characteristics, such as a heart rate service with a measurement characteristic, and powers nearly every fitness sensor, smart lock, and tracker, often with a lithium-ion battery or coin cell lasting far longer than Wi-Fi would allow.
 
-Devices connect by **pairing**, which exchanges keys so later connections are encrypted. Modern pairing uses elliptic-curve key exchange from [[Public-Key Cryptography]] and [[Elliptic Curve Cryptography]], with methods such as comparing a six-digit code to stop an attacker in the middle. Flaws have still appeared, such as BlueBorne in 2017 and the KNOB attack in 2019, which tricked devices into using keys with trivially few bits.
+Devices connect by **pairing**, which exchanges keys so later connections are encrypted. Modern pairing uses elliptic-curve key exchange from Public-Key Cryptography and Elliptic Curve Cryptography, with methods such as comparing a six-digit code to stop an attacker in the middle. Flaws have still appeared, such as BlueBorne in 2017 and the KNOB attack in 2019, which tricked devices into using keys with trivially few bits.
 
-Audio exposes Bluetooth's limits. Wireless audio is compressed with codecs, a form of [[Data Compression]], from the baseline SBC to AAC, aptX, and LDAC, and buffering adds delay, often 100 to 200 milliseconds, enough to put game sound noticeably behind the picture, as described under [[Input Latency]]. Turning on a headset's microphone historically forced a switch to a hands-free profile with narrow, telephone-quality sound in both directions. LE Audio, announced in 2020, brings the more efficient LC3 codec and Auracast, which lets one source broadcast to any number of listeners, a radio take on [[Multicast]], useful for hearing aids and public venues.
+Audio exposes Bluetooth's limits. Wireless audio is compressed with codecs, a form of [[Data Compression]], from the baseline SBC to AAC, aptX, and LDAC, and buffering adds delay, often 100 to 200 milliseconds, enough to put game sound noticeably behind the picture, as described under Input Latency. Turning on a headset's microphone historically forced a switch to a hands-free profile with narrow, telephone-quality sound in both directions. LE Audio, announced in 2020, brings the more efficient LC3 codec and Auracast, which lets one source broadcast to any number of listeners, a radio take on [[Multicast]], useful for hearing aids and public venues.
 
 Low Energy also enables location features. Beacons broadcast small identifiers that phones can detect, used for indoor positioning and retail. Crowdsourced finding networks, such as those behind item trackers, have millions of phones relay sightings of nearby lost items, end-to-end encrypted. The same capability raised stalking concerns, prompting unwanted-tracker alerts across platforms.
 
-Bluetooth mesh, from 2017, lets low-energy devices relay messages for lighting and building control, competing with Zigbee and Thread in the [[Mesh Network]] space.
+Bluetooth mesh, from 2017, lets low-energy devices relay messages for lighting and building control, competing with Zigbee and Thread in the mesh network space.
 
 ## See also
-- [[Spread Spectrum]]
-- [[Near-Field Communication]]
 - [[Peer-to-Peer]]
 - [[Two-Way Radio]]
-- [[Diffie-Hellman Key Exchange]]

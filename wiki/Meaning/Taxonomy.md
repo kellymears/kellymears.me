@@ -16,20 +16,13 @@ The choice of dimensions is the substantive design work. Classifying content by 
 Two practical notes. A vocabulary is a shared model, so every near-synonym costs everyone a decision; preferring an existing term over a new one is the whole discipline. And separating a *display* label from a stable *identifier* means the label can be improved later without breaking anything that references it.
 
 ## See also
-- [[Constructed Language]]
-- [[Russell's Paradox]]
-- [[Web 2.0]]
 - [[Frontmatter]]
-- [[ImageNet]]
-- [[Fan Fiction]]
 - [[Tarot]]
-
-## Related
-- [[Library Classification]]
-- [[Web Directory]]
-- [[Faceted Search]]
-- [[Card Sorting]]
-- [[Hashtag]]
-- [[OpenStreetMap]]
+- [[Information Architecture]]
+- [[Knowledge Graph]]
+- [[Naming]]
+- [[Design System]]
+- [[Linguistic Relativity]]
+- [[Plain Language]]
+- [[Zettelkasten]]
 - [[Breadcrumb]]
-- [[Hierarchical Data]]

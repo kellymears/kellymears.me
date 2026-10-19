@@ -14,7 +14,7 @@ RAID uses three techniques:
 
 - **Striping** splits data into chunks spread across drives, so reads and writes proceed on all of them in parallel.
 - **Mirroring** writes identical copies to two or more drives.
-- **Parity** stores extra information computed from the data, usually with XOR, so a missing drive's contents can be rebuilt from the others; see [[Bitwise Operation]]. It's a simple [[Error-Correcting Code]].
+- **Parity** stores extra information computed from the data, usually with XOR, so a missing drive's contents can be rebuilt from the others. It's a simple error-correcting code.
 
 The common levels combine these:
 
@@ -26,15 +26,8 @@ The common levels combine these:
 
 Rebuilding is the dangerous moment. When a drive fails, the array must read every other drive in full to reconstruct it, which on large modern disks can take a day or more. Drives bought together tend to wear out together, and the heavy rebuild load can trigger a second failure, which RAID 5 can't survive. That's why RAID 6 and mirroring became preferred for large drives.
 
-A subtler problem is the **write hole**: if power fails midway through updating data and parity, they no longer agree, and the array may silently rebuild corrupt data later. Hardware controllers use battery-backed caches to prevent it, and filesystems such as ZFS and Btrfs build redundancy into the [[Filesystem]] itself, using [[Copy-on-Write]] and checksums so they can tell which copy is correct, rather than trusting whichever disk answers.
+A subtler problem is the **write hole**: if power fails midway through updating data and parity, they no longer agree, and the array may silently rebuild corrupt data later. Hardware controllers use battery-backed caches to prevent it, and filesystems such as ZFS and Btrfs build redundancy into the filesystem itself, using [[Copy-on-Write]] and checksums so they can tell which copy is correct, rather than trusting whichever disk answers.
 
-The most important rule: **RAID is not a backup**. It protects against a drive dying, not against deleting a file, ransomware, a filesystem bug, a fire, or a controller writing garbage to every disk at once, since every mistake is faithfully mirrored. Real protection needs separate copies, ideally offsite, as in the 3-2-1 rule; see [[Backup and Restore]] and [[Filesystem Snapshot]].
+The most important rule: **RAID is not a backup**. It protects against a drive dying, not against deleting a file, ransomware, a filesystem bug, a fire, or a controller writing garbage to every disk at once, since every mistake is faithfully mirrored. Real protection needs separate copies, ideally offsite, as in the 3-2-1 rule; see [[Filesystem Snapshot]].
 
-With [[Solid-State Drive]]s, some trade-offs shift: rebuilds are faster and striping matters less for speed, but identical SSDs given identical writes can wear out at nearly the same moment. The same ideas, redundancy, parity, and rebuilding, appear at larger scale in [[Database Replication]] and in erasure coding in [[Object Storage]].
-
-## See also
-- [[Hard Disk Drive]]
-- [[ZFS]]
-- [[Logical Volume Manager]]
-- [[Disk Partition]]
-- [[Ransomware]]
+With solid-state drives, some trade-offs shift: rebuilds are faster and striping matters less for speed, but identical SSDs given identical writes can wear out at nearly the same moment. The same ideas, redundancy, parity, and rebuilding, appear at larger scale in [[Database Replication]] and in erasure coding in [[Object Storage]].

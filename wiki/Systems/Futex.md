@@ -17,15 +17,12 @@ A futex is just an integer in memory shared between threads. The usual pattern l
 
 The kernel side is small. It keeps a hash table of wait queues keyed by the integer's address, so threads waiting on different futexes don't interfere; see [[Hash Table]]. It knows nothing about what the integer means. Futexes are a building block, not a lock.
 
-Futexes were added to Linux in 2002, described by Hubertus Franke, Rusty Russell, and Matthew Kirkwood. They underlie the standard thread library's mutexes, condition variables, and semaphores; see [[Mutex]] and [[Semaphore]]. A widely read paper by Ulrich Drepper, titled Futexes Are Tricky, showed how easy it is to build subtly wrong locks on top of them, which is why application code almost never uses them directly.
+Futexes were added to Linux in 2002, described by Hubertus Franke, Rusty Russell, and Matthew Kirkwood. They underlie the standard thread library's mutexes, condition variables, and semaphores; see [[Mutex]]. A widely read paper by Ulrich Drepper, titled Futexes Are Tricky, showed how easy it is to build subtly wrong locks on top of them, which is why application code almost never uses them directly.
 
-Implementations often combine a futex with brief spinning. Spinning wastes processor time but avoids the cost of sleeping and waking if the lock will be released within a few microseconds; see [[Spinlock]] and [[Context Switch]].
+Implementations often combine a futex with brief spinning. Spinning wastes processor time but avoids the cost of sleeping and waking if the lock will be released within a few microseconds.
 
-Extensions followed. Priority-inheritance futexes help with a waiting high-priority thread stuck behind a low-priority one; see [[Real-Time Operating System]]. Robust futexes let the kernel release locks held by a thread that died. In 2021 Linux added a call to wait on several futexes at once, driven by compatibility layers that run Windows games, since Windows programs often wait on many objects at a time; see [[Emulation]].
+Extensions followed. Priority-inheritance futexes help with a waiting high-priority thread stuck behind a low-priority one. Robust futexes let the kernel release locks held by a thread that died. In 2021 Linux added a call to wait on several futexes at once, driven by compatibility layers that run Windows games, since Windows programs often wait on many objects at a time; see [[Emulation]].
 
 ## See also
-- [[Read-Copy-Update]]
-- [[Memory Model]]
-- [[Multithreading]]
-- [[File Locking]]
 - [[Thread Pool]]
+- [[CPU Scheduler]]

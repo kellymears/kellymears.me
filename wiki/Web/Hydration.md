@@ -17,13 +17,9 @@ A subtler hazard: content rendered by the server and then mutated directly by th
 - [[Client-Server Boundary]]
 - [[contenteditable]]
 - [[Critical Rendering Path]]
+- [[Progressive Enhancement]]
+- [[Lazy Loading]]
+- [[Performance Budget]]
 - [[HTML]]
-
-## Related
-- [[Resumability]]
-- [[Jamstack]]
 - [[CSS-in-JS]]
-- [[Reactive Signals]]
-- [[Template Engine]]
 - [[Layout Shift]]
-- [[Flash of Unstyled Content]]

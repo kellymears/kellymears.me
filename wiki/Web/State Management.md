@@ -20,9 +20,9 @@ Redux's verbosity bred a backlash, and the field has since split state by kind:
 - **Shared state** used by distant components can be passed down through layers, called **prop drilling**, which gets tedious, or placed in a context or small store.
 - **Server state** is a copy of data that really lives on a server. Treating it as client state caused most of the trouble: it goes stale, needs refetching, and must be kept in sync. Dedicated query libraries handle caching, refetching, and [[Optimistic UI]] updates; see [[Cache Invalidation]].
 - **URL state**, such as filters and page numbers, belongs in the [[URL]], so it survives reloads and can be shared.
-- **Form state** has its own libraries, because validation and dirty tracking are fiddly; see [[Form Design]].
+- **Form state** has its own libraries, because validation and dirty tracking are fiddly.
 
-The deepest shift is in how changes propagate. Rather than re-rendering whole component trees and comparing results ([[Virtual DOM]]), many frameworks now track exactly which values each piece of the page reads and update only those; see [[Reactive Signals]].
+The deepest shift is in how changes propagate. Rather than re-rendering whole component trees and comparing results ([[Virtual DOM]]), many frameworks now track exactly which values each piece of the page reads and update only those.
 
 Moving data fetching to the server, as with [[React Server Components]] or classic [[Server-Side Rendering]], removes much client state altogether, since data that never reaches the browser needs no management there; see [[Single-Page Application]].
 

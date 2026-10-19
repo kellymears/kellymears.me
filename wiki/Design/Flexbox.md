@@ -37,5 +37,5 @@ Flexbox reflects a broader shift from fixed pixel layouts to declaring relations
 
 ## See also
 - [[Cascading Style Sheets]]
-- [[Optical Alignment]]
-- [[Bento Grid]]
+- [[Utility-First CSS]]
+- [[Grid System]]

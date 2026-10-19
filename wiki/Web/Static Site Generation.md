@@ -17,17 +17,15 @@ A pure static export also disables framework features that assume a server — i
 For a page whose content is genuinely fixed, static generation dominates on every axis that matters: latency, cost, reliability, and the ability to keep working when everything else is down.
 
 ## See also
-- [[Jamstack]]
+- [[Server-Side Rendering]]
+- [[Islands Architecture]]
+- [[Performance Budget]]
+- [[Cache Invalidation]]
+- [[RSS]]
+- [[React Server Components]]
+- [[Search Engine Optimization]]
 - [[WordPress]]
-- [[Slashdot Effect]]
 - [[Slug]]
 - [[Sitemap]]
-- [[Template Engine]]
-
-## Related
 - [[Web Hosting]]
 - [[Blog]]
-- [[Baked Lighting]]
-- [[Time to First Byte]]
-- [[Open Graph]]
-- [[IndieWeb]]

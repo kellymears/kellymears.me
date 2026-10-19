@@ -20,16 +20,15 @@ The basic tool is the **heartbeat**: each node sends a periodic "I'm alive" mess
 Better detectors adapt instead of using a fixed timeout:
 
 - **Phi accrual detectors** (2004) track the distribution of past heartbeat arrival times and output a level of suspicion rather than a yes or no. Cassandra and Akka use this approach.
-- **SWIM** (2002) has each member ping a random peer each round. If no reply comes, it asks a few other members to ping that peer too, so one bad network path doesn't condemn a healthy node. Membership changes then spread by [[Gossip Protocol]], keeping per-node load constant.
+- **SWIM** (2002) has each member ping a random peer each round. If no reply comes, it asks a few other members to ping that peer too, so one bad network path doesn't condemn a healthy node. Membership changes then spread by gossip protocol, keeping per-node load constant.
 
 Infrastructure uses simpler **health checks**. A [[Load Balancing|load balancer]] polls an endpoint on each backend and stops sending traffic to those that fail. Container orchestrators separate *liveness* (restart this process) from *readiness* (don't route traffic yet). Locally, an [[Init System]] such as [[Systemd]] can run a watchdog that restarts a service when it stops checking in.
 
-A false positive does more damage than a slow detection. If a leader is wrongly declared dead while still running, the cluster elects a new one and two nodes believe they are in charge, the split-brain case covered in [[Network Partition]]. [[Leader Election]] systems guard against this with leases that expire and fencing tokens that let storage reject the stale leader's writes. A [[Quorum]] requirement ensures only one side of a partition can act.
+A false positive does more damage than a slow detection. If a leader is wrongly declared dead while still running, the cluster elects a new one and two nodes believe they are in charge, the split-brain case covered in [[Network Partition]]. [[Leader Election]] systems guard against this with leases that expire and fencing tokens that let storage reject the stale leader's writes. A quorum requirement ensures only one side of a partition can act.
 
-Detection also interacts with load. Declaring a node dead shifts its traffic onto the survivors, which can overload them in turn, a cascading failure, and if many clients reconnect at once they create a [[Thundering Herd]]. A [[Circuit Breaker]] applies the same idea per caller: after enough failures, it stops calling a dependency and checks back later. [[Chaos Engineering]] tests failover by killing nodes deliberately.
+Detection also interacts with load. Declaring a node dead shifts its traffic onto the survivors, which can overload them in turn, a cascading failure, and if many clients reconnect at once they create a thundering herd. A [[Circuit Breaker]] applies the same idea per caller: after enough failures, it stops calling a dependency and checks back later. [[Chaos Engineering]] tests failover by killing nodes deliberately.
 
 ## See also
-- [[Single Point of Failure]]
-- [[N-Version Programming]]
-- [[Northeast Blackout of 2003]]
-- [[Spanning Tree Protocol]]
+- [[Watchdog Timer]]
+- [[Timeout]]
+- [[MQTT]]

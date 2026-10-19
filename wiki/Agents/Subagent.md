@@ -26,10 +26,7 @@ The instruction that most reliably improves subagent output is a statement of wh
 - [[Git Worktree]]
 - [[Token Budget]]
 - [[Fan-Out and Fan-In]]
-- [[Context Rot]]
 
 ## Related
 - [[Race Condition]]
 - [[Agentic Loop]]
-- [[Context Engineering]]
-- [[ReAct]]

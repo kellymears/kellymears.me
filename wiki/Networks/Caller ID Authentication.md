@@ -16,9 +16,8 @@ Spoofing persists for reasons the design does not address. Gateway providers acc
 
 ## See also
 - [[eSIM]]
-- [[Voice over IP]]
-- [[Telephone Network]]
+- [[Domain Name System]]
+- [[Least Privilege]]
+- [[Virtual Private Network]]
 - [[SMS]]
-- [[Emergency Telephone Number]]
-- [[Email Authentication]]
 - [[Phone Number]]

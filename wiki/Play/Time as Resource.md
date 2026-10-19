@@ -16,12 +16,5 @@ The structure also solves a narrative problem that resource economies cannot. Be
 
 ## See also
 - [[Meta-Progression]]
-- [[Side Quest]]
 - [[Idle Game]]
-- [[Fast Travel]]
 - [[Game Feel]]
-- [[Cozy Game]]
-- [[Faucets and Sinks]]
-- [[Escape Room]]
-- [[Virtual Pet]]
-- [[Grinding]]

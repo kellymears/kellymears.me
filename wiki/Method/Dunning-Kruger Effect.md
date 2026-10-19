@@ -15,19 +15,8 @@ For engineers, the practical corollary is to distrust your own confidence exactl
 
 ## See also
 - [[Automation Bias]]
-- [[Brier Score]]
-- [[Engineering Ladder]]
-- [[Learning Curve]]
 - [[Illusory Truth Effect]]
-- [[Cognitive Bias]]
-- [[Intelligence Quotient]]
-
-## Related
-- [[Self-Serving Bias]]
-- [[Self-Efficacy]]
-- [[Impostor Syndrome]]
-- [[Expert Intuition]]
-- [[Processing Fluency]]
-- [[Socratic Method]]
-- [[Deliberate Practice]]
-- [[Superforecasting]]
+- [[Confirmation Bias]]
+- [[Regression to the Mean]]
+- [[Base Rate Fallacy]]
+- [[Anchoring Effect]]

@@ -19,14 +19,7 @@ Silent truncation is the last hazard: if a fan-out caps coverage, say so, or a p
 - [[Subagent]]
 - [[Race Condition]]
 - [[Exhaustive Claim]]
-
-## Related
 - [[Git Worktree]]
 - [[Context Window]]
-- [[Distributed Training]]
+- [[Ground Truth]]
 - [[Tail Latency]]
-- [[MapReduce]]
-- [[Divide and Conquer]]
-- [[Amdahl's Law]]
-- [[Hedged Requests]]
-- [[Self-Consistency]]

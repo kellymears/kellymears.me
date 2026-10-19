@@ -14,16 +14,12 @@ Node's event loop has distinct phases (timers, pending callbacks, poll, check, c
 The event loop is one specific answer to the concurrency-without-threads problem; the [[Actor Model]] is another, structuring concurrency around isolated units of state exchanging messages rather than a shared queue and a single thread of control. Both avoid the shared-mutable-state hazards of true multithreading, from different directions.
 
 ## See also
-- [[Game Loop]]
-- [[Promise]]
 - [[Concurrency and Parallelism]]
+- [[Process]]
+- [[Race Condition]]
+- [[Promise]]
 - [[JavaScript]]
 - [[requestAnimationFrame]]
 - [[Background Tab Throttling]]
-- [[Coroutine]]
-- [[Multiplexing]]
-- [[Event Delegation]]
-- [[IO Multiplexing]]
 - [[Thread Pool]]
 - [[Web Server]]
-- [[Context Switch]]

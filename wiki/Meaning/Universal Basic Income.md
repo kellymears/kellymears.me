@@ -16,12 +16,7 @@ The proposal also has an odd political signature: it draws praise across nearly 
 
 ## See also
 - [[Regulatory Capture]]
-- [[Inflation]]
-- [[Social Contract]]
 - [[Fermi Estimation]]
 - [[Externality]]
-- [[Free Rider Problem]]
-- [[Baumol's Cost Disease]]
-- [[Ranked-Choice Voting]]
-- [[Veil of Ignorance]]
-- [[Lump of Labor Fallacy]]
+- [[Collective Action]]
+- [[Naming]]

@@ -14,17 +14,14 @@ Fail fast is not a blanket ban on fallbacks. Coalescing an absent list to an emp
 There is a reporting corollary. When a step cannot do its job, it should say so rather than emit a plausible-looking result. A build that produces five empty pages should report failure, not "built five pages" — honest reporting is what makes the metric usable at all. See [[Goodhart's Law]].
 
 ## See also
-- [[Kernel Panic]]
 - [[Monad]]
-- [[After-Action Review]]
-- [[Murphy's Law]]
+- [[Silent Failure]]
+- [[Secret Management]]
+- [[Observability]]
+- [[Assertion]]
+- [[Human in the Loop]]
+- [[Unreachable Code]]
+- [[Cron]]
+- [[Kernel Panic]]
 - [[Fail-Safe]]
-- [[Garbage In, Garbage Out]]
-- [[Crash-Only Software]]
-
-## Related
-- [[Cynefin Framework]]
-- [[Exception Handling]]
 - [[Exit Status]]
-- [[OODA Loop]]
-- [[Walking Skeleton]]

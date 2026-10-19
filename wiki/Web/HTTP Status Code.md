@@ -25,12 +25,12 @@ Some codes are jokes that stuck. `418 I'm a teapot` comes from a 1998 April Fool
 Getting codes right has practical consequences:
 
 - **Retries.** A 5xx or 429 is usually worth retrying with [[Exponential Backoff]], honoring any `Retry-After` header, while a 4xx is not. Retrying is safe only if the operation has [[Idempotence]].
-- **Monitoring.** Error rates and a [[Service Level Objective]] are usually computed from 5xx counts. An API that returns `200 OK` with an error message in the body hides every failure from dashboards and alerts, a [[Silent Failure]]. A [[Circuit Breaker]] that trips on 5xx responses has the same blind spot.
+- **Monitoring.** Error rates and a Service Level Objective are usually computed from 5xx counts. An API that returns `200 OK` with an error message in the body hides every failure from dashboards and alerts, a [[Silent Failure]]. A [[Circuit Breaker]] that trips on 5xx responses has the same blind spot.
 - **Search.** A missing page that returns 200 with a "not found" message is a *soft 404*, and crawlers may index it as real content. Permanent moves should use 301 or 308 so [[Search Engine Optimization]] signals follow the new URL.
 - **Caching.** Caches and a [[Content Delivery Network]] store some error codes by default, so a brief 404 can be served for hours after it is fixed.
 
 A [[Smoke Test]] after deploy usually starts by checking that key URLs return 200.
 
 ## See also
-- [[URL Shortener]]
 - [[Canonical URL]]
+- [[Open Redirect]]

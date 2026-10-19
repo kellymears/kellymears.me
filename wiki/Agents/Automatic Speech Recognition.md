@@ -15,12 +15,11 @@ summary: Turning audio into text, and the reasons real-world accuracy is set by 
 Real accuracy is dominated by what the headline number omits: proper nouns and rare vocabulary, which carry low prior probability and often need explicit biasing lists; disfluency, overlapping speakers and code-switching; and acoustics. The last is a hard ceiling. A far-field microphone with aggressive gain control and noise suppression has already discarded information, and no decoder recovers what is not in the signal — which is why a close-talking microphone routinely beats a larger model, and why [[Hallucination]] on near-silent audio is a known failure of end-to-end systems.
 
 ## See also
-- [[Beam Search]]
+- [[Subtitling]]
+- [[Large Language Model]]
+- [[Token]]
+- [[Nondeterminism]]
 - [[Wake Word]]
-- [[Speaker Diarization]]
 - [[Optical Character Recognition]]
-- [[Closed Captions]]
-- [[Hidden Markov Model]]
 - [[Text-to-Speech]]
-- [[Multimodal Model]]
 - [[Recurrent Neural Network]]

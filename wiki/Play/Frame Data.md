@@ -15,10 +15,6 @@ Frame-level accounting exists because it has to: a game running on a fixed simul
 Knowing a matchup's numbers changes how it is played: a habitually minus move gets punished on reaction once enough of the playerbase has memorized the chart, which is one of the ways a [[Metagame]] calcifies around published information rather than raw skill, and why frame charts sit alongside [[Tier List]] rankings in the same competitive literature.
 
 ## See also
-- [[Lag Compensation]]
-- [[Coyote Time]]
-- [[Fighting Game]]
-- [[Hit Stop]]
-- [[Bushnell's Law]]
 - [[Rollback Netcode]]
-- [[Skeletal Animation]]
+- [[Frame Generation]]
+- [[Rhythm Game]]

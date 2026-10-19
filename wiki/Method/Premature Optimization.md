@@ -14,18 +14,9 @@ The corrective isn't "never think about performance" — it's sequencing: write 
 The rule has a real boundary, worth stating so it doesn't get taken as absolute: some decisions are far cheaper to make well upfront than to retrofit later — a database schema, a public API's shape, an algorithm with quadratic behavior on inputs you already know will be large. Premature optimization is about micro-tuning ahead of evidence, not about ignoring an architectural choice whose cost is already knowable without a profiler.
 
 ## See also
-- [[Fast Inverse Square Root]]
-- [[Don't Repeat Yourself]]
-- [[Kernighan's Law]]
-- [[Big Design Up Front]]
+- [[Big-O Notation]]
+- [[Overfitting]]
+- [[Technical Debt]]
 - [[Benchmarking]]
-
-## Related
 - [[KISS Principle]]
-- [[Profiling]]
 - [[Refactoring]]
-- [[Pareto Principle]]
-- [[Opportunity Cost]]
-- [[You Aren't Gonna Need It]]
-- [[Memory Hierarchy]]
-- [[Entity Component System]]

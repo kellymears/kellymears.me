@@ -14,19 +14,13 @@ Practically it is built from small deliberate choices. Emitting the resolved con
 Poor observability produces a characteristic waste: hours spent reconstructing state that the system could have told you in one line. It is also what makes [[Silent Failure]] possible — a failure with no emission is invisible by construction.
 
 ## See also
-- [[Dashboard]]
-- [[Runtime Verification]]
-- [[Time Series Database]]
-- [[Mean Time to Recovery]]
-- [[Histogram]]
-- [[Testing in Production]]
-- [[You Build It, You Run It]]
-- [[Control Chart]]
-- [[Syslog]]
-
-## Related
-- [[Northeast Blackout of 2003]]
-- [[Distributed Tracing]]
-- [[Status Page]]
+- [[Instrumentation]]
+- [[Ground Truth]]
+- [[Reproducible Case]]
+- [[Resource Starvation]]
+- [[Root Cause Analysis]]
+- [[Cron]]
+- [[Fail Fast]]
+- [[Daemon]]
+- [[Vacuous Truth]]
 - [[Web Analytics]]
-- [[Anomaly Detection]]

@@ -14,18 +14,11 @@ One structural detail causes recurring confusion. Lockfiles typically contain tw
 A second: how installed packages are laid out on disk is a property of the package manager's linking strategy, not of the lockfile, so reading a version out of an installed directory may be wrong or may find nothing. The lockfile's resolution map is the answer. See [[Package Manager]] and [[Monorepo]].
 
 ## See also
-- [[License Compatibility]]
-- [[Event-stream Incident]]
-- [[Version Manager]]
-- [[Node.js]]
-
-## Related
-- [[Protestware]]
-- [[Left-Pad Incident]]
-- [[Yanked Release]]
-- [[Works on My Machine]]
+- [[Semantic Versioning]]
+- [[Determinism]]
+- [[Supply Chain Security]]
+- [[Bundler]]
+- [[Silent Failure]]
+- [[Module Graph]]
 - [[Gitignore]]
-- [[Build Provenance]]
-- [[Vendoring]]
 - [[Automated Dependency Updates]]
-- [[Subresource Integrity]]

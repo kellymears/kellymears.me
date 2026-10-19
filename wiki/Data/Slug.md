@@ -20,14 +20,15 @@ Making a slug from a title, often called slugifying, usually involves a few step
 
 Each step involves choices. Transliteration rules differ by language: German speakers expect "ü" to become "ue," while a generic tool may produce "u." Two titles that differ only in punctuation can collide. Stripping characters can turn a meaningful title into nonsense, or into something rude.
 
-The harder problem is change. A slug feels like a label, so people want to fix it when a title is edited, but it's also an address that other sites, bookmarks, and search engines have recorded. Changing it breaks those links unless the old address redirects to the new one; see [[Link Rot]] and [[HTTP Status Code]]. Tim Berners-Lee's 1998 essay "Cool URIs don't change" argued that addresses should be designed to last, which means leaving out details likely to change, such as file extensions, technology names, and sometimes even topics.
+The harder problem is change. A slug feels like a label, so people want to fix it when a title is edited, but it's also an address that other sites, bookmarks, and search engines have recorded. Changing it breaks those links unless the old address redirects to the new one; see [[HTTP Status Code]]. Tim Berners-Lee's 1998 essay "Cool URIs don't change" argued that addresses should be designed to last, which means leaving out details likely to change, such as file extensions, technology names, and sometimes even topics.
 
-Many sites resolve the tension by putting a permanent numeric or random identifier in the address alongside the slug. The identifier finds the page, and the slug is decorative. If the slug is wrong or out of date, the site redirects to the current one; see [[Persistent Identifier]] and [[Universally Unique Identifier]].
+Many sites resolve the tension by putting a permanent numeric or random identifier in the address alongside the slug. The identifier finds the page, and the slug is decorative. If the slug is wrong or out of date, the site redirects to the current one; see [[Universally Unique Identifier]].
 
 Slugs carry modest weight for search engines, mostly through the words they show in results, and sites still debate dates in addresses, which signal freshness but make evergreen pages look stale; see [[Search Engine Optimization]]. Where several addresses lead to the same page, a site can name the preferred one; see [[Canonical URL]].
 
 Static sites often derive slugs from file names or set them in each page's metadata; see [[Frontmatter]] and [[Static Site Generation]]. Picking a slug is a small act of naming, with the same trade-off between clarity and permanence; see [[Naming]].
 
 ## See also
-- [[Personal Name]]
-- [[Hashtag]]
+- [[Markdown]]
+- [[Headless CMS]]
+- [[Sitemap]]

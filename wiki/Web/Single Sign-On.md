@@ -16,7 +16,7 @@ The idea predates the web. Kerberos, developed at MIT in the 1980s, issued time-
 1. The user visits an application, which has no session for them and redirects the browser to the identity provider.
 2. The provider authenticates the user, by password, security key, or whatever it requires, or recognizes an existing session.
 3. The provider redirects the browser back with a signed assertion of identity.
-4. The application checks the signature against the provider's published public key and starts its own session; see [[Public-Key Cryptography]] and [[Session Management]].
+4. The application checks the signature against the provider's published public key and starts its own session; see [[Session Management]].
 
 Two standards dominate. **SAML**, finalized in 2005, carries assertions as signed [[XML]] documents and remains the norm inside large organizations. **OpenID Connect**, published in 2014, adds an identity layer to [[OAuth]], returning a signed [[JSON Web Token]], and powers consumer buttons like "Sign in with Google" or "Sign in with Apple."
 
@@ -29,12 +29,6 @@ The costs come from concentration:
 - **Parsing bugs.** SAML's XML signatures have suffered repeated "signature wrapping" flaws, in which a validator checks one part of a document while the application reads another.
 - **Redirect handling.** If an application accepts any return address, an attacker can steer the signed assertion to their own site; see [[Open Redirect]].
 
-Browser privacy changes have complicated things. Some systems checked for an existing login silently inside a hidden [[Iframe]], which relied on cookies that browsers now block across sites; see [[Third-Party Cookie]]. Browsers have proposed dedicated sign-in interfaces to replace those tricks.
+Browser privacy changes have complicated things. Some systems checked for an existing login silently inside a hidden [[Iframe]], which relied on cookies that browsers now block across sites. Browsers have proposed dedicated sign-in interfaces to replace those tricks.
 
 Many software vendors charge much more for plans that include single sign-on, a practice critics call the "SSO tax," since it makes basic account security a premium feature; see [[Open Core]].
-
-## See also
-- [[Passkey]]
-- [[Bastion Host]]
-- [[Password Manager]]
-- [[Healthcare.gov Launch]]

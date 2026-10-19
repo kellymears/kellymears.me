@@ -16,16 +16,9 @@ Two mechanical facts save a lot of confusion. **A failing test yields no coverag
 Coverage also behaves oddly across multiple test environments measuring the same files, where a single logical position can end up recorded twice; see [[Branch Coverage]].
 
 ## See also
-- [[Cobra Effect]]
-- [[Black-Box and White-Box Testing]]
-- [[Goto Fail]]
-- [[Modified Condition Decision Coverage]]
-- [[Pesticide Paradox]]
-- [[Fault Seeding]]
-- [[McNamara Fallacy]]
-
-## Related
-- [[Operationalization]]
-- [[Spectrum-Based Fault Localization]]
-- [[Mariner 1]]
-- [[Cyclomatic Complexity]]
+- [[Unreachable Code]]
+- [[Module Graph]]
+- [[Regression]]
+- [[Test-Driven Development]]
+- [[Unit Test]]
+- [[Vacuous Truth]]

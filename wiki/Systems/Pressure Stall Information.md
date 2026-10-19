@@ -23,9 +23,7 @@ Like any single metric, it needs cross-checking. The I/O figure counts time task
 ## See also
 - [[Resource Starvation]]
 - [[Load Average]]
-- [[Process Priority]]
 - [[CPU Scheduler]]
 - [[Observability]]
 - [[Instrumentation]]
 - [[Goodhart's Law]]
-- [[Training Load]]

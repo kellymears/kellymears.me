@@ -22,12 +22,8 @@ Bisection depends on a few properties of the history:
 
 Merge-heavy histories complicate the picture, since the "middle" of a graph with many branches isn't a single line. Git handles this by choosing commits that split the remaining candidates as evenly as possible, and `--first-parent` limits the search to the main line of merges.
 
-Bisection is the simplest version of [[Delta Debugging]], which generalizes the idea to sets of changes that don't have a natural order. It answers *when* a [[Regression]] arrived, which is often the fastest route to *why*: the diff of one small commit is usually short enough to read in full. Some teams bisect automatically in [[Continuous Integration]] when a test that passed yesterday fails today.
+Bisection is the simplest version of Delta Debugging, which generalizes the idea to sets of changes that don't have a natural order. It answers *when* a [[Regression]] arrived, which is often the fastest route to *why*: the diff of one small commit is usually short enough to read in full. Some teams bisect automatically in [[Continuous Integration]] when a test that passed yesterday fails today.
 
 ## See also
 - [[Minimal Reproducible Example]]
-- [[Spectrum-Based Fault Localization]]
-- [[Nightly Build]]
-- [[Git Revert]]
-- [[Gerrit]]
 - [[Detached HEAD]]

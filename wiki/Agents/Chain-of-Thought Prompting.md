@@ -14,14 +14,6 @@ The technique has since been absorbed into models themselves: so-called "reasoni
 
 ## See also
 - [[Prompt Engineering]]
-- [[Deceptive Alignment]]
 - [[Mechanistic Interpretability]]
 - [[Large Language Model]]
-- [[Dual Process Theory]]
-- [[Metacognition]]
 - [[Reasoning Model]]
-- [[Choice Blindness]]
-- [[Self-Consistency]]
-- [[Explainable AI]]
-- [[ReAct]]
-- [[Scalable Oversight]]

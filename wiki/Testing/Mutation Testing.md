@@ -12,18 +12,9 @@ The distinction from ordinary coverage is the whole point of the technique: [[Br
 The practical cost is why mutation testing isn't run on every commit the way coverage is: generating and rerunning the suite against hundreds or thousands of mutants is computationally expensive, scaling with both codebase size and suite runtime, so most teams run it periodically or on a targeted subset rather than as a CI gate on every push. Tools (Stryker for JS/TS, PIT for Java, mutmut for Python) also have to work around "equivalent mutants" — a mutation that's syntactically different but semantically identical to the original (multiplying by 1 vs. leaving a value alone) — which can't be killed by any test because there's nothing wrong to detect, and which manual triage still has to distinguish from genuine coverage gaps.
 
 ## See also
-- [[Pesticide Paradox]]
-- [[Spectrum-Based Fault Localization]]
 - [[Coverage Gate]]
 - [[Unit Test]]
-- [[Fault Seeding]]
-- [[Test Pyramid]]
-- [[Boundary Value Analysis]]
 - [[Test Oracle]]
-- [[Reward Hacking]]
 
 ## Related
 - [[Assertion]]
-- [[Solitary and Sociable Tests]]
-- [[Risk-Based Testing]]
-- [[Modified Condition Decision Coverage]]

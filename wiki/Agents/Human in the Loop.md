@@ -17,16 +17,9 @@ The complementary practice is honest reporting: a gate is only as good as the ac
 ## See also
 - [[Guardrail]]
 - [[Agentic Loop]]
-- [[Corrigibility]]
 - [[Multi-Agent Orchestration]]
 - [[Prompt Injection]]
-- [[Active Learning]]
+- [[Pull Request]]
+- [[Context Window]]
+- [[Tool Use]]
 - [[Background Agent]]
-
-## Related
-- [[Conformal Prediction]]
-- [[Scalable Oversight]]
-- [[Computer Use]]
-- [[Autonomous Vehicle]]
-- [[AI Alignment]]
-- [[Explainable AI]]

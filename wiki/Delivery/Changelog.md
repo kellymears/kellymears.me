@@ -21,14 +21,13 @@ The *Keep a Changelog* convention, published by Olivier Lacan in 2014, is the mo
 
 An *Unreleased* section at the top collects changes as they merge, and becomes the next version's entry at release time. The categories map onto [[Semantic Versioning]]: anything under Removed, or a breaking entry under Changed, implies a major version bump.
 
-The convention's main warning is against dumping the commit log into the file. A list of commit subjects is noise to a user and buries the one change that matters. Writing a good entry means describing the effect on the user, not the implementation, which is harder than it sounds because the author already knows what the change was for, a case of the [[Curse of Knowledge]]. Breaking changes deserve migration instructions, not just a mention, since [[Hyrum's Law]] means someone depended on the old behavior.
+The convention's main warning is against dumping the commit log into the file. A list of commit subjects is noise to a user and buries the one change that matters. Writing a good entry means describing the effect on the user, not the implementation, which is harder than it sounds because the author already knows what the change was for, a case of the curse of knowledge. Breaking changes deserve migration instructions, not just a mention, since [[Hyrum's Law]] means someone depended on the old behavior.
 
 Tooling can automate much of it. With [[Conventional Commits]], a `feat:` or `fix:` prefix tells a release tool which section an entry belongs in and which version bump it implies. A [[Squash Merge]] workflow, where each [[Pull Request]] becomes one commit, makes those subjects more meaningful. Other tools have contributors add a short change file with each pull request, which is collected into the changelog at release, a pattern common in a [[Monorepo]] with many independently versioned packages.
 
 *Release notes* are the companion form: a narrative summary of a release's highlights, often with screenshots and context, aimed at a broader audience. Large projects publish both. A changelog that isn't kept up is a form of [[Documentation Rot]], and an inaccurate one is worse than none, because readers trust it when deciding what to upgrade. Regular releases on a [[Release Train]] keep each entry short.
 
 ## See also
-- [[Git Tag]]
-- [[Release Engineering]]
 - [[Model Card]]
-- [[Docs as Code]]
+- [[Commit Message]]
+- [[Shallow Clone]]

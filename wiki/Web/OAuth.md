@@ -21,10 +21,5 @@ The access token itself is usually opaque to the client and short-lived, paired 
 
 ## Related
 - [[Cross-Site Scripting]]
-- [[Passkey]]
-- [[Third-Party Cookie]]
-- [[Secrets Management]]
 - [[Single Sign-On]]
 - [[Open Redirect]]
-- [[Fragment Identifier]]
-- [[Password Manager]]

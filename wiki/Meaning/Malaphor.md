@@ -20,6 +20,3 @@ The pattern marks the limit of fluency without a plan: a locally well-formed str
 - [[Plain Language]]
 - [[Naming]]
 - [[Linguistic Relativity]]
-- [[Portmanteau]]
-- [[Linguistic Prescriptivism]]
-- [[Metonymy]]

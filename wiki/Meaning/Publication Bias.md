@@ -12,17 +12,7 @@ The mechanism runs at every stage of the pipeline: journals prefer to publish ex
 The distortion is visible and quantifiable: meta-analyses use a funnel plot, which should show a symmetric spread of study sizes and effect sizes if no bias operates, and a lopsided funnel — missing small studies with null or negative results — is the classic fingerprint of a filtered literature. Preregistration, where a study's hypothesis and analysis plan are locked in before data collection, is the standard fix, because it makes it possible to notice how many registered studies never got a paper. Publication bias is a structural, non-fraudulent partner to [[P-Hacking]]: p-hacking distorts individual studies from the inside, while publication bias distorts which studies the world gets to see at all, and the two compound each other in exactly the same direction.
 
 ## See also
-- [[Dark Data]]
-- [[Scientific Method]]
 - [[Placebo Effect]]
 - [[Availability Cascade]]
-- [[Decision Fatigue]]
-- [[Citation Index]]
-- [[Matthew Effect]]
-- [[Statistical Significance]]
-- [[Effect Size]]
-- [[Berkson's Paradox]]
-- [[Meta-Analysis]]
-- [[Stereotype Threat]]
-- [[Peer Review]]
-- [[Pre-registration]]
+- [[Survivorship Bias]]
+- [[Scientific Method]]

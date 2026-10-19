@@ -16,12 +16,11 @@ A type-level defense exists too. An operation returning a value that may be abse
 The rhetorical version is just as costly: an "everything passes" claim assembled from checks that never ran. See [[Vacuous Truth]].
 
 ## See also
-- [[Principle of Least Astonishment]]
-- [[Defensive Programming]]
-- [[Ostrich Effect]]
-- [[Dead Letter Queue]]
 - [[Coverage Gate]]
-- [[Backup and Restore]]
+- [[Root Cause Analysis]]
+- [[Ground Truth]]
+- [[Fail Fast]]
+- [[Observability]]
+- [[Defensive Programming]]
 - [[HTTP Status Code]]
-- [[Error-Correcting Code]]
 - [[Error Message]]

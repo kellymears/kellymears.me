@@ -17,15 +17,8 @@ Routing brings its own problems:
 - **Expert specialization is not human-legible.** Experts rarely line up with topics like "math" or "French". They tend to specialize on syntax and token types, which [[Mechanistic Interpretability]] work has tried to map.
 - **Batch inefficiency.** Different tokens in a batch want different experts, so serving MoE at scale is a scheduling problem as much as a compute one.
 
-MoE is [[Model Routing]] moved inside the network, decided per token by a learned function instead of per task by an engineer. It combines well with [[Speculative Decoding]] because both target the same bottleneck: how much has to be read from memory for each token produced.
+MoE is [[Model Routing]] moved inside the network, decided per token by a learned function instead of per task by an engineer. It combines well with Speculative Decoding because both target the same bottleneck: how much has to be read from memory for each token produced.
 
 ## See also
-- [[Distributed Training]]
-- [[Model Merging]]
-- [[Hyperparameter]]
 - [[Fine-Tuning]]
 - [[KV Cache]]
-- [[Neural Network Pruning]]
-- [[Open-Weight Model]]
-- [[Catastrophic Forgetting]]
-- [[Inference Serving]]

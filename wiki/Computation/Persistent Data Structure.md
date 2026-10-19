@@ -25,14 +25,10 @@ Persistence is what makes [[Immutability]] practical. In functional languages va
 - **Safe sharing.** A version can be handed to another thread or function without defensive copying, since nobody can change it. This removes a whole class of [[Race Condition]] bugs.
 - **Fast change detection.** If two references point to the same node, everything beneath is identical. UI libraries exploit this to skip unchanged parts of the tree when updating a [[Virtual DOM]].
 
-The costs are real. Each update allocates new nodes, putting pressure on [[Garbage Collection]], and pointer-heavy trees have worse [[Locality of Reference]] than flat arrays, so persistent structures are typically slower than mutable ones by a constant factor.
+The costs are real. Each update allocates new nodes, putting pressure on [[Garbage Collection]], and pointer-heavy trees have worse Locality of Reference than flat arrays, so persistent structures are typically slower than mutable ones by a constant factor.
 
-The same ideas appear outside programming languages. Git stores history as a persistent tree in which each commit shares unchanged files and directories with its parent, an instance of a [[Merkle Tree]]. File systems and databases that use [[Copy-on-Write]] get cheap snapshots the same way, and [[Event Sourcing]] keeps every past state reconstructible by never overwriting.
+The same ideas appear outside programming languages. Git stores history as a persistent tree in which each commit shares unchanged files and directories with its parent, an instance of a Merkle Tree. File systems and databases that use [[Copy-on-Write]] get cheap snapshots the same way, and [[Event Sourcing]] keeps every past state reconstructible by never overwriting.
 
 ## See also
-- [[Text Buffer]]
-- [[ZFS]]
-- [[Read-Copy-Update]]
-- [[Self-Balancing Binary Search Tree]]
-- [[Jujutsu]]
-- [[Covariance and Contravariance]]
+- [[Undo]]
+- [[Git Object Model]]

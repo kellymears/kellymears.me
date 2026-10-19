@@ -16,12 +16,8 @@ Regulation splits along the same seam: a compound may be approved as a fragrance
 
 ## See also
 - [[Nociception]]
-- [[Capsaicin]]
-- [[Brain Freeze]]
 - [[Linguistic Relativity]]
 - [[Taxonomy]]
-- [[Maillard Reaction]]
-- [[Umami]]
 
 ## Related
 - [[Physical Dependence]]

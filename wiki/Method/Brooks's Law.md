@@ -14,20 +14,10 @@ The law is frequently misquoted as "more people always makes things slower," whi
 The practical corollary is that a genuinely late project is rescued by removing scope or extending the deadline, not by throwing bodies at the calendar — and that the tell of a team about to learn this the hard way is treating headcount as a lever for schedule at all.
 
 ## See also
-- [[Learning Curve]]
-- [[Lump of Labor Fallacy]]
-- [[Crunch]]
-- [[Mainframe]]
-- [[Software Crisis]]
-
-## Related
-- [[Lehman's Laws of Software Evolution]]
-- [[Gantt Chart]]
-- [[Healthcare.gov Launch]]
-- [[Two-Pizza Team]]
-- [[Amdahl's Law]]
-- [[Team Topologies]]
+- [[Second-System Effect]]
+- [[Hofstadter's Law]]
+- [[Parkinson's Law]]
+- [[Bus Factor]]
+- [[Conway's Law]]
+- [[Technical Debt]]
 - [[Theory of Constraints]]
-- [[Story Points]]
-- [[Ninety-Ninety Rule]]
-- [[Second-Order Thinking]]

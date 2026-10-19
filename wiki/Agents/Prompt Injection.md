@@ -18,17 +18,13 @@ The defenses that hold are architectural rather than linguistic:
 **Confirm before acting outward.** See [[Human in the Loop]].
 
 ## See also
-- [[Content Moderation]]
-- [[ReAct]]
-- [[Threat Modeling]]
-- [[Adversarial Example]]
 - [[Model Context Protocol]]
 - [[Prompt]]
-
-## Related
-- [[Chatbot]]
+- [[Guardrail]]
+- [[Secret Management]]
+- [[Supply Chain Security]]
+- [[Tool Use]]
+- [[Large Language Model]]
+- [[Threat Modeling]]
 - [[Server-Side Request Forgery]]
-- [[Internet Troll]]
 - [[Agent Sandbox]]
-- [[Computer Use]]
-- [[Jailbreak]]

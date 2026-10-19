@@ -18,7 +18,7 @@ That makes markup decisive:
 - **Semantic elements carry meaning for free.** A real `<button>` is announced as a button, is focusable, and responds to the keyboard. A `<div>` styled to look like one is announced as nothing; see [[Semantic HTML]].
 - **ARIA fills gaps** where no native element fits, such as tabs or comboboxes, but it only changes what's announced, not behavior; see [[ARIA]].
 - **Images need text alternatives.** An image without alt text is announced by file name or skipped. An icon-only button needs an accessible name; see [[Iconography]].
-- **Labels must be connected.** A form field's visible label has to be programmatically tied to the field; see [[Form Design]].
+- **Labels must be connected.** A form field's visible label has to be programmatically tied to the field.
 
 Dynamic interfaces add failure modes:
 
@@ -30,6 +30,6 @@ Dynamic interfaces add failure modes:
 Automated checkers catch only a minority of these problems. The reliable test is to use a screen reader yourself, keyboard only, eyes off the screen, and try to complete a real task. It quickly shows whether the interface has structure or only appearance, the gap that [[Accessibility]] work tries to close.
 
 ## See also
-- [[Masonry Layout]]
 - [[Alt Text]]
-- [[Language Tag]]
+- [[Accordion]]
+- [[HTML]]

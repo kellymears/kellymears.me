@@ -13,17 +13,6 @@ Both tissue types share a frustrating property: they are relatively **poorly vas
 
 ## See also
 - [[Scar Tissue]]
-- [[Osteoarthritis]]
 - [[Compartment Syndrome]]
 - [[Fracture Fixation]]
-- [[Plantar Fasciitis]]
-- [[Anterior Cruciate Ligament Injury]]
-- [[Collagen]]
-- [[Patellofemoral Pain Syndrome]]
-- [[Repetitive Strain Injury]]
-- [[Ankle Sprain]]
-- [[Stretching]]
-- [[Grip Strength]]
-- [[Hypermobility]]
-- [[Tendinopathy]]
-- [[Fascia]]
+- [[Bone Remodeling]]

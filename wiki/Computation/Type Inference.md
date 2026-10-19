@@ -15,16 +15,8 @@ The trade-off inference introduces is an error message pointing to where a const
 
 ## See also
 - [[Pattern Matching]]
-- [[Curry-Howard Correspondence]]
-- [[Expression Problem]]
 - [[Schema Validation]]
-- [[Covariance and Contravariance]]
-- [[Union-Find]]
-- [[Ownership and Borrowing]]
-- [[Dynamic Dispatch]]
+- [[Compiler]]
 - [[TypeScript]]
 - [[Type System]]
 - [[Generics]]
-- [[Abstract Interpretation]]
-- [[Dependent Types]]
-- [[Logic Programming]]

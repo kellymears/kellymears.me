@@ -15,16 +15,10 @@ A [[Service Worker]] is a specialized sibling, not a general-purpose worker: sam
 
 ## See also
 - [[Service Worker]]
-- [[Multithreading]]
 - [[Debounce and Throttle]]
 - [[Performance Budget]]
 
 ## Related
 - [[Optimistic UI]]
-- [[WebAssembly]]
-- [[HTML Canvas]]
 - [[Long Task]]
 - [[Promise]]
-- [[Cross-Origin Isolation]]
-- [[Origin Private File System]]
-- [[Web Audio API]]

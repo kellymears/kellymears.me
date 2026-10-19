@@ -31,7 +31,6 @@ The remedies all aim to give each test a fresh world:
 The strictest form is a **hermetic** test, which depends on nothing outside its own declared inputs, the same goal as [[Determinism]] in builds. Isolation also makes failures readable: when exactly one test fails, the cause is in that test's code path. The same principle behind [[Pure Function]] design applies here. Code with fewer hidden inputs is easier to test in isolation.
 
 ## See also
-- [[Test Parallelization]]
 - [[Dependency Injection]]
 - [[Service Virtualization]]
 - [[Determinism]]

@@ -23,8 +23,8 @@ Defenses, ideally layered:
 
 SSRF has become more common as applications fetch more on users' behalf: webhooks, integrations, and AI agents that browse the web or call tools, where a malicious page can steer the fetching; see [[Webhook]], [[Tool Use]], and [[Prompt Injection]].
 
-It was added to the OWASP Top 10 list of critical web risks in 2021; see [[Penetration Testing]].
+It was added to the OWASP Top 10 list of critical web risks in 2021.
 
 ## See also
 - [[XML]]
-- [[Virtual LAN]]
+- [[Open Redirect]]

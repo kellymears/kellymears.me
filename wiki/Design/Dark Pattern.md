@@ -14,16 +14,11 @@ Regulation has started catching up to the vocabulary: the EU's Digital Services 
 The distinction that matters in practice is intent and asymmetry, not mere persuasion — a well-designed default or a genuinely limited-time discount isn't a dark pattern just because it changes behavior. It becomes one when the interface makes the business-favoring path measurably easier to complete and the user-favoring path measurably harder, especially by hiding, delaying, or obscuring information the user would need to decide well.
 
 ## See also
+- [[Affordance]]
+- [[Progressive Disclosure]]
+- [[Accessibility]]
+- [[Compulsion Loop]]
 - [[Call to Action]]
 - [[Toggle Switch]]
 - [[Carousel]]
-- [[Calm Technology]]
-- [[Hobson's Choice]]
-- [[Cookie Consent]]
-- [[Like Button]]
-- [[Pop-up Ad]]
-- [[Algorithmic Feed]]
-- [[Virtual Pet]]
 - [[Clickjacking]]
-- [[Banner Blindness]]
-- [[Paywall]]

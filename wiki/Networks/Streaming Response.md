@@ -27,8 +27,4 @@ Cancellation deserves particular attention in agent systems, where a timeout typ
 - [[Islands Architecture]]
 - [[Critical Rendering Path]]
 - [[Skeleton Screen]]
-- [[Coroutine]]
-- [[Fetch API]]
 - [[Long Polling]]
-- [[Inference Serving]]
-- [[Time to First Byte]]

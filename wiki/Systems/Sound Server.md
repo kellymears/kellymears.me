@@ -16,7 +16,7 @@ Its main jobs:
 - **Routing.** Deciding which device each stream goes to and moving streams when headphones are plugged in or a Bluetooth headset connects; see [[Bluetooth]] and [[Universal Serial Bus]].
 - **Volume and policy.** Per-application volume, muting, and rules such as lowering music during a call.
 
-The hard constraint is time. Audio arrives in small buffers, and if the next buffer isn't ready when the hardware needs it, the result is an audible click or dropout. Bigger buffers are safer but add delay, which matters for games, calls and especially musicians, who notice when what they hear lags what they play; see [[Latency and Jitter]]. Audio threads therefore often get elevated scheduling priority; see [[Process Priority]] and [[CPU Scheduler]].
+The hard constraint is time. Audio arrives in small buffers, and if the next buffer isn't ready when the hardware needs it, the result is an audible click or dropout. Bigger buffers are safer but add delay, which matters for games, calls and especially musicians, who notice when what they hear lags what they play; see [[Latency and Jitter]]. Audio threads therefore often get elevated scheduling priority; see [[CPU Scheduler]].
 
 Linux shows how the design evolved. At the bottom, the kernel's **ALSA** drivers expose each sound card through device files; see [[Device File]]. Early hardware could play only one stream at a time, so the first program to open the card blocked the others. **PulseAudio**, released in 2004 and widely adopted around 2008, added a desktop sound server with mixing, per-application volume and network audio. Professional users relied instead on JACK, built for very low latency and flexible routing between music programs. **PipeWire**, started in 2015 and adopted by major distributions from around 2021, replaced both by implementing their interfaces on one graph-based engine that also carries screen-capture video; see [[Linux Distribution]].
 
@@ -26,5 +26,4 @@ Sound servers also handle echo cancellation for calls and expose virtual devices
 
 ## See also
 - [[Pressure Stall Information]]
-- [[Real-Time Operating System]]
-- [[Speaker Diarization]]
+- [[Ring Buffer]]

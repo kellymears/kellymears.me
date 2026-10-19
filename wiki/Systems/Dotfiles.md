@@ -14,19 +14,17 @@ A dotfiles repository has a characteristic structure. Configuration that respect
 Package manifests belong here too: a declarative list of installed software makes the machine reconstructible rather than merely configured. And the maintenance activity that pays best is periodic deletion — a dotfiles repository accumulates configuration for tools that were uninstalled long ago, and every stale entry is a small piece of misdirection for the next person to read it, including yourself.
 
 ## See also
-- [[Filesystem Hierarchy Standard]]
 - [[Symbolic Link]]
-- [[Version Manager]]
+- [[Terminal User Interface]]
+- [[Shell]]
+- [[Package Manager]]
+- [[Environment Variable]]
+- [[Silent Failure]]
+- [[Time Zone]]
+- [[Secret Management]]
+- [[Containerization]]
 - [[Linux Distribution]]
 - [[Desktop Environment]]
 - [[Ricing]]
 - [[Secure Shell]]
-
-## Related
-- [[Terminal User Interface]]
 - [[Command-Line Interface]]
-- [[Keyboard Layout]]
-- [[Gitignore]]
-- [[Works on My Machine]]
-- [[Configuration Management]]
-- [[Atomic File Write]]

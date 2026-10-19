@@ -24,13 +24,7 @@ Practical design centers on a few pressures.
 - [[Human in the Loop]]
 - [[Token Budget]]
 - [[Guardrail]]
-- [[Automated Planning]]
-- [[Background Agent]]
-
-## Related
 - [[Token]]
 - [[Model Context Protocol]]
-- [[Distribution Shift]]
-- [[Bitter Lesson]]
-- [[Frame Problem]]
-- [[ReAct]]
+- [[Large Language Model]]
+- [[Background Agent]]

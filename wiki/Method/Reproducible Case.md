@@ -20,12 +20,8 @@ Two habits keep repros honest. Write the reproduction *before* the fix, so you h
 - [[Race Condition]]
 - [[Regression]]
 - [[Observability]]
-- [[Fuzzing]]
-- [[Exploratory Testing]]
-- [[Deterministic Simulation Testing]]
 
 ## Related
 - [[Vacuous Truth]]
 - [[Truncation Bias]]
-- [[Delta Debugging]]
 - [[Git Bisect]]

@@ -16,9 +16,4 @@ Design bends around the paying minority in ways non-paying players absorb withou
 
 ## See also
 - [[Open Core]]
-- [[Battle Pass]]
-- [[Pay-to-Win]]
-- [[Video Game Crash of 1983]]
-- [[Two-Sided Market]]
-- [[Loot]]
-- [[Power Creep]]
+- [[Pity Timer]]

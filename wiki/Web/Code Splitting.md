@@ -17,14 +17,10 @@ This is why splitting must be *measured* rather than assumed. Two plausible refa
 - [[Tree Shaking]]
 - [[Lazy Loading]]
 - [[Performance Budget]]
-- [[Resumability]]
 - [[React Server Components]]
-
-## Related
 - [[Islands Architecture]]
-- [[Micro-Frontends]]
+- [[Ground Truth]]
+- [[Server-Side Rendering]]
 - [[Single-Page Application]]
 - [[ES Modules]]
-- [[Minification]]
 - [[Long Task]]
-- [[Flash of Unstyled Content]]

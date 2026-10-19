@@ -14,13 +14,8 @@ The costs are equally concrete. The server does per-request work, so caching bec
 SSR sits on a spectrum with [[Static Site Generation]] (render once at build time) and client rendering (render entirely in the browser). Modern frameworks mix all three within one application, choosing per route or per component, which is why the meaningful question is usually not "is this app server-rendered" but "where is the [[Client-Server Boundary]]".
 
 ## See also
-- [[Template Engine]]
 - [[Islands Architecture]]
 - [[Incremental Static Regeneration]]
-- [[Jamstack]]
-- [[Resumability]]
-- [[Edge Computing]]
-- [[Serverless Computing]]
+- [[React Server Components]]
+- [[Progressive Enhancement]]
 - [[Open Graph]]
-- [[Hypermedia]]
-- [[Model-View-Controller]]

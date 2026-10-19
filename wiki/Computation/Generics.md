@@ -18,16 +18,13 @@ Languages implement generics in two main ways:
 - **Erasure.** The compiler checks types, then erases them, producing one shared version of the code that works on generic references. Java does this for compatibility with older code, and [[TypeScript]] erases all types when compiling to JavaScript. It keeps binaries small, but the program can't ask at runtime what `T` is.
 - **Monomorphization.** The compiler stamps out a separate copy of the code for each concrete type used, as C++ templates and Rust do. Each copy is specialized and fast, with no indirection, but binaries grow and compile times lengthen.
 
-C# and some others mix the two, sharing code for reference types and specializing for value types. The trade-off between code size and speed is the same one [[Dynamic Dispatch]] makes against static dispatch.
+C# and some others mix the two, sharing code for reference types and specializing for value types. The trade-off between code size and speed is the same one Dynamic Dispatch makes against static dispatch.
 
-Generics become much more useful with **constraints**. A sorting function shouldn't accept any `T`, only types that can be compared. Languages express this with bounded type parameters, Java's `T extends Comparable`, Rust's traits, Haskell's type classes, or Go's interface constraints. Constraints connect generics to [[Polymorphism]] of the ad hoc kind, where behavior differs by type.
+Generics become much more useful with **constraints**. A sorting function shouldn't accept any `T`, only types that can be compared. Languages express this with bounded type parameters, Java's `T extends Comparable`, Rust's traits, Haskell's type classes, or Go's interface constraints. Constraints connect generics to Polymorphism of the ad hoc kind, where behavior differs by type.
 
-Generic code is everywhere once a language has it: containers such as a [[Hash Table]] or [[Binary Heap]], functions like `map` and `filter` from [[Higher-Order Function]] style, and types like `Option<T>` and `Result<T, E>`, which make an [[Algebraic Data Type]] reusable. A [[Monad]] is a pattern defined over a generic type constructor.
+Generic code is everywhere once a language has it: containers such as a [[Hash Table]] or binary heap, functions like `map` and `filter` from [[Higher-Order Function]] style, and types like `Option<T>` and `Result<T, E>`, which make an algebraic data type reusable. A [[Monad]] is a pattern defined over a generic type constructor.
 
-Generics have costs. Error messages from heavily templated C++ are notoriously long, and complex constraint systems can become a programming language of their own; C++ templates show accidental [[Turing Completeness]]. [[Duck Typing]] offers the dynamic alternative: skip the type parameters and check behavior at runtime.
+Generics have costs. Error messages from heavily templated C++ are notoriously long, and complex constraint systems can become a programming language of their own; C++ templates show accidental Turing Completeness. [[Duck Typing]] offers the dynamic alternative: skip the type parameters and check behavior at runtime.
 
 ## See also
-- [[Expression Problem]]
 - [[Iterator]]
-- [[Covariance and Contravariance]]
-- [[Typestate]]

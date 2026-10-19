@@ -28,5 +28,4 @@ Two recurring implementation notes. Content that lives outside the page model â€
 - [[Backlink]]
 - [[WordPress]]
 - [[Blog]]
-- [[Jamstack]]
 - [[Slug]]

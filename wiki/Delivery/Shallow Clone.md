@@ -34,6 +34,3 @@ These techniques reduce how much of a repository you fetch. [[Git LFS]] addresse
 - [[Git Object Model]]
 - [[Build Cache]]
 - [[Reflog]]
-- [[Git Submodule]]
-- [[Distributed Version Control]]
-- [[Perforce]]

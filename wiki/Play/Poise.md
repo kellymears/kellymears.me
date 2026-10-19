@@ -18,4 +18,3 @@ Poise is the canonical case of a **load-bearing mechanic that shipped undocument
 - [[Invincibility Frames]]
 - [[Soulslike]]
 - [[Meta-Progression]]
-- [[Telegraphing]]

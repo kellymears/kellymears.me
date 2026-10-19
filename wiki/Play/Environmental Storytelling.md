@@ -15,10 +15,8 @@ Authored ambiguity is the deliberate version: place enough evidence to constrain
 Two limits. Legibility depends on placement and sightlines, so the discipline overlaps with [[Information Architecture]]: an audience that never looks at the tableau reads nothing. And a generated space cannot compose a tableau, which is why games built on [[Procedural Generation]] hand-place set pieces into generated layouts, and why [[Roguelike]] structures tend to carry their fiction in item descriptions instead. Asserting by implication also makes [[Ludonarrative Dissonance]] rare.
 
 ## See also
-- [[Alternate Reality Game]]
-- [[Fast Travel]]
-- [[First-Person Shooter]]
-- [[Escape Room]]
+- [[Game Feel]]
+- [[Game AI]]
+- [[Voxel]]
+- [[Taxonomy]]
 - [[Cutscene]]
-- [[Easter Egg]]
-- [[In Medias Res]]

@@ -15,11 +15,7 @@ The load-bearing test is **disproportionality**, which belongs to a later and se
 The critique cuts the other way with equal force: naming something a moral panic can dismiss a concern without engaging its evidence, treating alarm itself as proof the alarm is unwarranted. Telling a manufactured panic apart from a proportionate response to real harm — the sort [[Terror Management Theory]] explains at the level of individual fear — is usually the harder question.
 
 ## See also
-- [[Godwin's Law]]
-- [[Toyota Unintended Acceleration]]
-- [[Pinball]]
-- [[Internet Troll]]
-- [[Umami]]
-- [[Agenda-Setting]]
-- [[Risk Compensation]]
-- [[Just-World Hypothesis]]
+- [[Taxonomy]]
+- [[Legibility]]
+- [[Motte and Bailey]]
+- [[Confidence Trick]]

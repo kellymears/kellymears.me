@@ -14,18 +14,10 @@ Memory is also *dated*. A stored fact reflects what was true when written, and a
 The related design question is retrieval: a memory that is never surfaced at the right moment is inert, and one that is always surfaced is just a longer prompt. Summaries carrying enough to judge relevance, with the full text loaded on demand, is the shape that scales.
 
 ## See also
-- [[Hopfield Network]]
 - [[Knowledge Graph]]
 - [[Zettelkasten]]
-- [[Frame Problem]]
 - [[Agent Skill]]
-- [[Spaced Repetition]]
-- [[Extended Mind]]
-- [[Context Rot]]
-
-## Related
-- [[Chatbot]]
 - [[System Prompt]]
 - [[Prompt]]
-- [[Catastrophic Forgetting]]
-- [[Context Engineering]]
+- [[Provenance]]
+- [[Wiki]]

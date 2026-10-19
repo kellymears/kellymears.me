@@ -21,7 +21,7 @@ The approach is a compromise between two extremes:
 
 Vocabulary size is the main dial. Larger vocabularies, now often 100,000 to 250,000 entries, compress text better but make the embedding table bigger, with each token getting its own learned [[Embedding]].
 
-Related algorithms include WordPiece, used by BERT, and the unigram method in Taku Kudo's SentencePiece library from 2018, which treats spaces as ordinary symbols so it works for languages written without them. Merging the most frequent pair at each step is a [[Greedy Algorithm]].
+Related algorithms include WordPiece, used by BERT, and the unigram method in Taku Kudo's SentencePiece library from 2018, which treats spaces as ordinary symbols so it works for languages written without them. Merging the most frequent pair at each step is a greedy algorithm.
 
 Many odd model behaviors trace back to the tokenizer:
 
@@ -30,11 +30,8 @@ Many odd model behaviors trace back to the tokenizer:
 - **Language cost.** Tokenizers trained mostly on English need several times more tokens for the same meaning in many other languages, so those users pay more and fit less into the context, an inequity built into [[Token Budget]].
 - **Glitch tokens.** In 2023, researchers found tokens such as "SolidGoldMagikarp", usernames frequent in the tokenizer's data but nearly absent from training, that made models behave bizarrely, because their embeddings were barely trained.
 
-The tokenizer is fixed before [[Pretraining]] and cannot easily change afterward, so its quirks live as long as the model. Some research models skip it entirely and read raw bytes, at the cost of longer sequences.
+The tokenizer is fixed before Pretraining and cannot easily change afterward, so its quirks live as long as the model. Some research models skip it entirely and read raw bytes, at the cost of longer sequences.
 
 ## See also
-- [[Burrows-Wheeler Transform]]
-- [[Word2Vec]]
-- [[Natural Language Processing]]
 - [[Lexical Analysis]]
-- [[Portmanteau]]
+- [[Stemming and Lemmatization]]

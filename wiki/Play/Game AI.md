@@ -18,18 +18,12 @@ Legibility is also a presentation problem, not only a behavior one. If a player 
 
 ## See also
 - [[Trick-Taking Game]]
-- [[Alpha-Beta Pruning]]
-- [[Solved Game]]
-- [[Real-Time Strategy]]
-
-## Related
-- [[Monte Carlo Tree Search]]
-- [[Automated Planning]]
 - [[L-System]]
-- [[Dynamic Difficulty Adjustment]]
-- [[Navigation Mesh]]
-- [[A-Star Search Algorithm]]
-- [[Abstract Strategy Game]]
-- [[Non-Player Character]]
-- [[Boids]]
-- [[Reinforcement Learning]]
+- [[Constraint Propagation]]
+- [[Seeded Randomness]]
+- [[Roguelike]]
+- [[Procedural Generation]]
+- [[Cellular Automaton]]
+- [[Determinism]]
+- [[Voxel]]
+- [[Shader]]

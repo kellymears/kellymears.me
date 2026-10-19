@@ -27,8 +27,6 @@ Each design choice made one set of problems hard and a different set easy, a pat
 - [[Graphics Driver]]
 - [[Clipboard]]
 - [[Inter-Process Communication]]
-- [[Keyboard Layout]]
 - [[Tiling Window Manager]]
 - [[Remote Desktop]]
 - [[Input Method]]
-- [[Desktop Metaphor]]

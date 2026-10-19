@@ -15,12 +15,7 @@ A durable misreading treats window movement as always the product of a coordinat
 The mechanism rhymes with [[Anchoring Effect]]: a proposal's plausibility is judged against whatever positions are already visible nearby, so shifting what is visible reshapes what everything else looks like.
 
 ## See also
-- [[Civil Disobedience]]
-- [[Schelling Point]]
-- [[Godwin's Law]]
 - [[Jaywalking]]
-- [[Duverger's Law]]
-- [[Diffusion of Innovations]]
-- [[Tyranny of the Majority]]
-- [[Conceptual Metaphor]]
-- [[Propaganda]]
+- [[Legibility]]
+- [[Regulatory Capture]]
+- [[Collective Action]]

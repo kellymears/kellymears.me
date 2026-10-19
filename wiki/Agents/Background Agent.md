@@ -19,12 +19,10 @@ Removing the watcher removes a safety layer, so the design work shifts to the ed
 - **Checkpoints and approvals.** Irreversible or outward-facing actions, such as merging, deploying, or messaging people, belong behind a [[Human in the Loop]] gate rather than at the agent's discretion.
 - **Untrusted input.** Background agents often read issues, emails, or web pages written by strangers, making [[Prompt Injection]] a primary risk rather than an edge case.
 - **Budgets.** With no one to notice a loop, runs need hard limits on time, steps, and spending. See [[Token Budget]].
-- **Durability.** Long runs fail midway. Persisting progress, as [[Durable Execution]] engines do, lets a run resume instead of restarting, and [[Idempotence]] keeps retried steps from doing things twice.
+- **Durability.** Long runs fail midway. Persisting progress, as Durable Execution engines do, lets a run resume instead of restarting, and [[Idempotence]] keeps retried steps from doing things twice.
 - **Reporting.** The final report is the only part a person may read, so it must stand on its own, saying what was done, what was not, and what is uncertain, without overstating success.
 
 [[Observability]] matters more than for interactive use. A transcript, tool-call log, and diff let someone audit a run after the fact, which is the background equivalent of watching it happen.
 
 ## See also
-- [[Job Control]]
-- [[Corrigibility]]
-- [[ReAct]]
+- [[Agent Sandbox]]

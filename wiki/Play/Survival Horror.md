@@ -12,10 +12,5 @@ The genre has two ancestors, and they gave different things. [[Sweet Home]] (198
 **The series also carries the genre's central drift.** *Resident Evil 5* (2009) and *6* (2012) traded scarcity for firepower and mobility, chasing action-game audiences and drawing [[Ludonarrative Dissonance]] complaints — a horror story told through a power fantasy — before *7* and the remakes pulled scarcity back to the center. *Resident Evil 4* (2005) is routinely swept into that account and does not belong: it still roots the player in place to aim, as 5 does, keeps ammunition tight, and turns storage into the attaché-case packing puzzle. Free movement while shooting arrives only with 6. Fixed save points, another deliberate friction, became fuel for [[Speedrun]] routing once players optimized the restrictions meant to slow them down.
 
 ## See also
-- [[Checkpoint]]
-- [[Crafting System]]
 - [[Heads-Up Display]]
 - [[Cutscene]]
-- [[Asymmetric Multiplayer]]
-- [[Fast Travel]]
-- [[Adaptive Music]]

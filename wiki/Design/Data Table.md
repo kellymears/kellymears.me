@@ -12,9 +12,9 @@ A **data table** arranges values in rows and columns so readers can look up a sp
 Most of the craft is alignment and restraint:
 
 - **Align numbers right**, and text left, so digits of the same place value line up and magnitudes can be compared by eye.
-- **Use tabular figures**, which give every digit the same width, so columns of numbers line up exactly; see [[Tabular figures]].
+- **Use tabular figures**, which give every digit the same width, so columns of numbers line up exactly.
 - **Keep precision consistent** within a column, and no more decimal places than the reader needs.
-- **Remove heavy borders.** Full grids add visual noise; light horizontal rules, or white space alone, usually separate rows enough; see [[Data-Ink Ratio]].
+- **Remove heavy borders.** Full grids add visual noise; light horizontal rules, or white space alone, usually separate rows enough.
 - **Order columns** by importance, with the identifying column first, and keep units in the header rather than repeated in every cell.
 
 **Zebra striping**, shading alternate rows, is meant to help the eye track across wide rows. Research on whether it helps is mixed, and it can compete with rows highlighted for meaning; a hover highlight on the row under the pointer does a similar job with less noise; see [[Visual Hierarchy]].
@@ -28,6 +28,4 @@ Accessibility depends on real table markup. Header cells marked as headers, with
 Tables are also the usual accessible fallback for charts, giving every value in text; see [[Alt Text]].
 
 ## See also
-- [[Pivot Table]]
-- [[Spreadsheet]]
-- [[Sticky Header]]
+- [[CSS Grid]]

@@ -12,17 +12,6 @@ Psychologist Constantine Sedikides and collaborators have run the modern researc
 Nostalgia is worth distinguishing from simple sentimentality about old things and from [[Cultural Cringe]]'s reflexive judgment of the present against a foreign standard: nostalgia's comparison runs against one's own past rather than against another group's present, and the past it idealizes is remembered rather than actually superior — a well-documented positivity bias in autobiographical memory means the nostalgic version of a period is reliably rosier than the period was when it was actually happening. Marketers and political movements both know this and exploit it deliberately, selling or campaigning on a remembered past whose warmth is partly a property of memory itself rather than of the historical record.
 
 ## See also
-- [[Affine Texture Mapping]]
-- [[Mood-Congruent Memory]]
-- [[Art Deco]]
 - [[Terror Management Theory]]
-- [[Memphis Group]]
-- [[Frutiger Aero]]
-- [[Cozy Game]]
-- [[Mere-Exposure Effect]]
-- [[Awe]]
-- [[Invented Tradition]]
-- [[Rite of Passage]]
-- [[Savoring]]
-- [[Brutalist Web Design]]
-- [[Reminiscence Bump]]
+- [[Hedonic Treadmill]]
+- [[Parasocial Relationship]]

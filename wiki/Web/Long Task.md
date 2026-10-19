@@ -21,7 +21,7 @@ Several measures are built on it:
 - **Total Blocking Time** is a lab metric that adds up the portion of every long task beyond 50 milliseconds during page load.
 - **Interaction to Next Paint** (INP) measures, in the field, how long real interactions take to produce a visible update. It replaced First Input Delay as one of the [[Core Web Vitals]] in March 2024, because it covers every interaction, not just the first.
 
-Common causes are large bundles evaluated at startup, [[Hydration]], [[Layout Thrashing]], expensive event handlers, a heavy [[Third-Party Script]], and rendering long lists at once.
+Common causes are large bundles evaluated at startup, [[Hydration]], Layout Thrashing, expensive event handlers, a heavy third-party script, and rendering long lists at once.
 
 The fixes follow from the model:
 
@@ -32,10 +32,9 @@ The fixes follow from the model:
 
 Frameworks absorb some of this. React's concurrent rendering slices rendering work into chunks of a few milliseconds and pauses when input arrives, and islands architecture hydrates only the interactive parts of a page.
 
-[[Profiling]] in browser developer tools marks long tasks in red, which is usually the fastest way to find them. A [[Performance Budget]] that caps main-thread time keeps them from creeping back.
+Profiling in browser developer tools marks long tasks in red, which is usually the fastest way to find them. A [[Performance Budget]] that caps main-thread time keeps them from creeping back.
 
 ## See also
 - [[Virtual Scrolling]]
-- [[Browser DevTools]]
 - [[Pointer Events]]
 - [[Debounce and Throttle]]

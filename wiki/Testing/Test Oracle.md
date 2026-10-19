@@ -13,15 +13,14 @@ Testers have developed a range of oracles, each trading precision for reach:
 
 - **Specified values.** An expected result worked out by hand. It is precise but expensive, and it covers only the inputs someone thought of.
 - **Recorded output.** Capture what the program produced once, check it by eye, and compare against it afterward, as in [[Golden File Testing]] and [[Snapshot Testing]]. This detects change rather than correctness.
-- **Reference implementations.** Compare against another implementation, an older version, or a slow but obviously correct algorithm. That is [[Differential Testing]].
+- **Reference implementations.** Compare against another implementation, an older version, or a slow but obviously correct algorithm. That is Differential Testing.
 - **Properties.** Check relationships that must hold rather than exact values: output is sorted, encode then decode returns the input, totals balance. [[Property-Based Testing]] runs on this kind of oracle, and [[Design by Contract]] states them as postconditions.
-- **Implicit oracles.** Some failures need no specification at all: crashes, hangs, memory errors, and failed assertions. [[Fuzzing]] relies on these, which is why it scales to millions of inputs.
-- **Humans.** People judge usability, visual quality, and whether text reads well. That judgment is slow and inconsistent but unavoidable for some questions, the territory of [[Exploratory Testing]].
+- **Implicit oracles.** Some failures need no specification at all: crashes, hangs, memory errors, and failed assertions. Fuzzing relies on these, which is why it scales to millions of inputs.
+- **Humans.** People judge usability, visual quality, and whether text reads well. That judgment is slow and inconsistent but unavoidable for some questions, the territory of Exploratory Testing.
 
 Weak oracles explain a common gap: a test suite with high [[Code Coverage]] that still misses bugs, because the tests execute code without checking much about the results. [[Mutation Testing]] exposes that gap by changing the code and seeing whether any test notices.
 
 The problem has become central to systems built on language models, whose output is open-ended and varies between runs. Exact-match assertions don't work, so teams use rubrics, reference answers, and [[LLM-as-Judge]] scoring inside an [[Evaluation Harness]]. Each is a weaker, statistical oracle, and the old question returns: who checks the judge? Ultimately every oracle rests on some [[Ground Truth]], and its quality caps the quality of the tests built on it.
 
 ## See also
-- [[Crash Testing]]
-- [[Post Office Horizon Scandal]]
+- [[Acceptance Testing]]

@@ -14,14 +14,12 @@ IPv6 addresses look different enough to trip people up: eight groups of four hex
 Dual-stack — running IPv4 and IPv6 side by side — has been the transition strategy for over a decade, and it's the reason both protocols still need to be understood: a client and server can each prefer a different one, and "happy eyeballs" algorithms race both to pick whichever connects first.
 
 ## See also
+- [[Anycast]]
+- [[TCP and UDP]]
+- [[Domain Name System]]
+- [[Zero Trust Network]]
 - [[Ethernet]]
 - [[Port Scanning]]
-- [[Internet Control Message Protocol]]
-- [[Anycast]]
-- [[Hourglass Model]]
-- [[Mesh Network]]
-- [[Internet Service Provider]]
 - [[Loopback]]
 - [[Network Address Translation]]
 - [[Subnet]]
-- [[IP Routing]]

@@ -34,11 +34,6 @@ LTS interacts with other release practices:
 Staying on LTS is not free either. Lagging behind means missing improvements, accumulating a bigger eventual upgrade, and finding that new libraries no longer support the old version. It's a choice about when to pay for change, not a way to avoid paying, a form of [[Technical Debt]] that some organizations deliberately carry.
 
 ## See also
-- [[Gitflow]]
-- [[Build Matrix]]
-- [[Patch Tuesday]]
-- [[Over-the-Air Update]]
-- [[Calendar Versioning]]
-- [[Git Tag]]
-- [[Release Engineering]]
 - [[Hotfix]]
+- [[Linux Distribution]]
+- [[Feature Branch]]

@@ -20,17 +20,15 @@ Framework integrations make boundaries automatic:
 - **CSS** is the easy case: swap the stylesheet and the browser re-renders, with no state at risk.
 - **Vite** (Evan You, 2020) serves native [[ES Modules]] during development instead of a [[Bundler]] output, so an update only recompiles the one changed file. HMR stays fast however large the app grows.
 
-HMR has characteristic bugs. Module-level side effects run again when a module is replaced, so a timer, event listener, or subscription set up at import time is duplicated unless the module registers a disposal hook, a small [[Memory Leak]] that exists only in development. Closures captured by the old module can keep calling old code. Preserved state can also be state the new code would never have produced. When behavior seems impossible, a full reload is the first check.
+HMR has characteristic bugs. Module-level side effects run again when a module is replaced, so a timer, event listener, or subscription set up at import time is duplicated unless the module registers a disposal hook, a small memory leak that exists only in development. Closures captured by the old module can keep calling old code. Preserved state can also be state the new code would never have produced. When behavior seems impossible, a full reload is the first check.
 
 The idea is far older than the web. Erlang has supported *hot code loading* in production since the 1980s, keeping two versions of a module in memory so long-running telephone switches could be upgraded without dropping calls. Lisp and Smalltalk environments let programmers redefine functions in a running image. The web version is narrower, used almost entirely in development, while production uses [[Code Splitting]] and versioned files to change code between page loads.
 
-Fast feedback matters: each wait between a change and its result breaks concentration, and a sub-second loop keeps a developer in [[Flow]].
+Fast feedback matters: each wait between a change and its result breaks concentration, and a sub-second loop keeps a developer in Flow.
 
 ## See also
 - [[Bundler]]
 - [[Module Graph]]
-- [[Source Map]]
 - [[ES Modules]]
 - [[Developer Experience]]
-- [[Live Patching]]
 - [[File Watching]]

@@ -8,7 +8,7 @@ tags:
   - networks
 summary: A small value computed from data so that accidental corruption can be detected later, from parity bits and credit card check digits to the CRCs in every Ethernet frame, and useless against deliberate tampering.
 ---
-A **checksum** is a small value computed from a block of data and stored or sent alongside it. Recomputing it later and comparing reveals whether the data changed by accident in transit or storage. A checksum detects errors but can't fix them; codes that also locate and repair errors are a separate family; see [[Error-Correcting Code]].
+A **checksum** is a small value computed from a block of data and stored or sent alongside it. Recomputing it later and comparing reveals whether the data changed by accident in transit or storage. A checksum detects errors but can't fix them; codes that also locate and repair errors are a separate family.
 
 The simplest schemes are weak:
 
@@ -19,17 +19,13 @@ A **cyclic redundancy check** (CRC) is much stronger. It treats the data as a lo
 
 **Check digits** apply the idea to numbers that people type. The Luhn algorithm, devised at IBM in 1954 and used on credit card numbers, catches every single mistyped digit and most swaps of neighboring digits. ISBNs and many national ID numbers carry their own.
 
-Checksums offer no protection against an attacker. Anyone who changes the data can recompute the checksum, and a CRC's mathematical structure makes it easy to alter data while keeping the same value. Where tampering matters, a cryptographic hash or a keyed authentication code is needed, which is what download pages publishing file hashes and browsers checking scripts against expected hashes rely on; see [[Hash Function]] and [[Subresource Integrity]].
+Checksums offer no protection against an attacker. Anyone who changes the data can recompute the checksum, and a CRC's mathematical structure makes it easy to alter data while keeping the same value. Where tampering matters, a cryptographic hash or a keyed authentication code is needed, which is what download pages publishing file hashes and browsers checking scripts against expected hashes rely on; see [[Hash Function]].
 
-Layered checksums still miss things. A 2000 study of real traffic found corrupted packets that passed the TCP checksum far more often than theory predicted, often damaged inside routers and hosts where no link-level CRC was watching. That is an argument for checking data end to end, at the application, rather than trusting each hop; see [[End-to-End Principle]].
+Layered checksums still miss things. A 2000 study of real traffic found corrupted packets that passed the TCP checksum far more often than theory predicted, often damaged inside routers and hosts where no link-level CRC was watching. That is an argument for checking data end to end, at the application, rather than trusting each hop.
 
-Storage needs the same care. Disks silently return wrong data more often than people expect, so filesystems such as ZFS and Btrfs store a checksum with every block and verify it on each read; see [[Bit rot]]. Trees of hashes extend the idea to whole datasets, so a single value vouches for everything beneath it; see [[Merkle Tree]].
+Storage needs the same care. Disks silently return wrong data more often than people expect, so filesystems such as ZFS and Btrfs store a checksum with every block and verify it on each read. Trees of hashes extend the idea to whole datasets, so a single value vouches for everything beneath it.
 
 ## See also
-- [[Portable Network Graphics]]
-- [[Single-Event Upset]]
-- [[ZFS]]
-- [[Sneakernet]]
 - [[Barcode]]
-- [[Archival Science]]
-- [[ISBN]]
+- [[Write-Ahead Logging]]
+- [[Packet Capture]]

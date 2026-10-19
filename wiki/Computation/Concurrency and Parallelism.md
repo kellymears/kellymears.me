@@ -14,16 +14,7 @@ Concurrency is what makes a [[Race Condition]] possible in the first place — t
 The practical upshot is that solving a slowdown requires diagnosing which one is actually missing: a CPU-bound bottleneck needs parallelism (more cores actually crunching), while an I/O-bound one usually needs only concurrency (not blocking on each wait), and throwing threads at the second problem burns resources without addressing the real bottleneck.
 
 ## See also
-- [[Simultaneous Multithreading]]
-- [[IO Multiplexing]]
 - [[Actor Model]]
-- [[Software Transactional Memory]]
-- [[Memory Model]]
-- [[Fold]]
-- [[Prefix Sum]]
-- [[Peterson's Algorithm]]
-- [[SIMD]]
-- [[Amdahl's Law]]
-- [[Clock Signal]]
-- [[Communicating Sequential Processes]]
+- [[Process]]
+- [[Determinism]]
 - [[Lock-Free Data Structure]]

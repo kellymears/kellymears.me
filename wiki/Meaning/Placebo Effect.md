@@ -12,17 +12,7 @@ The mechanism isn't "it's all in your head" in the dismissive sense; there are d
 Placebo effects are strongest and most reliable for subjective, self-reported symptoms — pain, nausea, mood — and weak to nonexistent for objective disease markers like tumor size or a fracture healing; a placebo doesn't shrink a tumor even though it may reduce how much distress the tumor causes. This distinction is the main safeguard against overclaiming: the effect is real and useful (it's part of why bedside manner and patient trust matter clinically) but it's a treatment of subjective experience of illness, not a substitute for one that changes the underlying pathology — which is exactly what its symmetric twin, the [[Nocebo Effect]], demonstrates from the other direction.
 
 ## See also
-- [[Ideomotor Effect]]
-- [[Causal Inference]]
-- [[Osteoarthritis]]
 - [[Publication Bias]]
-- [[Barnum Effect]]
-- [[Reward Prediction Error]]
-- [[Hiccup]]
-- [[Aesthetic-Usability Effect]]
-- [[Randomized Controlled Trial]]
-- [[Classical Conditioning]]
-- [[Veblen Good]]
-- [[Gate Control Theory]]
-- [[Hawthorne Effect]]
-- [[Self-Fulfilling Prophecy]]
+- [[Halo Effect]]
+- [[Hedonic Treadmill]]
+- [[Regression to the Mean]]

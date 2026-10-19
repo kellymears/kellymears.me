@@ -13,14 +13,10 @@ This sits in a specific gap between [[Unit Test]] and [[Integration Test]]. A un
 Consumer-driven contract testing (the flavor Pact popularized) inverts the usual API-first process: consumers generate the contracts from what they actually use, and providers verify against the union of all consumers' contracts, which surfaces unused fields and unnecessary coupling that a provider-authored spec wouldn't reveal on its own. The tradeoff against a full [[Integration Test]] suite is coverage: contract testing catches interface-shape drift cheaply but says nothing about end-to-end behavior across the whole system, which is why the two are complementary rather than substitutes.
 
 ## See also
-- [[Solitary and Sociable Tests]]
-- [[Data Contract]]
-- [[Service Virtualization]]
 - [[Snapshot Testing]]
-- [[API Versioning]]
-- [[Mars Climate Orbiter]]
-- [[Test Pyramid]]
+- [[Test Double]]
+- [[Schema Drift]]
+- [[Service Virtualization]]
 - [[OpenAPI]]
-- [[CrowdStrike Outage]]
 - [[Record and Replay]]
 - [[Schema Evolution]]

@@ -16,5 +16,4 @@ Snapshot testing works best on structurally stable output where a diff is easy t
 - [[Component Story]]
 - [[Visual Regression Testing]]
 - [[Assertion]]
-- [[Characterization Test]]
 - [[Refactoring]]

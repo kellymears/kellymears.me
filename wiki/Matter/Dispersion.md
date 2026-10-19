@@ -18,13 +18,6 @@ Rainbow light is also strongly polarized by the internal reflection, so it dims 
 
 ## See also
 - [[OKLCH]]
-- [[Allotrope]]
-- [[Spectroscopy]]
-- [[Rainbow]]
-- [[Metamerism]]
-- [[Refraction]]
-- [[Optical Fiber]]
-- [[Speed of Light]]
-- [[Glass]]
-- [[Caustics]]
-- [[Lens]]
+- [[Color Contrast]]
+- [[Root Cause Analysis]]
+- [[Falsifiability]]

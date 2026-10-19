@@ -17,13 +17,6 @@ The canonical exercise is the number of piano tuners in a city: population, peop
 The method fails where its assumptions do. Heavy-tailed quantities have no typical value to reason from, so a chain of typical cases can be wrong by orders — a form of [[Truncation Bias]] when the examples are the ones big enough to notice. Arithmetic also lends a guess unearned authority: invented factors are a [[Plausible Mechanism]] with numbers attached.
 
 ## See also
-- [[Sensitivity Analysis]]
 - [[Percentage Point]]
-- [[Bayesian Inference]]
-- [[Fault Seeding]]
-- [[Benford's Law]]
-- [[First Principles Thinking]]
-- [[Knightian Uncertainty]]
-- [[Delphi Method]]
-- [[Cone of Uncertainty]]
-- [[Precision and Accuracy]]
+- [[Ground Truth]]
+- [[Sensitivity and Specificity]]

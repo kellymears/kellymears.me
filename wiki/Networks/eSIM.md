@@ -19,5 +19,4 @@ Two things trip people up. **Activation timing**: many travel plans begin their 
 - [[Caller ID Authentication]]
 - [[Virtual Private Network]]
 - [[Hash Function]]
-- [[Cellular Network]]
 - [[SMS]]

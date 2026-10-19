@@ -15,14 +15,8 @@ The signal is modulated, not merely relayed. **Gate control**, proposed by Melza
 One practical consequence: pain cannot be measured from outside. Only self-report gives access to it, so it is a case where the patient is the [[Ground Truth]] and everything else is inference — an [[Observability]] problem in the strict sense. Clinical instructions phrased "as tolerated" acknowledge this by delegating a threshold the clinician cannot read. A [[Regional Nerve Block]] interrupts the traffic pharmacologically, and analgesic drugs act on the same pathways, which is where [[Physical Dependence]] enters as a separate question.
 
 ## See also
-- [[Brain Freeze]]
-- [[Gate Control Theory]]
-- [[Consciousness]]
-- [[Itch]]
-- [[Phantom Limb]]
 - [[Fracture Fixation]]
-- [[Side Stitch]]
 - [[Retinoid]]
 - [[Retronasal Olfaction]]
-- [[Capsaicin]]
-- [[Stretching]]
+- [[Moist Wound Healing]]
+- [[Bone Remodeling]]

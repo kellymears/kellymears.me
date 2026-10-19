@@ -22,12 +22,12 @@ The common traps:
 
 - **Ignoring doesn't untrack.** A file already committed stays tracked even after it is added to the ignore list. It has to be removed from the index first, while leaving the copy on disk.
 - **Ignoring doesn't erase history.** A password committed once and ignored afterwards is still in every clone. The only real fix is to revoke and replace the credential; see [[Secret Management]] and [[Environment Variable]].
-- **Some generated files belong in the repository.** A [[Lockfile]] is generated, but committing it is what makes installs repeatable; see [[Reproducible Build]].
+- **Some generated files belong in the repository.** A [[Lockfile]] is generated, but committing it is what makes installs repeatable.
 - **Other tools borrow the format with their own rules.** Container builds and package publishing use similar files. Without its own ignore file, npm falls back to the Git one, which can leave out built files a package needs; see [[Artifact Repository]].
 
 Large binary assets are a different problem. Ignoring them keeps them out of history, but if the project needs them, they belong in a system built for large files; see [[Git LFS]].
 
-GitHub publishes starter ignore files for common languages, which many projects copy. Ignore patterns also speed up tools beyond Git: search utilities, file watchers, and editors commonly honor them to skip dependency and build directories; see [[Build System]].
+GitHub publishes starter ignore files for common languages, which many projects copy. Ignore patterns also speed up tools beyond Git: search utilities, file watchers, and editors commonly honor them to skip dependency and build directories.
 
 A careful ignore file keeps commits focused on the change at hand and keeps a pre-commit check from tripping over generated files; see [[Atomic Commit]] and [[Git Hook]].
 

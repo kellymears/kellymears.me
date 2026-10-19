@@ -19,18 +19,16 @@ Working with them from a script has a few sharp edges.
 Diagnosing contention needs per-process detail rather than an aggregate load figure, which lags and never says which program is responsible. See [[Resource Starvation]]; [[Pressure Stall Information]] measures the waiting directly, per resource.
 
 ## See also
-- [[Fork and Exec]]
+- [[Truncation Bias]]
+- [[Shell]]
+- [[Daemon]]
+- [[Port]]
+- [[Observability]]
+- [[Instrumentation]]
+- [[Cron]]
+- [[Vacuous Truth]]
+- [[Silent Failure]]
 - [[Web Server]]
 - [[Thread Pool]]
 - [[Inter-Process Communication]]
 - [[Connection Pool]]
-- [[Position-Independent Code]]
-- [[Unix Signal]]
-- [[File Descriptor]]
-
-## Related
-- [[Common Gateway Interface]]
-- [[Multithreading]]
-- [[Resource Limit]]
-- [[Truncation Bias]]
-- [[Zombie Process]]

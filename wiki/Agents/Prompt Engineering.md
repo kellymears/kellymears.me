@@ -22,10 +22,7 @@ Because a prompt change cannot be type-checked, the only way to know whether it 
 ## See also
 - [[System Prompt]]
 - [[Prompt]]
-- [[Activation Steering]]
-- [[Instruction Tuning]]
 - [[Chain-of-Thought Prompting]]
+- [[Tool Use]]
+- [[Nondeterminism]]
 - [[In-Context Learning]]
-- [[Priming]]
-- [[Implicature]]
-- [[Context Engineering]]

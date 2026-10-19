@@ -16,7 +16,7 @@ The main instructions:
 - **edit** pauses on a commit so it can be amended or split into several.
 - **drop**, or deleting the line, removes a commit entirely.
 
-The purpose is a readable history. Real work is messy: a feature commit followed by "fix typo," "actually fix it," and "address review comments." Each of those is noise to a future reader trying to understand the change, and noise to tools that rely on history. Rewritten, the same work becomes a few commits, each a coherent step that builds and passes tests; see [[Atomic Commit]]. That pays off when [[Git Bisect]] searches for a regression, since every commit it lands on works, and when someone reverts one piece; see [[Git Revert]].
+The purpose is a readable history. Real work is messy: a feature commit followed by "fix typo," "actually fix it," and "address review comments." Each of those is noise to a future reader trying to understand the change, and noise to tools that rely on history. Rewritten, the same work becomes a few commits, each a coherent step that builds and passes tests; see [[Atomic Commit]]. That pays off when [[Git Bisect]] searches for a regression, since every commit it lands on works, and when someone reverts one piece.
 
 **Fixup commits** make this routine. Running `git commit --fixup` with a target commit creates a commit marked to be folded into that one later. Rebasing with `--autosquash` moves each fixup into place automatically, so small corrections made during [[Code Review]] can be recorded separately for reviewers and merged into the right commits before landing.
 
@@ -27,6 +27,5 @@ Teams disagree about how much to care. Some squash every pull request into one c
 Replaying commits can cause conflicts at each step, which must be resolved one at a time; see [[Merge Conflict]]. Moving a single commit to another branch is a smaller operation; see [[Cherry-Pick]].
 
 ## See also
-- [[Darcs]]
-- [[Text Editor]]
 - [[Staging Area]]
+- [[Detached HEAD]]

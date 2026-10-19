@@ -15,10 +15,5 @@ That asymmetry also drives relicensing, which is open only to a maintainer who w
 Recent years have produced source-available licenses that publish code without meeting the Open Source Definition, by two unrelated mechanisms. The Business Source License prohibits production use by default, relaxed by an optional Additional Use Grant the licensor writes, and converts automatically to a GPL-compatible open source license at a Change Date no more than four years out. The Server Side Public License restricts no field of use at all; it is copyleft taken to an extreme, its §13 requiring anyone who offers the software as a service to release source for the whole service stack. OSI objected under OSD 6 and OSD 9, "License Must Not Restrict Other Software", and never formally ruled — MongoDB withdrew the submission in 2019. Either way, auditing terms belongs in [[Code Review]] and [[Supply Chain Security]] rather than being assumed from visibility alone.
 
 ## See also
-- [[Clean Room Design]]
 - [[Open Core]]
-- [[Event-stream Incident]]
-- [[Protestware]]
-- [[Open Source Definition]]
-- [[Developer Certificate of Origin]]
-- [[Software Patent]]
+- [[Commons-Based Peer Production]]

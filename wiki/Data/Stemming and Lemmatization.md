@@ -19,18 +19,10 @@ summary: Reducing words to a common base form so a search for "running" also fin
 
 Neither does much for some languages and a great deal for others. English has relatively little inflection. Finnish, Turkish, and Hungarian build long words from many suffixes, so a single word can appear in dozens of forms. Chinese has no inflection, but its text has no spaces, so splitting it into words is the harder problem.
 
-Both techniques sit inside a typical search pipeline: split text into words, lowercase them, remove **stop words** (very common words such as "the" and "of," which carry little meaning on their own), and reduce each word to its base form before adding it to an [[Inverted Index]]. Queries go through the same steps, so they match. The trade-off is [[Precision and Recall]]: merging forms finds more relevant documents but also more irrelevant ones. Stop word removal has its own hazards; a search for the band "The The" or the phrase "to be or not to be" consists entirely of stop words.
+Both techniques sit inside a typical search pipeline: split text into words, lowercase them, remove **stop words** (very common words such as "the" and "of," which carry little meaning on their own), and reduce each word to its base form before adding it to an inverted index. Queries go through the same steps, so they match. The trade-off is [[Precision and Recall]]: merging forms finds more relevant documents but also more irrelevant ones. Stop word removal has its own hazards; a search for the band "The The" or the phrase "to be or not to be" consists entirely of stop words.
 
 Modern language models handle this differently. They split text into subword pieces learned from data, so related forms share pieces without hand-written rules, and they learn meaning from context; see [[Byte-Pair Encoding]] and [[Embedding]]. Search engines that use embeddings match "car" with "automobile," which no stemmer could; see [[Vector Database]]. Stemming survives because it's cheap, predictable, and easy to explain, and many systems combine it with embedding search.
 
 ## See also
-- [[Edit Distance]]
 - [[Autocomplete]]
-- [[Natural Language Processing]]
-- [[Zipf's Law]]
-- [[Collation]]
-- [[Hybrid Search]]
 - [[Web Search Engine]]
-- [[Phonetic Algorithm]]
-- [[Language Tag]]
-- [[Transliteration]]

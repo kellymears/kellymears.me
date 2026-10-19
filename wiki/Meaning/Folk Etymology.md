@@ -15,12 +15,6 @@ The appetite for legible origins also produces stories that are themselves inven
 The lesson generalizes past words. Visible internal structure is evidence about what speakers expected, not about where a thing came from — an [[Anchoring Effect]] made of morphemes, and one that applies to [[Naming]] as much as to etymology. Dated attestation, not plausibility, is the test.
 
 ## See also
-- [[Writing System]]
-- [[Conceptual Metaphor]]
 - [[Malaphor]]
-- [[Urban Legend]]
-- [[Invented Tradition]]
-- [[Dialect]]
-- [[Portmanteau]]
-- [[Retronym]]
-- [[Loanword]]
+- [[Prototype Theory]]
+- [[Ground Truth]]

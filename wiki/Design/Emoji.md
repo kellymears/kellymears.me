@@ -20,15 +20,15 @@ Under the hood, emoji are a stress test for text handling; see [[Character Encod
 - **Sequences.** A **zero-width joiner** fuses emoji into one: the four-person family is seven code points and eleven UTF-16 units. Flags are pairs of letter symbols for a country code.
 - **Presentation.** Some symbols, like the heart, exist as both text and emoji, selected by an invisible variation selector.
 
-One visible character can therefore be many code points, so code that cuts strings by length can split an emoji in half and leave garbage; see [[Text Truncation]] and [[Falsehoods Programmers Believe]].
+One visible character can therefore be many code points, so code that cuts strings by length can split an emoji in half and leave garbage; see [[Text Truncation]].
 
-Every platform draws its own designs, so the same character can look different to sender and recipient. A 2016 study found people disagreed widely on the meaning and even the sentiment of common emoji, especially across platforms. Designs also change: Apple redrew the pistol as a water gun in 2016, and other vendors followed. Fonts carry them as color glyphs, in several competing formats; see [[Font Rendering]].
+Every platform draws its own designs, so the same character can look different to sender and recipient. A 2016 study found people disagreed widely on the meaning and even the sentiment of common emoji, especially across platforms. Designs also change: Apple redrew the pistol as a water gun in 2016, and other vendors followed. Fonts carry them as color glyphs, in several competing formats.
 
-Meaning is set by use rather than design. Emoji soften tone, mark irony, and stand in for gestures that text lacks; see [[Implicature]]. Their senses drift, as when the skull came to mean laughing; see [[Semantic Change]].
+Meaning is set by use rather than design. Emoji soften tone, mark irony, and stand in for gestures that text lacks. Their senses drift, as when the skull came to mean laughing.
 
-In interfaces, emoji can add warmth to [[Microcopy]], but a [[Screen Reader]] reads out each one's full name, so a line of them becomes a long recitation, and they are no substitute for clear [[Iconography]]. Their names and keywords are localized, so search and pickers need care across languages; see [[Internationalization]].
+In interfaces, emoji can add warmth to Microcopy, but a [[Screen Reader]] reads out each one's full name, so a line of them becomes a long recitation, and they are no substitute for clear [[Iconography]]. Their names and keywords are localized, so search and pickers need care across languages.
 
 ## See also
-- [[Hashtag]]
-- [[OpenType Features]]
 - [[Internationalized Domain Name]]
+- [[Input Method]]
+- [[SMS]]

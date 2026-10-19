@@ -23,11 +23,5 @@ Materialized views are a controlled form of [[Denormalization]]: the database ke
 The difficulty is the familiar one of [[Cache Invalidation]], since a materialized view is a cache of a query with a database-managed refresh. Every consumer has to tolerate some staleness, which makes it a form of [[Eventual Consistency]] inside a single system. [[Incremental Static Regeneration]] on the web applies the same trade to whole pages, and [[Memoization]] applies it to function calls.
 
 ## See also
-- [[Database View]]
-- [[Dimensional Modeling]]
-- [[Stored Procedure]]
-- [[Common Table Expression]]
-- [[Command Query Responsibility Segregation]]
-- [[Database Index]]
 - [[ETL Pipeline]]
 - [[SQL]]

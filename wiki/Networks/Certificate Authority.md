@@ -11,7 +11,7 @@ tags:
   - networks
 summary: An organization trusted to vouch that a public key belongs to a domain or entity, the root of trust behind every HTTPS padlock.
 ---
-A **certificate authority (CA)** is an organization that issues digital certificates: signed statements that a particular public key belongs to a particular name, such as a domain. When a browser connects to a site over [[Transport Layer Security]], the server presents its certificate. The browser checks that it was signed by a CA it trusts, that it covers the right domain, and that it hasn't expired. If all checks pass, the browser accepts the server's public key as genuine, which closes the gap [[Public-Key Cryptography]] leaves open: a key alone proves possession, not identity.
+A **certificate authority (CA)** is an organization that issues digital certificates: signed statements that a particular public key belongs to a particular name, such as a domain. When a browser connects to a site over Transport Layer Security, the server presents its certificate. The browser checks that it was signed by a CA it trusts, that it covers the right domain, and that it hasn't expired. If all checks pass, the browser accepts the server's public key as genuine, which closes the gap Public-Key Cryptography leaves open: a key alone proves possession, not identity.
 
 Trust is arranged as a chain. Operating systems and browsers ship a *root store* of a hundred or so root CA certificates. Roots rarely sign site certificates directly. They sign *intermediate* certificates, kept online, which sign the certificates sites use. A browser walks the chain from the site up to a root it trusts. This whole arrangement is called the public key infrastructure (PKI), and the certificate format is X.509.
 
@@ -26,11 +26,6 @@ How a CA checks that you control a domain is called *domain validation*: you pro
 The same model appears elsewhere: [[Code Signing]] certificates for software, device certificates in an [[eSIM]], and the STIR/SHAKEN certificates behind [[Caller ID Authentication]].
 
 ## See also
-- [[Equifax Data Breach]]
-- [[DNS Cache Poisoning]]
-- [[Mutual TLS]]
-- [[Shamir's Secret Sharing]]
-- [[Build Provenance]]
-- [[Heartbleed]]
-- [[HTTP Strict Transport Security]]
-- [[Certificate Revocation]]
+- [[Secure Shell]]
+- [[Web Server]]
+- [[Top-Level Domain]]

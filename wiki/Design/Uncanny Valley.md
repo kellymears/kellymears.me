@@ -17,13 +17,7 @@ Decades of attempts to establish the curve empirically have not settled the matt
 The practical response designers converged on regardless is to route around the valley rather than cross it: stylize deliberately, keep proportions mismatched to human on purpose, or push all the way to photoreal instead of stalling in between. This underlies most character [[Motion Design]] for synthetic performers and much of what [[Game Feel]] treats as intentional stylization.
 
 ## See also
-- [[Non-Player Character]]
-- [[Suspension of Disbelief]]
-- [[Morph Target]]
-- [[Deepfake]]
-- [[Subsurface Scattering]]
+- [[Opponent Process Theory]]
+- [[Game AI]]
+- [[Environmental Storytelling]]
 - [[Videoconferencing]]
-- [[Prosopagnosia]]
-- [[Motion Capture]]
-- [[Rotoscoping]]
-- [[Stop Motion]]

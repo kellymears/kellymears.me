@@ -18,7 +18,7 @@ The danger is shared branches. If a teammate pushed a commit to the branch after
 
 Teams build guardrails around it:
 
-- **Protect the main branches.** [[Branch Protection]] rules on `main` and release branches forbid force pushes outright, so published history can't be rewritten. Rewriting what others have built on breaks their clones and invalidates every [[Git Tag]] or reference pointing into the old history.
+- **Protect the main branches.** [[Branch Protection]] rules on `main` and release branches forbid force pushes outright, so published history can't be rewritten. Rewriting what others have built on breaks their clones and invalidates every Git Tag or reference pointing into the old history.
 - **Rewrite only your own branches.** The common rule is to never rewrite history someone else has pulled.
 - **Know the recovery path.** A force-pushed commit isn't immediately destroyed. Your own [[Reflog]] records where the branch pointed before, and hosting platforms often keep the old commits reachable for a time. Recovery is usually possible if someone notices quickly.
 
@@ -29,4 +29,3 @@ The tension between rewriting and preserving history runs through Git practice. 
 - [[Feature Branch]]
 - [[Stacked Pull Requests]]
 - [[Interactive Rebase]]
-- [[Git Revert]]

@@ -15,19 +15,16 @@ The classic failure is the **Norman door**: a door whose design says pull when i
 
 Screens have the same problem in a harder form, because nothing on a screen is physically graspable. Every interactive cue is a convention people had to learn:
 
-- **Links** are signaled by color and underline. Removing the underline for style weakens the cue, and relying on color alone fails people with [[Color Vision Deficiency]].
+- **Links** are signaled by color and underline. Removing the underline for style weakens the cue, and relying on color alone fails people with Color Vision Deficiency.
 - **Buttons** were once heavily shaded, a legacy of [[Skeuomorphism]]. Flat design stripped those cues, and studies found people spent longer hunting for what was clickable.
 - **Gestures** such as swiping, long-pressing, and pinching have almost no signifiers at all. They are invisible until someone tells you, so apps teach them with overlays.
 - **Cursors and hover states** signal interactivity on desktop but don't exist on touch screens, so a [[Tooltip]] or hover reveal can't be the only cue.
 - **Keyboard focus rings** are signifiers for people using [[Keyboard Navigation]]. Hiding them for appearance removes the only sign of where input will go.
 
-Good signifiers draw on [[Gestalt Principles]] and [[Visual Hierarchy]] so the interactive parts read as interactive at a glance, and they match the [[Mental Model]] people bring from other products. Placement is a signifier too: a control near the thing it affects is easier to find than one in a distant toolbar.
+Good signifiers draw on [[Gestalt Principles]] and [[Visual Hierarchy]] so the interactive parts read as interactive at a glance, and they match the mental model people bring from other products. Placement is a signifier too: a control near the thing it affects is easier to find than one in a distant toolbar.
 
-**Discoverability** is the outcome good signifiers produce, the property of people finding what a system can do without instruction. It is one of the first things [[Heuristic Evaluation]] checks and a common finding in [[Usability Testing]], where people repeatedly miss a feature that the team considered obvious.
+**Discoverability** is the outcome good signifiers produce, the property of people finding what a system can do without instruction. It is one of the first things heuristic evaluation checks and a common finding in Usability Testing, where people repeatedly miss a feature that the team considered obvious.
 
 ## See also
 - [[Focus Indicator]]
-- [[Form Follows Function]]
-- [[Natural Mapping]]
 - [[Context Menu]]
-- [[Symbol Grounding Problem]]

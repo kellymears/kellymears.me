@@ -18,7 +18,7 @@ It was built for constrained conditions, and that shows:
 
 Topics are hierarchical, separated by slashes, and subscriptions can use wildcards: `+` matches one level and `#` matches everything below. A dashboard can subscribe to `home/+/temperature` to get every room.
 
-MQTT offers three **quality of service** levels per message, mapping directly onto [[Delivery Guarantees]]:
+MQTT offers three **quality of service** levels per message, mapping directly onto Delivery Guarantees:
 
 - **QoS 0**, at most once: send and forget, fine for frequent sensor readings where a lost one doesn't matter.
 - **QoS 1**, at least once: resend until acknowledged, so duplicates are possible and receivers should be idempotent.
@@ -28,13 +28,11 @@ Two features suit unreliable devices. A **retained message** is stored by the br
 
 Brokers include the open-source Mosquitto, EMQX, and HiveMQ. MQTT is widespread in home automation, where hubs and custom devices share state through a local broker; in industrial telemetry; and in Facebook Messenger, which adopted it in 2011 to save phone battery.
 
-Compared with a [[Message Queue]] built for work distribution, MQTT is about routing current state and events to whoever is interested, and it keeps little history. Compared with a [[Webhook]], which pushes HTTP requests to a server, it suits devices that can't accept inbound connections. Clients reconnecting after an outage should use [[Exponential Backoff]], or thousands of devices returning at once become a [[Thundering Herd]].
+Compared with a [[Message Queue]] built for work distribution, MQTT is about routing current state and events to whoever is interested, and it keeps little history. Compared with a [[Webhook]], which pushes HTTP requests to a server, it suits devices that can't accept inbound connections. Clients reconnecting after an outage should use [[Exponential Backoff]], or thousands of devices returning at once become a thundering herd.
 
-Security is often neglected. Port 1883 carries plain text, while 8883 wraps it in [[Transport Layer Security]]. Scans regularly find many thousands of brokers exposed to the internet without authentication, so brokers belong behind a [[Firewall]] with credentials and access rules per topic.
+Security is often neglected. Port 1883 carries plain text, while 8883 wraps it in Transport Layer Security. Scans regularly find many thousands of brokers exposed to the internet without authentication, so brokers belong behind a [[Firewall]] with credentials and access rules per topic.
 
 ## See also
-- [[Mutual TLS]]
 - [[Internet of Things]]
 - [[Webhook]]
-- [[Mesh Network]]
 - [[Long Polling]]

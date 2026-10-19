@@ -17,18 +17,15 @@ Two governance problems recur once tokens are shared across teams.
 
 ## See also
 - [[CSS Custom Property]]
-- [[CSS Preprocessor]]
 - [[Scoped Styling]]
 - [[OKLCH]]
-- [[Cascading Style Sheets]]
 - [[Utility-First CSS]]
+- [[Cascade]]
+- [[Design System]]
+- [[Dark Mode]]
+- [[Typographic Scale]]
+- [[Root Cause Analysis]]
+- [[Cascading Style Sheets]]
 - [[CSS-in-JS]]
 - [[Ricing]]
-
-## Related
-- [[Cascade]]
-- [[Atomic Design]]
-- [[White Space]]
-- [[Color Vision Deficiency]]
-- [[Color Scale]]
 - [[Box Model]]

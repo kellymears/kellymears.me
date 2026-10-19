@@ -15,15 +15,8 @@ An LCD sits between two linear polarizers: the crystal layer rotates polarizatio
 Crossed polarizers also reveal **stress birefringence**: strained plastics and toughened glass split light into two components of differing speed, producing colored fringes that map the stress field — colored because the retardation depends on wavelength, a form of [[Dispersion]].
 
 ## See also
-- [[Holography]]
-- [[Quantum Computing]]
-- [[Rainbow]]
-- [[Structural Color]]
-- [[Quantum Entanglement]]
-- [[Lens]]
-- [[Rayleigh Scattering]]
-- [[Glass]]
-- [[Antenna]]
-- [[Liquid-Crystal Display]]
-- [[Fresnel Effect]]
-- [[Stereoscopy]]
+- [[Opponent Process Theory]]
+- [[Color Contrast]]
+- [[Dark Mode]]
+- [[Plausible Mechanism]]
+- [[Root Cause Analysis]]

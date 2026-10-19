@@ -16,11 +16,5 @@ Lists published days after a patch add a second problem: too little data, gather
 The durable failure mode is reading "best in role" as "required" — an [[Exhaustive Claim]] the list never made. A ranking compares options against each other; a community reads S-tier as the input list and excludes everything else, which turns a description of the [[Metagame]] into its target, [[Goodhart's Law]] enforced by consensus rather than by a developer's numbers. The same reflex shows up wherever players compress a wide option space into a single ordered take, from [[Frame Data]] readings in fighting games to drop-spot advice in [[Battle Royale]] modes.
 
 ## See also
-- [[Multiplayer Online Battle Arena]]
-- [[Elo Rating System]]
 - [[Live Service Game]]
-- [[Card Drafting]]
-- [[Esports]]
-- [[Power Creep]]
-- [[Fighting Game]]
-- [[Dominant Strategy]]
+- [[Selection Bias]]

@@ -17,9 +17,5 @@ Submitted runs carry video, and a leaderboard's authority rests on moderators re
 
 ## See also
 - [[Cutscene]]
-- [[Fast Travel]]
-- [[Boss Battle]]
-- [[Let's Play]]
-- [[Easter Egg]]
-- [[Doom Engine]]
-- [[Reaction Time]]
+- [[Emulation]]
+- [[Achievement Hunting]]

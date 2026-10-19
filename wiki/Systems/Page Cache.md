@@ -22,12 +22,9 @@ Programs that need durability call **fsync**, which blocks until a file's dirty 
 
 Programs can also map a file directly into their address space with **mmap**. Reading the memory triggers a page fault that loads the data from the cache, so the file behaves like an array, managed by the same machinery as [[Virtual Memory]]. Databases use this to avoid copying.
 
-The page cache is a cache like any other: it relies on [[Locality of Reference]], and some databases bypass it with direct I/O to manage memory themselves.
+The page cache is a cache like any other: it relies on Locality of Reference, and some databases bypass it with direct I/O to manage memory themselves.
 
 ## See also
-- [[Origin Private File System]]
-- [[In-Memory Database]]
-- [[File Fragmentation]]
-- [[Hard Disk Drive]]
-- [[Zero-Copy]]
-- [[Translation Lookaside Buffer]]
+- [[System Call]]
+- [[Atomic File Write]]
+- [[Device File]]

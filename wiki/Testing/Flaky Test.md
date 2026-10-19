@@ -19,17 +19,15 @@ Flakes have a small number of causes, and identifying which one is at play is mo
 Two diagnostic rules earn their keep. An **identical** failure across repeated runs of the same revision is a real gap, not a flake; rerunning cannot make it pass. A failure that disappears the moment logging or a debugger is added is a [[Heisenbug]], and the instinct to instrument harder is what keeps it hidden. And a flake at a ten percent rate needs roughly twenty consecutive green runs before "fixed" means anything — one green run proves nothing. See [[Nondeterminism]].
 
 ## See also
-- [[Build Matrix]]
-- [[Fake Clock]]
-- [[Pesticide Paradox]]
-- [[Spectrum-Based Fault Localization]]
-- [[Developer Experience]]
-- [[Systematic Concurrency Testing]]
-- [[Issue Tracker]]
-- [[Test Isolation]]
-- [[Andon Cord]]
-- [[Mars Pathfinder Priority Inversion]]
-
-## Related
-- [[Service Virtualization]]
 - [[Visual Regression Testing]]
+- [[Race Condition]]
+- [[Determinism]]
+- [[Reproducible Case]]
+- [[Bundler]]
+- [[Instrumentation]]
+- [[Regression]]
+- [[Ground Truth]]
+- [[Fake Clock]]
+- [[Developer Experience]]
+- [[Test Isolation]]
+- [[Service Virtualization]]

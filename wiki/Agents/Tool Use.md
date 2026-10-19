@@ -19,8 +19,4 @@ Several practical constraints repeat. Input schemas are typically validated by t
 - [[Model Context Protocol]]
 - [[Guardrail]]
 - [[Fingerprint]]
-- [[Computer Use]]
-- [[Speech Act]]
-- [[Corrigibility]]
-- [[ReAct]]
 - [[OpenAPI]]

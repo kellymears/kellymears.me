@@ -14,15 +14,7 @@ Health checks are what make a load balancer more than a simple router: it polls 
 Layer 4 balancers work at the TCP/UDP level and just forward packets, cheap and protocol-agnostic; layer 7 balancers understand HTTP and can route on path, header, or cookie, which is what enables things like routing `/api/` to one fleet and static assets to another, or an [[API Gateway]] doing the same job with more policy attached. A [[Content Delivery Network]] is, in a sense, load balancing generalized across geography instead of just across a server rack.
 
 ## See also
-- [[Rolling Deployment]]
-- [[Cuckoo Hashing]]
-- [[Stable Matching]]
 - [[Anycast]]
-- [[Session Management]]
 - [[Consistent Hashing]]
-- [[Online Algorithm]]
-- [[Hot Partition]]
-- [[Quality of Service]]
-- [[OSI Model]]
-- [[Gray Failure]]
-- [[Software-Defined Networking]]
+- [[Rate Limiting]]
+- [[Session Management]]

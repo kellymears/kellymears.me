@@ -16,13 +16,6 @@ What the effect demonstrates regardless is that editing is authorship, not assem
 
 ## See also
 - [[Chekhov's Gun]]
-- [[Event Segmentation]]
 - [[Prototype Theory]]
 - [[Naming]]
-- [[Unreliable Narrator]]
-- [[Fourth Wall]]
-- [[Death of the Author]]
-- [[Suspension of Disbelief]]
-- [[Rashomon Effect]]
-- [[McGurk Effect]]
-- [[In Medias Res]]
+- [[Falsifiability]]

@@ -12,18 +12,9 @@ Mechanistically, injured or infected tissue releases signaling molecules — his
 **Acute inflammation** is this response running its normal course — hours to days, resolving once the threat clears and repair takes over. **Chronic inflammation** is the same machinery persisting for weeks, months, or indefinitely, often at lower intensity, and is now understood as a contributor to a long list of unrelated-seeming conditions (atherosclerosis, several autoimmune diseases, some cancers) precisely because a process built for short bursts of vascular leak and immune recruitment causes cumulative damage when it never switches off. Anti-inflammatory drugs (NSAIDs, corticosteroids) work by interrupting this signaling cascade at different points, which is also why they blunt pain and fever together — both ride the same mediators.
 
 ## See also
-- [[Rhabdomyolysis]]
-- [[Blood Clotting]]
-- [[Influenza]]
-- [[Capsaicin]]
 - [[Compartment Syndrome]]
-- [[Allergy]]
-- [[Atherosclerosis]]
-- [[Cellular Senescence]]
-- [[Decompression Sickness]]
-- [[Ankle Sprain]]
-- [[Fever]]
-- [[Gut Microbiome]]
-- [[Asthma]]
-- [[Iron Deficiency]]
-- [[Sunburn]]
+- [[Nociception]]
+- [[Scar Tissue]]
+- [[Moist Wound Healing]]
+- [[Bone Remodeling]]
+- [[Thermoregulation]]

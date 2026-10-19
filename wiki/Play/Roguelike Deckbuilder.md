@@ -15,7 +15,3 @@ The genre departs from its parent in what progression means. A roguelike proper 
 ## See also
 - [[Roguelike]]
 - [[Meta-Progression]]
-- [[Eurogame]]
-- [[Fisher-Yates Shuffle]]
-- [[Card Drafting]]
-- [[Collectible Card Game]]

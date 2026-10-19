@@ -20,18 +20,16 @@ Everything that runs programs relies on it:
 
 Several conventions carry meaning beyond zero and non-zero:
 
-- **128 plus a signal number.** A process killed by a [[Unix Signal]] is reported by shells as 128 + N. 130 means interrupted by Ctrl-C (SIGINT); 137 means killed by SIGKILL, often by the [[Out-of-Memory Killer]] or a container runtime; 139 means a segmentation fault (SIGSEGV), which may leave a [[Core Dump]].
+- **128 plus a signal number.** A process killed by a Unix Signal is reported by shells as 128 + N. 130 means interrupted by Ctrl-C (SIGINT); 137 means killed by SIGKILL, often by the [[Out-of-Memory Killer]] or a container runtime; 139 means a segmentation fault (SIGSEGV), which may leave a [[Core Dump]].
 - **126 and 127.** The shell reports 126 when a file is not executable and 127 when a command is not found.
 - **Tool-specific codes.** `grep` returns 1 for "no match", which is not an error, and 2 for an actual error. `diff` returns 1 when files differ. Scripts using `set -e` trip over these regularly.
 
-Pipelines are a common trap. In a [[Unix Pipeline]], the status is that of the *last* command, so `curl url | jq .` succeeds even if the download failed. Bash's `set -o pipefail` makes the pipeline fail if any stage fails. Combined with `set -e` and `set -u`, it forms the "unofficial strict mode" many scripts begin with.
+Pipelines are a common trap. In a Unix Pipeline, the status is that of the *last* command, so `curl url | jq .` succeeds even if the download failed. Bash's `set -o pipefail` makes the pipeline fail if any stage fails. Combined with `set -e` and `set -u`, it forms the "unofficial strict mode" many scripts begin with.
 
 Good command-line tools treat the exit status as part of their interface. Returning distinct codes for "invalid input", "not found", and "internal error" lets callers react differently, and reserving a code for "nothing to do" lets scripts skip work cleanly. Printing an error but exiting 0 breaks every caller that checks properly.
 
-Exit statuses carry no detail. They report that something failed, not what; the explanation belongs on standard error, a stream described under [[File Descriptor]]. Wrapping commands in [[Idempotence|idempotent]] scripts that check statuses at every step is the basis of reliable automation, from [[Cron]] jobs to deployment pipelines.
+Exit statuses carry no detail. They report that something failed, not what; the explanation belongs on standard error, a stream described under file descriptor. Wrapping commands in [[Idempotence|idempotent]] scripts that check statuses at every step is the basis of reliable automation, from [[Cron]] jobs to deployment pipelines.
 
 ## See also
 - [[Command-Line Interface]]
-- [[Fork and Exec]]
-- [[Zombie Process]]
-- [[POSIX]]
+- [[Kernel Panic]]

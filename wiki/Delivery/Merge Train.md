@@ -14,19 +14,15 @@ The manual equivalent, when landing a batch of ready changes at once, is to merg
 Two operational notes. Branch protection settings that appear to enforce up-to-dateness are frequently inert in practice, so non-conflicting changes land back to back with no validation between them; test the assumption rather than relying on it. And rapid successive merges supersede each other's queued validation runs, so only the last one reports.
 
 ## See also
-- [[Andon Cord]]
-- [[Feature Branch]]
 - [[Stacked Pull Requests]]
 - [[Three-Way Merge]]
 - [[Trunk-Based Development]]
 - [[Branching Model]]
-
-## Related
 - [[Rebase]]
-- [[Gitflow]]
 - [[Merge Conflict]]
+- [[Continuous Integration]]
+- [[Pull Request]]
+- [[Feature Branch]]
 - [[Release Train]]
 - [[Branch Protection]]
-- [[Test Parallelization]]
 - [[Fast-Forward Merge]]
-- [[Gerrit]]

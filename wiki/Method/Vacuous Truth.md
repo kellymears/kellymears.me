@@ -24,9 +24,7 @@ The remedy is always the same: assert the *precondition* first. Confirm the cont
 - [[Flaky Test]]
 - [[Coverage Gate]]
 - [[Exhaustive Claim]]
-- [[Boundary Value Analysis]]
 
 ## Related
 - [[Glob]]
 - [[Truncation Bias]]
-- [[Logical Fallacy]]

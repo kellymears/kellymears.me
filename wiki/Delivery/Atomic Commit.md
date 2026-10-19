@@ -16,18 +16,16 @@ Two notes for shared working copies. Stage by explicit path — a bulk add captu
 ## See also
 - [[Commit]]
 - [[Conventional Commits]]
-- [[Subversion]]
 - [[Regression]]
 - [[Squash Merge]]
-
-## Related
-- [[Small Batches]]
-- [[Source Code Control System]]
+- [[Code Review]]
+- [[Provenance]]
+- [[Version Control]]
+- [[Pull Request]]
+- [[Plausible Mechanism]]
 - [[Staging Area]]
 - [[Atomic File Write]]
 - [[Git Bisect]]
 - [[Git Blame]]
 - [[Fast-Forward Merge]]
 - [[Diff]]
-- [[Git Revert]]
-- [[Interactive Rebase]]

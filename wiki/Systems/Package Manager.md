@@ -16,18 +16,16 @@ Version managers for the underlying runtime are a related and separate concern, 
 Ecosystems also have their own gotchas that no gate catches: a configuration key that is valid in one context and unsupported in another is typically ignored rather than rejected. See [[Silent Failure]].
 
 ## See also
+- [[Monorepo]]
+- [[Semantic Versioning]]
+- [[Supply Chain Security]]
+- [[Bundler]]
+- [[Dotfiles]]
+- [[Secret Management]]
+- [[Module Graph]]
 - [[Artifact Repository]]
 - [[Archive File]]
-- [[Node.js]]
-- [[Dependency Confusion]]
-- [[Filesystem Hierarchy Standard]]
-- [[Version Manager]]
 - [[Dynamic Linking]]
-
-## Related
-- [[Left-Pad Incident]]
-- [[Yanked Release]]
 - [[Linux Distribution]]
 - [[GNU Privacy Guard]]
-- [[Cross-Compilation]]
 - [[Automated Dependency Updates]]

@@ -19,18 +19,13 @@ Two authoring points are worth stating.
 ## See also
 - [[Frontmatter]]
 - [[Static Site Generation]]
-- [[Slug]]
 - [[Wiki]]
 - [[RSS]]
 - [[Subtitling]]
-
-## Related
 - [[Zettelkasten]]
-- [[Text Editor]]
+- [[Plain Language]]
+- [[Search Engine Optimization]]
+- [[Naming]]
+- [[Slug]]
 - [[Blog]]
-- [[Abstract Syntax Tree]]
-- [[YAML]]
-- [[Local-First Software]]
-- [[Docs as Code]]
-- [[Document Chunking]]
 - [[HTML]]

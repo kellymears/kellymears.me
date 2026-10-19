@@ -18,20 +18,16 @@ Two practical cautions.
 **Structured data is a claim about content, not a substitute for it.** Markup describing something the page does not contain is a policy violation as well as a lie.
 
 ## See also
-- [[Breadcrumb]]
-- [[Barcode]]
-- [[Dark Data]]
-- [[Paywall]]
 - [[RSS]]
 - [[Headless CMS]]
-
-## Related
-- [[Entity-Attribute-Value]]
-- [[iCalendar]]
-- [[Wikidata]]
+- [[Search Engine Optimization]]
+- [[Semantic HTML]]
+- [[JSON Schema]]
+- [[Knowledge Graph]]
+- [[Information Architecture]]
+- [[Static Site Generation]]
+- [[Backlink]]
+- [[Breadcrumb]]
+- [[Barcode]]
 - [[Open Graph]]
 - [[Web Search Engine]]
-- [[Ontology]]
-- [[IndieWeb]]
-- [[Linked Data]]
-- [[Open Data]]

@@ -14,18 +14,6 @@ Proprioception is precisely what field sobriety tests probe when they ask someon
 **Phantom limb** sensation is proprioception's most striking failure mode: after amputation, the brain's body map — built and continuously updated from a lifetime of proprioceptive input — persists and can still generate a vivid, located sense of the missing limb's position, sometimes in a fixed, uncomfortable posture the person cannot voluntarily move, because there is no longer proprioceptive feedback available to update that map. This is one reason mirror-box therapy works: it supplies substitute visual feedback the missing proprioception no longer can.
 
 ## See also
-- [[Ankle Sprain]]
-- [[Motion Sickness]]
-- [[Anterior Cruciate Ligament Injury]]
-- [[Phantom Limb]]
-- [[Stimming]]
-- [[Vertigo]]
-- [[Muscle Cramp]]
-- [[Bicycle Stability]]
-- [[Hemispatial Neglect]]
-- [[Stretching]]
-- [[Gait]]
-- [[Haptic Feedback]]
-- [[Embodied Cognition]]
-- [[Posture]]
-- [[Virtual Reality]]
+- [[Vestibular System]]
+- [[Nociception]]
+- [[Referred Pain]]

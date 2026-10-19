@@ -14,16 +14,11 @@ That last case has a non-obvious consequence beyond size. Routing a value import
 ## See also
 - [[Code Splitting]]
 - [[Module Graph]]
-- [[Program Slicing]]
-- [[CSS-in-JS]]
-- [[Intermediate Representation]]
-
-## Related
 - [[Test-Driven Development]]
 - [[React Server Components]]
 - [[Performance Budget]]
 - [[Lazy Loading]]
-- [[Abstract Syntax Tree]]
-- [[Source Map]]
+- [[Code Coverage]]
+- [[Unit Test]]
+- [[CSS-in-JS]]
 - [[ES Modules]]
-- [[Minification]]

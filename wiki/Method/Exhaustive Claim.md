@@ -26,4 +26,3 @@ The commonest cause of a false exhaustive claim is [[Truncation Bias]]: a search
 ## Related
 - [[Silent Failure]]
 - [[Root Cause Analysis]]
-- [[Steelmanning]]

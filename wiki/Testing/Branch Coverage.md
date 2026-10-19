@@ -15,17 +15,10 @@ There is also a measurement artifact worth recognizing. When two runners instrum
 
 ## See also
 - [[Code Coverage]]
-- [[Spectrum-Based Fault Localization]]
 - [[Instrumentation]]
 - [[Coverage Gate]]
-
-## Related
-- [[Goto Fail]]
-- [[Mariner 1]]
 - [[Chesterton's Fence]]
 - [[Vacuous Truth]]
 - [[Fail Fast]]
-- [[Symbolic Execution]]
-- [[Decision Table Testing]]
-- [[Cyclomatic Complexity]]
-- [[Modified Condition Decision Coverage]]
+- [[Silent Failure]]
+- [[Goodhart's Law]]

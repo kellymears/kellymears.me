@@ -13,16 +13,8 @@ The category exploded alongside [[Retrieval-Augmented Generation]], since RAG ne
 The metadata-filtering problem is where most real deployments spend their engineering effort: a pure nearest-neighbor query doesn't know that some documents are private to one tenant, expired, or restricted to one language, so production vector databases combine the similarity search with metadata filters — a step easy to describe and surprisingly easy to get wrong, since filtering after retrieval instead of during it can silently return fewer results than requested.
 
 ## See also
-- [[Word2Vec]]
-- [[Hybrid Search]]
-- [[Document Chunking]]
-- [[Approximate Nearest Neighbor Search]]
-- [[Inverted Index]]
-- [[Spatial Partitioning]]
+- [[Embedding]]
+- [[Context Window]]
+- [[Token Budget]]
 - [[Reranking]]
-- [[Cosine Similarity]]
-- [[Dimensionality Reduction]]
 - [[Stemming and Lemmatization]]
-- [[Locality-Sensitive Hashing]]
-- [[K-Means Clustering]]
-- [[Contrastive Learning]]

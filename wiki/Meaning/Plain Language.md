@@ -15,19 +15,14 @@ The techniques are well established: lead with the conclusion, use the active vo
 Two writing habits are worth naming as failure modes because they are so easy to produce and so tiring to read. **Rhetorical triples** — three parallel clauses where one would do — sound persuasive and carry a third of the content they appear to. And **contrastive definitions** — "this is not X, it is Y" — read as insight while asserting nothing testable. A title phrased as a question is the same evasion at the top of a page, stating no conclusion at all, which is why [[Betteridge's Law of Headlines]] can answer most of them "no" without opening the story.
 
 ## See also
-- [[Speech Act]]
-- [[Loanword]]
-- [[Euphemism Treadmill]]
 - [[Code Comment]]
-- [[Diglossia]]
+- [[Naming]]
+- [[Information Architecture]]
+- [[Terminal User Interface]]
+- [[Linguistic Relativity]]
+- [[Rent Strike]]
+- [[Typographic Scale]]
+- [[Accessibility]]
+- [[Collective Action]]
+- [[Markdown]]
 - [[Jargon]]
-- [[Linguistic Prescriptivism]]
-- [[Docs as Code]]
-- [[Politeness Theory]]
-- [[Infographic]]
-- [[Behavior-Driven Development]]
-
-## Related
-- [[Constructed Language]]
-- [[Tenerife Airport Disaster]]
-- [[Heuristic Evaluation]]

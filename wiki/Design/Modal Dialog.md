@@ -11,7 +11,7 @@ summary: A window that blocks the rest of the interface until it is dealt with, 
 ---
 A **modal dialog** is a window that takes over the interface: until it is dismissed, nothing behind it can be used. The name comes from *modes*, interface states in which the same input means different things. A modal puts the whole application into a temporary mode whose only purpose is the dialog.
 
-Modes have a long history of criticism. Larry Tesler, whose [[Tesler's Law]] concerns where complexity lands, campaigned against them through the 1970s and 1980s. **Mode errors** happen when people act as if they were in a different mode: typing a sentence with caps lock on, or typing text into vim while it is in command mode. Jef Raskin proposed *quasimodes*, which last only while a key such as Shift is held.
+Modes have a long history of criticism. Larry Tesler, whose Tesler's Law concerns where complexity lands, campaigned against them through the 1970s and 1980s. **Mode errors** happen when people act as if they were in a different mode: typing a sentence with caps lock on, or typing text into vim while it is in command mode. Jef Raskin proposed *quasimodes*, which last only while a key such as Shift is held.
 
 Modals are appropriate when the interruption is the point:
 
@@ -19,7 +19,7 @@ Modals are appropriate when the interruption is the point:
 - **Short, focused tasks** that make sense apart from the page, such as a login prompt or a quick form.
 - **Errors** that block all further progress.
 
-They are overused for almost everything else. Newsletter popups, cookie banners, app-install prompts and "rate us" requests interrupt people who came to do something else, and many qualify as a [[Dark Pattern]]. Since 2017 Google has penalized mobile pages that cover content with intrusive interstitials. Frequent dialogs also train people to dismiss them without reading, defeating their purpose, and each interruption leaves [[Attention Residue]].
+They are overused for almost everything else. Newsletter popups, cookie banners, app-install prompts and "rate us" requests interrupt people who came to do something else, and many qualify as a [[Dark Pattern]]. Since 2017 Google has penalized mobile pages that cover content with intrusive interstitials. Frequent dialogs also train people to dismiss them without reading, defeating their purpose, and each interruption leaves Attention Residue.
 
 Building one accessibly takes several pieces:
 
@@ -34,7 +34,5 @@ The native HTML `<dialog>` element, opened with `showModal()`, now handles most 
 Alternatives often serve better: inline editing, an expanding panel, a non-blocking side sheet, or a toast that reports an action and offers to undo it. If the user might want to see the page while answering, don't block it.
 
 ## See also
-- [[Pop-up Ad]]
 - [[Focus Indicator]]
-- [[Cookie Consent]]
 - [[Wizard]]

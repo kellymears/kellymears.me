@@ -21,16 +21,15 @@ Static types do several jobs at once:
 
 - **Catch errors early.** Mistyped field names, missing cases, and wrong arguments fail at compile time.
 - **Document intent.** A function signature says what goes in and what comes out, and unlike a comment it can't drift from the code.
-- **Make invalid states unrepresentable.** With an [[Algebraic Data Type]], a request can be modeled as loading, failed, or succeeded, with no way to be both failed and succeeded. Option types replace [[Null]], removing the most common crash in many languages.
+- **Make invalid states unrepresentable.** With an algebraic data type, a request can be modeled as loading, failed, or succeeded, with no way to be both failed and succeeded. Option types replace [[Null]], removing the most common crash in many languages.
 
 Types and tests overlap but aren't substitutes. A type checker proves properties for every possible input, but only simple properties: that a value is a number, not that it's the right number. A [[Unit Test]] checks rich properties, but only for the inputs someone wrote down. Teams with strong types typically need fewer tests for plumbing and can focus on behavior, while dynamic languages often lean on more tests, plus [[Static Analysis]] linters, for the same confidence.
 
-Type checking has limits rooted in computation itself. Because of the [[Halting Problem]], any checker that always terminates must reject some correct programs or accept some incorrect ones. Practical systems choose to be conservative, then offer escape hatches like casts and `any`, which reintroduce the risks they bypass. Types also stop at the program's edges: data from a network request or a file is untyped until checked, which is why [[Schema Validation]] at boundaries matters.
+Type checking has limits rooted in computation itself. Because of the halting problem, any checker that always terminates must reject some correct programs or accept some incorrect ones. Practical systems choose to be conservative, then offer escape hatches like casts and `any`, which reintroduce the risks they bypass. Types also stop at the program's edges: data from a network request or a file is untyped until checked, which is why [[Schema Validation]] at boundaries matters.
 
-The research frontier pushes types closer to full proofs. [[Type Inference]] removes the need to write most annotations. Dependent types can express "a list of length n" or "a sorted array," blurring into [[Formal Verification]]. Gradual typing lets a codebase add types incrementally, which is how many JavaScript and Python projects adopt them.
+The research frontier pushes types closer to full proofs. [[Type Inference]] removes the need to write most annotations. Dependent types can express "a list of length n" or "a sorted array," blurring into Formal Verification. Gradual typing lets a codebase add types incrementally, which is how many JavaScript and Python projects adopt them.
 
 ## See also
-- [[Intermediate Representation]]
-- [[Covariance and Contravariance]]
-- [[Tagged Pointer]]
-- [[Gimli Glider]]
+- [[PHP]]
+- [[JavaScript]]
+- [[SQLite]]

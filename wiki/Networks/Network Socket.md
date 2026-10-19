@@ -19,15 +19,12 @@ The two main kinds follow the transports in [[TCP and UDP]]:
 - **Stream sockets** use TCP. A server binds to a port, listens, and accepts each incoming connection as a new socket, while the listening one keeps waiting. Data arrives as an ordered byte stream with no message boundaries, so protocols on top must frame their own messages.
 - **Datagram sockets** use UDP. Each send is one self-contained packet that may arrive late, twice, or never, and there is no connection to set up.
 
-In Unix, a socket is a [[File Descriptor]], so the same tools that wait on files work for connections. Every send and receive is a [[System Call]]. A server handling thousands of clients can't block on each one in turn, so it asks the operating system which sockets are ready, the job of [[IO Multiplexing]], and an [[Event Loop]] built on top. Opening sockets is costly enough, especially with a TCP and [[Transport Layer Security]] handshake, that applications keep them open and reuse them through a [[Connection Pool]].
+In Unix, a socket is a file descriptor, so the same tools that wait on files work for connections. Every send and receive is a [[System Call]]. A server handling thousands of clients can't block on each one in turn, so it asks the operating system which sockets are ready, the job of IO Multiplexing, and an [[Event Loop]] built on top. Opening sockets is costly enough, especially with a TCP and Transport Layer Security handshake, that applications keep them open and reuse them through a [[Connection Pool]].
 
 Sockets also work without a network. A *Unix domain socket* is addressed by a file path instead of an IP and port, and passes data between processes on one machine through the kernel. Databases and container runtimes often listen on one locally, since it skips the network stack and can be protected with ordinary file permissions.
 
 Ports are finite resources. A busy client making many short-lived connections can run out of ephemeral ports, because closed TCP connections linger for up to a few minutes before their port can be reused. [[Network Address Translation]] rewrites ports too, mapping many private connections onto one public address.
 
 ## See also
-- [[Port Knocking]]
-- [[Universal Plug and Play]]
 - [[Inter-Process Communication]]
-- [[Typestate]]
 - [[Loopback]]

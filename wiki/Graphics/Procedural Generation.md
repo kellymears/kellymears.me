@@ -18,19 +18,12 @@ Two structural concerns recur.
 Determinism also enables *incremental* generation: extending a world without regenerating what already exists requires that the same inputs always produce the same region.
 
 ## See also
-- [[Voronoi Diagram]]
 - [[L-System]]
-- [[Minimum Spanning Tree]]
-- [[Terrain Generation]]
-- [[Synthetic Data]]
-- [[GPU Instancing]]
 - [[Colony Sim]]
-
-## Related
-- [[Sudoku]]
-- [[Low-Discrepancy Sequence]]
-- [[Turtle Graphics]]
-- [[Loot]]
-- [[Domain Warping]]
-- [[Match-Three]]
-- [[Wave Function Collapse]]
+- [[Determinism]]
+- [[Voxel]]
+- [[Cellular Automaton]]
+- [[Roguelike]]
+- [[Shader]]
+- [[Constraint Propagation]]
+- [[Reproducible Case]]

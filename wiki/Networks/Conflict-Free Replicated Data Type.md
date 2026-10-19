@@ -22,10 +22,6 @@ Mature libraries make them practical for real applications: a shared document ty
 - [[Signaling Server]]
 - [[Soft Delete]]
 - [[Universally Unique Identifier]]
-- [[Logical Clock]]
-- [[Gossip Protocol]]
 
 ## Related
 - [[Virtual Private Network]]
-- [[Local-First Software]]
-- [[Text Buffer]]

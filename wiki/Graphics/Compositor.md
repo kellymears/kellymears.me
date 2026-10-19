@@ -10,7 +10,7 @@ summary: The component that draws each window or layer into its own off-screen b
 ---
 A **compositor** builds the final screen image from separately rendered pieces. Each application window, or each layer of a web page, draws into its own off-screen buffer, and the compositor combines those buffers into one frame, usually on the GPU, deciding position, stacking order, transparency, and effects as it goes.
 
-Before compositing, windows drew directly onto the shared screen. When one window moved, the one underneath had to redraw the exposed area, and until it did, a trail of stale pixels showed through. With every window in its own buffer, a compositor can move, scale, or fade windows without asking applications to redraw anything. That made a whole class of effects cheap: translucent panels, drop shadows, background blur, animated window transitions, previews of live windows. Because the compositor presents complete frames on the display's schedule, it also prevents [[Screen Tearing]] on the desktop.
+Before compositing, windows drew directly onto the shared screen. When one window moved, the one underneath had to redraw the exposed area, and until it did, a trail of stale pixels showed through. With every window in its own buffer, a compositor can move, scale, or fade windows without asking applications to redraw anything. That made a whole class of effects cheap: translucent panels, drop shadows, background blur, animated window transitions, previews of live windows. Because the compositor presents complete frames on the display's schedule, it also prevents Screen Tearing on the desktop.
 
 The costs are real but usually small:
 
@@ -22,17 +22,11 @@ For fullscreen games, compositors use *direct scanout* (sometimes called unredir
 
 On Linux, the architecture differs by [[Display Server]]. Under X11, compositing was an optional add-on that intercepted the server's output. Under Wayland, the compositor *is* the display server, so every Wayland desktop composites, and the window manager, input routing, and effects live in one program.
 
-Browsers use the same idea inside a page. Elements that animate `transform` or `opacity` can be promoted to their own layers and moved by the compositor thread without layout or paint, which is why those properties animate smoothly while animating `top` or `width` causes [[Layout Thrashing]]. A [[Stacking Context]] is the browser's grouping unit for this kind of layered painting.
+Browsers use the same idea inside a page. Elements that animate `transform` or `opacity` can be promoted to their own layers and moved by the compositor thread without layout or paint, which is why those properties animate smoothly while animating `top` or `width` causes Layout Thrashing. A [[Stacking Context]] is the browser's grouping unit for this kind of layered painting.
 
 ## See also
 - [[Desktop Environment]]
-- [[Rotoscoping]]
 - [[Glassmorphism]]
-- [[Scene Graph]]
 - [[Web Animations API]]
 - [[Graphics Driver]]
 - [[Background Tab Throttling]]
-- [[Frutiger Aero]]
-- [[Browser Engine]]
-- [[Blend Mode]]
-- [[Swap Chain]]

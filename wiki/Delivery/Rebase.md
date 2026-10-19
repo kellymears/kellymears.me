@@ -20,18 +20,16 @@ Several things about rebasing are worth knowing concretely.
 
 ## See also
 - [[Three-Way Merge]]
-- [[Feature Branch]]
 - [[Semantic Conflict]]
-- [[Detached HEAD]]
-
-## Related
 - [[Merge Train]]
-- [[Jujutsu]]
 - [[Regression]]
-- [[Retcon]]
-- [[Darcs]]
+- [[Merge Conflict]]
+- [[Commit]]
+- [[Version Control]]
+- [[Continuous Integration]]
+- [[Trunk-Based Development]]
+- [[Feature Branch]]
+- [[Detached HEAD]]
 - [[Cherry-Pick]]
 - [[Reflog]]
 - [[Fast-Forward Merge]]
-- [[Force Push]]
-- [[Interactive Rebase]]

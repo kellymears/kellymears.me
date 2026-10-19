@@ -17,7 +17,7 @@ summary: Specifying what each function requires and guarantees, as checkable pre
 
 The main payoff is assigning blame. When a precondition fails, the caller has a bug. When a postcondition or invariant fails, the function has a bug. Debugging starts in the right place instead of somewhere downstream where corrupted data finally caused a crash. Checking contracts at runtime is a form of [[Fail Fast]]: an [[Assertion]] at the boundary stops the program at the first broken promise.
 
-Contracts also document intent precisely. A signature says a function takes an integer. A contract says which integers, and what happens to them. That gives other tools something to check against. [[Static Analysis]] tools can try to prove contracts hold, [[Formal Verification]] proves them outright, and [[Property-Based Testing]] can use postconditions and invariants directly as the properties to test across random inputs.
+Contracts also document intent precisely. A signature says a function takes an integer. A contract says which integers, and what happens to them. That gives other tools something to check against. [[Static Analysis]] tools can try to prove contracts hold, Formal Verification proves them outright, and [[Property-Based Testing]] can use postconditions and invariants directly as the properties to test across random inputs.
 
 Few mainstream languages build contracts in. Eiffel, Ada, D, and Racket do. Elsewhere the idea appears piecemeal: assertions, validation at API boundaries with [[Schema Validation]] or a [[JSON Schema]], and types that make invalid states unrepresentable, so a precondition becomes a type the compiler enforces. [[Immutability]] helps by ensuring an invariant established at construction can't be broken later.
 
@@ -26,8 +26,6 @@ Design by contract takes a deliberate stance against defensive programming every
 Contracts between functions are different from [[Contract Testing]], which checks that separate services agree on the shape of their API, though the idea of a mutual, checkable agreement is the same.
 
 ## See also
-- [[Loop Invariant]]
-- [[Dependent Types]]
-- [[Ariane 5 Flight 501]]
-- [[Polymorphism]]
 - [[Database Constraint]]
+- [[Test Oracle]]
+- [[Defensive Programming]]

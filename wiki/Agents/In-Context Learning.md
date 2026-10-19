@@ -19,7 +19,7 @@ The 2020 GPT-3 paper, titled "Language Models are Few-Shot Learners," made the a
 
 Larger models benefited much more from examples than smaller ones, and few-shot performance on some tasks approached models that had been specifically trained for them. In-context learning made [[Prompt Engineering]] a practical alternative to training a separate model for every task.
 
-How it works is still studied. [[Mechanistic Interpretability]] research at Anthropic in 2022 identified *induction heads*, attention circuits that find an earlier occurrence of the current pattern and copy what came next; see [[Attention Mechanism]]. They form at a specific point in training, at the same moment in-context learning ability jumps, which suggests they are part of the mechanism.
+How it works is still studied. [[Mechanistic Interpretability]] research at Anthropic in 2022 identified *induction heads*, attention circuits that find an earlier occurrence of the current pattern and copy what came next. They form at a specific point in training, at the same moment in-context learning ability jumps, which suggests they are part of the mechanism.
 
 Experiments show that examples teach less, and differently, than one might expect:
 
@@ -34,8 +34,4 @@ In-context learning is also how a model uses retrieved documents. [[Retrieval-Au
 The choice between showing and telling recurs in practice. Instructions state rules clearly but can be misread; examples demonstrate behavior but invite imitation of incidental features.
 
 ## See also
-- [[Activation Patching]]
 - [[Fine-Tuning]]
-- [[Transfer Learning]]
-- [[Instruction Tuning]]
-- [[Priming]]

@@ -15,18 +15,11 @@ The pattern also has a direct product use: deriving the seed from the date gives
 Two cautions. A generator's *quality* matters for simulation and not much for games, but its *distribution* does — a naive modulo of a random integer into a range is subtly biased. And seeded does not mean secret: if the seed is derivable, so is the outcome, which matters the moment anything competitive rests on it.
 
 ## See also
-- [[Wave Function Collapse]]
-- [[Terrain Generation]]
-- [[Low-Discrepancy Sequence]]
-- [[Reservoir Sampling]]
-- [[Fisher-Yates Shuffle]]
-- [[Generative Art]]
 - [[L-System]]
-- [[Entropy Pool]]
-- [[Domain Warping]]
-
-## Related
-- [[Turtle Graphics]]
 - [[Trick-Taking Game]]
-- [[Perlin Noise]]
-- [[Tetris]]
+- [[Procedural Generation]]
+- [[Roguelike]]
+- [[Cellular Automaton]]
+- [[Constraint Propagation]]
+- [[Game AI]]
+- [[Voxel]]

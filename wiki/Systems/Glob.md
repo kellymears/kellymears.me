@@ -29,6 +29,5 @@ The habit that closes all three: enumerate what the pattern matches before relyi
 - [[Exhaustive Claim]]
 - [[Coverage Gate]]
 - [[Root Cause Analysis]]
-- [[POSIX]]
 - [[Command-Line Interface]]
 - [[Gitignore]]

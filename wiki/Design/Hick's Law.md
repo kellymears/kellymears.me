@@ -15,18 +15,12 @@ Fitts's Law and Hick's Law are often cited together because they cover the two h
 
 ## See also
 - [[Fitts's Law]]
+- [[Affordance]]
+- [[Gestalt Principles]]
+- [[Design System]]
 - [[Above the Fold]]
 - [[Call to Action]]
-- [[Reaction Time]]
 - [[Context Menu]]
-- [[Decision Matrix]]
-
-## Related
-- [[Affordance]]
-- [[Interesting Decisions]]
 - [[Wizard]]
-- [[Faceted Search]]
 - [[Command Palette]]
 - [[Autocomplete]]
-- [[Choice Architecture]]
-- [[Recognition Rather Than Recall]]

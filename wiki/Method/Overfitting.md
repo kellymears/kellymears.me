@@ -14,19 +14,7 @@ Overfitting isn't unique to statistics. A postmortem process that adds a new che
 The corrective is [[Occam's Razor]] applied over time — prefer the explanation or rule with fewer free parameters relative to the evidence, and treat perfect performance on the cases you've already seen as a warning sign, not a reward.
 
 ## See also
-- [[Decision Tree]]
-- [[Double Descent]]
-- [[Abductive Reasoning]]
-- [[Multiple Comparisons Problem]]
-- [[Linear Regression]]
-
-## Related
-- [[Support Vector Machine]]
-- [[Pre-registration]]
-- [[Precision and Accuracy]]
-- [[Hyperparameter]]
-- [[Batch Normalization]]
-- [[Universal Approximation Theorem]]
-- [[Membership Inference Attack]]
-- [[No Free Lunch Theorem]]
-- [[Texas Sharpshooter Fallacy]]
+- [[Goodhart's Law]]
+- [[Regression to the Mean]]
+- [[Root Cause Analysis]]
+- [[Second-System Effect]]

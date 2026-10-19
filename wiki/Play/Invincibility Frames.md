@@ -13,8 +13,5 @@ The **dodge roll** is the modern carrier. A roll's duration splits into startup,
 This is why i-frames convert dodging into a **timing problem rather than a spacing problem**. A player reasoning about distance is solving the wrong equation — an attack's hitbox can occupy the exact space the character rolls through and still miss, provided the press landed inside the window and not a beat early or late. That precision is exactly what [[Frame Data]] formalizes, and it rewards the same read-and-react discipline as a [[Parry and Riposte]], with the opposite risk profile: a parry cancels the attack, a dodge only cancels its consequence. Window lengths are rarely documented and get established the way [[Poise]] values were, by the [[Datamining]] community working from frame-by-frame video capture and runtime memory inspection rather than extracted files — the same discipline that lets [[Speedrun]] routes exploit windows that outlast their purpose. [[Game Feel]] governs whether the edges feel fair; [[Determinism]] lets a player trust that identical timing produces identical outcomes twice.
 
 ## See also
-- [[Fighting Game]]
 - [[Poise]]
-- [[Coyote Time]]
 - [[Soulslike]]
-- [[Shoot 'em Up]]

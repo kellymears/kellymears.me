@@ -29,4 +29,3 @@ The idea predates networking software. A loopback plug wires a port's transmit p
 
 ## See also
 - [[Port]]
-- [[IP Routing]]

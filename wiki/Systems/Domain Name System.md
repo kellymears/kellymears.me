@@ -15,18 +15,15 @@ The common record types are few: an address record, an alias record pointing one
 **Subdomains** are the practically important structure. They are ordinary names under a zone and can point anywhere, which makes them the natural mechanism for multi-tenant systems — each tenant addressed by name, with a wildcard record and a wildcard certificate covering them all. That certificate is usually the part that has to be provisioned deliberately rather than automatically, since proving control of a wildcard requires a DNS-based challenge. See [[Multi-Tenancy]] and [[Same-Origin Policy]].
 
 ## See also
+- [[Port]]
+- [[Cache Invalidation]]
+- [[Virtual Private Network]]
+- [[Caller ID Authentication]]
+- [[eSIM]]
+- [[Least Privilege]]
+- [[Hash Function]]
+- [[Secret Management]]
 - [[Multicast DNS]]
 - [[Top-Level Domain]]
-- [[Email Authentication]]
-- [[Encrypted Client Hello]]
-- [[Ransomware]]
-- [[Internet Service Provider]]
-- [[Time to First Byte]]
 - [[Loopback]]
-- [[Domain Registrar]]
-
-## Related
-- [[Dependency Confusion]]
-- [[DNS Cache Poisoning]]
 - [[Internationalized Domain Name]]
-- [[Facebook Outage of 2021]]

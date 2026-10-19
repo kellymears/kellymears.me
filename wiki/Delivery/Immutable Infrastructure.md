@@ -14,17 +14,8 @@ It also makes rollback trivial in the same way [[Blue-Green Deployment]] does: t
 The tradeoff is that anything genuinely needing in-place mutation — a long-lived cache warmed over hours, a stateful service that can't cheaply restart — fights this model, which is why immutable infrastructure pairs naturally with pushing state out to managed databases and object stores, leaving the compute layer free to be thrown away.
 
 ## See also
-- [[Overlay Filesystem]]
-- [[Filesystem Hierarchy Standard]]
 - [[GitOps]]
 - [[Zero-Downtime Deployment]]
-
-## Related
-- [[Over-the-Air Update]]
-- [[Jamstack]]
-- [[Maintenance Window]]
-- [[Works on My Machine]]
+- [[Rollback]]
 - [[Artifact Repository]]
 - [[Kubernetes]]
-- [[Pets vs Cattle]]
-- [[Configuration Management]]

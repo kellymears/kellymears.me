@@ -19,18 +19,11 @@ Two implementation notes matter more than the mechanism.
 Flags accumulate. A flag whose feature has fully shipped is dead conditional logic in every path it touches, and removing it is real work that has to be scheduled.
 
 ## See also
-- [[Progressive Delivery]]
-- [[Git Revert]]
-- [[Knight Capital Incident]]
-- [[Gitflow]]
 - [[Draft and Published]]
-- [[Software Release Life Cycle]]
-- [[Small Batches]]
-
-## Related
-- [[CrowdStrike Outage]]
 - [[Headless CMS]]
-- [[Branch by Abstraction]]
-- [[Reversible Decision]]
-- [[Cloudbleed]]
-- [[Pairwise Testing]]
+- [[Technical Debt]]
+- [[Multi-Tenancy]]
+- [[Relational Database]]
+- [[Continuous Integration]]
+- [[Documentation Rot]]
+- [[Progressive Delivery]]

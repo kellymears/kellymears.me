@@ -31,6 +31,4 @@ Hooks are shared by every [[Git Worktree]] of a repository, since they live in t
 
 ## See also
 - [[Staging Area]]
-- [[Gerrit]]
-- [[Shift-Left Testing]]
 - [[Shebang]]

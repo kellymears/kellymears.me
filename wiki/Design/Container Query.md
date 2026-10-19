@@ -14,19 +14,13 @@ Container queries require declaring a containment context on the ancestor, which
 Where they are not yet practical, the honest fallback is to make components tolerant of narrowness rather than to add more viewport breakpoints, which encode an assumption about available space that is simply wrong.
 
 ## See also
-- [[CSS Preprocessor]]
-- [[Cascading Style Sheets]]
 - [[UI Primitive]]
-
-## Related
 - [[Utility-First CSS]]
 - [[Headless Component]]
 - [[Design Token]]
 - [[Typographic Scale]]
-- [[Bento Grid]]
-- [[Line Length]]
-- [[Intersection Observer]]
+- [[Design System]]
+- [[Silent Failure]]
+- [[Cascading Style Sheets]]
 - [[CSS Grid]]
 - [[Flexbox]]
-- [[Responsive Web Design]]
-- [[Atomic Design]]

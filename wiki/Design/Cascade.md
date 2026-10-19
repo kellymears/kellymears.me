@@ -27,7 +27,4 @@ Understanding the cascade also explains a class of cross-application bugs: style
 - [[Dark Mode]]
 - [[OKLCH]]
 - [[Box Model]]
-- [[Browser DevTools]]
-- [[Flash of Unstyled Content]]
-- [[CSS Preprocessor]]
 - [[CSS-in-JS]]

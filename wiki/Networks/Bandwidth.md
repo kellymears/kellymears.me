@@ -18,17 +18,15 @@ The terms around it are easy to mix up:
 
 Units trip people up too. Network speeds are quoted in bits per second, and file sizes in bytes, so a 100 Mbps connection moves at most 12.5 megabytes per second.
 
-For most web use, latency matters more than bandwidth past a modest threshold. A web page is dozens of small requests, many waiting on earlier ones, and each costs at least one round trip. Doubling bandwidth barely changes how long that takes, while halving the distance to the server, the job of a [[Content Delivery Network]], does. Large downloads and video are the reverse, limited by bandwidth once they get going. [[Adaptive Bitrate Streaming]] picks a video quality from measured throughput.
+For most web use, latency matters more than bandwidth past a modest threshold. A web page is dozens of small requests, many waiting on earlier ones, and each costs at least one round trip. Doubling bandwidth barely changes how long that takes, while halving the distance to the server, the job of a [[Content Delivery Network]], does. Large downloads and video are the reverse, limited by bandwidth once they get going. Adaptive Bitrate Streaming picks a video quality from measured throughput.
 
-The **bandwidth-delay product** connects the two numbers: bandwidth multiplied by round-trip time gives how much data must be in flight, sent but not yet acknowledged, to keep a link full. A 1 Gbps path with a 100 ms round trip needs about 12.5 megabytes in flight. TCP's window sizes and [[Congestion Control]] must grow that large before a single connection can use the link, which is why long, fast paths, such as across a [[Submarine Cable]], can disappoint.
+The **bandwidth-delay product** connects the two numbers: bandwidth multiplied by round-trip time gives how much data must be in flight, sent but not yet acknowledged, to keep a link full. A 1 Gbps path with a 100 ms round trip needs about 12.5 megabytes in flight. TCP's window sizes and Congestion Control must grow that large before a single connection can use the link, which is why long, fast paths, such as across a Submarine Cable, can disappoint.
 
-The theoretical ceiling for any channel comes from [[Information Theory]]. Shannon showed in 1948 that capacity depends on the frequency range used and the signal-to-noise ratio, which is why faster [[Wi-Fi]] standards use wider channels and why weak signals mean slower links. Physical media differ enormously: copper phone lines carry tens of megabits, while a single [[Optical Fiber]] carries terabits.
+The theoretical ceiling for any channel comes from Information Theory. Shannon showed in 1948 that capacity depends on the frequency range used and the signal-to-noise ratio, which is why faster [[Wi-Fi]] standards use wider channels and why weak signals mean slower links. Physical media differ enormously: copper phone lines carry tens of megabits, while a single Optical Fiber carries terabits.
 
-Bandwidth is also shared. A home connection is split among every device, and a provider's capacity is oversubscribed on the assumption that not everyone uses it at once. When a link is saturated, queues fill and latency rises for everyone, the problem known as bufferbloat. The same tradeoffs appear in [[Queueing Theory]], and [[Data Compression]] is the cheapest way to need less of it.
+Bandwidth is also shared. A home connection is split among every device, and a provider's capacity is oversubscribed on the assumption that not everyone uses it at once. When a link is saturated, queues fill and latency rises for everyone, the problem known as bufferbloat. The same tradeoffs appear in Queueing Theory, and [[Data Compression]] is the cheapest way to need less of it.
 
 ## See also
 - [[Videoconferencing]]
-- [[Pneumatic Tube]]
-- [[Pigeon Post]]
-- [[Slashdot Effect]]
-- [[Speculation Rules]]
+- [[Hotlinking]]
+- [[Web Hosting]]

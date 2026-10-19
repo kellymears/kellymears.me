@@ -16,16 +16,5 @@ The same collagen-remodeling logic explains why [[Fracture Nonunion]] and proble
 
 ## See also
 - [[Moist Wound Healing]]
-- [[Collagen]]
 - [[Tendon and Ligament]]
 - [[Inflammation]]
-- [[Fascia]]
-- [[Plantar Fasciitis]]
-- [[Frostbite]]
-- [[Ankle Sprain]]
-- [[Blister]]
-- [[Bruise]]
-- [[Cellular Senescence]]
-- [[Saddle Sore]]
-- [[Blood Clotting]]
-- [[Anterior Cruciate Ligament Injury]]

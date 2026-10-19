@@ -14,16 +14,5 @@ The tools split on a real distinction: declarative tools (Terraform) describe th
 [[GitOps]] takes this a step further: instead of a human or CI job running the IaC tool against production, an agent inside the cluster continuously reconciles live state against what's declared in the repository, so the repository isn't just a record of intent — it's the live source of truth.
 
 ## See also
-- [[Knight Capital Incident]]
-- [[Pets vs Cattle]]
-- [[Configuration Management]]
-- [[Software-Defined Networking]]
-
-## Related
-- [[Works on My Machine]]
-- [[Configuration Drift]]
-- [[Don't Repeat Yourself]]
-- [[Template Engine]]
-- [[YAML]]
+- [[Continuous Deployment]]
 - [[Kubernetes]]
-- [[DevOps]]

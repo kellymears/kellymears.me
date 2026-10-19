@@ -12,7 +12,7 @@ A **progressive web app** (PWA) is a website built so it can be installed and be
 
 Three pieces make a site installable:
 
-- **HTTPS.** Powerful features are restricted to secure contexts, so the site must be served over [[Transport Layer Security]].
+- **HTTPS.** Powerful features are restricted to secure contexts, so the site must be served over Transport Layer Security.
 - **A web app manifest.** A JSON file names the app and lists its icons, theme color, start URL and display mode, such as `standalone` for a window with no address bar.
 - **A [[Service Worker]].** A script that sits between the page and the network, so the app can load from cache when offline and receive push messages while closed.
 
@@ -30,11 +30,8 @@ The limits come from the platforms. Browser vendors decide which device APIs the
 Building one well means planning for the network being absent. Assets come from the cache, data lives in [[Web Storage]] such as IndexedDB, and edits made offline queue up and sync later. Pairing that with an [[Single-Page Application|app shell]] that loads instantly from cache gives the near-instant start that makes an installed web app feel native.
 
 ## See also
-- [[Walled Garden]]
 - [[Web Storage]]
 - [[Progressive Enhancement]]
 - [[HTTP Caching]]
-- [[Web Push]]
 - [[Favicon]]
 - [[Deep Linking]]
-- [[Origin Private File System]]

@@ -22,7 +22,7 @@ How the common form works:
 
 That last property makes NAT behave somewhat like a [[Firewall]], since unsolicited inbound traffic can't reach the devices behind it. It is a side effect rather than a security design, and a real firewall with a default-deny policy does the job deliberately.
 
-The cost is the [[End-to-End Principle]]. On the original internet any host could reach any other. Behind NAT, a device can start connections but can't easily receive them, which breaks hosting, [[Peer-to-Peer]] applications, voice calls and multiplayer games. Workarounds pile up:
+The cost is the end-to-end principle. On the original internet any host could reach any other. Behind NAT, a device can start connections but can't easily receive them, which breaks hosting, [[Peer-to-Peer]] applications, voice calls and multiplayer games. Workarounds pile up:
 
 - **Port forwarding**, configured by hand or requested automatically with UPnP, maps a public [[Port]] to an internal device.
 - **[[NAT Traversal]]** techniques such as hole punching let two devices behind NATs connect directly with help from a [[Signaling Server]], and relay traffic when that fails. [[WebRTC]] and mesh [[Virtual Private Network]] tools depend on it.
@@ -33,6 +33,5 @@ NAT also appears inside machines. [[Containerization]] tools usually give contai
 
 ## See also
 - [[Port Scanning]]
-- [[Captive Portal]]
-- [[File Transfer Protocol]]
-- [[Port Knocking]]
+- [[Wi-Fi]]
+- [[Subnet]]

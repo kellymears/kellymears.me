@@ -20,8 +20,3 @@ Both camps read the 2021-23 inflation episode as confirmation, which suggests th
 - [[Plausible Mechanism]]
 - [[Plain Language]]
 - [[Percentage Point]]
-- [[Baumol's Cost Disease]]
-- [[Gresham's Law]]
-- [[Bank Run]]
-- [[Double-Entry Bookkeeping]]
-- [[Inflation]]

@@ -18,11 +18,5 @@ Distributing a console's BIOS or decryption keys, by contrast, is settled infrin
 Emulation is also the practical route for [[Game Preservation]]: it is how a console generation keeps running once the hardware fails, provided the ROM images feeding it are checked against a known-good [[Hash Function]] rather than trusted on sight, and it underwrites both community [[Datamining]] and the frame-perfect replay [[Speedrun]] tool-assisted runs depend on.
 
 ## See also
-- [[Vector Display]]
-- [[Read-Only Memory]]
-- [[Affine Texture Mapping]]
-- [[Pinball]]
+- [[Right to Repair]]
 - [[Futex]]
-- [[Clean Room Design]]
-- [[Differential Testing]]
-- [[Hardware-in-the-Loop]]

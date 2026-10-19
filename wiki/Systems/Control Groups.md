@@ -14,14 +14,10 @@ Cgroups v2, the current unified hierarchy, replaced an earlier v1 design where e
 The everyday symptom of a cgroup limit is a process that gets killed with no error message and no stack trace — just gone, restarted, gone again. `dmesg` or the kernel log showing an OOM-kill event against the process's cgroup is usually the first real clue, since the process's own logs never get the chance to record why.
 
 ## See also
-- [[Process Priority]]
 - [[Containerization]]
 - [[Systemd]]
 - [[Process]]
 - [[CPU Affinity]]
 - [[Pressure Stall Information]]
-- [[eBPF]]
 - [[Kubernetes]]
 - [[Device File]]
-- [[MicroVM]]
-- [[Resource Limit]]

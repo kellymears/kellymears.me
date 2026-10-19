@@ -15,12 +15,6 @@ Receptor pharmacology explains the rest. A **full agonist** such as morphine giv
 Folk comparisons — "X is basically the same as Y" — collapse these axes into a single scale of badness, ignoring dose, potency, route, half-life, receptor behavior and purpose. The trouble is categorical: dependence, addiction, harm and legality get treated as one prototype rather than independent dimensions, which is what [[Prototype Theory]] and any careful [[Taxonomy]] warn against, and what a demand for a [[Plausible Mechanism]] would catch. Analgesia after injury sits squarely in this space, alongside [[Nociception]] and [[Regional Nerve Block]].
 
 ## See also
-- [[Migraine]]
-- [[Insomnia]]
-- [[Hangover]]
 - [[Taxonomy]]
-- [[Restless Legs Syndrome]]
 - [[Segmented Sleep]]
 - [[Fracture Nonunion]]
-- [[Central Sensitization]]
-- [[Sleep Pressure]]

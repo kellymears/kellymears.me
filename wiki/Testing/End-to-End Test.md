@@ -20,12 +20,11 @@ They come with costs that grow with suite size:
 - **Vague failures.** A failed checkout test says something is broken somewhere between the button and the database, and finding where takes debugging.
 - **Expensive setup.** Each test needs [[Test Fixture]] data, and tests that share a database can interfere with each other unless [[Test Isolation]] is designed in.
 
-The usual conclusion is the [[Test Pyramid]]: a small number of E2E tests covering the critical user journeys, such as signing up, logging in, and paying, sitting on a much larger base of fast, focused tests. [[Contract Testing]] covers service boundaries without spinning up everything. [[Visual Regression Testing]] often rides along on the same browser automation to catch layout breakage.
+The usual conclusion is the test pyramid: a small number of E2E tests covering the critical user journeys, such as signing up, logging in, and paying, sitting on a much larger base of fast, focused tests. [[Contract Testing]] covers service boundaries without spinning up everything. [[Visual Regression Testing]] often rides along on the same browser automation to catch layout breakage.
 
 Good E2E tests are written against what a user sees, such as visible labels and roles, rather than CSS classes or DOM structure, which ties them to [[Accessibility]] semantics and keeps them from breaking on every restyle. A [[Smoke Test]] after deploy is often just a handful of E2E checks run against production.
 
 ## See also
-- [[Page Object Model]]
-- [[Healthcare.gov Launch]]
-- [[Mars Polar Lander]]
-- [[Hubble Mirror Flaw]]
+- [[Service Virtualization]]
+- [[Test Impact Analysis]]
+- [[Regression Testing]]

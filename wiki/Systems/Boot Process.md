@@ -21,14 +21,11 @@ On a modern PC the chain runs roughly like this:
 
 Every stage is a place to break. A corrupt bootloader configuration stops the machine before the kernel loads. A kernel upgrade without a matching initramfs, or a missing driver inside it, leaves the system unable to find its root disk and dropping into an emergency shell. A service that fails or hangs can stall boot entirely.
 
-**Secure Boot**, part of UEFI, verifies each stage before running it. Firmware checks the bootloader's signature against trusted keys, the bootloader checks the kernel, and the kernel can require signed modules. It defends against bootkits that hide below the operating system, using the same [[Public-Key Cryptography]] as [[Code Signing]]. Linux distributions boot through a small Microsoft-signed shim, since most PCs ship trusting only Microsoft's keys. Out-of-tree drivers must then be signed with a key the user enrolls.
+**Secure Boot**, part of UEFI, verifies each stage before running it. Firmware checks the bootloader's signature against trusted keys, the bootloader checks the kernel, and the kernel can require signed modules. It defends against bootkits that hide below the operating system, using the same Public-Key Cryptography as [[Code Signing]]. Linux distributions boot through a small Microsoft-signed shim, since most PCs ship trusting only Microsoft's keys. Out-of-tree drivers must then be signed with a key the user enrolls.
 
 `systemd-analyze blame` lists how long each unit took, and the critical-chain view shows which waits actually delayed reaching the desktop. Once started, a machine can be guarded by a [[Watchdog Timer]] that reboots it if the system hangs.
 
 ## See also
 - [[Dual Boot]]
-- [[MicroVM]]
-- [[Assembly Language]]
-- [[Read-Only Memory]]
-- [[Device Tree]]
-- [[Rootkit]]
+- [[Firmware]]
+- [[Serial Port]]

@@ -20,12 +20,9 @@ The escape is exactly what creates the difficulties.
 Accessibility also needs explicit work, since the visual position and the tree position disagree; see [[Focus Management]] and [[ARIA]].
 
 ## See also
-- [[Popover API]]
 - [[Headless Component]]
 - [[Focus Trap]]
-- [[Dot-com Bubble]]
+- [[Component Story]]
 - [[Modal Dialog]]
 - [[Tooltip]]
 - [[Iframe]]
-- [[GeoCities]]
-- [[Webring]]

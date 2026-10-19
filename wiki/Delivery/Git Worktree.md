@@ -18,19 +18,16 @@ The complications are all about the things a worktree does *not* isolate.
 **Shared repository state is still shared.** The object store, the recorded conflict resolutions, and anything in the common git directory are common to all worktrees.
 
 ## See also
-- [[Detached HEAD]]
-- [[Jujutsu]]
 - [[Environment Variable]]
 - [[Port]]
 - [[Subagent]]
-
-## Related
 - [[Fan-Out and Fan-In]]
 - [[Token Budget]]
 - [[Shell]]
+- [[Version Control]]
+- [[Race Condition]]
+- [[Detached HEAD]]
 - [[Git Hook]]
-- [[Ephemeral Environment]]
-- [[Git Submodule]]
 - [[Git Stash]]
 - [[Shallow Clone]]
 - [[Gitignore]]

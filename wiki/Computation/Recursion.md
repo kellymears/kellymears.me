@@ -14,14 +14,5 @@ Recursion is the natural fit for anything with a recursive shape in the data its
 [[Memoization]] and recursion are frequent partners: naive recursive Fibonacci recomputes the same subproblems exponentially many times (`fib(5)` calls `fib(3)` twice, `fib(2)` three times, and so on), and caching each `fib(n)` the first time it's computed turns the same recursive structure into linear work — the technique generalizes to [[Dynamic Programming]], which is recursion with memoization (or its iterative, bottom-up equivalent) applied systematically to problems with overlapping subproblems.
 
 ## See also
-- [[Common Table Expression]]
+- [[Finite State Machine]]
 - [[Iterator]]
-- [[Compiler Bootstrapping]]
-- [[Space-Filling Curve]]
-- [[Logic Programming]]
-- [[Fold]]
-- [[Fibonacci Sequence]]
-- [[Tower of Hanoi]]
-- [[Quine]]
-- [[Turtle Graphics]]
-- [[Ackermann Function]]

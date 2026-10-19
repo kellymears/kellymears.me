@@ -18,17 +18,12 @@ The second risk is that a double drifts from the real interface, so the tests pa
 ## See also
 - [[Test Fixture]]
 - [[Record and Replay Testing]]
-- [[Testability]]
-- [[Ariane 5 Flight 501]]
-
-## Related
-- [[Hardware-in-the-Loop]]
-- [[Service Virtualization]]
 - [[Integration Test]]
 - [[Fingerprint]]
-- [[Test Smell]]
+- [[Unit Test]]
+- [[Vacuous Truth]]
+- [[Nondeterminism]]
+- [[Large Language Model]]
+- [[Service Virtualization]]
 - [[Fake Clock]]
-- [[Humble Object]]
-- [[Solitary and Sociable Tests]]
 - [[Dependency Injection]]
-- [[Polymorphism]]

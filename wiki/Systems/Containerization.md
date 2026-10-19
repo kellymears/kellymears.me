@@ -15,19 +15,17 @@ The costs are also concrete. Filesystem and network performance are lower than n
 Containers also concentrate the [[Port]] problem: published ports are host ports, so two projects both mapping a database port collide.
 
 ## See also
-- [[Twelve-Factor App]]
-- [[Overlay Filesystem]]
-- [[Zombie Process]]
-- [[Logical Volume Manager]]
-- [[Dynamic Linking]]
-
-## Related
-- [[MicroVM]]
-- [[Linux Capabilities]]
-- [[Kubernetes]]
 - [[Git Worktree]]
-- [[Version Manager]]
-- [[Pets vs Cattle]]
+- [[Environment Variable]]
+- [[Determinism]]
+- [[Continuous Deployment]]
+- [[Shell]]
+- [[Secret Management]]
+- [[Ground Truth]]
+- [[Vacuous Truth]]
+- [[Silent Failure]]
+- [[Hypervisor]]
+- [[Dynamic Linking]]
+- [[Kubernetes]]
 - [[Disk Image]]
 - [[Web Hosting]]
-- [[Works on My Machine]]

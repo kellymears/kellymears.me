@@ -18,14 +18,14 @@ A useful entry records:
 
 Audit logs differ from debugging logs in what they demand; see [[Logging]]:
 
-- **Completeness.** A debug log can drop lines under load. An audit log with gaps can't be trusted, so writes are usually part of the same transaction as the change they record; see [[ACID]] and [[Transactional Outbox]].
+- **Completeness.** A debug log can drop lines under load. An audit log with gaps can't be trusted, so writes are usually part of the same transaction as the change they record; see [[ACID]].
 - **Retention.** Regulations in finance, healthcare, and payments require keeping them for years.
 - **Immutability.** Entries are only ever appended, never edited or deleted.
 
 **Tamper evidence** matters because the people most able to alter records, administrators, are sometimes the people under investigation. Two techniques help:
 
 - **Separation.** Ship entries immediately to a separate system that the audited system's operators can't modify.
-- **Hash chaining.** Each entry includes a hash of the previous one, so changing or removing any entry breaks every hash after it; see [[Hash Function]]. Periodically publishing or signing the latest hash anchors the chain. Organizing entries as a [[Merkle Tree]] allows efficient proofs that a given entry is included, the design behind public certificate logs; see [[Certificate Authority]].
+- **Hash chaining.** Each entry includes a hash of the previous one, so changing or removing any entry breaks every hash after it; see [[Hash Function]]. Periodically publishing or signing the latest hash anchors the chain. Organizing entries as a Merkle Tree allows efficient proofs that a given entry is included, the design behind public certificate logs; see [[Certificate Authority]].
 
 Common failures:
 
@@ -34,10 +34,7 @@ Common failures:
 - **Unreadable volume.** A log nobody can search or alert on deters no one. Structured entries and alerts on sensitive actions make it useful.
 - **Missing actors.** Records that say "system" instead of naming the job or the person who triggered it.
 
-Audit logs connect to several data patterns. [[Event Sourcing]] stores every change as an event, which gives a complete history as a side effect. [[Soft Delete]] keeps deleted records available for review. Temporal tables record what the database believed at each point in time; see [[Bitemporal Data]]. All share the idea that history is data worth keeping, not exhaust to discard.
+Audit logs connect to several data patterns. [[Event Sourcing]] stores every change as an event, which gives a complete history as a side effect. [[Soft Delete]] keeps deleted records available for review. Temporal tables record what the database believed at each point in time. All share the idea that history is data worth keeping, not exhaust to discard.
 
 ## See also
-- [[Bastion Host]]
-- [[Freedom of Information]]
-- [[Syslog]]
-- [[Microfilm]]
+- [[Threat Modeling]]

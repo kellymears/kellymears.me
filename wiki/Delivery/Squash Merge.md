@@ -20,14 +20,12 @@ Squash merging pairs naturally with [[Trunk-Based Development]], where branches 
 ## See also
 - [[Commit]]
 - [[Atomic Commit]]
-- [[Feature Branch]]
 - [[Branching Model]]
-
-## Related
+- [[Pull Request]]
+- [[Code Review]]
+- [[Version Control]]
+- [[Feature Branch]]
 - [[Staging Area]]
-- [[Gitflow]]
 - [[Git Bisect]]
 - [[Fast-Forward Merge]]
 - [[Git Blame]]
-- [[Git Stash]]
-- [[Interactive Rebase]]

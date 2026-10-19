@@ -19,20 +19,18 @@ Variants:
 - **Smishing** and voice phishing use text messages and phone calls, and QR codes now hide links in posters and letters.
 - **Consent phishing** asks the victim to approve a malicious app's access to their account, which works even with strong sign-in; see [[OAuth]].
 
-Deception happens at every layer. Sender addresses can be forged unless domains publish authentication records; see [[Email Authentication]] and [[Simple Mail Transfer Protocol]]. Lookalike domains swap letters or add words; see [[Typosquatting]]. A **homograph attack** uses characters from other alphabets that look identical, such as a Cyrillic "а" in place of a Latin "a." A 2017 demonstration registered a domain that displayed as a famous technology company's address in several browsers, which then began showing the encoded form of such names instead; see [[URL]]. Links on legitimate domains that forward elsewhere lend false credibility; see [[Open Redirect]]. Link previews can be faked; see [[Open Graph]]. The padlock icon proves only that the connection is encrypted, not who is on the other end, and free certificates mean most phishing sites now have one; see [[Transport Layer Security]].
+Deception happens at every layer. Sender addresses can be forged unless domains publish authentication records. Lookalike domains swap letters or add words. A **homograph attack** uses characters from other alphabets that look identical, such as a Cyrillic "а" in place of a Latin "a." A 2017 demonstration registered a domain that displayed as a famous technology company's address in several browsers, which then began showing the encoded form of such names instead; see [[URL]]. Links on legitimate domains that forward elsewhere lend false credibility; see [[Open Redirect]]. Link previews can be faked; see [[Open Graph]]. The padlock icon proves only that the connection is encrypted, not who is on the other end, and free certificates mean most phishing sites now have one.
 
 Urgency, authority, and fear do the rest, crowding out careful checking.
 
 Defenses that don't depend on people noticing work best:
 
-- **Domain-bound sign-in.** Security keys and passkeys refuse to sign in to the wrong site; see [[Passkey]]. One-time codes, by contrast, can be relayed; see [[Multi-Factor Authentication]].
+- **Domain-bound sign-in.** Security keys and passkeys refuse to sign in to the wrong site. One-time codes, by contrast, can be relayed; see [[Multi-Factor Authentication]].
 - **Password managers.** They fill passwords only on the domain where they were saved, so a refusal to autofill is a warning sign.
 - **Process.** Payment changes confirmed by phone through a known number.
 
-Training and simulated phishing campaigns are widespread, but studies find their effect modest and short-lived; see [[Fault Seeding]].
+Training and simulated phishing campaigns are widespread, but studies find their effect modest and short-lived.
 
 ## See also
-- [[URL Shortener]]
 - [[Remote Desktop]]
-- [[Domain Registrar]]
 - [[Internationalized Domain Name]]

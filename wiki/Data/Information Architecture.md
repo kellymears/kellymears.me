@@ -15,16 +15,12 @@ Two ideas do a lot of work. **Findability** is the property that a person can ge
 At scale the interesting problems become taxonomic: whether structure should be a hierarchy, a set of facets, or a graph of relationships. Content systems that model structural *role* separately from subject matter can recombine the same material for different audiences, which is exactly the modeling that a fixed hierarchy prevents. See [[Taxonomy]] and [[Knowledge Graph]].
 
 ## See also
+- [[Headless CMS]]
+- [[Rent Strike]]
+- [[Search Engine Optimization]]
+- [[Structured Data]]
+- [[Linguistic Relativity]]
 - [[Hamburger Menu]]
 - [[Sitemap]]
-- [[Headless CMS]]
-- [[Card Sorting]]
-- [[Rent Strike]]
-- [[Cognitive Map]]
-
-## Related
-- [[Archival Science]]
-- [[Transit Map]]
 - [[Breadcrumb]]
 - [[Dropdown Menu]]
-- [[Wireframe]]

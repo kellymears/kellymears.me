@@ -14,7 +14,7 @@ Common defensive habits include:
 - **Checking return values and errors** instead of assuming success.
 - **Guarding against nulls** and missing values.
 - **Handling every case**, including a default branch for states that "can't happen."
-- **Using safe operations**, such as bounds-checked access and overflow-checked arithmetic; see [[Integer Overflow]] and [[Memory Safety]].
+- **Using safe operations**, such as bounds-checked access and overflow-checked arithmetic.
 - **Copying inputs** so callers can't change data after it's been validated.
 - **Setting timeouts** on anything that waits.
 
@@ -30,9 +30,8 @@ The usual resolution is to distinguish **boundaries** from **internals**:
 
 A related principle, being liberal in what you accept, was once considered good defensive practice for protocols. Experience showed that tolerating malformed input encourages more of it and makes behavior hard to predict, so modern guidance favors strictness; see [[Postel's Law]].
 
-Defensive code needs testing too. The branches for bad input and failures are often the least exercised code in a program, and the most likely to be wrong when they finally run; see [[Fuzzing]] and [[Boundary Value Analysis]].
+Defensive code needs testing too. The branches for bad input and failures are often the least exercised code in a program, and the most likely to be wrong when they finally run.
 
 ## See also
-- [[Schiaparelli Lander Crash]]
 - [[Graceful degradation]]
 - [[Fail-Safe]]

@@ -18,7 +18,3 @@ Python and JavaScript blur reflection into the ordinary language, since `getattr
 - [[Compiler]]
 - [[Interpreter]]
 - [[Type Inference]]
-- [[Dynamic Dispatch]]
-- [[Lisp]]
-- [[Metaprogramming]]
-- [[Expression Problem]]

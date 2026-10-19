@@ -14,20 +14,13 @@ A second distortion is duplication. When the same source file is instrumented by
 Instrumentation also has its own failure modes to distinguish from real ones: a corrupted temporary directory produces errors that look like coverage collapse, and two concurrent runs in one working copy destroy each other's intermediate files.
 
 ## See also
-- [[Schiaparelli Lander Crash]]
-- [[Three Mile Island Accident]]
-- [[Crash Testing]]
-- [[Apollo 13]]
 - [[Branch Coverage]]
-- [[Mars Pathfinder Priority Inversion]]
-
-## Related
 - [[Reproducible Case]]
 - [[Vacuous Truth]]
 - [[Unreachable Code]]
-- [[Profiling]]
-- [[Time Series Database]]
-- [[eBPF]]
-- [[Distributed Tracing]]
+- [[Code Coverage]]
+- [[Observability]]
+- [[Resource Starvation]]
+- [[Flaky Test]]
+- [[Ground Truth]]
 - [[Logging]]
-- [[Runtime Verification]]

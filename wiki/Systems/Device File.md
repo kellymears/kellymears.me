@@ -7,18 +7,18 @@ tags:
   - systems
 summary: Special files that represent hardware and kernel services, letting programs read a disk, a mouse, or a stream of random bytes with the same calls they use on ordinary files.
 ---
-A **device file** is a special file that represents a piece of hardware or a kernel service. On Unix-like systems they live in the `/dev` directory. Reading `/dev/sda` reads the raw bytes of the first disk; writing to a terminal's device file prints on it. This is the clearest expression of the Unix idea that everything is a file: programs reach devices with the same open, read, and write calls they use for ordinary files; see [[System Call]] and [[File Descriptor]].
+A **device file** is a special file that represents a piece of hardware or a kernel service. On Unix-like systems they live in the `/dev` directory. Reading `/dev/sda` reads the raw bytes of the first disk; writing to a terminal's device file prints on it. This is the clearest expression of the Unix idea that everything is a file: programs reach devices with the same open, read, and write calls they use for ordinary files; see [[System Call]].
 
 There are two main kinds:
 
-- **Block devices** represent storage, read and written in fixed-size blocks at any position. The kernel buffers them in memory; see [[Page Cache]]. Disks and each of their partitions appear as block devices; see [[Disk Partition]].
+- **Block devices** represent storage, read and written in fixed-size blocks at any position. The kernel buffers them in memory; see [[Page Cache]]. Disks and each of their partitions appear as block devices.
 - **Character devices** carry a stream of bytes, such as terminals, serial ports, sound cards, and input devices; see [[Pseudoterminal]].
 
 A device file holds no data. Its [[Inode]] stores two numbers: a major number identifying the driver and a minor number identifying which device it handles. Opening the file hands the request to that driver inside the [[Kernel]]. Operations that don't fit reading and writing, such as ejecting a disc or setting a serial port's speed, go through a catch-all call named ioctl.
 
 Some device files have no hardware behind them:
 
-- `/dev/null` discards everything written to it and returns nothing when read, the standard place to throw away output; see [[Unix Pipeline]].
+- `/dev/null` discards everything written to it and returns nothing when read, the standard place to throw away output.
 - `/dev/zero` produces endless zero bytes, used to fill files or wipe disks.
 - `/dev/urandom` produces random bytes from the kernel's generator; see [[Pseudorandom Number Generator]].
 

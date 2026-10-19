@@ -14,18 +14,16 @@ Two hazards recur. **Deferral changes timing, and timing is observable.** A scri
 Lazy loading interacts with perceived performance rather than just measured performance: something loading late is only an improvement if the page is usable meanwhile, which is what [[Skeleton Screen|skeleton states]] and streaming boundaries provide.
 
 ## See also
-- [[Texture Streaming]]
 - [[Critical Rendering Path]]
+- [[Code Splitting]]
+- [[Core Web Vitals]]
+- [[Islands Architecture]]
+- [[React Server Components]]
+- [[Streaming Response]]
+- [[Server-Side Rendering]]
+- [[Performance Budget]]
 - [[Data URI]]
-- [[Speculation Rules]]
 - [[Hotlinking]]
-- [[Resumability]]
 - [[Responsive Images]]
 - [[Pagination]]
-
-## Related
 - [[Above the Fold]]
-- [[Layout Shift]]
-- [[Intersection Observer]]
-- [[Iframe]]
-- [[Masonry Layout]]

@@ -20,7 +20,7 @@ Jeff Dean and Luiz André Barroso described this in "The Tail at Scale" (2013), 
 Causes of tail latency are usually brief and random rather than steady:
 
 - **Pauses.** [[Garbage Collection]] stops, background jobs, and log rotation.
-- **Queueing.** A burst briefly fills a queue, or a slow item blocks those behind it, [[Head-of-Line Blocking]].
+- **Queueing.** A burst briefly fills a queue, or a slow item blocks those behind it, Head-of-Line Blocking.
 - **Contention.** Noisy neighbors on shared hardware, lock waits, and a saturated [[Connection Pool]].
 - **Cold paths.** A cache miss, a cold start, or a retransmitted packet in [[TCP and UDP]].
 
@@ -31,11 +31,9 @@ Dean and Barroso's remedies accept that variability can't be eliminated and work
 - **Load-aware routing.** [[Load Balancing]] that prefers the least busy server, or picks the better of two at random, avoids sending work to a slow one.
 - **Timeouts and degradation.** Return a partial answer instead of waiting for the last backend.
 
-Measuring the tail takes care. Percentiles can't be averaged across servers, and many tools measure only from when a request was served rather than when it was sent, hiding queueing time, a flaw Gil Tene called *coordinated omission*. Good [[Observability]] keeps full histograms. Tail percentiles are the usual target of a [[Performance Budget]] and of [[Load Testing]], and [[Core Web Vitals]] are judged at the 75th percentile of real visits for a similar reason.
+Measuring the tail takes care. Percentiles can't be averaged across servers, and many tools measure only from when a request was served rather than when it was sent, hiding queueing time, a flaw Gil Tene called *coordinated omission*. Good [[Observability]] keeps full histograms. Tail percentiles are the usual target of a [[Performance Budget]] and of Load Testing, and [[Core Web Vitals]] are judged at the 75th percentile of real visits for a similar reason.
 
 ## See also
-- [[Nagle's Algorithm]]
-- [[Gray Failure]]
-- [[Inference Serving]]
-- [[Hedged Requests]]
-- [[Slashdot Effect]]
+- [[Big-O Notation]]
+- [[Failure Detection]]
+- [[Timeout]]

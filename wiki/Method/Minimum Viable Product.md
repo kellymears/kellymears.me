@@ -14,19 +14,9 @@ The core discipline is naming the assumption being tested *before* deciding what
 MVP is often confused with "prototype" or "beta," but neither of those implies the same commitment to learning from real usage — a prototype can be thrown away after a demo, an MVP is supposed to generate data that changes the next decision. It's the practical expression of [[Gall's Law]] applied to product strategy: start with something that works at a small scale, and let the complex version grow from what that teaches you.
 
 ## See also
-- [[You Aren't Gonna Need It]]
-- [[Shape Up]]
-- [[Diffusion of Innovations]]
 - [[Worse Is Better]]
-
-## Related
-- [[Walking Skeleton]]
+- [[Feature Creep]]
+- [[Second-System Effect]]
+- [[Fermi Estimation]]
 - [[Acceptance Testing]]
-- [[Game Jam]]
 - [[User Story]]
-- [[PDCA Cycle]]
-- [[Jobs to Be Done]]
-- [[Persona]]
-- [[Crowdfunding]]
-- [[Design Thinking]]
-- [[Cone of Uncertainty]]

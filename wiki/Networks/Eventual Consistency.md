@@ -17,17 +17,10 @@ A specific, easily-missed instance: a cache whose scope is a single process beha
 
 ## See also
 - [[Conflict-Free Replicated Data Type]]
-- [[Edge Computing]]
 - [[Peer-to-Peer]]
-- [[Blockchain]]
-- [[Saga Pattern]]
-- [[Logical Clock]]
-- [[Gossip Protocol]]
-
-## Related
 - [[WebRTC]]
 - [[Signaling Server]]
-- [[Command Query Responsibility Segregation]]
 - [[Write-Ahead Logging]]
+- [[Idempotence]]
+- [[Determinism]]
 - [[Key-Value Store]]
-- [[Local-First Software]]

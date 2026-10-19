@@ -14,18 +14,16 @@ It also explains why a small, rarely-used icon (say, a settings gear) is an acce
 Fitts's Law pairs naturally with [[Hick's Law]] — one governs how long it takes to move to a choice, the other how long it takes to decide among choices — and together they cover most of the time-cost side of interaction design.
 
 ## See also
-- [[Slider]]
 - [[Affordance]]
+- [[Progressive Disclosure]]
+- [[Keyboard Navigation]]
+- [[Gestalt Principles]]
+- [[Slider]]
 - [[Call to Action]]
-- [[Gesture]]
 - [[Tiling Window Manager]]
 - [[Bottom Sheet]]
-
-## Related
 - [[Pointer Events]]
 - [[Dropdown Menu]]
 - [[Direct Manipulation]]
 - [[Layout Shift]]
-- [[Natural Mapping]]
 - [[Context Menu]]
-- [[Reaction Time]]

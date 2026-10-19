@@ -15,16 +15,10 @@ There is also an environmental cost worth knowing about. A unit test that import
 
 ## See also
 - [[Integration Test]]
-- [[Humble Object]]
 - [[Test-Driven Development]]
 - [[Component Story]]
-- [[Test Pyramid]]
-- [[Test Isolation]]
-- [[Goto Fail]]
-- [[Characterization Test]]
-
-## Related
 - [[Test Fixture]]
 - [[Regression]]
 - [[Module Graph]]
-- [[Spreadsheet Error]]
+- [[Property-Based Testing]]
+- [[Test Isolation]]

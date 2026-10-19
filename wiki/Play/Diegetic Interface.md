@@ -15,11 +15,7 @@ The costs are real and mostly [[Accessibility]] costs. Diegetic text is small, a
 There is a middle category worth naming. **Spatial** interfaces are drawn in the world but invisible to the character — a waypoint standing in the scene, an outline on an interactive object. These keep most of the continuity benefit while dodging the legibility problem, and they are where most contemporary design lands, the [[Immersive Sim]] especially. What separates a good spatial cue from a bad one is what separates good [[Motion Design]] from decoration: whether it appears because the player needs it now, or because it was easier to leave on.
 
 ## See also
-- [[Walking Simulator]]
 - [[Heads-Up Display]]
 - [[Game Feel]]
 - [[Cutscene]]
 - [[UI Primitive]]
-- [[Adaptive Music]]
-- [[Virtual Reality]]
-- [[Escape Room]]

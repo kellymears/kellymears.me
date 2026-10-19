@@ -16,17 +16,11 @@ Two mechanical notes. Changing only the target branch of a pull request does not
 
 ## See also
 - [[Law of Triviality]]
-- [[Gitflow]]
-- [[Code of Conduct]]
-- [[Software Forge]]
-- [[Good First Issue]]
 - [[Branching Model]]
-
-## Related
-- [[Email Patch Workflow]]
 - [[Merge Train]]
-- [[Gerrit]]
-- [[Ephemeral Environment]]
-- [[Code Owners]]
-- [[Peer Review]]
+- [[Code Review]]
+- [[Continuous Integration]]
+- [[Human in the Loop]]
+- [[Trunk-Based Development]]
+- [[Provenance]]
 - [[Branch Protection]]

@@ -20,16 +20,12 @@ Much of what makes CSV painful is what it leaves out:
 - **No single delimiter.** In locales that write decimals with a comma, such as much of Europe, spreadsheets use semicolons instead. Tab-separated values avoid the problem when fields never contain tabs.
 - **No schema.** Columns can be added, reordered, or renamed between exports without warning, a common source of [[Schema Drift]].
 
-Spreadsheets add their own damage when they open a CSV and guess types. Long numeric IDs lose digits as [[Floating-Point Arithmetic]] or display in scientific notation, ZIP codes and phone numbers lose leading zeros, and text that looks like a date becomes one. Genetics suffered the most visible case: Excel turned gene symbols such as SEPT2 and MARCH1 into dates, corrupting published supplementary data so often that in 2020 the HUGO Gene Nomenclature Committee renamed 27 human genes rather than wait for spreadsheet software to change.
+Spreadsheets add their own damage when they open a CSV and guess types. Long numeric IDs lose digits as Floating-Point Arithmetic or display in scientific notation, ZIP codes and phone numbers lose leading zeros, and text that looks like a date becomes one. Genetics suffered the most visible case: Excel turned gene symbols such as SEPT2 and MARCH1 into dates, corrupting published supplementary data so often that in 2020 the HUGO Gene Nomenclature Committee renamed 27 human genes rather than wait for spreadsheet software to change.
 
 **CSV injection** is the security version. A field beginning with `=`, `+`, `-`, or `@` may be executed as a formula when an exported file is opened in a spreadsheet, so an attacker who controls a name field can plant a formula that runs on an administrator's machine. Exporters defend by prefixing such fields with a quote, a cousin of the escaping that prevents [[SQL Injection]].
 
-For anything beyond simple interchange, better formats exist: JSON Lines for records with nested fields, and Parquet, a form of [[Columnar Storage]], for large analytical data with real types and compression.
+For anything beyond simple interchange, better formats exist: JSON Lines for records with nested fields, and Parquet, a form of Columnar Storage, for large analytical data with real types and compression.
 
 ## See also
-- [[Serialization]]
-- [[Data Portability]]
-- [[Tidy Data]]
-- [[Fixed-Width File]]
-- [[JSON]]
-- [[Mojibake]]
+- [[Seed Data]]
+- [[Line Ending]]

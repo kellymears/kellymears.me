@@ -33,8 +33,5 @@ On large networks mDNS gets chatty, since every query reaches every device, so e
 Smart-home protocols such as Matter use DNS-SD over mDNS to find devices on the local network, an example of the decentralized, [[Peer-to-Peer]] design the protocol family made routine.
 
 ## See also
-- [[Virtual LAN]]
 - [[Multicast]]
 - [[Subnet]]
-- [[Universal Plug and Play]]
-- [[Service Discovery]]

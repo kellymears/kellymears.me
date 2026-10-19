@@ -12,17 +12,9 @@ The mechanism is engagement optimization applied at scale: a feed ranks content 
 The empirical picture is more contested than the popular story: several large studies have found the average person's information diet is only modestly more homogeneous online than off, and that active choice (which outlets to follow, which communities to join) does at least as much of the narrowing as the algorithm does. The useful version of the concept isn't "algorithms make everyone extreme" — it's that personalization removes the friction that used to force people through a shared, unfiltered front page, and shifts more of the diet's shape onto choices, both the algorithm's and the person's own, that are individually invisible.
 
 ## See also
-- [[Clickbait]]
-- [[Sentiment Analysis]]
 - [[Third-Person Effect]]
-- [[Hashtag]]
-- [[Motivated Reasoning]]
-- [[Rabbit Hole]]
-- [[Webring]]
-- [[Deepfake]]
-- [[Strength of Weak Ties]]
-- [[Algorithmic Feed]]
-- [[Social Capital]]
-- [[Agenda-Setting]]
+- [[Spiral of Silence]]
+- [[Availability Cascade]]
+- [[Network Effect]]
+- [[Doomscrolling]]
 - [[Web Search Engine]]
-- [[Social Media]]

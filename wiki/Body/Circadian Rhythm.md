@@ -15,16 +15,5 @@ Circadian timing governs far more than sleep: core body temperature, cortisol, a
 
 ## See also
 - [[Segmented Sleep]]
-- [[Chronotype]]
 - [[Retronasal Olfaction]]
-- [[Seasons]]
-- [[Napping]]
-- [[Daylight Saving Time]]
-- [[Time Perception]]
-- [[Restless Legs Syndrome]]
-- [[Jet Lag]]
-- [[Liver]]
-- [[Eclipse]]
-- [[Menstrual Cycle]]
-- [[Microsleep]]
-- [[Sleep Paralysis]]
+- [[Thermoregulation]]

@@ -20,14 +20,10 @@ They became the basic vocabulary of digital shape:
 - **Animation.** Animation software uses Bézier curves to shape how values change over time. CSS's `cubic-bezier()` timing function defines [[Easing]] with two control points, a staple of [[Motion Design]].
 - **Paths in games.** Camera rails, racing lines, and projectile arcs are often Bézier or related spline curves.
 
-Their usefulness comes from a few properties. Moving a control point changes the curve predictably and locally. The curve always stays inside the polygon formed by its control points, which makes bounds checks cheap. And curves are easy to split, which renderers use to break them into straight lines fine enough to pass to [[Rasterization]] without visible corners or [[Aliasing]].
+Their usefulness comes from a few properties. Moving a control point changes the curve predictably and locally. The curve always stays inside the polygon formed by its control points, which makes bounds checks cheap. And curves are easy to split, which renderers use to break them into straight lines fine enough to pass to [[Rasterization]] without visible corners or Aliasing.
 
 Related curves handle cases Béziers handle poorly. B-splines and NURBS, used in industrial CAD, keep smoothness automatically across many segments, and Catmull–Rom splines pass through every control point, which suits animation paths through fixed positions. Modern text renderers sometimes convert outlines into a [[Signed Distance Field]] or evaluate curves directly in a [[Shader]], so glyphs stay crisp at any zoom.
 
 ## See also
-- [[Calligraphy]]
-- [[Utah Teapot]]
-- [[NURBS]]
 - [[Keyframe Animation]]
 - [[Web Animations API]]
-- [[Art Nouveau]]

@@ -24,4 +24,3 @@ Practical hazards are those of any plugin system. Loading is by convention — a
 - [[Tool Use]]
 - [[Prompt]]
 - [[Provenance]]
-- [[Context Engineering]]

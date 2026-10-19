@@ -21,12 +21,5 @@ Poor pacing has several common causes:
 The general lesson applies outside graphics: for interactive systems, **variance matters more than the mean**. The same holds for network [[Latency and Jitter]], for [[Core Web Vitals]] measured at the 75th percentile, and for any [[Performance Budget]] stated as a deadline rather than an average. [[Frame Generation]] can raise the average while leaving the underlying pacing unchanged, so its numbers need care.
 
 ## See also
-- [[Sense of Agency]]
-- [[Dynamic Resolution Scaling]]
-- [[Swap Chain]]
 - [[Frame Rate]]
 - [[Debounce and Throttle]]
-- [[Racing the Beam]]
-- [[Texture Streaming]]
-- [[Interlacing]]
-- [[Screen Tearing]]

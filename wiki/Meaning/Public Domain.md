@@ -17,7 +17,7 @@ Copyright was designed as a temporary monopoly, granted to encourage creation, a
 
 The 1998 law was nicknamed the **Mickey Mouse Protection Act**, because Disney lobbied for it as its earliest Mickey Mouse films approached expiry; critics saw it as [[Rent-Seeking]] by rights holders at public expense; see [[Regulatory Capture]]. Because the extension applied retroactively, almost no published works entered the American public domain from 1999 until 2019. The Supreme Court upheld the law in *Eldred v. Ashcroft* (2003). Since 2019, a new year of works has entered every January 1, celebrated as **Public Domain Day**; the 1928 version of Mickey Mouse in *Steamboat Willie* entered in 2024.
 
-Supporters of shorter terms make several arguments. Culture builds on earlier work, and Disney's own films drew heavily on public-domain stories. Most works stop earning money within a few years, yet long terms keep them locked up. Many become **orphan works**, whose owners can't be found, so libraries and archives can't legally copy or restore them even as the originals decay; see [[Digital Preservation]] and [[Game Preservation]]. Early films, recordings, and software are especially at risk; see [[Link Rot]].
+Supporters of shorter terms make several arguments. Culture builds on earlier work, and Disney's own films drew heavily on public-domain stories. Most works stop earning money within a few years, yet long terms keep them locked up. Many become **orphan works**, whose owners can't be found, so libraries and archives can't legally copy or restore them even as the originals decay; see [[Game Preservation]]. Early films, recordings, and software are especially at risk.
 
 Unlike a field or a fishery, the public domain can't be overused, because copying a book doesn't use it up; see [[Tragedy of the Commons]]. Its problem is the reverse: works that could be shared freely are kept out. Volunteer projects such as Project Gutenberg, founded in 1971, and Wikipedia make public-domain texts and images widely available; see [[Commons-Based Peer Production]] and [[Wiki]].
 
@@ -26,7 +26,5 @@ Creators can also place their own work in or near the public domain by dedicatin
 Similar debates surround patents, software that can't legally be repaired, and old games that can no longer be bought; see [[Right to Repair]] and [[Emulation]].
 
 ## See also
-- [[OpenStreetMap]]
-- [[Freedom of Information]]
-- [[Gopher]]
-- [[Monopoly]]
+- [[SQLite]]
+- [[Internet Archive]]

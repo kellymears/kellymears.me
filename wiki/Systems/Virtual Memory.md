@@ -22,11 +22,6 @@ The consequence that surprises people is **overcommit**. Since allocation reserv
 The same design appears wherever a fixed pool has to be shared among variable demands. Inference engines page a model's [[KV Cache]] into fixed blocks for exactly the reasons the kernel pages RAM: no fragmentation, and allocation on demand.
 
 ## See also
-- [[Address Space Layout Randomization]]
-- [[Translation Lookaside Buffer]]
-- [[Time-Sharing]]
-- [[Rowhammer]]
-- [[Protection Ring]]
-- [[Position-Independent Code]]
-- [[Memory Allocator]]
-- [[Texture Streaming]]
+- [[Inter-Process Communication]]
+- [[Pressure Stall Information]]
+- [[System Call]]

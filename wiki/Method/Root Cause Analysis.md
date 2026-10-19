@@ -14,13 +14,7 @@ Root cause work depends on [[Ground Truth]]. A hypothesis about a cause is worth
 The same instinct applies one level up. When a fix introduces a [[Regression]], the interesting question is not "what broke" but "what about the way I fixed it made this breakable". Fixing the substrate rather than the symptom is what keeps [[Technical Debt]] from compounding.
 
 ## See also
-- [[Deepwater Horizon Disaster]]
-- [[Ariane 5 Flight 501]]
-- [[Equifax Data Breach]]
-- [[Galaxy Note 7 Recall]]
-- [[Just Culture]]
-- [[Control Chart]]
-- [[Mars Climate Orbiter]]
-- [[Scientific Debugging]]
-- [[Andon Cord]]
-- [[Sinking of the Vasa]]
+- [[Falsifiability]]
+- [[Reproducible Case]]
+- [[Silent Failure]]
+- [[Plausible Mechanism]]

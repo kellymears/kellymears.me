@@ -24,10 +24,5 @@ Userspace OOM daemons (earlyoom, systemd-oomd) act earlier, using [[Pressure Sta
 
 ## See also
 - [[Dynamic Random-Access Memory]]
-- [[Memory Leak]]
-- [[In-Memory Database]]
 - [[Systemd]]
-- [[Resource Limit]]
 - [[Exit Status]]
-- [[Process Priority]]
-- [[Unix Signal]]

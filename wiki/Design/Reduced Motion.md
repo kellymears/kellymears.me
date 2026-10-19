@@ -16,20 +16,18 @@ Animation libraries commonly offer a global reduced-motion setting, but such set
 Test environments frequently emulate the preference by default, which means every animation assertion in an automated run is exercising the reduced path. A story asserting that something animates can only assert the settled end state, and asserting an identity transform means matching the explicit identity matrix rather than the absence of a transform.
 
 ## See also
-- [[Motion Sickness]]
-- [[Parallax Scrolling]]
-- [[Closed Captions]]
 - [[Staggered Animation]]
+- [[contenteditable]]
+- [[Motion Design]]
+- [[Accessibility]]
+- [[Component Story]]
+- [[Easing]]
+- [[Color Contrast]]
+- [[Progressive Enhancement]]
+- [[Focus Management]]
+- [[Stacking Context]]
 - [[Accordion]]
-- [[LED Flicker]]
-
-## Related
-- [[Virtual Reality]]
 - [[Carousel]]
 - [[Web Animations API]]
-- [[contenteditable]]
 - [[Glassmorphism]]
-- [[Motion Blur]]
 - [[Skeleton Screen]]
-- [[View Transitions]]
-- [[Scroll-Driven Animations]]

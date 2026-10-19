@@ -15,20 +15,9 @@ This is easy to say and surprisingly easy to violate in the writing, not just th
 Blamelessness is not the same as consequence-free — a genuine pattern of disregard for known procedure is a different problem, addressed differently and separately from the incident review whose only job is to find out what the system let happen.
 
 ## See also
-- [[DevOps]]
-- [[Capability Maturity Model]]
-- [[Mean Time to Recovery]]
 - [[Hanlon's Razor]]
-- [[Apollo 1 Fire]]
-- [[Gimli Glider]]
-
-## Related
-- [[Therac-25]]
-- [[GitLab Database Incident]]
-- [[Post Office Horizon Scandal]]
-- [[Status Page]]
-- [[Site Reliability Engineering]]
-- [[ChatOps]]
-- [[Just Culture]]
-- [[Bug Triage]]
-- [[Tenerife Airport Disaster]]
+- [[Root Cause Analysis]]
+- [[Five Whys]]
+- [[Silent Failure]]
+- [[Fundamental Attribution Error]]
+- [[Bus Factor]]

@@ -17,15 +17,13 @@ There are several approaches, in roughly historical order:
 - **Server-sent events.** One long HTTP response stays open and the server writes events down it as they happen, as described in [[Streaming Response]]. It's one-way, server to client, and reconnects automatically.
 - **[[WebSocket]].** A full two-way connection upgraded from HTTP, for chat, games, and collaborative editing.
 
-Long polling has costs that pushed the web toward the later options. Each waiting client holds a connection and, on older thread-per-request servers, a whole thread, so a server with thousands of idle listeners exhausted its resources. That pressure drove the move to servers built on an [[Event Loop]], which can hold many quiet connections cheaply. Messages can also be lost or duplicated in the gap between one response and the next request, so clients usually send the ID of the last event they saw, and the system needs the [[Delivery Guarantees]] thinking that any messaging does.
+Long polling has costs that pushed the web toward the later options. Each waiting client holds a connection and, on older thread-per-request servers, a whole thread, so a server with thousands of idle listeners exhausted its resources. That pressure drove the move to servers built on an [[Event Loop]], which can hold many quiet connections cheaply. Messages can also be lost or duplicated in the gap between one response and the next request, so clients usually send the ID of the last event they saw, and the system needs the Delivery Guarantees thinking that any messaging does.
 
 Polling hasn't gone away. It survives proxies and [[Firewall]] rules that break long-lived connections, it needs no special server support, and it's stateless, so any server behind a [[Load Balancing]] layer can answer. Many systems combine the two: a push channel for speed and an occasional poll to catch anything missed. Between servers, a [[Webhook]] reverses the direction entirely, so the provider calls the consumer instead.
 
-Polling well means being polite. Clients should back off when nothing changes or the server struggles, using [[Exponential Backoff]] with random jitter, since thousands of clients polling in lockstep produce a [[Thundering Herd]]. Browsers throttle timers in hidden tabs, which slows polling too, a deliberate saving described in [[Background Tab Throttling]].
+Polling well means being polite. Clients should back off when nothing changes or the server struggles, using [[Exponential Backoff]] with random jitter, since thousands of clients polling in lockstep produce a thundering herd. Browsers throttle timers in hidden tabs, which slows polling too, a deliberate saving described in [[Background Tab Throttling]].
 
 ## See also
 - [[File Watching]]
-- [[Instant Messaging]]
 - [[MQTT]]
 - [[Optimistic UI]]
-- [[Web Push]]

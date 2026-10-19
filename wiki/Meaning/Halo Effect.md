@@ -12,18 +12,8 @@ The mechanism is a shortcut: forming a separate, evidence-based judgment about e
 The effect is worth distinguishing from ordinary correlation, where traits really do travel together for a substantive reason; the halo effect specifically names the case where the correlation is manufactured by the rater's own economy of judgment rather than by anything true about the person being rated. It matters most wherever a snap impression precedes a slower, supposedly independent evaluation — a resume photo before a competency review, a charismatic founder before a business-model review — because the later, "rational" evaluation is already contaminated by the earlier one, a bias management researcher Phil Rosenzweig has argued distorts a lot of business writing about what makes companies succeed.
 
 ## See also
-- [[Decision Matrix]]
-- [[Intelligence Quotient]]
-- [[Online Review]]
 - [[Confidence Trick]]
-- [[Serial Position Effect]]
-- [[Aesthetic-Usability Effect]]
-- [[Moral Licensing]]
-- [[Veblen Good]]
-- [[Death of the Author]]
-- [[Misattribution of Arousal]]
-- [[Social Identity Theory]]
-- [[Radar Chart]]
-- [[Delphi Method]]
-- [[Cultural Capital]]
-- [[Narrative Fallacy]]
+- [[Parasocial Relationship]]
+- [[Fundamental Attribution Error]]
+- [[Social Proof]]
+- [[Online Review]]

@@ -31,6 +31,3 @@ Each fix removes the branch rather than testing it, which is the distinction tha
 - [[Silent Failure]]
 - [[Instrumentation]]
 - [[Goodhart's Law]]
-- [[Linker]]
-- [[Knight Capital Incident]]
-- [[Goto Fail]]

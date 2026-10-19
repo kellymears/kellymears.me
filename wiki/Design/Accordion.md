@@ -9,13 +9,13 @@ summary: A stack of headings that each expand to reveal a section of content, sa
 ---
 **An accordion** is a vertical stack of headings, each of which expands to reveal its content when clicked and collapses again when clicked a second time. A single expanding section is often called a disclosure widget; a group of them is an accordion, after the instrument's folding bellows. Some accordions let several sections stay open at once; others close one section when another opens.
 
-The pattern is a form of [[Progressive Disclosure]]. A page of frequently asked questions can show twenty questions on one screen and let readers open only the ones they care about. On phones, where vertical space is scarce, accordions compress long pages of settings, product details, or navigation; see [[Responsive Web Design]].
+The pattern is a form of [[Progressive Disclosure]]. A page of frequently asked questions can show twenty questions on one screen and let readers open only the ones they care about. On phones, where vertical space is scarce, accordions compress long pages of settings, product details, or navigation.
 
 Hiding content has costs, and usability researchers at the Nielsen Norman Group have long cautioned against overusing it:
 
-- **People read less of what's hidden.** Readers have to guess from a heading whether a section contains what they want; vague headings fail them; see [[Information Scent]].
+- **People read less of what's hidden.** Readers have to guess from a heading whether a section contains what they want; vague headings fail them.
 - **Find in page fails.** A browser's search typically can't find text in a closed section, so a reader searching for a word may conclude it isn't there.
-- **Comparison suffers.** If opening one section closes another, readers can't look at two at once, and have to hold one in memory; see [[Working Memory]].
+- **Comparison suffers.** If opening one section closes another, readers can't look at two at once, and have to hold one in memory.
 - **Pages jump.** Opening a section pushes everything below it down, which can move what the reader was about to click; see [[Layout Shift]].
 
 A rule of thumb is that accordions suit content where readers need a few sections, not most of them. If most readers will open everything, a long page with clear headings and a table of contents works better.

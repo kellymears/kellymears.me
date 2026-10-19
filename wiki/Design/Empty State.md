@@ -19,7 +19,7 @@ Empty states come in a few kinds, each with a different job:
 
 A good empty state usually has three parts: a short explanation of what would normally appear here, a reason it's empty if not obvious, and a clear next step, often a single primary button. Empty states are a natural place for [[Progressive Disclosure]], introducing a feature just when the user first meets it rather than in an upfront tour.
 
-Empty states shape a user's [[Mental Model]] of the product. An empty screen with a helpful prompt teaches what the product does; a blank one suggests something is broken. The screen should also offer a clear [[Affordance]]: what can be done here and how.
+Empty states shape a user's mental model of the product. An empty screen with a helpful prompt teaches what the product does; a blank one suggests something is broken. The screen should also offer a clear [[Affordance]]: what can be done here and how.
 
 Practical points:
 
@@ -33,9 +33,5 @@ Writing matters as much as layout. The text should be brief, specific, and in pl
 ## See also
 - [[Progress Indicator]]
 - [[Onboarding]]
-- [[Mental Model]]
 - [[Affordance]]
-- [[Faceted Search]]
 - [[Error Message]]
-- [[Wireframe]]
-- [[Microcopy]]

@@ -12,10 +12,4 @@ summary: ZA/UM's 2019 role-playing game that resolves its story through dice-rol
 The game is often cited for treating [[Ludonarrative Dissonance]] as solved, since its skills literally are its story; that reputation outlasted ZA/UM's original form — ownership passed through a disputed sale, and Kurvitz and several principal writers left in 2021. Disco Elysium remains a game built almost entirely from conversation, down to an [[Achievement Hunting|achievement]] list — 24 at release, 45 after the Final Cut — that mostly records what was said rather than what was defeated.
 
 ## See also
-- [[Walking Simulator]]
-- [[Empathy]]
-- [[Dialogue Tree]]
-- [[Morality System]]
-- [[Tabletop Role-Playing Game]]
-- [[Interactive Fiction]]
-- [[Point-and-Click Adventure]]
+- [[Branching Narrative]]

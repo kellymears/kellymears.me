@@ -14,18 +14,10 @@ The simplest scheme is **discrete LOD**: an artist or a decimation tool prebakes
 The same idea generalizes past meshes: **impostors** replace a whole complex object with a flat, camera-facing billboard rendered from a precomputed image, and audio, physics, and AI systems apply their own versions of level of detail — a distant NPC gets a cruder simulation because no one is close enough to notice the difference.
 
 ## See also
-- [[Foveated Rendering]]
-- [[NURBS]]
-- [[Portal Rendering]]
-- [[Morph Target]]
+- [[Ray Tracing]]
+- [[Rasterization]]
+- [[Physically Based Rendering]]
+- [[Procedural Generation]]
+- [[Performance Budget]]
 - [[Hysteresis]]
-- [[Billboarding]]
-- [[GPU Instancing]]
-- [[Mesh Simplification]]
-- [[Texture Streaming]]
-- [[Tessellation]]
-- [[Eye Tracking]]
-- [[Terrain Generation]]
 - [[Virtual Scrolling]]
-- [[Virtualized Geometry]]
-- [[Game Engine]]

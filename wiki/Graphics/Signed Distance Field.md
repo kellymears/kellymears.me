@@ -19,16 +19,7 @@ SDFs also back most GPU and game-engine text rendering (Valve's 2007 technique a
 - [[Marching Cubes]]
 - [[Voxel]]
 - [[Shader]]
-- [[Font Rendering]]
 
 ## Related
 - [[Procedural Generation]]
 - [[Vector Graphics]]
-- [[Perlin Noise]]
-- [[Ray Marching]]
-- [[Demoscene]]
-- [[Constructive Solid Geometry]]
-- [[Newton's Method]]
-- [[Metaballs]]
-- [[Domain Warping]]
-- [[Calligraphy]]

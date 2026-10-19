@@ -12,21 +12,16 @@ The pairings matter as much as the sizes. *Leading* (line height) should tighten
 
 Scale is also contextual. Application chrome — toolbars, menus, controls — generally wants a compact scale that is quite different from content typography, and menus should match the control that opened them. Mixing content scale into chrome makes an interface feel bloated; mixing chrome scale into content makes it feel cramped.
 
-Measure [[Line Length|line length]] too. Readability falls off sharply beyond roughly seventy-five characters, and in a terminal or a narrow column it must be derived from the available width rather than assumed. See [[Terminal User Interface]].
+Measure line length too. Readability falls off sharply beyond roughly seventy-five characters, and in a terminal or a narrow column it must be derived from the available width rather than assumed. See [[Terminal User Interface]].
 
 ## See also
-- [[Fibonacci Sequence]]
-- [[Drop Cap]]
 - [[Web Font Loading]]
-- [[Lorem Ipsum]]
-
-## Related
 - [[Utility-First CSS]]
-- [[Presbyopia]]
 - [[UI Primitive]]
-- [[Logarithmic Scale]]
-- [[Golden Ratio]]
-- [[Paper Size]]
-- [[Helvetica]]
-- [[Optical Alignment]]
-- [[Movable Type]]
+- [[Design System]]
+- [[Design Token]]
+- [[Plain Language]]
+- [[Naming]]
+- [[Taxonomy]]
+- [[Silent Failure]]
+- [[Lorem Ipsum]]

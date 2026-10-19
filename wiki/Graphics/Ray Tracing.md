@@ -15,20 +15,10 @@ Both approaches live or die on acceleration structures. Testing every ray agains
 Real-time ray tracing in games is almost never pure — it is a hybrid where rasterization draws the primary visible surfaces cheaply and ray tracing is reserved for a few expensive effects (reflections, ambient occlusion, global illumination), run at reduced sample counts and cleaned up with a denoiser trained to hallucinate a plausible converged image from a noisy one.
 
 ## See also
-- [[Ray Casting]]
-- [[Screen Space Reflections]]
-- [[Importance Sampling]]
-- [[Portal Rendering]]
-- [[Shadow Volume]]
-- [[Caustics]]
-- [[Bilateral Filter]]
-- [[Radiosity]]
+- [[Rasterization]]
+- [[Physically Based Rendering]]
+- [[Signed Distance Field]]
+- [[Level of Detail]]
+- [[Seeded Randomness]]
+- [[Determinism]]
 - [[Denoising]]
-- [[Low-Discrepancy Sequence]]
-
-## Related
-- [[Blue Noise]]
-- [[Reverberation]]
-- [[Utah Teapot]]
-- [[Subsurface Scattering]]
-- [[Baked Lighting]]

@@ -21,12 +21,12 @@ The model's costs come from moving the browser's job into application code:
 - **Broken basics.** Back and forward buttons, scroll restoration, the loading indicator and opening links in new tabs all have to be reimplemented, and are often done badly.
 - **Accessibility.** A screen reader announces a new page load but not a DOM swap. Each route change needs deliberate [[Focus Management]] and an announcement.
 - **Crawlers.** Content rendered only in JavaScript is indexed late or not at all, a problem for [[Search Engine Optimization]].
-- **Long sessions.** A tab that stays open for days accumulates listeners and caches, so a [[Memory Leak]] that a page load would have cleared keeps growing.
+- **Long sessions.** A tab that stays open for days accumulates listeners and caches, so a memory leak that a page load would have cleared keeps growing.
 
 In return, navigation after the first load can be instant. Shared layout stays mounted, state survives between views, and techniques like [[Optimistic UI]] and prefetching make the app feel local.
 
 The pendulum has since swung back toward the server. [[Server-Side Rendering]] with [[Hydration]] sends real HTML first and adds the SPA behavior after. [[Islands Architecture]] hydrates only the interactive parts, and [[React Server Components]] move rendering back across the client-server boundary. Meanwhile browsers have closed the gap for MPAs: [[View Transitions]] animate between full page loads, and the back/forward cache restores pages instantly. Many sites now use a hybrid, rendering documents on the server and navigating like an SPA, built on [[Progressive Enhancement]]. The label now describes a spectrum more than a category.
 
 ## See also
-- [[Micro-Frontends]]
-- [[Fragment Identifier]]
+- [[URL]]
+- [[Screen Reader]]

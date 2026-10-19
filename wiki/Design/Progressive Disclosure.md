@@ -14,17 +14,12 @@ The failure mode is disclosure that hides something a *majority* of users actual
 Progressive disclosure is one of the load-bearing arguments for keeping a product's default view sparse and pushing configurability into a settings layer, which is also the argument a [[Design System]] makes for keeping a component's default props minimal and its escape hatches explicit.
 
 ## See also
-- [[Tutorial Design]]
-- [[In Medias Res]]
+- [[Fitts's Law]]
+- [[Affordance]]
 - [[Accordion]]
-- [[Wayfinding]]
 - [[Onboarding]]
-
-## Related
 - [[Context Menu]]
 - [[Wizard]]
 - [[Hamburger Menu]]
-- [[Faceted Search]]
-- [[Tesler's Law]]
 - [[Command Palette]]
 - [[Dropdown Menu]]

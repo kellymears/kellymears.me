@@ -19,18 +19,10 @@ It works best under a few constraints.
 **Judgments are only valid against the inputs that produced them.** Change the artifact, the model, the rubric wording, or the criteria set, and the verdict is stale. See [[Fingerprint]] and [[Provenance]].
 
 ## See also
-- [[Data Labeling]]
 - [[Adversarial Review]]
-- [[Active Learning]]
 - [[Nondeterminism]]
 - [[Multi-Agent Orchestration]]
-- [[Scalable Oversight]]
-- [[Sycophancy]]
-
-## Related
 - [[Record and Replay Testing]]
 - [[Subagent]]
-- [[Benchmark Contamination]]
-- [[Decision Matrix]]
-- [[Synthetic Data]]
-- [[Self-Consistency]]
+- [[Evaluation Harness]]
+- [[Assertion]]

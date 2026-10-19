@@ -12,15 +12,9 @@ The mechanism nearly always rests on a [[Consensus Algorithm]] like Raft, becaus
 That dual-leader scenario — **[[Network Partition|split brain]]** — is the failure mode leader election exists to prevent, and the one that shows up when it's implemented wrong. If a network partition isolates the current leader from the rest of the cluster, and the rest elects a new one, the old leader may keep acting as leader from its own isolated point of view, accepting writes nobody else will ever see. Correct implementations guard against this with fencing tokens or lease timeouts strict enough that an isolated leader stops trusting itself before a majority elsewhere can safely proceed without it.
 
 ## See also
-- [[Ranked-Choice Voting]]
 - [[Database Replication]]
 - [[CAP Theorem]]
 - [[Two-Phase Commit]]
 - [[Cross-Tab Communication]]
-- [[Quorum]]
-- [[Byzantine Fault Tolerance]]
 - [[Failure Detection]]
 - [[Watchdog Timer]]
-- [[Token Ring]]
-- [[Spanning Tree Protocol]]
-- [[Distributed Lock]]

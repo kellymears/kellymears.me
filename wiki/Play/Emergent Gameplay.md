@@ -12,15 +12,6 @@ It's worth separating emergence from [[Procedural Generation]], which travels al
 The design tension runs in both directions. Too little systemic interaction and a sandbox becomes a theme park — pretty, walkable, but with nothing to discover past what's on the label. Too much, and the same richness that produces delightful solutions also produces exploits: a duplication bug, a physics glitch that skips half a level, an AI loophole that trivializes a fight. Most emergent-systems games spend real design effort not maximizing interaction but bounding it — deciding which combinations are meant to be found and which need a quiet patch before players find them first.
 
 ## See also
-- [[Let's Play]]
 - [[Sandbox Game]]
-- [[Non-Player Character]]
-- [[Millennium Bridge Wobble]]
-- [[Crafting System]]
-- [[Boids]]
-- [[Sequence Breaking]]
-- [[MDA Framework]]
-- [[Self-Play]]
-- [[Bushnell's Law]]
-- [[Griefing]]
-- [[Playtesting]]
+- [[Game AI]]
+- [[Speedrun]]

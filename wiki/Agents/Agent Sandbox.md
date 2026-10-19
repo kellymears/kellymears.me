@@ -19,7 +19,7 @@ A sandbox restricts several things:
 - **Processes.** Child processes inherit the same limits, so a script the agent runs is confined too.
 - **Resources.** CPU, memory, and time caps keep a runaway loop from taking over the machine.
 
-The mechanisms come from ordinary systems security. On Linux, [[Linux Namespaces]] give a process its own view of files, processes, and network, [[Control Groups]] cap resources, and seccomp filters which [[System Call]] requests are allowed; tools such as bubblewrap combine them without a full container. macOS has its Seatbelt sandbox profiles. Stronger isolation uses gVisor, which intercepts system calls in user space, or microVMs such as Firecracker, released by AWS in 2018, which boot a lightweight virtual machine in a fraction of a second. Browsers and [[WebAssembly]] runtimes offer sandboxes for code that never needs a real OS.
+The mechanisms come from ordinary systems security. On Linux, [[Linux Namespaces]] give a process its own view of files, processes, and network, [[Control Groups]] cap resources, and seccomp filters which [[System Call]] requests are allowed; tools such as bubblewrap combine them without a full container. macOS has its Seatbelt sandbox profiles. Stronger isolation uses gVisor, which intercepts system calls in user space, or microVMs such as Firecracker, released by AWS in 2018, which boot a lightweight virtual machine in a fraction of a second. Browsers and WebAssembly runtimes offer sandboxes for code that never needs a real OS.
 
 Permission prompts are the softer layer: ask before running a command or editing a file. They work until people approve everything reflexively, and approval fatigue sets in fast. Good designs prompt rarely and meaningfully, auto-approve what the sandbox already makes safe, and reserve [[Human in the Loop]] approval for actions that escape it or cannot be undone.
 
@@ -29,4 +29,4 @@ Recovery complements confinement. A [[Filesystem Snapshot]] or [[Copy-on-Write]]
 
 ## See also
 - [[Chroot]]
-- [[Protection Ring]]
+- [[Superuser]]

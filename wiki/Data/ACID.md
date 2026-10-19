@@ -12,16 +12,9 @@ Isolation is where the real subtlety lives, because "isolated" is a spectrum, no
 ACID is a single-node concept at heart — it describes what one database's transaction log can guarantee about its own state. Stretching those same guarantees across multiple databases or services is a much harder problem, which is why [[Two-Phase Commit]] and consensus protocols exist as separate, heavier machinery rather than ACID simply "scaling up." The opposite pole, BASE (Basically Available, Soft state, Eventually consistent), is the deliberate trade many distributed systems make instead — see [[Eventual Consistency]] and the [[CAP Theorem]] for why.
 
 ## See also
-- [[Distributed SQL]]
-- [[Two-Phase Locking]]
 - [[Eventual Consistency]]
 - [[Write-Ahead Logging]]
-- [[Saga Pattern]]
-- [[Transactional Outbox]]
 
 ## Related
 - [[Relational Database]]
-- [[Multiversion Concurrency Control]]
-- [[Stored Procedure]]
-- [[Software Transactional Memory]]
 - [[Database Constraint]]

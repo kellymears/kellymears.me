@@ -15,11 +15,6 @@ Two different things are being preserved and they diverge quickly. Preserving th
 Legal ambiguity slows all of it down, the same [[Right to Repair]]-adjacent territory modding and emulation projects work in without a settled rule protecting them.
 
 ## See also
-- [[Indie Game]]
-- [[Clean Room Design]]
-- [[Vector Display]]
-- [[Affine Texture Mapping]]
-- [[Point-and-Click Adventure]]
-- [[Video Game Crash of 1983]]
-- [[Doom Engine]]
-- [[Pinball]]
+- [[Deprecation]]
+- [[API Translation Layer]]
+- [[Speedrun]]

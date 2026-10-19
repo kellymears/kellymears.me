@@ -12,7 +12,7 @@ A **database constraint** is a rule about the data that the database itself enfo
 The standard kinds in a [[Relational Database]]:
 
 - **NOT NULL.** The column must have a value; see [[Null]].
-- **Unique.** No two rows may share the value, or the combination of values, in these columns. Databases enforce it with an index, which is why a unique constraint also speeds lookups; see [[Database Index]].
+- **Unique.** No two rows may share the value, or the combination of values, in these columns. Databases enforce it with an index, which is why a unique constraint also speeds lookups.
 - **Primary key.** Unique and not null together, the row's identity.
 - **Foreign key.** The value must match a row in another table, which prevents orphans; see [[Foreign Key]].
 - **Check.** An arbitrary condition on the row, such as `price >= 0` or `end_date > start_date`.
@@ -28,10 +28,9 @@ The costs are real but usually small:
 - **Migrations.** Adding a constraint to a large table scans every existing row, and fails if old data breaks it. Many databases allow adding it as "not valid" first, enforcing it for new writes, then validating the backlog later; see [[Database Migration]].
 - **Error handling.** A constraint violation surfaces as a database error the application must translate into a useful message.
 
-Some teams leave constraints out, arguing the application owns the rules or that sharding makes foreign keys impossible; see [[Database Sharding]]. The usual result is data that slowly fills with orphans and duplicates, discovered later and fixed by hand; see [[Data Cleaning]].
+Some teams leave constraints out, arguing the application owns the rules or that sharding makes foreign keys impossible; see [[Database Sharding]]. The usual result is data that slowly fills with orphans and duplicates, discovered later and fixed by hand.
 
 ## See also
-- [[Reference Data]]
-- [[Sentinel Value]]
-- [[ISBN]]
 - [[Upsert]]
+- [[ACID]]
+- [[Idempotency Key]]

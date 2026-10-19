@@ -17,19 +17,16 @@ Two things about it are consistently underappreciated.
 Contrast is one of the few accessibility criteria a machine can genuinely evaluate, which makes it the one worth automating hardest. See [[Accessibility]].
 
 ## See also
-- [[Call to Action]]
-- [[Closed Captions]]
-- [[Focus Indicator]]
-- [[Liquid-Crystal Display]]
 - [[Staggered Animation]]
+- [[OKLCH]]
+- [[Dark Mode]]
+- [[Motion Design]]
+- [[Reduced Motion]]
+- [[Design Token]]
+- [[Progressive Enhancement]]
+- [[Easing]]
+- [[Call to Action]]
+- [[Focus Indicator]]
 - [[HSL and HSV]]
-- [[Metamerism]]
-
-## Related
-- [[Presbyopia]]
-- [[Digital Eye Strain]]
-- [[Color Theory]]
 - [[Glassmorphism]]
-- [[Radar Chart]]
-- [[Bauhaus]]
 - [[Accessibility Testing]]

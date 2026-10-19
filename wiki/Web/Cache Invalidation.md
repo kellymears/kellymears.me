@@ -15,18 +15,14 @@ Caches also multiply invisibly. A single request may pass through a browser cach
 The subtlest form is a cache whose *scope* is smaller than assumed: a value memoized per process behaves like a cache within one instance and like nothing at all across several. See [[Incremental Static Regeneration]].
 
 ## See also
-- [[Cache-Aside]]
 - [[Determinism]]
-- [[Don't Repeat Yourself]]
 - [[Static Site Generation]]
-- [[Certificate Revocation]]
 - [[React Server Components]]
 - [[Domain Name System]]
-- [[Materialized View]]
-
-## Related
 - [[Server-Side Rendering]]
 - [[Record and Replay Testing]]
 - [[Write-Behind Cache]]
-- [[Thundering Herd]]
+- [[Naming]]
+- [[Hash Function]]
+- [[Materialized View]]
 - [[Time to Live]]

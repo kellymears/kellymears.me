@@ -19,7 +19,7 @@ Blame has blind spots:
 - **Squashed history.** A [[Squash Merge]] collapses a branch into one commit, so blame lands on the merge rather than on the individual steps, though the pull request link usually survives.
 - **Deleted lines.** Blame only explains lines that still exist. To find when something disappeared, search history with `git log -S` for the text, or use [[Git Bisect]] to find the commit that changed behavior.
 
-Using blame well is part of what is sometimes called *code archaeology*: reading history, old issues, and design notes to reconstruct decisions. It pairs with a [[Characterization Test]] when working on legacy code: blame says why the code was written, the test pins down what it currently does.
+Using blame well is part of what is sometimes called *code archaeology*: reading history, old issues, and design notes to reconstruct decisions. It pairs with a characterization test when working on legacy code: blame says why the code was written, the test pins down what it currently does.
 
 The name invites misuse. Treating blame output as evidence of who to fault discourages people from touching risky code, the opposite of the culture a [[Blameless Postmortem]] tries to build, and it misleads anyway, since the last person to touch a line often only moved it. Judging the person rather than the circumstances is the [[Fundamental Attribution Error]] in a terminal.
 
@@ -27,7 +27,5 @@ Where history is thin, as in code copied in from elsewhere or after a migration 
 
 ## See also
 - [[Reflog]]
-- [[Code Owners]]
 - [[Staging Area]]
 - [[Commit Message]]
-- [[Source Code Control System]]

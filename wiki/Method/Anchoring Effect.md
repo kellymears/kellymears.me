@@ -14,17 +14,12 @@ The same effect appears when instructing a [[Large Language Model]]. A schema fi
 Anchoring also explains why an early, confident wrong diagnosis is so expensive: subsequent investigation tends to orbit it rather than start over. Deliberately restating the problem from the observations, without the first hypothesis in view, is the cheap counter-move. A vivid number crowds out an unstated one in the same way, which is where anchoring meets the [[Base Rate Fallacy]]: a witness's 80% reliability or a test's 99% accuracy fixes the estimate, while how common the thing being judged actually is goes unused despite mattering just as much.
 
 ## See also
-- [[Weber-Fechner Law]]
-- [[Cognitive Bias]]
-- [[Decision Matrix]]
-- [[Representativeness Heuristic]]
-- [[Schelling Point]]
+- [[Prompt Engineering]]
+- [[Structured Output]]
+- [[Root Cause Analysis]]
+- [[Plausible Mechanism]]
+- [[Tool Use]]
+- [[Nondeterminism]]
+- [[System Prompt]]
 - [[In-Context Learning]]
-
-## Related
-- [[Decoy Effect]]
-- [[Need for Closure]]
-- [[Survey Design]]
-- [[Wisdom of the Crowd]]
-- [[Delphi Method]]
 - [[Slider]]

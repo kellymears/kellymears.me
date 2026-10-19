@@ -15,12 +15,7 @@ Which one works is decided by transaction costs, not by which theory is more ele
 The genuinely hard part is measurement, not theory. Pricing a harm with no market of its own — a tonne of carbon, a species, a quiet street — requires an estimate, often little better than a [[Fermi Estimation]], and that estimate is contestable by construction. Making the harm countable enough to price at all is its own act of simplification, the one described at [[Legibility]]; getting the number wrong reintroduces the distortion the tax was meant to remove, which makes whoever sets it a [[Principal-Agent Problem]] in miniature, exposed to the same [[Rent-Seeking]] and [[Regulatory Capture]] pressures a regulator faces.
 
 ## See also
-- [[Gresham's Law]]
-- [[Supply and Demand]]
-- [[Baumol's Cost Disease]]
-- [[Herd Immunity]]
-- [[Antibiotic Resistance]]
 - [[Universal Basic Income]]
 - [[Jaywalking]]
-- [[Monopoly]]
-- [[Comparative Advantage]]
+- [[Tragedy of the Commons]]
+- [[Network Effect]]

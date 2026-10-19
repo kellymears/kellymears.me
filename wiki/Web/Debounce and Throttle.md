@@ -23,7 +23,6 @@ Both exist to protect the same resource a naive [[Optimistic UI]] update or [[We
 - [[Web Worker]]
 - [[Long Task]]
 - [[Autocomplete]]
-- [[Nagle's Algorithm]]
 - [[File Watching]]
 - [[Hysteresis]]
 - [[Pointer Events]]

@@ -19,10 +19,4 @@ Genres sorted by sensitivity to latency, from [[Rhythm Game|rhythm]] and fightin
 
 ## See also
 - [[Denoising]]
-- [[Dynamic Resolution Scaling]]
-- [[Interlacing]]
-- [[Motion Interpolation]]
-- [[Unsharp Masking]]
 - [[Graphics Driver]]
-- [[Smear Frame]]
-- [[Swap Chain]]

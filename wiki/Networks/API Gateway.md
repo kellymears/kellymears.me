@@ -14,15 +14,8 @@ A gateway is also a natural place to put a [[Circuit Breaker]] per backend route
 It's easy to conflate an API gateway with a plain [[Load Balancing|load balancer]], but they solve different problems: a load balancer picks *which instance* of a single service handles a request, while a gateway decides *which service* handles it at all, plus everything policy-related around that decision. Large systems typically have both — a gateway routing by API contract, and a load balancer behind each route spreading traffic across that service's instances.
 
 ## See also
-- [[API Versioning]]
 - [[Middleware]]
 - [[OpenAPI]]
 - [[Webhook]]
 - [[Content Delivery Network]]
 - [[Reverse Proxy]]
-- [[Bastion Host]]
-- [[Remote Procedure Call]]
-- [[Microservices]]
-- [[Service Mesh]]
-- [[Service Discovery]]
-- [[GraphQL]]

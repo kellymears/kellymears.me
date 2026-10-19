@@ -12,19 +12,12 @@ This is the opposite bet from [[Pessimistic Locking]], which stops other writers
 It fits naturally with stateless web request handling, where a "lock," if taken, would have to be held across an HTTP request and a possibly slow or abandoned client — exactly the scenario pessimistic locking handles badly, since a lock held by a client that never comes back blocks everyone else indefinitely.
 
 ## See also
-- [[File Locking]]
-- [[Two-Phase Locking]]
 - [[ACID]]
 - [[Idempotence]]
-
-## Related
 - [[Optimistic UI]]
+- [[Race Condition]]
 - [[Isolation Level]]
-- [[Multiversion Concurrency Control]]
 - [[Force Push]]
 - [[Lock-Free Data Structure]]
-- [[Software Transactional Memory]]
 - [[Time-of-Check to Time-of-Use]]
 - [[Upsert]]
-- [[Perforce]]
-- [[Distributed Lock]]

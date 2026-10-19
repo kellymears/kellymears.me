@@ -32,7 +32,6 @@ Restoration needs handling too. The `pageshow` event fires with `persisted` set 
 Related lifecycle events let a page be frozen and resumed while still open, as described under [[Background Tab Throttling]]. A [[Single-Page Application]] faces a similar challenge with its own history handling, which is why restoring scroll position and state on Back is a classic weakness of client-side routing. Combined with speculative prerendering of likely next pages, covered under [[Preload and Prefetch]], bfcache aims at the same goal from opposite directions: navigation that feels instant in both directions.
 
 ## See also
-- [[Speculation Rules]]
 - [[HTTP Caching]]
 - [[Core Web Vitals]]
 - [[View Transitions]]

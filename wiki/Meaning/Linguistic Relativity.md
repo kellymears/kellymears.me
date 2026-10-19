@@ -16,17 +16,10 @@ The debate's most-cited case is **Pirahã**, a language isolate of the Brazilian
 The general lesson generalizes past linguistics. A hypothesis that is interesting, widely repeated, and resting on a thin evidential base is the kind most likely to be believed past what it can support. See [[Plausible Mechanism]] and [[Exhaustive Claim]].
 
 ## See also
-- [[Context-Free Grammar]]
-- [[Conceptual Metaphor]]
-- [[Loanword]]
-
-## Related
-- [[Politeness Theory]]
-- [[Diglossia]]
 - [[Code Comment]]
-- [[Machine Translation]]
-- [[Emotional Granularity]]
-- [[Inner Speech]]
-- [[Natural Language Processing]]
-- [[Symbol Grounding Problem]]
-- [[Portmanteau]]
+- [[Plain Language]]
+- [[Taxonomy]]
+- [[Naming]]
+- [[Information Architecture]]
+- [[Code Review]]
+- [[Hallucination]]

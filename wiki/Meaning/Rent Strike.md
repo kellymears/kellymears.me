@@ -25,4 +25,3 @@ A **tenant union** is the durable form of the same organizing: a standing associ
 - [[Taxonomy]]
 - [[Markdown]]
 - [[Linguistic Relativity]]
-- [[Civil Disobedience]]

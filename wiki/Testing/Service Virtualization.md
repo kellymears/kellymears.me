@@ -37,5 +37,4 @@ Simulated services also support development, not just testing. Frontend develope
 
 ## See also
 - [[OpenAPI]]
-- [[Solitary and Sociable Tests]]
 - [[Dependency Injection]]

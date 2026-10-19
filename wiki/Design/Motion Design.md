@@ -21,16 +21,14 @@ Several constraints shape any real implementation.
 **Some effects cannot take a transform.** A toolbar positioned from a measured rectangle is corrupted by a transform, so it has to fade rather than lift — a physical constraint, not a preference.
 
 ## See also
-- [[Constructivism]]
-- [[Keyframe Animation]]
 - [[Staggered Animation]]
+- [[Uncanny Valley]]
+- [[Easing]]
+- [[Color Contrast]]
+- [[Stacking Context]]
+- [[Component Story]]
+- [[Accessibility]]
+- [[Keyframe Animation]]
 - [[Carousel]]
 - [[Web Animations API]]
 - [[requestAnimationFrame]]
-
-## Related
-- [[Onion Skinning]]
-- [[Pull-to-Refresh]]
-- [[Bézier Curve]]
-- [[View Transitions]]
-- [[Scroll-Driven Animations]]

@@ -16,17 +16,11 @@ It also requires the shared branch to stay green, which makes [[Continuous Integ
 The practice scales down well — it is close to what a single developer naturally does — and scales up only with genuine investment in flags, testing, and deployment automation.
 
 ## See also
-- [[Subversion]]
+- [[Branching Model]]
+- [[Merge Train]]
+- [[Squash Merge]]
+- [[Pull Request]]
+- [[Three-Way Merge]]
+- [[Documentation Rot]]
 - [[Fast-Forward Merge]]
-- [[Small Batches]]
-- [[Gerrit]]
-- [[Extreme Programming]]
-
-## Related
-- [[Branch by Abstraction]]
-- [[Gitflow]]
-- [[Git Revert]]
 - [[Cherry-Pick]]
-- [[Walking Skeleton]]
-- [[Expand and Contract]]
-- [[Code Freeze]]

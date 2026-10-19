@@ -20,15 +20,13 @@ Beyond a handful of conventions, icons are ambiguous. A star might mean favorite
 A coherent icon set follows shared rules:
 
 - **Consistent grid and stroke.** Icons drawn on the same grid, with the same stroke width and corner radius, read as one family, the [[Gestalt Principles]] of similarity at small scale.
-- **Optical balance.** A circle drawn the same size as a square looks smaller, so shapes are adjusted by eye, as described under [[Optical Alignment]].
-- **Pixel alignment.** At small sizes, strokes snapped to whole pixels render crisply instead of blurring, a concern of [[Font Rendering]].
+- **Optical balance.** A circle drawn the same size as a square looks smaller, so shapes are adjusted by eye, as described under Optical Alignment.
+- **Pixel alignment.** At small sizes, strokes snapped to whole pixels render crisply instead of blurring, a concern of Font Rendering.
 - **One metaphor per meaning.** The same idea always gets the same icon across the product, managed through the [[Design System]].
 
 Web icons moved from image sprites to **icon fonts**, which scaled but broke accessibility and showed missing-glyph boxes when the font failed, to inline SVG, now standard, since [[Vector Graphics]] scale, take CSS styling, and carry accessible names. An icon is a signifier in the sense of [[Affordance]]: it promises what will happen, and it only works if the promise is understood.
 
 ## See also
-- [[Calligraphy]]
-- [[Recycle Bin]]
 - [[Favicon]]
 - [[Desktop Environment]]
 - [[Emoji]]

@@ -18,7 +18,7 @@ There are two basic approaches:
 
 The kernel interfaces:
 
-- **inotify** on Linux, added in 2005, watches individual files and directories and delivers events such as created, modified, moved, or deleted through a [[File Descriptor]] that a program can wait on alongside sockets; see [[IO Multiplexing]].
+- **inotify** on Linux, added in 2005, watches individual files and directories and delivers events such as created, modified, moved, or deleted through a file descriptor that a program can wait on alongside sockets.
 - **FSEvents** on macOS reports changes at the level of directories rather than files and keeps a persistent log, so a program can ask what changed while it wasn't running.
 - **kqueue** on the BSDs and macOS watches open files, one descriptor per file.
 - **fanotify** on Linux watches whole filesystems at once, intended for antivirus scanners and backup tools.
@@ -35,5 +35,4 @@ Boundaries break notification entirely. Network filesystems don't propagate even
 The payoff is the tight loop modern development depends on: save a file, and within a fraction of a second the change is compiled and shown; see [[Hot Module Replacement]] and [[Build Cache]]. A long-running [[Daemon]] that reloads its configuration when the file changes uses the same mechanism.
 
 ## See also
-- [[Filesystem]]
 - [[Long Polling]]

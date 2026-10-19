@@ -12,17 +12,7 @@ The mechanism runs on perceived climate rather than actual headcount: a person d
 A "hard core" resists the spiral regardless of perceived isolation — people willing to voice an unpopular view even at real social cost — and Noelle-Neumann treated their persistence as often what keeps a receding opinion from vanishing outright. The theory is worth distinguishing from simple conformity or [[Groupthink]], which concern actually changing one's belief under group pressure; the spiral of silence specifically concerns *silence*, holding a belief privately while declining to state it, which is why anonymous or pseudonymous venues so often reveal opinion distributions that public, attributed venues had suggested were nearly nonexistent.
 
 ## See also
-- [[Devil's Advocate]]
 - [[Third-Person Effect]]
-- [[Duverger's Law]]
-- [[Tyranny of the Majority]]
-- [[Median Voter Theorem]]
-- [[Propaganda]]
-- [[Participation Inequality]]
-- [[Internet Censorship]]
-- [[Civil Disobedience]]
-- [[Agenda-Setting]]
-- [[Information Cascade]]
-- [[Panopticon]]
-- [[Conformity]]
-- [[Delphi Method]]
+- [[Social Proof]]
+- [[Overton Window]]
+- [[Filter Bubble]]

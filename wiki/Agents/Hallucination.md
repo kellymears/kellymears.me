@@ -14,16 +14,9 @@ The important consequence is that **fluency is not evidence**, and specificity i
 Mitigations that work are all about grounding. Give the model tools to *look* rather than recall — reading the file beats remembering the file. Validate identifiers against a real catalog rather than trusting recall. Require citations that can be checked. And design so that unverifiable claims are cheap to detect: an exhaustive claim, an invented path, or a cited test file are each one command away from being falsified. See [[Ground Truth]] and [[Exhaustive Claim]].
 
 ## See also
-- [[Dependency Confusion]]
-- [[Choice Blindness]]
-- [[Citation Index]]
-- [[Self-Consistency]]
-- [[Sycophancy]]
-- [[Stochastic Parrot]]
-
-## Related
-- [[Linear Probe]]
-- [[Frame Problem]]
-- [[Pareidolia]]
-- [[Conformal Prediction]]
-- [[Symbol Grounding Problem]]
+- [[Falsifiability]]
+- [[Tool Use]]
+- [[Guardrail]]
+- [[Nondeterminism]]
+- [[Vacuous Truth]]
+- [[Prompt Engineering]]

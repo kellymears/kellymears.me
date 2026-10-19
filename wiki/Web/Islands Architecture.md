@@ -17,16 +17,10 @@ The pattern is most associated with content-first site frameworks, but the under
 ## See also
 - [[Hydration]]
 - [[Static Site Generation]]
-- [[Micro-Frontends]]
 - [[Lazy Loading]]
 - [[Server-Side Rendering]]
-
-## Related
-- [[Resumability]]
 - [[Module Graph]]
+- [[Progressive Enhancement]]
+- [[Core Web Vitals]]
 - [[Single-Page Application]]
-- [[Reactive Signals]]
 - [[Long Task]]
-- [[Edge Computing]]
-- [[Hypermedia]]
-- [[Jamstack]]

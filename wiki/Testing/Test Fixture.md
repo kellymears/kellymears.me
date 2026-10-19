@@ -14,18 +14,12 @@ Two further notes. Fixtures should be *local and deterministic* where the assert
 
 ## See also
 - [[Test Double]]
-- [[Data Masking]]
 - [[Seed Data]]
 - [[Visual Regression Testing]]
 - [[Record and Replay Testing]]
 - [[Integration Test]]
-- [[Test Isolation]]
-- [[Behavior-Driven Development]]
-
-## Related
 - [[Unit Test]]
 - [[Nondeterminism]]
-- [[Test Smell]]
+- [[Determinism]]
+- [[Test Isolation]]
 - [[Test Data Builder]]
-- [[Test Parallelization]]
-- [[Utah Teapot]]

@@ -12,15 +12,7 @@ The genre's known failure mode is density-of-interest collapse — the "Ubisoft 
 Open world design shares [[Fog of War]]'s reveal-the-map instinct at a meta level — tower-climbing to unfog the map is fog of war borrowed wholesale from strategy games and repurposed as a traversal reward. It's a looser, more permissive structure than [[Metroidvania]], which shares the "one contiguous map" property but gates large portions of it behind specific abilities, converting free roam into a controlled backtracking loop; an open world usually lets the player simply walk there, difficulty permitting.
 
 ## See also
-- [[Fast Travel]]
 - [[Metroidvania]]
 - [[Environmental Storytelling]]
 - [[Emergent Gameplay]]
-- [[Sequence Breaking]]
-- [[Level Design]]
-- [[Terrain Generation]]
 - [[Heads-Up Display]]
-- [[Side Quest]]
-- [[Navigation Mesh]]
-- [[Texture Streaming]]
-- [[Crafting System]]

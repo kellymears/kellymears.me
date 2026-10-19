@@ -25,7 +25,7 @@ The four standard levels, from weakest to strongest:
 - **Repeatable read** also prevents non-repeatable reads. It is the default in MySQL's InnoDB.
 - **Serializable** prevents every anomaly.
 
-The standard's list turned out to be incomplete. A 1995 paper by Hal Berenson, Jim Gray, and colleagues showed that the definitions were ambiguous and described **snapshot isolation**, in which each transaction sees a consistent snapshot of the database as of its start, usually built on [[Multiversion Concurrency Control]]. Snapshot isolation prevents the three standard anomalies but allows a subtler one, **write skew**. Two doctors are on call, and the rule is that at least one must stay on. Each checks that the other is on call, sees yes, and goes off call. Each transaction was valid against its snapshot, they touched different rows so neither conflicted, and now nobody is on call.
+The standard's list turned out to be incomplete. A 1995 paper by Hal Berenson, Jim Gray, and colleagues showed that the definitions were ambiguous and described **snapshot isolation**, in which each transaction sees a consistent snapshot of the database as of its start, usually built on Multiversion Concurrency Control. Snapshot isolation prevents the three standard anomalies but allows a subtler one, **write skew**. Two doctors are on call, and the rule is that at least one must stay on. Each checks that the other is on call, sees yes, and goes off call. Each transaction was valid against its snapshot, they touched different rows so neither conflicted, and now nobody is on call.
 
 Weak isolation causes real bugs. Classic examples include two withdrawals each checking a balance and both succeeding, two users claiming the last seat, or a read-modify-write counter that loses updates. These are a [[Race Condition]] at the database level, and they rarely appear in testing, since they need precise timing.
 
@@ -36,12 +36,9 @@ The fixes depend on the pattern:
 - **Detect conflicts** with a version column, [[Optimistic Locking]], and retry.
 - **Use constraints** so the database itself refuses invalid states, such as a unique index on seat assignments.
 
-Isolation is a single-database concern. Across replicas, the analogous guarantees are consistency models, discussed in the [[CAP Theorem]] and [[Eventual Consistency]], and across services there is no shared transaction at all, which is why [[Two-Phase Commit]] and the [[Saga Pattern]] exist.
+Isolation is a single-database concern. Across replicas, the analogous guarantees are consistency models, discussed in the [[CAP Theorem]] and [[Eventual Consistency]], and across services there is no shared transaction at all, which is why [[Two-Phase Commit]] and the Saga Pattern exist.
 
 ## See also
 - [[ACID]]
-- [[Two-Phase Locking]]
 - [[SQL]]
 - [[Pessimistic Locking]]
-- [[Linearizability Checking]]
-- [[Distributed SQL]]

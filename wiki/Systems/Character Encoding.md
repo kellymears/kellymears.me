@@ -15,18 +15,16 @@ The sharpest practical hazard is **control characters**, and particularly the nu
 Terminal alignment is a related concern: East Asian characters occupy two columns and combining marks occupy none, so column arithmetic must use display width. See [[Terminal User Interface]].
 
 ## See also
-- [[ANSI Escape Code]]
-- [[Personal Name]]
-- [[Emoji]]
-- [[ASCII Art]]
-- [[Text Editor]]
-- [[Text Truncation]]
-
-## Related
-- [[Endianness]]
 - [[Glob]]
+- [[Token]]
+- [[Shell]]
+- [[Vacuous Truth]]
+- [[Truncation Bias]]
+- [[Ground Truth]]
+- [[Falsifiability]]
+- [[Coverage Gate]]
+- [[ANSI Escape Code]]
+- [[Emoji]]
+- [[Text Truncation]]
 - [[Input Method]]
 - [[Base64]]
-- [[Stemming and Lemmatization]]
-- [[Blackletter]]
-- [[Byte-Pair Encoding]]

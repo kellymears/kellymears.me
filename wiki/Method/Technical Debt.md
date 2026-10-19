@@ -14,19 +14,14 @@ Some recognizable forms: a workaround kept after its cause was fixed upstream; a
 Two practices keep it visible. Record *why* a shortcut was taken and what would let it be removed, so a later reader is not stuck at [[Chesterton's Fence]]. And prefer paying an adjacent debt inside the change that exposes it over filing a follow-up item — a follow-up moves the work to a backlog that may never be read, while the person with the context is right there.
 
 ## See also
-- [[Lehman's Laws of Software Evolution]]
+- [[Deprecation]]
+- [[Documentation Rot]]
+- [[Code Review]]
+- [[Root Cause Analysis]]
+- [[Feature Flag]]
+- [[Plausible Mechanism]]
+- [[Naming]]
+- [[Code Comment]]
+- [[Premature Optimization]]
 - [[Definition of Done]]
-- [[Crunch]]
-- [[Big Rewrite]]
-- [[Year 2000 Problem]]
-- [[Software Aging]]
-
-## Related
 - [[Architecture Decision Record]]
-- [[Software Rot]]
-- [[Software Crisis]]
-- [[Don't Repeat Yourself]]
-- [[Technology Radar]]
-- [[Issue Tracker]]
-- [[Hyperbolic Discounting]]
-- [[Kernighan's Law]]

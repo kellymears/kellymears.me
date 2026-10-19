@@ -15,18 +15,11 @@ Defensive defaults also distort verification. A fallback branch that is unreacha
 A related shape is the defensive *guard*: a null check protecting against a state the surrounding invariant makes impossible. It reads as caution and behaves as noise, since no input can reach it and no test can cover it.
 
 ## See also
-- [[Precautionary Principle]]
-- [[Margin of Safety]]
 - [[Environment Variable]]
-- [[Principle of Least Astonishment]]
-- [[Fail-Safe]]
-- [[Decision Fatigue]]
-
-## Related
 - [[Coverage Gate]]
 - [[Schema Validation]]
-- [[Tesler's Law]]
-- [[Choice Architecture]]
-- [[Forcing Function]]
-- [[Risk Compensation]]
-- [[Murphy's Law]]
+- [[Fail Fast]]
+- [[Silent Failure]]
+- [[Secret Management]]
+- [[Chesterton's Fence]]
+- [[Fail-Safe]]

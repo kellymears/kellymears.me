@@ -18,7 +18,3 @@ Stealth mechanics are worth distinguishing from a [[Cover System]], though the t
 - [[Immersive Sim]]
 - [[Game AI]]
 - [[Companion AI]]
-- [[Adaptive Music]]
-- [[Non-Player Character]]
-- [[Navigation Mesh]]
-- [[Asymmetric Multiplayer]]

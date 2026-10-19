@@ -12,18 +12,6 @@ summary: A liquid's surface behaves like a stretched elastic membrane because su
 **Surfactants** — soap chief among them — work by inserting themselves at the surface and disrupting that cohesive pull, lowering surface tension substantially. This is why soap bubbles can exist at all (pure water's surface tension is too high to sustain a thin film without immediately collapsing) and why a drop of dish soap dropped into a bowl of water sprinkled with pepper sends the pepper flying outward — the surface tension pulling the pepper toward the bowl's edge has locally collapsed at the point of contact.
 
 ## See also
-- [[Supercritical Fluid]]
 - [[Buoyancy]]
-- [[Chemical Bond]]
-- [[Emulsion]]
-- [[Leidenfrost Effect]]
-- [[Nucleation]]
-- [[Capillary Action]]
-- [[Reynolds Number]]
-- [[Surfactant]]
-- [[Fluid Simulation]]
-- [[Cavitation]]
-- [[Colloid]]
-- [[Hydrogen Bond]]
-- [[Siphon]]
-- [[Decompression Sickness]]
+- [[Viscosity]]
+- [[Diffraction]]

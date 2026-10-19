@@ -17,18 +17,15 @@ It works because of how chips consume power. The switching ("dynamic") power of 
 
 Each operating point is a *performance state* (P-state). The operating system's frequency **governor** chooses among them: from scheduler load (the Linux `schedutil` governor reads utilization directly from the [[CPU Scheduler]]), from fixed policies (performance, powersave), or by handing the decision to the hardware, which increasingly makes the choice itself. *Race to idle* is the counterintuitive strategy of finishing work at high speed and then dropping into deep sleep states, which can use less energy overall than working slowly, because a sleeping chip uses almost nothing.
 
-**Undervolting** shifts the curve down: the same frequency at less voltage. Every chip ships with a safety margin, since [[Silicon Binning]] sets a curve that works for the worst chip in the bin, and many individual chips are stable with less. Done carefully, undervolting cuts heat and power substantially, reduces [[Thermal Throttling]], and slows wear such as [[Electromigration]]. Done carelessly, it produces rare errors that look like software bugs. *Frequency caps* are the blunter variant: limiting peak boost clocks keeps the chip off the steepest, highest-voltage part of the curve.
+**Undervolting** shifts the curve down: the same frequency at less voltage. Every chip ships with a safety margin, since Silicon Binning sets a curve that works for the worst chip in the bin, and many individual chips are stable with less. Done carefully, undervolting cuts heat and power substantially, reduces Thermal Throttling, and slows wear such as Electromigration. Done carelessly, it produces rare errors that look like software bugs. *Frequency caps* are the blunter variant: limiting peak boost clocks keeps the chip off the steepest, highest-voltage part of the curve.
 
 DVFS can also be a source of instability. A chip that needs more voltage than the firmware supplies at some point on the curve fails only when the load lands on that point, so it can crash under light loads and pass every stress test. That is the [[Heisenbug]] pattern produced by hardware.
 
 ## See also
 - [[Hybrid CPU Architecture]]
 - [[Motherboard]]
-- [[Clock Signal]]
 - [[Computer Cooling]]
 - [[CPU Affinity]]
-- [[Power Supply Unit]]
 - [[Performance Budget]]
-- [[Ohm's Law]]
 - [[Microcode]]
 - [[Suspend and Hibernation]]

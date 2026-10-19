@@ -12,13 +12,7 @@ In practice the effect is rarely a personal failing so much as a property of [[I
 Because the cause is instrumentation rather than laziness, the fix is rarely "look harder" — a wider search under the same streetlight still only covers the same patch of ground. The fix is [[Observability]]: extending what can be seen at all, so that looking becomes possible in places it previously was not. This is also why the effect compounds with [[Survivorship Bias]] and [[Selection Bias]] — cases that never reach the lit area are excluded from the sample before any bias in interpreting the sample even gets a chance to operate, which is a [[Root Cause Analysis]] built entirely on the wrong half of the evidence.
 
 ## See also
-- [[Law of the Instrument]]
-- [[Random Walk]]
 - [[Truncation Bias]]
-- [[Sturgeon's Law]]
-- [[Smoke Point]]
-- [[Ishikawa Diagram]]
-- [[Statistical Power]]
-- [[Texas Sharpshooter Fallacy]]
-- [[Multiple Comparisons Problem]]
-- [[McNamara Fallacy]]
+- [[Ground Truth]]
+- [[Silent Failure]]
+- [[Fermi Estimation]]

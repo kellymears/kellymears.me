@@ -16,16 +16,13 @@ Each has a characteristic cause. Largest Contentful Paint is usually dominated b
 Field data (real visitors) and lab data (a synthetic run) frequently disagree, and the disagreement is informative rather than a measurement error: lab runs use a fixed device and network, and real users do not.
 
 ## See also
-- [[Layout Shift]]
-- [[Input Latency]]
 - [[Web Font Loading]]
+- [[Performance Budget]]
+- [[Search Engine Optimization]]
+- [[Lazy Loading]]
+- [[React Server Components]]
+- [[Server-Side Rendering]]
+- [[Layout Shift]]
 - [[Above the Fold]]
-- [[Resumability]]
 - [[Responsive Images]]
-- [[Layout Thrashing]]
-
-## Related
-- [[Speculation Rules]]
-- [[Browser DevTools]]
-- [[Response Time Limits]]
 - [[Long Task]]

@@ -14,19 +14,12 @@ The genre's ideas have migrated widely, most successfully as a *mode* layered on
 
 ## See also
 - [[Seeded Randomness]]
-- [[Loot]]
 - [[Game AI]]
 - [[Constraint Propagation]]
-
-## Related
 - [[Cellular Automaton]]
 - [[Trick-Taking Game]]
 - [[L-System]]
-- [[Indie Game]]
 - [[Voxel]]
-- [[Extra Life]]
-- [[Wave Function Collapse]]
-- [[Tile Map]]
-- [[Bresenham's Line Algorithm]]
-- [[Input and Output Randomness]]
-- [[Push Your Luck]]
+- [[Procedural Generation]]
+- [[Determinism]]
+- [[Shader]]

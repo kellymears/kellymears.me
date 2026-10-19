@@ -24,8 +24,6 @@ Preloading is worth a caution: it is a hint the framework must actually emit. Pr
 - [[React Server Components]]
 - [[Islands Architecture]]
 - [[Streaming Response]]
-- [[Browser Engine]]
 - [[Long Task]]
 - [[Box Model]]
 - [[Above the Fold]]
-- [[Flash of Unstyled Content]]

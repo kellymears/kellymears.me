@@ -28,6 +28,5 @@ A fast-forward has one practical hazard: because no merge commit is made, there 
 ## See also
 - [[Branching Model]]
 - [[Merge Train]]
-- [[Gitflow]]
 - [[Reflog]]
 - [[Feature Branch]]

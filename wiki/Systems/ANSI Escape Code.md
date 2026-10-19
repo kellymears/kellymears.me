@@ -29,8 +29,6 @@ Full-screen programs such as editors and system monitors are built entirely from
 Text encoding interacts with all of this. A terminal must know how many columns each character occupies, and wide characters such as emoji and CJK ideographs break layouts when program and terminal disagree; see [[Character Encoding]].
 
 ## See also
-- [[Teleprinter]]
 - [[Clipboard]]
 - [[Serial Port]]
-- [[ASCII Art]]
 - [[Terminal Multiplexer]]

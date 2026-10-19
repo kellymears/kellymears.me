@@ -15,16 +15,10 @@ The cost is space: a naive trie allocates a node per character per branch, and a
 Tries also underlie IP routing tables (longest-prefix match over binary strings) and spell-checkers (walking off the beaten path measures edit distance from the nearest valid word) — anywhere "prefix" is the natural unit of comparison rather than "whole key."
 
 ## See also
-- [[Perfect Hashing]]
-- [[Iterator]]
 - [[B-Tree]]
+- [[Big-O Notation]]
+- [[Iterator]]
 - [[Lexical Analysis]]
-- [[Inverted Index]]
 - [[Persistent Data Structure]]
 - [[Subnet]]
-- [[Self-Balancing Binary Search Tree]]
-- [[IP Routing]]
 - [[Autocomplete]]
-- [[String-Searching Algorithm]]
-- [[Burrows-Wheeler Transform]]
-- [[Suffix Array]]

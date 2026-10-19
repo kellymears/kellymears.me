@@ -17,12 +17,9 @@ Fixation also changes the pain course: an incision adds its own [[Nociception]] 
 ## See also
 - [[Bone Remodeling]]
 - [[Fracture Nonunion]]
-- [[Ankle Sprain]]
-- [[Bruise]]
 - [[Moist Wound Healing]]
 
 ## Related
 - [[Sensitivity and Specificity]]
 - [[Plausible Mechanism]]
 - [[Physical Dependence]]
-- [[Osteoporosis]]

@@ -15,19 +15,12 @@ The aesthetic dimension is separable from the technical one. Voxel art is a deli
 
 ## See also
 - [[Rasterization]]
-- [[Terrain Generation]]
-- [[Constructive Solid Geometry]]
-- [[Ray Casting]]
-- [[Polygon Mesh]]
-
-## Related
-- [[Flood Fill]]
 - [[Cellular Automaton]]
 - [[Roguelike]]
 - [[L-System]]
-- [[Volumetric Lighting]]
-- [[Navigation Mesh]]
-- [[Perlin Noise]]
-- [[Spatial Partitioning]]
-- [[Gaussian Splatting]]
-- [[Tile Map]]
+- [[Procedural Generation]]
+- [[Shader]]
+- [[Determinism]]
+- [[Seeded Randomness]]
+- [[Reproducible Case]]
+- [[Game AI]]

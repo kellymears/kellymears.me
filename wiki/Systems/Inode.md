@@ -12,17 +12,9 @@ Because a name is only a pointer to an inode, a file can have multiple names —
 Traditional filesystems like ext4 fix the number of inodes at creation time, allocated separately from disk space (XFS, Btrfs, and ZFS allocate them dynamically instead). Such a filesystem can therefore run out of inodes and refuse to create new files while `df` still reports plenty of free space — a classic trap when a workload creates huge numbers of tiny files, since each one consumes an inode regardless of size. `df -i` shows inode usage the way plain `df` shows block usage, and it's the first thing to check when "no space left on device" appears on a disk that looks empty.
 
 ## See also
-- [[File Fragmentation]]
 - [[Copy-on-Write]]
 - [[Filesystem Snapshot]]
-- [[Recycle Bin]]
-- [[Reference Counting]]
+- [[Process]]
 - [[File Permissions]]
-- [[Journaling File System]]
-- [[Hard Link]]
-- [[Metadata]]
 - [[Device File]]
 - [[File Watching]]
-- [[Unix]]
-- [[Sparse File]]
-- [[File Locking]]

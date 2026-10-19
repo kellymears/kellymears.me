@@ -19,7 +19,7 @@ CIDR (Classless Inter-Domain Routing, 1993) replaced *classful* addressing, whic
 Prefixes also make routing scale:
 
 - **Longest-prefix match.** A router's table maps prefixes to next hops, and a packet follows the most specific matching entry. Routers do this lookup with structures related to the [[Trie]], in specialized hardware.
-- **Aggregation.** An ISP holding `198.51.0.0/16` can announce that single prefix to the rest of the internet instead of thousands of customer routes, which keeps the global [[Border Gateway Protocol]] table manageable.
+- **Aggregation.** An ISP holding `198.51.0.0/16` can announce that single prefix to the rest of the internet instead of thousands of customer routes, which keeps the global Border Gateway Protocol table manageable.
 
 On a local network, **DHCP** (Dynamic Host Configuration Protocol) hands each joining device an address from the subnet's pool, along with the mask, the gateway and the [[Domain Name System|DNS]] servers. Addresses are leased for a limited time and renewed while the device stays. Within the subnet, devices find each other's hardware addresses by broadcasting ARP queries, which is why broadcasts and [[Multicast]] usually stay within one subnet.
 
@@ -34,8 +34,5 @@ Common trouble spots:
 [[IPv6]] uses the same notation with a standard `/64` per subnet, which holds more addresses than the entire IPv4 internet, so subnets there are never sized by scarcity.
 
 ## See also
-- [[Bastion Host]]
-- [[Virtual LAN]]
 - [[Loopback]]
-- [[Software-Defined Networking]]
 - [[Multicast DNS]]

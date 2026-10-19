@@ -20,13 +20,13 @@ John von Neumann proposed an early method in 1946, squaring a number and taking 
 
 Quality is judged statistically: outputs should be evenly distributed, uncorrelated, and slow to repeat. Weak generators produce subtle patterns that can bias a [[Procedural Generation]] system, a Monte Carlo simulation, or a shuffle.
 
-Security needs something stricter. A **cryptographically secure PRNG (CSPRNG)** must also be unpredictable: seeing past outputs shouldn't help anyone guess future ones. Ordinary PRNGs fail this badly, since a few hundred Mersenne Twister outputs reveal its entire state. CSPRNGs are built from ciphers or a [[Hash Function]] and seeded from true *entropy*, unpredictable physical events such as timing jitter, gathered by the operating system. Keys for [[Public-Key Cryptography]], session tokens, and random identifiers such as a [[Universally Unique Identifier]] must come from one. Failures are severe: in 2008 it emerged that a Debian change had crippled OpenSSL's seeding for two years, leaving only about 32,000 possible keys per key type.
+Security needs something stricter. A **cryptographically secure PRNG (CSPRNG)** must also be unpredictable: seeing past outputs shouldn't help anyone guess future ones. Ordinary PRNGs fail this badly, since a few hundred Mersenne Twister outputs reveal its entire state. CSPRNGs are built from ciphers or a [[Hash Function]] and seeded from true *entropy*, unpredictable physical events such as timing jitter, gathered by the operating system. Keys for Public-Key Cryptography, session tokens, and random identifiers such as a [[Universally Unique Identifier]] must come from one. Failures are severe: in 2008 it emerged that a Debian change had crippled OpenSSL's seeding for two years, leaving only about 32,000 possible keys per key type.
 
 Games show both sides. Players exploit predictable generators through *RNG manipulation*, timing inputs to get a desired outcome, a staple of [[Speedrun]] routes, and reloading to reroll results is [[Save Scumming]]. Designers often bend randomness on purpose, as with a [[Pity Timer]], because truly random streaks feel unfair. Multiplayer games that share a seed across machines rely on every client producing identical sequences, part of the [[Determinism]] that [[Rollback Netcode]] needs.
 
-In testing, randomness drives [[Property-Based Testing]] and [[Fuzzing]], and recording the seed turns a random failure into a reproducible one.
+In testing, randomness drives [[Property-Based Testing]] and Fuzzing, and recording the seed turns a random failure into a reproducible one.
 
 ## See also
-- [[Low-Discrepancy Sequence]]
-- [[Caesar Cipher]]
-- [[Finite Field]]
+- [[Session Management]]
+- [[Device File]]
+- [[Statistical Sampling]]

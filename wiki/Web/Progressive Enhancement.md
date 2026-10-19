@@ -14,18 +14,14 @@ Modern CSS has made the pattern more attractive by moving capabilities that once
 The design constraint it imposes is real and worth stating. An entrance animation that starts at zero opacity and is revealed by script means that without script the content is *invisible* — the enhancement became load-bearing. For any surface that must render without JavaScript, animation has to be limited to interaction rather than entrance, or the baseline is broken. See [[Motion Design]] and [[Islands Architecture]].
 
 ## See also
-- [[Jamstack]]
-- [[Flash of Unstyled Content]]
-- [[Cross-Browser Testing]]
+- [[Semantic HTML]]
+- [[Server-Side Rendering]]
+- [[Accessibility]]
+- [[Hydration]]
+- [[React Server Components]]
+- [[Document Object Model]]
+- [[Static Site Generation]]
 - [[Form Validation]]
-
-## Related
 - [[Accordion]]
-- [[Responsive Web Design]]
-- [[Resumability]]
 - [[Progressive Web App]]
-- [[Polyfill]]
-- [[Apollo 11 Program Alarms]]
-- [[Browser Engine]]
 - [[Fail-Safe]]
-- [[Hypermedia]]

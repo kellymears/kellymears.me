@@ -15,17 +15,13 @@ Tokenization also explains a family of otherwise-strange model behaviors: diffic
 Because tokens are consumed by everything in the request — instructions, tool definitions, prior turns, retrieved documents — reducing any of these frees capacity for the rest. That trade is the whole subject of context engineering.
 
 ## See also
-- [[Stemming and Lemmatization]]
-- [[Jevons Paradox]]
-- [[Naive Bayes]]
 - [[Prompt]]
-- [[Natural Language Processing]]
-- [[Lexical Analysis]]
 - [[Constrained Decoding]]
-- [[Vision Transformer]]
-
-## Related
 - [[Prompt Engineering]]
 - [[Structured Output]]
-- [[Zipf's Law]]
+- [[Character Encoding]]
+- [[Nondeterminism]]
+- [[Tool Use]]
+- [[Stemming and Lemmatization]]
+- [[Lexical Analysis]]
 - [[Byte-Pair Encoding]]

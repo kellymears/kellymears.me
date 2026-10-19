@@ -14,16 +14,11 @@ What makes review effective is mostly logistical. Small changes get read; large 
 A reviewer's own reasoning deserves the same skepticism they apply to the change. A configuration set to strict plus a clean run feels like execution, and is configuration plus an untested inference.
 
 ## See also
-- [[Hyatt Regency Walkway Collapse]]
-- [[Inner Source]]
-- [[Good First Issue]]
-- [[Engineering Ladder]]
-- [[Software Inspection]]
-- [[Email Patch Workflow]]
+- [[Pull Request]]
+- [[Atomic Commit]]
+- [[Human in the Loop]]
+- [[Code Comment]]
+- [[Provenance]]
+- [[Documentation Rot]]
+- [[Squash Merge]]
 - [[Theory of Constraints]]
-
-## Related
-- [[Change Advisory Board]]
-- [[Code of Conduct]]
-- [[Toyota Unintended Acceleration]]
-- [[XZ Utils Backdoor]]

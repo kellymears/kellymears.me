@@ -19,21 +19,22 @@ A log entry usually carries a timestamp, a severity, a message, and some context
 - **ERROR** for a failure that affected a request or task.
 - **FATAL** or **CRITICAL** for failures that stop the program.
 
-Plain-text logs, such as `User 42 failed login from 10.0.0.1`, are easy to write but hard to search reliably. **Structured logging** writes each entry as data, typically [[JSON]] with named fields, such as user ID, event name, IP address, and duration. Tools can then filter, group, and count by field: every failed login from one address in the past hour, or the slowest endpoints. Adding a request or correlation ID to every entry lets you pull together all the lines for one request, a lightweight cousin of [[Distributed Tracing]].
+Plain-text logs, such as `User 42 failed login from 10.0.0.1`, are easy to write but hard to search reliably. **Structured logging** writes each entry as data, typically JSON with named fields, such as user ID, event name, IP address, and duration. Tools can then filter, group, and count by field: every failed login from one address in the past hour, or the slowest endpoints. Adding a request or correlation ID to every entry lets you pull together all the lines for one request, a lightweight cousin of Distributed Tracing.
 
-In production, logs from many machines are shipped to central **log aggregation** systems for search and retention, because by the time someone investigates, the server that wrote the log may no longer exist. The [[Twelve-Factor App]] recommends that applications simply write logs to standard output and leave routing to the environment. On Linux, [[Systemd]]'s journal collects logs from services in a similar way.
+In production, logs from many machines are shipped to central **log aggregation** systems for search and retention, because by the time someone investigates, the server that wrote the log may no longer exist. The Twelve-Factor App recommends that applications simply write logs to standard output and leave routing to the environment. On Linux, [[Systemd]]'s journal collects logs from services in a similar way.
 
 Good logging takes judgment:
 
 - **Log what helps an investigation.** Inputs to important decisions, external calls and their results, and the context needed to reproduce a problem.
-- **Avoid noise.** Logging every loop iteration buries the signal and costs real money in storage. Frequent alerts on routine warnings breed [[Alarm fatigue]].
+- **Avoid noise.** Logging every loop iteration buries the signal and costs real money in storage. Frequent alerts on routine warnings breed Alarm fatigue.
 - **Never log secrets.** Passwords, tokens, and full payment details in logs are a common source of breaches; see [[Secret Management]]. Logs containing [[Personal Data]] fall under privacy law.
 - **Log errors once, with context.** The same failure logged at every layer of the [[Call Stack]] creates duplicates without adding information.
 
-Logs are central to debugging. Print debugging is logging's simplest form, and the [[Debugger]] note describes when each fits. [[Crash Reporting]] tools capture error-level events with stack traces automatically, and [[Instrumentation]] is the broader practice of adding hooks to see inside a program.
+Logs are central to debugging. Print debugging is logging's simplest form, and the debugger note describes when each fits. Crash Reporting tools capture error-level events with stack traces automatically, and [[Instrumentation]] is the broader practice of adding hooks to see inside a program.
 
-During [[Incident Response]], logs are often the primary evidence, which is why logging decisions made in calm times shape how quickly problems get solved later.
+During Incident Response, logs are often the primary evidence, which is why logging decisions made in calm times shape how quickly problems get solved later.
 
 ## See also
 - [[Middleware]]
-- [[GitLab Database Incident]]
+- [[Web Analytics]]
+- [[Audit Log]]

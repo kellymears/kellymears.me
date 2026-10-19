@@ -12,7 +12,7 @@ An **iframe**, or inline frame, embeds one web page inside another. Each iframe 
 
 The defining property is isolation. The [[Same-Origin Policy]] applies across the frame boundary: a parent page can't read or script a cross-origin iframe's contents, and the iframe can't reach into the parent. That makes iframes the web's main tool for running code from someone you don't fully trust:
 
-- **Payments.** Card-entry fields from payment providers run in their own iframes, so the merchant's page, and any [[Third-Party Script]] on it, never sees the card number.
+- **Payments.** Card-entry fields from payment providers run in their own iframes, so the merchant's page, and any third-party script on it, never sees the card number.
 - **Ads and widgets.** Ad networks serve into iframes so their code can't touch the host page.
 - **Embeds.** Video players, maps, and social posts load as complete pages from their own origin.
 
@@ -22,13 +22,11 @@ The **`sandbox` attribute**, added in HTML5, restricts an iframe further. An emp
 
 The trust also runs the other way. A malicious site can frame *your* page invisibly and trick users into clicking its buttons, the attack described under [[Clickjacking]]. Sites defend themselves with the `frame-ancestors` directive of [[Content Security Policy]], or the older `X-Frame-Options` header, to control who may frame them.
 
-Isolation now reaches into the browser's architecture. Since 2018, site isolation in Chromium-based browsers places cross-site iframes in separate operating-system processes, so even a [[Speculative Execution]] attack in one frame can't read the other's memory.
+Isolation now reaches into the browser's architecture. Since 2018, site isolation in Chromium-based browsers places cross-site iframes in separate operating-system processes, so even a Speculative Execution attack in one frame can't read the other's memory.
 
 Iframes have costs. Each is a full document with its own scripts, styles, and memory, so a page with many embeds is heavy; `loading="lazy"` defers offscreen frames, as described under [[Lazy Loading]]. Sizing an iframe to its content requires the child to report its height by message. Micro-frontend architectures sometimes compose whole applications from iframes, trading those costs for strong separation between teams.
 
 ## See also
 - [[Single Sign-On]]
-- [[Pop-up Ad]]
-- [[Cross-Origin Isolation]]
-- [[Micro-Frontends]]
-- [[Programmatic Advertising]]
+- [[Portal]]
+- [[Hotlinking]]

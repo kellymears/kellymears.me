@@ -10,7 +10,7 @@ summary: A menu of actions for the thing under the pointer, opened by right-clic
 ---
 A **context menu** lists the actions available for whatever is under the pointer or selected, opened with a secondary click, a long press on a touch screen, or a keyboard key. Because it appears where the user is already looking and offers only what applies there, it is one of the fastest ways to act on an object.
 
-Pop-up menus came out of Xerox PARC in the 1970s, where the Smalltalk environment used a three-button mouse and gave one button to menus; see [[Desktop Metaphor]]. The Macintosh shipped with a one-button mouse, so Apple added contextual menus on Control-click only in 1997. Windows 95 made right-click menus standard across the system.
+Pop-up menus came out of Xerox PARC in the 1970s, where the Smalltalk environment used a three-button mouse and gave one button to menus. The Macintosh shipped with a one-button mouse, so Apple added contextual menus on Control-click only in 1997. Windows 95 made right-click menus standard across the system.
 
 Why they work:
 
@@ -20,7 +20,7 @@ Why they work:
 
 Their weakness is that nothing on screen says they exist. A context menu has no visible cue, so new users may never find what it holds, and touch users have no right button at all; see [[Discoverability]]. The rule that follows: every action in a context menu should also be reachable some visible way, through a menu bar, toolbar, or button. The context menu is a shortcut, not the only door; see [[Progressive Disclosure]].
 
-**Pie menus** arrange items in a circle around the pointer, so every item is the same short distance away and is chosen by direction. A 1988 study by Jack Callahan, Don Hopkins, Mark Weiser, and Ben Shneiderman found them faster than linear menus. Gordon Kurtenbach and Bill Buxton's **marking menus** built on this: novices wait for the menu to appear, while experts who know the direction simply flick, and the menu never draws. Practice turns a menu into a gesture, moving the user from recognizing options to recalling them; see [[Recognition Rather Than Recall]]. Weapon wheels in games and radial menus in 3D tools descend from them.
+**Pie menus** arrange items in a circle around the pointer, so every item is the same short distance away and is chosen by direction. A 1988 study by Jack Callahan, Don Hopkins, Mark Weiser, and Ben Shneiderman found them faster than linear menus. Gordon Kurtenbach and Bill Buxton's **marking menus** built on this: novices wait for the menu to appear, while experts who know the direction simply flick, and the menu never draws. Practice turns a menu into a gesture, moving the user from recognizing options to recalling them. Weapon wheels in games and radial menus in 3D tools descend from them.
 
 On the web, context menus raise their own issues:
 
@@ -34,4 +34,3 @@ A searchable list of every command covers the opposite need, finding an action w
 - [[Tooltip]]
 - [[Desktop Environment]]
 - [[Tabs]]
-- [[Gesture]]
