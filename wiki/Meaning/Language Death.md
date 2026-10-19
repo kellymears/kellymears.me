@@ -34,3 +34,4 @@ Language death also happens through mixing. Contact languages can arise as commu
 - [[Loanword]]
 - [[Diglossia]]
 - [[Linguistic Prescriptivism]]
+- [[Gazetteer]]

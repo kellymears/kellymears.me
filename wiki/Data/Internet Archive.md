@@ -19,8 +19,8 @@ That ambition has drawn lawsuits. In 2020, four major publishers sued over the a
 The archive also shows how fragile preservation can be. In October 2024 it suffered a series of cyberattacks, including a breach of user account data, and several services went offline for days; see [[Data Breach]]. A single institution holding so much of the record is a single point of failure, which is why it keeps copies in more than one location and why national libraries run their own web archives; see [[Digital Preservation]] and [[Backup and Restore]].
 
 ## See also
-- [[URL Shortener]]
+- [[Freedom of Information]]
 - [[Microfilm]]
 - [[Project Xanadu]]
-- [[Slashdot Effect]]
-- [[Wikipedia]]
+- [[Citation Index]]
+- [[Dark Data]]

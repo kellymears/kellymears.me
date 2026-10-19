@@ -33,5 +33,5 @@ The limits are human. Agreeing on definitions across communities is slow and pol
 - [[Wikidata]]
 - [[Linked Data]]
 - [[Entity-Relationship Model]]
-- [[Reference Data]]
+- [[Gazetteer]]
 - [[Hierarchical Data]]

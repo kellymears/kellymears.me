@@ -30,4 +30,4 @@ The difficulty is the familiar one of [[Cache Invalidation]], since a materializ
 - [[Command Query Responsibility Segregation]]
 - [[Database Index]]
 - [[ETL Pipeline]]
-- [[Columnar Storage]]
+- [[SQL]]

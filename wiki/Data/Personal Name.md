@@ -21,3 +21,4 @@ The usual design advice, from the W3C's internationalization guidance and govern
 ## See also
 - [[Postal Address]]
 - [[Census]]
+- [[Gazetteer]]

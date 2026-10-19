@@ -41,7 +41,7 @@ Isolation is a single-database concern. Across replicas, the analogous guarantee
 ## See also
 - [[ACID]]
 - [[Two-Phase Locking]]
-- [[Optimistic Locking]]
+- [[SQL]]
 - [[Pessimistic Locking]]
 - [[Linearizability Checking]]
 - [[Distributed SQL]]

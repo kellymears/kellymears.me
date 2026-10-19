@@ -21,3 +21,4 @@ Tags describe text, not people. A user's interface language, the language of a p
 ## See also
 - [[Character Encoding]]
 - [[HTML]]
+- [[Gazetteer]]

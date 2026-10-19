@@ -26,7 +26,7 @@ Creators can also place their own work in or near the public domain by dedicatin
 Similar debates surround patents, software that can't legally be repaired, and old games that can no longer be bought; see [[Right to Repair]] and [[Emulation]].
 
 ## See also
-- [[Free Software]]
-- [[License Compatibility]]
+- [[OpenStreetMap]]
+- [[Freedom of Information]]
 - [[Gopher]]
 - [[Open Source Definition]]

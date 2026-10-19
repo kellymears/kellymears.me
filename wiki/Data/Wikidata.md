@@ -26,7 +26,7 @@ It can be queried with SPARQL, a query language for data stored as subject, prop
 The difficulties are those of any open, collaborative project; see [[Wiki]] and [[Commons-Based Peer Production]]. Coverage reflects what volunteers care about. Bots perform a large share of edits, so errors can spread at scale. And modeling the world in structured statements forces choices about categories that reasonable people dispute; see [[Structured Data]].
 
 ## See also
-- [[Metadata]]
-- [[Library Classification]]
+- [[OpenStreetMap]]
+- [[Citation Index]]
 - [[Linked Data]]
-- [[Wikipedia]]
+- [[Gazetteer]]

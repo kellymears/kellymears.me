@@ -33,3 +33,4 @@ Software teams use a similar check, with the same tension between catching probl
 - [[Hyatt Regency Walkway Collapse]]
 - [[Sturgeon's Law]]
 - [[Paradigm Shift]]
+- [[Citation Index]]

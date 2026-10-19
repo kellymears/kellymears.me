@@ -26,6 +26,6 @@ The craft has its own failure modes. A striking pattern in area totals may not h
 Data journalism also checks official numbers rather than just repeating them, a role that grows as more of public life is run by systems that produce records.
 
 ## See also
-- [[Garbage In, Garbage Out]]
-- [[Infographic]]
+- [[Freedom of Information]]
+- [[OpenStreetMap]]
 - [[Line Chart]]

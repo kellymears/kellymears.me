@@ -34,3 +34,4 @@ The broader lesson is that unchecked inputs produce confident wrong outputs; see
 - [[CSV]]
 - [[Software Inspection]]
 - [[Data Profiling]]
+- [[Double-Entry Bookkeeping]]

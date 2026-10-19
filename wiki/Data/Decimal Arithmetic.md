@@ -32,6 +32,6 @@ Money needs more than exact numbers. An amount without a currency is ambiguous, 
 - [[Country Code]]
 - [[JSON]]
 - [[Bresenham's Line Algorithm]]
-- [[Reference Data]]
+- [[Double-Entry Bookkeeping]]
 - [[Pentium FDIV Bug]]
 - [[Patriot Missile Failure]]

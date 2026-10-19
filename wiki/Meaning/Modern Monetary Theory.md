@@ -23,3 +23,4 @@ Both camps read the 2021-23 inflation episode as confirmation, which suggests th
 - [[Baumol's Cost Disease]]
 - [[Gresham's Law]]
 - [[Bank Run]]
+- [[Double-Entry Bookkeeping]]

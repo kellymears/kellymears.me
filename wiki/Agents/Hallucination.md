@@ -16,7 +16,7 @@ Mitigations that work are all about grounding. Give the model tools to *look* ra
 ## See also
 - [[Dependency Confusion]]
 - [[Choice Blindness]]
-- [[Chatbot]]
+- [[Citation Index]]
 - [[Self-Consistency]]
 - [[Sycophancy]]
 - [[Stochastic Parrot]]

@@ -26,7 +26,7 @@ Archives outlive the programs that made them, which is why open, documented form
 
 ## See also
 - [[File Transfer Protocol]]
-- [[Backup and Restore]]
+- [[Magnetic Tape]]
 - [[Burrows-Wheeler Transform]]
 - [[Sparse File]]
 - [[Disk Image]]

@@ -16,7 +16,7 @@ Local development for a multi-tenant system needs the same addressing scheme as 
 
 ## See also
 - [[Resource Limit]]
-- [[Relational Database]]
+- [[Data Silo]]
 - [[Web Hosting]]
 - [[Headless CMS]]
 - [[HTTP Cookie]]

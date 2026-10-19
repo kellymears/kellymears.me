@@ -35,3 +35,4 @@ Database query languages share the declarative idea: the user states the result 
 - [[Lisp]]
 - [[Turing Completeness]]
 - [[Curry-Howard Correspondence]]
+- [[SQL]]

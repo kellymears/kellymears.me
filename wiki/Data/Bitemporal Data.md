@@ -31,7 +31,7 @@ The costs are real. Storage grows with every change. Queries need extra conditio
 Related patterns approach the same problem differently. [[Event Sourcing]] stores changes as events, which preserves transaction-time history naturally. Warehouses track changing attributes with slowly changing dimensions; see [[Dimensional Modeling]]. Databases already keep short-lived versions internally for concurrency; see [[Multiversion Concurrency Control]]. An [[Audit Log]] records who made each change. [[Soft Delete]] is the simplest step toward the same idea: deleting by marking, so history survives.
 
 ## See also
-- [[Time Zone]]
+- [[Double-Entry Bookkeeping]]
 - [[Unix Time]]
 - [[Change Data Capture]]
 - [[Date Picker]]

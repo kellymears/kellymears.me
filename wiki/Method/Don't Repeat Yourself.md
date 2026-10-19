@@ -29,3 +29,4 @@ Duplication is a debt with interest that's easy to misjudge in either direction;
 ## See also
 - [[Premature Optimization]]
 - [[Gall's Law]]
+- [[Data Silo]]

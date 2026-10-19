@@ -28,5 +28,5 @@ They matter most where references must last: citations in research, datasets beh
 
 ## See also
 - [[Natural key]]
-- [[Linked Data]]
-- [[Country Code]]
+- [[Citation Index]]
+- [[Gazetteer]]

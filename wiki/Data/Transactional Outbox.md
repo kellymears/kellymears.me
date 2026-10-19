@@ -23,6 +23,6 @@ The outbox is a building block for larger patterns. A [[Saga Pattern]] uses it t
 ## See also
 - [[Stored Procedure]]
 - [[Command Query Responsibility Segregation]]
-- [[Idempotence]]
+- [[Double-Entry Bookkeeping]]
 - [[Audit Log]]
 - [[Idempotency Key]]

@@ -13,7 +13,7 @@ The cost is that querying "current state" now requires either replaying potentia
 
 ## See also
 - [[Command Query Responsibility Segregation]]
-- [[Audit Log]]
+- [[Double-Entry Bookkeeping]]
 - [[Bitemporal Data]]
 - [[Denormalization]]
 - [[State Management]]

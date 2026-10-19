@@ -30,5 +30,5 @@ The results feed several later steps. They guide cleaning, document the dataset,
 Even a statistical fingerprint can be informative. Some naturally occurring numbers follow a predictable pattern in their leading digits, and fabricated figures often don't; see [[Benford's Law]].
 
 ## See also
-- [[Reference Data]]
+- [[Dark Data]]
 - [[Phonetic Algorithm]]

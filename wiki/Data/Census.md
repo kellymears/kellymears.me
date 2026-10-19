@@ -25,7 +25,7 @@ Benedict Anderson argued that the census, along with the map and the museum, hel
 
 ## See also
 - [[Geocoding]]
-- [[Phonetic Algorithm]]
+- [[Magnetic Tape]]
 - [[Data Journalism]]
 - [[Personal Name]]
 - [[Gerrymandering]]

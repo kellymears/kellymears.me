@@ -30,6 +30,6 @@ The pattern accepts that distributed systems can't make several services behave 
 - [[Microservices]]
 - [[Command Query Responsibility Segregation]]
 - [[Distributed Lock]]
-- [[Idempotence]]
+- [[Double-Entry Bookkeeping]]
 - [[Idempotency Key]]
 - [[Two-Phase Locking]]

@@ -31,7 +31,7 @@ After the 2020 US election, claims circulated that precinct vote counts violated
 [[Synthetic Data]] meant to mimic real accounts should follow the curve too. The quickest test is a bar chart of first digits in a [[Spreadsheet]]; see [[Data Visualization]]. Richard Hamming noted that floating-point results drift toward the same distribution, which shapes rounding error; see [[Floating-Point Arithmetic]].
 
 ## See also
-- [[Fermi Estimation]]
+- [[Double-Entry Bookkeeping]]
 - [[Data Profiling]]
 - [[Logarithmic Scale]]
 - [[Bar Chart]]

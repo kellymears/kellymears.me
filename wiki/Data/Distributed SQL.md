@@ -30,4 +30,4 @@ Most applications still fit on one well-run server with a replica, and stay simp
 
 ## See also
 - [[Atomic Clock]]
-- [[Two-Phase Locking]]
+- [[SQL]]

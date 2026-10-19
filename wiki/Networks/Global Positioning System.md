@@ -30,7 +30,7 @@ The system was built for the US military and opened fully to civilian accuracy i
 ## See also
 - [[Data Broker]]
 - [[Pigeon Post]]
-- [[Signal-to-Noise Ratio]]
+- [[OpenStreetMap]]
 - [[Radio Propagation]]
 - [[Spread Spectrum]]
 - [[Geospatial Data]]

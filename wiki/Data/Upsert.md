@@ -33,3 +33,4 @@ ORMs often offer a `findOrCreate` or `upsert` method. Some implement it as the r
 - [[Soft Delete]]
 - [[Transactional Outbox]]
 - [[Idempotency Key]]
+- [[SQL]]

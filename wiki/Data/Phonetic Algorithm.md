@@ -19,3 +19,4 @@ The approach has clear limits. Every algorithm encodes assumptions about a parti
 ## See also
 - [[Data Cleaning]]
 - [[Library Classification]]
+- [[Gazetteer]]

@@ -27,5 +27,5 @@ Earthquakes also affect infrastructure far away. A 2006 earthquake off Taiwan tr
 
 ## See also
 - [[Shock Wave]]
-- [[Concrete]]
+- [[OpenStreetMap]]
 - [[Tacoma Narrows Bridge]]

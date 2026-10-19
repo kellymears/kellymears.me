@@ -30,7 +30,7 @@ For these reasons the 2000s and 2010s swung toward keeping logic in the applicat
 A reasonable middle ground keeps business rules that must always hold, such as uniqueness, referential integrity, and audit records, in the database, and keeps workflows, integrations, and anything needing frequent change in the application. Whichever side holds the code, it needs tests, and [[Seed Data]] makes database logic testable.
 
 ## See also
-- [[Query Planner]]
+- [[SQL]]
 - [[Transactional Outbox]]
 - [[Database View]]
 - [[Database Partitioning]]

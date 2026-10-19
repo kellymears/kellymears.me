@@ -19,5 +19,5 @@ The hype has faded, partly because hardware won. Memory and single-machine proce
 The social side remains. Much big data is behavioral, collected as people search, shop, move, and click, and its value to advertisers and data brokers fed debates about surveillance and consent; see [[Personal Data]] and [[Data Broker]].
 
 ## See also
-- [[Garbage In, Garbage Out]]
+- [[Dark Data]]
 - [[Data Mesh]]

@@ -20,7 +20,7 @@ The trade copy-on-write makes is complexity for cost: tracking which pages or bl
 - [[Multiversion Concurrency Control]]
 - [[Data Deduplication]]
 - [[Reference Counting]]
-- [[Read-Copy-Update]]
+- [[Data Remanence]]
 - [[Journaling File System]]
 - [[Solid-State Drive]]
 - [[Atomic File Write]]

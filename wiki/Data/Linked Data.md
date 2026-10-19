@@ -20,5 +20,5 @@ The most widespread use is quieter. Search engines read linked-data markup embed
 The grander vision, a web of data that software agents would reason over and act on, has largely not arrived as once promised. Publishing good linked data takes careful modeling, tools have been harder to use than ordinary databases and JSON APIs, and many endpoints have gone offline, leaving dangling identifiers; see [[Link Rot]]. Agreement on shared vocabularies across communities is slow, and data published without upkeep goes stale. Linked data has thrived where institutions already valued shared identifiers and long-term stewardship, such as libraries, museums, life sciences, and government statistics; see [[Metadata]].
 
 ## See also
-- [[World Wide Web]]
-- [[Entity Resolution]]
+- [[OpenStreetMap]]
+- [[Data Silo]]

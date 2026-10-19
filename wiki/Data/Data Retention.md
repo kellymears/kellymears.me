@@ -31,6 +31,6 @@ Some designs resist deletion. A [[Soft Delete]] keeps the row and only hides it,
 Retention differs from preservation. [[Digital Preservation]] is about keeping chosen records usable indefinitely; retention is mostly about knowing when to stop.
 
 ## See also
-- [[Data Governance]]
-- [[Internet Archive]]
-- [[Archival Science]]
+- [[Data Remanence]]
+- [[Magnetic Tape]]
+- [[Dark Data]]

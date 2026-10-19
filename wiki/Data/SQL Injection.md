@@ -30,6 +30,6 @@ SQL injection has declined as frameworks made parameterization the default, but 
 ## See also
 - [[PHP]]
 - [[Prototype Pollution]]
-- [[Template Engine]]
+- [[SQL]]
 - [[WordPress]]
 - [[Log4Shell]]

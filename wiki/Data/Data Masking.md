@@ -28,6 +28,6 @@ The deeper risk is re-identification. Removing names doesn't make a record anony
 Stronger alternatives exist. Generated data with similar statistics avoids real records entirely; see [[Synthetic Data]]. Mathematical guarantees about what an analysis reveals require adding calibrated noise; see [[Differential Privacy]]. Small hand-built datasets often serve tests better anyway; see [[Seed Data]].
 
 ## See also
-- [[Personal Name]]
+- [[Data Remanence]]
 - [[Phone Number]]
 - [[Data Governance]]

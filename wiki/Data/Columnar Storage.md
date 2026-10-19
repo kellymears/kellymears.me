@@ -29,7 +29,7 @@ Data usually reaches a warehouse from transactional databases through [[Change D
 ## See also
 - [[Pivot Table]]
 - [[Big Data]]
-- [[Object Storage]]
+- [[Data Silo]]
 - [[Bitmap Index]]
 - [[DataFrame]]
 - [[Database Partitioning]]

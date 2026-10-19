@@ -19,7 +19,7 @@ It is worth being clear about the incentive structure. Search optimization is an
 - [[Open Graph]]
 - [[Alt Text]]
 - [[Linked Data]]
-- [[Clickbait]]
+- [[Citation Index]]
 - [[Infographic]]
 - [[Sitemap]]
 

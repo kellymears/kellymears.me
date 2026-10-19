@@ -28,5 +28,5 @@ Operating systems hide DRAM's limited size by moving data between it and disk; s
 
 ## See also
 - [[Read-Only Memory]]
-- [[Motherboard]]
+- [[Data Remanence]]
 - [[In-Memory Database]]

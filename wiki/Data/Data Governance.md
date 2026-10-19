@@ -26,5 +26,5 @@ Governance has a reputation for bureaucracy. Programs launched as committees wit
 A recurring lesson is that data structures follow organizational ones. Datasets fragment along team boundaries, and governance that ignores the org chart tends to fail; see [[Conway's Law]]. Governance works best when it's attached to decisions people already make, such as approving a new data source or granting access, instead of added as a separate review.
 
 ## See also
-- [[Audit Log]]
-- [[Reference Data]]
+- [[Data Silo]]
+- [[Dark Data]]

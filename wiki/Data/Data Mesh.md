@@ -24,5 +24,5 @@ Critics raise several points. A mesh needs domain teams that have, or can hire, 
 Where it works, the gains are clear ownership, fewer broken pipelines, and data that comes with someone to ask about it. Many organizations adopt parts of it, especially contracts and named owners, while keeping a central warehouse; see [[Data Lineage]] for tracing what feeds what. The underlying lesson is older than the term: data quality is decided where the data is produced, not where it is cleaned; see [[Data Cleaning]].
 
 ## See also
-- [[Data Governance]]
+- [[Data Silo]]
 - [[Big Data]]

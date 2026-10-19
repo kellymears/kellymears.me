@@ -28,6 +28,6 @@ Personal wikis have become common as a private reference — the same mechanics,
 - [[Participation Inequality]]
 - [[Source Amnesia]]
 - [[Project Xanadu]]
-- [[Wikipedia]]
+- [[OpenStreetMap]]
 - [[Eternal September]]
 - [[Internet Forum]]

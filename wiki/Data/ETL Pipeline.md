@@ -34,4 +34,4 @@ Nightly batch jobs leave data a day old. [[Change Data Capture]] streams each da
 
 ## See also
 - [[Fixed-Width File]]
-- [[Data Profiling]]
+- [[Data Silo]]

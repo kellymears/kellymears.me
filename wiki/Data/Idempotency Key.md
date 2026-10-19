@@ -26,5 +26,5 @@ The same idea underpins reliable messaging. Message brokers usually promise that
 Clients still need to retry sensibly, spacing attempts out so a recovering server isn't flooded; see [[Exponential Backoff]].
 
 ## See also
-- [[Optimistic UI]]
+- [[Double-Entry Bookkeeping]]
 - [[Webhook]]

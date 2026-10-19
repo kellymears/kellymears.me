@@ -32,4 +32,4 @@ Converting fixed-width files is a staple of data pipelines, and spreadsheet impo
 
 ## See also
 - [[Serialization]]
-- [[Columnar Storage]]
+- [[Magnetic Tape]]

@@ -27,6 +27,6 @@ Statistics uses the same layout under the name contingency table, counting how o
 
 ## See also
 - [[Prefix Sum]]
-- [[Faceted Search]]
+- [[SQL]]
 - [[Tidy Data]]
 - [[Data Table]]

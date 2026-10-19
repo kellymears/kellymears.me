@@ -29,6 +29,6 @@ Short paths explain how quickly things spread, from rumors and diseases to compu
 - [[Diffusion of Innovations]]
 - [[Approximate Nearest Neighbor Search]]
 - [[PageRank]]
-- [[Traffic Analysis]]
+- [[Citation Index]]
 - [[Herd Immunity]]
 - [[Graph Neural Network]]

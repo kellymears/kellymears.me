@@ -36,3 +36,4 @@ Some backend platforms expose the database directly to browsers and rely entirel
 - [[Audit Log]]
 - [[Mandatory Access Control]]
 - [[Database View]]
+- [[SQL]]

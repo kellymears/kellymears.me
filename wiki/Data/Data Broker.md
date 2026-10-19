@@ -11,7 +11,7 @@ A **data broker** is a company that collects information about people from many 
 
 Sources:
 
-- **Public records**: property deeds, voter rolls, court filings, marriage and business licenses.
+- **Public records**: property deeds, voter rolls, court filings, marriage and business licenses, often obtainable under open-records laws; see [[Freedom of Information]].
 - **Purchases**: loyalty programs, warranty cards, magazine subscriptions, and card transaction data sold in bulk.
 - **Apps.** Software kits embedded in free apps collect a phone's precise [[Global Positioning System]] fix many times a day and sell it as **location data**, sometimes without the app's own developers understanding the deal.
 - **Ad auctions.** When a page or app loads an ad, an auction called **real-time bidding** broadcasts the device's identifier, approximate location, and page context to hundreds of bidders in milliseconds. Every bidder sees the data whether or not it wins.
@@ -34,4 +34,4 @@ Broker databases concentrate risk, holding everything in one place for whoever b
 ## See also
 - [[Mix Network]]
 - [[Doxing]]
-- [[Traffic Analysis]]
+- [[Dark Data]]

@@ -24,6 +24,6 @@ The single-writer design and file locking limit it. It is a poor fit for many ma
 That advice has been tested in recent years. Tools stream SQLite's changes to cloud [[Object Storage]] for continuous backup, and several companies run SQLite databases close to users and replicate them; see [[Edge Computing]] and [[Database Replication]]. Local-first applications keep a full SQLite database on each device and sync changes between them; see [[Local-First Software]].
 
 ## See also
-- [[Two-Phase Locking]]
+- [[SQL]]
 - [[Origin Private File System]]
 - [[In-Memory Database]]

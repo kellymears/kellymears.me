@@ -33,6 +33,6 @@ Lineage pairs with pipeline [[Observability]]: freshness, volume, and schema mon
 ## See also
 - [[Data Governance]]
 - [[Machine Unlearning]]
-- [[Data Profiling]]
+- [[Dark Data]]
 - [[Archival Science]]
 - [[Data Contract]]

@@ -24,3 +24,4 @@ The most effective defenses are dull: offline or immutable backups the attacker 
 ## See also
 - [[Full-Disk Encryption]]
 - [[Phishing]]
+- [[Magnetic Tape]]

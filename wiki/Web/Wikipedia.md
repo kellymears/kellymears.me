@@ -22,5 +22,5 @@ Still, early fears that an encyclopedia anyone could edit would be worthless lar
 Its reach now extends well beyond its own pages. Search engines quote it in answer boxes, and it is among the most heavily used sources in training language models, which raises questions about whether the volunteer work behind it will keep being rewarded; see [[Web Search Engine]] and [[Pretraining]].
 
 ## See also
-- [[Internet Archive]]
-- [[Tragedy of the Commons]]
+- [[Citation Index]]
+- [[OpenStreetMap]]

@@ -21,5 +21,5 @@ When systems exchange data, their code lists must agree or be mapped. One system
 Teams sometimes smuggle special meaning into codes, such as a status 99 that means "unknown," which later readers misinterpret; see [[Sentinel Value]].
 
 ## See also
-- [[Database Normalization]]
-- [[Schema Evolution]]
+- [[Gazetteer]]
+- [[Data Silo]]

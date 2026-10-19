@@ -21,3 +21,4 @@ Software usually treats the list as reference data, stored once and updated as t
 ## See also
 - [[Internationalization]]
 - [[Data Sovereignty]]
+- [[Gazetteer]]

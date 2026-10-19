@@ -25,5 +25,5 @@ Physical preservation means controlling temperature, humidity, light, and handli
 Archival thinking has influenced data work. Tracking where a dataset came from and what transformed it is provenance under another name; see [[Data Lineage]]. Records that must never be altered, only added to, follow archival ideas of authenticity; see [[Audit Log]]. And stable identifiers that keep resolving long after a system changes are an archivist's priority; see [[Persistent Identifier]].
 
 ## See also
-- [[Phonetic Algorithm]]
-- [[Internet Archive]]
+- [[Double-Entry Bookkeeping]]
+- [[Dark Data]]

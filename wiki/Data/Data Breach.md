@@ -36,5 +36,5 @@ Defenses:
 Bruce Schneier calls stored personal data a toxic asset. Planning for a breach belongs in [[Threat Modeling]].
 
 ## See also
-- [[Air Gap]]
-- [[Ransomware]]
+- [[Dark Data]]
+- [[Data Remanence]]

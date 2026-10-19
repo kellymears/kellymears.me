@@ -20,7 +20,7 @@ Two practical cautions.
 ## See also
 - [[Breadcrumb]]
 - [[Barcode]]
-- [[JSON Schema]]
+- [[Dark Data]]
 - [[Paywall]]
 - [[RSS]]
 - [[Headless CMS]]

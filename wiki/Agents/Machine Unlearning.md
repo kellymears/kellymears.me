@@ -28,6 +28,6 @@ Unlearning is the deliberate counterpart of [[Catastrophic Forgetting]], which d
 Prevention is easier than cure. Training with [[Differential Privacy]] bounds how much any single example can influence the model, limiting what there is to unlearn. Tracking which data went into which model makes requests answerable at all; see [[Data Lineage]]. As with deletion elsewhere, copies linger in backups and earlier model versions; see [[Data Retention]].
 
 ## See also
-- [[Ablation Study]]
+- [[Data Remanence]]
 - [[AI Alignment]]
 - [[Federated Learning]]

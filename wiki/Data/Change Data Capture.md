@@ -18,7 +18,7 @@ This is what makes CDC the practical backbone for keeping a search index, a cach
 - [[Command Query Responsibility Segregation]]
 - [[Materialized View]]
 - [[Transactional Outbox]]
-- [[Columnar Storage]]
+- [[Data Silo]]
 - [[ETL Pipeline]]
 - [[Stream Processing]]
 - [[Data Lake]]

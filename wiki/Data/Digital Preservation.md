@@ -35,8 +35,8 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 ## See also
 - [[Software Heritage]]
 - [[GIF]]
-- [[SQLite]]
-- [[Read-Only Memory]]
+- [[Dark Data]]
+- [[Magnetic Tape]]
 - [[Hard Disk Drive]]
 - [[Optical Character Recognition]]
-- [[Ransomware]]
+- [[Data Remanence]]

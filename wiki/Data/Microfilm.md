@@ -23,6 +23,7 @@ Filming also had a cost. Many libraries discarded original newspapers after micr
 ## See also
 - [[Punched Card]]
 - [[Lens]]
-- [[Persistent Identifier]]
+- [[Freedom of Information]]
 - [[Archival Science]]
 - [[Internet Archive]]
+- [[Magnetic Tape]]

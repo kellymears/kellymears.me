@@ -22,3 +22,4 @@ The machines left marks on modern software. Unix calls terminals TTYs, from tele
 ## See also
 - [[Telnet]]
 - [[Punched Card]]
+- [[Magnetic Tape]]

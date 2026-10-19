@@ -24,7 +24,7 @@ The reforms are mostly about committing in advance. **Preregistration** records 
 
 ## See also
 - [[Meta-Analysis]]
-- [[Ablation Study]]
+- [[Citation Index]]
 - [[Spreadsheet Error]]
 - [[Stereotype Threat]]
 - [[Misattribution of Arousal]]
