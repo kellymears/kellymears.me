@@ -27,7 +27,7 @@ Language models are imitation learners at enormous scale. Pretraining teaches a 
 Games use it too. Racing games have trained AI drivers on recordings of a player's own driving, so the player's ghost can race in their absence; see [[Game AI]]. Robot demonstrations are often captured with tracking suits or remote control; see [[Motion Capture]].
 
 ## See also
-- [[Autonomous Vehicle]]
+- [[Observational Learning]]
 - [[Curriculum Learning]]
 - [[AlphaGo]]
 - [[Paperclip Maximizer]]

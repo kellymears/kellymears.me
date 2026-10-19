@@ -29,5 +29,5 @@ It has costs too. Pairing is intense and tiring, and constant conversation is ha
 ## See also
 - [[Two-Pizza Team]]
 - [[Transactive Memory]]
-- [[Software Inspection]]
+- [[Observational Learning]]
 - [[Extreme Programming]]

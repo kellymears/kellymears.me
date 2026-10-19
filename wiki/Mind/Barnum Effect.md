@@ -28,6 +28,6 @@ Recommendation systems and personalized feeds can trigger something similar. A s
 A useful defense: before accepting that a description fits, ask whether it would fit most other people too.
 
 ## See also
-- [[Motivated Reasoning]]
+- [[Big Five Personality Traits]]
 - [[Just-World Hypothesis]]
 - [[Learning Styles]]

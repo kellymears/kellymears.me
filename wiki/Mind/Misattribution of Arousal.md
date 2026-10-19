@@ -27,3 +27,4 @@ Misattribution has practical edges. Caffeine jitters can be read as anxiety, and
 - [[Window of Tolerance]]
 - [[Placebo Effect]]
 - [[Emotional Contagion]]
+- [[Anxiety]]

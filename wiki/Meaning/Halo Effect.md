@@ -14,7 +14,7 @@ The effect is worth distinguishing from ordinary correlation, where traits reall
 ## See also
 - [[Decision Matrix]]
 - [[Intelligence Quotient]]
-- [[Correlation Coefficient]]
+- [[Cognitive Bias]]
 - [[Confidence Trick]]
 - [[Serial Position Effect]]
 - [[Aesthetic-Usability Effect]]

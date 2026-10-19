@@ -30,3 +30,4 @@ The core insight, that people regulate distress partly through others and that r
 - [[Theory of Mind]]
 - [[Self-Compassion]]
 - [[Virtual Pet]]
+- [[Big Five Personality Traits]]

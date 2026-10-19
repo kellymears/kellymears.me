@@ -26,7 +26,7 @@ Recovery is mostly about reducing load: dropping masking where safe, cutting dem
 - [[Self-Compassion]]
 - [[Sensory Processing]]
 - [[Code-Switching]]
-- [[Neurodiversity]]
+- [[Perfectionism]]
 - [[Burnout]]
 - [[Autistic Inertia]]
 - [[Allostatic Load]]

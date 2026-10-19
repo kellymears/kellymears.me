@@ -18,13 +18,13 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 - [[Reversible Decision]]
 - [[Cost-Benefit Analysis]]
 - [[Obedience to Authority]]
-- [[Backgammon]]
+- [[Counterfactual Thinking]]
 - [[Sinking of the Vasa]]
 
 ## Related
 - [[Yak Shaving]]
 - [[Mental Accounting]]
-- [[IKEA Effect]]
+- [[Cognitive Bias]]
 - [[Post Office Horizon Scandal]]
 - [[Push Your Luck]]
 - [[Commitment Device]]

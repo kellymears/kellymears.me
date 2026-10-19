@@ -31,6 +31,6 @@ At the far end, voices that seem to come from outside, as in some psychiatric co
 - [[Earworm]]
 - [[Psychological Distance]]
 - [[Zone of Proximal Development]]
-- [[ReAct]]
+- [[Consciousness]]
 - [[Embodied Cognition]]
 - [[Speed Reading]]

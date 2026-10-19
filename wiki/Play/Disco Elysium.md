@@ -13,7 +13,7 @@ The game is often cited for treating [[Ludonarrative Dissonance]] as solved, sin
 
 ## See also
 - [[Walking Simulator]]
-- [[Unreliable Narrator]]
+- [[Empathy]]
 - [[Dialogue Tree]]
 - [[Morality System]]
 - [[Tabletop Role-Playing Game]]

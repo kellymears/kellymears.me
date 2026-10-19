@@ -33,6 +33,6 @@ The rule interacts with other memory effects. The [[Serial Position Effect]] als
 - [[Affective Forecasting]]
 - [[Kano Model]]
 - [[Progress Indicator]]
-- [[Event Segmentation]]
+- [[Counterfactual Thinking]]
 - [[Cliffhanger]]
 - [[Boss Battle]]

@@ -24,6 +24,6 @@ There are limits to how many close relationships people can maintain, and loneli
 
 ## See also
 - [[Grief]]
-- [[Self-Compassion]]
-- [[Let's Play]]
+- [[Empathy]]
+- [[Big Five Personality Traits]]
 - [[Virtual Pet]]

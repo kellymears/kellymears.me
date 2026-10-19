@@ -18,7 +18,7 @@ The effect has been replicated across dozens of experimental setups, from staged
 - [[Fundamental Attribution Error]]
 - [[Spiral of Silence]]
 - [[Pluralistic Ignorance]]
-- [[Free Rider Problem]]
+- [[Empathy]]
 - [[Change Advisory Board]]
 - [[Spotlight Effect]]
 - [[Conformity]]

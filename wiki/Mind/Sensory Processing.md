@@ -36,7 +36,7 @@ Practical supports work on both the person and the environment:
 Recognizing one's own profile, and building a life around it rather than [[Masking]] through discomfort, keeps people within their [[Window of Tolerance]].
 
 ## See also
-- [[Migraine]]
+- [[Big Five Personality Traits]]
 - [[Hypermobility]]
 - [[McGurk Effect]]
 - [[Misophonia]]

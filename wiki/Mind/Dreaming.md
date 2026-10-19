@@ -34,3 +34,4 @@ Daydreams share some features with night dreams, drawing on the same brain netwo
 - [[Déjà Vu]]
 - [[Tetris]]
 - [[World Model]]
+- [[Consciousness]]

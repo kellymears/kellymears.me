@@ -27,7 +27,7 @@ Machines raised the question again in 2023, when [[Large Language Model]] system
 ## See also
 - [[Mirror Neurons]]
 - [[Turing Test]]
-- [[Party Game]]
+- [[Empathy]]
 - [[Card Drafting]]
 - [[Aphantasia]]
 - [[Prosopagnosia]]

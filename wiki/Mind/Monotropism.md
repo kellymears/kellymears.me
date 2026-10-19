@@ -22,7 +22,7 @@ The theory is useful in practice because it turns judgments into mechanisms. "Ri
 It also connects to design. A [[Focus Trap]] and careful [[Focus Management]] in interfaces exist because sudden, unannounced shifts of context are disorienting. A monotropic mind experiences unannounced context shifts in the world the same way.
 
 ## See also
-- [[Neurodiversity]]
+- [[Big Five Personality Traits]]
 - [[Hyperfocus]]
 - [[ADHD]]
 - [[Masking]]

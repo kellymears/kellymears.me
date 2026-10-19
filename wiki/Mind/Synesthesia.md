@@ -26,7 +26,7 @@ Everyone shares milder cross-sensory links. In Wolfgang Köhler's 1929 experimen
 The condition fits the wider picture of [[Neurodiversity]]: perception is constructed, and the construction varies.
 
 ## See also
-- [[Aphantasia]]
+- [[Consciousness]]
 - [[Neurodiversity]]
 - [[McGurk Effect]]
 - [[Eidetic Memory]]

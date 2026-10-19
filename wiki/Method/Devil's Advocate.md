@@ -23,7 +23,7 @@ The phrase also has an everyday misuse. "Just playing devil's advocate" can intr
 A more productive form of opposition argues against the strongest version of a position rather than the weakest; see [[Steelmanning]]. Formal processes that require dissent can help as long as the dissent is taken seriously, rather than recorded and set aside. The useful question for any group is whether someone in the room could change the decision by objecting, and whether anyone has tried.
 
 ## See also
-- [[Falsifiability]]
+- [[Cognitive Bias]]
 - [[Peer Review]]
 - [[Cunningham's Law]]
 - [[Socratic Method]]

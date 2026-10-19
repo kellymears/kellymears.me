@@ -27,6 +27,6 @@ Grief follows the loss of anything one is bonded to: a pet, a relationship, a ho
 Kindness toward oneself and others' presence help, rather than pressure to move on; see [[Self-Compassion]] and [[Loneliness]].
 
 ## See also
-- [[Emotional Regulation]]
-- [[Window of Tolerance]]
+- [[Shame]]
+- [[Counterfactual Thinking]]
 - [[Flashbulb Memory]]

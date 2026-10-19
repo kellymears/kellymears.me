@@ -19,7 +19,7 @@ For engineers, the practical corollary is to distrust your own confidence exactl
 - [[Regression to the Mean]]
 - [[Learning Curve]]
 - [[Illusory Truth Effect]]
-- [[Metacognition]]
+- [[Cognitive Bias]]
 - [[Intelligence Quotient]]
 
 ## Related

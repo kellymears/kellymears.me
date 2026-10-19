@@ -30,3 +30,4 @@ Industrial societies have thinned many of these rituals. Life transitions are of
 - [[Grief]]
 - [[Reminiscence Bump]]
 - [[Event Segmentation]]
+- [[Shame]]

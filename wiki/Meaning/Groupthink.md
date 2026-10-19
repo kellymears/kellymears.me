@@ -22,6 +22,6 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Paradigm Shift]]
 - [[Social Deduction Game]]
 - [[Delphi Method]]
-- [[Information Cascade]]
+- [[Observational Learning]]
 - [[Affinity Diagram]]
 - [[Cooperative Game]]

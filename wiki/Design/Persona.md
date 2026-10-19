@@ -36,4 +36,4 @@ Personas connect to a broader principle: design for the user's [[Mental Model]],
 - [[Kano Model]]
 - [[Design Thinking]]
 - [[User Story]]
-- [[Chatbot]]
+- [[Empathy]]

@@ -24,3 +24,4 @@ Turning a broad idea like intelligence into a test score is an act of operationa
 ## See also
 - [[Halo Effect]]
 - [[Dunning-Kruger Effect]]
+- [[Big Five Personality Traits]]

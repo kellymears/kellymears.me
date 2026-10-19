@@ -35,6 +35,6 @@ Ways to blunt the harm:
 Games and apps exploit comparison deliberately through leaderboards and rankings; see [[Matchmaking Rating]]. Other people's choices also guide behavior directly, which is a different mechanism; see [[Social Proof]].
 
 ## See also
-- [[Savoring]]
-- [[Affective Forecasting]]
+- [[Shame]]
+- [[Perfectionism]]
 - [[Cultural Capital]]

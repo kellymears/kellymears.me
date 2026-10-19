@@ -22,7 +22,7 @@ The corrective is the same move [[Fermi Estimation]] makes explicit: force yours
 - [[Dual Process Theory]]
 
 ## Related
-- [[Survivorship Bias]]
+- [[Cognitive Bias]]
 - [[Availability Cascade]]
 - [[Von Restorff Effect]]
 - [[Processing Fluency]]

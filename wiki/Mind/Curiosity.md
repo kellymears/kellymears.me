@@ -33,4 +33,4 @@ Curiosity varies between people. *Need for cognition*, the enjoyment of effortfu
 - [[Attachment Theory]]
 - [[Need for Closure]]
 - [[Boredom]]
-- [[Multi-Armed Bandit]]
+- [[Big Five Personality Traits]]

@@ -24,3 +24,4 @@ Some practical advice follows regardless of the debate. Tying behavior to identi
 - [[Self-Determination Theory]]
 - [[Fresh Start Effect]]
 - [[Deontology]]
+- [[Shame]]

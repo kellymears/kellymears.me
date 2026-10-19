@@ -30,6 +30,6 @@ Remedies start from taking another's view seriously: restate an opponent's posit
 
 ## See also
 - [[Optical Illusion]]
-- [[IKEA Effect]]
+- [[Cognitive Bias]]
 - [[Multistable Perception]]
 - [[Psychological Distance]]

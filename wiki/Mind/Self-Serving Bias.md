@@ -25,5 +25,5 @@ The costs fall mainly on learning. If failures are always someone else's fault, 
 Other biases interact with it. After a success, people overestimate how predictable it was; see [[Hindsight Bias]]. Belief that outcomes are under personal control feeds both credit-taking and self-blame; see [[Locus of Control]]. The least skilled often overestimate their abilities most; see [[Dunning-Kruger Effect]]. Kindness toward one's own failures, rather than defensiveness, can make it easier to acknowledge them honestly; see [[Self-Compassion]] and [[Growth Mindset]].
 
 ## See also
-- [[Moral Licensing]]
+- [[Cognitive Bias]]
 - [[Just-World Hypothesis]]

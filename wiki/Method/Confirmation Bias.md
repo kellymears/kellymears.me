@@ -24,6 +24,6 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Naive Realism]]
 
 ## Related
-- [[Scientific Method]]
+- [[Cognitive Bias]]
 - [[Three Mile Island Accident]]
 - [[Barnum Effect]]

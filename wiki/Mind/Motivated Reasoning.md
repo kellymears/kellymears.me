@@ -33,7 +33,7 @@ Countermeasures that have some support:
 
 ## See also
 - [[Moral Licensing]]
-- [[Ostrich Effect]]
+- [[Cognitive Bias]]
 - [[Barnum Effect]]
 - [[Devil's Advocate]]
 - [[IKEA Effect]]

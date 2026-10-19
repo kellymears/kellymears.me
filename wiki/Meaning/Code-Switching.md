@@ -25,7 +25,7 @@ The phenomenon also matters for technology. Speech recognition and language mode
 - [[Politeness Theory]]
 - [[Language Death]]
 - [[Grammatical Gender]]
-- [[Dialect]]
+- [[Observational Learning]]
 - [[Creole Language]]
 - [[Speech Act]]
 - [[Dog Whistle]]

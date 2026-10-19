@@ -31,9 +31,9 @@ A [[Pre-mortem]] turns the effect into a tool, borrowing the clarity of hindsigh
 
 ## See also
 - [[After-Action Review]]
-- [[Ishikawa Diagram]]
+- [[Counterfactual Thinking]]
 - [[Inversion]]
-- [[Knightian Uncertainty]]
+- [[Cognitive Bias]]
 - [[Just-World Hypothesis]]
 - [[Superforecasting]]
 - [[Pre-registration]]

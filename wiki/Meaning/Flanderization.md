@@ -25,3 +25,4 @@ The result is best read as [[Prototype Theory]] applied to a fictional person in
 - [[Fan Fiction]]
 - [[Bechdel Test]]
 - [[Three-Act Structure]]
+- [[Big Five Personality Traits]]

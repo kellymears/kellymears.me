@@ -27,8 +27,8 @@ Teams show a similar dynamic. When mistakes are treated as evidence of incompete
 
 ## See also
 - [[Learning Styles]]
-- [[Zone of Proximal Development]]
+- [[Big Five Personality Traits]]
 - [[Intelligence Quotient]]
 - [[Self-Handicapping]]
-- [[Deliberate Practice]]
+- [[Perfectionism]]
 - [[Learning Curve]]

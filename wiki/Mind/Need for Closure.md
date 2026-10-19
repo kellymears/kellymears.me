@@ -33,5 +33,5 @@ Trouble comes where the problem itself resists closure. Complex, changing situat
 The opposite tendency is linked to curiosity and enjoyment of thinking, which keep questions open longer; see [[Curiosity]]. An unfinished task or open question also tends to nag at attention, which suggests why closure feels like relief; see [[Zeigarnik Effect]].
 
 ## See also
-- [[Cognitive Dissonance]]
-- [[Ambiguity Aversion]]
+- [[Anxiety]]
+- [[Big Five Personality Traits]]

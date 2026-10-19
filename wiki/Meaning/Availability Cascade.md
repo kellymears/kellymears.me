@@ -16,7 +16,7 @@ The concept doesn't require the underlying claim to be false — some cascades b
 - [[Urban Legend]]
 - [[Bank Run]]
 - [[Filter Bubble]]
-- [[Propaganda]]
+- [[Cognitive Bias]]
 - [[Pluralistic Ignorance]]
 - [[Agenda-Setting]]
 - [[Self-Fulfilling Prophecy]]

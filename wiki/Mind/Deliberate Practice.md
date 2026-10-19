@@ -25,8 +25,8 @@ The idea still offers a useful lesson. Hours alone don't make someone better; wh
 Related findings support it. Spacing and mixing practice feels harder but produces more durable learning; see [[Desirable Difficulty]] and [[Spaced Repetition]]. Believing ability can grow makes people more willing to work at the edge of their skill; see [[Growth Mindset]]. And focused effort is tiring, so even top performers rarely manage more than about four hours a day; see [[Flow]].
 
 ## See also
-- [[Self-Efficacy]]
-- [[Air France Flight 447]]
+- [[Perfectionism]]
+- [[Observational Learning]]
 - [[Learning Styles]]
 - [[Intelligence Quotient]]
 - [[Tetris]]

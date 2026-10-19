@@ -29,7 +29,7 @@ Organizations shape locus of control. Blaming individuals for system failures te
 
 ## See also
 - [[Self-Handicapping]]
-- [[Commitment Device]]
+- [[Big Five Personality Traits]]
 - [[Push Your Luck]]
-- [[Just-World Hypothesis]]
+- [[Counterfactual Thinking]]
 - [[Attachment Theory]]

@@ -30,3 +30,4 @@ The condition shows that awareness of space depends on attention, not just intac
 ## See also
 - [[Prosopagnosia]]
 - [[Mental Rotation]]
+- [[Consciousness]]

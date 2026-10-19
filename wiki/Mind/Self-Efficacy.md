@@ -32,6 +32,6 @@ Low self-efficacy is a quiet driver of [[Procrastination]] and [[Demand Avoidanc
 ## See also
 - [[Self-Handicapping]]
 - [[Choking Under Pressure]]
-- [[Exposure Therapy]]
+- [[Observational Learning]]
 - [[Zone of Proximal Development]]
 - [[IKEA Effect]]

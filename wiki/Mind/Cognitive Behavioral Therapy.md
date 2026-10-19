@@ -34,7 +34,7 @@ CBT has limits. It works less well when problems stem from circumstances rather 
 
 ## See also
 - [[Psychological Distance]]
-- [[Socratic Method]]
+- [[Anxiety]]
 - [[Insomnia]]
 - [[Exposure Therapy]]
 - [[Ironic Process Theory]]

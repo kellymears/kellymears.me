@@ -16,7 +16,7 @@ Disclosure rules followed. Japan banned "complete gacha" in 2012 under prize-lab
 
 ## See also
 - [[Battle Pass]]
-- [[Pay-to-Win]]
+- [[Operant Conditioning]]
 - [[Mental Accounting]]
 - [[Grinding]]
 - [[Collectible Card Game]]

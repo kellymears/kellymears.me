@@ -36,3 +36,4 @@ Used well, it is less a procedure than a set of habits: talk to the people affec
 - [[Wicked Problem]]
 - [[Affinity Diagram]]
 - [[Kano Model]]
+- [[Empathy]]

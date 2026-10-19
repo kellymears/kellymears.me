@@ -26,7 +26,7 @@ Cultures have explained the experience in their own terms. In Newfoundland it is
 Treatment usually means better sleep habits. Knowing what the experience is reduces its terror, and some people learn to break an episode by focusing on moving a single finger or toe. Approaches adapted from [[Cognitive Behavioral Therapy]] help frequent sufferers, and reassurance matters, since many people fear they are going mad; see [[Mindfulness]].
 
 ## See also
-- [[Sleep Pressure]]
-- [[Synesthesia]]
+- [[Anxiety]]
+- [[Consciousness]]
 - [[Dissociation]]
 - [[Dreaming]]

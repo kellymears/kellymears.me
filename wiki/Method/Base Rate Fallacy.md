@@ -16,7 +16,7 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 
 ## See also
 - [[Relative Risk]]
-- [[Logical Fallacy]]
+- [[Cognitive Bias]]
 - [[Representativeness Heuristic]]
 - [[Allergy]]
 - [[Brier Score]]

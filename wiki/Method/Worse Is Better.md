@@ -17,7 +17,7 @@ It sits directly behind [[Gall's Law]] and [[Minimum Viable Product]] as one mor
 - [[Token Ring]]
 - [[You Aren't Gonna Need It]]
 - [[Postel's Law]]
-- [[Technical Debt]]
+- [[Perfectionism]]
 - [[Unix Pipeline]]
 
 ## Related

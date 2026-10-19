@@ -35,8 +35,8 @@ Chronic stress also affects the body, through disrupted sleep and the wear of pr
 Autistic people describe a related but distinct state brought on by the effort of masking and sensory strain rather than by work alone; see [[Autistic Burnout]] and [[Spoon Theory]]. Paying attention to early signs, such as dread on Sunday evenings, lost interest, and irritability, allows changes before exhaustion sets in; see [[Emotional Regulation]].
 
 ## See also
-- [[Yerkes-Dodson Law]]
-- [[Identifiable Victim Effect]]
+- [[Empathy]]
+- [[Perfectionism]]
 - [[Let's Play]]
 - [[Emotional Contagion]]
 - [[Crunch]]

@@ -25,9 +25,9 @@ Habits save effort. Each automatic action is one decision fewer, protecting agai
 
 ## See also
 - [[Learning Curve]]
-- [[Classical Conditioning]]
+- [[Observational Learning]]
 - [[Commitment Device]]
 - [[Fresh Start Effect]]
-- [[Moral Licensing]]
+- [[Operant Conditioning]]
 - [[Crossword]]
 - [[Virtual Pet]]

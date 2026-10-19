@@ -36,3 +36,4 @@ Fainting differs from vertigo, a false sense of spinning, though people describe
 - [[Valsalva Maneuver]]
 - [[Hyperventilation]]
 - [[Hypermobility]]
+- [[Consciousness]]

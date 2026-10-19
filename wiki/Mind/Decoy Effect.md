@@ -24,3 +24,4 @@ People also rationalize choices after the fact, explaining a selection in terms 
 - [[Veblen Good]]
 - [[Mental Accounting]]
 - [[Supply and Demand]]
+- [[Cognitive Bias]]

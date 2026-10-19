@@ -26,3 +26,4 @@ The concept is easy to over-apply to any case of low motivation; it specifically
 - [[Exposure Therapy]]
 - [[Sense of Agency]]
 - [[Hobson's Choice]]
+- [[Operant Conditioning]]

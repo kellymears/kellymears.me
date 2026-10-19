@@ -19,5 +19,5 @@ Breath-hold divers have used hyperventilation to extend their dives, and it's da
 At high altitude, faster breathing is a normal and useful adaptation. It raises oxygen intake in thin air, and the kidneys compensate for the resulting alkalosis over the following days; see [[Altitude Sickness]]. Hard exercise also drives breathing above metabolic need near maximum effort, helping buffer acid from working muscles; see [[Excess Post-Exercise Oxygen Consumption]].
 
 ## See also
-- [[Heart Rate Variability]]
+- [[Anxiety]]
 - [[Decompression Sickness]]

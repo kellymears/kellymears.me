@@ -19,11 +19,11 @@ The concepts this domain collects, such as [[Executive Function]], [[Monotropism
 ## See also
 - [[Misophonia]]
 - [[Synesthesia]]
-- [[Sensory Processing]]
+- [[Empathy]]
 - [[Inclusive Design]]
 - [[Aphantasia]]
 - [[Ideomotor Effect]]
 - [[Mirror Neurons]]
 - [[Dyscalculia]]
-- [[Hypermobility]]
+- [[Big Five Personality Traits]]
 - [[Demand Avoidance]]

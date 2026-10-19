@@ -29,7 +29,7 @@ A survey's margin of error covers only random sampling noise, not the biases abo
 Pretesting questions on real people who think aloud while answering catches confusions the author can't see; see [[Usability Testing]]. Where possible, check stated answers against behavior, and remember that being studied can itself change it; see [[Hawthorne Effect]].
 
 ## See also
-- [[Goodhart's Law]]
+- [[Big Five Personality Traits]]
 - [[Wisdom of the Crowd]]
 - [[Precision and Accuracy]]
 - [[Statistical Sampling]]

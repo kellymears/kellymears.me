@@ -33,5 +33,5 @@ The needs map onto other ideas in this collection. Competence and absorption mee
 - [[Psychological Reactance]]
 - [[Two-Pizza Team]]
 - [[Moral Licensing]]
-- [[Self-Efficacy]]
+- [[Operant Conditioning]]
 - [[Gift Economy]]

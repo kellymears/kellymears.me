@@ -13,11 +13,11 @@ A slot machine is the textbook illustration, not a metaphor bolted on afterward 
 What is established is the behavioral finding above, replicated across species and settings. What is contested is the leap from that finding to clinical **addiction** in the substance-dependence sense. Problem-gambling research treats variable-ratio reinforcement as a documented contributing mechanism, but "gaming disorder" is a narrower, more disputed diagnostic category — the ICD-11 recognizes it, while the DSM-5 lists internet gaming disorder only as a condition proposed for further study — and correlational links between loot-box spending and problem-gambling scores do not by themselves prove that a [[Compulsion Loop]] operates on the brain the way [[Physical Dependence]] does. The schedule explains the pull; it does not by itself prove the addiction.
 
 ## See also
-- [[Pay-to-Win]]
+- [[Operant Conditioning]]
 - [[Match-Three]]
 - [[Poker]]
 - [[Grinding]]
 - [[Pull-to-Refresh]]
-- [[Loot]]
+- [[Counterfactual Thinking]]
 - [[Classical Conditioning]]
 - [[Push Your Luck]]

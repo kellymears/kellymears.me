@@ -35,6 +35,6 @@ It fits with other findings about judgment: [[Anchoring Effect]] shows that refe
 - [[Weber-Fechner Law]]
 - [[Ambiguity Aversion]]
 - [[Mental Accounting]]
-- [[Precautionary Principle]]
+- [[Cognitive Bias]]
 - [[Affective Forecasting]]
-- [[Speculative Bubble]]
+- [[Counterfactual Thinking]]

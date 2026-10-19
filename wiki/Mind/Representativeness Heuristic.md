@@ -26,5 +26,5 @@ In practice, the heuristic matters wherever stories are used as evidence. Doctor
 - [[Narrative Fallacy]]
 - [[Need for Closure]]
 - [[Prosecutor's Fallacy]]
-- [[Law of Large Numbers]]
+- [[Cognitive Bias]]
 - [[Barnum Effect]]

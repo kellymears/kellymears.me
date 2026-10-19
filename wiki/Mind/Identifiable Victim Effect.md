@@ -23,3 +23,4 @@ Large numbers of victims can also make people feel their help would be a drop in
 - [[Base Rate Fallacy]]
 - [[Parasocial Relationship]]
 - [[Attention Economy]]
+- [[Empathy]]

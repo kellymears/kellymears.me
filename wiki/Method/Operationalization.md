@@ -29,4 +29,4 @@ Practical habits help. State the operational definition explicitly. Use several 
 - [[Pre-registration]]
 - [[Bechdel Test]]
 - [[Ecological Fallacy]]
-- [[Scientific Method]]
+- [[Big Five Personality Traits]]

@@ -15,7 +15,7 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 
 ## See also
 - [[Weber-Fechner Law]]
-- [[Structured Output]]
+- [[Cognitive Bias]]
 - [[Decision Matrix]]
 - [[Representativeness Heuristic]]
 - [[Schelling Point]]

@@ -31,4 +31,4 @@ Slow breathing with long exhales is one of the few direct ways to signal safety 
 
 ## See also
 - [[Hyperventilation]]
-- [[Sweat]]
+- [[Anxiety]]

@@ -31,4 +31,4 @@ Adding people late rarely saves a late project, as [[Brooks's Law]] warns, and w
 - [[Product Backlog]]
 - [[Time Perception]]
 - [[Delphi Method]]
-- [[Objectives and Key Results]]
+- [[Cognitive Bias]]

@@ -27,4 +27,4 @@ Even if a short reminder before a test has little effect, long experience of low
 ## See also
 - [[Spotlight Effect]]
 - [[Social Comparison]]
-- [[Intelligence Quotient]]
+- [[Shame]]

@@ -27,5 +27,5 @@ Support works best when it builds independence. A tutor who does too much keeps 
 
 ## See also
 - [[Learning Curve]]
-- [[Socratic Method]]
+- [[Observational Learning]]
 - [[Good First Issue]]

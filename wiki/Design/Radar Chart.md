@@ -26,7 +26,7 @@ Radar charts work best when the variables are on the same scale, have a natural 
 Coloring the filled areas strongly makes the overlap problem worse; see [[Color Contrast]] and [[Data-Ink Ratio]].
 
 ## See also
-- [[Data Visualization]]
+- [[Big Five Personality Traits]]
 - [[Treemap]]
 - [[Halo Effect]]
 - [[Bullet Graph]]

@@ -29,8 +29,8 @@ Practices that build it include:
 Self-compassion matters especially for people who spend much of their lives being told they are doing things wrong. For neurodivergent people, years of correction, [[Masking]], and [[Rejection Sensitivity]] often leave a well-trained inner critic, and self-compassion is a recurring theme in recovery from [[Autistic Burnout]]. It also counters [[Impostor Syndrome]], which feeds on the belief that any flaw is disqualifying.
 
 ## See also
-- [[Attachment Theory]]
+- [[Shame]]
 - [[Fresh Start Effect]]
-- [[Self-Serving Bias]]
-- [[Burnout]]
+- [[Perfectionism]]
+- [[Empathy]]
 - [[Self-Handicapping]]

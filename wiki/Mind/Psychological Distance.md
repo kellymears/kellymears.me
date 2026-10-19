@@ -29,3 +29,4 @@ Some construal level effects have proved weaker in larger replications, and the 
 - [[Identifiable Victim Effect]]
 - [[Mind-Wandering]]
 - [[Time Perception]]
+- [[Empathy]]

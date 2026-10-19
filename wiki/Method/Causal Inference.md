@@ -23,3 +23,4 @@ Where none of these designs is available, epidemiology falls back on weighing se
 ## See also
 - [[Correlation Coefficient]]
 - [[Scientific Method]]
+- [[Counterfactual Thinking]]

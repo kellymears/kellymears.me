@@ -35,8 +35,8 @@ Therapy uses the mechanism directly. Exposure-based treatments in [[Cognitive Be
 
 ## See also
 - [[Habituation]]
-- [[Memory Consolidation]]
-- [[Window of Tolerance]]
+- [[Operant Conditioning]]
+- [[Observational Learning]]
 - [[Neuroplasticity]]
 - [[Exposure Therapy]]
 - [[Misophonia]]

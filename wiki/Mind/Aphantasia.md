@@ -28,7 +28,7 @@ Inner experience varies along many such dimensions. Some people have little [[In
 ## See also
 - [[Eidetic Memory]]
 - [[Learning Styles]]
-- [[Neurodiversity]]
+- [[Consciousness]]
 - [[Earworm]]
 - [[Prosopagnosia]]
 - [[Dreaming]]

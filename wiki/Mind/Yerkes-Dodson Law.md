@@ -25,6 +25,6 @@ The practical lesson is to adjust stimulation to the task rather than maximize f
 
 ## See also
 - [[Yawning]]
-- [[Fight-or-Flight Response]]
+- [[Anxiety]]
 - [[Misattribution of Arousal]]
 - [[Burnout]]

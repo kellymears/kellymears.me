@@ -24,7 +24,7 @@ The **Libet experiment** brought agency into debates about free will. In the ear
 Agency is distinct from body ownership, the feeling that a body part is one's own, though the two usually go together; see [[Rubber Hand Illusion]]. It also matters for motivation: experiences of making things happen support persistence and well-being, while repeated loss of control can produce passivity; see [[Self-Efficacy]], [[Self-Determination Theory]], and [[Learned Helplessness]]. Clear feedback in tools and interfaces helps people feel in charge; see [[Haptic Feedback]].
 
 ## See also
-- [[Reward Prediction Error]]
+- [[Counterfactual Thinking]]
 - [[Choice Blindness]]
 - [[Hobson's Choice]]
-- [[Dissociation]]
+- [[Consciousness]]

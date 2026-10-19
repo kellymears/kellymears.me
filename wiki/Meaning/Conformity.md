@@ -31,3 +31,4 @@ Remedies follow from Asch's findings: collect opinions privately before discussi
 - [[Need for Closure]]
 - [[Bank Run]]
 - [[Emotional Contagion]]
+- [[Observational Learning]]

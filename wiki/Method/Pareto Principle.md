@@ -30,4 +30,4 @@ Used well, the principle is a prompt to look for the vital few: find what produc
 - [[Napster]]
 - [[Good First Issue]]
 - [[Herd Immunity]]
-- [[Objectives and Key Results]]
+- [[Perfectionism]]

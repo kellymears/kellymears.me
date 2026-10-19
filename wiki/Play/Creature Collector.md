@@ -15,7 +15,7 @@ summary: a genre built on capturing and fielding creatures, torn between the fan
 ## See also
 - [[Meta-Progression]]
 - [[Tier List]]
-- [[Live Service Game]]
+- [[Operant Conditioning]]
 - [[Variable-Ratio Reinforcement]]
 - [[Compulsion Loop]]
 - [[Gacha Monetization]]

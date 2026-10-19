@@ -26,5 +26,5 @@ The spotlight effect has a mirror image: people also underestimate how much othe
 
 ## See also
 - [[Third-Person Effect]]
-- [[Self-Handicapping]]
+- [[Shame]]
 - [[Self-Serving Bias]]

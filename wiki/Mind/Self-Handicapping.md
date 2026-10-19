@@ -25,3 +25,5 @@ Alternatives involve making failure less threatening. Treating oneself kindly af
 ## See also
 - [[Ostrich Effect]]
 - [[Choking Under Pressure]]
+- [[Shame]]
+- [[Perfectionism]]

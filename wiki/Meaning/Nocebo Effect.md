@@ -24,3 +24,4 @@ The effect creates a genuine ethical bind in medicine: informed consent requires
 - [[Insomnia]]
 - [[Hangover]]
 - [[Cholesterol]]
+- [[Anxiety]]
