@@ -26,12 +26,12 @@ Designers balance a few tensions. Too little information leaves the majority gue
 The genre has appeared in research on group decision-making and in tests of language models' ability to deceive and detect deception.
 
 ## See also
-- [[Tabletop Role-Playing Game]]
+- [[Asymmetric Multiplayer]]
 - [[Bartle Taxonomy]]
 - [[Local Multiplayer]]
-- [[Perfect Information]]
+- [[Mahjong]]
 - [[Griefing]]
-- [[Cooperative Game]]
+- [[Party Game]]
 - [[Eurogame]]
 - [[Poker]]
 - [[Let's Play]]

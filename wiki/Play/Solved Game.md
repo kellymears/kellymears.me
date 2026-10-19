@@ -27,8 +27,8 @@ Programs that play unsolved games well use partial searches instead. They look a
 Solving a game rarely ends people's interest in it. Human players can't execute a strategy too large to memorize, so checkers is still played competitively, and tournament rules sometimes assign random openings to avoid drawish lines. What a solution does is change how people talk about a game: they stop asking who wins and start asking how close to perfect a given player is, as engines now do for every chess game; see [[Metagame]].
 
 ## See also
-- [[Dominant Strategy]]
-- [[Sudoku]]
+- [[Go]]
+- [[Solitaire]]
 - [[Alpha-Beta Pruning]]
-- [[Deep Blue]]
+- [[Backgammon]]
 - [[Poker]]

@@ -27,7 +27,7 @@ Map markers are a particular debate. Open-world games that place an icon on ever
 The HUD sits between the game and its interface design traditions. Its problems are the same as those of any dashboard that must surface the state of a complex system quickly; see [[Dashboard]]. Progress toward a goal, such as a filling meter, is another borrowed convention; see [[Progress bar]].
 
 ## See also
-- [[Game Feel]]
+- [[Fast Travel]]
 - [[Fog of War]]
 - [[First-Person Shooter]]
 - [[Extra Life]]

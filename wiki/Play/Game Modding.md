@@ -21,6 +21,6 @@ Longevity follows from all of it: a game with an active mod scene keeps being pl
 - [[Multiplayer Online Battle Arena]]
 - [[Doom Engine]]
 - [[Fan Fiction]]
-- [[First-Person Shooter]]
+- [[Asymmetric Multiplayer]]
 - [[Game Jam]]
 - [[Walking Simulator]]

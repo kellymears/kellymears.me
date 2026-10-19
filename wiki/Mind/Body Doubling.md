@@ -25,7 +25,7 @@ There is a parallel in software practice. Pair programming, and even [[Rubber Du
 ## See also
 - [[Attachment Theory]]
 - [[Loneliness]]
-- [[Let's Play]]
+- [[Party Game]]
 - [[Mirror Neurons]]
 - [[Bystander Effect]]
 - [[Local Multiplayer]]

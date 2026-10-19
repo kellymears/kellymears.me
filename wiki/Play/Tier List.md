@@ -19,7 +19,7 @@ The durable failure mode is reading "best in role" as "required" — an [[Exhaus
 - [[Multiplayer Online Battle Arena]]
 - [[Elo Rating System]]
 - [[Live Service Game]]
-- [[Selection Bias]]
+- [[Card Drafting]]
 - [[Esports]]
 - [[Power Creep]]
 - [[Fighting Game]]

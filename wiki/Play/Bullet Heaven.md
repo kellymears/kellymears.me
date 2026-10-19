@@ -15,7 +15,7 @@ That the genre keeps real build expression despite near-zero input complexity â€
 ## See also
 - [[Roguelike Deckbuilder]]
 - [[Idle Game]]
-- [[Time as Resource]]
+- [[Card Drafting]]
 - [[Meta-Progression]]
 - [[Variable-Ratio Reinforcement]]
 - [[Particle System]]

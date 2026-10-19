@@ -34,5 +34,5 @@ Digital wayfinding uses the same ideas. Navigation bars are paths; sections are 
 ## See also
 - [[Transit Map]]
 - [[Cognitive Map]]
-- [[Art Nouveau]]
+- [[Fast Travel]]
 - [[Arts and Crafts Movement]]

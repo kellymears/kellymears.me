@@ -18,7 +18,7 @@ The structure also solves a narrative problem that resource economies cannot. Be
 - [[Meta-Progression]]
 - [[Side Quest]]
 - [[Idle Game]]
-- [[Goodhart's Law]]
+- [[Fast Travel]]
 - [[Game Feel]]
 - [[Cozy Game]]
 - [[Faucets and Sinks]]

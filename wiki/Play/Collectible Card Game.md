@@ -26,6 +26,6 @@ Living card games and other fixed-distribution formats respond to these criticis
 The genre's influence spread widely: roguelike deckbuilders such as *Slay the Spire* borrow its card design while discarding the collection entirely; see [[Roguelike Deckbuilder]].
 
 ## See also
-- [[Fisher-Yates Shuffle]]
-- [[Auto Battler]]
-- [[Skill Check]]
+- [[Mahjong]]
+- [[Pay-to-Win]]
+- [[Card Drafting]]

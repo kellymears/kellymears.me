@@ -31,4 +31,4 @@ The concept links to broader questions of well-being. If satisfaction depends on
 - [[Collectible Card Game]]
 - [[Gift Economy]]
 - [[Speculative Bubble]]
-- [[Cultural Capital]]
+- [[Pay-to-Win]]

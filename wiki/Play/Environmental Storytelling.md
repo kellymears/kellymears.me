@@ -16,7 +16,7 @@ Two limits. Legibility depends on placement and sightlines, so the discipline ov
 
 ## See also
 - [[Alternate Reality Game]]
-- [[Dialogue Tree]]
+- [[Fast Travel]]
 - [[First-Person Shooter]]
 - [[Escape Room]]
 - [[Cutscene]]

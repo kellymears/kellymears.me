@@ -17,7 +17,7 @@ Submitted runs carry video, and a leaderboard's authority rests on moderators re
 
 ## See also
 - [[Cutscene]]
-- [[First-Person Shooter]]
+- [[Fast Travel]]
 - [[Boss Battle]]
 - [[Let's Play]]
 - [[Easter Egg]]

@@ -22,7 +22,7 @@ Flow is not automatically good. It is indifferent to what it attaches to, and a 
 
 ## See also
 - [[Runner's High]]
-- [[Dissociation]]
+- [[Solitaire]]
 - [[Sudoku]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Mind-Wandering]]

@@ -20,3 +20,4 @@ The genre's real risk is scope: a system detailed enough to be a genuine simulat
 - [[Emergent Gameplay]]
 - [[Wargame]]
 - [[Real-Time Strategy]]
+- [[Asymmetric Multiplayer]]

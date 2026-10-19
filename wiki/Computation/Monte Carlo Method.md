@@ -28,7 +28,7 @@ Results are only as good as the randomness and the model. A weak [[Pseudorandom 
 
 ## See also
 - [[Statistical Sampling]]
-- [[Knightian Uncertainty]]
+- [[Solitaire]]
 - [[Random Walk]]
 - [[Zero-Knowledge Proof]]
 - [[AlphaGo]]

@@ -22,5 +22,5 @@ Loot also creates economic pressure. Each drop adds items to the game world, and
 Selling random loot for real money produced the loot box, a purchase with an unknown item inside. Several countries have examined whether loot boxes amount to gambling, especially for children, and some have restricted them; see [[Gacha Monetization]] and [[Free-to-Play]].
 
 ## See also
-- [[Input and Output Randomness]]
-- [[Experience Point]]
+- [[Crafting System]]
+- [[Pay-to-Win]]

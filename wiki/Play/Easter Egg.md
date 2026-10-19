@@ -29,3 +29,4 @@ Once found, an egg's status is fragile. Spreading the secret spoils the discover
 - [[Achievement Hunting]]
 - [[Cheat Code]]
 - [[Side Quest]]
+- [[Solitaire]]

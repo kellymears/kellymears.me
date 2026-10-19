@@ -27,7 +27,7 @@ Machines raised the question again in 2023, when [[Large Language Model]] system
 ## See also
 - [[Mirror Neurons]]
 - [[Turing Test]]
-- [[ELIZA Effect]]
-- [[Identifiable Victim Effect]]
+- [[Party Game]]
+- [[Card Drafting]]
 - [[Aphantasia]]
 - [[Prosopagnosia]]

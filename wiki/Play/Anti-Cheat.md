@@ -28,6 +28,6 @@ Enforcement is often delayed on purpose. Banning cheaters in waves, rather than 
 
 ## See also
 - [[Blood Doping]]
-- [[First-Person Shooter]]
+- [[Backgammon]]
 - [[Battle Royale]]
-- [[Lag Compensation]]
+- [[Pay-to-Win]]

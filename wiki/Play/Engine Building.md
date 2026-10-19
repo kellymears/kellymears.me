@@ -22,3 +22,5 @@ The pattern carries a specific risk: a snowball. Once an engine is running well 
 - [[Interesting Decisions]]
 - [[Eurogame]]
 - [[Legacy Game]]
+- [[Card Drafting]]
+- [[Crafting System]]

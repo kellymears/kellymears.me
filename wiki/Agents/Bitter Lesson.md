@@ -27,6 +27,6 @@ The lesson has a practical corollary for building on language models. Elaborate 
 ## See also
 - [[Universal Approximation Theorem]]
 - [[Dartmouth Workshop]]
-- [[Machine Translation]]
+- [[Backgammon]]
 - [[No Free Lunch Theorem]]
-- [[Artificial General Intelligence]]
+- [[Go]]

@@ -33,5 +33,5 @@ Tutorials are tested more than most of a game, since designers can't judge what 
 The ideal is a game that teaches at the pace of the player's growing skill, keeping them in the narrow band between boredom and frustration; see [[Flow]] and [[Difficulty Curve]].
 
 ## See also
-- [[Assist Mode]]
+- [[Party Game]]
 - [[Interesting Decisions]]

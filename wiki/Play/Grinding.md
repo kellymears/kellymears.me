@@ -26,5 +26,5 @@ Free-to-play games turned the shortcut into a product. A game can make progress 
 The psychology behind grinding has well-studied parts. Once players have invested many hours, quitting feels like wasting them; see [[Sunk Cost Fallacy]]. And as rewards accumulate, each new one satisfies less, so the target keeps moving; see [[Hedonic Treadmill]].
 
 ## See also
-- [[Loot]]
-- [[Side Quest]]
+- [[Crafting System]]
+- [[Pay-to-Win]]

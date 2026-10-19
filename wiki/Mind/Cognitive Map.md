@@ -28,5 +28,5 @@ A cognitive map is a model, and like any model it simplifies and distorts. Peopl
 
 ## See also
 - [[Dreaming]]
-- [[Hemispatial Neglect]]
+- [[Fast Travel]]
 - [[Mental Rotation]]

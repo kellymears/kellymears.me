@@ -22,4 +22,4 @@ The trend reflects the slowing of general-purpose processor gains. As chips stop
 
 ## See also
 - [[Instruction Pipelining]]
-- [[Bandwidth]]
+- [[Go]]

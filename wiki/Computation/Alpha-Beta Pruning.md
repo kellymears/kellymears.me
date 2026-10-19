@@ -23,3 +23,4 @@ The underlying lesson, that a provable bound lets a search skip work without los
 - [[Graph Traversal]]
 - [[Game theory]]
 - [[Abstract Strategy Game]]
+- [[Go]]

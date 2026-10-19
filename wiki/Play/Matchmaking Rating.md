@@ -26,3 +26,5 @@ MMR should not be confused with a [[Tier List]]: a tier list is a static, commun
 - [[Elo Rating System]]
 - [[Esports]]
 - [[Multiplayer Online Battle Arena]]
+- [[Asymmetric Multiplayer]]
+- [[Pay-to-Win]]

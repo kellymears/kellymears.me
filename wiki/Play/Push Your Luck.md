@@ -25,3 +25,5 @@ The pattern runs well beyond tabletop games. Roguelikes ask whether to explore o
 ## See also
 - [[Multi-Armed Bandit]]
 - [[Eurogame]]
+- [[Mahjong]]
+- [[Backgammon]]

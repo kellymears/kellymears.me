@@ -15,7 +15,7 @@ summary: A handcrafted world structured as a lock-and-key graph, where new abili
 Two forces pull against the form. Sequence breaking — reaching a gate's far side without its key — is a failure of the dependency order that expert players treat as its highest expression, and designers increasingly sanction rather than patch it. And the backtracking that gives the structure meaning is a cost in the player's time, which is why fast travel arrives late and sparingly: remove enough of the return trip and the graph flattens into a corridor. The genre's [[Game Feel]] burden is unusually high for the same reason, since a world you are asked to re-cross must be pleasant to move through — a demand it shares with the [[Immersive Sim]], where the space is likewise re-entered rather than consumed.
 
 ## See also
-- [[Soulslike]]
+- [[Fast Travel]]
 - [[Indie Game]]
 - [[Platformer]]
 - [[Tutorial Design]]

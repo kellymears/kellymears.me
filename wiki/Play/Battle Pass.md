@@ -29,7 +29,7 @@ The term **season pass** originally meant something different: a one-time purcha
 ## See also
 - [[Achievement Hunting]]
 - [[Gamification]]
-- [[Esports]]
+- [[Pay-to-Win]]
 - [[Grinding]]
 - [[Experience Point]]
 - [[Multiplayer Online Battle Arena]]

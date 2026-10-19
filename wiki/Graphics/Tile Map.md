@@ -27,6 +27,6 @@ The style constraints of old hardware have become an aesthetic in their own righ
 ## See also
 - [[Isometric Projection]]
 - [[Platformer]]
-- [[OpenStreetMap]]
+- [[Mahjong]]
 - [[Flood Fill]]
 - [[Color Cycling]]

@@ -17,7 +17,7 @@ The lineage is frequently misread as a case for hostility toward players. It is 
 ## See also
 - [[Extra Life]]
 - [[Checkpoint]]
-- [[Meta-Progression]]
+- [[Fast Travel]]
 - [[Boss Battle]]
 - [[Metroidvania]]
 - [[Telegraphing]]

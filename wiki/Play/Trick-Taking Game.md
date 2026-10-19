@@ -23,7 +23,7 @@ As software, this family is unusually pleasant to model: a card type, a move as 
 - [[Tarot]]
 - [[Roguelike]]
 - [[Constraint Propagation]]
-- [[Procedural Generation]]
+- [[Party Game]]
 - [[Cellular Automaton]]
 - [[L-System]]
 - [[Collectible Card Game]]
@@ -31,3 +31,4 @@ As software, this family is unusually pleasant to model: a card type, a move as 
 - [[Eurogame]]
 - [[Poker]]
 - [[Abstract Strategy Game]]
+- [[Mahjong]]

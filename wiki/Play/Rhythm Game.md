@@ -17,6 +17,6 @@ summary: a genre that judges player input against a musical beat, where calibrat
 - [[Adaptive Music]]
 - [[Tetris]]
 - [[Shoot 'em Up]]
-- [[Arcade Game]]
+- [[Party Game]]
 - [[Reaction Time]]
 - [[Local Multiplayer]]

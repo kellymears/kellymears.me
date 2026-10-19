@@ -28,7 +28,7 @@ Related errors:
 Game designers exploit the feeling, using near-misses and variable rewards to keep players engaged; see [[Gacha Monetization]].
 
 ## See also
-- [[Prosecutor's Fallacy]]
+- [[Mahjong]]
 - [[Random Walk]]
-- [[Mental Accounting]]
+- [[Backgammon]]
 - [[Poker]]

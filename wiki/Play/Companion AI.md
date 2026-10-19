@@ -23,3 +23,4 @@ Companion AI is best understood as a special case of [[Game AI]] generally, but 
 - [[Automated Planning]]
 - [[Dialogue Tree]]
 - [[Chatbot]]
+- [[Asymmetric Multiplayer]]

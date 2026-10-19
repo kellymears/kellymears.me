@@ -28,6 +28,6 @@ Barriers to entry are a long-running problem: new players often face opponents f
 
 ## See also
 - [[Tutorial Design]]
-- [[Lag Compensation]]
+- [[Asymmetric Multiplayer]]
 - [[Reaction Time]]
 - [[Elo Rating System]]

@@ -23,3 +23,4 @@ Deckbuilding is also worth distinguishing from [[Worker Placement]], another eco
 - [[Input and Output Randomness]]
 - [[Eurogame]]
 - [[Fisher-Yates Shuffle]]
+- [[Card Drafting]]

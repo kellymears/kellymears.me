@@ -27,3 +27,4 @@ Crosswords depend so heavily on a language's words and spelling that they can't 
 - [[Sudoku]]
 - [[Desirable Difficulty]]
 - [[Zipf's Law]]
+- [[Solitaire]]

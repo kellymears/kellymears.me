@@ -33,5 +33,5 @@ For designers, the practical upshot is to invest in aesthetics, test early with 
 - [[Golden Ratio]]
 - [[Kano Model]]
 - [[Memphis Group]]
-- [[Skeuomorphism]]
+- [[Solitaire]]
 - [[Frutiger Aero]]

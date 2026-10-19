@@ -31,3 +31,6 @@ Programmers like the genre as an exercise: detecting matches, applying gravity, 
 - [[Compulsion Loop]]
 - [[Tetris]]
 - [[Sudoku]]
+- [[Mahjong]]
+- [[Solitaire]]
+- [[Card Drafting]]

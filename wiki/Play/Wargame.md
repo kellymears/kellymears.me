@@ -23,7 +23,7 @@ A wargame is a structured thought experiment with an opponent. Its value lies le
 
 ## See also
 - [[Eurogame]]
-- [[Perfect Information]]
+- [[Backgammon]]
 - [[Real-Time Strategy]]
 - [[After-Action Review]]
-- [[Numbers Station]]
+- [[Asymmetric Multiplayer]]

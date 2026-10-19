@@ -27,7 +27,7 @@ The genre has critics and tensions. Daily routines can turn into obligations, an
 Related forms include [[Idle Game]] structures, management games such as the [[Colony Sim]] and [[City Builder]] played at a relaxed pace, and games that use [[Nostalgia]] for rural or small-town life as their emotional core.
 
 ## See also
-- [[Match-Three]]
-- [[Indie Game]]
-- [[Local Multiplayer]]
-- [[Third Place]]
+- [[Crafting System]]
+- [[Mahjong]]
+- [[Solitaire]]
+- [[Party Game]]

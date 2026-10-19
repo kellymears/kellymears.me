@@ -21,5 +21,5 @@ MOBAs anchored the rise of esports. League of Legends' world championship has dr
 The genre has a reputation for a steep learning curve and hostile communities. Losing feels like someone's fault in a five-person team, and matches last thirty minutes or more, so frustration builds; see [[Griefing]]. Later genres borrowed its structure, including auto battlers, which also began as a Dota 2 custom map; see [[Auto Battler]].
 
 ## See also
-- [[Battle Royale]]
-- [[Cooperative Game]]
+- [[Asymmetric Multiplayer]]
+- [[Card Drafting]]

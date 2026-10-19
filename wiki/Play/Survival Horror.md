@@ -13,9 +13,9 @@ The genre has two ancestors, and they gave different things. [[Sweet Home]] (198
 
 ## See also
 - [[Checkpoint]]
-- [[Metroidvania]]
+- [[Crafting System]]
 - [[Heads-Up Display]]
 - [[Cutscene]]
-- [[Game Feel]]
-- [[Cozy Game]]
+- [[Asymmetric Multiplayer]]
+- [[Fast Travel]]
 - [[Adaptive Music]]

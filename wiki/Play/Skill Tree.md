@@ -21,3 +21,4 @@ Respec systems — letting a player refund points and rebuild from scratch — e
 - [[Radar Chart]]
 - [[Experience Point]]
 - [[Morality System]]
+- [[Crafting System]]

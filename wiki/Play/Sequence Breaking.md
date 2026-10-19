@@ -37,5 +37,5 @@ Sequence breaking resembles security work: finding paths around intended control
 - [[Cheat Code]]
 - [[Open World Design]]
 - [[Side Quest]]
-- [[Level Design]]
+- [[Fast Travel]]
 - [[Easter Egg]]

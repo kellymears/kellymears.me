@@ -26,4 +26,4 @@ It can also mislead. People overestimate how much others will value what they ma
 ## See also
 - [[Right to Repair]]
 - [[Self-Serving Bias]]
-- [[Arts and Crafts Movement]]
+- [[Crafting System]]

@@ -28,6 +28,6 @@ A rating can also become the target instead of the measure. Chess players have a
 ## See also
 - [[Tier List]]
 - [[Ranked-Choice Voting]]
-- [[Esports]]
+- [[Backgammon]]
 - [[AlphaGo]]
 - [[Abstract Strategy Game]]

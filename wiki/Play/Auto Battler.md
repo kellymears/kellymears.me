@@ -21,3 +21,4 @@ The shop's randomized unit pool is a [[Variable-Ratio Reinforcement]] engine wea
 - [[Pity Timer]]
 - [[Real-Time Strategy]]
 - [[Multiplayer Online Battle Arena]]
+- [[Card Drafting]]

@@ -22,3 +22,4 @@ A sandbox's entire value proposition rests on its systems being rich enough to r
 - [[Griefing]]
 - [[Metaballs]]
 - [[Indie Game]]
+- [[Crafting System]]

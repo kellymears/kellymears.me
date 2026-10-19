@@ -21,5 +21,7 @@ Designers still create new abstracts. Hex, invented independently by Piet Hein i
 Abstracts sit at one end of a spectrum of board games, opposite heavily themed games full of hidden hands and dice; see [[Eurogame]].
 
 ## See also
-- [[Game AI]]
+- [[Backgammon]]
 - [[Tetris]]
+- [[Go]]
+- [[Mahjong]]

@@ -20,3 +20,4 @@ The genre's most transferable lesson is about diagnosis. A factory that has stop
 - [[Constraint Propagation]]
 - [[Idle Game]]
 - [[Meta-Progression]]
+- [[Crafting System]]

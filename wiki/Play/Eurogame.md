@@ -30,7 +30,8 @@ The ideal Eurogame offers a series of real choices between valuable options with
 
 ## See also
 - [[Wargame]]
-- [[Trick-Taking Game]]
+- [[Card Drafting]]
 - [[Legacy Game]]
 - [[Push Your Luck]]
 - [[Abstract Strategy Game]]
+- [[Mahjong]]

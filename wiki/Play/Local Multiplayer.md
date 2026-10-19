@@ -26,5 +26,5 @@ Small studios led a revival. Independent developers released couch competitive a
 Local multiplayer also lowers barriers. A friend who has never played can pick up a second controller, and difficulty settings or helper roles can let experienced and new players share a game; see [[Assist Mode]]. Families and households where people take turns benefit too, though griefing a person on the same couch has more immediate consequences than doing it online; see [[Griefing]].
 
 ## See also
-- [[Esports]]
-- [[Cozy Game]]
+- [[Party Game]]
+- [[Asymmetric Multiplayer]]

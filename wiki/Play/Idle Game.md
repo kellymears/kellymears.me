@@ -19,7 +19,7 @@ The form sits uncomfortably close to its own critique. A game engineered so that
 - [[Factory Game]]
 - [[Virtual Pet]]
 - [[Roguelike]]
-- [[Game Feel]]
+- [[Solitaire]]
 - [[Boredom]]
 - [[Cozy Game]]
 - [[Match-Three]]

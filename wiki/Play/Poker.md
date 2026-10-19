@@ -27,7 +27,7 @@ A televised boom began in 2003, when an amateur who had qualified through an ine
 Poker became a benchmark for artificial intelligence because hidden information defeats the search methods that worked for chess; see [[Deep Blue]]. Researchers at the University of Alberta essentially solved two-player limit hold 'em in 2015; see [[Solved Game]]. Carnegie Mellon's Libratus beat top professionals at two-player no-limit in 2017, and Pluribus won at six-player tables in 2019, both trained largely by playing against themselves; see [[Self-Play]].
 
 ## See also
-- [[Abstract Strategy Game]]
-- [[Social Deduction Game]]
+- [[Mahjong]]
+- [[Backgammon]]
 - [[Trick-Taking Game]]
 - [[Push Your Luck]]

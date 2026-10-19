@@ -26,5 +26,5 @@ The term is also at the center of an argument about language models. Critics arg
 World models connect to robotics through simulation. Training in a simulated world and transferring to the real one depends on the simulation being accurate enough, and on randomizing what isn't; see [[Synthetic Data]]. The old difficulty of tracking what changes and what stays the same after an action resurfaces here; see [[Frame Problem]].
 
 ## See also
-- [[Symbol Grounding Problem]]
+- [[Go]]
 - [[Autonomous Vehicle]]

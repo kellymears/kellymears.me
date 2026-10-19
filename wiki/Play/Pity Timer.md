@@ -23,3 +23,4 @@ The mechanism is best understood as damage control on [[Variable-Ratio Reinforce
 - [[Tetris]]
 - [[Fisher-Yates Shuffle]]
 - [[Loot]]
+- [[Pay-to-Win]]

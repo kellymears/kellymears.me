@@ -22,3 +22,4 @@ A modern revival of brush and hand lettering, spread widely through social media
 ## See also
 - [[Kerning]]
 - [[Font Rendering]]
+- [[Go]]

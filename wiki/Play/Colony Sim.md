@@ -13,7 +13,7 @@ summary: a genre of indirect settlement control where production chains and mood
 **Failure cascades are where the genre becomes a narrative generator rather than a management toy.** *Dwarf Fortress* is the canonical instance, simulating grudges, injuries and generated history in enough depth that its disasters get retold as sagas and "losing is fun" became the genre's motto. *RimWorld*, its terrain shaped by [[Procedural Generation]], is the tuned version of the same idea: a raid arrives while the granary is empty, a colonist has a mental break, and the spiral reads as a story with characters rather than a spreadsheet with a red cell — a close cousin of [[Environmental Storytelling]], except the environment authors itself live. Its [[Observability]], the tools it gives players to see why things went wrong, is tuned for retelling as much as diagnosis. *Anno* keeps the same production-chain bones but redirects tension toward trade, and *Cities: Skylines* pushes furthest toward pure infrastructure, where the population is traffic and utility load rather than people with names — a boundary with the [[Factory Game]] that stays genuinely blurry at that end.
 
 ## See also
-- [[Factory Game]]
+- [[Crafting System]]
 - [[Game AI]]
 - [[Path Dependence]]
 - [[Goodhart's Law]]

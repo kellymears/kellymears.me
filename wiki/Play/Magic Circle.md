@@ -34,6 +34,6 @@ The circle also connects to how stories absorb us, and to why a mismatch between
 - [[Cheat Code]]
 - [[Social Deduction Game]]
 - [[Third Place]]
-- [[Griefing]]
+- [[Party Game]]
 - [[Escape Room]]
 - [[Rite of Passage]]

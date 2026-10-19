@@ -24,7 +24,7 @@ The original Nintendo version became a competitive scene, with a world champions
 
 ## See also
 - [[Match-Three]]
-- [[Embodied Cognition]]
+- [[Solitaire]]
 - [[Deliberate Practice]]
 - [[Mental Rotation]]
 - [[Sudoku]]
