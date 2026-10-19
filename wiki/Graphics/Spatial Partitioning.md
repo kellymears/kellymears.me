@@ -37,5 +37,5 @@ The structures share a weakness with high dimensions. As dimensions grow, nearly
 ## See also
 - [[Metaballs]]
 - [[Geospatial Data]]
-- [[Scene Graph]]
+- [[Approximate Nearest Neighbor Search]]
 - [[A-Star Search Algorithm]]

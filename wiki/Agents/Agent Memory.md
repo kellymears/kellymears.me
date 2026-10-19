@@ -17,7 +17,7 @@ The related design question is retrieval: a memory that is never surfaced at the
 - [[Hopfield Network]]
 - [[Knowledge Graph]]
 - [[Zettelkasten]]
-- [[Provenance]]
+- [[Frame Problem]]
 - [[Agent Skill]]
 - [[Spaced Repetition]]
 - [[Extended Mind]]

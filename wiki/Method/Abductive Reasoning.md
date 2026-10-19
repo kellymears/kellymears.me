@@ -30,5 +30,5 @@ Its risks follow from its speed. Once a plausible story forms, people seek evide
 
 ## See also
 - [[Logical Fallacy]]
-- [[Hanlon's Razor]]
-- [[Bayesian Inference]]
+- [[No Free Lunch Theorem]]
+- [[Frame Problem]]

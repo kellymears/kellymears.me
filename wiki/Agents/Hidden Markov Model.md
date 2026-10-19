@@ -28,3 +28,4 @@ Their limits come from the same simplicity. The hidden state is a single categor
 ## See also
 - [[Finite State Machine]]
 - [[Naive Bayes]]
+- [[Named Entity Recognition]]

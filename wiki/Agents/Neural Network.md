@@ -32,5 +32,5 @@ The biological analogy is loose. Real neurons spike, learn locally, and are wire
 ## See also
 - [[AlphaGo]]
 - [[Dartmouth Workshop]]
-- [[Logistic Regression]]
+- [[Universal Approximation Theorem]]
 - [[Hyperparameter]]

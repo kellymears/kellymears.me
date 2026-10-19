@@ -26,4 +26,4 @@ The discipline resembles managing human attention. People can hold only a few th
 
 ## See also
 - [[Document Chunking]]
-- [[Multi-Agent Orchestration]]
+- [[Frame Problem]]

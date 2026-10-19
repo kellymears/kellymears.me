@@ -27,7 +27,7 @@ Routing also interacts with testing: an environment configured for a cheap tier 
 
 ## Related
 - [[Prompt Engineering]]
-- [[Token]]
+- [[No Free Lunch Theorem]]
 - [[Nondeterminism]]
 - [[JSON Schema]]
 - [[Multi-Armed Bandit]]

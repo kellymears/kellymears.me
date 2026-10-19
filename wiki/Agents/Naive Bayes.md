@@ -25,7 +25,7 @@ A few practical details matter:
 Naive Bayes is still a common first baseline for text classification: fast, transparent, and hard to beat with little data. More expressive models win as data grows, because they can learn how words interact; see [[Supervised Learning]] and [[Support Vector Machine]].
 
 ## See also
-- [[Bayesian Inference]]
+- [[Sentiment Analysis]]
 - [[Hidden Markov Model]]
 - [[Logistic Regression]]
 - [[Email Spam]]

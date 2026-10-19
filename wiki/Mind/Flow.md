@@ -27,6 +27,6 @@ Flow is not automatically good. It is indifferent to what it attaches to, and a 
 - [[Dynamic Difficulty Adjustment]]
 - [[Mind-Wandering]]
 - [[Deliberate Practice]]
-- [[Grinding]]
+- [[Curriculum Learning]]
 - [[Savoring]]
 - [[Daily Standup]]

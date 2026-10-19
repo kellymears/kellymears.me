@@ -32,3 +32,4 @@ Practical design centers on a few pressures.
 - [[Model Context Protocol]]
 - [[Distribution Shift]]
 - [[Bitter Lesson]]
+- [[Frame Problem]]

@@ -20,7 +20,7 @@ SVMs were strong on handwritten digits and text categorization, came with clean 
 Neural networks learn the features themselves and improve with more data and computation, and after 2012 they overtook SVMs on images and later language; see [[ImageNet]] and [[Bitter Lesson]]. SVMs remain a strong baseline for small, tabular problems, alongside tree ensembles; see [[Decision Tree]].
 
 ## See also
-- [[Neural Network]]
+- [[Sentiment Analysis]]
 - [[Naive Bayes]]
 - [[Precision and Recall]]
 - [[Anomaly Detection]]

@@ -18,7 +18,7 @@ The razor pairs naturally with [[Plausible Mechanism]]: prefer the account with 
 - [[Thought Experiment]]
 - [[Conspiracy Theory]]
 - [[Inversion]]
-- [[Falsifiability]]
+- [[No Free Lunch Theorem]]
 - [[XY Problem]]
 
 ## Related

@@ -31,7 +31,7 @@ The habit of updating extends beyond formal statistics. Skilled forecasters adju
 
 ## See also
 - [[Abductive Reasoning]]
-- [[Replication Crisis]]
+- [[No Free Lunch Theorem]]
 - [[Expected Value]]
 - [[Rubber Hand Illusion]]
 - [[McGurk Effect]]

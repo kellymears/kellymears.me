@@ -33,7 +33,7 @@ Convolution reaches well beyond photo filters. The filters used in [[Image Resam
 - [[Seam Carving]]
 - [[Reverberation]]
 - [[Fourier Transform]]
-- [[Generative Art]]
+- [[No Free Lunch Theorem]]
 - [[Prosopagnosia]]
 - [[Generative Adversarial Network]]
 - [[Object Detection]]

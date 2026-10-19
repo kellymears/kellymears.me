@@ -27,4 +27,4 @@ Ensembles give up the single tree's readability. Feature-importance scores and p
 
 ## See also
 - [[Logistic Regression]]
-- [[Hyperparameter]]
+- [[No Free Lunch Theorem]]

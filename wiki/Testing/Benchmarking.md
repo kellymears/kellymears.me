@@ -25,6 +25,6 @@ Used well, benchmarks catch performance regressions in [[Continuous Integration]
 ## See also
 - [[Monotonic Clock]]
 - [[Operationalization]]
-- [[Garbage In, Garbage Out]]
+- [[No Free Lunch Theorem]]
 - [[Cloudflare Outage of 2019]]
 - [[Utah Teapot]]

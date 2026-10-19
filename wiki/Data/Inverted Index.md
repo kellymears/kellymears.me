@@ -30,7 +30,7 @@ Inverted indexes are optimized for reading. Posting lists are compressed and sto
 - [[PageRank]]
 - [[Stemming and Lemmatization]]
 - [[Hybrid Search]]
-- [[Burrows-Wheeler Transform]]
+- [[Approximate Nearest Neighbor Search]]
 - [[String-Searching Algorithm]]
 - [[Suffix Array]]
 - [[Library Classification]]

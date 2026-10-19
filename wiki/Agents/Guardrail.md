@@ -18,9 +18,9 @@ Two failure modes are worth naming. A guardrail can be *too strong for its conte
 
 ## See also
 - [[Human in the Loop]]
-- [[Least Privilege]]
+- [[Corrigibility]]
 - [[Prompt Engineering]]
-- [[Evaluation Harness]]
+- [[Model Card]]
 - [[System Prompt]]
 - [[Agentic Loop]]
 

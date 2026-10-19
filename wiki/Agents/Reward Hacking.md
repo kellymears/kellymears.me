@@ -36,5 +36,5 @@ Monitoring a model's visible reasoning can catch stated plans to cheat. But Open
 ## See also
 - [[Trolley Problem]]
 - [[AI Alignment]]
-- [[Paperclip Maximizer]]
+- [[Corrigibility]]
 - [[Operationalization]]

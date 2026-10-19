@@ -29,3 +29,5 @@ Small target datasets carry their own risk, since a big model fit to a few hundr
 ## See also
 - [[Synthetic Data]]
 - [[Supervised Learning]]
+- [[No Free Lunch Theorem]]
+- [[Curriculum Learning]]

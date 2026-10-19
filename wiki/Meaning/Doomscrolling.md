@@ -12,7 +12,7 @@ The mechanism runs on two overlapping systems. One is negativity bias: threat-re
 It's distinct from simply staying informed, which has a natural endpoint once the relevant facts are known; doomscrolling continues after that point, trading the appearance of vigilance for actual well-being, since most of what's consumed past the first update is repetition, speculation, or reaction rather than new information. It shares its underlying anxiety-driven-checking structure with compulsive email or stock-price refreshing, but the news-specific version is worth naming separately because the content itself supplies the emotional fuel, not just the checking ritual.
 
 ## See also
-- [[Filter Bubble]]
+- [[Sentiment Analysis]]
 - [[Savoring]]
 - [[Availability Cascade]]
 - [[Meme]]

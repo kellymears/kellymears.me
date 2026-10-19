@@ -35,6 +35,6 @@ These pull against [[Prompt Caching]], which rewards keeping a long, stable pref
 ## See also
 - [[Document Chunking]]
 - [[Context Engineering]]
-- [[Subagent]]
+- [[Frame Problem]]
 - [[Token Budget]]
 - [[Distribution Shift]]

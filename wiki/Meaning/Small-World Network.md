@@ -27,7 +27,7 @@ Short paths explain how quickly things spread, from rumors and diseases to compu
 ## See also
 - [[Seven Bridges of Königsberg]]
 - [[Dunbar's Number]]
-- [[Knowledge Graph]]
+- [[Approximate Nearest Neighbor Search]]
 - [[PageRank]]
 - [[Social Capital]]
 - [[Herd Immunity]]

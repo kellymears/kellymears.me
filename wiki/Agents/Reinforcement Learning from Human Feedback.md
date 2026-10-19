@@ -32,7 +32,7 @@ RLHF optimizes a proxy, so it inherits the proxy's flaws:
 The judgments themselves carry the values and blind spots of whoever writes the guidelines and does the rating. Automated judges trained or prompted to score outputs, as in [[LLM-as-Judge]], face the same problem one level removed. Despite this, preference training remains the main way model behavior is shaped, alongside the [[System Prompt]] at run time.
 
 ## See also
-- [[Fine-Tuning]]
+- [[Corrigibility]]
 - [[Sycophancy]]
 - [[Paperclip Maximizer]]
 - [[Pretraining]]

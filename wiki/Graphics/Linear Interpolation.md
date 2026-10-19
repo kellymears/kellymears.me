@@ -31,7 +31,7 @@ Interpolating between known samples also lets [[Frame Generation]] and [[Tempora
 ## See also
 - [[Bresenham's Line Algorithm]]
 - [[Autoencoder]]
-- [[Line Chart]]
+- [[Universal Approximation Theorem]]
 - [[Morph Target]]
 - [[Barycentric Coordinates]]
 - [[NURBS]]

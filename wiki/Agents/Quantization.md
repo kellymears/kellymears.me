@@ -20,7 +20,7 @@ Quantization is largely orthogonal to [[Fine-Tuning]] — a model can be fine-tu
 - [[KV Cache]]
 - [[Dithering]]
 - [[Neural Network Pruning]]
-- [[Graphics Processing Unit]]
+- [[Approximate Nearest Neighbor Search]]
 - [[Knowledge Distillation]]
 - [[Numerical Stability]]
 - [[Open-Weight Model]]

@@ -34,3 +34,4 @@ Watermarks matter for model builders too: as generated text spreads across the w
 - [[Pseudorandom Number Generator]]
 - [[Adversarial Example]]
 - [[Deepfake]]
+- [[Model Card]]

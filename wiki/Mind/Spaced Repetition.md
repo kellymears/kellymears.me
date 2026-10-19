@@ -22,7 +22,7 @@ Spaced repetition handles discrete facts best. Understanding comes from connecti
 
 ## See also
 - [[Memory Consolidation]]
-- [[Zettelkasten]]
+- [[Curriculum Learning]]
 - [[Processing Fluency]]
 - [[Deliberate Practice]]
 - [[Levels of Processing]]

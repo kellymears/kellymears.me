@@ -32,7 +32,7 @@ Mismatches are a frequent source of usability problems. A save button in an app 
 The concept reaches well beyond interfaces. [[Information Architecture]] organizes content around how people expect to find it, and categories themselves follow [[Prototype Theory]], with typical members at the center. A [[Design System]] supports consistent models across a product, since the same component behaving the same way everywhere is easier to learn.
 
 ## See also
-- [[Turtle Graphics]]
+- [[Frame Problem]]
 - [[Natural Mapping]]
 - [[Conceptual Metaphor]]
-- [[Cognitive Map]]
+- [[World Model]]

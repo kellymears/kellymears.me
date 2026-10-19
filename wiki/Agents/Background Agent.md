@@ -26,5 +26,5 @@ Removing the watcher removes a safety layer, so the design work shifts to the ed
 
 ## See also
 - [[Job Control]]
-- [[Durable Execution]]
+- [[Corrigibility]]
 - [[Agent Sandbox]]

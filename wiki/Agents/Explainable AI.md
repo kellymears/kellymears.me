@@ -28,3 +28,4 @@ Law adds pressure. The European Union's data protection rules give people rights
 ## See also
 - [[Adversarial Example]]
 - [[Calibration]]
+- [[Model Card]]

@@ -23,3 +23,4 @@ Two consequences follow. Put the intended target in the description and keep any
 - [[Token]]
 - [[Model Routing]]
 - [[Serialization]]
+- [[Named Entity Recognition]]

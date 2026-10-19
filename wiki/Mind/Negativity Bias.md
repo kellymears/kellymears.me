@@ -31,7 +31,7 @@ Media and online platforms amplify it. Negative headlines draw more clicks, whic
 The bias isn't simply an error. Taking threats seriously is often wise, and dismissing bad news is its own mistake. But in safe modern settings it often over-fires. Practices that counter it include deliberately noticing good events, which some gratitude research supports, and the reframing techniques of [[Cognitive Behavioral Therapy]]. Organizations that respond to failure without blame, as in a [[Blameless Postmortem]], avoid teaching people to hide bad news.
 
 ## See also
-- [[Peak-End Rule]]
+- [[Sentiment Analysis]]
 - [[Loneliness]]
 - [[Urban Legend]]
 - [[Framing Effect]]

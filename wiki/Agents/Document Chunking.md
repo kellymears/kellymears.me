@@ -34,5 +34,5 @@ No setting is right everywhere. Legal contracts, chat logs, API references, and 
 The word also names a memory strategy in psychology, grouping items into meaningful units; see [[Working Memory]].
 
 ## See also
-- [[Vector Database]]
+- [[Named Entity Recognition]]
 - [[Context Engineering]]

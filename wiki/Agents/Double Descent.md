@@ -31,3 +31,4 @@ None of this means overfitting is solved; overparameterized models still memoriz
 - [[Neural Network Pruning]]
 - [[Hyperparameter]]
 - [[Linear Regression]]
+- [[Universal Approximation Theorem]]

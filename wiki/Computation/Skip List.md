@@ -25,3 +25,4 @@ There are costs. Each node carries a variable number of forward pointers, averag
 - [[Persistent Data Structure]]
 - [[Bloom Filter]]
 - [[Database Index]]
+- [[Approximate Nearest Neighbor Search]]

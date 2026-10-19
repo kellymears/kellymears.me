@@ -25,6 +25,6 @@ The broader lesson is that architecture often succeeds by making optimization ea
 ## See also
 - [[Backpropagation]]
 - [[ImageNet]]
-- [[Mechanistic Interpretability]]
+- [[Universal Approximation Theorem]]
 - [[Gradient Descent]]
 - [[Activation Steering]]

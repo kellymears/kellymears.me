@@ -36,4 +36,4 @@ A leaderboard score is best read alongside its date and the question: could the 
 - [[Perplexity]]
 - [[Stochastic Parrot]]
 - [[Model Merging]]
-- [[Synthetic Data]]
+- [[Model Card]]

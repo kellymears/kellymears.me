@@ -25,3 +25,4 @@ The idea reached popular culture through Frank Lantz's 2017 browser game Univers
 ## See also
 - [[Mechanistic Interpretability]]
 - [[Scaling Laws]]
+- [[Corrigibility]]

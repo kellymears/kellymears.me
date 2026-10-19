@@ -16,7 +16,7 @@ The metadata-filtering problem is where most real deployments spend their engine
 - [[Word2Vec]]
 - [[Hybrid Search]]
 - [[Document Chunking]]
-- [[Token Budget]]
+- [[Approximate Nearest Neighbor Search]]
 - [[Inverted Index]]
 - [[Spatial Partitioning]]
 - [[Reranking]]

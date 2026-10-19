@@ -30,5 +30,5 @@ Tooling can automate much of it. With [[Conventional Commits]], a `feat:` or `fi
 ## See also
 - [[Git Tag]]
 - [[Commit Message]]
-- [[Deprecation]]
+- [[Model Card]]
 - [[Docs as Code]]

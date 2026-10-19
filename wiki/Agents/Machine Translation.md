@@ -30,6 +30,6 @@ Persistent problems:
 Professional translators now often edit machine drafts; see [[Internationalization]] and [[Video Game Localization]]. Whether some meanings resist translation entirely is an old question; see [[Linguistic Relativity]].
 
 ## See also
-- [[Automatic Speech Recognition]]
+- [[Named Entity Recognition]]
 - [[Text-to-Speech]]
 - [[Hidden Markov Model]]

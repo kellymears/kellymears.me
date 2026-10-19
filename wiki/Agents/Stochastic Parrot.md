@@ -28,3 +28,4 @@ At minimum, the image reminds users that a model's output is a sample from a dis
 ## See also
 - [[Scaling Laws]]
 - [[Pretraining]]
+- [[World Model]]

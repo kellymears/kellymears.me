@@ -22,4 +22,4 @@ RAG competes conceptually with just widening the [[Context Window]] and pasting 
 - [[In-Context Learning]]
 
 ## Related
-- [[Precision and Recall]]
+- [[Approximate Nearest Neighbor Search]]

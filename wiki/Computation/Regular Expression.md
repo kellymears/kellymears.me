@@ -16,7 +16,7 @@ What most programming languages call "regex" (PCRE and its descendants: Perl's, 
 - [[Text Editor]]
 - [[Pattern Matching]]
 - [[Trie]]
-- [[Determinism]]
+- [[Named Entity Recognition]]
 - [[Differential Testing]]
 - [[Abstract Syntax Tree]]
 - [[Denial-of-Service Attack]]
