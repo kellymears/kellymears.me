@@ -26,5 +26,5 @@ Much of that software is in COBOL, written decades ago by people now retired. In
 Replacing a mainframe is notoriously risky. The software encodes decades of business rules that nobody fully remembers, and migration projects regularly run over budget or are abandoned, while the old system keeps running beside them; see [[Big Rewrite]] and [[Chesterton's Fence]].
 
 ## See also
-- [[Magnetic Tape]]
+- [[Remote Desktop]]
 - [[Fixed-Width File]]

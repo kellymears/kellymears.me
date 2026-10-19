@@ -31,5 +31,5 @@ That last weakness drove the move to [[Zero Trust Network]] designs, which treat
 
 ## See also
 - [[File Transfer Protocol]]
-- [[Universal Plug and Play]]
+- [[Remote Desktop]]
 - [[Honeypot]]

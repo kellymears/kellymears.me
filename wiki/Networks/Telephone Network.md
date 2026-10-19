@@ -23,8 +23,8 @@ In the United States, AT&T ran most of the network as a regulated monopoly, in e
 The system is now being retired. Calls increasingly travel as internet packets, mobile phones replaced most landlines, and carriers are pulling out copper; see [[Cellular Network]]. Emergency calling and alarm systems that assumed always-on copper are among the hardest things to migrate.
 
 ## See also
-- [[Wiretapping]]
-- [[Monopoly]]
+- [[Microwave Transmission]]
+- [[Videoconferencing]]
 - [[Pager]]
 - [[Two-Way Radio]]
 - [[Emergency Telephone Number]]

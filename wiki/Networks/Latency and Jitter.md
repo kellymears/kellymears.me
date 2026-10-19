@@ -15,7 +15,7 @@ Latency itself splits into components worth naming separately: propagation delay
 
 ## See also
 - [[Token Ring]]
-- [[Real-Time Operating System]]
+- [[Videoconferencing]]
 - [[Nagle's Algorithm]]
 - [[Sneakernet]]
 - [[Pneumatic Tube]]
@@ -23,7 +23,7 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Mix Network]]
 - [[Internet Control Message Protocol]]
 - [[Sound Server]]
-- [[Sliding Window Protocol]]
+- [[Microwave Transmission]]
 - [[Pigeon Post]]
 - [[Carrier-Sense Multiple Access]]
 - [[Quality of Service]]

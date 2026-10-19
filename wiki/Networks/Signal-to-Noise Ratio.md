@@ -25,4 +25,4 @@ The phrase has become a common metaphor for how much of any stream of informatio
 ## See also
 - [[Twisted Pair]]
 - [[Antenna]]
-- [[Speaker Diarization]]
+- [[Microwave Transmission]]

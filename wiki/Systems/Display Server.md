@@ -29,6 +29,6 @@ Each design choice made one set of problems hard and a different set easy, a pat
 - [[Inter-Process Communication]]
 - [[Keyboard Layout]]
 - [[Tiling Window Manager]]
-- [[Desktop Environment]]
+- [[Remote Desktop]]
 - [[Input Method]]
 - [[Desktop Metaphor]]

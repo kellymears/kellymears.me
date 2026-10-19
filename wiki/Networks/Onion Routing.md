@@ -37,4 +37,4 @@ Its users range from journalists and abuse survivors to criminals, the dual-use 
 - [[Dark Web]]
 - [[DNS over HTTPS]]
 - [[Encrypted Client Hello]]
-- [[Traffic Analysis]]
+- [[Steganography]]

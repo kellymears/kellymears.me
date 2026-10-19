@@ -22,3 +22,4 @@ Interest revived in the 2010s, as metadata surveillance became a public concern.
 ## See also
 - [[Dark Web]]
 - [[Packet Switching]]
+- [[Steganography]]

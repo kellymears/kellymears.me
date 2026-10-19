@@ -22,5 +22,5 @@ Fixed slots waste capacity when a conversation is silent. **Statistical multiple
 Multiplexing also happens at higher layers. Port numbers let many applications share one network address, and the operating system demultiplexes arriving packets to the right program; see [[Network Socket]]. HTTP/2 runs many requests concurrently over one connection, but a single lost packet in the underlying stream stalls all of them; see [[Head-of-Line Blocking]]. QUIC was designed partly to fix this, giving each stream independent delivery; see [[QUIC]]. The general trade-off holds everywhere: sharing a channel saves resources but makes its users depend on each other.
 
 ## See also
-- [[Radio Broadcasting]]
+- [[Microwave Transmission]]
 - [[HTTP/2]]

@@ -32,7 +32,7 @@ Mobile links behave differently from wired ones. Latency and throughput vary as 
 The radio itself is expensive in energy. Keeping it active drains the [[Lithium-Ion Battery]], so phones drop to idle states quickly, and apps that wake the radio often, through frequent polling, for example, cost far more power than their data suggests. That is a large part of why mobile platforms push developers toward batched, server-initiated notifications.
 
 ## See also
-- [[Radio Propagation]]
+- [[Microwave Transmission]]
 - [[Adaptive Bitrate Streaming]]
 - [[Emergency Telephone Number]]
 - [[Wiretapping]]

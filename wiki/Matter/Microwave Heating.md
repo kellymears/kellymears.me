@@ -25,6 +25,6 @@ The 2.4 GHz band is shared with [[Wi-Fi]] and Bluetooth, so a leaky microwave ov
 ## See also
 - [[Big Bang]]
 - [[Faraday Cage]]
-- [[Radio Spectrum]]
+- [[Microwave Transmission]]
 - [[Ionizing Radiation]]
 - [[Plasma]]

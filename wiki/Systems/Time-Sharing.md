@@ -25,5 +25,5 @@ Personal computers in the late 1970s and 1980s gave each person a machine of the
 
 ## See also
 - [[Teleprinter]]
-- [[Multiplexing]]
+- [[Remote Desktop]]
 - [[Mainframe]]

@@ -22,7 +22,7 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 ## See also
 - [[Three Mile Island Accident]]
 - [[Air France Flight 447]]
-- [[Dashboard]]
+- [[Videoconferencing]]
 - [[Team Topologies]]
 - [[KISS Principle]]
 - [[Tutorial Design]]

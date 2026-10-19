@@ -26,3 +26,4 @@ Some NATs are more hostile than others: "symmetric" NATs assign a different exte
 - [[Napster]]
 - [[Voice over IP]]
 - [[Universal Plug and Play]]
+- [[Videoconferencing]]

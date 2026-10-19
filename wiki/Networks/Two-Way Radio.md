@@ -24,7 +24,7 @@ Radio remains essential where phone networks fail or don't reach: at sea, in avi
 ## See also
 - [[Pager]]
 - [[Spread Spectrum]]
-- [[Voice over IP]]
+- [[Microwave Transmission]]
 - [[Radio Broadcasting]]
 - [[Radio Propagation]]
 - [[Numbers Station]]

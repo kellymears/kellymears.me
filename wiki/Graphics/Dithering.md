@@ -28,6 +28,6 @@ Audio uses the same idea. When a recording is reduced from 24-bit to 16-bit for 
 - [[GIF]]
 - [[ASCII Art]]
 - [[Color Cycling]]
-- [[Low-Discrepancy Sequence]]
+- [[Steganography]]
 - [[Blue Noise]]
 - [[Flood Fill]]

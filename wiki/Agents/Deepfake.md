@@ -28,5 +28,5 @@ The legal scholars Bobby Chesney and Danielle Citron named a subtler harm the **
 - [[Adversarial Example]]
 - [[McGurk Effect]]
 - [[Content Moderation]]
-- [[Vision Transformer]]
+- [[Videoconferencing]]
 - [[Speaker Diarization]]

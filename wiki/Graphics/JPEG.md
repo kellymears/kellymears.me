@@ -28,4 +28,4 @@ Better formats exist. JPEG 2000, WebP, AVIF, and JPEG XL all compress more effic
 ## See also
 - [[Unsharp Masking]]
 - [[Seam Carving]]
-- [[Portable Network Graphics]]
+- [[Steganography]]

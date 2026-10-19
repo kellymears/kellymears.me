@@ -33,6 +33,6 @@ Training and simulated phishing campaigns are widespread, but studies find their
 
 ## See also
 - [[URL Shortener]]
-- [[Ransomware]]
+- [[Remote Desktop]]
 - [[Domain Registrar]]
 - [[Internationalized Domain Name]]

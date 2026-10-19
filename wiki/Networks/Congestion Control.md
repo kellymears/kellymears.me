@@ -28,7 +28,7 @@ Congestion control lives in [[TCP and UDP]] stacks, and [[QUIC]] reimplements it
 
 ## See also
 - [[Nagle's Algorithm]]
-- [[Ring Buffer]]
+- [[Videoconferencing]]
 - [[Adaptive Bitrate Streaming]]
 - [[Carrier-Sense Multiple Access]]
 - [[Sliding Window Protocol]]

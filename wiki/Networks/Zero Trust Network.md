@@ -16,7 +16,7 @@ The honest cost is operational complexity: every service now needs to participat
 
 ## See also
 - [[Mandatory Access Control]]
-- [[Universal Plug and Play]]
+- [[Remote Desktop]]
 - [[Caller ID Authentication]]
 - [[Zero-Knowledge Proof]]
 - [[Encrypted Client Hello]]

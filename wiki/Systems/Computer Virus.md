@@ -22,4 +22,4 @@ The biological vocabulary stuck because the dynamics really are similar. Infecti
 
 ## See also
 - [[URL Shortener]]
-- [[Memory Safety]]
+- [[Steganography]]

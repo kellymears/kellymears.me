@@ -28,7 +28,7 @@ Programs often check whether they are attached to a terminal using `isatty`. Man
 Terminals also carry sessions. Closing a terminal sends SIGHUP to its processes, which is why long jobs started in a terminal die when it closes unless run under `nohup`, tmux, or as a [[Daemon]]. Each [[Process]] has a *controlling terminal*, and the shell's job control uses it to move jobs between foreground and background.
 
 ## See also
-- [[ANSI Escape Code]]
+- [[Remote Desktop]]
 - [[Job Control]]
 - [[Teleprinter]]
 - [[Terminal Multiplexer]]

@@ -32,3 +32,4 @@ Defenses include closing unused services, denying inbound traffic by default, an
 - [[Threat Modeling]]
 - [[Telnet]]
 - [[Universal Plug and Play]]
+- [[Remote Desktop]]

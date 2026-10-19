@@ -21,7 +21,7 @@ Anonymity cuts both ways for users. Scams are common, markets have often disappe
 Public fear of the dark web often outruns its actual size, and coverage has repeatedly cast it as a hidden underworld vastly larger than it is; see [[Moral Panic]].
 
 ## See also
-- [[Peer-to-Peer]]
+- [[Steganography]]
 - [[Sybil Attack]]
 - [[Computer Virus]]
 - [[Ransomware]]

@@ -27,7 +27,7 @@ At home, the most effective form of QoS turned out to be fair queuing rather tha
 Whether internet providers may sell faster treatment to particular companies is the heart of the net neutrality debate; see [[Net Neutrality]].
 
 ## See also
-- [[Tail Latency]]
+- [[Videoconferencing]]
 - [[WebRTC]]
 - [[Voice over IP]]
 - [[Virtual LAN]]
