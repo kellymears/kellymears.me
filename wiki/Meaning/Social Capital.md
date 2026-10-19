@@ -24,7 +24,7 @@ The concept has drawn criticism. It is hard to measure, and studies often use pr
 Whether the internet has built or eroded social capital remains debated. Online groups let people find others with shared interests across distances, but many connections are thin, and audiences mix in ways that make trust harder; see [[Context Collapse]] and [[Parasocial Relationship]]. The number of relationships a person can sustain stays limited regardless of platform; see [[Dunbar's Number]].
 
 ## See also
-- [[Network Effect]]
+- [[Sortition]]
 - [[Legibility]]
 - [[Filter Bubble]]
 - [[Imagined Community]]

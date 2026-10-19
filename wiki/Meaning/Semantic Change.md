@@ -34,8 +34,8 @@ Semantic change also connects to how categories work, with central meanings shif
 ## See also
 - [[Retronym]]
 - [[Snowclone]]
-- [[Word2Vec]]
-- [[Constructed Language]]
+- [[Portmanteau]]
+- [[Loanword]]
 - [[Ship of Theseus]]
 - [[Emoji]]
-- [[Death of the Author]]
+- [[Diglossia]]

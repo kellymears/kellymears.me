@@ -26,7 +26,7 @@ Euphemism also has darker uses. Bureaucratic language hides responsibility and h
 The treadmill links to other features of how words drift. [[Semantic Satiation]] makes words briefly lose meaning through repetition, [[Folk Etymology]] reshapes unfamiliar words, and a [[Shibboleth]] shows how word choice marks group membership, as current terms often signal awareness of a community's preferences. Choosing words carefully in interfaces, the work of [[Microcopy]], meets the same tension between clarity and gentleness.
 
 ## See also
-- [[Overton Window]]
+- [[Loanword]]
 - [[Politeness Theory]]
 - [[Code-Switching]]
 - [[Meme]]

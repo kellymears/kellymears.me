@@ -30,6 +30,6 @@ Remedies start from taking another's view seriously: restate an opponent's posit
 
 ## See also
 - [[Spotlight Effect]]
-- [[OODA Loop]]
+- [[Rashomon Effect]]
 - [[Devil's Advocate]]
 - [[Psychological Distance]]

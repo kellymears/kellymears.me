@@ -24,7 +24,7 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 
 ## Related
 - [[Therac-25]]
-- [[Psychological Safety]]
+- [[Rashomon Effect]]
 - [[Post Office Horizon Scandal]]
 - [[Status Page]]
 - [[Site Reliability Engineering]]

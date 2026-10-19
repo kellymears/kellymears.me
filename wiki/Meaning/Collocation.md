@@ -19,3 +19,4 @@ Corpus linguistics turns the intuition into a measurement. Given a large collect
 - [[Grammatical Gender]]
 - [[Shibboleth]]
 - [[Constructed Language]]
+- [[Portmanteau]]

@@ -34,6 +34,6 @@ Quorum ideas reach beyond databases. A [[Gossip Protocol]] may require several i
 - [[Wide-Column Store]]
 - [[N-Version Programming]]
 - [[Token Ring]]
-- [[Sybil Attack]]
-- [[Distributed Lock]]
+- [[Arrow's Impossibility Theorem]]
+- [[Ranked-Choice Voting]]
 - [[Two Generals Problem]]

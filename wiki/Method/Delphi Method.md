@@ -35,3 +35,6 @@ Alternatives aggregate judgment differently. Averaging many independent guesses 
 - [[Calibration]]
 - [[Pre-mortem]]
 - [[Mean and Median]]
+- [[Arrow's Impossibility Theorem]]
+- [[Ranked-Choice Voting]]
+- [[Sortition]]

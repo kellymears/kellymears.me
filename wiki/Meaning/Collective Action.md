@@ -15,18 +15,18 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 ## See also
 - [[Rent Strike]]
 - [[Broken Windows Theory]]
-- [[Wiki]]
+- [[Median Voter Theorem]]
 - [[Open Source Sustainability]]
 - [[Drafting]]
 
 ## Related
 - [[Creole Language]]
-- [[Markdown]]
+- [[Ranked-Choice Voting]]
 - [[Cooperative Game]]
 - [[Social Capital]]
 - [[Iron Law of Oligarchy]]
 - [[Schelling Point]]
-- [[Free Rider Problem]]
-- [[Prisoner's Dilemma]]
+- [[Duverger's Law]]
+- [[Sortition]]
 - [[Pluralistic Ignorance]]
 - [[Strength of Weak Ties]]

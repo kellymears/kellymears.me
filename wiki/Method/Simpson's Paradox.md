@@ -16,9 +16,9 @@ The defense is the same move every time: before trusting an aggregate comparison
 ## See also
 - [[Linear Regression]]
 - [[Box Plot]]
-- [[Regression to the Mean]]
+- [[Arrow's Impossibility Theorem]]
 - [[Mean and Median]]
-- [[AB Testing]]
+- [[Gerrymandering]]
 
 ## Related
 - [[Percentage Point]]

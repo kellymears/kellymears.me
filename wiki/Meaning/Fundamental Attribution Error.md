@@ -25,3 +25,4 @@ The error matters most where it has consequences: it drives harsher judgments of
 - [[Obedience to Authority]]
 - [[Social Identity Theory]]
 - [[Just Culture]]
+- [[Rashomon Effect]]

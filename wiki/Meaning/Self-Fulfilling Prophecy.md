@@ -28,4 +28,4 @@ The concept also explains how labels stick. Treating someone as a troublemaker c
 - [[Learned Helplessness]]
 - [[Year 2000 Problem]]
 - [[Algorithmic Bias]]
-- [[Moore's Law]]
+- [[Duverger's Law]]

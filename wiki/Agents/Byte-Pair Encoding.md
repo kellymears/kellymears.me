@@ -37,3 +37,4 @@ The tokenizer is fixed before [[Pretraining]] and cannot easily change afterward
 - [[Word2Vec]]
 - [[Stemming and Lemmatization]]
 - [[Machine Translation]]
+- [[Portmanteau]]

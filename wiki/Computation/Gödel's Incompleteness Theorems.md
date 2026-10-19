@@ -29,7 +29,7 @@ They are also frequently misapplied. Claims that incompleteness proves minds are
 
 ## See also
 - [[P versus NP Problem]]
-- [[Type System]]
+- [[Arrow's Impossibility Theorem]]
 - [[Russell's Paradox]]
 - [[Dependent Types]]
 - [[Quine]]

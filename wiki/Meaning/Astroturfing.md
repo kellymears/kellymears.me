@@ -17,7 +17,7 @@ Its target is often the [[Overton Window]] rather than any single vote — manuf
 ## See also
 - [[Conspiracy Theory]]
 - [[Sybil Attack]]
-- [[Overton Window]]
+- [[Gerrymandering]]
 - [[Rent Strike]]
 - [[Anchoring Effect]]
 - [[Jaywalking]]

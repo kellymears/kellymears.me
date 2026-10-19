@@ -28,3 +28,4 @@ The essay itself has become a shorthand far beyond literary theory, much as a st
 ## See also
 - [[Speech Act]]
 - [[Fourth Wall]]
+- [[Rashomon Effect]]

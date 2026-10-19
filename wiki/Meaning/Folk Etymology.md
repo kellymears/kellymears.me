@@ -21,6 +21,6 @@ The lesson generalizes past words. Visible internal structure is evidence about 
 - [[Urban Legend]]
 - [[Invented Tradition]]
 - [[Euphemism Treadmill]]
-- [[Semantic Change]]
+- [[Portmanteau]]
 - [[Retronym]]
-- [[Creole Language]]
+- [[Loanword]]

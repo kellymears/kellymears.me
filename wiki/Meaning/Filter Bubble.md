@@ -13,7 +13,7 @@ The empirical picture is more contested than the popular story: several large st
 
 ## See also
 - [[Spiral of Silence]]
-- [[Social Identity Theory]]
+- [[Median Voter Theorem]]
 - [[Third-Person Effect]]
 - [[Naive Realism]]
 - [[Motivated Reasoning]]

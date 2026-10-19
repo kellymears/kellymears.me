@@ -15,7 +15,7 @@ What makes the eggcorn worth naming separately is that it is evidence of reasoni
 - [[Crossword]]
 - [[Malaphor]]
 - [[Mondegreen]]
-- [[Plausible Mechanism]]
+- [[Portmanteau]]
 - [[Naming]]
 - [[Semantic Change]]
 - [[Meme]]

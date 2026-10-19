@@ -35,3 +35,4 @@ Projection choice shapes perception: a map is a model, and decides in advance wh
 - [[Coriolis Effect]]
 - [[Choropleth Map]]
 - [[Infographic]]
+- [[Gerrymandering]]

@@ -14,9 +14,9 @@ A "hard core" resists the spiral regardless of perceived isolation — people wi
 ## See also
 - [[Devil's Advocate]]
 - [[Third-Person Effect]]
-- [[Social Proof]]
+- [[Duverger's Law]]
 - [[Overton Window]]
-- [[Filter Bubble]]
+- [[Median Voter Theorem]]
 - [[Pluralistic Ignorance]]
 - [[Context Collapse]]
 - [[Internet Censorship]]

@@ -37,3 +37,4 @@ In software, the same pattern shows up in naming versions. When a successor take
 - [[Folk Etymology]]
 - [[Lindy Effect]]
 - [[Telephone Network]]
+- [[Portmanteau]]

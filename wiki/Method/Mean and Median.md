@@ -33,3 +33,4 @@ In probability, the mean of a distribution is its expected value, and sample mea
 ## See also
 - [[Statistical Significance]]
 - [[Percentage Point]]
+- [[Median Voter Theorem]]

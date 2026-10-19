@@ -30,3 +30,4 @@ Satisficing has its own risk: setting the bar too low, or never revisiting it. T
 - [[Cynefin Framework]]
 - [[Wicked Problem]]
 - [[Interesting Decisions]]
+- [[Ranked-Choice Voting]]

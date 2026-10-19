@@ -16,10 +16,10 @@ Two writing habits are worth naming as failure modes because they are so easy to
 
 ## See also
 - [[Speech Act]]
-- [[Information Architecture]]
+- [[Loanword]]
 - [[Euphemism Treadmill]]
 - [[Code Comment]]
-- [[Linguistic Relativity]]
+- [[Diglossia]]
 - [[Microcopy]]
 - [[Typographic Scale]]
 - [[Docs as Code]]

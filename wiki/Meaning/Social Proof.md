@@ -17,7 +17,7 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 - [[Conformity]]
 - [[Astroturfing]]
 - [[Halo Effect]]
-- [[Spiral of Silence]]
+- [[Median Voter Theorem]]
 - [[Pluralistic Ignorance]]
 - [[Yawning]]
 - [[Veblen Good]]

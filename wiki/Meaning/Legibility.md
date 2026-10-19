@@ -19,7 +19,7 @@ This is the social-scale sibling of [[Goodhart's Law]]: the same simplification 
 - [[Imagined Community]]
 - [[Panopticon]]
 - [[Chesterton's Fence]]
-- [[Ground Truth]]
+- [[Gerrymandering]]
 - [[Dunbar's Number]]
 - [[Wayfinding]]
 - [[Map and Territory]]

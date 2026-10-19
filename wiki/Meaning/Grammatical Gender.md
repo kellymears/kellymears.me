@@ -14,8 +14,8 @@ Whether the surviving classes shape thought beyond grammar is contested, and the
 
 ## See also
 - [[Language Death]]
-- [[Taxonomy]]
-- [[Shibboleth]]
+- [[Loanword]]
+- [[Diglossia]]
 - [[Collocation]]
 - [[Constructed Language]]
 - [[Code-Switching]]

@@ -25,6 +25,6 @@ Interoperability is one proposed remedy. If users could take their contacts, his
 Matching markets that run without prices, like school choice and medical residencies, share some of these features; see [[Stable Matching]].
 
 ## See also
-- [[Video Game Crash of 1983]]
-- [[Paywall]]
+- [[Median Voter Theorem]]
+- [[Duverger's Law]]
 - [[Schelling Point]]

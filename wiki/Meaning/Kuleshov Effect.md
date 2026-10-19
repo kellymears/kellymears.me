@@ -23,3 +23,4 @@ What the effect demonstrates regardless is that editing is authorship, not assem
 - [[Fourth Wall]]
 - [[Death of the Author]]
 - [[Suspension of Disbelief]]
+- [[Rashomon Effect]]

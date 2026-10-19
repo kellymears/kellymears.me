@@ -31,3 +31,5 @@ Language death also happens through mixing. Contact languages can arise as commu
 ## See also
 - [[Constructed Language]]
 - [[Shibboleth]]
+- [[Loanword]]
+- [[Diglossia]]

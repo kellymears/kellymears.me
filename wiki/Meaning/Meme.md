@@ -31,3 +31,4 @@ Memes overlap with older forms of folk transmission: legends, jokes, and sayings
 ## See also
 - [[Eternal September]]
 - [[Information Cascade]]
+- [[Portmanteau]]

@@ -16,6 +16,6 @@ Most shibboleths today are soft rather than lethal, and still do real sorting wo
 - [[Language Death]]
 - [[Creole Language]]
 - [[Speech Act]]
-- [[Social Identity Theory]]
+- [[Diglossia]]
 - [[Rite of Passage]]
-- [[Code-Switching]]
+- [[Loanword]]

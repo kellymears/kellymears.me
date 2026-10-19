@@ -13,7 +13,7 @@ In practice, systems pick a lean rather than an absolute: a leader-based [[Datab
 
 ## See also
 - [[Eventual Consistency]]
-- [[Conflict-Free Replicated Data Type]]
+- [[Arrow's Impossibility Theorem]]
 - [[Database Replication]]
 - [[Consensus Algorithm]]
 

@@ -26,5 +26,5 @@ Unreliable narration resonates because everyday memory is unreliable too. People
 - [[Multiple Endings]]
 - [[Branching Narrative]]
 - [[MacGuffin]]
-- [[Suspension of Disbelief]]
+- [[Rashomon Effect]]
 - [[Death of the Author]]

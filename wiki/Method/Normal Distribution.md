@@ -24,6 +24,6 @@ The habit worth keeping is to look at the data before assuming its shape. A hist
 ## See also
 - [[Control Chart]]
 - [[Box Plot]]
-- [[Elo Rating System]]
+- [[Median Voter Theorem]]
 - [[Benford's Law]]
 - [[Linear Regression]]

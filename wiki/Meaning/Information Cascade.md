@@ -27,6 +27,6 @@ Remedies aim at keeping private signals visible. Juries and committees can vote 
 
 ## See also
 - [[Bystander Effect]]
-- [[Urban Legend]]
-- [[Delphi Method]]
+- [[Duverger's Law]]
+- [[Median Voter Theorem]]
 - [[Conformity]]

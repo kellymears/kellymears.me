@@ -16,7 +16,7 @@ Mismanaging the line, rather than deliberately crossing it, is one recurring sou
 
 ## See also
 - [[Terminal User Interface]]
-- [[Game Feel]]
+- [[Rashomon Effect]]
 - [[MacGuffin]]
 - [[Fair-Play Mystery]]
 - [[Speech Act]]

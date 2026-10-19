@@ -23,4 +23,4 @@ Network effects are often confused with switching costs, and the two are related
 - [[Stable Matching]]
 - [[Gopher]]
 - [[Web 2.0]]
-- [[SMS]]
+- [[Median Voter Theorem]]

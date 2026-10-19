@@ -15,8 +15,8 @@ The empirical difficulty is real: licensing that exists to seek rent and licensi
 ## See also
 - [[Public Domain]]
 - [[Open Core]]
-- [[Externality]]
-- [[Path Dependence]]
+- [[Gerrymandering]]
+- [[Sortition]]
 - [[Legibility]]
 - [[Hanlon's Razor]]
 - [[Right to Repair]]

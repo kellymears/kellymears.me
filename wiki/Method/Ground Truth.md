@@ -17,7 +17,7 @@ Ground truth also has a *staleness* dimension. A measurement is only about the t
 - [[Falsifiability]]
 - [[ImageNet]]
 - [[Reproducible Case]]
-- [[Determinism]]
+- [[Rashomon Effect]]
 - [[Instrumentation]]
 - [[McNamara Fallacy]]
 - [[Root Cause Analysis]]

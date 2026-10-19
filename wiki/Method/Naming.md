@@ -26,6 +26,6 @@ Test names are a special case: they should describe the scenario and the expecte
 - [[Linguistic Relativity]]
 
 ## Related
-- [[Plain Language]]
+- [[Portmanteau]]
 - [[Zettelkasten]]
 - [[Tip of the Tongue]]

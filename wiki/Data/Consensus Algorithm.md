@@ -16,9 +16,9 @@ The core guarantee any consensus algorithm provides is safety under partial fail
 ## See also
 - [[Linearizability Checking]]
 - [[N-Version Programming]]
-- [[CAP Theorem]]
+- [[Ranked-Choice Voting]]
 - [[Blockchain]]
-- [[Gossip Protocol]]
+- [[Arrow's Impossibility Theorem]]
 - [[Logical Clock]]
 - [[Distributed SQL]]
 - [[Deterministic Simulation Testing]]

@@ -30,4 +30,4 @@ Remedies follow from Asch's findings: collect opinions privately before discussi
 - [[Obedience to Authority]]
 - [[Social Identity Theory]]
 - [[Delphi Method]]
-- [[Devil's Advocate]]
+- [[Median Voter Theorem]]

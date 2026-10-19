@@ -30,7 +30,7 @@ Protection comes from good practice: asking open rather than leading questions, 
 ## See also
 - [[Episodic Memory]]
 - [[Déjà Vu]]
-- [[Predictive Processing]]
+- [[Rashomon Effect]]
 - [[Confirmation Bias]]
 - [[Memory Consolidation]]
 - [[Unreliable Narrator]]

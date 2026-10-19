@@ -23,4 +23,4 @@ The counterintuitive consequence is that a larger biased sample is not safer tha
 - [[Train-Test Split]]
 - [[Census]]
 - [[Web Analytics]]
-- [[Outlier]]
+- [[Sortition]]

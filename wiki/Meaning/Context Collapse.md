@@ -27,7 +27,7 @@ People find ways to rebuild walls. Private accounts, close-friends lists, altern
 For autistic and other neurodivergent people, who may already work hard at reading audiences, context collapse adds pressure to keep up [[Masking]] across every audience at once.
 
 ## See also
-- [[Filter Bubble]]
+- [[Rashomon Effect]]
 - [[Kayfabe]]
 - [[Politeness Theory]]
 - [[Meme]]

@@ -27,6 +27,6 @@ Outliers also distort models. A single extreme point can tilt a fitted line, and
 The working rule: plot the data, find the outliers, and explain each one before deciding what to do with it; see [[Histogram]].
 
 ## See also
-- [[Control Chart]]
+- [[Gerrymandering]]
 - [[Linear Regression]]
 - [[Anomaly Detection]]

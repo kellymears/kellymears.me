@@ -14,7 +14,7 @@ The cross-language cousin is *soramimi*, a Japanese term for hearing foreign-lan
 
 ## See also
 - [[Urban Legend]]
-- [[Malaphor]]
+- [[Portmanteau]]
 - [[Snowclone]]
 - [[Earworm]]
 - [[Death of the Author]]

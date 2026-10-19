@@ -18,15 +18,15 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 ## See also
 - [[Context-Free Grammar]]
 - [[Conceptual Metaphor]]
-- [[Language Death]]
+- [[Loanword]]
 
 ## Related
 - [[Politeness Theory]]
-- [[Creole Language]]
+- [[Diglossia]]
 - [[Code Comment]]
 - [[Machine Translation]]
 - [[Emotional Granularity]]
 - [[Inner Speech]]
 - [[Framing Effect]]
 - [[Euphemism Treadmill]]
-- [[Constructed Language]]
+- [[Portmanteau]]

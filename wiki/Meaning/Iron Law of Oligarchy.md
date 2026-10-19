@@ -27,6 +27,6 @@ Critics note that the law describes a tendency, not a certainty. Cooperatives an
 The law is sobering for anyone organizing people toward a shared goal; see [[Collective Action]].
 
 ## See also
-- [[Conway's Law]]
-- [[Rent-Seeking]]
-- [[Obedience to Authority]]
+- [[Gerrymandering]]
+- [[Duverger's Law]]
+- [[Sortition]]

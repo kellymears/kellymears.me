@@ -30,7 +30,7 @@ The idea has limits. Crowds do well on questions with a measurable answer that i
 
 ## See also
 - [[Speculative Bubble]]
-- [[Superforecasting]]
-- [[Delphi Method]]
+- [[Median Voter Theorem]]
+- [[Arrow's Impossibility Theorem]]
 - [[Self-Consistency]]
-- [[Alternate Reality Game]]
+- [[Sortition]]

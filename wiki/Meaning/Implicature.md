@@ -34,5 +34,5 @@ Language models are a recent test case. They handle many conventional implicatur
 - [[Death of the Author]]
 - [[Politeness Theory]]
 - [[Cunningham's Law]]
-- [[Dog Whistle]]
+- [[Diglossia]]
 - [[Emoji]]

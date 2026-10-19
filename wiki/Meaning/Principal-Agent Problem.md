@@ -13,13 +13,13 @@ summary: Divergent interests and unequal information between whoever delegates a
 Every fix compounds the problem rather than resolving it. Add a second metric to catch gaming of the first, and the agent optimizes a weighted combination of two proxies instead of the outcome; add oversight to catch that, and the oversight becomes a target to satisfy rather than a check to pass. [[Regulatory Capture]] and [[Rent-Seeking]] are both principal-agent failures at the scale of a state — the public is the principal, the agency or license-holder is the agent, and the information the principal needs to monitor well is held by the party being monitored.
 
 ## See also
-- [[Information Asymmetry]]
+- [[Gerrymandering]]
 - [[Prisoner's Dilemma]]
 - [[Cobra Effect]]
 - [[AI Alignment]]
 - [[Iron Law of Oligarchy]]
 - [[Hanlon's Razor]]
-- [[Reward Hacking]]
+- [[Sortition]]
 
 ## Related
 - [[Universal Basic Income]]

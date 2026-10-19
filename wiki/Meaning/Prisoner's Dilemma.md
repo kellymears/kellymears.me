@@ -28,7 +28,7 @@ The model has critics. Real people cooperate more than the theory predicts in on
 
 ## See also
 - [[Linear Programming]]
-- [[Schelling Point]]
+- [[Duverger's Law]]
 - [[BitTorrent]]
 - [[Blockchain]]
 - [[Dominant Strategy]]

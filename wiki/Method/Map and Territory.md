@@ -27,5 +27,5 @@ Governments face a version at large scale. James C. Scott argued that states sim
 The practical habits follow: check the territory directly when stakes are high, ask what a model leaves out before relying on it, and treat surprise as a sign that the map needs updating rather than reality needs explaining away; see [[Ground Truth]].
 
 ## See also
-- [[OODA Loop]]
+- [[Rashomon Effect]]
 - [[Wargame]]
