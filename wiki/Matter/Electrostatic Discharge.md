@@ -24,5 +24,5 @@ Static electricity is also put to work. Laser printers and photocopiers use char
 - [[Lightning]]
 - [[Faraday Cage]]
 - [[Plasma]]
-- [[Piezoelectric Effect]]
-- [[Capacitor]]
+- [[Power Supply Unit]]
+- [[Motherboard]]

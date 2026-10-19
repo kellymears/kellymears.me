@@ -23,3 +23,5 @@ Public fear of the dark web often outruns its actual size, and coverage has repe
 ## See also
 - [[Peer-to-Peer]]
 - [[Sybil Attack]]
+- [[Computer Virus]]
+- [[Ransomware]]

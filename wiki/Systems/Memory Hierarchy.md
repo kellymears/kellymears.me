@@ -31,5 +31,5 @@ Software design follows from these numbers:
 The numbers also explain why measuring beats guessing. Two algorithms with the same complexity can differ tenfold in practice because of where their data lives, and optimizing anything but the slowest level is usually wasted; see [[Premature Optimization]].
 
 ## See also
-- [[Zero-Copy]]
-- [[Hard Disk Drive]]
+- [[Processor Register]]
+- [[Read-Only Memory]]

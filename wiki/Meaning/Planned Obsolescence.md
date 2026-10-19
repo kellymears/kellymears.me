@@ -24,5 +24,5 @@ The usual exhibit for the strong version is the Phoebus cartel: manufacturers of
 - [[OLED]]
 - [[Terror Management Theory]]
 - [[Specific Absorption Rate]]
-- [[Sensitivity and Specificity]]
+- [[Power Supply Unit]]
 - [[Dieter Rams]]

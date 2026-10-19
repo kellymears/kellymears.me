@@ -28,7 +28,7 @@ TPMs are a simple, cheap kind of hardware security module. Larger ones protect t
 ## See also
 - [[Rowhammer]]
 - [[Entropy Pool]]
-- [[GNU Privacy Guard]]
+- [[Air Gap]]
 - [[Near-Field Communication]]
 - [[Rootkit]]
-- [[Secrets Management]]
+- [[Read-Only Memory]]

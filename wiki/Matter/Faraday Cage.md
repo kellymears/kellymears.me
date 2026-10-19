@@ -29,3 +29,4 @@ Sensitive electronics are protected from static the same way: bags made with a t
 - [[Inverse-Square Law]]
 - [[Bluetooth]]
 - [[Magnetosphere]]
+- [[Air Gap]]

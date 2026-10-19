@@ -32,7 +32,7 @@ Microcode sits in an awkward position for trust. It runs below the [[Kernel]] an
 ## See also
 - [[Instruction Pipelining]]
 - [[Pentium FDIV Bug]]
-- [[Silicon Binning]]
+- [[Read-Only Memory]]
 - [[Dynamic Voltage and Frequency Scaling]]
 - [[Mainframe]]
 - [[Live Patching]]

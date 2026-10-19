@@ -28,7 +28,7 @@ Unattended unlocking adds trade-offs. A Trusted Platform Module can release the 
 
 ## See also
 - [[One-Time Pad]]
-- [[Data Breach]]
+- [[Ransomware]]
 - [[CrowdStrike Outage]]
 - [[Enigma Machine]]
 - [[Disk Image]]

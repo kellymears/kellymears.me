@@ -24,12 +24,12 @@ The principle is stated easily and applied poorly, because broad permissions are
 - [[Browser Extension]]
 - [[Mandatory Access Control]]
 - [[Server-Side Request Forgery]]
-- [[Resource Limit]]
+- [[Air Gap]]
 - [[Zero-Knowledge Proof]]
 - [[Data Breach]]
 - [[Time-of-Check to Time-of-Use]]
 
 ## Related
 - [[Secrets Management]]
-- [[Rootkit]]
+- [[Computer Virus]]
 - [[CrowdStrike Outage]]

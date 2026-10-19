@@ -21,5 +21,5 @@ The Arduino project, started in Italy in 2005, made microcontrollers approachabl
 Connecting microcontrollers to networks created the internet of things, and with it new problems: devices that run for years on firmware nobody updates, sometimes with default passwords; see [[Internet of Things]] and [[Over-the-Air Update]]. In harsh settings, such as satellites, even a stray cosmic ray can flip a bit in memory.
 
 ## See also
-- [[Assembly Language]]
-- [[Single-Event Upset]]
+- [[Processor Register]]
+- [[Read-Only Memory]]

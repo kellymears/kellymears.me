@@ -32,3 +32,4 @@ Physical transfer needs its own care: data must be verified on arrival, since dr
 - [[Pigeon Post]]
 - [[Internet Shutdown]]
 - [[Pneumatic Tube]]
+- [[Air Gap]]

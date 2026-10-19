@@ -30,6 +30,6 @@ TLS encrypts content but not everything. The server's IP address is visible, and
 - [[HTTP Compression]]
 - [[Elliptic Curve Cryptography]]
 - [[Zero-Knowledge Proof]]
-- [[Diffie-Hellman Key Exchange]]
+- [[Timing Attack]]
 - [[HTTP Strict Transport Security]]
 - [[Mutual TLS]]

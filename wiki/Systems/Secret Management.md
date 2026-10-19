@@ -25,13 +25,13 @@ Three practical notes.
 - [[Server-Side Request Forgery]]
 - [[Clipboard]]
 - [[Password Manager]]
-- [[Continuous Deployment]]
+- [[Ransomware]]
 - [[GNU Privacy Guard]]
 
 ## Related
 - [[Overlay Filesystem]]
 - [[Dependency Confusion]]
 - [[Data Masking]]
-- [[Twelve-Factor App]]
+- [[Air Gap]]
 - [[Full-Disk Encryption]]
 - [[Trusted Platform Module]]

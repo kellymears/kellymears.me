@@ -24,6 +24,6 @@ The event loop is one specific answer to the concurrency-without-threads problem
 - [[Multiplexing]]
 - [[Event Delegation]]
 - [[IO Multiplexing]]
-- [[Call Stack]]
+- [[Thread Pool]]
 - [[Long Task]]
 - [[Context Switch]]

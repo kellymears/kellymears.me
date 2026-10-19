@@ -34,4 +34,4 @@ Testing time-dependent code is easier when the clock is passed in rather than re
 
 ## See also
 - [[Daylight Saving Time]]
-- [[Suspend and Hibernation]]
+- [[Timing Attack]]

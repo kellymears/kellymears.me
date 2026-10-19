@@ -26,9 +26,9 @@ Every stage is a place to break. A corrupt bootloader configuration stops the ma
 `systemd-analyze blame` lists how long each unit took, and the critical-chain view shows which waits actually delayed reaching the desktop. Once started, a machine can be guarded by a [[Watchdog Timer]] that reboots it if the system hangs.
 
 ## See also
-- [[Over-the-Air Update]]
+- [[Computer Virus]]
 - [[MicroVM]]
 - [[Assembly Language]]
-- [[Disk Image]]
+- [[Read-Only Memory]]
 - [[Device Tree]]
 - [[Rootkit]]

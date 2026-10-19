@@ -25,3 +25,4 @@ Like RSA, ECC would fall to a large quantum computer running Shor's algorithm; s
 - [[Zero-Knowledge Proof]]
 - [[Prime Number]]
 - [[Information Theory]]
+- [[Timing Attack]]

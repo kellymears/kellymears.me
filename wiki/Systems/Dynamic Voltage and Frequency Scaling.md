@@ -23,11 +23,11 @@ DVFS can also be a source of instability. A chip that needs more voltage than th
 
 ## See also
 - [[Hybrid CPU Architecture]]
-- [[Electromigration]]
+- [[Motherboard]]
 - [[Clock Signal]]
 - [[Computer Cooling]]
 - [[CPU Affinity]]
-- [[Heisenbug]]
+- [[Power Supply Unit]]
 - [[Performance Budget]]
 - [[Ohm's Law]]
 - [[Microcode]]

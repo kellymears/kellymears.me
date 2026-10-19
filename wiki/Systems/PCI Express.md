@@ -31,3 +31,4 @@ Bandwidth is shared out by the processor. A desktop chip has a fixed number of l
 ## See also
 - [[Memory Hierarchy]]
 - [[Firmware]]
+- [[Motherboard]]

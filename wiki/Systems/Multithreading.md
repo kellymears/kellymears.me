@@ -21,5 +21,5 @@ Many systems limit threads to avoid these problems. JavaScript runs on a single 
 More threads aren't always faster. Any part of a program that must run sequentially caps the speedup, and contention for shared locks or caches can make extra threads slow everything down; see [[Amdahl's Law]].
 
 ## See also
-- [[Fork and Exec]]
-- [[Futex]]
+- [[Thread Pool]]
+- [[Read-Copy-Update]]

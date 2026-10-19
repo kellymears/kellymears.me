@@ -24,7 +24,8 @@ Implementations often combine a futex with brief spinning. Spinning wastes proce
 Extensions followed. Priority-inheritance futexes help with a waiting high-priority thread stuck behind a low-priority one; see [[Real-Time Operating System]]. Robust futexes let the kernel release locks held by a thread that died. In 2021 Linux added a call to wait on several futexes at once, driven by compatibility layers that run Windows games, since Windows programs often wait on many objects at a time; see [[Emulation]].
 
 ## See also
-- [[Thundering Herd]]
+- [[Read-Copy-Update]]
 - [[Memory Model]]
 - [[Multithreading]]
 - [[File Locking]]
+- [[Thread Pool]]

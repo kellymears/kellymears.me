@@ -27,7 +27,7 @@ Batteries are the part that wears out. Sealed lead-acid batteries typically last
 A UPS turns a sudden failure into a few minutes of warning, and the warning helps only if software acts on it. Hibernating instead of shutting down keeps open work; see [[Suspend and Hibernation]].
 
 ## See also
-- [[Watchdog Timer]]
+- [[Power Supply Unit]]
 - [[Ohm's Law]]
 - [[Wake-on-LAN]]
 - [[Computer Cooling]]

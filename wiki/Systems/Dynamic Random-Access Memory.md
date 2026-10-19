@@ -27,6 +27,6 @@ DRAM's weaknesses come from its physics:
 Operating systems hide DRAM's limited size by moving data between it and disk; see [[Virtual Memory]] and [[Swap]]. The memory chips themselves are often sorted by the speeds they can sustain; see [[Silicon Binning]].
 
 ## See also
-- [[Cache Coherence]]
-- [[PCI Express]]
+- [[Read-Only Memory]]
+- [[Motherboard]]
 - [[In-Memory Database]]

@@ -27,7 +27,7 @@ The law connects to [[Concurrency and Parallelism]] more broadly. Choosing algor
 
 ## See also
 - [[Theory of Constraints]]
-- [[Multithreading]]
+- [[Thread Pool]]
 - [[Hybrid CPU Architecture]]
 - [[Baumol's Cost Disease]]
 - [[SIMD]]

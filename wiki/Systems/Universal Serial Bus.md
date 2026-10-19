@@ -24,9 +24,9 @@ USB also became the world's charger. The original port supplied 5 volts at up to
 One connector now carries data, video, and power, but what a given cable or port actually supports varies widely, and nothing on the outside says which; see [[Leaky Abstraction]].
 
 ## See also
-- [[Solid-State Drive]]
-- [[Keyboard Layout]]
-- [[Microcontroller]]
+- [[Motherboard]]
+- [[Air Gap]]
+- [[Power Supply Unit]]
 - [[Device Tree]]
 - [[PCI Express]]
 - [[Serial Port]]

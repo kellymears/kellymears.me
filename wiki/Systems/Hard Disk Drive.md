@@ -27,7 +27,7 @@ To keep growing, manufacturers squeezed tracks closer. **Shingled magnetic recor
 Drives fail mechanically, often after warning signs such as reallocated sectors that their self-monitoring reports. Failure rates follow a bathtub curve, high early and late in life, which is why backups matter more than any single drive; see [[Bathtub Curve]] and [[Backup and Restore]].
 
 ## See also
-- [[Moore's Law]]
+- [[Read-Only Memory]]
 - [[Bit rot]]
-- [[PCI Express]]
+- [[Power Supply Unit]]
 - [[Gray Failure]]

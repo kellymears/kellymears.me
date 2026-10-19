@@ -26,5 +26,5 @@ Game physics borrows the name for a fast object skipping through a thin wall bet
 ## See also
 - [[Photon]]
 - [[Uncertainty Principle]]
-- [[Black Hole]]
+- [[Read-Only Memory]]
 - [[Quantum Entanglement]]

@@ -27,3 +27,4 @@ MAC is one layer among several. [[Linux Capabilities]] split root's powers, [[Se
 - [[Zero Trust Network]]
 - [[Code Signing]]
 - [[Rootkit]]
+- [[Computer Virus]]

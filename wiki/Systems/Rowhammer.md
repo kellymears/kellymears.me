@@ -33,5 +33,5 @@ Its lesson is uncomfortable: type systems and proofs assume reliable hardware, a
 
 ## See also
 - [[Cache Coherence]]
-- [[Cosmic Ray]]
+- [[Timing Attack]]
 - [[Dynamic Random-Access Memory]]

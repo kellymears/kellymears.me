@@ -29,4 +29,4 @@ Both states raise security questions. A suspended machine keeps its memory, incl
 ## See also
 - [[Dynamic Voltage and Frequency Scaling]]
 - [[Uninterruptible Power Supply]]
-- [[Wake-on-LAN]]
+- [[Power Supply Unit]]

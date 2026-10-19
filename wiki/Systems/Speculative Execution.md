@@ -27,6 +27,6 @@ Variants have kept appearing, many involving [[Simultaneous Multithreading]], wh
 - [[Instruction Pipelining]]
 - [[Cross-Origin Isolation]]
 - [[Address Space Layout Randomization]]
-- [[Rowhammer]]
-- [[RSA]]
+- [[Processor Register]]
+- [[Timing Attack]]
 - [[Data Deduplication]]

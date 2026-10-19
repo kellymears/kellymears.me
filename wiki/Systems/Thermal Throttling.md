@@ -27,7 +27,7 @@ Heat is also the main accelerator of chip wear such as [[Electromigration]], so 
 
 ## See also
 - [[Load Average]]
-- [[Clock Signal]]
+- [[Power Supply Unit]]
 - [[Silicon Binning]]
 - [[Computer Cooling]]
 - [[Suspend and Hibernation]]
@@ -35,4 +35,4 @@ Heat is also the main accelerator of chip wear such as [[Electromigration]], so 
 - [[Thermoelectric Effect]]
 - [[Carryover Cooking]]
 - [[Hybrid CPU Architecture]]
-- [[Specific Heat Capacity]]
+- [[Motherboard]]

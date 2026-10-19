@@ -16,7 +16,7 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 ## See also
 - [[Intermediate Representation]]
 - [[Build System]]
-- [[Compiler Bootstrapping]]
+- [[Processor Register]]
 - [[Abstract Interpretation]]
 - [[Context-Free Grammar]]
 - [[Stack Machine]]

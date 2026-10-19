@@ -25,8 +25,8 @@ ASLR is therefore one layer among several. **Stack canaries** place a random val
 
 ## See also
 - [[Tagged Pointer]]
-- [[Call Stack]]
-- [[Virtual Memory]]
+- [[Computer Virus]]
+- [[Timing Attack]]
 - [[Penetration Testing]]
 - [[Linker]]
 - [[Von Neumann Architecture]]

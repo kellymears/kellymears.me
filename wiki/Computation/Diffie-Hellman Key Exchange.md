@@ -23,3 +23,4 @@ Parameters matter. In 2015 researchers showed that many servers still accepted d
 ## See also
 - [[Zero-Knowledge Proof]]
 - [[Arbitrary-Precision Arithmetic]]
+- [[Timing Attack]]

@@ -33,7 +33,8 @@ Large servers add **non-uniform memory access** (NUMA). Each processor socket ha
 The general lesson, that keeping copies consistent is expensive and gets more so with distance, applies at every scale. Distributed systems face the same choice between strong consistency and speed, with network delays in place of nanoseconds; see [[Eventual Consistency]] and [[Database Replication]].
 
 ## See also
-- [[Dynamic Random-Access Memory]]
+- [[Timing Attack]]
 - [[Translation Lookaside Buffer]]
 - [[Spinlock]]
 - [[Rowhammer]]
+- [[Read-Copy-Update]]

@@ -21,7 +21,7 @@ Legislative movement has been real: several jurisdictions now require manufactur
 ## Related
 - [[Encrypted Media Extensions]]
 - [[Universal Basic Income]]
-- [[Principal-Agent Problem]]
+- [[Motherboard]]
 - [[Dieter Rams]]
 - [[Hobson's Choice]]
 - [[Baumol's Cost Disease]]

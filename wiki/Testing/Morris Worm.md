@@ -32,3 +32,5 @@ Several lessons have held up:
 - [[Honeypot]]
 - [[Penetration Testing]]
 - [[Rootkit]]
+- [[Computer Virus]]
+- [[Air Gap]]

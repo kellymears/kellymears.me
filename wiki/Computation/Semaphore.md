@@ -28,6 +28,6 @@ Inside an operating system, blocked processes are taken off the CPU until signal
 
 ## See also
 - [[Mars Pathfinder Priority Inversion]]
-- [[Multithreading]]
+- [[Thread Pool]]
 - [[Inter-Process Communication]]
-- [[Distributed Lock]]
+- [[Read-Copy-Update]]

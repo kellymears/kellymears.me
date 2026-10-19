@@ -29,3 +29,5 @@ Wake-on-LAN fits naturally into home automation, where a single button can wake 
 - [[Uninterruptible Power Supply]]
 - [[Daemon]]
 - [[Virtual LAN]]
+- [[Power Supply Unit]]
+- [[Air Gap]]

@@ -20,11 +20,11 @@ Testing this requires a machine other than the one that built it, since a local 
 - [[Daemon]]
 - [[Live Patching]]
 - [[Build Provenance]]
-- [[Certificate Authority]]
+- [[Read-Only Memory]]
 
 ## Related
 - [[Over-the-Air Update]]
-- [[Prompt Injection]]
+- [[Computer Virus]]
 - [[Firmware]]
 - [[Anti-Cheat]]
 - [[Rootkit]]

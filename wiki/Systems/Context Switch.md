@@ -32,8 +32,8 @@ For latency-sensitive work, the goal is fewer, more predictable switches. Audio 
 Context switching also has a human version, the cost of moving attention between tasks, covered under [[Attention Residue]].
 
 ## See also
-- [[Pager]]
-- [[Multithreading]]
+- [[Thread Pool]]
+- [[Processor Register]]
 - [[Load Average]]
-- [[Spinlock]]
+- [[Read-Copy-Update]]
 - [[Time-Sharing]]

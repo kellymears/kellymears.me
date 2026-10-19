@@ -26,5 +26,5 @@ The costs are real. A pinned thread can't escape a busy core, so badly chosen af
 - [[Concurrency and Parallelism]]
 - [[Cache Coherence]]
 - [[Hybrid CPU Architecture]]
-- [[Process]]
+- [[Thread Pool]]
 - [[Thermal Throttling]]

@@ -17,7 +17,7 @@ Two implementation notes. **Simultaneity is load-bearing**: updating in place le
 ## See also
 - [[Domain Warping]]
 - [[Seeded Randomness]]
-- [[Shader]]
+- [[Computer Virus]]
 - [[Constraint Propagation]]
 - [[L-System]]
 - [[Convolution]]

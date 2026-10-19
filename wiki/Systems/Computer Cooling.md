@@ -24,5 +24,6 @@ When cooling can't keep up, chips protect themselves by slowing down, which is w
 At data center scale, cooling is a large share of the total energy bill, and operators track how much power goes to computing versus overhead. Some cooling systems use refrigeration cycles, which move heat uphill at an energy cost; see [[Vapor-Compression Refrigeration]].
 
 ## See also
-- [[Uninterruptible Power Supply]]
+- [[Power Supply Unit]]
 - [[Hybrid CPU Architecture]]
+- [[Motherboard]]

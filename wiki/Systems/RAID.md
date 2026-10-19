@@ -37,4 +37,4 @@ With [[Solid-State Drive]]s, some trade-offs shift: rebuilds are faster and stri
 - [[ZFS]]
 - [[Logical Volume Manager]]
 - [[Disk Partition]]
-- [[Checksum]]
+- [[Ransomware]]

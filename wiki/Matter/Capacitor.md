@@ -31,9 +31,9 @@ Capacitors hold charge even when a device is unplugged, which is why large ones 
 Failing capacitors are common faults in electronics. Electrolytic types dry out with heat and age, and bulging capacitors were a notorious cause of motherboard failures in the early 2000s. In LED lights, undersized smoothing capacitors cause visible [[LED Flicker]].
 
 ## See also
-- [[Semiconductor]]
+- [[Motherboard]]
 - [[Electromagnetic Induction]]
 - [[Uninterruptible Power Supply]]
 - [[Piezoelectric Effect]]
-- [[Inertial Measurement Unit]]
+- [[Power Supply Unit]]
 - [[Rowhammer]]

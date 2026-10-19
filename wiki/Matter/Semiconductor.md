@@ -30,5 +30,5 @@ Semiconductor devices obey the same basic physics as other circuits, including [
 - [[Hall Effect]]
 - [[Photovoltaic Effect]]
 - [[Allotrope]]
-- [[Uncertainty Principle]]
+- [[Read-Only Memory]]
 - [[Liquid-Crystal Display]]

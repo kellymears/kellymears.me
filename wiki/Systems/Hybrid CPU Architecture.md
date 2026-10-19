@@ -32,8 +32,8 @@ On Intel's designs, only P-cores support [[Simultaneous Multithreading]], so cor
 
 ## See also
 - [[Silicon Binning]]
-- [[Context Switch]]
+- [[Motherboard]]
 - [[Instruction Pipelining]]
 - [[Clock Signal]]
 - [[Device Tree]]
-- [[Computer Cooling]]
+- [[Thread Pool]]

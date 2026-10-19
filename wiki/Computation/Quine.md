@@ -27,7 +27,7 @@ Quines are also a sport. Programmers write them in every language, chase the sho
 A quine's output has a short description, its own source, which bounds its complexity in the sense of [[Kolmogorov Complexity]]. Computer viruses use the same structure to copy themselves, so the theory of self-reproduction is also a theory of malware.
 
 ## See also
-- [[Recursion]]
+- [[Computer Virus]]
 - [[Compiler Bootstrapping]]
 - [[Interpreter]]
 - [[Lexical Analysis]]

@@ -31,6 +31,6 @@ Fewer infections also mean fewer antibiotics prescribed; see [[Antibiotic Resist
 
 ## See also
 - [[Fever]]
-- [[Tragedy of the Commons]]
+- [[Computer Virus]]
 - [[Morris Worm]]
 - [[Sneeze]]

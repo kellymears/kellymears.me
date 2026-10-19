@@ -34,5 +34,5 @@ Higher up, virtual ISAs blur the line: [[WebAssembly]] and Java bytecode define 
 - [[Silicon Binning]]
 - [[Mainframe]]
 - [[Endianness]]
-- [[Microcontroller]]
+- [[Processor Register]]
 - [[Hybrid CPU Architecture]]
