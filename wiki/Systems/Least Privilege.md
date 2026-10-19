@@ -31,5 +31,5 @@ The principle is stated easily and applied poorly, because broad permissions are
 
 ## Related
 - [[Secrets Management]]
-- [[Protection Ring]]
+- [[Bastion Host]]
 - [[CrowdStrike Outage]]

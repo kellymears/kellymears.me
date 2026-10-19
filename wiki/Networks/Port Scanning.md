@@ -29,7 +29,7 @@ Defenses include closing unused services, denying inbound traffic by default, an
 
 ## See also
 - [[Packet Capture]]
-- [[Threat Modeling]]
+- [[Bastion Host]]
 - [[Telnet]]
 - [[Universal Plug and Play]]
 - [[Remote Desktop]]

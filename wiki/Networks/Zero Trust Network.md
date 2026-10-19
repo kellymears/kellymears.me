@@ -16,7 +16,7 @@ The honest cost is operational complexity: every service now needs to participat
 
 ## See also
 - [[Mandatory Access Control]]
-- [[Remote Desktop]]
+- [[Bastion Host]]
 - [[Caller ID Authentication]]
 - [[Zero-Knowledge Proof]]
 - [[Encrypted Client Hello]]

@@ -29,4 +29,4 @@ The proxy hides the client from the backend, which causes predictable trouble. T
 - [[Man-in-the-Middle Attack]]
 - [[Web Server]]
 - [[Middleware]]
-- [[Port]]
+- [[Bastion Host]]

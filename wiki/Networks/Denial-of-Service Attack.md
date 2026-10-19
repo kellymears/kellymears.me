@@ -32,6 +32,6 @@ Defenses work in layers:
 Not every flood is an attack. A popular link or a reconnect storm after an outage, a [[Thundering Herd]], can look exactly like one, and the same defenses apply. [[Load Testing]] shows where a system breaks before an attacker finds out.
 
 ## See also
-- [[Emergency Telephone Number]]
+- [[Bastion Host]]
 - [[Internet Control Message Protocol]]
 - [[Universal Plug and Play]]

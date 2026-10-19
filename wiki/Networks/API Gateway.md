@@ -20,7 +20,7 @@ It's easy to conflate an API gateway with a plain [[Load Balancing|load balancer
 - [[Webhook]]
 - [[Content Delivery Network]]
 - [[Reverse Proxy]]
-- [[Transport Layer Security]]
+- [[Bastion Host]]
 - [[Remote Procedure Call]]
 - [[Microservices]]
 - [[Service Mesh]]

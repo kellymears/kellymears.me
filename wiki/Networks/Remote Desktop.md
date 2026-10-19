@@ -27,4 +27,4 @@ Remote access is also a major attack route. Scanners constantly probe the intern
 
 ## See also
 - [[Videoconferencing]]
-- [[Zero Trust Network]]
+- [[Bastion Host]]

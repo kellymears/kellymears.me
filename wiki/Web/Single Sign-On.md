@@ -35,6 +35,6 @@ Many software vendors charge much more for plans that include single sign-on, a 
 
 ## See also
 - [[Passkey]]
-- [[Least Privilege]]
+- [[Bastion Host]]
 - [[Password Manager]]
 - [[Healthcare.gov Launch]]

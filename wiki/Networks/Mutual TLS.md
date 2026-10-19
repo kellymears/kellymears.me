@@ -30,6 +30,6 @@ Other pitfalls:
 Browsers support client certificates, but the experience is poor, so for people, other methods dominate.
 
 ## See also
-- [[Virtual Private Network]]
+- [[Bastion Host]]
 - [[Certificate Revocation]]
 - [[Passkey]]
