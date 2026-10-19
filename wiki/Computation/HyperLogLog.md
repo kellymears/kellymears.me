@@ -31,8 +31,8 @@ Analytics databases, [[Columnar Storage]] engines, and [[Time Series Database]] 
 The trade-off must be acceptable. Approximate counts suit dashboards and capacity planning, where 1 percent error is invisible. They do not suit billing or anything audited, where every unit must be accounted for.
 
 ## See also
-- [[Bitwise Operation]]
-- [[Monte Carlo Method]]
+- [[Data Profiling]]
+- [[Bitmap Index]]
 - [[Locality-Sensitive Hashing]]
 - [[Pigeonhole Principle]]
 - [[Cuckoo Hashing]]

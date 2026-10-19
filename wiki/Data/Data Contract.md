@@ -32,5 +32,5 @@ Contracts sit alongside other data reliability practices: tracing where data cam
 
 ## See also
 - [[Data Dictionary]]
-- [[ETL Pipeline]]
+- [[Data Governance]]
 - [[Data Mesh]]

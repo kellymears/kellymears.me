@@ -25,4 +25,5 @@ Being lenient about input can make things worse, since a system that silently ac
 
 ## See also
 - [[Internationalized Domain Name]]
-- [[Serialization]]
+- [[Fixed-Width File]]
+- [[Data Profiling]]

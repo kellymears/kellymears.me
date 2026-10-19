@@ -34,6 +34,6 @@ Distributed systems use a related idea under the name *tombstone*: a marker that
 - [[Undo]]
 - [[Machine Unlearning]]
 - [[Data Retention]]
-- [[Rollback]]
+- [[Database Partitioning]]
 - [[Foreign Key]]
 - [[Null]]

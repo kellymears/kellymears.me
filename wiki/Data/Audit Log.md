@@ -37,7 +37,7 @@ Common failures:
 Audit logs connect to several data patterns. [[Event Sourcing]] stores every change as an event, which gives a complete history as a side effect. [[Soft Delete]] keeps deleted records available for review. Temporal tables record what the database believed at each point in time; see [[Bitemporal Data]]. All share the idea that history is data worth keeping, not exhaust to discard.
 
 ## See also
-- [[Data Masking]]
-- [[Post Office Horizon Scandal]]
+- [[Archival Science]]
+- [[Data Governance]]
 - [[Syslog]]
 - [[Microfilm]]

@@ -30,3 +30,5 @@ Stored-program computers that kept instructions in memory, along with magnetic t
 - [[Microfilm]]
 - [[Mainframe]]
 - [[Radix Sort]]
+- [[Archival Science]]
+- [[Fixed-Width File]]

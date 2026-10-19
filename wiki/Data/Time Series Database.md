@@ -34,5 +34,5 @@ Two practical hazards: clocks on many machines disagree, so [[Network Time Proto
 - [[Window Function]]
 - [[Observability]]
 - [[Bitemporal Data]]
-- [[Prefix Sum]]
-- [[ISO 8601]]
+- [[Bitmap Index]]
+- [[Database Partitioning]]

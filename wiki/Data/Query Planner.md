@@ -30,8 +30,8 @@ When the planner's choice is wrong and can't be fixed with better statistics, th
 ## See also
 - [[DataFrame]]
 - [[Row-Level Security]]
-- [[Relational Database]]
-- [[Benchmarking]]
+- [[Bitmap Index]]
+- [[Database Partitioning]]
 - [[SQL Join]]
 - [[Window Function]]
 - [[Common Table Expression]]

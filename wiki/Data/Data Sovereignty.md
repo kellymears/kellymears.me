@@ -29,5 +29,6 @@ Knowing where every copy lives depends on [[Data Lineage]]. Keeping encryption k
 The costs are duplicated infrastructure and a fragmenting internet, sometimes called the splinternet. The term also has a separate use: **Indigenous data sovereignty** asserts the rights of Indigenous peoples over data about their communities, set out in the CARE principles of 2019 as a counterweight to purely open sharing; see [[Open Data]].
 
 ## See also
-- [[Data Retention]]
+- [[Data Portability]]
 - [[Data Broker]]
+- [[Data Governance]]

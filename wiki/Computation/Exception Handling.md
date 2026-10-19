@@ -34,6 +34,6 @@ A related trap is returning [[Null]] to signal failure, which defers the error t
 
 ## See also
 - [[Crash Reporting]]
-- [[Crash-Only Software]]
+- [[Sentinel Value]]
 - [[Structured Programming]]
 - [[Continuation]]

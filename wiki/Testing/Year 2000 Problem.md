@@ -24,6 +24,6 @@ The same class of bug is still ahead. Systems that count seconds from 1970 in a 
 
 ## See also
 - [[Zune Leap Year Bug]]
-- [[Data Cleaning]]
+- [[Sentinel Value]]
 - [[Leap second]]
-- [[Mainframe]]
+- [[Fixed-Width File]]

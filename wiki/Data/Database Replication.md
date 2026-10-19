@@ -21,7 +21,7 @@ Replication lag is the source of a specific, easy-to-miss class of bug: a user s
 - [[Logical Clock]]
 
 ## Related
-- [[Write-Ahead Logging]]
+- [[Database Partitioning]]
 - [[Quorum]]
 - [[Network Partition]]
 - [[GitLab Database Incident]]

@@ -18,14 +18,14 @@ Physical documents solved the adjacent problem — proving a record was not alte
 
 ## See also
 - [[Data Journalism]]
-- [[Commit]]
+- [[Wikidata]]
 - [[Deepfake]]
 - [[Data Lineage]]
 - [[Seam Carving]]
 - [[Code Comment]]
 
 ## Related
-- [[Atomic Commit]]
+- [[Archival Science]]
 - [[AI Watermarking]]
 - [[Build Provenance]]
 - [[ETL Pipeline]]

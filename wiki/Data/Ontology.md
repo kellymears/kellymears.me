@@ -30,7 +30,7 @@ The limits are human. Agreeing on definitions across communities is slow and pol
 ## See also
 - [[Graph Database]]
 - [[Entity-Attribute-Value]]
-- [[Library Classification]]
+- [[Wikidata]]
 - [[Expert System]]
 - [[Entity-Relationship Model]]
 - [[Data Dictionary]]

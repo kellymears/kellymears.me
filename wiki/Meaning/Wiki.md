@@ -17,7 +17,7 @@ Personal wikis have become common as a private reference — the same mechanics,
 
 ## See also
 - [[Backlink]]
-- [[Zettelkasten]]
+- [[Wikidata]]
 - [[Software Forge]]
 - [[Markdown]]
 - [[Sybil Attack]]

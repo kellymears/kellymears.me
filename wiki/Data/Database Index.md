@@ -23,6 +23,6 @@ Indexes are not free. Every insert, update, and delete must update every index o
 
 ## See also
 - [[Library Classification]]
-- [[Denormalization]]
+- [[Bitmap Index]]
 - [[Collation]]
-- [[Suffix Array]]
+- [[Database Partitioning]]

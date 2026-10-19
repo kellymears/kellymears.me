@@ -31,7 +31,7 @@ The costs are real but usually small:
 Some teams leave constraints out, arguing the application owns the rules or that sharding makes foreign keys impossible; see [[Database Sharding]]. The usual result is data that slowly fills with orphans and duplicates, discovered later and fixed by hand; see [[Data Cleaning]].
 
 ## See also
-- [[Idempotency Key]]
-- [[Data Contract]]
+- [[Database Partitioning]]
+- [[Sentinel Value]]
 - [[ISBN]]
 - [[Upsert]]

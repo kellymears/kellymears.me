@@ -31,8 +31,8 @@ Backups also carry obligations. They contain the same sensitive data as producti
 
 ## See also
 - [[Logical Volume Manager]]
-- [[End-to-End Encryption]]
+- [[Data Portability]]
 - [[Hard Link]]
 - [[Hard Disk Drive]]
 - [[Data Sovereignty]]
-- [[Sparse File]]
+- [[Data Deduplication]]

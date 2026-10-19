@@ -14,7 +14,7 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 
 ## See also
 - [[Flanderization]]
-- [[File Transfer Protocol]]
+- [[Data Portability]]
 - [[Gopher]]
 - [[Paper Size]]
 - [[GIF]]

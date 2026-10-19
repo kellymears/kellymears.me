@@ -22,7 +22,7 @@ The only verification that proves any of this is running the real path: reset, m
 - [[Relational Database]]
 - [[Seed Data]]
 - [[Continuous Deployment]]
-- [[Idempotence]]
+- [[Database Partitioning]]
 - [[Schema Drift]]
 - [[Database Index]]
 

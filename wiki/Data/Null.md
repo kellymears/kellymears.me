@@ -35,6 +35,6 @@ Nulls deserve the same edge-case attention as zero and empty strings in [[Bounda
 - [[DataFrame]]
 - [[Decimal Arithmetic]]
 - [[Geocoding]]
-- [[Data Dictionary]]
+- [[Data Profiling]]
 - [[Typestate]]
-- [[Boolean Algebra]]
+- [[Sentinel Value]]

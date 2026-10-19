@@ -33,4 +33,4 @@ A reasonable middle ground keeps business rules that must always hold, such as u
 - [[Query Planner]]
 - [[Transactional Outbox]]
 - [[Database View]]
-- [[SQL Injection]]
+- [[Database Partitioning]]

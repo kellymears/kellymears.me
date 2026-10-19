@@ -17,7 +17,7 @@ A related asymmetry causes real bugs: a system may *advertise* a richer schema t
 ## See also
 - [[Garbage In, Garbage Out]]
 - [[Schema Validation]]
-- [[Data Cleaning]]
+- [[Data Profiling]]
 - [[Data Dictionary]]
 - [[Deprecation]]
 - [[Client-Server Boundary]]

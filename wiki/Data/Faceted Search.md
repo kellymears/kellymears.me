@@ -30,7 +30,7 @@ Facets cause trouble for crawlers. Every combination of filters can produce its 
 
 ## See also
 - [[Breadcrumb]]
-- [[Data Table]]
+- [[Bitmap Index]]
 - [[Card Sorting]]
 - [[Slider]]
 - [[Library Classification]]

@@ -15,7 +15,7 @@ The partitioning key is the single decision the whole design hangs on, and it's 
 - [[Data Sovereignty]]
 - [[Big Data]]
 - [[Multi-Tenancy]]
-- [[Universally Unique Identifier]]
+- [[Database Partitioning]]
 
 ## Related
 - [[CAP Theorem]]

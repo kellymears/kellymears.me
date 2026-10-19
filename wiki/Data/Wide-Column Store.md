@@ -26,5 +26,5 @@ Other hazards follow from the design:
 - **Consistency trade-offs.** Tunable consistency means a careless setting can return stale or conflicting values, and last-write-wins resolution depends on clocks agreeing; see [[CAP Theorem]] and [[Clock synchronization]].
 
 ## See also
-- [[Big Data]]
+- [[Bitmap Index]]
 - [[Hot Partition]]

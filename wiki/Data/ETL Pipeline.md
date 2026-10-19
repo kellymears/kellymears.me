@@ -33,5 +33,5 @@ Most of the hard problems are operational:
 Nightly batch jobs leave data a day old. [[Change Data Capture]] streams each database change as it happens, and [[Stream Processing]] transforms it continuously, so the distinction between batch and streaming pipelines is blurring. For very large batch workloads, the approach descends from [[MapReduce]].
 
 ## See also
-- [[Upsert]]
-- [[Data Mesh]]
+- [[Fixed-Width File]]
+- [[Data Profiling]]

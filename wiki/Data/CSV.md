@@ -28,8 +28,8 @@ For anything beyond simple interchange, better formats exist: JSON Lines for rec
 
 ## See also
 - [[Serialization]]
-- [[Open Data]]
+- [[Data Portability]]
 - [[Tidy Data]]
-- [[Spreadsheet Error]]
+- [[Fixed-Width File]]
 - [[JSON]]
 - [[Mojibake]]

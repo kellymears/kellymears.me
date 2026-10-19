@@ -33,3 +33,4 @@ The broader lesson is that unchecked inputs produce confident wrong outputs; see
 - [[Data Cleaning]]
 - [[CSV]]
 - [[Software Inspection]]
+- [[Data Profiling]]

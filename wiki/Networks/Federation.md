@@ -40,6 +40,6 @@ The underlying idea is interoperability through an open protocol rather than thr
 - [[Sybil Attack]]
 - [[Napster]]
 - [[Distributed Hash Table]]
-- [[IndieWeb]]
+- [[Data Portability]]
 - [[Internet Relay Chat]]
 - [[SMS]]

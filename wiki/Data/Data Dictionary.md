@@ -33,5 +33,5 @@ A dictionary also supports cleaning and validation, since knowing the allowed va
 The underlying idea is that data separated from its meaning is close to worthless; see [[Metadata]]. Numbers without definitions invite confident misreadings, and analyses built on them inherit every error; see [[Garbage In, Garbage Out]].
 
 ## See also
-- [[Entity-Relationship Model]]
-- [[Dimensional Modeling]]
+- [[Data Governance]]
+- [[Data Profiling]]

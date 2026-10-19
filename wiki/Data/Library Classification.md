@@ -25,7 +25,7 @@ The Indian librarian S. R. Ranganathan proposed a different approach in 1933, bu
 Digital catalogs, search, and tags freed collections from a single order; see [[Metadata]] and [[Inverted Index]]. Shelf browsing still offers what search does not: books you didn't know to look for, sitting beside the one you came for; see [[Information Architecture]].
 
 ## See also
-- [[Ontology]]
-- [[Russell's Paradox]]
+- [[Wikidata]]
+- [[Archival Science]]
 - [[Microfilm]]
 - [[ISBN]]

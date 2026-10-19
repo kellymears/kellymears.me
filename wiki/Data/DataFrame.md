@@ -35,5 +35,5 @@ DataFrames and databases have converged. Early libraries ran each step immediate
 Compared with a [[Spreadsheet]], a DataFrame trades visible cells for reproducible code: every step is written down and can be rerun on next month's data.
 
 ## See also
-- [[Spreadsheet Error]]
+- [[Data Profiling]]
 - [[Data Lake]]

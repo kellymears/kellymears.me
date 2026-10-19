@@ -20,3 +20,4 @@ Its characteristic failure mode is the **deadlock**: transaction A holds a lock 
 - [[Isolation Level]]
 - [[Subversion]]
 - [[Perforce]]
+- [[Bitmap Index]]

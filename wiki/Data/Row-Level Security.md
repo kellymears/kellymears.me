@@ -31,7 +31,7 @@ Some backend platforms expose the database directly to browsers and rely entirel
 ## See also
 - [[Data Masking]]
 - [[Stored Procedure]]
-- [[Zero Trust Network]]
+- [[Data Governance]]
 - [[Database Sharding]]
 - [[Audit Log]]
 - [[Mandatory Access Control]]

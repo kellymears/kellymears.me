@@ -28,7 +28,7 @@ Two practical cautions.
 ## Related
 - [[Entity-Attribute-Value]]
 - [[iCalendar]]
-- [[Backlink]]
+- [[Wikidata]]
 - [[Open Graph]]
 - [[Web Crawler]]
 - [[Ontology]]

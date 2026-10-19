@@ -14,7 +14,7 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 ## See also
 - [[Certificate Revocation]]
 - [[Boolean Algebra]]
-- [[Trie]]
+- [[Data Deduplication]]
 - [[Wide-Column Store]]
 - [[Log-Structured Merge Tree]]
 - [[Locality-Sensitive Hashing]]
@@ -23,5 +23,5 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 - [[Skip List]]
 - [[Pigeonhole Principle]]
 - [[Superposition]]
-- [[Bitwise Operation]]
+- [[Bitmap Index]]
 - [[Cuckoo Hashing]]

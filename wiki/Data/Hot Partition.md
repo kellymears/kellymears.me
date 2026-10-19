@@ -29,3 +29,4 @@ Hot partitions are easy to miss with averages. Average load across the cluster l
 ## See also
 - [[Load Balancing]]
 - [[Wide-Column Store]]
+- [[Database Partitioning]]

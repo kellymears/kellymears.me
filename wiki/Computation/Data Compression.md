@@ -33,7 +33,7 @@ There is a deep link between compression and prediction: a model that predicts t
 ## See also
 - [[Burrows-Wheeler Transform]]
 - [[Sneakernet]]
-- [[Chroma Subsampling]]
-- [[Image Format]]
+- [[Data Deduplication]]
+- [[Bitmap Index]]
 - [[HTTP Compression]]
 - [[Microfilm]]

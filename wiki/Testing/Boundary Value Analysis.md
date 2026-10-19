@@ -31,4 +31,4 @@ These techniques make [[Unit Test]] design systematic rather than ad hoc, and th
 - [[Parameterized Test]]
 - [[Zune Leap Year Bug]]
 - [[Black-Box and White-Box Testing]]
-- [[Year 2000 Problem]]
+- [[Sentinel Value]]

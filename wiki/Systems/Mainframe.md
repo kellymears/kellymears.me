@@ -27,4 +27,4 @@ Replacing a mainframe is notoriously risky. The software encodes decades of busi
 
 ## See also
 - [[Punched Card]]
-- [[Lindy Effect]]
+- [[Fixed-Width File]]

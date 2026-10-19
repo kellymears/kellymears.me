@@ -32,3 +32,4 @@ To compare distributions across many groups at once, histograms take too much ro
 - [[Data Visualization]]
 - [[Mean and Median]]
 - [[Outlier]]
+- [[Data Profiling]]

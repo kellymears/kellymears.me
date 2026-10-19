@@ -18,7 +18,7 @@ The trade copy-on-write makes is complexity for cost: tracking which pages or bl
 - [[Logical Volume Manager]]
 - [[Sparse File]]
 - [[Multiversion Concurrency Control]]
-- [[Backup and Restore]]
+- [[Data Deduplication]]
 - [[Reference Counting]]
 - [[Persistent Data Structure]]
 - [[Journaling File System]]
