@@ -35,5 +35,5 @@ Canvas also exposes pixels for reading. `getImageData` returns raw RGBA values f
 - [[Adobe Flash]]
 - [[WebGPU]]
 - [[requestAnimationFrame]]
-- [[Encrypted Media Extensions]]
+- [[Web Audio API]]
 - [[Browser Fingerprinting]]

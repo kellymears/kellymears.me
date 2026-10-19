@@ -33,5 +33,5 @@ A related idea in files is the *magic number*, the fixed bytes at the start of a
 ## See also
 - [[Base64]]
 - [[Favicon]]
-- [[Mojibake]]
+- [[Image Format]]
 - [[Data URI]]

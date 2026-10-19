@@ -33,5 +33,5 @@ Digital audio samples sound pressure many thousands of times a second. CD audio 
 ## See also
 - [[Rhythm Game]]
 - [[Adaptive Music]]
-- [[Earthquake]]
+- [[Web Audio API]]
 - [[Shock Wave]]

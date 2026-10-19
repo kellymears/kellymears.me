@@ -26,3 +26,4 @@ It's a cousin of [[Web Worker]], sharing the same off-main-thread execution mode
 - [[Fetch API]]
 - [[Local-First Software]]
 - [[Web Push]]
+- [[Origin Private File System]]

@@ -25,7 +25,7 @@ Several constraints shape any real implementation.
 - [[Keyframe Animation]]
 - [[Staggered Animation]]
 - [[Carousel]]
-- [[Stacking Context]]
+- [[Web Animations API]]
 - [[requestAnimationFrame]]
 
 ## Related

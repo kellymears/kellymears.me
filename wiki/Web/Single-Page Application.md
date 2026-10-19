@@ -28,5 +28,5 @@ In return, navigation after the first load can be instant. Shared layout stays m
 The pendulum has since swung back toward the server. [[Server-Side Rendering]] with [[Hydration]] sends real HTML first and adds the SPA behavior after. [[Islands Architecture]] hydrates only the interactive parts, and [[React Server Components]] move rendering back across the client-server boundary. Meanwhile browsers have closed the gap for MPAs: [[View Transitions]] animate between full page loads, and the back/forward cache restores pages instantly. Many sites now use a hybrid, rendering documents on the server and navigating like an SPA, built on [[Progressive Enhancement]]. The label now describes a spectrum more than a category.
 
 ## See also
-- [[Deep Linking]]
-- [[Back-Forward Cache]]
+- [[Resumability]]
+- [[Fragment Identifier]]

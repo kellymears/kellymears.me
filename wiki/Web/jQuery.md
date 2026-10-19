@@ -26,3 +26,4 @@ Yet jQuery persists, bundled into content management systems, themes, and older 
 ## See also
 - [[Adobe Flash]]
 - [[Web 2.0]]
+- [[Web Animations API]]

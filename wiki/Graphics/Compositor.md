@@ -29,7 +29,7 @@ Browsers use the same idea inside a page. Elements that animate `transform` or `
 - [[Rotoscoping]]
 - [[Frame Pacing]]
 - [[Scene Graph]]
-- [[Layout Thrashing]]
+- [[Web Animations API]]
 - [[High Dynamic Range]]
 - [[Background Tab Throttling]]
 - [[Alpha Compositing]]

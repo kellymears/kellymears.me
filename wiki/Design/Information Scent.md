@@ -27,7 +27,7 @@ Scent also explains why [[Recognition Rather Than Recall]] matters for navigatio
 ## See also
 - [[Accordion]]
 - [[Hamburger Menu]]
-- [[Hick's Law]]
+- [[Speculation Rules]]
 - [[Sitemap]]
 - [[Wayfinding]]
 - [[Eye Tracking]]

@@ -27,7 +27,7 @@ HDR also changes how UI is designed. Interface elements need a fixed paper-white
 - [[Liquid-Crystal Display]]
 - [[OLED]]
 - [[Opponent Process Theory]]
-- [[Color Gamut]]
+- [[Image Format]]
 - [[Lens Flare]]
 - [[Post-Processing]]
 - [[Chroma Subsampling]]

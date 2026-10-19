@@ -37,5 +37,5 @@ The pattern is a small instance of a general one: one dispatcher at a choke poin
 
 ## See also
 - [[jQuery]]
-- [[Shadow DOM]]
+- [[Resumability]]
 - [[Focus Management]]

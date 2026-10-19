@@ -21,7 +21,7 @@ The common record types are few: an address record, an alias record pointing one
 - [[Encrypted Client Hello]]
 - [[Persistent Identifier]]
 - [[Simple Mail Transfer Protocol]]
-- [[URL]]
+- [[Time to First Byte]]
 - [[Certificate Authority]]
 - [[Border Gateway Protocol]]
 

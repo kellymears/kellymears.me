@@ -34,6 +34,6 @@ There is a deep link between compression and prediction: a model that predicts t
 - [[Burrows-Wheeler Transform]]
 - [[Sneakernet]]
 - [[Chroma Subsampling]]
-- [[Sparse File]]
+- [[Image Format]]
 - [[HTTP Compression]]
 - [[Microfilm]]

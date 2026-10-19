@@ -22,7 +22,7 @@ The pattern is most associated with content-first site frameworks, but the under
 - [[Server-Side Rendering]]
 
 ## Related
-- [[Core Web Vitals]]
+- [[Resumability]]
 - [[Module Graph]]
 - [[Single-Page Application]]
 - [[Reactive Signals]]

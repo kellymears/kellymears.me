@@ -14,7 +14,7 @@ The root cause across all three is the same: untrusted input rendered into a con
 [[Content Security Policy]] is the layer that limits damage after an injection succeeds anyway — it's a mitigation, not a substitute for escaping.
 
 ## See also
-- [[Content Security Policy]]
+- [[Form Validation]]
 - [[Document Object Model]]
 - [[Same-Origin Policy]]
 - [[Cross-Origin Resource Sharing]]

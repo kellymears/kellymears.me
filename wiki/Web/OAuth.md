@@ -26,3 +26,4 @@ The access token itself is usually opaque to the client and short-lived, paired 
 - [[Secrets Management]]
 - [[Single Sign-On]]
 - [[Open Redirect]]
+- [[Fragment Identifier]]

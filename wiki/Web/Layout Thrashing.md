@@ -19,7 +19,7 @@ Thrashing is hard to spot in code review because the expensive line looks harmle
 - [[Box Model]]
 - [[Browser DevTools]]
 - [[Critical Rendering Path]]
-- [[Core Web Vitals]]
+- [[Web Animations API]]
 - [[Long Task]]
 - [[Premature Optimization]]
 - [[Frame Pacing]]

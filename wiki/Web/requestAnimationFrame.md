@@ -26,5 +26,5 @@ rAF is the browser's version of the game loop, and the [[Event Loop]] runs it at
 - [[Motion Design]]
 - [[Easing]]
 - [[Reduced Motion]]
-- [[Flaky Test]]
+- [[Web Animations API]]
 - [[Compositor]]

@@ -17,9 +17,9 @@ Lazy loading interacts with perceived performance rather than just measured perf
 - [[Code Splitting]]
 - [[Critical Rendering Path]]
 - [[Data URI]]
-- [[Islands Architecture]]
+- [[Speculation Rules]]
 - [[Hotlinking]]
-- [[Streaming Response]]
+- [[Resumability]]
 - [[Responsive Images]]
 - [[Pagination]]
 

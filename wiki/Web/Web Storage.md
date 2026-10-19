@@ -32,6 +32,6 @@ Security follows from scope: any script running on the origin can read everythin
 Stored data also outlives the code that wrote it. When an app changes the shape of what it saves, old values linger in users' browsers, a client-side version of [[Schema Drift]]. IndexedDB builds in a version number and an upgrade callback for exactly this, a small [[Database Migration]] system. Apps that treat the local store as the primary copy and sync later, the local-first approach, often reach for a [[Conflict-Free Replicated Data Type]] to merge edits made on different devices.
 
 ## See also
-- [[Local-First Software]]
+- [[Origin Private File System]]
 - [[Third-Party Cookie]]
 - [[Browser DevTools]]

@@ -20,12 +20,12 @@ Field data (real visitors) and lab data (a synthetic run) frequently disagree, a
 - [[Input Latency]]
 - [[Web Font Loading]]
 - [[Above the Fold]]
-- [[Lazy Loading]]
+- [[Resumability]]
 - [[Responsive Images]]
 - [[Layout Thrashing]]
 
 ## Related
-- [[React Server Components]]
+- [[Speculation Rules]]
 - [[Browser DevTools]]
 - [[Response Time Limits]]
 - [[Long Task]]

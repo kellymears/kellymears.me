@@ -17,7 +17,7 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 - [[Garbage In, Garbage Out]]
 - [[XML]]
 - [[Mojibake]]
-- [[Defensive Programming]]
+- [[Form Validation]]
 - [[POSIX]]
 
 ## Related

@@ -18,7 +18,7 @@ Component tests can catch a lot of this, provided the test harness reproduces th
 
 ## See also
 - [[Focus Trap]]
-- [[Keyboard Navigation]]
+- [[Fragment Identifier]]
 - [[Carousel]]
 - [[Component Story]]
 - [[Portal]]

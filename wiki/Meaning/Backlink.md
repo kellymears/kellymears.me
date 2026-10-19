@@ -24,7 +24,7 @@ The same idea, at web scale, was the basis of link-based search ranking: a page'
 
 ## Related
 - [[Structured Data]]
-- [[Information Architecture]]
+- [[Fragment Identifier]]
 - [[Blog]]
 - [[Agent Memory]]
 - [[Link Rot]]

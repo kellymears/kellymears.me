@@ -34,6 +34,6 @@ Programming tools have shown how much good messages help. The Elm compiler's 201
 ## See also
 - [[Date Picker]]
 - [[Therac-25]]
-- [[Empty State]]
+- [[Form Validation]]
 - [[Forcing Function]]
 - [[Bug Triage]]

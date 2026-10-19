@@ -19,3 +19,4 @@ Server components also interact with data freshness: since they render on the se
 - [[Islands Architecture]]
 - [[Performance Budget]]
 - [[Lazy Loading]]
+- [[Resumability]]

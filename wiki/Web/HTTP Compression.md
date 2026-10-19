@@ -29,7 +29,7 @@ The principle underneath comes from [[Information Theory]]: compression removes 
 
 ## See also
 - [[Burrows-Wheeler Transform]]
-- [[HTTP Caching]]
+- [[Middleware]]
 - [[Minification]]
 - [[HTTP2 and HTTP3]]
 - [[MIME Type]]

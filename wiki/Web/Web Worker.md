@@ -26,3 +26,5 @@ A [[Service Worker]] is a specialized sibling, not a general-purpose worker: sam
 - [[Long Task]]
 - [[Promise]]
 - [[Cross-Origin Isolation]]
+- [[Origin Private File System]]
+- [[Web Audio API]]

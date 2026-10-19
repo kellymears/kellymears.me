@@ -31,7 +31,7 @@ Some editors offer a choice between renaming and overwriting in place for these 
 Databases need finer-grained guarantees than whole-file replacement and use logs instead, recording intent before changing data; see [[Write-Ahead Logging]] and [[ACID]]. Filesystems that never overwrite data in place get atomic updates of their own structures for free; see [[Copy-on-Write]]. Version control applies the same all-or-nothing idea to sets of changes; see [[Atomic Commit]].
 
 ## See also
-- [[Idempotence]]
+- [[Origin Private File System]]
 - [[Time-of-Check to Time-of-Use]]
 - [[File Watching]]
 - [[Uninterruptible Power Supply]]

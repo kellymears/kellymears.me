@@ -25,4 +25,4 @@ The recurring practical symptom is asymmetric: read requests succeed while write
 - [[Caller ID Authentication]]
 - [[Web Storage]]
 - [[Hotlinking]]
-- [[Iframe]]
+- [[Origin Private File System]]

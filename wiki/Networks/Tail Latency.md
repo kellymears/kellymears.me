@@ -35,7 +35,7 @@ Measuring the tail takes care. Percentiles can't be averaged across servers, and
 
 ## See also
 - [[Nagle's Algorithm]]
-- [[Cuckoo Hashing]]
+- [[Time to First Byte]]
 - [[Inference Serving]]
 - [[Hedged Requests]]
 - [[Outlier]]

@@ -29,5 +29,5 @@ Related curves handle cases Béziers handle poorly. B-splines and NURBS, used in
 - [[Utah Teapot]]
 - [[NURBS]]
 - [[Keyframe Animation]]
-- [[Font Rendering]]
+- [[Web Animations API]]
 - [[Linear Interpolation]]

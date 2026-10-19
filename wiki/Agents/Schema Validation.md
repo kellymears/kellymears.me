@@ -26,7 +26,7 @@ Validation is the natural boundary for a system taking model output; see [[Struc
 
 ## Related
 - [[Prompt Engineering]]
-- [[Large Language Model]]
+- [[Form Validation]]
 - [[SQL Injection]]
 - [[Serialization]]
 - [[Type System]]

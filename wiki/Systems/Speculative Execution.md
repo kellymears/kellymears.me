@@ -29,4 +29,4 @@ Variants have kept appearing, many involving [[Simultaneous Multithreading]], wh
 - [[Address Space Layout Randomization]]
 - [[Rowhammer]]
 - [[Just-in-Time Compilation]]
-- [[Memory Model]]
+- [[Speculation Rules]]

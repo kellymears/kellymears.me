@@ -28,6 +28,6 @@ That left a large body of culture unplayable; see [[Digital Preservation]]. Volu
 Flash's ideas, rich interactive applications in the browser, won even though Flash lost; see [[Web 2.0]].
 
 ## See also
-- [[jQuery]]
-- [[Onion Skinning]]
+- [[Web Audio API]]
+- [[Web Animations API]]
 - [[Encrypted Media Extensions]]

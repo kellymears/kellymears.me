@@ -37,3 +37,4 @@ These formats compress poorly on disk, since they're designed for random access,
 - [[Graphics Processing Unit]]
 - [[Graphics API]]
 - [[JPEG]]
+- [[Image Format]]

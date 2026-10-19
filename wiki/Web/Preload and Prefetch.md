@@ -24,3 +24,4 @@ Both hints are advisory, not commands — the browser can decline to act on eith
 ## Related
 - [[Lazy Loading]]
 - [[Code Splitting]]
+- [[Speculation Rules]]

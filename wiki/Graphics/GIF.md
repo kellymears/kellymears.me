@@ -23,6 +23,6 @@ That GIF persists anyway shows how support everywhere outweighs technical merit.
 
 ## See also
 - [[GeoCities]]
-- [[Mosaic]]
+- [[Image Format]]
 - [[Modem]]
 - [[Color Cycling]]

@@ -28,6 +28,6 @@ For a page whose content is genuinely fixed, static generation dominates on ever
 - [[React Server Components]]
 - [[Blog]]
 - [[Baked Lighting]]
-- [[Link Rot]]
+- [[Time to First Byte]]
 - [[Open Graph]]
 - [[IndieWeb]]

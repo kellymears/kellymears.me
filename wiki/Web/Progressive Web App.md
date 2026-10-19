@@ -37,3 +37,4 @@ Building one well means planning for the network being absent. Assets come from 
 - [[Web Push]]
 - [[Favicon]]
 - [[Deep Linking]]
+- [[Origin Private File System]]

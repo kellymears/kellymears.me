@@ -32,5 +32,5 @@ Serialization cost adds up. In busy services, encoding and decoding can dominate
 ## See also
 - [[Prototype Pollution]]
 - [[iCalendar]]
-- [[Mojibake]]
+- [[Resumability]]
 - [[Log4Shell]]

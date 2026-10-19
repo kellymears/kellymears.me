@@ -38,5 +38,5 @@ For developers, the practical tools are [[Progressive Enhancement]], building on
 - [[Encrypted Media Extensions]]
 - [[Internationalized Domain Name]]
 - [[Mosaic]]
-- [[Request for Comments]]
+- [[Web Animations API]]
 - [[Cross-Browser Testing]]

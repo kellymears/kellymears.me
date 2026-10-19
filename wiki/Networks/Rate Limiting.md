@@ -21,7 +21,7 @@ It's a close cousin of [[Backpressure]], but the direction of control is differe
 - [[Load Testing]]
 - [[Congestion Control]]
 - [[Sybil Attack]]
-- [[Thundering Herd]]
+- [[Middleware]]
 - [[HTTP Status Code]]
 - [[Denial-of-Service Attack]]
 - [[Web Crawler]]

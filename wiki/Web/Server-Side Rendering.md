@@ -18,7 +18,7 @@ SSR sits on a spectrum with [[Static Site Generation]] (render once at build tim
 - [[Islands Architecture]]
 - [[Incremental Static Regeneration]]
 - [[Jamstack]]
-- [[Single-Page Application]]
+- [[Resumability]]
 - [[Edge Computing]]
 - [[Serverless Computing]]
 - [[Open Graph]]

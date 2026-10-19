@@ -36,5 +36,5 @@ Tracing complements the other signals of [[Observability]]. [[Logging]] records 
 ## See also
 - [[Mars Pathfinder Priority Inversion]]
 - [[Service Level Objective]]
-- [[Message Queue]]
+- [[Middleware]]
 - [[Scientific Debugging]]

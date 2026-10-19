@@ -33,3 +33,4 @@ Because the header was never reliable, relying on it alone for security is a mis
 ## See also
 - [[Browser Fingerprinting]]
 - [[Same-Origin Policy]]
+- [[Fragment Identifier]]

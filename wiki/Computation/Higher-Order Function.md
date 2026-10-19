@@ -26,3 +26,4 @@ The risk is indirection outrunning its benefit — a codebase where every operat
 - [[Metaprogramming]]
 - [[Lexical Scope]]
 - [[Combinatory Logic]]
+- [[Middleware]]

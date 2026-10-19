@@ -28,6 +28,6 @@ The pattern isn't unique to databases. [[Layout Thrashing]] in the browser is th
 - [[Leaky Abstraction]]
 - [[SQL Join]]
 - [[GraphQL]]
-- [[Lazy Loading]]
+- [[Time to First Byte]]
 - [[Connection Pool]]
 - [[Draw Call]]

@@ -25,4 +25,4 @@ Automated checks also produce characteristic false signals: a burst of violation
 ## Related
 - [[HTML]]
 - [[Headless Component]]
-- [[Color Vision Deficiency]]
+- [[Form Validation]]

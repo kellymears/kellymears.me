@@ -17,7 +17,7 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 - [[Context Menu]]
 - [[Direct Manipulation]]
 - [[Accordion]]
-- [[Terminal User Interface]]
+- [[Fragment Identifier]]
 - [[Focus Trap]]
 - [[Tiling Window Manager]]
 

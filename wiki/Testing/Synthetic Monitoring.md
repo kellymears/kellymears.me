@@ -36,4 +36,4 @@ The usual pitfalls:
 ## See also
 - [[Amazon S3 Outage of 2017]]
 - [[Software Aging]]
-- [[GitLab Database Incident]]
+- [[Time to First Byte]]

@@ -20,7 +20,7 @@ A subtler hazard: content rendered by the server and then mutated directly by th
 - [[HTML]]
 
 ## Related
-- [[Lazy Loading]]
+- [[Resumability]]
 - [[Jamstack]]
 - [[Single-Page Application]]
 - [[Reactive Signals]]

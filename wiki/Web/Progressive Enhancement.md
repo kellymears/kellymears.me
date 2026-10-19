@@ -17,12 +17,12 @@ The design constraint it imposes is real and worth stating. An entrance animatio
 - [[Jamstack]]
 - [[Flash of Unstyled Content]]
 - [[Cross-Browser Testing]]
-- [[Hydration]]
+- [[Form Validation]]
 
 ## Related
 - [[Accordion]]
 - [[Responsive Web Design]]
-- [[Static Site Generation]]
+- [[Resumability]]
 - [[Progressive Web App]]
 - [[Polyfill]]
 - [[Apollo 11 Program Alarms]]

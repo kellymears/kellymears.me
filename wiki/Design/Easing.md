@@ -22,7 +22,7 @@ Duration still matters and the useful range is narrow. Under roughly 100 millise
 
 ## Related
 - [[Component Story]]
-- [[Color Contrast]]
+- [[Web Animations API]]
 - [[Keyframe Animation]]
 - [[Progressive Enhancement]]
 - [[Slider]]

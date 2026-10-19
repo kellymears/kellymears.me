@@ -31,5 +31,5 @@ The line between the two has blurred. A [[Signed Distance Field]] stores shapes 
 - [[Turtle Graphics]]
 - [[Vector Display]]
 - [[HTML Canvas]]
-- [[NURBS]]
+- [[Image Format]]
 - [[Data URI]]

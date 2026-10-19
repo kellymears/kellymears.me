@@ -32,7 +32,7 @@ Practical cautions:
 Keep transitions to a few hundred milliseconds; longer ones make navigation feel slower.
 
 ## See also
-- [[Motion Design]]
-- [[Single-Page Application]]
+- [[Web Animations API]]
+- [[Speculation Rules]]
 - [[Reduced Motion]]
 - [[Easing]]

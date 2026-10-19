@@ -22,5 +22,5 @@ Elements carry meaning as well as appearance. A nav element marks navigation, an
 Plain text formats such as [[Markdown]] exist mainly so writers don't have to type tags, and they're converted to HTML in the end. Developers can now define their own elements as well.
 
 ## See also
-- [[Hypertext Transfer Protocol]]
+- [[Form Validation]]
 - [[Web Crawler]]

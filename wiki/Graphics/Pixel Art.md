@@ -29,5 +29,5 @@ Its appeal is partly economic, since small teams can produce consistent art, and
 - [[Smear Frame]]
 - [[ASCII Art]]
 - [[Stop Motion]]
-- [[NTSC]]
+- [[Image Format]]
 - [[Color Cycling]]

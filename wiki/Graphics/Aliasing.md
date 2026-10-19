@@ -27,7 +27,7 @@ The remedies all amount to either sampling more or [[Image Resampling|filtering 
 ## See also
 - [[Halftone]]
 - [[Interlacing]]
-- [[NTSC]]
+- [[Web Audio API]]
 - [[Foveated Rendering]]
 - [[Fourier Transform]]
 - [[Screen Tearing]]

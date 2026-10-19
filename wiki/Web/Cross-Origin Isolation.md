@@ -33,4 +33,4 @@ The episode shows how a hardware flaw can reshape a platform's APIs years later,
 
 ## See also
 - [[Browser Fingerprinting]]
-- [[Web Standards]]
+- [[Origin Private File System]]

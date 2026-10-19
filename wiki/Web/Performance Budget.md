@@ -17,7 +17,7 @@ Budgets should also be revisable with reasoning attached. A deliberate, understo
 ## See also
 - [[Core Web Vitals]]
 - [[Code Splitting]]
-- [[Continuous Integration]]
+- [[Time to First Byte]]
 - [[Brutalist Web Design]]
 - [[React Server Components]]
 - [[Web Font Loading]]
@@ -28,6 +28,6 @@ Budgets should also be revisable with reasoning attached. A deliberate, understo
 ## Related
 - [[Server-Side Rendering]]
 - [[Lazy Loading]]
-- [[Tail Latency]]
+- [[Speculation Rules]]
 - [[Response Time Limits]]
 - [[Third-Party Script]]

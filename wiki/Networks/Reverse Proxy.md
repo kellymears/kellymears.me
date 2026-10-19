@@ -28,5 +28,5 @@ The proxy hides the client from the backend, which causes predictable trouble. T
 - [[Service Mesh]]
 - [[Man-in-the-Middle Attack]]
 - [[Hypertext Transfer Protocol]]
-- [[Firewall]]
+- [[Middleware]]
 - [[Port]]

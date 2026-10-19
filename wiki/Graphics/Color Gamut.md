@@ -33,5 +33,5 @@ When a source color falls outside the destination gamut, **gamut mapping** must 
 - [[Structural Color]]
 - [[Image Sensor]]
 - [[OLED]]
-- [[Gamma Correction]]
+- [[Image Format]]
 - [[NTSC]]

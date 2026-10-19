@@ -28,4 +28,4 @@ Related hygiene: explicit `width` and `height` attributes reserve space and prev
 - [[Above the Fold]]
 - [[Seam Carving]]
 - [[JPEG]]
-- [[Aspect Ratio]]
+- [[Image Format]]
