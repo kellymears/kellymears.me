@@ -21,5 +21,5 @@ Detection is fundamentally hard because a compromised system is asked to report 
 Prevention focuses on limiting what any single compromise can reach, so that attackers never get the privileges a rootkit needs; see [[Least Privilege]] and [[Mandatory Access Control]]. Some backdoors arrive through trusted software instead; see [[XZ Utils Backdoor]].
 
 ## See also
-- [[Read-Only Memory]]
-- [[Computer Virus]]
+- [[Dual Boot]]
+- [[Protection Ring]]

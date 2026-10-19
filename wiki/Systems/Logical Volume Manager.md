@@ -28,5 +28,5 @@ Each added layer is another one to understand when recovering a broken system. A
 Newer filesystems fold volume management into the filesystem itself, pooling disks and handing out space without a separate layer; see [[ZFS]]. LVM remains the default in several Linux installers because it works under any filesystem; see [[Filesystem]].
 
 ## See also
-- [[RAID]]
+- [[File Fragmentation]]
 - [[Sparse File]]

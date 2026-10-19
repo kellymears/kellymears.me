@@ -28,7 +28,7 @@ Load averages remain useful as a quick smoke alarm. A glance at `uptime` when a 
 ## See also
 - [[Computer Cooling]]
 - [[CPU Scheduler]]
-- [[Observability]]
+- [[Process Priority]]
 - [[Thermal Throttling]]
 - [[Simultaneous Multithreading]]
 - [[Live Patching]]

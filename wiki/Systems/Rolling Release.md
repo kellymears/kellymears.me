@@ -21,3 +21,4 @@ The distinction generalizes past Linux distributions: any software that ships co
 - [[Release Train]]
 - [[Long-Term Support]]
 - [[Linux Distribution]]
+- [[Version Manager]]

@@ -30,5 +30,5 @@ Distributions are an example of open development at scale. Thousands of voluntee
 Linux distributions run most servers, nearly all supercomputers, and, through Android's modified kernel, most phones, though Android is rarely counted as a distribution in the traditional sense; see [[Unix]].
 
 ## See also
-- [[Open Source Definition]]
-- [[Free Software]]
+- [[Desktop Environment]]
+- [[Sound Server]]

@@ -14,7 +14,7 @@ A snapshot is not a [[Backup and Restore|backup]] by itself, even though it's of
 ## See also
 - [[Disk Image]]
 - [[Inode]]
-- [[Database Migration]]
+- [[Recycle Bin]]
 - [[Ransomware]]
 - [[Multiversion Concurrency Control]]
 - [[Journaling File System]]

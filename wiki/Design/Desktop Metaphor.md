@@ -25,5 +25,5 @@ Underneath, the screen is managed by software that draws and arranges windows; s
 Phones replaced the metaphor with full-screen apps and touch, and web apps moved documents into the browser and the cloud. Most people now search for files rather than browse folders. But windows, icons, menus, and pointers remain the base of desktop computing, and terms like "desktop," "folder," and "save" persist long after the office objects behind them faded; see [[Iconography]].
 
 ## See also
-- [[Dropdown Menu]]
-- [[Frutiger Aero]]
+- [[Desktop Environment]]
+- [[Recycle Bin]]

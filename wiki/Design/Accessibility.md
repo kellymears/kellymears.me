@@ -24,5 +24,5 @@ Automated checks also produce characteristic false signals: a burst of violation
 
 ## Related
 - [[Keyboard Layout]]
-- [[HSL and HSV]]
+- [[Input Method]]
 - [[Sticky Header]]

@@ -32,7 +32,7 @@ Dependencies are also a security surface. Each one can be compromised, typosquat
 
 ## See also
 - [[Technology Radar]]
-- [[Software Rot]]
+- [[Version Manager]]
 - [[Node.js]]
 - [[License Compatibility]]
 - [[Dynamic Linking]]

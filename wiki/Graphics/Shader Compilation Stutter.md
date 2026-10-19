@@ -24,7 +24,7 @@ The general shape is [[Memoization]] where the key includes the environment, and
 - [[Frame Pacing]]
 - [[Compiler]]
 - [[Texture Streaming]]
-- [[Memoization]]
+- [[Graphics Driver]]
 - [[Lazy Evaluation]]
 - [[Amortized Analysis]]
 - [[Draw Call]]

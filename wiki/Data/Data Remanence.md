@@ -23,5 +23,6 @@ Memory chips show remanence too. Contents of computer memory fade over seconds a
 Organizations with strict requirements still prefer physical destruction, shredding drives into small fragments or disintegrating them. Deletion inside applications raises the same question at a higher level, since records marked deleted often remain in tables, logs and backups; see [[Soft Delete]] and [[Data Retention]].
 
 ## See also
-- [[Garbage Collection]]
+- [[Recycle Bin]]
 - [[Digital Preservation]]
+- [[File Fragmentation]]

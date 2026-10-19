@@ -23,6 +23,6 @@ Genres sorted by sensitivity to latency, from [[Rhythm Game|rhythm]] and fightin
 - [[Interlacing]]
 - [[Motion Interpolation]]
 - [[Unsharp Masking]]
-- [[Optical Flow]]
+- [[Graphics Driver]]
 - [[Smear Frame]]
 - [[Swap Chain]]

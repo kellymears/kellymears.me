@@ -21,6 +21,6 @@ Keyboard shortcuts complicate things. Many are defined by letter, so Ctrl+Z sits
 Programmable keyboards push layouts into hardware. Their firmware can remap any key, add layers, and make one key act differently when tapped or held; see [[Firmware]]. Remapping also helps people who type with one hand or with limited mobility; see [[Accessibility]] and [[Keyboard Navigation]].
 
 ## See also
-- [[Pseudoterminal]]
+- [[Input Method]]
 - [[Transliteration]]
 - [[Language Tag]]

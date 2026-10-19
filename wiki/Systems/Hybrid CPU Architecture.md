@@ -32,7 +32,7 @@ On Intel's designs, only P-cores support [[Simultaneous Multithreading]], so cor
 
 ## See also
 - [[Silicon Binning]]
-- [[Motherboard]]
+- [[Process Priority]]
 - [[Instruction Pipelining]]
 - [[Clock Signal]]
 - [[Device Tree]]

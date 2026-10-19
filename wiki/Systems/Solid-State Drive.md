@@ -30,10 +30,10 @@ Other behaviors follow from the design. Many consumer drives write first into a 
 Reliability needs care too. A drive can lose cached writes on sudden power loss, which is why filesystems rely on flush commands, as described in [[Journaling File System]] and [[Write-Ahead Logging]]. Overwriting files doesn't reliably erase them, so secure deletion relies on [[Full-Disk Encryption]] and discarding the key.
 
 ## See also
-- [[Data Remanence]]
+- [[File Fragmentation]]
 - [[PCI Express]]
 - [[Inode]]
 - [[Electromigration]]
 - [[RAID]]
 - [[Firmware]]
-- [[Bathtub Curve]]
+- [[Recycle Bin]]

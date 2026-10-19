@@ -28,6 +28,6 @@ The palette's weakness is discoverability. People cannot search for a feature th
 
 ## See also
 - [[Text Editor]]
-- [[Command-Line Interface]]
-- [[Dropdown Menu]]
+- [[Desktop Environment]]
+- [[Input Method]]
 - [[Context Menu]]

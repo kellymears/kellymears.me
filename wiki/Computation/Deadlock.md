@@ -36,5 +36,5 @@ Deadlocks, like a [[Race Condition]], depend on timing and are hard to reproduce
 ## See also
 - [[Software Transactional Memory]]
 - [[Systematic Concurrency Testing]]
-- [[Thread Pool]]
+- [[Process Priority]]
 - [[Read-Copy-Update]]

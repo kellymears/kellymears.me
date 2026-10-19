@@ -27,7 +27,7 @@ The page cache is a cache like any other: it relies on [[Locality of Reference]]
 ## See also
 - [[Origin Private File System]]
 - [[In-Memory Database]]
-- [[Atomic File Write]]
+- [[File Fragmentation]]
 - [[Hard Disk Drive]]
 - [[Zero-Copy]]
 - [[Translation Lookaside Buffer]]

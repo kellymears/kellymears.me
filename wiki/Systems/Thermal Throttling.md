@@ -35,4 +35,4 @@ Heat is also the main accelerator of chip wear such as [[Electromigration]], so 
 - [[Thermoelectric Effect]]
 - [[Carryover Cooking]]
 - [[Hybrid CPU Architecture]]
-- [[Motherboard]]
+- [[Process Priority]]

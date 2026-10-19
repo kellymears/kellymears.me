@@ -36,7 +36,7 @@ Wrist splints at night help carpal tunnel symptoms, and surgery to release the c
 - [[Saddle Sore]]
 - [[Ulnar Neuropathy]]
 - [[Keyboard Layout]]
-- [[Paresthesia]]
+- [[Input Method]]
 - [[Posture]]
 - [[Stretching]]
 - [[Tendinopathy]]

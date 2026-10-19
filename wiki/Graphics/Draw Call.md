@@ -28,6 +28,6 @@ The latest step is *GPU-driven rendering*, in which the GPU itself decides what 
 - [[Portal Rendering]]
 - [[Stencil Buffer]]
 - [[Scene Graph]]
-- [[GPU Instancing]]
+- [[Graphics Driver]]
 - [[WebGPU]]
 - [[Graphics API]]

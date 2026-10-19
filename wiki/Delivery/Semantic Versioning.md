@@ -27,4 +27,4 @@ The practical consequences are that a major bump deserves a migration path and a
 - [[Codemod]]
 - [[Changelog]]
 - [[Release Train]]
-- [[Dependency Hell]]
+- [[Version Manager]]

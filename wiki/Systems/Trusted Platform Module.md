@@ -28,7 +28,7 @@ TPMs are a simple, cheap kind of hardware security module. Larger ones protect t
 ## See also
 - [[Rowhammer]]
 - [[Entropy Pool]]
-- [[Shamir's Secret Sharing]]
+- [[Dual Boot]]
 - [[Near-Field Communication]]
 - [[Rootkit]]
 - [[Read-Only Memory]]

@@ -30,4 +30,4 @@ The cost of sharing is the usual one: a change through one name affects all of t
 - [[Glob]]
 - [[Sparse File]]
 - [[Archive File]]
-- [[Atomic File Write]]
+- [[Recycle Bin]]

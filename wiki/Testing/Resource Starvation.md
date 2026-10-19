@@ -15,7 +15,7 @@ The commonest sources in a development environment are several test suites runni
 Responses that work: serialize rather than parallelize the contended step, give the starved run the machine, add retry only where the failure is known to be environmental, and — most valuable — record the resource state at failure time so the next occurrence is diagnosable rather than a mystery. See [[Observability]].
 
 ## See also
-- [[Flaky Test]]
+- [[Process Priority]]
 - [[Instrumentation]]
 - [[Fan-Out and Fan-In]]
 - [[Resource Limit]]

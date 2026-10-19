@@ -32,7 +32,7 @@ Colors produced by interference rather than pigment are called structural colors
 - [[Helmholtz Resonance]]
 - [[Uncertainty Principle]]
 - [[Reverberation]]
-- [[Radio Propagation]]
+- [[Sound Server]]
 - [[Spread Spectrum]]
 - [[Twisted Pair]]
 - [[Quantum Computing]]

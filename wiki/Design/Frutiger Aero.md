@@ -25,3 +25,4 @@ The visual effects themselves came back sooner. Translucent, blurred panels retu
 - [[Aesthetic-Usability Effect]]
 - [[Art Nouveau]]
 - [[Arts and Crafts Movement]]
+- [[Desktop Environment]]

@@ -27,6 +27,6 @@ Something has to wake the machine: the lid opening, a key press, a network packe
 Both states raise security questions. A suspended machine keeps its memory, including encryption keys, so someone with physical access may be able to extract them. A hibernation image on disk holds the same secrets, so it must be encrypted too; see [[Full-Disk Encryption]]. Some secure-boot configurations disable hibernation entirely, since an image could be tampered with before resume; see [[Boot Process]].
 
 ## See also
-- [[Dynamic Voltage and Frequency Scaling]]
+- [[Graphics Driver]]
 - [[Uninterruptible Power Supply]]
-- [[Power Supply Unit]]
+- [[Dual Boot]]

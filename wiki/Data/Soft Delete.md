@@ -31,7 +31,7 @@ Distributed systems use a related idea under the name *tombstone*: a marker that
 ## See also
 - [[Audit Log]]
 - [[Bitemporal Data]]
-- [[Undo]]
+- [[Recycle Bin]]
 - [[Machine Unlearning]]
 - [[Data Retention]]
 - [[Database Partitioning]]

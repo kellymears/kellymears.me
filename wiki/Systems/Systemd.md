@@ -15,7 +15,7 @@ Systemd's scope is the recurring objection: it also absorbed device management (
 Its most consequential feature for daily debugging is the systemd unit's **automatic restart** and **resource limits**: a service can be told to restart on failure, sandboxed with a private `/tmp`, or capped on memory, all as unit-file settings rather than code the service itself has to implement.
 
 ## See also
-- [[Init System]]
+- [[Process Priority]]
 - [[Daemon]]
 - [[Control Groups]]
 - [[Cron]]

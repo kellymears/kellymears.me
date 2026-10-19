@@ -35,7 +35,7 @@ Notable efforts include the Internet Archive's web captures, national libraries'
 ## See also
 - [[Software Heritage]]
 - [[GIF]]
-- [[Dark Data]]
+- [[Recycle Bin]]
 - [[Magnetic Tape]]
 - [[Hard Disk Drive]]
 - [[Optical Character Recognition]]

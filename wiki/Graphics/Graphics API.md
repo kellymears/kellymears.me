@@ -31,7 +31,7 @@ The API also shapes how frames reach the screen, through the [[Swap Chain]] and 
 
 ## See also
 - [[Rasterization]]
-- [[GPU Instancing]]
+- [[Graphics Driver]]
 - [[Game Engine]]
 - [[Virtualized Geometry]]
 - [[Graphics Pipeline]]

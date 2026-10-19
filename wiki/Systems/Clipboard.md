@@ -26,3 +26,5 @@ Restricting clipboard access follows the principle that a program should get onl
 - [[Undo]]
 - [[Desktop Metaphor]]
 - [[Password Manager]]
+- [[Input Method]]
+- [[Desktop Environment]]

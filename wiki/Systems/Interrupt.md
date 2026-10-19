@@ -36,5 +36,5 @@ A [[Unix Signal]] is the user-space analog, an asynchronous notification deliver
 - [[Processor Register]]
 - [[Hardware-in-the-Loop]]
 - [[Zero-Copy]]
-- [[Real-Time Operating System]]
+- [[Protection Ring]]
 - [[Entropy Pool]]

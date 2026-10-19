@@ -30,7 +30,7 @@ Exit status is the shell's only universal signal, and it means "the program retu
 - [[Fork and Exec]]
 - [[Terminal User Interface]]
 - [[Free Software]]
-- [[File Descriptor]]
+- [[Version Manager]]
 
 ## Related
 - [[Desktop Metaphor]]

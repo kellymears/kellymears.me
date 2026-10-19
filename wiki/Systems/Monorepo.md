@@ -23,7 +23,7 @@ Package managers support the pattern through *workspaces*: a root manifest listi
 ## Related
 - [[Perforce]]
 - [[Codemod]]
-- [[Bundler]]
+- [[Version Manager]]
 - [[Inner Source]]
 - [[Test Impact Analysis]]
 - [[Build Cache]]

@@ -23,7 +23,7 @@ Scheduled work is the daemon's near relative; see [[Cron]].
 
 ## Related
 - [[Terminal Multiplexer]]
-- [[Resource Starvation]]
+- [[Sound Server]]
 - [[File Watching]]
 - [[Truncation Bias]]
 - [[Uninterruptible Power Supply]]

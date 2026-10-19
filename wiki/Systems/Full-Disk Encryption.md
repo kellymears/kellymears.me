@@ -28,9 +28,9 @@ Unattended unlocking adds trade-offs. A Trusted Platform Module can release the 
 
 ## See also
 - [[One-Time Pad]]
-- [[Data Remanence]]
+- [[Dual Boot]]
 - [[CrowdStrike Outage]]
-- [[Enigma Machine]]
+- [[Recycle Bin]]
 - [[Disk Image]]
 - [[Disk Partition]]
 - [[Rowhammer]]

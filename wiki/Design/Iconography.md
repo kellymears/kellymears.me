@@ -28,7 +28,7 @@ Web icons moved from image sprites to **icon fonts**, which scaled but broke acc
 
 ## See also
 - [[Calligraphy]]
-- [[Art Nouveau]]
+- [[Recycle Bin]]
 - [[Favicon]]
-- [[Constructivism]]
+- [[Desktop Environment]]
 - [[Emoji]]

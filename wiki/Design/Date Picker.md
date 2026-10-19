@@ -26,5 +26,5 @@ When a date is invalid, such as February 30 or a return before departure, the me
 
 ## See also
 - [[iCalendar]]
-- [[Dropdown Menu]]
+- [[Input Method]]
 - [[Postal Address]]

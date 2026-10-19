@@ -29,5 +29,5 @@ Drives fail mechanically, often after warning signs such as reallocated sectors 
 ## See also
 - [[Magnetic Tape]]
 - [[Bit rot]]
-- [[Data Remanence]]
+- [[File Fragmentation]]
 - [[Gray Failure]]

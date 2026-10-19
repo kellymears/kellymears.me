@@ -28,7 +28,7 @@ Support still varies across devices and operating systems, so sites detect WebGP
 
 ## See also
 - [[HTML Canvas]]
-- [[Graphics Processing Unit]]
+- [[Graphics Driver]]
 - [[Shader]]
 - [[WebAssembly]]
 - [[Graphics API]]

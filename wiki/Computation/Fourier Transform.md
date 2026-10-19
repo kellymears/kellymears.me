@@ -26,5 +26,5 @@ The transform also reveals a fundamental trade-off. A signal concentrated in tim
 
 ## See also
 - [[Magnetic Resonance Imaging]]
-- [[Optical Flow]]
+- [[Sound Server]]
 - [[Canny Edge Detector]]

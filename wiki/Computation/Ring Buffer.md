@@ -26,6 +26,6 @@ With exactly one producer and one consumer, a ring buffer can be made [[Lock-Fre
 ## See also
 - [[Text Buffer]]
 - [[Iterator]]
-- [[Modular Arithmetic]]
+- [[Sound Server]]
 - [[Web Audio API]]
 - [[IO Multiplexing]]

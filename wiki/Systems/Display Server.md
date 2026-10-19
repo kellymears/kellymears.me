@@ -24,11 +24,11 @@ The transition took more than a decade, a case of [[Path Dependence]] and of the
 Each design choice made one set of problems hard and a different set easy, a pattern also seen in [[Init System]] and [[Package Manager]] transitions.
 
 ## See also
-- [[Compositor]]
+- [[Graphics Driver]]
 - [[Clipboard]]
 - [[Inter-Process Communication]]
 - [[Keyboard Layout]]
 - [[Tiling Window Manager]]
-- [[Daemon]]
-- [[Process]]
+- [[Desktop Environment]]
+- [[Input Method]]
 - [[Desktop Metaphor]]

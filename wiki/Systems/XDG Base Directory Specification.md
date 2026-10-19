@@ -29,3 +29,4 @@ Pointing the configuration root somewhere unusual has one consequence worth anti
 - [[Character Encoding]]
 - [[Filesystem]]
 - [[Filesystem Hierarchy Standard]]
+- [[Desktop Environment]]

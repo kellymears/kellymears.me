@@ -18,5 +18,5 @@ Because the cache is keyed by exact token prefix, anything that changes an early
 - [[Recurrent Neural Network]]
 - [[Softmax]]
 - [[Beam Search]]
-- [[Token Budget]]
+- [[File Fragmentation]]
 - [[Inference Serving]]

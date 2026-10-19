@@ -30,3 +30,4 @@ Some filesystems go further, compressing runs of zeros or deduplicating identica
 ## See also
 - [[Copy-on-Write]]
 - [[Lazy Evaluation]]
+- [[File Fragmentation]]

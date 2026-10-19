@@ -22,7 +22,7 @@ An interpreter also changes where errors surface: a type or name error in a bran
 - [[PHP]]
 - [[Stack Machine]]
 - [[Intermediate Representation]]
-- [[Expression Problem]]
+- [[Version Manager]]
 - [[Shebang]]
 - [[Compiler Bootstrapping]]
 - [[Quine]]

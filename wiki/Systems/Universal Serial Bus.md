@@ -26,7 +26,7 @@ One connector now carries data, video, and power, but what a given cable or port
 ## See also
 - [[Twisted Pair]]
 - [[Air Gap]]
-- [[Power Supply Unit]]
+- [[Sound Server]]
 - [[Device Tree]]
 - [[PCI Express]]
 - [[Serial Port]]

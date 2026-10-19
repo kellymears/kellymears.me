@@ -29,4 +29,4 @@ The work a GPU does each frame is a pipeline: transform vertices of a [[Polygon 
 
 ## See also
 - [[Tensor Processing Unit]]
-- [[GPU Instancing]]
+- [[Graphics Driver]]

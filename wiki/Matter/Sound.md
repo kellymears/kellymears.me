@@ -34,4 +34,4 @@ Digital audio samples sound pressure many thousands of times a second. CD audio 
 - [[Rhythm Game]]
 - [[Signal-to-Noise Ratio]]
 - [[Helmholtz Resonance]]
-- [[Shock Wave]]
+- [[Sound Server]]

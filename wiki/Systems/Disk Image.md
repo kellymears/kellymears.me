@@ -31,5 +31,5 @@ Preservation depends on imaging too. Floppy disks, cartridges, and optical discs
 Images also serve as backups. Cloning a whole drive captures the operating system and settings along with the data, which makes restoring a failed machine faster than reinstalling; see [[Backup]]. The trade-off is size, since an image may include space no file uses.
 
 ## See also
-- [[Rootkit]]
+- [[Dual Boot]]
 - [[Archive File]]

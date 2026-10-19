@@ -22,6 +22,6 @@ Licensing kept it out of Linux. ZFS was released under Sun's CDDL, which is wide
 **Btrfs**, begun at Oracle in 2007, brings a similar copy-on-write, checksummed design into the mainline Linux kernel, though its parity modes have long been considered unsafe for important data. Filesystems that update in place rely on a journal instead; see [[Journaling File System]].
 
 ## See also
-- [[Ransomware]]
+- [[File Fragmentation]]
 - [[Data Deduplication]]
 - [[Sparse File]]

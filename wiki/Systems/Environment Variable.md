@@ -14,7 +14,7 @@ Two further points. **The absence of a required variable should be fatal**, not 
 Directory-scoped environment loaders make per-project variables ergonomic, which is how one machine can hold several isolated configurations for the same tool.
 
 ## See also
-- [[Shell]]
+- [[Version Manager]]
 - [[Gitignore]]
 - [[Dotfiles]]
 - [[Common Gateway Interface]]

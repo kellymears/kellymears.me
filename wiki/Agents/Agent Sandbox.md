@@ -29,4 +29,4 @@ Recovery complements confinement. A [[Filesystem Snapshot]] or [[Copy-on-Write]]
 
 ## See also
 - [[Chroot]]
-- [[Corrigibility]]
+- [[Protection Ring]]

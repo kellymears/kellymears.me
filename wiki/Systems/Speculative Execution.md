@@ -26,7 +26,7 @@ Variants have kept appearing, many involving [[Simultaneous Multithreading]], wh
 ## See also
 - [[Instruction Pipelining]]
 - [[Cross-Origin Isolation]]
-- [[Advanced Encryption Standard]]
+- [[Protection Ring]]
 - [[Traffic Analysis]]
 - [[Timing Attack]]
 - [[Data Deduplication]]

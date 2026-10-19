@@ -21,5 +21,5 @@ Resource limits are old and coarse. They apply per process, so a program that sp
 The underlying idea, giving each tenant a bounded share so one can't starve the others, recurs across computing; see [[Resource Starvation]] and [[Multi-Tenancy]].
 
 ## See also
-- [[Least Privilege]]
+- [[Process Priority]]
 - [[Rate Limiting]]

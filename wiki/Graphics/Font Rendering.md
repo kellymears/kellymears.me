@@ -31,4 +31,4 @@ Games and GPUs often render glyphs once into a texture atlas and reuse them. Val
 ## See also
 - [[Blackletter]]
 - [[Calligraphy]]
-- [[Movable Type]]
+- [[Desktop Environment]]

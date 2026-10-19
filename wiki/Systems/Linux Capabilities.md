@@ -27,4 +27,4 @@ They aren't a complete sandbox. Several capabilities can be turned into full roo
 
 ## See also
 - [[Agent Sandbox]]
-- [[Zero Trust Network]]
+- [[Protection Ring]]

@@ -25,7 +25,7 @@ Testing this requires a machine other than the one that built it, since a local 
 ## Related
 - [[Over-the-Air Update]]
 - [[Computer Virus]]
-- [[Firmware]]
+- [[Dual Boot]]
 - [[Anti-Cheat]]
 - [[Rootkit]]
 - [[Certificate Revocation]]

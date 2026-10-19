@@ -31,5 +31,5 @@ The principle is stated easily and applied poorly, because broad permissions are
 
 ## Related
 - [[Secrets Management]]
-- [[Universal Plug and Play]]
+- [[Protection Ring]]
 - [[CrowdStrike Outage]]

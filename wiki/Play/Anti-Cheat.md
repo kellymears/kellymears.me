@@ -27,7 +27,7 @@ Detection also happens after the fact. Statistical analysis flags players whose 
 Enforcement is often delayed on purpose. Banning cheaters in waves, rather than immediately, keeps cheat makers from learning which detection caught them. Penalties range from account bans to hardware bans tied to the machine. Cheating also distorts ranked ladders and matchmaking; see [[Matchmaking Rating]].
 
 ## See also
-- [[Blood Doping]]
-- [[Backgammon]]
+- [[Dual Boot]]
+- [[Protection Ring]]
 - [[Battle Royale]]
-- [[Pay-to-Win]]
+- [[Graphics Driver]]

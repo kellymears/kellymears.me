@@ -29,5 +29,5 @@ eBPF is not limited to Linux any more. Microsoft has an implementation for Windo
 ## See also
 - [[Seccomp]]
 - [[Service Mesh]]
-- [[Read-Copy-Update]]
+- [[Protection Ring]]
 - [[Live Patching]]

@@ -31,7 +31,7 @@ A matrix also documents support. Its axes are the project's real compatibility p
 Browser testing faces the same problem across browsers, versions, and devices, and is often handled with the same mix of edge coverage and pairwise selection.
 
 ## See also
-- [[Deployment Pipeline]]
+- [[Version Manager]]
 - [[Cross-Compilation]]
 - [[Dependency Hell]]
 - [[Nightly Build]]
