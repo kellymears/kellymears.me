@@ -28,3 +28,4 @@ Stored-program computers that kept instructions in memory, along with magnetic t
 - [[Barcode]]
 - [[Spreadsheet]]
 - [[Microfilm]]
+- [[Mainframe]]

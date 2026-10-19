@@ -23,7 +23,7 @@ Three practical notes.
 - [[Gitignore]]
 - [[Enigma Machine]]
 - [[Server-Side Request Forgery]]
-- [[Defensive Default]]
+- [[Clipboard]]
 - [[Prompt Injection]]
 - [[Continuous Deployment]]
 - [[Secure Shell]]

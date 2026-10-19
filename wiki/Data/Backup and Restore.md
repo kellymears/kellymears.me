@@ -30,9 +30,9 @@ The most important practice is testing restores. Backups fail silently: a job th
 Backups also carry obligations. They contain the same sensitive data as production and need the same protection, including encryption keys handled through [[Secret Management]], and data deleted under privacy law may linger in old backups until they expire.
 
 ## See also
-- [[RAID]]
-- [[Microfilm]]
+- [[Logical Volume Manager]]
+- [[Archive File]]
 - [[Hard Link]]
-- [[Data Retention]]
+- [[Hard Disk Drive]]
 - [[Data Sovereignty]]
-- [[Object Storage]]
+- [[ZFS]]

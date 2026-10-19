@@ -26,7 +26,7 @@ Getting legacy code under test is often the hard part. Feathers introduced the i
 Characterization tests are a means, not an end. Once code is refactored and understood, they are best replaced or supplemented with tests that state intended behavior, in the style of [[Test-Driven Development]]. They are a practical alternative to the rewrite from scratch, which tends to lose undocumented behavior and fall into the [[Second-System Effect]]. They also help pay down [[Technical Debt]] incrementally.
 
 ## See also
-- [[Git Blame]]
+- [[Mainframe]]
 - [[Dependency Injection]]
 - [[Testability]]
 - [[Branch by Abstraction]]

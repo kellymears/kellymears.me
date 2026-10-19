@@ -33,8 +33,8 @@ The most important rule: **RAID is not a backup**. It protects against a drive d
 With [[Solid-State Drive]]s, some trade-offs shift: rebuilds are faster and striping matters less for speed, but identical SSDs given identical writes can wear out at nearly the same moment. The same ideas, redundancy, parity, and rebuilding, appear at larger scale in [[Database Replication]] and in erasure coding in [[Object Storage]].
 
 ## See also
-- [[Journaling File System]]
-- [[Chaos Engineering]]
-- [[Fault Tree Analysis]]
+- [[Hard Disk Drive]]
+- [[ZFS]]
+- [[Logical Volume Manager]]
 - [[Disk Partition]]
 - [[Checksum]]

@@ -29,7 +29,7 @@ Enforcement usually happens twice: locally, so developers rarely see a failure, 
 ## See also
 - [[Conventional Commits]]
 - [[Developer Experience]]
-- [[Atomic Commit]]
+- [[Line Ending]]
 - [[Branch Protection]]
 - [[YAML]]
 - [[Refactoring]]

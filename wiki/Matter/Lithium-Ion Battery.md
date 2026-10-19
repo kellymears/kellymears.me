@@ -34,4 +34,4 @@ Charging and discharging both waste some energy as heat, accounted for by [[Cons
 - [[Oxidation]]
 - [[Capacitor]]
 - [[Photovoltaic Effect]]
-- [[Hall Effect]]
+- [[Uninterruptible Power Supply]]

@@ -32,3 +32,4 @@ The labels can be overstated. Chronotype is a spectrum rather than a set of type
 - [[Napping]]
 - [[Insomnia]]
 - [[Yawning]]
+- [[Daylight Saving Time]]

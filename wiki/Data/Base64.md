@@ -34,5 +34,5 @@ Variants trade size against convenience:
 Base64 interacts badly with compression. Encoded data looks random to a compressor at first glance, so compress before encoding, not after; see [[HTTP Compression]]. It is unrelated to text encodings like UTF-8, which map characters to bytes rather than bytes to characters; see [[Character Encoding]].
 
 ## See also
-- [[Binary Number]]
+- [[Line Ending]]
 - [[Checksum]]

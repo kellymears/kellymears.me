@@ -31,4 +31,4 @@ Performance depends heavily on caching. The kernel keeps recently used file data
 Where files go within the tree follows conventions, such as `/etc` for configuration and `/var` for changing data, and per-user locations set by the [[XDG Base Directory Specification]]. Large data increasingly lives in [[Object Storage]], which drops the hierarchy for flat keys.
 
 ## See also
-- [[File Watching]]
+- [[Hard Disk Drive]]

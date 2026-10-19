@@ -29,7 +29,7 @@ DC is returning, though. Electronics convert AC to DC, using diodes and [[Capaci
 Cheap dimmers and LED drivers that pass AC ripple through cause visible [[LED Flicker]] at twice the mains frequency.
 
 ## See also
-- [[Resonance]]
+- [[Uninterruptible Power Supply]]
 - [[Magnetism]]
 - [[Nuclear Fission]]
 - [[Electrolysis]]

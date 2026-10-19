@@ -19,5 +19,5 @@ Abolishing daylight saving would end future transitions but not the problem: his
 - [[Falsehoods Programmers Believe]]
 - [[Monotonic Clock]]
 - [[Real-Time Clock]]
-- [[Atomic Clock]]
+- [[Daylight Saving Time]]
 - [[Jet Lag]]

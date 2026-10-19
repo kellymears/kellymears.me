@@ -27,4 +27,4 @@ POSIX also illustrates a broader pattern: standards written after the fact tend 
 ## See also
 - [[Application Binary Interface]]
 - [[Filesystem Hierarchy Standard]]
-- [[Command-Line Interface]]
+- [[Line Ending]]

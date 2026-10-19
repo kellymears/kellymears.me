@@ -30,5 +30,5 @@ IPC is also a security boundary. Browsers run each site's content in a restricte
 Designs that communicate only by messages, sharing no memory at all, avoid many concurrency bugs; see [[Actor Model]].
 
 ## See also
-- [[Containerization]]
+- [[Clipboard]]
 - [[IO Multiplexing]]

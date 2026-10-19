@@ -23,3 +23,5 @@ A snapshot is not a [[Backup and Restore|backup]] by itself, even though it's of
 - [[Filesystem]]
 - [[Disk Partition]]
 - [[Overlay Filesystem]]
+- [[Logical Volume Manager]]
+- [[ZFS]]

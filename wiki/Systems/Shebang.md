@@ -25,4 +25,4 @@ It also explains a classic security hole. Early systems that honored setuid perm
 
 ## See also
 - [[POSIX]]
-- [[Command-Line Interface]]
+- [[Line Ending]]

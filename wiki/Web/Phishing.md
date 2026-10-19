@@ -33,6 +33,6 @@ Training and simulated phishing campaigns are widespread, but studies find their
 
 ## See also
 - [[Single Sign-On]]
-- [[Threat Modeling]]
+- [[Clipboard]]
 - [[Barcode]]
 - [[Internationalized Domain Name]]

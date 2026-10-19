@@ -34,6 +34,6 @@ There is a deep link between compression and prediction: a model that predicts t
 - [[Kolmogorov Complexity]]
 - [[Sneakernet]]
 - [[Chroma Subsampling]]
-- [[Napster]]
+- [[Archive File]]
 - [[HTTP Compression]]
 - [[Microfilm]]

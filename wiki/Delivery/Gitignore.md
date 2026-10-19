@@ -34,3 +34,4 @@ A careful ignore file keeps commits focused on the change at hand and keeps a pr
 ## See also
 - [[Commit]]
 - [[Shallow Clone]]
+- [[Line Ending]]

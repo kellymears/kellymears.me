@@ -17,7 +17,7 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 
 ## See also
 - [[Artifact Repository]]
-- [[Monorepo]]
+- [[Archive File]]
 - [[Node.js]]
 - [[Dependency Confusion]]
 - [[Filesystem Hierarchy Standard]]

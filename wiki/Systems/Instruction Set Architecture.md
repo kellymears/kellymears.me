@@ -32,7 +32,7 @@ Higher up, virtual ISAs blur the line: [[WebAssembly]] and Java bytecode define 
 - [[Assembly Language]]
 - [[Instruction Pipelining]]
 - [[Silicon Binning]]
-- [[Emulation]]
+- [[Mainframe]]
 - [[Endianness]]
 - [[Von Neumann Architecture]]
 - [[Hybrid CPU Architecture]]

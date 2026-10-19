@@ -26,3 +26,4 @@ Safety advice is short: if thunder is audible, lightning is close enough to stri
 - [[Shock Wave]]
 - [[Aurora]]
 - [[Faraday Cage]]
+- [[Uninterruptible Power Supply]]

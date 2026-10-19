@@ -29,4 +29,4 @@ The tools rest on a protocol that lets one program drive and observe a browser. 
 
 ## See also
 - [[Layout Thrashing]]
-- [[Browser Engine]]
+- [[Clipboard]]

@@ -30,5 +30,5 @@ Collaboration makes undo harder. If two people edit a document at once, "undo" s
 Undo also pairs naturally with [[Optimistic UI]]: show the result immediately and roll it back if the server rejects it. In editing surfaces such as [[contenteditable]], the browser keeps a native undo stack that custom editing logic easily breaks. Systems apply the same principle at larger scale, with deployments built for [[Rollback]] and data protected by [[Backup and Restore]].
 
 ## See also
-- [[Jujutsu]]
+- [[Clipboard]]
 - [[Text Buffer]]

@@ -35,6 +35,6 @@ A [[Unix Signal]] is the user-space analog, an asynchronous notification deliver
 - [[Translation Lookaside Buffer]]
 - [[Time-Sharing]]
 - [[Hardware-in-the-Loop]]
-- [[Watchdog Timer]]
+- [[Universal Serial Bus]]
 - [[Real-Time Operating System]]
 - [[Entropy Pool]]

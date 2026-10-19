@@ -33,7 +33,7 @@ Jet lag affects performance in measurable ways. Studies of professional sports h
 A milder version happens without flying. *Social jet lag* is the gap between sleep timing on workdays and free days; sleeping in on weekends shifts the clock later, so Monday morning feels like flying east. Daylight saving changes, discussed alongside [[Time Zone]] quirks, impose a small jet lag on whole populations twice a year.
 
 ## See also
-- [[Circadian Rhythm]]
+- [[Daylight Saving Time]]
 - [[Circadian Lighting]]
 - [[Sleep Pressure]]
 - [[Time Zone]]

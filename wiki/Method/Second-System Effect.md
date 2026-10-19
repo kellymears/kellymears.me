@@ -17,7 +17,7 @@ The defense isn't refusing improvements — it's keeping the same discipline tha
 - [[Lehman's Laws of Software Evolution]]
 - [[Analytical Engine]]
 - [[Overfitting]]
-- [[Technical Debt]]
+- [[Mainframe]]
 - [[Minimum Viable Product]]
 
 ## Related

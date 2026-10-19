@@ -18,7 +18,7 @@ Network effects are often confused with switching costs, and the two are related
 - [[Napster]]
 - [[Two-Sided Market]]
 - [[Small-World Network]]
-- [[Schelling Point]]
+- [[Universal Serial Bus]]
 - [[Internet Exchange Point]]
 - [[Stable Matching]]
 - [[Gopher]]

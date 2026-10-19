@@ -31,3 +31,4 @@ Full-screen programs inside it are ordinary terminal applications; see [[Termina
 - [[Shell]]
 - [[Unix Signal]]
 - [[Command-Line Interface]]
+- [[Clipboard]]

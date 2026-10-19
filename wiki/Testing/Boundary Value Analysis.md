@@ -29,6 +29,6 @@ These techniques make [[Unit Test]] design systematic rather than ad hoc, and th
 
 ## See also
 - [[Parameterized Test]]
-- [[Ariane 5 Flight 501]]
+- [[Daylight Saving Time]]
 - [[Black-Box and White-Box Testing]]
 - [[Year 2000 Problem]]

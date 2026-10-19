@@ -25,7 +25,7 @@ Each design choice made one set of problems hard and a different set easy, a pat
 
 ## See also
 - [[Compositor]]
-- [[Least Privilege]]
+- [[Clipboard]]
 - [[Inter-Process Communication]]
 - [[Path Dependence]]
 - [[Tiling Window Manager]]

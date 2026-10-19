@@ -22,6 +22,7 @@ Partitions are fixed regions, awkward to resize once filled. Layers on top add f
 Deleting a partition usually erases only its table entry, not its data, which is why recovery tools can often bring back a "lost" partition by scanning for filesystem signatures. Linux exposes each partition as its own device, such as the first partition of the first drive; see [[Device File]].
 
 ## See also
-- [[Inode]]
+- [[Logical Volume Manager]]
 - [[Journaling File System]]
 - [[Filesystem Hierarchy Standard]]
+- [[Hard Disk Drive]]

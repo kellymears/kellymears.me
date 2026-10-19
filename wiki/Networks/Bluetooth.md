@@ -30,4 +30,4 @@ Bluetooth mesh, from 2017, lets low-energy devices relay messages for lighting a
 - [[Near-Field Communication]]
 - [[Peer-to-Peer]]
 - [[Radio Spectrum]]
-- [[Cellular Network]]
+- [[Universal Serial Bus]]

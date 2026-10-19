@@ -31,7 +31,7 @@ The same ideas appear outside programming languages. Git stores history as a per
 
 ## See also
 - [[Text Buffer]]
-- [[Lisp]]
+- [[ZFS]]
 - [[Ship of Theseus]]
 - [[Self-Balancing Binary Search Tree]]
 - [[Jujutsu]]

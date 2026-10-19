@@ -36,4 +36,4 @@ The law connects to [[Worse Is Better]], which argues that simple implementation
 - [[Platform Engineering]]
 - [[Choice Architecture]]
 - [[Form Design]]
-- [[Defensive Default]]
+- [[Clipboard]]

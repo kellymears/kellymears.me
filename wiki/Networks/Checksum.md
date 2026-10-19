@@ -28,7 +28,7 @@ Storage needs the same care. Disks silently return wrong data more often than pe
 ## See also
 - [[Packet Capture]]
 - [[Single-Event Upset]]
-- [[Modular Arithmetic]]
+- [[ZFS]]
 - [[Sneakernet]]
 - [[Barcode]]
 - [[Birthday Problem]]

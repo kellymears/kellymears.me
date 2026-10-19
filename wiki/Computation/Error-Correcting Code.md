@@ -34,6 +34,6 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 - [[Barcode]]
 - [[Checksum]]
 - [[N-Version Programming]]
-- [[Single-Event Upset]]
+- [[ZFS]]
 - [[RAID]]
 - [[Pigeonhole Principle]]

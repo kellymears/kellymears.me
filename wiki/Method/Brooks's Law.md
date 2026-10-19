@@ -17,7 +17,7 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Second-System Effect]]
 - [[Hofstadter's Law]]
 - [[Parkinson's Law]]
-- [[Bus Factor]]
+- [[Mainframe]]
 - [[Conway's Law]]
 
 ## Related

@@ -31,5 +31,5 @@ Whatever the format, checking configuration against a schema in [[Continuous Int
 ## See also
 - [[XML]]
 - [[CSV]]
-- [[Postel's Law]]
+- [[Line Ending]]
 - [[Markdown]]

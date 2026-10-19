@@ -30,3 +30,4 @@ The approach has costs:
 - [[Filesystem Snapshot]]
 - [[Package Manager]]
 - [[Filesystem Hierarchy Standard]]
+- [[Logical Volume Manager]]

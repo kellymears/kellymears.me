@@ -34,3 +34,4 @@ Databases need finer-grained guarantees than whole-file replacement and use logs
 - [[Idempotence]]
 - [[Time-of-Check to Time-of-Use]]
 - [[File Watching]]
+- [[Uninterruptible Power Supply]]

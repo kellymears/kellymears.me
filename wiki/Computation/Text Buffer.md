@@ -28,5 +28,5 @@ A [[Ring Buffer]], by contrast, solves a narrower problem: a fixed-size queue fo
 
 ## See also
 - [[String-Searching Algorithm]]
-- [[Command-Line Interface]]
+- [[Line Ending]]
 - [[Edit Distance]]

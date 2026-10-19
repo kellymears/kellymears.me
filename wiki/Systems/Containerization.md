@@ -18,7 +18,7 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 - [[Twelve-Factor App]]
 - [[Overlay Filesystem]]
 - [[Zombie Process]]
-- [[Continuous Deployment]]
+- [[Logical Volume Manager]]
 - [[Dynamic Linking]]
 
 ## Related

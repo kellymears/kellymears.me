@@ -21,7 +21,7 @@ Swap usage is a symptom that needs context. A large amount sitting in swap and r
 - [[Suspend and Hibernation]]
 - [[Dynamic Random-Access Memory]]
 - [[Disk Partition]]
-- [[Memory Leak]]
+- [[Logical Volume Manager]]
 - [[Least Recently Used Cache]]
 - [[Resource Starvation]]
 - [[Locality of Reference]]

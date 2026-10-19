@@ -24,7 +24,7 @@ The practical rules: use absolute paths, set the environment explicitly, log to 
 ## Related
 - [[Fail Fast]]
 - [[Truncation Bias]]
-- [[Secret Management]]
+- [[Daylight Saving Time]]
 - [[Syslog]]
 - [[Fake Clock]]
 - [[Unix Time]]

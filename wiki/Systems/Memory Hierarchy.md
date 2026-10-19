@@ -32,4 +32,4 @@ The numbers also explain why measuring beats guessing. Two algorithms with the s
 
 ## See also
 - [[Instruction Pipelining]]
-- [[Swap]]
+- [[Hard Disk Drive]]

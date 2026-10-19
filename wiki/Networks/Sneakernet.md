@@ -28,3 +28,4 @@ Physical transfer needs its own care: data must be verified on arrival, since dr
 ## See also
 - [[Modem]]
 - [[Submarine Cable]]
+- [[Universal Serial Bus]]

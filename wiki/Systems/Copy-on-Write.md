@@ -14,8 +14,8 @@ The trade copy-on-write makes is complexity for cost: tracking which pages or bl
 ## See also
 - [[Fork and Exec]]
 - [[Inode]]
-- [[Process]]
-- [[Idempotence]]
+- [[ZFS]]
+- [[Logical Volume Manager]]
 - [[Virtual Memory]]
 - [[Multiversion Concurrency Control]]
 - [[Backup and Restore]]
