@@ -37,3 +37,4 @@ Sampling also does not fix bias in the stream itself. If the data reaching the s
 - [[Histogram]]
 - [[HyperLogLog]]
 - [[Monte Carlo Method]]
+- [[Iterator]]

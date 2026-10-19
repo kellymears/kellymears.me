@@ -27,7 +27,7 @@ Several sharp edges remain:
 Promises resemble a [[Monad]], since `then` both maps and flattens, though they don't obey the laws strictly: a promise can never contain another promise.
 
 ## See also
-- [[Event Loop]]
+- [[Iterator]]
 - [[Coroutine]]
 - [[Fetch API]]
 - [[Web Worker]]

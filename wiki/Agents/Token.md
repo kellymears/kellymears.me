@@ -20,7 +20,7 @@ Because tokens are consumed by everything in the request — instructions, tool 
 - [[Naive Bayes]]
 - [[Prompt]]
 - [[Nondeterminism]]
-- [[Tool Use]]
+- [[Lexical Analysis]]
 - [[Constrained Decoding]]
 - [[Pretraining]]
 

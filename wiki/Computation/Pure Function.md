@@ -24,3 +24,4 @@ The common failure mode is a function that looks pure — takes arguments, retur
 - [[Testability]]
 - [[Curry-Howard Correspondence]]
 - [[Combinatory Logic]]
+- [[Fold]]

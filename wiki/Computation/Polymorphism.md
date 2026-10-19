@@ -24,6 +24,8 @@ Languages also differ in how subtyping is decided. *Nominal* typing requires an 
 Polymorphism is what lets code depend on abstractions rather than specifics. That supports testing, since a [[Test Double]] can stand in for a real dependency, and it underlies [[Dependency Injection]]. Overused, it scatters behavior across many small classes and makes the flow hard to follow; [[Pattern Matching]] on an [[Algebraic Data Type]] is often the clearer alternative when the set of cases is fixed.
 
 ## See also
-- [[Type System]]
+- [[Covariance and Contravariance]]
 - [[Higher-Order Function]]
 - [[Reflection]]
+- [[Iterator]]
+- [[Expression Problem]]

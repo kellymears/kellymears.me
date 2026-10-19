@@ -11,7 +11,7 @@ summary: Encryption where only the communicating people hold the keys, so the se
 
 The idea is old. PGP, released in 1991, let individuals encrypt email with public keys, and its distribution abroad led to a US government investigation of its author under export rules for cryptography; see [[Public-Key Cryptography]]. PGP never reached most people, partly because managing keys by hand was hard and mistakes were silent.
 
-Mass adoption came through messaging apps that hid the keys entirely. The **Signal Protocol**, developed from 2013 for the app that became Signal, combines a key agreement with the **double ratchet**, which derives a fresh key for every message. Compromising today's key doesn't reveal yesterday's messages, and the conversation heals itself after a compromise once new keys are exchanged. WhatsApp adopted the protocol in 2016 for over a billion users, and many other messengers followed.
+Mass adoption came through messaging apps that hid the keys entirely. The **Signal Protocol**, developed from 2013 for the app that became Signal, combines an elliptic-curve key agreement with the **double ratchet**, which derives a fresh key for every message. Compromising today's key doesn't reveal yesterday's messages, and the conversation heals itself after a compromise once new keys are exchanged. WhatsApp adopted the protocol in 2016 for over a billion users, and many other messengers followed; see [[Elliptic Curve Cryptography]].
 
 The remaining weak points are well known:
 
@@ -29,5 +29,5 @@ It is also politically contested. Law enforcement agencies argue that encryption
 ## See also
 - [[Dark Web]]
 - [[Full-Disk Encryption]]
-- [[GNU Privacy Guard]]
+- [[Diffie-Hellman Key Exchange]]
 - [[Instant Messaging]]

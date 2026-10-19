@@ -16,9 +16,9 @@ Tries also underlie IP routing tables (longest-prefix match over binary strings)
 
 ## See also
 - [[Perfect Hashing]]
-- [[Bloom Filter]]
+- [[Iterator]]
 - [[B-Tree]]
-- [[Big-O Notation]]
+- [[Lexical Analysis]]
 - [[Inverted Index]]
 - [[Persistent Data Structure]]
 - [[Subnet]]

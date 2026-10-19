@@ -16,7 +16,7 @@ Immutability and [[Pure Function]]s reinforce each other: a pure function is eas
 ## See also
 - [[Object-Oriented Programming]]
 - [[Memory Model]]
-- [[Closure]]
+- [[Covariance and Contravariance]]
 - [[Ship of Theseus]]
 - [[Yanked Release]]
 - [[State Management]]
@@ -25,4 +25,4 @@ Immutability and [[Pure Function]]s reinforce each other: a pure function is eas
 - [[Reference Counting]]
 - [[Persistent Data Structure]]
 - [[Ownership and Borrowing]]
-- [[Serialization]]
+- [[Fold]]

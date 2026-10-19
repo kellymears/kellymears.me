@@ -14,11 +14,11 @@ Higher-order functions are the mechanism [[Currying]] and function composition r
 The risk is indirection outrunning its benefit — a codebase where every operation is expressed as a composition of tiny higher-order combinators can become harder to read than the loop it replaced, because a reader has to mentally execute the composition instead of just reading top to bottom. The `map`/`filter`/`reduce` trio earns its place by matching a shape readers already recognize; a bespoke higher-order abstraction has to earn that recognition the hard way, one reader at a time.
 
 ## See also
-- [[Closure]]
-- [[Currying]]
+- [[Iterator]]
+- [[Expression Problem]]
 - [[Pure Function]]
-- [[Recursion]]
-- [[Lambda Calculus]]
+- [[Fold]]
+- [[Covariance and Contravariance]]
 - [[Unix Pipeline]]
 - [[MapReduce]]
 - [[Dynamic Dispatch]]

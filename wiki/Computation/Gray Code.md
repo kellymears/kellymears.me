@@ -23,7 +23,7 @@ Geometrically, a Gray code is a path that visits every corner of a cube, or of i
 Gray codes protect against one kind of error, ambiguity during a transition, not corrupted bits in storage or transmission; that's the job of an [[Error-Correcting Code]]. Both share the measure of how many bits separate two codes; see [[Information Theory]].
 
 ## See also
-- [[Single-Event Upset]]
+- [[Caesar Cipher]]
 - [[Determinism]]
 - [[De Bruijn Sequence]]
 - [[Space-Filling Curve]]

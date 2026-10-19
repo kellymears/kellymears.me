@@ -28,8 +28,8 @@ TLS encrypts content but not everything. The server's IP address is visible, and
 
 ## See also
 - [[HTTP Compression]]
-- [[Equifax Data Breach]]
+- [[Elliptic Curve Cryptography]]
 - [[Zero-Knowledge Proof]]
-- [[End-to-End Encryption]]
+- [[Diffie-Hellman Key Exchange]]
 - [[HTTP Strict Transport Security]]
 - [[Mutual TLS]]

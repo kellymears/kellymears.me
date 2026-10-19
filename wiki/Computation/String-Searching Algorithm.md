@@ -30,7 +30,7 @@ Unicode complicates everything, since the same visible text can be encoded in se
 ## See also
 - [[Text Buffer]]
 - [[Autocomplete]]
-- [[Data Deduplication]]
+- [[Lexical Analysis]]
 - [[Collation]]
 - [[SIMD]]
 - [[Burrows-Wheeler Transform]]

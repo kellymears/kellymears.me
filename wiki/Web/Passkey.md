@@ -35,4 +35,4 @@ A passkey proves who you are; it doesn't decide what you may do. After sign-in, 
 ## See also
 - [[Password Manager]]
 - [[Near-Field Communication]]
-- [[Multi-Factor Authentication]]
+- [[Elliptic Curve Cryptography]]

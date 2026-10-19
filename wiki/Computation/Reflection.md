@@ -21,3 +21,4 @@ Python and JavaScript blur reflection into the ordinary language, since `getattr
 - [[Dynamic Dispatch]]
 - [[Lisp]]
 - [[Metaprogramming]]
+- [[Expression Problem]]

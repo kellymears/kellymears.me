@@ -23,7 +23,7 @@ The failure mode of *not* modeling something explicitly as a state machine is sc
 - [[Non-Player Character]]
 - [[Cloudbleed]]
 - [[Algebraic Data Type]]
-- [[Dialogue Tree]]
+- [[Lexical Analysis]]
 - [[Model-Based Testing]]
 - [[Context-Free Grammar]]
 - [[Typestate]]

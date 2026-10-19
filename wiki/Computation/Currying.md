@@ -20,3 +20,4 @@ The cost is ergonomic, not conceptual: a curried function called with the wrong 
 - [[Pure Function]]
 - [[Lambda Calculus]]
 - [[Combinatory Logic]]
+- [[Fold]]

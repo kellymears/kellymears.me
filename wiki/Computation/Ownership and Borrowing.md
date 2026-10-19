@@ -30,7 +30,7 @@ The idea spreads beyond Rust. Swift, C++, and newer research languages have adde
 ## See also
 - [[Memory Model]]
 - [[Type Inference]]
-- [[Lock-Free Data Structure]]
+- [[Covariance and Contravariance]]
 - [[Least Privilege]]
 - [[Memory Safety]]
 - [[Typestate]]

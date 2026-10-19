@@ -25,3 +25,5 @@ The common failure is an object that has the right method name but a subtly wron
 - [[Generics]]
 - [[Prototype Pollution]]
 - [[Metaprogramming]]
+- [[Expression Problem]]
+- [[Covariance and Contravariance]]

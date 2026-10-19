@@ -19,7 +19,7 @@ Most languages are strict by default (arguments evaluated before a call) and opt
 - [[Memoization]]
 - [[Pure Function]]
 - [[Recursion]]
-- [[Determinism]]
+- [[Fold]]
 - [[Deferred Shading]]
 - [[Object-Relational Mapping]]
 - [[Coroutine]]
@@ -28,3 +28,4 @@ Most languages are strict by default (arguments evaluated before a call) and opt
 - [[Fibonacci Sequence]]
 - [[Combinatory Logic]]
 - [[Sparse File]]
+- [[Iterator]]

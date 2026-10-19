@@ -34,6 +34,6 @@ The law has practical uses in computing:
 - [[Crossword]]
 - [[Fractal]]
 - [[Hot Partition]]
-- [[Participation Inequality]]
+- [[Caesar Cipher]]
 - [[Benford's Law]]
 - [[Logarithmic Scale]]

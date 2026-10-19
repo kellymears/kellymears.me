@@ -28,7 +28,7 @@ A quine's output has a short description, its own source, which bounds its compl
 
 ## See also
 - [[Recursion]]
-- [[Combinatory Logic]]
+- [[Compiler Bootstrapping]]
 - [[Interpreter]]
-- [[Cantor's Diagonal Argument]]
+- [[Lexical Analysis]]
 - [[Morris Worm]]

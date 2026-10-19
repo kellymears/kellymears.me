@@ -29,7 +29,7 @@ Their value goes beyond play: stripping out readable syntax, named variables, an
 
 ## See also
 - [[Compiler]]
-- [[Stack Machine]]
-- [[Analytical Engine]]
+- [[Lexical Analysis]]
+- [[Compiler Bootstrapping]]
 - [[Collatz Conjecture]]
-- [[Assembly Language]]
+- [[Caesar Cipher]]

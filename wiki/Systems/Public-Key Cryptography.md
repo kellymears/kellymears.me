@@ -24,9 +24,9 @@ It is everywhere in modern computing. [[Transport Layer Security]] uses key exch
 The weak point is binding a public key to an identity. A public key proves only that someone holds the matching private key, not who that someone is. Connecting keys to names takes a trust system, such as a [[Certificate Authority]], a web of trust, or simply checking a fingerprint in person. Large quantum computers would break RSA and elliptic-curve schemes, so *post-quantum* algorithms are now being deployed alongside them, since encrypted traffic recorded today could be decrypted later. Keeping private keys private is its own discipline, covered by [[Secret Management]].
 
 ## See also
-- [[Commit Signing]]
+- [[Caesar Cipher]]
 - [[Encrypted Media Extensions]]
-- [[Dark Web]]
+- [[Diffie-Hellman Key Exchange]]
 - [[Entropy Pool]]
 - [[Debian OpenSSL Bug]]
-- [[One-Time Pad]]
+- [[Elliptic Curve Cryptography]]

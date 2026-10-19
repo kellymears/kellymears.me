@@ -19,7 +19,7 @@ Hash tables promise no ordering. Where ranges or sorted traversal matter, a sort
 ## See also
 - [[Alpha-Beta Pruning]]
 - [[Self-Balancing Binary Search Tree]]
-- [[Phonetic Algorithm]]
+- [[Iterator]]
 - [[Prime Number]]
 - [[Pigeonhole Principle]]
 - [[Perfect Hashing]]

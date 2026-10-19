@@ -21,12 +21,12 @@ Uses across computing:
 - **Check digits.** ISBNs, bank account numbers, and credit cards include a digit chosen so a weighted sum comes out to zero modulo 10 or 11, catching most typing errors; see [[Checksum]].
 - **Random numbers.** The simplest generators multiply the previous value by a constant, add another, and reduce modulo a large number; see [[Pseudorandom Number Generator]].
 - **Error correction.** Codes such as Reed-Solomon compute in finite fields, systems where every nonzero element has an inverse; see [[Error-Correcting Code]].
-- **Cryptography.** RSA and Diffie-Hellman rely on exponentiation modulo large numbers being easy to compute and hard to reverse; see [[Public-Key Cryptography]] and [[Arbitrary-Precision Arithmetic]].
+- **Cryptography.** RSA and Diffie-Hellman rely on exponentiation modulo large numbers being easy to compute and hard to reverse; see [[Public-Key Cryptography]], [[Elliptic Curve Cryptography]] and [[Arbitrary-Precision Arithmetic]].
 
 The **Chinese remainder theorem**, found in a Chinese text from roughly the third to fifth century, says that a number's remainders modulo several pairwise coprime values determine it uniquely within their product. Computers use it to split one large calculation into several small independent ones, which speeds up RSA decryption about fourfold.
 
 Days of the week are arithmetic modulo 7, and the twelve pitch classes of Western music are arithmetic modulo 12. One trap for programmers: whether the remainder of a negative number comes out negative or positive varies between languages, a frequent source of bugs.
 
 ## See also
-- [[RSA]]
-- [[De Bruijn Sequence]]
+- [[Caesar Cipher]]
+- [[Diffie-Hellman Key Exchange]]

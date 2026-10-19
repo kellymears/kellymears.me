@@ -16,7 +16,7 @@ That last case has a non-obvious consequence beyond size. Routing a value import
 - [[Module Graph]]
 - [[Program Slicing]]
 - [[CSS-in-JS]]
-- [[Unit Test]]
+- [[Intermediate Representation]]
 
 ## Related
 - [[Test-Driven Development]]

@@ -31,7 +31,7 @@ A related measure, *Kolmogorov complexity*, defines the information in a single 
 
 ## See also
 - [[Burrows-Wheeler Transform]]
-- [[Enigma Machine]]
-- [[One-Time Pad]]
+- [[Diffie-Hellman Key Exchange]]
+- [[Caesar Cipher]]
 - [[Byte-Pair Encoding]]
 - [[Perplexity]]

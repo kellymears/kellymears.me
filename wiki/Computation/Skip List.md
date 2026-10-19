@@ -21,7 +21,7 @@ Skip lists show up where simplicity and concurrency matter:
 There are costs. Each node carries a variable number of forward pointers, averaging two, so skip lists use more memory than arrays. Following pointers scattered across memory also defeats [[Locality of Reference]], so a cache-friendly [[B-Tree]] usually beats both skip lists and binary trees for large data on real hardware.
 
 ## See also
-- [[Linked List]]
+- [[Iterator]]
 - [[Persistent Data Structure]]
 - [[Bloom Filter]]
 - [[Database Index]]

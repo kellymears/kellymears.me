@@ -27,7 +27,7 @@ Generic code is everywhere once a language has it: containers such as a [[Hash T
 Generics have costs. Error messages from heavily templated C++ are notoriously long, and complex constraint systems can become a programming language of their own; C++ templates show accidental [[Turing Completeness]]. [[Duck Typing]] offers the dynamic alternative: skip the type parameters and check behavior at runtime.
 
 ## See also
-- [[Curry-Howard Correspondence]]
-- [[Pattern Matching]]
-- [[Metaprogramming]]
+- [[Expression Problem]]
+- [[Iterator]]
+- [[Covariance and Contravariance]]
 - [[Typestate]]

@@ -27,7 +27,7 @@ Some surprising problems vectorize well. Parsers such as simdjson scan JSON at g
 The gains are bounded. Only the vectorized part speeds up, so the rest of the program soon dominates; see [[Amdahl's Law]]. Wide units draw more power, and some processors once lowered their clock speed while running the widest instructions, which could make mixed workloads slower overall. Results can also differ slightly from scalar code, because reordering floating-point additions changes rounding; see [[Floating-Point Arithmetic]].
 
 ## See also
-- [[Strassen Algorithm]]
+- [[Intermediate Representation]]
 - [[Instruction Pipelining]]
 - [[Fast Inverse Square Root]]
 - [[DataFrame]]

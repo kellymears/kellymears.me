@@ -35,4 +35,4 @@ The concept gives a precise meaning to an intuitive idea: understanding somethin
 - [[Esoteric Programming Language]]
 - [[Quine]]
 - [[Burrows-Wheeler Transform]]
-- [[Fractal]]
+- [[Caesar Cipher]]

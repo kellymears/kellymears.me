@@ -25,5 +25,5 @@ True randomness often doesn't feel random. Listeners complained that music shuff
 Choosing a random sample from a stream of unknown length is a close relative; see [[Reservoir Sampling]].
 
 ## See also
-- [[Monte Carlo Method]]
+- [[Caesar Cipher]]
 - [[Birthday Problem]]

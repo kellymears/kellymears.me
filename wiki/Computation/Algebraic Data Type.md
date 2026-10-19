@@ -29,10 +29,10 @@ A widely quoted design principle is to **make illegal states unrepresentable**. 
 Recursive sum types describe trees: an expression is a number, *or* a sum of two expressions, *or* a product of two expressions. This is how compilers represent an [[Abstract Syntax Tree]], and functions over such types are naturally written with [[Recursion]].
 
 ## See also
-- [[Generics]]
+- [[Expression Problem]]
 - [[Exception Handling]]
 - [[Typestate]]
 - [[Curry-Howard Correspondence]]
 - [[Sentinel Value]]
 - [[Tagged Pointer]]
-- [[TypeScript]]
+- [[Fold]]

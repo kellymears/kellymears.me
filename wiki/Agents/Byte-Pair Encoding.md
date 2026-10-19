@@ -36,5 +36,5 @@ The tokenizer is fixed before [[Pretraining]] and cannot easily change afterward
 - [[Burrows-Wheeler Transform]]
 - [[Word2Vec]]
 - [[Named Entity Recognition]]
-- [[Machine Translation]]
+- [[Lexical Analysis]]
 - [[Portmanteau]]

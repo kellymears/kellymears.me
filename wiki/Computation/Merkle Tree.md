@@ -28,7 +28,7 @@ Merkle trees and their generalization, Merkle DAGs, appear throughout computing:
 The tree is only as strong as its hash function. Git's original use of SHA-1 became a concern after the first practical SHA-1 collision in 2017, and Git has been migrating to SHA-256.
 
 ## See also
-- [[BitTorrent]]
+- [[Elliptic Curve Cryptography]]
 - [[Distributed Hash Table]]
 - [[Software Heritage]]
 - [[Wide-Column Store]]

@@ -36,5 +36,5 @@ These trade-offs drove alternatives. [[WebAssembly]] ships pre-compiled, lower-l
 - [[PHP]]
 - [[JavaScript]]
 - [[Metaprogramming]]
-- [[Stack Machine]]
-- [[Cross-Compilation]]
+- [[Compiler Bootstrapping]]
+- [[Intermediate Representation]]

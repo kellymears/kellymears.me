@@ -15,11 +15,11 @@ Recursion is the natural fit for anything with a recursive shape in the data its
 
 ## See also
 - [[Common Table Expression]]
-- [[Strassen Algorithm]]
-- [[Dependent Types]]
+- [[Iterator]]
+- [[Compiler Bootstrapping]]
 - [[Space-Filling Curve]]
 - [[Logic Programming]]
-- [[Cantor's Diagonal Argument]]
+- [[Fold]]
 - [[Fibonacci Sequence]]
 - [[Tower of Hanoi]]
 - [[Quine]]

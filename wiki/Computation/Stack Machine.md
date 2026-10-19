@@ -22,3 +22,4 @@ The operand stack is distinct from the call stack that holds function frames, th
 - [[Von Neumann Architecture]]
 - [[Esoteric Programming Language]]
 - [[Lisp]]
+- [[Intermediate Representation]]

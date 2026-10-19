@@ -32,5 +32,5 @@ Enforcement usually happens twice: locally, so developers rarely see a failure, 
 - [[Line Ending]]
 - [[Branch Protection]]
 - [[YAML]]
-- [[Codemod]]
+- [[Lexical Analysis]]
 - [[Text Editor]]

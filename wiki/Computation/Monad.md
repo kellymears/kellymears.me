@@ -19,8 +19,8 @@ The word is the obstacle. It arrives from category theory, and the definitions i
 ## See also
 - [[Schema Validation]]
 - [[Defensive Default]]
-- [[Naming]]
-- [[Idempotence]]
+- [[Expression Problem]]
+- [[Fold]]
 - [[Combinatory Logic]]
 - [[Algebraic Data Type]]
 - [[Promise]]

@@ -15,7 +15,7 @@ What most programming languages call "regex" (PCRE and its descendants: Perl's, 
 ## See also
 - [[Text Editor]]
 - [[Phone Number]]
-- [[Trie]]
+- [[Lexical Analysis]]
 - [[Named Entity Recognition]]
 - [[Differential Testing]]
 - [[Perfect Hashing]]

@@ -16,9 +16,9 @@ The trade-off inference introduces is an error message pointing to where a const
 ## See also
 - [[Pattern Matching]]
 - [[Curry-Howard Correspondence]]
-- [[Compiler]]
+- [[Expression Problem]]
 - [[Schema Validation]]
-- [[Static Analysis]]
+- [[Covariance and Contravariance]]
 - [[Union-Find]]
 - [[Ownership and Borrowing]]
 - [[Dynamic Dispatch]]

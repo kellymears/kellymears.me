@@ -23,4 +23,4 @@ Prefix sums are a common first example of precomputation in algorithm courses, a
 
 ## See also
 - [[Amortized Analysis]]
-- [[Time Series Database]]
+- [[Fold]]

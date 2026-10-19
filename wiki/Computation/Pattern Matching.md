@@ -24,3 +24,4 @@ The failure mode is a match that looks exhaustive but isn't, in a language witho
 - [[Dependent Types]]
 - [[Logic Programming]]
 - [[Curry-Howard Correspondence]]
+- [[Expression Problem]]

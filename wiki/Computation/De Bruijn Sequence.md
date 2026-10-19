@@ -25,3 +25,4 @@ In testing, these sequences let a single input exercise every combination of a f
 ## See also
 - [[Modular Arithmetic]]
 - [[Error-Correcting Code]]
+- [[Caesar Cipher]]

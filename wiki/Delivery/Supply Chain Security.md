@@ -14,7 +14,7 @@ That last one deserves particular attention, because it is where a modern hazard
 The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed updates, and minimal privileges everywhere.
 
 ## See also
-- [[Open Source Definition]]
+- [[Compiler Bootstrapping]]
 - [[Build Provenance]]
 - [[Commit Signing]]
 - [[License Compatibility]]

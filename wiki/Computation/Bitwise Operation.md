@@ -37,4 +37,4 @@ Bit manipulation has pitfalls. Right-shifting a negative signed number behaves d
 ## See also
 - [[Tagged Pointer]]
 - [[One-Time Pad]]
-- [[Arbitrary-Precision Arithmetic]]
+- [[Caesar Cipher]]

@@ -15,14 +15,14 @@ An interpreter also changes where errors surface: a type or name error in a bran
 
 ## See also
 - [[Esoteric Programming Language]]
-- [[Combinatory Logic]]
+- [[Lexical Analysis]]
 - [[Metaprogramming]]
 - [[Lexical Scope]]
 - [[Common Gateway Interface]]
 - [[PHP]]
 - [[Stack Machine]]
-- [[Dynamic Dispatch]]
-- [[Just-in-Time Compilation]]
+- [[Intermediate Representation]]
+- [[Expression Problem]]
 - [[Shebang]]
-- [[Von Neumann Architecture]]
+- [[Compiler Bootstrapping]]
 - [[Quine]]

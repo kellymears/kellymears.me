@@ -27,6 +27,7 @@ Signing a login challenge with a private key is related but not zero knowledge i
 The cost is complexity: proofs are expensive to generate, and a bug in the circuit being proved can make false statements provable.
 
 ## See also
-- [[Differential Privacy]]
+- [[Elliptic Curve Cryptography]]
 - [[Boolean Satisfiability Problem]]
 - [[RSA]]
+- [[Diffie-Hellman Key Exchange]]

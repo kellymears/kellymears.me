@@ -38,3 +38,4 @@ Natural languages turned out not to be fully context-free; some, such as Swiss G
 - [[Linguistic Relativity]]
 - [[Backtracking]]
 - [[HTML]]
+- [[Lexical Analysis]]

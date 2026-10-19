@@ -22,6 +22,7 @@ For email, GPG mostly failed. A 1999 study, "Why Johnny Can't Encrypt," found th
 GPG also became a cautionary tale about funding. In 2015, press reports revealed that the project was maintained largely by one developer on little money, prompting a wave of donations and grants; see [[Open Source Sustainability]]. Critics argue OpenPGP's age shows in its complexity, and simpler tools now cover individual uses like signing files.
 
 ## See also
-- [[Supply Chain Security]]
+- [[Elliptic Curve Cryptography]]
 - [[Trusted Platform Module]]
 - [[Free Software]]
+- [[Diffie-Hellman Key Exchange]]

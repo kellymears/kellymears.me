@@ -14,9 +14,9 @@ The line between compiler and interpreter has blurred in practice: most producti
 The trade-off a compiler imposes is a build step between writing code and seeing it run, which costs iteration speed compared to an interpreter's immediate feedback — the reason a scripting language is often preferred for exploratory work and a compiled one for anything shipped, even when both are available for the same problem.
 
 ## See also
-- [[Cross-Compilation]]
+- [[Intermediate Representation]]
 - [[Build System]]
-- [[Ownership and Borrowing]]
+- [[Compiler Bootstrapping]]
 - [[Abstract Interpretation]]
 - [[Context-Free Grammar]]
 - [[Stack Machine]]
@@ -25,5 +25,5 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Linker]]
 - [[Metaprogramming]]
 - [[Goto Fail]]
-- [[Assembly Language]]
+- [[Lexical Analysis]]
 - [[Esoteric Programming Language]]

@@ -28,7 +28,7 @@ Dispatch on types is one answer to the *expression problem*: making it easy to a
 ## See also
 - [[Interpreter]]
 - [[Type Inference]]
-- [[Lambda Calculus]]
+- [[Expression Problem]]
 - [[Event Delegation]]
 - [[Polymorphism]]
 - [[Object-Oriented Programming]]

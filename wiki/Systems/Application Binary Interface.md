@@ -26,7 +26,7 @@ When GCC 5 changed the layout of C++ `std::string` in 2015 to meet the C++11 sta
 The C ABI has become the common language between languages. Rust, Go, Python extensions, and nearly everything else expose functions through C calling conventions, because C's ABI is simple and stable on every platform. Rust itself deliberately has no stable ABI. Compatibility layers work at this level: Wine and Proton implement the Windows ABI on Linux, an [[API Translation Layer]] that loads unmodified Windows binaries. Containers solve the problem differently, shipping the exact libraries a program was built against, as in [[Containerization]].
 
 ## See also
-- [[Device Tree]]
+- [[Intermediate Representation]]
 - [[Assembly Language]]
 - [[Position-Independent Code]]
 - [[Rolling Release]]
