@@ -24,7 +24,7 @@ Three practical notes.
 - [[Enigma Machine]]
 - [[Server-Side Request Forgery]]
 - [[Clipboard]]
-- [[Prompt Injection]]
+- [[Password Manager]]
 - [[Continuous Deployment]]
 - [[GNU Privacy Guard]]
 

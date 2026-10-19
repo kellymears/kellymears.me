@@ -37,5 +37,5 @@ Frameworks absorb some of this. React's concurrent rendering slices rendering wo
 ## See also
 - [[Virtual Scrolling]]
 - [[Browser DevTools]]
-- [[Resumability]]
+- [[Pointer Events]]
 - [[Debounce and Throttle]]

@@ -31,6 +31,6 @@ Wegner's idea extended naturally to technology. People who expect information to
 Organizations try to strengthen it deliberately, through pairing, rotations, and explicit maps of who owns what, so that expertise is both findable and shared enough to survive any one person leaving. The aim is not for everyone to know everything, which defeats the point, but for the directory to be accurate and the important knowledge held by more than one person.
 
 ## See also
-- [[Episodic Memory]]
+- [[Web Search Engine]]
 - [[Escape Room]]
 - [[Alternate Reality Game]]

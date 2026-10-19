@@ -24,5 +24,5 @@ The empirical picture is more contested than the popular story: several large st
 - [[Recommender System]]
 - [[Social Capital]]
 - [[Attention Economy]]
-- [[Feedback Loop]]
+- [[Web Search Engine]]
 - [[Imagined Community]]

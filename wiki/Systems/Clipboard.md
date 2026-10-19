@@ -25,3 +25,4 @@ Restricting clipboard access follows the principle that a program should get onl
 ## See also
 - [[Undo]]
 - [[Desktop Metaphor]]
+- [[Password Manager]]

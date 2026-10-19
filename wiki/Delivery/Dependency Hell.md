@@ -34,7 +34,7 @@ Dependencies are also a security surface. Each one can be compromised, typosquat
 - [[Technology Radar]]
 - [[Artifact Repository]]
 - [[Node.js]]
-- [[Linux Distribution]]
+- [[Micro-Frontends]]
 - [[Dynamic Linking]]
 - [[Automated Dependency Updates]]
 - [[Build Matrix]]

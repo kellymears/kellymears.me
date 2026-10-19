@@ -32,4 +32,4 @@ Whatever the format, checking configuration against a schema in [[Continuous Int
 - [[XML]]
 - [[CSV]]
 - [[Line Ending]]
-- [[Markdown]]
+- [[OpenAPI]]

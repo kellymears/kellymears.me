@@ -26,4 +26,4 @@ When a secret does leak, the response is to revoke it first, then investigate ho
 
 ## See also
 - [[Base64]]
-- [[ChatOps]]
+- [[Password Manager]]

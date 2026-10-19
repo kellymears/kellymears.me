@@ -34,5 +34,5 @@ Keep transitions to a few hundred milliseconds; longer ones make navigation feel
 ## See also
 - [[Web Animations API]]
 - [[Speculation Rules]]
-- [[Reduced Motion]]
+- [[Popover API]]
 - [[Easing]]

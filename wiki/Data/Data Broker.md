@@ -33,5 +33,5 @@ Broker databases concentrate risk, holding everything in one place for whoever b
 
 ## See also
 - [[Data Masking]]
-- [[Data Sovereignty]]
+- [[Programmatic Advertising]]
 - [[Paywall]]

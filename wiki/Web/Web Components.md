@@ -26,3 +26,5 @@ The practical friction is that most application frameworks bring their own, more
 - [[Atomic Design]]
 - [[Model-View-Controller]]
 - [[HTML]]
+- [[Micro-Frontends]]
+- [[CSS-in-JS]]

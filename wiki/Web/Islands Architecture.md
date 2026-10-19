@@ -17,7 +17,7 @@ The pattern is most associated with content-first site frameworks, but the under
 ## See also
 - [[Hydration]]
 - [[Static Site Generation]]
-- [[Progressive Enhancement]]
+- [[Micro-Frontends]]
 - [[Lazy Loading]]
 - [[Server-Side Rendering]]
 

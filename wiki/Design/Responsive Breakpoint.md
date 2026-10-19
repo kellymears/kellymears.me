@@ -22,7 +22,7 @@ Three practical notes recur.
 - [[Cross-Browser Testing]]
 - [[Component Story]]
 - [[Headless Browser]]
-- [[Visual Regression Testing]]
+- [[Pointer Events]]
 
 ## Related
 - [[Logo]]

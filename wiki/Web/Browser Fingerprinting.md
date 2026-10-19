@@ -31,7 +31,7 @@ Privacy law in Europe treats fingerprinting like cookies: storing or reading inf
 
 ## See also
 - [[Web Audio API]]
-- [[Web Analytics]]
+- [[Programmatic Advertising]]
 - [[Turing Test]]
 - [[User Agent String]]
 - [[Browser Extension]]

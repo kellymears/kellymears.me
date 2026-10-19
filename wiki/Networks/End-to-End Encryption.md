@@ -27,6 +27,6 @@ The design reflects a principle from network architecture, that guarantees are b
 It is also politically contested. Law enforcement agencies argue that encryption beyond their reach hides crime, and governments have repeatedly proposed requiring access mechanisms or scanning messages on the device before encryption. Cryptographers generally respond that any mechanism granting special access is a vulnerability others can find. The debate has recurred since the 1990s with little change in either side's arguments; see [[Threat Modeling]].
 
 ## See also
-- [[Zero Trust Network]]
+- [[Password Manager]]
 - [[Full-Disk Encryption]]
 - [[GNU Privacy Guard]]

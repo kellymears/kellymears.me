@@ -27,7 +27,7 @@ The same idea, at web scale, was the basis of link-based search ranking: a page'
 - [[Fragment Identifier]]
 - [[Blog]]
 - [[Agent Memory]]
-- [[Link Rot]]
+- [[Web Directory]]
 - [[Matthew Effect]]
 - [[Small-World Network]]
 - [[Project Xanadu]]

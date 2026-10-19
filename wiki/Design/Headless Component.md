@@ -28,3 +28,5 @@ The recurring hazards are portalling — see [[Portal]] — and honesty about ty
 - [[Tesler's Law]]
 - [[Tooltip]]
 - [[Atomic Design]]
+- [[Popover API]]
+- [[CSS-in-JS]]

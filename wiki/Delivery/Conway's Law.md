@@ -15,7 +15,7 @@ The caveat is honest but narrower than usually stated. There are no controlled e
 ## See also
 - [[Two-Pizza Team]]
 - [[Inner Source]]
-- [[Team Topologies]]
+- [[Micro-Frontends]]
 - [[Data Mesh]]
 - [[Value Stream Mapping]]
 - [[You Build It, You Run It]]

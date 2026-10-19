@@ -28,3 +28,4 @@ Reading the graph — from the bundler's own manifests rather than by inference 
 - [[ES Modules]]
 - [[Hot Module Replacement]]
 - [[Build System]]
+- [[Micro-Frontends]]

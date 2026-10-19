@@ -26,6 +26,6 @@ Format and tooling solve only half the problem. The other half is knowing what k
 The approach has costs. Writers outside engineering must learn Git, and code review tends to check accuracy more carefully than clarity; see [[Plain Language]]. It also assumes the docs belong to the people who change the code, which holds only when the team treats writing as part of shipping rather than something done afterward. Decision records and release notes are the same idea applied to choices and versions, and they live in the same repository for the same reasons.
 
 ## See also
-- [[Good First Issue]]
+- [[OpenAPI]]
 - [[Changelog]]
 - [[Onboarding]]

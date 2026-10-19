@@ -19,7 +19,7 @@ Personal wikis have become common as a private reference — the same mechanics,
 - [[Fan Fiction]]
 - [[Wikidata]]
 - [[Software Forge]]
-- [[Markdown]]
+- [[Web Directory]]
 - [[Sybil Attack]]
 - [[Rabbit Hole]]
 

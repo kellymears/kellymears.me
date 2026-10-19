@@ -31,7 +31,7 @@ Critics note that real organizations rarely fit four boxes and that the model sa
 
 ## See also
 - [[Technology Radar]]
-- [[You Build It, You Run It]]
+- [[Micro-Frontends]]
 - [[Two-Pizza Team]]
 - [[Data Mesh]]
 - [[Inner Source]]

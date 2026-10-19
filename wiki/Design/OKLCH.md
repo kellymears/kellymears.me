@@ -18,7 +18,7 @@ The practical caution is that perceptual uniformity is not the same as *contrast
 - [[Design Token]]
 - [[Heat Map]]
 - [[Dark Mode]]
-- [[Shader]]
+- [[CSS Preprocessor]]
 - [[Gamma Correction]]
 
 ## Related

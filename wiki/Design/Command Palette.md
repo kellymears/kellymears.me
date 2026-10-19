@@ -29,5 +29,5 @@ The palette's weakness is discoverability. People cannot search for a feature th
 ## See also
 - [[Text Editor]]
 - [[Command-Line Interface]]
-- [[Direct Manipulation]]
+- [[Popover API]]
 - [[Context Menu]]

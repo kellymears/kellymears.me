@@ -28,3 +28,4 @@ The broader lesson concerns gestures in general. A well-designed gesture can fee
 ## See also
 - [[Optimistic UI]]
 - [[Motion Design]]
+- [[Pointer Events]]

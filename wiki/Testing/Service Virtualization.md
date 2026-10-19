@@ -36,6 +36,6 @@ Over-reliance on virtualization can also hide integration problems: authenticati
 Simulated services also support development, not just testing. Frontend developers can build against a mock API before the backend exists, and demos can run without network access. And they make chaos-style experiments safer: a simulated dependency can inject latency or failures to show how the caller copes; see [[Circuit Breaker]] and [[Chaos Engineering]].
 
 ## See also
-- [[Test Isolation]]
+- [[OpenAPI]]
 - [[Solitary and Sociable Tests]]
 - [[Dependency Injection]]

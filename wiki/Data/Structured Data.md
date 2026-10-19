@@ -30,7 +30,7 @@ Two practical cautions.
 - [[iCalendar]]
 - [[Wikidata]]
 - [[Open Graph]]
-- [[Web Crawler]]
+- [[Web Search Engine]]
 - [[Ontology]]
 - [[IndieWeb]]
 - [[Metadata]]

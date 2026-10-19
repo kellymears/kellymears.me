@@ -22,5 +22,5 @@ The method spread well beyond the web. Variants rank scientific papers, find inf
 
 ## See also
 - [[Canonical URL]]
-- [[Graph Neural Network]]
+- [[Web Search Engine]]
 - [[Hybrid Search]]

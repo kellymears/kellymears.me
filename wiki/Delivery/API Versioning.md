@@ -23,5 +23,5 @@ Retiring a version is the hard part. Providers announce a date, notify the clien
 Inside one organization, the same problems appear between services. [[Contract Testing]] checks each change against what its consumers actually use, and [[Expand and Contract]] sequences changes so producer and consumer never have to deploy at once. An [[API Gateway]] can route versions to different backends during a migration.
 
 ## See also
-- [[Webhook]]
+- [[OpenAPI]]
 - [[Long-Term Support]]

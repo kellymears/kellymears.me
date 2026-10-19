@@ -35,5 +35,5 @@ Competitive games care most. Fighting game players count timing in frames, descr
 Latency is a large part of [[Game Feel]]: a steady, responsive 60 fps often beats a higher, laggier rate.
 
 ## See also
-- [[Dynamic Resolution Scaling]]
+- [[Pointer Events]]
 - [[Motion Sickness]]

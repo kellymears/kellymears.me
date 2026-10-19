@@ -15,7 +15,7 @@ The criticisms are real too — markup becomes visually dense, and repetition mo
 Recent versions push configuration into CSS itself, defining the theme in a stylesheet block rather than a JavaScript config. That makes one distinction load-bearing: whether a theme mapping substitutes its value at definition time or at each point of use. Only the latter allows a token to be overridden inside a scope, which is exactly what scoped theming needs. See [[Scoped Styling]] and [[CSS Custom Property]].
 
 ## See also
-- [[Design Token]]
+- [[CSS-in-JS]]
 - [[Cascade]]
 - [[UI Primitive]]
 - [[Design System]]
@@ -27,3 +27,4 @@ Recent versions push configuration into CSS itself, defining the theme in a styl
 - [[Box Model]]
 - [[Flexbox]]
 - [[Brutalist Web Design]]
+- [[CSS Preprocessor]]

@@ -20,7 +20,7 @@ The escape is exactly what creates the difficulties.
 Accessibility also needs explicit work, since the visual position and the tree position disagree; see [[Focus Management]] and [[ARIA]].
 
 ## See also
-- [[Stacking Context]]
+- [[Popover API]]
 - [[Headless Component]]
 - [[Focus Trap]]
 - [[Component Story]]

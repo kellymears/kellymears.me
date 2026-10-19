@@ -17,12 +17,12 @@ Two governance problems recur once tokens are shared across teams.
 
 ## See also
 - [[CSS Custom Property]]
-- [[Design System]]
+- [[CSS Preprocessor]]
 - [[Scoped Styling]]
 - [[OKLCH]]
 - [[Dark Mode]]
 - [[Utility-First CSS]]
-- [[Typographic Scale]]
+- [[CSS-in-JS]]
 - [[Ricing]]
 
 ## Related

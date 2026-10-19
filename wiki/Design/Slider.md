@@ -28,6 +28,6 @@ In surveys, sliders are used for ratings from, say, zero to a hundred. Research 
 For a choice between two states, a slider is overkill; see [[Toggle Switch]]. For a handful of named options, such as small, medium, and large, radio buttons show every choice at once.
 
 ## See also
-- [[Skeuomorphism]]
+- [[Pointer Events]]
 - [[Date Picker]]
 - [[Form Design]]

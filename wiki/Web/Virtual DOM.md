@@ -17,7 +17,7 @@ Not every framework uses this model — Svelte compiles away the diffing entirel
 - [[Resumability]]
 - [[React Server Components]]
 - [[Hydration]]
-- [[Optimistic UI]]
+- [[CSS-in-JS]]
 - [[Layout Thrashing]]
 
 ## Related

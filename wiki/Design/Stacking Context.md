@@ -28,7 +28,7 @@ Occlusion is nearly invisible to component tests: role queries and accessibility
 ## Related
 - [[Focus Management]]
 - [[Component Story]]
-- [[ARIA]]
+- [[Popover API]]
 - [[Glassmorphism]]
 - [[Headless Component]]
 - [[Sticky Header]]

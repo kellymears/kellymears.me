@@ -34,5 +34,5 @@ Training and simulated phishing campaigns are widespread, but studies find their
 ## See also
 - [[Top-Level Domain]]
 - [[SMS]]
-- [[Email Spam]]
+- [[Password Manager]]
 - [[Internationalized Domain Name]]

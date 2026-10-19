@@ -38,3 +38,4 @@ Readable addresses make the preferred version obvious to people, too; see [[Slug
 - [[Persistent Identifier]]
 - [[Hotlinking]]
 - [[HTML]]
+- [[Web Search Engine]]

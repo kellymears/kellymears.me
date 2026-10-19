@@ -29,5 +29,5 @@ Much of the energy then moved to social networks, which offered an audience with
 Blogs never disappeared. Email newsletters revived long-form writing with built-in delivery, and the [[IndieWeb]] movement encourages people to post on their own sites first and syndicate copies elsewhere. Many personal sites now generate their pages from plain text files; see [[Static Site Generation]].
 
 ## See also
-- [[Mailing List]]
+- [[Web Directory]]
 - [[Eternal September]]

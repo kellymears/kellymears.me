@@ -22,7 +22,7 @@ Fitts's Law pairs naturally with [[Hick's Law]] — one governs how long it take
 - [[Motor Learning]]
 
 ## Related
-- [[Gestalt Principles]]
+- [[Pointer Events]]
 - [[Signifier]]
 - [[Direct Manipulation]]
 - [[Layout Shift]]

@@ -32,5 +32,5 @@ Small targets are an [[Accessibility]] issue for people with tremors, limited de
 - [[Tabs]]
 - [[Toggle Switch]]
 - [[Slider]]
-- [[Hamburger Menu]]
+- [[Pointer Events]]
 - [[Gesture]]

@@ -22,7 +22,7 @@ Practical hazards accumulate around the details. Some attributes are computed by
 ## Related
 - [[Accordion]]
 - [[Focus Management]]
-- [[Document Object Model]]
+- [[Popover API]]
 - [[UI Primitive]]
 - [[Accessibility Testing]]
 - [[Tooltip]]

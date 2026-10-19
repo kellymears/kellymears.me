@@ -30,6 +30,6 @@ Positioning is harder than it looks. A tooltip must avoid being clipped by a scr
 - [[Iconography]]
 - [[Text Truncation]]
 - [[ARIA]]
-- [[Touch Target Size]]
+- [[Popover API]]
 - [[Microcopy]]
 - [[Signifier]]

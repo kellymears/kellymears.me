@@ -22,7 +22,7 @@ This is why splitting must be *measured* rather than assumed. Two plausible refa
 
 ## Related
 - [[Islands Architecture]]
-- [[Server-Side Rendering]]
+- [[Micro-Frontends]]
 - [[Single-Page Application]]
 - [[ES Modules]]
 - [[Minification]]

@@ -22,7 +22,7 @@ That appeal produced a successor. The **Gemini** protocol, started in 2019, sits
 Gopher's history is often cited as an example of how licensing decisions and openness can decide a standards contest more than technical merit does; see [[Path Dependence]] and [[Request for Comments]].
 
 ## See also
-- [[Bulletin Board System]]
-- [[File Transfer Protocol]]
+- [[Web Search Engine]]
+- [[Web Directory]]
 - [[Mosaic]]
 - [[Minitel]]

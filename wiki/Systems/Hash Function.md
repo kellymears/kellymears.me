@@ -18,7 +18,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[String-Searching Algorithm]]
 - [[Pigeonhole Principle]]
 - [[Entropy Pool]]
-- [[GNU Privacy Guard]]
+- [[Password Manager]]
 - [[Zero-Knowledge Proof]]
 
 ## Related

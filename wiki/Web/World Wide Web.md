@@ -31,4 +31,4 @@ The web's founding tolerance for imperfection still shows. Browsers render broke
 ## See also
 - [[File Transfer Protocol]]
 - [[HTTP2 and HTTP3]]
-- [[Minitel]]
+- [[Web Directory]]

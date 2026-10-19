@@ -16,7 +16,7 @@ It's easy to conflate an API gateway with a plain [[Load Balancing|load balancer
 ## See also
 - [[API Versioning]]
 - [[Middleware]]
-- [[Circuit Breaker]]
+- [[OpenAPI]]
 - [[Webhook]]
 - [[Content Delivery Network]]
 - [[Reverse Proxy]]

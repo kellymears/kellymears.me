@@ -30,7 +30,7 @@ Polyfills are also a supply-chain risk. The polyfill.io service delivered tailor
 Every polyfill should have a planned end. Once all supported browsers ship the feature, it becomes dead weight and should be removed, following the same discipline as [[Deprecation]]. An [[API Translation Layer]] applies the same idea to graphics APIs.
 
 ## See also
-- [[Cross-Browser Testing]]
-- [[Transpiler]]
+- [[Pointer Events]]
+- [[CSS Preprocessor]]
 - [[User Agent String]]
 - [[jQuery]]

@@ -29,7 +29,7 @@ Component tests can catch a lot of this, provided the test harness reproduces th
 
 ## Related
 - [[Sticky Header]]
-- [[Semantic HTML]]
+- [[Popover API]]
 - [[Single-Page Application]]
 - [[Modal Dialog]]
 - [[Toast Notification]]

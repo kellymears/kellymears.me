@@ -29,3 +29,4 @@ Mapping also connects to speed. Controls placed near what they affect are easier
 - [[Toggle Switch]]
 - [[Slider]]
 - [[Principle of Least Astonishment]]
+- [[Pointer Events]]

@@ -26,3 +26,4 @@ Both exist to protect the same resource a naive [[Optimistic UI]] update or [[We
 - [[Nagle's Algorithm]]
 - [[File Watching]]
 - [[Hysteresis]]
+- [[Pointer Events]]

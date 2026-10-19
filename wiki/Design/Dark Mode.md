@@ -25,7 +25,7 @@ Two practical notes. Because the common implementation toggles a class on the ro
 - [[Liquid-Crystal Display]]
 - [[Glassmorphism]]
 - [[Flash of Unstyled Content]]
-- [[Color Vision Deficiency]]
+- [[CSS-in-JS]]
 - [[Digital Eye Strain]]
 - [[Flat Design]]
 - [[Color Theory]]

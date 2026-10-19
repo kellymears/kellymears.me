@@ -27,7 +27,7 @@ Search engines in this tradition, from Lucene to the engines built on it, are le
 Inverted indexes are optimized for reading. Posting lists are compressed and stored in immutable segments that merge in the background, much like a log-structured database. Updates are batched, which is why newly added documents may not be searchable for a moment. [[Search Engine Optimization]] is, at bottom, the practice of shaping documents for the index and the ranking function, and a [[Bloom Filter]] or [[Trie]] often sits alongside for fast term lookups and autocomplete.
 
 ## See also
-- [[PageRank]]
+- [[Web Search Engine]]
 - [[Stemming and Lemmatization]]
 - [[Hybrid Search]]
 - [[Bitmap Index]]

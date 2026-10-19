@@ -26,7 +26,7 @@ Two practical notes. A vocabulary is a shared model, so every near-synonym costs
 
 ## Related
 - [[Library Classification]]
-- [[Zettelkasten]]
+- [[Web Directory]]
 - [[Faceted Search]]
 - [[Card Sorting]]
 - [[Ontology]]

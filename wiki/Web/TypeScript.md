@@ -31,6 +31,6 @@ The build step usually belongs to the [[Bundler]] or a fast transpiler that stri
 - [[Transpiler]]
 - [[Dependent Types]]
 - [[Polyfill]]
-- [[Type System]]
+- [[CSS Preprocessor]]
 - [[Generics]]
 - [[Polymorphism]]

@@ -29,6 +29,6 @@ Placement should be consistent across the product so people learn where to glanc
 ## See also
 - [[Web Push]]
 - [[Microcopy]]
-- [[Screen Reader]]
+- [[Popover API]]
 - [[Calm Technology]]
 - [[Progress Indicator]]

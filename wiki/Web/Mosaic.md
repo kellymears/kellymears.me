@@ -26,3 +26,4 @@ Much of what a browser does today traces to its choices: a single window mixing 
 ## See also
 - [[Project Xanadu]]
 - [[Bulletin Board System]]
+- [[Web Directory]]

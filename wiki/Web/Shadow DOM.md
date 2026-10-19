@@ -24,3 +24,5 @@ The tradeoff mirrors [[Web Components]]' own: real isolation, at the cost of the
 - [[Screen Reader]]
 - [[Lexical Scope]]
 - [[Flash of Unstyled Content]]
+- [[Micro-Frontends]]
+- [[CSS-in-JS]]

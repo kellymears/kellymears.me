@@ -17,7 +17,7 @@ Webhooks are also a poor fit for anything that needs a response mid-transaction 
 - [[Long Polling]]
 - [[MQTT]]
 - [[Server-Side Request Forgery]]
-- [[Streaming Response]]
+- [[OpenAPI]]
 - [[Implementation Intention]]
 - [[Transactional Outbox]]
 - [[Delivery Guarantees]]

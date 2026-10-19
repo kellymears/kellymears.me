@@ -37,4 +37,4 @@ Alternatives often serve better: inline editing, an expanding panel, a non-block
 - [[Pop-up Ad]]
 - [[Toast Notification]]
 - [[Cookie Consent]]
-- [[Air France Flight 447]]
+- [[Popover API]]

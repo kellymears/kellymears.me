@@ -25,3 +25,4 @@ Two consequences follow. Put the intended target in the description and keep any
 - [[Serialization]]
 - [[Named Entity Recognition]]
 - [[ReAct]]
+- [[OpenAPI]]

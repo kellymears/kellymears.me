@@ -26,3 +26,4 @@ Layering compounds this: a backdrop that does not establish a real layer leaves 
 - [[Document Object Model]]
 - [[Modal Dialog]]
 - [[Screen Reader]]
+- [[Popover API]]

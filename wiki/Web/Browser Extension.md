@@ -25,8 +25,9 @@ The security problem is breadth. A prompt reading "read and change all your data
 **Manifest V3**, Chrome's extension platform rolled out fully in 2024, replaced the API that let extensions inspect and block each request in code with a declarative list of rules the browser applies itself, capped in number. Google cited speed, privacy, and security. Critics noted that the company sells ads, and the full version of the blocker uBlock Origin stopped working in Chrome. Firefox kept the older blocking API.
 
 ## See also
-- [[Cross-Site Scripting]]
+- [[Password Manager]]
 - [[Browser Engine]]
 - [[Content Security Policy]]
 - [[Browser DevTools]]
 - [[Pop-up Ad]]
+- [[Programmatic Advertising]]

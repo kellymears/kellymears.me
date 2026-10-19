@@ -20,7 +20,7 @@ Consumer-driven contract testing (the flavor Pact popularized) inverts the usual
 - [[API Versioning]]
 - [[Mars Climate Orbiter]]
 - [[Test Pyramid]]
-- [[Design by Contract]]
+- [[OpenAPI]]
 - [[CrowdStrike Outage]]
 - [[Record and Replay]]
 - [[Schema Evolution]]

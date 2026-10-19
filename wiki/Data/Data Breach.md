@@ -37,4 +37,4 @@ Bruce Schneier calls stored personal data a toxic asset. Planning for a breach b
 
 ## See also
 - [[Data Broker]]
-- [[Data Governance]]
+- [[Password Manager]]

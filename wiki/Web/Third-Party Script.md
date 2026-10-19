@@ -35,5 +35,5 @@ Privacy is the other cost. Trackers follow people across sites using third-party
 ## See also
 - [[Subresource Integrity]]
 - [[Referrer Policy]]
-- [[Hotlinking]]
+- [[Programmatic Advertising]]
 - [[Browser Extension]]

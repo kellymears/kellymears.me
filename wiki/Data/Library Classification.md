@@ -26,6 +26,6 @@ Digital catalogs, search, and tags freed collections from a single order; see [[
 
 ## See also
 - [[Wikidata]]
-- [[Archival Science]]
+- [[Web Directory]]
 - [[Microfilm]]
 - [[ISBN]]

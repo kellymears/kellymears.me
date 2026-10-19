@@ -29,5 +29,5 @@ Common criticisms:
 Breaking an interface into parts also makes it easier to check that a change to one atom doesn't break every page that uses it; see [[Visual Regression Testing]].
 
 ## See also
-- [[Gestalt Principles]]
-- [[Wireframe]]
+- [[CSS Preprocessor]]
+- [[CSS-in-JS]]

@@ -22,9 +22,9 @@ They also complicate development in a specific way: a development server keeps a
 - [[Transpiler]]
 
 ## Related
-- [[Reproducible Case]]
+- [[Micro-Frontends]]
 - [[Treemap]]
-- [[Abstract Syntax Tree]]
+- [[CSS Preprocessor]]
 - [[Source Map]]
 - [[ES Modules]]
 - [[Hot Module Replacement]]

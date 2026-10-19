@@ -23,9 +23,9 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 
 ## Related
 - [[Data Table]]
-- [[Keyboard Layout]]
+- [[Popover API]]
 - [[Carousel]]
-- [[Touch Target Size]]
+- [[Pointer Events]]
 - [[Accessibility Testing]]
 - [[Command Palette]]
 - [[Tooltip]]

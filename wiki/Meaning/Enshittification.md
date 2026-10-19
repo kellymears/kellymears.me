@@ -31,5 +31,5 @@ Critics note the term is vivid but loose, sometimes applied to any product chang
 
 ## See also
 - [[Paywall]]
-- [[Hobson's Choice]]
-- [[Gresham's Law]]
+- [[Web Search Engine]]
+- [[Programmatic Advertising]]

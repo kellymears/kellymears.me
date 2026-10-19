@@ -27,6 +27,6 @@ Privacy-focused alternatives count visits without cookies or personal data, by a
 The deeper risk is optimizing the measurable. Time on site rises when pages are confusing, pageviews rise when articles are split across pages, and clicks rise with misleading headlines; see [[Goodhart's Law]]. Performance measurement from real visitors, which reports how fast pages felt, is the same technique applied to experience rather than behavior; see [[Core Web Vitals]].
 
 ## See also
-- [[Speculation Rules]]
+- [[Programmatic Advertising]]
 - [[Heat Map]]
 - [[Referrer Policy]]

@@ -8,7 +8,7 @@ summary: A loop of websites on a shared topic, each linking to the next, that he
 ---
 **A webring** is a set of websites on a shared topic joined in a loop. Each member displays a small navigation bar with links to the previous site, the next site, a random site, and the ring's index. Follow "next" long enough and you visit every member and end up back where you started.
 
-Webrings appeared in the mid-1990s, when finding a site meant knowing its address, following a link, or browsing a hand-built directory; see [[Portal]]. Search engines existed but ranked poorly, and small sites rarely surfaced; see [[PageRank]]. A ring solved discovery locally. A fan page for a band could join a ring of other fan pages for the same band, and every visitor to one became a potential visitor to all.
+Webrings appeared in the mid-1990s, when finding a site meant knowing its address, following a link, or browsing a hand-built directory; see [[Web Directory]]. Search engines existed but ranked poorly, and small sites rarely surfaced; see [[PageRank]]. A ring solved discovery locally. A fan page for a band could join a ring of other fan pages for the same band, and every visitor to one became a potential visitor to all.
 
 The structure is a circular [[Linked List]] of sites. In practice, each member didn't edit its neighbors' links by hand. The navigation bar pointed to a central server that knew the order and redirected the visitor to the right site; see [[Common Gateway Interface]]. Several early services did this. The term and the most popular service are usually credited to Sage Weil, who wrote the software as a high school student in 1995.
 
