@@ -32,5 +32,5 @@ Coroutines also underpin streaming. A generator that yields chunks as they're pr
 - [[Promise]]
 - [[Continuation]]
 - [[Structured Programming]]
-- [[Futex]]
+- [[Multithreading]]
 - [[Fetch API]]

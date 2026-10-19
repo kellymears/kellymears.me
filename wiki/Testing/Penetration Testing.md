@@ -29,7 +29,7 @@ Pentests have limits. They are a snapshot, and the next deploy can add a hole. T
 The tester's mindset carries over to all testing: assume the system is broken and try to prove it, rather than confirming it works.
 
 ## See also
-- [[SolarWinds Hack]]
+- [[Rootkit]]
 - [[Honeypot]]
 - [[Morris Worm]]
 - [[Port Scanning]]

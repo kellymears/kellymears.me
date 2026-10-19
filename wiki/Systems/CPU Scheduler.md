@@ -24,7 +24,7 @@ Scheduling also interacts with everything around it. [[Control Groups|cgroup]] C
 The general principle is the one behind every [[Event Loop]]: whoever holds the processor decides how responsive everything else is, and a fair share is not always the right one.
 
 ## See also
-- [[Interrupt]]
+- [[Multithreading]]
 - [[Concurrency and Parallelism]]
 - [[Futex]]
 - [[Simultaneous Multithreading]]

@@ -26,5 +26,5 @@ Reading assembly is more common than writing it. Debugging a crash, checking wha
 Assembly also offers no protection. There are no types, bounds checks, or structured loops, only jumps and memory, so a single wrong offset silently corrupts data; see [[Memory Safety]] and [[Structured Programming]].
 
 ## See also
-- [[Stack Machine]]
+- [[Microcontroller]]
 - [[Analytical Engine]]

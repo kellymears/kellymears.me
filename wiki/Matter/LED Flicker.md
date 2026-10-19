@@ -33,6 +33,6 @@ The alternatives are known. **Constant-current reduction** dims by lowering curr
 - [[Sensory Overload]]
 - [[Plasma]]
 - [[Ohm's Law]]
-- [[Semiconductor]]
+- [[Microcontroller]]
 - [[Capacitor]]
 - [[Alternating Current]]

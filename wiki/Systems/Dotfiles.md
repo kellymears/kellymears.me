@@ -25,7 +25,7 @@ Package manifests belong here too: a declarative list of installed software make
 ## Related
 - [[Terminal User Interface]]
 - [[Command-Line Interface]]
-- [[Time Zone]]
+- [[Keyboard Layout]]
 - [[Gitignore]]
 - [[Works on My Machine]]
 - [[Configuration Management]]

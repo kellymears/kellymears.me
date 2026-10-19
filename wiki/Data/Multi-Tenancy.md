@@ -15,7 +15,7 @@ The operational shape matters too. Shared infrastructure means one tenant's load
 Local development for a multi-tenant system needs the same addressing scheme as production, which is why wildcard local domains and matching origin configuration are usually required rather than optional. See [[Same-Origin Policy]].
 
 ## See also
-- [[Domain Name System]]
+- [[Resource Limit]]
 - [[Relational Database]]
 - [[Feature Flag]]
 - [[Headless CMS]]

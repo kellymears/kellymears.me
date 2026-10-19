@@ -13,7 +13,7 @@ The trade copy-on-write makes is complexity for cost: tracking which pages or bl
 
 ## See also
 - [[Fork and Exec]]
-- [[Inode]]
+- [[Zero-Copy]]
 - [[ZFS]]
 - [[Logical Volume Manager]]
 - [[Sparse File]]

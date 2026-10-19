@@ -30,6 +30,6 @@ Tags are also cheap to make, so teams use them for other fixed points: a deploy 
 
 ## See also
 - [[Subversion]]
-- [[Release Train]]
+- [[GNU Privacy Guard]]
 - [[Detached HEAD]]
 - [[Git Object Model]]

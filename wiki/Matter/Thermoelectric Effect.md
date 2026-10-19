@@ -28,3 +28,4 @@ The limits come from thermodynamics and materials. No heat-to-electricity conver
 - [[Piezoelectric Effect]]
 - [[Photovoltaic Effect]]
 - [[Heat Pump]]
+- [[Computer Cooling]]

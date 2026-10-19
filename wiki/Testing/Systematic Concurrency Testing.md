@@ -29,5 +29,5 @@ Concurrency bugs that slip through tend to surface as intermittently failing tes
 
 ## See also
 - [[Peterson's Algorithm]]
-- [[Logical Clock]]
+- [[Multithreading]]
 - [[Northeast Blackout of 2003]]

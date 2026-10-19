@@ -19,7 +19,7 @@ It's a close cousin of [[Backpressure]], but the direction of control is differe
 - [[Geocoding]]
 - [[Email Spam]]
 - [[Load Testing]]
-- [[Congestion Control]]
+- [[Resource Limit]]
 - [[Sybil Attack]]
 - [[Middleware]]
 - [[HTTP Status Code]]

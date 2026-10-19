@@ -29,6 +29,6 @@ The same concern now applies to automated tools and AI agents: running them with
 
 ## See also
 - [[Mandatory Access Control]]
-- [[Time-of-Check to Time-of-Use]]
-- [[Post Office Horizon Scandal]]
+- [[Resource Limit]]
+- [[Rootkit]]
 - [[Linux Capabilities]]

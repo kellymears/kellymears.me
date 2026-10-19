@@ -30,6 +30,6 @@ Mixing up byte order is a classic source of bugs that pass every test on one mac
 ## See also
 - [[Gray Code]]
 - [[Radix Sort]]
-- [[Binary Number]]
+- [[Cross-Compilation]]
 - [[Mainframe]]
 - [[Mojibake]]

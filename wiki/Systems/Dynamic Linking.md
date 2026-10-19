@@ -32,4 +32,4 @@ The choice mirrors the trade-off in [[Vendoring]] source code: bundle dependenci
 - [[XZ Utils Backdoor]]
 - [[Linker]]
 - [[Position-Independent Code]]
-- [[Vendoring]]
+- [[Cross-Compilation]]

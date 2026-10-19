@@ -27,7 +27,7 @@ Userspace OOM daemons (earlyoom, systemd-oomd) act earlier, using [[Pressure Sta
 - [[Memory Leak]]
 - [[In-Memory Database]]
 - [[Systemd]]
-- [[Swap]]
+- [[Resource Limit]]
 - [[Exit Status]]
 - [[Circuit Breaker]]
 - [[Unix Signal]]

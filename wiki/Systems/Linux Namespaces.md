@@ -18,7 +18,7 @@ Namespaces are also not a security boundary on their own. The kernel underneath 
 - [[Lexical Scope]]
 - [[Chroot]]
 - [[Loopback]]
-- [[Kernel]]
+- [[Resource Limit]]
 
 ## Related
 - [[Process]]

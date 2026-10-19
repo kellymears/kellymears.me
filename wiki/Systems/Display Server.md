@@ -27,7 +27,7 @@ Each design choice made one set of problems hard and a different set easy, a pat
 - [[Compositor]]
 - [[Clipboard]]
 - [[Inter-Process Communication]]
-- [[Path Dependence]]
+- [[Keyboard Layout]]
 - [[Tiling Window Manager]]
 - [[Daemon]]
 - [[Process]]

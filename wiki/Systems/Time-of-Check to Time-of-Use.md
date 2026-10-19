@@ -26,3 +26,4 @@ Web applications have the same bug with money. Code that checks a balance and th
 - [[Atomic File Write]]
 - [[Code Signing]]
 - [[Upsert]]
+- [[File Locking]]

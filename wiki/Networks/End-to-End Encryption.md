@@ -29,3 +29,4 @@ It is also politically contested. Law enforcement agencies argue that encryption
 ## See also
 - [[Zero Trust Network]]
 - [[Full-Disk Encryption]]
+- [[GNU Privacy Guard]]

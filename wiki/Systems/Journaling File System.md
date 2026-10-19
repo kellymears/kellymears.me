@@ -31,7 +31,7 @@ A newer approach avoids overwriting data altogether. **Copy-on-write** file syst
 Neither design protects against everything. A journal guarantees consistency, not that recent data survived, and disks that report writes as complete while still holding them in a volatile cache can defeat both. None of it replaces [[Backup and Restore]], since a consistent file system can still be deleted, encrypted by ransomware, or lost with the disk.
 
 ## See also
-- [[ZFS]]
+- [[File Locking]]
 - [[RAID]]
 - [[Sparse File]]
 - [[Disk Partition]]

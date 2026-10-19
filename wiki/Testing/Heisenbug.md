@@ -16,6 +16,6 @@ The fault is still [[Nondeterminism]] in the ordinary sense — the same input d
 - [[Core Dump]]
 - [[Minimal Reproducible Example]]
 - [[Kernighan's Law]]
-- [[Uncertainty Principle]]
+- [[Multithreading]]
 - [[Systematic Concurrency Testing]]
 - [[Monkey Testing]]

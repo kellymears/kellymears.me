@@ -28,3 +28,4 @@ Once the kernel knows about a device, it creates the corresponding entries that 
 ## See also
 - [[Instruction Set Architecture]]
 - [[Serial Port]]
+- [[Microcontroller]]

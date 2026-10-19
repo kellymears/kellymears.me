@@ -30,3 +30,4 @@ Its most consequential feature for daily debugging is the systemd unit's **autom
 - [[Crash-Only Software]]
 - [[Syslog]]
 - [[Linux Distribution]]
+- [[Resource Limit]]

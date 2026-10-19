@@ -23,7 +23,7 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 
 ## Related
 - [[Data Table]]
-- [[Portal]]
+- [[Keyboard Layout]]
 - [[Carousel]]
 - [[Touch Target Size]]
 - [[Accessibility Testing]]

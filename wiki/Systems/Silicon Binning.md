@@ -24,7 +24,7 @@ Binning is a general pattern beyond chips: LEDs are binned by [[Color Temperatur
 
 ## See also
 - [[Electromigration]]
-- [[Dynamic Voltage and Frequency Scaling]]
+- [[Computer Cooling]]
 - [[Thermal Throttling]]
 - [[Planned Obsolescence]]
 - [[Survivorship Bias]]

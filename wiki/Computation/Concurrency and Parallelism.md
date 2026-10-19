@@ -19,7 +19,7 @@ The practical upshot is that solving a slowdown requires diagnosing which one is
 - [[Actor Model]]
 - [[Software Transactional Memory]]
 - [[Memory Model]]
-- [[Moore's Law]]
+- [[Multithreading]]
 - [[Prefix Sum]]
 - [[Peterson's Algorithm]]
 - [[SIMD]]

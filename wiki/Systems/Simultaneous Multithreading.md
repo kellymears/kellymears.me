@@ -25,7 +25,7 @@ Designs keep shifting. IBM's POWER processors run eight threads per core. Intel 
 
 ## See also
 - [[Instruction Pipelining]]
-- [[CPU Scheduler]]
+- [[Multithreading]]
 - [[Concurrency and Parallelism]]
 - [[Silicon Binning]]
 - [[Cache Coherence]]

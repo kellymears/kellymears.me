@@ -26,7 +26,7 @@ Virtual machines create a nasty failure. If the hypervisor pauses the virtual pr
 Real-time systems avoid spinning because it makes delays unpredictable; Linux's real-time configuration, merged into the mainline kernel in 2024, turns most spinlocks into sleeping locks; see [[Real-Time Operating System]]. Most ordinary locks now combine both approaches, spinning briefly before sleeping.
 
 ## See also
-- [[Semaphore]]
+- [[Multithreading]]
 - [[Peterson's Algorithm]]
 - [[Memory Allocator]]
 - [[Futex]]

@@ -15,7 +15,7 @@ Akka (JVM), Erlang/OTP, and Orleans (.NET) are the systems most associated with 
 
 ## See also
 - [[Crash-Only Software]]
-- [[Race Condition]]
+- [[Multithreading]]
 - [[Process]]
 - [[Concurrency and Parallelism]]
 - [[Finite State Machine]]

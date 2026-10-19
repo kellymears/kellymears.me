@@ -30,6 +30,7 @@ Timekeeping uses separate, slower clocks, since the processor clock changes spee
 
 ## See also
 - [[Hybrid CPU Architecture]]
-- [[Serial Port]]
+- [[Computer Cooling]]
 - [[Gray Code]]
 - [[PCI Express]]
+- [[Microcontroller]]

@@ -14,7 +14,7 @@ The isolation a hypervisor provides is stronger than a container's, because each
 
 ## See also
 - [[PCI Express]]
-- [[Linux Namespaces]]
+- [[Rootkit]]
 - [[Control Groups]]
 - [[Chroot]]
 - [[Disk Image]]

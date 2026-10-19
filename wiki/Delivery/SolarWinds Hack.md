@@ -31,3 +31,4 @@ The lesson is that signing proves who shipped an artifact, not that the artifact
 - [[XZ Utils Backdoor]]
 - [[Artifact Repository]]
 - [[Build Provenance]]
+- [[Rootkit]]

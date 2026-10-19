@@ -29,7 +29,7 @@ Heat is also the main accelerator of chip wear such as [[Electromigration]], so 
 - [[Load Average]]
 - [[Clock Signal]]
 - [[Silicon Binning]]
-- [[Dynamic Resolution Scaling]]
+- [[Computer Cooling]]
 - [[Suspend and Hibernation]]
 - [[Pressure Stall Information]]
 - [[Thermoelectric Effect]]

@@ -31,4 +31,4 @@ Every stage is a place to break. A corrupt bootloader configuration stops the ma
 - [[Assembly Language]]
 - [[Disk Image]]
 - [[Device Tree]]
-- [[Firmware]]
+- [[Rootkit]]

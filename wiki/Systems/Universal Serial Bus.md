@@ -25,8 +25,8 @@ One connector now carries data, video, and power, but what a given cable or port
 
 ## See also
 - [[Solid-State Drive]]
-- [[Backward Compatibility]]
-- [[Path Dependence]]
+- [[Keyboard Layout]]
+- [[Microcontroller]]
 - [[Device Tree]]
 - [[PCI Express]]
 - [[Serial Port]]

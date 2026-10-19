@@ -18,7 +18,7 @@ Responses that work: serialize rather than parallelize the contended step, give 
 - [[Flaky Test]]
 - [[Instrumentation]]
 - [[Fan-Out and Fan-In]]
-- [[Continuous Integration]]
+- [[Resource Limit]]
 - [[Process]]
 - [[Token Budget]]
 - [[Pressure Stall Information]]

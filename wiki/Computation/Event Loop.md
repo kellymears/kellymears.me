@@ -21,7 +21,7 @@ The event loop is one specific answer to the concurrency-without-threads problem
 - [[requestAnimationFrame]]
 - [[Background Tab Throttling]]
 - [[Coroutine]]
-- [[System Call]]
+- [[Multithreading]]
 - [[Event Delegation]]
 - [[IO Multiplexing]]
 - [[Call Stack]]

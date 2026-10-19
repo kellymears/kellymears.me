@@ -31,6 +31,6 @@ Serialization cost adds up. In busy services, encoding and decoding can dominate
 
 ## See also
 - [[Prototype Pollution]]
-- [[Fixed-Width File]]
+- [[Zero-Copy]]
 - [[Data Portability]]
 - [[Log4Shell]]

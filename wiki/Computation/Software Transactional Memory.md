@@ -32,5 +32,5 @@ In most mainstream languages, STM lost out to other models: [[Lock-Free Data Str
 
 ## See also
 - [[Peterson's Algorithm]]
-- [[Memory Model]]
+- [[Multithreading]]
 - [[Isolation Level]]

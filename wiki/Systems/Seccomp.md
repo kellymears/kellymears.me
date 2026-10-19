@@ -30,7 +30,7 @@ The hard part is building the list. Programs make system calls through libraries
 Seccomp is one layer. It limits which kernel entry points are reachable; [[Linux Capabilities]] limit privileged operations, [[Linux Namespaces]] limit what a process can see, and [[Mandatory Access Control]] limits what it can touch.
 
 ## See also
-- [[Least Privilege]]
+- [[Resource Limit]]
 - [[Agent Sandbox]]
 - [[Memory Safety]]
 - [[MicroVM]]

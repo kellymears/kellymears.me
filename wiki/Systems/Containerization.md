@@ -26,7 +26,7 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 - [[Linux Capabilities]]
 - [[Kubernetes]]
 - [[Git Worktree]]
-- [[Microservices]]
+- [[Resource Limit]]
 - [[Pets vs Cattle]]
 - [[Disk Image]]
 - [[WebAssembly]]

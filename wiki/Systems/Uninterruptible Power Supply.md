@@ -30,3 +30,4 @@ A UPS turns a sudden failure into a few minutes of warning, and the warning help
 - [[Watchdog Timer]]
 - [[Ohm's Law]]
 - [[Wake-on-LAN]]
+- [[Computer Cooling]]

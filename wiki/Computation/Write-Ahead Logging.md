@@ -17,7 +17,7 @@ The ordering constraint is the whole idea, and it is also fast: appending is seq
 The log doubles as a [[Provenance]] trail for every mutation, which is why it feeds replication out of a [[Relational Database]] and why followers replaying a leader's log reach [[Eventual Consistency]].
 
 ## See also
-- [[Atomic File Write]]
+- [[File Locking]]
 - [[Checksum]]
 - [[Durable Execution]]
 - [[In-Memory Database]]

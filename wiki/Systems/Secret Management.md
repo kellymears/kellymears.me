@@ -26,7 +26,7 @@ Three practical notes.
 - [[Clipboard]]
 - [[Prompt Injection]]
 - [[Continuous Deployment]]
-- [[Secure Shell]]
+- [[GNU Privacy Guard]]
 
 ## Related
 - [[Overlay Filesystem]]

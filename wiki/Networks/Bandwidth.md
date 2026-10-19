@@ -30,5 +30,5 @@ Bandwidth is also shared. A home connection is split among every device, and a p
 - [[Sneakernet]]
 - [[Head-of-Line Blocking]]
 - [[Pigeon Post]]
-- [[Modem]]
+- [[Zero-Copy]]
 - [[Speculation Rules]]

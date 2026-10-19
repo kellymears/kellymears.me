@@ -21,7 +21,7 @@ Two common devices are not refrigeration at all. An evaporative cooler lowers ai
 - [[Absolute Zero]]
 - [[Thermoelectric Effect]]
 - [[Latent Heat]]
-- [[Boiling Point]]
+- [[Computer Cooling]]
 - [[Heat Pump]]
 - [[Vacuum Flask]]
 - [[Dew Point]]

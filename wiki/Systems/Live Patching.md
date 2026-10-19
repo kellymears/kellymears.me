@@ -34,4 +34,4 @@ The alternative strategy avoids patching in place altogether: run several copies
 
 ## See also
 - [[Hotfix]]
-- [[Linux Distribution]]
+- [[Rootkit]]

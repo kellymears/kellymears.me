@@ -34,4 +34,4 @@ Databases need finer-grained guarantees than whole-file replacement and use logs
 - [[Origin Private File System]]
 - [[Time-of-Check to Time-of-Use]]
 - [[File Watching]]
-- [[Uninterruptible Power Supply]]
+- [[File Locking]]

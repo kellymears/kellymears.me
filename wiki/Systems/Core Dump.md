@@ -35,6 +35,6 @@ Dumps carry a serious privacy and security risk. A full dump contains everything
 A [[Sanitizer]] catches many of the memory errors behind segmentation faults during testing, before they become crashes that need a dump at all.
 
 ## See also
-- [[Sparse File]]
+- [[Resource Limit]]
 - [[Kernel Panic]]
 - [[Crash Reporting]]

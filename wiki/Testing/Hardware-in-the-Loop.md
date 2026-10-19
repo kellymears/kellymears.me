@@ -30,7 +30,7 @@ The weakness is the model. A HIL test shows that the controller handles the worl
 
 ## See also
 - [[Device Tree]]
-- [[Serial Port]]
+- [[Microcontroller]]
 - [[Mars Polar Lander]]
 - [[Toyota Unintended Acceleration]]
 - [[Mariner 1]]

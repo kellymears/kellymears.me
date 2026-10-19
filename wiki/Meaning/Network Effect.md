@@ -16,7 +16,7 @@ Network effects are often confused with switching costs, and the two are related
 
 ## See also
 - [[Napster]]
-- [[Two-Pizza Team]]
+- [[Keyboard Layout]]
 - [[Fax]]
 - [[Universal Serial Bus]]
 - [[Hobson's Choice]]

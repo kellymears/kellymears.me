@@ -27,5 +27,5 @@ Underneath, editors face shared technical problems. Inserting text in the middle
 Editor configuration is a classic part of personal configuration files carried between machines; see [[Dotfiles]].
 
 ## See also
-- [[Flow]]
+- [[Keyboard Layout]]
 - [[Lindy Effect]]

@@ -32,3 +32,4 @@ Provenance is only as trustworthy as the build platform and the checks performed
 - [[Commit Signing]]
 - [[Deployment Pipeline]]
 - [[Release Engineering]]
+- [[GNU Privacy Guard]]

@@ -27,7 +27,7 @@ Ports are finite resources. A busy client making many short-lived connections ca
 
 ## See also
 - [[Port Scanning]]
-- [[File Transfer Protocol]]
+- [[Zero-Copy]]
 - [[Inter-Process Communication]]
 - [[Typestate]]
 - [[Loopback]]

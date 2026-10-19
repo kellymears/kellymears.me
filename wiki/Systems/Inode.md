@@ -25,3 +25,4 @@ Traditional filesystems like ext4 fix the number of inodes at creation time, all
 - [[File Watching]]
 - [[Unix]]
 - [[Sparse File]]
+- [[File Locking]]

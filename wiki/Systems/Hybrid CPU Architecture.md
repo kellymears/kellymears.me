@@ -36,3 +36,4 @@ On Intel's designs, only P-cores support [[Simultaneous Multithreading]], so cor
 - [[Instruction Pipelining]]
 - [[Clock Signal]]
 - [[Device Tree]]
+- [[Computer Cooling]]

@@ -31,3 +31,4 @@ They complement other defenses rather than replacing them. A [[Firewall]] blocks
 - [[Threat Modeling]]
 - [[Morris Worm]]
 - [[Email Spam]]
+- [[Rootkit]]

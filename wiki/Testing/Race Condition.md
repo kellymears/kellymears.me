@@ -18,7 +18,7 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Futex]]
 - [[Mars Pathfinder Priority Inversion]]
 - [[Semaphore]]
-- [[Memory Model]]
+- [[File Locking]]
 - [[Therac-25]]
 - [[Distributed Lock]]
 - [[Northeast Blackout of 2003]]
@@ -26,5 +26,5 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Systematic Concurrency Testing]]
 
 ## Related
-- [[Peterson's Algorithm]]
+- [[Multithreading]]
 - [[Gray Code]]

@@ -33,4 +33,4 @@ None of these fully solves the mismatch between how much value open source creat
 - [[Event-stream Incident]]
 - [[Software Heritage]]
 - [[Open Core]]
-- [[Good First Issue]]
+- [[GNU Privacy Guard]]

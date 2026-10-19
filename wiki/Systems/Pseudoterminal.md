@@ -30,5 +30,5 @@ Terminals also carry sessions. Closing a terminal sends SIGHUP to its processes,
 ## See also
 - [[ANSI Escape Code]]
 - [[Job Control]]
-- [[Serial Port]]
+- [[Keyboard Layout]]
 - [[Terminal Multiplexer]]

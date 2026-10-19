@@ -28,6 +28,6 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 - [[Left-Pad Incident]]
 - [[Yanked Release]]
 - [[Linux Distribution]]
-- [[P versus NP Problem]]
-- [[Dependency Hell]]
+- [[GNU Privacy Guard]]
+- [[Cross-Compilation]]
 - [[Automated Dependency Updates]]

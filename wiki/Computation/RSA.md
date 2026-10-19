@@ -23,3 +23,4 @@ Its long-term future is limited. A large enough quantum computer could factor RS
 ## See also
 - [[Zero-Knowledge Proof]]
 - [[Enigma Machine]]
+- [[GNU Privacy Guard]]

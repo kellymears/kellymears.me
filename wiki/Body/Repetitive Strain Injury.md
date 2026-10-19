@@ -35,7 +35,7 @@ Wrist splints at night help carpal tunnel symptoms, and surgery to release the c
 ## See also
 - [[Shin Splints]]
 - [[Ulnar Neuropathy]]
-- [[Grip Strength]]
+- [[Keyboard Layout]]
 - [[Paresthesia]]
 - [[Posture]]
 - [[Stretching]]

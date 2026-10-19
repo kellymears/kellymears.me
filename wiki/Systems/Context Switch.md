@@ -33,7 +33,7 @@ Context switching also has a human version, the cost of moving attention between
 
 ## See also
 - [[Pager]]
-- [[Futex]]
+- [[Multithreading]]
 - [[Load Average]]
 - [[Spinlock]]
 - [[Time-Sharing]]

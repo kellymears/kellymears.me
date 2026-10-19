@@ -30,7 +30,7 @@ Diagnosing contention needs per-process detail rather than an aggregate load fig
 
 ## Related
 - [[Common Gateway Interface]]
-- [[Cron]]
-- [[Vacuous Truth]]
+- [[Multithreading]]
+- [[Resource Limit]]
 - [[Truncation Bias]]
 - [[Zombie Process]]

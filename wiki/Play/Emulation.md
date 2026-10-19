@@ -19,7 +19,7 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 
 ## See also
 - [[Vector Display]]
-- [[Mode 7]]
+- [[Cross-Compilation]]
 - [[Affine Texture Mapping]]
 - [[Pinball]]
 - [[Futex]]

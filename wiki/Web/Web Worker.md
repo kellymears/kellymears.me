@@ -15,7 +15,7 @@ A [[Service Worker]] is a specialized sibling, not a general-purpose worker: sam
 
 ## See also
 - [[Service Worker]]
-- [[Document Object Model]]
+- [[Multithreading]]
 - [[Debounce and Throttle]]
 - [[Performance Budget]]
 

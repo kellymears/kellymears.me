@@ -25,7 +25,7 @@ In electronics, thermal mass buys time rather than capacity. A heavy heatsink ab
 
 ## See also
 - [[Freezing Point Depression]]
-- [[Vacuum Flask]]
+- [[Computer Cooling]]
 - [[Seasons]]
 - [[Heat Pump]]
 - [[Absolute Zero]]

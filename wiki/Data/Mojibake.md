@@ -26,4 +26,4 @@ Being lenient about input can make things worse, since a system that silently ac
 ## See also
 - [[Internationalized Domain Name]]
 - [[Fixed-Width File]]
-- [[Data Profiling]]
+- [[Keyboard Layout]]

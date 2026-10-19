@@ -12,7 +12,7 @@ This is the opposite bet from [[Pessimistic Locking]], which stops other writers
 It fits naturally with stateless web request handling, where a "lock," if taken, would have to be held across an HTTP request and a possibly slow or abandoned client — exactly the scenario pessimistic locking handles badly, since a lock held by a client that never comes back blocks everyone else indefinitely.
 
 ## See also
-- [[Pessimistic Locking]]
+- [[File Locking]]
 - [[Race Condition]]
 - [[ACID]]
 - [[Idempotence]]

@@ -31,3 +31,4 @@ Several lessons have held up:
 ## See also
 - [[Honeypot]]
 - [[Penetration Testing]]
+- [[Rootkit]]

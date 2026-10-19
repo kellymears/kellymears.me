@@ -25,5 +25,5 @@ Long life is the last problem. A car or thermostat may stay in use for fifteen y
 
 ## See also
 - [[Immutable Infrastructure]]
-- [[Canary Release]]
+- [[Microcontroller]]
 - [[Backward Compatibility]]
