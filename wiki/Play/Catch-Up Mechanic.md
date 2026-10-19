@@ -29,7 +29,7 @@ A related problem in multiplayer games is **kingmaking**: a player who can no lo
 The tension mirrors a debate outside games, between rewarding success and limiting how much early advantage compounds; see [[Matthew Effect]]. Board games settle it by choice, in rules, which is part of why designers study them as small models of economies; see [[Procedural Rhetoric]].
 
 ## See also
-- [[Difficulty Curve]]
+- [[Legacy Game]]
 - [[Metagame]]
 - [[Input and Output Randomness]]
 - [[Eurogame]]

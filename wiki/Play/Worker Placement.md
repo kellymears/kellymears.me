@@ -20,3 +20,4 @@ Worker placement games commonly graft an [[Engine Building]] layer on top once t
 - [[Grand Strategy Game]]
 - [[Interesting Decisions]]
 - [[Eurogame]]
+- [[Legacy Game]]

@@ -27,4 +27,4 @@ Some designers prefer making activities genuinely game-like: giving people real 
 ## See also
 - [[Onboarding]]
 - [[Battle Pass]]
-- [[Free-to-Play]]
+- [[Virtual Pet]]

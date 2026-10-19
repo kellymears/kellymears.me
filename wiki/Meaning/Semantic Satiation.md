@@ -17,6 +17,6 @@ Psychology experiments use the effect both as a probe and as a tool. Reaction-ti
 - [[Godwin's Law]]
 - [[Earworm]]
 - [[Semantic Change]]
-- [[Habituation]]
+- [[Crossword]]
 - [[Tip of the Tongue]]
 - [[Euphemism Treadmill]]

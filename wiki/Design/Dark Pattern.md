@@ -23,7 +23,7 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Gamification]]
 - [[Pop-up Ad]]
 - [[Modal Dialog]]
-- [[Loss Aversion]]
+- [[Virtual Pet]]
 - [[Clickjacking]]
 - [[Banner Blindness]]
 - [[Paywall]]

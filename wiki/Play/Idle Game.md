@@ -15,9 +15,9 @@ summary: A genre in which progress continues while the player is absent, built o
 The form sits uncomfortably close to its own critique. A game engineered so that returning is always mildly rewarding and never demanding is optimizing for the return visit, and the distance between that and the intermittent-reinforcement patterns described under [[Physical Dependence]] is a design choice rather than a category difference. The honest end of the genre keeps sessions short, makes the curve legible, and lets the player see the whole shape; the extractive end obscures the curve and sells positions on it, at which point it is [[Gacha Monetization]] with a different skin. Judging which is which is easier than it sounds: ask whether the game is trying to be finished.
 
 ## See also
-- [[Meta-Progression]]
+- [[Grinding]]
 - [[Factory Game]]
-- [[Gacha Monetization]]
+- [[Virtual Pet]]
 - [[Roguelike]]
 - [[Game Feel]]
 - [[Boredom]]

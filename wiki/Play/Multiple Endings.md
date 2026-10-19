@@ -18,3 +18,5 @@ The convention of a "true ending," gated behind extra conditions and implicitly 
 - [[New Game Plus]]
 - [[Ludonarrative Dissonance]]
 - [[Procedural Narrative]]
+- [[Legacy Game]]
+- [[Gamebook]]

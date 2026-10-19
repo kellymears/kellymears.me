@@ -29,5 +29,5 @@ Rare, extreme outcomes make the estimate fragile, since it depends on probabilit
 
 ## See also
 - [[Mental Accounting]]
-- [[Monte Carlo Method]]
+- [[Poker]]
 - [[Relative Risk]]

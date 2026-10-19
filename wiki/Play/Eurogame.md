@@ -31,3 +31,4 @@ The ideal Eurogame offers a series of real choices between valuable options with
 ## See also
 - [[Wargame]]
 - [[Trick-Taking Game]]
+- [[Legacy Game]]

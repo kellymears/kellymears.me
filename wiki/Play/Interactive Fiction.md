@@ -28,7 +28,7 @@ Language models have revived old questions. A model can understand any phrasing 
 ## See also
 - [[Multi-User Dungeon]]
 - [[Alternate Reality Game]]
-- [[Game Preservation]]
+- [[Gamebook]]
 - [[Point-and-Click Adventure]]
 - [[Walking Simulator]]
 - [[Deus ex Machina]]

@@ -17,3 +17,4 @@ Companion AI is best understood as a special case of [[Game AI]] generally, but 
 - [[Stealth Mechanics]]
 - [[ELIZA Effect]]
 - [[Cooperative Game]]
+- [[Virtual Pet]]

@@ -29,5 +29,5 @@ Habits save effort. Each automatic action is one decision fewer, protecting agai
 - [[Commitment Device]]
 - [[Fresh Start Effect]]
 - [[Gamification]]
-- [[Path Dependence]]
-- [[Motor Learning]]
+- [[Crossword]]
+- [[Virtual Pet]]

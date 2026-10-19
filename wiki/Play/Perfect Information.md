@@ -35,3 +35,4 @@ The idea reaches beyond games. Markets where one side knows more than the other 
 - [[Matchmaking Rating]]
 - [[Wargame]]
 - [[Elo Rating System]]
+- [[Poker]]

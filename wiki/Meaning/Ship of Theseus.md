@@ -31,3 +31,4 @@ Museums face the question directly. A restored locomotive or aircraft may contai
 - [[Semantic Change]]
 - [[Retcon]]
 - [[Invented Tradition]]
+- [[Legacy Game]]

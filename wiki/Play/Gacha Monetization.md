@@ -18,6 +18,6 @@ Disclosure rules followed. Japan banned "complete gacha" in 2012 under prize-lab
 - [[Battle Pass]]
 - [[Veblen Good]]
 - [[Mental Accounting]]
-- [[Confidence Trick]]
+- [[Grinding]]
 - [[Collectible Card Game]]
 - [[Gambler's Fallacy]]

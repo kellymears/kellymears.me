@@ -15,6 +15,6 @@ The term itself is fan-coined, first circulating in enthusiast criticism rather 
 - [[Escape Room]]
 - [[Point-and-Click Adventure]]
 - [[Game Jam]]
-- [[Ground Truth]]
+- [[Easter Egg]]
 - [[Alternate Reality Game]]
 - [[Sequence Breaking]]

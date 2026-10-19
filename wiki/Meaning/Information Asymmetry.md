@@ -30,7 +30,7 @@ The idea reaches well beyond economics. Software users can't inspect what's in t
 
 ## See also
 - [[Speculative Bubble]]
-- [[Shibboleth]]
+- [[Poker]]
 - [[Rite of Passage]]
 - [[Perfect Information]]
 - [[Status Page]]

@@ -19,7 +19,7 @@ The line worth holding is whether persistence removes obstacles or removes decis
 - [[Soulslike]]
 - [[Idle Game]]
 - [[Procedural Generation]]
-- [[Gacha Monetization]]
+- [[Legacy Game]]
 - [[Skill Tree]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Faucets and Sinks]]

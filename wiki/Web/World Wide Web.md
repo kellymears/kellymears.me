@@ -31,4 +31,4 @@ The web's founding tolerance for imperfection still shows. Browsers render broke
 ## See also
 - [[Mosaic]]
 - [[HTTP2 and HTTP3]]
-- [[HTML]]
+- [[Gamebook]]

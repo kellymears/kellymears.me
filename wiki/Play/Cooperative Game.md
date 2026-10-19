@@ -28,6 +28,6 @@ Video games approached cooperation differently, often with each player controlli
 Co-op games are a common choice for mixed groups because no one has to beat a friend, and losses are shared. Groups play more freely when no one fears blame for a mistake; see [[Psychological Safety]].
 
 ## See also
-- [[Eurogame]]
+- [[Legacy Game]]
 - [[Escape Room]]
 - [[Griefing]]

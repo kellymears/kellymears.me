@@ -21,3 +21,4 @@ The pattern carries a specific risk: a snowball. Once an engine is running well 
 - [[Faucets and Sinks]]
 - [[Interesting Decisions]]
 - [[Eurogame]]
+- [[Legacy Game]]

@@ -27,4 +27,4 @@ The original Nintendo version became a competitive scene, with a world champions
 - [[Embodied Cognition]]
 - [[Deliberate Practice]]
 - [[Mental Rotation]]
-- [[Fisher-Yates Shuffle]]
+- [[Sudoku]]

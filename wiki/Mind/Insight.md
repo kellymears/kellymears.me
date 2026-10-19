@@ -30,3 +30,4 @@ Practical lessons follow. When stuck, explain the problem aloud or to someone el
 - [[Curiosity]]
 - [[Flow]]
 - [[Escape Room]]
+- [[Crossword]]

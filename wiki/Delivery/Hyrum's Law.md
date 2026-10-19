@@ -18,5 +18,5 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 - [[Hourglass Model]]
 - [[Data Contract]]
 - [[Left-Pad Incident]]
-- [[Second-Order Thinking]]
+- [[Easter Egg]]
 - [[Quirks Mode]]

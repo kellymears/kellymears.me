@@ -33,7 +33,7 @@ The theorem resolves puzzles that feel paradoxical, such as the [[Monty Hall Pro
 Bayesian statistics, which treats probabilities as degrees of belief, contrasts with the frequentist approach behind significance testing, whose misuse drives the [[Replication Crisis]] and [[P-Hacking]]. The two schools often agree in practice, but the Bayesian framing makes the role of prior plausibility explicit, much as a [[Plausible Mechanism]] makes a surprising claim more believable.
 
 ## See also
-- [[Occam's Razor]]
+- [[Poker]]
 - [[Naive Bayes]]
 - [[Abductive Reasoning]]
 - [[Information Cascade]]

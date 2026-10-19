@@ -31,3 +31,4 @@ Game designers exploit the feeling, using near-misses and variable rewards to ke
 - [[Fisher-Yates Shuffle]]
 - [[Radioactive Decay]]
 - [[Mental Accounting]]
+- [[Poker]]

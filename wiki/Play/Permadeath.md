@@ -14,9 +14,9 @@ The design argument underneath is that stakes require irreversibility — a thre
 
 ## See also
 - [[Griefing]]
-- [[Meta-Progression]]
+- [[Legacy Game]]
 - [[Checkpoint]]
-- [[Soulslike]]
+- [[Virtual Pet]]
 - [[Save Scumming]]
 - [[Magic Circle]]
 - [[Cozy Game]]

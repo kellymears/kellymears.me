@@ -21,12 +21,12 @@ The same structure appears in type inference, scheduling, layout solvers, and de
 - [[Cellular Automaton]]
 
 ## Related
-- [[Procedural Generation]]
+- [[Crossword]]
 - [[Trick-Taking Game]]
 - [[L-System]]
 - [[Enigma Machine]]
 - [[Voxel]]
-- [[Shader]]
+- [[Sudoku]]
 - [[Backtracking]]
 - [[Wave Function Collapse]]
 - [[Graph Coloring]]

@@ -21,7 +21,7 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 - [[Vector Display]]
 - [[Instruction Set Architecture]]
 - [[Adobe Flash]]
-- [[Arcade Game]]
+- [[Pinball]]
 - [[Right to Repair]]
 - [[Point-and-Click Adventure]]
 - [[Differential Testing]]

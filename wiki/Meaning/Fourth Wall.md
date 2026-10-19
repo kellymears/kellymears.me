@@ -25,10 +25,10 @@ Other forms depend on keeping the wall up. Professional wrestling built a whole 
 Performers who talk straight to the camera get some of the same effect without any fiction at all, and audiences come to feel they know them; see [[Parasocial Relationship]].
 
 ## See also
-- [[Retcon]]
-- [[Chekhov's Gun]]
+- [[Let's Play]]
+- [[Gamebook]]
 - [[MacGuffin]]
 - [[Alternate Reality Game]]
 - [[Deus ex Machina]]
 - [[Death of the Author]]
-- [[Suspension of Disbelief]]
+- [[Easter Egg]]

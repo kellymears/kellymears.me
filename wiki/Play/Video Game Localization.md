@@ -19,7 +19,7 @@ The historical record includes outright alteration: religious and violent conten
 - [[Constructed Language]]
 - [[Internationalization]]
 - [[Creole Language]]
-- [[Wiki]]
+- [[Crossword]]
 - [[Machine Translation]]
 - [[Pseudolocalization]]
 - [[Dogfooding]]

@@ -19,3 +19,4 @@ summary: a genre built on capturing and fielding creatures, torn between the fan
 - [[Variable-Ratio Reinforcement]]
 - [[Compulsion Loop]]
 - [[Gacha Monetization]]
+- [[Virtual Pet]]

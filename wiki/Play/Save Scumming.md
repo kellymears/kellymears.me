@@ -22,3 +22,4 @@ The interesting question isn't whether scumming is possible but whether it's *ra
 - [[Point-and-Click Adventure]]
 - [[Checkpoint]]
 - [[Input and Output Randomness]]
+- [[Gamebook]]

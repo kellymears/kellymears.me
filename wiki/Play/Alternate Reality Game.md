@@ -28,3 +28,4 @@ The performed reality resembles professional wrestling's practice of never break
 ## See also
 - [[Escape Room]]
 - [[Cooperative Game]]
+- [[Easter Egg]]

@@ -28,6 +28,6 @@ For people whose [[Working Memory]] is already loaded, [[Extended Mind|offloadin
 - [[Fresh Start Effect]]
 - [[Mind-Wandering]]
 - [[Chekhov's Gun]]
-- [[Publication Bias]]
+- [[Legacy Game]]
 - [[Match-Three]]
 - [[Earworm]]

@@ -28,5 +28,5 @@ Chance also has social uses. It lets weaker players win sometimes, which keeps m
 Games without any chance are a different design space, where depth must come from opponents and hidden choices; see [[Perfect Information]]. The useful question for any random element is whether it creates decisions or replaces them; see [[Interesting Decisions]].
 
 ## See also
-- [[Fisher-Yates Shuffle]]
-- [[Eurogame]]
+- [[Poker]]
+- [[Pinball]]

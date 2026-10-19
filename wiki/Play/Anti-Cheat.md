@@ -30,4 +30,4 @@ Enforcement is often delayed on purpose. Banning cheaters in waves, rather than 
 - [[Blood Doping]]
 - [[Game Modding]]
 - [[Battle Royale]]
-- [[Esports]]
+- [[Grinding]]

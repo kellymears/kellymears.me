@@ -20,5 +20,5 @@ Two limits. Legibility depends on placement and sightlines, so the discipline ov
 - [[Walking Simulator]]
 - [[Escape Room]]
 - [[Curiosity]]
-- [[Interactive Fiction]]
+- [[Easter Egg]]
 - [[Level Design]]

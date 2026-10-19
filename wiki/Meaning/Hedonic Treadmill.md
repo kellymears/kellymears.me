@@ -18,7 +18,7 @@ The concept is often overstated into "money can't buy happiness," which the orig
 - [[Nostalgia]]
 - [[Savoring]]
 - [[Polarized Training]]
-- [[Reward Prediction Error]]
+- [[Grinding]]
 - [[Peak-End Rule]]
 - [[Awe]]
 - [[Grief]]

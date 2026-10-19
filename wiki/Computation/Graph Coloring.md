@@ -32,6 +32,6 @@ Graph coloring shows a common pattern in computing: a problem that's intractable
 - [[Wave Function Collapse]]
 - [[Zero-Knowledge Proof]]
 - [[Union-Find]]
-- [[Boolean Satisfiability Problem]]
+- [[Sudoku]]
 - [[Maximum Flow]]
 - [[Seven Bridges of Königsberg]]

@@ -28,5 +28,5 @@ As home hardware matched arcade boards and online play replaced the need to meet
 Arcade design still echoes in modern games: short loops of play and reward, score attack modes, and the tension between fair challenge and extracting money; see [[Compulsion Loop]].
 
 ## See also
-- [[Racing the Beam]]
+- [[Pinball]]
 - [[Checkpoint]]

@@ -31,7 +31,7 @@ The law has practical uses in computing:
 ## See also
 - [[Semantic Change]]
 - [[Constructed Language]]
-- [[Linguistic Relativity]]
+- [[Crossword]]
 - [[Fractal]]
 - [[Hot Partition]]
 - [[Normal Distribution]]

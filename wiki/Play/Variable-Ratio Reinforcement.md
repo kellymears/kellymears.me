@@ -15,8 +15,8 @@ What is established is the behavioral finding above, replicated across species a
 ## See also
 - [[Gamification]]
 - [[Match-Three]]
-- [[Physical Dependence]]
-- [[Seeded Randomness]]
+- [[Poker]]
+- [[Grinding]]
 - [[Live Service Game]]
 - [[Reward Prediction Error]]
 - [[Classical Conditioning]]

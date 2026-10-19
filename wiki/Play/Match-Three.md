@@ -30,3 +30,4 @@ Programmers like the genre as an exercise: detecting matches, applying gravity, 
 - [[Idle Game]]
 - [[Compulsion Loop]]
 - [[Tetris]]
+- [[Sudoku]]

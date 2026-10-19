@@ -23,3 +23,5 @@ The structure also solves a narrative problem that resource economies cannot. Be
 - [[Cozy Game]]
 - [[Faucets and Sinks]]
 - [[Escape Room]]
+- [[Virtual Pet]]
+- [[Grinding]]

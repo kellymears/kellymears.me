@@ -13,9 +13,9 @@ summary: Chasing a game's list of secondary objectives, and the argument over wh
 Whether this extends play or distorts it is a live argument, and a clean instance of [[Goodhart's Law]]: once "unlock every achievement" becomes the target, players route around difficulty, skip content the list does not reward, and treat [[Datamining]] the list as a legitimate strategy — the list also routinely breaks [[Spoiler Etiquette]], since titles for late-game achievements are often visible before a player reaches them. The counter-case is that an authored [[Metagame]] gives long-tail replay value to games otherwise finished once, feeding the same reward structure as [[Variable-Ratio Reinforcement]] and turning completion into its own [[Compulsion Loop]], one a full-completion [[Speedrun]] category chases under a race clock instead.
 
 ## See also
-- [[Goodhart's Law]]
+- [[Easter Egg]]
 - [[Metagame]]
-- [[Compulsion Loop]]
+- [[Let's Play]]
 - [[Datamining]]
 - [[Bartle Taxonomy]]
 - [[Gamification]]

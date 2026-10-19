@@ -29,3 +29,4 @@ The core insight, that people regulate distress partly through others and that r
 ## See also
 - [[Theory of Mind]]
 - [[Self-Compassion]]
+- [[Virtual Pet]]

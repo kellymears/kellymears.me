@@ -26,3 +26,4 @@ The lasting lesson is that a cipher should stay secure even when the enemy knows
 - [[Telegraph]]
 - [[Pseudorandom Number Generator]]
 - [[One-Time Pad]]
+- [[Crossword]]

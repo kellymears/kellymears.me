@@ -17,8 +17,8 @@ The critique cuts the other way with equal force: naming something a moral panic
 ## See also
 - [[Godwin's Law]]
 - [[Toyota Unintended Acceleration]]
-- [[Motte and Bailey]]
-- [[Conspiracy Theory]]
+- [[Pinball]]
+- [[Crossword]]
 - [[Umami]]
 - [[Urban Legend]]
 - [[Risk Compensation]]

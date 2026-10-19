@@ -38,3 +38,4 @@ Sequence breaking resembles security work: finding paths around intended control
 - [[Open World Design]]
 - [[Game Modding]]
 - [[Level Design]]
+- [[Easter Egg]]

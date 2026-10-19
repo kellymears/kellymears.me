@@ -20,5 +20,5 @@ What distinguishes the two is not the loop's shape but its **incentive structure
 - [[Faucets and Sinks]]
 - [[Match-Three]]
 - [[Zeigarnik Effect]]
-- [[Feedback Loop]]
-- [[Attention Economy]]
+- [[Virtual Pet]]
+- [[Grinding]]

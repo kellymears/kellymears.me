@@ -21,5 +21,5 @@ The genre's influence shows in games built around understanding rather than skil
 Many classics have been preserved through ScummVM, an interpreter that reimplemented the old engines so the games run on modern systems; see [[Emulation]] and [[Game Preservation]].
 
 ## See also
-- [[Walking Simulator]]
+- [[Gamebook]]
 - [[Sweet Home]]

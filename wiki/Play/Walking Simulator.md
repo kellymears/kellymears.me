@@ -26,4 +26,4 @@ Because they need no combat systems or large worlds, walking simulators suited s
 
 ## See also
 - [[Branching Narrative]]
-- [[Suspension of Disbelief]]
+- [[Let's Play]]

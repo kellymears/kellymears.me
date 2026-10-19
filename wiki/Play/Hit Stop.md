@@ -36,3 +36,4 @@ Hit stop pairs with clear warnings before attacks, so that both the setup and th
 ## See also
 - [[Hitbox and Hurtbox]]
 - [[Easing]]
+- [[Pinball]]

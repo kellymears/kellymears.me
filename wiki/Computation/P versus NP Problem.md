@@ -28,7 +28,7 @@ Small changes can cross the line. Finding the shortest path in a graph is easy, 
 
 ## See also
 - [[Stable Matching]]
-- [[Tetris]]
+- [[Sudoku]]
 - [[Traveling Salesman Problem]]
 - [[Graph Coloring]]
 - [[Prime Number]]

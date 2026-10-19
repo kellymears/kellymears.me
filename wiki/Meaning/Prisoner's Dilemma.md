@@ -32,3 +32,4 @@ The model has critics. Real people cooperate more than the theory predicts in on
 - [[BitTorrent]]
 - [[Blockchain]]
 - [[Dominant Strategy]]
+- [[Poker]]

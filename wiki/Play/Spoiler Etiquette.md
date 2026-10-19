@@ -17,3 +17,5 @@ Leaks rarely come from the obvious place. Voice-cast credits filed before releas
 - [[Achievement Hunting]]
 - [[Datamining]]
 - [[Fair-Play Mystery]]
+- [[Easter Egg]]
+- [[Let's Play]]

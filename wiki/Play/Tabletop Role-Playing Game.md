@@ -28,8 +28,8 @@ The hobby has diversified far beyond fantasy combat: story games that focus on n
 Language models have renewed interest in automated game masters. They can improvise in a way older systems couldn't, but they struggle with consistency over long campaigns, fair rule adjudication, and the social judgment a good human game master brings; see [[Large Language Model]] and [[Procedural Narrative]].
 
 ## See also
-- [[Wargame]]
+- [[Gamebook]]
 - [[Disco Elysium]]
-- [[Game Modding]]
+- [[Legacy Game]]
 - [[Social Deduction Game]]
 - [[Multi-User Dungeon]]
