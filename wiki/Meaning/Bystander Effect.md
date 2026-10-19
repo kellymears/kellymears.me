@@ -14,7 +14,7 @@ The effect has been replicated across dozens of experimental setups, from staged
 
 ## See also
 - [[Civil Disobedience]]
-- [[Groupthink]]
+- [[Internet Troll]]
 - [[Fundamental Attribution Error]]
 - [[Spiral of Silence]]
 - [[Pluralistic Ignorance]]

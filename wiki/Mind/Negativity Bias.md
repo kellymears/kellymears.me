@@ -33,6 +33,6 @@ The bias isn't simply an error. Taking threats seriously is often wise, and dism
 ## See also
 - [[Sentiment Analysis]]
 - [[Clickbait]]
-- [[Identifiable Victim Effect]]
+- [[Algorithmic Feed]]
 - [[Mood-Congruent Memory]]
-- [[Savoring]]
+- [[Online Review]]

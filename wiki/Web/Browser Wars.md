@@ -24,5 +24,5 @@ Interoperability has improved: browser makers now jointly pick problem areas eac
 - [[Mosaic]]
 - [[Quirks Mode]]
 - [[Cross-Browser Testing]]
-- [[Cascading Style Sheets]]
+- [[Dot-com Bubble]]
 - [[jQuery]]

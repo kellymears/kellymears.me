@@ -29,5 +29,5 @@ Bubbles also spread costs beyond the people who bought in. Debt taken on during 
 ## See also
 - [[Supply and Demand]]
 - [[GeoCities]]
-- [[Inflation]]
+- [[Dot-com Bubble]]
 - [[Video Game Crash of 1983]]

@@ -28,6 +28,6 @@ Because recommendations shape the behavior they're trained on, the loop feeds it
 Recommendation also raises privacy questions, since accurate predictions require detailed behavioral records; see [[Personal Data]].
 
 ## See also
-- [[Clickbait]]
-- [[Operant Conditioning]]
-- [[Approximate Nearest Neighbor Search]]
+- [[Algorithmic Feed]]
+- [[Like Button]]
+- [[Online Review]]

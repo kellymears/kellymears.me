@@ -31,3 +31,5 @@ Operant work also produced [[Learned Helplessness]], found when animals given un
 ## See also
 - [[Habituation]]
 - [[Observational Learning]]
+- [[Like Button]]
+- [[Algorithmic Feed]]

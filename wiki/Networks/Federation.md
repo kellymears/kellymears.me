@@ -37,9 +37,9 @@ Problems:
 The underlying idea is interoperability through an open protocol rather than through one owner, the same principle that let the [[World Wide Web]] grow without a central gatekeeper.
 
 ## See also
-- [[Walled Garden]]
+- [[Social Media]]
 - [[Napster]]
 - [[Distributed Hash Table]]
 - [[Data Portability]]
-- [[Internet Relay Chat]]
+- [[Content Moderation]]
 - [[SMS]]

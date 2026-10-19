@@ -27,6 +27,6 @@ It pairs with [[Infinite scroll]]: infinite scroll loads more items as the reade
 Spreadsheets and code editors virtualize as a matter of course; see [[Spreadsheet]]. For ordinary lists of a few hundred items the plain approach is usually fast enough, so measure before adding the complexity; see [[Premature Optimization]].
 
 ## See also
-- [[Long Task]]
+- [[Algorithmic Feed]]
 - [[Intersection Observer]]
 - [[Data Table]]

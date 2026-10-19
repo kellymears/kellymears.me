@@ -33,5 +33,5 @@ The cookie banners across the web come from European privacy law requiring conse
 - [[Cookie Consent]]
 - [[Data Broker]]
 - [[Browser Extension]]
-- [[Walled Garden]]
+- [[Like Button]]
 - [[Panopticon]]

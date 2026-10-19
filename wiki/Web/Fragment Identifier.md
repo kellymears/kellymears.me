@@ -26,3 +26,4 @@ Fragments are the web's finest-grained address, and they make it possible to cit
 ## See also
 - [[Hypermedia]]
 - [[Backlink]]
+- [[Hashtag]]

@@ -22,6 +22,6 @@ Readers have responded predictably. Ads that readers learn to ignore become chea
 The model underlies an argument about the web's economics. Free content funded by attention may push sites toward whatever keeps people clicking; see [[Attention Economy]]. Subscriptions and memberships offer an alternative that works for some publishers; see [[Paywall]].
 
 ## See also
-- [[Two-Sided Market]]
-- [[Web Analytics]]
+- [[Social Media]]
+- [[Influencer]]
 - [[Clickbait]]

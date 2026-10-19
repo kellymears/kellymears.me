@@ -30,4 +30,4 @@ Static sites often derive slugs from file names or set them in each page's metad
 
 ## See also
 - [[Personal Name]]
-- [[Transliteration]]
+- [[Hashtag]]

@@ -29,7 +29,7 @@ Two practical notes. A vocabulary is a shared model, so every near-synonym costs
 - [[Web Directory]]
 - [[Faceted Search]]
 - [[Card Sorting]]
-- [[Ontology]]
+- [[Hashtag]]
 - [[OpenStreetMap]]
 - [[Breadcrumb]]
 - [[Hierarchical Data]]

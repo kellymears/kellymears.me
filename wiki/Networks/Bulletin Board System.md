@@ -32,9 +32,9 @@ Commercial online services and then the web emptied the boards in the mid-1990s,
 
 ## See also
 - [[Minitel]]
-- [[Internet Forum]]
-- [[Multi-User Dungeon]]
-- [[Walled Garden]]
+- [[Social Media]]
+- [[Content Moderation]]
+- [[Internet Troll]]
 - [[Telnet]]
 - [[Gopher]]
 - [[Fax]]

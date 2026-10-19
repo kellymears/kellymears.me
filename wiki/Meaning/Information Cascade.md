@@ -26,7 +26,7 @@ Related ideas apply to beliefs rather than choices. An [[Availability Cascade]] 
 Remedies aim at keeping private signals visible. Juries and committees can vote secretly, or have members write down their estimates before discussion starts, and reviewers can rate an item before seeing anyone else's rating. Recommendation systems that display popularity counts tend to amplify early luck instead; see [[Recommender System]].
 
 ## See also
-- [[Civil Disobedience]]
-- [[Duverger's Law]]
-- [[Diffusion of Innovations]]
-- [[Bank Run]]
+- [[Hashtag]]
+- [[Like Button]]
+- [[Online Review]]
+- [[Dot-com Bubble]]

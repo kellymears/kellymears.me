@@ -24,5 +24,5 @@ The deeper question Turing set aside, whether anything is going on inside, is no
 ## See also
 - [[Artificial General Intelligence]]
 - [[Deceptive Alignment]]
-- [[Natural Language Processing]]
+- [[Content Moderation]]
 - [[Stochastic Parrot]]

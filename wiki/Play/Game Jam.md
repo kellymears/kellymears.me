@@ -27,7 +27,7 @@ Crunch is a concern: a weekend without sleep is part of jam culture, and organiz
 
 ## See also
 - [[Indie Game]]
-- [[Party Game]]
+- [[Crowdfunding]]
 - [[Adobe Flash]]
 - [[Playtesting]]
 - [[Crunch]]

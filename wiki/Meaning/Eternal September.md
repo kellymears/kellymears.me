@@ -27,5 +27,5 @@ The term carries some snobbery. Newcomers have always been treated as a problem 
 ## See also
 - [[Mailing List]]
 - [[Participation Inequality]]
-- [[Godwin's Law]]
+- [[Internet Troll]]
 - [[Internet Forum]]

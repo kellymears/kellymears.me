@@ -25,3 +25,4 @@ Interoperability has returned as a legal question. The European Union's Digital 
 - [[Pager]]
 - [[Long Polling]]
 - [[Emoji]]
+- [[Social Media]]

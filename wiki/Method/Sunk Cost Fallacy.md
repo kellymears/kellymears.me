@@ -24,7 +24,7 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 ## Related
 - [[Yak Shaving]]
 - [[Mental Accounting]]
-- [[Tenerife Airport Disaster]]
+- [[Crowdfunding]]
 - [[Post Office Horizon Scandal]]
 - [[Push Your Luck]]
 - [[Commitment Device]]

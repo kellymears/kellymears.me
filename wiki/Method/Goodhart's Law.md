@@ -18,15 +18,15 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 ## See also
 - [[McNamara Fallacy]]
 - [[Issue Tracker]]
-- [[Capability Maturity Model]]
+- [[Algorithmic Feed]]
 - [[Panopticon]]
 - [[Blood Doping]]
-- [[Deceptive Alignment]]
+- [[Like Button]]
 - [[Brier Score]]
 - [[Moral Licensing]]
 
 ## Related
 - [[Wicked Problem]]
 - [[Web Analytics]]
-- [[Objectives and Key Results]]
+- [[Online Review]]
 - [[Grip Strength]]

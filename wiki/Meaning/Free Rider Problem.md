@@ -32,7 +32,7 @@ Not all free riding is harmful. Knowledge spillovers, where one person's idea be
 
 ## See also
 - [[Deontology]]
-- [[Software Patent]]
+- [[Crowdfunding]]
 - [[Social Contract]]
 - [[Herd Immunity]]
 - [[Protestware]]

@@ -21,5 +21,7 @@ Clickbait adapted to each change. Video platforms brought exaggerated thumbnails
 Critics note that the line is blurry. Every good headline tries to make someone read, and a curiosity-provoking headline is only clickbait when the article fails to pay it off.
 
 ## See also
-- [[Zeigarnik Effect]]
+- [[Influencer]]
 - [[Metric fixation]]
+- [[Social Media]]
+- [[Algorithmic Feed]]

@@ -25,4 +25,4 @@ Machine learning's [[Scaling Laws]] describe a different exponential, in trainin
 ## See also
 - [[Tensor Processing Unit]]
 - [[Deep Blue]]
-- [[Binary Adder]]
+- [[Dot-com Bubble]]

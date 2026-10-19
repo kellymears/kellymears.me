@@ -27,6 +27,6 @@ In recent years rings have returned on small personal sites, often as a few line
 A ring is a modest [[Network Effect]], each new member making the others slightly easier to find.
 
 ## See also
-- [[RSS]]
+- [[Dot-com Bubble]]
 - [[Hypermedia]]
 - [[Brutalist Web Design]]

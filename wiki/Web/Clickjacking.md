@@ -34,7 +34,7 @@ Framing remains legitimate for embeds, payment widgets, and previews, so the goa
 
 ## See also
 - [[Iframe]]
-- [[Cross-Site Request Forgery]]
+- [[Like Button]]
 - [[Same-Origin Policy]]
 - [[Dark Pattern]]
 - [[Pop-up Ad]]

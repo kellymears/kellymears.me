@@ -22,5 +22,5 @@ For competitive play, purchased advantages undermine the idea that a ranking ref
 Whether a game crosses the line is disputed. A rough test players apply is whether someone who never pays can, with skill and reasonable time, compete on equal terms. When the answer is no, the game is selling victory rather than entertainment, and a [[Live Service Game]] that depends on goodwill can lose its audience fast.
 
 ## See also
-- [[Catch-Up Mechanic]]
+- [[Crowdfunding]]
 - [[Faucets and Sinks]]

@@ -17,7 +17,7 @@ That reframing points to what actually raises the number. Writing things down is
 - [[Transactive Memory]]
 - [[Good First Issue]]
 - [[Shamir's Secret Sharing]]
-- [[Spotify Model]]
+- [[Crowdfunding]]
 - [[Heartbleed]]
 - [[Peter Principle]]
 - [[Protestware]]

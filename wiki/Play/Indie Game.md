@@ -24,5 +24,5 @@ Success is unevenly distributed. Tens of thousands of games are released on majo
 The line between indie and mainstream has blurred. Some "indie" studios have dozens of staff and publisher funding, while large companies release small games under separate labels. The term persists mostly as shorthand for games that feel authored by particular people.
 
 ## See also
-- [[Game Preservation]]
+- [[Crowdfunding]]
 - [[Crunch]]

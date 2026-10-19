@@ -28,6 +28,6 @@ The long-term effect was consolidation. Contribution flowed to a few platforms w
 Much of Web 2.0's interactivity ran on a plugin before open standards caught up; see [[Adobe Flash]].
 
 ## See also
-- [[Internet Forum]]
-- [[GeoCities]]
-- [[Slashdot Effect]]
+- [[Social Media]]
+- [[Like Button]]
+- [[Hashtag]]

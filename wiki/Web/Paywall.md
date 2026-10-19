@@ -27,6 +27,6 @@ Alternatives have been tried for decades. The HTTP standard reserved a "payment 
 
 ## See also
 - [[Two-Sided Market]]
-- [[Attention Economy]]
+- [[Crowdfunding]]
 - [[Programmatic Advertising]]
 - [[Clickbait]]

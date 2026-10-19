@@ -21,5 +21,5 @@ Defenders of openness push back with standards and portability. Feeds let reader
 
 ## See also
 - [[Web Search Engine]]
-- [[Third-Party Cookie]]
-- [[Monopoly]]
+- [[Content Moderation]]
+- [[Social Media]]

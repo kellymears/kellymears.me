@@ -29,8 +29,8 @@ Crowd judgment also underlies open collaboration. A [[Wiki]] lets many people co
 The idea has limits. Crowds do well on questions with a measurable answer that individuals know something about, and badly on questions where everyone shares the same misconception, since shared errors don't cancel. An average of overconfident guesses is still overconfident; see [[Calibration]].
 
 ## See also
-- [[Speculative Bubble]]
-- [[Survey Design]]
+- [[Online Review]]
+- [[Crowdfunding]]
 - [[Brier Score]]
 - [[Self-Consistency]]
-- [[Millennium Bridge Wobble]]
+- [[Like Button]]

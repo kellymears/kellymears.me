@@ -20,5 +20,5 @@ When load still exceeds capacity, deliberate choices beat collapse. A site can r
 Elastic cloud services that add capacity automatically have made the effect rarer, though they can turn an outage into an unexpected bill; see [[Serverless Computing]].
 
 ## See also
-- [[Power law]]
-- [[Web 2.0]]
+- [[Crowdfunding]]
+- [[Dot-com Bubble]]

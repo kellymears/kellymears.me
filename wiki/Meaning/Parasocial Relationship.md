@@ -13,7 +13,7 @@ Parasocial bonds aren't inherently pathological — they scale a normal social i
 
 ## See also
 - [[Kayfabe]]
-- [[Diegesis]]
+- [[Influencer]]
 - [[Chatbot]]
 - [[Fan Fiction]]
 - [[Attachment Theory]]
@@ -23,7 +23,7 @@ Parasocial bonds aren't inherently pathological — they scale a normal social i
 - [[Social Capital]]
 - [[Cliffhanger]]
 - [[Fourth Wall]]
-- [[Imagined Community]]
+- [[Social Media]]
 - [[Death of the Author]]
 - [[Social Comparison]]
 - [[Loneliness]]

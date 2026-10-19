@@ -29,9 +29,9 @@ The lawyer Mike Godwin has said he devised his famous law about Nazi comparisons
 Memes overlap with older forms of folk transmission: legends, jokes, and sayings that spread and mutate without authors; see [[Urban Legend]]. Words and phrases themselves spread, compete, and shift meaning by similar processes; see [[Semantic Change]].
 
 ## See also
-- [[Observational Learning]]
+- [[Social Media]]
 - [[Clickbait]]
-- [[Portmanteau]]
+- [[Hashtag]]
 - [[Venn Diagram]]
-- [[Fan Fiction]]
+- [[Influencer]]
 - [[Diffusion of Innovations]]

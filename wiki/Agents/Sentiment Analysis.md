@@ -29,5 +29,5 @@ The technique has limits as a measure of what people think. Text that's posted p
 Richer variants go beyond polarity to detect specific emotions such as anger, fear, or joy, or to estimate how intensely a feeling is expressed. Emoji carry sentiment too, sometimes ironically.
 
 ## See also
-- [[Natural Language Processing]]
+- [[Online Review]]
 - [[Data Labeling]]

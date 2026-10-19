@@ -16,7 +16,7 @@ The law grew more relevant as online audiences lost shared context — the same 
 - [[Godwin's Law]]
 - [[Motte and Bailey]]
 - [[Context Collapse]]
-- [[Moral Panic]]
+- [[Internet Troll]]
 - [[Cunningham's Law]]
 
 ## Related

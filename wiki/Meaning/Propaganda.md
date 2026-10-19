@@ -18,5 +18,5 @@ Researchers distinguish **disinformation**, falsehood spread deliberately, from 
 People tend to believe propaganda works on others more than on themselves; see [[Third-Person Effect]]. Defenses include fact-checking, which arrives after the claim has spread, and prebunking, which warns audiences about manipulation techniques in advance. Fear-driven campaigns can also feed [[Moral Panic]] and conspiracy theories.
 
 ## See also
-- [[Spiral of Silence]]
-- [[Euphemism Treadmill]]
+- [[Social Media]]
+- [[Internet Troll]]

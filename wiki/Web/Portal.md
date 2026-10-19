@@ -23,7 +23,7 @@ Accessibility also needs explicit work, since the visual position and the tree p
 - [[Popover API]]
 - [[Headless Component]]
 - [[Focus Trap]]
-- [[Component Story]]
+- [[Dot-com Bubble]]
 - [[Modal Dialog]]
 - [[Tooltip]]
 - [[Iframe]]

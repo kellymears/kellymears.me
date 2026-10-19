@@ -18,7 +18,7 @@ The defenses that hold are architectural rather than linguistic:
 **Confirm before acting outward.** See [[Human in the Loop]].
 
 ## See also
-- [[Guardrail]]
+- [[Content Moderation]]
 - [[ReAct]]
 - [[Threat Modeling]]
 - [[Adversarial Example]]
@@ -28,7 +28,7 @@ The defenses that hold are architectural rather than linguistic:
 ## Related
 - [[Chatbot]]
 - [[Server-Side Request Forgery]]
-- [[SQL Injection]]
+- [[Internet Troll]]
 - [[Agent Sandbox]]
 - [[Computer Use]]
 - [[Jailbreak]]
