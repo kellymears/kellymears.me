@@ -31,6 +31,6 @@ In technical work, the same habit improves [[Code Review]] and design discussion
 - [[Devil's Advocate]]
 - [[Godwin's Law]]
 - [[Cunningham's Law]]
-- [[Naive Realism]]
+- [[Red Herring]]
 - [[Brandolini's Law]]
 - [[Logical Fallacy]]

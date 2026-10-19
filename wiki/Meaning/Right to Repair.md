@@ -23,5 +23,5 @@ Legislative movement has been real: several jurisdictions now require manufactur
 - [[Universal Basic Income]]
 - [[Principal-Agent Problem]]
 - [[Dieter Rams]]
-- [[Enshittification]]
+- [[Hobson's Choice]]
 - [[Baumol's Cost Disease]]

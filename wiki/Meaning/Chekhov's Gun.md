@@ -16,10 +16,10 @@ A red herring exploits the same convention in reverse, planting false emphasis t
 
 ## See also
 - [[MacGuffin]]
-- [[Naming]]
+- [[Red Herring]]
 - [[Suspension of Disbelief]]
-- [[Falsifiability]]
-- [[Zeigarnik Effect]]
+- [[In Medias Res]]
+- [[Cliffhanger]]
 - [[Telegraphing]]
 - [[Unreliable Narrator]]
 - [[Retcon]]

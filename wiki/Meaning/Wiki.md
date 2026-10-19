@@ -16,7 +16,7 @@ The trade is the same as its virtue: without curation a wiki accumulates stubs, 
 Personal wikis have become common as a private reference — the same mechanics, one author, and no obligation to be encyclopedic.
 
 ## See also
-- [[Backlink]]
+- [[Fan Fiction]]
 - [[Wikidata]]
 - [[Software Forge]]
 - [[Markdown]]

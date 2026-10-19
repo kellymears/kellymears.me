@@ -29,3 +29,4 @@ Rituals that mark major life changes are among the most commonly reinvented; see
 - [[Cultural Cringe]]
 - [[Schelling Point]]
 - [[Language Death]]
+- [[Cultural Capital]]

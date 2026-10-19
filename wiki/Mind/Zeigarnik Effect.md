@@ -26,7 +26,7 @@ For people whose [[Working Memory]] is already loaded, [[Extended Mind|offloadin
 - [[Prospective Memory]]
 - [[Progress Indicator]]
 - [[Fresh Start Effect]]
-- [[Side Quest]]
+- [[Cliffhanger]]
 - [[Chekhov's Gun]]
 - [[Legacy Game]]
 - [[Match-Three]]

@@ -27,8 +27,8 @@ The concept links to broader questions of well-being. If satisfaction depends on
 ## See also
 - [[Jevons Paradox]]
 - [[Social Comparison]]
-- [[Planned Obsolescence]]
+- [[Gresham's Law]]
 - [[Collectible Card Game]]
 - [[Gift Economy]]
 - [[Speculative Bubble]]
-- [[Faucets and Sinks]]
+- [[Cultural Capital]]

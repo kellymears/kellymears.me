@@ -30,3 +30,4 @@ The deeper problem is a conflict of interest: representatives choosing their vot
 - [[Duverger's Law]]
 - [[Simpson's Paradox]]
 - [[Rent-Seeking]]
+- [[Tyranny of the Majority]]

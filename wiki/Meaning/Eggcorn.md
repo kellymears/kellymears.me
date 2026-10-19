@@ -13,7 +13,7 @@ What makes the eggcorn worth naming separately is that it is evidence of reasoni
 
 ## See also
 - [[Crossword]]
-- [[Malaphor]]
+- [[Linguistic Prescriptivism]]
 - [[Mondegreen]]
 - [[Portmanteau]]
 - [[Naming]]

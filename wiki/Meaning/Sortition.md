@@ -34,3 +34,4 @@ Theorists note that elections face mathematical limits of their own; see [[Arrow
 ## See also
 - [[Principal-Agent Problem]]
 - [[Gerrymandering]]
+- [[Tyranny of the Majority]]

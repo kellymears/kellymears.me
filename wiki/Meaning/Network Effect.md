@@ -16,11 +16,11 @@ Network effects are often confused with switching costs, and the two are related
 
 ## See also
 - [[Napster]]
-- [[Two-Sided Market]]
+- [[Diffusion of Innovations]]
 - [[Fax]]
 - [[Universal Serial Bus]]
-- [[Internet Exchange Point]]
+- [[Hobson's Choice]]
 - [[Stable Matching]]
 - [[Gopher]]
 - [[Web 2.0]]
-- [[Data Portability]]
+- [[Gresham's Law]]

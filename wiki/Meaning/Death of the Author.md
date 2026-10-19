@@ -30,3 +30,4 @@ The essay itself has become a shorthand far beyond literary theory, much as a st
 - [[Fourth Wall]]
 - [[Rashomon Effect]]
 - [[Generative Art]]
+- [[Fan Fiction]]

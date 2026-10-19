@@ -26,3 +26,4 @@ Agency is distinct from body ownership, the feeling that a body part is one's ow
 ## See also
 - [[Reward Prediction Error]]
 - [[Choice Blindness]]
+- [[Hobson's Choice]]

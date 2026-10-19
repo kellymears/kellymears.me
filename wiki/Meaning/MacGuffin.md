@@ -26,3 +26,4 @@ Both rely on the same trick as [[Chekhov's Gun]]: an object earns narrative weig
 - [[Deus ex Machina]]
 - [[Hero's Journey]]
 - [[Suspension of Disbelief]]
+- [[Red Herring]]

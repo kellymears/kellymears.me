@@ -32,6 +32,6 @@ A striking item in the middle can escape the slump, which is the [[Von Restorff 
 - [[Reminiscence Bump]]
 - [[Episodic Memory]]
 - [[Survey Design]]
-- [[Spaced Repetition]]
+- [[Cliffhanger]]
 - [[Context Rot]]
 - [[Choice Architecture]]

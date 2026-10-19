@@ -26,7 +26,7 @@ Short paths explain how quickly things spread, from rumors and diseases to compu
 
 ## See also
 - [[Seven Bridges of Königsberg]]
-- [[Network Topology]]
+- [[Diffusion of Innovations]]
 - [[Approximate Nearest Neighbor Search]]
 - [[PageRank]]
 - [[Social Capital]]

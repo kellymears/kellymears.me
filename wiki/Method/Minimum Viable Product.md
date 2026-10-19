@@ -16,7 +16,7 @@ MVP is often confused with "prototype" or "beta," but neither of those implies t
 ## See also
 - [[You Aren't Gonna Need It]]
 - [[Shape Up]]
-- [[Reversible Decision]]
+- [[Diffusion of Innovations]]
 - [[Worse Is Better]]
 
 ## Related

@@ -23,7 +23,7 @@ Incompatible copyleft terms cannot legally combine in one distributed work, and 
 - [[The Cathedral and the Bazaar]]
 - [[Benevolent Dictator for Life]]
 - [[Open Core]]
-- [[Linux Distribution]]
+- [[Fan Fiction]]
 - [[WordPress]]
 - [[ZFS]]
 - [[Developer Certificate of Origin]]

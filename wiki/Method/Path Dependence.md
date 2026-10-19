@@ -19,7 +19,7 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[Paper Size]]
 - [[GIF]]
 - [[Video Game Crash of 1983]]
-- [[Minitel]]
+- [[Diffusion of Innovations]]
 - [[Encrypted Media Extensions]]
 - [[Two-Sided Market]]
 - [[Boeing 737 MAX Groundings]]

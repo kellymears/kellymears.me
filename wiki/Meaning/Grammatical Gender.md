@@ -16,7 +16,7 @@ Whether the surviving classes shape thought beyond grammar is contested, and the
 - [[Language Death]]
 - [[Loanword]]
 - [[Diglossia]]
-- [[Collocation]]
+- [[Linguistic Prescriptivism]]
 - [[Constructed Language]]
 - [[Code-Switching]]
 - [[Creole Language]]

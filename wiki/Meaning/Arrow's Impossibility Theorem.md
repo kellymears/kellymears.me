@@ -34,3 +34,4 @@ Arrow's result belongs to a family of impossibility theorems that show some comb
 - [[Sortition]]
 - [[Wisdom of the Crowd]]
 - [[Schelling Point]]
+- [[Tyranny of the Majority]]

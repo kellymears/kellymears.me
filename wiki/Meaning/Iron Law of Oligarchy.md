@@ -28,5 +28,5 @@ The law is sobering for anyone organizing people toward a shared goal; see [[Col
 
 ## See also
 - [[Gerrymandering]]
-- [[Duverger's Law]]
+- [[Tyranny of the Majority]]
 - [[Sortition]]

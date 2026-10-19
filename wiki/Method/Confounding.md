@@ -31,7 +31,7 @@ Confounding is related to [[Selection Bias]], where how subjects enter a study c
 A useful habit when shown a correlation is to ask what else differs between the groups. Usually a [[Plausible Mechanism]] for a confounder is easier to find than one for the claimed cause.
 
 ## See also
-- [[Base Rate Fallacy]]
+- [[Red Herring]]
 - [[Survivorship Bias]]
 - [[Linear Regression]]
 - [[Berkson's Paradox]]

@@ -24,3 +24,4 @@ This is close kin to [[Chesterton's Fence]] in structure — both are about the 
 - [[Design Thinking]]
 - [[First Principles Thinking]]
 - [[Wicked Problem]]
+- [[Red Herring]]

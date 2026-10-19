@@ -31,9 +31,9 @@ The same asymmetry appears in technical work. A vague bug report, a flaky test, 
 Brandolini's law sits alongside other observations about online discourse, such as [[Poe's Law]] and [[Cunningham's Law]], and alongside the discipline of engaging with the strongest version of an argument instead of the weakest; see [[Steelmanning]].
 
 ## See also
-- [[Motte and Bailey]]
+- [[Gresham's Law]]
 - [[Source Amnesia]]
 - [[Betteridge's Law of Headlines]]
-- [[Burden of Proof]]
+- [[Red Herring]]
 - [[Logical Fallacy]]
 - [[Peer Review]]

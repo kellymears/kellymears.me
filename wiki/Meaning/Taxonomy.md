@@ -21,7 +21,7 @@ Two practical notes. A vocabulary is a shared model, so every near-synonym costs
 - [[Web 2.0]]
 - [[Frontmatter]]
 - [[ImageNet]]
-- [[Linguistic Relativity]]
+- [[Fan Fiction]]
 - [[Tarot]]
 
 ## Related

@@ -16,7 +16,7 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 - [[Sybil Attack]]
 - [[Conformity]]
 - [[Astroturfing]]
-- [[Halo Effect]]
+- [[Diffusion of Innovations]]
 - [[Median Voter Theorem]]
 - [[Pluralistic Ignorance]]
 - [[Yawning]]

@@ -26,5 +26,5 @@ Unicode has declined to encode the Klingon script in its standard, citing little
 
 ## See also
 - [[Language Death]]
-- [[Loanword]]
+- [[Linguistic Prescriptivism]]
 - [[Portmanteau]]

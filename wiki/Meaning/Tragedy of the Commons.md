@@ -15,7 +15,7 @@ The sharpest correction is definitional: Hardin was describing **open access** â
 ## See also
 - [[Radio Spectrum]]
 - [[Antibiotic Resistance]]
-- [[Arrow's Impossibility Theorem]]
+- [[Gresham's Law]]
 - [[Trolley Problem]]
 - [[Iron Law of Oligarchy]]
 - [[Public Domain]]

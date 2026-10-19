@@ -31,3 +31,4 @@ As with other spatial reasoning, the distribution matters. If voters cluster in 
 - [[Game theory]]
 - [[Schelling Point]]
 - [[Satisficing]]
+- [[Tyranny of the Majority]]

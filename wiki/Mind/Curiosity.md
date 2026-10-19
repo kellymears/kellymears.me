@@ -28,9 +28,9 @@ It also has a shadow. The pull to close one gap after another can lead down a [[
 Curiosity varies between people. *Need for cognition*, the enjoyment of effortful thinking, is a related, measurable trait. People also differ in how they feel about uncertainty: some find unanswered questions delightful, others aversive, and that tolerance shapes how freely they explore.
 
 ## See also
-- [[Awe]]
+- [[Cliffhanger]]
 - [[Insight]]
 - [[Attachment Theory]]
-- [[Turtle Graphics]]
+- [[In Medias Res]]
 - [[Boredom]]
 - [[Multi-Armed Bandit]]

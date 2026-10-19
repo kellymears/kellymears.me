@@ -24,7 +24,7 @@ Unreliable narration resonates because everyday memory is unreliable too. People
 
 ## See also
 - [[Multiple Endings]]
-- [[Branching Narrative]]
+- [[Red Herring]]
 - [[MacGuffin]]
-- [[Rashomon Effect]]
+- [[In Medias Res]]
 - [[Death of the Author]]

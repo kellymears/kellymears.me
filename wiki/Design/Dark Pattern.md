@@ -18,7 +18,7 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Toggle Switch]]
 - [[Carousel]]
 - [[Calm Technology]]
-- [[Attention Economy]]
+- [[Hobson's Choice]]
 - [[Cookie Consent]]
 - [[Gamification]]
 - [[Pop-up Ad]]

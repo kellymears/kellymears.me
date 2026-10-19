@@ -28,6 +28,6 @@ Remedies follow from Asch's findings: collect opinions privately before discussi
 
 ## See also
 - [[Obedience to Authority]]
-- [[Social Identity Theory]]
+- [[Tyranny of the Majority]]
 - [[Delphi Method]]
 - [[Median Voter Theorem]]

@@ -26,6 +26,6 @@ What helps is making evidence count: keeping a record of finished work and feedb
 ## See also
 - [[Choking Under Pressure]]
 - [[Social Comparison]]
-- [[Psychological Safety]]
+- [[Cultural Capital]]
 - [[Stereotype Threat]]
 - [[Self-Serving Bias]]

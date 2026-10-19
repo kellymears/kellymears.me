@@ -40,6 +40,6 @@ Second, many informal "fallacies" are reasonable shortcuts in context. Deferring
 Third, naming fallacies has become a debating tactic of its own: shouting "ad hominem" at any criticism, or listing fallacies faster than anyone can answer them. Refuting nonsense takes far more effort than producing it; see [[Brandolini's Law]].
 
 ## See also
-- [[Abductive Reasoning]]
+- [[Red Herring]]
 - [[Reductio ad Absurdum]]
 - [[Godwin's Law]]

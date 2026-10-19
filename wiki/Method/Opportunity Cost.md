@@ -25,4 +25,4 @@ Opportunity cost is hard to estimate precisely, since the alternatives are hypot
 
 ## See also
 - [[Mental Accounting]]
-- [[Precautionary Principle]]
+- [[Hobson's Choice]]

@@ -37,4 +37,4 @@ Games and apps exploit comparison deliberately through leaderboards and rankings
 ## See also
 - [[Savoring]]
 - [[Affective Forecasting]]
-- [[Social Identity Theory]]
+- [[Cultural Capital]]

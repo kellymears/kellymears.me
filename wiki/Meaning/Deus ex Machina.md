@@ -30,3 +30,4 @@ How much a story owes its audience is partly a question of who decides what it m
 - [[Hero's Journey]]
 - [[Diegesis]]
 - [[Suspension of Disbelief]]
+- [[Cliffhanger]]

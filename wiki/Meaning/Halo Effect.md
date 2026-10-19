@@ -25,3 +25,4 @@ The effect is worth distinguishing from ordinary correlation, where traits reall
 - [[Social Identity Theory]]
 - [[Radar Chart]]
 - [[Delphi Method]]
+- [[Cultural Capital]]

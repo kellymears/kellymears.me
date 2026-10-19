@@ -17,7 +17,7 @@ It's distinct from simply staying informed, which has a natural endpoint once th
 - [[Availability Cascade]]
 - [[Meme]]
 - [[Third Place]]
-- [[Attention Economy]]
+- [[Cliffhanger]]
 - [[Pull-to-Refresh]]
 - [[Pagination]]
 - [[Attention Restoration Theory]]

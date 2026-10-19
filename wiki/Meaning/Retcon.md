@@ -27,8 +27,8 @@ Retcons provoke strong reactions because audiences invest in continuity. A chang
 Software has a parallel. Rewriting a project's commit history makes the record tell a cleaner story than what happened, which is fine on a private branch and confusing once others rely on it; see [[Rebase]].
 
 ## See also
-- [[Diegesis]]
+- [[Cliffhanger]]
 - [[MacGuffin]]
-- [[Fourth Wall]]
+- [[Fan Fiction]]
 - [[Suspension of Disbelief]]
 - [[Deus ex Machina]]

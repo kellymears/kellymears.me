@@ -25,3 +25,4 @@ What the effect demonstrates regardless is that editing is authorship, not assem
 - [[Suspension of Disbelief]]
 - [[Rashomon Effect]]
 - [[McGurk Effect]]
+- [[In Medias Res]]

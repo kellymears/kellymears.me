@@ -39,3 +39,4 @@ Polite words wear out with use and are replaced, as softened terms take on the m
 - [[Dog Whistle]]
 - [[Language Death]]
 - [[Diglossia]]
+- [[Linguistic Prescriptivism]]

@@ -34,5 +34,5 @@ The rule interacts with other memory effects. The [[Serial Position Effect]] als
 - [[Aesthetic-Usability Effect]]
 - [[Progress Indicator]]
 - [[Negativity Bias]]
-- [[Loss Aversion]]
+- [[Cliffhanger]]
 - [[Boss Battle]]

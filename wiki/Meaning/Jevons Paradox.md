@@ -30,3 +30,4 @@ Related patterns appear in personal life: a faster commute often leads to living
 - [[Network Effect]]
 - [[Moore's Law]]
 - [[Second-Order Thinking]]
+- [[Diffusion of Innovations]]

@@ -29,8 +29,8 @@ Each tool invites gaming. Reviews can be faked through [[Astroturfing]]; credent
 The idea reaches well beyond economics. Software users can't inspect what's in their dependencies, which makes [[Supply Chain Security]] an information problem. Platforms know far more about users than users know about them, a gap at the center of debates over [[Personal Data]]. And when one side can't verify the other's claims, cooperation itself gets harder, as in the [[Prisoner's Dilemma]].
 
 ## See also
-- [[Speculative Bubble]]
+- [[Hobson's Choice]]
 - [[Poker]]
-- [[Model Card]]
+- [[Gresham's Law]]
 - [[Perfect Information]]
 - [[Status Page]]

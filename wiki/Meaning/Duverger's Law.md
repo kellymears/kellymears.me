@@ -29,3 +29,4 @@ Reformers who want more room for smaller parties have proposed changes such as r
 ## See also
 - [[Information Cascade]]
 - [[Game theory]]
+- [[Tyranny of the Majority]]

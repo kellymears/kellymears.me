@@ -25,7 +25,7 @@ Whether the internet has built or eroded social capital remains debated. Online 
 
 ## See also
 - [[Sortition]]
-- [[Legibility]]
-- [[Filter Bubble]]
+- [[Cultural Capital]]
+- [[Fan Fiction]]
 - [[Imagined Community]]
 - [[Rite of Passage]]

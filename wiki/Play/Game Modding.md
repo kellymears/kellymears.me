@@ -20,7 +20,7 @@ Longevity follows from all of it: a game with an active mod scene keeps being pl
 - [[Cheat Code]]
 - [[Game Engine]]
 - [[Doom Engine]]
-- [[Indie Game]]
+- [[Fan Fiction]]
 - [[Real-Time Strategy]]
 - [[Game Jam]]
 - [[Walking Simulator]]

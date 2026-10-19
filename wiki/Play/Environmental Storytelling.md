@@ -21,4 +21,4 @@ Two limits. Legibility depends on placement and sightlines, so the discipline ov
 - [[Escape Room]]
 - [[Curiosity]]
 - [[Easter Egg]]
-- [[Side Quest]]
+- [[In Medias Res]]

@@ -30,5 +30,5 @@ Counterweights exist. Blind review, lotteries for grant funding among qualified 
 - [[Peer Review]]
 - [[Catch-Up Mechanic]]
 - [[Two-Sided Market]]
-- [[Duverger's Law]]
+- [[Cultural Capital]]
 - [[Just-World Hypothesis]]

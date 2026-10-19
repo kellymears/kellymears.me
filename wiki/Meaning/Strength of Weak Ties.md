@@ -32,3 +32,4 @@ Technical networks show the same structure. A few long-range links in a mostly l
 - [[Social Capital]]
 - [[Third Place]]
 - [[Imagined Community]]
+- [[Diffusion of Innovations]]

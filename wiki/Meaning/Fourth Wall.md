@@ -25,7 +25,7 @@ Other forms depend on keeping the wall up. Professional wrestling built a whole 
 Performers who talk straight to the camera get some of the same effect without any fiction at all, and audiences come to feel they know them; see [[Parasocial Relationship]].
 
 ## See also
-- [[Let's Play]]
+- [[In Medias Res]]
 - [[Gamebook]]
 - [[MacGuffin]]
 - [[Alternate Reality Game]]

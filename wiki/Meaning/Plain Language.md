@@ -21,7 +21,7 @@ Two writing habits are worth naming as failure modes because they are so easy to
 - [[Code Comment]]
 - [[Diglossia]]
 - [[Microcopy]]
-- [[Typographic Scale]]
+- [[Linguistic Prescriptivism]]
 - [[Docs as Code]]
 - [[Politeness Theory]]
 - [[Infographic]]

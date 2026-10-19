@@ -33,3 +33,5 @@ Memes overlap with older forms of folk transmission: legends, jokes, and sayings
 - [[Information Cascade]]
 - [[Portmanteau]]
 - [[Venn Diagram]]
+- [[Fan Fiction]]
+- [[Diffusion of Innovations]]

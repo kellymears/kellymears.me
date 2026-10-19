@@ -32,3 +32,4 @@ The simplest antidote is to restore the freedom: offer options, explain reasons,
 ## See also
 - [[Ironic Process Theory]]
 - [[Procrastination]]
+- [[Hobson's Choice]]

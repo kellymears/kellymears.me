@@ -21,7 +21,7 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 
 ## Related
 - [[Creole Language]]
-- [[Ranked-Choice Voting]]
+- [[Tyranny of the Majority]]
 - [[Cooperative Game]]
 - [[Social Capital]]
 - [[Iron Law of Oligarchy]]

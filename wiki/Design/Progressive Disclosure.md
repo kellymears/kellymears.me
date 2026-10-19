@@ -15,7 +15,7 @@ Progressive disclosure is one of the load-bearing arguments for keeping a produc
 
 ## See also
 - [[Tutorial Design]]
-- [[Information Scent]]
+- [[In Medias Res]]
 - [[Accordion]]
 - [[Wayfinding]]
 - [[Onboarding]]

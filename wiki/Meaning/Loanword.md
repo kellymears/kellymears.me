@@ -27,3 +27,4 @@ Borrowing isn't the only source of new words; speakers also fuse existing ones; 
 - [[Shibboleth]]
 - [[Constructed Language]]
 - [[Euphemism Treadmill]]
+- [[Linguistic Prescriptivism]]

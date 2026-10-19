@@ -28,5 +28,5 @@ Online, the same event can spread as several incompatible stories at once, each 
 
 ## See also
 - [[Death of the Author]]
-- [[Hindsight Bias]]
+- [[In Medias Res]]
 - [[Source Amnesia]]
