@@ -24,5 +24,5 @@ Microsoft and security vendors afterward began discussing ways to run such produ
 
 ## See also
 - [[Knight Capital Incident]]
-- [[Boot Process]]
+- [[Cloudflare Outage of 2019]]
 - [[Over-the-Air Update]]

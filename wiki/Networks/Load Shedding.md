@@ -29,3 +29,5 @@ Load shedding works with other defenses rather than replacing them. [[Backpressu
 - [[Thundering Herd]]
 - [[Service Level Objective]]
 - [[Northeast Blackout of 2003]]
+- [[Cloudflare Outage of 2019]]
+- [[Amazon S3 Outage of 2017]]

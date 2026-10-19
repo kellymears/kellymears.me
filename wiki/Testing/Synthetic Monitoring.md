@@ -34,6 +34,6 @@ The usual pitfalls:
 [[Shadow Traffic]] is a related idea in the other direction: real requests sent to an unreleased system, rather than synthetic requests sent to a released one.
 
 ## See also
-- [[Status Page]]
-- [[Runtime Verification]]
-- [[Northeast Blackout of 2003]]
+- [[Amazon S3 Outage of 2017]]
+- [[Software Aging]]
+- [[GitLab Database Incident]]

@@ -19,7 +19,7 @@ Instrumentation also has its own failure modes to distinguish from real ones: a 
 - [[Resource Starvation]]
 - [[Flaky Test]]
 - [[Branch Coverage]]
-- [[Ground Truth]]
+- [[Mars Pathfinder Priority Inversion]]
 
 ## Related
 - [[Reproducible Case]]

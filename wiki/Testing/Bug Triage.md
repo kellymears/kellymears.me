@@ -29,7 +29,7 @@ The typical triage pass works through the new queue:
 Crash reporters such as those in [[Crash Reporting]] do part of this automatically, grouping identical crashes and ranking them by how many users they hit. Triage also feeds [[Risk-Based Testing]]: areas that keep producing severe bugs deserve more tests, and a fixed bug should leave behind a [[Regression Testing|regression test]].
 
 ## See also
-- [[Exploratory Testing]]
+- [[Mars Pathfinder Priority Inversion]]
 - [[Post Office Horizon Scandal]]
 - [[Error Message]]
 - [[Issue Tracker]]

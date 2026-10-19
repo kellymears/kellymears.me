@@ -28,7 +28,7 @@ Two diagnostic rules earn their keep. An **identical** failure across repeated r
 - [[Issue Tracker]]
 - [[Test Isolation]]
 - [[Andon Cord]]
-- [[Deterministic Simulation Testing]]
+- [[Mars Pathfinder Priority Inversion]]
 
 ## Related
 - [[Service Virtualization]]

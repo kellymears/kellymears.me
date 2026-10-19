@@ -35,5 +35,5 @@ Logs are central to debugging. Print debugging is logging's simplest form, and t
 During [[Incident Response]], logs are often the primary evidence, which is why logging decisions made in calm times shape how quickly problems get solved later.
 
 ## See also
-- [[ANSI Escape Code]]
-- [[Log4Shell]]
+- [[Mars Polar Lander]]
+- [[GitLab Database Incident]]

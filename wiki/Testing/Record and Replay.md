@@ -32,5 +32,5 @@ Record and replay has found a new use in testing applications built on language 
 
 ## See also
 - [[Packet Capture]]
-- [[Hypertext Transfer Protocol]]
+- [[Mars Pathfinder Priority Inversion]]
 - [[Service Virtualization]]

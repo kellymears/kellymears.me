@@ -16,7 +16,7 @@ Abolishing daylight saving would end future transitions but not the problem: his
 
 ## See also
 - [[ISO 8601]]
-- [[Falsehoods Programmers Believe]]
+- [[Zune Leap Year Bug]]
 - [[Monotonic Clock]]
 - [[Real-Time Clock]]
 - [[iCalendar]]

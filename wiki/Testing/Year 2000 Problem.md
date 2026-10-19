@@ -23,7 +23,7 @@ New Year's Day 2000 passed with few serious failures, along with scattered small
 The same class of bug is still ahead. Systems that count seconds from 1970 in a signed 32-bit integer will overflow in January 2038; see [[Year 2038 problem]] and [[Unix Time]]. Windowed fixes from the 1990s also expire as their pivot years arrive, and some already have.
 
 ## See also
-- [[Time Zone]]
+- [[Zune Leap Year Bug]]
 - [[Data Cleaning]]
 - [[Leap second]]
 - [[Mainframe]]

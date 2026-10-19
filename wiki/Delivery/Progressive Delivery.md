@@ -37,5 +37,5 @@ Gradual exposure has limits. Some failures, such as a database migration or a ch
 - [[Patch Tuesday]]
 - [[CrowdStrike Outage]]
 - [[Site Reliability Engineering]]
-- [[Testing in Production]]
-- [[Change Advisory Board]]
+- [[Cloudflare Outage of 2019]]
+- [[Amazon S3 Outage of 2017]]

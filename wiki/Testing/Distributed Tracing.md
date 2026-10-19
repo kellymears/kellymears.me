@@ -34,7 +34,7 @@ Tracing has costs. Recording every span of every request is expensive at scale, 
 Tracing complements the other signals of [[Observability]]. [[Logging]] records detail about individual events, and adding the trace ID to log lines links them to their trace. Metrics give aggregate trends cheaply. [[Profiling]] shows where time goes inside a single process; tracing shows where it goes between processes. Together they turn questions during [[Incident Response]] from guesswork into lookups.
 
 ## See also
-- [[Fallacies of Distributed Computing]]
+- [[Mars Pathfinder Priority Inversion]]
 - [[Service Level Objective]]
 - [[Message Queue]]
 - [[Scientific Debugging]]

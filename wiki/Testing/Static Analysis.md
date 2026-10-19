@@ -28,4 +28,4 @@ Static analysis complements testing rather than replacing it. It finds whole cla
 ## See also
 - [[Abstract Interpretation]]
 - [[Toyota Unintended Acceleration]]
-- [[Gödel's Incompleteness Theorems]]
+- [[Cloudflare Outage of 2019]]

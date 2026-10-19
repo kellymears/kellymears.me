@@ -27,5 +27,5 @@ Verification tools can check invariants automatically, but they usually can't in
 In everyday code, invariants are useful even unproven. Writing one as a comment clarifies what a loop does, and checking it with an [[Assertion]] catches violations during testing. [[Property-Based Testing]] can check the same claims over many random inputs. Explaining a loop aloud, invariant included, is a reliable way to find the off-by-one mistake; see [[Rubber Duck Debugging]].
 
 ## See also
-- [[Static Analysis]]
+- [[Zune Leap Year Bug]]
 - [[Structured Programming]]

@@ -28,5 +28,5 @@ A record of who changed what and when is a related but separate requirement in r
 
 ## See also
 - [[Post Office Horizon Scandal]]
-- [[Bug Triage]]
+- [[Mars Polar Lander]]
 - [[Mariner 1]]

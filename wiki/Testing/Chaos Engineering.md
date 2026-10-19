@@ -25,10 +25,10 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 **Game days** bring the same idea to people and process: a team rehearses a simulated [[Incident Response|incident]], testing runbooks, alerting, and communication as well as software, and reviews the results in the spirit of a [[Blameless Postmortem]]. The underlying philosophy matches [[Fail Fast]]: failure is inevitable, so make it frequent, small, and visible rather than rare, large, and surprising. Production is the only environment exactly like production, which is why mature practitioners eventually run experiments there.
 
 ## See also
-- [[Hardware-in-the-Loop]]
+- [[GitLab Database Incident]]
 - [[Failure Mode and Effects Analysis]]
-- [[Normal Accidents]]
-- [[Risk-Based Testing]]
+- [[Apollo 11 Program Alarms]]
+- [[Amazon S3 Outage of 2017]]
 - [[Single-Event Upset]]
 - [[Mean Time to Recovery]]
 - [[Murphy's Law]]

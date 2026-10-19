@@ -29,3 +29,5 @@ Responses that work: serialize rather than parallelize the contended step, give 
 - [[Vacuous Truth]]
 - [[Subagent]]
 - [[Spinlock]]
+- [[Apollo 11 Program Alarms]]
+- [[Software Aging]]

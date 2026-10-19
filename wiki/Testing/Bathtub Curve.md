@@ -29,7 +29,7 @@ Human mortality follows a similar curve, with high risk in infancy, a low trough
 The middle region's constant rate means that, for a working part in useful life, age tells little about remaining life. Things that never wear out, like ideas and books, show the opposite pattern; see [[Lindy Effect]]. Products designed to reach wear-out sooner are a different matter; see [[Planned Obsolescence]].
 
 ## See also
-- [[Survivorship Bias]]
+- [[Software Aging]]
 - [[Non-Destructive Testing]]
 - [[OLED]]
 - [[Hard Disk Drive]]

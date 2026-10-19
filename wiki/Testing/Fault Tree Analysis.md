@@ -28,6 +28,6 @@ Security teams use **attack trees**, a variant in which the top event is an atta
 ## See also
 - [[Decision Tree]]
 - [[Byzantine Fault Tolerance]]
-- [[Normal Accidents]]
+- [[Gimli Glider]]
 - [[Threat Modeling]]
 - [[Boeing 737 MAX Groundings]]

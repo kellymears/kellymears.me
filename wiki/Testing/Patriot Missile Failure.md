@@ -25,3 +25,4 @@ The workaround that would have prevented it was a reboot; see [[Crash-Only Softw
 - [[Floating-Point Arithmetic]]
 - [[Integer Overflow]]
 - [[Numerical Stability]]
+- [[Software Aging]]

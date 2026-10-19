@@ -21,7 +21,7 @@ It composes naturally with [[Continuous Deployment]]: a pipeline that ships ever
 - [[Staging Environment]]
 - [[Knight Capital Incident]]
 - [[Testing in Production]]
-- [[Reversible Decision]]
+- [[Cloudflare Outage of 2019]]
 
 ## Related
 - [[Zero-Downtime Deployment]]

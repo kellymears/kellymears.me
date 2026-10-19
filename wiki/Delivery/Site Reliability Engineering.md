@@ -29,5 +29,5 @@ SRE adopted badly becomes an operations team renamed. Without error budgets that
 
 ## See also
 - [[Status Page]]
-- [[Control Chart]]
+- [[Amazon S3 Outage of 2017]]
 - [[Just Culture]]

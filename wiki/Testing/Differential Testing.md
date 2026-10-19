@@ -27,6 +27,6 @@ The main practical difficulty is noise. Implementations can legitimately differ:
 ## See also
 - [[N-Version Programming]]
 - [[Fuzzing]]
-- [[Shadow Traffic]]
+- [[Hubble Mirror Flaw]]
 - [[Golden File Testing]]
 - [[Delta Debugging]]

@@ -33,6 +33,6 @@ Load tests also check the protective machinery: [[Rate Limiting]], [[Backpressur
 - [[Bathtub Curve]]
 - [[Patriot Missile Failure]]
 - [[Benchmarking]]
-- [[Chaos Engineering]]
+- [[Software Aging]]
 - [[Connection Pool]]
 - [[Database Index]]

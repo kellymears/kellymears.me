@@ -20,15 +20,15 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[Mean Time to Recovery]]
 - [[Hanlon's Razor]]
 - [[Andon Cord]]
-- [[Checklist]]
+- [[Gimli Glider]]
 
 ## Related
 - [[Therac-25]]
-- [[Rashomon Effect]]
+- [[GitLab Database Incident]]
 - [[Post Office Horizon Scandal]]
 - [[Status Page]]
 - [[Site Reliability Engineering]]
-- [[Self-Serving Bias]]
+- [[Amazon S3 Outage of 2017]]
 - [[Just Culture]]
 - [[Bug Triage]]
 - [[Git Blame]]

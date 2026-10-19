@@ -31,7 +31,7 @@ The main defenses work at different layers:
 Dependencies are also a security surface. Each one can be compromised, typosquatted, or taken over by a new maintainer, which is why [[Supply Chain Security]] and a [[Software Bill of Materials]] have become routine. And since every package's observable behavior is something others depend on, [[Hyrum's Law]] means even careful maintainers break someone when they change.
 
 ## See also
-- [[Yanked Release]]
+- [[Software Aging]]
 - [[Artifact Repository]]
 - [[Node.js]]
 - [[Boolean Satisfiability Problem]]

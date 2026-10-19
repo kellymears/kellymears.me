@@ -27,6 +27,6 @@ Undecidability applies to the general case. For restricted models, such as a [[F
 - [[Ackermann Function]]
 - [[Abstract Interpretation]]
 - [[Russell's Paradox]]
-- [[Curry-Howard Correspondence]]
+- [[Zune Leap Year Bug]]
 - [[Symbolic Execution]]
 - [[Gödel's Incompleteness Theorems]]

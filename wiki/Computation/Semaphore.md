@@ -27,7 +27,7 @@ Semaphores are low-level and unforgiving. Forgetting a signal blocks others fore
 Inside an operating system, blocked processes are taken off the CPU until signaled, so waiting costs no processor time; see [[CPU Scheduler]] and [[Context Switch]]. Some designs avoid shared state altogether, passing messages instead; see [[Communicating Sequential Processes]] and [[Actor Model]]. Others use atomic hardware instructions directly; see [[Lock-Free Data Structure]].
 
 ## See also
-- [[Concurrency and Parallelism]]
+- [[Mars Pathfinder Priority Inversion]]
 - [[Memory Model]]
 - [[Inter-Process Communication]]
 - [[Distributed Lock]]

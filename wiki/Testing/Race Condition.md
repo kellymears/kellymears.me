@@ -16,7 +16,7 @@ The general remedies are to remove the shared resource (separate working copies,
 ## See also
 - [[Time-of-Check to Time-of-Use]]
 - [[Multi-Agent Orchestration]]
-- [[Git Worktree]]
+- [[Mars Pathfinder Priority Inversion]]
 - [[Semaphore]]
 - [[Memory Model]]
 - [[Therac-25]]

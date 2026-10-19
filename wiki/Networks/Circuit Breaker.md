@@ -25,5 +25,5 @@ Circuit breakers are usually scoped per dependency, not globally — a failing p
 - [[Fallacies of Distributed Computing]]
 - [[Service Level Objective]]
 - [[Failure Detection]]
-- [[Watchdog Timer]]
+- [[Amazon S3 Outage of 2017]]
 - [[Microservices]]

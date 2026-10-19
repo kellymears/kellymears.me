@@ -30,7 +30,7 @@ Normalization of deviance also explains why [[Hindsight Bias]] is so tempting af
 
 ## See also
 - [[Therac-25]]
-- [[Margin of Safety]]
-- [[Mars Climate Orbiter]]
-- [[Just Culture]]
+- [[Mars Polar Lander]]
+- [[Hubble Mirror Flaw]]
+- [[Gimli Glider]]
 - [[Checklist]]

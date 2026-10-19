@@ -14,7 +14,7 @@ The costs are real. Integration tests are slower, they fail for environmental re
 The pragmatic position that most teams converge on: integration tests for anything crossing a boundary or depending on real environment behavior, unit tests for pure logic with many cases, and as few end-to-end tests as will do — those being the slowest and most fragile of all, but the only ones that can prove the whole thing works.
 
 ## See also
-- [[Unit Test]]
+- [[Apollo 11 Program Alarms]]
 - [[Component Story]]
 - [[Headless Browser]]
 - [[Test Fixture]]
@@ -26,7 +26,8 @@ The pragmatic position that most teams converge on: integration tests for anythi
 - [[Visual Regression Testing]]
 - [[Test Double]]
 - [[Responsive Breakpoint]]
-- [[Code Coverage]]
+- [[Mars Polar Lander]]
 - [[Contract Testing]]
 - [[Mars Climate Orbiter]]
 - [[Hardware-in-the-Loop]]
+- [[Hubble Mirror Flaw]]

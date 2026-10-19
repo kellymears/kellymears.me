@@ -22,7 +22,7 @@ Countermeasures concern ordering and visibility: give the basis and the confiden
 - [[Checklist]]
 - [[Microsleep]]
 - [[Explainable AI]]
-- [[Inattentional Blindness]]
+- [[Gimli Glider]]
 - [[Algorithmic Bias]]
 - [[Sycophancy]]
 - [[Vigilance Decrement]]

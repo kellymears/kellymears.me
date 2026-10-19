@@ -21,7 +21,7 @@ Fuzzing pairs with [[Sanitizer|sanitizers]], compiler options that turn silent m
 Fuzzing is a major source of security fixes, because parsers of untrusted input, such as image decoders, font renderers, network protocols, and file formats, are where attackers aim. Google's OSS-Fuzz has run continuous fuzzing on open source projects since 2016 and found tens of thousands of bugs. It strengthens [[Supply Chain Security]] in a quiet way, catching flaws in the libraries everyone depends on. The input fuzzers reach for first, with malformed lengths, bad [[Character Encoding]], and deep nesting, is a list of the assumptions [[Postel's Law]] invites programs to make.
 
 ## See also
-- [[Memory Safety]]
+- [[Cloudflare Outage of 2019]]
 - [[Generative Adversarial Network]]
 - [[Monkey Testing]]
 - [[Morris Worm]]

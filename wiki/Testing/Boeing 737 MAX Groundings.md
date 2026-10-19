@@ -29,3 +29,4 @@ For testing, the case shows that a [[Safety Case]] is only as good as its assump
 ## See also
 - [[Goodhart's Law]]
 - [[Verification and Validation]]
+- [[Gimli Glider]]

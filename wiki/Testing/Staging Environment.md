@@ -31,6 +31,6 @@ Because staging can't fully reproduce production, many teams combine it with tec
 The trade-off is cost and confidence. A staging environment that mirrors production well is expensive to run and maintain, and one that doesn't gives false reassurance. The useful question is not "did it pass staging?" but "what kinds of failures could staging have caught, and what still needs another safeguard?"
 
 ## See also
-- [[Data Masking]]
+- [[GitLab Database Incident]]
 - [[Year 2000 Problem]]
 - [[Testing in Production]]

@@ -31,5 +31,5 @@ The more durable idea is the design goal behind the metric: build systems and te
 
 ## See also
 - [[Status Page]]
-- [[Bathtub Curve]]
+- [[Amazon S3 Outage of 2017]]
 - [[Knight Capital Incident]]

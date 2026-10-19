@@ -30,3 +30,4 @@ For software, the theory explains why large distributed systems fail in surprisi
 - [[Black Swan]]
 - [[Cynefin Framework]]
 - [[Just Culture]]
+- [[Gimli Glider]]

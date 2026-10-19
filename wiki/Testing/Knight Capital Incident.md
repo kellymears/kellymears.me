@@ -29,3 +29,4 @@ The lessons map onto standard delivery practice:
 - [[Left-Pad Incident]]
 - [[Blameless Postmortem]]
 - [[Mean Time to Recovery]]
+- [[Amazon S3 Outage of 2017]]
