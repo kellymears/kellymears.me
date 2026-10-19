@@ -27,6 +27,6 @@ Satisficing has its own risk: setting the bar too low, or never revisiting it. T
 
 ## See also
 - [[Reversible Decision]]
-- [[Sunk Cost Fallacy]]
+- [[Cynefin Framework]]
 - [[Wicked Problem]]
 - [[Interesting Decisions]]

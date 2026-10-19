@@ -29,5 +29,5 @@ Rare, extreme outcomes make the estimate fragile, since it depends on probabilit
 
 ## See also
 - [[Mental Accounting]]
-- [[Poker]]
+- [[Bayesian Inference]]
 - [[Relative Risk]]

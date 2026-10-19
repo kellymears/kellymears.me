@@ -36,5 +36,5 @@ SLOs depend on good measurement, the territory of [[Observability]]. They also d
 - [[Margin of Safety]]
 - [[Synthetic Monitoring]]
 - [[Site Reliability Engineering]]
-- [[Microservices]]
+- [[Control Chart]]
 - [[Load Shedding]]

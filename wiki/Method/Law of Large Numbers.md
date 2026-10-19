@@ -26,7 +26,7 @@ The reverse error is the **law of small numbers**, named by Amos Tversky and Dan
 The law also has conditions. Trials must be independent, and a sample that isn't drawn fairly converges, just as confidently, on the wrong answer; see [[Selection Bias]]. The underlying distribution must have a finite average. With heavy tails, rare huge values dominate, and the average can take far longer to settle or never settle at all; see [[Black Swan]].
 
 ## See also
-- [[Poker]]
+- [[Bayesian Inference]]
 - [[Mean and Median]]
 - [[Birthday Problem]]
 - [[Histogram]]

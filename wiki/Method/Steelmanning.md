@@ -27,8 +27,8 @@ Steelmanning has its own pitfalls. It can drift into arguing for a version of th
 In technical work, the same habit improves [[Code Review]] and design discussions. Before rejecting a proposed approach, explain why its author chose it and what it gets right. Often that reveals a constraint the reviewer missed, the lesson of [[Chesterton's Fence]], and an [[Adversarial Review]] is most useful when the critic understands what the design is trying to do.
 
 ## See also
-- [[Motivated Reasoning]]
-- [[Inversion]]
+- [[Peer Review]]
+- [[Devil's Advocate]]
 - [[Godwin's Law]]
 - [[Cunningham's Law]]
 - [[Naive Realism]]

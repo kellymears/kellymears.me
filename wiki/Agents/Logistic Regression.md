@@ -27,4 +27,4 @@ It's the standard baseline. A complex model that can't beat a well-built logisti
 
 ## See also
 - [[Precision and Recall]]
-- [[Bayes' Theorem]]
+- [[Linear Regression]]

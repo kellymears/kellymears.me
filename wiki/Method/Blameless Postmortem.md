@@ -29,6 +29,6 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[Status Page]]
 - [[Site Reliability Engineering]]
 - [[Hindsight Bias]]
-- [[Normalization of Deviance]]
+- [[Just Culture]]
 - [[Bug Triage]]
 - [[Git Blame]]

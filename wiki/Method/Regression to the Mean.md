@@ -15,7 +15,7 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 
 ## See also
 - [[Histogram]]
-- [[Outlier]]
+- [[Control Chart]]
 - [[Mean and Median]]
 - [[Simpson's Paradox]]
 
@@ -26,7 +26,7 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Hiccup]]
 - [[Low Back Pain]]
 - [[Gambler's Fallacy]]
-- [[Effect Size]]
+- [[Linear Regression]]
 - [[Hawthorne Effect]]
 - [[Representativeness Heuristic]]
 - [[Normal Distribution]]

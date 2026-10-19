@@ -25,7 +25,7 @@ The reforms are mostly about committing in advance. **Preregistration** records 
 ## See also
 - [[Meta-Analysis]]
 - [[Superconductivity]]
-- [[Priming]]
+- [[Peer Review]]
 - [[Stereotype Threat]]
 - [[Misattribution of Arousal]]
 - [[Bradford Hill Criteria]]

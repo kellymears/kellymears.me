@@ -22,8 +22,8 @@ The bigger practical danger is assuming normality where it doesn't hold. The the
 The habit worth keeping is to look at the data before assuming its shape. A histogram, or a check of how often extremes occur, reveals whether the bell fits, and summaries such as the median and percentiles hold up when it doesn't; see [[Regression to the Mean]] and [[Effect Size]].
 
 ## See also
-- [[Anomaly Detection]]
+- [[Control Chart]]
 - [[Box Plot]]
 - [[Elo Rating System]]
 - [[Benford's Law]]
-- [[Outlier]]
+- [[Linear Regression]]

@@ -24,3 +24,4 @@ The error matters most where it has consequences: it drives harsher judgments of
 - [[Naive Realism]]
 - [[Obedience to Authority]]
 - [[Social Identity Theory]]
+- [[Just Culture]]

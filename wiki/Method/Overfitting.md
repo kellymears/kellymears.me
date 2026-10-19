@@ -18,7 +18,7 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 - [[Double Descent]]
 - [[Abductive Reasoning]]
 - [[Multiple Comparisons Problem]]
-- [[Reward Hacking]]
+- [[Linear Regression]]
 
 ## Related
 - [[Support Vector Machine]]

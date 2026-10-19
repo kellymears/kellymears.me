@@ -30,6 +30,6 @@ Remedies start from taking another's view seriously: restate an opponent's posit
 
 ## See also
 - [[Spotlight Effect]]
-- [[Conformity]]
-- [[Motivated Reasoning]]
+- [[OODA Loop]]
+- [[Devil's Advocate]]
 - [[Psychological Distance]]

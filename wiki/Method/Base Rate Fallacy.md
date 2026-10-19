@@ -27,5 +27,5 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 - [[Anomaly Detection]]
 - [[Multiple Comparisons Problem]]
 - [[Choropleth Map]]
-- [[Pareidolia]]
+- [[Bayesian Inference]]
 - [[Naive Bayes]]

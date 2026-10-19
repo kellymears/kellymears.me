@@ -26,6 +26,6 @@ In software, the same ideas appear in release procedures, incident runbooks, and
 Checklists also have failure modes. Ticking boxes without performing the checks turns them into ritual; see [[Cargo Cult]]. Lists that grow after every incident become too long to use; see [[Feature Creep]].
 
 ## See also
-- [[Boeing 737 MAX Groundings]]
-- [[Inversion]]
+- [[Just Culture]]
+- [[Cynefin Framework]]
 - [[Failure Mode and Effects Analysis]]

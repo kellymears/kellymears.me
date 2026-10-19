@@ -30,7 +30,7 @@ Intervals carry over to engineering. Reporting a [[Benchmark]] as one number hid
 Most people are badly calibrated with their own intervals. Asked for 90% ranges on trivia questions, they capture the true answer far less than 90% of the time, a classic finding about overconfidence; see [[Calibration]].
 
 ## See also
-- [[Scatter Plot]]
+- [[Bayesian Inference]]
 - [[Relative Risk]]
 - [[Law of Large Numbers]]
 - [[Cone of Uncertainty]]

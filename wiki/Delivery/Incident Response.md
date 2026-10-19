@@ -30,7 +30,7 @@ Teams practice before real outages. Game days and [[Chaos Engineering]] inject f
 
 ## See also
 - [[Status Page]]
-- [[Syslog]]
+- [[Just Culture]]
 - [[Knight Capital Incident]]
 - [[Git Revert]]
-- [[Pager]]
+- [[OODA Loop]]

@@ -16,7 +16,7 @@ It also disciplines prose. "This cast is required because the checker demands it
 
 ## See also
 - [[Brandolini's Law]]
-- [[Burden of Proof]]
+- [[Devil's Advocate]]
 - [[Coverage Gate]]
 - [[Thought Experiment]]
 - [[Black Swan]]
@@ -25,7 +25,7 @@ It also disciplines prose. "This cast is required because the checker demands it
 ## Related
 - [[Glob]]
 - [[Abductive Reasoning]]
-- [[Hindsight Bias]]
+- [[Peer Review]]
 - [[Collatz Conjecture]]
 - [[Conspiracy Theory]]
 - [[Scientific Debugging]]

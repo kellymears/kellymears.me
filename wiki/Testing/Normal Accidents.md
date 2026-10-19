@@ -28,3 +28,5 @@ For software, the theory explains why large distributed systems fail in surprisi
 ## See also
 - [[Gall's Law]]
 - [[Black Swan]]
+- [[Cynefin Framework]]
+- [[Just Culture]]

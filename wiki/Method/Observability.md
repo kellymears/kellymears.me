@@ -20,8 +20,8 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 - [[Mean Time to Recovery]]
 - [[Histogram]]
 - [[Testing in Production]]
-- [[Logging]]
-- [[Packet Capture]]
+- [[OODA Loop]]
+- [[Control Chart]]
 - [[Syslog]]
 
 ## Related

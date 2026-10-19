@@ -28,7 +28,7 @@ The theory has critics, who note that real systems often have shifting or multip
 
 ## See also
 - [[Gantt Chart]]
-- [[Andon Cord]]
+- [[PDCA Cycle]]
 - [[Wicked Problem]]
 - [[Value Stream Mapping]]
 - [[Maximum Flow]]

@@ -23,8 +23,8 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 - [[Crash-Only Software]]
 
 ## Related
-- [[Unreachable Code]]
+- [[Cynefin Framework]]
 - [[Exception Handling]]
 - [[Exit Status]]
-- [[Reversible Decision]]
+- [[OODA Loop]]
 - [[Walking Skeleton]]

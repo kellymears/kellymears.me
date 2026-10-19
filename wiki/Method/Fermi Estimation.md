@@ -19,11 +19,11 @@ The method fails where its assumptions do. Heavy-tailed quantities have no typic
 ## See also
 - [[Logarithmic Scale]]
 - [[Percentage Point]]
-- [[Gantt Chart]]
+- [[Bayesian Inference]]
 - [[Fault Seeding]]
 - [[Benford's Law]]
 - [[First Principles Thinking]]
 - [[Superforecasting]]
-- [[Confidence Interval]]
+- [[Delphi Method]]
 - [[Cone of Uncertainty]]
 - [[Wisdom of the Crowd]]

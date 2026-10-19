@@ -25,7 +25,7 @@ Effect sizes in published research tend to be inflated. Small studies only reach
 Good practice reports the estimated effect with its [[Confidence Interval]], decides in advance what size would be worth acting on, and sizes the study so it could detect that.
 
 ## See also
-- [[Relative Risk]]
+- [[Linear Regression]]
 - [[Bradford Hill Criteria]]
 - [[Box Plot]]
 - [[Growth Mindset]]

@@ -14,8 +14,8 @@ The mechanism is an asymmetry of effort. Composing a correct answer from scratch
 The uncomfortable edge is that the law describes a manipulation tactic as much as an observed regularity: deliberately posting something wrong to provoke a reply is not an accident of forum culture, it is a strategy, and it works precisely because it is cheaper to state in [[Plain Language]] a claim someone will want to correct than to write the correct answer yourself.
 
 ## See also
-- [[Naming]]
-- [[Documentation Rot]]
+- [[Peer Review]]
+- [[Devil's Advocate]]
 - [[Collective Action]]
 - [[Knowledge Graph]]
 - [[Steelmanning]]

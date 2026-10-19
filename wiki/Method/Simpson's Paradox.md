@@ -14,7 +14,7 @@ In engineering terms, this shows up whenever someone compares a metric across tw
 The defense is the same move every time: before trusting an aggregate comparison, check it against the same comparison sliced by whatever variable might differ between the groups being compared, and don't average across categories you haven't confirmed are stable.
 
 ## See also
-- [[Correlation and Causation]]
+- [[Linear Regression]]
 - [[Box Plot]]
 - [[Regression to the Mean]]
 - [[Mean and Median]]

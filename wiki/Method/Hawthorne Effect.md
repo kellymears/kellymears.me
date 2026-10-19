@@ -31,4 +31,4 @@ The practical lesson is to assume observation has some effect and to design arou
 - [[Natural Experiment]]
 - [[Panopticon]]
 - [[Observational Study]]
-- [[Playtesting]]
+- [[Control Chart]]

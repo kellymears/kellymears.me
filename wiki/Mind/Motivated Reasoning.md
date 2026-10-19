@@ -35,3 +35,4 @@ Countermeasures that have some support:
 - [[Just-World Hypothesis]]
 - [[Dual Process Theory]]
 - [[Social Identity Theory]]
+- [[Devil's Advocate]]

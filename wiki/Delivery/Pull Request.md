@@ -28,5 +28,5 @@ Two mechanical notes. Changing only the target branch of a pull request does not
 - [[Gerrit]]
 - [[Ephemeral Environment]]
 - [[Code Owners]]
-- [[Diff]]
+- [[Peer Review]]
 - [[Branch Protection]]

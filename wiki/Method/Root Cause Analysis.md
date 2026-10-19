@@ -16,10 +16,10 @@ The same instinct applies one level up. When a fix introduces a [[Regression]], 
 ## See also
 - [[Abductive Reasoning]]
 - [[Ariane 5 Flight 501]]
-- [[Confounding]]
+- [[PDCA Cycle]]
 - [[Failure Mode and Effects Analysis]]
-- [[Data Lineage]]
-- [[Hindsight Bias]]
+- [[Just Culture]]
+- [[Control Chart]]
 - [[Mars Climate Orbiter]]
 - [[Scientific Debugging]]
 - [[Andon Cord]]

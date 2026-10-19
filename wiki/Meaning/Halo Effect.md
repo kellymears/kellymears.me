@@ -24,3 +24,4 @@ The effect is worth distinguishing from ordinary correlation, where traits reall
 - [[Misattribution of Arousal]]
 - [[Social Identity Theory]]
 - [[Radar Chart]]
+- [[Delphi Method]]

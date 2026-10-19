@@ -28,6 +28,6 @@ Reversibility also cuts against a common bias. Judging whether to continue shoul
 Not everything that looks reversible is. Trust, reputation, and users' habits rebuild slowly even after a change is reverted, and data that leaked can't be recalled. Asking what can't be undone before acting is itself a kind of inversion; see [[Inversion]] and [[Pre-mortem]].
 
 ## See also
-- [[Fail Fast]]
-- [[Legacy Game]]
+- [[OODA Loop]]
+- [[Cynefin Framework]]
 - [[Psychological Distance]]

@@ -24,5 +24,5 @@ Software teams borrowed the idea in several forms:
 The failure modes are familiar. If the line stops too often for noise, people learn to ignore or bypass the signal; see [[Flaky Test]] and [[Alarm fatigue]]. If stopping triggers a hunt for someone to blame, people stop pulling; see [[Blameless Postmortem]]. The physical cord also prevents errors no better than the people watching; mistake-proofing the process is the complementary half; see [[Poka-yoke]].
 
 ## See also
-- [[Kanban]]
-- [[Theory of Constraints]]
+- [[PDCA Cycle]]
+- [[Just Culture]]

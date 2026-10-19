@@ -26,10 +26,10 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 
 ## See also
 - [[Five Whys]]
-- [[Psychological Safety]]
+- [[Delphi Method]]
 - [[Second-Order Thinking]]
 - [[Failure Mode and Effects Analysis]]
 - [[Inversion]]
 - [[Thought Experiment]]
 - [[Architecture Decision Record]]
-- [[Checklist]]
+- [[Devil's Advocate]]

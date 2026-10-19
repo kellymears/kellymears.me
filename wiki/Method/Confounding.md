@@ -33,7 +33,7 @@ A useful habit when shown a correlation is to ask what else differs between the 
 ## See also
 - [[Base Rate Fallacy]]
 - [[Survivorship Bias]]
-- [[Root Cause Analysis]]
+- [[Linear Regression]]
 - [[Berkson's Paradox]]
 - [[Natural Experiment]]
 - [[Ecological Fallacy]]

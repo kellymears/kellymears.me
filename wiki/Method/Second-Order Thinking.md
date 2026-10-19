@@ -30,6 +30,6 @@ Practical techniques:
 There is a limit. Each step of prediction is less certain than the one before, and few third-order forecasts deserve much confidence; see [[Cone of Uncertainty]]. Trying to anticipate everything can stall decisions entirely. The useful level is usually one or two steps beyond the obvious, plus the willingness to watch and correct after acting.
 
 ## See also
-- [[Opportunity Cost]]
-- [[Wicked Problem]]
+- [[OODA Loop]]
+- [[Cynefin Framework]]
 - [[Inversion]]

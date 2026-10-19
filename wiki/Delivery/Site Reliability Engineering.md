@@ -29,5 +29,5 @@ SRE adopted badly becomes an operations team renamed. Without error budgets that
 
 ## See also
 - [[Status Page]]
-- [[Uninterruptible Power Supply]]
-- [[Configuration Drift]]
+- [[Control Chart]]
+- [[Just Culture]]

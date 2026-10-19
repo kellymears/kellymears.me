@@ -36,5 +36,5 @@ Two purposes differ. *Exploratory* visualization helps an analyst find what's in
 ## See also
 - [[Radar Chart]]
 - [[Box Plot]]
-- [[Line Chart]]
+- [[Linear Regression]]
 - [[Infographic]]

@@ -30,3 +30,4 @@ Removing gridlines, borders, and markers that carry no information usually helps
 - [[Scatter Plot]]
 - [[Data Journalism]]
 - [[Spreadsheet]]
+- [[Control Chart]]

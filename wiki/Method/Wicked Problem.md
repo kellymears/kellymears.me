@@ -33,5 +33,5 @@ Since wicked problems can't be solved by analysis alone, the approaches that hel
 The concept also warns against a common error: treating a wicked problem as tame, fixing a measurable proxy, and declaring victory; see [[Goodhart's Law]].
 
 ## See also
-- [[Map and Territory]]
+- [[Cynefin Framework]]
 - [[Theory of Constraints]]

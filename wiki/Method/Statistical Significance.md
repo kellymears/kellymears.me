@@ -30,5 +30,5 @@ Product teams meet the same traps in [[AB Testing]], especially by checking resu
 - [[Bradford Hill Criteria]]
 - [[Multiple Comparisons Problem]]
 - [[Relative Risk]]
-- [[Burden of Proof]]
+- [[Bayesian Inference]]
 - [[Meta-Analysis]]

@@ -37,3 +37,4 @@ The opposite failure is adopting a new tool for every problem because it is new;
 ## See also
 - [[Cargo Cult]]
 - [[McNamara Fallacy]]
+- [[Cynefin Framework]]

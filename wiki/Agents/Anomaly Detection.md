@@ -27,5 +27,5 @@ Two related tasks are worth separating. **Outlier detection** looks for oddities
 In software operations, anomaly detection on metrics is a standard feature of monitoring tools, alerting on unusual latency or error rates instead of fixed thresholds; see [[Observability]]. A detector learns only from the past, so its blind spot everywhere is the event unlike anything in its history; see [[Black Swan]]. Good systems route what they flag to a person who can judge it.
 
 ## See also
-- [[Phishing]]
+- [[Control Chart]]
 - [[Naive Bayes]]

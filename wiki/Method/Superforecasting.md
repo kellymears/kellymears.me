@@ -30,6 +30,7 @@ There are limits. The tournaments asked well-defined questions resolving within 
 Uncertainty also widens with distance; see [[Cone of Uncertainty]].
 
 ## See also
-- [[Expected Value]]
+- [[Delphi Method]]
 - [[Dunning-Kruger Effect]]
 - [[Motivated Reasoning]]
+- [[Bayesian Inference]]
