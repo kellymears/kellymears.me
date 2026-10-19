@@ -30,7 +30,7 @@ Honest indicators matter. A bar that sits at 99 percent, or one that jumps from 
 Indicators have accessibility needs too. Spinning and pulsing animation should respect [[Reduced Motion]], screen readers need status announced through [[ARIA]], and determinate progress helps people with [[Time Blindness]] who struggle to judge how long they've been waiting. A load that shifts content when it completes is measured by [[Core Web Vitals]] and punished in search ranking.
 
 ## See also
-- [[Bullet Graph]]
+- [[Wizard]]
 - [[Pull-to-Refresh]]
 - [[Experience Point]]
 - [[Heads-Up Display]]

@@ -30,5 +30,5 @@ The approach shares principles with layout on the web. A tiling layout is a [[Gr
 - [[Terminal Multiplexer]]
 - [[Bento Grid]]
 - [[Ricing]]
-- [[Attention Residue]]
+- [[De Stijl]]
 - [[Flexbox]]

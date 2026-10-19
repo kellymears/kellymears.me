@@ -26,7 +26,7 @@ Stored-program computers that kept instructions in memory, along with magnetic t
 
 ## See also
 - [[Barcode]]
-- [[Magnetic Tape]]
+- [[Movable Type]]
 - [[Microfilm]]
 - [[Double-Entry Bookkeeping]]
 - [[Radix Sort]]

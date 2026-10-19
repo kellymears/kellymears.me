@@ -29,7 +29,7 @@ E-readers and receipt printers, limited to black and white, still halftone every
 
 ## See also
 - [[Color Quantization]]
-- [[HSL and HSV]]
+- [[Movable Type]]
 - [[Unsharp Masking]]
 - [[ASCII Art]]
 - [[Generative Art]]

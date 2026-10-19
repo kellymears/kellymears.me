@@ -22,9 +22,9 @@ Progressive disclosure is one of the load-bearing arguments for keeping a produc
 
 ## Related
 - [[Context Menu]]
-- [[Bottom Sheet]]
+- [[Wizard]]
 - [[Hamburger Menu]]
 - [[Faceted Search]]
 - [[Tesler's Law]]
 - [[Command Palette]]
-- [[Tooltip]]
+- [[Dropdown Menu]]

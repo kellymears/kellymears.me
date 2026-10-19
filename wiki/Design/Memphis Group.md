@@ -24,3 +24,6 @@ Memphis shows how design movements cycle. One generation's ugliness becomes the 
 - [[Color Theory]]
 - [[Brutalist Web Design]]
 - [[Aesthetic-Usability Effect]]
+- [[Art Nouveau]]
+- [[De Stijl]]
+- [[Arts and Crafts Movement]]

@@ -21,11 +21,11 @@ The main risk of a grid system is treating it as decoration rather than constrai
 - [[Helvetica]]
 
 ## Related
-- [[Bento Grid]]
+- [[De Stijl]]
 - [[Aspect Ratio]]
 - [[Infographic]]
 - [[Optical Alignment]]
-- [[CSS Grid]]
+- [[Rule of Thirds]]
 - [[Flexbox]]
 - [[Box Model]]
-- [[Masonry Layout]]
+- [[Constructivism]]

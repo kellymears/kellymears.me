@@ -34,7 +34,7 @@ In databases, collation is a property of each text column, and it matters well b
 Inconsistent collation between layers causes subtle bugs. If an application sorts differently from its database, pagination that resumes from the last value seen can skip or repeat rows; see [[Pagination]]. Search usually wants looser matching still, ignoring accents and case entirely; see [[Stemming and Lemmatization]].
 
 ## See also
-- [[Inverted Index]]
+- [[Blackletter]]
 - [[Transliteration]]
 - [[Postal Address]]
 - [[Mojibake]]

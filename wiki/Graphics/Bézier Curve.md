@@ -25,9 +25,9 @@ Their usefulness comes from a few properties. Moving a control point changes the
 Related curves handle cases Béziers handle poorly. B-splines and NURBS, used in industrial CAD, keep smoothness automatically across many segments, and Catmull–Rom splines pass through every control point, which suits animation paths through fixed positions. Modern text renderers sometimes convert outlines into a [[Signed Distance Field]] or evaluate curves directly in a [[Shader]], so glyphs stay crisp at any zoom.
 
 ## See also
-- [[Twelve Basic Principles of Animation]]
+- [[Calligraphy]]
 - [[Utah Teapot]]
 - [[NURBS]]
 - [[Keyframe Animation]]
 - [[Web Animations API]]
-- [[Catmull-Rom Spline]]
+- [[Art Nouveau]]

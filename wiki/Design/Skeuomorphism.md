@@ -14,7 +14,7 @@ The reaction was flat design (iOS 7, Material Design's first version), which str
 Skeuomorphism is the clearest historical case study for [[Affordance]] because it makes the mechanism visible — it borrowed a physical object's affordance on purpose, then had to give it up once the borrowed familiarity stopped paying rent.
 
 ## See also
-- [[Metonymy]]
+- [[Art Nouveau]]
 - [[Frutiger Aero]]
 - [[Memphis Group]]
 - [[Natural Mapping]]
@@ -23,7 +23,7 @@ Skeuomorphism is the clearest historical case study for [[Affordance]] because i
 - [[Conceptual Metaphor]]
 - [[Diegetic Interface]]
 - [[Slider]]
-- [[Art Deco]]
+- [[Arts and Crafts Movement]]
 - [[Form Follows Function]]
 - [[Toggle Switch]]
 - [[Retronym]]

@@ -25,8 +25,8 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 ## Related
 - [[Endianness]]
 - [[Glob]]
-- [[Language Tag]]
+- [[Calligraphy]]
 - [[Base64]]
 - [[Stemming and Lemmatization]]
-- [[Lexical Analysis]]
+- [[Blackletter]]
 - [[Byte-Pair Encoding]]

@@ -29,7 +29,7 @@ On screens, typefaces depend on [[Font Rendering]], which turns outlines into pi
 In a [[Design System]], typefaces are recorded as a [[Design Token]], so they change consistently across a product. Type choices carry [[Accessibility]] consequences too: thin weights, low contrast, and decorative faces exclude readers with low vision or reading differences.
 
 ## See also
-- [[OpenType Features]]
-- [[Helvetica]]
-- [[Frutiger Aero]]
-- [[Art Deco]]
+- [[Blackletter]]
+- [[Constructivism]]
+- [[Arts and Crafts Movement]]
+- [[Art Nouveau]]

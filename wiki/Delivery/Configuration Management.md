@@ -25,4 +25,4 @@ Configurations need credentials for databases and services. Writing them into th
 
 ## See also
 - [[Change Advisory Board]]
-- [[Twelve-Factor App]]
+- [[Wizard]]

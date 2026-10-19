@@ -29,4 +29,4 @@ Measure [[Line Length|line length]] too. Readability falls off sharply beyond ro
 - [[Paper Size]]
 - [[Helvetica]]
 - [[Optical Alignment]]
-- [[Typeface]]
+- [[Movable Type]]

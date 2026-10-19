@@ -33,4 +33,4 @@ Facets cause trouble for crawlers. Every combination of filters can produce its 
 - [[Web Directory]]
 - [[Card Sorting]]
 - [[Slider]]
-- [[Phonetic Algorithm]]
+- [[Dropdown Menu]]

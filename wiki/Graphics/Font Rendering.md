@@ -29,6 +29,6 @@ Blending matters too. Whether coverage is blended in linear light or gamma-encod
 Games and GPUs often render glyphs once into a texture atlas and reuse them. Valve popularized storing glyphs as a [[Signed Distance Field]] in 2007, keeping edges sharp at any scale. Terminals render a fixed grid of glyphs, the basis of every [[Terminal User Interface]]. On the web, [[Variable Fonts]] and [[Web Font Loading]] add more decisions about weight and when text first appears.
 
 ## See also
-- [[Unsharp Masking]]
-- [[Pixel]]
-- [[Catmull-Rom Spline]]
+- [[Blackletter]]
+- [[Calligraphy]]
+- [[Movable Type]]

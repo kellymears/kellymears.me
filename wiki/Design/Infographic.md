@@ -29,6 +29,6 @@ Newsrooms now also build interactive and scrolling versions, combining reporting
 ## See also
 - [[Venn Diagram]]
 - [[Art Deco]]
-- [[Memphis Group]]
-- [[Flowchart]]
-- [[Bullet Graph]]
+- [[Constructivism]]
+- [[Rule of Thirds]]
+- [[Art Nouveau]]

@@ -36,4 +36,4 @@ Programming tools have shown how much good messages help. The Elm compiler's 201
 - [[Therac-25]]
 - [[Form Validation]]
 - [[Forcing Function]]
-- [[Bug Triage]]
+- [[Wizard]]

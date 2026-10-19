@@ -23,4 +23,4 @@ Its reach now extends well beyond its own pages. Search engines quote it in answ
 
 ## See also
 - [[Citation Index]]
-- [[OpenStreetMap]]
+- [[Movable Type]]

@@ -32,3 +32,4 @@ Ratios also interact with interlaced broadcast formats; see [[Interlacing]] and 
 ## See also
 - [[Grid System]]
 - [[Perspective Projection]]
+- [[Rule of Thirds]]

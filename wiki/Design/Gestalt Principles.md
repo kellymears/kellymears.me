@@ -16,14 +16,14 @@ The practical failure mode is accidental grouping: putting a label closer to the
 Gestalt grouping is the perceptual substrate that a [[Design System]]'s spacing scale and component library are built to exploit consistently, and it's also why a well-structured [[Grid System]] reads as ordered even before anyone examines its content.
 
 ## See also
-- [[Optical Illusion]]
+- [[De Stijl]]
 - [[Insight]]
 - [[Transit Map]]
 - [[Tabs]]
 
 ## Related
 - [[Smear Frame]]
-- [[Apparent Motion]]
+- [[Rule of Thirds]]
 - [[Optical Alignment]]
 - [[Multistable Perception]]
 - [[Venn Diagram]]

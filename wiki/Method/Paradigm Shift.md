@@ -24,3 +24,4 @@ The term itself shifted. The philosopher Margaret Masterman counted more than tw
 ## See also
 - [[Abductive Reasoning]]
 - [[Replication Crisis]]
+- [[Movable Type]]

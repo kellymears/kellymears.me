@@ -29,7 +29,7 @@ It also has accessibility consequences. A button labeled only with an icon needs
 The best way to judge microcopy is to watch people use it. [[Usability Testing]] quickly reveals labels people misread, and replacing one ambiguous word often fixes what looked like a deeper design problem.
 
 ## See also
-- [[Tooltip]]
+- [[Wizard]]
 - [[Toast Notification]]
 - [[Toggle Switch]]
 - [[Text Truncation]]

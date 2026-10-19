@@ -19,5 +19,8 @@ Familiarity bred backlash. Critics called it bland, overused, and the typeface o
 Helvetica has been redrawn several times, notably as Neue Helvetica in 1983 and Helvetica Now in 2019. Its ubiquity shows how defaults spread: a typeface bundled with tools gets chosen without anyone choosing it; see [[Default effect]].
 
 ## See also
-- [[Bauhaus]]
+- [[Movable Type]]
 - [[Dieter Rams]]
+- [[Constructivism]]
+- [[Arts and Crafts Movement]]
+- [[Blackletter]]

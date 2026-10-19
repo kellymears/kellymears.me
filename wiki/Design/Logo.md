@@ -34,5 +34,5 @@ Claims that famous logos were built on the golden ratio are mostly drawn on afte
 A logo is the smallest unit of a larger visual identity, which also specifies typefaces, colors, and usage rules; see [[Design System]].
 
 ## See also
-- [[Art Deco]]
-- [[Helvetica]]
+- [[Art Nouveau]]
+- [[Constructivism]]

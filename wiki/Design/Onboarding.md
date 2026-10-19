@@ -33,6 +33,6 @@ The words matter as much as the flow. Welcome messages, button labels, and empty
 Onboarding is usually measured by activation, the share of new users who reach that first success, and by how many return in the following weeks. Pushing those numbers with nagging emails and streaks can raise them without making the product more useful, which is why such metrics need watching; see [[Goodhart's Law]].
 
 ## See also
-- [[Gamification]]
+- [[Wizard]]
 - [[Good First Issue]]
 - [[Learning Curve]]

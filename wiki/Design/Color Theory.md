@@ -30,8 +30,8 @@ Three practical cautions:
 - **Warmth.** Warm and cool are borrowed from light sources, where low color temperatures look amber; see [[Color Temperature]].
 
 ## See also
-- [[HSL and HSV]]
+- [[Art Nouveau]]
 - [[Venn Diagram]]
-- [[Logo]]
+- [[De Stijl]]
 - [[Chroma Key]]
 - [[Transit Map]]

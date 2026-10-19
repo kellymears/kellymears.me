@@ -21,7 +21,7 @@ Practical hazards accumulate around the details. Some attributes are computed by
 
 ## Related
 - [[Accordion]]
-- [[Focus Management]]
+- [[Dropdown Menu]]
 - [[Popover API]]
 - [[UI Primitive]]
 - [[Accessibility Testing]]

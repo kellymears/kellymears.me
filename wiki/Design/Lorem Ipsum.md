@@ -27,7 +27,8 @@ The same lesson appears in software testing. Sample data that is too clean, ever
 Lorem ipsum remains useful early on, in a [[Wireframe]] where the point is structure and nobody should be reading yet.
 
 ## See also
-- [[Grid System]]
+- [[Movable Type]]
 - [[Swiss Style]]
 - [[Atomic Design]]
 - [[Paper Size]]
+- [[Blackletter]]

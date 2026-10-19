@@ -30,5 +30,5 @@ Browser tabs created habits of their own. People keep dozens open as reminders, 
 
 ## See also
 - [[Accordion]]
-- [[Desktop Metaphor]]
+- [[Dropdown Menu]]
 - [[Bottom Sheet]]

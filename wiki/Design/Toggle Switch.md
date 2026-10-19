@@ -30,4 +30,4 @@ The starting position of a switch is a decision with consequences. Most people n
 
 ## See also
 - [[Date Picker]]
-- [[Slider]]
+- [[Dropdown Menu]]

@@ -27,8 +27,8 @@ The legacy is mixed. Critics argue that functionalism became a style of its own,
 
 ## See also
 - [[Generative Art]]
-- [[Art Deco]]
-- [[Helvetica]]
-- [[Memphis Group]]
+- [[Art Nouveau]]
+- [[Constructivism]]
+- [[De Stijl]]
 - [[Dieter Rams]]
 - [[Brutalist Web Design]]

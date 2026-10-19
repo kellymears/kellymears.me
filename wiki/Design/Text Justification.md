@@ -31,5 +31,6 @@ Readability is the case against justification on screens. Uneven spacing disrupt
 
 ## See also
 - [[Typeface]]
-- [[Text Truncation]]
+- [[Movable Type]]
 - [[Drop Cap]]
+- [[Blackletter]]

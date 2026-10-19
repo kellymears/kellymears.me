@@ -24,8 +24,8 @@ That is the practical lesson. Ratios like 3:2, 4:3, or the √2 of A4 paper serv
 
 ## See also
 - [[Art Deco]]
-- [[Aesthetic-Usability Effect]]
-- [[Bauhaus]]
+- [[Rule of Thirds]]
+- [[Art Nouveau]]
 - [[Paper Size]]
 - [[Fibonacci Sequence]]
 - [[Aspect Ratio]]

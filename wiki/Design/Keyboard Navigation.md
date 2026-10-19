@@ -25,7 +25,7 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 - [[Data Table]]
 - [[Masonry Layout]]
 - [[Carousel]]
-- [[Focus Indicator]]
+- [[Dropdown Menu]]
 - [[Accessibility Testing]]
 - [[Command Palette]]
 - [[Tooltip]]

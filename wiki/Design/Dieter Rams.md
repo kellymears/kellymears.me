@@ -32,6 +32,6 @@ The "as little design as possible" principle maps onto software, where it argues
 His principles are often paired with the older slogan they extend; see [[Form Follows Function]].
 
 ## See also
-- [[Memphis Group]]
-- [[Helvetica]]
-- [[Brutalist Web Design]]
+- [[De Stijl]]
+- [[Arts and Crafts Movement]]
+- [[Art Nouveau]]

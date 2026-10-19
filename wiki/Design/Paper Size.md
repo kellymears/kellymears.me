@@ -24,6 +24,8 @@ For designers the difference matters more than it looks. A4 is narrower and tall
 Page proportions shape layout traditions too. Book designers have long used other ratios, and the A-series ratio is often confused with the golden ratio, which is about 1.618, not 1.414; see [[Golden Ratio]]. Grid-based layout and modular type scales also work by repeated, consistent proportions; see [[Grid System]] and [[Typographic Scale]]. On the web, print stylesheets can set the page size and margins for printing, a rarely used corner of CSS; see [[Responsive Breakpoint]].
 
 ## See also
-- [[Swiss Style]]
+- [[Movable Type]]
 - [[White Space]]
 - [[Aspect Ratio]]
+- [[Arts and Crafts Movement]]
+- [[Blackletter]]

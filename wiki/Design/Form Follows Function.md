@@ -26,7 +26,7 @@ The slogan also has a failure mode in imitation. Copying the look of functional 
 Dieter Rams later restated the principle for industrial design as "as little design as possible," with the emphasis on honesty and usefulness rather than on bareness for its own sake; see [[Dieter Rams]]. The principle survives best in that form: a test of whether each element earns its place, not a ban on beauty.
 
 ## See also
-- [[Memphis Group]]
-- [[Art Deco]]
+- [[Constructivism]]
+- [[Art Nouveau]]
 - [[Brutalist Web Design]]
-- [[Helvetica]]
+- [[Arts and Crafts Movement]]

@@ -35,5 +35,5 @@ OCR'd text is often stored invisibly beneath the scanned image in a PDF, so a do
 
 ## See also
 - [[Data Labeling]]
-- [[Dark Data]]
+- [[Calligraphy]]
 - [[Data Journalism]]

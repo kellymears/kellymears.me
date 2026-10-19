@@ -19,12 +19,12 @@ Fitts's Law and Hick's Law are often cited together because they cover the two h
 - [[Call to Action]]
 - [[Reaction Time]]
 - [[Context Menu]]
-- [[Decision Fatigue]]
+- [[Dropdown Menu]]
 
 ## Related
 - [[Affordance]]
 - [[Interesting Decisions]]
-- [[Mental Model]]
+- [[Wizard]]
 - [[Faceted Search]]
 - [[Command Palette]]
 - [[Autocomplete]]

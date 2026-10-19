@@ -21,4 +21,5 @@ Losing information is the main risk. Many systems can't be reversed, so romanize
 ## See also
 - [[Internationalized Domain Name]]
 - [[Mojibake]]
-- [[Gazetteer]]
+- [[Calligraphy]]
+- [[Blackletter]]

@@ -20,7 +20,7 @@ Positioning arrived separately. A popover in the top layer has escaped its paren
 Together these features replace much of what component libraries shipped as script, a recurring pattern in which a widespread workaround becomes a platform feature; see [[Polyfill]]. Because the attributes work without script, popovers fit pages that load progressively; see [[Progressive Enhancement]]. They cover dropdowns, menus triggered by right-clicks, and teaching hints; see [[Context Menu]].
 
 ## See also
-- [[Focus Management]]
+- [[Dropdown Menu]]
 - [[Hamburger Menu]]
 - [[Bottom Sheet]]
 - [[Focus Indicator]]

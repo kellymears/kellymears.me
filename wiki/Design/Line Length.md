@@ -28,7 +28,7 @@ Good line length is one of the cheapest improvements to readability, and it supp
 
 ## See also
 - [[Drop Cap]]
-- [[Golden Ratio]]
+- [[Movable Type]]
 - [[Text Truncation]]
 - [[Speed Reading]]
 - [[Closed Captions]]

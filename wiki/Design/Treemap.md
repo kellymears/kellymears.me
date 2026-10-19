@@ -26,7 +26,7 @@ Related forms show the same hierarchy differently. Sunburst charts use concentri
 
 ## See also
 - [[Sankey Diagram]]
-- [[Bento Grid]]
+- [[De Stijl]]
 - [[Choropleth Map]]
 - [[Hierarchical Data]]
 - [[Pie Chart]]

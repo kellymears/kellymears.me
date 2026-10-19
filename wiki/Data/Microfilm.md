@@ -26,4 +26,4 @@ Filming also had a cost. Many libraries discarded original newspapers after micr
 - [[Freedom of Information]]
 - [[Archival Science]]
 - [[Internet Archive]]
-- [[Magnetic Tape]]
+- [[Movable Type]]

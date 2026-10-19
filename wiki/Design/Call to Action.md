@@ -27,5 +27,5 @@ These raise short-term conversions while eroding trust, and regulators increasin
 Users also learn to ignore elements that look like advertising, so calls to action styled as banners can become invisible; see [[Banner Blindness]]. The most dependable approach is plain: make the next step obvious, describe it accurately, and make the alternative just as easy to find.
 
 ## See also
-- [[Information Scent]]
+- [[Constructivism]]
 - [[Bento Grid]]

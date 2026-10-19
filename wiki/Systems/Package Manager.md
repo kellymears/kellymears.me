@@ -21,7 +21,7 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 - [[Node.js]]
 - [[Dependency Confusion]]
 - [[Filesystem Hierarchy Standard]]
-- [[License Compatibility]]
+- [[Wizard]]
 - [[Dynamic Linking]]
 
 ## Related

@@ -36,3 +36,4 @@ Its cousins share its weakness. The vertical three-dot "kebab" and horizontal "m
 - [[Sticky Header]]
 - [[Popover API]]
 - [[Bottom Sheet]]
+- [[Dropdown Menu]]

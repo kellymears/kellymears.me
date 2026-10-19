@@ -31,6 +31,6 @@ Eye movements also reveal attention, fatigue, and possibly health, so gaze data 
 
 ## See also
 - [[Speed Reading]]
-- [[Foveated Rendering]]
+- [[Rule of Thirds]]
 - [[Astigmatism]]
 - [[Afterimage]]

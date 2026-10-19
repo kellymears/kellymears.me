@@ -21,7 +21,7 @@ The concept travels beyond nations. Fandoms, online forums, followers of a podca
 The same machinery can also split communities. When media fragments, people can come to imagine different communities sharing one territory; see [[Filter Bubble]].
 
 ## See also
-- [[Diglossia]]
+- [[Movable Type]]
 - [[Language Death]]
-- [[Radio Broadcasting]]
+- [[Constructivism]]
 - [[Flashbulb Memory]]

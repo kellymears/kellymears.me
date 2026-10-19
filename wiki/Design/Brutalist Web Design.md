@@ -29,6 +29,6 @@ The impulse continues among personal websites built by hand; see [[IndieWeb]].
 
 ## See also
 - [[Memphis Group]]
-- [[Bauhaus]]
+- [[Constructivism]]
 - [[Ricing]]
 - [[Glassmorphism]]

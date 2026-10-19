@@ -24,3 +24,4 @@ Loading items in batches as the user scrolls keeps long walls fast; see [[Lazy L
 ## See also
 - [[Grid System]]
 - [[Responsive Web Design]]
+- [[De Stijl]]

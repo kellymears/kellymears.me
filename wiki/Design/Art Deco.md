@@ -22,3 +22,7 @@ The style returns regularly. It was revived in the late 1960s, again in the 1980
 ## See also
 - [[Golden Ratio]]
 - [[Visual Hierarchy]]
+- [[Art Nouveau]]
+- [[De Stijl]]
+- [[Constructivism]]
+- [[Arts and Crafts Movement]]

@@ -21,5 +21,5 @@ Bento grids resemble other ways of dividing space. Dashboards arrange widgets in
 Like many web design fashions, the bento grid spread partly because it was easy to copy and photographed well in design showcases. Its staying power will depend on whether it continues to communicate or merely signals that a site is current; see [[Aesthetic-Usability Effect]].
 
 ## See also
-- [[Small Multiples]]
-- [[Masonry Layout]]
+- [[De Stijl]]
+- [[Rule of Thirds]]

@@ -18,7 +18,7 @@ The critique cuts the other way with equal force: naming something a moral panic
 - [[Godwin's Law]]
 - [[Toyota Unintended Acceleration]]
 - [[Pinball]]
-- [[Radio Broadcasting]]
+- [[Movable Type]]
 - [[Umami]]
 - [[Agenda-Setting]]
 - [[Risk Compensation]]

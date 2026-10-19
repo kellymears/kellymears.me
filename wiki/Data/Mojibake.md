@@ -24,6 +24,6 @@ The fix is mostly organizational. Choosing UTF-8 everywhere, declaring it explic
 Being lenient about input can make things worse, since a system that silently accepts mislabeled text spreads it further; see [[Postel's Law]] and [[Garbage In, Garbage Out]]. Testers deliberately fill interfaces with accented and non-Latin characters to catch encoding bugs before users do; see [[Pseudolocalization]]. Encodings are one of many areas where programmers' assumptions about text fail; see [[Falsehoods Programmers Believe]].
 
 ## See also
-- [[Language Tag]]
+- [[Blackletter]]
 - [[Transliteration]]
 - [[Personal Name]]

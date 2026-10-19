@@ -30,3 +30,4 @@ Agile teams often estimate with a modified Fibonacci scale, so that larger estim
 ## See also
 - [[Collatz Conjecture]]
 - [[Fractal]]
+- [[Rule of Thirds]]

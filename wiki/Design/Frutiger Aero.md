@@ -23,3 +23,5 @@ The visual effects themselves came back sooner. Translucent, blurred panels retu
 ## See also
 - [[Gaussian blur]]
 - [[Aesthetic-Usability Effect]]
+- [[Art Nouveau]]
+- [[Arts and Crafts Movement]]

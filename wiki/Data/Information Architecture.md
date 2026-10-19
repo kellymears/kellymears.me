@@ -26,5 +26,5 @@ At scale the interesting problems become taxonomic: whether structure should be 
 - [[Archival Science]]
 - [[Transit Map]]
 - [[Breadcrumb]]
-- [[Library Classification]]
+- [[Dropdown Menu]]
 - [[Wireframe]]

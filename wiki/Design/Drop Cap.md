@@ -26,4 +26,7 @@ Drop caps work best at the start of long text in a generous layout. They look od
 
 ## See also
 - [[Text Justification]]
-- [[Iconography]]
+- [[Movable Type]]
+- [[Arts and Crafts Movement]]
+- [[Blackletter]]
+- [[Calligraphy]]

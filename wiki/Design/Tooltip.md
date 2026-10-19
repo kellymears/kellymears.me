@@ -27,7 +27,7 @@ A short delay, often a few hundred milliseconds, prevents tooltips from flashing
 Positioning is harder than it looks. A tooltip must avoid being clipped by a scrolling container, must flip sides near the edge of the screen, and must sit above other layers, which runs into [[Stacking Context]] rules. Libraries traditionally render tooltips through a [[Portal]] at the end of the document and compute positions in script. The web platform now handles much of this natively: the HTML `popover` attribute puts content in the browser's top layer, and CSS anchor positioning tethers it to its trigger. [[Headless Component]] libraries package the remaining behavior.
 
 ## See also
-- [[Iconography]]
+- [[Dropdown Menu]]
 - [[Text Truncation]]
 - [[ARIA]]
 - [[Popover API]]
