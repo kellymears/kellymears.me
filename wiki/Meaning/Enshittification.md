@@ -32,4 +32,4 @@ Critics note the term is vivid but loose, sometimes applied to any product chang
 ## See also
 - [[Paywall]]
 - [[Two-Sided Market]]
-- [[GeoCities]]
+- [[Software Forge]]

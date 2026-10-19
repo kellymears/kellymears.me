@@ -28,7 +28,7 @@ The limits are real, and worth stating plainly. The Lindy effect is a probabilis
 It pairs with [[Chesterton's Fence]], which counsels understanding why something old exists before removing it, and with [[Gall's Law]], which says working complex systems grow from working simple ones.
 
 ## See also
-- [[Not Invented Here]]
+- [[Technology Radar]]
 - [[Worse Is Better]]
 - [[Bathtub Curve]]
 - [[Radioactive Decay]]

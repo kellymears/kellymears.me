@@ -27,3 +27,4 @@ Gantt charts remain standard in construction, manufacturing, events, and anywher
 ## See also
 - [[Value Stream Mapping]]
 - [[Story Points]]
+- [[Burndown Chart]]

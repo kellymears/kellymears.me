@@ -21,7 +21,7 @@ There is also a duplication hazard: two branches that each added the same conten
 ## See also
 - [[Subversion]]
 - [[Rebase]]
-- [[Semantic Conflict]]
+- [[Git Object Model]]
 - [[Version Control]]
 - [[Merge Train]]
 

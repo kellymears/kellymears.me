@@ -22,7 +22,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[Zero-Knowledge Proof]]
 
 ## Related
-- [[Blockchain]]
+- [[Git Object Model]]
 - [[Locality-Sensitive Hashing]]
 - [[Persistent Identifier]]
 - [[Data Breach]]

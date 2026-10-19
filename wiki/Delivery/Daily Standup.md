@@ -35,5 +35,5 @@ Whether a standup is worth holding depends on whether people learn something the
 - [[User Story]]
 - [[Pair Programming]]
 - [[Timeboxing]]
-- [[OODA Loop]]
+- [[Burndown Chart]]
 - [[PDCA Cycle]]

@@ -27,3 +27,4 @@ The vocabulary survives in software operations, where an engineer "on call" is "
 ## See also
 - [[Telephone Network]]
 - [[Amateur Radio]]
+- [[ChatOps]]

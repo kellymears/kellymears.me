@@ -31,4 +31,4 @@ DevOps has its critics and failure modes. It's often reduced to a job title or a
 ## See also
 - [[Value Stream Mapping]]
 - [[Pets vs Cattle]]
-- [[Change Advisory Board]]
+- [[ChatOps]]

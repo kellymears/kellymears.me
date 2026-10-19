@@ -33,5 +33,5 @@ Staying in sync is the practical work of a long-lived fork. The fork adds the or
 - [[Protestware]]
 - [[Benevolent Dictator for Life]]
 - [[WordPress]]
-- [[Distributed Version Control]]
+- [[Software Forge]]
 - [[Open Core]]

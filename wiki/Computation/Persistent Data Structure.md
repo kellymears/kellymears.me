@@ -32,7 +32,7 @@ The same ideas appear outside programming languages. Git stores history as a per
 ## See also
 - [[Text Buffer]]
 - [[ZFS]]
-- [[Ship of Theseus]]
+- [[Git Object Model]]
 - [[Self-Balancing Binary Search Tree]]
 - [[Jujutsu]]
 - [[Linked List]]

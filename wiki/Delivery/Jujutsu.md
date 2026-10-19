@@ -25,5 +25,5 @@ The operation log resembles [[Write-Ahead Logging]] in a database, and recording
 Jujutsu is still pre-1.0, and its formats and commands still change. Because it works inside Git repositories, though, trying it costs little, and a team can adopt it one person at a time; see [[Distributed Version Control]].
 
 ## See also
-- [[Interactive Rebase]]
+- [[Detached HEAD]]
 - [[Git Worktree]]

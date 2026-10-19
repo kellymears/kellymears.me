@@ -29,4 +29,4 @@ The main trap is reducing too far. Sometimes the bug only appears in combination
 - [[Scientific Debugging]]
 - [[Bug Triage]]
 - [[Test Isolation]]
-- [[Characterization Test]]
+- [[Works on My Machine]]

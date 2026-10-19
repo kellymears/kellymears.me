@@ -21,7 +21,7 @@ History is also a document. It is the durable answer to *why is this here*, whic
 - [[Git Worktree]]
 - [[Subversion]]
 - [[Spreadsheet Error]]
-- [[Regression]]
+- [[Detached HEAD]]
 
 ## Related
 - [[Squash Merge]]

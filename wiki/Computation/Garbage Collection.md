@@ -21,7 +21,7 @@ Rust is the notable outlier: it reclaims memory deterministically via ownership 
 - [[Closure]]
 - [[Memory Leak]]
 - [[Graph Traversal]]
-- [[Halting Problem]]
+- [[Git Object Model]]
 - [[Software Aging]]
 - [[Multiversion Concurrency Control]]
 - [[Reference Counting]]

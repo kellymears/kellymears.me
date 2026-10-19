@@ -26,6 +26,6 @@ A **definition of ready** is the matching list at the other end: what an item ne
 
 ## See also
 - [[Docs as Code]]
-- [[Regression Testing]]
+- [[Burndown Chart]]
 - [[User Story]]
-- [[Daily Standup]]
+- [[Software Release Life Cycle]]

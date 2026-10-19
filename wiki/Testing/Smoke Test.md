@@ -22,3 +22,4 @@ In CI pipelines, smoke tests commonly gate whether the expensive suite even runs
 - [[Dogfooding]]
 - [[Risk-Based Testing]]
 - [[Monkey Testing]]
+- [[Nightly Build]]

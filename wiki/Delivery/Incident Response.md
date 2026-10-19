@@ -33,4 +33,4 @@ Teams practice before real outages. Game days and [[Chaos Engineering]] inject f
 - [[GitLab Database Incident]]
 - [[Knight Capital Incident]]
 - [[Git Revert]]
-- [[Amazon S3 Outage of 2017]]
+- [[ChatOps]]

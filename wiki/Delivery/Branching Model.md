@@ -20,7 +20,7 @@ The model also determines what a merge means and therefore what history looks li
 - [[Perforce]]
 
 ## Related
-- [[Three-Way Merge]]
+- [[Detached HEAD]]
 - [[Semantic Conflict]]
 - [[Cherry-Pick]]
 - [[Release Train]]

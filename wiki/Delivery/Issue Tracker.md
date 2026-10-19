@@ -24,6 +24,6 @@ Projects respond in different ways. Some periodically declare bankruptcy and clo
 Trackers also shape how work is measured. Counting closed tickets or [[Story Points]] rewards splitting work and closing quickly, which can drift from what users actually need; see [[Goodhart's Law]]. For open source maintainers, the tracker is often the main source of unpaid support load; see [[Open Source Sustainability]].
 
 ## See also
-- [[Flaky Test]]
+- [[Software Forge]]
 - [[Incident Response]]
 - [[Gantt Chart]]

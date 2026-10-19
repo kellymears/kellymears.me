@@ -15,9 +15,9 @@ Version numbering is how deprecations are communicated at the package boundary; 
 
 ## See also
 - [[Yanked Release]]
-- [[Backward Compatibility]]
+- [[Software Release Life Cycle]]
 - [[Retronym]]
-- [[Regression]]
+- [[Technology Radar]]
 
 ## Related
 - [[Architecture Decision Record]]

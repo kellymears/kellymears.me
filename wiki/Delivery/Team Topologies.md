@@ -30,7 +30,7 @@ Team Topologies grew partly from the [[DevOps]] movement's discovery that a sepa
 Critics note that real organizations rarely fit four boxes and that the model says little about how to change an existing structure. But its vocabulary has spread widely.
 
 ## See also
-- [[Bus Factor]]
+- [[Technology Radar]]
 - [[Code Owners]]
 - [[DORA Metrics]]
 - [[Data Mesh]]

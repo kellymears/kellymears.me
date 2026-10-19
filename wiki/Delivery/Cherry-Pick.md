@@ -28,6 +28,6 @@ Small, focused commits pick cleanly, which is one practical argument for an [[At
 - [[Branching Model]]
 - [[Reflog]]
 - [[Hotfix]]
-- [[Semantic Versioning]]
+- [[Detached HEAD]]
 - [[Interactive Rebase]]
 - [[Long-Term Support]]

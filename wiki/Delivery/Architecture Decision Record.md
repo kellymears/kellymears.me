@@ -29,5 +29,5 @@ The common failure is neglect. Teams write a burst of ADRs, then stop, and the l
 ## See also
 - [[Docs as Code]]
 - [[Change Advisory Board]]
-- [[Zettelkasten]]
+- [[Technology Radar]]
 - [[Requirements Traceability]]

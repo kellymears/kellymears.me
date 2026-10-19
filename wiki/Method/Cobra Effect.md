@@ -34,6 +34,6 @@ It's also a caution against [[Chesterton's Fence]] in reverse: a new interventio
 - [[Moral hazard]]
 - [[Risk Compensation]]
 - [[Jevons Paradox]]
-- [[Gamification]]
+- [[Burndown Chart]]
 - [[Allergy]]
 - [[Paperclip Maximizer]]

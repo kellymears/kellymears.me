@@ -23,3 +23,4 @@ The same blindness to pairs explains why coincidences feel more meaningful than 
 - [[Law of Large Numbers]]
 - [[Monte Carlo Method]]
 - [[Base Rate Fallacy]]
+- [[Git Object Model]]

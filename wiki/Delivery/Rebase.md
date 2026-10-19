@@ -22,7 +22,7 @@ Several things about rebasing are worth knowing concretely.
 - [[Three-Way Merge]]
 - [[Merge Conflict]]
 - [[Semantic Conflict]]
-- [[Commit]]
+- [[Detached HEAD]]
 
 ## Related
 - [[Merge Train]]

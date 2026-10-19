@@ -32,6 +32,6 @@ Remote repositories have their own protections. Force-pushing over a shared bran
 - [[Jujutsu]]
 - [[Git Stash]]
 - [[Interactive Rebase]]
-- [[Persistent Data Structure]]
+- [[Detached HEAD]]
 - [[Force Push]]
 - [[Git Blame]]

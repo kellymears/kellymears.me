@@ -26,8 +26,8 @@ The book *Team Topologies* gave the role its usual framing: a platform team exis
 The common failure is building too much too early: a large portal before anyone has asked for one, or an abstraction over infrastructure that the platform team must then maintain alongside the real thing, a version of the [[Second-System Effect]]. Successful platforms usually start by paving the road teams already walk.
 
 ## See also
-- [[Site Reliability Engineering]]
-- [[Ephemeral Environment]]
+- [[ChatOps]]
+- [[Technology Radar]]
 - [[Inner Source]]
 - [[Data Mesh]]
 - [[Developer Experience]]

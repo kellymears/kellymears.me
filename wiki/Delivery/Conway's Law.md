@@ -13,7 +13,7 @@ The law has an inverse, sometimes called the reverse Conway maneuver: instead of
 The caveat is honest but narrower than usually stated. There are no controlled experiments, since nobody can randomize org charts, and the causal direction is plausibly bidirectional — architecture also shapes who needs to talk to whom. The observational evidence is quantitative rather than anecdotal, though: MacCormack, Rusnak and Baldwin's matched-pair study (2012) compared design structure matrices for products built by tightly coupled firms against loosely coupled open-source counterparts and found the predicted difference in modularity, and Nagappan, Murphy and Basili's study of Windows Vista (2008) found organizational metrics out-predicted code metrics at forecasting failure-prone components. It compounds with concentration risk, too: a team drawn too small around a critical component sharpens the architecture and quietly lowers [[Bus Factor]] at the same time.
 
 ## See also
-- [[Mars Climate Orbiter]]
+- [[Technology Radar]]
 - [[Inner Source]]
 - [[Team Topologies]]
 - [[Data Mesh]]

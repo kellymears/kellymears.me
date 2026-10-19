@@ -35,5 +35,5 @@ Dependency confusion is one branch of [[Supply Chain Security]]. A [[Software Bi
 - [[Vendoring]]
 - [[Top-Level Domain]]
 - [[Threat Modeling]]
-- [[Phishing]]
+- [[Build Provenance]]
 - [[Event-stream Incident]]

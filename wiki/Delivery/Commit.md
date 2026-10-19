@@ -19,10 +19,10 @@ Staging deserves care in shared working directories: a bulk "add everything" swe
 - [[Commit Message]]
 - [[Interactive Rebase]]
 - [[Jujutsu]]
-- [[Rebase]]
+- [[Detached HEAD]]
 
 ## Related
-- [[Three-Way Merge]]
+- [[Git Object Model]]
 - [[Git Revert]]
 - [[Diff]]
 - [[Subversion]]

@@ -25,7 +25,7 @@ Notable moments:
 IRC conventions passed into later chat apps: channels with hash names, `/me` actions, mentions that highlight a name, and away messages. Slack's channels and bot integrations are often described as IRC with history and search. What IRC lacked, persistent history when you're offline, file sharing, and identity, became the selling points of its successors, while IRC's openness, anyone can run a server or write a client, is what those successors gave up; see [[Enshittification]].
 
 ## See also
-- [[Peer-to-Peer]]
+- [[ChatOps]]
 - [[MQTT]]
 - [[Third Place]]
 - [[Bulletin Board System]]

@@ -34,3 +34,4 @@ Browser testing faces the same problem across browsers, versions, and devices, a
 - [[Deployment Pipeline]]
 - [[Reproducible Build]]
 - [[Dependency Hell]]
+- [[Nightly Build]]

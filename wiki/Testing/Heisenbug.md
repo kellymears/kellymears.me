@@ -15,7 +15,7 @@ The fault is still [[Nondeterminism]] in the ordinary sense — the same input d
 ## See also
 - [[Core Dump]]
 - [[Minimal Reproducible Example]]
-- [[Software Aging]]
+- [[Works on My Machine]]
 - [[Mars Pathfinder Priority Inversion]]
 - [[Systematic Concurrency Testing]]
 - [[Monkey Testing]]

@@ -29,4 +29,4 @@ The hard parts are usually everything other than the application code:
 On a single machine, running each branch from its own [[Git Worktree]] with its own ports and database is a local version of the same idea.
 
 ## See also
-- [[Jamstack]]
+- [[Works on My Machine]]

@@ -26,7 +26,7 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 - [[Ninety-Ninety Rule]]
 - [[Code Comment]]
 - [[Premature Optimization]]
-- [[Refactoring]]
+- [[Technology Radar]]
 - [[Issue Tracker]]
 - [[Hyperbolic Discounting]]
 - [[Opportunity Cost]]

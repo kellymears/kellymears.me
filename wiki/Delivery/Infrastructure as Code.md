@@ -20,7 +20,7 @@ The tools split on a real distinction: declarative tools (Terraform) describe th
 - [[Software-Defined Networking]]
 
 ## Related
-- [[Continuous Deployment]]
+- [[Works on My Machine]]
 - [[Configuration Drift]]
 - [[Twelve-Factor App]]
 - [[Platform Engineering]]

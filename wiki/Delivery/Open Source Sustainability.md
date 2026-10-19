@@ -31,6 +31,6 @@ None of these fully solves the mismatch between how much value open source creat
 
 ## See also
 - [[Event-stream Incident]]
-- [[Inner Source]]
+- [[Software Forge]]
 - [[Open Core]]
 - [[Issue Tracker]]

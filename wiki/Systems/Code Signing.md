@@ -19,7 +19,7 @@ Testing this requires a machine other than the one that built it, since a local 
 - [[Letterlocking]]
 - [[Daemon]]
 - [[Live Patching]]
-- [[Public-Key Cryptography]]
+- [[Build Provenance]]
 - [[Certificate Authority]]
 
 ## Related

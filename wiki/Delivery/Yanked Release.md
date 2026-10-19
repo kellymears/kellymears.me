@@ -28,5 +28,5 @@ Malicious packages are a separate case. Registries remove them outright, because
 The fix for a bad release is nearly always a new release with a higher number, published right after the yank, so that users who update move past the bad version; see [[Rollback]] and [[Reproducible Build]].
 
 ## See also
-- [[Dependency Hell]]
+- [[Software Release Life Cycle]]
 - [[Software Bill of Materials]]

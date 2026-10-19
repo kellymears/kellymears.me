@@ -27,7 +27,7 @@ Common fixes are smaller batches, so each item waits less; automating the slowes
 The method has limits. A map is a snapshot built from people's estimates, and it is easy to speed up one stream while ignoring the others that feed it. It also measures speed, not whether the work was worth doing; see [[Goodhart's Law]]. Its main value is often social: people who each owned one step see the whole for the first time, which is the core idea of [[DevOps]].
 
 ## See also
-- [[Platform Engineering]]
+- [[Burndown Chart]]
 - [[Gantt Chart]]
 - [[Sankey Diagram]]
 - [[PDCA Cycle]]

@@ -26,7 +26,7 @@ Other practical defenses:
 Adding people late rarely saves a late project, as [[Brooks's Law]] warns, and work also expands to fill whatever time is given, per [[Parkinson's Law]]. For individuals, especially people with ADHD, the difficulty of feeling how long things take is described in [[Time Blindness]].
 
 ## See also
-- [[Self-Serving Bias]]
+- [[Burndown Chart]]
 - [[Margin of Safety]]
 - [[Affective Forecasting]]
 - [[Dunning-Kruger Effect]]

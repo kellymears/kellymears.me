@@ -30,7 +30,7 @@ The same model appears elsewhere: [[Code Signing]] certificates for software, de
 - [[DNS Cache Poisoning]]
 - [[Mutual TLS]]
 - [[Top-Level Domain]]
-- [[Audit Log]]
+- [[Build Provenance]]
 - [[Heartbleed]]
 - [[HTTP Strict Transport Security]]
 - [[Man-in-the-Middle Attack]]

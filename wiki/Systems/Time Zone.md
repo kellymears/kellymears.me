@@ -19,5 +19,5 @@ Abolishing daylight saving would end future transitions but not the problem: his
 - [[Zune Leap Year Bug]]
 - [[Monotonic Clock]]
 - [[Real-Time Clock]]
-- [[iCalendar]]
+- [[Works on My Machine]]
 - [[Jet Lag]]

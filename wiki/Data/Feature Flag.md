@@ -24,7 +24,7 @@ Flags accumulate. A flag whose feature has fully shipped is dead conditional log
 - [[Knight Capital Incident]]
 - [[Multi-Tenancy]]
 - [[Draft and Published]]
-- [[Cloudflare Outage of 2019]]
+- [[Software Release Life Cycle]]
 - [[Shadow Traffic]]
 
 ## Related
@@ -32,5 +32,5 @@ Flags accumulate. A flag whose feature has fully shipped is dead conditional log
 - [[Headless CMS]]
 - [[Branch by Abstraction]]
 - [[Reversible Decision]]
-- [[Release Train]]
+- [[Nightly Build]]
 - [[Pairwise Testing]]

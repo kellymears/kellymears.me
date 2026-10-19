@@ -25,5 +25,5 @@ Its costs fall on newcomers. Mail clients wrap lines and mangle whitespace, whic
 The XZ Utils backdoor showed another side: a project with a small mailing list and an overworked maintainer can be steered by persistent, plausible contributors; see [[XZ Utils Backdoor]] and [[Bus Factor]].
 
 ## See also
-- [[Pull Request]]
+- [[Software Forge]]
 - [[Benevolent Dictator for Life]]

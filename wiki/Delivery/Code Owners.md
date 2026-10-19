@@ -34,6 +34,6 @@ Owners do not replace good review practice. A required approval is only as meani
 - [[Developer Certificate of Origin]]
 - [[Inner Source]]
 - [[Team Topologies]]
-- [[Gerrit]]
+- [[Software Forge]]
 - [[Extreme Programming]]
 - [[Bug Triage]]

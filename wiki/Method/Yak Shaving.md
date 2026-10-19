@@ -22,3 +22,4 @@ The chain is sometimes literal: a [[Package Manager]] resolving a dependency of 
 - [[Refactoring]]
 - [[Opportunity Cost]]
 - [[Ninety-Ninety Rule]]
+- [[Technology Radar]]

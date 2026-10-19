@@ -27,6 +27,6 @@ Selection also changes how a suite should be shaped. Tests that depend on almost
 Test impact analysis is one piece of keeping a [[Deployment Pipeline]] fast as a codebase grows, alongside parallel execution, [[Build Cache|caching]] of test results whose inputs haven't changed, and batching changes through a [[Merge Train]]. All of these rely on the same principle: work that provably can't change the answer doesn't need to be redone.
 
 ## See also
-- [[Requirements Traceability]]
+- [[Nightly Build]]
 - [[Test Parallelization]]
 - [[Program Slicing]]

@@ -18,7 +18,7 @@ The law pairs naturally with [[Parkinson's Law]]: one says the work will take lo
 - [[Nuclear Fusion]]
 - [[Second-System Effect]]
 - [[Availability Heuristic]]
-- [[Time Blindness]]
+- [[Burndown Chart]]
 
 ## Related
 - [[Brooks's Law]]

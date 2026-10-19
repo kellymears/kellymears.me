@@ -34,4 +34,4 @@ Patterns across many items fit well in a [[Heat Map]] panel.
 
 ## See also
 - [[Bar Chart]]
-- [[Data Table]]
+- [[Burndown Chart]]

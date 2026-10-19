@@ -23,7 +23,7 @@ The tradeoff is that anything genuinely needing in-place mutation — a long-liv
 - [[Over-the-Air Update]]
 - [[Jamstack]]
 - [[Configuration Drift]]
-- [[Twelve-Factor App]]
+- [[Works on My Machine]]
 - [[Artifact Repository]]
 - [[Kubernetes]]
 - [[Pets vs Cattle]]

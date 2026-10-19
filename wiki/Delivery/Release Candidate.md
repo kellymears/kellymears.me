@@ -30,6 +30,6 @@ Release candidates suit software that ships in versions users install: operating
 The candidate's notes become the release's [[Changelog]], and a stable release may then enter a [[Long-Term Support]] line that receives fixes for years.
 
 ## See also
-- [[Git Tag]]
-- [[Bathtub Curve]]
+- [[Nightly Build]]
+- [[Software Release Life Cycle]]
 - [[Smoke Test]]

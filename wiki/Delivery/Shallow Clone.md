@@ -31,7 +31,7 @@ For most CI jobs, shallow is fine until something needs history, and then the fa
 These techniques reduce how much of a repository you fetch. [[Git LFS]] addresses a different problem, large binaries in history. A [[Git Worktree]] solves another, needing several checkouts of one repository without cloning it twice.
 
 ## See also
-- [[Version Control]]
+- [[Git Object Model]]
 - [[Build Cache]]
 - [[Reflog]]
 - [[Git Submodule]]

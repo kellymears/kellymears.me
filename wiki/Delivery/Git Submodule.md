@@ -31,7 +31,7 @@ The common alternatives each trade differently:
 The choice often follows team structure, an instance of [[Conway's Law]]: separate teams with separate release cycles lean toward packages or submodules, while one team changing code everywhere leans toward a monorepo.
 
 ## See also
-- [[Vendoring]]
+- [[Detached HEAD]]
 - [[Monorepo]]
 - [[Lockfile]]
 - [[Git Worktree]]

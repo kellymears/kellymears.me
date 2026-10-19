@@ -30,6 +30,6 @@ The list has aged unevenly. It predates [[Observability]] beyond logs, says litt
 
 ## See also
 - [[Secrets Management]]
-- [[Infrastructure as Code]]
+- [[Works on My Machine]]
 - [[Blue-Green Deployment]]
 - [[Pets vs Cattle]]

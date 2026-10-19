@@ -26,5 +26,5 @@ The costs are real. Some features can't be split to fit a cycle, and users can t
 A release train is not a [[Merge Train]], which queues pull requests so each is tested against the ones ahead of it, and it is distinct from a [[Rolling Release]], which has no versions at all. Organizations that deploy web services many times a day with [[Continuous Deployment]] have effectively shrunk the train to a single car.
 
 ## See also
-- [[Release Candidate]]
-- [[Patch Tuesday]]
+- [[Software Release Life Cycle]]
+- [[Nightly Build]]

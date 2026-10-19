@@ -17,7 +17,7 @@ The practical consequences are that a major bump deserves a migration path and a
 - [[Calendar Versioning]]
 - [[Backward Compatibility]]
 - [[Conventional Commits]]
-- [[Package Manager]]
+- [[Software Release Life Cycle]]
 
 ## Related
 - [[Protestware]]

@@ -25,5 +25,5 @@ Graphical interfaces displaced the command line for most people from the 1980s o
 Good command-line tools follow habits that make them pleasant to use and to script: quiet output on success, clear errors on failure, machine-readable output when asked, and respect for settings passed in the environment; see [[Environment Variable]]. Users customize their own shells heavily through configuration files kept for years; see [[Dotfiles]]. For people who use screen readers, a text interface can also be easier to navigate than a cluttered graphical one; see [[Accessibility]].
 
 ## See also
-- [[Line Ending]]
+- [[ChatOps]]
 - [[Clipboard]]

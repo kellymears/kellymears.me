@@ -29,5 +29,5 @@ The underlying idea is about knowledge rather than machines. A pet holds knowled
 ## See also
 - [[GitOps]]
 - [[Site Reliability Engineering]]
-- [[DevOps]]
+- [[Works on My Machine]]
 - [[Configuration Management]]

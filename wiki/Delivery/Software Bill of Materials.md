@@ -30,6 +30,6 @@ Uses go beyond vulnerability response:
 An SBOM has limits. It is only as accurate as the tool that produced it. Listing a vulnerable component doesn't mean the vulnerable code is reachable, so a companion format called VEX lets suppliers state whether a known vulnerability actually affects their product. SBOMs that are generated once and filed away go stale as dependencies change. The practice belongs to the broader discipline of [[Supply Chain Security]], alongside [[Semantic Versioning]] policies that keep dependency updates predictable.
 
 ## See also
-- [[Yanked Release]]
+- [[Build Provenance]]
 - [[Developer Certificate of Origin]]
 - [[SolarWinds Hack]]
