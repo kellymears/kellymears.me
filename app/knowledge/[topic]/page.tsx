@@ -1,6 +1,7 @@
 import { Accent, SectionHeading } from '@/components/home/SectionHeading'
 import Link from '@/components/Link'
 import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
+import { packGraph } from '@/components/knowledge/packed-graph'
 import { Wander } from '@/components/knowledge/Wander'
 import { NoteCard, topicVars } from '@/components/knowledge/NoteCard'
 import { StatLine } from '@/components/knowledge/StatLine'
@@ -247,7 +248,7 @@ export default async function TopicPage(props: TopicPageProps) {
 
       <section className="pt-2 pb-4" aria-label={`${topic.name} as a graph`}>
         <KnowledgeGraph
-          graph={graph}
+          graph={packGraph(graph)}
           variant="constellation"
           frame="bleed"
           focusTopic={topic.slug}

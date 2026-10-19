@@ -2,6 +2,7 @@ import { Accent } from '@/components/home/SectionHeading'
 import Link from '@/components/Link'
 import { FIELD_H as H, FIELD_W as W, nodeRadius } from '@/components/home/constellation-field'
 import type { KnowledgeGraph, KnowledgeNote } from '@/lib/knowledge'
+import type { CSSProperties } from 'react'
 
 interface Props {
   graph: KnowledgeGraph
@@ -60,14 +61,20 @@ function placeLabels(nodes: Hub[]): PlacedLabel[] {
 
 /** Whole units are sub-pixel at this scale and keep the inline SVG small. */
 const r1 = Math.round
+const r3 = (n: number) => Math.round(n * 1000) / 1000
 
 /**
  * The whole wiki as a constellation. Positions come straight from the
  * deterministic server-side layout in `lib/knowledge.ts`, so there is no client
  * JS. The static field (every edge and node) is a prerendered image per theme
  * from `/constellation/[file]`; only the hubs and their travelling signals are
- * inline, laid over it in the same viewBox so they can use the page's
+ * inline, laid over it in the same 1900×1000 frame so they can use the page's
  * randomized primary color and animate.
+ *
+ * The signals are HTML, not SVG: each is a box laid along its edge with a dash
+ * sliding through it. As SVG paths they animated `stroke-dashoffset`, which
+ * repaints on the main thread and re-rastered most of the field every frame;
+ * as transforms and opacity they run entirely on the compositor.
  */
 export default function Constellation({ graph, hubs, stats }: Props) {
   const byId = new Map(graph.nodes.map((n) => [n.id, n]))
@@ -85,6 +92,11 @@ export default function Constellation({ graph, hubs, stats }: Props) {
       return { from: byId.get(hub), to: byId.get(other) }
     })
     .filter((s) => s.from && s.to)
+    .map(({ from, to }) => {
+      const [x1, y1, x2, y2] = [r1(from!.x), r1(from!.y), r1(to!.x), r1(to!.y)]
+      const length = Math.hypot(x2 - x1, y2 - y1) || 1
+      return { x: x1, y: y1, length, angle: Math.atan2(y2 - y1, x2 - x1) }
+    })
 
   return (
     <section aria-labelledby="constellation-title" className="relative py-16 sm:py-24">
@@ -114,6 +126,28 @@ export default function Constellation({ graph, hubs, stats }: Props) {
               decoding="async"
               className="absolute inset-0 hidden h-full w-full object-cover dark:block"
             />
+            <div className="kc-signals">
+              {signals.map((s, i) => (
+                <span
+                  key={i}
+                  className="kc-signal"
+                  // Frame units as percentages of the 1900×1000 frame; --cap is
+                  // the 2-unit stroke as a percentage of this edge's length.
+                  style={
+                    {
+                      left: `${r3((s.x / W) * 100)}%`,
+                      top: `${r3((s.y / H) * 100)}%`,
+                      width: `${r3((s.length / W) * 100)}%`,
+                      transform: `translateY(-50%) rotate(${r3(s.angle)}rad)`,
+                      '--cap': r3(200 / s.length),
+                      animationDelay: `${(i * 0.37) % 6}s`,
+                    } as CSSProperties
+                  }
+                >
+                  <span />
+                </span>
+              ))}
+            </div>
             <svg
               viewBox={`0 0 ${W} ${H}`}
               preserveAspectRatio="xMidYMid slice"
@@ -121,16 +155,6 @@ export default function Constellation({ graph, hubs, stats }: Props) {
               width={W}
               height={H}
             >
-              <g className="kc-signals" fill="none" strokeWidth="2" strokeLinecap="round">
-                {signals.map((s, i) => (
-                  <path
-                    key={i}
-                    pathLength={1}
-                    d={`M${r1(s.from!.x)} ${r1(s.from!.y)}L${r1(s.to!.x)} ${r1(s.to!.y)}`}
-                    style={{ animationDelay: `${(i * 0.37) % 6}s` }}
-                  />
-                ))}
-              </g>
               <g className="kc-hubs">
                 {labels.map(({ node: n, r, x, y, anchor }, i) => (
                   <g key={n.id} style={{ animationDelay: `${i * 0.6}s` }}>

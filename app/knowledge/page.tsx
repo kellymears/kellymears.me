@@ -1,6 +1,7 @@
 import { Accent, SectionHeading } from '@/components/home/SectionHeading'
 import Link from '@/components/Link'
 import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
+import { packGraph } from '@/components/knowledge/packed-graph'
 import { topicVars } from '@/components/knowledge/NoteCard'
 import { TopicCard } from '@/components/knowledge/TopicCard'
 import { topicSilhouette } from '@/components/knowledge/topic-silhouette'
@@ -203,7 +204,7 @@ export default function KnowledgePage() {
 
       <section className="pt-2 pb-6" aria-label="The whole vault as a graph">
         <KnowledgeGraph
-          graph={graph}
+          graph={packGraph(graph)}
           variant="constellation"
           frame="bleed"
           showLegend
