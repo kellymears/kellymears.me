@@ -24,5 +24,5 @@ The most perfect black-body spectrum ever measured is the faint microwave glow l
 - [[Black Hole]]
 - [[Bioluminescence]]
 - [[Vacuum Flask]]
-- [[Nuclear Fusion]]
+- [[Exoplanet]]
 - [[Supernova]]

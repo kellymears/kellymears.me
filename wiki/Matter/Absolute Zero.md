@@ -25,7 +25,7 @@ Extreme cold has practical uses. MRI magnets run in liquid helium, and many quan
 Absolute zero also anchors engine efficiency. The best possible heat engine turns into work the fraction of heat set by the ratio of its cold and hot temperatures measured from absolute zero, so perfect efficiency would require a cold side at zero; see [[Heat Engine]].
 
 ## See also
-- [[Uncertainty Principle]]
+- [[Particle Accelerator]]
 - [[Vacuum Flask]]
-- [[Big Bang]]
+- [[Magnetic Resonance Imaging]]
 - [[Quantum Entanglement]]

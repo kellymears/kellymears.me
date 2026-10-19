@@ -27,8 +27,8 @@ Where p-type meets n-type, a **p-n junction** forms, and it is the basic buildin
 Semiconductor devices obey the same basic physics as other circuits, including [[Ohm's Law]] for their resistive parts, and they wear out in specific ways: [[Electromigration]] erodes tiny wires, and [[Electrostatic Discharge]] can puncture the thin insulating layers of a transistor. Heat matters throughout, governed by [[Heat Transfer]], since every switching transistor dissipates a little energy and billions of them add up.
 
 ## See also
-- [[Hall Effect]]
+- [[Crystal Structure]]
 - [[Photovoltaic Effect]]
-- [[Allotrope]]
+- [[Periodic Table]]
 - [[Flip-Flop]]
 - [[Liquid-Crystal Display]]

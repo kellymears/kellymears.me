@@ -24,7 +24,7 @@ In 1783 the natural philosopher John Michell imagined a star so dense that its e
 Some places in space let a spacecraft hold its position relative to two bodies with little fuel at all; see [[Lagrange Point]].
 
 ## See also
-- [[Terminal Velocity]]
+- [[Speed of Light]]
 - [[Free Fall]]
 - [[Dark Matter]]
-- [[Neutron Star]]
+- [[Exoplanet]]

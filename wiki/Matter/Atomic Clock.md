@@ -25,5 +25,5 @@ Optical clocks are now precise enough that raising one by a fraction of a meter 
 
 ## See also
 - [[Isotope]]
-- [[Electromagnetic Spectrum]]
+- [[Speed of Light]]
 - [[Neutron Star]]

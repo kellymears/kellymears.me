@@ -25,3 +25,4 @@ Whatever the treatment, the knee carries a lasting cost. People with ACL injurie
 - [[Ankle Sprain]]
 - [[Patellofemoral Pain Syndrome]]
 - [[Gait]]
+- [[Magnetic Resonance Imaging]]

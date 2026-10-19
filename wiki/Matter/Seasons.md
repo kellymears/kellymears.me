@@ -29,6 +29,7 @@ Other planets have their own seasons. Mars, tilted about 25°, has seasons like 
 ## See also
 - [[Tide]]
 - [[Coriolis Effect]]
-- [[Ozone Layer]]
+- [[Water Cycle]]
 - [[Daylight Saving Time]]
 - [[Eclipse]]
+- [[Exoplanet]]

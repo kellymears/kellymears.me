@@ -31,7 +31,7 @@ Charging and discharging both waste some energy as heat, accounted for by [[Cons
 
 ## See also
 - [[Electrolysis]]
-- [[Oxidation]]
+- [[Periodic Table]]
 - [[Capacitor]]
 - [[Photovoltaic Effect]]
 - [[Chemical Equilibrium]]

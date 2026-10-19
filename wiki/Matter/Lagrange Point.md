@@ -31,3 +31,4 @@ From L1, the Moon sometimes crosses Earth's face, revealing its far side; see [[
 - [[Inertial Frame of Reference]]
 - [[Dark Matter]]
 - [[Free Fall]]
+- [[Exoplanet]]

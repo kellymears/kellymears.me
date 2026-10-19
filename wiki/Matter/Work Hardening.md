@@ -30,5 +30,5 @@ Glass has no crystal lattice and no dislocations, so it cannot bend this way at 
 
 ## See also
 - [[Concrete]]
-- [[Thermal Expansion]]
+- [[Crystal Structure]]
 - [[Allotrope]]

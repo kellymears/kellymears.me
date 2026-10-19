@@ -26,7 +26,7 @@ Many results are probabilistic and must be repeated; see [[Monte Carlo Method]].
 
 ## See also
 - [[Integer Factorization]]
-- [[Homomorphic Encryption]]
+- [[Standard Model]]
 - [[Superconductivity]]
 - [[Analytical Engine]]
 - [[RSA]]

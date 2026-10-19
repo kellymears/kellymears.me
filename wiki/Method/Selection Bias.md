@@ -17,7 +17,7 @@ The counterintuitive consequence is that a larger biased sample is not safer tha
 - [[Berkson's Paradox]]
 - [[Percentage Point]]
 - [[Survey Design]]
-- [[Crash Testing]]
+- [[Exoplanet]]
 - [[Reservoir Sampling]]
 - [[Statistical Sampling]]
 - [[Bootstrap Resampling]]

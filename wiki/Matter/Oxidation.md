@@ -31,11 +31,11 @@ In the kitchen, oxidation is often what goes wrong:
 Controlled redox reactions power the modern world. A [[Lithium-Ion Battery]] stores energy by moving electrons through an external circuit while lithium ions shuttle between electrodes, reversing the process to recharge. [[Combustion]] is rapid oxidation releasing heat and light. Inside cells, [[Mitochondria]] oxidize food in carefully controlled steps, passing electrons down a chain to oxygen to make usable energy. The same chemistry produces reactive by-products that can damage cells, the basis of the oxidative-stress theory of aging, though antioxidant supplements have largely failed to show benefits in trials.
 
 ## See also
-- [[Concrete]]
+- [[Chemical Bond]]
 - [[Bioluminescence]]
 - [[Electromigration]]
 - [[Ozone Layer]]
-- [[Chemical Equilibrium]]
+- [[Periodic Table]]
 - [[Polymerization]]
 - [[Lightning]]
 - [[Steel]]

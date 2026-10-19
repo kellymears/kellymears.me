@@ -26,6 +26,6 @@ Enzymes matter in the kitchen:
 Industrial chemistry depends on catalysts. The Haber–Bosch process, which makes ammonia for fertilizer over an iron catalyst, feeds roughly half the world's population. Catalytic converters in cars use platinum and palladium to turn carbon monoxide and unburned fuel into less harmful gases. Plastics production relies on catalysts to control [[Polymerization]].
 
 ## See also
-- [[Allotrope]]
+- [[Periodic Table]]
 - [[Ozone Layer]]
-- [[Chemical Equilibrium]]
+- [[Chemical Bond]]

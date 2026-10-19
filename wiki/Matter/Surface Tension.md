@@ -14,7 +14,7 @@ summary: A liquid's surface behaves like a stretched elastic membrane because su
 ## See also
 - [[Supercritical Fluid]]
 - [[Buoyancy]]
-- [[Diffraction]]
+- [[Chemical Bond]]
 - [[Emulsion]]
 - [[Leidenfrost Effect]]
 - [[Nucleation]]

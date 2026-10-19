@@ -25,3 +25,4 @@ Physical changes follow the same logic. A liquid in a sealed jar evaporates unti
 ## See also
 - [[Fermentation]]
 - [[Osmosis]]
+- [[Chemical Bond]]

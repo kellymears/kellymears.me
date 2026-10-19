@@ -26,3 +26,4 @@ Marching cubes is the standard bridge from implicit or volumetric representation
 - [[Terrain Generation]]
 - [[Metaballs]]
 - [[Mesh Simplification]]
+- [[Magnetic Resonance Imaging]]

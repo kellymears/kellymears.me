@@ -13,7 +13,7 @@ The explanation is that quantum particles are described by waves, which give the
 Tunneling shows up in places that would otherwise be puzzling:
 
 - **Alpha decay.** In 1928 George Gamow, and independently Ronald Gurney and Edward Condon, explained how alpha particles escape nuclei they seemingly can't leave. The particle tunnels out, and the barrier's thickness explains why half-lives range from fractions of a second to billions of years; see [[Radioactive Decay]].
-- **The Sun.** Protons in the Sun's core repel each other too strongly to fuse at its temperature, by classical physics. Tunneling lets a small fraction get close enough anyway, and that fraction powers the star; see [[Nuclear Fusion]].
+- **The Sun.** Protons in the Sun's core repel each other too strongly to fuse at its temperature, by classical physics. Tunneling lets a small fraction get close enough anyway, and that fraction powers the star; see [[Nuclear Fusion]]. The same reactions release the solar neutrinos detected on Earth; see [[Neutrino]].
 - **Flash memory.** A flash cell stores a bit as electrons trapped on an insulated gate. Writing and erasing push electrons through the insulator by tunneling, and the gradual damage this does to the insulator is why flash wears out after many cycles.
 - **Microscopes.** The scanning tunneling microscope, invented by Gerd Binnig and Heinrich Rohrer at IBM Zurich in 1981, holds a sharp tip just above a surface and measures the tunneling current, which changes so sharply with distance that it maps individual atoms. They shared the 1986 Nobel Prize for it.
 
@@ -25,6 +25,6 @@ Game physics borrows the name for a fast object skipping through a thin wall bet
 
 ## See also
 - [[Photon]]
-- [[Uncertainty Principle]]
+- [[Standard Model]]
 - [[Read-Only Memory]]
 - [[Quantum Entanglement]]

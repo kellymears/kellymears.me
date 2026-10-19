@@ -29,7 +29,7 @@ The inner ear also houses the [[Vestibular System]], so some damage brings dizzi
 ## See also
 - [[Presbyopia]]
 - [[Reverberation]]
-- [[Signal-to-Noise Ratio]]
+- [[Magnetic Resonance Imaging]]
 - [[Vertigo]]
 - [[Misophonia]]
 - [[Helmholtz Resonance]]

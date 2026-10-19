@@ -22,14 +22,14 @@ An **electromagnet** is a coil of wire, usually around an iron core, that become
 - **Motors and generators** turn magnetic forces into motion and motion into current; see [[Electric Motor]] and [[Alternating Current]].
 - **Transformers and wireless charging** pass energy between coils through a changing field.
 - **Data storage.** Hard drives and tape record bits as the direction of tiny magnetized regions. A strong magnet can scramble them.
-- **Medicine.** MRI machines use superconducting magnets tens of thousands of times stronger than Earth's field to image soft tissue by aligning hydrogen nuclei.
+- **Medicine.** [[MRI]] machines use superconducting magnets tens of thousands of times stronger than Earth's field to image soft tissue by aligning hydrogen nuclei.
 - **Speakers and induction cooktops.** A speaker's coil pushes against a magnet to move its cone, making [[Sound]]; an induction cooktop's rapidly changing field heats iron pans directly through eddy currents.
 
 Magnetic forces also shape light: certain materials rotate the plane of [[Polarized Light]] in a magnetic field. And moving magnets near conductors induce eddy currents that resist the motion, which is how magnetic brakes on trains and indoor trainers work without contact; see [[Friction]].
 
 ## See also
 - [[Hysteresis]]
-- [[Magnetic Tape]]
+- [[Standard Model]]
 - [[Plasma]]
 - [[Steel]]
 - [[Telegraph]]

@@ -22,7 +22,7 @@ The same friction long ago slowed the Moon's spin until it matched its orbit. Th
 Tides can be harnessed. The La Rance plant in France has generated electricity from tidal flow since 1966, using turbines in a dam across an estuary; see [[Electromagnetic Induction]]. Tide tables are among the oldest successful predictions in science, computed by summing many periodic components; see [[Simple Harmonic Motion]].
 
 ## See also
-- [[Centripetal Force]]
+- [[Exoplanet]]
 - [[Free Fall]]
 - [[Seasons]]
 - [[Lagrange Point]]

@@ -28,7 +28,7 @@ Some transitions have no latent heat and happen continuously. Iron loses its mag
 The kitchen is full of phase transitions. Butter melting into a sauce, sugar crystallizing in fudge, and fat setting into a stable [[Emulsion]] all depend on them. Chocolate tempering is a solid-to-solid transition: cocoa butter can crystallize in six forms, and only form V gives a glossy snap. Altitude shifts them too, since lower pressure lowers the boiling point, an effect described by the [[Ideal Gas Law]] and its relatives.
 
 ## See also
-- [[Supercritical Fluid]]
+- [[Crystal Structure]]
 - [[Freezing Point Depression]]
 - [[Chemical Equilibrium]]
 - [[Allotrope]]

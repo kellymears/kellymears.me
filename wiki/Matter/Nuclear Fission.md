@@ -27,7 +27,7 @@ Nature got there first. About two billion years ago, uranium deposits at Oklo in
 Fission products are intensely radioactive, and they keep producing heat after a reactor shuts down. That decay heat caused the 2011 meltdowns at Fukushima, where the reactors had stopped but the cooling failed. The products also make spent fuel dangerous for millennia; see [[Ionizing Radiation]]. In exchange, fission generates large amounts of electricity with almost no carbon emissions; see [[Greenhouse Effect]].
 
 ## See also
-- [[Isotope]]
-- [[Fukushima Daiichi Nuclear Disaster]]
+- [[Neutrino]]
+- [[Particle Accelerator]]
 - [[Earthquake]]
 - [[Chernobyl Disaster]]

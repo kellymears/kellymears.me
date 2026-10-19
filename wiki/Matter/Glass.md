@@ -27,7 +27,7 @@ Glass forms naturally too: volcanic obsidian, which made the sharpest stone tool
 
 ## See also
 - [[Space Shuttle Challenger Disaster]]
-- [[Allotrope]]
-- [[Concrete]]
+- [[Chemical Bond]]
+- [[Crystal Structure]]
 - [[Work Hardening]]
 - [[Chocolate Tempering]]

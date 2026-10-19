@@ -22,7 +22,7 @@ The body uses all three to manage temperature. Blood carries heat to the skin by
 Electronics fight the same battle. A chip conducts heat into a metal heat spreader, heat pipes carry it away, and fans push air across fins for convection. When that path can't keep up, the chip protects itself through [[Thermal Throttling]].
 
 ## See also
-- [[Concrete]]
+- [[Water Cycle]]
 - [[Thermoelectric Effect]]
 - [[Plate Tectonics]]
 - [[Seasons]]

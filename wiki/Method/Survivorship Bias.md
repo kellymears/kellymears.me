@@ -23,5 +23,5 @@ The general move Wald's analysis teaches is to ask what is missing from a datase
 - [[Benford's Law]]
 - [[Speculative Bubble]]
 - [[Sturgeon's Law]]
-- [[Cognitive Bias]]
+- [[Exoplanet]]
 - [[Indie Game]]

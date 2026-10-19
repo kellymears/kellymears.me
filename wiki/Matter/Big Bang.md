@@ -25,9 +25,9 @@ The theory leaves open questions. Most of the universe's matter appears to be da
 The far future depends on that expansion. One scenario ends in a cold, dilute universe where no usable energy remains; see [[Entropy]].
 
 ## See also
-- [[Cosmic Ray]]
+- [[Neutrino]]
 - [[Black Hole]]
 - [[Dark Matter]]
 - [[Supernova]]
-- [[Isotope]]
+- [[Standard Model]]
 - [[Antimatter]]

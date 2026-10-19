@@ -28,8 +28,8 @@ Two properties surprise people. Every steel has nearly the same stiffness, whate
 
 ## See also
 - [[Gear Ratio]]
-- [[Quebec Bridge Collapse]]
-- [[Work Hardening]]
+- [[Chemical Bond]]
+- [[Crystal Structure]]
 - [[Chocolate Tempering]]
 - [[Electrolysis]]
-- [[Comet Airliner Crashes]]
+- [[Periodic Table]]

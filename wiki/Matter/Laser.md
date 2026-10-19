@@ -29,5 +29,5 @@ That concentration is also the hazard: the eye focuses even a weak beam onto one
 
 ## See also
 - [[Quantum Entanglement]]
-- [[Autonomous Vehicle]]
+- [[Speed of Light]]
 - [[Gyroscope]]

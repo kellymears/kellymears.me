@@ -24,5 +24,6 @@ Allotropes differ from isotopes, which are variations in an atom's nucleus rathe
 
 ## See also
 - [[Glass]]
-- [[Nucleation]]
-- [[Elasticity]]
+- [[Crystal Structure]]
+- [[Chemical Bond]]
+- [[Periodic Table]]

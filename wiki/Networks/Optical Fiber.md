@@ -28,7 +28,7 @@ Fiber doesn't make the network faster in every sense. Light in glass travels at 
 
 ## See also
 - [[Internet Exchange Point]]
-- [[Twisted Pair]]
+- [[Speed of Light]]
 - [[Internet Service Provider]]
 - [[Last Mile]]
 - [[Wiretapping]]

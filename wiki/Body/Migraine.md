@@ -20,4 +20,4 @@ Migraine brains seem generally more sensitive to sensory input, even between att
 
 ## See also
 - [[Menstrual Cycle]]
-- [[Stroke]]
+- [[Magnetic Resonance Imaging]]

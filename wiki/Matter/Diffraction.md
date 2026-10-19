@@ -24,6 +24,6 @@ The classic demonstration is single-slit diffraction: light through a narrow sli
 - [[Reverberation]]
 - [[Lens]]
 - [[Faraday Cage]]
-- [[Spectroscopy]]
+- [[Crystal Structure]]
 - [[Lens Flare]]
 - [[Photon]]

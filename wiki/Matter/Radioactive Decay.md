@@ -33,3 +33,4 @@ Decay keeps generating heat after a reactor shuts down, which is why losing cool
 ## See also
 - [[Neutron Star]]
 - [[Supernova]]
+- [[Neutrino]]

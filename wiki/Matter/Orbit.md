@@ -26,6 +26,6 @@ Two bodies have exact solutions. Three or more generally do not and can behave c
 Crowded orbits carry a risk named for Donald Kessler, who described it in 1978: collisions create debris, which causes more collisions, until some orbits become unusable; see [[Cascading Failure]]. Orbits also shape the Earth below by pulling up the seas; see [[Tide]].
 
 ## See also
-- [[Magnetosphere]]
+- [[Exoplanet]]
 - [[Free Fall]]
 - [[Dark Matter]]

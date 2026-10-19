@@ -32,6 +32,6 @@ Guitar pickups, metal detectors, and contactless cards rely on induction too. Th
 - [[Lightning]]
 - [[Magnetosphere]]
 - [[Faraday Cage]]
-- [[Twisted Pair]]
+- [[Magnetic Resonance Imaging]]
 - [[Alternating Current]]
 - [[Aurora]]

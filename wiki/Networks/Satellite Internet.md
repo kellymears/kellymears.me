@@ -26,7 +26,7 @@ Limits and concerns:
 Satellites also connect directly to ordinary phones in some areas, merging with [[Cellular Network]]s. The broader lesson is that physics sets latency floors; see [[Tail Latency]].
 
 ## See also
-- [[Escape Velocity]]
+- [[Speed of Light]]
 - [[ALOHAnet]]
 - [[Internet Shutdown]]
 - [[Delay-Tolerant Networking]]

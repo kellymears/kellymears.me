@@ -24,7 +24,7 @@ Glycogen, the body's own carbohydrate store (see [[Glycogen]]), is a close relat
 
 ## See also
 - [[Solubility]]
-- [[Glycogen]]
+- [[Crystal Structure]]
 - [[Emulsion]]
 - [[Protein Denaturation]]
 - [[Osmosis]]

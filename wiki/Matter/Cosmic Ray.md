@@ -22,5 +22,7 @@ Earth's magnetic field and atmosphere absorb most of the flux; see [[Magnetosphe
 Cosmic rays also reach computers. A secondary neutron striking a memory chip can flip a stored bit, an effect called a soft error. It's rare per chip but common across large data centers, which is why servers use error-correcting memory and spacecraft use radiation-hardened parts; see [[Single-Event Upset]] and [[Error-Correcting Code]]. An unexplained extra 4,096 votes in a 2003 Belgian election has often been attributed to one.
 
 ## See also
-- [[Aurora]]
+- [[Particle Accelerator]]
 - [[Neutron Star]]
+- [[Standard Model]]
+- [[Neutrino]]

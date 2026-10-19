@@ -20,6 +20,6 @@ The material inside, from a crust of iron nuclei to a core whose makeup is still
 
 ## See also
 - [[Dark Matter]]
-- [[Cosmic Ray]]
-- [[Isotope]]
-- [[Antimatter]]
+- [[Exoplanet]]
+- [[Periodic Table]]
+- [[Neutrino]]

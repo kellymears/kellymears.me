@@ -25,7 +25,7 @@ The protection has limits. It doesn't block static or slowly changing magnetic f
 Sensitive electronics are protected from static the same way: bags made with a thin conductive layer keep outside charges from reaching the chips inside; see [[Electrostatic Discharge]]. At high frequencies, currents flow mostly in a thin surface layer of a conductor, so even very thin metal coatings shield well; see [[Electromagnetic Induction]].
 
 ## See also
-- [[Specific Absorption Rate]]
+- [[Magnetic Resonance Imaging]]
 - [[Twisted Pair]]
 - [[Bluetooth]]
 - [[Magnetosphere]]

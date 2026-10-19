@@ -22,7 +22,7 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Delay-Tolerant Networking]]
 - [[Mix Network]]
 - [[Internet Control Message Protocol]]
-- [[Head-of-Line Blocking]]
+- [[Speed of Light]]
 - [[Sliding Window Protocol]]
 - [[Pigeon Post]]
 - [[Carrier-Sense Multiple Access]]

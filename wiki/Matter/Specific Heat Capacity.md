@@ -30,4 +30,4 @@ In electronics, thermal mass buys time rather than capacity. A heavy heatsink ab
 - [[Heat Pump]]
 - [[Absolute Zero]]
 - [[Microwave Heating]]
-- [[Greenhouse Effect]]
+- [[Water Cycle]]

@@ -17,7 +17,7 @@ The effect scales with the ratio of relative velocity to wave speed, which is wh
 - [[Inertial Frame of Reference]]
 - [[Dark Matter]]
 - [[Helmholtz Resonance]]
-- [[Wave Interference]]
+- [[Exoplanet]]
 - [[Cellular Network]]
 - [[Sound]]
 - [[Satellite Internet]]

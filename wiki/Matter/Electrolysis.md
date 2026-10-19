@@ -29,3 +29,5 @@ Electrolysis needs direct current, so grid-fed cells first convert alternating c
 - [[Semiconductor]]
 - [[Electromigration]]
 - [[Chemical Equilibrium]]
+- [[Periodic Table]]
+- [[Chemical Bond]]

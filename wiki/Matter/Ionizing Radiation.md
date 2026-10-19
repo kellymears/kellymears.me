@@ -25,10 +25,11 @@ The types penetrate differently. Alpha particles are stopped by paper or the out
 
 The Geiger counter, developed by Hans Geiger and Walther Müller in 1928, detects each ionizing particle as a click when it sets off a discharge in a gas-filled tube.
 
-It is also useful, in X-ray imaging, radiotherapy, and sterilizing medical equipment. Cosmic rays from space are ionizing too; at ground level they are weak, but they can flip bits in computer memory; see [[Single-Event Upset]]. Sunburn, by contrast, comes mostly from ultraviolet light that damages DNA directly without ionizing it; see [[Sunburn]].
+It is also useful, in X-ray imaging, radiotherapy, and sterilizing medical equipment. Magnetic resonance imaging avoids it entirely; see [[Magnetic Resonance Imaging]]. Cosmic rays from space are ionizing too; at ground level they are weak, but they can flip bits in computer memory; see [[Single-Event Upset]]. Sunburn, by contrast, comes mostly from ultraviolet light that damages DNA directly without ionizing it; see [[Sunburn]].
 
 ## See also
-- [[Ozone Layer]]
+- [[Particle Accelerator]]
 - [[Antimatter]]
 - [[Magnetosphere]]
-- [[Isotope]]
+- [[Neutrino]]
+- [[Periodic Table]]

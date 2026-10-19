@@ -26,7 +26,7 @@ A related effect explains coffee rings. As a spilled drop dries, its edge stays 
 Capillary action relates to [[Osmosis]], which also moves water through fine structures, but by concentration differences rather than surface forces. A liquid's [[Viscosity]] sets how quickly it wicks, not how far.
 
 ## See also
-- [[Supercritical Fluid]]
+- [[Water Cycle]]
 - [[Dew Point]]
 - [[Emulsion]]
 - [[Siphon]]

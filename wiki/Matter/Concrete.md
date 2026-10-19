@@ -23,3 +23,5 @@ Cement has a large climate cost. Making it means heating limestone in kilns to a
 ## See also
 - [[Glass]]
 - [[Allotrope]]
+- [[Chemical Bond]]
+- [[Crystal Structure]]

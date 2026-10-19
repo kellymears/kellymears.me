@@ -28,5 +28,5 @@ Related effects form a family. **Pyroelectric** crystals produce a voltage when 
 ## See also
 - [[Hall Effect]]
 - [[Real-Time Clock]]
-- [[Atomic Clock]]
+- [[Crystal Structure]]
 - [[Microcontroller]]

@@ -31,6 +31,6 @@ Water also travels with fuel. Each gram of stored [[Glycogen]] binds about three
 - [[Heat Stroke]]
 - [[Endocrine System]]
 - [[Side Stitch]]
-- [[Kidney]]
+- [[Water Cycle]]
 - [[Menstrual Cycle]]
 - [[Lactose Intolerance]]

@@ -29,8 +29,8 @@ International Atomic Time combines clocks from labs around the world, each corre
 
 ## See also
 - [[Dark Matter]]
-- [[Neutron Star]]
-- [[Cosmic Ray]]
+- [[Particle Accelerator]]
+- [[Speed of Light]]
 - [[Quantum Entanglement]]
 - [[Single-Event Upset]]
 - [[Atomic Clock]]

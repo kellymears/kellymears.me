@@ -28,5 +28,6 @@ The engineering problems remain hard: fast neutrons damage the reactor walls and
 - [[Supernova]]
 - [[Ionizing Radiation]]
 - [[Black Hole]]
-- [[Isotope]]
-- [[Antimatter]]
+- [[Periodic Table]]
+- [[Standard Model]]
+- [[Neutrino]]
