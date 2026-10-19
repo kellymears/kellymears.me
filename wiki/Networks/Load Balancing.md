@@ -20,7 +20,7 @@ Layer 4 balancers work at the TCP/UDP level and just forward packets, cheap and 
 - [[Anycast]]
 - [[Session Management]]
 - [[Consistent Hashing]]
-- [[Web Server]]
+- [[Online Algorithm]]
 - [[Hot Partition]]
 - [[Quality of Service]]
 - [[OSI Model]]

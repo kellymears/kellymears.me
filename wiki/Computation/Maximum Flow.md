@@ -30,3 +30,4 @@ Flow differs from shortest paths. [[Dijkstra's Algorithm]] finds the best single
 - [[Topological Sort]]
 - [[Sankey Diagram]]
 - [[Seven Bridges of Königsberg]]
+- [[Bellman-Ford Algorithm]]

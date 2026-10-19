@@ -23,3 +23,5 @@ The operand stack is distinct from the call stack that holds function frames, th
 - [[Esoteric Programming Language]]
 - [[Lisp]]
 - [[Intermediate Representation]]
+- [[Flip-Flop]]
+- [[Binary Adder]]

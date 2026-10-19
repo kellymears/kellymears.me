@@ -21,6 +21,6 @@ Modern protocols generate fresh secrets for every session and discard them after
 Parameters matter. In 2015 researchers showed that many servers still accepted deliberately weakened 512-bit groups, left over from 1990s export rules, and that a few widely shared primes made large-scale precomputation attacks feasible; see [[Prime Number]].
 
 ## See also
-- [[Zero-Knowledge Proof]]
-- [[Arbitrary-Precision Arithmetic]]
-- [[Wiretapping]]
+- [[Shamir's Secret Sharing]]
+- [[Homomorphic Encryption]]
+- [[Integer Factorization]]

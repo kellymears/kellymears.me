@@ -30,7 +30,7 @@ Small changes can cross the line. Finding the shortest path in a graph is easy, 
 - [[Stable Matching]]
 - [[Approximation Algorithm]]
 - [[Traveling Salesman Problem]]
-- [[RSA]]
+- [[Integer Factorization]]
 - [[Prime Number]]
 - [[Boolean Satisfiability Problem]]
 - [[Knapsack Problem]]

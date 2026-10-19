@@ -30,3 +30,4 @@ The design also met problems still familiar. Babbage devised an "anticipating ca
 - [[Assembly Language]]
 - [[Punched Card]]
 - [[Caesar Cipher]]
+- [[Binary Adder]]

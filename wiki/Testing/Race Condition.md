@@ -18,7 +18,7 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Futex]]
 - [[Mars Pathfinder Priority Inversion]]
 - [[Semaphore]]
-- [[File Locking]]
+- [[Flip-Flop]]
 - [[Therac-25]]
 - [[Distributed Lock]]
 - [[Northeast Blackout of 2003]]

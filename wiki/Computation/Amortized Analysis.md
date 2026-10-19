@@ -21,3 +21,4 @@ The practical payoff is that "O(1) amortized" is an honest bound to advertise to
 - [[Ackermann Function]]
 - [[Cuckoo Hashing]]
 - [[Prefix Sum]]
+- [[Online Algorithm]]

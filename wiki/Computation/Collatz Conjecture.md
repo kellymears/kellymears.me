@@ -25,5 +25,5 @@ The problem attracts amateurs because anyone can explore it with a pencil or a f
 - [[Ackermann Function]]
 - [[Recursion]]
 - [[Tower of Hanoi]]
-- [[Fibonacci Sequence]]
+- [[Integer Factorization]]
 - [[Prime Number]]

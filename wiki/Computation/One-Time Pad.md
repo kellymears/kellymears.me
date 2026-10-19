@@ -25,8 +25,8 @@ Practical encryption keeps the pad's structure and replaces its key. A stream ci
 Earlier machine ciphers fell because their keys repeated in patterns; see [[Enigma Machine]].
 
 ## See also
-- [[Kolmogorov Complexity]]
-- [[Numbers Station]]
-- [[RSA]]
+- [[Shamir's Secret Sharing]]
+- [[Homomorphic Encryption]]
+- [[Advanced Encryption Standard]]
 - [[Quantum Entanglement]]
 - [[Caesar Cipher]]

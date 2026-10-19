@@ -25,6 +25,6 @@ The cost is speed and predictability. Every operation allocates memory and loops
 Arbitrary precision applies to real numbers as well. Libraries such as MPFR let the user choose how many bits each floating-point value carries and round correctly at every step, a way to check whether ordinary [[Floating-Point Arithmetic]] has drifted. **Interval arithmetic** goes further, carrying lower and upper bounds guaranteed to contain the true answer.
 
 ## See also
-- [[Newton's Method]]
-- [[Prime Number]]
+- [[Integer Factorization]]
+- [[Binary Adder]]
 - [[RSA]]

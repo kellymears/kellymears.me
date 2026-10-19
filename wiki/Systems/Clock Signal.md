@@ -30,7 +30,7 @@ Timekeeping uses separate, slower clocks, since the processor clock changes spee
 
 ## See also
 - [[Hybrid CPU Architecture]]
-- [[Processor Register]]
+- [[Flip-Flop]]
 - [[Gray Code]]
-- [[Motherboard]]
+- [[Binary Adder]]
 - [[Microcontroller]]

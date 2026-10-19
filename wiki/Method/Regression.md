@@ -24,3 +24,4 @@ Guarding against regressions is what a test suite is *for*, and the guard only e
 - [[Regression Testing]]
 - [[Refactoring]]
 - [[Logistic Regression]]
+- [[Kalman Filter]]

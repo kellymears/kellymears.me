@@ -22,7 +22,8 @@ Implementations have failed in instructive ways. ECDSA needs a fresh random numb
 Like RSA, ECC would fall to a large quantum computer running Shor's algorithm; see [[Quantum Computing]]. Smaller keys don't help there, and some estimates suggest curves need fewer qubits to break than RSA at comparable strength.
 
 ## See also
-- [[Zero-Knowledge Proof]]
-- [[Prime Number]]
-- [[Information Theory]]
+- [[Finite Field]]
+- [[Advanced Encryption Standard]]
+- [[Homomorphic Encryption]]
 - [[Timing Attack]]
+- [[Integer Factorization]]

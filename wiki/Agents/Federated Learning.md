@@ -35,3 +35,4 @@ Federated learning reduces what gets collected, but on its own it doesn't guaran
 - [[Algorithmic Bias]]
 - [[Batch Normalization]]
 - [[Distributed Training]]
+- [[Homomorphic Encryption]]

@@ -22,3 +22,4 @@ The main defense, **diverse double-compiling**, described by David A. Wheeler, c
 ## See also
 - [[Metaprogramming]]
 - [[Lexical Analysis]]
+- [[Homomorphic Encryption]]

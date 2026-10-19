@@ -30,6 +30,6 @@ Defenses work at every level:
 For debugging, soft errors mean that a crash which never recurs may not be a software bug, and that in a large fleet some fraction of crash reports have no code fix; see [[Crash Reporting]] and [[Heisenbug]]. Large operators have also found the opposite case, chips with manufacturing defects that compute wrong answers repeatably; see [[Byzantine fault]].
 
 ## See also
-- [[Magnetosphere]]
+- [[Flip-Flop]]
 - [[Fault injection]]
 - [[Cosmic Ray]]

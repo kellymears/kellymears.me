@@ -28,5 +28,5 @@ Balanced binary trees lose to B-trees on disk and often in memory, because each 
 - [[Binary Heap]]
 - [[Trie]]
 - [[Iterator]]
-- [[Database Index]]
+- [[Online Algorithm]]
 - [[Text Buffer]]

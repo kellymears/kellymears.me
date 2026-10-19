@@ -16,7 +16,7 @@ That reframing points to what actually raises the number. Writing things down is
 - [[Engineering Ladder]]
 - [[Transactive Memory]]
 - [[Good First Issue]]
-- [[Open Source Program Office]]
+- [[Shamir's Secret Sharing]]
 - [[Spotify Model]]
 - [[Heartbleed]]
 - [[Peter Principle]]

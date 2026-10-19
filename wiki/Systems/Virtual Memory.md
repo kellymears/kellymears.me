@@ -26,7 +26,7 @@ The same design appears wherever a fixed pool has to be shared among variable de
 - [[Translation Lookaside Buffer]]
 - [[Time-Sharing]]
 - [[Rowhammer]]
-- [[Control Groups]]
+- [[Online Algorithm]]
 - [[Position-Independent Code]]
 - [[Memory Allocator]]
 - [[Texture Streaming]]

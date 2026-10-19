@@ -25,7 +25,7 @@ The general principle is the one behind every [[Event Loop]]: whoever holds the 
 
 ## See also
 - [[Multithreading]]
-- [[Thread Pool]]
+- [[Online Algorithm]]
 - [[Futex]]
 - [[Simultaneous Multithreading]]
 - [[Time-Sharing]]

@@ -23,5 +23,6 @@ Registers are also what an operating system saves and restores when it switches 
 Behind the scenes, a modern core has far more physical registers than its instruction set names, often a couple of hundred. It **renames** each write to a fresh physical register, so instructions that merely reuse the same name don't have to wait for each other. That's essential for running instructions out of order; see [[Speculative Execution]] and [[Simultaneous Multithreading]].
 
 ## See also
-- [[Von Neumann Architecture]]
+- [[Binary Adder]]
 - [[Instruction Pipelining]]
+- [[Flip-Flop]]

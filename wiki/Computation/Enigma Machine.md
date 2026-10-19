@@ -23,7 +23,7 @@ The lasting lesson is that a cipher should stay secure even when the enemy knows
 
 ## See also
 - [[Analytical Engine]]
-- [[Traffic Analysis]]
+- [[Advanced Encryption Standard]]
 - [[Numbers Station]]
 - [[One-Time Pad]]
 - [[Crossword]]

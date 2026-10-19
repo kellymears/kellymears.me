@@ -27,7 +27,7 @@ Uses depend on that speed. A [[Virtual Reality]] headset samples its IMU hundred
 The body has its own version: the inner ear's canals sense rotation and its otolith organs sense linear acceleration and gravity, with the same ambiguity between tilting and accelerating; see [[Vestibular System]].
 
 ## See also
-- [[Free Fall]]
+- [[Kalman Filter]]
 - [[Gyroscope]]
 - [[Autonomous Vehicle]]
 - [[Pigeon Post]]

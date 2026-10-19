@@ -34,5 +34,5 @@ The trade-off must be acceptable. Approximate counts suit dashboards and capacit
 - [[Data Profiling]]
 - [[Bitmap Index]]
 - [[Locality-Sensitive Hashing]]
-- [[Statistical Sampling]]
+- [[Online Algorithm]]
 - [[Cuckoo Hashing]]

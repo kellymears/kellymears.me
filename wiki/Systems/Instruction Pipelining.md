@@ -26,8 +26,8 @@ Modern processors go well beyond a single pipeline. **Superscalar** designs fetc
 The same pattern recurs outside processors. Any staged process gains throughput by overlapping work, and its speed is set by the slowest stage; see [[Theory of Constraints]] and [[Deployment Pipeline]].
 
 ## See also
-- [[Microcode]]
-- [[Memory Hierarchy]]
+- [[Flip-Flop]]
+- [[Binary Adder]]
 - [[Assembly Language]]
 - [[Graphics Pipeline]]
 - [[Distributed Training]]

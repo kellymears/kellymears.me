@@ -28,4 +28,4 @@ Turing completeness also underlies [[Emulation]]: any complete system can, given
 ## See also
 - [[Stack Machine]]
 - [[Context-Free Grammar]]
-- [[Compiler Bootstrapping]]
+- [[Homomorphic Encryption]]

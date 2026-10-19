@@ -27,7 +27,7 @@ Primes also turn up in everyday code. Hash tables are often sized to a prime so 
 The largest known primes are Mersenne primes, one less than a power of two, found by a volunteer computing project; the record set in 2024 has over 41 million digits. Simple questions remain open, such as whether infinitely many primes differ by 2. Like the [[Collatz Conjecture]], they are easy to state and have resisted proof.
 
 ## See also
-- [[Diffie-Hellman Key Exchange]]
+- [[Integer Factorization]]
 - [[Fibonacci Sequence]]
-- [[Elliptic Curve Cryptography]]
+- [[Finite Field]]
 - [[RSA]]

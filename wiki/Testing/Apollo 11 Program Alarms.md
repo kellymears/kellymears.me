@@ -29,6 +29,6 @@ The episode is a reminder that robustness lies partly in software that expects t
 
 ## See also
 - [[Mars Pathfinder Priority Inversion]]
-- [[Apollo 1 Fire]]
+- [[Kalman Filter]]
 - [[Gyroscope]]
 - [[Apollo 13]]

@@ -30,3 +30,4 @@ Engineering simulators, circuit solvers, and physics engines use Newton iteratio
 ## See also
 - [[Simulated Annealing]]
 - [[Big-O Notation]]
+- [[Kalman Filter]]

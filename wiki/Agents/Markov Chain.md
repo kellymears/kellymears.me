@@ -21,7 +21,7 @@ The result is text that is locally fluent and globally incoherent. Each transiti
 - [[Automatic Speech Recognition]]
 - [[Bayesian Network]]
 - [[Random Walk]]
-- [[Reinforcement Learning]]
+- [[Kalman Filter]]
 - [[Recurrent Neural Network]]
 - [[Autocomplete]]
 - [[Chatbot]]

@@ -33,7 +33,7 @@ A [[Pre-mortem]] turns the effect into a tool, borrowing the clarity of hindsigh
 - [[After-Action Review]]
 - [[Counterfactual Thinking]]
 - [[Inversion]]
-- [[Cognitive Bias]]
+- [[Online Algorithm]]
 - [[Just-World Hypothesis]]
 - [[Superforecasting]]
 - [[Pre-registration]]

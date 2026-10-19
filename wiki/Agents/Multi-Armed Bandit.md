@@ -27,7 +27,7 @@ People face the same dilemma: the favorite restaurant or a new one. Research on 
 
 ## See also
 - [[Recommender System]]
-- [[Operant Conditioning]]
+- [[Online Algorithm]]
 - [[Active Learning]]
 - [[Curiosity]]
 - [[Push Your Luck]]

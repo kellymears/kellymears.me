@@ -29,5 +29,5 @@ The same model sits at the root of machine learning. Fitting it by repeatedly nu
 ## See also
 - [[Line Chart]]
 - [[Sensitivity Analysis]]
-- [[Correlation Coefficient]]
+- [[Kalman Filter]]
 - [[Newton's Method]]

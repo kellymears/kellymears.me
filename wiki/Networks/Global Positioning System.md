@@ -31,7 +31,7 @@ The system was built for the US military and opened fully to civilian accuracy i
 - [[Data Broker]]
 - [[Pigeon Post]]
 - [[OpenStreetMap]]
-- [[Radio Propagation]]
+- [[Kalman Filter]]
 - [[Spread Spectrum]]
 - [[Geospatial Data]]
 - [[Emergency Telephone Number]]

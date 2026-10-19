@@ -28,7 +28,7 @@ BGP is also a tool. [[Anycast]] announces the same addresses from many locations
 - [[IP Routing]]
 - [[Facebook Outage of 2021]]
 - [[Software-Defined Networking]]
-- [[Man-in-the-Middle Attack]]
+- [[Bellman-Ford Algorithm]]
 - [[Mesh Network]]
 - [[Internet Shutdown]]
 - [[Subnet]]

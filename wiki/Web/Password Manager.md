@@ -23,3 +23,5 @@ Managers increasingly store passkeys alongside passwords, syncing the private ke
 ## See also
 - [[Single Sign-On]]
 - [[Form Design]]
+- [[Shamir's Secret Sharing]]
+- [[Advanced Encryption Standard]]

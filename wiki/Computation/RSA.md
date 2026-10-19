@@ -21,7 +21,8 @@ Unlike a one-time pad, RSA's security is computational rather than absolute: an 
 Its long-term future is limited. A large enough quantum computer could factor RSA moduli efficiently; see [[Shor's algorithm]]. Standards bodies have published replacement schemes designed to resist quantum attack, and many systems already prefer elliptic-curve cryptography, which gives similar security with much smaller keys.
 
 ## See also
-- [[Zero-Knowledge Proof]]
-- [[Enigma Machine]]
-- [[Elliptic Curve Cryptography]]
-- [[Diffie-Hellman Key Exchange]]
+- [[Finite Field]]
+- [[Homomorphic Encryption]]
+- [[Shamir's Secret Sharing]]
+- [[Advanced Encryption Standard]]
+- [[Integer Factorization]]

@@ -25,7 +25,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[Perfect Hashing]]
 - [[Locality-Sensitive Hashing]]
 - [[Persistent Identifier]]
-- [[Data Breach]]
+- [[Advanced Encryption Standard]]
 - [[Caller ID Authentication]]
 - [[AI Watermarking]]
 - [[Birthday Problem]]

@@ -28,8 +28,8 @@ TLS encrypts content but not everything. The server's IP address is visible, and
 
 ## See also
 - [[HTTP Compression]]
-- [[Elliptic Curve Cryptography]]
+- [[Integer Factorization]]
 - [[Zero-Knowledge Proof]]
-- [[Timing Attack]]
+- [[Advanced Encryption Standard]]
 - [[HTTP Strict Transport Security]]
 - [[Mutual TLS]]

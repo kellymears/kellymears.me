@@ -21,7 +21,7 @@ If the keyword is truly random, as long as the message, and never reused, the Vi
 The lessons carried forward. A large key space is necessary but not sufficient, since structure leaking through is what breaks ciphers. And security should rest on the secrecy of the key, not of the method, since the method will eventually be known; see [[Public-Key Cryptography]], [[Pseudorandom Number Generator]] and [[Diffie-Hellman Key Exchange]].
 
 ## See also
-- [[Data Compression]]
+- [[Advanced Encryption Standard]]
 - [[Bitwise Operation]]
 - [[Pigeonhole Principle]]
 - [[Numbers Station]]

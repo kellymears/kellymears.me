@@ -27,6 +27,6 @@ Games show both sides. Players exploit predictable generators through *RNG manip
 In testing, randomness drives [[Property-Based Testing]] and [[Fuzzing]], and recording the seed turns a random failure into a reproducible one.
 
 ## See also
-- [[Backgammon]]
+- [[Advanced Encryption Standard]]
 - [[Caesar Cipher]]
-- [[Diffie-Hellman Key Exchange]]
+- [[Finite Field]]

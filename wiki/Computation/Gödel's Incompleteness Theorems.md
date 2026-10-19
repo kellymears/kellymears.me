@@ -29,7 +29,7 @@ They are also frequently misapplied. Claims that incompleteness proves minds are
 
 ## See also
 - [[Reductio ad Absurdum]]
-- [[Compiler Bootstrapping]]
+- [[Finite Field]]
 - [[Russell's Paradox]]
 - [[Dependent Types]]
 - [[Quine]]

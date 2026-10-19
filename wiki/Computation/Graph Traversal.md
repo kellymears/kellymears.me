@@ -30,4 +30,4 @@ When edges have different costs, such as road lengths, plain BFS no longer finds
 ## See also
 - [[Union-Find]]
 - [[Graph Neural Network]]
-- [[Iterator]]
+- [[Bellman-Ford Algorithm]]

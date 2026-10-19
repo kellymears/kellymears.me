@@ -30,5 +30,5 @@ Semiconductor devices obey the same basic physics as other circuits, including [
 - [[Hall Effect]]
 - [[Photovoltaic Effect]]
 - [[Allotrope]]
-- [[Radio Broadcasting]]
+- [[Flip-Flop]]
 - [[Liquid-Crystal Display]]

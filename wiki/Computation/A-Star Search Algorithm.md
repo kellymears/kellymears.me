@@ -39,6 +39,6 @@ Many other problems can be posed as a shortest path through a space of states, i
 - [[Navigation Mesh]]
 - [[Automated Planning]]
 - [[Traveling Salesman Problem]]
-- [[Monte Carlo Tree Search]]
+- [[Bellman-Ford Algorithm]]
 - [[Flood Fill]]
 - [[Alpha-Beta Pruning]]

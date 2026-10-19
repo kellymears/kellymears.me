@@ -29,11 +29,11 @@ Without any such protection, corruption becomes a [[Silent Failure]]. Disk "bit 
 Redundancy and [[Data Compression]] pull in opposite directions. Compression removes redundancy to save space; error correction adds it back in a controlled form. Real systems do both, compressing first and then protecting the result.
 
 ## See also
-- [[Twisted Pair]]
+- [[Finite Field]]
 - [[Rowhammer]]
-- [[Signal-to-Noise Ratio]]
+- [[Homomorphic Encryption]]
 - [[Checksum]]
-- [[De Bruijn Sequence]]
+- [[Shamir's Secret Sharing]]
 - [[Gray Code]]
 - [[RAID]]
 - [[Packet Loss]]

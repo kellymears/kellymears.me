@@ -22,4 +22,4 @@ It is a vocabulary for reasoning, not a measurement. Treating it as a proxy for 
 - [[Alpha-Beta Pruning]]
 - [[Strassen Algorithm]]
 - [[Radix Sort]]
-- [[Tower of Hanoi]]
+- [[Integer Factorization]]

@@ -34,7 +34,7 @@ Bayesian statistics, which treats probabilities as degrees of belief, contrasts 
 
 ## See also
 - [[Bayesian Inference]]
-- [[Scientific Method]]
+- [[Kalman Filter]]
 - [[Abductive Reasoning]]
 - [[Prosecutor's Fallacy]]
 - [[Superforecasting]]

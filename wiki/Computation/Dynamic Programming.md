@@ -22,7 +22,7 @@ The common mistake is reaching for DP on a problem that only has optimal substru
 - [[Hidden Markov Model]]
 - [[Suffix Array]]
 - [[Collatz Conjecture]]
-- [[Divide and Conquer]]
+- [[Bellman-Ford Algorithm]]
 - [[Backpropagation]]
 - [[Prefix Sum]]
 - [[Traveling Salesman Problem]]

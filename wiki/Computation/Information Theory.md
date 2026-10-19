@@ -31,7 +31,7 @@ A related measure, *Kolmogorov complexity*, defines the information in a single 
 
 ## See also
 - [[Burrows-Wheeler Transform]]
-- [[Diffie-Hellman Key Exchange]]
-- [[Correlation Coefficient]]
+- [[Shamir's Secret Sharing]]
+- [[Homomorphic Encryption]]
 - [[Byte-Pair Encoding]]
 - [[Perplexity]]

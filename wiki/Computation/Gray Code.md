@@ -24,6 +24,6 @@ Gray codes protect against one kind of error, ambiguity during a transition, not
 
 ## See also
 - [[Caesar Cipher]]
-- [[Determinism]]
+- [[Flip-Flop]]
 - [[De Bruijn Sequence]]
 - [[Space-Filling Curve]]

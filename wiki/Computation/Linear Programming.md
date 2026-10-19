@@ -24,6 +24,6 @@ Applications include airline crew scheduling, freight routing, refinery blending
 ## See also
 - [[Newton's Method]]
 - [[Approximation Algorithm]]
-- [[Transformation Matrix]]
+- [[Bellman-Ford Algorithm]]
 - [[Convex Hull]]
 - [[Maximum Flow]]

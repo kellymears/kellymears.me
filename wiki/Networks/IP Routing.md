@@ -28,5 +28,5 @@ Several ideas build on routing. [[Anycast]] announces the same address from many
 ## See also
 - [[Spanning Tree Protocol]]
 - [[Internet Control Message Protocol]]
-- [[Universal Plug and Play]]
+- [[Bellman-Ford Algorithm]]
 - [[Loopback]]

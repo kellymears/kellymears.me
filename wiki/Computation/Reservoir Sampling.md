@@ -35,6 +35,6 @@ Sampling also does not fix bias in the stream itself. If the data reaching the s
 ## See also
 - [[Fisher-Yates Shuffle]]
 - [[Histogram]]
-- [[HyperLogLog]]
+- [[Online Algorithm]]
 - [[Statistical Sampling]]
 - [[Iterator]]

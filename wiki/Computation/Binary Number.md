@@ -27,6 +27,6 @@ Product barcodes encode it too, in dark and light modules; see [[Barcode]].
 
 ## See also
 - [[De Bruijn Sequence]]
-- [[Analytical Engine]]
-- [[Processor Register]]
-- [[Tagged Pointer]]
+- [[Binary Adder]]
+- [[Flip-Flop]]
+- [[Finite Field]]

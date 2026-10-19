@@ -27,4 +27,4 @@ The transform also reveals a fundamental trade-off. A signal concentrated in tim
 ## See also
 - [[Spherical Harmonics]]
 - [[Universal Approximation Theorem]]
-- [[Helmholtz Resonance]]
+- [[Finite Field]]

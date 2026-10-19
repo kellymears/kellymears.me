@@ -37,6 +37,6 @@ Machine learning faces the same risk: models can memorize training examples, and
 - [[Mix Network]]
 - [[Machine Unlearning]]
 - [[Federated Learning]]
-- [[Traffic Analysis]]
+- [[Homomorphic Encryption]]
 - [[Geospatial Data]]
 - [[Panopticon]]
