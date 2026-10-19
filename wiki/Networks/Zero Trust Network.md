@@ -18,7 +18,7 @@ The honest cost is operational complexity: every service now needs to participat
 - [[Mandatory Access Control]]
 - [[Anti-Cheat]]
 - [[Caller ID Authentication]]
-- [[IPv6]]
+- [[Zero-Knowledge Proof]]
 - [[Encrypted Client Hello]]
 - [[Honeypot]]
 - [[Subnet]]

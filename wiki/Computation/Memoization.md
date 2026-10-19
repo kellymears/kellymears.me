@@ -24,3 +24,4 @@ The failure modes are a cache with no eviction policy — a memoized function ca
 - [[Cache-Aside]]
 - [[Knapsack Problem]]
 - [[Collatz Conjecture]]
+- [[Fibonacci Sequence]]

@@ -26,7 +26,7 @@ Executive capacity also varies within one person. Sleep, stress, illness, and [[
 - [[Inner Speech]]
 - [[Recognition Rather Than Recall]]
 - [[ADHD]]
-- [[Neurodiversity]]
+- [[Tower of Hanoi]]
 - [[Learned Helplessness]]
 - [[Stroop Effect]]
 - [[Yak Shaving]]

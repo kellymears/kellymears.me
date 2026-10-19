@@ -29,3 +29,4 @@ Product barcodes encode it too, in dark and light modules; see [[Barcode]].
 - [[Modular Arithmetic]]
 - [[Analytical Engine]]
 - [[Error-Correcting Code]]
+- [[Gray Code]]

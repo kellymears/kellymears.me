@@ -24,3 +24,6 @@ The problem attracts amateurs because anyone can explore it with a pencil or a f
 - [[Gödel's Incompleteness Theorems]]
 - [[Ackermann Function]]
 - [[Recursion]]
+- [[Tower of Hanoi]]
+- [[Fibonacci Sequence]]
+- [[Prime Number]]

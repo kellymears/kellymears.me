@@ -22,4 +22,4 @@ The costs are real. Type checking can require running code, so a checker must ma
 Mainstream languages have adopted pieces. [[TypeScript]] can compute types from literal values, [[Generics]] in several languages accept constant numbers, and pattern-matching checks let the compiler narrow a type after a test; see [[Pattern Matching]] and [[Typestate]]. Each step moves some checks from tests and [[Design by Contract]] into the [[Type System]].
 
 ## See also
-- [[Algebraic Data Type]]
+- [[Russell's Paradox]]

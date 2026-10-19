@@ -27,7 +27,7 @@ Real libraries use hybrids. **Timsort**, written by Tim Peters for Python in 200
 Sorting at scale shapes databases too. A [[B-Tree]] keeps data sorted as it changes, so a [[Database Index]] can answer range queries without sorting at all, and [[Columnar Storage]] often sorts data to compress it better. Ordering by dependencies rather than values is a different problem, the [[Topological Sort]].
 
 ## See also
-- [[Divide and Conquer]]
+- [[Fisher-Yates Shuffle]]
 - [[Convex Hull]]
 - [[Collation]]
 - [[Loop Invariant]]

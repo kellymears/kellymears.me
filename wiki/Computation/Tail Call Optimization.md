@@ -24,3 +24,4 @@ The general workaround where TCO isn't guaranteed is manual: rewrite the recursi
 - [[Continuation]]
 - [[Structured Programming]]
 - [[Ackermann Function]]
+- [[Tower of Hanoi]]

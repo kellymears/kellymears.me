@@ -28,8 +28,8 @@ TLS encrypts content but not everything. The server's IP address is visible, and
 
 ## See also
 - [[HTTP Compression]]
-- [[Encrypted Client Hello]]
-- [[Real-Time Clock]]
-- [[HTTP2 and HTTP3]]
+- [[Prime Number]]
+- [[Zero-Knowledge Proof]]
+- [[One-Time Pad]]
 - [[HTTP Strict Transport Security]]
 - [[Mutual TLS]]

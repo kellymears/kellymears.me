@@ -19,7 +19,7 @@ Two cautions. A generator's *quality* matters for simulation and not much for ga
 - [[Terrain Generation]]
 - [[Input and Output Randomness]]
 - [[Reservoir Sampling]]
-- [[Cellular Automaton]]
+- [[Fisher-Yates Shuffle]]
 - [[Constraint Propagation]]
 - [[L-System]]
 - [[Entropy Pool]]

@@ -30,7 +30,7 @@ They are also frequently misapplied. Claims that incompleteness proves minds are
 ## See also
 - [[P versus NP Problem]]
 - [[Type System]]
-- [[Falsifiability]]
+- [[Russell's Paradox]]
 - [[Dependent Types]]
 - [[Quine]]
 - [[Collatz Conjecture]]

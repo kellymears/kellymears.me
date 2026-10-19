@@ -18,7 +18,7 @@ The common mistake is reaching for DP on a problem that only has optimal substru
 - [[Knapsack Problem]]
 - [[Text Justification]]
 - [[Amortized Analysis]]
-- [[Dijkstra's Algorithm]]
+- [[Fibonacci Sequence]]
 - [[Hidden Markov Model]]
 - [[Edit Distance]]
 - [[Collatz Conjecture]]

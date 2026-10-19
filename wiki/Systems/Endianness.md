@@ -28,7 +28,7 @@ The robust practice is to never depend on native layout when data crosses a boun
 Mixing up byte order is a classic source of bugs that pass every test on one machine and fail on another, much like assumptions buried in an [[Application Binary Interface]].
 
 ## See also
-- [[Error-Correcting Code]]
+- [[Gray Code]]
 - [[Integer Overflow]]
 - [[Binary Number]]
 - [[Mainframe]]

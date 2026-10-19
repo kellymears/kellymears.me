@@ -26,3 +26,4 @@ The word is the obstacle. It arrives from category theory, and the definitions i
 - [[Promise]]
 - [[Generics]]
 - [[Exception Handling]]
+- [[Curry-Howard Correspondence]]

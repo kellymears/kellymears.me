@@ -21,5 +21,5 @@ It is a vocabulary for reasoning, not a measurement. Treating it as a proxy for 
 - [[Ackermann Function]]
 - [[Arbitrary-Precision Arithmetic]]
 - [[Logarithmic Scale]]
-- [[P versus NP Problem]]
-- [[Graph Traversal]]
+- [[Fibonacci Sequence]]
+- [[Tower of Hanoi]]

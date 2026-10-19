@@ -16,7 +16,7 @@ The failure mode of *not* modeling something explicitly as a state machine is sc
 
 ## See also
 - [[Hidden Markov Model]]
-- [[Regular Expression]]
+- [[Gray Code]]
 - [[Actor Model]]
 - [[Determinism]]
 - [[Exploratory Testing]]

@@ -31,7 +31,7 @@ The fallacy pairs naturally with [[Confirmation Bias]] and [[Hindsight Bias]]: o
 ## See also
 - [[Gambler's Fallacy]]
 - [[Streetlight Effect]]
-- [[Pareidolia]]
+- [[Fisher-Yates Shuffle]]
 - [[Golden Ratio]]
 - [[Multiple Comparisons Problem]]
 - [[Logical Fallacy]]

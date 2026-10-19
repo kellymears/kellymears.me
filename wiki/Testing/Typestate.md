@@ -21,4 +21,4 @@ In languages without built-in support, a common workaround encodes each state as
 Typestate sits between ordinary types and full specification. It checks the order of operations, not whether their results are correct; see [[Design by Contract]] and [[Dependent Types]]. Where a language can't express it, tools check the same properties after the fact; see [[Static Analysis]].
 
 ## See also
-- [[Type System]]
+- [[Curry-Howard Correspondence]]

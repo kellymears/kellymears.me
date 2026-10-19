@@ -25,7 +25,7 @@ Experiments since 2019 have shown quantum devices performing specially chosen sa
 Many results are probabilistic and must be repeated; see [[Monte Carlo Method]].
 
 ## See also
-- [[Absolute Zero]]
+- [[Prime Number]]
 - [[Quantum Tunneling]]
 - [[Superconductivity]]
 - [[Analytical Engine]]

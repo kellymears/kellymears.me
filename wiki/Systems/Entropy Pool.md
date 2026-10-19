@@ -30,3 +30,4 @@ Some organizations make the physics visible. A wall of lava lamps in Cloudflare'
 ## See also
 - [[Secret Management]]
 - [[Seeded Randomness]]
+- [[One-Time Pad]]

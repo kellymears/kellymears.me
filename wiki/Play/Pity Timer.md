@@ -21,3 +21,4 @@ The mechanism is best understood as damage control on [[Variable-Ratio Reinforce
 - [[Collectible Card Game]]
 - [[Input and Output Randomness]]
 - [[Tetris]]
+- [[Fisher-Yates Shuffle]]

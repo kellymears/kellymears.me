@@ -28,6 +28,6 @@ Related errors:
 Game designers exploit the feeling, using near-misses and variable rewards to keep players engaged; see [[Gacha Monetization]].
 
 ## See also
-- [[Input and Output Randomness]]
+- [[Fisher-Yates Shuffle]]
 - [[Radioactive Decay]]
 - [[Mental Accounting]]

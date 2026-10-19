@@ -19,7 +19,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 - [[Pigeonhole Principle]]
 - [[Entropy Pool]]
 - [[Checksum]]
-- [[Modular Arithmetic]]
+- [[Zero-Knowledge Proof]]
 
 ## Related
 - [[Record and Replay Testing]]

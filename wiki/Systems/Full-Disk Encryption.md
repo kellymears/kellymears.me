@@ -27,7 +27,7 @@ FDE's protection is narrow, and it helps to state it exactly. It protects data o
 Unattended unlocking adds trade-offs. A Trusted Platform Module can release the key automatically if the [[Boot Process]] measures as unmodified, tied to Secure Boot and [[Code Signing]], so servers and laptops boot without a passphrase. That defends against someone removing the drive but less well against someone with the whole machine. Hardware self-encrypting drives looked attractive until 2018, when researchers found that several models' implementations could be bypassed completely, and operating systems stopped trusting them by default.
 
 ## See also
-- [[Logical Volume Manager]]
+- [[One-Time Pad]]
 - [[Data Breach]]
 - [[CrowdStrike Outage]]
 - [[Enigma Machine]]

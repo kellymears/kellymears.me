@@ -23,5 +23,6 @@ Its inverse matters more in practice. The **inverse Ackermann function**, writte
 Functions like this show how quickly simple rules escape intuition. Tiny inputs produce values beyond anything physical, and whether an arbitrary program finishes at all is undecidable in general; see [[Halting Problem]].
 
 ## See also
-- [[Collatz Conjecture]]
+- [[Fibonacci Sequence]]
 - [[Structured Programming]]
+- [[Tower of Hanoi]]

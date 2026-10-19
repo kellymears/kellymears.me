@@ -26,7 +26,7 @@ Undecidability applies to the general case. For restricted models, such as a [[F
 ## See also
 - [[Ackermann Function]]
 - [[Abstract Interpretation]]
-- [[Collatz Conjecture]]
-- [[Cantor's Diagonal Argument]]
+- [[Russell's Paradox]]
+- [[Curry-Howard Correspondence]]
 - [[Symbolic Execution]]
 - [[Gödel's Incompleteness Theorems]]

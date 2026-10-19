@@ -23,3 +23,4 @@ The failure mode is a match that looks exhaustive but isn't, in a language witho
 - [[Dynamic Dispatch]]
 - [[Dependent Types]]
 - [[Logic Programming]]
+- [[Curry-Howard Correspondence]]

@@ -32,7 +32,7 @@ Recursive sum types describe trees: an expression is a number, *or* a sum of two
 - [[Generics]]
 - [[Exception Handling]]
 - [[Typestate]]
-- [[Type Inference]]
+- [[Curry-Howard Correspondence]]
 - [[Null]]
 - [[Dynamic Dispatch]]
 - [[TypeScript]]

@@ -27,7 +27,7 @@ Some problems about Boolean formulas are hard. Deciding whether any input makes 
 Databases add a third value, unknown, which breaks some familiar laws; see [[Null]].
 
 ## See also
-- [[Bloom Filter]]
+- [[Gray Code]]
 - [[Binary Number]]
 - [[Constructive Solid Geometry]]
 - [[Modular Arithmetic]]

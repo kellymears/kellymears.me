@@ -22,3 +22,4 @@ The common failure mode is a function that looks pure — takes arguments, retur
 - [[Flaky Test]]
 - [[Humble Object]]
 - [[Testability]]
+- [[Curry-Howard Correspondence]]

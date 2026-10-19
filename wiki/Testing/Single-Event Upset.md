@@ -32,4 +32,4 @@ For debugging, soft errors mean that a crash which never recurs may not be a sof
 ## See also
 - [[Rowhammer]]
 - [[Fault injection]]
-- [[ZFS]]
+- [[Gray Code]]

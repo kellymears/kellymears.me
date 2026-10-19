@@ -31,7 +31,8 @@ Radio extended telegraphy to ships around 1900, and the telephone replaced it fo
 
 ## See also
 - [[ARPANET]]
-- [[Optical Fiber]]
+- [[One-Time Pad]]
 - [[Amateur Radio]]
 - [[Barcode]]
 - [[Enigma Machine]]
+- [[Gray Code]]

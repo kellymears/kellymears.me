@@ -28,5 +28,5 @@ The **Chinese remainder theorem**, found in a Chinese text from roughly the thir
 Days of the week are arithmetic modulo 7, and the twelve pitch classes of Western music are arithmetic modulo 12. One trap for programmers: whether the remainder of a negative number comes out negative or positive varies between languages, a frequent source of bugs.
 
 ## See also
-- [[ISBN]]
-- [[Boolean Algebra]]
+- [[One-Time Pad]]
+- [[Prime Number]]

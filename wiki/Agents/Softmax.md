@@ -31,4 +31,4 @@ Logits are also a window for research. The *logit lens* applies the final output
 - [[Calibration]]
 - [[Cosine Similarity]]
 - [[Naive Bayes]]
-- [[Entropy]]
+- [[Numerical Stability]]

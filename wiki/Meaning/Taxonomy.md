@@ -17,7 +17,7 @@ Two practical notes. A vocabulary is a shared model, so every near-synonym costs
 
 ## See also
 - [[Constructed Language]]
-- [[Knowledge Graph]]
+- [[Russell's Paradox]]
 - [[Web 2.0]]
 - [[Frontmatter]]
 - [[ImageNet]]

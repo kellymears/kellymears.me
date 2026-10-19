@@ -31,9 +31,9 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 ## See also
 - [[Quantum Computing]]
 - [[Rowhammer]]
-- [[Barcode]]
+- [[Prime Number]]
 - [[Checksum]]
 - [[N-Version Programming]]
-- [[ZFS]]
+- [[Gray Code]]
 - [[RAID]]
 - [[Pigeonhole Principle]]

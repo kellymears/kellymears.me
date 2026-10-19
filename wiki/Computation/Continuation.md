@@ -34,3 +34,4 @@ Underneath, the idea connects to [[Monad]]s: the continuation monad can express 
 - [[Higher-Order Function]]
 - [[Recursion]]
 - [[Structured Programming]]
+- [[Curry-Howard Correspondence]]

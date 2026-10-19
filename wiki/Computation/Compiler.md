@@ -24,6 +24,6 @@ The trade-off a compiler imposes is a build step between writing code and seeing
 - [[Transpiler]]
 - [[Linker]]
 - [[Metaprogramming]]
-- [[Hourglass Model]]
+- [[Curry-Howard Correspondence]]
 - [[Assembly Language]]
 - [[Esoteric Programming Language]]

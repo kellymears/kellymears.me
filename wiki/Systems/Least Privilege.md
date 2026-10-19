@@ -25,7 +25,7 @@ The principle is stated easily and applied poorly, because broad permissions are
 - [[Mandatory Access Control]]
 - [[Server-Side Request Forgery]]
 - [[Universal Serial Bus]]
-- [[Clipboard]]
+- [[Zero-Knowledge Proof]]
 - [[Data Breach]]
 - [[Time-of-Check to Time-of-Use]]
 

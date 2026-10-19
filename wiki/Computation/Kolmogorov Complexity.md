@@ -34,5 +34,5 @@ The concept gives a precise meaning to an intuitive idea: understanding somethin
 - [[Cantor's Diagonal Argument]]
 - [[Esoteric Programming Language]]
 - [[Quine]]
-- [[Pigeonhole Principle]]
+- [[One-Time Pad]]
 - [[Fractal]]

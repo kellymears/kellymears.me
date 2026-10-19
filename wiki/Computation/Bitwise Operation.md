@@ -35,6 +35,6 @@ XOR has special properties: applying the same XOR twice undoes it, which makes i
 Bit manipulation has pitfalls. Right-shifting a negative signed number behaves differently across languages, shifting by more than the type's width is undefined in C, and mixing signed and unsigned types invites [[Integer Overflow]] bugs; see the two's complement representation. JavaScript converts numbers to 32-bit integers for bitwise operators, a surprise for anyone using them on large values. Clever bit tricks also hurt readability, so they belong in hot paths, documented, not sprinkled through ordinary code.
 
 ## See also
-- [[Entity Component System]]
-- [[SIMD]]
+- [[Gray Code]]
+- [[One-Time Pad]]
 - [[Arbitrary-Precision Arithmetic]]

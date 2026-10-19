@@ -31,4 +31,4 @@ Backtracking appears in more systems than people expect:
 When choices are never reconsidered, the search becomes a [[Greedy Algorithm]], faster but liable to get stuck. Backtracking is the patient alternative.
 
 ## See also
-- [[Enigma Machine]]
+- [[Tower of Hanoi]]

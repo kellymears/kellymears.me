@@ -32,4 +32,4 @@ RCTs have limits. Some questions can't ethically be randomized, such as whether 
 - [[Hawthorne Effect]]
 - [[Ideomotor Effect]]
 - [[Relative Risk]]
-- [[Observational Study]]
+- [[Fisher-Yates Shuffle]]

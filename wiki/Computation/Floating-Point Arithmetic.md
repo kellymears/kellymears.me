@@ -28,7 +28,7 @@ Precision is also a trade-off with speed and memory. Graphics uses 16-bit floats
 Floating point also undermines reproducibility. Different compilers, instruction sets, and parallel reductions produce results that differ in the last bits, which breaks [[Determinism]]. Lockstep multiplayer and [[Rollback Netcode]] often avoid floats in game logic or force a strict mode so every machine computes identical results, and [[Golden File Testing]] of numeric output must tolerate tiny differences. Floating-point mistakes can be expensive: the 1994 Pentium division bug cost Intel about $475 million and pushed chipmakers toward [[Formal Verification]]. A cousin problem, [[Integer Overflow]], affects whole numbers.
 
 ## See also
-- [[Arbitrary-Precision Arithmetic]]
+- [[Numerical Stability]]
 - [[Decimal Arithmetic]]
 - [[Binary Number]]
 - [[Cantor's Diagonal Argument]]

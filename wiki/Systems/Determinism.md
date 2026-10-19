@@ -24,7 +24,7 @@ Where full determinism is not achievable, the fallback is to isolate the non-det
 - [[Deterministic Simulation Testing]]
 
 ## Related
-- [[Procedural Generation]]
+- [[Numerical Stability]]
 - [[Reproducible Case]]
 - [[Floating-Point Arithmetic]]
 - [[Reproducible Build]]

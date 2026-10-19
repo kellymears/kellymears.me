@@ -28,7 +28,7 @@ Defenses include using wide enough types, checked arithmetic that reports overfl
 
 ## See also
 - [[Tetris]]
-- [[Arcade Game]]
+- [[Numerical Stability]]
 - [[Endianness]]
 - [[Decimal Arithmetic]]
 - [[Patriot Missile Failure]]

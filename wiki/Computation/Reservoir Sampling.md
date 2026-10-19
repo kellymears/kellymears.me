@@ -33,7 +33,7 @@ The algorithm is a close cousin of the **Fisher–Yates shuffle**, which produce
 Sampling also does not fix bias in the stream itself. If the data reaching the sampler already omits cases, as in [[Selection Bias]] and [[Survivorship Bias]], a perfectly uniform sample of it is a perfectly uniform sample of the wrong population.
 
 ## See also
-- [[Stream Processing]]
+- [[Fisher-Yates Shuffle]]
 - [[Histogram]]
 - [[HyperLogLog]]
 - [[Monte Carlo Method]]

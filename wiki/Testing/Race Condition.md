@@ -27,4 +27,4 @@ The general remedies are to remove the shared resource (separate working copies,
 
 ## Related
 - [[Database Constraint]]
-- [[Deadlock]]
+- [[Gray Code]]

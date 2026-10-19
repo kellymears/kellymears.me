@@ -30,7 +30,7 @@ Graph coloring shows a common pattern in computing: a problem that's intractable
 
 ## See also
 - [[Wave Function Collapse]]
-- [[Dynamic Programming]]
+- [[Zero-Knowledge Proof]]
 - [[Union-Find]]
 - [[Boolean Satisfiability Problem]]
 - [[Maximum Flow]]

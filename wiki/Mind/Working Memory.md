@@ -22,7 +22,7 @@ There is a close analogy in machines. A [[Context Window]] is a language model's
 
 ## See also
 - [[Mental Rotation]]
-- [[Expert Intuition]]
+- [[Tower of Hanoi]]
 - [[Context Rot]]
 - [[Choking Under Pressure]]
 - [[Document Chunking]]
