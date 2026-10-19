@@ -37,9 +37,9 @@ Problems:
 The underlying idea is interoperability through an open protocol rather than through one owner, the same principle that let the [[World Wide Web]] grow without a central gatekeeper.
 
 ## See also
-- [[Two-Sided Market]]
+- [[Sybil Attack]]
 - [[Napster]]
 - [[Distributed Hash Table]]
 - [[IndieWeb]]
 - [[Internet Relay Chat]]
-- [[Federated Learning]]
+- [[SMS]]

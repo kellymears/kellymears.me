@@ -19,7 +19,7 @@ A specific, easily-missed instance: a cache whose scope is a single process beha
 - [[Conflict-Free Replicated Data Type]]
 - [[Edge Computing]]
 - [[Peer-to-Peer]]
-- [[Idempotence]]
+- [[Blockchain]]
 - [[Saga Pattern]]
 - [[Logical Clock]]
 - [[Gossip Protocol]]

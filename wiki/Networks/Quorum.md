@@ -34,6 +34,6 @@ Quorum ideas reach beyond databases. A [[Gossip Protocol]] may require several i
 - [[Wide-Column Store]]
 - [[N-Version Programming]]
 - [[Token Ring]]
-- [[CAP Theorem]]
-- [[Byzantine Fault Tolerance]]
+- [[Sybil Attack]]
+- [[Distributed Lock]]
 - [[Two Generals Problem]]

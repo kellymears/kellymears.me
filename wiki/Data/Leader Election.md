@@ -23,3 +23,4 @@ That dual-leader scenario — **[[Network Partition|split brain]]** — is the f
 - [[Watchdog Timer]]
 - [[Token Ring]]
 - [[Spanning Tree Protocol]]
+- [[Distributed Lock]]

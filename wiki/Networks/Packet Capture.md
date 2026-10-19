@@ -29,5 +29,5 @@ One classic confusion: captures of outgoing traffic often show bad checksums, be
 
 ## See also
 - [[Internet Control Message Protocol]]
-- [[Anomaly Detection]]
+- [[Pager]]
 - [[Telnet]]

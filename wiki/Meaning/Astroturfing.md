@@ -16,7 +16,7 @@ Its target is often the [[Overton Window]] rather than any single vote — manuf
 
 ## See also
 - [[Conspiracy Theory]]
-- [[Confidence Trick]]
+- [[Sybil Attack]]
 - [[Overton Window]]
 - [[Rent Strike]]
 - [[Anchoring Effect]]

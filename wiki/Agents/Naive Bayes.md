@@ -28,3 +28,4 @@ Naive Bayes is still a common first baseline for text classification: fast, tran
 - [[Token]]
 - [[Hidden Markov Model]]
 - [[Logistic Regression]]
+- [[Email Spam]]

@@ -23,6 +23,6 @@ The deeper lesson is that a remote call is not a local call with extra delay. It
 Partitions in particular force hard trade-offs, formalized in the [[CAP Theorem]], and can leave a cluster with two leaders, a [[Split Brain]]. Patterns such as the [[Circuit Breaker]], eventual consistency, and [[Chaos Engineering]] exist because these fallacies are false.
 
 ## See also
-- [[Timeout]]
+- [[Distributed Lock]]
 - [[Murphy's Law]]
 

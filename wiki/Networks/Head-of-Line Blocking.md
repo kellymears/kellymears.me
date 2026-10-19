@@ -29,5 +29,5 @@ The general remedies are to keep independent work in separate queues, to allow o
 - [[QUIC]]
 - [[Nagle's Algorithm]]
 - [[Quality of Service]]
-- [[Tail Latency]]
+- [[Voice over IP]]
 - [[Bandwidth]]

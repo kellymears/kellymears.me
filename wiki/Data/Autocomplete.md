@@ -26,7 +26,7 @@ The latency budget is tight. Suggestions must arrive faster than the next keystr
 Autocomplete also shapes behavior. Suggestions steer people toward popular queries, can surface offensive or defamatory completions, and leak what others search for, so large services filter suggestion lists by hand. In a form, the browser's own autofill draws on saved [[Personal Data]], which is why fields should declare what they hold.
 
 ## See also
-- [[Form Design]]
+- [[SMS]]
 - [[String-Searching Algorithm]]
 - [[Postal Address]]
 - [[Federated Learning]]

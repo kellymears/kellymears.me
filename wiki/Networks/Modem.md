@@ -22,8 +22,9 @@ Dial-up shaped a period of online culture. A connection tied up the household ph
 Broadband kept the name. DSL runs much higher frequencies over the same copper pair, and cable modems share television coaxial cable among a neighborhood. Wireless links modulate radio waves in the same basic way, with far more elaborate schemes; see [[Wi-Fi]] and [[Cellular Network]].
 
 ## See also
-- [[Telegraph]]
+- [[Fax]]
 - [[Spread Spectrum]]
 - [[Amateur Radio]]
 - [[Bulletin Board System]]
 - [[Last Mile]]
+- [[Voice over IP]]

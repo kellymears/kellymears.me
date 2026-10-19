@@ -22,7 +22,7 @@ Reliability is also why TCP is the wrong tool for anything latency-sensitive und
 - [[Endianness]]
 - [[Hourglass Model]]
 - [[Maximum Transmission Unit]]
-- [[Delivery Guarantees]]
+- [[Voice over IP]]
 - [[End-to-End Principle]]
 - [[Two Generals Problem]]
 - [[OSI Model]]

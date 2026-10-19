@@ -30,7 +30,7 @@ Gossip pairs naturally with data that merges cleanly. A [[Conflict-Free Replicat
 - [[Herd Immunity]]
 - [[Distributed Hash Table]]
 - [[Wide-Column Store]]
-- [[Strength of Weak Ties]]
+- [[Blockchain]]
 - [[Antibiotic Resistance]]
 - [[Morris Worm]]
 - [[Multicast]]

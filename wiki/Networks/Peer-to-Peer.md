@@ -14,11 +14,11 @@ That last point is a design decision rather than a defect. For a game among frie
 The pattern is at its best where the value is in the connection rather than in stored state, and where "no server I run" is a goal in itself rather than merely a cost saving.
 
 ## See also
-- [[WebRTC]]
+- [[Blockchain]]
 - [[Signaling Server]]
 - [[Strength of Weak Ties]]
 - [[Bulletin Board System]]
-- [[Gossip Protocol]]
+- [[Voice over IP]]
 
 ## Related
 - [[BitTorrent]]
@@ -26,7 +26,7 @@ The pattern is at its best where the value is in the connection rather than in s
 - [[Distributed Version Control]]
 - [[Battle Royale]]
 - [[End-to-End Principle]]
-- [[Network Address Translation]]
+- [[Sybil Attack]]
 - [[Distributed Hash Table]]
 - [[Local-First Software]]
 - [[Federation]]

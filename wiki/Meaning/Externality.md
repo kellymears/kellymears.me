@@ -22,5 +22,5 @@ The genuinely hard part is measurement, not theory. Pricing a harm with no marke
 - [[Antibiotic Resistance]]
 - [[Universal Basic Income]]
 - [[Jaywalking]]
-- [[Network Effect]]
+- [[Email Spam]]
 - [[Free Rider Problem]]

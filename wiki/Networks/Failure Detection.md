@@ -29,7 +29,7 @@ A false positive does more damage than a slow detection. If a leader is wrongly 
 Detection also interacts with load. Declaring a node dead shifts its traffic onto the survivors, which can overload them in turn, a cascading failure, and if many clients reconnect at once they create a [[Thundering Herd]]. A [[Circuit Breaker]] applies the same idea per caller: after enough failures, it stops calling a dependency and checks back later. [[Chaos Engineering]] tests failover by killing nodes deliberately.
 
 ## See also
-- [[Uninterruptible Power Supply]]
+- [[Distributed Lock]]
 - [[N-Version Programming]]
 - [[Northeast Blackout of 2003]]
 - [[Spanning Tree Protocol]]

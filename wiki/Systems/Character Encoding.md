@@ -16,10 +16,10 @@ Terminal alignment is a related concern: East Asian characters occupy two column
 
 ## See also
 - [[ANSI Escape Code]]
-- [[Line Ending]]
+- [[Fax]]
 - [[Emoji]]
 - [[ASCII Art]]
-- [[Mainframe]]
+- [[SMS]]
 - [[Text Truncation]]
 
 ## Related

@@ -20,3 +20,4 @@ Two things trip people up. **Activation timing**: many travel plans begin their 
 - [[Virtual Private Network]]
 - [[Hash Function]]
 - [[Cellular Network]]
+- [[SMS]]

@@ -23,7 +23,7 @@ The corresponding design work is usually to make the operation *express the desi
 - [[Crash-Only Software]]
 - [[Atomic File Write]]
 - [[Durable Execution]]
-- [[Universally Unique Identifier]]
+- [[Distributed Lock]]
 - [[Transactional Outbox]]
 
 ## Related

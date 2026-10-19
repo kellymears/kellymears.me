@@ -30,5 +30,5 @@ The model has critics. Real people cooperate more than the theory predicts in on
 - [[Linear Programming]]
 - [[Schelling Point]]
 - [[BitTorrent]]
-- [[Trolley Problem]]
+- [[Blockchain]]
 - [[Dominant Strategy]]

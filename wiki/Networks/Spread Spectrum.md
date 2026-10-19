@@ -34,3 +34,4 @@ Newer Wi-Fi and cellular standards mostly use a different scheme that divides th
 - [[Modem]]
 - [[Radio Spectrum]]
 - [[Amateur Radio]]
+- [[Pager]]

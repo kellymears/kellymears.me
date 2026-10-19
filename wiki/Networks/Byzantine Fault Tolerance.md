@@ -34,6 +34,6 @@ It differs from the Two Generals' Problem, covered under [[Delivery Guarantees]]
 
 ## See also
 - [[Fault Tree Analysis]]
-- [[Single-Event Upset]]
+- [[Blockchain]]
 - [[Federated Learning]]
-- [[Network Partition]]
+- [[Sybil Attack]]

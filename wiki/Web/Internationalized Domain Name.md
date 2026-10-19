@@ -24,3 +24,4 @@ IDNs are a case of a global system extended without replacing its foundations, c
 ## See also
 - [[Browser Fingerprinting]]
 - [[Open Redirect]]
+- [[Top-Level Domain]]

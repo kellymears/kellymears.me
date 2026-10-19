@@ -30,3 +30,4 @@ Inside an operating system, blocked processes are taken off the CPU until signal
 - [[Concurrency and Parallelism]]
 - [[Memory Model]]
 - [[Inter-Process Communication]]
+- [[Distributed Lock]]

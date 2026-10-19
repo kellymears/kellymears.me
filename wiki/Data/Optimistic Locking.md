@@ -27,3 +27,4 @@ It fits naturally with stateless web request handling, where a "lock," if taken,
 - [[Time-of-Check to Time-of-Use]]
 - [[Upsert]]
 - [[Perforce]]
+- [[Distributed Lock]]

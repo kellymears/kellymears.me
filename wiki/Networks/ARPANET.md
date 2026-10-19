@@ -29,6 +29,6 @@ ARPANET's history is a case of infrastructure built for one purpose finding a di
 ## See also
 - [[OSI Model]]
 - [[Morris Worm]]
-- [[Telegraph]]
+- [[Top-Level Domain]]
 - [[Delay-Tolerant Networking]]
 - [[Telnet]]

@@ -37,4 +37,4 @@ Its users range from journalists and abuse survivors to criminals, the dual-use 
 - [[Internet Censorship]]
 - [[DNS over HTTPS]]
 - [[Encrypted Client Hello]]
-- [[Man-in-the-Middle Attack]]
+- [[Sybil Attack]]

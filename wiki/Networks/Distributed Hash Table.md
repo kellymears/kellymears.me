@@ -32,8 +32,8 @@ Open DHTs face hard problems:
 Still, DHTs proved a directory for millions can work with no one in charge.
 
 ## See also
-- [[Peer-to-Peer]]
+- [[Blockchain]]
 - [[Federation]]
-- [[Gossip Protocol]]
+- [[Sybil Attack]]
 - [[Napster]]
 - [[BitTorrent]]

@@ -32,6 +32,6 @@ URLs are also an interface. People read them, share them, and bookmark them, so 
 ## See also
 - [[Internationalized Domain Name]]
 - [[Referrer Policy]]
-- [[Hotlinking]]
+- [[Top-Level Domain]]
 - [[Deep Linking]]
 - [[Data URI]]

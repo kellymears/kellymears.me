@@ -13,7 +13,7 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 
 ## See also
 - [[Social Comparison]]
-- [[Groupthink]]
+- [[Sybil Attack]]
 - [[Conformity]]
 - [[Astroturfing]]
 - [[Halo Effect]]

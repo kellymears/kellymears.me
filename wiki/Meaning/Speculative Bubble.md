@@ -29,5 +29,5 @@ Bubbles also spread costs beyond the people who bought in. Debt taken on during 
 ## See also
 - [[Wisdom of the Crowd]]
 - [[GeoCities]]
-- [[Sunk Cost Fallacy]]
+- [[Blockchain]]
 - [[Video Game Crash of 1983]]

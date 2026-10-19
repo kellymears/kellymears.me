@@ -13,7 +13,7 @@ Modern distributed systems mostly route around it rather than fixing it: [[Event
 
 ## See also
 - [[ACID]]
-- [[Consensus Algorithm]]
+- [[Distributed Lock]]
 - [[Event Sourcing]]
 - [[Eventual Consistency]]
 - [[Saga Pattern]]

@@ -33,7 +33,7 @@ Version control already lives by these ideas. A commit graph is a happens-before
 - [[Unix Time]]
 - [[Monotonic Clock]]
 - [[Distributed SQL]]
-- [[Time Zone]]
+- [[Distributed Lock]]
 - [[Gossip Protocol]]
 - [[Consensus Algorithm]]
 - [[Atomic Clock]]

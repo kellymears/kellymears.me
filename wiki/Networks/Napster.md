@@ -24,4 +24,4 @@ Napster showed how quickly a network can grow when every user adds to its value,
 ## See also
 - [[Long tail]]
 - [[Federation]]
-- [[Paywall]]
+- [[Sybil Attack]]

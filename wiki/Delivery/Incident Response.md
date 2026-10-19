@@ -33,4 +33,4 @@ Teams practice before real outages. Game days and [[Chaos Engineering]] inject f
 - [[Syslog]]
 - [[Knight Capital Incident]]
 - [[Git Revert]]
-- [[Issue Tracker]]
+- [[Pager]]

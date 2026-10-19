@@ -17,10 +17,10 @@ Network effects are often confused with switching costs, and the two are related
 ## See also
 - [[Napster]]
 - [[Two-Sided Market]]
-- [[Webring]]
+- [[Fax]]
 - [[Universal Serial Bus]]
 - [[Internet Exchange Point]]
 - [[Stable Matching]]
 - [[Gopher]]
 - [[Web 2.0]]
-- [[Speculative Bubble]]
+- [[SMS]]

@@ -22,7 +22,7 @@ The practical rules: use absolute paths, set the environment explicitly, log to 
 - [[Background Agent]]
 
 ## Related
-- [[Fail Fast]]
+- [[Distributed Lock]]
 - [[Truncation Bias]]
 - [[Daylight Saving Time]]
 - [[Syslog]]

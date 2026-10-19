@@ -24,3 +24,4 @@ The tradeoff is that anycast routing can be unstable for long-lived connections:
 - [[Internet Exchange Point]]
 - [[IP Routing]]
 - [[Edge Computing]]
+- [[Top-Level Domain]]

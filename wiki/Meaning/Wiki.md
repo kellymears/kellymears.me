@@ -20,7 +20,7 @@ Personal wikis have become common as a private reference — the same mechanics,
 - [[Zettelkasten]]
 - [[Knowledge Graph]]
 - [[Markdown]]
-- [[Collective Action]]
+- [[Sybil Attack]]
 - [[Rabbit Hole]]
 
 ## Related

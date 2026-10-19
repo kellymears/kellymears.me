@@ -28,5 +28,5 @@ Recovery is the weak point. People lose phones, so systems offer backup codes, f
 Requiring MFA through a central identity provider covers many applications at once; see [[Single Sign-On]]. Once sign-in succeeds, the protection ends and the session takes over, so stealing a session cookie bypasses every factor; see [[Session Management]]. Login endpoints still need limits on repeated attempts; see [[Rate Limiting]].
 
 ## See also
-- [[Threat Modeling]]
+- [[SMS]]
 - [[Data Breach]]

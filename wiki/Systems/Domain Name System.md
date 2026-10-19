@@ -16,7 +16,7 @@ The common record types are few: an address record, an alias record pointing one
 
 ## See also
 - [[Multicast DNS]]
-- [[Port]]
+- [[Top-Level Domain]]
 - [[Email Authentication]]
 - [[Encrypted Client Hello]]
 - [[Persistent Identifier]]

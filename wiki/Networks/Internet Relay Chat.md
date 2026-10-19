@@ -30,3 +30,4 @@ IRC conventions passed into later chat apps: channels with hash names, `/me` act
 - [[Third Place]]
 - [[Bulletin Board System]]
 - [[Multi-User Dungeon]]
+- [[SMS]]
