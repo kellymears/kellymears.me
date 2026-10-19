@@ -29,7 +29,7 @@ It pairs with [[Chesterton's Fence]], which counsels understanding why something
 
 ## See also
 - [[Technology Radar]]
-- [[Worse Is Better]]
+- [[KISS Principle]]
 - [[Bathtub Curve]]
 - [[Radioactive Decay]]
 - [[Public Domain]]

@@ -29,4 +29,4 @@ The reforms are mostly about committing in advance. **Preregistration** records 
 - [[Stereotype Threat]]
 - [[Misattribution of Arousal]]
 - [[Bradford Hill Criteria]]
-- [[Statistical Power]]
+- [[Pre-registration]]

@@ -28,3 +28,4 @@ Mapping also connects to speed. Controls placed near what they affect are easier
 - [[Skeuomorphism]]
 - [[Toggle Switch]]
 - [[Slider]]
+- [[Principle of Least Astonishment]]

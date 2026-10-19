@@ -25,3 +25,4 @@ The distortion is visible and quantifiable: meta-analyses use a funnel plot, whi
 - [[Meta-Analysis]]
 - [[Stereotype Threat]]
 - [[Peer Review]]
+- [[Pre-registration]]

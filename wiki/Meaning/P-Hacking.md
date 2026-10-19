@@ -17,7 +17,7 @@ The standard defenses are structural, matching the mechanism directly: preregist
 - [[Peer Review]]
 - [[Spreadsheet Error]]
 - [[Availability Cascade]]
-- [[AB Testing]]
+- [[Pre-registration]]
 - [[Hyperparameter]]
 - [[Randomized Controlled Trial]]
 - [[Bayes' Theorem]]

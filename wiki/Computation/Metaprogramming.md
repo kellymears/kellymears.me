@@ -30,5 +30,5 @@ A program that does nothing but reproduce itself is the limiting case; see [[Qui
 
 ## See also
 - [[Assembly Language]]
-- [[Higher-Order Function]]
+- [[Don't Repeat Yourself]]
 - [[Lexical Scope]]

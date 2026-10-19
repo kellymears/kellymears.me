@@ -27,3 +27,4 @@ One quirk was later adopted on purpose. The CSS property `box-sizing: border-box
 - [[Polyfill]]
 - [[User Agent String]]
 - [[HTML]]
+- [[Principle of Least Astonishment]]

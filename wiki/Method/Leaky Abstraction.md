@@ -24,6 +24,6 @@ Leaks also become dependencies. Users come to rely on behavior that was never pr
 
 ## See also
 - [[Hourglass Model]]
-- [[Gall's Law]]
+- [[Principle of Least Astonishment]]
 - [[OSI Model]]
-- [[Cargo Cult]]
+- [[Kernighan's Law]]

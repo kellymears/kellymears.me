@@ -30,7 +30,7 @@ Designers sometimes work with the effect rather than against it. Some traffic en
 
 ## See also
 - [[Cobra Effect]]
-- [[Moral Panic]]
+- [[Precautionary Principle]]
 - [[Third-Person Effect]]
 - [[Sunburn]]
 - [[Trolley Problem]]

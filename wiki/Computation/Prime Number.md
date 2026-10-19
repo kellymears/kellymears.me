@@ -29,3 +29,4 @@ The largest known primes are Mersenne primes, one less than a power of two, foun
 ## See also
 - [[Error-Correcting Code]]
 - [[Fibonacci Sequence]]
+- [[Reductio ad Absurdum]]

@@ -18,7 +18,7 @@ The defense isn't refusing improvements — it's keeping the same discipline tha
 - [[Analytical Engine]]
 - [[Technology Radar]]
 - [[Mainframe]]
-- [[Minimum Viable Product]]
+- [[KISS Principle]]
 
 ## Related
 - [[Brooks's Law]]

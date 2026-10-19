@@ -16,7 +16,7 @@ Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major 
 - [[User Agent String]]
 - [[Lehman's Laws of Software Evolution]]
 - [[Hourglass Model]]
-- [[Data Contract]]
+- [[Principle of Least Astonishment]]
 - [[Left-Pad Incident]]
 - [[Easter Egg]]
 - [[Quirks Mode]]

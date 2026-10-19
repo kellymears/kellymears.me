@@ -22,8 +22,8 @@ The razor pairs naturally with [[Plausible Mechanism]]: prefer the account with 
 - [[XY Problem]]
 
 ## Related
-- [[Confirmation Bias]]
-- [[Bayes' Theorem]]
+- [[KISS Principle]]
+- [[Reductio ad Absurdum]]
 - [[Regularization]]
 - [[Kolmogorov Complexity]]
 - [[Burden of Proof]]

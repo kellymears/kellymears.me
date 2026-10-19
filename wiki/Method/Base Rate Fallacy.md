@@ -19,7 +19,7 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 - [[Logical Fallacy]]
 - [[Representativeness Heuristic]]
 - [[Allergy]]
-- [[Venn Diagram]]
+- [[Brier Score]]
 - [[Birthday Problem]]
 
 ## Related

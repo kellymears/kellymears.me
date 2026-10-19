@@ -14,7 +14,7 @@ What makes review effective is mostly logistical. Small changes get read; large 
 A reviewer's own reasoning deserves the same skepticism they apply to the change. A configuration set to strict plus a clean run feels like execution, and is configuration plus an untested inference.
 
 ## See also
-- [[Mailing List]]
+- [[Kernighan's Law]]
 - [[Inner Source]]
 - [[Software Forge]]
 - [[Heartbleed]]

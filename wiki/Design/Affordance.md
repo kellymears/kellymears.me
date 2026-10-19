@@ -20,7 +20,7 @@ Affordance is downstream of the same perceptual machinery [[Gestalt Principles]]
 - [[UI Primitive]]
 
 ## Related
-- [[Fitts's Law]]
+- [[Principle of Least Astonishment]]
 - [[Gesture]]
 - [[Touch Target Size]]
 - [[Iconography]]

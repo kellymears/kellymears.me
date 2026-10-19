@@ -28,7 +28,7 @@ RCTs have limits. Some questions can't ethically be randomized, such as whether 
 
 ## See also
 - [[Meta-Analysis]]
-- [[Sortition]]
+- [[Pre-registration]]
 - [[Hawthorne Effect]]
 - [[Ideomotor Effect]]
 - [[Relative Risk]]

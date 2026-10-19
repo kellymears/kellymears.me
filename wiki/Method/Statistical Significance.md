@@ -28,7 +28,7 @@ Product teams meet the same traps in [[AB Testing]], especially by checking resu
 
 ## See also
 - [[Bradford Hill Criteria]]
-- [[Multiple Comparisons Problem]]
+- [[Bootstrap Resampling]]
 - [[Relative Risk]]
-- [[Bayesian Inference]]
+- [[Pre-registration]]
 - [[Meta-Analysis]]

@@ -22,7 +22,7 @@ The tools split on a real distinction: declarative tools (Terraform) describe th
 ## Related
 - [[Works on My Machine]]
 - [[Configuration Drift]]
-- [[Twelve-Factor App]]
+- [[Don't Repeat Yourself]]
 - [[Platform Engineering]]
 - [[YAML]]
 - [[Kubernetes]]

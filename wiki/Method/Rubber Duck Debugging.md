@@ -24,5 +24,5 @@ The technique's real relative is not conversation but writing: forcing a problem
 - [[Levels of Processing]]
 - [[Software Inspection]]
 - [[Pair Programming]]
-- [[Desirable Difficulty]]
+- [[Kernighan's Law]]
 - [[Debugger]]

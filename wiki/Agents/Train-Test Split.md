@@ -35,8 +35,8 @@ Even a clean split only measures performance on data like the training data. If 
 Optimizing hard against any fixed measure tends to corrupt it; see [[Goodhart's Law]]. Practices such as preregistration in science and the separation between a [[Test Oracle]] and the code under test apply the same idea: decide how you'll be judged before you see the answers.
 
 ## See also
-- [[Linear Regression]]
-- [[Precision and Recall]]
+- [[Bootstrap Resampling]]
+- [[Pre-registration]]
 - [[Hyperparameter]]
 - [[Decision Tree]]
 - [[Double Descent]]

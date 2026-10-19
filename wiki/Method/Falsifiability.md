@@ -17,9 +17,9 @@ It also disciplines prose. "This cast is required because the checker demands it
 ## See also
 - [[Brandolini's Law]]
 - [[Devil's Advocate]]
-- [[Plate Tectonics]]
+- [[Reductio ad Absurdum]]
 - [[Thought Experiment]]
-- [[Black Swan]]
+- [[Pre-registration]]
 - [[Safety Case]]
 
 ## Related

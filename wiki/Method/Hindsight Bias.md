@@ -31,8 +31,9 @@ A [[Pre-mortem]] turns the effect into a tool, borrowing the clarity of hindsigh
 
 ## See also
 - [[Five Whys]]
-- [[Self-Serving Bias]]
+- [[Brier Score]]
 - [[Inversion]]
 - [[Hanlon's Razor]]
 - [[Just-World Hypothesis]]
 - [[Superforecasting]]
+- [[Pre-registration]]

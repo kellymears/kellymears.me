@@ -35,6 +35,6 @@ That is why heuristic evaluation complements [[Usability Testing]] rather than r
 
 ## See also
 - [[Command Palette]]
-- [[Recognition Rather Than Recall]]
+- [[Principle of Least Astonishment]]
 - [[Design Thinking]]
 - [[Error Message]]

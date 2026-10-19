@@ -22,11 +22,11 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 - [[Panopticon]]
 - [[Blood Doping]]
 - [[AI Alignment]]
-- [[Call to Action]]
+- [[Brier Score]]
 - [[PageRank]]
 
 ## Related
 - [[Wicked Problem]]
 - [[Web Analytics]]
 - [[Dashboard]]
-- [[Self-Determination Theory]]
+- [[Survey Design]]

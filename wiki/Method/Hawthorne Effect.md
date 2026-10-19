@@ -26,7 +26,7 @@ The practical lesson is to assume observation has some effect and to design arou
 
 ## See also
 - [[Obedience to Authority]]
-- [[Cobra Effect]]
+- [[Survey Design]]
 - [[Self-Fulfilling Prophecy]]
 - [[Natural Experiment]]
 - [[Panopticon]]

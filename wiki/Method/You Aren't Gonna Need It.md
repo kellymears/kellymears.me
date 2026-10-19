@@ -28,3 +28,5 @@ It sits with a family of related advice. Simple systems that work tend to grow i
 - [[Minimum Viable Product]]
 - [[Walking Skeleton]]
 - [[Extreme Programming]]
+- [[Don't Repeat Yourself]]
+- [[KISS Principle]]

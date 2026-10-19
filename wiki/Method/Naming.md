@@ -20,9 +20,9 @@ Test names are a special case: they should describe the scenario and the expecte
 - [[Retronym]]
 - [[Semantic Change]]
 - [[Slug]]
-- [[Documentation Rot]]
-- [[Chesterton's Fence]]
-- [[Information Architecture]]
+- [[Don't Repeat Yourself]]
+- [[Principle of Least Astonishment]]
+- [[Kernighan's Law]]
 - [[Linguistic Relativity]]
 
 ## Related

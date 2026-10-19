@@ -17,7 +17,7 @@ The subtlest form is a cache whose *scope* is smaller than assumed: a value memo
 ## See also
 - [[Cache-Aside]]
 - [[Determinism]]
-- [[Naming]]
+- [[Don't Repeat Yourself]]
 - [[Static Site Generation]]
 - [[Certificate Revocation]]
 - [[React Server Components]]

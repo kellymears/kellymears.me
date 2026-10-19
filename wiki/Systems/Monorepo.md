@@ -18,7 +18,7 @@ Package managers support the pattern through *workspaces*: a root manifest listi
 - [[Package Manager]]
 - [[Git LFS]]
 - [[Module Graph]]
-- [[Version Control]]
+- [[Don't Repeat Yourself]]
 
 ## Related
 - [[Perforce]]

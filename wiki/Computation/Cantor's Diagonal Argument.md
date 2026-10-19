@@ -30,3 +30,4 @@ Cantor's work met fierce resistance. Leopold Kronecker, among others, rejected c
 - [[Kolmogorov Complexity]]
 - [[Prime Number]]
 - [[Russell's Paradox]]
+- [[Reductio ad Absurdum]]

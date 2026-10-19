@@ -22,7 +22,7 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 
 ## Related
 - [[Support Vector Machine]]
-- [[Differential Privacy]]
+- [[Pre-registration]]
 - [[Benchmark Contamination]]
 - [[Hyperparameter]]
 - [[Expert Intuition]]

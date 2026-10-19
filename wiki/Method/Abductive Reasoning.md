@@ -31,4 +31,4 @@ Its risks follow from its speed. Once a plausible story forms, people seek evide
 ## See also
 - [[Logical Fallacy]]
 - [[No Free Lunch Theorem]]
-- [[Affinity Diagram]]
+- [[Reductio ad Absurdum]]

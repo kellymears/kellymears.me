@@ -41,5 +41,5 @@ Third, naming fallacies has become a debating tactic of its own: shouting "ad ho
 
 ## See also
 - [[Abductive Reasoning]]
-- [[Falsifiability]]
+- [[Reductio ad Absurdum]]
 - [[Godwin's Law]]

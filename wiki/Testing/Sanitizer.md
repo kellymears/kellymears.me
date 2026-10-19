@@ -29,6 +29,6 @@ Older tools such as Valgrind find similar memory errors without recompiling, by 
 ## See also
 - [[Fuzzing]]
 - [[Instrumentation]]
-- [[Memory Safety]]
+- [[Kernighan's Law]]
 - [[Memory Model]]
 - [[Core Dump]]

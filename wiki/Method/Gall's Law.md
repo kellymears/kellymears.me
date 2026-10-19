@@ -17,10 +17,10 @@ The corollary for software architecture is to build the smallest version that ac
 - [[Cynefin Framework]]
 - [[Normal Accidents]]
 - [[Worse Is Better]]
-- [[Technical Debt]]
+- [[Don't Repeat Yourself]]
 
 ## Related
-- [[Path Dependence]]
+- [[KISS Principle]]
 - [[Strangler Fig Pattern]]
 - [[Leaky Abstraction]]
 - [[Lindy Effect]]

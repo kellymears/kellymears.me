@@ -32,8 +32,8 @@ Common pitfalls:
 Usability testing explains *why* people struggle. [[AB Testing]] and analytics measure *what* happens at scale but not the reason. An inexpensive [[Heuristic Evaluation]] can clear away obvious problems first, so the time with real users goes to the ones only they can reveal. Like [[Exploratory Testing]], it discovers failures rather than confirming behavior.
 
 ## See also
-- [[Affinity Diagram]]
+- [[Principle of Least Astonishment]]
 - [[Dogfooding]]
-- [[Wireframe]]
+- [[Survey Design]]
 - [[Card Sorting]]
 - [[Design Thinking]]

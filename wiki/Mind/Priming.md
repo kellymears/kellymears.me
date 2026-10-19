@@ -24,5 +24,5 @@ Priming has a direct counterpart in language models, which continue text in the 
 ## See also
 - [[Stereotype Threat]]
 - [[Blindsight]]
-- [[Illusory Truth Effect]]
+- [[Survey Design]]
 - [[Ideomotor Effect]]

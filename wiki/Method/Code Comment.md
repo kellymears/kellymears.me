@@ -28,3 +28,5 @@ Two mechanical hazards. A comment stating a causal mechanism nobody verified is 
 - [[Linguistic Relativity]]
 - [[Doctest]]
 - [[Fast Inverse Square Root]]
+- [[Don't Repeat Yourself]]
+- [[Kernighan's Law]]

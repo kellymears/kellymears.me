@@ -31,6 +31,6 @@ Uncertainty also widens with distance; see [[Cone of Uncertainty]].
 
 ## See also
 - [[Delphi Method]]
-- [[Dunning-Kruger Effect]]
+- [[Brier Score]]
 - [[Motivated Reasoning]]
 - [[Bayesian Inference]]

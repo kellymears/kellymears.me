@@ -27,8 +27,8 @@ The same idea appears far beyond the shell. Functional programming chains [[High
 Pipelines have sharp edges. By default the shell reports only the last command's exit status, so a failure early in the chain goes unnoticed; Bash's `pipefail` option fixes this. Text parsing breaks on unexpected input, such as filenames containing spaces or newlines, a frequent source of bugs alongside [[Glob]] expansion surprises. The philosophy's preference for simple tools that compose is an instance of [[Worse Is Better]].
 
 ## See also
-- [[Middleware]]
+- [[Principle of Least Astonishment]]
 - [[Fork and Exec]]
-- [[Archive File]]
+- [[KISS Principle]]
 - [[Communicating Sequential Processes]]
 - [[Exit Status]]

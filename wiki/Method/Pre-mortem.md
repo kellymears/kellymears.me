@@ -30,6 +30,6 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Second-Order Thinking]]
 - [[Failure Mode and Effects Analysis]]
 - [[Inversion]]
-- [[Thought Experiment]]
+- [[Pre-registration]]
 - [[Architecture Decision Record]]
-- [[Devil's Advocate]]
+- [[Precautionary Principle]]

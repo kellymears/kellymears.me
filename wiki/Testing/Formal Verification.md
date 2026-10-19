@@ -27,7 +27,7 @@ Practical verification therefore sits on a spectrum with testing. [[Static Analy
 ## See also
 - [[Gödel's Incompleteness Theorems]]
 - [[Collatz Conjecture]]
-- [[Curry-Howard Correspondence]]
+- [[Reductio ad Absurdum]]
 - [[Runtime Verification]]
 - [[Linearizability Checking]]
 - [[Systematic Concurrency Testing]]

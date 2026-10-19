@@ -16,7 +16,7 @@ A type-level defense exists too. An operation returning a value that may be abse
 The rhetorical version is just as costly: an "everything passes" claim assembled from checks that never ran. See [[Vacuous Truth]].
 
 ## See also
-- [[Root Cause Analysis]]
+- [[Principle of Least Astonishment]]
 - [[Defensive Programming]]
 - [[Fail Fast]]
 - [[Dead Letter Queue]]

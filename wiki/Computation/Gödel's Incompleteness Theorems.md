@@ -28,7 +28,7 @@ The theorems don't make mathematics or formal methods useless. Unprovable statem
 They are also frequently misapplied. Claims that incompleteness proves minds aren't machines, that all knowledge is uncertain, or that legal systems must contain contradictions stretch a precise result about formal arithmetic far beyond its scope. The theorems apply to formal systems meeting specific conditions, not to arguments in general.
 
 ## See also
-- [[P versus NP Problem]]
+- [[Reductio ad Absurdum]]
 - [[Arrow's Impossibility Theorem]]
 - [[Russell's Paradox]]
 - [[Dependent Types]]

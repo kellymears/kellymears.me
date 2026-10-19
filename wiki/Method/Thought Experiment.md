@@ -25,7 +25,7 @@ Everyday engineering is full of small thought experiments: what happens if this 
 
 ## See also
 - [[Cynefin Framework]]
-- [[Occam's Razor]]
+- [[Reductio ad Absurdum]]
 - [[Wargame]]
 - [[Stochastic Parrot]]
 - [[Paperclip Maximizer]]

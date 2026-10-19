@@ -15,13 +15,13 @@ The rule has a real boundary, worth stating so it doesn't get taken as absolute:
 
 ## See also
 - [[Fast Inverse Square Root]]
-- [[Streetlight Effect]]
-- [[Big-O Notation]]
+- [[Don't Repeat Yourself]]
+- [[Kernighan's Law]]
 - [[Overfitting]]
 - [[Benchmarking]]
 
 ## Related
-- [[Technical Debt]]
+- [[KISS Principle]]
 - [[Profiling]]
 - [[Refactoring]]
 - [[Pareto Principle]]

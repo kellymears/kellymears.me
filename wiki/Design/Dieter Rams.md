@@ -32,6 +32,6 @@ The "as little design as possible" principle maps onto software, where it argues
 His principles are often paired with the older slogan they extend; see [[Form Follows Function]].
 
 ## See also
-- [[Skeuomorphism]]
+- [[KISS Principle]]
 - [[Swiss Style]]
 - [[Brutalist Web Design]]

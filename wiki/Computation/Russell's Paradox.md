@@ -29,3 +29,4 @@ A librarian's version asks about a catalog of all catalogs that don't list thems
 - [[Recursion]]
 - [[Ontology]]
 - [[Venn Diagram]]
+- [[Reductio ad Absurdum]]

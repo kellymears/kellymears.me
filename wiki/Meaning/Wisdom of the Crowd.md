@@ -30,7 +30,7 @@ The idea has limits. Crowds do well on questions with a measurable answer that i
 
 ## See also
 - [[Speculative Bubble]]
-- [[Median Voter Theorem]]
-- [[Arrow's Impossibility Theorem]]
+- [[Survey Design]]
+- [[Brier Score]]
 - [[Self-Consistency]]
 - [[Sortition]]

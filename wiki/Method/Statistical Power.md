@@ -31,7 +31,7 @@ Product experiments face the same arithmetic. A site with modest traffic testing
 Power also explains why absence of evidence is weak evidence of absence when a search was shallow; see [[Streetlight Effect]].
 
 ## See also
-- [[Randomized Controlled Trial]]
+- [[Bootstrap Resampling]]
 - [[Stereotype Threat]]
 - [[Relative Risk]]
 - [[Priming]]

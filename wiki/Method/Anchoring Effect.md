@@ -24,7 +24,7 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 ## Related
 - [[Framing Effect]]
 - [[Loss Aversion]]
-- [[System Prompt]]
+- [[Survey Design]]
 - [[Wisdom of the Crowd]]
 - [[Delphi Method]]
 - [[Slider]]

@@ -26,7 +26,7 @@ Practical habits help. State the operational definition explicitly. Use several 
 
 ## See also
 - [[Slider]]
-- [[Confounding]]
-- [[Benchmarking]]
+- [[Pre-registration]]
+- [[Survey Design]]
 - [[Ecological Fallacy]]
 - [[McNamara Fallacy]]
