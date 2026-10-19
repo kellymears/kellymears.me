@@ -23,6 +23,6 @@ The deeper question Turing set aside, whether anything is going on inside, is no
 
 ## See also
 - [[Moravec's Paradox]]
-- [[Thought Experiment]]
-- [[Analytical Engine]]
-- [[Deep Blue]]
+- [[AlphaGo]]
+- [[Paperclip Maximizer]]
+- [[Stochastic Parrot]]

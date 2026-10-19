@@ -24,7 +24,7 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 
 ## Related
 - [[Superforecasting]]
-- [[Algorithmic Bias]]
+- [[Anomaly Detection]]
 - [[Multiple Comparisons Problem]]
 - [[Choropleth Map]]
 - [[Pareidolia]]

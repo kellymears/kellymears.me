@@ -30,7 +30,7 @@ Inside, a trained network represents concepts as directions in its layers' activ
 The biological analogy is loose. Real neurons spike, learn locally, and are wired in loops, closer to the ideas in [[Neuroplasticity]] than to backpropagation, and artificial networks borrowed a metaphor more than a mechanism.
 
 ## See also
-- [[ImageNet]]
+- [[AlphaGo]]
 - [[Dartmouth Workshop]]
-- [[Denoising]]
-- [[Support Vector Machine]]
+- [[Logistic Regression]]
+- [[Hyperparameter]]

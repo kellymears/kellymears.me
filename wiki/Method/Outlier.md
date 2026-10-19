@@ -29,3 +29,4 @@ The working rule: plot the data, find the outliers, and explain each one before 
 ## See also
 - [[Survivorship Bias]]
 - [[Pareto Principle]]
+- [[Anomaly Detection]]

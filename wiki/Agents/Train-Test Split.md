@@ -37,7 +37,7 @@ Optimizing hard against any fixed measure tends to corrupt it; see [[Goodhart's 
 ## See also
 - [[Supervised Learning]]
 - [[Precision and Recall]]
-- [[Selection Bias]]
+- [[Hyperparameter]]
 - [[Decision Tree]]
 - [[Double Descent]]
 - [[Naive Bayes]]

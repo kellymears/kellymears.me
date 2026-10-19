@@ -31,5 +31,5 @@ Critics argue that the label gets applied to events that were foreseeable and si
 - [[Normal Accidents]]
 - [[Superforecasting]]
 - [[Speculative Bubble]]
-- [[Expected Value]]
+- [[Anomaly Detection]]
 - [[Outlier]]

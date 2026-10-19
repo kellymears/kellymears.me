@@ -32,7 +32,7 @@ Convolution reaches well beyond photo filters. The filters used in [[Image Resam
 - [[Denoising]]
 - [[Seam Carving]]
 - [[Reverberation]]
-- [[Bitter Lesson]]
+- [[Transfer Learning]]
 - [[ImageNet]]
 - [[Prosopagnosia]]
 - [[Generative Adversarial Network]]

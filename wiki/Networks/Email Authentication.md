@@ -23,7 +23,7 @@ These checks confirm that a message came from the domain it names. They do not s
 Email's history is a cautionary example of [[Postel's Law]]. Being liberal in what you accept made early email interoperable and made spoofing trivial, and closing that hole took decades of add-on standards. The telephone network faced the same problem with spoofed caller ID, and [[Caller ID Authentication]] followed a similar path: cryptographic signatures, policy and gradual enforcement. Both added proof of [[Provenance]] to a system designed without it.
 
 ## See also
-- [[Domain Name System]]
+- [[Deepfake]]
 - [[Public-Key Cryptography]]
 - [[Caller ID Authentication]]
 - [[Postel's Law]]

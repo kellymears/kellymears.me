@@ -29,3 +29,4 @@ The limits are real. Merges of unrelated models fail, conflicting skills degrade
 ## See also
 - [[Neural Network]]
 - [[Knowledge Distillation]]
+- [[Transfer Learning]]

@@ -29,4 +29,4 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 - [[Distributed Tracing]]
 - [[Status Page]]
 - [[Web Analytics]]
-- [[Service Level Objective]]
+- [[Anomaly Detection]]

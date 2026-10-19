@@ -31,3 +31,4 @@ Many databases now offer both kinds of index, so hybrid search increasingly mean
 ## See also
 - [[PageRank]]
 - [[Context Engineering]]
+- [[Word2Vec]]

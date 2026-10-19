@@ -30,6 +30,7 @@ Other uses:
 The encoder-decoder shape recurs throughout machine learning. The original transformer had an encoder and a decoder for translation, and modern [[Embedding]] models are essentially the encoder half alone. The general lesson, that forcing information through a bottleneck makes a model find structure, connects to ideas in [[Information Theory]] and [[Knowledge Distillation]].
 
 ## See also
-- [[Neural Network]]
+- [[Anomaly Detection]]
 - [[Multimodal Model]]
 - [[Hopfield Network]]
+- [[Deepfake]]

@@ -21,3 +21,4 @@ Within a decade, chess programs on ordinary computers were stronger than any hum
 ## See also
 - [[Reinforcement Learning]]
 - [[Dartmouth Workshop]]
+- [[AlphaGo]]

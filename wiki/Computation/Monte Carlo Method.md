@@ -31,4 +31,4 @@ Results are only as good as the randomness and the model. A weak [[Pseudorandom 
 - [[Monte Carlo Tree Search]]
 - [[Prime Number]]
 - [[Zero-Knowledge Proof]]
-- [[Fisher-Yates Shuffle]]
+- [[AlphaGo]]

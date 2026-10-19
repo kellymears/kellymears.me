@@ -26,7 +26,7 @@ The idea extends well beyond board and video games. A [[Generative Adversarial N
 
 ## See also
 - [[Mirror Neurons]]
-- [[Reward Hacking]]
+- [[AlphaGo]]
 - [[Solved Game]]
 - [[Deep Blue]]
 - [[Elo Rating System]]

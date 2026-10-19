@@ -35,4 +35,4 @@ Attention spreads finite weight across everything in context, which helps explai
 - [[Neural Network Pruning]]
 - [[Object Detection]]
 - [[Hopfield Network]]
-- [[Softmax]]
+- [[Word2Vec]]

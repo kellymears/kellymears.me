@@ -32,5 +32,5 @@ These metrics depend entirely on correct labels for comparison; see [[Ground Tru
 
 ## See also
 - [[Support Vector Machine]]
-- [[Naive Bayes]]
-- [[Algorithmic Bias]]
+- [[Logistic Regression]]
+- [[Anomaly Detection]]

@@ -26,5 +26,5 @@ Design choices push the effect either way. A chatbot that says "I feel," types w
 
 ## See also
 - [[Dartmouth Workshop]]
-- [[Text-to-Speech]]
+- [[Stochastic Parrot]]
 - [[Companion AI]]

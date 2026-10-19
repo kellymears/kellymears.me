@@ -16,7 +16,7 @@ The result is text that is locally fluent and globally incoherent. Each transiti
 
 ## See also
 - [[PageRank]]
-- [[Seeded Randomness]]
+- [[Stochastic Parrot]]
 - [[Hidden Markov Model]]
 - [[Automatic Speech Recognition]]
 - [[Mechanistic Interpretability]]

@@ -23,4 +23,4 @@ The broader lesson stuck: large, labeled datasets and enough computation can mat
 
 ## See also
 - [[Object Detection]]
-- [[Ground Truth]]
+- [[Transfer Learning]]

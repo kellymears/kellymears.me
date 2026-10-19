@@ -25,6 +25,6 @@ As systems grow more capable, checking their work gets harder. **Scalable oversi
 In practice, alignment is layered with other defenses: stress-testing models before release, filters that catch harmful inputs and outputs, and monitoring for attempts to subvert them; see [[Adversarial Review]], [[Guardrail]], and [[Jailbreak]]. The relationship resembles a familiar human one, in which an agent's incentives never quite match a principal's goals; see [[Principal-Agent Problem]].
 
 ## See also
-- [[Calibration]]
+- [[Paperclip Maximizer]]
 - [[Scaling Laws]]
 - [[Trolley Problem]]

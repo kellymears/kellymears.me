@@ -42,3 +42,4 @@ The underlying idea is interoperability through an open protocol rather than thr
 - [[Distributed Hash Table]]
 - [[IndieWeb]]
 - [[Internet Relay Chat]]
+- [[Federated Learning]]

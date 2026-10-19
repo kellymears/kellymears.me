@@ -29,3 +29,4 @@ A rating can also become the target instead of the measure. Chess players have a
 - [[Tier List]]
 - [[Expected Value]]
 - [[Esports]]
+- [[AlphaGo]]

@@ -25,7 +25,7 @@ The essay has critics. Rodney Brooks replied that human ingenuity still matters:
 The lesson has a practical corollary for building on language models. Elaborate scaffolding that compensates for a model's current weaknesses tends to become dead weight when the next model arrives, so simple, general harnesses that let the model do more of the work tend to age better; see [[Agentic Loop]].
 
 ## See also
-- [[Deep Blue]]
+- [[AlphaGo]]
 - [[Dartmouth Workshop]]
 - [[Machine Translation]]
 - [[Law of the Instrument]]

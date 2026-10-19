@@ -32,3 +32,4 @@ The adversarial idea outlived the architecture. Pitting a system against an oppo
 - [[Convolution]]
 - [[Adversarial Example]]
 - [[Self-Play]]
+- [[Deepfake]]

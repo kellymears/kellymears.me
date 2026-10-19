@@ -26,6 +26,6 @@ Live evaluation costs money and time, which is why most harnesses replay; see [[
 
 ## Related
 - [[Turing Test]]
-- [[Test Double]]
+- [[Hyperparameter]]
 - [[Benchmark Contamination]]
 - [[Train-Test Split]]

@@ -22,7 +22,7 @@ MoE is [[Model Routing]] moved inside the network, decided per token by a learne
 ## See also
 - [[Large Language Model]]
 - [[Model Merging]]
-- [[Quantization]]
+- [[Hyperparameter]]
 - [[Fine-Tuning]]
 - [[KV Cache]]
 - [[Neural Network Pruning]]

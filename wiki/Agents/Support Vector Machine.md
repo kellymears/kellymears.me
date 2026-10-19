@@ -23,3 +23,5 @@ Neural networks learn the features themselves and improve with more data and com
 - [[Neural Network]]
 - [[Naive Bayes]]
 - [[Precision and Recall]]
+- [[Anomaly Detection]]
+- [[Logistic Regression]]

@@ -38,4 +38,4 @@ Bayesian statistics, which treats probabilities as degrees of belief, contrasts 
 - [[Abductive Reasoning]]
 - [[Information Cascade]]
 - [[Superforecasting]]
-- [[Statistical Significance]]
+- [[Logistic Regression]]

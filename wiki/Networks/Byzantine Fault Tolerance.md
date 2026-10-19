@@ -35,5 +35,5 @@ It differs from the Two Generals' Problem, covered under [[Delivery Guarantees]]
 ## See also
 - [[Fault Tree Analysis]]
 - [[Single-Event Upset]]
-- [[Leader Election]]
+- [[Federated Learning]]
 - [[Network Partition]]

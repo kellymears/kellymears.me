@@ -24,7 +24,7 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 - [[Support Vector Machine]]
 - [[Differential Privacy]]
 - [[Benchmark Contamination]]
-- [[Gradient Descent]]
+- [[Hyperparameter]]
 - [[Expert Intuition]]
 - [[Pareidolia]]
 - [[Train-Test Split]]

@@ -30,3 +30,4 @@ Prevention is easier than cure. Training with [[Differential Privacy]] bounds ho
 ## See also
 - [[Soft Delete]]
 - [[AI Alignment]]
+- [[Federated Learning]]

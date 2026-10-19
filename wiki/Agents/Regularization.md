@@ -27,4 +27,4 @@ Other techniques regularize indirectly. Stochastic [[Gradient Descent]] adds noi
 ## See also
 - [[Double Descent]]
 - [[Neural Network Pruning]]
-- [[Support Vector Machine]]
+- [[Hyperparameter]]

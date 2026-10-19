@@ -36,7 +36,7 @@ Machine learning faces the same risk: models can memorize training examples, and
 ## See also
 - [[Geocoding]]
 - [[Machine Unlearning]]
-- [[Zero-Knowledge Proof]]
+- [[Federated Learning]]
 - [[Synthetic Data]]
 - [[Geospatial Data]]
 - [[Panopticon]]

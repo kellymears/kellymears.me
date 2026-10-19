@@ -23,3 +23,4 @@ The form sits uncomfortably close to its own critique. A game engineered so that
 - [[Boredom]]
 - [[Cozy Game]]
 - [[Match-Three]]
+- [[Paperclip Maximizer]]

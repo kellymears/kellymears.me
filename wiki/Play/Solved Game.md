@@ -28,6 +28,6 @@ Solving a game rarely ends people's interest in it. Human players can't execute 
 
 ## See also
 - [[Dominant Strategy]]
-- [[Game AI]]
+- [[AlphaGo]]
 - [[Bushnell's Law]]
 - [[Deep Blue]]

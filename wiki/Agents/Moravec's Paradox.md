@@ -23,5 +23,5 @@ The paradox also reframes intelligence: much of what people call "common sense" 
 
 ## See also
 - [[Dartmouth Workshop]]
-- [[Multimodal Model]]
-- [[Deep Blue]]
+- [[AlphaGo]]
+- [[Stochastic Parrot]]

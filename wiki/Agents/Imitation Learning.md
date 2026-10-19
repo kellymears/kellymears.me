@@ -29,3 +29,5 @@ Games use it too. Racing games have trained AI drivers on recordings of a player
 ## See also
 - [[Motor Learning]]
 - [[Moravec's Paradox]]
+- [[AlphaGo]]
+- [[Paperclip Maximizer]]

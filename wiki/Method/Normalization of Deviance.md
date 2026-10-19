@@ -32,5 +32,5 @@ Normalization of deviance also explains why [[Hindsight Bias]] is so tempting af
 - [[Therac-25]]
 - [[Margin of Safety]]
 - [[Mars Climate Orbiter]]
-- [[Andon Cord]]
+- [[Anomaly Detection]]
 - [[Checklist]]

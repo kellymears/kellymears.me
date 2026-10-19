@@ -36,3 +36,4 @@ The problem is a cousin of the base rate issue in diagnostic testing. When true 
 - [[Survivorship Bias]]
 - [[Birthday Problem]]
 - [[Big Data]]
+- [[Hyperparameter]]

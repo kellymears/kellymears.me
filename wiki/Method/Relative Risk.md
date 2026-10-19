@@ -30,3 +30,4 @@ The general principle is that a ratio needs its denominator. A size of effect is
 ## See also
 - [[Randomized Controlled Trial]]
 - [[Statistical Significance]]
+- [[Logistic Regression]]

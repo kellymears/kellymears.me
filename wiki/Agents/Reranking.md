@@ -29,4 +29,4 @@ Evaluation uses ranking metrics: recall at *k* for the first stage, since anythi
 - [[Hybrid Search]]
 - [[Document Chunking]]
 - [[Contrastive Learning]]
-- [[Embedding]]
+- [[Word2Vec]]

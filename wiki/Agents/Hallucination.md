@@ -19,7 +19,7 @@ Mitigations that work are all about grounding. Give the model tools to *look* ra
 - [[Guardrail]]
 - [[Self-Consistency]]
 - [[Sycophancy]]
-- [[Pretraining]]
+- [[Stochastic Parrot]]
 
 ## Related
 - [[Vacuous Truth]]

@@ -29,3 +29,4 @@ Responses with some evidence include prebunking, which warns people about manipu
 ## See also
 - [[Availability Cascade]]
 - [[Confidence Trick]]
+- [[Deepfake]]

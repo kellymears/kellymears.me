@@ -32,6 +32,6 @@ Some cautions:
 Inside a transformer, the [[Attention Mechanism]] uses scaled dot products, closely related, to decide which tokens attend to which, followed by [[Softmax]].
 
 ## See also
-- [[Autocomplete]]
+- [[Word2Vec]]
 - [[Hybrid Search]]
 - [[Locality-Sensitive Hashing]]

@@ -34,7 +34,7 @@ The judgments themselves carry the values and blind spots of whoever writes the 
 ## See also
 - [[Fine-Tuning]]
 - [[Sycophancy]]
-- [[Reward Hacking]]
+- [[Paperclip Maximizer]]
 - [[Pretraining]]
 - [[Reinforcement Learning]]
 - [[AI Alignment]]

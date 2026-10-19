@@ -19,7 +19,7 @@ The empirical picture is more contested than the popular story: several large st
 - [[Motivated Reasoning]]
 - [[Rabbit Hole]]
 - [[Sycophancy]]
-- [[Context Collapse]]
+- [[Deepfake]]
 - [[Strength of Weak Ties]]
 - [[Recommender System]]
 - [[Social Capital]]

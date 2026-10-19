@@ -16,10 +16,10 @@ What none of this licenses is folk prompting advice. Discovering that a [[Large 
 
 ## See also
 - [[Activation Steering]]
-- [[Dimensionality Reduction]]
+- [[Paperclip Maximizer]]
 - [[Residual Connection]]
 - [[Explainable AI]]
 - [[Autoencoder]]
 - [[Double Descent]]
 - [[In-Context Learning]]
-- [[AI Alignment]]
+- [[Stochastic Parrot]]

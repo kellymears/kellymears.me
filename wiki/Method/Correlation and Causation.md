@@ -15,7 +15,7 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 
 ## See also
 - [[Mirror Neurons]]
-- [[Simpson's Paradox]]
+- [[Logistic Regression]]
 - [[Natural Experiment]]
 - [[Berkson's Paradox]]
 - [[Spectrum-Based Fault Localization]]

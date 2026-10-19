@@ -19,7 +19,7 @@ Physical documents solved the adjacent problem — proving a record was not alte
 ## See also
 - [[Data Journalism]]
 - [[Commit]]
-- [[Documentation Rot]]
+- [[Deepfake]]
 - [[Data Lineage]]
 - [[Seam Carving]]
 - [[Code Comment]]

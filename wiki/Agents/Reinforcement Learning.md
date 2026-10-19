@@ -26,7 +26,7 @@ In language models, RL is the step after [[Pretraining]] and [[Fine-Tuning]]. RL
 RL also has a neuroscience link. In 1997 Wolfram Schultz and colleagues showed that dopamine neurons fire in proportion to the temporal-difference error of RL algorithms, the gap between expected and received reward, now called [[Reward Prediction Error]]. The algorithm and the brain appear to have converged on the same signal, which also underlies [[Habit Formation]].
 
 ## See also
-- [[Deep Blue]]
-- [[Self-Play]]
+- [[Paperclip Maximizer]]
+- [[AlphaGo]]
 - [[Elo Rating System]]
 - [[Cognitive Map]]

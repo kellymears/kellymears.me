@@ -26,7 +26,7 @@ How a page is built affects what a crawler sees. Crawlers that only read the ini
 Crawled text is also raw material for AI. Nonprofit archives of crawled pages, spanning billions of pages and petabytes of data, form a large part of the corpus used in language-model [[Pretraining]]. That has reopened old questions about consent. Many sites now block AI crawlers by name in robots.txt, some crawlers ignore it, and the web's informal bargain, in which sites allowed crawling in exchange for search traffic, no longer clearly holds.
 
 ## See also
-- [[Data Journalism]]
+- [[Stochastic Parrot]]
 - [[PageRank]]
 - [[Open Graph]]
 - [[User Agent String]]
