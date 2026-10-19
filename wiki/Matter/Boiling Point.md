@@ -25,10 +25,10 @@ Some popular beliefs don't survive the numbers:
 Refrigeration relies on boiling at the other extreme. A [[Vapor-Compression Refrigeration]] system uses a refrigerant that boils far below room temperature at low pressure. Letting it expand and boil inside the fridge absorbs heat. Compressing it outside raises its boiling point so it condenses and releases that heat.
 
 ## See also
-- [[Altitude Sickness]]
+- [[Supercritical Fluid]]
 - [[Cavitation]]
 - [[Freezing Point Depression]]
 - [[Heat Pump]]
 - [[Vacuum Flask]]
 - [[Hydrogen Bond]]
-- [[Microwave Heating]]
+- [[Chemical Equilibrium]]

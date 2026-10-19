@@ -26,7 +26,7 @@ Because nothing rubs, Hall sensors don't wear out, which has made them popular i
 At very low temperatures and strong fields, the effect becomes quantized. In 1980 Klaus von Klitzing found that the Hall resistance of a thin layer settles into exact plateaus set only by fundamental constants, regardless of the material's flaws. The **quantum Hall effect** won a Nobel Prize in 1985 and now serves as the world's standard of electrical resistance.
 
 ## See also
-- [[Superconductivity]]
+- [[Magnetosphere]]
 - [[Piezoelectric Effect]]
 - [[Thermoelectric Effect]]
 - [[Quantum Tunneling]]

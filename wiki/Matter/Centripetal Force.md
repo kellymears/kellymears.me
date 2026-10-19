@@ -30,10 +30,10 @@ Roller coaster loops are teardrop-shaped rather than circular so that the force 
 
 ## See also
 - [[Escape Velocity]]
-- [[Friction]]
+- [[Isotope]]
 - [[Lagrange Point]]
 - [[Gyroscope]]
 - [[Bicycle Stability]]
 - [[Coriolis Effect]]
-- [[Gravity]]
+- [[Free Fall]]
 - [[Orbit]]

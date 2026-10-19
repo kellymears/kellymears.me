@@ -28,6 +28,7 @@ The Geiger counter, developed by Hans Geiger and Walther Müller in 1928, detect
 It is also useful, in X-ray imaging, radiotherapy, and sterilizing medical equipment. Cosmic rays from space are ionizing too; at ground level they are weak, but they can flip bits in computer memory; see [[Single-Event Upset]]. Sunburn, by contrast, comes mostly from ultraviolet light that damages DNA directly without ionizing it; see [[Sunburn]].
 
 ## See also
-- [[Nuclear Fission]]
-- [[Fukushima Daiichi Nuclear Disaster]]
-- [[Supernova]]
+- [[Ozone Layer]]
+- [[Antimatter]]
+- [[Magnetosphere]]
+- [[Isotope]]

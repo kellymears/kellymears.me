@@ -31,7 +31,7 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 ## See also
 - [[Quantum Computing]]
 - [[Rowhammer]]
-- [[Prime Number]]
+- [[Cosmic Ray]]
 - [[Checksum]]
 - [[De Bruijn Sequence]]
 - [[Gray Code]]

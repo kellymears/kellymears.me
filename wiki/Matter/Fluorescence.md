@@ -29,6 +29,6 @@ Fluorescence differs from the other ways objects color light. [[Dispersion]] sep
 ## See also
 - [[Photovoltaic Effect]]
 - [[Non-Destructive Testing]]
-- [[Plasma]]
+- [[Ozone Layer]]
 - [[Bioluminescence]]
 - [[Aurora]]

@@ -30,6 +30,6 @@ The idea extends beyond physics. Generative [[Diffusion Model]]s in machine lear
 ## See also
 - [[Random Walk]]
 - [[Work Hardening]]
-- [[Henry's Law]]
-- [[Steel]]
-- [[Colloid]]
+- [[Supercritical Fluid]]
+- [[Isotope]]
+- [[Chemical Equilibrium]]

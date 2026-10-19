@@ -23,7 +23,7 @@ Tides can be harnessed. The La Rance plant in France has generated electricity f
 
 ## See also
 - [[Centripetal Force]]
-- [[Inertial Frame of Reference]]
+- [[Free Fall]]
 - [[Seasons]]
 - [[Lagrange Point]]
 - [[Black Hole]]

@@ -34,5 +34,5 @@ That makes a superconductor working at room temperature and ordinary pressure a 
 - [[Quantum Tunneling]]
 - [[Nuclear Fusion]]
 - [[Absolute Zero]]
-- [[Neutron Star]]
+- [[Allotrope]]
 - [[Quantum Entanglement]]

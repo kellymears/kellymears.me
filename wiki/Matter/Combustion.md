@@ -32,11 +32,12 @@ Michael Faraday's 1848 lectures *The Chemical History of a Candle* used a single
 In the kitchen, controlled combustion gives the high heat behind searing and grilling, driving the [[Maillard Reaction]], while wood and charcoal add smoke whose compounds flavor food.
 
 ## See also
-- [[Supernova]]
+- [[Concrete]]
 - [[Plasma]]
 - [[Electric Motor]]
-- [[Heat Engine]]
+- [[Chemical Equilibrium]]
 - [[Capillary Action]]
 - [[Electrostatic Discharge]]
 - [[Nuclear Fission]]
 - [[Catalysis]]
+- [[Allotrope]]

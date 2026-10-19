@@ -22,3 +22,6 @@ In the Milky Way supernovae are rare, estimated at a few per century, and most a
 ## See also
 - [[Dark Matter]]
 - [[Plasma]]
+- [[Isotope]]
+- [[Antimatter]]
+- [[Cosmic Ray]]

@@ -29,5 +29,5 @@ Motors are rated in [[Work and Power]] terms: power is torque times rotational s
 Electric motors use roughly 45 percent of the world's electricity, in everything from refrigerator compressors to hard drives; see [[Vapor-Compression Refrigeration]].
 
 ## See also
-- [[Friction]]
+- [[Magnetosphere]]
 - [[Hall Effect]]

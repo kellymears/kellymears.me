@@ -32,4 +32,4 @@ Treatment for sunburn is supportive: cool compresses, moisturizer, fluids, and p
 - [[Heat Stroke]]
 - [[Capsaicin]]
 - [[Frostbite]]
-- [[Ionizing Radiation]]
+- [[Ozone Layer]]

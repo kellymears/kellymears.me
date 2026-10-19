@@ -32,8 +32,8 @@ The same pattern appears beyond physics. Many processes need a seed past some th
 ## See also
 - [[Glass]]
 - [[Work Hardening]]
-- [[Decompression Sickness]]
-- [[Solubility]]
+- [[Allotrope]]
+- [[Supercritical Fluid]]
 - [[Chocolate Tempering]]
 - [[Microwave Heating]]
 - [[Chemical Leavening]]

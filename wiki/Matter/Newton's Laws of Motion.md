@@ -26,7 +26,7 @@ Game physics engines are Newton's laws applied many times a second. Each step, t
 
 ## See also
 - [[Lever]]
-- [[Uncertainty Principle]]
+- [[Free Fall]]
 - [[Rigid Body Dynamics]]
 - [[Escape Velocity]]
 - [[Concussion]]

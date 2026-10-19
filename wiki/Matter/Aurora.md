@@ -26,9 +26,9 @@ The same storms threaten technology:
 The largest storm on record, the **Carrington Event** of September 1859, followed a solar flare that the astronomer Richard Carrington happened to observe. Auroras were seen near the tropics, and telegraph lines sparked, some operators sending messages on the storm's induced current alone with their batteries disconnected. A storm of that size today would cost far more.
 
 ## See also
-- [[Lightning]]
-- [[Nuclear Fusion]]
+- [[Magnetosphere]]
+- [[Cosmic Ray]]
 - [[Amateur Radio]]
 - [[Supernova]]
 - [[Single-Event Upset]]
-- [[Plasma]]
+- [[Ozone Layer]]

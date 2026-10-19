@@ -23,8 +23,8 @@ The law is an idealization. It holds best for dilute solutions and for gases tha
 
 ## See also
 - [[Cavitation]]
-- [[Osmosis]]
-- [[Phase Transition]]
+- [[Chemical Equilibrium]]
+- [[Supercritical Fluid]]
 - [[Mammalian Dive Reflex]]
 - [[Solubility]]
 - [[Decompression Sickness]]

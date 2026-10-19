@@ -25,3 +25,4 @@ Afterward, regulators worldwide required plants to plan for losing all power for
 ## See also
 - [[Black Swan]]
 - [[Ionizing Radiation]]
+- [[Isotope]]

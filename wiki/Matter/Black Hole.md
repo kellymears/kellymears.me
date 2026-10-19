@@ -27,5 +27,5 @@ In 1974 Stephen Hawking showed that, once quantum effects are included, black ho
 Tidal forces near a small black hole would stretch an infalling object along its length, a process nicknamed spaghettification; see [[Tide]].
 
 ## See also
-- [[Dark Matter]]
-- [[Neutron Star]]
+- [[Cosmic Ray]]
+- [[Antimatter]]

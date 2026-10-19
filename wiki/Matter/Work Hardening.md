@@ -29,5 +29,6 @@ Craft uses both directions:
 Glass has no crystal lattice and no dislocations, so it cannot bend this way at all, and it shatters instead; see [[Glass]].
 
 ## See also
-- [[Phase Transition]]
+- [[Concrete]]
 - [[Thermal Expansion]]
+- [[Allotrope]]

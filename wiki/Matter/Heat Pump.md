@@ -26,6 +26,6 @@ Heat pumps have become central to plans for cutting emissions from buildings, si
 Other devices move heat without compressors. Solid-state thermoelectric coolers pump heat with an electric current but are less efficient; see [[Thermoelectric Effect]]. Buildings with high thermal mass and good insulation need smaller pumps; see [[Specific Heat Capacity]] and [[Heat Transfer]].
 
 ## See also
-- [[Computer Cooling]]
-- [[Phase Transition]]
+- [[Ozone Layer]]
+- [[Supercritical Fluid]]
 - [[Vacuum Flask]]

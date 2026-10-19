@@ -30,8 +30,8 @@ The body exploits elasticity constantly. The Achilles tendon stretches on landin
 ## See also
 - [[Non-Newtonian Fluid]]
 - [[Work Hardening]]
-- [[Citicorp Center Engineering Crisis]]
-- [[Tacoma Narrows Bridge]]
+- [[Concrete]]
+- [[Allotrope]]
 - [[Hysteresis]]
 - [[Timbre]]
 - [[Presbyopia]]

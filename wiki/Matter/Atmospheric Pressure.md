@@ -28,6 +28,6 @@ Gauges usually read pressure relative to the atmosphere, so a bicycle tire at 80
 ## See also
 - [[Siphon]]
 - [[Cavitation]]
-- [[Helmholtz Resonance]]
-- [[Henry's Law]]
+- [[Magnetosphere]]
+- [[Ozone Layer]]
 - [[Tropical Cyclone]]

@@ -18,7 +18,7 @@ Rainbow light is also strongly polarized by the internal reflection, so it dims 
 
 ## See also
 - [[OKLCH]]
-- [[Color Contrast]]
+- [[Allotrope]]
 - [[Spectroscopy]]
 - [[Rainbow]]
 - [[Metamerism]]

@@ -30,7 +30,7 @@ Hot, dense objects such as the Sun's surface or a stove element give a continuou
 
 ## See also
 - [[Bioluminescence]]
-- [[Supernova]]
+- [[Antimatter]]
 - [[Rainbow]]
 - [[Uncertainty Principle]]
-- [[Plasma]]
+- [[Isotope]]

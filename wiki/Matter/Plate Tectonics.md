@@ -29,5 +29,7 @@ Plate tectonics also shaped life and climate, by rearranging oceans, recycling c
 
 ## See also
 - [[Elasticity]]
-- [[Confirmation Bias]]
+- [[Magnetosphere]]
 - [[Paradigm Shift]]
+- [[Isotope]]
+- [[Concrete]]

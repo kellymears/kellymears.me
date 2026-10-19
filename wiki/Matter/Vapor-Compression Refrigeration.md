@@ -17,10 +17,10 @@ Two common devices are not refrigeration at all. An evaporative cooler lowers ai
 ## See also
 - [[Pascal's Principle]]
 - [[Rolling Resistance]]
-- [[Fermi Estimation]]
+- [[Supercritical Fluid]]
 - [[Absolute Zero]]
 - [[Thermoelectric Effect]]
-- [[Latent Heat]]
+- [[Ozone Layer]]
 - [[Computer Cooling]]
 - [[Heat Pump]]
 - [[Vacuum Flask]]

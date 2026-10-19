@@ -32,7 +32,7 @@ Many colloids flow strangely. Ketchup and paint thin when stirred or brushed and
 Colloids also helped prove that atoms exist. In 1908 Jean Perrin tracked the random motion of suspended particles under a microscope and found that it matched Albert Einstein's 1905 prediction for particles being battered by molecules, work recognized with the 1926 Nobel Prize.
 
 ## See also
-- [[Sneeze]]
+- [[Concrete]]
 - [[Gluten]]
 - [[Chocolate Tempering]]
-- [[Solubility]]
+- [[Supercritical Fluid]]

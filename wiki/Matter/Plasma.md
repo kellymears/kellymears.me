@@ -21,5 +21,5 @@ Containing hot plasma is the central challenge of fusion power. At the temperatu
 Plasma also interferes with radio. Spacecraft reentering the atmosphere are wrapped in plasma that blocks communication for minutes, and solar storms that disturb the charged upper layers of the atmosphere can disrupt radio and navigation signals; see [[Global Positioning System]].
 
 ## See also
-- [[Neutron Star]]
-- [[Supernova]]
+- [[Magnetosphere]]
+- [[Cosmic Ray]]

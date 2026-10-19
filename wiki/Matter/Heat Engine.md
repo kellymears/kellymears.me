@@ -26,7 +26,7 @@ Run backward, the same cycle moves heat from cold to hot using work. That's a re
 Not every engine is a heat engine. An electric motor converts electrical energy to motion directly, without a hot and cold side, so it avoids Carnot's limit and exceeds 90% efficiency; see [[Electric Motor]]. Muscles also work chemically rather than thermally, at roughly 20 to 25% efficiency, which is why exercise makes a body hot; see [[Energy Systems]].
 
 ## See also
-- [[Conservation of Energy]]
+- [[Supercritical Fluid]]
 - [[Tropical Cyclone]]
 - [[Sankey Diagram]]
 - [[Thermoelectric Effect]]

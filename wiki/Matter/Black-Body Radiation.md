@@ -20,7 +20,7 @@ The same physics sets Earth's climate. The planet absorbs sunlight and radiates 
 The most perfect black-body spectrum ever measured is the faint microwave glow left over from the early universe, at about 2.7 kelvins. NASA's COBE satellite measured it in 1990, matching the theoretical curve so precisely that the data points sat inside the line's thickness.
 
 ## See also
-- [[Absolute Zero]]
+- [[Ozone Layer]]
 - [[Black Hole]]
 - [[Bioluminescence]]
 - [[Vacuum Flask]]

@@ -26,3 +26,4 @@ That static-to-kinetic gap also produces **stick-slip**, an oscillation where an
 - [[Blister]]
 - [[Earthquake]]
 - [[Saddle Sore]]
+- [[Allotrope]]

@@ -30,7 +30,7 @@ Guitar pickups, metal detectors, and contactless cards rely on induction too. Th
 - [[Near-Field Communication]]
 - [[Hall Effect]]
 - [[Lightning]]
-- [[Tide]]
+- [[Magnetosphere]]
 - [[Faraday Cage]]
 - [[Uninterruptible Power Supply]]
 - [[Alternating Current]]

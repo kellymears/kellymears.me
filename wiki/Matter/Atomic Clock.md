@@ -24,6 +24,6 @@ Navigation depends on these clocks. Each satellite of the [[Global Positioning S
 Optical clocks are now precise enough that raising one by a fraction of a meter measurably speeds it up, as relativity predicts; see [[Gravity]]. Some distributed databases use atomic clocks and GPS receivers to bound clock uncertainty when ordering transactions; see [[Distributed SQL]] and [[Logical Clock]].
 
 ## See also
-- [[Time Zone]]
+- [[Isotope]]
 - [[Electromagnetic Spectrum]]
 - [[Neutron Star]]

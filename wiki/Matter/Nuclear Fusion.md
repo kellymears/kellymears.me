@@ -28,5 +28,5 @@ The engineering problems remain hard: fast neutrons damage the reactor walls and
 - [[Supernova]]
 - [[Ionizing Radiation]]
 - [[Black Hole]]
-- [[Plasma]]
-- [[Neutron Star]]
+- [[Isotope]]
+- [[Antimatter]]
