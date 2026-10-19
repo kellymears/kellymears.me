@@ -26,4 +26,4 @@ DX also points outward. Companies that sell APIs and libraries compete on how qu
 
 ## See also
 - [[Toil]]
-- [[Works on My Machine]]
+- [[Good First Issue]]

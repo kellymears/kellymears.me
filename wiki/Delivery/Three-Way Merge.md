@@ -29,7 +29,7 @@ There is also a duplication hazard: two branches that each added the same conten
 - [[Stacked Pull Requests]]
 - [[Trunk-Based Development]]
 - [[Regression]]
-- [[Continuous Integration]]
+- [[Darcs]]
 - [[Edit Distance]]
 - [[Fast-Forward Merge]]
 - [[Diff]]

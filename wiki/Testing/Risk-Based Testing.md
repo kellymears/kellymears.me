@@ -28,4 +28,4 @@ The weakness is that risk assessment is a judgment, and judgments carry bias. Te
 - [[Threat Modeling]]
 - [[Pairwise Testing]]
 - [[Failure Mode and Effects Analysis]]
-- [[Premature Optimization]]
+- [[Spiral Model]]

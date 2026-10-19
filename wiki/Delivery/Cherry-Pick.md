@@ -25,9 +25,9 @@ Projects with long-lived release branches usually adopt an *upstream first* rule
 Small, focused commits pick cleanly, which is one practical argument for an [[Atomic Commit]] style. A commit that mixes a fix with a refactor can't be backported without dragging the refactor along. The opposite operation, `git revert`, applies a commit's inverse as a new commit, a common form of [[Rollback]].
 
 ## See also
-- [[Branching Model]]
+- [[Darcs]]
 - [[Reflog]]
 - [[Hotfix]]
 - [[Detached HEAD]]
 - [[Interactive Rebase]]
-- [[Long-Term Support]]
+- [[Release Engineering]]

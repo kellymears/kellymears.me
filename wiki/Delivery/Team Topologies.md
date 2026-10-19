@@ -31,8 +31,8 @@ Critics note that real organizations rarely fit four boxes and that the model sa
 
 ## See also
 - [[Technology Radar]]
-- [[Code Owners]]
-- [[DORA Metrics]]
+- [[You Build It, You Run It]]
+- [[Two-Pizza Team]]
 - [[Data Mesh]]
 - [[Inner Source]]
 - [[Value Stream Mapping]]

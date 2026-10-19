@@ -29,7 +29,7 @@ The theory has critics, who note that real systems often have shifting or multip
 ## See also
 - [[Gantt Chart]]
 - [[PDCA Cycle]]
-- [[Wicked Problem]]
+- [[Small Batches]]
 - [[Value Stream Mapping]]
 - [[Maximum Flow]]
 - [[Instruction Pipelining]]

@@ -14,7 +14,7 @@ Every fix compounds the problem rather than resolving it. Add a second metric to
 
 ## See also
 - [[Corrigibility]]
-- [[Hobson's Choice]]
+- [[You Build It, You Run It]]
 - [[Cobra Effect]]
 - [[AI Alignment]]
 - [[Iron Law of Oligarchy]]

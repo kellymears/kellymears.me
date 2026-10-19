@@ -29,7 +29,7 @@ Several things about rebasing are worth knowing concretely.
 - [[Jujutsu]]
 - [[Regression]]
 - [[Retcon]]
-- [[Trunk-Based Development]]
+- [[Darcs]]
 - [[Cherry-Pick]]
 - [[Reflog]]
 - [[Fast-Forward Merge]]

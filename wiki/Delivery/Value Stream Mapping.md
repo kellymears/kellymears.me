@@ -28,6 +28,6 @@ The method has limits. A map is a snapshot built from people's estimates, and it
 
 ## See also
 - [[Flowchart]]
-- [[Gantt Chart]]
+- [[Small Batches]]
 - [[Sankey Diagram]]
 - [[PDCA Cycle]]

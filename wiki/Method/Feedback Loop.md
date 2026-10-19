@@ -39,6 +39,6 @@ People learn through feedback too. Skills improve fastest when results arrive qu
 Many surprises in policy and engineering are loops nobody drew; see [[Second-Order Thinking]].
 
 ## See also
-- [[OODA Loop]]
-- [[Chernobyl Disaster]]
-- [[Nuclear Fission]]
+- [[You Build It, You Run It]]
+- [[Spiral Model]]
+- [[Small Batches]]

@@ -16,8 +16,8 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 ## See also
 - [[Hyatt Regency Walkway Collapse]]
 - [[Inner Source]]
-- [[Software Forge]]
-- [[Goto Fail]]
+- [[Good First Issue]]
+- [[Small Batches]]
 - [[Software Inspection]]
 - [[Email Patch Workflow]]
 - [[Theory of Constraints]]

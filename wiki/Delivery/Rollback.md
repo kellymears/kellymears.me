@@ -19,7 +19,7 @@ The alternative discipline is "fix forward": rather than reverting, ship a fix a
 ## Related
 - [[Zero-Downtime Deployment]]
 - [[Andon Cord]]
-- [[Reversible Decision]]
+- [[Small Batches]]
 - [[AT&T Network Collapse of 1990]]
 - [[Expand and Contract]]
 - [[Code Freeze]]

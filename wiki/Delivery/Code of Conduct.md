@@ -23,7 +23,7 @@ The arguments against tend to be about vagueness and enforcement. Critics worry 
 Communities that grow quickly face this sharply, as a wave of newcomers arrives without the old culture's habits; see [[Eternal September]]. Norms that once passed by example stop working past the size where everyone knows everyone; see [[Dunbar's Number]]. The same standards apply in [[Code Review]], where the tone of comments on a [[Pull Request]] is much of what a new contributor experiences of a project.
 
 ## See also
-- [[Social Proof]]
+- [[Good First Issue]]
 - [[Gift Economy]]
 - [[Iron Law of Oligarchy]]
 - [[Protestware]]

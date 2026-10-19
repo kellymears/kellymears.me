@@ -17,7 +17,7 @@ The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed up
 - [[Polyfill]]
 - [[Build Provenance]]
 - [[Commit Signing]]
-- [[Open Source Sustainability]]
+- [[Release Engineering]]
 - [[Firmware]]
 - [[Log4Shell]]
 

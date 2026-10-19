@@ -33,6 +33,6 @@ Kanban's metrics connect to delivery performance more broadly. Cycle time on the
 - [[Flowchart]]
 - [[Definition of Done]]
 - [[Value Stream Mapping]]
-- [[DevOps]]
+- [[Small Batches]]
 - [[Control Chart]]
 - [[Gantt Chart]]

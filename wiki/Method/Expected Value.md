@@ -30,4 +30,4 @@ Rare, extreme outcomes make the estimate fragile, since it depends on probabilit
 ## See also
 - [[Push Your Luck]]
 - [[Brier Score]]
-- [[Relative Risk]]
+- [[Spiral Model]]

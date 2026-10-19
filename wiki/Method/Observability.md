@@ -20,7 +20,7 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 - [[Mean Time to Recovery]]
 - [[Histogram]]
 - [[Testing in Production]]
-- [[Ostrich Effect]]
+- [[You Build It, You Run It]]
 - [[Control Chart]]
 - [[Syslog]]
 

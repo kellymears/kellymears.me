@@ -24,7 +24,7 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 ## Related
 - [[Architecture Decision Record]]
 - [[Ninety-Ninety Rule]]
-- [[Code Comment]]
+- [[Software Crisis]]
 - [[Don't Repeat Yourself]]
 - [[Technology Radar]]
 - [[Issue Tracker]]

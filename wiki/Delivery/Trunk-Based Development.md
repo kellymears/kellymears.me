@@ -18,7 +18,7 @@ The practice scales down well — it is close to what a single developer natural
 ## See also
 - [[Subversion]]
 - [[Fast-Forward Merge]]
-- [[Kanban]]
+- [[Small Batches]]
 - [[Gerrit]]
 - [[Extreme Programming]]
 

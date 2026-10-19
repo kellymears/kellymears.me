@@ -19,7 +19,7 @@ Two mechanical notes. Changing only the target branch of a pull request does not
 - [[Distributed Version Control]]
 - [[Code of Conduct]]
 - [[Software Forge]]
-- [[Human in the Loop]]
+- [[Good First Issue]]
 - [[Branching Model]]
 
 ## Related

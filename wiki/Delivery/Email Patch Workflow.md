@@ -26,4 +26,4 @@ The XZ Utils backdoor showed another side: a project with a small mailing list a
 
 ## See also
 - [[Software Forge]]
-- [[Benevolent Dictator for Life]]
+- [[Darcs]]

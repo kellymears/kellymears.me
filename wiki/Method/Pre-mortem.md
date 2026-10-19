@@ -30,6 +30,6 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Second-Order Thinking]]
 - [[Failure Mode and Effects Analysis]]
 - [[Inversion]]
-- [[Ostrich Effect]]
+- [[Spiral Model]]
 - [[Architecture Decision Record]]
 - [[Precautionary Principle]]

@@ -23,7 +23,7 @@ The law pairs naturally with [[Parkinson's Law]]: one says the work will take lo
 ## Related
 - [[Brooks's Law]]
 - [[Gantt Chart]]
-- [[Pareto Principle]]
+- [[Software Crisis]]
 - [[Agile Software Development]]
 - [[Confidence Interval]]
 - [[Murphy's Law]]

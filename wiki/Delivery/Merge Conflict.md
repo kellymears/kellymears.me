@@ -29,11 +29,11 @@ Several practical points recur:
 ## Related
 - [[Merge Train]]
 - [[Goto Fail]]
-- [[Trunk-Based Development]]
+- [[Small Batches]]
 - [[Fast-Forward Merge]]
 - [[Software Fork]]
 - [[Local-First Software]]
-- [[Diff]]
+- [[Darcs]]
 - [[Git Stash]]
 - [[Subversion]]
 - [[Perforce]]

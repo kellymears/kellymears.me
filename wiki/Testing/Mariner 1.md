@@ -27,3 +27,4 @@ Mariner 2 launched about five weeks later and in December 1962 flew past Venus, 
 ## See also
 - [[Mars Climate Orbiter]]
 - [[Verification and Validation]]
+- [[Software Crisis]]

@@ -26,5 +26,5 @@ Inner source differs from simply making code visible. Many companies let everyon
 The approach borrows the reasoning that open, many-contributor development can outperform closed groups; see [[The Cathedral and the Bazaar]] and [[Benevolent Dictator for Life]].
 
 ## See also
-- [[Technology Radar]]
+- [[Good First Issue]]
 - [[Software Forge]]

@@ -17,7 +17,7 @@ History is also a document. It is the durable answer to *why is this here*, whic
 ## See also
 - [[Gitignore]]
 - [[Timeline]]
-- [[Three-Way Merge]]
+- [[Darcs]]
 - [[Git Worktree]]
 - [[Subversion]]
 - [[Spreadsheet Error]]

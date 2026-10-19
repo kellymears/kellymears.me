@@ -33,7 +33,7 @@ Whether a standup is worth holding depends on whether people learn something the
 
 ## See also
 - [[User Story]]
-- [[Pair Programming]]
+- [[Two-Pizza Team]]
 - [[Timeboxing]]
 - [[Burndown Chart]]
 - [[PDCA Cycle]]

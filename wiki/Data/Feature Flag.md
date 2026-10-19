@@ -25,7 +25,7 @@ Flags accumulate. A flag whose feature has fully shipped is dead conditional log
 - [[Multi-Tenancy]]
 - [[Draft and Published]]
 - [[Software Release Life Cycle]]
-- [[Shadow Traffic]]
+- [[Small Batches]]
 
 ## Related
 - [[CrowdStrike Outage]]

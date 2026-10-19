@@ -21,10 +21,10 @@ The defense isn't refusing improvements — it's keeping the same discipline tha
 - [[KISS Principle]]
 
 ## Related
-- [[Brooks's Law]]
+- [[Big Design Up Front]]
 - [[Strangler Fig Pattern]]
 - [[Platform Engineering]]
-- [[Refactoring]]
+- [[Software Crisis]]
 - [[You Aren't Gonna Need It]]
 - [[Big Rewrite]]
 - [[Law of the Instrument]]

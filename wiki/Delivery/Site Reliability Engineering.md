@@ -30,4 +30,4 @@ SRE adopted badly becomes an operations team renamed. Without error budgets that
 ## See also
 - [[Status Page]]
 - [[ChatOps]]
-- [[Just Culture]]
+- [[You Build It, You Run It]]

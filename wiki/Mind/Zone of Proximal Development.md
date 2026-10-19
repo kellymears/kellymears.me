@@ -28,3 +28,4 @@ Support works best when it builds independence. A tutor who does too much keeps 
 ## See also
 - [[Learning Curve]]
 - [[Expert Intuition]]
+- [[Good First Issue]]

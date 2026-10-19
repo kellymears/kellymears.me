@@ -28,6 +28,6 @@ Used well, the principle is a prompt to look for the vital few: find what produc
 - [[Mean and Median]]
 - [[Benford's Law]]
 - [[Napster]]
-- [[Ninety-Ninety Rule]]
+- [[Good First Issue]]
 - [[Herd Immunity]]
 - [[Learning Curve]]

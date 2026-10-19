@@ -27,8 +27,8 @@ Adding people late rarely saves a late project, as [[Brooks's Law]] warns, and w
 
 ## See also
 - [[Burndown Chart]]
-- [[Margin of Safety]]
-- [[Affective Forecasting]]
+- [[Spiral Model]]
+- [[Software Crisis]]
 - [[Time Perception]]
 - [[Delphi Method]]
 - [[Superforecasting]]

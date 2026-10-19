@@ -3,7 +3,6 @@ aliases:
   - DevOps culture
   - CALMS
   - Wall of confusion
-  - You build it, you run it
 tags:
   - delivery
 summary: The movement to break down the wall between the people who write software and the people who run it, through shared ownership, automation, and fast feedback from production.
@@ -29,6 +28,6 @@ DevOps has its critics and failure modes. It's often reduced to a job title or a
 [[Site Reliability Engineering]] is often described as one concrete implementation of DevOps, with explicit reliability targets and limits on manual operations work.
 
 ## See also
-- [[Value Stream Mapping]]
+- [[You Build It, You Run It]]
 - [[Pets vs Cattle]]
 - [[ChatOps]]

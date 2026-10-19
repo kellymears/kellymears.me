@@ -33,3 +33,4 @@ They also explain several familiar temptations. A system grown complex enough in
 - [[Conway's Law]]
 - [[Ship of Theseus]]
 - [[Mainframe]]
+- [[Software Crisis]]

@@ -27,4 +27,4 @@ The research also identified practices that predict good results. These include 
 The metrics are easy to misuse. They describe a team's delivery system, not individual performance, and ranking people by deployment count invites [[Goodhart's Law]]: splitting changes artificially, or declining to record failures. They also measure delivery, not whether the software delivered is valuable, since a team can ship the wrong thing very efficiently. DORA's own guidance is to track the metrics over time within a team, use them to find bottlenecks, and avoid comparing unlike teams against each other. Overloaded [[Code Review]] queues and long-lived [[Pull Request]] branches are common causes of long lead times, and accumulated [[Technical Debt]] often shows up as a rising change failure rate.
 
 ## See also
-- [[McNamara Fallacy]]
+- [[Small Batches]]

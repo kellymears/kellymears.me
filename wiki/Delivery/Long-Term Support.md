@@ -40,5 +40,5 @@ Staying on LTS is not free either. Lagging behind means missing improvements, ac
 - [[Over-the-Air Update]]
 - [[Calendar Versioning]]
 - [[Git Tag]]
-- [[Linux Distribution]]
+- [[Release Engineering]]
 - [[Hotfix]]

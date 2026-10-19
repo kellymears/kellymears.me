@@ -33,3 +33,4 @@ Git's *rerere* helps disproportionately here, since stacked branches share early
 - [[Interactive Rebase]]
 - [[Jujutsu]]
 - [[Gerrit]]
+- [[Small Batches]]

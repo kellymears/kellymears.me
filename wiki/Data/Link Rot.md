@@ -34,6 +34,6 @@ Inside a [[Wiki]], internal links can be checked mechanically: a link to a page 
 - [[Deep Linking]]
 - [[Webring]]
 - [[Canonical URL]]
-- [[Archival Science]]
+- [[Software Heritage]]
 - [[Microfilm]]
 - [[Slug]]

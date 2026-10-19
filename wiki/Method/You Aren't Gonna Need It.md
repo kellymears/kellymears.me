@@ -25,7 +25,7 @@ It sits with a family of related advice. Simple systems that work tend to grow i
 
 ## See also
 - [[Worse Is Better]]
-- [[Minimum Viable Product]]
+- [[Big Design Up Front]]
 - [[Walking Skeleton]]
 - [[Extreme Programming]]
 - [[Don't Repeat Yourself]]

@@ -22,8 +22,8 @@ The corollary for software architecture is to build the smallest version that ac
 ## Related
 - [[KISS Principle]]
 - [[Strangler Fig Pattern]]
-- [[Leaky Abstraction]]
-- [[Lindy Effect]]
+- [[Spiral Model]]
+- [[Big Design Up Front]]
 - [[Request for Comments]]
 - [[You Aren't Gonna Need It]]
 - [[Big Rewrite]]

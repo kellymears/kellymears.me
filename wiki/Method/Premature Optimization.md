@@ -17,7 +17,7 @@ The rule has a real boundary, worth stating so it doesn't get taken as absolute:
 - [[Fast Inverse Square Root]]
 - [[Don't Repeat Yourself]]
 - [[Kernighan's Law]]
-- [[Overfitting]]
+- [[Big Design Up Front]]
 - [[Benchmarking]]
 
 ## Related

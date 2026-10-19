@@ -18,13 +18,13 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Hofstadter's Law]]
 - [[Parkinson's Law]]
 - [[Mainframe]]
-- [[Conway's Law]]
+- [[Software Crisis]]
 
 ## Related
 - [[Lehman's Laws of Software Evolution]]
 - [[Gantt Chart]]
 - [[Dunbar's Number]]
-- [[Agile Software Development]]
+- [[Two-Pizza Team]]
 - [[Amdahl's Law]]
 - [[Team Topologies]]
 - [[Theory of Constraints]]

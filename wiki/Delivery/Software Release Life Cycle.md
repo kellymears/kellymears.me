@@ -33,6 +33,6 @@ Version numbers often encode the stage. Semantic versioning, for instance, allow
 The stages also help teams decide when to stop adding features and focus on stability; see [[Code Freeze]]. Whatever names a team uses, the underlying question is the same: who should run this version, and what promises come with it?
 
 ## See also
-- [[Progressive Delivery]]
+- [[Release Engineering]]
 - [[Definition of Done]]
-- [[Indie Game]]
+- [[Spiral Model]]

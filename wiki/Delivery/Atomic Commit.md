@@ -21,7 +21,7 @@ Two notes for shared working copies. Stage by explicit path — a bulk add captu
 - [[Squash Merge]]
 
 ## Related
-- [[Provenance]]
+- [[Small Batches]]
 - [[Version Control]]
 - [[Pull Request]]
 - [[Atomic File Write]]

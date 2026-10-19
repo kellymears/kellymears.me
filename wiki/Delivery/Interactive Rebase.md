@@ -27,6 +27,6 @@ Teams disagree about how much to care. Some squash every pull request into one c
 Replaying commits can cause conflicts at each step, which must be resolved one at a time; see [[Merge Conflict]]. Moving a single commit to another branch is a smaller operation; see [[Cherry-Pick]].
 
 ## See also
-- [[Detached HEAD]]
+- [[Darcs]]
 - [[Text Editor]]
 - [[Jujutsu]]

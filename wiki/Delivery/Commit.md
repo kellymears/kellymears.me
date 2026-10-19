@@ -24,7 +24,7 @@ Staging deserves care in shared working directories: a bulk "add everything" swe
 ## Related
 - [[Git Object Model]]
 - [[Git Revert]]
-- [[Diff]]
+- [[Darcs]]
 - [[Subversion]]
 - [[Git Hook]]
 - [[Cherry-Pick]]
