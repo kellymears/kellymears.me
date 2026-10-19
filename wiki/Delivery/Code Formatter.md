@@ -33,4 +33,4 @@ Enforcement usually happens twice: locally, so developers rarely see a failure, 
 - [[Branch Protection]]
 - [[YAML]]
 - [[Refactoring]]
-- [[Diff]]
+- [[Text Editor]]

@@ -24,3 +24,4 @@ Licensing kept it out of Linux. ZFS was released under Sun's CDDL, which is wide
 ## See also
 - [[Hard Disk Drive]]
 - [[Filesystem]]
+- [[Sparse File]]

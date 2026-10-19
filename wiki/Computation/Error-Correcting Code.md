@@ -36,4 +36,4 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 - [[De Bruijn Sequence]]
 - [[Gray Code]]
 - [[RAID]]
-- [[Pigeonhole Principle]]
+- [[Serial Port]]

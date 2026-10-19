@@ -27,3 +27,4 @@ Most languages are strict by default (arguments evaluated before a call) and opt
 - [[DataFrame]]
 - [[Fibonacci Sequence]]
 - [[Combinatory Logic]]
+- [[Sparse File]]

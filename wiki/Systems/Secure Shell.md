@@ -34,6 +34,6 @@ Because SSH is powerful, its servers are constant targets. Internet-facing serve
 ## See also
 - [[Terminal Multiplexer]]
 - [[Job Control]]
-- [[Pseudoterminal]]
+- [[Wake-on-LAN]]
 - [[Configuration Management]]
 - [[Telnet]]

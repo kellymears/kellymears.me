@@ -19,10 +19,10 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 
 ## See also
 - [[Vector Display]]
-- [[Instruction Set Architecture]]
+- [[Disk Image]]
 - [[Adobe Flash]]
 - [[Pinball]]
-- [[NTSC]]
+- [[Futex]]
 - [[Point-and-Click Adventure]]
 - [[Differential Testing]]
 - [[Hardware-in-the-Loop]]

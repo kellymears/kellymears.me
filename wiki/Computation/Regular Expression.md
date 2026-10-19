@@ -13,7 +13,7 @@ This compiled-FSM origin is also the source of a regex's fundamental limit: a *t
 What most programming languages call "regex" (PCRE and its descendants: Perl's, Python's `re`, JavaScript's) isn't a true regular expression anymore — backreferences (`\1`, referring back to an earlier captured group) match languages no finite automaton can recognize, and engines implement them — along with lookahead/lookbehind assertions, which keep the language regular but are handled the same way — via backtracking, which, on an adversarial input, can take exponential time to fail to match — the ReDoS (regex denial of service) vulnerability class, where a pattern that looks innocuous hangs a server on a crafted string of a few dozen characters. RE2 (Google's library) and Rust's `regex` crate deliberately give up backreferences to guarantee linear-time matching, trading expressive power for a hard performance ceiling that can't be blown by any input.
 
 ## See also
-- [[Finite State Machine]]
+- [[Text Editor]]
 - [[Pattern Matching]]
 - [[Trie]]
 - [[Determinism]]

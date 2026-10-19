@@ -15,7 +15,7 @@ Registration is where the subtle failures live. A supervisor records the path it
 Scheduled work is the daemon's near relative; see [[Cron]].
 
 ## See also
-- [[Process]]
+- [[Wake-on-LAN]]
 - [[Zombie Process]]
 - [[Code Signing]]
 - [[Syslog]]

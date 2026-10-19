@@ -26,7 +26,7 @@ The general principle is the one behind every [[Event Loop]]: whoever holds the 
 ## See also
 - [[Interrupt]]
 - [[Concurrency and Parallelism]]
-- [[Context Switch]]
+- [[Futex]]
 - [[Simultaneous Multithreading]]
 - [[Time-Sharing]]
 - [[Pressure Stall Information]]

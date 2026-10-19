@@ -29,8 +29,8 @@ ISAs differ in ways that reach programmers:
 Higher up, virtual ISAs blur the line: [[WebAssembly]] and Java bytecode define instruction sets for machines that don't exist, which an [[Interpreter]] or compiler maps onto real hardware. The binary details above the ISA, how functions call each other and how data is laid out, belong to the [[Application Binary Interface]].
 
 ## See also
-- [[Fast Inverse Square Root]]
-- [[Instruction Pipelining]]
+- [[Device Tree]]
+- [[Position-Independent Code]]
 - [[Silicon Binning]]
 - [[Mainframe]]
 - [[Endianness]]

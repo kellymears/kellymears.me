@@ -24,7 +24,7 @@ Diagnosing contention needs per-process detail rather than an aggregate load fig
 - [[Port]]
 - [[Inter-Process Communication]]
 - [[Connection Pool]]
-- [[System Call]]
+- [[Position-Independent Code]]
 - [[Unix Signal]]
 - [[File Descriptor]]
 

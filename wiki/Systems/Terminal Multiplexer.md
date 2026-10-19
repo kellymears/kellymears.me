@@ -28,7 +28,7 @@ The cost is an extra layer of translation. A multiplexer is itself a terminal em
 Full-screen programs inside it are ordinary terminal applications; see [[Terminal User Interface]].
 
 ## See also
-- [[Shell]]
+- [[Text Editor]]
 - [[Unix Signal]]
 - [[Command-Line Interface]]
 - [[Clipboard]]

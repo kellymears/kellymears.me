@@ -33,7 +33,7 @@ Context switching also has a human version, the cost of moving attention between
 
 ## See also
 - [[Pager]]
-- [[Apollo 11 Program Alarms]]
+- [[Futex]]
 - [[Load Average]]
 - [[Spinlock]]
 - [[Time-Sharing]]

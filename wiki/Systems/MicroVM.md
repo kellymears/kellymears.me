@@ -34,3 +34,4 @@ The cost is lost conveniences, such as GPU access, shared filesystems, and live 
 ## See also
 - [[Kernel]]
 - [[Control Groups]]
+- [[Disk Image]]

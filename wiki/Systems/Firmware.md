@@ -20,6 +20,6 @@ Much firmware is closed. Linux loads proprietary binary blobs into many devices 
 Firmware also decides who controls a device after sale. Updates can remove features, lock out third-party parts, or end a product's life when servers shut down, and manufacturers have used firmware checks to block independent repairs; see [[Right to Repair]] and [[Planned Obsolescence]].
 
 ## See also
-- [[Instruction Set Architecture]]
+- [[Device Tree]]
 - [[Over-the-Air Update]]
-- [[Universal Serial Bus]]
+- [[Serial Port]]

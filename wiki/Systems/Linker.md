@@ -35,5 +35,5 @@ Linking is often the slowest step of large builds, since it's hard to paralleliz
 The idea extends beyond native code. A JavaScript [[Bundler]] does a linker's job, resolving imports across modules and dropping unused exports through tree shaking. Interpreted languages and [[Just-in-Time Compilation]] resolve names at run time instead, trading the linker's early errors for flexibility.
 
 ## See also
-- [[Build System]]
+- [[Position-Independent Code]]
 - [[Assembly Language]]

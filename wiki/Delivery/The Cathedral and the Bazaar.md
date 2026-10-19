@@ -31,4 +31,4 @@ The essay's lasting point is that openness and frequent feedback can beat carefu
 - [[Software Inspection]]
 - [[Email Patch Workflow]]
 - [[Benevolent Dictator for Life]]
-- [[Software Forge]]
+- [[Linux Distribution]]

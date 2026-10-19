@@ -34,7 +34,7 @@ Common trouble spots:
 [[IPv6]] uses the same notation with a standard `/64` per subnet, which holds more addresses than the entire IPv4 internet, so subnets there are never sized by scarcity.
 
 ## See also
-- [[Wi-Fi]]
+- [[Wake-on-LAN]]
 - [[IP Routing]]
 - [[Ethernet]]
 - [[Software-Defined Networking]]

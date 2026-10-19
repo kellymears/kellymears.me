@@ -29,4 +29,4 @@ Newer filesystems fold volume management into the filesystem itself, pooling dis
 
 ## See also
 - [[RAID]]
-- [[Leaky Abstraction]]
+- [[Sparse File]]

@@ -27,6 +27,6 @@ The same design appears wherever a fixed pool has to be shared among variable de
 - [[Time-Sharing]]
 - [[Rowhammer]]
 - [[Control Groups]]
-- [[Memory Hierarchy]]
+- [[Position-Independent Code]]
 - [[Memory Allocator]]
 - [[Page Cache]]

@@ -31,3 +31,4 @@ Lock-free is not automatically faster. Under heavy contention, threads waste eff
 - [[Software Transactional Memory]]
 - [[Spinlock]]
 - [[Communicating Sequential Processes]]
+- [[Futex]]

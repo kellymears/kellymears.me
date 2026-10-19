@@ -31,8 +31,8 @@ Backups also carry obligations. They contain the same sensitive data as producti
 
 ## See also
 - [[Logical Volume Manager]]
-- [[Archive File]]
+- [[Disk Image]]
 - [[Hard Link]]
 - [[Hard Disk Drive]]
 - [[Data Sovereignty]]
-- [[GitLab Database Incident]]
+- [[Sparse File]]

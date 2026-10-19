@@ -31,5 +31,5 @@ The choice mirrors the trade-off in [[Vendoring]] source code: bundle dependenci
 ## See also
 - [[XZ Utils Backdoor]]
 - [[Linker]]
-- [[Containerization]]
+- [[Position-Independent Code]]
 - [[Vendoring]]

@@ -31,6 +31,6 @@ Text encoding interacts with all of this. A terminal must know how many columns 
 ## See also
 - [[Line Ending]]
 - [[Clipboard]]
-- [[Logging]]
+- [[Serial Port]]
 - [[ASCII Art]]
 - [[Terminal Multiplexer]]

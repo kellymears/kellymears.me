@@ -25,6 +25,6 @@ The culture is mostly aesthetic play, and that is the point. It combines craft, 
 - [[Dotfiles]]
 - [[Brutalist Web Design]]
 - [[IKEA Effect]]
-- [[Rabbit Hole]]
+- [[Linux Distribution]]
 - [[Yak Shaving]]
 - [[Desktop Metaphor]]

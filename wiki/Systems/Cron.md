@@ -16,7 +16,7 @@ The practical rules: use absolute paths, set the environment explicitly, log to 
 
 ## See also
 - [[Daemon]]
-- [[Environment Variable]]
+- [[Wake-on-LAN]]
 - [[Real-Time Clock]]
 - [[Shebang]]
 - [[Background Agent]]

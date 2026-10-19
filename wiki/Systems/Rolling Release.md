@@ -20,3 +20,4 @@ The distinction generalizes past Linux distributions: any software that ships co
 - [[Database Migration]]
 - [[Release Train]]
 - [[Long-Term Support]]
+- [[Linux Distribution]]

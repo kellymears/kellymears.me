@@ -29,3 +29,4 @@ Real-time systems avoid spinning because it makes delays unpredictable; Linux's 
 - [[Semaphore]]
 - [[Deadlock]]
 - [[Memory Allocator]]
+- [[Futex]]

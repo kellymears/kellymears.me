@@ -22,3 +22,4 @@ This is why multicast has historically mattered for things like live TV distribu
 - [[Multicast DNS]]
 - [[Bluetooth]]
 - [[Ethernet]]
+- [[Wake-on-LAN]]

@@ -28,5 +28,5 @@ Proving deadlines are met requires knowing each task's worst-case execution time
 Linux, a general-purpose [[Kernel]], has long had patches to improve its predictability, merged into the mainline kernel in 2024, making it usable for soft and some firm real-time work such as audio production and robotics. Hard real-time systems still typically use a dedicated RTOS, sometimes alongside Linux on a separate core. Most people own dozens of devices running an RTOS, in their cars, appliances, and earbuds, where [[Determinism]] matters more than features.
 
 ## See also
-- [[Spinlock]]
-- [[Apollo 11 Program Alarms]]
+- [[Futex]]
+- [[Device Tree]]

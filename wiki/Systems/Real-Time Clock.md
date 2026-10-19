@@ -25,7 +25,7 @@ Beyond keeping time, the RTC can raise an alarm, letting a sleeping computer wak
 
 ## See also
 - [[Monotonic Clock]]
-- [[Boot Process]]
+- [[Wake-on-LAN]]
 - [[Year 2000 Problem]]
 - [[Patriot Missile Failure]]
 - [[Clock Signal]]

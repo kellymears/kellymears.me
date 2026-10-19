@@ -28,6 +28,6 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 - [[Git Worktree]]
 - [[Microservices]]
 - [[Pets vs Cattle]]
-- [[Hypervisor]]
+- [[Disk Image]]
 - [[WebAssembly]]
 - [[Works on My Machine]]

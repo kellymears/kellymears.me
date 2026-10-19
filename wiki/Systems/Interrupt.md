@@ -33,8 +33,8 @@ A [[Unix Signal]] is the user-space analog, an asynchronous notification deliver
 
 ## See also
 - [[Translation Lookaside Buffer]]
-- [[Time-Sharing]]
+- [[PCI Express]]
 - [[Hardware-in-the-Loop]]
-- [[Apollo 11 Program Alarms]]
+- [[Device Tree]]
 - [[Real-Time Operating System]]
 - [[Entropy Pool]]

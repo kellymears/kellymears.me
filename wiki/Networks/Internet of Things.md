@@ -21,5 +21,5 @@ Privacy concerns follow from the sensors. Microphones in speakers, cameras in do
 The early vision of computing that disappears into the environment is still the appeal. Done well, connected devices stay quiet until needed and work without an app; see [[Calm Technology]]. Done badly, a light switch needs a firmware update and an internet connection.
 
 ## See also
-- [[Honeypot]]
-- [[Telnet]]
+- [[Device Tree]]
+- [[Wake-on-LAN]]

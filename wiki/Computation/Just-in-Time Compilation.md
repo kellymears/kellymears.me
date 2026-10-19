@@ -37,3 +37,4 @@ These trade-offs drove alternatives. [[WebAssembly]] ships pre-compiled, lower-l
 - [[JavaScript]]
 - [[Metaprogramming]]
 - [[Browser Wars]]
+- [[Position-Independent Code]]

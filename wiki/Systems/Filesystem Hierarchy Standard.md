@@ -30,4 +30,4 @@ Not everyone follows the standard. macOS layers its own folders, such as Applica
 ## See also
 - [[POSIX]]
 - [[Hard Link]]
-- [[Unix]]
+- [[Linux Distribution]]

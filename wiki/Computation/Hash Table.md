@@ -17,7 +17,7 @@ Collisions are unavoidable, since there are more possible keys than buckets. **C
 Hash tables promise no ordering. Where ranges or sorted traversal matter, a sorted array with [[Binary Search]] or a B-tree index in a [[Relational Database]] is the right shape.
 
 ## See also
-- [[Cuckoo Hashing]]
+- [[Futex]]
 - [[Self-Balancing Binary Search Tree]]
 - [[Least Recently Used Cache]]
 - [[Prime Number]]

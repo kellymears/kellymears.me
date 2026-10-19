@@ -31,4 +31,4 @@ Bandwidth is also shared. A home connection is split among every device, and a p
 - [[Head-of-Line Blocking]]
 - [[Pigeon Post]]
 - [[Modem]]
-- [[Hotlinking]]
+- [[PCI Express]]

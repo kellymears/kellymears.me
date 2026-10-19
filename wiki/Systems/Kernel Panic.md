@@ -26,4 +26,4 @@ Panics are also a fleet-scale risk. In July 2024, a faulty content update to a w
 
 ## See also
 - [[Syslog]]
-- [[CrowdStrike Outage]]
+- [[Serial Port]]

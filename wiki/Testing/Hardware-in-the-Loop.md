@@ -29,8 +29,8 @@ The simulator has to keep up with the hardware. If the plant model takes longer 
 The weakness is the model. A HIL test shows that the controller handles the world as modeled, and no more. The Ariane 5 inquiry found that the rocket's inertial units had been left out of system-level simulations and represented by models, so their real software never met the new rocket's trajectory; see [[Ariane 5 Flight 501]] and [[Test Double]]. Aircraft makers go a step further with an "iron bird," a full-size ground rig with the real hydraulics, actuators, and flight controls laid out in the airframe's shape, run against a flight simulator.
 
 ## See also
-- [[Emulation]]
-- [[Watchdog Timer]]
+- [[Device Tree]]
+- [[Serial Port]]
 - [[Mars Polar Lander]]
 - [[Toyota Unintended Acceleration]]
 - [[Mariner 1]]

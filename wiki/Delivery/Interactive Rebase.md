@@ -28,5 +28,5 @@ Replaying commits can cause conflicts at each step, which must be resolved one a
 
 ## See also
 - [[Detached HEAD]]
-- [[Pull Request]]
+- [[Text Editor]]
 - [[Jujutsu]]

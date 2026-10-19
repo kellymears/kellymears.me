@@ -17,7 +17,7 @@ Package manifests belong here too: a declarative list of installed software make
 - [[Filesystem Hierarchy Standard]]
 - [[Symbolic Link]]
 - [[Shell]]
-- [[Package Manager]]
+- [[Linux Distribution]]
 - [[Environment Variable]]
 - [[Ricing]]
 - [[Secure Shell]]

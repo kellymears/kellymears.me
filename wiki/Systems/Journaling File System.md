@@ -33,5 +33,5 @@ Neither design protects against everything. A journal guarantees consistency, no
 ## See also
 - [[ZFS]]
 - [[RAID]]
-- [[Hard Disk Drive]]
+- [[Sparse File]]
 - [[Disk Partition]]

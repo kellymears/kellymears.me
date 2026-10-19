@@ -26,7 +26,7 @@ Two authoring points are worth stating.
 
 ## Related
 - [[Zettelkasten]]
-- [[Search Engine Optimization]]
+- [[Text Editor]]
 - [[Blog]]
 - [[Abstract Syntax Tree]]
 - [[YAML]]

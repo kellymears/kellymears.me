@@ -35,3 +35,4 @@ On Intel's designs, only P-cores support [[Simultaneous Multithreading]], so cor
 - [[Context Switch]]
 - [[Instruction Pipelining]]
 - [[Clock Signal]]
+- [[Device Tree]]

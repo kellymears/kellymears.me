@@ -14,7 +14,7 @@ The alternative to real backpressure is an unbounded queue, which feels fine unt
 It's the flip side of [[Rate Limiting]]: rate limiting is a hard external cap a service imposes on callers, while backpressure is a live, continuous signal a receiver sends about its actual current capacity. A [[Circuit Breaker]] is what a caller reaches for once backpressure has been ignored long enough that the dependency looks fully down rather than just slow.
 
 ## See also
-- [[Queueing Theory]]
+- [[Serial Port]]
 - [[Ring Buffer]]
 - [[Streaming Response]]
 - [[Semaphore]]

@@ -29,6 +29,6 @@ Device files are also a security boundary, controlled by ordinary [[File Permiss
 Their power makes mistakes costly. A disk-copying command pointed at the wrong device file overwrites a drive without asking, and a stray redirection into a disk device can destroy a filesystem.
 
 ## See also
-- [[Logical Volume Manager]]
-- [[Universal Serial Bus]]
-- [[Entropy Pool]]
+- [[Device Tree]]
+- [[Disk Image]]
+- [[Serial Port]]

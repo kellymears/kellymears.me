@@ -27,4 +27,4 @@ Broadband kept the name. DSL runs much higher frequencies over the same copper p
 - [[Amateur Radio]]
 - [[Bulletin Board System]]
 - [[Last Mile]]
-- [[Voice over IP]]
+- [[Serial Port]]

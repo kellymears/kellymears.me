@@ -26,4 +26,4 @@ Its simplicity was sometimes criticized as cutting corners, leaving complexity t
 
 ## See also
 - [[Common Gateway Interface]]
-- [[Morris Worm]]
+- [[Linux Distribution]]

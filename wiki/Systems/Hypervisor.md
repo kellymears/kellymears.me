@@ -13,11 +13,11 @@ Hypervisors split into two types. A **type 1** (bare-metal) hypervisor — Xen, 
 The isolation a hypervisor provides is stronger than a container's, because each guest has its own kernel — a kernel bug that would let one container escape to see another container's processes has a much narrower equivalent for VMs — escape requires a bug in the hypervisor or its device emulation (they exist: VENOM, various Xen advisories), a far smaller attack surface than a whole kernel's syscall interface. That stronger isolation costs more: a VM boots its own kernel and duplicates memory a container would have shared with the host, which is why a single physical machine typically runs far more containers than VMs at the same resource budget.
 
 ## See also
-- [[Containerization]]
+- [[PCI Express]]
 - [[Linux Namespaces]]
 - [[Control Groups]]
 - [[Chroot]]
-- [[Kernel]]
+- [[Disk Image]]
 - [[Microcode]]
 - [[Speculative Execution]]
 - [[Translation Lookaside Buffer]]

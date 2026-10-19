@@ -28,6 +28,6 @@ The approach has costs:
 
 ## See also
 - [[Filesystem Snapshot]]
-- [[Package Manager]]
+- [[Disk Image]]
 - [[Filesystem Hierarchy Standard]]
 - [[Logical Volume Manager]]

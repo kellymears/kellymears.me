@@ -30,7 +30,7 @@ A watchdog does not fix anything; it buys time to investigate. Logs, a [[Core Du
 
 ## See also
 - [[Runtime Verification]]
-- [[Hardware-in-the-Loop]]
-- [[Software Aging]]
+- [[Serial Port]]
+- [[Device Tree]]
 - [[Kernel Panic]]
 - [[Over-the-Air Update]]

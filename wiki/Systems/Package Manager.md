@@ -27,7 +27,7 @@ Ecosystems also have their own gotchas that no gate catches: a configuration key
 ## Related
 - [[Left-Pad Incident]]
 - [[Yanked Release]]
-- [[Topological Sort]]
+- [[Linux Distribution]]
 - [[P versus NP Problem]]
 - [[Dependency Hell]]
 - [[Automated Dependency Updates]]

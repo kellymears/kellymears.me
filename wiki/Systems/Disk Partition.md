@@ -23,6 +23,6 @@ Deleting a partition usually erases only its table entry, not its data, which is
 
 ## See also
 - [[Logical Volume Manager]]
-- [[Journaling File System]]
+- [[Disk Image]]
 - [[Filesystem Hierarchy Standard]]
 - [[Hard Disk Drive]]

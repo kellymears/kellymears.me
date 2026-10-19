@@ -30,3 +30,4 @@ ASLR is therefore one layer among several. **Stack canaries** place a random val
 - [[Penetration Testing]]
 - [[Linker]]
 - [[Von Neumann Architecture]]
+- [[Position-Independent Code]]

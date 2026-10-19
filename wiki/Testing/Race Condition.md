@@ -15,7 +15,7 @@ The general remedies are to remove the shared resource (separate working copies,
 
 ## See also
 - [[Time-of-Check to Time-of-Use]]
-- [[Multi-Agent Orchestration]]
+- [[Futex]]
 - [[Mars Pathfinder Priority Inversion]]
 - [[Semaphore]]
 - [[Memory Model]]
