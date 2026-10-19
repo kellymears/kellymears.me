@@ -34,3 +34,4 @@ Phantom sensation sits among other cases where pain is felt somewhere it doesn't
 - [[Paresthesia]]
 - [[Rubber Hand Illusion]]
 - [[Hemispatial Neglect]]
+- [[Stroke]]

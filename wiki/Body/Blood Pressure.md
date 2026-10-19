@@ -29,6 +29,6 @@ Lifestyle changes have real effects. Regular aerobic exercise lowers systolic pr
 - [[Sleep Apnea]]
 - [[Brain Freeze]]
 - [[Lymphatic System]]
-- [[Cholesterol]]
-- [[Atherosclerosis]]
+- [[Kidney]]
+- [[Stroke]]
 - [[Valsalva Maneuver]]

@@ -14,11 +14,11 @@ Applying the same ladder unmodified to chronic non-cancer pain has drawn substan
 The ladder's underlying premise — that pain severity should be matched, not exceeded, by treatment intensity — depends entirely on [[Nociception]] and self-report being read accurately, since that severity assessment is the input the whole ladder runs on.
 
 ## See also
-- [[Nociception]]
+- [[Liver]]
 - [[Physical Dependence]]
-- [[Regional Nerve Block]]
+- [[Kidney]]
 - [[Referred Pain]]
-- [[Inflammation]]
+- [[Blood Clotting]]
 - [[Central Sensitization]]
 - [[Fever]]
 - [[Low Back Pain]]

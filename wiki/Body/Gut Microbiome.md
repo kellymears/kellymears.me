@@ -30,7 +30,7 @@ The **gut-brain axis** is the most hyped area. The gut and brain communicate thr
 Gut signals also contribute to the body sense of [[Interoception]], which may explain why digestion and mood so often travel together.
 
 ## See also
-- [[Hangover]]
+- [[Liver]]
 - [[Lymphatic System]]
 - [[Antibiotic Resistance]]
 - [[Umami]]

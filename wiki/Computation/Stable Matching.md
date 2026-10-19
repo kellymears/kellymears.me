@@ -38,3 +38,4 @@ Stable matching sits beside other assignment problems in computing. Allocating r
 - [[Linear Programming]]
 - [[Two-Sided Market]]
 - [[Maximum Flow]]
+- [[Kidney]]

@@ -29,5 +29,5 @@ ITBS belongs to a family of overuse injuries that appear when training rises fas
 Pain on the outside of the knee isn't always ITBS. Meniscus tears, ligament injuries, and problems with tendons around the knee can produce similar symptoms, and pain can be felt away from its source; see [[Tendinopathy]] and [[Referred Pain]].
 
 ## See also
-- [[Patellofemoral Pain Syndrome]]
-- [[Exercise Economy]]
+- [[Anterior Cruciate Ligament Injury]]
+- [[Gait]]

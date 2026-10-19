@@ -28,6 +28,6 @@ Denaturation is mostly irreversible in cooking. You can't unboil an egg, though 
 - [[Colloid]]
 - [[Hydrogen Bond]]
 - [[AlphaFold]]
-- [[pH]]
+- [[Collagen]]
 - [[Gluten]]
 - [[Polymerization]]

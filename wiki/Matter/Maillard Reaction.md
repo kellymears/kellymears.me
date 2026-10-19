@@ -22,10 +22,10 @@ The practical rules come from the chemistry:
 It differs from [[Caramelization]], which involves sugars alone and needs higher temperatures. "Caramelized onions" are mostly Maillard browning, since onions contain amino acids as well as sugar. The reaction also has a downside. In starchy foods cooked very hot and dry, such as fries, crisps, and dark toast, the amino acid asparagine reacts with sugars to form *acrylamide*, a probable carcinogen at high doses, which is a reason to aim for golden rather than dark brown. The same chemistry runs slowly inside the body as *glycation*, in which blood sugar binds to proteins. A common diabetes blood test measures glycated hemoglobin for exactly this reason.
 
 ## See also
-- [[Caramelization]]
+- [[Collagen]]
 - [[Protein Denaturation]]
 - [[Smoke Point]]
-- [[Retronasal Olfaction]]
+- [[Diabetes]]
 - [[Umami]]
 - [[Xenobiotic Metabolism]]
 - [[Boiling Point]]

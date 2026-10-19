@@ -16,7 +16,7 @@ The vestibular system drives the **vestibulo-ocular reflex (VOR)**: eye movement
 ## See also
 - [[Eustachian Tube]]
 - [[Inertial Measurement Unit]]
-- [[Free Fall]]
+- [[Gait]]
 - [[Motion Sickness]]
 - [[Vertigo]]
 - [[Gyroscope]]

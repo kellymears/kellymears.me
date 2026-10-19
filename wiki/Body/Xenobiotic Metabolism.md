@@ -20,9 +20,9 @@ Everything here is dose and clearance: toxicity depends on amount relative to bo
 - [[Gut Microbiome]]
 - [[Rhabdomyolysis]]
 - [[Hangover]]
-- [[Maillard Reaction]]
+- [[Liver]]
 
 ## Related
-- [[Nociception]]
+- [[Kidney]]
 - [[Moist Wound Healing]]
 - [[Cholesterol]]

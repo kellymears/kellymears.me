@@ -31,6 +31,6 @@ Prevention for athletes:
 Repeated muscle damage at manageable doses is how muscles adapt, through repair that makes them more resistant to the same stress; see [[Muscle Hypertrophy]] and [[Strength Training]].
 
 ## See also
-- [[Muscle Fatigue]]
+- [[Influenza]]
 - [[Creatine]]
-- [[Bruise]]
+- [[Kidney]]

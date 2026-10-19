@@ -37,3 +37,4 @@ The brain's ability to recover, described under [[Neuroplasticity]], is substant
 - [[Bruise]]
 - [[Creatine]]
 - [[Syncope]]
+- [[Stroke]]

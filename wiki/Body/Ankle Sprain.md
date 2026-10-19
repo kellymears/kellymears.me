@@ -28,7 +28,7 @@ Repeated sprains and instability can damage the joint's cartilage over years, co
 A sprain that seems mild can still deserve attention. Inability to bear weight, numbness, or a deformed ankle are reasons for urgent assessment; see [[Fracture Fixation]].
 
 ## See also
-- [[Vestibular System]]
-- [[Training Load]]
+- [[Collagen]]
+- [[Anterior Cruciate Ligament Injury]]
 - [[Patellofemoral Pain Syndrome]]
 - [[Hypermobility]]

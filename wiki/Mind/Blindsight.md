@@ -24,3 +24,4 @@ Other conditions show the same kind of dissociation between processing and aware
 - [[Synesthesia]]
 - [[Hemispatial Neglect]]
 - [[Consciousness]]
+- [[Stroke]]

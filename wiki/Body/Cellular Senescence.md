@@ -25,3 +25,4 @@ The idea of accumulated damage that degrades a system over time has close parall
 ## See also
 - [[Hormesis]]
 - [[Bone Remodeling]]
+- [[Collagen]]

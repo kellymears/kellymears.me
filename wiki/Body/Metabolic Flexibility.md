@@ -24,7 +24,7 @@ A more modest strategy survives: periodically training with low glycogen, called
 Flexibility also matters outside sport. Exercise, adequate sleep, and avoiding sustained overeating preserve it, and its loss is one of the early signs of metabolic disease, often years before blood sugar rises. Both [[Basal Metabolic Rate]] and [[Appetite Regulation]] interact with which fuels are available.
 
 ## See also
-- [[Energy Systems]]
-- [[Lactate Threshold]]
+- [[Diabetes]]
+- [[Liver]]
 - [[Cholesterol]]
 - [[Intermittent Fasting]]

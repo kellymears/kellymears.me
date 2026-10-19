@@ -32,6 +32,6 @@ Several everyday factors shift the system:
 The [[Gut Microbiome]] may also influence appetite through metabolites it produces, though human evidence is still early.
 
 ## See also
-- [[Intermittent Fasting]]
-- [[Umami]]
-- [[Lactose Intolerance]]
+- [[Menstrual Cycle]]
+- [[Diabetes]]
+- [[Liver]]

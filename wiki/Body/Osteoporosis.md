@@ -29,8 +29,8 @@ Drugs can slow or reverse the loss. Bisphosphonates slow the cells that break bo
 Hip fractures are the gravest outcome. A large share of older patients die within a year, and many never regain independent living, which makes surgery within a day or two a priority; see [[Fracture Fixation]].
 
 ## See also
-- [[Lactose Intolerance]]
+- [[Menstrual Cycle]]
 - [[Fracture Nonunion]]
-- [[Shin Splints]]
+- [[Collagen]]
 - [[Plyometrics]]
 - [[Cellular Senescence]]

@@ -29,6 +29,6 @@ Prevention is drinking less, slowly, with food, and alternating with water. Expe
 Alcohol also disturbs the body's daily rhythm and appetite signals; see [[Circadian Rhythm]] and [[Appetite Regulation]].
 
 ## See also
-- [[Migraine]]
-- [[Insomnia]]
+- [[Kidney]]
+- [[Liver]]
 - [[Brain Freeze]]

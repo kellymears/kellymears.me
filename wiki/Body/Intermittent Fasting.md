@@ -30,5 +30,5 @@ Concerns include:
 Intermittent fasting suits some people because it gives them a clear rule to follow, and diets seem to succeed mostly when people can stick with them; see [[Habit Formation]]. The body's energy use adapts during weight loss, slowing results; see [[Basal Metabolic Rate]].
 
 ## See also
-- [[Body Composition]]
-- [[Cholesterol]]
+- [[Liver]]
+- [[Diabetes]]

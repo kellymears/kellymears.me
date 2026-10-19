@@ -31,3 +31,4 @@ The condition shows that awareness of space depends on attention, not just intac
 - [[Prosopagnosia]]
 - [[Mental Rotation]]
 - [[Consciousness]]
+- [[Stroke]]

@@ -28,7 +28,7 @@ Prevention follows from the mechanism: increase load gradually, eat enough, incl
 Cycling and swimming, being low-impact, do little to load bone, and endurance cyclists can have surprisingly low bone density. Adding impact or resistance training helps maintain it; see [[Sarcopenia]] for the parallel story in muscle.
 
 ## See also
-- [[Plyometrics]]
+- [[Menstrual Cycle]]
 - [[Osteoporosis]]
 - [[Periodization]]
-- [[Osteoarthritis]]
+- [[Gait]]

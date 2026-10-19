@@ -27,7 +27,7 @@ The commercial version oversells. Brain-training games mostly improve performanc
 
 ## See also
 - [[Dyslexia]]
-- [[Ablation Study]]
+- [[Stroke]]
 - [[Vertigo]]
 - [[Cognitive Map]]
 - [[Neural Network Pruning]]

@@ -27,5 +27,5 @@ Osteoarthritis differs from osteoporosis, which thins bone itself, and from rheu
 
 ## See also
 - [[Patellofemoral Pain Syndrome]]
-- [[Hypermobility]]
+- [[Anterior Cruciate Ligament Injury]]
 - [[Stress Fracture]]

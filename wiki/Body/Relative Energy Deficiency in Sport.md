@@ -27,7 +27,7 @@ Diagnosis is difficult because no single test exists. Warning signs include stal
 The treatment is mostly to eat more, especially around training, and often to train somewhat less until hormones recover, with professional help when disordered eating is involved. Fueling long sessions with carbohydrate, eating enough protein, and adding [[Strength Training]] for bone are the standard preventive habits. The body treats energy as a budget, and a sustained deficit is paid for by its quieter systems.
 
 ## See also
-- [[Endocrine System]]
+- [[Menstrual Cycle]]
 - [[Osteoporosis]]
 - [[Intermittent Fasting]]
 - [[Stress Fracture]]

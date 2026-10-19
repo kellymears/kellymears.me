@@ -31,7 +31,7 @@ Like other adaptive systems, immunity benefits from manageable challenge, a para
 
 ## See also
 - [[Antifragility]]
-- [[Atherosclerosis]]
+- [[Influenza]]
 - [[Lymphatic System]]
 - [[Cellular Senescence]]
 - [[Itch]]

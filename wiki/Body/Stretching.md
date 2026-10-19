@@ -37,4 +37,4 @@ Stretching is pleasant for many people and a reasonable way to unwind, and it do
 - [[Restless Legs Syndrome]]
 - [[Iliotibial Band Syndrome]]
 - [[Warm-Up]]
-- [[Fascia]]
+- [[Collagen]]

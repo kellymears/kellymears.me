@@ -27,3 +27,4 @@ Faces blend sculpted expressions rather than bones, under the same principles; s
 ## See also
 - [[Keyframe Animation]]
 - [[Game Loop]]
+- [[Gait]]

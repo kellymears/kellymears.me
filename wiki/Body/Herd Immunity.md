@@ -34,3 +34,4 @@ Fewer infections also mean fewer antibiotics prescribed; see [[Antibiotic Resist
 - [[Computer Virus]]
 - [[Morris Worm]]
 - [[Sneeze]]
+- [[Influenza]]

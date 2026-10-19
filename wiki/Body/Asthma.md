@@ -35,7 +35,7 @@ In sport, asthma medicines raise questions of fairness. Some can only be used wi
 Breathing retraining may help some people feel more in control of symptoms, though it doesn't replace medication; see [[Diaphragmatic Breathing]]. The airways' resting tone is set partly by the parasympathetic system, which can tighten them; see [[Autonomic Nervous System]].
 
 ## See also
-- [[VO2 Max]]
+- [[Influenza]]
 - [[Altitude Training]]
 - [[Pulse Oximetry]]
 - [[Sneeze]]

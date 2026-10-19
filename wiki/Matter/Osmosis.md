@@ -29,7 +29,7 @@ Sweating is osmosis's counterpart in [[Thermoregulation]], losing salt and water
 - [[Diffusion]]
 - [[Freezing Point Depression]]
 - [[Solubility]]
-- [[Glycogen]]
+- [[Kidney]]
 - [[Surface Tension]]
 - [[Heat Acclimation]]
 - [[Lactose Intolerance]]

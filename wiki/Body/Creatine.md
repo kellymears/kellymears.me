@@ -29,4 +29,4 @@ Creatine doesn't replace training. It modestly increases how much work a muscle 
 ## See also
 - [[Muscle Fatigue]]
 - [[Muscle Protein Synthesis]]
-- [[Excess Post-Exercise Oxygen Consumption]]
+- [[Kidney]]

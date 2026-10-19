@@ -32,8 +32,8 @@ Treatment and prevention:
 Iron matters especially before [[Altitude Training]], since the body needs ample iron to build the extra red cells that altitude stimulates; without it, the camp produces fatigue rather than adaptation. Unexplained fatigue in an athlete who is otherwise training sensibly, with no sign of overload in [[Training Load]], is worth a blood test.
 
 ## See also
-- [[Bruise]]
+- [[Liver]]
 - [[Restless Legs Syndrome]]
 - [[Blood Doping]]
 - [[Pulse Oximetry]]
-- [[Mammalian Dive Reflex]]
+- [[Menstrual Cycle]]

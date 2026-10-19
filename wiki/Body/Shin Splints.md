@@ -25,4 +25,4 @@ Prevention is the same idea in reverse: increase running volume gradually, mix h
 
 ## See also
 - [[Iliotibial Band Syndrome]]
-- [[Patellofemoral Pain Syndrome]]
+- [[Gait]]

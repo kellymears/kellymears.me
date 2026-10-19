@@ -29,5 +29,5 @@ Tendinopathy overlaps with [[Repetitive Strain Injury]], the broader category of
 ## See also
 - [[Iliotibial Band Syndrome]]
 - [[Plantar Fasciitis]]
-- [[Patellofemoral Pain Syndrome]]
-- [[Plyometrics]]
+- [[Anterior Cruciate Ligament Injury]]
+- [[Collagen]]

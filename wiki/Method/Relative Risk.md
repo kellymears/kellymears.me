@@ -28,7 +28,7 @@ Good practice is to report absolute risks in each group first, and the relative 
 The general principle is that a ratio needs its denominator. A size of effect is only meaningful against what it is a change from; see [[Effect Size]] and [[Expected Value]].
 
 ## See also
-- [[Causal Inference]]
+- [[Blood Clotting]]
 - [[Prosecutor's Fallacy]]
 - [[Logistic Regression]]
 - [[Atherosclerosis]]

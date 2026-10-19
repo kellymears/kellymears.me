@@ -22,4 +22,4 @@ Jumping also loads bone in a way that encourages it to grow stronger, which is w
 
 ## See also
 - [[Reaction Time]]
-- [[Sarcopenia]]
+- [[Anterior Cruciate Ligament Injury]]

@@ -36,6 +36,6 @@ Periodization has costs if applied rigidly. Life stress, illness, and poor sleep
 The broader idea, alternating periods of focused stress with periods of recovery, applies well beyond sport; see [[Spaced Repetition]] for a learning counterpart.
 
 ## See also
-- [[Critical Power]]
+- [[Menstrual Cycle]]
 - [[Patellofemoral Pain Syndrome]]
 - [[Plyometrics]]

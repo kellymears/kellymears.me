@@ -36,8 +36,8 @@ Treatment is usually conservative, and most cases resolve within a year:
 Pain that persists for a long time can become partly a matter of a sensitized nervous system rather than tissue alone; see [[Central Sensitization]]. Heel pain that is worse with impact, more localized to the bone, or worsening rather than improving after the first steps may be a stress fracture instead; see [[Stress Fracture]].
 
 ## See also
-- [[Tendon and Ligament]]
-- [[Scar Tissue]]
+- [[Gait]]
+- [[Collagen]]
 - [[Shin Splints]]
 - [[Iliotibial Band Syndrome]]
 - [[Blister]]

@@ -25,7 +25,7 @@ Animation data comes from keyframes set by animators, from motion capture of per
 Animation also has gameplay consequences. Attack and dodge timing in action games is authored as animation frames, the subject of [[Frame Data]], and collision volumes attached to bones become the [[Hitbox and Hurtbox]] that decide hits. Long wind-ups improve readability but can feel sluggish, a central tension in [[Game Feel]]. Skinning is usually computed on the GPU in a vertex [[Shader]], and distant characters use simplified skeletons and meshes through [[Level of Detail]]. Physically, a character's motion should respect its [[Center of Mass]], and animations that don't feel weightless.
 
 ## See also
-- [[Animation Blending]]
+- [[Gait]]
 - [[Morph Target]]
 - [[Soft Body Dynamics]]
 - [[Onion Skinning]]

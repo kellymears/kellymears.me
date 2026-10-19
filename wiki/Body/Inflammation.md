@@ -13,8 +13,8 @@ Mechanistically, injured or infected tissue releases signaling molecules — his
 
 ## See also
 - [[Rhabdomyolysis]]
-- [[Scar Tissue]]
-- [[Saddle Sore]]
+- [[Blood Clotting]]
+- [[Influenza]]
 - [[Capsaicin]]
 - [[Compartment Syndrome]]
 - [[Allergy]]

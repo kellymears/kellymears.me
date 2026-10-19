@@ -23,3 +23,4 @@ Saddle sores follow the same pattern as other overuse injuries: tissue fails whe
 ## See also
 - [[Cadence]]
 - [[Low Back Pain]]
+- [[Blood Clotting]]

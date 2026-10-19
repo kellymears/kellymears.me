@@ -22,5 +22,7 @@ Risk is best understood in absolute terms. A treatment that cuts relative risk b
 
 ## See also
 - [[Watershed Blood Supply]]
-- [[Homeostasis]]
+- [[Diabetes]]
 - [[Cholesterol]]
+- [[Stroke]]
+- [[Blood Clotting]]

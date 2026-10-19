@@ -32,7 +32,8 @@ Prevention for athletes:
 Cooling strategies before and during exercise overlap with cold-water practices; see [[Cold Exposure]].
 
 ## See also
-- [[Homeostasis]]
-- [[Sunburn]]
+- [[Stroke]]
+- [[Blood Clotting]]
 - [[Syncope]]
 - [[Sweat]]
+- [[Kidney]]

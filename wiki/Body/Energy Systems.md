@@ -27,5 +27,5 @@ The systems are also inefficient in a useful way: only about a quarter of the en
 ## See also
 - [[Bioluminescence]]
 - [[Muscle Fatigue]]
-- [[Creatine]]
+- [[Liver]]
 - [[Metabolic Flexibility]]

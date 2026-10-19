@@ -30,7 +30,7 @@ On a bike, cadence also interacts with position and [[Aerodynamic Drag]], since 
 ## See also
 - [[Hall Effect]]
 - [[Saddle Sore]]
-- [[Patellofemoral Pain Syndrome]]
+- [[Gait]]
 - [[Side Stitch]]
 - [[Gear Ratio]]
 - [[Bicycle Stability]]

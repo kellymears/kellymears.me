@@ -29,5 +29,5 @@ Shoes are the newest factor. Carbon-plated shoes with resilient foams, introduce
 ## See also
 - [[Critical Power]]
 - [[Iliotibial Band Syndrome]]
-- [[Shin Splints]]
+- [[Gait]]
 - [[Plyometrics]]

@@ -29,8 +29,8 @@ Sunlight has effects beyond vitamin D. Bright daylight sets the [[Circadian Rhyt
 
 ## See also
 - [[Retinoid]]
-- [[Osteoporosis]]
+- [[Liver]]
 - [[Iron Deficiency]]
 - [[Shin Splints]]
-- [[Stress Fracture]]
-- [[Ozone Layer]]
+- [[Influenza]]
+- [[Kidney]]

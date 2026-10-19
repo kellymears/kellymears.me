@@ -18,13 +18,13 @@ Practical technique. **Irrigate** with clean water or saline at adequate volume 
 - [[Saddle Sore]]
 - [[Frostbite]]
 - [[Blister]]
-- [[Bone Remodeling]]
+- [[Diabetes]]
 - [[Bruise]]
 - [[Fracture Fixation]]
 - [[Retinoid]]
 
 ## Related
-- [[Ground Truth]]
+- [[Blood Clotting]]
 - [[Xenobiotic Metabolism]]
-- [[Physical Dependence]]
+- [[Collagen]]
 - [[Antibiotic Resistance]]

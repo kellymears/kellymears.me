@@ -19,5 +19,5 @@ Common triggers include changes in sleep, skipped meals, stress and the letdown 
 Migraine brains seem generally more sensitive to sensory input, even between attacks; see [[Sensory Overload]]. Some people experience vestibular migraine, with dizziness rather than headache; see [[Vertigo]]. People with migraine are also more prone to motion sickness and to the sharp pain of eating something cold; see [[Motion Sickness]] and [[Brain Freeze]].
 
 ## See also
-- [[Digital Eye Strain]]
-- [[Referred Pain]]
+- [[Menstrual Cycle]]
+- [[Stroke]]

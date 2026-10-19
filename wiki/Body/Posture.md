@@ -26,6 +26,6 @@ Posture also affects how people are perceived and, some claimed, how they feel; 
 
 ## See also
 - [[Saddle Sore]]
-- [[Hypermobility]]
+- [[Gait]]
 - [[Paresthesia]]
 - [[Side Stitch]]

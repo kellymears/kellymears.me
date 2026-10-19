@@ -26,8 +26,8 @@ Diagnosis uses an overnight sleep study, either in a lab or with a simplified ho
 Apnea is often discovered by a bed partner, and is easily mistaken for [[Insomnia]], depression, or simple tiredness. Unexplained fatigue, morning headaches, and the urge to nap are reasons to ask; see [[Napping]].
 
 ## See also
-- [[Diaphragmatic Breathing]]
-- [[Heart Rate Variability]]
+- [[Diabetes]]
+- [[Stroke]]
 - [[Hiccup]]
 - [[Microsleep]]
 - [[Pulse Oximetry]]

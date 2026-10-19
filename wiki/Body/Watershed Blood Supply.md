@@ -23,7 +23,7 @@ This anatomy drives clinical caution. Scaphoid fractures are notoriously invisib
 
 ## Related
 - [[Nociception]]
-- [[Ground Truth]]
+- [[Stroke]]
 - [[Plausible Mechanism]]
 - [[Regional Nerve Block]]
 - [[Physical Dependence]]

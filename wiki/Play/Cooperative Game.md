@@ -29,5 +29,5 @@ Co-op games are a common choice for mixed groups because no one has to beat a fr
 
 ## See also
 - [[Party Game]]
-- [[Asymmetric Multiplayer]]
+- [[Influenza]]
 - [[Griefing]]

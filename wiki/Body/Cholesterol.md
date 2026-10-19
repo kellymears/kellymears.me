@@ -24,3 +24,5 @@ Dietary cholesterol, as in eggs, affects blood cholesterol less than once though
 ## See also
 - [[Gut Microbiome]]
 - [[Intermittent Fasting]]
+- [[Liver]]
+- [[Stroke]]

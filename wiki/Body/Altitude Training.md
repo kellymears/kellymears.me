@@ -28,6 +28,6 @@ Altitude training is a textbook case of [[Hormesis]] and [[Supercompensation]]: 
 - [[Pulse Oximetry]]
 - [[Blood Doping]]
 - [[Asthma]]
-- [[Decompression Sickness]]
+- [[Kidney]]
 - [[Eustachian Tube]]
 - [[Iron Deficiency]]

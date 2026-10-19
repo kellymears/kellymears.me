@@ -35,6 +35,6 @@ Muscle damage and soreness after unfamiliar exercise aren't required for growth,
 ## See also
 - [[Lactose Intolerance]]
 - [[Excess Post-Exercise Oxygen Consumption]]
-- [[Basal Metabolic Rate]]
+- [[Collagen]]
 - [[Intermittent Fasting]]
 - [[AlphaFold]]

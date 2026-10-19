@@ -30,6 +30,6 @@ Critics argue that the label gets applied to events that were foreseeable and si
 ## See also
 - [[Narrative Fallacy]]
 - [[Knightian Uncertainty]]
-- [[Leading Indicator]]
+- [[Influenza]]
 - [[Ambiguity Aversion]]
 - [[Sensitivity Analysis]]

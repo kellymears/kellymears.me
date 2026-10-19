@@ -29,3 +29,5 @@ Doping has the structure of a social dilemma: each athlete gains by doping if ot
 - [[Critical Power]]
 - [[Central Governor Theory]]
 - [[Asthma]]
+- [[Kidney]]
+- [[Blood Clotting]]

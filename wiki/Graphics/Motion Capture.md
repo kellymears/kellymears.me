@@ -27,5 +27,5 @@ Outside entertainment, motion capture analyzes athletes' technique, patients' ga
 
 ## See also
 - [[Catmull-Rom Spline]]
-- [[Animation Blending]]
+- [[Gait]]
 - [[Imitation Learning]]

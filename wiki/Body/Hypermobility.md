@@ -21,4 +21,6 @@ Hypermobile people often have reduced proprioception, a weaker sense of where th
 
 ## See also
 - [[Fascia]]
-- [[Interoception]]
+- [[Menstrual Cycle]]
+- [[Anterior Cruciate Ligament Injury]]
+- [[Collagen]]

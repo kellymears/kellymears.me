@@ -24,3 +24,4 @@ Not all sweating is about temperature. Emotional sweating, controlled by the sym
 ## See also
 - [[Goosebumps]]
 - [[Homeostasis]]
+- [[Kidney]]

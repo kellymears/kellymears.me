@@ -30,5 +30,5 @@ A familiar saying holds that muscle weighs more than fat. A kilogram of each wei
 In endurance sports, a low power-to-weight ratio can tempt athletes to chase leanness past what's healthy. Treating a body fat number as a target invites [[Goodhart's Law]]: the number improves while health and performance decline, as in [[Relative Energy Deficiency in Sport]]. Composition changes slowly, and [[Appetite Regulation]] defends against rapid fat loss.
 
 ## See also
-- [[Grip Strength]]
-- [[Osteoporosis]]
+- [[Menstrual Cycle]]
+- [[Diabetes]]

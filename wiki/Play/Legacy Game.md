@@ -28,3 +28,4 @@ Legacy games resemble long-running tabletop role-playing campaigns, which have a
 ## See also
 - [[Eurogame]]
 - [[Multiple Endings]]
+- [[Influenza]]

@@ -30,6 +30,6 @@ Signs of infection include spreading redness, warmth, pus, and red streaks runni
 
 ## See also
 - [[Bruise]]
-- [[Scar Tissue]]
+- [[Diabetes]]
 - [[Sweat]]
-- [[Saddle Sore]]
+- [[Collagen]]

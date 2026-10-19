@@ -33,4 +33,4 @@ Muscle matters beyond appearance. It is the body's largest site of glucose dispo
 - [[Muscle Protein Synthesis]]
 - [[Creatine]]
 - [[Body Composition]]
-- [[Rhabdomyolysis]]
+- [[Anterior Cruciate Ligament Injury]]

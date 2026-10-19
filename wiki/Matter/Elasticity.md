@@ -31,7 +31,7 @@ The body exploits elasticity constantly. The Achilles tendon stretches on landin
 - [[Non-Newtonian Fluid]]
 - [[Work Hardening]]
 - [[Concrete]]
-- [[Allotrope]]
+- [[Gait]]
 - [[Hysteresis]]
 - [[Timbre]]
 - [[Presbyopia]]

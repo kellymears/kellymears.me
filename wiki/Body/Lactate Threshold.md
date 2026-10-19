@@ -28,6 +28,6 @@ Measuring it properly means drawing blood from a fingertip or earlobe at progres
 - [[Interval Training]]
 - [[Muscle Fatigue]]
 - [[Excess Post-Exercise Oxygen Consumption]]
-- [[Fermentation]]
+- [[Liver]]
 - [[Central Governor Theory]]
 - [[Muscle Fiber Types]]

@@ -38,3 +38,5 @@ For ordinary bruises, rest, cold packs early on, and elevation can limit swellin
 - [[Blister]]
 - [[Scar Tissue]]
 - [[Sarcopenia]]
+- [[Liver]]
+- [[Blood Clotting]]

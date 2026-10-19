@@ -29,9 +29,9 @@ Dieting provokes a similar defense. Contestants from a televised weight-loss com
 Temperature also costs energy. Cold exposure raises metabolic rate through shivering and brown fat, part of [[Thermoregulation]], and a [[Fever]] raises it by about 10 percent per degree Celsius. Athletes who chronically undereat relative to their training suppress BMR and hormones, which shows up as poor recovery and stress fractures, a failure of [[Supercompensation]].
 
 ## See also
-- [[Cholesterol]]
-- [[Appetite Regulation]]
-- [[Intermittent Fasting]]
-- [[Muscle Hypertrophy]]
+- [[Influenza]]
+- [[Liver]]
+- [[Menstrual Cycle]]
+- [[Diabetes]]
 - [[Excess Post-Exercise Oxygen Consumption]]
 - [[Body Composition]]

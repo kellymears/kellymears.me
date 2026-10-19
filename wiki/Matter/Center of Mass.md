@@ -29,3 +29,4 @@ A tumbling body, no matter how it's thrown, always rotates about its own center 
 - [[Neutron Star]]
 - [[Sinking of the Vasa]]
 - [[Free Fall]]
+- [[Gait]]

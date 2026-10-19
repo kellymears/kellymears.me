@@ -22,4 +22,4 @@ The sneeze belongs to a group of reflexes that feel compulsive and satisfying, a
 
 ## See also
 - [[Asthma]]
-- [[Immune System]]
+- [[Influenza]]

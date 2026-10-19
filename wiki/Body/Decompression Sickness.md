@@ -23,3 +23,5 @@ Divers face other pressure-related problems. Air spaces in the ears and sinuses 
 ## See also
 - [[Pulse Oximetry]]
 - [[Surface Tension]]
+- [[Stroke]]
+- [[Blood Clotting]]

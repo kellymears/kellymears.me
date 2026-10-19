@@ -28,3 +28,4 @@ Nerve problems can weaken grip without any loss of muscle. Compression of the ne
 ## See also
 - [[Muscle Fiber Types]]
 - [[Relative Risk]]
+- [[Gait]]
