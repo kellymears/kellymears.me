@@ -25,6 +25,6 @@ Pruning relates to other ideas about sparsity. [[Regularization]] can push weigh
 
 ## See also
 - [[Ablation Study]]
-- [[Superposition]]
+- [[Wake Word]]
 - [[Batch Normalization]]
 - [[Tensor Processing Unit]]

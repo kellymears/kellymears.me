@@ -33,5 +33,5 @@ The ideas survive in business rules engines, tax software, and medical decision 
 
 ## See also
 - [[Symbol Grounding Problem]]
-- [[Artificial General Intelligence]]
+- [[Natural Language Processing]]
 - [[Logic Programming]]

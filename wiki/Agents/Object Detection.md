@@ -25,7 +25,7 @@ Detectors fail in instructive ways. Stickers placed on a stop sign have caused m
 
 ## See also
 - [[Optical Character Recognition]]
-- [[Optical Flow]]
+- [[Vision Transformer]]
 - [[Prefix Sum]]
 - [[Data Labeling]]
-- [[Canny Edge Detector]]
+- [[Computer Vision]]

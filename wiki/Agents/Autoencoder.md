@@ -31,6 +31,6 @@ The encoder-decoder shape recurs throughout machine learning. The original trans
 
 ## See also
 - [[Anomaly Detection]]
-- [[Multimodal Model]]
+- [[Vision Transformer]]
 - [[Hopfield Network]]
 - [[Deepfake]]

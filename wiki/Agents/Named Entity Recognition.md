@@ -26,5 +26,5 @@ Recognizing a name is often only the first step. **Entity linking** decides whic
 Applications include search engines that understand queries about specific people or places, news monitoring, résumé parsing, and redacting personal names before documents are shared. Redaction raises the stakes: a missed name is a privacy leak, so systems are tuned for recall over precision; see [[Precision and Recall]].
 
 ## See also
-- [[Machine Translation]]
+- [[Natural Language Processing]]
 - [[Data Labeling]]

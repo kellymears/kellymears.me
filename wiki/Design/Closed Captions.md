@@ -27,7 +27,7 @@ Captions show the curb cut effect clearly. Many hearing viewers use them in nois
 For still images, the parallel is alt text; for people who are blind, the parallel to captions is audio description, a narrated track describing on-screen action; see [[Alt Text]] and [[Screen Reader]].
 
 ## See also
-- [[Reduced Motion]]
+- [[Speaker Diarization]]
 - [[Typeface]]
 - [[NTSC]]
 - [[Radio Broadcasting]]

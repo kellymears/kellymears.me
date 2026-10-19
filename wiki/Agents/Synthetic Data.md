@@ -30,5 +30,5 @@ Synthetic data is also promoted for privacy, replacing real records with statist
 
 ## See also
 - [[Active Learning]]
-- [[Federated Learning]]
-- [[Instruction Tuning]]
+- [[Membership Inference Attack]]
+- [[Wake Word]]

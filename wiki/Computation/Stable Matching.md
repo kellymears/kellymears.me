@@ -39,3 +39,4 @@ Stable matching sits beside other assignment problems in computing. Allocating r
 - [[Two-Sided Market]]
 - [[Maximum Flow]]
 - [[Kidney]]
+- [[Shapley Values]]

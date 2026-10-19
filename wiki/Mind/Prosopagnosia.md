@@ -31,7 +31,7 @@ At the other end of the range are **super-recognizers**, perhaps 1 to 2 percent 
 ## See also
 - [[Theory of Mind]]
 - [[Tip of the Tongue]]
-- [[Predictive Processing]]
+- [[Computer Vision]]
 - [[Sensory Processing]]
 - [[Blindsight]]
 - [[Hemispatial Neglect]]

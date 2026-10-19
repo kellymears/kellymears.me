@@ -25,7 +25,7 @@ Speech act theory has practical uses. Law depends on performatives: contracts, w
 Computer science borrowed the theory for agents that communicate. Agent communication languages of the 1990s labeled messages with performatives such as "inform," "request," and "propose." Language models face a new version of the question, since their text can now act: a model calling a tool sends an email or runs a command rather than describing one; see [[Tool Use]] and [[Large Language Model]].
 
 ## See also
-- [[Linguistic Relativity]]
+- [[Speaker Diarization]]
 - [[Diegesis]]
 - [[Deontology]]
 - [[Death of the Author]]

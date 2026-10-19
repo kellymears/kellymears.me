@@ -24,7 +24,7 @@ Defenses work in layers. Training with [[Reinforcement Learning from Human Feedb
 Jailbreaks also show the limits of trained-in behavior. A model that can be talked out of a refusal can be talked into other things, and the same pliability shows up as [[Sycophancy]]. For an agent, the safer design limits what any output can do through an [[Agent Sandbox]] and [[Human in the Loop]] approval, so a successful jailbreak is contained.
 
 ## See also
-- [[Adversarial Example]]
+- [[Deceptive Alignment]]
 - [[Corrigibility]]
 - [[Activation Steering]]
 - [[Scalable Oversight]]

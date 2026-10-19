@@ -24,7 +24,7 @@ Phones compensate with computation, capturing a burst of frames and aligning and
 
 ## See also
 - [[Optical Flow]]
-- [[Light Field]]
+- [[Computer Vision]]
 - [[Bilateral Filter]]
 - [[Canny Edge Detector]]
 - [[Lens Flare]]

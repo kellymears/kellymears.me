@@ -25,3 +25,4 @@ Edge detection also appears in other contexts: video encoders, image upscalers a
 ## See also
 - [[Unsharp Masking]]
 - [[Histogram Equalization]]
+- [[Computer Vision]]

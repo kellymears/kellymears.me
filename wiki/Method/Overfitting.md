@@ -27,6 +27,6 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 - [[Hyperparameter]]
 - [[Batch Normalization]]
 - [[Universal Approximation Theorem]]
-- [[Train-Test Split]]
+- [[Membership Inference Attack]]
 - [[No Free Lunch Theorem]]
 - [[Texas Sharpshooter Fallacy]]

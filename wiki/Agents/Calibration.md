@@ -30,4 +30,4 @@ Calibration also shifts with data. A model calibrated on its training distributi
 - [[Conformal Prediction]]
 - [[ELIZA Effect]]
 - [[Pulse Oximetry]]
-- [[Knightian Uncertainty]]
+- [[Membership Inference Attack]]

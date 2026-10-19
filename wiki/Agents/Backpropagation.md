@@ -32,7 +32,7 @@ Gradients are useful beyond training. [[Mechanistic Interpretability]] uses them
 Whether brains do anything similar is debated, since real neurons have no obvious way to send precise error signals backward.
 
 ## See also
-- [[Distributed Training]]
+- [[Activation Patching]]
 - [[Batch Normalization]]
 - [[Hopfield Network]]
 - [[Newton's Method]]

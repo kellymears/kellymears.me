@@ -31,7 +31,7 @@ Open questions surround the data itself. Models can memorize and reproduce passa
 Earlier n-gram models, essentially a [[Markov Chain]] over words, predicted the next word too, from far less context.
 
 ## See also
-- [[Wikipedia]]
+- [[Membership Inference Attack]]
 - [[Perplexity]]
 - [[Tensor Processing Unit]]
 - [[Machine Unlearning]]

@@ -26,3 +26,4 @@ Low-resolution art turned the pixel into a style of its own, where every one is 
 - [[Raster graphics]]
 - [[Font Rendering]]
 - [[Dithering]]
+- [[Computer Vision]]

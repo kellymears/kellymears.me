@@ -23,5 +23,5 @@ The paradox also reframes intelligence: much of what people call "common sense" 
 
 ## See also
 - [[Autonomous Vehicle]]
-- [[Gait]]
+- [[Computer Vision]]
 - [[Artificial General Intelligence]]

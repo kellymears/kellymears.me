@@ -24,8 +24,8 @@ The usual training objective scores every pair in a batch and applies a [[Softma
 Text embedding models used for search are trained contrastively on pairs of queries and relevant passages. Their output fills the [[Vector Database]] behind most [[Retrieval-Augmented Generation]] systems, where a more precise model often re-sorts the top results; see [[Reranking]].
 
 ## See also
-- [[Symbol Grounding Problem]]
+- [[Vision Transformer]]
 - [[Locality-Sensitive Hashing]]
 - [[Support Vector Machine]]
-- [[ImageNet]]
+- [[Speaker Diarization]]
 - [[Linear Probe]]

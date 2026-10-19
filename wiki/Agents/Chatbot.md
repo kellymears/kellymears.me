@@ -21,5 +21,5 @@ Large language models changed the field. A model trained on vast text could cont
 The old problems persist in new forms. Fluent replies can be confidently wrong, models tend to tell users what they want to hear, and instructions hidden in text a bot reads can redirect it; see [[Hallucination]], [[Sycophancy]] and [[Prompt Injection]]. Companion apps built for friendship or romance raise questions about one-sided attachment, especially for lonely users; see [[Parasocial Relationship]] and [[AI Companion]].
 
 ## See also
-- [[Interactive Fiction]]
-- [[Symbol Grounding Problem]]
+- [[Wake Word]]
+- [[Natural Language Processing]]

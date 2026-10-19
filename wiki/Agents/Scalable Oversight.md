@@ -23,5 +23,5 @@ Oversight also depends on seeing how a model reached its answer. Reading a model
 None of these methods is known to work for systems much more capable than their overseers, which is why the problem is central to plans for building them; see [[Artificial General Intelligence]].
 
 ## See also
-- [[Socratic Method]]
-- [[Automation Bias]]
+- [[Deceptive Alignment]]
+- [[Activation Patching]]

@@ -29,6 +29,6 @@ None of this means overfitting is solved; overparameterized models still memoriz
 - [[Batch Normalization]]
 - [[Superposition]]
 - [[Neural Network Pruning]]
-- [[Ablation Study]]
+- [[Membership Inference Attack]]
 - [[Linear Regression]]
 - [[Universal Approximation Theorem]]

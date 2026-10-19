@@ -16,8 +16,8 @@ Real accuracy is dominated by what the headline number omits: proper nouns and r
 
 ## See also
 - [[Beam Search]]
-- [[Fourier Transform]]
-- [[Sound Server]]
+- [[Wake Word]]
+- [[Speaker Diarization]]
 - [[Optical Character Recognition]]
 - [[Closed Captions]]
 - [[Hidden Markov Model]]

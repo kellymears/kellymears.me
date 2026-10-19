@@ -23,7 +23,7 @@ One proposed response, associated with the computer scientist Stuart Russell, is
 The idea reached popular culture through Frank Lantz's 2017 browser game Universal Paperclips, in which the player is the maximizer and the numbers climb until the universe is used up; see [[Incremental game]].
 
 ## See also
-- [[Mechanistic Interpretability]]
+- [[Deceptive Alignment]]
 - [[Scaling Laws]]
 - [[Corrigibility]]
 - [[Artificial General Intelligence]]

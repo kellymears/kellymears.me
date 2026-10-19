@@ -35,7 +35,7 @@ The same camera-solving step now feeds [[Gaussian Splatting]], which skips meshe
 
 ## See also
 - [[Optical Flow]]
-- [[Light Field]]
+- [[Computer Vision]]
 - [[NURBS]]
 - [[Mesh Simplification]]
 - [[Canny Edge Detector]]

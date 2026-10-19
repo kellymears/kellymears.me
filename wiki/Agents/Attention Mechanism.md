@@ -31,8 +31,8 @@ Attention spreads finite weight across everything in context, which helps explai
 
 ## See also
 - [[Backpropagation]]
-- [[Batch Normalization]]
-- [[Ablation Study]]
+- [[Vision Transformer]]
+- [[Activation Patching]]
 - [[Object Detection]]
 - [[Hopfield Network]]
 - [[Word2Vec]]

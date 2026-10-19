@@ -27,6 +27,6 @@ Autocomplete also shapes behavior. Suggestions steer people toward popular queri
 
 ## See also
 - [[Phonetic Algorithm]]
-- [[Input Method]]
+- [[Natural Language Processing]]
 - [[Postal Address]]
 - [[Federated Learning]]

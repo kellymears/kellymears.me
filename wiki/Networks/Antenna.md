@@ -32,5 +32,5 @@ Hobbyists often build their own from wire and pipe; see [[Amateur Radio]]. Which
 
 ## See also
 - [[Radio Propagation]]
-- [[Radio Broadcasting]]
+- [[Wake Word]]
 - [[Signal-to-Noise Ratio]]

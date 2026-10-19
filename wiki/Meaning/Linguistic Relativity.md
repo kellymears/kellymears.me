@@ -27,6 +27,6 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 - [[Machine Translation]]
 - [[Emotional Granularity]]
 - [[Inner Speech]]
-- [[Framing Effect]]
+- [[Natural Language Processing]]
 - [[Symbol Grounding Problem]]
 - [[Portmanteau]]

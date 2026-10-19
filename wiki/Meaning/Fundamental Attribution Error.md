@@ -17,7 +17,7 @@ The error matters most where it has consequences: it drives harsher judgments of
 - [[Bystander Effect]]
 - [[Narrative Fallacy]]
 - [[Self-Handicapping]]
-- [[Cognitive Bias]]
+- [[Shapley Values]]
 - [[Locus of Control]]
 - [[Unreliable Narrator]]
 - [[Just-World Hypothesis]]

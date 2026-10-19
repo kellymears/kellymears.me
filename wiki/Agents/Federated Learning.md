@@ -32,7 +32,7 @@ Federated learning reduces what gets collected, but on its own it doesn't guaran
 
 ## See also
 - [[Synthetic Data]]
-- [[Algorithmic Bias]]
+- [[Membership Inference Attack]]
 - [[Batch Normalization]]
 - [[Distributed Training]]
 - [[Homomorphic Encryption]]

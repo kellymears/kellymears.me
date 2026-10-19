@@ -16,15 +16,15 @@ Embedding models are also usually distinct from the generation model in a pipeli
 
 ## See also
 - [[Contrastive Learning]]
-- [[Correlation Coefficient]]
+- [[Vision Transformer]]
 - [[Document Chunking]]
 - [[Activation Steering]]
 - [[Approximate Nearest Neighbor Search]]
-- [[Multimodal Model]]
+- [[Feature Engineering]]
 - [[Active Learning]]
 - [[Graph Neural Network]]
 - [[Sentiment Analysis]]
 - [[Transfer Learning]]
 - [[Support Vector Machine]]
 - [[Locality-Sensitive Hashing]]
-- [[K-Means Clustering]]
+- [[Speaker Diarization]]

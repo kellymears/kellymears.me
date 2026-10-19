@@ -22,5 +22,5 @@ ImageNet also became an example of benchmark problems. Some labels were wrong or
 The broader lesson stuck: large, labeled datasets and enough computation can matter more than clever design, which later shaped work on language; see [[Scaling Laws]] and [[Pretraining]].
 
 ## See also
-- [[Object Detection]]
-- [[Canny Edge Detector]]
+- [[Computer Vision]]
+- [[Vision Transformer]]

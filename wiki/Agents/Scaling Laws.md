@@ -27,7 +27,7 @@ Several caveats apply:
 As gains from pretraining slowed, attention turned to a second axis: spending more computation when the model answers, letting it reason longer before responding. Performance on hard problems also scales with this *test-time compute*, which is the premise of the [[Reasoning Model]]. Smaller models trained to imitate larger ones, through [[Knowledge Distillation]], capture much of the larger model's ability at lower cost.
 
 ## See also
-- [[Artificial General Intelligence]]
+- [[Vision Transformer]]
 - [[Distributed Training]]
 - [[Neural Network Pruning]]
 - [[Paperclip Maximizer]]

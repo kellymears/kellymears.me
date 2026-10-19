@@ -34,3 +34,4 @@ Alt text is a standard example of a feature built for disabled users that helps 
 - [[ARIA]]
 - [[Closed Captions]]
 - [[HTML]]
+- [[Computer Vision]]

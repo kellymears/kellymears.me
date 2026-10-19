@@ -26,6 +26,6 @@ The computer scientist Cynthia Rudin has argued that for high-stakes decisions, 
 Law adds pressure. The European Union's data protection rules give people rights around automated decisions, debated as a "right to explanation"; see [[GDPR]]. Audits for unfair treatment also depend on seeing which inputs drive outcomes; see [[Algorithmic Bias]] and [[Human in the Loop]].
 
 ## See also
-- [[Counterfactual Thinking]]
-- [[Bayesian Network]]
+- [[Activation Patching]]
+- [[Shapley Values]]
 - [[Model Card]]

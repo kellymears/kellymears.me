@@ -29,7 +29,7 @@ The law has practical uses in computing:
 - **Caching.** Skewed access patterns mean a small cache serves most requests.
 
 ## See also
-- [[Loanword]]
+- [[Natural Language Processing]]
 - [[Constructed Language]]
 - [[Crossword]]
 - [[Fractal]]

@@ -34,7 +34,7 @@ Semantic change also connects to how categories work, with central meanings shif
 ## See also
 - [[Retronym]]
 - [[Snowclone]]
-- [[Dialect]]
+- [[Natural Language Processing]]
 - [[Jargon]]
 - [[Ship of Theseus]]
 - [[Emoji]]

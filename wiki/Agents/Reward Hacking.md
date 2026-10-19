@@ -37,4 +37,4 @@ Monitoring a model's visible reasoning can catch stated plans to cheat. But Open
 - [[Trolley Problem]]
 - [[AI Alignment]]
 - [[Corrigibility]]
-- [[Operant Conditioning]]
+- [[Deceptive Alignment]]

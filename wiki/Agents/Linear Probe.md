@@ -21,6 +21,6 @@ Probes assume a concept lives along a single direction. Models appear to pack ma
 Practical uses are emerging: probes can monitor models in deployment, flagging internal signs of deception or uncertainty more cheaply than reading their output; see [[Hallucination]] and [[Explainable AI]].
 
 ## See also
-- [[Dimensionality Reduction]]
-- [[Embedding]]
-- [[Ablation Study]]
+- [[Deceptive Alignment]]
+- [[Activation Patching]]
+- [[Shapley Values]]

@@ -28,7 +28,7 @@ Privacy is a subtler cost. If a service skips uploading data it already holds, a
 Deduplicating storage is distinct from deduplicating records, finding the entries in a database that describe the same real person or thing despite differences in spelling; see [[Entity Resolution]].
 
 ## See also
-- [[Data Compression]]
+- [[Membership Inference Attack]]
 - [[Bloom Filter]]
 - [[Internet Archive]]
 - [[Phonetic Algorithm]]

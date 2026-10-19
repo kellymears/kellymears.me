@@ -25,3 +25,4 @@ The filter has known flaws. Strong smoothing can create a staircase effect, turn
 ## See also
 - [[Post-Processing]]
 - [[Image Sensor]]
+- [[Computer Vision]]

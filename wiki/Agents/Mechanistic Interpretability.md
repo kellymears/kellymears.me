@@ -16,10 +16,10 @@ What none of this licenses is folk prompting advice. Discovering that a [[Large 
 
 ## See also
 - [[Activation Steering]]
-- [[Ablation Study]]
+- [[Deceptive Alignment]]
 - [[Residual Connection]]
-- [[Scalable Oversight]]
+- [[Activation Patching]]
 - [[Autoencoder]]
 - [[Double Descent]]
-- [[In-Context Learning]]
+- [[Shapley Values]]
 - [[Stochastic Parrot]]

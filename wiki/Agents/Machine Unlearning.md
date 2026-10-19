@@ -29,5 +29,5 @@ Prevention is easier than cure. Training with [[Differential Privacy]] bounds ho
 
 ## See also
 - [[Data Remanence]]
-- [[AI Alignment]]
+- [[Membership Inference Attack]]
 - [[Federated Learning]]

@@ -34,7 +34,7 @@ A **parser** takes a string and a grammar and builds the tree of rule applicatio
 Natural languages turned out not to be fully context-free; some, such as Swiss German, have crossing dependencies a context-free grammar can't express. Still, context-free grammars remain a useful approximation for much of linguistic structure, and nearly every programming language's syntax is defined with one.
 
 ## See also
-- [[Call Stack]]
+- [[Natural Language Processing]]
 - [[Linguistic Relativity]]
 - [[Template Engine]]
 - [[HTML]]

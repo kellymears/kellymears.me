@@ -21,6 +21,7 @@ Economists have built a toolkit of designs that exploit quirks of circumstance; 
 Where none of these designs is available, epidemiology falls back on weighing several lines of evidence together, such as strength, consistency, timing and a plausible mechanism; see [[Bradford Hill Criteria]]. Each method trades one set of untestable assumptions for another. The honest output is an estimate together with the assumptions it depends on, stated plainly.
 
 ## See also
-- [[Correlation Coefficient]]
+- [[Shapley Values]]
 - [[Scientific Method]]
 - [[Counterfactual Thinking]]
+- [[Activation Patching]]

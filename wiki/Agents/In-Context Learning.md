@@ -34,7 +34,7 @@ In-context learning is also how a model uses retrieved documents. [[Retrieval-Au
 The choice between showing and telling recurs in practice. Instructions state rules clearly but can be misread; examples demonstrate behavior but invite imitation of incidental features.
 
 ## See also
-- [[Observational Learning]]
+- [[Activation Patching]]
 - [[Fine-Tuning]]
 - [[Transfer Learning]]
 - [[Instruction Tuning]]

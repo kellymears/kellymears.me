@@ -23,6 +23,6 @@ The deeper question Turing set aside, whether anything is going on inside, is no
 
 ## See also
 - [[Artificial General Intelligence]]
-- [[Consciousness]]
-- [[Chatbot]]
+- [[Deceptive Alignment]]
+- [[Natural Language Processing]]
 - [[Stochastic Parrot]]

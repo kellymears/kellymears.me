@@ -36,6 +36,6 @@ Reduction is lossy compression of a kind, related to the ideas in [[Information 
 ## See also
 - [[Support Vector Machine]]
 - [[Map Projection]]
-- [[Big Five Personality Traits]]
+- [[Feature Engineering]]
 - [[K-Means Clustering]]
 - [[Linear Probe]]

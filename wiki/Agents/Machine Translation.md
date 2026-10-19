@@ -32,4 +32,4 @@ Professional translators now often edit machine drafts; see [[Internationalizati
 ## See also
 - [[Symbol Grounding Problem]]
 - [[Text-to-Speech]]
-- [[Language Tag]]
+- [[Natural Language Processing]]

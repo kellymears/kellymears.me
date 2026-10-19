@@ -23,8 +23,8 @@ This structure gives interpretability research its central picture, the **residu
 The broader lesson is that architecture often succeeds by making optimization easier rather than by adding expressive power. A residual network can't represent anything a plain one can't, yet [[Gradient Descent]] finds good solutions in it, and the depth behind today's [[Scaling Laws]] depends on that.
 
 ## See also
-- [[Batch Normalization]]
-- [[Ablation Study]]
+- [[Activation Patching]]
+- [[Vision Transformer]]
 - [[Universal Approximation Theorem]]
 - [[Graph Neural Network]]
 - [[Activation Steering]]

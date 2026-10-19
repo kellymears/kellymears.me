@@ -22,4 +22,4 @@ Losing information is the main risk. Many systems can't be reversed, so romanize
 - [[Internationalized Domain Name]]
 - [[Mojibake]]
 - [[Calligraphy]]
-- [[Input Method]]
+- [[Natural Language Processing]]

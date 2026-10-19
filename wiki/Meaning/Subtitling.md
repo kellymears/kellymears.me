@@ -23,7 +23,7 @@ Because a subtitle file is plain text with stable indices, a change log keyed to
 - [[Diegesis]]
 
 ## Related
-- [[Game Feel]]
+- [[Speaker Diarization]]
 - [[Assist Mode]]
 - [[Video Game Localization]]
 - [[Internationalization]]

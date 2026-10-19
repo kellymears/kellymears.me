@@ -28,7 +28,7 @@ Results are only as good as the randomness and the model. A weak [[Pseudorandom 
 
 ## See also
 - [[Integer Factorization]]
-- [[Importance Sampling]]
+- [[Shapley Values]]
 - [[Random Walk]]
 - [[Low-Discrepancy Sequence]]
 - [[AlphaGo]]

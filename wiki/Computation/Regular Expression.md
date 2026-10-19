@@ -19,7 +19,7 @@ What most programming languages call "regex" (PCRE and its descendants: Perl's, 
 - [[Named Entity Recognition]]
 - [[Differential Testing]]
 - [[Perfect Hashing]]
-- [[Denial-of-Service Attack]]
+- [[Natural Language Processing]]
 - [[Form Validation]]
 - [[Context-Free Grammar]]
 - [[String-Searching Algorithm]]

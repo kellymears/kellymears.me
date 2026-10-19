@@ -21,7 +21,7 @@ Quantization is largely orthogonal to [[Fine-Tuning]] — a model can be fine-tu
 - [[Tensor Processing Unit]]
 - [[Neural Network Pruning]]
 - [[Approximate Nearest Neighbor Search]]
-- [[Knowledge Distillation]]
+- [[Wake Word]]
 - [[Numerical Stability]]
 - [[Open-Weight Model]]
 - [[Perplexity]]

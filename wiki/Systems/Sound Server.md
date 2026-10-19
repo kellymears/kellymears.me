@@ -27,3 +27,4 @@ Sound servers also handle echo cancellation for calls and expose virtual devices
 ## See also
 - [[Pressure Stall Information]]
 - [[Real-Time Operating System]]
+- [[Speaker Diarization]]

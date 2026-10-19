@@ -25,6 +25,6 @@ Large language models complicated the picture. Classical theory said bigger mode
 Other techniques regularize indirectly. Stochastic [[Gradient Descent]] adds noise that seems to favor solutions that generalize. Some argue that [[Quantization]] and [[Knowledge Distillation]] do too, by removing capacity a model may have spent on noise.
 
 ## See also
-- [[Batch Normalization]]
+- [[Membership Inference Attack]]
 - [[Neural Network Pruning]]
 - [[Universal Approximation Theorem]]

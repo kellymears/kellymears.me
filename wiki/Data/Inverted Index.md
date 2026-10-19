@@ -33,6 +33,6 @@ Inverted indexes are optimized for reading. Posting lists are compressed and sto
 - [[Bitmap Index]]
 - [[String-Searching Algorithm]]
 - [[Suffix Array]]
-- [[Library Classification]]
+- [[Natural Language Processing]]
 - [[Reranking]]
-- [[Boolean Algebra]]
+- [[Feature Engineering]]

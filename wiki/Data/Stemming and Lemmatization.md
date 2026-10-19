@@ -26,7 +26,7 @@ Modern language models handle this differently. They split text into subword pie
 ## See also
 - [[Edit Distance]]
 - [[Autocomplete]]
-- [[Character Encoding]]
+- [[Natural Language Processing]]
 - [[Zipf's Law]]
 - [[Collation]]
 - [[Hybrid Search]]

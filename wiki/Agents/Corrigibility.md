@@ -30,3 +30,4 @@ Researchers have begun testing language-model agents in contrived scenarios to s
 - [[Goodhart's Law]]
 - [[Artificial General Intelligence]]
 - [[Scalable Oversight]]
+- [[Deceptive Alignment]]

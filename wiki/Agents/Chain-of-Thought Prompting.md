@@ -14,7 +14,7 @@ The technique has since been absorbed into models themselves: so-called "reasoni
 
 ## See also
 - [[Prompt Engineering]]
-- [[Agentic Loop]]
+- [[Deceptive Alignment]]
 - [[Mechanistic Interpretability]]
 - [[Large Language Model]]
 - [[Dual Process Theory]]

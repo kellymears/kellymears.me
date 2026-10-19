@@ -20,7 +20,7 @@ Live evaluation costs money and time, which is why most harnesses replay; see [[
 - [[Synthetic Data]]
 - [[Model Card]]
 - [[ROC Curve]]
-- [[Safety Case]]
+- [[Deceptive Alignment]]
 - [[Reward Hacking]]
 - [[Ablation Study]]
 

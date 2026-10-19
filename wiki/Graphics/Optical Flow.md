@@ -27,3 +27,4 @@ Flow fails where its assumptions do: changing lighting, reflections, transparent
 - [[Image Sensor]]
 - [[Motion Sickness]]
 - [[Canny Edge Detector]]
+- [[Computer Vision]]

@@ -19,10 +19,10 @@ Because tokens are consumed by everything in the request — instructions, tool 
 - [[Jevons Paradox]]
 - [[Naive Bayes]]
 - [[Prompt]]
-- [[Nondeterminism]]
+- [[Natural Language Processing]]
 - [[Lexical Analysis]]
 - [[Constrained Decoding]]
-- [[Pretraining]]
+- [[Vision Transformer]]
 
 ## Related
 - [[Prompt Engineering]]

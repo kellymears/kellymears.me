@@ -27,7 +27,7 @@ The same vectors can be read instead of written. Measuring how strongly an activ
 Limits: push too hard and the model becomes incoherent, effects spill into unrelated behavior, and concepts are not always cleanly separable, since networks pack more features than dimensions. Steering also offers no guarantee, which matters for anyone hoping to use it for safety; see [[AI Alignment]].
 
 ## See also
-- [[Cosine Similarity]]
+- [[Deceptive Alignment]]
 - [[Ablation Study]]
-- [[Word2Vec]]
+- [[Activation Patching]]
 - [[Linear Probe]]

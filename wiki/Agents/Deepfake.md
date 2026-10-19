@@ -27,4 +27,6 @@ The legal scholars Bobby Chesney and Danielle Citron named a subtler harm the **
 - [[Multimodal Model]]
 - [[Adversarial Example]]
 - [[McGurk Effect]]
-- [[Propaganda]]
+- [[Computer Vision]]
+- [[Vision Transformer]]
+- [[Speaker Diarization]]

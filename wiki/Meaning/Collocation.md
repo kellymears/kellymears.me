@@ -16,7 +16,7 @@ Corpus linguistics turns the intuition into a measurement. Given a large collect
 - [[Eggcorn]]
 - [[Malaphor]]
 - [[Snowclone]]
-- [[Grammatical Gender]]
+- [[Natural Language Processing]]
 - [[Shibboleth]]
 - [[Constructed Language]]
 - [[Portmanteau]]

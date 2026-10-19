@@ -29,4 +29,4 @@ At minimum, the image reminds users that a model's output is a sample from a dis
 - [[Symbol Grounding Problem]]
 - [[Consciousness]]
 - [[World Model]]
-- [[Artificial General Intelligence]]
+- [[Natural Language Processing]]

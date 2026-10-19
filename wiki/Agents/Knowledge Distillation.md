@@ -26,9 +26,9 @@ The idea echoes human teaching: a learner gains from seeing how close the altern
 
 ## See also
 - [[Autoencoder]]
-- [[Transfer Learning]]
+- [[Wake Word]]
 - [[Fine-Tuning]]
-- [[Scalable Oversight]]
+- [[Vision Transformer]]
 - [[Model Merging]]
 - [[Open-Weight Model]]
 - [[Regularization]]

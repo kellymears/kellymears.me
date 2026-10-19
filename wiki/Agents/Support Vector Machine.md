@@ -21,7 +21,7 @@ Neural networks learn the features themselves and improve with more data and com
 
 ## See also
 - [[Sentiment Analysis]]
-- [[Naive Bayes]]
+- [[Feature Engineering]]
 - [[ROC Curve]]
 - [[Anomaly Detection]]
-- [[Logistic Regression]]
+- [[Shapley Values]]

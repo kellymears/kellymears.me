@@ -27,4 +27,4 @@ That has revived recurrent designs. **State space models**, from S4 (2021) to Ma
 - [[Machine Translation]]
 - [[Named Entity Recognition]]
 - [[Hopfield Network]]
-- [[Hidden Markov Model]]
+- [[Wake Word]]

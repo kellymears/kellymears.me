@@ -32,6 +32,6 @@ Clusters are a description of data, not a discovery of natural kinds. The algori
 ## See also
 - [[Affinity Diagram]]
 - [[Active Learning]]
-- [[Scatter Plot]]
+- [[Feature Engineering]]
 - [[Anomaly Detection]]
-- [[Hyperparameter]]
+- [[Speaker Diarization]]

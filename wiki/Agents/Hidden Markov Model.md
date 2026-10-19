@@ -26,7 +26,7 @@ HMMs spread to tagging words with their parts of speech, finding genes in DNA, a
 Their limits come from the same simplicity. The hidden state is a single category, and each step depends only on the previous one, so long-range structure such as the agreement between a subject and a verb far later in a sentence is lost. Around 2010, neural networks displaced them in speech, first by replacing the emission probabilities and then the whole model; see [[Recurrent Neural Network]] and [[Attention Mechanism]].
 
 ## See also
-- [[Kalman Filter]]
-- [[Naive Bayes]]
+- [[Speaker Diarization]]
+- [[Natural Language Processing]]
 - [[Named Entity Recognition]]
 - [[Bayesian Network]]
