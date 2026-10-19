@@ -26,5 +26,5 @@ In practice, alignment is layered with other defenses: stress-testing models bef
 
 ## See also
 - [[Paperclip Maximizer]]
-- [[Precautionary Principle]]
-- [[Trolley Problem]]
+- [[Artificial General Intelligence]]
+- [[Scalable Oversight]]

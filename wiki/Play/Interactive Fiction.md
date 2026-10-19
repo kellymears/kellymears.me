@@ -30,5 +30,5 @@ Language models have revived old questions. A model can understand any phrasing 
 - [[Alternate Reality Game]]
 - [[Gamebook]]
 - [[Cutscene]]
-- [[Dialogue Tree]]
+- [[Chatbot]]
 - [[Deus ex Machina]]

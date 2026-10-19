@@ -26,5 +26,5 @@ Design choices push the effect either way. A chatbot that says "I feel," types w
 
 ## See also
 - [[Dartmouth Workshop]]
-- [[Non-Player Character]]
-- [[Companion AI]]
+- [[Symbol Grounding Problem]]
+- [[Chatbot]]

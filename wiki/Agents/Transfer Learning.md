@@ -27,7 +27,7 @@ The economics changed the field. Training a large model from scratch costs more 
 Small target datasets carry their own risk, since a big model fit to a few hundred examples can memorize them; see [[Overfitting]].
 
 ## See also
-- [[Linear Probe]]
-- [[Instruction Tuning]]
+- [[Artificial General Intelligence]]
+- [[Batch Normalization]]
 - [[No Free Lunch Theorem]]
 - [[Curriculum Learning]]

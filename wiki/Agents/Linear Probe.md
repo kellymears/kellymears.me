@@ -23,3 +23,4 @@ Practical uses are emerging: probes can monitor models in deployment, flagging i
 ## See also
 - [[Dimensionality Reduction]]
 - [[Embedding]]
+- [[Ablation Study]]

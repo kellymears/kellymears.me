@@ -32,5 +32,5 @@ Uncertainty also widens with distance; see [[Cone of Uncertainty]].
 ## See also
 - [[Delphi Method]]
 - [[Brier Score]]
-- [[Narrative Fallacy]]
+- [[Artificial General Intelligence]]
 - [[Scenario Planning]]

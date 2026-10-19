@@ -24,5 +24,7 @@ Pruning large language models is harder, since retraining them is expensive. Met
 Pruning relates to other ideas about sparsity. [[Regularization]] can push weights toward zero during training, making later pruning easier. A [[Mixture of Experts]] activates only part of the network for each input, a dynamic form of sparsity. And the developing brain prunes too, eliminating many of its synapses through childhood and adolescence while strengthening those in use; see [[Neuroplasticity]].
 
 ## See also
-- [[Scaling Laws]]
+- [[Ablation Study]]
 - [[Superposition]]
+- [[Batch Normalization]]
+- [[Tensor Processing Unit]]

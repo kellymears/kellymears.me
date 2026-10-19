@@ -26,7 +26,7 @@ The idea extends well beyond board and video games. A [[Generative Adversarial N
 
 ## See also
 - [[AlphaFold]]
-- [[AlphaGo]]
+- [[Scalable Oversight]]
 - [[Solved Game]]
 - [[Curriculum Learning]]
 - [[Elo Rating System]]

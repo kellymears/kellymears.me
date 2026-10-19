@@ -29,5 +29,5 @@ At large scale, tuning the full model is too costly, so labs tune small versions
 Reporting the chosen values, the search space, and the random seeds is part of making a result reproducible; see [[Determinism]].
 
 ## See also
-- [[Benchmark Contamination]]
-- [[Bitter Lesson]]
+- [[Batch Normalization]]
+- [[Ablation Study]]

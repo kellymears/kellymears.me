@@ -26,7 +26,7 @@ The defenses that hold are architectural rather than linguistic:
 - [[Prompt]]
 
 ## Related
-- [[Tool Use]]
+- [[Chatbot]]
 - [[Server-Side Request Forgery]]
 - [[SQL Injection]]
 - [[Agent Sandbox]]

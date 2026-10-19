@@ -16,9 +16,9 @@ What none of this licenses is folk prompting advice. Discovering that a [[Large 
 
 ## See also
 - [[Activation Steering]]
-- [[World Model]]
+- [[Ablation Study]]
 - [[Residual Connection]]
-- [[Linear Probe]]
+- [[Scalable Oversight]]
 - [[Autoencoder]]
 - [[Double Descent]]
 - [[In-Context Learning]]

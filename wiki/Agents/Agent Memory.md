@@ -24,7 +24,7 @@ The related design question is retrieval: a memory that is never surfaced at the
 - [[Context Rot]]
 
 ## Related
-- [[Wiki]]
+- [[Chatbot]]
 - [[System Prompt]]
 - [[Prompt]]
 - [[Catastrophic Forgetting]]

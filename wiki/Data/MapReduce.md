@@ -27,5 +27,5 @@ The model's ideas outlived the system. Partitioning by key, as in [[Database Sha
 
 ## See also
 - [[Big Data]]
-- [[Render Farm]]
+- [[Distributed Training]]
 - [[Hot Partition]]

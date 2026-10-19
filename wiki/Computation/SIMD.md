@@ -29,5 +29,5 @@ The gains are bounded. Only the vectorized part speeds up, so the rest of the pr
 ## See also
 - [[Processor Register]]
 - [[Instruction Pipelining]]
-- [[Fast Inverse Square Root]]
+- [[Tensor Processing Unit]]
 - [[DataFrame]]

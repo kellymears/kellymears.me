@@ -29,4 +29,4 @@ Whatever the paradigm, the central worry is generalization: doing well on new da
 
 ## See also
 - [[Active Learning]]
-- [[Data Labeling]]
+- [[ROC Curve]]

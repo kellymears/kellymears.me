@@ -20,7 +20,7 @@ Routing brings its own problems:
 MoE is [[Model Routing]] moved inside the network, decided per token by a learned function instead of per task by an engineer. It combines well with [[Speculative Decoding]] because both target the same bottleneck: how much has to be read from memory for each token produced.
 
 ## See also
-- [[Large Language Model]]
+- [[Distributed Training]]
 - [[Model Merging]]
 - [[Hyperparameter]]
 - [[Fine-Tuning]]

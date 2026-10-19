@@ -28,6 +28,6 @@ The approach outlived language: recommendation systems have trained the same mod
 
 ## See also
 - [[Dimensionality Reduction]]
-- [[Knowledge Graph]]
+- [[Symbol Grounding Problem]]
 - [[Sentiment Analysis]]
 - [[Graph Neural Network]]

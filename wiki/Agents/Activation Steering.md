@@ -28,6 +28,6 @@ Limits: push too hard and the model becomes incoherent, effects spill into unrel
 
 ## See also
 - [[Cosine Similarity]]
-- [[System Prompt]]
+- [[Ablation Study]]
 - [[Word2Vec]]
 - [[Linear Probe]]

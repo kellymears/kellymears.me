@@ -25,7 +25,7 @@ Power laws behave differently from bell curves. An average can mislead when a si
 Used well, the principle is a prompt to look for the vital few: find what produces most of the value or most of the problems, and focus there. Used badly, it becomes an excuse to skip the remaining 20% of work, which is often where quality, accessibility, and edge cases live. Finishing that part of a project tends to take far longer than expected, a pattern captured by the "ninety-ninety rule" and closely related to [[Hofstadter's Law]].
 
 ## See also
-- [[Participation Inequality]]
+- [[Autonomous Vehicle]]
 - [[Benford's Law]]
 - [[Napster]]
 - [[Good First Issue]]

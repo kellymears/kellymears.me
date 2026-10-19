@@ -23,5 +23,5 @@ Language models made a new kind of labeling central. Training them to be helpful
 Labeled data also leaks. When test examples or their labels appear in training data, scores overstate ability; see [[Benchmark Contamination]].
 
 ## See also
-- [[Bechdel Test]]
+- [[Scalable Oversight]]
 - [[Object Detection]]

@@ -14,7 +14,7 @@ Parasocial bonds aren't inherently pathological — they scale a normal social i
 ## See also
 - [[Kayfabe]]
 - [[Diegesis]]
-- [[Nostalgia]]
+- [[Chatbot]]
 - [[Fan Fiction]]
 - [[Attachment Theory]]
 - [[Let's Play]]

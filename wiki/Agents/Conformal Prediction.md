@@ -25,3 +25,4 @@ The idea resembles a confidence interval but differs in what it covers: a confid
 ## See also
 - [[Brier Score]]
 - [[Superforecasting]]
+- [[ROC Curve]]

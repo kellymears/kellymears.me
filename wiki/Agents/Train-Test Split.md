@@ -37,7 +37,7 @@ Optimizing hard against any fixed measure tends to corrupt it; see [[Goodhart's 
 ## See also
 - [[Bootstrap Resampling]]
 - [[Conformal Prediction]]
-- [[Data Labeling]]
+- [[ROC Curve]]
 - [[Decision Tree]]
 - [[Double Descent]]
 - [[Active Learning]]

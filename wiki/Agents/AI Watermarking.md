@@ -31,7 +31,7 @@ Regulation is pushing both. The European Union's AI Act requires providers to ma
 Watermarks matter for model builders too: as generated text spreads across the web, training on it unknowingly degrades future models, so being able to filter it out is useful; see [[Synthetic Data]].
 
 ## See also
-- [[Pseudorandom Number Generator]]
+- [[ROC Curve]]
 - [[Adversarial Example]]
 - [[Deepfake]]
 - [[Model Card]]

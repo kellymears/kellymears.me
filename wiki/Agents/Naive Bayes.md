@@ -28,4 +28,4 @@ Naive Bayes is still a common first baseline for text classification: fast, tran
 - [[Sentiment Analysis]]
 - [[Hidden Markov Model]]
 - [[Bayesian Network]]
-- [[Prosecutor's Fallacy]]
+- [[ROC Curve]]

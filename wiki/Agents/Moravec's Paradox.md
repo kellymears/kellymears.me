@@ -22,6 +22,6 @@ The practical lesson is to distrust intuitions about which tasks will be automat
 The paradox also reframes intelligence: much of what people call "common sense" is perception and motor skill that never reaches words; see [[Interoception]] and [[Expert Intuition]].
 
 ## See also
-- [[Dartmouth Workshop]]
-- [[Comparative Advantage]]
-- [[Lump of Labor Fallacy]]
+- [[Autonomous Vehicle]]
+- [[Symbol Grounding Problem]]
+- [[Artificial General Intelligence]]

@@ -26,3 +26,4 @@ Modern explanations for why huge networks generalize lean instead on training dy
 ## See also
 - [[Bitter Lesson]]
 - [[Regularization]]
+- [[Batch Normalization]]

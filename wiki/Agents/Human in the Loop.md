@@ -25,8 +25,8 @@ The complementary practice is honest reporting: a gate is only as good as the ac
 
 ## Related
 - [[Conformal Prediction]]
-- [[Tool Use]]
+- [[Scalable Oversight]]
 - [[Computer Use]]
-- [[Calibration]]
+- [[Autonomous Vehicle]]
 - [[AI Alignment]]
 - [[Explainable AI]]

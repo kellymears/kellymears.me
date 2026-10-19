@@ -32,6 +32,6 @@ Large training runs spread minibatches across thousands of GPUs and average thei
 
 ## See also
 - [[Regularization]]
-- [[Federated Learning]]
+- [[Distributed Training]]
 - [[Hyperparameter]]
-- [[Sensitivity Analysis]]
+- [[Batch Normalization]]

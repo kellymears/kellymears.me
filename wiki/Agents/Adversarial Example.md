@@ -28,7 +28,7 @@ Defenses are only partial. **Adversarial training** adds attacked examples to tr
 The practical lesson is to treat a model's input as untrusted, and not to assume that a model which matches people on ordinary examples sees the way people do; see [[Distribution Shift]].
 
 ## See also
-- [[Email Spam]]
+- [[Chatbot]]
 - [[Federated Learning]]
 - [[Deepfake]]
 - [[Object Detection]]

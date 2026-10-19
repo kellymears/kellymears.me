@@ -25,7 +25,7 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 - [[Pre-registration]]
 - [[Precision and Accuracy]]
 - [[Hyperparameter]]
-- [[Expert Intuition]]
+- [[Batch Normalization]]
 - [[Universal Approximation Theorem]]
 - [[Train-Test Split]]
 - [[No Free Lunch Theorem]]

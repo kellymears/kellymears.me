@@ -28,3 +28,5 @@ Researchers have begun testing language-model agents in contrived scenarios to s
 ## See also
 - [[Reinforcement Learning]]
 - [[Goodhart's Law]]
+- [[Artificial General Intelligence]]
+- [[Scalable Oversight]]

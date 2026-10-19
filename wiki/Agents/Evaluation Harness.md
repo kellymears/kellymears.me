@@ -19,10 +19,10 @@ Live evaluation costs money and time, which is why most harnesses replay; see [[
 - [[Fingerprint]]
 - [[Synthetic Data]]
 - [[Model Card]]
-- [[Guardrail]]
+- [[ROC Curve]]
 - [[Safety Case]]
 - [[Reward Hacking]]
-- [[Sycophancy]]
+- [[Ablation Study]]
 
 ## Related
 - [[Turing Test]]

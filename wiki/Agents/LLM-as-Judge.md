@@ -24,7 +24,7 @@ It works best under a few constraints.
 - [[Active Learning]]
 - [[Nondeterminism]]
 - [[Multi-Agent Orchestration]]
-- [[Test Oracle]]
+- [[Scalable Oversight]]
 - [[Sycophancy]]
 
 ## Related

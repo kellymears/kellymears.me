@@ -23,6 +23,6 @@ Cheap computation shaped software culture. Wirth's law, the quip that software g
 Machine learning's [[Scaling Laws]] describe a different exponential, in training compute, that has outpaced Moore's law.
 
 ## See also
-- [[Render Farm]]
+- [[Tensor Processing Unit]]
 - [[Deep Blue]]
 - [[Software Crisis]]

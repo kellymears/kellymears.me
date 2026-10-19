@@ -32,7 +32,7 @@ A useful habit when shown a correlation is to ask what else differs between the 
 
 ## See also
 - [[Red Herring]]
-- [[Cholesterol]]
+- [[Ablation Study]]
 - [[Linear Regression]]
 - [[Berkson's Paradox]]
 - [[Natural Experiment]]

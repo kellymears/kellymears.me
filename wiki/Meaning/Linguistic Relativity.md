@@ -28,5 +28,5 @@ The general lesson generalizes past linguistics. A hypothesis that is interestin
 - [[Emotional Granularity]]
 - [[Inner Speech]]
 - [[Framing Effect]]
-- [[Metonymy]]
+- [[Symbol Grounding Problem]]
 - [[Portmanteau]]

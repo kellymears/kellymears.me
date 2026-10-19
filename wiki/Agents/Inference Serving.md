@@ -33,5 +33,5 @@ Other levers:
 Every choice trades throughput against latency. Bigger batches lower cost per token but slow each user, and the slowest requests matter most for experience; see [[Tail Latency]] and [[Queueing Theory]]. Output is usually sent as it is generated, so users read while decode continues; see [[Streaming Response]].
 
 ## See also
-- [[Large Language Model]]
-- [[Token Budget]]
+- [[Batch Normalization]]
+- [[Tensor Processing Unit]]

@@ -31,6 +31,6 @@ The biological analogy is loose. Real neurons spike, learn locally, and are wire
 
 ## See also
 - [[AlphaGo]]
-- [[Linear Probe]]
-- [[Graph Neural Network]]
+- [[Batch Normalization]]
+- [[Ablation Study]]
 - [[Hyperparameter]]

@@ -25,6 +25,7 @@ Detectors fail in instructive ways. Stickers placed on a stop sign have caused m
 
 ## See also
 - [[Optical Character Recognition]]
-- [[Supervised Learning]]
+- [[ROC Curve]]
 - [[Prefix Sum]]
 - [[Data Labeling]]
+- [[Autonomous Vehicle]]

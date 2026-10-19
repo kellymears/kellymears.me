@@ -23,7 +23,7 @@ Silent truncation is the last hazard: if a fan-out caps coverage, say so, or a p
 ## Related
 - [[Git Worktree]]
 - [[Context Window]]
-- [[Ground Truth]]
+- [[Distributed Training]]
 - [[Tail Latency]]
 - [[MapReduce]]
 - [[Divide and Conquer]]

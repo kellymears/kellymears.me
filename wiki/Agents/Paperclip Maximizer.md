@@ -26,3 +26,4 @@ The idea reached popular culture through Frank Lantz's 2017 browser game Univers
 - [[Mechanistic Interpretability]]
 - [[Scaling Laws]]
 - [[Corrigibility]]
+- [[Artificial General Intelligence]]

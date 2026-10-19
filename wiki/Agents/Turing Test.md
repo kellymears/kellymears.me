@@ -22,7 +22,7 @@ The test has an everyday inverse. A **CAPTCHA**, short for "Completely Automated
 The deeper question Turing set aside, whether anything is going on inside, is now argued over in [[Mechanistic Interpretability]] research, which tries to see what models actually compute.
 
 ## See also
-- [[Moravec's Paradox]]
-- [[Frame Problem]]
-- [[Paperclip Maximizer]]
+- [[Artificial General Intelligence]]
+- [[Symbol Grounding Problem]]
+- [[Chatbot]]
 - [[Stochastic Parrot]]

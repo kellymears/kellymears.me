@@ -30,6 +30,6 @@ Floating point also undermines reproducibility. Different compilers, instruction
 ## See also
 - [[Strassen Algorithm]]
 - [[Decimal Arithmetic]]
-- [[Precision and Accuracy]]
+- [[Distributed Training]]
 - [[Fast Inverse Square Root]]
-- [[Patriot Missile Failure]]
+- [[Tensor Processing Unit]]

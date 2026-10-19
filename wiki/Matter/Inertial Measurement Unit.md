@@ -29,5 +29,5 @@ The body has its own version: the inner ear's canals sense rotation and its otol
 ## See also
 - [[Free Fall]]
 - [[Gyroscope]]
-- [[Magnetosphere]]
+- [[Autonomous Vehicle]]
 - [[Pigeon Post]]

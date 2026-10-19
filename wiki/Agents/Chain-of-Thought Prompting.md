@@ -24,3 +24,4 @@ The technique has since been absorbed into models themselves: so-called "reasoni
 - [[Self-Consistency]]
 - [[Explainable AI]]
 - [[ReAct]]
+- [[Scalable Oversight]]

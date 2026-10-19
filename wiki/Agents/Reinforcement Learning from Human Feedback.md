@@ -35,6 +35,6 @@ The judgments themselves carry the values and blind spots of whoever writes the 
 - [[Corrigibility]]
 - [[Instruction Tuning]]
 - [[Paperclip Maximizer]]
-- [[Data Labeling]]
-- [[Reinforcement Learning]]
+- [[Chatbot]]
+- [[Scalable Oversight]]
 - [[AI Alignment]]

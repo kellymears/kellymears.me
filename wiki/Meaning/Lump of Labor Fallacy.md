@@ -21,3 +21,4 @@ Each wave of automation revives the question of whether this time is different, 
 ## See also
 - [[Opportunity Cost]]
 - [[Brooks's Law]]
+- [[Artificial General Intelligence]]

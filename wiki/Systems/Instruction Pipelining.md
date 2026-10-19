@@ -30,4 +30,4 @@ The same pattern recurs outside processors. Any staged process gains throughput 
 - [[Memory Hierarchy]]
 - [[Assembly Language]]
 - [[Graphics Pipeline]]
-- [[Processor Register]]
+- [[Distributed Training]]

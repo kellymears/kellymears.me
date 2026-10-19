@@ -30,3 +30,4 @@ Modern machine learning bets on weak, general biases plus very large data and co
 ## See also
 - [[Model Routing]]
 - [[Supervised Learning]]
+- [[Artificial General Intelligence]]

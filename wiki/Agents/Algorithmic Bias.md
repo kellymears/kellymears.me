@@ -27,4 +27,4 @@ Human reviewers aren't a complete safeguard either, since people tend to defer t
 
 ## See also
 - [[Conformal Prediction]]
-- [[Data Labeling]]
+- [[ROC Curve]]

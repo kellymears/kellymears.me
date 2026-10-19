@@ -24,5 +24,5 @@ Countermeasures concern ordering and visibility: give the basis and the confiden
 - [[Explainable AI]]
 - [[Gimli Glider]]
 - [[Algorithmic Bias]]
-- [[Sycophancy]]
+- [[Autonomous Vehicle]]
 - [[Vigilance Decrement]]

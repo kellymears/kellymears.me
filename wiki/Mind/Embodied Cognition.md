@@ -28,4 +28,4 @@ The debate has returned with language models. Systems trained only on text have 
 ## See also
 - [[Emotional Contagion]]
 - [[Sense of Agency]]
-- [[Rubber Hand Illusion]]
+- [[Symbol Grounding Problem]]

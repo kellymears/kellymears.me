@@ -35,5 +35,5 @@ Multicore processors add a trap called **false sharing**. When two threads write
 - [[Memory Allocator]]
 - [[Entity Component System]]
 - [[Cache Coherence]]
-- [[Translation Lookaside Buffer]]
+- [[Tensor Processing Unit]]
 - [[Strassen Algorithm]]

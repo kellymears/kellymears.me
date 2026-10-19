@@ -16,7 +16,7 @@ Mitigations that work are all about grounding. Give the model tools to *look* ra
 ## See also
 - [[Dependency Confusion]]
 - [[Choice Blindness]]
-- [[Guardrail]]
+- [[Chatbot]]
 - [[Self-Consistency]]
 - [[Sycophancy]]
 - [[Stochastic Parrot]]
@@ -26,4 +26,4 @@ Mitigations that work are all about grounding. Give the model tools to *look* ra
 - [[Frame Problem]]
 - [[Pareidolia]]
 - [[Conformal Prediction]]
-- [[Precision and Recall]]
+- [[Symbol Grounding Problem]]

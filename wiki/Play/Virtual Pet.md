@@ -26,5 +26,5 @@ The same mechanics now drive engagement in apps that have nothing to do with pet
 Modern caretaking games tend toward gentleness, with no death and low pressure, as part of a broader trend toward relaxing play; see [[Cozy Game]]. Characters that follow and depend on the player in larger games draw on the same instincts; see [[Companion AI]].
 
 ## See also
-- [[Compulsion Loop]]
+- [[Chatbot]]
 - [[Pareidolia]]

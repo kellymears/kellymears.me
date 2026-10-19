@@ -23,6 +23,6 @@ Superposition is usually studied in the [[Residual stream]], the shared channel 
 ## See also
 - [[Linear Probe]]
 - [[Embedding]]
-- [[Residual Connection]]
+- [[Ablation Study]]
 - [[Double Descent]]
 - [[Autoencoder]]

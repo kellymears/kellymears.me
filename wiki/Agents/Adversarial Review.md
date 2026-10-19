@@ -21,7 +21,7 @@ The same discipline applies to humans reviewing machine output, and to the revie
 - [[Subagent]]
 - [[Multi-Agent Orchestration]]
 - [[Fault Tree Analysis]]
-- [[Sycophancy]]
+- [[Scalable Oversight]]
 
 ## Related
 - [[Wargame]]

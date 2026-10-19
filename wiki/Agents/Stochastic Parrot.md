@@ -26,6 +26,7 @@ The phrase spread after ChatGPT's release in late 2022, used by critics as short
 At minimum, the image reminds users that a model's output is a sample from a distribution. A simple [[Markov Chain]] parrots in the same sense, only badly.
 
 ## See also
-- [[Scaling Laws]]
+- [[Symbol Grounding Problem]]
 - [[Pretraining]]
 - [[World Model]]
+- [[Artificial General Intelligence]]
