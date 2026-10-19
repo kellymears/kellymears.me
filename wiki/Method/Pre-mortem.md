@@ -26,10 +26,10 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 
 ## See also
 - [[Five Whys]]
-- [[Delphi Method]]
+- [[Citicorp Center Engineering Crisis]]
 - [[Scenario Planning]]
 - [[Failure Mode and Effects Analysis]]
 - [[Inversion]]
 - [[After-Action Review]]
-- [[Architecture Decision Record]]
+- [[Fukushima Daiichi Nuclear Disaster]]
 - [[Precautionary Principle]]

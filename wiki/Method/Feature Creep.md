@@ -15,7 +15,7 @@ Feature creep also has a technical mirror: each added feature multiplies the sta
 The defense isn't refusing all requests — it's requiring that a new feature's cost be weighed against removing or simplifying something else, and treating "no" as the default answer a proposal has to earn its way past, which is most of what a real product roadmap and a firm [[Minimum Viable Product]] boundary are for.
 
 ## See also
-- [[Requirements Traceability]]
+- [[Sinking of the Vasa]]
 - [[You Aren't Gonna Need It]]
 - [[Dieter Rams]]
 - [[Law of Triviality]]

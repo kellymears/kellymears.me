@@ -18,5 +18,5 @@ The requirements are strict. All concurrency must go through the simulator's sch
 It combines ideas from several techniques. Like [[Fuzzing]] and [[Property-Based Testing]], it explores huge numbers of random scenarios and checks invariants. Like [[Chaos Engineering]], it injects real-world faults, but in simulation rather than production, and reproducibly. Every failure arrives as a perfect [[Reproducible Case]]. It complements [[Formal Verification]], which can prove a design correct, while simulation tests the actual implementation. Systems built around a [[Consensus Algorithm]] have been its most common target.
 
 ## See also
-- [[Linearizability Checking]]
+- [[Schiaparelli Lander Crash]]
 - [[AT&T Network Collapse of 1990]]

@@ -27,7 +27,7 @@ Overflow is also a security problem. A miscalculated buffer size that wraps to a
 Defenses include using wide enough types, checked arithmetic that reports overflow, and saturating arithmetic that clamps at the maximum. A famous bug in [[Binary Search]], computing the midpoint as `(low + high) / 2`, overflowed for arrays of over a billion elements, a reminder to test at the edges, as in [[Boundary Value Analysis]]. [[Floating-Point Arithmetic]] has the related problem of lost precision.
 
 ## See also
-- [[Extra Life]]
+- [[Schiaparelli Lander Crash]]
 - [[Zune Leap Year Bug]]
 - [[Endianness]]
 - [[Decimal Arithmetic]]

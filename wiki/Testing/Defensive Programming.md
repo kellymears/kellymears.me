@@ -33,6 +33,6 @@ A related principle, being liberal in what you accept, was once considered good 
 Defensive code needs testing too. The branches for bad input and failures are often the least exercised code in a program, and the most likely to be wrong when they finally run; see [[Fuzzing]] and [[Boundary Value Analysis]].
 
 ## See also
-- [[Facebook Outage of 2021]]
+- [[Schiaparelli Lander Crash]]
 - [[Graceful degradation]]
-- [[Goto Fail]]
+- [[Fail-Safe]]

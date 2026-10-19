@@ -26,3 +26,4 @@ The lessons for testing sit between those two findings:
 - [[Real-Time Operating System]]
 - [[Code Review]]
 - [[Microcontroller]]
+- [[Fail-Safe]]

@@ -28,6 +28,6 @@ The lessons echo through testing practice:
 Similar failures of trusted instruments appear in other disasters; see [[Mars Climate Orbiter]] and [[Mars Polar Lander]].
 
 ## See also
-- [[Space Shuttle Columbia Disaster]]
-- [[Ariane 5 Flight 501]]
+- [[Tacoma Narrows Bridge]]
+- [[Apollo 13]]
 - [[Lagrange Point]]

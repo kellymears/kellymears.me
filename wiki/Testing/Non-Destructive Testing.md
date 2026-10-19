@@ -30,4 +30,4 @@ Software testing has close parallels. Inspecting a running system without taking
 
 ## See also
 - [[Space Shuttle Columbia Disaster]]
-- [[Risk-Based Testing]]
+- [[Citicorp Center Engineering Crisis]]

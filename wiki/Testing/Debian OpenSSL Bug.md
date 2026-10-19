@@ -23,3 +23,4 @@ It's one of several famous failures in cryptographic code, alongside a duplicate
 ## See also
 - [[Heartbleed]]
 - [[XZ Utils Backdoor]]
+- [[Equifax Data Breach]]

@@ -23,3 +23,5 @@ Chernobyl followed seven years after an American accident that shared some featu
 ## See also
 - [[Chaos Engineering]]
 - [[Precautionary Principle]]
+- [[Fukushima Daiichi Nuclear Disaster]]
+- [[Fail-Safe]]

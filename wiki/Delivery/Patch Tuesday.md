@@ -25,3 +25,4 @@ Patch Tuesday reflects a basic trade-off in delivering fixes. Batching updates o
 - [[Automated Dependency Updates]]
 - [[Rollback]]
 - [[Heartbleed]]
+- [[Equifax Data Breach]]

@@ -13,11 +13,11 @@ The number is not headcount. A team of twelve can have a bus factor of one if el
 That reframing points to what actually raises the number. Writing things down is necessary but not sufficient — [[Documentation Rot]] means a note goes stale the moment the code it describes changes underneath it — so the interventions that hold up are built into the workflow rather than treated as separate effort: [[Code Review]] that requires the reasoning behind a change to be legible to a second person, not just the diff; a history that preserves [[Provenance]] so a future maintainer can trace why something is the way it is; [[Code Comment]] and [[Naming]] chosen for a stranger's benefit rather than the author's; and rotating ownership deliberately rather than letting whoever wrote a subsystem first stay its permanent sole owner. The alternative is a codebase full of the unexplained constraint [[Chesterton's Fence]] warns against, compounding with [[Conway's Law]]: a team drawn too narrowly around a component concentrates its architecture and its knowledge in the same few people.
 
 ## See also
-- [[Participation Inequality]]
+- [[Sinking of the Vasa]]
 - [[Transactive Memory]]
 - [[Good First Issue]]
 - [[WordPress]]
-- [[Comparative Advantage]]
+- [[Single Point of Failure]]
 - [[Heartbleed]]
 - [[Peter Principle]]
 - [[Protestware]]

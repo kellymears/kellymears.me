@@ -26,7 +26,7 @@ How a CA checks that you control a domain is called *domain validation*: you pro
 The same model appears elsewhere: [[Code Signing]] certificates for software, device certificates in an [[eSIM]], and the STIR/SHAKEN certificates behind [[Caller ID Authentication]].
 
 ## See also
-- [[Domain Registrar]]
+- [[Equifax Data Breach]]
 - [[DNS Cache Poisoning]]
 - [[Mutual TLS]]
 - [[Top-Level Domain]]

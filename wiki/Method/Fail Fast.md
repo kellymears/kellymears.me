@@ -18,7 +18,7 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 - [[Monad]]
 - [[After-Action Review]]
 - [[Murphy's Law]]
-- [[Antifragility]]
+- [[Fail-Safe]]
 - [[Garbage In, Garbage Out]]
 - [[Crash-Only Software]]
 

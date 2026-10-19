@@ -33,5 +33,5 @@ These failures appear only under real load and coupling. Deliberately injecting 
 ## See also
 - [[Earthquake]]
 - [[Gray Failure]]
-- [[Network Topology]]
+- [[Common-Mode Failure]]
 - [[Orbit]]

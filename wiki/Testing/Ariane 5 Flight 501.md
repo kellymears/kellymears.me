@@ -28,3 +28,4 @@ The flight shows that reuse moves assumptions along with code. A component's cor
 - [[Mars Climate Orbiter]]
 - [[Mariner 1]]
 - [[Hubble Mirror Flaw]]
+- [[Schiaparelli Lander Crash]]

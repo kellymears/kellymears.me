@@ -30,8 +30,8 @@ The weakness is the model. A HIL test shows that the controller handles the worl
 
 ## See also
 - [[Device Tree]]
-- [[Microcontroller]]
+- [[Apollo 13]]
 - [[Mars Polar Lander]]
 - [[Toyota Unintended Acceleration]]
 - [[Mariner 1]]
-- [[Mars Pathfinder Priority Inversion]]
+- [[Schiaparelli Lander Crash]]

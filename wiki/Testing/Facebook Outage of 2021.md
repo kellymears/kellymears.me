@@ -27,4 +27,4 @@ It shares its shape with other outages triggered by routine operator actions; se
 - [[AT&T Network Collapse of 1990]]
 - [[Anycast]]
 - [[Instant Messaging]]
-- [[Internet Shutdown]]
+- [[Single Point of Failure]]

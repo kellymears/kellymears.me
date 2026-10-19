@@ -29,5 +29,5 @@ It is also useful, in X-ray imaging, radiotherapy, and sterilizing medical equip
 
 ## See also
 - [[Nuclear Fission]]
-- [[Chernobyl Disaster]]
+- [[Fukushima Daiichi Nuclear Disaster]]
 - [[Supernova]]

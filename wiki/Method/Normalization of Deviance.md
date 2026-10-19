@@ -19,7 +19,7 @@ The mechanism is familiar well beyond spaceflight:
 
 The **Swiss cheese model**, from psychologist James Reason, explains why the drift is dangerous but rarely immediately fatal. Each defense in a system, such as a review, a test, an alert, or a checklist, is a slice of cheese with holes. An accident happens when holes in every slice briefly line up. Normalized deviance quietly widens holes in several slices at once, so each problem still looks contained, but the chance of alignment rises.
 
-Countering it takes deliberate effort, because the drift feels like experience:
+Countering it takes deliberate effort:
 
 - **Treat surprises as data.** An anomaly that caused no harm is a near miss, worth investigating while it's cheap, much as [[Fail Fast]] surfaces problems early.
 - **Keep the signal clean.** Fix or delete noisy alerts and flaky tests rather than learning to ignore them; the [[Broken Windows Theory]] makes a similar argument about visible disorder.
@@ -35,3 +35,4 @@ Normalization of deviance also explains why [[Hindsight Bias]] is so tempting af
 - [[Gimli Glider]]
 - [[Checklist]]
 - [[Hyatt Regency Walkway Collapse]]
+- [[Sinking of the Vasa]]

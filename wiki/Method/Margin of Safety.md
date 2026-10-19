@@ -16,7 +16,7 @@ Uncertainty enters from many directions:
 
 Typical factors reflect how much is unknown and how bad failure would be. Aircraft structures use about 1.5, because weight is costly and materials and loads are well characterized. Buildings use more, and elevator cables and lifting equipment use high factors, often 5 or more, because failure is catastrophic and wear is hard to see.
 
-The 1940 collapse of the Tacoma Narrows Bridge shows the limits of a margin. It was built with adequate strength against the loads its designers calculated, but wind set up a twisting oscillation they hadn't modeled. A margin protects against errors in the quantities you considered, not against failure modes you never thought of.
+The 1940 collapse of the [[Tacoma Narrows Bridge]] shows the limits of a margin. It was built with adequate strength against the loads its designers calculated, but wind set up a twisting oscillation they hadn't modeled. A margin protects against errors in the quantities you considered, not against failure modes you never thought of.
 
 The phrase entered investing through Benjamin Graham, who in *The Intelligent Investor* (1949) advised buying assets only well below their estimated value, so that errors in the estimate wouldn't turn into losses. The same logic applies far beyond bridges and stocks:
 
@@ -31,7 +31,6 @@ Margins also have costs: extra weight, idle capacity, slower schedules. Choosing
 
 ## See also
 - [[Cost-Benefit Analysis]]
-- [[Antifragility]]
-- [[Scenario Planning]]
+- [[Fail-Safe]]
 - [[Inversion]]
 - [[Sensitivity Analysis]]

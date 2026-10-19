@@ -27,6 +27,6 @@ Lighter development methods tend to treat full traceability as overhead, preferr
 A record of who changed what and when is a related but separate requirement in regulated work; see [[Audit Log]].
 
 ## See also
-- [[Post Office Horizon Scandal]]
-- [[Mars Polar Lander]]
-- [[Hyatt Regency Walkway Collapse]]
+- [[Sinking of the Vasa]]
+- [[Citicorp Center Engineering Crisis]]
+- [[Apollo 13]]

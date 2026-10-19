@@ -28,7 +28,7 @@ The unpredictability has uses too. Some hardware random number generators time r
 
 Radiation from decay is **ionizing**, energetic enough to knock electrons off atoms and break DNA, which radio waves and microwaves are not; see [[Specific Absorption Rate]]. In the 1920s, factory workers who painted glowing watch dials with radium paint shaped their brushes with their lips. Many developed severe bone damage, and their lawsuits reshaped workplace safety law; see [[Fluorescence]].
 
-Simulating how neutrons scatter through material for the first atomic bombs gave rise to the [[Monte Carlo Method]].
+Decay keeps generating heat after a reactor shuts down, which is why losing cooling melted the cores at Fukushima; see [[Fukushima Daiichi Nuclear Disaster]]. Simulating neutron scattering for the first atomic bombs gave rise to the [[Monte Carlo Method]].
 
 ## See also
 - [[Neutron Star]]

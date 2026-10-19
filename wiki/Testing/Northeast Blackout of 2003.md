@@ -24,5 +24,5 @@ The lessons for testing and operations:
 - **Slow erosion matters.** Unmanaged tree growth was a standing hazard nobody treated as urgent; see [[Normalization of Deviance]].
 
 ## See also
-- [[Normal Accidents]]
+- [[Common-Mode Failure]]
 - [[Three Mile Island Accident]]

@@ -25,3 +25,4 @@ The lessons Leveson drew are still cited. Reusing software doesn't make it safe,
 - [[Assertion]]
 - [[Blameless Postmortem]]
 - [[Space Shuttle Challenger Disaster]]
+- [[Fail-Safe]]

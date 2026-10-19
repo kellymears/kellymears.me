@@ -19,7 +19,7 @@ The common record types are few: an address record, an alias record pointing one
 - [[Top-Level Domain]]
 - [[Email Authentication]]
 - [[Encrypted Client Hello]]
-- [[Persistent Identifier]]
+- [[Single Point of Failure]]
 - [[Internet Service Provider]]
 - [[Time to First Byte]]
 - [[Loopback]]

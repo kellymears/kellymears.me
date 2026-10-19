@@ -28,5 +28,5 @@ Modern delivery has softened the line between acceptance and release. With a [[F
 
 ## See also
 - [[User Story]]
-- [[Jobs to Be Done]]
+- [[Sinking of the Vasa]]
 - [[Definition of Done]]

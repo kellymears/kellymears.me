@@ -30,4 +30,4 @@ When something goes wrong, a [[Blameless Postmortem]] often ends by asking which
 - [[Therac-25]]
 - [[Natural Mapping]]
 - [[GitLab Database Incident]]
-- [[Murphy's Law]]
+- [[Fail-Safe]]

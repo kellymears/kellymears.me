@@ -24,5 +24,5 @@ The lessons:
 - **Know what you ship.** You cannot patch what you cannot find.
 
 ## See also
-- [[Supply Chain Security]]
+- [[Equifax Data Breach]]
 - [[Incident Response]]

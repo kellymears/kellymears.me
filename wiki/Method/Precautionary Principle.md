@@ -24,6 +24,6 @@ Weaker versions survive these criticisms better. Read as "don't use uncertainty 
 ## See also
 - [[Scenario Planning]]
 - [[Cost-Benefit Analysis]]
-- [[Ambiguity Aversion]]
+- [[Fukushima Daiichi Nuclear Disaster]]
 - [[Three Mile Island Accident]]
 - [[Chernobyl Disaster]]

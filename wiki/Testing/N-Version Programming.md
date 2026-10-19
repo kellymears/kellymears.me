@@ -21,5 +21,5 @@ The voter has its own problems: it must not become a single point of failure, an
 In testing, the same principle turns into a bug-finding method. Running several implementations, such as multiple compilers or parsers, on the same inputs and looking for disagreements finds faults without needing to know the correct answer; see [[Differential Testing]] and [[Test Oracle]]. Ensembles of machine-learning models rely on the same logic of diverse errors; see [[Decision Tree]].
 
 ## See also
-- [[Air France Flight 447]]
-- [[Boeing 737 MAX Groundings]]
+- [[Single Point of Failure]]
+- [[Common-Mode Failure]]

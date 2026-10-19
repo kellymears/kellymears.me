@@ -29,5 +29,6 @@ The episode is a reminder that robustness lies partly in software that expects t
 
 ## See also
 - [[Mars Pathfinder Priority Inversion]]
-- [[Context Switch]]
+- [[Schiaparelli Lander Crash]]
 - [[Gyroscope]]
+- [[Apollo 13]]

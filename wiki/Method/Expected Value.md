@@ -30,4 +30,4 @@ Rare, extreme outcomes make the estimate fragile, since it depends on probabilit
 ## See also
 - [[Ambiguity Aversion]]
 - [[Veil of Ignorance]]
-- [[Identifiable Victim Effect]]
+- [[Common-Mode Failure]]

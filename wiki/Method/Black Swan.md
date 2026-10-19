@@ -29,7 +29,7 @@ Critics argue that the label gets applied to events that were foreseeable and si
 
 ## See also
 - [[Narrative Fallacy]]
-- [[Paradigm Shift]]
+- [[Fukushima Daiichi Nuclear Disaster]]
 - [[Scenario Planning]]
 - [[Ambiguity Aversion]]
 - [[Sensitivity Analysis]]

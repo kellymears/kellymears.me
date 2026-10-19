@@ -33,3 +33,5 @@ It's also an example of how individual skill can recover from systemic failure; 
 - [[Automation Bias]]
 - [[Three Mile Island Accident]]
 - [[Air France Flight 447]]
+- [[Apollo 13]]
+- [[Common-Mode Failure]]

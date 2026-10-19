@@ -28,5 +28,5 @@ For testing, the case shows that a [[Safety Case]] is only as good as its assump
 
 ## See also
 - [[Air France Flight 447]]
-- [[Verification and Validation]]
+- [[Single Point of Failure]]
 - [[Gimli Glider]]

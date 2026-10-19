@@ -32,7 +32,7 @@ Quorum ideas reach beyond databases. A [[Gossip Protocol]] may require several i
 
 ## See also
 - [[Wide-Column Store]]
-- [[N-Version Programming]]
+- [[Single Point of Failure]]
 - [[Token Ring]]
 - [[Arrow's Impossibility Theorem]]
 - [[Ranked-Choice Voting]]

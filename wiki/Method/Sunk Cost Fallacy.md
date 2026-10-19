@@ -19,7 +19,7 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 - [[Cost-Benefit Analysis]]
 - [[Obedience to Authority]]
 - [[Motivated Reasoning]]
-- [[Cognitive Dissonance]]
+- [[Sinking of the Vasa]]
 
 ## Related
 - [[Yak Shaving]]

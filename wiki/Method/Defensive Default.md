@@ -19,7 +19,7 @@ A related shape is the defensive *guard*: a null check protecting against a stat
 - [[Margin of Safety]]
 - [[Environment Variable]]
 - [[Principle of Least Astonishment]]
-- [[Date Picker]]
+- [[Fail-Safe]]
 - [[Decision Fatigue]]
 
 ## Related

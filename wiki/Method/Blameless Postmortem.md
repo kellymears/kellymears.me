@@ -16,7 +16,7 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 
 ## See also
 - [[DevOps]]
-- [[After-Action Review]]
+- [[Apollo 13]]
 - [[Mean Time to Recovery]]
 - [[Hanlon's Razor]]
 - [[Andon Cord]]
@@ -31,4 +31,4 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[ChatOps]]
 - [[Just Culture]]
 - [[Bug Triage]]
-- [[Git Blame]]
+- [[Citicorp Center Engineering Crisis]]

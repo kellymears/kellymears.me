@@ -25,7 +25,7 @@ A related discipline: when a test is written after a fix, revert the fix and wat
 - [[Test-Driven Development]]
 - [[LLM-as-Judge]]
 - [[N-Version Programming]]
-- [[Nondeterminism]]
+- [[Schiaparelli Lander Crash]]
 - [[Design by Contract]]
 - [[Therac-25]]
 

@@ -27,5 +27,5 @@ Earthquakes also affect infrastructure far away. A 2006 earthquake off Taiwan tr
 
 ## See also
 - [[Shock Wave]]
-- [[Black Swan]]
-- [[Tropical Cyclone]]
+- [[Fukushima Daiichi Nuclear Disaster]]
+- [[Tacoma Narrows Bridge]]

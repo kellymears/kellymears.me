@@ -18,10 +18,10 @@ For testing, the lesson is that tests on each side of an interface can all pass 
 The same class of error shows up wherever units cross a boundary. Medication errors where milligrams are read as micrograms are a recurring hazard. In 1983 an Air Canada Boeing 767 ran out of fuel in flight after its fuel load was calculated in pounds instead of kilograms, and glided to a landing at a former air force base in Gimli, Manitoba; see [[Checklist]].
 
 ## See also
-- [[Ariane 5 Flight 501]]
+- [[Schiaparelli Lander Crash]]
 - [[Interface definition language]]
 - [[Space Shuttle Columbia Disaster]]
 - [[Mariner 1]]
 - [[Mars Polar Lander]]
-- [[Hubble Mirror Flaw]]
+- [[Apollo 13]]
 - [[Gimli Glider]]

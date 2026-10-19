@@ -23,6 +23,6 @@ The fixes CrowdStrike announced read like a testing checklist:
 Microsoft and security vendors afterward began discussing ways to run such products outside the kernel, as Apple had already pushed vendors to do on macOS; see [[Least Privilege]]. Mac and Linux machines running Falcon were not affected by this file.
 
 ## See also
-- [[Knight Capital Incident]]
+- [[Common-Mode Failure]]
 - [[Facebook Outage of 2021]]
-- [[Over-the-Air Update]]
+- [[Single Point of Failure]]

@@ -16,7 +16,7 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Bystander Effect]]
 - [[Obedience to Authority]]
 - [[Space Shuttle Challenger Disaster]]
-- [[Scenario Planning]]
+- [[Sinking of the Vasa]]
 - [[Need for Closure]]
 - [[Devil's Advocate]]
 - [[Paradigm Shift]]
