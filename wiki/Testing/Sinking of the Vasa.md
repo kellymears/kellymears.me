@@ -25,3 +25,5 @@ The story echoes other failures where engineers raised concerns that were overru
 ## See also
 - [[Bus Factor]]
 - [[Safety Case]]
+- [[Comet Airliner Crashes]]
+- [[Quebec Bridge Collapse]]

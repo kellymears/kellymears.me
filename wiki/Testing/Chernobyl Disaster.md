@@ -21,7 +21,7 @@ Soviet authorities initially blamed the operators. A later international review 
 Chernobyl followed seven years after an American accident that shared some features; see [[Three Mile Island Accident]]. Both are central to the theory that complex, tightly coupled systems produce accidents no one can foresee; see [[Normal Accidents]].
 
 ## See also
-- [[Chaos Engineering]]
+- [[Deepwater Horizon Disaster]]
 - [[Precautionary Principle]]
 - [[Fukushima Daiichi Nuclear Disaster]]
 - [[Fail-Safe]]

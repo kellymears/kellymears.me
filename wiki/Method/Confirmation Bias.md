@@ -24,6 +24,6 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Naive Realism]]
 
 ## Related
-- [[Cognitive Bias]]
+- [[Deepwater Horizon Disaster]]
 - [[Three Mile Island Accident]]
 - [[Barnum Effect]]

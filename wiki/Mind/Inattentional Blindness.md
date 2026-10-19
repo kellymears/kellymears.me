@@ -22,7 +22,7 @@ It has practical consequences:
 Strong focus, as in [[Monotropism]] or [[Hyperfocus]], exaggerates both sides: deep engagement with the task and little awareness of anything outside it.
 
 ## See also
-- [[Blind Spot]]
-- [[Consciousness]]
+- [[Uber Self-Driving Car Crash]]
+- [[Tenerife Airport Disaster]]
 - [[Attentional Blink]]
 - [[Choice Blindness]]

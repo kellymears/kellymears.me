@@ -28,7 +28,7 @@ Critics argue the scenarios are so artificial that intuitions about them reveal 
 ## See also
 - [[Deontology]]
 - [[Ship of Theseus]]
-- [[Veil of Ignorance]]
+- [[Uber Self-Driving Car Crash]]
 - [[Thought Experiment]]
 - [[Obedience to Authority]]
 - [[Cost-Benefit Analysis]]

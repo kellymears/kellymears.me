@@ -23,6 +23,6 @@ Countermeasures concern ordering and visibility: give the basis and the confiden
 - [[Microsleep]]
 - [[Explainable AI]]
 - [[Gimli Glider]]
-- [[Algorithmic Bias]]
+- [[Uber Self-Driving Car Crash]]
 - [[Autonomous Vehicle]]
 - [[Vigilance Decrement]]

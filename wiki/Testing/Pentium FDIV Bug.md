@@ -24,3 +24,4 @@ The bug also shows the gap between how often a defect fires and what it costs. A
 - [[Decimal Arithmetic]]
 - [[Verification and Validation]]
 - [[Zune Leap Year Bug]]
+- [[Galaxy Note 7 Recall]]

@@ -21,5 +21,5 @@ Redundancy isn't free. Each extra component costs money and adds new ways to fai
 Redundancy also assumes failures are independent and random, like hardware wearing out; see [[Bathtub Curve]]. Software bugs don't work that way: two identical copies of a program will fail on the same input. Running different implementations side by side is one answer, with mixed results; see [[N-Version Programming]]. Where redundancy can't be added, designers aim for the failure to leave things safe; see [[Fail-Safe]].
 
 ## See also
-- [[Cascading Failure]]
-- [[Circuit Breaker]]
+- [[Galaxy Note 7 Recall]]
+- [[Apollo 1 Fire]]

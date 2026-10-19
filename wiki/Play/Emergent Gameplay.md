@@ -15,7 +15,7 @@ The design tension runs in both directions. Too little systemic interaction and 
 - [[Let's Play]]
 - [[Sandbox Game]]
 - [[Non-Player Character]]
-- [[Go]]
+- [[Millennium Bridge Wobble]]
 - [[Crafting System]]
 - [[Boids]]
 - [[Sequence Breaking]]

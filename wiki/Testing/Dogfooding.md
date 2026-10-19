@@ -33,4 +33,4 @@ Done well, dogfooding sits between automated suites and [[Exploratory Testing]]:
 - [[Software Release Life Cycle]]
 - [[IKEA Effect]]
 - [[Smoke Test]]
-- [[Nightly Build]]
+- [[Galaxy Note 7 Recall]]

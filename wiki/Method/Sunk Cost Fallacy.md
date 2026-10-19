@@ -18,13 +18,13 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 - [[Reversible Decision]]
 - [[Cost-Benefit Analysis]]
 - [[Obedience to Authority]]
-- [[Counterfactual Thinking]]
+- [[Quebec Bridge Collapse]]
 - [[Sinking of the Vasa]]
 
 ## Related
 - [[Yak Shaving]]
 - [[Mental Accounting]]
-- [[Cognitive Bias]]
+- [[Tenerife Airport Disaster]]
 - [[Post Office Horizon Scandal]]
 - [[Push Your Luck]]
 - [[Commitment Device]]

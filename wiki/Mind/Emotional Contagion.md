@@ -24,7 +24,7 @@ Contagion isn't the same as empathy. Catching a feeling is automatic, while unde
 The effect can be harnessed deliberately. Working alongside a calm, focused person can steady attention, and many people find quiet company makes hard tasks easier to start; see [[Body Doubling]]. People who hide their own expressions to fit in may find that the effort itself is draining; see [[Masking]].
 
 ## See also
-- [[Emotional Regulation]]
+- [[Millennium Bridge Wobble]]
 - [[Embodied Cognition]]
 - [[Identifiable Victim Effect]]
 - [[Empathy]]

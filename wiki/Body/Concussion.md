@@ -32,7 +32,7 @@ The brain's ability to recover, described under [[Neuroplasticity]], is substant
 
 ## See also
 - [[Consciousness]]
-- [[Ankle Sprain]]
+- [[Crash Testing]]
 - [[Vertigo]]
 - [[Bruise]]
 - [[Creatine]]

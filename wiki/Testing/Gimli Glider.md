@@ -29,8 +29,8 @@ The incident has become a teaching case in several fields:
 It's also an example of how individual skill can recover from systemic failure; see [[Normal Accidents]].
 
 ## See also
-- [[Fault Tree Analysis]]
-- [[Automation Bias]]
+- [[Tenerife Airport Disaster]]
+- [[Comet Airliner Crashes]]
 - [[Three Mile Island Accident]]
 - [[Air France Flight 447]]
 - [[Apollo 13]]

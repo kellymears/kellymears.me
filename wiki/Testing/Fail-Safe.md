@@ -22,5 +22,6 @@ In software, the same thinking shows up in several forms. A program that hits an
 Fail-safe design is closely related to designing so errors are physically hard to make; see [[Forcing Function]]. It's checked by analyzing each way a component can fail and the resulting state; see [[Failure Mode and Effects Analysis]]. Its limits show in cases where the safe default was disabled or overridden; see [[Therac-25]] and [[Defensive Programming]].
 
 ## See also
-- [[Safety Case]]
-- [[Margin of Safety]]
+- [[Deepwater Horizon Disaster]]
+- [[Crash Testing]]
+- [[Apollo 1 Fire]]

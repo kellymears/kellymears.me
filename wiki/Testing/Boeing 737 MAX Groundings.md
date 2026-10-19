@@ -27,6 +27,6 @@ The fix made MCAS compare both sensors, fire only once per event, and never comm
 For testing, the case shows that a [[Safety Case]] is only as good as its assumptions about the humans in the loop, and that an analysis of how parts fail must include the sensors feeding the software; see [[Failure Mode and Effects Analysis]] and [[Fault Tree Analysis]].
 
 ## See also
-- [[Air France Flight 447]]
-- [[Single Point of Failure]]
+- [[Galaxy Note 7 Recall]]
+- [[Comet Airliner Crashes]]
 - [[Gimli Glider]]

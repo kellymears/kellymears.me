@@ -23,6 +23,6 @@ Deaths from radiation itself appear to have been very few. The evacuation took a
 Afterward, regulators worldwide required plants to plan for losing all power for extended periods, with portable generators stored away from the plant; see [[Safety Case]]. Like the accident at Three Mile Island, it showed operators struggling with failed instruments in the dark; see [[Three Mile Island Accident]] and [[Normal Accidents]].
 
 ## See also
-- [[Black Swan]]
+- [[Deepwater Horizon Disaster]]
 - [[Ionizing Radiation]]
 - [[Isotope]]

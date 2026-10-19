@@ -25,7 +25,7 @@ Real systems live with the impossibility rather than solving it:
 The problem sits beside other impossibility results that shape the field, including the [[CAP Theorem]], which forces a choice during a [[Network Partition]], and the limits that every [[Consensus Algorithm]] works around. Its practical lesson matches the [[Fallacies of Distributed Computing]]: the network is not reliable, and protocols must be designed for messages that vanish.
 
 ## See also
-- [[Schelling Point]]
+- [[Tenerife Airport Disaster]]
 - [[Delay-Tolerant Networking]]
 - [[Sliding Window Protocol]]
 - [[Thought Experiment]]

@@ -26,7 +26,7 @@ Load shedding works with other defenses rather than replacing them. [[Backpressu
 
 ## See also
 - [[Slashdot Effect]]
-- [[Thundering Herd]]
+- [[Healthcare.gov Launch]]
 - [[Service Level Objective]]
 - [[Northeast Blackout of 2003]]
 - [[Cloudflare Outage of 2019]]

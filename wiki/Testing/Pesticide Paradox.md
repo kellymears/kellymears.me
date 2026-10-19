@@ -32,6 +32,6 @@ The pesticide paradox is often listed with a related principle, **defect cluster
 The broader lesson is that silence from a test suite is ambiguous. No failures can mean the software is good, or that the tests have stopped looking.
 
 ## See also
-- [[Test Smell]]
+- [[Crash Testing]]
 - [[Fault Seeding]]
 - [[Software Inspection]]

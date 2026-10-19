@@ -20,7 +20,7 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 - [[Median Voter Theorem]]
 - [[Pluralistic Ignorance]]
 - [[Yawning]]
-- [[Observational Learning]]
+- [[Millennium Bridge Wobble]]
 - [[Strength of Weak Ties]]
 - [[Social Deduction Game]]
 - [[Eternal September]]

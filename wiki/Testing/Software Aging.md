@@ -29,5 +29,5 @@ Reliability engineers describe failure rates that rise toward the end of a produ
 
 ## See also
 - [[Software Rot]]
-- [[Garbage Collection]]
+- [[Comet Airliner Crashes]]
 - [[Cellular Senescence]]

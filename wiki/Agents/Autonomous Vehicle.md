@@ -21,5 +21,5 @@ Approaches differ. Many companies build modular pipelines with high-definition m
 Driverless robotaxis now carry paying passengers in several cities, and regulators ask companies to argue in structured form why their systems are safe; see [[Safety Case]]. Whether self-driving cars will improve road safety overall, and how to compare their crashes to human ones, remains debated.
 
 ## See also
-- [[Trolley Problem]]
-- [[Human in the Loop]]
+- [[Crash Testing]]
+- [[Uber Self-Driving Car Crash]]

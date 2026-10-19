@@ -36,5 +36,5 @@ The distinction matters because teams tend to over-invest in verification. It is
 High-stakes fields formalize V&V. Aerospace, medical devices, and nuclear systems require independent verification and validation by teams separate from the developers, because builders share the same blind spots as their specification. In software generally, bringing users in early, a validation version of [[Shift-Left Testing]], catches the most expensive mistakes: the ones in the requirements themselves.
 
 ## See also
-- [[Tacoma Narrows Bridge]]
+- [[Quebec Bridge Collapse]]
 - [[Citicorp Center Engineering Crisis]]

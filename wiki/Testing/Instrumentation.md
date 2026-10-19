@@ -16,7 +16,7 @@ Instrumentation also has its own failure modes to distinguish from real ones: a 
 ## See also
 - [[Schiaparelli Lander Crash]]
 - [[Three Mile Island Accident]]
-- [[Resource Starvation]]
+- [[Crash Testing]]
 - [[Apollo 13]]
 - [[Branch Coverage]]
 - [[Mars Pathfinder Priority Inversion]]

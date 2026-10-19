@@ -23,3 +23,4 @@ In CI pipelines, smoke tests commonly gate whether the expensive suite even runs
 - [[Risk-Based Testing]]
 - [[Monkey Testing]]
 - [[Nightly Build]]
+- [[Healthcare.gov Launch]]

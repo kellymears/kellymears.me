@@ -20,6 +20,7 @@ The case shows how a design can be correct at review and become unsafe through a
 
 ## See also
 - [[Tacoma Narrows Bridge]]
-- [[Failure Mode and Effects Analysis]]
+- [[Quebec Bridge Collapse]]
 - [[Resonance]]
 - [[Concrete]]
+- [[Millennium Bridge Wobble]]

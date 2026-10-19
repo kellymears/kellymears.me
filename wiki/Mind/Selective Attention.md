@@ -23,7 +23,7 @@ Attention is steered from two directions. *Top-down* control follows goals, and 
 When the filter is narrow, the rest of the scene can vanish, as [[Inattentional Blindness]] shows. When it is leaky, everything competes. Many autistic and ADHD people describe weaker filtering of background input, contributing to [[Sensory Overload]], alongside an ability to lock onto a single interest, as [[Monotropism]] describes and [[Hyperfocus]] shows. Holding a focus also draws on [[Working Memory]] and [[Executive Function]], and switching it leaves [[Attention Residue]].
 
 ## See also
-- [[Hemispatial Neglect]]
+- [[Tenerife Airport Disaster]]
 - [[Attentional Blink]]
 - [[Multistable Perception]]
 - [[Stroop Effect]]

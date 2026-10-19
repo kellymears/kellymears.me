@@ -26,3 +26,4 @@ The lessons Leveson drew are still cited. Reusing software doesn't make it safe,
 - [[Blameless Postmortem]]
 - [[Space Shuttle Challenger Disaster]]
 - [[Fail-Safe]]
+- [[Uber Self-Driving Car Crash]]

@@ -26,6 +26,6 @@ Changes followed in pitot tube design, stall recovery training, and simulator pr
 
 ## See also
 - [[Gimli Glider]]
-- [[Normal Accidents]]
-- [[Common-Mode Failure]]
+- [[Comet Airliner Crashes]]
+- [[Tenerife Airport Disaster]]
 - [[Autonomous Vehicle]]

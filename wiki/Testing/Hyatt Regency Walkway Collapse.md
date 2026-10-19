@@ -21,6 +21,6 @@ The engineers of record lost their licenses, and the case became one of the most
 Software teams face the same failure when a small edit quietly invalidates an assumption elsewhere, and no test or reviewer looks at the interaction; see [[Change management]] and [[Load Testing]]. Engineers sometimes describe the walkway connection as a case where the structure was never asked the right question until it answered on its own; see [[Safety Case]].
 
 ## See also
-- [[Citicorp Center Engineering Crisis]]
-- [[Space Shuttle Challenger Disaster]]
-- [[Tacoma Narrows Bridge]]
+- [[Millennium Bridge Wobble]]
+- [[Quebec Bridge Collapse]]
+- [[Comet Airliner Crashes]]

@@ -28,6 +28,7 @@ The lessons echo through testing practice:
 Similar failures of trusted instruments appear in other disasters; see [[Mars Climate Orbiter]] and [[Mars Polar Lander]].
 
 ## See also
-- [[Tacoma Narrows Bridge]]
+- [[Galaxy Note 7 Recall]]
 - [[Apollo 13]]
 - [[Lagrange Point]]
+- [[Comet Airliner Crashes]]

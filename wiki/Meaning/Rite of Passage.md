@@ -31,3 +31,4 @@ Industrial societies have thinned many of these rituals. Life transitions are of
 - [[Reminiscence Bump]]
 - [[Event Segmentation]]
 - [[Shame]]
+- [[Quebec Bridge Collapse]]

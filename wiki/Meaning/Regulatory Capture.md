@@ -14,7 +14,7 @@ The word is also overused. "Capture" can function as a [[Plausible Mechanism]] t
 
 ## See also
 - [[Fukushima Daiichi Nuclear Disaster]]
-- [[Monopoly]]
+- [[Deepwater Horizon Disaster]]
 - [[Boeing 737 MAX Groundings]]
 - [[Iron Law of Oligarchy]]
 - [[Net Neutrality]]

@@ -28,7 +28,7 @@ Model-based testing differs from [[Formal Verification]]. Model checking explore
 The main costs are building the model and keeping it right. A model that is as complex as the system is just a second implementation, with its own bugs; the art is abstracting away everything except the behavior under test. Models also suffer *state explosion*, where combinations multiply beyond what any tool can cover, so practical models stay small and focused.
 
 ## See also
-- [[Finite State Machine]]
+- [[Crash Testing]]
 - [[Property-Based Testing]]
 - [[Test Oracle]]
 - [[Fuzzing]]

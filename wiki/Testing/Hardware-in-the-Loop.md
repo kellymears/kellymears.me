@@ -30,8 +30,8 @@ The weakness is the model. A HIL test shows that the controller handles the worl
 
 ## See also
 - [[Device Tree]]
-- [[Apollo 13]]
+- [[Uber Self-Driving Car Crash]]
 - [[Mars Polar Lander]]
 - [[Toyota Unintended Acceleration]]
 - [[Mariner 1]]
-- [[Schiaparelli Lander Crash]]
+- [[Crash Testing]]

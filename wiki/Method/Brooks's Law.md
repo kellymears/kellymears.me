@@ -23,7 +23,7 @@ The practical corollary is that a genuinely late project is rescued by removing 
 ## Related
 - [[Lehman's Laws of Software Evolution]]
 - [[Gantt Chart]]
-- [[Dunbar's Number]]
+- [[Healthcare.gov Launch]]
 - [[Two-Pizza Team]]
 - [[Amdahl's Law]]
 - [[Team Topologies]]

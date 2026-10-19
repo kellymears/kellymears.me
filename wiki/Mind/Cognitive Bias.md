@@ -24,5 +24,5 @@ The research program has critics. Gerd Gigerenzer argues for **ecological ration
 Knowing about biases is a weak defense. People readily spot bias in others while rating themselves as less affected, the **bias blind spot**; see [[Naive Realism]]. Studies of **debiasing** find that general warnings do little. What helps more is changing the process instead of the person: asking people to consider the opposite, using structured procedures and checklists, gathering independent estimates before discussion, and imagining in advance how a plan could fail; see [[Pre-mortem]].
 
 ## See also
-- [[Hindsight Bias]]
+- [[Deepwater Horizon Disaster]]
 - [[Sunk Cost Fallacy]]

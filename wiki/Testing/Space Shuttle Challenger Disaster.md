@@ -19,7 +19,7 @@ The presidential commission that investigated, known as the **Rogers Commission*
 Challenger became a standard case study in engineering ethics and safety management, alongside the [[Citicorp Center Engineering Crisis]]. It shows how risk analysis can be bent by schedule pressure, and how a formal argument for safety is only as good as the evidence behind it; see [[Safety Case]] and [[Failure Mode and Effects Analysis]]. It's easy to see the warning signs afterward; see [[Hindsight Bias]]. Seventeen years later, a second shuttle was lost to a similar pattern of tolerated anomalies; see [[Space Shuttle Columbia Disaster]].
 
 ## See also
-- [[Sinking of the Vasa]]
+- [[Apollo 1 Fire]]
 - [[Therac-25]]
 - [[Just Culture]]
 - [[Apollo 13]]

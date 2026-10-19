@@ -30,7 +30,7 @@ The middle region's constant rate means that, for a working part in useful life,
 
 ## See also
 - [[Cellular Senescence]]
-- [[Non-Destructive Testing]]
+- [[Crash Testing]]
 - [[OLED]]
-- [[Hard Disk Drive]]
+- [[Comet Airliner Crashes]]
 - [[Osteoarthritis]]

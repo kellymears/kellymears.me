@@ -26,8 +26,8 @@ The same structure is used after the fact, working back from an accident to its 
 Security teams use **attack trees**, a variant in which the top event is an attacker's goal and the branches are ways to reach it; see [[Adversarial Review]]. The limits are shared: a tree contains only the failures someone thought to draw; see [[Pre-mortem]].
 
 ## See also
-- [[Common-Mode Failure]]
+- [[Comet Airliner Crashes]]
 - [[Bayesian Network]]
 - [[Gimli Glider]]
-- [[Fukushima Daiichi Nuclear Disaster]]
-- [[Ishikawa Diagram]]
+- [[Deepwater Horizon Disaster]]
+- [[Apollo 1 Fire]]

@@ -20,3 +20,4 @@ The right amount depends on context. Safety-critical systems, hardware, and publ
 ## See also
 - [[Premature Optimization]]
 - [[Gall's Law]]
+- [[Healthcare.gov Launch]]

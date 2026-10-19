@@ -25,5 +25,5 @@ Seeding also explains a common worry. A bug bash that finds nothing doesn't prov
 
 ## See also
 - [[Pesticide Paradox]]
-- [[Survivorship Bias]]
+- [[Galaxy Note 7 Recall]]
 - [[Phishing]]

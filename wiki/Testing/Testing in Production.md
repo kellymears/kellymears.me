@@ -28,5 +28,5 @@ Testing in production doesn't replace earlier testing. Unit, integration, and en
 
 ## See also
 - [[Non-Destructive Testing]]
-- [[Chernobyl Disaster]]
+- [[Uber Self-Driving Car Crash]]
 - [[GitLab Database Incident]]

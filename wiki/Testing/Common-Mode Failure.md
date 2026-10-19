@@ -23,4 +23,6 @@ Common-mode thinking also explains why failures cascade across organizations tha
 ## See also
 - [[Normal Accidents]]
 - [[Fail-Safe]]
-- [[Chaos Engineering]]
+- [[Deepwater Horizon Disaster]]
+- [[Millennium Bridge Wobble]]
+- [[Galaxy Note 7 Recall]]

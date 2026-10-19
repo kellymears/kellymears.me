@@ -28,7 +28,7 @@ Remedies follow from Asch's findings: collect opinions privately before discussi
 
 ## See also
 - [[Civil Disobedience]]
-- [[Need for Closure]]
+- [[Millennium Bridge Wobble]]
 - [[Bank Run]]
 - [[Emotional Contagion]]
 - [[Observational Learning]]

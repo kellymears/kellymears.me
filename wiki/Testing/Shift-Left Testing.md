@@ -27,5 +27,5 @@ The [[Test Pyramid]] expresses the same priorities: many fast, early tests at th
 Shifting left has pitfalls. Piling slow checks into the developer's loop makes every commit painful and invites people to skip them. Early checks must be fast and reliable; a pre-commit hook that takes five minutes, or a flaky test that fails at random, teaches people to bypass the system. It also shouldn't mean handing all testing to developers and eliminating specialist testers, whose [[Exploratory Testing]] finds problems no automated check anticipates. The aim is earlier feedback, not less testing.
 
 ## See also
-- [[Verification and Validation]]
+- [[Healthcare.gov Launch]]
 - [[Testing in Production]]

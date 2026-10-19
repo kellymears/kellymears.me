@@ -30,7 +30,7 @@ Roller coaster loops are teardrop-shaped rather than circular so that the force 
 
 ## See also
 - [[Escape Velocity]]
-- [[Isotope]]
+- [[Crash Testing]]
 - [[Lagrange Point]]
 - [[Gyroscope]]
 - [[Bicycle Stability]]

@@ -16,10 +16,10 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 
 ## See also
 - [[DevOps]]
-- [[Ishikawa Diagram]]
+- [[Comet Airliner Crashes]]
 - [[Mean Time to Recovery]]
 - [[Hanlon's Razor]]
-- [[Andon Cord]]
+- [[Apollo 1 Fire]]
 - [[Gimli Glider]]
 
 ## Related
@@ -31,4 +31,4 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[ChatOps]]
 - [[Just Culture]]
 - [[Bug Triage]]
-- [[Citicorp Center Engineering Crisis]]
+- [[Tenerife Airport Disaster]]

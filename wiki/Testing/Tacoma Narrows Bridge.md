@@ -24,3 +24,5 @@ The same pattern shows up in other failures: a design reaching beyond experience
 - [[Citicorp Center Engineering Crisis]]
 - [[Elasticity]]
 - [[Failure Mode and Effects Analysis]]
+- [[Millennium Bridge Wobble]]
+- [[Quebec Bridge Collapse]]

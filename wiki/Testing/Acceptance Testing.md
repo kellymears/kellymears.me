@@ -28,5 +28,5 @@ Modern delivery has softened the line between acceptance and release. With a [[F
 
 ## See also
 - [[User Story]]
-- [[Sinking of the Vasa]]
-- [[Definition of Done]]
+- [[Galaxy Note 7 Recall]]
+- [[Crash Testing]]

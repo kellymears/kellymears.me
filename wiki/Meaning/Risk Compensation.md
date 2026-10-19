@@ -29,7 +29,7 @@ The idea generalizes beyond physical risk:
 Designers sometimes work with the effect rather than against it. Some traffic engineers remove signs and road markings in town centers, so drivers feel less certain and slow down. The general principle is that people respond to perceived risk, not measured risk, so safety design has to account for what people feel as well as what's true.
 
 ## See also
-- [[Cobra Effect]]
+- [[Crash Testing]]
 - [[Precautionary Principle]]
 - [[Third-Person Effect]]
 - [[Sunburn]]
