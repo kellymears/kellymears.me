@@ -27,3 +27,5 @@ Once found, an egg's status is fragile. Spreading the secret spoils the discover
 ## See also
 - [[Game Modding]]
 - [[Achievement Hunting]]
+- [[Cheat Code]]
+- [[Side Quest]]

@@ -16,10 +16,10 @@ Two forces pull against the form. Sequence breaking — reaching a gate's far si
 
 ## See also
 - [[Soulslike]]
-- [[Environmental Storytelling]]
+- [[Indie Game]]
 - [[Platformer]]
 - [[Tutorial Design]]
-- [[Knowledge Graph]]
+- [[Boss Battle]]
 - [[Sequence Breaking]]
 - [[Parallax Scrolling]]
 - [[Level Design]]

@@ -19,6 +19,6 @@ What distinguishes the two is not the loop's shape but its **incentive structure
 - [[Gamification]]
 - [[Faucets and Sinks]]
 - [[Match-Three]]
-- [[Zeigarnik Effect]]
+- [[Experience Point]]
 - [[Virtual Pet]]
 - [[Grinding]]

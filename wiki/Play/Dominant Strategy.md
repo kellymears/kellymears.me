@@ -29,5 +29,5 @@ The concept also helps explain why players optimize the fun out of games. Given 
 - [[Power Creep]]
 - [[Solved Game]]
 - [[Bushnell's Law]]
-- [[Interesting Decisions]]
+- [[Real-Time Strategy]]
 - [[Playtesting]]

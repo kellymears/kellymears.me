@@ -32,6 +32,6 @@ Indicators have accessibility needs too. Spinning and pulsing animation should r
 ## See also
 - [[Empty State]]
 - [[Pull-to-Refresh]]
-- [[Easing]]
-- [[Lazy Loading]]
+- [[Experience Point]]
+- [[Heads-Up Display]]
 - [[Battle Pass]]

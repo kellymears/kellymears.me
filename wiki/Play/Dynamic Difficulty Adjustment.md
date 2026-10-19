@@ -38,3 +38,4 @@ DDA connects to broader ideas: [[Matchmaking Rating]] adjusts difficulty in mult
 - [[Self-Play]]
 - [[Catch-Up Mechanic]]
 - [[Cooperative Game]]
+- [[Experience Point]]

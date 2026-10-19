@@ -17,4 +17,4 @@ The term itself is fan-coined, first circulating in enthusiast criticism rather 
 - [[Game Jam]]
 - [[Easter Egg]]
 - [[Alternate Reality Game]]
-- [[Sequence Breaking]]
+- [[Indie Game]]

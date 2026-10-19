@@ -17,3 +17,5 @@ Escort missions sit close to [[Companion AI]] generally but occupy its harshest 
 - [[Soulslike]]
 - [[Stealth Mechanics]]
 - [[Cooperative Game]]
+- [[Non-Player Character]]
+- [[Side Quest]]

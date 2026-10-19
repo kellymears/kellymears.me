@@ -30,6 +30,6 @@ Organizations shape locus of control. Blaming individuals for system failures te
 ## See also
 - [[Sense of Agency]]
 - [[Commitment Device]]
-- [[Self-Serving Bias]]
+- [[Push Your Luck]]
 - [[Just-World Hypothesis]]
 - [[Attachment Theory]]

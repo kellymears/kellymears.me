@@ -28,6 +28,6 @@ Related forms include [[Idle Game]] structures, management games such as the [[C
 
 ## See also
 - [[Match-Three]]
-- [[Time as Resource]]
-- [[Virtual Pet]]
+- [[Indie Game]]
+- [[Local Multiplayer]]
 - [[Third Place]]

@@ -16,7 +16,7 @@ Datamined numbers also age unevenly. A figure pulled from a [[Live Service Game]
 
 ## See also
 - [[Easter Egg]]
-- [[Provenance]]
+- [[Cheat Code]]
 - [[Anti-Cheat]]
 - [[Emulation]]
 - [[Alternate Reality Game]]

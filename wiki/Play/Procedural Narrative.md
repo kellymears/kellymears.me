@@ -21,3 +21,4 @@ The genre's real weakness is a legibility gap between generation and experience.
 - [[Deus ex Machina]]
 - [[Hero's Journey]]
 - [[Gamebook]]
+- [[Non-Player Character]]

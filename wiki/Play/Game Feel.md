@@ -17,7 +17,7 @@ Two adjacent concerns. Consistency requires a fixed timestep and clean [[Determi
 ## See also
 - [[Pinball]]
 - [[Platformer]]
-- [[Coyote Time]]
+- [[Heads-Up Display]]
 - [[Haptic Feedback]]
 - [[Hit Stop]]
 - [[Magnus Effect]]

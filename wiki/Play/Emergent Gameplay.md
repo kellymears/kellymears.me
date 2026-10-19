@@ -14,7 +14,7 @@ The design tension runs in both directions. Too little systemic interaction and 
 ## See also
 - [[Let's Play]]
 - [[Sandbox Game]]
-- [[Procedural Generation]]
+- [[Non-Player Character]]
 - [[Game AI]]
 - [[Speedrun]]
 - [[Boids]]

@@ -15,7 +15,7 @@ The design problem it solves is the tail of the failure curve. A run-based game 
 The line worth holding is whether persistence removes obstacles or removes decisions. An unlock that adds a viable strategy widens the space the player reasons about; a flat damage increase narrows it, since the same strategy simply works now. The first sustains the [[Game Feel]] of mastery over hundreds of runs, and the second replaces mastery with attendance — which is why the mechanic appears wherever a designer wants a hard game to become a daily one, including in [[Live Service Game]] design that is not run-based at all.
 
 ## See also
-- [[Roguelike]]
+- [[Experience Point]]
 - [[Soulslike]]
 - [[Idle Game]]
 - [[Procedural Generation]]

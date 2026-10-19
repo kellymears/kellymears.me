@@ -19,3 +19,4 @@ summary: a genre of indirect settlement control where production chains and mood
 - [[Goodhart's Law]]
 - [[Observability]]
 - [[Cozy Game]]
+- [[Real-Time Strategy]]

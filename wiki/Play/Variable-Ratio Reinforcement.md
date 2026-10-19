@@ -20,4 +20,4 @@ What is established is the behavioral finding above, replicated across species a
 - [[Pull-to-Refresh]]
 - [[Reward Prediction Error]]
 - [[Classical Conditioning]]
-- [[Loss Aversion]]
+- [[Push Your Luck]]

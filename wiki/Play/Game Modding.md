@@ -17,10 +17,10 @@ Longevity follows from all of it: a game with an active mod scene keeps being pl
 
 ## See also
 - [[Easter Egg]]
-- [[Package Manager]]
+- [[Cheat Code]]
 - [[Game Engine]]
 - [[Doom Engine]]
-- [[Game Preservation]]
-- [[Temporal Upscaling]]
+- [[Indie Game]]
+- [[Real-Time Strategy]]
 - [[Game Jam]]
 - [[Walking Simulator]]

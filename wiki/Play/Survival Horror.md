@@ -14,7 +14,7 @@ The genre has two ancestors, and they gave different things. [[Sweet Home]] (198
 ## See also
 - [[Checkpoint]]
 - [[Metroidvania]]
-- [[Diegetic Interface]]
+- [[Heads-Up Display]]
 - [[Environmental Storytelling]]
 - [[Game Feel]]
 - [[Cozy Game]]

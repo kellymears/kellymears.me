@@ -28,4 +28,4 @@ MUDs connected to the same culture as other text-era community spaces; see [[Bul
 
 ## See also
 - [[Sandbox Game]]
-- [[Grinding]]
+- [[Non-Player Character]]

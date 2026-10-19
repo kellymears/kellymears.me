@@ -36,3 +36,4 @@ Shmups faded from the mainstream as arcades declined, but they influenced later 
 - [[Speedrun]]
 - [[Vector Display]]
 - [[Arcade Game]]
+- [[Boss Battle]]

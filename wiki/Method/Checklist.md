@@ -26,6 +26,6 @@ In software, the same ideas appear in release procedures, incident runbooks, and
 Checklists also have failure modes. Ticking boxes without performing the checks turns them into ritual; see [[Cargo Cult]]. Lists that grow after every incident become too long to use; see [[Feature Creep]].
 
 ## See also
-- [[Flowchart]]
+- [[Side Quest]]
 - [[Apollo 11 Program Alarms]]
 - [[Failure Mode and Effects Analysis]]

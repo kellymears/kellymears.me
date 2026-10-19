@@ -18,3 +18,4 @@ Companion AI is best understood as a special case of [[Game AI]] generally, but 
 - [[ELIZA Effect]]
 - [[Cooperative Game]]
 - [[Virtual Pet]]
+- [[Non-Player Character]]

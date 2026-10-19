@@ -38,4 +38,4 @@ Meier's view has critics. Not every game is about decisions. Action games are of
 
 ## See also
 - [[Eurogame]]
-- [[Input and Output Randomness]]
+- [[Push Your Luck]]

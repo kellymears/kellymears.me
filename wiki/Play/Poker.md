@@ -30,3 +30,4 @@ Poker became a benchmark for artificial intelligence because hidden information 
 - [[Gambler's Fallacy]]
 - [[Social Deduction Game]]
 - [[Trick-Taking Game]]
+- [[Push Your Luck]]

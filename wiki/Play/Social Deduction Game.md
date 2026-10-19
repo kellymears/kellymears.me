@@ -28,7 +28,7 @@ The genre has appeared in research on group decision-making and in tests of lang
 ## See also
 - [[Tabletop Role-Playing Game]]
 - [[Bartle Taxonomy]]
-- [[Emergent Gameplay]]
+- [[Local Multiplayer]]
 - [[Perfect Information]]
 - [[Griefing]]
 - [[Cooperative Game]]

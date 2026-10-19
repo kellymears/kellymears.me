@@ -19,3 +19,4 @@ The shop's randomized unit pool is a [[Variable-Ratio Reinforcement]] engine wea
 - [[Roguelike Deckbuilder]]
 - [[Variable-Ratio Reinforcement]]
 - [[Pity Timer]]
+- [[Real-Time Strategy]]

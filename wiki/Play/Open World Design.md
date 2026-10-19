@@ -19,3 +19,5 @@ Open world design shares [[Fog of War]]'s reveal-the-map instinct at a meta leve
 - [[Sequence Breaking]]
 - [[Level Design]]
 - [[Terrain Generation]]
+- [[Heads-Up Display]]
+- [[Side Quest]]

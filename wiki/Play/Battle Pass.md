@@ -31,3 +31,4 @@ The term **season pass** originally meant something different: a one-time purcha
 - [[Gamification]]
 - [[Esports]]
 - [[Grinding]]
+- [[Experience Point]]

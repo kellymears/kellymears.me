@@ -14,8 +14,8 @@ The stronger argument runs the other way: a toggle nobody is shamed for using is
 
 ## See also
 - [[Bushnell's Law]]
-- [[Accessibility]]
-- [[Permadeath]]
+- [[Cheat Code]]
+- [[Local Multiplayer]]
 - [[Tutorial Design]]
 - [[Coyote Time]]
 - [[Dynamic Difficulty Adjustment]]

@@ -30,5 +30,5 @@ People face the same dilemma: the favorite restaurant or a new one. Research on 
 - [[Expected Value]]
 - [[Model Routing]]
 - [[Curiosity]]
-- [[Randomized Controlled Trial]]
+- [[Push Your Luck]]
 - [[Statistical Significance]]

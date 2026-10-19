@@ -26,7 +26,7 @@ Good signifiers draw on [[Gestalt Principles]] and [[Visual Hierarchy]] so the i
 **Discoverability** is the outcome good signifiers produce, the property of people finding what a system can do without instruction. It is one of the first things [[Heuristic Evaluation]] checks and a common finding in [[Usability Testing]], where people repeatedly miss a feature that the team considered obvious.
 
 ## See also
-- [[Gesture]]
+- [[Heads-Up Display]]
 - [[Form Follows Function]]
 - [[Natural Mapping]]
 - [[Context Menu]]

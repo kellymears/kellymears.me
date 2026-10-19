@@ -28,5 +28,5 @@ Where full determinism is not achievable, the fallback is to isolate the non-det
 - [[Reproducible Case]]
 - [[Lagrange Point]]
 - [[Reproducible Build]]
-- [[Pseudorandom Number Generator]]
+- [[Real-Time Strategy]]
 - [[Spreadsheet]]

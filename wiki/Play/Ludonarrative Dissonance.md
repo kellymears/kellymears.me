@@ -15,9 +15,9 @@ The term escaped that sense quickly and now covers any mismatch a player notices
 What survives is a design check. A reward schedule teaches behavior regardless of the script wrapped around it, which is [[Goodhart's Law]] operating inside a fiction, and the sharpest cases are economic — a story about sacrifice sitting on top of [[Gacha Monetization]]. Works built on [[Environmental Storytelling]] largely sidestep the problem by asserting less.
 
 ## See also
-- [[Game Feel]]
+- [[Side Quest]]
 - [[Roguelike]]
-- [[Procedural Generation]]
+- [[Boss Battle]]
 - [[Game AI]]
 - [[Cognitive Dissonance]]
 - [[Magic Circle]]

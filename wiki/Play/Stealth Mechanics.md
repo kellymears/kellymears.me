@@ -19,3 +19,4 @@ Stealth mechanics are worth distinguishing from a [[Cover System]], though the t
 - [[Game AI]]
 - [[Companion AI]]
 - [[Adaptive Music]]
+- [[Non-Player Character]]

@@ -21,7 +21,7 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 
 ## See also
 - [[Platform Engineering]]
-- [[Kernighan's Law]]
+- [[Real-Time Strategy]]
 - [[Dashboard]]
 - [[Team Topologies]]
 - [[KISS Principle]]

@@ -31,7 +31,7 @@ The needs map onto other ideas in this collection. Competence and absorption mee
 ## See also
 - [[Gamification]]
 - [[Psychological Reactance]]
-- [[IKEA Effect]]
+- [[Experience Point]]
 - [[Sense of Agency]]
 - [[Self-Efficacy]]
 - [[Gift Economy]]

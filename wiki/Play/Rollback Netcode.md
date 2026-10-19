@@ -12,7 +12,7 @@ This replaced the older model, delay-based netcode, which instead added a fixed 
 Rollback depends entirely on [[Determinism]]: the resimulation only produces the same result as it would have with correct information if the game's logic is bit-for-bit reproducible from the same inputs, which is also why the technique reads naturally alongside [[Frame Data]] — a game whose hit windows are frame-exact has clean seams to resimulate across, while a game with any hidden randomness or floating-point drift will desync in ways rollback can't fix. Its arrival reshaped competitive fighting games' online scenes more than any single character balance patch has, because it changed what "playable" meant at all outside a LAN.
 
 ## See also
-- [[Frame Data]]
+- [[Local Multiplayer]]
 - [[Determinism]]
 - [[Parry and Riposte]]
 - [[Matchmaking Rating]]

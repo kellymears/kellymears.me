@@ -20,5 +20,5 @@ Design bends around the paying minority in ways non-paying players absorb withou
 - [[Faucets and Sinks]]
 - [[Video Game Crash of 1983]]
 - [[Two-Sided Market]]
-- [[Grinding]]
+- [[Cheat Code]]
 - [[Power Creep]]

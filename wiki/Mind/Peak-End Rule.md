@@ -35,3 +35,4 @@ The rule interacts with other memory effects. The [[Serial Position Effect]] als
 - [[Progress Indicator]]
 - [[Negativity Bias]]
 - [[Loss Aversion]]
+- [[Boss Battle]]

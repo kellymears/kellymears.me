@@ -26,7 +26,7 @@ Constraints help. Tools like small "fantasy consoles," which imitate old hardwar
 Crunch is a concern: a weekend without sleep is part of jam culture, and organizers increasingly encourage breaks and healthy pacing. The software world has a similar format in the hackathon, though jam games are made for play rather than as product pitches. Teams form among strangers, which gives jams a social role too.
 
 ## See also
-- [[Game Modding]]
+- [[Indie Game]]
 - [[Game Engine]]
 - [[Adobe Flash]]
 - [[Playtesting]]

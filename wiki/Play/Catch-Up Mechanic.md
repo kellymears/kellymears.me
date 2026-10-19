@@ -31,5 +31,5 @@ The tension mirrors a debate outside games, between rewarding success and limiti
 ## See also
 - [[Legacy Game]]
 - [[Metagame]]
-- [[Input and Output Randomness]]
+- [[Push Your Luck]]
 - [[Eurogame]]

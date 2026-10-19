@@ -24,4 +24,4 @@ The general move Wald's analysis teaches is to ask what is missing from a datase
 - [[Speculative Bubble]]
 - [[Outlier]]
 - [[Texas Sharpshooter Fallacy]]
-- [[Archival Science]]
+- [[Indie Game]]

@@ -28,7 +28,7 @@ There is a parallel in software practice. Pair programming, and even [[Rubber Du
 - [[Let's Play]]
 - [[Mirror Neurons]]
 - [[Bystander Effect]]
-- [[Social Proof]]
+- [[Local Multiplayer]]
 - [[Autistic Inertia]]
 - [[Pair Programming]]
 - [[ADHD]]

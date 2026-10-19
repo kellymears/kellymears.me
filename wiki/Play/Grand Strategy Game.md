@@ -19,3 +19,4 @@ The genre's real risk is scope: a system detailed enough to be a genuine simulat
 - [[Time as Resource]]
 - [[Emergent Gameplay]]
 - [[Wargame]]
+- [[Real-Time Strategy]]

@@ -16,7 +16,7 @@ There is a middle category worth naming. **Spatial** interfaces are drawn in the
 
 ## See also
 - [[Walking Simulator]]
-- [[Ludonarrative Dissonance]]
+- [[Heads-Up Display]]
 - [[Game Feel]]
 - [[Accessibility]]
 - [[UI Primitive]]

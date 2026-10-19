@@ -16,9 +16,9 @@ Submitted runs carry video, and a leaderboard's authority rests on moderators re
 **Tool-assisted runs** are a separate discipline: built offline with frame advance and save states, judged on execution rather than reflexes, explicitly out of competition with live attempts, and possible at all only because the underlying simulation is [[Determinism]]-dependent — the same inputs must produce the same frame every time. Routing itself is a form of [[Metagame]] evolution, refined as [[Datamining]] exposes exact frame windows and memory values, and it decays the moment a [[Live Service Game]] patches away the exploit a route was built on — a fragility that makes emulated, [[Game Preservation]]-adjacent builds the more stable long-term target for routing work.
 
 ## See also
-- [[Collision Detection]]
+- [[Cheat Code]]
 - [[Sequence Breaking]]
-- [[Demoscene]]
+- [[Boss Battle]]
 - [[Let's Play]]
 - [[Easter Egg]]
 - [[Doom Engine]]

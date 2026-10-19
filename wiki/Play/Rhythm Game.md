@@ -19,4 +19,4 @@ summary: a genre that judges player input against a musical beat, where calibrat
 - [[Shoot 'em Up]]
 - [[Arcade Game]]
 - [[Reaction Time]]
-- [[Sound]]
+- [[Local Multiplayer]]

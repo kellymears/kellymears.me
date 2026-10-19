@@ -20,3 +20,4 @@ The convention of a "true ending," gated behind extra conditions and implicitly 
 - [[Procedural Narrative]]
 - [[Legacy Game]]
 - [[Gamebook]]
+- [[Side Quest]]

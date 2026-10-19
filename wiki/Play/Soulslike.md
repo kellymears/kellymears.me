@@ -18,6 +18,6 @@ The lineage is frequently misread as a case for hostility toward players. It is 
 - [[Roguelike]]
 - [[Checkpoint]]
 - [[Meta-Progression]]
-- [[Environmental Storytelling]]
+- [[Boss Battle]]
 - [[Metroidvania]]
 - [[Telegraphing]]

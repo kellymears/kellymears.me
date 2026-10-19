@@ -19,3 +19,4 @@ Respec systems — letting a player refund points and rebuild from scratch — e
 - [[Tabletop Role-Playing Game]]
 - [[Interesting Decisions]]
 - [[Radar Chart]]
+- [[Experience Point]]

@@ -16,7 +16,7 @@ Parries are the clearest expression of a game's **read-and-react contract** beca
 
 ## See also
 - [[Telegraphing]]
-- [[Poise]]
+- [[Boss Battle]]
 - [[Hit Stop]]
 - [[Determinism]]
 - [[Metagame]]

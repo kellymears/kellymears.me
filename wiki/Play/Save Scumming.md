@@ -13,7 +13,7 @@ The interesting question isn't whether scumming is possible but whether it's *ra
 
 ## See also
 - [[Permadeath]]
-- [[Seeded Randomness]]
+- [[Cheat Code]]
 - [[Roguelike]]
 - [[Determinism]]
 - [[Pseudorandom Number Generator]]

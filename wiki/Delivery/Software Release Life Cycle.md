@@ -35,3 +35,4 @@ The stages also help teams decide when to stop adding features and focus on stab
 ## See also
 - [[Progressive Delivery]]
 - [[Definition of Done]]
+- [[Indie Game]]

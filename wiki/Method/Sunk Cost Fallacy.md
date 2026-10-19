@@ -26,7 +26,7 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 - [[Mental Accounting]]
 - [[IKEA Effect]]
 - [[Post Office Horizon Scandal]]
-- [[Gambler's Fallacy]]
+- [[Push Your Luck]]
 - [[Commitment Device]]
 - [[Shape Up]]
 - [[Battle Pass]]

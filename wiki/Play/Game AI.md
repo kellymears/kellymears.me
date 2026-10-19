@@ -20,7 +20,7 @@ Legibility is also a presentation problem, not only a behavior one. If a player 
 - [[Trick-Taking Game]]
 - [[Constraint Propagation]]
 - [[Solved Game]]
-- [[Roguelike]]
+- [[Real-Time Strategy]]
 
 ## Related
 - [[Monte Carlo Tree Search]]
@@ -30,6 +30,6 @@ Legibility is also a presentation problem, not only a behavior one. If a player 
 - [[Voxel]]
 - [[A-Star Search Algorithm]]
 - [[Dijkstra's Algorithm]]
-- [[Backtracking]]
+- [[Non-Player Character]]
 - [[Boids]]
 - [[Reinforcement Learning]]

@@ -28,6 +28,6 @@ Hierarchy is closely tied to structure. On the web, heading levels in [[Semantic
 Strong hierarchy reduces [[Cognitive Load]]: readers don't have to work out what matters, so they can use their [[Selective Attention]] on the content itself. It also supports [[Progressive Disclosure]], keeping secondary options visually quiet until needed. The same tools can be misused, as when a [[Dark Pattern]] makes "Accept all" bright and large while "Reject" is faint gray text.
 
 ## See also
-- [[Glassmorphism]]
+- [[Heads-Up Display]]
 - [[Call to Action]]
 - [[Above the Fold]]

@@ -14,9 +14,9 @@ Whether this extends play or distorts it is a live argument, and a clean instanc
 
 ## See also
 - [[Easter Egg]]
-- [[Metagame]]
+- [[Cheat Code]]
 - [[Let's Play]]
-- [[Datamining]]
+- [[Side Quest]]
 - [[Bartle Taxonomy]]
 - [[Gamification]]
 - [[Battle Pass]]

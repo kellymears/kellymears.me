@@ -15,10 +15,10 @@ It's also distinct from [[Procedural Narrative]]: every branch here was written 
 
 ## See also
 - [[Gamebook]]
-- [[Procedural Narrative]]
+- [[Non-Player Character]]
 - [[Disco Elysium]]
 - [[Visual Novel]]
-- [[Interactive Fiction]]
+- [[Side Quest]]
 - [[Tabletop Role-Playing Game]]
 - [[Procedural Rhetoric]]
 - [[Interesting Decisions]]

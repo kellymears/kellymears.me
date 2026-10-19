@@ -34,8 +34,8 @@ Knowledge-gated games take this further: the player can technically go anywhere 
 Sequence breaking resembles security work: finding paths around intended controls by understanding a system better than its designers did; see [[Penetration Testing]].
 
 ## See also
-- [[Datamining]]
+- [[Cheat Code]]
 - [[Open World Design]]
-- [[Game Modding]]
+- [[Side Quest]]
 - [[Level Design]]
 - [[Easter Egg]]
