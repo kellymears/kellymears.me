@@ -27,5 +27,5 @@ Fitter people recover faster: their EPOC is often lower for the same absolute wo
 Recovery from a session involves more than oxygen: fuel, fluids, sleep, and muscle repair all continue long after breathing settles; see [[Muscle Protein Synthesis]].
 
 ## See also
-- [[Muscle Fatigue]]
+- [[Hyperventilation]]
 - [[Basal Metabolic Rate]]

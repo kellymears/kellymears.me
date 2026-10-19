@@ -25,7 +25,7 @@ Sitting itself has been the target of public health concern. Long periods of sit
 Posture also affects how people are perceived and, some claimed, how they feel; see [[Embodied Cognition]] for the fate of research on power poses. The body's sense of its own position comes from [[Proprioception]].
 
 ## See also
-- [[Valsalva Maneuver]]
-- [[Fascia]]
+- [[Saddle Sore]]
+- [[Hypermobility]]
 - [[Paresthesia]]
 - [[Side Stitch]]

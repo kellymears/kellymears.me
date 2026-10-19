@@ -18,7 +18,7 @@ Imaging lags the biology, so a radiograph is a proxy and not [[Ground Truth]] fo
 - [[Shin Splints]]
 - [[Plantar Fasciitis]]
 - [[Bruise]]
-- [[Vitamin D]]
+- [[Plyometrics]]
 - [[Osteoporosis]]
 - [[Stress Fracture]]
 - [[Osteoarthritis]]

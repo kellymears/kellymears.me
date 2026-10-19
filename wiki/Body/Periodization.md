@@ -37,5 +37,5 @@ The broader idea, alternating periods of focused stress with periods of recovery
 
 ## See also
 - [[Critical Power]]
-- [[Relative Energy Deficiency in Sport]]
-- [[Shin Splints]]
+- [[Patellofemoral Pain Syndrome]]
+- [[Plyometrics]]

@@ -17,7 +17,7 @@ This anatomy drives clinical caution. Scaphoid fractures are notoriously invisib
 ## See also
 - [[Osteoarthritis]]
 - [[Atherosclerosis]]
-- [[Fracture Fixation]]
+- [[Decompression Sickness]]
 - [[Paresthesia]]
 - [[Frostbite]]
 

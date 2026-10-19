@@ -15,7 +15,7 @@ Practical technique. **Irrigate** with clean water or saline at adequate volume 
 **Traumatic tattooing** is the permanent pigmentation left when grit, asphalt or carbon is not removed from an abrasion before it epithelializes. Once the surface closes over the particulate, the marking is effectively permanent, so thorough early scrubbing matters — a procedure painful enough that local anesthesia or a [[Regional Nerve Block]] is often warranted given the [[Nociception]] involved. Healing capacity ultimately follows perfusion, as [[Watershed Blood Supply]] describes.
 
 ## See also
-- [[Nociception]]
+- [[Saddle Sore]]
 - [[Frostbite]]
 - [[Blister]]
 - [[Bone Remodeling]]

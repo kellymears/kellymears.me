@@ -27,7 +27,7 @@ Antipyretics such as ibuprofen and acetaminophen work by blocking prostaglandin 
 For athletes the usual rule is not to train hard with a fever. It raises heart rate, lowers [[Heart Rate Variability]], and adds to [[Allostatic Load]], and some viral infections can inflame the heart muscle during intense exercise. Easy rest until the fever has been gone for a day or two is the conservative path.
 
 ## See also
-- [[Inflammation]]
+- [[Sweat]]
 - [[Thermoregulation]]
 - [[Lymphatic System]]
 - [[Sleep Pressure]]

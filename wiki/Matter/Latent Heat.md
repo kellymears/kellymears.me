@@ -28,4 +28,4 @@ In cooking, latent heat caps the temperature of anything wet at about 100 °C un
 - [[Computer Cooling]]
 - [[Vacuum Flask]]
 - [[Freezing Point Depression]]
-- [[Entropy]]
+- [[Sweat]]

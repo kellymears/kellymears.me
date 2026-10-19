@@ -29,8 +29,8 @@ Cramps are different from [[Delayed Onset Muscle Soreness]], the ache that arriv
 
 ## See also
 - [[Hiccup]]
-- [[Proprioception]]
-- [[Muscle Fatigue]]
+- [[Sweat]]
+- [[Hyperventilation]]
 - [[Restless Legs Syndrome]]
 - [[Stretching]]
 - [[Warm-Up]]

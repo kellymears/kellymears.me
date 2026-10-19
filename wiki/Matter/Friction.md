@@ -25,3 +25,4 @@ That static-to-kinetic gap also produces **stick-slip**, an oscillation where an
 - [[Iliotibial Band Syndrome]]
 - [[Blister]]
 - [[Earthquake]]
+- [[Saddle Sore]]

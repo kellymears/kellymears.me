@@ -25,8 +25,8 @@ It can also clash with another reflex. Sudden immersion of the whole body in col
 Stories of children surviving long submersion in icy water are sometimes credited to the dive reflex. The main protection there is more likely rapid cooling of the brain, which lowers its demand for oxygen; see [[Thermoregulation]] and [[Homeostasis]].
 
 ## See also
-- [[Heart Rate Variability]]
-- [[Diaphragmatic Breathing]]
+- [[Decompression Sickness]]
+- [[Hyperventilation]]
 - [[Syncope]]
 - [[Valsalva Maneuver]]
 - [[Eustachian Tube]]

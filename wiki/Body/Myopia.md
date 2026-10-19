@@ -23,7 +23,7 @@ Myopia matters beyond inconvenience. High myopia, a very long eye, stretches the
 Time in natural settings has other benefits for attention and mood, described in [[Attention Restoration Theory]].
 
 ## See also
-- [[Digital Eye Strain]]
+- [[Astigmatism]]
 - [[Dark Adaptation]]
 - [[Hearing Loss]]
 - [[Lens]]

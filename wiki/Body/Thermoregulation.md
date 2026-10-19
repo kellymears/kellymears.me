@@ -17,7 +17,7 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 - [[Warm-Up]]
 - [[Sunburn]]
 - [[Capsaicin]]
-- [[Yawning]]
+- [[Sweat]]
 - [[Syncope]]
 - [[Goosebumps]]
 - [[Brain Freeze]]

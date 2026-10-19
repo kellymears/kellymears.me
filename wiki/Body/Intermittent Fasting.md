@@ -31,4 +31,4 @@ Intermittent fasting suits some people because it gives them a clear rule to fol
 
 ## See also
 - [[Body Composition]]
-- [[Gut Microbiome]]
+- [[Cholesterol]]

@@ -29,7 +29,7 @@ The most effective remedies change the environment rather than the person. Noise
 - [[Inclusive Design]]
 - [[Calm Technology]]
 - [[Exposure Therapy]]
-- [[Dissociation]]
+- [[Migraine]]
 - [[Spoon Theory]]
 - [[Autistic Burnout]]
 - [[Misophonia]]

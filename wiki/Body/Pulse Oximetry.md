@@ -31,3 +31,5 @@ Oximetry is especially useful at altitude, where saturation falls as air thins, 
 ## See also
 - [[Altitude Training]]
 - [[Ground Truth]]
+- [[Decompression Sickness]]
+- [[Hyperventilation]]

@@ -26,3 +26,4 @@ The ladder's underlying premise — that pain severity should be matched, not ex
 - [[Hangover]]
 - [[Capsaicin]]
 - [[Osteoarthritis]]
+- [[Migraine]]

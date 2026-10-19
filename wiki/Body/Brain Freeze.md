@@ -25,3 +25,4 @@ Research has also used it as a model of how blood flow changes relate to headach
 ## See also
 - [[Cold Exposure]]
 - [[Homeostasis]]
+- [[Migraine]]

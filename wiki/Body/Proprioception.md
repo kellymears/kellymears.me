@@ -16,7 +16,7 @@ Proprioception is precisely what field sobriety tests probe when they ask someon
 ## See also
 - [[Ankle Sprain]]
 - [[Motion Sickness]]
-- [[Referred Pain]]
+- [[Plyometrics]]
 - [[Phantom Limb]]
 - [[Stimming]]
 - [[Vertigo]]
@@ -24,7 +24,7 @@ Proprioception is precisely what field sobriety tests probe when they ask someon
 - [[Bicycle Stability]]
 - [[Hemispatial Neglect]]
 - [[Stretching]]
-- [[Bike Fit]]
+- [[Hypermobility]]
 - [[Haptic Feedback]]
 - [[Embodied Cognition]]
 - [[Posture]]

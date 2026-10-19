@@ -27,6 +27,6 @@ Deliberate cold exposure, through ice baths and cold plunges, has become popular
 
 ## See also
 - [[Goosebumps]]
-- [[Frostbite]]
-- [[Asthma]]
+- [[Sweat]]
+- [[Decompression Sickness]]
 - [[Brain Freeze]]

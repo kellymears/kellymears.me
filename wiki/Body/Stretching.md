@@ -32,7 +32,7 @@ How much flexibility someone needs depends on their activity. Gymnasts, dancers,
 Stretching is pleasant for many people and a reasonable way to unwind, and it does increase flexibility. It is simply not the protective ritual it was long thought to be.
 
 ## See also
-- [[Proprioception]]
+- [[Hypermobility]]
 - [[Plantar Fasciitis]]
 - [[Restless Legs Syndrome]]
 - [[Iliotibial Band Syndrome]]

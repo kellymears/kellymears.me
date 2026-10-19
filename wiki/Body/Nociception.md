@@ -17,7 +17,7 @@ One practical consequence: pain cannot be measured from outside. Only self-repor
 ## See also
 - [[Brain Freeze]]
 - [[Gate Control Theory]]
-- [[Paresthesia]]
+- [[Migraine]]
 - [[Itch]]
 - [[Phantom Limb]]
 - [[Fracture Fixation]]

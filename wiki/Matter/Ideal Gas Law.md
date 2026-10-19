@@ -36,7 +36,7 @@ The law connects to deeper physics. Kinetic theory explains pressure as countles
 - [[Henry's Law]]
 - [[Pascal's Principle]]
 - [[Entropy]]
-- [[Eustachian Tube]]
+- [[Decompression Sickness]]
 - [[Heat Pump]]
 - [[Sound]]
 - [[Altitude Sickness]]

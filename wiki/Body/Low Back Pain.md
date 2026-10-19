@@ -30,6 +30,6 @@ Most acute episodes improve within weeks, which makes almost any treatment look 
 ## See also
 - [[Valsalva Maneuver]]
 - [[Plantar Fasciitis]]
-- [[Osteoarthritis]]
-- [[Posture]]
+- [[Saddle Sore]]
+- [[Hypermobility]]
 - [[Diaphragmatic Breathing]]

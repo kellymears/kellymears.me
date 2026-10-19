@@ -23,3 +23,4 @@ The effect creates a genuine ethical bind in medicine: informed consent requires
 - [[Self-Fulfilling Prophecy]]
 - [[Insomnia]]
 - [[Hangover]]
+- [[Cholesterol]]

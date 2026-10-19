@@ -36,3 +36,4 @@ Nerve compression involves both pressure and reduced blood flow; see [[Compartme
 - [[Posture]]
 - [[Paresthesia]]
 - [[Grip Strength]]
+- [[Saddle Sore]]

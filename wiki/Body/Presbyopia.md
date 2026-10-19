@@ -26,7 +26,7 @@ It also matters for design. Small type, low contrast, and dim lighting make read
 Presbyopia is a reminder that aging affects the body gradually and on a predictable schedule, like the loss of muscle mass and hearing; see [[Sarcopenia]] and [[Hearing Loss]].
 
 ## See also
-- [[Color Vision Deficiency]]
+- [[Astigmatism]]
 - [[Line Length]]
 - [[Circadian Lighting]]
 - [[Lens]]

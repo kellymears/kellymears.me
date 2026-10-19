@@ -30,6 +30,6 @@ Heat also changes fuel use, increasing reliance on [[Glycogen]], and dampens [[H
 - [[Cold Exposure]]
 - [[Blood Doping]]
 - [[Sunburn]]
-- [[Cardiac Output]]
+- [[Sweat]]
 - [[Syncope]]
 - [[Altitude Training]]

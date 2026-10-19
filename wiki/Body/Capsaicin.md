@@ -29,3 +29,4 @@ Why people seek out a sensation designed to repel them is less settled. One expl
 - [[Itch]]
 - [[Hormesis]]
 - [[Sneeze]]
+- [[Sweat]]

@@ -26,3 +26,4 @@ Afterimages are a reminder that perception is relative. Colors are judged agains
 ## See also
 - [[Blind Spot]]
 - [[Multistable Perception]]
+- [[Astigmatism]]

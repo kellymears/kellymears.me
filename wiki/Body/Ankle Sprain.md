@@ -30,3 +30,5 @@ A sprain that seems mild can still deserve attention. Inability to bear weight, 
 ## See also
 - [[Vestibular System]]
 - [[Training Load]]
+- [[Patellofemoral Pain Syndrome]]
+- [[Hypermobility]]

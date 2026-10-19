@@ -34,3 +34,4 @@ Graphics usually pretends lenses don't exist, imagining a perfect pinhole camera
 - [[Aspect Ratio]]
 - [[Eclipse]]
 - [[Microfilm]]
+- [[Astigmatism]]

@@ -24,5 +24,5 @@ Low pressure and a misaligned clock are both reasons people can't sleep, and lig
 ## See also
 - [[Restless Legs Syndrome]]
 - [[Sleep Paralysis]]
-- [[Microsleep]]
+- [[Migraine]]
 - [[Napping]]

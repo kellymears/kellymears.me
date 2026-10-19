@@ -27,3 +27,4 @@ The law is an idealization. It holds best for dilute solutions and for gases tha
 - [[Phase Transition]]
 - [[Mammalian Dive Reflex]]
 - [[Solubility]]
+- [[Decompression Sickness]]

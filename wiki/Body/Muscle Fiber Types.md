@@ -27,6 +27,6 @@ Fast fibers are also more vulnerable to the strain behind [[Delayed Onset Muscle
 ## See also
 - [[Creatine]]
 - [[Critical Power]]
-- [[Muscle Fatigue]]
+- [[Plyometrics]]
 - [[Exercise Economy]]
 - [[Grip Strength]]

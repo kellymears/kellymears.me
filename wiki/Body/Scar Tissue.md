@@ -26,3 +26,4 @@ The same collagen-remodeling logic explains why [[Fracture Nonunion]] and proble
 - [[Blister]]
 - [[Bruise]]
 - [[Cellular Senescence]]
+- [[Saddle Sore]]

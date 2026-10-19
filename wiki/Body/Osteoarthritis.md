@@ -26,6 +26,6 @@ Treatment starts with movement. Exercise, especially strengthening the muscles a
 Osteoarthritis differs from osteoporosis, which thins bone itself, and from rheumatoid arthritis, an autoimmune disease; see [[Osteoporosis]]. Engineers studying how materials and machines fail see a similar pattern of gradual wear interacting with damage; see [[Bathtub Curve]].
 
 ## See also
-- [[Low Back Pain]]
-- [[Cellular Senescence]]
+- [[Patellofemoral Pain Syndrome]]
+- [[Hypermobility]]
 - [[Stress Fracture]]

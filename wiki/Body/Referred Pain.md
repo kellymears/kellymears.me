@@ -27,3 +27,5 @@ Referred pain is distinct from radiating pain, which travels along a single nerv
 - [[Side Stitch]]
 - [[Brain Freeze]]
 - [[Iliotibial Band Syndrome]]
+- [[Patellofemoral Pain Syndrome]]
+- [[Migraine]]

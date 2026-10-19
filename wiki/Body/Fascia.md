@@ -26,5 +26,5 @@ Some researchers propose that whole-body chains of fascia, linking distant parts
 Fascia changes with age, injury, and activity, becoming stiffer with inactivity and remodeling in response to load, as tendons do. Like most tissue, it adapts to how it is used; see [[Elasticity]] and [[Low Back Pain]].
 
 ## See also
-- [[Plantar Fasciitis]]
-- [[Iliotibial Band Syndrome]]
+- [[Hypermobility]]
+- [[Saddle Sore]]

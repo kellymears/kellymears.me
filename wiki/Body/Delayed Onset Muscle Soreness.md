@@ -25,9 +25,9 @@ Remedies have weak evidence. Massage modestly reduces perceived soreness. Light 
 Severe pain, marked swelling, or dark urine after extreme exercise isn't DOMS but a possible sign of rhabdomyolysis, a breakdown of muscle tissue that can damage the kidneys. It can rarely accompany exertional [[Compartment Syndrome]] and needs medical care.
 
 ## See also
-- [[Muscle Cramp]]
+- [[Plyometrics]]
 - [[Lymphatic System]]
 - [[Warm-Up]]
 - [[Fascia]]
-- [[Muscle Fatigue]]
+- [[Patellofemoral Pain Syndrome]]
 - [[Rhabdomyolysis]]

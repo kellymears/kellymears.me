@@ -24,5 +24,5 @@ Interaction is shaped by the body. Hands tracked by controllers or cameras grab 
 **Mixed reality** shows the real surroundings through cameras or transparent lenses and places virtual objects among them, which requires mapping the room in real time. Full-body tracking draws on the same techniques as film capture; see [[Motion Capture]].
 
 ## See also
-- [[Portal Rendering]]
+- [[Astigmatism]]
 - [[Holography]]

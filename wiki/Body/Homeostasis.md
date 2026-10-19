@@ -28,4 +28,4 @@ Engineers will recognize the patterns. A control loop with too much gain oscilla
 
 ## See also
 - [[Hysteresis]]
-- [[Atherosclerosis]]
+- [[Sweat]]

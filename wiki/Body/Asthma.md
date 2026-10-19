@@ -39,3 +39,4 @@ Breathing retraining may help some people feel more in control of symptoms, thou
 - [[Altitude Training]]
 - [[Pulse Oximetry]]
 - [[Sneeze]]
+- [[Hyperventilation]]

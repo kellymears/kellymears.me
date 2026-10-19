@@ -27,13 +27,13 @@ The models are useful and easy to over-trust. They see only what the sensors see
 
 ## See also
 - [[Tendinopathy]]
-- [[Detraining]]
+- [[Saddle Sore]]
 - [[Periodization]]
 - [[Blister]]
 - [[Iliotibial Band Syndrome]]
-- [[Ankle Sprain]]
+- [[Plyometrics]]
 - [[Side Stitch]]
-- [[Muscle Fatigue]]
+- [[Patellofemoral Pain Syndrome]]
 - [[Line Chart]]
 - [[Shin Splints]]
 - [[Time Series Database]]

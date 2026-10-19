@@ -28,5 +28,5 @@ The encouraging finding is that muscle stays trainable. In a 1990 study by Maria
 ## See also
 - [[Grip Strength]]
 - [[Creatine]]
-- [[Cellular Senescence]]
+- [[Plyometrics]]
 - [[Muscle Protein Synthesis]]

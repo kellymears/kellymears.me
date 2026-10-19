@@ -25,5 +25,5 @@ The concepts this domain collects, such as [[Executive Function]], [[Monotropism
 - [[Ideomotor Effect]]
 - [[Mirror Neurons]]
 - [[Dyscalculia]]
-- [[Intelligence Quotient]]
+- [[Hypermobility]]
 - [[Demand Avoidance]]

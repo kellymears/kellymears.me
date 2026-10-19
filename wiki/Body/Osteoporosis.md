@@ -32,5 +32,5 @@ Hip fractures are the gravest outcome. A large share of older patients die withi
 - [[Lactose Intolerance]]
 - [[Fracture Nonunion]]
 - [[Shin Splints]]
-- [[Osteoarthritis]]
+- [[Plyometrics]]
 - [[Cellular Senescence]]

@@ -37,3 +37,4 @@ Games and films imitate the effect: when a character walks from darkness into li
 - [[Eclipse]]
 - [[Sneeze]]
 - [[Afterimage]]
+- [[Astigmatism]]

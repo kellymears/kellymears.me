@@ -26,9 +26,9 @@ Good fitters change one thing at a time, in small steps of a few millimeters, an
 
 ## See also
 - [[Motion Capture]]
-- [[Tendinopathy]]
+- [[Saddle Sore]]
 - [[Ulnar Neuropathy]]
 - [[Posture]]
 - [[Exercise Economy]]
-- [[Iliotibial Band Syndrome]]
+- [[Patellofemoral Pain Syndrome]]
 - [[Blister]]

@@ -25,4 +25,4 @@ Everything here is dose and clearance: toxicity depends on amount relative to bo
 ## Related
 - [[Nociception]]
 - [[Moist Wound Healing]]
-- [[Anchoring Effect]]
+- [[Cholesterol]]
