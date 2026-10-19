@@ -24,3 +24,4 @@ The workshop's enduring legacies are its name and its question. Whether intellig
 - [[Deep Blue]]
 - [[Large Language Model]]
 - [[Frame Problem]]
+- [[Automated Planning]]

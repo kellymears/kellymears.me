@@ -30,3 +30,4 @@ The approach outlived language: recommendation systems have trained the same mod
 - [[Dimensionality Reduction]]
 - [[Knowledge Graph]]
 - [[Sentiment Analysis]]
+- [[Graph Neural Network]]

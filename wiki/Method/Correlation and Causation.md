@@ -20,11 +20,11 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Berkson's Paradox]]
 - [[Spectrum-Based Fault Localization]]
 - [[Big Data]]
-- [[Ecological Fallacy]]
+- [[Bayesian Network]]
 
 ## Related
 - [[Explainable AI]]
-- [[Scatter Plot]]
+- [[Linear Probe]]
 - [[Logical Fallacy]]
 - [[Vitamin D]]
 - [[Bradford Hill Criteria]]

@@ -37,7 +37,7 @@ Many other problems can be posed as a shortest path through a space of states, i
 
 ## See also
 - [[Navigation Mesh]]
-- [[Spatial Partitioning]]
+- [[Automated Planning]]
 - [[Traveling Salesman Problem]]
 - [[Monte Carlo Tree Search]]
 - [[Flood Fill]]

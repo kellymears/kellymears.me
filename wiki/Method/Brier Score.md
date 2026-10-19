@@ -30,3 +30,4 @@ A scored record replaces impressions with evidence, countering the habit of reme
 ## See also
 - [[Confidence Interval]]
 - [[Dunning-Kruger Effect]]
+- [[Conformal Prediction]]

@@ -27,7 +27,7 @@ Security teams use **attack trees**, a variant in which the top event is an atta
 
 ## See also
 - [[Decision Tree]]
-- [[Byzantine Fault Tolerance]]
+- [[Bayesian Network]]
 - [[Gimli Glider]]
 - [[Space Shuttle Challenger Disaster]]
 - [[Three Mile Island Accident]]

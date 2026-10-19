@@ -22,8 +22,8 @@ Mitigations that work are all about grounding. Give the model tools to *look* ra
 - [[Stochastic Parrot]]
 
 ## Related
-- [[Vacuous Truth]]
+- [[Linear Probe]]
 - [[Frame Problem]]
 - [[Pareidolia]]
-- [[Calibration]]
+- [[Conformal Prediction]]
 - [[Precision and Recall]]

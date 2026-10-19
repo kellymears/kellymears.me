@@ -28,3 +28,4 @@ Text embedding models used for search are trained contrastively on pairs of quer
 - [[Locality-Sensitive Hashing]]
 - [[Support Vector Machine]]
 - [[ImageNet]]
+- [[Linear Probe]]

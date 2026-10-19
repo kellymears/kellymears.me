@@ -24,7 +24,7 @@ Practical design centers on a few pressures.
 - [[Human in the Loop]]
 - [[Token Budget]]
 - [[Guardrail]]
-- [[Large Language Model]]
+- [[Automated Planning]]
 - [[Background Agent]]
 
 ## Related
@@ -33,3 +33,4 @@ Practical design centers on a few pressures.
 - [[Distribution Shift]]
 - [[Bitter Lesson]]
 - [[Frame Problem]]
+- [[ReAct]]

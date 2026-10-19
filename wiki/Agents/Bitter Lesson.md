@@ -29,4 +29,4 @@ The lesson has a practical corollary for building on language models. Elaborate 
 - [[Dartmouth Workshop]]
 - [[Machine Translation]]
 - [[No Free Lunch Theorem]]
-- [[Hidden Markov Model]]
+- [[AlphaFold]]

@@ -37,3 +37,4 @@ Muscle damage and soreness after unfamiliar exercise aren't required for growth,
 - [[Excess Post-Exercise Oxygen Consumption]]
 - [[Basal Metabolic Rate]]
 - [[Intermittent Fasting]]
+- [[AlphaFold]]

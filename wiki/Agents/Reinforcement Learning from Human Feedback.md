@@ -33,8 +33,8 @@ The judgments themselves carry the values and blind spots of whoever writes the 
 
 ## See also
 - [[Corrigibility]]
-- [[Sycophancy]]
+- [[Instruction Tuning]]
 - [[Paperclip Maximizer]]
-- [[Pretraining]]
+- [[Data Labeling]]
 - [[Reinforcement Learning]]
 - [[AI Alignment]]

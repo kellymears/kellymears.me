@@ -30,3 +30,4 @@ Limits: push too hard and the model becomes incoherent, effects spill into unrel
 - [[Cosine Similarity]]
 - [[System Prompt]]
 - [[Word2Vec]]
+- [[Linear Probe]]

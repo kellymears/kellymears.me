@@ -33,5 +33,5 @@ Most people are badly calibrated with their own intervals. Asked for 90% ranges 
 - [[Bootstrap Resampling]]
 - [[Brier Score]]
 - [[Survey Design]]
-- [[Cone of Uncertainty]]
+- [[Conformal Prediction]]
 - [[Fault Seeding]]

@@ -31,7 +31,7 @@ The same idea spread to video, 3D assets that feed [[Gaussian Splatting]], speec
 ## See also
 - [[Seam Carving]]
 - [[Contrastive Learning]]
-- [[Image Resampling]]
+- [[AlphaFold]]
 - [[World Model]]
 - [[AI Watermarking]]
 - [[Generative Adversarial Network]]

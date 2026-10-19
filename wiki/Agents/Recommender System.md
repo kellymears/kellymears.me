@@ -28,6 +28,6 @@ Because recommendations shape the behavior they're trained on, the loop feeds it
 Recommendation also raises privacy questions, since accurate predictions require detailed behavioral records; see [[Personal Data]].
 
 ## See also
-- [[Sentiment Analysis]]
+- [[Graph Neural Network]]
 - [[Two-Sided Market]]
 - [[Approximate Nearest Neighbor Search]]

@@ -19,6 +19,6 @@ The result was taken two ways. To many it was a turning point, the moment machin
 Within a decade, chess programs on ordinary computers were stronger than any human. Later engines learned their own evaluation from play rather than hand-tuned rules; see [[Self-Play]] and [[Monte Carlo Tree Search]]. Go, with far more possible positions, held out until 2016. Human chess changed too, with players now preparing against engines.
 
 ## See also
-- [[Alpha-Beta Pruning]]
+- [[AlphaFold]]
 - [[Dartmouth Workshop]]
 - [[AlphaGo]]

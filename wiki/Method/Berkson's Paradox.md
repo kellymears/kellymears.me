@@ -28,3 +28,4 @@ The practical defense is to ask how the cases in front of you got there. If the 
 - [[Randomized Controlled Trial]]
 - [[Ecological Fallacy]]
 - [[Scatter Plot]]
+- [[Bayesian Network]]

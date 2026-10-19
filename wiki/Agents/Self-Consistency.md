@@ -34,3 +34,4 @@ Self-consistency was an early demonstration that spending more computation at an
 ## See also
 - [[Monte Carlo Method]]
 - [[Beam Search]]
+- [[ReAct]]

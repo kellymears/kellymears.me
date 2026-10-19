@@ -30,4 +30,4 @@ Richer variants go beyond polarity to detect specific emotions such as anger, fe
 
 ## See also
 - [[Survey Design]]
-- [[Named Entity Recognition]]
+- [[Data Labeling]]

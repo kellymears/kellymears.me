@@ -30,7 +30,7 @@ Graph coloring shows a common pattern in computing: a problem that's intractable
 
 ## See also
 - [[Wave Function Collapse]]
-- [[Approximation Algorithm]]
+- [[Graph Neural Network]]
 - [[Union-Find]]
 - [[Stack Machine]]
 - [[Maximum Flow]]

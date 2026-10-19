@@ -32,7 +32,7 @@ Attention spreads finite weight across everything in context, which helps explai
 ## See also
 - [[Backpropagation]]
 - [[Residual Connection]]
-- [[Neural Network Pruning]]
+- [[Graph Neural Network]]
 - [[Object Detection]]
 - [[Hopfield Network]]
 - [[Word2Vec]]

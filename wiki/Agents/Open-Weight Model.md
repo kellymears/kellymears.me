@@ -29,5 +29,5 @@ The costs are real too. Safety training can be stripped by further fine-tuning, 
 ## See also
 - [[Activation Steering]]
 - [[Model Card]]
-- [[Transfer Learning]]
+- [[Instruction Tuning]]
 - [[Model Merging]]

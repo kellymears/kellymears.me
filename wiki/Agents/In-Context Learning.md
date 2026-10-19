@@ -37,5 +37,5 @@ The choice between showing and telling recurs in practice. Instructions state ru
 - [[Catastrophic Forgetting]]
 - [[Fine-Tuning]]
 - [[Transfer Learning]]
-- [[Prompt Caching]]
+- [[Instruction Tuning]]
 - [[Priming]]

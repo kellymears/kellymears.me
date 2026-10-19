@@ -27,7 +27,7 @@ Wartime bombing and later rebuilding left five bridges at the original sites. On
 ## See also
 - [[Graph Coloring]]
 - [[Topological Sort]]
-- [[Knowledge Graph]]
+- [[Graph Neural Network]]
 - [[De Bruijn Sequence]]
 - [[Network Topology]]
 - [[Venn Diagram]]

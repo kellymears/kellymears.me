@@ -24,3 +24,4 @@ Two consequences follow. Put the intended target in the description and keep any
 - [[Model Routing]]
 - [[Serialization]]
 - [[Named Entity Recognition]]
+- [[ReAct]]

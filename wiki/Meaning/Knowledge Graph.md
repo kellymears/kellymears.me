@@ -23,7 +23,7 @@ The failure mode of the formal kind is over-modeling — an ontology so precise 
 ## Related
 - [[Named Entity Recognition]]
 - [[Persistent Identifier]]
-- [[Entity Resolution]]
+- [[Graph Neural Network]]
 - [[Graph Database]]
 - [[Ontology]]
 - [[Small-World Network]]

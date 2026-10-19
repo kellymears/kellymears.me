@@ -16,13 +16,13 @@ Embedding models are also usually distinct from the generation model in a pipeli
 
 ## See also
 - [[Contrastive Learning]]
-- [[Hybrid Search]]
+- [[Linear Probe]]
 - [[Document Chunking]]
 - [[Activation Steering]]
 - [[Approximate Nearest Neighbor Search]]
 - [[Multimodal Model]]
-- [[Reranking]]
-- [[Superposition]]
+- [[Active Learning]]
+- [[Graph Neural Network]]
 - [[Sentiment Analysis]]
 - [[Transfer Learning]]
 - [[Support Vector Machine]]

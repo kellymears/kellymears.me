@@ -20,3 +20,4 @@ Companion AI is best understood as a special case of [[Game AI]] generally, but 
 - [[Virtual Pet]]
 - [[Non-Player Character]]
 - [[Navigation Mesh]]
+- [[Automated Planning]]

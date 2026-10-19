@@ -24,3 +24,4 @@ The same architecture appears wherever an application platform wants to expose i
 - [[Prompt]]
 - [[Guardrail]]
 - [[Remote Procedure Call]]
+- [[ReAct]]

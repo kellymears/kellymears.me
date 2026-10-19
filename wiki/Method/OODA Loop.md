@@ -34,3 +34,4 @@ Critics note that speed isn't always an advantage, that the loop describes almos
 - [[PDCA Cycle]]
 - [[Dual Process Theory]]
 - [[Fail Fast]]
+- [[ReAct]]

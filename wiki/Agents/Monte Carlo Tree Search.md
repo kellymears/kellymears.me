@@ -27,7 +27,7 @@ Its success with Go is a leading example of a general method that improves with 
 
 ## See also
 - [[A-Star Search Algorithm]]
-- [[AlphaGo]]
-- [[Alpha-Beta Pruning]]
+- [[AlphaFold]]
+- [[Automated Planning]]
 - [[Deep Blue]]
 - [[Elo Rating System]]

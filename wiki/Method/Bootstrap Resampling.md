@@ -28,3 +28,4 @@ Resampling depends on cheap random numbers, which is part of why it waited for c
 ## See also
 - [[Bayesian Inference]]
 - [[Statistical Power]]
+- [[Conformal Prediction]]

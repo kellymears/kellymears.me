@@ -31,4 +31,4 @@ In agents, reasoning interleaves with action: the model thinks, calls a tool, re
 ## See also
 - [[Monte Carlo Tree Search]]
 - [[Self-Consistency]]
-- [[Token Budget]]
+- [[ReAct]]

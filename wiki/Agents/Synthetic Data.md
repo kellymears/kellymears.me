@@ -29,6 +29,6 @@ The risks:
 Synthetic data is also promoted for privacy, replacing real records with statistically similar fake ones. Without formal guarantees, though, generators can memorize and leak real records; see [[Differential Privacy]] and [[Personal Data]].
 
 ## See also
-- [[Curriculum Learning]]
+- [[Active Learning]]
 - [[Federated Learning]]
-- [[Deepfake]]
+- [[Instruction Tuning]]

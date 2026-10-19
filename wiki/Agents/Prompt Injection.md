@@ -19,7 +19,7 @@ The defenses that hold are architectural rather than linguistic:
 
 ## See also
 - [[Guardrail]]
-- [[Secret Management]]
+- [[ReAct]]
 - [[Threat Modeling]]
 - [[Adversarial Example]]
 - [[Model Context Protocol]]

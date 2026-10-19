@@ -27,4 +27,4 @@ Applications include search engines that understand queries about specific peopl
 
 ## See also
 - [[Machine Translation]]
-- [[Byte-Pair Encoding]]
+- [[Data Labeling]]

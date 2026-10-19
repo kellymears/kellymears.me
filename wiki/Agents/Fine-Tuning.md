@@ -23,5 +23,5 @@ The tradeoff against prompting is worth being explicit about: fine-tuning is the
 - [[Hyperparameter]]
 - [[In-Context Learning]]
 - [[ImageNet]]
-- [[Backpropagation]]
+- [[Instruction Tuning]]
 - [[Open-Weight Model]]

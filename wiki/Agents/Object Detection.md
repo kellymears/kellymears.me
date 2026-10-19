@@ -27,3 +27,4 @@ Detectors fail in instructive ways. Stickers placed on a stop sign have caused m
 - [[Optical Character Recognition]]
 - [[Supervised Learning]]
 - [[Prefix Sum]]
+- [[Data Labeling]]

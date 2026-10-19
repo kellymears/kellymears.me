@@ -18,7 +18,7 @@ RAG competes conceptually with just widening the [[Context Window]] and pasting 
 - [[Reranking]]
 - [[Cosine Similarity]]
 - [[Document Chunking]]
-- [[Inverted Index]]
+- [[ReAct]]
 - [[In-Context Learning]]
 
 ## Related

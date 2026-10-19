@@ -19,7 +19,7 @@ The counterintuitive consequence is that a larger biased sample is not safer tha
 - [[Survey Design]]
 - [[Ecological Fallacy]]
 - [[Reservoir Sampling]]
-- [[Law of Large Numbers]]
+- [[Active Learning]]
 - [[Bootstrap Resampling]]
 - [[Census]]
 - [[Web Analytics]]

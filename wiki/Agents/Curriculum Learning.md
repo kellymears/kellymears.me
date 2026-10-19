@@ -30,3 +30,4 @@ The human analogy cuts both ways. Educational research finds that some difficult
 ## See also
 - [[Imitation Learning]]
 - [[Scaling Laws]]
+- [[Active Learning]]

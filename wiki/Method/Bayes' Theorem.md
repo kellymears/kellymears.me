@@ -36,6 +36,6 @@ Bayesian statistics, which treats probabilities as degrees of belief, contrasts 
 - [[Bayesian Inference]]
 - [[Naive Bayes]]
 - [[Abductive Reasoning]]
-- [[Information Cascade]]
+- [[Bayesian Network]]
 - [[Superforecasting]]
 - [[Logistic Regression]]

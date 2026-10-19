@@ -36,9 +36,9 @@ Optimizing hard against any fixed measure tends to corrupt it; see [[Goodhart's 
 
 ## See also
 - [[Bootstrap Resampling]]
-- [[Pre-registration]]
-- [[Hyperparameter]]
+- [[Conformal Prediction]]
+- [[Data Labeling]]
 - [[Decision Tree]]
 - [[Double Descent]]
-- [[Naive Bayes]]
+- [[Active Learning]]
 - [[Fisher-Yates Shuffle]]

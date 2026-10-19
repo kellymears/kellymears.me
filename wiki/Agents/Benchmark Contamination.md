@@ -34,6 +34,6 @@ A leaderboard score is best read alongside its date and the question: could the 
 
 ## See also
 - [[Perplexity]]
-- [[Stochastic Parrot]]
+- [[AlphaFold]]
 - [[Model Merging]]
-- [[Model Card]]
+- [[Data Labeling]]

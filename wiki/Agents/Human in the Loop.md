@@ -20,11 +20,11 @@ The complementary practice is honest reporting: a gate is only as good as the ac
 - [[Corrigibility]]
 - [[Multi-Agent Orchestration]]
 - [[Prompt Injection]]
-- [[Pull Request]]
+- [[Active Learning]]
 - [[Background Agent]]
 
 ## Related
-- [[Context Window]]
+- [[Conformal Prediction]]
 - [[Tool Use]]
 - [[Computer Use]]
 - [[Calibration]]

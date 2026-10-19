@@ -19,7 +19,7 @@ The result is text that is locally fluent and globally incoherent. Each transiti
 - [[Stochastic Parrot]]
 - [[Hidden Markov Model]]
 - [[Automatic Speech Recognition]]
-- [[Mechanistic Interpretability]]
+- [[Bayesian Network]]
 - [[Random Walk]]
 - [[Reinforcement Learning]]
 - [[Recurrent Neural Network]]

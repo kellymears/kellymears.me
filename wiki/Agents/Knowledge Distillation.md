@@ -28,7 +28,7 @@ The idea echoes human teaching: a learner gains from seeing how close the altern
 - [[Autoencoder]]
 - [[Transfer Learning]]
 - [[Fine-Tuning]]
-- [[Catastrophic Forgetting]]
+- [[Instruction Tuning]]
 - [[Model Merging]]
 - [[Open-Weight Model]]
 - [[Regularization]]

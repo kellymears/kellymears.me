@@ -20,7 +20,7 @@ Ground truth also has a *staleness* dimension. A measurement is only about the t
 - [[Rashomon Effect]]
 - [[Instrumentation]]
 - [[McNamara Fallacy]]
-- [[Root Cause Analysis]]
+- [[Data Labeling]]
 - [[Vacuous Truth]]
 - [[Test Oracle]]
 

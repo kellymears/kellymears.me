@@ -31,4 +31,4 @@ Short paths explain how quickly things spread, from rumors and diseases to compu
 - [[PageRank]]
 - [[Social Capital]]
 - [[Herd Immunity]]
-- [[Imagined Community]]
+- [[Graph Neural Network]]

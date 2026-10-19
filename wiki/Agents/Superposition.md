@@ -21,7 +21,7 @@ Undoing it is the focus of current [[Mechanistic Interpretability]] work. A **sp
 Superposition is usually studied in the [[Residual stream]], the shared channel a transformer's layers read from and write to, and in the vectors behind an [[Embedding]]. The *linear representation hypothesis*, that concepts correspond to directions, makes it tractable. The open questions are practical ones: whether learned dictionaries capture the features the model actually uses, and whether reading them can detect behaviors such as [[Sycophancy]] or [[Reward Hacking]] before they show up in outputs.
 
 ## See also
-- [[Explainable AI]]
+- [[Linear Probe]]
 - [[Embedding]]
 - [[Residual Connection]]
 - [[Double Descent]]

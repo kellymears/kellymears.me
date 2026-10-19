@@ -23,3 +23,4 @@ The technique has since been absorbed into models themselves: so-called "reasoni
 - [[Choice Blindness]]
 - [[Self-Consistency]]
 - [[Explainable AI]]
+- [[ReAct]]

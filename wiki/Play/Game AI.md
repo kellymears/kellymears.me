@@ -24,7 +24,7 @@ Legibility is also a presentation problem, not only a behavior one. If a player 
 
 ## Related
 - [[Monte Carlo Tree Search]]
-- [[Cellular Automaton]]
+- [[Automated Planning]]
 - [[L-System]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Navigation Mesh]]

@@ -23,7 +23,7 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 - [[Birthday Problem]]
 
 ## Related
-- [[Superforecasting]]
+- [[Bayesian Network]]
 - [[Anomaly Detection]]
 - [[Multiple Comparisons Problem]]
 - [[Choropleth Map]]

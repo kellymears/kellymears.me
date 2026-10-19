@@ -26,5 +26,5 @@ Responses work at several levels. Datasets can be audited and documented, models
 Human reviewers aren't a complete safeguard either, since people tend to defer to automated scores, letting the bias pass through looking objective; see [[Automation Bias]].
 
 ## See also
-- [[Pulse Oximetry]]
-- [[Model Card]]
+- [[Conformal Prediction]]
+- [[Data Labeling]]

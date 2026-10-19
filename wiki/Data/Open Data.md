@@ -30,6 +30,6 @@ Open data has persistent problems:
 Licenses differ in what they ask. Some only require credit, while share-alike licenses require that derived data stay open, a dispute OpenStreetMap went through when it relicensed in 2012.
 
 ## See also
-- [[Data Portability]]
+- [[AlphaFold]]
 - [[Wikidata]]
 - [[Census]]

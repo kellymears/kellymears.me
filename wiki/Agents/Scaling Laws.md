@@ -34,5 +34,5 @@ As gains from pretraining slowed, attention turned to a second axis: spending mo
 - [[Curriculum Learning]]
 - [[Stochastic Parrot]]
 - [[Perplexity]]
-- [[Expert System]]
+- [[AlphaFold]]
 - [[Universal Approximation Theorem]]

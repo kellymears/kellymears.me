@@ -27,5 +27,5 @@ Naive Bayes is still a common first baseline for text classification: fast, tran
 ## See also
 - [[Sentiment Analysis]]
 - [[Hidden Markov Model]]
-- [[Logistic Regression]]
+- [[Bayesian Network]]
 - [[Email Spam]]

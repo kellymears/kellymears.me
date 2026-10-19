@@ -30,4 +30,4 @@ Documentation also addresses an imbalance between builders and users, who know f
 
 ## See also
 - [[Explainable AI]]
-- [[Fine-Tuning]]
+- [[Instruction Tuning]]
