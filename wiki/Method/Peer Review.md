@@ -28,7 +28,7 @@ Software teams use a similar check, with the same tension between catching probl
 
 ## See also
 - [[Meta-Analysis]]
-- [[Falsifiability]]
+- [[Scientific Method]]
 - [[Adversarial Review]]
 - [[Hyatt Regency Walkway Collapse]]
 - [[Sturgeon's Law]]

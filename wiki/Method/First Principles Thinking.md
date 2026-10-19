@@ -32,5 +32,5 @@ Reasoning by analogy is also not simply worse. Experienced practitioners recogni
 Ideas reached this way still need testing against the world; see [[Falsifiability]].
 
 ## See also
-- [[Inversion]]
-- [[Thought Experiment]]
+- [[Socratic Method]]
+- [[Scientific Method]]

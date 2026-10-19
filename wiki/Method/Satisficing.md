@@ -26,8 +26,8 @@ Experts satisfice constantly and well. Experienced firefighters and nurses typic
 Satisficing has its own risk: setting the bar too low, or never revisiting it. The skill is matching the threshold to the stakes, searching hard for the decisions that are expensive to reverse and settling quickly for the rest.
 
 ## See also
-- [[Cost-Benefit Analysis]]
-- [[Cynefin Framework]]
+- [[Knightian Uncertainty]]
+- [[Decision Matrix]]
 - [[Wicked Problem]]
 - [[Decoy Effect]]
 - [[Approximation Algorithm]]

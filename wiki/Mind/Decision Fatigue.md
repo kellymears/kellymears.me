@@ -24,7 +24,7 @@ The case is a good example of a [[Plausible Mechanism]] outrunning its evidence.
 ## See also
 - [[Hobson's Choice]]
 - [[Central Governor Theory]]
-- [[Vigilance Decrement]]
+- [[Decision Matrix]]
 - [[Need for Closure]]
 - [[Decoy Effect]]
 - [[Spoon Theory]]

@@ -30,5 +30,5 @@ For many variables, a **scatterplot matrix** draws every pair in a grid; see [[S
 A fitted line or curve with a shaded band shows the trend and its uncertainty; see [[Confidence Interval]]. Without it, people tend to see patterns in random clouds.
 
 ## See also
-- [[Linear Regression]]
+- [[Correlation Coefficient]]
 - [[Radar Chart]]

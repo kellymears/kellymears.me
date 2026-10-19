@@ -32,3 +32,4 @@ The deeper problem is a conflict of interest: representatives choosing their vot
 - [[Rent-Seeking]]
 - [[Tyranny of the Majority]]
 - [[Veil of Ignorance]]
+- [[Statistical Sampling]]

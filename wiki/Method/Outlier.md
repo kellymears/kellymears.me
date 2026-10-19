@@ -28,5 +28,5 @@ The working rule: plot the data, find the outliers, and explain each one before 
 
 ## See also
 - [[Precision and Accuracy]]
-- [[Paradigm Shift]]
+- [[Correlation Coefficient]]
 - [[Sensitivity Analysis]]

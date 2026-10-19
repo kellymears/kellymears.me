@@ -21,3 +21,4 @@ The corrective some organizations use is a dual ladder — letting technical sen
 
 ## Related
 - [[Law of Triviality]]
+- [[Objectives and Key Results]]

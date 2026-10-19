@@ -27,5 +27,5 @@ Data journalism also checks official numbers rather than just repeating them, a 
 
 ## See also
 - [[Freedom of Information]]
-- [[OpenStreetMap]]
+- [[Correlation Coefficient]]
 - [[Line Chart]]

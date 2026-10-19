@@ -13,7 +13,7 @@ Placebo effects are strongest and most reliable for subjective, self-reported sy
 
 ## See also
 - [[Ideomotor Effect]]
-- [[Halo Effect]]
+- [[Causal Inference]]
 - [[Osteoarthritis]]
 - [[Publication Bias]]
 - [[Barnum Effect]]

@@ -26,3 +26,5 @@ A more productive form of opposition argues against the strongest version of a p
 - [[Falsifiability]]
 - [[Peer Review]]
 - [[Cunningham's Law]]
+- [[Socratic Method]]
+- [[Decision Matrix]]

@@ -32,7 +32,7 @@ Corrections:
 The problem is a cousin of the base rate issue in diagnostic testing. When true effects are rare among the things tested, most positives are false, however accurate each test is; see [[Base Rate Fallacy]]. A finding is only as surprising as the number of places someone looked for it, which physicists call the look-elsewhere effect.
 
 ## See also
-- [[Sensitivity Analysis]]
+- [[Scientific Method]]
 - [[Call to Action]]
 - [[Prosecutor's Fallacy]]
 - [[Big Data]]

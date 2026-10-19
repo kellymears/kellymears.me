@@ -23,7 +23,7 @@ Spaced repetition handles discrete facts best. Understanding comes from connecti
 ## See also
 - [[Learning Styles]]
 - [[Curriculum Learning]]
-- [[Processing Fluency]]
+- [[Socratic Method]]
 - [[Deliberate Practice]]
 - [[Levels of Processing]]
 - [[Default Mode Network]]

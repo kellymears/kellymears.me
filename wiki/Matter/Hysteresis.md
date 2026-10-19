@@ -23,6 +23,6 @@ The pattern recurs wherever a decision flips at a boundary:
 In each case, knowing the present input isn't enough to predict the state; you also need to know where it came from; see [[Path Dependence]].
 
 ## See also
-- [[Chemical Equilibrium]]
+- [[Leading Indicator]]
 - [[Plate Tectonics]]
 - [[Gray Code]]

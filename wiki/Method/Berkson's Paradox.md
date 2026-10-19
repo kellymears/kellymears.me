@@ -24,8 +24,9 @@ The practical defense is to ask how the cases in front of you got there. If the 
 
 ## See also
 - [[Streetlight Effect]]
-- [[Regression to the Mean]]
+- [[Causal Inference]]
 - [[Randomized Controlled Trial]]
 - [[Ecological Fallacy]]
 - [[Scatter Plot]]
 - [[Bayesian Network]]
+- [[Correlation Coefficient]]

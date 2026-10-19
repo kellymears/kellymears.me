@@ -32,5 +32,5 @@ It pairs with [[Chesterton's Fence]], which counsels understanding why something
 - [[Sturgeon's Law]]
 - [[Paradigm Shift]]
 - [[Antifragility]]
-- [[Public Domain]]
+- [[Knightian Uncertainty]]
 - [[Fax]]

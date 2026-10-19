@@ -29,7 +29,7 @@ It considers failures one at a time, so it misses combinations and interactions 
 Software teams use lighter versions. Reviewing a design by asking what happens when each dependency is slow, down, or returns garbage is an informal FMEA; see [[Circuit Breaker]] and [[Watchdog Timer]]. Deliberately injecting those failures tests the answers; see [[Chaos Engineering]]. Imagining a project has already failed prompts a similar search; see [[Pre-mortem]]. When failures do occur, investigation works backward; see [[Root Cause Analysis]] and [[Incident Response]].
 
 ## See also
-- [[Single Point of Failure]]
+- [[Ishikawa Diagram]]
 - [[Common-Mode Failure]]
 - [[Citicorp Center Engineering Crisis]]
 - [[Tacoma Narrows Bridge]]

@@ -19,5 +19,5 @@ Interpretability research ablates inside a single trained network. Zeroing a neu
 Good ablations require statistical care. Training runs differ from seed to seed, sometimes as much as the effect being measured, so a single comparison can mislead; see [[Nondeterminism]] and [[Statistical Significance]]. Reporting several seeds with error bars, and testing on held-out benchmarks rather than ones the method was tuned on, guards against fooling yourself; see [[Evaluation Harness]] and [[Replication Crisis]]. Ablations are also expensive at scale, so the largest models are often studied with small stand-ins, trusting that conclusions carry over.
 
 ## See also
-- [[Neural Network]]
+- [[Causal Inference]]
 - [[Benchmark Contamination]]

@@ -32,6 +32,6 @@ Modern methods add tools Hill lacked, including causal diagrams that make assump
 The broader lesson is that causal claims from observation rest on a convergence of evidence, weighed together, rather than a single decisive test; see [[Abductive Reasoning]].
 
 ## See also
-- [[Replication Crisis]]
+- [[Causal Inference]]
 - [[Checklist]]
 - [[Sensitivity Analysis]]

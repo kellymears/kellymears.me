@@ -14,10 +14,10 @@ The technique has two real failure modes worth knowing before you trust it blind
 Five Whys works best as a prompt to keep asking, paired with a [[Blameless Postmortem]] posture so each answer names a system gap rather than a person, and checked against [[Correlation and Causation]] so each link in the chain is actually causal, not just adjacent in time.
 
 ## See also
-- [[Root Cause Analysis]]
+- [[Ishikawa Diagram]]
 - [[After-Action Review]]
 - [[Just Culture]]
-- [[Chesterton's Fence]]
+- [[Socratic Method]]
 
 ## Related
 - [[Rubber Duck Debugging]]

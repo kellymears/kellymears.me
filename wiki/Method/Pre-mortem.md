@@ -28,7 +28,7 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 - [[Five Whys]]
 - [[Citicorp Center Engineering Crisis]]
 - [[Scenario Planning]]
-- [[Failure Mode and Effects Analysis]]
+- [[Decision Matrix]]
 - [[Inversion]]
 - [[After-Action Review]]
 - [[Fukushima Daiichi Nuclear Disaster]]

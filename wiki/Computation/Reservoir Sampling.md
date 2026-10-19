@@ -36,5 +36,5 @@ Sampling also does not fix bias in the stream itself. If the data reaching the s
 - [[Fisher-Yates Shuffle]]
 - [[Histogram]]
 - [[HyperLogLog]]
-- [[Monte Carlo Method]]
+- [[Statistical Sampling]]
 - [[Iterator]]

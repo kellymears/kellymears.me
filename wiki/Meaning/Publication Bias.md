@@ -13,7 +13,7 @@ The distortion is visible and quantifiable: meta-analyses use a funnel plot, whi
 
 ## See also
 - [[Dark Data]]
-- [[Survivorship Bias]]
+- [[Scientific Method]]
 - [[Placebo Effect]]
 - [[Availability Cascade]]
 - [[Decision Fatigue]]

@@ -20,5 +20,5 @@ A classic case concerns confounding. In 1959 Jerome Cornfield and colleagues sho
 Sensitivity analysis can't fix a model with the wrong structure. Varying inputs within a framework tests only that framework, and an omitted mechanism or a tail risk outside every range stays hidden; see [[Black Swan]] and [[Map and Territory]]. Ranges chosen too narrowly also make a result look sturdier than it is. Decisions with large uncertainties are often better served by comparing distinct futures than by small variations around one; see [[Scenario Planning]].
 
 ## See also
-- [[Cost-Benefit Analysis]]
-- [[Fermi Estimation]]
+- [[Decision Matrix]]
+- [[Causal Inference]]

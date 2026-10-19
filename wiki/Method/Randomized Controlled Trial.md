@@ -28,8 +28,8 @@ RCTs have limits. Some questions can't ethically be randomized, such as whether 
 
 ## See also
 - [[Meta-Analysis]]
-- [[Pre-registration]]
+- [[Causal Inference]]
 - [[Hawthorne Effect]]
 - [[Ideomotor Effect]]
-- [[Ablation Study]]
+- [[Scientific Method]]
 - [[Fisher-Yates Shuffle]]

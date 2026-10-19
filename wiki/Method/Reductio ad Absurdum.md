@@ -27,3 +27,5 @@ The method also helps in debugging: when the obvious explanation can't be confir
 ## See also
 - [[Abductive Reasoning]]
 - [[Occam's Razor]]
+- [[Scientific Method]]
+- [[Socratic Method]]

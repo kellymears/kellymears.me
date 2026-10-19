@@ -28,7 +28,7 @@ Scores are only comparable across the same questions. Forecasting easy questions
 A scored record replaces impressions with evidence, countering the habit of remembering hits and forgetting misses; see [[Hindsight Bias]] and [[Bayesian Inference]].
 
 ## See also
-- [[Confidence Interval]]
-- [[Dunning-Kruger Effect]]
+- [[Leading Indicator]]
+- [[Knightian Uncertainty]]
 - [[Conformal Prediction]]
 - [[Prosecutor's Fallacy]]

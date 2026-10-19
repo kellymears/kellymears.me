@@ -16,7 +16,7 @@ Calling something a cargo cult is only useful if it is followed by naming the mi
 ## See also
 - [[Root Cause Analysis]]
 - [[Documentation Rot]]
-- [[Naming]]
+- [[Scientific Method]]
 - [[Narrative Fallacy]]
 - [[Not Invented Here]]
 - [[Checklist]]

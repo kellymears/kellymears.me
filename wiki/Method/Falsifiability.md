@@ -18,7 +18,7 @@ It also disciplines prose. "This cast is required because the checker demands it
 - [[Paradigm Shift]]
 - [[Devil's Advocate]]
 - [[Reductio ad Absurdum]]
-- [[Thought Experiment]]
+- [[Scientific Method]]
 - [[Pre-registration]]
 - [[Quantum Entanglement]]
 

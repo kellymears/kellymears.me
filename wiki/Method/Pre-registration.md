@@ -29,3 +29,4 @@ The underlying idea is older than any registry. A claim made before the evidence
 - [[Operationalization]]
 - [[Meta-Analysis]]
 - [[Sensitivity Analysis]]
+- [[Scientific Method]]

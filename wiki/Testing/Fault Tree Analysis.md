@@ -30,4 +30,4 @@ Security teams use **attack trees**, a variant in which the top event is an atta
 - [[Bayesian Network]]
 - [[Gimli Glider]]
 - [[Fukushima Daiichi Nuclear Disaster]]
-- [[Single Point of Failure]]
+- [[Ishikawa Diagram]]

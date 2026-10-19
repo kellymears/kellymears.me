@@ -32,5 +32,5 @@ Uncertainty also widens with distance; see [[Cone of Uncertainty]].
 ## See also
 - [[Delphi Method]]
 - [[Brier Score]]
-- [[Artificial General Intelligence]]
-- [[Scenario Planning]]
+- [[Leading Indicator]]
+- [[Knightian Uncertainty]]

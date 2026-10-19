@@ -16,7 +16,7 @@ Embedding models are also usually distinct from the generation model in a pipeli
 
 ## See also
 - [[Contrastive Learning]]
-- [[Symbol Grounding Problem]]
+- [[Correlation Coefficient]]
 - [[Document Chunking]]
 - [[Activation Steering]]
 - [[Approximate Nearest Neighbor Search]]

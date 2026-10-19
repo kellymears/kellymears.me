@@ -28,6 +28,6 @@ The rule that survives: before writing "because X", run something that would tel
 - [[Plate Tectonics]]
 - [[Muscle Cramp]]
 - [[Bayes' Theorem]]
-- [[Confounding]]
+- [[Causal Inference]]
 - [[Burden of Proof]]
 - [[Natural Experiment]]

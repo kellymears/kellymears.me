@@ -29,5 +29,5 @@ Good practice reports the estimated effect with its [[Confidence Interval]], dec
 - [[Bradford Hill Criteria]]
 - [[Box Plot]]
 - [[Growth Mindset]]
-- [[Operationalization]]
+- [[Correlation Coefficient]]
 - [[Meta-Analysis]]

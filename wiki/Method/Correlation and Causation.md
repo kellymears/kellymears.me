@@ -20,7 +20,7 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Berkson's Paradox]]
 - [[Spectrum-Based Fault Localization]]
 - [[Big Data]]
-- [[Narrative Fallacy]]
+- [[Causal Inference]]
 
 ## Related
 - [[Explainable AI]]
@@ -29,4 +29,4 @@ Engineers hit this constantly in incident analysis: a deploy correlates with a s
 - [[Vitamin D]]
 - [[Bradford Hill Criteria]]
 - [[Data Journalism]]
-- [[Observational Study]]
+- [[Correlation Coefficient]]

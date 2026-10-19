@@ -36,4 +36,4 @@ The common failure is skipping steps: planning and doing without checking, or ch
 
 ## See also
 - [[Theory of Constraints]]
-- [[After-Action Review]]
+- [[Ishikawa Diagram]]

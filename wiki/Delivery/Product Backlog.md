@@ -21,5 +21,5 @@ The common failure is a backlog that only grows. Every idea, request and bug rep
 Backlogs usually live in an issue tracker, often alongside a separate stream of incoming bug reports that must be sorted before they join it; see [[Issue Tracker]] and [[Bug Triage]]. Flow-based teams visualize the same list as a board's leftmost column; see [[Kanban]]. A backlog can also become a tool for avoiding scope decisions, accepting every request so nobody has to hear no; see [[Feature Creep]] and [[Minimum Viable Product]].
 
 ## See also
-- [[Burndown Chart]]
-- [[Planning Fallacy]]
+- [[Decision Matrix]]
+- [[Objectives and Key Results]]

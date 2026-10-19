@@ -17,7 +17,7 @@ The same instinct applies one level up. When a fix introduces a [[Regression]], 
 - [[Affinity Diagram]]
 - [[Ariane 5 Flight 501]]
 - [[Equifax Data Breach]]
-- [[Apollo 13]]
+- [[Ishikawa Diagram]]
 - [[Just Culture]]
 - [[Control Chart]]
 - [[Mars Climate Orbiter]]

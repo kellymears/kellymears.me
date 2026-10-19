@@ -33,4 +33,4 @@ Teams practice before real outages. Game days and [[Chaos Engineering]] inject f
 - [[Cloudbleed]]
 - [[Knight Capital Incident]]
 - [[Git Revert]]
-- [[Emergency Telephone Number]]
+- [[Ishikawa Diagram]]

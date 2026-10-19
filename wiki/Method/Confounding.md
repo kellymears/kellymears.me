@@ -32,11 +32,11 @@ A useful habit when shown a correlation is to ask what else differs between the 
 
 ## See also
 - [[Red Herring]]
-- [[Ablation Study]]
+- [[Correlation Coefficient]]
 - [[Linear Regression]]
 - [[Berkson's Paradox]]
 - [[Natural Experiment]]
 - [[Ecological Fallacy]]
 - [[Bayesian Network]]
-- [[Observational Study]]
+- [[Causal Inference]]
 - [[Bradford Hill Criteria]]

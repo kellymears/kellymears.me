@@ -27,8 +27,8 @@ The practical lesson is to assume observation has some effect and to design arou
 ## See also
 - [[Obedience to Authority]]
 - [[Survey Design]]
-- [[Self-Fulfilling Prophecy]]
+- [[Scientific Method]]
 - [[Natural Experiment]]
 - [[Panopticon]]
 - [[Uncertainty Principle]]
-- [[Control Chart]]
+- [[Objectives and Key Results]]

@@ -34,3 +34,5 @@ Its basic form is a [[Line Chart]] with limits drawn from the [[Normal Distribut
 - [[Outlier]]
 - [[Observability]]
 - [[Precision and Accuracy]]
+- [[Ishikawa Diagram]]
+- [[Leading Indicator]]

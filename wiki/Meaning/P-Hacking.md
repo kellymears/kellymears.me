@@ -21,7 +21,7 @@ The standard defenses are structural, matching the mechanism directly: preregist
 - [[Hyperparameter]]
 - [[Randomized Controlled Trial]]
 - [[Bayes' Theorem]]
-- [[Statistical Significance]]
+- [[Correlation Coefficient]]
 - [[Texas Sharpshooter Fallacy]]
 - [[Operationalization]]
 - [[Multiple Comparisons Problem]]

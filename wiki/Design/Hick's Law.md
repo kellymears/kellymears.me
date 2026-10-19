@@ -19,7 +19,7 @@ Fitts's Law and Hick's Law are often cited together because they cover the two h
 - [[Call to Action]]
 - [[Reaction Time]]
 - [[Context Menu]]
-- [[Dropdown Menu]]
+- [[Decision Matrix]]
 
 ## Related
 - [[Affordance]]

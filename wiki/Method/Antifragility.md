@@ -20,5 +20,5 @@ Two further principles follow. The first is caution about intervention. Treatmen
 The idea has critics. Antifragility is hard to measure, and nearly anything can be described as gaining from some stress in hindsight. Taleb's presentation is polemical, and the line between strengthening stress and harmful stress is rarely known in advance. Building in slack and redundancy is the more conservative version of the same advice; see [[Margin of Safety]].
 
 ## See also
-- [[Gall's Law]]
+- [[Knightian Uncertainty]]
 - [[Precautionary Principle]]

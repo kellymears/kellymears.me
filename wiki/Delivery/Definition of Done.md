@@ -25,7 +25,7 @@ The definition should tighten over time. A team that can't yet release every ite
 A **definition of ready** is the matching list at the other end: what an item needs before work starts, such as clear acceptance criteria and no unresolved dependencies. Critics warn that it can harden into a gate that delays starting; see [[Kanban]].
 
 ## See also
-- [[Product Backlog]]
+- [[Objectives and Key Results]]
 - [[Burndown Chart]]
 - [[User Story]]
 - [[Software Release Life Cycle]]

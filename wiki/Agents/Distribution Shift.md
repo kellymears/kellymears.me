@@ -33,5 +33,5 @@ Defenses:
 The underlying lesson isn't unique to machine learning. Any system built on past data assumes the future resembles it. Survivorship, sampling, and selection effects create similar gaps between data and reality; see [[Selection Bias]]. Data pipelines suffer a structural version when upstream formats change without warning; see [[Schema Drift]].
 
 ## See also
-- [[Batch Normalization]]
+- [[Knightian Uncertainty]]
 - [[Autonomous Vehicle]]

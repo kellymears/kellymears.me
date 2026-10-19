@@ -20,7 +20,7 @@ The technique's real relative is not conversation but writing: forcing a problem
 - [[Functional Fixedness]]
 - [[Yak Shaving]]
 - [[Psychological Distance]]
-- [[Default Mode Network]]
+- [[Socratic Method]]
 - [[Levels of Processing]]
 - [[Software Inspection]]
 - [[Pair Programming]]

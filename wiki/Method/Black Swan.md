@@ -29,7 +29,7 @@ Critics argue that the label gets applied to events that were foreseeable and si
 
 ## See also
 - [[Narrative Fallacy]]
-- [[Fukushima Daiichi Nuclear Disaster]]
-- [[Autonomous Vehicle]]
+- [[Knightian Uncertainty]]
+- [[Leading Indicator]]
 - [[Ambiguity Aversion]]
 - [[Sensitivity Analysis]]

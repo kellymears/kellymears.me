@@ -23,3 +23,4 @@ Neural networks have since overtaken Bayesian networks for perception and langua
 ## See also
 - [[Fault Tree Analysis]]
 - [[Simpson's Paradox]]
+- [[Causal Inference]]

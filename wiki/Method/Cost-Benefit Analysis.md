@@ -24,3 +24,4 @@ Careful analyses report how the conclusion changes as uncertain inputs vary, ins
 ## See also
 - [[Trolley Problem]]
 - [[Tragedy of the Commons]]
+- [[Decision Matrix]]

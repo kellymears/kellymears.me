@@ -32,6 +32,6 @@ A related measure, *Kolmogorov complexity*, defines the information in a single 
 ## See also
 - [[Burrows-Wheeler Transform]]
 - [[Diffie-Hellman Key Exchange]]
-- [[Signal-to-Noise Ratio]]
+- [[Correlation Coefficient]]
 - [[Byte-Pair Encoding]]
 - [[Perplexity]]

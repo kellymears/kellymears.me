@@ -18,7 +18,7 @@ The implementation costs are documented separately and little disputed. Enforcem
 - [[Lehman's Laws of Software Evolution]]
 - [[Software Rot]]
 - [[Issue Tracker]]
-- [[Root Cause Analysis]]
+- [[Causal Inference]]
 - [[Collective Action]]
 - [[Griefing]]
 - [[Static Analysis]]

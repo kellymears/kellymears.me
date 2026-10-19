@@ -28,7 +28,7 @@ The idea reaches beyond classrooms. Explaining a concept aloud, as in [[Rubber D
 
 ## See also
 - [[Levels of Processing]]
-- [[Learning Styles]]
+- [[Socratic Method]]
 - [[Functional Fixedness]]
 - [[Zone of Proximal Development]]
 - [[Curriculum Learning]]

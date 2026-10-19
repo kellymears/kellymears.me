@@ -24,5 +24,5 @@ It also applies to attention and choice. Every option considered and rejected ha
 Opportunity cost is hard to estimate precisely, since the alternatives are hypothetical and the value of each is uncertain. But the habit of asking "compared to what?" catches many poor decisions, and it is the core of prioritization frameworks that rank work by value against cost; see [[Minimum Viable Product]] and [[Yak Shaving]].
 
 ## See also
-- [[Product Backlog]]
-- [[Lump of Labor Fallacy]]
+- [[Objectives and Key Results]]
+- [[Decision Matrix]]

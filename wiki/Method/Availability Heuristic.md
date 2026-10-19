@@ -18,7 +18,7 @@ The corrective is the same move [[Fermi Estimation]] makes explicit: force yours
 - [[Cost-Benefit Analysis]]
 - [[Identifiable Victim Effect]]
 - [[Agenda-Setting]]
-- [[Selection Bias]]
+- [[Statistical Sampling]]
 - [[Dual Process Theory]]
 
 ## Related

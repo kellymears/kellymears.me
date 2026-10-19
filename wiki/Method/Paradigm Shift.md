@@ -25,3 +25,4 @@ The term itself shifted. The philosopher Margaret Masterman counted more than tw
 - [[Abductive Reasoning]]
 - [[Replication Crisis]]
 - [[Movable Type]]
+- [[Scientific Method]]

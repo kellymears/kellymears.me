@@ -30,4 +30,4 @@ The [[Replication Crisis]] sharpened these concerns: several meta-analyses that 
 - [[Observational Study]]
 - [[Relative Risk]]
 - [[Bradford Hill Criteria]]
-- [[Peer Review]]
+- [[Causal Inference]]

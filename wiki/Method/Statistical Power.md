@@ -36,4 +36,4 @@ Power also explains why absence of evidence is weak evidence of absence when a s
 - [[Relative Risk]]
 - [[Priming]]
 - [[Meta-Analysis]]
-- [[Law of Large Numbers]]
+- [[Statistical Sampling]]

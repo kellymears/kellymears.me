@@ -23,7 +23,7 @@ The method fails where its assumptions do. Heavy-tailed quantities have no typic
 - [[Fault Seeding]]
 - [[Benford's Law]]
 - [[First Principles Thinking]]
-- [[Superforecasting]]
+- [[Knightian Uncertainty]]
 - [[Delphi Method]]
 - [[Cone of Uncertainty]]
 - [[Precision and Accuracy]]

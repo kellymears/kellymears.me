@@ -30,7 +30,7 @@ Jeff Patton's **story mapping** arranges stories along the sequence of steps a u
 Teams usually estimate stories in relative units and track them on a shared board; see [[Story Points]] and [[Kanban]]. The acceptance tests that confirm a story are often written in a structured "given, when, then" form that can be automated; see [[Behavior-Driven Development]].
 
 ## See also
-- [[Agile Software Development]]
+- [[Objectives and Key Results]]
 - [[Requirements Traceability]]
 - [[Daily Standup]]
 - [[Issue Tracker]]

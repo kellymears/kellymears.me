@@ -25,6 +25,6 @@ A detailed chart can become a fiction maintained for reporting while the real wo
 Gantt charts remain standard in construction, manufacturing, events, and anywhere physical dependencies are real: the concrete has to cure before the walls go up. Many project tools now generate them automatically from tasks and due dates in an [[Issue Tracker]].
 
 ## See also
-- [[Value Stream Mapping]]
+- [[Objectives and Key Results]]
 - [[Flowchart]]
 - [[Timeline]]

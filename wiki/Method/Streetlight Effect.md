@@ -17,7 +17,7 @@ Because the cause is instrumentation rather than laziness, the fix is rarely "lo
 - [[Truncation Bias]]
 - [[Sturgeon's Law]]
 - [[Smoke Point]]
-- [[Inattentional Blindness]]
+- [[Ishikawa Diagram]]
 - [[Statistical Power]]
 - [[Texas Sharpshooter Fallacy]]
 - [[Multiple Comparisons Problem]]

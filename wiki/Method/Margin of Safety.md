@@ -31,6 +31,6 @@ Margins also have costs: extra weight, idle capacity, slower schedules. Choosing
 
 ## See also
 - [[Cost-Benefit Analysis]]
-- [[Fail-Safe]]
+- [[Knightian Uncertainty]]
 - [[Inversion]]
 - [[Sensitivity Analysis]]

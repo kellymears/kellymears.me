@@ -32,3 +32,4 @@ Pretesting questions on real people who think aloud while answering catches conf
 - [[Goodhart's Law]]
 - [[Wisdom of the Crowd]]
 - [[Precision and Accuracy]]
+- [[Statistical Sampling]]

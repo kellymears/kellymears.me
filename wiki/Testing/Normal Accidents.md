@@ -29,5 +29,5 @@ For software, the theory explains why large distributed systems fail in surprisi
 - [[Fukushima Daiichi Nuclear Disaster]]
 - [[Apollo 13]]
 - [[Cynefin Framework]]
-- [[Single Point of Failure]]
+- [[Leading Indicator]]
 - [[Common-Mode Failure]]

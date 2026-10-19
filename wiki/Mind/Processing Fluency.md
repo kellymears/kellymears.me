@@ -30,4 +30,4 @@ The practical lessons run in two directions. When communicating, fluency helps: 
 - [[Speed Reading]]
 - [[Learning Styles]]
 - [[Stroop Effect]]
-- [[Barnum Effect]]
+- [[Socratic Method]]

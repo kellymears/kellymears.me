@@ -34,4 +34,4 @@ Order matters as much as color. The same table sorted alphabetically looks like 
 
 ## See also
 - [[Box Plot]]
-- [[Bullet Graph]]
+- [[Correlation Coefficient]]

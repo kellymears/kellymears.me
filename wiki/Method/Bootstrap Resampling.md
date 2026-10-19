@@ -26,7 +26,7 @@ The bootstrap has limits worth knowing. It can't fix a sample that doesn't repre
 Resampling depends on cheap random numbers, which is part of why it waited for computers; see [[Pseudorandom Number Generator]].
 
 ## See also
-- [[Bayesian Inference]]
+- [[Statistical Sampling]]
 - [[Statistical Power]]
 - [[Conformal Prediction]]
 - [[Precision and Accuracy]]

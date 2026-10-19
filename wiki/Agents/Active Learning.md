@@ -19,5 +19,5 @@ The idea of choosing what to learn next connects to other fields. Deciding betwe
 Language models have changed the economics. A model can now generate candidate labels cheaply, with people reviewing only the cases where the model is unsure or where several models disagree; see [[LLM-as-Judge]] and [[Synthetic Data]]. The same logic guides which outputs to send to human review in deployed systems: flag inputs that look unlike the training data or where confidence is low; see [[Distribution Shift]].
 
 ## See also
-- [[Reinforcement Learning]]
+- [[Statistical Sampling]]
 - [[Precision and Recall]]

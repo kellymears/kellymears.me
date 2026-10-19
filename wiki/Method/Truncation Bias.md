@@ -27,3 +27,4 @@ The same shape appears wherever a view is partial by default: a paginated list, 
 - [[Root Cause Analysis]]
 - [[Shell]]
 - [[Berkson's Paradox]]
+- [[Statistical Sampling]]

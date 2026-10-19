@@ -16,7 +16,7 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 
 ## See also
 - [[DevOps]]
-- [[Apollo 13]]
+- [[Ishikawa Diagram]]
 - [[Mean Time to Recovery]]
 - [[Hanlon's Razor]]
 - [[Andon Cord]]

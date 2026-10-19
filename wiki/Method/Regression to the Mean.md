@@ -20,8 +20,8 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Intelligence Quotient]]
 
 ## Related
-- [[Law of Large Numbers]]
-- [[Blood Pressure]]
+- [[Correlation Coefficient]]
+- [[Causal Inference]]
 - [[Elo Rating System]]
 - [[Hiccup]]
 - [[Low Back Pain]]

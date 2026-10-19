@@ -28,7 +28,7 @@ Decision tables suit rule-heavy domains: pricing, tax, insurance eligibility, pe
 Where a rule depends on history rather than current inputs, such as "lock the account after three failed logins," a table is the wrong shape. That calls for a [[Finite State Machine]] and [[Model-Based Testing]], which test sequences of events. [[Branch Coverage]] offers a check from the other direction: if the table's tests leave a branch unexecuted, either the table missed a case or the code has logic nobody specified.
 
 ## See also
-- [[Boundary Value Analysis]]
+- [[Decision Matrix]]
 - [[Pairwise Testing]]
 - [[Property-Based Testing]]
 - [[Design by Contract]]

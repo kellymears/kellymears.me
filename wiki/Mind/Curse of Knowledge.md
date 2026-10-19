@@ -25,6 +25,6 @@ Countermeasures are external, since effort alone doesn't cure it. Test explanati
 ## See also
 - [[Transactive Memory]]
 - [[Playtesting]]
-- [[Jargon]]
+- [[Socratic Method]]
 - [[Functional Fixedness]]
 - [[Spotlight Effect]]

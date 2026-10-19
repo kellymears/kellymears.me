@@ -22,7 +22,7 @@ Related objections concern side effects and incentives. Restrictions shift activ
 Weaker versions survive these criticisms better. Read as "don't use uncertainty as an excuse for doing nothing" and "weigh irreversible harms heavily," the principle is close to ordinary prudence: imagine how a decision could fail before committing to it, and keep the option of changing course; see [[Pre-mortem]] and [[Opportunity Cost]].
 
 ## See also
-- [[Scenario Planning]]
+- [[Knightian Uncertainty]]
 - [[Cost-Benefit Analysis]]
 - [[Fukushima Daiichi Nuclear Disaster]]
 - [[Three Mile Island Accident]]

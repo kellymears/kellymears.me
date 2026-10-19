@@ -35,6 +35,6 @@ Two purposes differ. *Exploratory* visualization helps an analyst find what's in
 
 ## See also
 - [[Timeline]]
-- [[Bullet Graph]]
+- [[Correlation Coefficient]]
 - [[Venn Diagram]]
 - [[Flowchart]]

@@ -31,4 +31,4 @@ Its risks follow from its speed. Once a plausible story forms, people seek evide
 ## See also
 - [[Narrative Fallacy]]
 - [[No Free Lunch Theorem]]
-- [[Paradigm Shift]]
+- [[Scientific Method]]

@@ -29,3 +29,4 @@ Paper notes on a wall have given way in many teams to digital whiteboards, which
 - [[Design Thinking]]
 - [[Wicked Problem]]
 - [[Kano Model]]
+- [[Ishikawa Diagram]]

@@ -24,7 +24,7 @@ Used well, benchmarks catch performance regressions in [[Continuous Integration]
 
 ## See also
 - [[Monotonic Clock]]
-- [[Operationalization]]
+- [[Leading Indicator]]
 - [[No Free Lunch Theorem]]
 - [[Cloudflare Outage of 2019]]
 - [[Utah Teapot]]

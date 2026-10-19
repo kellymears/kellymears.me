@@ -20,4 +20,5 @@ Scenario planning fits problems that are complex and slow-moving, where expert f
 
 ## See also
 - [[Thought Experiment]]
-- [[Margin of Safety]]
+- [[Decision Matrix]]
+- [[Knightian Uncertainty]]

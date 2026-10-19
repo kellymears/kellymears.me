@@ -29,3 +29,4 @@ It pairs naturally with other ways of escaping the default line of thought, such
 - [[Checklist]]
 - [[Thought Experiment]]
 - [[Antifragility]]
+- [[Ishikawa Diagram]]

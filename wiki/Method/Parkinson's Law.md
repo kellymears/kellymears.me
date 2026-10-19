@@ -24,7 +24,7 @@ The practical use of the law is as a scheduling lever rather than a complaint: a
 - [[Yerkes-Dodson Law]]
 
 ## Related
-- [[Brooks's Law]]
+- [[Objectives and Key Results]]
 - [[Daily Standup]]
 - [[Kanban]]
 - [[Lump of Labor Fallacy]]

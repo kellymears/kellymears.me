@@ -24,6 +24,6 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Naive Realism]]
 
 ## Related
-- [[Availability Heuristic]]
+- [[Scientific Method]]
 - [[Three Mile Island Accident]]
 - [[Barnum Effect]]

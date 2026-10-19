@@ -30,10 +30,10 @@ It's also a caution against [[Chesterton's Fence]] in reverse: a new interventio
 
 ## See also
 - [[Streisand Effect]]
-- [[Bechdel Test]]
+- [[Objectives and Key Results]]
 - [[Moral hazard]]
 - [[Risk Compensation]]
-- [[Jevons Paradox]]
+- [[Leading Indicator]]
 - [[Burndown Chart]]
 - [[Allergy]]
 - [[Paperclip Maximizer]]

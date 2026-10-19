@@ -24,8 +24,8 @@ That last kind is also the main risk. A scenario's details, wording, and simplif
 Everyday engineering is full of small thought experiments: what happens if this server disappears, if two requests arrive at once, if the user presses back halfway through; see [[Pre-mortem]] and [[Inversion]]. When imagination runs out, simulation takes over, running the experiment on a computer; see [[Monte Carlo Method]].
 
 ## See also
-- [[Veil of Ignorance]]
+- [[Socratic Method]]
 - [[Reductio ad Absurdum]]
-- [[Scenario Planning]]
+- [[Scientific Method]]
 - [[Stochastic Parrot]]
 - [[Paperclip Maximizer]]

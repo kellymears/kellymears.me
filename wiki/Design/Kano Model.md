@@ -30,3 +30,4 @@ Critics note that the questionnaire is easy to misread and that categories assig
 - [[Aesthetic-Usability Effect]]
 - [[Satisficing]]
 - [[Product Backlog]]
+- [[Decision Matrix]]

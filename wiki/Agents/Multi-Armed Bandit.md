@@ -31,4 +31,4 @@ People face the same dilemma: the favorite restaurant or a new one. Research on 
 - [[Active Learning]]
 - [[Curiosity]]
 - [[Push Your Luck]]
-- [[Statistical Significance]]
+- [[Knightian Uncertainty]]
