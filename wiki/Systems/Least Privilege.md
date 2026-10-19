@@ -26,7 +26,7 @@ The principle is stated easily and applied poorly, because broad permissions are
 - [[Server-Side Request Forgery]]
 - [[Air Gap]]
 - [[Zero-Knowledge Proof]]
-- [[Data Breach]]
+- [[Port Knocking]]
 - [[Time-of-Check to Time-of-Use]]
 
 ## Related

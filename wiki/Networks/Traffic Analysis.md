@@ -22,4 +22,4 @@ Broadcasting is the oldest countermeasure. A message sent to everyone reveals no
 ## See also
 - [[End-to-End Encryption]]
 - [[Browser Fingerprinting]]
-- [[Steganography]]
+- [[Port Knocking]]

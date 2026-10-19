@@ -33,4 +33,4 @@ They complement other defenses rather than replacing them. A [[Firewall]] blocks
 - [[Email Spam]]
 - [[Rootkit]]
 - [[Dark Web]]
-- [[Bastion Host]]
+- [[Port Knocking]]

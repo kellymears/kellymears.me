@@ -28,3 +28,4 @@ A bastion looks superficially like a honeypot, since both face attackers directl
 ## See also
 - [[Honeypot]]
 - [[Denial-of-Service Attack]]
+- [[Port Knocking]]
