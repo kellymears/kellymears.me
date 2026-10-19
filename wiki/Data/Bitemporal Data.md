@@ -34,3 +34,4 @@ Related patterns approach the same problem differently. [[Event Sourcing]] store
 - [[Time Zone]]
 - [[Unix Time]]
 - [[Change Data Capture]]
+- [[Date Picker]]

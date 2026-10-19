@@ -27,3 +27,4 @@ Mapping also connects to speed. Controls placed near what they affect are easier
 - [[Affordance]]
 - [[Skeuomorphism]]
 - [[Toggle Switch]]
+- [[Slider]]

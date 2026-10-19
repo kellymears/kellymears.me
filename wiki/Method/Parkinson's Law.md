@@ -20,7 +20,7 @@ The practical use of the law is as a scheduling lever rather than a complaint: a
 - [[Second-System Effect]]
 - [[Shape Up]]
 - [[Pomodoro Technique]]
-- [[Procrastination]]
+- [[Gantt Chart]]
 - [[Yerkes-Dodson Law]]
 
 ## Related

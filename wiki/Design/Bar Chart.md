@@ -29,3 +29,5 @@ Bar charts summarize, and can hide what they summarize. A bar showing an average
 ## See also
 - [[Scatter Plot]]
 - [[Benford's Law]]
+- [[Line Chart]]
+- [[Radar Chart]]

@@ -31,4 +31,4 @@ The legacy is mixed. Critics argue that functionalism became a style of its own,
 - [[Affordance]]
 - [[Color Theory]]
 - [[Dieter Rams]]
-- [[Form Follows Function]]
+- [[Brutalist Web Design]]

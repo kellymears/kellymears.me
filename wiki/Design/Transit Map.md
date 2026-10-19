@@ -29,3 +29,4 @@ The diagram's influence reaches far beyond trains: network diagrams, flowcharts,
 ## See also
 - [[Sankey Diagram]]
 - [[Color Theory]]
+- [[Infographic]]

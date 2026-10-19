@@ -20,7 +20,7 @@ Practical hazards accumulate around the details. Some attributes are computed by
 - [[Portal]]
 
 ## Related
-- [[Keyboard Navigation]]
+- [[Accordion]]
 - [[Focus Management]]
 - [[Document Object Model]]
 - [[UI Primitive]]

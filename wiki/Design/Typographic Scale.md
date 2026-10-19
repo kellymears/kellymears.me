@@ -16,7 +16,7 @@ Measure [[Line Length|line length]] too. Readability falls off sharply beyond ro
 
 ## See also
 - [[Fibonacci Sequence]]
-- [[Design Token]]
+- [[Drop Cap]]
 - [[Web Font Loading]]
 - [[Lorem Ipsum]]
 

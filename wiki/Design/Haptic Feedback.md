@@ -30,6 +30,6 @@ In interfaces, haptics work best as confirmation and texture rather than alarm:
 Overuse dulls it. Vibration on every keypress or notification teaches people to ignore it, then to switch it off; see [[Habituation]]. Strong vibration can also be uncomfortable for people with sensory sensitivities, so it should be adjustable; see [[Sensory Processing]] and [[Inclusive Design]]. Haptics also help accessibility, giving blind and low-vision users confirmation without sound, but can't be the only channel for important information, since some devices lack them and some people disable them; see [[Accessibility]].
 
 ## See also
-- [[Touch Target Size]]
+- [[Slider]]
 - [[Hit Stop]]
 - [[Virtual Reality]]

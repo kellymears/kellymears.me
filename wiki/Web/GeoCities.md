@@ -32,3 +32,4 @@ GeoCities is now remembered with some fondness. Its amateur pages, made by peopl
 ## See also
 - [[Portal]]
 - [[Favicon]]
+- [[Brutalist Web Design]]

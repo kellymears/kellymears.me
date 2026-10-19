@@ -28,4 +28,4 @@ The underlying lesson is that style and usability are separable concerns. Any vi
 ## See also
 - [[Form Follows Function]]
 - [[Bauhaus]]
-- [[Dieter Rams]]
+- [[Brutalist Web Design]]

@@ -30,5 +30,5 @@ Some interactions surprise people. Adding letter-spacing disables standard ligat
 These features restore craft that print typesetters handled by hand. Used well, they're invisible: numbers line up, acronyms don't shout, and text reads evenly. They belong with [[Variable Fonts]] and the [[Typographic Scale]] as the tools for typesetting on screen rather than merely displaying text; see [[Typeface]].
 
 ## See also
-- [[Data Table]]
+- [[Drop Cap]]
 - [[Emoji]]

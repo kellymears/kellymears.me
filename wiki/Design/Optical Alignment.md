@@ -33,7 +33,7 @@ This is why a pixel-perfect build can look worse than the mockup: the designer n
 
 ## See also
 - [[Kerning]]
-- [[Text Justification]]
+- [[Drop Cap]]
 - [[Iconography]]
 - [[Lorem Ipsum]]
 - [[Flexbox]]

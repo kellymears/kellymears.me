@@ -20,7 +20,7 @@ Test environments frequently emulate the preference by default, which means ever
 - [[Parallax Scrolling]]
 - [[Closed Captions]]
 - [[Staggered Animation]]
-- [[Easing]]
+- [[Accordion]]
 - [[LED Flicker]]
 
 ## Related

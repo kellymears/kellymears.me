@@ -20,7 +20,7 @@ The same idea, at web scale, was the basis of link-based search ranking: a page'
 - [[Wiki]]
 - [[Knowledge Graph]]
 - [[Zettelkasten]]
-- [[Search Engine Optimization]]
+- [[Infographic]]
 
 ## Related
 - [[Structured Data]]

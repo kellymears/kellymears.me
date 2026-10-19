@@ -29,5 +29,5 @@ Forms reward [[Usability Testing]] more than almost anything else in an interfac
 ## See also
 - [[Onboarding]]
 - [[Toggle Switch]]
-- [[Progress Indicator]]
+- [[Date Picker]]
 - [[Postal Address]]

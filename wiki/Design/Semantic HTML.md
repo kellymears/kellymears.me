@@ -16,7 +16,7 @@ Semantics also help outside accessibility. A well-structured document is what ma
 
 ## See also
 - [[Hypermedia]]
-- [[HTML]]
+- [[Accordion]]
 - [[Breadcrumb]]
 - [[Data Table]]
 - [[Form Follows Function]]

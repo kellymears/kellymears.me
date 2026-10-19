@@ -31,7 +31,7 @@ The robust patterns treat visibility as an event to handle rather than a conditi
 [[Cross-Tab Communication]] has the same issue: a message posted to a frozen tab is not processed until it wakes, so the receiver has to tolerate arriving late.
 
 ## See also
-- [[requestAnimationFrame]]
+- [[Tabs]]
 - [[Event Loop]]
 - [[Web Push]]
 - [[Web Worker]]

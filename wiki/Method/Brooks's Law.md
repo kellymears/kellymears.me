@@ -22,7 +22,7 @@ The practical corollary is that a genuinely late project is rescued by removing 
 
 ## Related
 - [[Lehman's Laws of Software Evolution]]
-- [[Planning Fallacy]]
+- [[Gantt Chart]]
 - [[Dunbar's Number]]
 - [[Agile Software Development]]
 - [[Amdahl's Law]]

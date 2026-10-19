@@ -20,7 +20,7 @@ It is worth being clear about the incentive structure. Search optimization is an
 - [[Alt Text]]
 - [[RSS]]
 - [[Webring]]
-- [[Backlink]]
+- [[Infographic]]
 - [[Inverted Index]]
 
 ## Related

@@ -27,7 +27,7 @@ Other factors shift the ideal:
 Good line length is one of the cheapest improvements to readability, and it supports [[Accessibility]] for readers with dyslexia or low vision, who are more affected by long lines. It works alongside [[White Space]] in margins, consistent columns from a [[Grid System]], and careful [[Web Font Loading]] so the measure doesn't jump when the final font arrives.
 
 ## See also
-- [[Paper Size]]
+- [[Drop Cap]]
 - [[Golden Ratio]]
 - [[Text Truncation]]
 - [[Speed Reading]]

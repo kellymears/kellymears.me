@@ -27,4 +27,4 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 - [[System Prompt]]
 - [[Wisdom of the Crowd]]
 - [[Pre-mortem]]
-- [[Choice Architecture]]
+- [[Slider]]

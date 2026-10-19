@@ -25,3 +25,4 @@ The design payoff beyond file size is that weight and width become animatable an
 - [[Optical Alignment]]
 - [[Typeface]]
 - [[OpenType Features]]
+- [[Drop Cap]]

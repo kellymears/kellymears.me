@@ -34,3 +34,4 @@ His principles are often paired with the older slogan they extend; see [[Form Fo
 ## See also
 - [[Skeuomorphism]]
 - [[Swiss Style]]
+- [[Brutalist Web Design]]

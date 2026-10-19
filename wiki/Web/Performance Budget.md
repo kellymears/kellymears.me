@@ -18,7 +18,7 @@ Budgets should also be revisable with reasoning attached. A deliberate, understo
 - [[Core Web Vitals]]
 - [[Code Splitting]]
 - [[Continuous Integration]]
-- [[Goodhart's Law]]
+- [[Brutalist Web Design]]
 - [[React Server Components]]
 - [[Web Font Loading]]
 - [[Islands Architecture]]

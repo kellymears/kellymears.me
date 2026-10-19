@@ -30,9 +30,9 @@ The principle has critics, and the evidence is mixed:
 The durable lesson is to make every mark justify itself. Each element of a chart should either carry data or help the reader decode it. A [[Color Scale]] should encode a variable rather than decorate.
 
 ## See also
-- [[Data Table]]
+- [[Line Chart]]
 - [[Pie Chart]]
-- [[Form Follows Function]]
-- [[Bar Chart]]
+- [[Infographic]]
+- [[Radar Chart]]
 - [[Transit Map]]
 - [[Box Plot]]

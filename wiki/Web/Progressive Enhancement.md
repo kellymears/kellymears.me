@@ -20,7 +20,7 @@ The design constraint it imposes is real and worth stating. An entrance animatio
 - [[Hydration]]
 
 ## Related
-- [[React Server Components]]
+- [[Accordion]]
 - [[Responsive Web Design]]
 - [[Static Site Generation]]
 - [[Progressive Web App]]

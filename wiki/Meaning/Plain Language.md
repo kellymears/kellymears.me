@@ -24,7 +24,7 @@ Two writing habits are worth naming as failure modes because they are so easy to
 - [[Typographic Scale]]
 - [[Docs as Code]]
 - [[Politeness Theory]]
-- [[Curse of Knowledge]]
+- [[Infographic]]
 - [[Behavior-Driven Development]]
 
 ## Related

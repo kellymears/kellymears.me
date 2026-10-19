@@ -19,7 +19,7 @@ The method fails where its assumptions do. Heavy-tailed quantities have no typic
 ## See also
 - [[Logarithmic Scale]]
 - [[Percentage Point]]
-- [[Sensitivity and Specificity]]
+- [[Gantt Chart]]
 - [[Fault Seeding]]
 - [[Benford's Law]]
 - [[First Principles Thinking]]

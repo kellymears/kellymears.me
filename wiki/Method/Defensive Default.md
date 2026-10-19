@@ -19,7 +19,7 @@ A related shape is the defensive *guard*: a null check protecting against a stat
 - [[Margin of Safety]]
 - [[Environment Variable]]
 - [[Secret Management]]
-- [[Chesterton's Fence]]
+- [[Date Picker]]
 - [[Decision Fatigue]]
 
 ## Related

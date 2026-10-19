@@ -18,7 +18,7 @@ The maintenance question is not whether the system covers everything but whether
 - [[UI Primitive]]
 - [[Headless Component]]
 - [[Flat Design]]
-- [[Taxonomy]]
+- [[Brutalist Web Design]]
 - [[Utility-First CSS]]
 - [[Container Query]]
 - [[Typographic Scale]]

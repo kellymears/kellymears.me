@@ -22,6 +22,6 @@ Estimates also shape the work. Tasks expand to fit the time allowed; see [[Parki
 
 ## See also
 - [[McNamara Fallacy]]
-- [[Fibonacci Sequence]]
+- [[Gantt Chart]]
 - [[Issue Tracker]]
 - [[Definition of Done]]

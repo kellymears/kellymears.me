@@ -33,3 +33,4 @@ A searchable list of every command covers the opposite need, finding an action w
 ## See also
 - [[Tooltip]]
 - [[Haptic Feedback]]
+- [[Tabs]]

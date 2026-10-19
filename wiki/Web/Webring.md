@@ -29,3 +29,4 @@ A ring is a modest [[Network Effect]], each new member making the others slightl
 ## See also
 - [[RSS]]
 - [[Hypermedia]]
+- [[Brutalist Web Design]]

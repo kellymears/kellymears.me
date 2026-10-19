@@ -25,3 +25,4 @@ Critics note that it depends on senior people with time to shape well, and that 
 ## See also
 - [[Technical Debt]]
 - [[Kanban]]
+- [[Gantt Chart]]

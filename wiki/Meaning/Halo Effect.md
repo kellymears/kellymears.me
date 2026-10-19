@@ -23,3 +23,4 @@ The effect is worth distinguishing from ordinary correlation, where traits reall
 - [[Death of the Author]]
 - [[Misattribution of Arousal]]
 - [[Social Identity Theory]]
+- [[Radar Chart]]

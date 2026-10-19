@@ -22,7 +22,7 @@ Component tests can catch a lot of this, provided the test harness reproduces th
 - [[Carousel]]
 - [[Component Story]]
 - [[Portal]]
-- [[Document Object Model]]
+- [[Tabs]]
 - [[Headless Component]]
 - [[contenteditable]]
 - [[Monotropism]]

@@ -27,7 +27,7 @@ Performance engineering is the same idea at a smaller scale. Speeding up code th
 The theory has critics, who note that real systems often have shifting or multiple constraints, and that policy, not machinery, is often the real bottleneck. Goldratt agreed that policy constraints were the most common kind.
 
 ## See also
-- [[Brooks's Law]]
+- [[Gantt Chart]]
 - [[Andon Cord]]
 - [[Wicked Problem]]
 - [[Value Stream Mapping]]

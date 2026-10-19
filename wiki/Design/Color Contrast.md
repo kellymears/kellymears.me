@@ -30,6 +30,6 @@ Contrast is one of the few accessibility criteria a machine can genuinely evalua
 - [[Digital Eye Strain]]
 - [[Color Theory]]
 - [[Easing]]
-- [[Color Vision Deficiency]]
+- [[Radar Chart]]
 - [[Bauhaus]]
 - [[Accessibility Testing]]

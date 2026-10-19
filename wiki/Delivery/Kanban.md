@@ -35,4 +35,4 @@ Kanban's metrics connect to delivery performance more broadly. Cycle time on the
 - [[Value Stream Mapping]]
 - [[DevOps]]
 - [[Theory of Constraints]]
-- [[Shape Up]]
+- [[Gantt Chart]]

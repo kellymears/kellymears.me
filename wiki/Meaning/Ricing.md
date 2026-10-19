@@ -23,7 +23,7 @@ The culture is mostly aesthetic play, and that is the point. It combines craft, 
 
 ## See also
 - [[Dotfiles]]
-- [[Tiling Window Manager]]
+- [[Brutalist Web Design]]
 - [[Design Token]]
 - [[Rabbit Hole]]
 - [[Yak Shaving]]

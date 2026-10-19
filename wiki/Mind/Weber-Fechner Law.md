@@ -33,6 +33,6 @@ The law extends to money. Amos Tversky and Daniel Kahneman found in 1981 that pe
 Steady stimuli fade further as the senses adapt; see [[Habituation]]. Differences in how strongly people register stimuli are central to accounts of sensory sensitivity; see [[Sensory Processing]].
 
 ## See also
-- [[Tone Mapping]]
+- [[Radar Chart]]
 - [[Color Theory]]
 - [[Dark Adaptation]]

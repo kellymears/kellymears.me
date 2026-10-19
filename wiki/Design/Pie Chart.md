@@ -33,6 +33,6 @@ The usual alternatives:
 Edward Tufte called pie charts a poor choice in almost every case, while others defend them for their readability by general audiences. Both sides agree they suit a simple share of a whole and fail at fine comparison; see [[Data-Ink Ratio]].
 
 ## See also
-- [[Choropleth Map]]
-- [[Bar Chart]]
+- [[Radar Chart]]
+- [[Line Chart]]
 - [[Sankey Diagram]]

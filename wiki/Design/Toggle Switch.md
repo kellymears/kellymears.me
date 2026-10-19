@@ -29,5 +29,5 @@ Accessibility is easiest with a native checkbox styled to look like a switch, wh
 The starting position of a switch is a decision with consequences. Most people never change defaults, so settings that share data or send notifications are often switched on in advance, sometimes in ways that cross into deception; see [[Default effect]] and [[Dark Pattern]].
 
 ## See also
-- [[Signifier]]
-- [[Haptic Feedback]]
+- [[Date Picker]]
+- [[Slider]]

@@ -31,7 +31,7 @@ Averages hide the experience. A system that is usually fast but occasionally tak
 
 ## See also
 - [[Heuristic Evaluation]]
-- [[Command Palette]]
+- [[Slider]]
 - [[Progress Indicator]]
 - [[Reaction Time]]
 - [[Peak-End Rule]]

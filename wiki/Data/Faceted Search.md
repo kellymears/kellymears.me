@@ -32,5 +32,5 @@ Facets cause trouble for crawlers. Every combination of filters can produce its 
 - [[Breadcrumb]]
 - [[Data Table]]
 - [[Card Sorting]]
-- [[Metadata]]
+- [[Slider]]
 - [[Library Classification]]

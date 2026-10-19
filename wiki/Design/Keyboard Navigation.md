@@ -16,7 +16,7 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 ## See also
 - [[Context Menu]]
 - [[Direct Manipulation]]
-- [[Semantic HTML]]
+- [[Accordion]]
 - [[Terminal User Interface]]
 - [[Focus Trap]]
 - [[Tiling Window Manager]]

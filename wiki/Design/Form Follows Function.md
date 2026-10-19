@@ -28,3 +28,4 @@ Dieter Rams later restated the principle for industrial design as "as little des
 ## See also
 - [[White Space]]
 - [[Typeface]]
+- [[Brutalist Web Design]]

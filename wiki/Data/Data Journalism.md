@@ -27,5 +27,5 @@ Data journalism also checks official numbers rather than just repeating them, a 
 
 ## See also
 - [[Garbage In, Garbage Out]]
-- [[Census]]
-- [[Provenance]]
+- [[Infographic]]
+- [[Line Chart]]

@@ -29,7 +29,7 @@ On screens, small multiples reflow naturally. A grid can drop from four columns 
 
 ## See also
 - [[Sankey Diagram]]
-- [[Box Plot]]
+- [[Radar Chart]]
 - [[Treemap]]
 - [[Pie Chart]]
-- [[Bar Chart]]
+- [[Line Chart]]

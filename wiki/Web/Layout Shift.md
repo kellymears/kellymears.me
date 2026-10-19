@@ -26,3 +26,4 @@ Shifts also hurt aiming. Pointing at a target takes a predictable amount of time
 - [[Critical Rendering Path]]
 - [[Virtual Scrolling]]
 - [[Flash of Unstyled Content]]
+- [[Accordion]]

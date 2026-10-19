@@ -24,3 +24,4 @@ Linking to a page is different from displaying a file from someone else's server
 ## See also
 - [[Hyperlink]]
 - [[Search Engine Optimization]]
+- [[Tabs]]

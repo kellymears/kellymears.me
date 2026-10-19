@@ -30,4 +30,4 @@ Good signifiers draw on [[Gestalt Principles]] and [[Visual Hierarchy]] so the i
 - [[Form Follows Function]]
 - [[Natural Mapping]]
 - [[Context Menu]]
-- [[Dieter Rams]]
+- [[Accordion]]

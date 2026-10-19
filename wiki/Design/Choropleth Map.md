@@ -29,6 +29,6 @@ A choropleth is honest when it maps a rate, uses an equal-area projection, choos
 - [[Geospatial Data]]
 - [[Pie Chart]]
 - [[Geocoding]]
-- [[Transit Map]]
+- [[Infographic]]
 - [[Data Journalism]]
 - [[Treemap]]
