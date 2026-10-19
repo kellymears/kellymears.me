@@ -17,7 +17,7 @@ Two cautions. A generator's *quality* matters for simulation and not much for ga
 ## See also
 - [[Wave Function Collapse]]
 - [[Terrain Generation]]
-- [[Input and Output Randomness]]
+- [[Low-Discrepancy Sequence]]
 - [[Reservoir Sampling]]
 - [[Fisher-Yates Shuffle]]
 - [[Generative Art]]

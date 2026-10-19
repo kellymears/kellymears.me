@@ -29,5 +29,5 @@ Its appeal is partly economic, since small teams can produce consistent art, and
 - [[HSL and HSV]]
 - [[ASCII Art]]
 - [[Stop Motion]]
-- [[Pixel]]
+- [[Portable Network Graphics]]
 - [[Color Cycling]]

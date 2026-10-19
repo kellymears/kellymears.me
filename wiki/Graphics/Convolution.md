@@ -29,11 +29,11 @@ Convolution reaches well beyond photo filters. The filters used in [[Image Resam
 **Convolutional neural networks** learn their kernels instead of having them designed. Yann LeCun's networks read handwritten zip codes in the late 1980s, and the AlexNet network's 2012 win in the ImageNet competition, trained on a [[Graphics Processing Unit]], launched modern deep learning. When researchers visualize what such networks learn, the first layers turn out to contain edge and texture detectors much like the hand-designed ones. Convolution suits GPUs well, since every output pixel can be computed independently, which is also why it runs in a [[Shader]].
 
 ## See also
-- [[Histogram Equalization]]
+- [[Bilateral Filter]]
 - [[Seam Carving]]
 - [[Reverberation]]
 - [[Fourier Transform]]
-- [[Unsharp Masking]]
+- [[Optical Flow]]
 - [[Prosopagnosia]]
 - [[Generative Adversarial Network]]
-- [[Object Detection]]
+- [[Canny Edge Detector]]

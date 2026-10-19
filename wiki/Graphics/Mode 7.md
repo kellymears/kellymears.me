@@ -18,4 +18,4 @@ Mode 7 belongs to a long history of tricks for getting depth from flat hardware.
 The look persists. Modern games that evoke the era recreate the tilted Mode 7 floor deliberately, usually with a few lines of shader code; see [[Shader]]. The core operation, mapping each screen pixel back to a position in an image, is the heart of texture mapping generally; see [[Texture Mapping]]. Demo makers on other machines of the period built similar effects in software, competing to make them run smoothly; see [[Demoscene]].
 
 ## See also
-- [[Doom Engine]]
+- [[Billboarding]]

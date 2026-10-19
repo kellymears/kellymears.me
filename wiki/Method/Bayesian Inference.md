@@ -30,7 +30,7 @@ Critics answer that priors can smuggle in conclusions, and that different priors
 The habit of updating extends beyond formal statistics. Skilled forecasters adjust probabilities in small steps as news arrives; see [[Superforecasting]] and [[Calibration]]. Some theories of perception treat the brain itself as combining expectations with sensory evidence; see [[Predictive Processing]]. A simple Bayesian classifier long powered spam filters; see [[Naive Bayes]].
 
 ## See also
-- [[Kalman Filter]]
+- [[Importance Sampling]]
 - [[Ambiguity Aversion]]
 - [[Bootstrap Resampling]]
 - [[Rubber Hand Illusion]]

@@ -24,3 +24,4 @@ When a sample is all there is, resampling it shows how stable a result is; see [
 ## See also
 - [[Observational Study]]
 - [[Truncation Bias]]
+- [[Importance Sampling]]

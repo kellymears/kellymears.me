@@ -25,7 +25,7 @@ That is the practical lesson. Ratios like 3:2, 4:3, or the √2 of A4 paper serv
 ## See also
 - [[Art Deco]]
 - [[Rule of Thirds]]
-- [[Art Nouveau]]
+- [[Low-Discrepancy Sequence]]
 - [[Paper Size]]
 - [[Fibonacci Sequence]]
 - [[Aspect Ratio]]

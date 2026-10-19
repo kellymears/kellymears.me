@@ -25,3 +25,4 @@ The Hilbert curve preserves locality better than Z-order, because it never jumps
 ## See also
 - [[Gray Code]]
 - [[Hash Function]]
+- [[Low-Discrepancy Sequence]]

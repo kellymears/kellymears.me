@@ -31,7 +31,7 @@ Graphics usually pretends lenses don't exist, imagining a perfect pinhole camera
 
 ## See also
 - [[Lens Flare]]
-- [[Aspect Ratio]]
+- [[Light Field]]
 - [[Eclipse]]
 - [[Microfilm]]
 - [[Astigmatism]]

@@ -24,7 +24,7 @@ Shared test data is what made graphics research comparable: anyone could render 
 
 ## See also
 - [[Render Farm]]
-- [[Graphics Pipeline]]
+- [[Mesh Simplification]]
 - [[Radiosity]]
 - [[NURBS]]
 - [[Reyes Rendering]]

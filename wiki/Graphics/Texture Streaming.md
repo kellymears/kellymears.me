@@ -20,5 +20,5 @@ Streaming shapes design. Levels are built with corridors, elevators, and narrow 
 Captured real-world surfaces, with their huge unique textures, push these systems hardest; see [[Photogrammetry]]. Sampling a mip level that hasn't arrived yet falls back to a coarser one; see [[Image Resampling]].
 
 ## See also
-- [[Fast Travel]]
+- [[Mesh Simplification]]
 - [[Terrain Generation]]

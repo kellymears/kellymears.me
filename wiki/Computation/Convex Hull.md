@@ -29,3 +29,4 @@ Hulls appear wherever shapes need simplifying. Physics engines wrap complex mode
 - [[Spatial Partitioning]]
 - [[Polygon Mesh]]
 - [[Clipping]]
+- [[Mesh Simplification]]

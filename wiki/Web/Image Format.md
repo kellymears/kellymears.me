@@ -32,5 +32,5 @@ Choosing a format involves tradeoffs that aren't captured by file size alone:
 Serving an image at the size it's displayed usually saves more than any change of format; see [[Image Resampling]].
 
 ## See also
-- [[Pixel]]
+- [[Portable Network Graphics]]
 - [[MIME Type]]

@@ -23,12 +23,12 @@ Determinism also enables *incremental* generation: extending a world without reg
 - [[Minimum Spanning Tree]]
 - [[Terrain Generation]]
 - [[Synthetic Data]]
-- [[Level Design]]
+- [[GPU Instancing]]
 - [[Colony Sim]]
 
 ## Related
 - [[Sudoku]]
-- [[Input and Output Randomness]]
+- [[Low-Discrepancy Sequence]]
 - [[Turtle Graphics]]
 - [[Loot]]
 - [[Domain Warping]]

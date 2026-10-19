@@ -25,7 +25,7 @@ Sampling motion also produces illusions. A spinning wheel filmed at a fixed rate
 Higher [[Frame Rate]]s narrow the gap between samples, so motion looks smoother and objects stay sharper while the eye follows them. [[Virtual Reality]] headsets go further, flashing each frame briefly and keeping the screen dark between, because a held image smears with every turn of the head. The eye's own jumps also shape what is seen; see [[Eye Tracking]].
 
 ## See also
-- [[Rotoscoping]]
+- [[Optical Flow]]
 - [[Motion Interpolation]]
 - [[Optical Illusion]]
 - [[Stop Motion]]

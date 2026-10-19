@@ -26,7 +26,7 @@ GPUs handle sRGB textures and framebuffers in hardware, converting to linear on 
 - [[Shading Model]]
 - [[HSL and HSV]]
 - [[Weber-Fechner Law]]
-- [[Image Sensor]]
+- [[Portable Network Graphics]]
 - [[Color Scale]]
 - [[Blend Mode]]
 - [[NTSC]]

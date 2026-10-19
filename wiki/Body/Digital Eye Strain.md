@@ -37,5 +37,5 @@ Long uninterrupted stretches of close focus strain more than the eyes; see [[Rep
 ## See also
 - [[Ulnar Neuropathy]]
 - [[Astigmatism]]
-- [[Migraine]]
+- [[Light Field]]
 - [[Liquid-Crystal Display]]

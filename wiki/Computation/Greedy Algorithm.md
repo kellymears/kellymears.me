@@ -32,5 +32,5 @@ Outside computing, greedy choices explain a lot of [[Path Dependence]]: each loc
 - [[Bellman-Ford Algorithm]]
 - [[Maximum Flow]]
 - [[Minimum Spanning Tree]]
-- [[Online Algorithm]]
+- [[Mesh Simplification]]
 - [[Approximation Algorithm]]

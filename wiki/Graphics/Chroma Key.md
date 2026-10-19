@@ -26,8 +26,8 @@ A newer approach drops the screen. LED volumes surround the set with giant video
 
 ## See also
 - [[Stop Motion]]
-- [[Color Theory]]
-- [[Video Compression]]
+- [[Bilateral Filter]]
+- [[Canny Edge Detector]]
 - [[Aspect Ratio]]
 - [[Blend Mode]]
 - [[HSL and HSV]]

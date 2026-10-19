@@ -27,6 +27,6 @@ The law also has conditions. Trials must be independent, and a sample that isn't
 
 ## See also
 - [[Bootstrap Resampling]]
-- [[Statistical Sampling]]
+- [[Importance Sampling]]
 - [[Random Walk]]
 - [[Histogram]]

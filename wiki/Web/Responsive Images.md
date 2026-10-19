@@ -27,5 +27,5 @@ Related hygiene: explicit `width` and `height` attributes reserve space and prev
 - [[Pixel]]
 - [[Above the Fold]]
 - [[Seam Carving]]
-- [[JPEG]]
+- [[Portable Network Graphics]]
 - [[Image Format]]

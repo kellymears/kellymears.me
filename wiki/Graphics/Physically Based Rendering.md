@@ -20,7 +20,7 @@ The discipline this imposes is as important as the math: an albedo texture must 
 - [[Rendering Equation]]
 - [[Spherical Harmonics]]
 - [[Render Farm]]
-- [[Normal Mapping]]
+- [[Importance Sampling]]
 - [[Decal]]
 - [[Ambient Occlusion]]
 - [[Radiosity]]

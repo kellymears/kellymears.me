@@ -17,14 +17,14 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 ## See also
 - [[Ray Casting]]
 - [[Screen Space Reflections]]
-- [[Reyes Rendering]]
+- [[Importance Sampling]]
 - [[Portal Rendering]]
 - [[Shadow Volume]]
 - [[Caustics]]
-- [[Render Farm]]
+- [[Bilateral Filter]]
 - [[Radiosity]]
 - [[Denoising]]
-- [[Rendering Equation]]
+- [[Low-Discrepancy Sequence]]
 
 ## Related
 - [[Blue Noise]]

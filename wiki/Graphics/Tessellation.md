@@ -29,7 +29,7 @@ In games, the fixed tessellation stages have been largely overtaken. Mesh shader
 - [[NURBS]]
 - [[Affine Texture Mapping]]
 - [[Marching Cubes]]
-- [[Catmull-Rom Spline]]
+- [[Mesh Simplification]]
 - [[Barycentric Coordinates]]
 - [[Terrain Generation]]
 - [[Reyes Rendering]]

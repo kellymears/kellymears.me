@@ -36,4 +36,4 @@ The word "heap" also names the region of memory used for dynamic allocation. The
 ## See also
 - [[Self-Balancing Binary Search Tree]]
 - [[Loop Invariant]]
-- [[Fibonacci Sequence]]
+- [[Mesh Simplification]]

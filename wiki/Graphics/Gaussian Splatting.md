@@ -34,6 +34,6 @@ It is part of a broader move toward representations learned from data, alongside
 
 ## See also
 - [[Spherical Harmonics]]
-- [[Holography]]
-- [[Image-Based Lighting]]
+- [[Light Field]]
+- [[Optical Flow]]
 - [[Stereoscopy]]

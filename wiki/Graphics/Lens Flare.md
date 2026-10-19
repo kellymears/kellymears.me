@@ -22,8 +22,9 @@ Computer graphics added flare to make rendered scenes look photographed. A typic
 Flare belongs with the other simulated camera imperfections, such as glow around bright areas, chromatic fringes, film grain, and depth of field, all applied as [[Post-Processing]]. They work best with [[High Dynamic Range]] rendering, since only light far brighter than white should flare; see [[Tone Mapping]].
 
 ## See also
-- [[Image Sensor]]
+- [[Light Field]]
 - [[Motion Blur]]
 - [[Aspect Ratio]]
 - [[Blend Mode]]
 - [[Astigmatism]]
+- [[Billboarding]]

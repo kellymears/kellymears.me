@@ -27,5 +27,5 @@ The algorithm appears well beyond painting:
 Filling polygons defined by their edges, rather than by pixel colors, is a different problem, solved during rasterization; see [[Rasterization]].
 
 ## See also
-- [[Terrain Generation]]
+- [[Canny Edge Detector]]
 - [[Bresenham's Line Algorithm]]

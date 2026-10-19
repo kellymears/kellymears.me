@@ -21,6 +21,6 @@ Changing worlds complicate things. If a door closes or a wall is destroyed, part
 Different characters need different meshes. A large creature can't fit through gaps a person can, and a flying enemy ignores the floor entirely, so games often maintain several. Collisions with the world are still checked separately; see [[Collision Detection]].
 
 ## See also
-- [[Dijkstra's Algorithm]]
+- [[Mesh Simplification]]
 - [[Animation Blending]]
 - [[Catmull-Rom Spline]]

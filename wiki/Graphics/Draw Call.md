@@ -2,8 +2,6 @@
 aliases:
   - Draw calls
   - Batching
-  - GPU instancing
-  - Instanced rendering
   - Texture atlas
 tags:
   - graphics
@@ -30,6 +28,6 @@ The latest step is *GPU-driven rendering*, in which the GPU itself decides what 
 - [[Portal Rendering]]
 - [[Stencil Buffer]]
 - [[Scene Graph]]
-- [[Decal]]
+- [[GPU Instancing]]
 - [[WebGPU]]
 - [[Graphics API]]

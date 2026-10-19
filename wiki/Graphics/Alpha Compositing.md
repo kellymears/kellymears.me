@@ -24,8 +24,8 @@ Alpha is everywhere in interfaces. A desktop [[Compositor]] layers translucent w
 Alpha has limits in what it can represent. A single value per pixel can't express colored glass that tints what's behind it differently for each color, which requires separate transmission per channel.
 
 ## See also
-- [[Lens Flare]]
+- [[Portable Network Graphics]]
 - [[Glassmorphism]]
 - [[GIF]]
-- [[Decal]]
+- [[Billboarding]]
 - [[Order-Independent Transparency]]

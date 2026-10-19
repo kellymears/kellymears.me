@@ -30,3 +30,4 @@ The word is also used for a different idea in image files. An interlaced GIF or 
 - [[Chroma Subsampling]]
 - [[Closed Captions]]
 - [[NTSC]]
+- [[Portable Network Graphics]]

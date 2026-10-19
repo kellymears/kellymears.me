@@ -24,3 +24,4 @@ The micropolygon idea outlived the architecture that introduced it. Real-time en
 ## See also
 - [[Render Farm]]
 - [[Rendering Equation]]
+- [[Light Field]]

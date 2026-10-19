@@ -29,5 +29,5 @@ Favicons also had a privacy flaw. Browsers keep favicons in their own cache, sep
 
 ## See also
 - [[Data URI]]
-- [[MIME Type]]
+- [[Portable Network Graphics]]
 - [[Logo]]

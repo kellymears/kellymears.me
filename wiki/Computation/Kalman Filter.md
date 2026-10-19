@@ -27,3 +27,5 @@ The same predict-and-correct pattern underlies tracking aircraft on radar, smoot
 ## See also
 - [[Numerical Stability]]
 - [[Newton's Method]]
+- [[Bilateral Filter]]
+- [[Optical Flow]]

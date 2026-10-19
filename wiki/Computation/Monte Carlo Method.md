@@ -28,7 +28,7 @@ Results are only as good as the randomness and the model. A weak [[Pseudorandom 
 
 ## See also
 - [[Integer Factorization]]
-- [[Kalman Filter]]
+- [[Importance Sampling]]
 - [[Random Walk]]
-- [[Online Algorithm]]
+- [[Low-Discrepancy Sequence]]
 - [[AlphaGo]]

@@ -27,3 +27,4 @@ ECS has costs. Logic spreads across many systems, so following what happens to o
 - [[Particle System]]
 - [[Boids]]
 - [[Animation Blending]]
+- [[GPU Instancing]]

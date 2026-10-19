@@ -23,8 +23,8 @@ Noise sets the limits. Light arrives as discrete photons, so a dim exposure has 
 Phones compensate with computation, capturing a burst of frames and aligning and merging them to cut noise and extend range, so many photos are partly reconstructed rather than simply recorded. Sensors also respond linearly to light while human vision doesn't, so raw values are curved before display; see [[Gamma Correction]] and [[Tone Mapping]].
 
 ## See also
-- [[Unsharp Masking]]
-- [[Histogram Equalization]]
-- [[Pixel]]
-- [[Object Detection]]
+- [[Optical Flow]]
+- [[Light Field]]
+- [[Bilateral Filter]]
+- [[Canny Edge Detector]]
 - [[Lens Flare]]

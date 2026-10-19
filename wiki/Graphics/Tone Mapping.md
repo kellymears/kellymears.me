@@ -25,7 +25,7 @@ Tone mapping is a perceptual problem, not a mathematical one, so its references 
 - [[Lens Flare]]
 - [[Image Sensor]]
 - [[Game Modding]]
-- [[Easing]]
+- [[Bilateral Filter]]
 - [[Dark Adaptation]]
 - [[Color Gamut]]
 - [[Histogram Equalization]]

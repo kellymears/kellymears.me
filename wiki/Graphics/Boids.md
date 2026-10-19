@@ -27,7 +27,7 @@ Rendering a large flock is usually done with instancing, drawing thousands of co
 
 ## See also
 - [[Navigation Mesh]]
-- [[Game AI]]
+- [[GPU Instancing]]
 - [[Cellular Automaton]]
 - [[Spatial Partitioning]]
 - [[Entity Component System]]

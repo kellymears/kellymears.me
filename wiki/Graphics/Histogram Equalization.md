@@ -25,3 +25,5 @@ Equalization works on brightness. Applying it separately to red, green and blue 
 ## See also
 - [[Unsharp Masking]]
 - [[Gamma Correction]]
+- [[Bilateral Filter]]
+- [[Canny Edge Detector]]

@@ -28,4 +28,4 @@ Ray tracing follows a different model, tracing paths of light from the camera in
 
 ## See also
 - [[Stencil Buffer]]
-- [[Clipping]]
+- [[GPU Instancing]]

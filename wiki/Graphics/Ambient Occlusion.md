@@ -24,7 +24,7 @@ Overdone AO is one of the recognizable looks of late-2000s games, with heavy gri
 ## See also
 - [[Radiosity]]
 - [[Screen Space Reflections]]
-- [[Reyes Rendering]]
+- [[Bilateral Filter]]
 - [[Shadow Volume]]
 - [[Utah Teapot]]
 - [[Blue Noise]]

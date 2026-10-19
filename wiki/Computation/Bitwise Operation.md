@@ -36,5 +36,5 @@ Bit manipulation has pitfalls. Right-shifting a negative signed number behaves d
 
 ## See also
 - [[Advanced Encryption Standard]]
-- [[Binary Adder]]
+- [[Low-Discrepancy Sequence]]
 - [[Flip-Flop]]

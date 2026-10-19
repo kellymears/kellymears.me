@@ -22,3 +22,5 @@ Sharpening can't restore detail that was never captured. It only raises contrast
 ## See also
 - [[Halftone]]
 - [[Histogram Equalization]]
+- [[Bilateral Filter]]
+- [[Canny Edge Detector]]

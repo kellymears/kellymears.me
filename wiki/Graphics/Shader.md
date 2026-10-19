@@ -22,7 +22,7 @@ Two practical notes. Precision and compiler optimization settings change results
 - [[Stencil Buffer]]
 - [[Shader Compilation Stutter]]
 - [[WebGPU]]
-- [[Decal]]
+- [[GPU Instancing]]
 - [[HSL and HSV]]
 
 ## Related

@@ -26,7 +26,7 @@ Small triangles break ordinary hardware. [[Rasterization]] units shade pixels in
 The approach has limits. Geometry that deforms, such as skinned characters, foliage swaying in wind, or anything with transparency, fits poorly, since clusters and their simplified versions are precomputed. Compression is essential, since unreduced scans are enormous; see [[Data Compression]]. Texture memory has the same problem and an older answer, virtual texturing, which pages in tiles of huge textures the way clusters page in geometry; see [[Mipmapping]].
 
 ## See also
-- [[Bounding Volume Hierarchy]]
-- [[Tessellation]]
+- [[GPU Instancing]]
+- [[Mesh Simplification]]
 - [[Reyes Rendering]]
 - [[Texture Streaming]]

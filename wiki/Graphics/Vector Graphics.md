@@ -29,7 +29,7 @@ The line between the two has blurred. A [[Signed Distance Field]] stores shapes 
 
 ## See also
 - [[Turtle Graphics]]
-- [[Catmull-Rom Spline]]
+- [[Portable Network Graphics]]
 - [[HTML Canvas]]
 - [[Pixel]]
 - [[Data URI]]

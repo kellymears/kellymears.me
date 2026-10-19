@@ -25,3 +25,4 @@ Marching cubes is the standard bridge from implicit or volumetric representation
 - [[Perlin Noise]]
 - [[Terrain Generation]]
 - [[Metaballs]]
+- [[Mesh Simplification]]

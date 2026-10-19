@@ -32,3 +32,4 @@ Stereo pairs also work in reverse: matching points between two photographs recov
 - [[Motion Sickness]]
 - [[Foveated Rendering]]
 - [[Holography]]
+- [[Light Field]]
