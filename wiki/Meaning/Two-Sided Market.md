@@ -26,5 +26,5 @@ Matching markets that run without prices, like school choice and medical residen
 
 ## See also
 - [[Video Game Crash of 1983]]
-- [[Principal-Agent Problem]]
+- [[Paywall]]
 - [[Schelling Point]]

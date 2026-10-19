@@ -32,5 +32,5 @@ Getting codes right has practical consequences:
 A [[Smoke Test]] after deploy usually starts by checking that key URLs return 200.
 
 ## See also
-- [[Captive Portal]]
-- [[Persistent Identifier]]
+- [[Paywall]]
+- [[Hotlinking]]

@@ -25,3 +25,4 @@ The practical friction is that most application frameworks bring their own, more
 - [[Browser Engine]]
 - [[Atomic Design]]
 - [[Model-View-Controller]]
+- [[HTML]]

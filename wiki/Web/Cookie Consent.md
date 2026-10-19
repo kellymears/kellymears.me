@@ -30,6 +30,6 @@ The simplest compliant banner is none: a site that sets only essential cookies a
 
 ## See also
 - [[Web Analytics]]
-- [[Data Retention]]
+- [[Paywall]]
 - [[Data Broker]]
 - [[Pop-up Ad]]

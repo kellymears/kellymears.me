@@ -27,3 +27,4 @@ The failure mode to watch for is caching that is not request-aware. A value memo
 - [[Performance Budget]]
 - [[Hydration]]
 - [[Client-Server Boundary]]
+- [[Jamstack]]

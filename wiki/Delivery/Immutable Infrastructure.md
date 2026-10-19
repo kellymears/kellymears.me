@@ -21,7 +21,7 @@ The tradeoff is that anything genuinely needing in-place mutation — a long-liv
 
 ## Related
 - [[Over-the-Air Update]]
-- [[Deployment Pipeline]]
+- [[Jamstack]]
 - [[Configuration Drift]]
 - [[Twelve-Factor App]]
 - [[Artifact Repository]]

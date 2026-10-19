@@ -18,9 +18,9 @@ The tradeoff CDNs make explicit is between consistency and locality: an edge nod
 - [[Subresource Integrity]]
 - [[Sneakernet]]
 - [[Adaptive Bitrate Streaming]]
-- [[Encrypted Client Hello]]
+- [[Jamstack]]
 - [[Edge Computing]]
-- [[Memory Hierarchy]]
+- [[Hotlinking]]
 - [[Data Sovereignty]]
 - [[Net Neutrality]]
 

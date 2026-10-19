@@ -17,7 +17,7 @@ Because the format is machine-readable and low-friction, it is also a decent gen
 ## See also
 - [[Static Site Generation]]
 - [[Structured Data]]
-- [[Search Engine Optimization]]
+- [[Blog]]
 - [[Markdown]]
 
 ## Related
@@ -31,3 +31,4 @@ Because the format is machine-readable and low-friction, it is also a decent gen
 - [[IndieWeb]]
 - [[XML]]
 - [[Web 2.0]]
+- [[Webring]]

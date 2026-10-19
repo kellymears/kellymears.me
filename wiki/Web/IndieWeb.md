@@ -26,5 +26,5 @@ The costs are real. Running a site means maintaining it, and features like repli
 Many personal sites, including this one, carry IndieWeb habits: a feed, permanent URLs, and writing published on a domain the author controls.
 
 ## See also
-- [[Open Graph]]
-- [[Gopher]]
+- [[GeoCities]]
+- [[Webring]]

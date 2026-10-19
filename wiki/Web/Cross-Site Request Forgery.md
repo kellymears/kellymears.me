@@ -28,7 +28,7 @@ Two boundaries are worth knowing. CSRF defenses assume no [[Cross-Site Scripting
 - [[Third-Party Cookie]]
 - [[Open Redirect]]
 - [[Content Security Policy]]
-- [[Defensive Default]]
+- [[Referrer Policy]]
 - [[OAuth]]
 - [[Clickjacking]]
 - [[Passkey]]

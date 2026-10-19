@@ -33,10 +33,10 @@ For developers, the practical tools are [[Progressive Enhancement]], building on
 
 ## See also
 - [[JavaScript]]
-- [[Polyfill]]
+- [[HTML]]
 - [[Quirks Mode]]
 - [[Encrypted Media Extensions]]
 - [[Internationalized Domain Name]]
-- [[Browser Wars]]
+- [[Mosaic]]
 - [[Request for Comments]]
 - [[Cross-Browser Testing]]

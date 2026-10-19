@@ -31,7 +31,7 @@ URLs are also an interface. People read them, share them, and bookmark them, so 
 
 ## See also
 - [[Internationalized Domain Name]]
-- [[Fetch API]]
-- [[Open Redirect]]
-- [[Persistent Identifier]]
+- [[Referrer Policy]]
+- [[Hotlinking]]
+- [[Deep Linking]]
 - [[Data URI]]

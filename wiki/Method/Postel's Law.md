@@ -29,4 +29,4 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 - [[YAML]]
 - [[API Versioning]]
 - [[MIME Type]]
-- [[World Wide Web]]
+- [[HTML]]

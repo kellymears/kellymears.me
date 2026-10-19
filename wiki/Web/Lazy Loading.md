@@ -18,7 +18,7 @@ Lazy loading interacts with perceived performance rather than just measured perf
 - [[Critical Rendering Path]]
 - [[Data URI]]
 - [[Islands Architecture]]
-- [[React Server Components]]
+- [[Hotlinking]]
 - [[Streaming Response]]
 - [[Responsive Images]]
 - [[Pagination]]

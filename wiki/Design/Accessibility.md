@@ -23,6 +23,6 @@ Automated checks also produce characteristic false signals: a burst of violation
 - [[Inclusive Design]]
 
 ## Related
-- [[Portal]]
+- [[HTML]]
 - [[Headless Component]]
 - [[Color Vision Deficiency]]

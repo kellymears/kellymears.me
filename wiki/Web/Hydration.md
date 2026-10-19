@@ -17,11 +17,11 @@ A subtler hazard: content rendered by the server and then mutated directly by th
 - [[Client-Server Boundary]]
 - [[contenteditable]]
 - [[Critical Rendering Path]]
-- [[Progressive Enhancement]]
+- [[HTML]]
 
 ## Related
 - [[Lazy Loading]]
-- [[Performance Budget]]
+- [[Jamstack]]
 - [[Single-Page Application]]
 - [[Reactive Signals]]
 - [[Long Task]]

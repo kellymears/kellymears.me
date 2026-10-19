@@ -32,4 +32,4 @@ Passwords, passkeys, and single sign-on establish identity once; the session car
 
 ## See also
 - [[Multi-Factor Authentication]]
-- [[Time to Live]]
+- [[Referrer Policy]]

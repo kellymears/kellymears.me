@@ -33,3 +33,4 @@ Alt text is a standard example of a feature built for disabled users that helps 
 ## See also
 - [[ARIA]]
 - [[Closed Captions]]
+- [[HTML]]

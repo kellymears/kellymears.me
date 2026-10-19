@@ -30,7 +30,7 @@ A paradox complicates privacy settings: unusual choices make a browser rarer, an
 Privacy law in Europe treats fingerprinting like cookies: storing or reading information from a device for tracking requires consent; see [[Personal Data]]. Detection is hard, since the same API calls serve ordinary features. Each new browser capability is reviewed for how many bits it adds, a constraint that shapes [[Web Standards]].
 
 ## See also
-- [[Favicon]]
+- [[Referrer Policy]]
 - [[Web Analytics]]
 - [[Turing Test]]
 - [[User Agent String]]

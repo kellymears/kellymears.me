@@ -17,7 +17,7 @@ Network effects are often confused with switching costs, and the two are related
 ## See also
 - [[Napster]]
 - [[Two-Sided Market]]
-- [[Small-World Network]]
+- [[Webring]]
 - [[Universal Serial Bus]]
 - [[Internet Exchange Point]]
 - [[Stable Matching]]

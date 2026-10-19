@@ -21,7 +21,7 @@ Interoperability has improved: browser makers now jointly pick problem areas eac
 
 ## See also
 - [[Pop-up Ad]]
-- [[Big Rewrite]]
+- [[Mosaic]]
 - [[Quirks Mode]]
 - [[Cross-Browser Testing]]
 - [[GIF]]

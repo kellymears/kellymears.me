@@ -27,3 +27,5 @@ Two recurring implementation notes. Content that lives outside the page model â€
 - [[Feature Flag]]
 - [[Backlink]]
 - [[WordPress]]
+- [[Blog]]
+- [[Jamstack]]

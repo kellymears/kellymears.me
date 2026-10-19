@@ -25,6 +25,6 @@ The ideas keep returning in partial form. Wikis and note-taking tools show backl
 Nelson, still working on it, has said the web oversimplified hypertext by treating documents like paper.
 
 ## See also
-- [[Hypermedia]]
+- [[Paywall]]
 - [[Microfilm]]
-- [[Second-System Effect]]
+- [[Mosaic]]

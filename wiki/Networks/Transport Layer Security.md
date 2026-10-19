@@ -30,6 +30,6 @@ TLS encrypts content but not everything. The server's IP address is visible, and
 - [[HTTP Compression]]
 - [[Prime Number]]
 - [[Zero-Knowledge Proof]]
-- [[One-Time Pad]]
+- [[Mosaic]]
 - [[HTTP Strict Transport Security]]
 - [[Mutual TLS]]

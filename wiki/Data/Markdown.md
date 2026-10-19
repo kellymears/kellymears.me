@@ -27,9 +27,10 @@ Two authoring points are worth stating.
 ## Related
 - [[Zettelkasten]]
 - [[Search Engine Optimization]]
-- [[Naming]]
+- [[Blog]]
 - [[Abstract Syntax Tree]]
 - [[YAML]]
 - [[Local-First Software]]
 - [[Docs as Code]]
 - [[Document Chunking]]
+- [[HTML]]

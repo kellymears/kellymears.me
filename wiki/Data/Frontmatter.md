@@ -16,7 +16,7 @@ The same pattern extends beyond publishing. Notes in a personal knowledge system
 
 ## See also
 - [[Markdown]]
-- [[Static Site Generation]]
+- [[Blog]]
 - [[Zettelkasten]]
 - [[Taxonomy]]
 
@@ -25,7 +25,7 @@ The same pattern extends beyond publishing. Notes in a personal knowledge system
 - [[RSS]]
 - [[Knowledge Graph]]
 - [[Search Engine Optimization]]
-- [[Naming]]
+- [[Jamstack]]
 - [[Structured Data]]
 - [[YAML]]
 - [[JSON]]

@@ -24,6 +24,6 @@ Often simpler still is self-hosting third-party files, versioned and hashed by y
 
 ## See also
 - [[Third-Party Script]]
-- [[Content Security Policy]]
+- [[Hotlinking]]
 - [[Hash Function]]
 - [[Content Delivery Network]]

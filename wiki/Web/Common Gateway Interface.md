@@ -25,4 +25,5 @@ CGI's ideas outlived it. Later standards for connecting web servers to applicati
 
 ## See also
 - [[Command-Line Interface]]
-- [[Web 2.0]]
+- [[Webring]]
+- [[Mosaic]]

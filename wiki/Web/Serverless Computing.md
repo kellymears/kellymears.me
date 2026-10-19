@@ -33,4 +33,4 @@ Serverless is one point on a spectrum. [[Containerization]] gives more control w
 - [[Common Gateway Interface]]
 - [[PHP]]
 - [[MicroVM]]
-- [[Time-Sharing]]
+- [[Jamstack]]

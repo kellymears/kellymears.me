@@ -25,3 +25,4 @@ Each notification is an interruption, and the cost of switching attention lasts 
 - [[Background Tab Throttling]]
 - [[Choice Architecture]]
 - [[Pop-up Ad]]
+- [[Deep Linking]]

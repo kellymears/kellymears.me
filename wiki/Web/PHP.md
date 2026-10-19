@@ -23,4 +23,5 @@ PHP's design choice of a fresh process per request returned in serverless functi
 
 ## See also
 - [[Node.js]]
-- [[Interpreter]]
+- [[Blog]]
+- [[GeoCities]]

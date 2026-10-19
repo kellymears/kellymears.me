@@ -24,3 +24,4 @@ Ads loaded in frames remain a security concern too, since an ad script can try t
 ## See also
 - [[Layout Shift]]
 - [[Web Analytics]]
+- [[GeoCities]]

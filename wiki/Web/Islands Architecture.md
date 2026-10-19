@@ -29,3 +29,4 @@ The pattern is most associated with content-first site frameworks, but the under
 - [[Long Task]]
 - [[Edge Computing]]
 - [[Hypermedia]]
+- [[Jamstack]]

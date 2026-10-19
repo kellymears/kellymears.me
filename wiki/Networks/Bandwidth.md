@@ -29,6 +29,6 @@ Bandwidth is also shared. A home connection is split among every device, and a p
 ## See also
 - [[Sneakernet]]
 - [[Head-of-Line Blocking]]
-- [[Ethernet]]
+- [[GeoCities]]
 - [[Modem]]
-- [[Video Compression]]
+- [[Hotlinking]]

@@ -33,6 +33,6 @@ Training and simulated phishing campaigns are widespread, but studies find their
 
 ## See also
 - [[Single Sign-On]]
-- [[Anomaly Detection]]
+- [[Deep Linking]]
 - [[Deepfake]]
 - [[Internationalized Domain Name]]

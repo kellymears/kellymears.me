@@ -37,3 +37,4 @@ Commercial online services and then the web emptied the boards in the mid-1990s,
 - [[Time-Sharing]]
 - [[Telnet]]
 - [[Gopher]]
+- [[GeoCities]]

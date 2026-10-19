@@ -12,7 +12,7 @@ Because real applications legitimately span origins, several mechanisms relax it
 The recurring practical symptom is asymmetric: read requests succeed while writes fail with an authorization error, because reads pass the cookie check and writes hit the origin check. The cause is usually that the application is being driven at a URL that is *not* the one it was configured with — a bare hostname where a subdomain was expected, or the wrong port.
 
 ## See also
-- [[Browser Engine]]
+- [[Referrer Policy]]
 - [[Multi-Factor Authentication]]
 - [[Cross-Origin Isolation]]
 - [[Internationalized Domain Name]]
@@ -24,5 +24,5 @@ The recurring practical symptom is asymmetric: read requests succeed while write
 - [[Browser Extension]]
 - [[Caller ID Authentication]]
 - [[Web Storage]]
-- [[Penetration Testing]]
+- [[Hotlinking]]
 - [[Iframe]]

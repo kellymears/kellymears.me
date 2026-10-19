@@ -34,6 +34,6 @@ Privacy and security concerns:
 The name reflects Facebook's original ambition, a "social graph" in which every web page could become an object people liked and shared. The graph faded, but the preview tags became one of the web's most widely adopted metadata standards, mostly because [[Network Effect]]s made every platform read the same few tags.
 
 ## See also
-- [[Phishing]]
+- [[Hotlinking]]
 - [[Web 2.0]]
-- [[IndieWeb]]
+- [[Deep Linking]]

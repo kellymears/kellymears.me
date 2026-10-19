@@ -19,11 +19,11 @@ It is worth being clear about the incentive structure. Search optimization is an
 - [[Open Graph]]
 - [[Alt Text]]
 - [[RSS]]
-- [[Semantic HTML]]
+- [[Webring]]
 - [[Backlink]]
 - [[Inverted Index]]
 
 ## Related
 - [[PageRank]]
-- [[Islands Architecture]]
-- [[Link Rot]]
+- [[Deep Linking]]
+- [[Blog]]

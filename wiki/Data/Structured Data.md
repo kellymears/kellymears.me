@@ -21,7 +21,7 @@ Two practical cautions.
 - [[Breadcrumb]]
 - [[Barcode]]
 - [[JSON Schema]]
-- [[Knowledge Graph]]
+- [[Paywall]]
 - [[RSS]]
 - [[Headless CMS]]
 

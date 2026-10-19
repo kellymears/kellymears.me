@@ -26,4 +26,4 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 - [[Loss Aversion]]
 - [[Clickjacking]]
 - [[Banner Blindness]]
-- [[Choice Architecture]]
+- [[Paywall]]

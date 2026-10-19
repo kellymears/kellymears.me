@@ -30,6 +30,6 @@ XML parsers are also a classic security risk, because DTDs allow **entities**, n
 Modern parsers disable both by default, but older libraries and configurations still expose them; see [[Serialization]].
 
 ## See also
-- [[YAML]]
+- [[HTML]]
 - [[Base64]]
 - [[Single Sign-On]]

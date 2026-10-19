@@ -30,3 +30,4 @@ Servers still use the string for analytics, debugging, blocking abusive bots, an
 - [[Headless Browser]]
 - [[Third-Party Cookie]]
 - [[Responsive Web Design]]
+- [[Mosaic]]

@@ -31,5 +31,5 @@ Differences between engines are why developers rely on [[Progressive Enhancement
 - [[Cross-Browser Testing]]
 - [[Quirks Mode]]
 - [[Browser Extension]]
-- [[Encrypted Media Extensions]]
+- [[Mosaic]]
 - [[Seccomp]]

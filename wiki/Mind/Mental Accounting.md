@@ -26,3 +26,4 @@ The cost is that categories can blind people to tradeoffs. Every dollar spent in
 ## See also
 - [[Expected Value]]
 - [[Gambler's Fallacy]]
+- [[Paywall]]

@@ -27,4 +27,4 @@ Checking user-agent strings to guess the browser, rather than detecting features
 
 ## See also
 - [[Pseudolocalization]]
-- [[Browser Fingerprinting]]
+- [[Mosaic]]

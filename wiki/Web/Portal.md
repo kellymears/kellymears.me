@@ -27,3 +27,5 @@ Accessibility also needs explicit work, since the visual position and the tree p
 - [[Modal Dialog]]
 - [[Tooltip]]
 - [[Iframe]]
+- [[GeoCities]]
+- [[Webring]]

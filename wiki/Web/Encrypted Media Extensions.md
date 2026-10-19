@@ -28,3 +28,4 @@ Supporters argued the alternative was worse: without EME, protected video would 
 ## See also
 - [[HTML Canvas]]
 - [[Path Dependence]]
+- [[Paywall]]

@@ -18,7 +18,7 @@ The empirical picture is more contested than the popular story: several large st
 - [[Naive Realism]]
 - [[Motivated Reasoning]]
 - [[Rabbit Hole]]
-- [[Sycophancy]]
+- [[Webring]]
 - [[Deepfake]]
 - [[Strength of Weak Ties]]
 - [[Recommender System]]

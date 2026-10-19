@@ -14,8 +14,8 @@ The directive that does the real work is `script-src`, and the strongest configu
 CSP composes with, but is distinct from, [[Cross-Origin Resource Sharing]]: CORS governs whether *your* page's script can read a response from *another* origin; CSP governs which origins your page is permitted to load resources *from* at all. A page can have a tight CSP and a permissive CORS setup, or the reverse — they answer different questions about trust.
 
 ## See also
-- [[Cross-Site Scripting]]
-- [[Cross-Origin Resource Sharing]]
+- [[Referrer Policy]]
+- [[Hotlinking]]
 - [[Same-Origin Policy]]
 - [[HTTP Caching]]
 

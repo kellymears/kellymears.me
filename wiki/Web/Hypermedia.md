@@ -22,5 +22,5 @@ The trade-offs are real in both directions. Hypermedia suits applications that a
 The idea predates the web: hypertext systems from the 1960s onward explored linked documents, some more ambitiously than the web does; see [[Project Xanadu]].
 
 ## See also
-- [[Model-View-Controller]]
-- [[Gopher]]
+- [[HTML]]
+- [[Mosaic]]

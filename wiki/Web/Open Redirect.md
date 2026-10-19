@@ -32,3 +32,5 @@ Checking is harder than it looks. Validators that test whether a value "starts w
 - [[Same-Origin Policy]]
 - [[Content Security Policy]]
 - [[Internationalized Domain Name]]
+- [[Referrer Policy]]
+- [[Deep Linking]]

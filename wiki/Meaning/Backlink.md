@@ -25,10 +25,11 @@ The same idea, at web scale, was the basis of link-based search ranking: a page'
 ## Related
 - [[Structured Data]]
 - [[Information Architecture]]
-- [[Core Web Vitals]]
+- [[Blog]]
 - [[Agent Memory]]
 - [[Link Rot]]
 - [[Matthew Effect]]
 - [[Small-World Network]]
 - [[Project Xanadu]]
 - [[PageRank]]
+- [[Webring]]
