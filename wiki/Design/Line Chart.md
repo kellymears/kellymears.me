@@ -31,3 +31,4 @@ Removing gridlines, borders, and markers that carry no information usually helps
 - [[Data Journalism]]
 - [[Spreadsheet]]
 - [[Control Chart]]
+- [[Timeline]]

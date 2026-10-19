@@ -16,7 +16,7 @@ Fitts's Law and Hick's Law are often cited together because they cover the two h
 ## See also
 - [[Fitts's Law]]
 - [[Above the Fold]]
-- [[Gestalt Principles]]
+- [[Call to Action]]
 - [[Reaction Time]]
 - [[Context Menu]]
 - [[Decision Fatigue]]

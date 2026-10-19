@@ -27,6 +27,8 @@ Good infographics share a few habits:
 Newsrooms now also build interactive and scrolling versions, combining reporting with maps and charts; see [[Data Journalism]] and [[Choropleth Map]]. Diagrams of networks, like the subway map, are a related tradition; see [[Transit Map]].
 
 ## See also
-- [[Data Visualization]]
+- [[Venn Diagram]]
 - [[Swiss Style]]
 - [[Attention Economy]]
+- [[Flowchart]]
+- [[Timeline]]

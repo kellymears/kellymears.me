@@ -28,7 +28,7 @@ Card sorting has limits. It shows how people group things in the abstract, not h
 The method has relatives in [[Taxonomy]] work, where controlled vocabularies are built from how people describe things, and in [[Heuristic Evaluation]], which checks findings against established principles.
 
 ## See also
-- [[Gestalt Principles]]
+- [[Affinity Diagram]]
 - [[Recognition Rather Than Recall]]
 - [[Hick's Law]]
 - [[Sitemap]]

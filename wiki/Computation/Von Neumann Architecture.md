@@ -22,6 +22,6 @@ The **Harvard architecture** keeps instructions and data in separate memories wi
 Modern processors look sequential to programmers but aren't inside. They decode instructions into smaller operations, run many at once, and guess which way branches will go; see [[Microcode]] and [[Speculative Execution]]. Designs that abandon the model altogether include graphics processors, which run thousands of simple threads, and dataflow machines; see [[Graphics Processing Unit]].
 
 ## See also
-- [[Instruction Set Architecture]]
+- [[Flowchart]]
 - [[Punched Card]]
 - [[SIMD]]

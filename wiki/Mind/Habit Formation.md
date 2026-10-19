@@ -24,7 +24,7 @@ What follows in practice:
 Habits save effort. Each automatic action is one decision fewer, protecting against [[Decision Fatigue]] and supporting weak [[Executive Function]]. The same machinery serves products built to capture attention: the [[Compulsion Loop]] and [[Variable-Ratio Reinforcement]] behind [[Doomscrolling]] are habit formation engineered for engagement.
 
 ## See also
-- [[Neuroplasticity]]
+- [[Pull-to-Refresh]]
 - [[Classical Conditioning]]
 - [[Commitment Device]]
 - [[Fresh Start Effect]]

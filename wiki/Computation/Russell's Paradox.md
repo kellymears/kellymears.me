@@ -28,3 +28,4 @@ A librarian's version asks about a catalog of all catalogs that don't list thems
 ## See also
 - [[Recursion]]
 - [[Ontology]]
+- [[Venn Diagram]]

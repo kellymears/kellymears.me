@@ -25,13 +25,13 @@ Three practical notes recur.
 - [[Visual Regression Testing]]
 
 ## Related
-- [[Integration Test]]
+- [[Logo]]
 - [[Responsive Web Design]]
 - [[Test Fixture]]
 - [[Paper Size]]
 - [[Stacking Context]]
 - [[Touch Target Size]]
 - [[Line Length]]
-- [[Small Multiples]]
+- [[Sticky Header]]
 - [[CSS Grid]]
 - [[Flexbox]]

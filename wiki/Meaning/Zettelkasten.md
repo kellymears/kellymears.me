@@ -26,7 +26,7 @@ The modern practice adds tooling — automatic [[Backlink]]s, graph views, full-
 ## Related
 - [[Source Amnesia]]
 - [[Markdown]]
-- [[Documentation Rot]]
+- [[Affinity Diagram]]
 - [[Levels of Processing]]
 - [[Search Engine Optimization]]
 - [[Desirable Difficulty]]

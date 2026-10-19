@@ -28,6 +28,6 @@ The practical lessons run in two directions. When communicating, fluency helps: 
 
 ## See also
 - [[Speed Reading]]
-- [[Source Amnesia]]
+- [[Logo]]
 - [[Stroop Effect]]
 - [[Barnum Effect]]

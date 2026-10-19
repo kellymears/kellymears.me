@@ -31,7 +31,7 @@ Indicators have accessibility needs too. Spinning and pulsing animation should r
 
 ## See also
 - [[Empty State]]
-- [[Motion Design]]
+- [[Pull-to-Refresh]]
 - [[Easing]]
 - [[Lazy Loading]]
 - [[Battle Pass]]

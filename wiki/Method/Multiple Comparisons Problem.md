@@ -33,7 +33,7 @@ The problem is a cousin of the base rate issue in diagnostic testing. When true 
 
 ## See also
 - [[Publication Bias]]
-- [[Survivorship Bias]]
+- [[Call to Action]]
 - [[Birthday Problem]]
 - [[Big Data]]
 - [[Hyperparameter]]

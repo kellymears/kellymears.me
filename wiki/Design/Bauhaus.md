@@ -27,7 +27,7 @@ The legacy is mixed. Critics argue that functionalism became a style of its own,
 
 ## See also
 - [[Generative Art]]
-- [[Design System]]
+- [[Logo]]
 - [[Affordance]]
 - [[Color Theory]]
 - [[Dieter Rams]]

@@ -28,7 +28,7 @@ Component tests can catch a lot of this, provided the test harness reproduces th
 - [[Monotropism]]
 
 ## Related
-- [[ARIA]]
+- [[Sticky Header]]
 - [[Semantic HTML]]
 - [[Single-Page Application]]
 - [[Modal Dialog]]

@@ -29,4 +29,4 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 - [[Accessibility Testing]]
 - [[Command Palette]]
 - [[Tooltip]]
-- [[Signifier]]
+- [[Gesture]]

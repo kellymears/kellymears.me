@@ -23,5 +23,5 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Social Deduction Game]]
 - [[Delphi Method]]
 - [[Information Cascade]]
-- [[Sortition]]
+- [[Affinity Diagram]]
 - [[Cooperative Game]]

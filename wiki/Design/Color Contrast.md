@@ -17,7 +17,7 @@ Two things about it are consistently underappreciated.
 Contrast is one of the few accessibility criteria a machine can genuinely evaluate, which makes it the one worth automating hardest. See [[Accessibility]].
 
 ## See also
-- [[OKLCH]]
+- [[Call to Action]]
 - [[Closed Captions]]
 - [[Color Scale]]
 - [[Liquid-Crystal Display]]
@@ -29,7 +29,7 @@ Contrast is one of the few accessibility criteria a machine can genuinely evalua
 - [[Presbyopia]]
 - [[Digital Eye Strain]]
 - [[Color Theory]]
-- [[Easing]]
+- [[Glassmorphism]]
 - [[Radar Chart]]
 - [[Bauhaus]]
 - [[Accessibility Testing]]

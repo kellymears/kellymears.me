@@ -30,6 +30,6 @@ Dynamic interfaces add failure modes:
 Automated checkers catch only a minority of these problems. The reliable test is to use a screen reader yourself, keyboard only, eyes off the screen, and try to complete a real task. It quickly shows whether the interface has structure or only appearance, the gap that [[Accessibility]] work tries to close.
 
 ## See also
-- [[Form Validation]]
+- [[Gesture]]
 - [[Alt Text]]
 - [[Date Picker]]

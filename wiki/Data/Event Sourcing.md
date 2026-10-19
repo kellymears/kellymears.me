@@ -24,5 +24,5 @@ The cost is that querying "current state" now requires either replaying potentia
 - [[Stream Processing]]
 - [[Jujutsu]]
 - [[Schema Evolution]]
-- [[Serialization]]
+- [[Timeline]]
 - [[Data Retention]]

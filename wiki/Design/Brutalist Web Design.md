@@ -31,3 +31,4 @@ The impulse continues among personal websites built by hand; see [[IndieWeb]].
 - [[Swiss Style]]
 - [[Bauhaus]]
 - [[Ricing]]
+- [[Glassmorphism]]

@@ -32,7 +32,7 @@ The method has critics:
 Alternatives aggregate judgment differently. Averaging many independent guesses works when errors are uncorrelated, and markets let people bet on outcomes; see [[Wisdom of the Crowd]]. Delphi remains useful where questions have no market, the experts are few, and the goal is a considered collective judgment rather than a single number.
 
 ## See also
-- [[Calibration]]
+- [[Affinity Diagram]]
 - [[Pre-mortem]]
 - [[Mean and Median]]
 - [[Arrow's Impossibility Theorem]]

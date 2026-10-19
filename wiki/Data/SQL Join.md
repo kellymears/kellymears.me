@@ -37,5 +37,5 @@ Common mistakes:
 Joins are also why some systems avoid them. Across shards, matching rows live on different machines, so a join means shipping data over the network. Distributed systems therefore favor [[Denormalization]] and keys designed around access patterns, and a [[Key-Value Store]] offers no joins at all. Inside one database, a join is usually far cheaper than the [[N+1 Query Problem]], where an [[Object-Relational Mapping]] issues a separate query for each row.
 
 ## See also
-- [[Window Function]]
+- [[Venn Diagram]]
 - [[Data Journalism]]

@@ -17,7 +17,7 @@ What is established is the behavioral finding above, replicated across species a
 - [[Match-Three]]
 - [[Poker]]
 - [[Grinding]]
-- [[Live Service Game]]
+- [[Pull-to-Refresh]]
 - [[Reward Prediction Error]]
 - [[Classical Conditioning]]
 - [[Loss Aversion]]

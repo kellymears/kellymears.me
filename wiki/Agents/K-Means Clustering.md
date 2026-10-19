@@ -30,7 +30,7 @@ Uses are everywhere. Customer segmentation groups shoppers by behavior. In graph
 Clusters are a description of data, not a discovery of natural kinds. The algorithm will find k groups whether or not real groups exist, and people readily read meaning into them; see [[Texas Sharpshooter Fallacy]].
 
 ## See also
-- [[Approximate Nearest Neighbor Search]]
+- [[Affinity Diagram]]
 - [[Recommender System]]
 - [[Scatter Plot]]
 - [[Anomaly Detection]]

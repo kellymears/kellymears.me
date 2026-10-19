@@ -30,6 +30,6 @@ Its influence on screen design is direct. The flat design that replaced [[Skeuom
 ## See also
 - [[Generative Art]]
 - [[Transit Map]]
-- [[Brutalist Web Design]]
+- [[Logo]]
 - [[Paper Size]]
 - [[Text Justification]]

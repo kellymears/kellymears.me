@@ -26,7 +26,7 @@ The maintenance question is not whether the system covers everything but whether
 ## Related
 - [[Atomic Design]]
 - [[Empty State]]
-- [[Visual Hierarchy]]
+- [[Logo]]
 - [[Iconography]]
 - [[Platform Engineering]]
 - [[Microcopy]]

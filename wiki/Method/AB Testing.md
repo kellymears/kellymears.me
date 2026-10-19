@@ -26,7 +26,7 @@ A/B testing also carries ethical and strategic risks. Optimizing a single metric
 ## See also
 - [[Multi-Armed Bandit]]
 - [[PDCA Cycle]]
-- [[Statistical Power]]
+- [[Call to Action]]
 - [[Observational Study]]
 - [[Multiple Comparisons Problem]]
 - [[Web Analytics]]

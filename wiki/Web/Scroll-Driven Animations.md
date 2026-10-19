@@ -32,7 +32,7 @@ Because unsupported browsers simply ignore the property, the feature is naturall
 
 ## See also
 - [[Data Journalism]]
-- [[Motion Design]]
+- [[Sticky Header]]
 - [[requestAnimationFrame]]
 - [[Reduced Motion]]
 - [[Parallax Scrolling]]

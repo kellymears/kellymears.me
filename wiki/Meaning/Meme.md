@@ -32,3 +32,4 @@ Memes overlap with older forms of folk transmission: legends, jokes, and sayings
 - [[Eternal September]]
 - [[Information Cascade]]
 - [[Portmanteau]]
+- [[Venn Diagram]]

@@ -26,5 +26,5 @@ Responses range from personal to structural. Individuals use blockers, grayscale
 
 ## See also
 - [[Data Broker]]
-- [[Let's Play]]
-- [[Blog]]
+- [[Pull-to-Refresh]]
+- [[Timeline]]

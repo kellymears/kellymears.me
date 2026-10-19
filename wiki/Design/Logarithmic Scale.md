@@ -37,4 +37,4 @@ The same idea runs through design and computing. Typographic scales step font si
 ## See also
 - [[Line Chart]]
 - [[Histogram]]
-- [[Earthquake]]
+- [[Timeline]]

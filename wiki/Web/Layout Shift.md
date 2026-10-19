@@ -23,7 +23,7 @@ Most shifts come from content arriving without space reserved for it:
 Shifts also hurt aiming. Pointing at a target takes a predictable amount of time and care, and a target that moves after the aim has begun defeats it; see [[Fitts's Law]]. Some ad placements earn money from the accidental clicks that late-loading layouts produce, which edges into [[Dark Pattern]] territory. Most shifts, though, are just the result of nobody checking how the page looks on a slow connection.
 
 ## See also
-- [[Aspect Ratio]]
+- [[Sticky Header]]
 - [[Virtual Scrolling]]
 - [[Flash of Unstyled Content]]
 - [[Accordion]]

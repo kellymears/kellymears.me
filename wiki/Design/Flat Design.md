@@ -27,5 +27,5 @@ The underlying lesson is that style and usability are separable concerns. Any vi
 
 ## See also
 - [[Form Follows Function]]
-- [[Bauhaus]]
-- [[Brutalist Web Design]]
+- [[Logo]]
+- [[Glassmorphism]]

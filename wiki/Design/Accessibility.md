@@ -24,5 +24,5 @@ Automated checks also produce characteristic false signals: a burst of violation
 
 ## Related
 - [[HTML]]
-- [[Headless Component]]
-- [[Form Validation]]
+- [[Gesture]]
+- [[Sticky Header]]

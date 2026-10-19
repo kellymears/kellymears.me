@@ -30,5 +30,5 @@ Web icons moved from image sprites to **icon fonts**, which scaled but broke acc
 - [[Wayfinding]]
 - [[Drop Cap]]
 - [[Favicon]]
-- [[Infographic]]
+- [[Logo]]
 - [[Emoji]]

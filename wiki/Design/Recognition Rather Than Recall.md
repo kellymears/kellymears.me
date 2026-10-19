@@ -29,5 +29,5 @@ The principle interacts with others. Showing everything at once, in the name of 
 ## See also
 - [[Context Menu]]
 - [[Onboarding]]
-- [[Tabs]]
+- [[Gesture]]
 - [[Serial Position Effect]]

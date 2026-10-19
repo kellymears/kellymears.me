@@ -28,7 +28,7 @@ Test environments frequently emulate the preference by default, which means ever
 - [[Carousel]]
 - [[Web Animations API]]
 - [[contenteditable]]
-- [[Stacking Context]]
+- [[Glassmorphism]]
 - [[Motion Blur]]
 - [[Skeleton Screen]]
 - [[View Transitions]]

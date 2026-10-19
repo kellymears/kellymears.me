@@ -16,8 +16,8 @@ Fitts's Law pairs naturally with [[Hick's Law]] — one governs how long it take
 ## See also
 - [[Slider]]
 - [[Affordance]]
-- [[Progressive Disclosure]]
-- [[Keyboard Navigation]]
+- [[Call to Action]]
+- [[Gesture]]
 - [[Tiling Window Manager]]
 - [[Motor Learning]]
 

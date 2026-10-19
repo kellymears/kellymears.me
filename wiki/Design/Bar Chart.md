@@ -31,3 +31,4 @@ Bar charts summarize, and can hide what they summarize. A bar showing an average
 - [[Benford's Law]]
 - [[Line Chart]]
 - [[Radar Chart]]
+- [[Venn Diagram]]

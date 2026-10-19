@@ -24,7 +24,7 @@ Duration still matters and the useful range is narrow. Under roughly 100 millise
 - [[Component Story]]
 - [[Web Animations API]]
 - [[Keyframe Animation]]
-- [[Progressive Enhancement]]
+- [[Pull-to-Refresh]]
 - [[Slider]]
 - [[Bézier Curve]]
 - [[Response Time Limits]]

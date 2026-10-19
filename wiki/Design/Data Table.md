@@ -30,3 +30,4 @@ Tables are also the usual accessible fallback for charts, giving every value in 
 ## See also
 - [[Pivot Table]]
 - [[Spreadsheet]]
+- [[Sticky Header]]

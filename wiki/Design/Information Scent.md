@@ -25,7 +25,7 @@ It connects to several neighboring ideas. Good [[Information Architecture]] grou
 Scent also explains why [[Recognition Rather Than Recall]] matters for navigation. A person who can scan visible options and recognize the right one follows scent; one who has to remember a hidden command can't follow anything at all. The same reasoning applies to [[Progressive Disclosure]]: hidden options are fine only when the cue that reveals them carries enough scent.
 
 ## See also
-- [[Accordion]]
+- [[Call to Action]]
 - [[Hamburger Menu]]
 - [[Speculation Rules]]
 - [[Sitemap]]

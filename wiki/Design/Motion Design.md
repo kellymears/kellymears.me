@@ -30,7 +30,7 @@ Several constraints shape any real implementation.
 
 ## Related
 - [[Onion Skinning]]
-- [[Twelve Basic Principles of Animation]]
+- [[Pull-to-Refresh]]
 - [[Bézier Curve]]
 - [[View Transitions]]
 - [[Scroll-Driven Animations]]

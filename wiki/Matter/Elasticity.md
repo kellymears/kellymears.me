@@ -30,7 +30,7 @@ The body exploits elasticity constantly. The Achilles tendon stretches on landin
 ## See also
 - [[Non-Newtonian Fluid]]
 - [[Work Hardening]]
-- [[Earthquake]]
+- [[Pull-to-Refresh]]
 - [[Plate Tectonics]]
 - [[Hysteresis]]
 - [[Timbre]]

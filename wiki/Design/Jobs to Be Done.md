@@ -31,7 +31,7 @@ Criticisms:
 The lasting insight is about framing. Teams describe their work in terms of their product; JTBD forces the description into the customer's terms, guarding against building features nobody hired; see [[Feature Creep]] and [[Minimum Viable Product]]. It's closely related to designing for the user's [[Mental Model]].
 
 ## See also
-- [[Usability Testing]]
+- [[Affinity Diagram]]
 - [[Choice Architecture]]
 - [[Wicked Problem]]
 - [[MDA Framework]]

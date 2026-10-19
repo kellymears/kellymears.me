@@ -28,5 +28,5 @@ Good direct manipulation depends on details:
 Its limits show with scale and abstraction. Renaming a thousand files or applying a rule to every row is tedious one object at a time, and commands or scripts do it in one step; see [[Shell]]. Many tools combine both, with a [[Command Palette]] alongside the canvas. Touchscreens pushed direct manipulation further, letting people pinch and swipe content itself rather than a cursor standing in for a hand.
 
 ## See also
-- [[Slider]]
-- [[Context Menu]]
+- [[Pull-to-Refresh]]
+- [[Gesture]]

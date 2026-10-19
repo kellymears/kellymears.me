@@ -32,3 +32,5 @@ Email has its own fold, the preview pane, and the same advice applies: the first
 - [[Carousel]]
 - [[Progressive Disclosure]]
 - [[Heat Map]]
+- [[Call to Action]]
+- [[Sticky Header]]

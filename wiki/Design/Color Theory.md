@@ -31,7 +31,7 @@ Three practical cautions:
 
 ## See also
 - [[Color Gamut]]
-- [[Dark Mode]]
-- [[Swiss Style]]
+- [[Venn Diagram]]
+- [[Logo]]
 - [[Chroma Key]]
 - [[Transit Map]]

@@ -25,7 +25,7 @@ Alpha has limits in what it can represent. A single value per pixel can't expres
 
 ## See also
 - [[Lens Flare]]
-- [[Sprite]]
+- [[Glassmorphism]]
 - [[GIF]]
 - [[Image Format]]
 - [[Order-Independent Transparency]]

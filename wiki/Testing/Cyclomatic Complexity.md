@@ -28,6 +28,6 @@ All such metrics share a trap. Enforced as a hard gate, a number becomes a targe
 
 ## See also
 - [[Toyota Unintended Acceleration]]
-- [[Structured Programming]]
+- [[Flowchart]]
 - [[Test Smell]]
 - [[Modified Condition Decision Coverage]]

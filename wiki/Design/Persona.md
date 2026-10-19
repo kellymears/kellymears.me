@@ -32,7 +32,7 @@ A rival framing focuses on situations rather than people. [[Jobs to Be Done]] ar
 Personas connect to a broader principle: design for the user's [[Mental Model]], not the designer's. A persona is a tool for remembering that the team is not the user, and that its own preferences are a sample of one; see [[Confirmation Bias]]. They're also a lightweight way to make requirements concrete enough to test, much as examples do in [[Behavior-Driven Development]].
 
 ## See also
-- [[Card Sorting]]
+- [[Affinity Diagram]]
 - [[Heuristic Evaluation]]
 - [[Design Thinking]]
 - [[User Story]]

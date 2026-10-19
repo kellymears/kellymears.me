@@ -22,3 +22,4 @@ Good kerning is invisible — it reads as "this text just looks right" rather th
 - [[OpenType Features]]
 - [[Text Justification]]
 - [[Drop Cap]]
+- [[Logo]]

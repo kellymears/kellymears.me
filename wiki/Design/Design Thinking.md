@@ -34,3 +34,4 @@ Used well, it is less a procedure than a set of habits: talk to the people affec
 - [[Minimum Viable Product]]
 - [[Five Whys]]
 - [[Wicked Problem]]
+- [[Affinity Diagram]]

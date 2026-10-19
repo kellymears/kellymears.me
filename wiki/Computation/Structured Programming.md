@@ -23,6 +23,6 @@ The idea keeps getting applied to new kinds of control. Unstructured concurrency
 Some code still benefits from explicit jumps: state machines, interpreters, and generated code; see [[Finite State Machine]] and [[Continuation]].
 
 ## See also
-- [[Toyota Unintended Acceleration]]
+- [[Flowchart]]
 - [[Tail Call Optimization]]
 - [[Esoteric Programming Language]]

@@ -27,7 +27,7 @@ Browsers use the same idea inside a page. Elements that animate `transform` or `
 ## See also
 - [[Desktop Metaphor]]
 - [[Rotoscoping]]
-- [[Frame Pacing]]
+- [[Glassmorphism]]
 - [[Scene Graph]]
 - [[Web Animations API]]
 - [[High Dynamic Range]]

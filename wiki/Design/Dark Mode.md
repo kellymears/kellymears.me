@@ -23,7 +23,7 @@ Two practical notes. Because the common implementation toggles a class on the ro
 ## Related
 - [[Utility-First CSS]]
 - [[Liquid-Crystal Display]]
-- [[Portal]]
+- [[Glassmorphism]]
 - [[Flash of Unstyled Content]]
 - [[Color Vision Deficiency]]
 - [[Digital Eye Strain]]

@@ -25,7 +25,7 @@ Interface design shapes which one fits. Numbered pages suit search results where
 - [[Collation]]
 - [[Data Table]]
 - [[Doomscrolling]]
-- [[Truncation Bias]]
+- [[Pull-to-Refresh]]
 - [[Optimistic Locking]]
 - [[N+1 Query Problem]]
 - [[Boundary Value Analysis]]

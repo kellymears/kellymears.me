@@ -34,5 +34,5 @@ Related forms divide a whole differently. A [[Treemap]] shows a hierarchy of par
 
 ## See also
 - [[Transit Map]]
-- [[Dashboard]]
-- [[Bar Chart]]
+- [[Flowchart]]
+- [[Timeline]]
