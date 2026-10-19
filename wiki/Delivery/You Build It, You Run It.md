@@ -22,4 +22,4 @@ At its core, the principle is about aligning incentives, ensuring the people mak
 
 ## See also
 - [[Incident Response]]
-- [[Blameless Postmortem]]
+- [[Spotify Model]]

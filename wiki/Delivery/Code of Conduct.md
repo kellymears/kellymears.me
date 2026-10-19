@@ -25,5 +25,5 @@ Communities that grow quickly face this sharply, as a wave of newcomers arrives 
 ## See also
 - [[Open Source Foundation]]
 - [[Open Source Definition]]
-- [[Iron Law of Oligarchy]]
+- [[Open Source Program Office]]
 - [[Protestware]]

@@ -14,7 +14,7 @@ The cost is doubled infrastructure, at least for the overlap window: two full en
 It's a coarser instrument than [[Canary Release]], which shifts a small percentage of traffic and watches before going further. Blue-green is all-or-nothing per switch; canary is gradual and self-limiting. Teams often use both — canary to de-risk the release, blue-green (or a router flip) to make the eventual full cutover instant and reversible.
 
 ## See also
-- [[Canary Release]]
+- [[Maintenance Window]]
 - [[Rollback]]
 - [[Zero-Downtime Deployment]]
 - [[Feature Flag]]

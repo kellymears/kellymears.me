@@ -17,7 +17,7 @@ NIH is a close cousin of [[Cargo Cult]] thinking but inverted — cargo cult is 
 - [[IKEA Effect]]
 - [[Technology Radar]]
 - [[Design System]]
-- [[Bus Factor]]
+- [[Clean Room Design]]
 
 ## Related
 - [[Second-System Effect]]

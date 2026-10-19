@@ -28,6 +28,6 @@ DevOps has its critics and failure modes. It's often reduced to a job title or a
 [[Site Reliability Engineering]] is often described as one concrete implementation of DevOps, with explicit reliability targets and limits on manual operations work.
 
 ## See also
-- [[You Build It, You Run It]]
-- [[Pets vs Cattle]]
+- [[Scaled Agile Framework]]
+- [[Spotify Model]]
 - [[ChatOps]]

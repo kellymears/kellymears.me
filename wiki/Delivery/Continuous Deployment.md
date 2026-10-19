@@ -19,7 +19,7 @@ The only honest verification is to reproduce the deployment path end to end — 
 - [[Agile Software Development]]
 - [[DevOps]]
 - [[Secret Management]]
-- [[Containerization]]
+- [[Gitflow]]
 
 ## Related
 - [[Vacuous Truth]]

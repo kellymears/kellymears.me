@@ -31,7 +31,7 @@ Teams usually estimate stories in relative units and track them on a shared boar
 
 ## See also
 - [[Objectives and Key Results]]
-- [[Requirements Traceability]]
+- [[Waterfall Model]]
 - [[Daily Standup]]
 - [[Issue Tracker]]
 - [[Product Backlog]]

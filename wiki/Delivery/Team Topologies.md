@@ -31,9 +31,9 @@ Critics note that real organizations rarely fit four boxes and that the model sa
 
 ## See also
 - [[Technology Radar]]
-- [[Micro-Frontends]]
-- [[Two-Pizza Team]]
+- [[Scaled Agile Framework]]
+- [[Spotify Model]]
 - [[Data Mesh]]
-- [[Inner Source]]
+- [[Engineering Ladder]]
 - [[Value Stream Mapping]]
 - [[Daily Standup]]

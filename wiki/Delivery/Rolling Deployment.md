@@ -29,7 +29,7 @@ The main cost of rolling deployments is that two versions run side by side for t
 Rolling back is a rolling deployment of the old version, so it takes as long as the rollout itself; see [[Rollback]]. A failed health check should halt the rollout automatically before the bad version spreads. Wiring that decision to error rates and latency as well, rather than health checks alone, turns a rolling deployment into a step toward [[Progressive Delivery]].
 
 ## See also
-- [[Deployment Pipeline]]
+- [[Maintenance Window]]
 - [[Service Level Objective]]
 - [[Kubernetes]]
 - [[Live Patching]]

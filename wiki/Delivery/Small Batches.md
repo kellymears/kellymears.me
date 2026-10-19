@@ -27,6 +27,6 @@ Small batches aren't free. Each batch carries a fixed overhead, such as a build,
 Splitting work well is a skill. A small batch should still be coherent and safe to ship on its own; see [[Atomic Commit]]. Unfinished features can be merged in small pieces and kept hidden until complete; see [[Feature Flag]]. The same thinking explains why bottlenecks matter more than individual speed; see [[Theory of Constraints]].
 
 ## See also
-- [[Continuous Deployment]]
+- [[Waterfall Model]]
 - [[Release Engineering]]
 - [[Feature Branch]]

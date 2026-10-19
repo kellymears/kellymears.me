@@ -16,7 +16,7 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 
 ## See also
 - [[DevOps]]
-- [[Comet Airliner Crashes]]
+- [[Capability Maturity Model]]
 - [[Mean Time to Recovery]]
 - [[Hanlon's Razor]]
 - [[Apollo 1 Fire]]

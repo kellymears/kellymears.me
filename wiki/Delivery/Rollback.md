@@ -21,7 +21,7 @@ The alternative discipline is "fix forward": rather than reverting, ship a fix a
 - [[Andon Cord]]
 - [[Small Batches]]
 - [[AT&T Network Collapse of 1990]]
-- [[Expand and Contract]]
+- [[Maintenance Window]]
 - [[Code Freeze]]
 - [[Yanked Release]]
 - [[Hotfix]]

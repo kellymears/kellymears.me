@@ -26,4 +26,4 @@ The usual alternative is incremental replacement. The [[Strangler Fig Pattern]] 
 
 ## See also
 - [[Codemod]]
-- [[Perfectionism]]
+- [[Waterfall Model]]

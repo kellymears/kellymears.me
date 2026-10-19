@@ -27,6 +27,6 @@ The cone also explains why commitments made at the start of a project become sou
 
 ## See also
 - [[Ambiguity Aversion]]
-- [[Knightian Uncertainty]]
+- [[Waterfall Model]]
 - [[Second-Order Thinking]]
 - [[Scenario Planning]]

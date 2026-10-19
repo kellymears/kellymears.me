@@ -25,6 +25,6 @@ Leaders shape safety most, by admitting their own uncertainty, asking for input,
 
 ## See also
 - [[Apollo 1 Fire]]
-- [[Tenerife Airport Disaster]]
+- [[Spotify Model]]
 - [[Space Shuttle Columbia Disaster]]
 - [[Transactive Memory]]

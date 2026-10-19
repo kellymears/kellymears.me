@@ -15,11 +15,11 @@ Calling something a cargo cult is only useful if it is followed by naming the mi
 
 ## See also
 - [[Observational Learning]]
-- [[Documentation Rot]]
-- [[Scientific Method]]
+- [[Scaled Agile Framework]]
+- [[Spotify Model]]
 - [[Narrative Fallacy]]
 - [[Not Invented Here]]
-- [[Checklist]]
+- [[Capability Maturity Model]]
 - [[Imitation Learning]]
 - [[First Principles Thinking]]
 - [[Law of the Instrument]]

@@ -24,5 +24,5 @@ That GIF persists anyway shows how support everywhere outweighs technical merit.
 ## See also
 - [[GeoCities]]
 - [[Image Format]]
-- [[Modem]]
+- [[Software Patent]]
 - [[Color Cycling]]

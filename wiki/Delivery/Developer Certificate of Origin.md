@@ -30,9 +30,9 @@ Both mechanisms record intent rather than prove it. They create a paper trail ty
 ## See also
 - [[Open Source Definition]]
 - [[Open Source Foundation]]
-- [[License Compatibility]]
+- [[Clean Room Design]]
 - [[Code Owners]]
 - [[Commit Message]]
 - [[Open Core]]
 - [[Email Patch Workflow]]
-- [[Free Software]]
+- [[Open Source Program Office]]

@@ -22,3 +22,5 @@ Compatibility questions surface most through dependencies. A single copyleft pac
 - [[Software Fork]]
 - [[Lockfile]]
 - [[Open Source Foundation]]
+- [[Clean Room Design]]
+- [[Software Patent]]

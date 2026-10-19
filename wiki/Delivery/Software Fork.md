@@ -32,6 +32,6 @@ Staying in sync is the practical work of a long-lived fork. The fork adds the or
 - [[Open Source Definition]]
 - [[Open Source Foundation]]
 - [[Benevolent Dictator for Life]]
-- [[License Compatibility]]
-- [[Free Software]]
+- [[Clean Room Design]]
+- [[Open Source Program Office]]
 - [[Open Core]]

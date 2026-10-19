@@ -22,7 +22,7 @@ The practical consequences are that a major bump deserves a migration path and a
 ## Related
 - [[Protestware]]
 - [[API Versioning]]
-- [[Monorepo]]
+- [[Gitflow]]
 - [[Yanked Release]]
 - [[Codemod]]
 - [[Changelog]]

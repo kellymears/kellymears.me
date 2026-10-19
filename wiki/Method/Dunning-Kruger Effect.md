@@ -16,7 +16,7 @@ For engineers, the practical corollary is to distrust your own confidence exactl
 ## See also
 - [[Automation Bias]]
 - [[Brier Score]]
-- [[Regression to the Mean]]
+- [[Engineering Ladder]]
 - [[Learning Curve]]
 - [[Illusory Truth Effect]]
 - [[Cognitive Bias]]

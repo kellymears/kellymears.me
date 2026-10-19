@@ -31,5 +31,5 @@ The candidate's notes become the release's [[Changelog]], and a stable release m
 
 ## See also
 - [[Nightly Build]]
-- [[Release Engineering]]
+- [[Gitflow]]
 - [[Smoke Test]]

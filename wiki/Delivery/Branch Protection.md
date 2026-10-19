@@ -35,5 +35,5 @@ Strict rules have costs:
 
 ## See also
 - [[Change Advisory Board]]
-- [[Coverage Gate]]
+- [[Gitflow]]
 - [[Force Push]]

@@ -29,7 +29,7 @@ The laws were drawn from a small number of large, mostly commercial systems, and
 They also explain several familiar temptations. A system grown complex enough invites starting over, which usually costs more than expected because the old system's knowledge was in its accumulated changes; see [[Big Rewrite]] and [[Second-System Effect]]. The usual alternative is to replace it piece by piece while it keeps running; see [[Strangler Fig Pattern]].
 
 ## See also
-- [[Hyrum's Law]]
+- [[Capability Maturity Model]]
 - [[Conway's Law]]
 - [[Ship of Theseus]]
 - [[Mainframe]]

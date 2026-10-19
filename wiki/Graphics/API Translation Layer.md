@@ -24,6 +24,6 @@ Translation layers are also a [[Game Preservation]] mechanism: a game that runs 
 ## See also
 - [[Graphics API]]
 - [[Application Binary Interface]]
-- [[Compiler]]
+- [[Clean Room Design]]
 - [[Interpreter]]
 - [[Display Server]]

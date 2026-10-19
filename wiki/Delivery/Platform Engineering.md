@@ -28,7 +28,7 @@ The common failure is building too much too early: a large portal before anyone 
 ## See also
 - [[ChatOps]]
 - [[Technology Radar]]
-- [[Two-Pizza Team]]
+- [[Spotify Model]]
 - [[Data Mesh]]
-- [[Developer Experience]]
+- [[Engineering Ladder]]
 - [[DevOps]]

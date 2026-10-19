@@ -27,7 +27,7 @@ Load shedding works with other defenses rather than replacing them. [[Backpressu
 ## See also
 - [[Slashdot Effect]]
 - [[Healthcare.gov Launch]]
-- [[Service Level Objective]]
+- [[Maintenance Window]]
 - [[Northeast Blackout of 2003]]
 - [[Cloudflare Outage of 2019]]
 - [[Amazon S3 Outage of 2017]]

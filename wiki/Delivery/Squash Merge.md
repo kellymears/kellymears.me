@@ -25,7 +25,7 @@ Squash merging pairs naturally with [[Trunk-Based Development]], where branches 
 
 ## Related
 - [[Staging Area]]
-- [[Version Control]]
+- [[Gitflow]]
 - [[Git Bisect]]
 - [[Fast-Forward Merge]]
 - [[Git Blame]]

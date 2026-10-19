@@ -33,7 +33,7 @@ SLOs depend on good measurement, the territory of [[Observability]]. They also d
 - [[Status Page]]
 - [[Dashboard]]
 - [[Andon Cord]]
-- [[Leading Indicator]]
+- [[Maintenance Window]]
 - [[Gray Failure]]
 - [[Objectives and Key Results]]
 - [[Control Chart]]

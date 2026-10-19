@@ -28,7 +28,7 @@ The only verification that proves any of this is running the real path: reset, m
 
 ## Related
 - [[Write-Ahead Logging]]
-- [[Hash Table]]
+- [[Maintenance Window]]
 - [[Reversible Decision]]
 - [[Backup and Restore]]
 - [[Object-Relational Mapping]]

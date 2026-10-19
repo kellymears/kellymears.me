@@ -30,3 +30,5 @@ The OSI's authority is social rather than legal. "Open source" isn't a registere
 ## See also
 - [[Open Source Foundation]]
 - [[Open Source Sustainability]]
+- [[Clean Room Design]]
+- [[Software Patent]]

@@ -26,6 +26,6 @@ XP was one of the methods whose authors met in 2001 to write the Agile Manifesto
 The Chrysler project itself was canceled in 2000, a fact critics raised for years.
 
 ## See also
-- [[Daily Standup]]
-- [[Product Backlog]]
-- [[Big Design Up Front]]
+- [[Capability Maturity Model]]
+- [[Waterfall Model]]
+- [[Scaled Agile Framework]]

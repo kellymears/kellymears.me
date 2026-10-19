@@ -18,6 +18,6 @@ Neither extreme works well in practice. Pure emergent design can drift into a ta
 The right amount depends on context. Safety-critical systems, hardware, and public protocols, where mistakes are costly or permanent, justify much more design up front, sometimes including mathematical proof; see [[Formal Verification]]. Iterative processes that tackle the riskiest questions first offer a middle path; see [[Spiral Model]].
 
 ## See also
-- [[Premature Optimization]]
+- [[Capability Maturity Model]]
 - [[Gall's Law]]
 - [[Healthcare.gov Launch]]

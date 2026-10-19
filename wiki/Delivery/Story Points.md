@@ -21,7 +21,7 @@ Critics in the **#NoEstimates** movement argue the effort isn't worth it. Splitt
 Estimates also shape the work. Tasks expand to fit the time allowed; see [[Parkinson's Law]]. Adding people to a late project changes the arithmetic in ways velocity doesn't capture; see [[Brooks's Law]]. Measures of delivery that look at outcomes, such as how often a team deploys and how quickly it recovers, avoid estimation entirely; see [[DORA Metrics]].
 
 ## See also
-- [[McNamara Fallacy]]
+- [[Scaled Agile Framework]]
 - [[Burndown Chart]]
 - [[Objectives and Key Results]]
 - [[Definition of Done]]

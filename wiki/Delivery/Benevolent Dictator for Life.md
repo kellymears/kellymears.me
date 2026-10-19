@@ -27,7 +27,7 @@ Governance disputes have split projects. In 2014, frustration with how Node.js w
 Who holds commit access and review authority is the practical day-to-day form of governance; see [[Code Owners]] and [[Developer Certificate of Origin]].
 
 ## See also
-- [[Free Software]]
+- [[Engineering Ladder]]
 - [[Open Source Definition]]
 - [[Open Source Foundation]]
 - [[Code of Conduct]]

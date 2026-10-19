@@ -22,7 +22,7 @@ The tradeoff is that anything genuinely needing in-place mutation — a long-liv
 ## Related
 - [[Over-the-Air Update]]
 - [[Jamstack]]
-- [[Configuration Drift]]
+- [[Maintenance Window]]
 - [[Works on My Machine]]
 - [[Artifact Repository]]
 - [[Kubernetes]]

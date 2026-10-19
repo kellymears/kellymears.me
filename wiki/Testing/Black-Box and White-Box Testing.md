@@ -34,4 +34,4 @@ The distinction also maps onto independence. Separate testing teams and users in
 
 ## See also
 - [[Non-Destructive Testing]]
-- [[Risk-Based Testing]]
+- [[Clean Room Design]]

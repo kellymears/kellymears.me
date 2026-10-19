@@ -26,4 +26,4 @@ DX also points outward. Companies that sell APIs and libraries compete on how qu
 
 ## See also
 - [[Toil]]
-- [[OpenAPI]]
+- [[Spotify Model]]

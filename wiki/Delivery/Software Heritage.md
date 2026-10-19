@@ -23,5 +23,5 @@ The project reflects a broader concern that digital history is surprisingly easy
 
 ## See also
 - [[Source Code Control System]]
-- [[Software Rot]]
+- [[Software Patent]]
 - [[Free Software]]

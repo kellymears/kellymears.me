@@ -32,8 +32,8 @@ Distributed teams across time zones often replace it with written updates posted
 Whether a standup is worth holding depends on whether people learn something they would otherwise have found out too late. A team that already talks all day may not need one; see [[Team Topologies]].
 
 ## See also
-- [[Product Backlog]]
-- [[Two-Pizza Team]]
+- [[Spotify Model]]
+- [[Scaled Agile Framework]]
 - [[Timeboxing]]
 - [[Burndown Chart]]
-- [[PDCA Cycle]]
+- [[Engineering Ladder]]

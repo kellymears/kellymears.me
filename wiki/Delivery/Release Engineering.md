@@ -25,5 +25,5 @@ Some products need long support for old versions alongside new ones, which means
 Release engineering is rarely glamorous. Its successes are invisible, and its failures are public. A mistake in signing, packaging, or versioning can affect every user at once, and some of the most damaging software supply chain attacks have targeted the release process itself; see [[Supply Chain Security]].
 
 ## See also
-- [[Software Release Life Cycle]]
+- [[Capability Maturity Model]]
 - [[Code Freeze]]

@@ -27,4 +27,4 @@ The common failure is the **distributed monolith**: services that still must dep
 - [[Two-Pizza Team]]
 - [[Data Mesh]]
 - [[Service Discovery]]
-- [[Micro-Frontends]]
+- [[Spotify Model]]

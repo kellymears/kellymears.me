@@ -23,3 +23,4 @@ The harder part, and the one that actually causes outages labeled "the deploy br
 - [[Continuous Deployment]]
 - [[Expand and Contract]]
 - [[Rolling Deployment]]
+- [[Maintenance Window]]

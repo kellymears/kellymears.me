@@ -23,7 +23,7 @@ Two operational notes. Branch protection settings that appear to enforce up-to-d
 
 ## Related
 - [[Rebase]]
-- [[Pull Request]]
+- [[Gitflow]]
 - [[Merge Conflict]]
 - [[Release Train]]
 - [[Branch Protection]]

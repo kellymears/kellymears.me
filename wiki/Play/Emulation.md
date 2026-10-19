@@ -23,6 +23,6 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 - [[Affine Texture Mapping]]
 - [[Pinball]]
 - [[Futex]]
-- [[Computer Virus]]
+- [[Clean Room Design]]
 - [[Differential Testing]]
 - [[Hardware-in-the-Loop]]

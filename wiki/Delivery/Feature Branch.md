@@ -20,5 +20,5 @@ Remedies mostly shrink the branch's lifetime. Keeping branches to a day or two k
 At the far end is trunk-based development, where branches last hours if they exist at all and unfinished features ship hidden behind runtime switches; see [[Trunk-Based Development]] and [[Feature Flag]]. Long-lived branches still have legitimate uses, such as maintaining an old release line, where divergence is intended; see [[Long-Term Support]].
 
 ## See also
-- [[Merge Train]]
+- [[Gitflow]]
 - [[Three-Way Merge]]

@@ -22,7 +22,7 @@ The defense isn't refusing improvements — it's keeping the same discipline tha
 
 ## Related
 - [[Big Design Up Front]]
-- [[Strangler Fig Pattern]]
+- [[Waterfall Model]]
 - [[Sinking of the Vasa]]
 - [[Software Crisis]]
 - [[You Aren't Gonna Need It]]

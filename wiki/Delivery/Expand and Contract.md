@@ -32,6 +32,6 @@ Expand and contract works hand in hand with [[Feature Flag]] switches, which con
 - [[Branch by Abstraction]]
 - [[Codemod]]
 - [[Database View]]
-- [[Deprecation]]
+- [[Maintenance Window]]
 - [[Backward Compatibility]]
 - [[Rolling Deployment]]

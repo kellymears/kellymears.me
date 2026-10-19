@@ -16,7 +16,7 @@ Legal ambiguity slows all of it down, the same [[Right to Repair]]-adjacent terr
 
 ## See also
 - [[Indie Game]]
-- [[Public Domain]]
+- [[Clean Room Design]]
 - [[Vector Display]]
 - [[Affine Texture Mapping]]
 - [[Point-and-Click Adventure]]

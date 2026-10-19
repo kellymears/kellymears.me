@@ -27,8 +27,9 @@ In 1998 a group including Eric Raymond and Bruce Perens promoted the term "open 
 Most permissively licensed software is also free software by the FSF's definition, though the FSF prefers copyleft; see [[Permissive License]]. Mixing licenses raises its own puzzles; see [[License Compatibility]]. The movement's concern with who controls software echoes in debates over vendor control and relicensing; see [[Open Core]] and [[Software Fork]].
 
 ## See also
-- [[Open Source Foundation]]
+- [[Software Patent]]
 - [[Developer Certificate of Origin]]
 - [[Gift Economy]]
 - [[Wikipedia]]
 - [[Monopoly]]
+- [[Clean Room Design]]

@@ -25,6 +25,6 @@ For delivery practice it changes the threat model. A trusted maintainer, not jus
 
 ## See also
 - [[Event-stream Incident]]
-- [[Bus Factor]]
+- [[Software Patent]]
 - [[Open Source Definition]]
 - [[Free Software]]

@@ -27,6 +27,6 @@ The defense isn't refusing all requests — it's requiring that a new feature's 
 - [[KISS Principle]]
 - [[Jobs to Be Done]]
 - [[Persona]]
-- [[Power Creep]]
+- [[Waterfall Model]]
 - [[Big Design Up Front]]
 - [[Crunch]]

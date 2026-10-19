@@ -31,5 +31,5 @@ An SBOM has limits. It is only as accurate as the tool that produced it. Listing
 
 ## See also
 - [[Open Source Definition]]
-- [[License Compatibility]]
+- [[Open Source Program Office]]
 - [[SolarWinds Hack]]

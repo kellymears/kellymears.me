@@ -16,7 +16,7 @@ A second: how installed packages are laid out on disk is a property of the packa
 ## See also
 - [[License Compatibility]]
 - [[Event-stream Incident]]
-- [[Software Rot]]
+- [[Open Source Program Office]]
 - [[Node.js]]
 
 ## Related

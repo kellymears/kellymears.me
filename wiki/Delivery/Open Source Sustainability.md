@@ -31,6 +31,6 @@ None of these fully solves the mismatch between how much value open source creat
 
 ## See also
 - [[Event-stream Incident]]
-- [[Open Source Definition]]
+- [[Open Source Program Office]]
 - [[Open Source Foundation]]
 - [[Free Software]]

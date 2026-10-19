@@ -32,8 +32,8 @@ The alternative that research supports is lightweight, peer-based control close 
 CABs persist partly because they feel safe and are easy to explain to auditors, and partly because removing a control after an incident looks reckless; see [[Chesterton's Fence]]. Some organizations keep a CAB for genuinely cross-cutting changes, such as network or database migrations, while letting most changes flow through automated pipelines.
 
 ## See also
-- [[Code Freeze]]
+- [[Scaled Agile Framework]]
 - [[DevOps]]
-- [[Hyatt Regency Walkway Collapse]]
+- [[Capability Maturity Model]]
 - [[Value Stream Mapping]]
-- [[Patch Tuesday]]
+- [[Maintenance Window]]

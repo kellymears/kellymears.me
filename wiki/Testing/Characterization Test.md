@@ -27,7 +27,7 @@ Characterization tests are a means, not an end. Once code is refactored and unde
 
 ## See also
 - [[Fax]]
-- [[Dependency Injection]]
+- [[Clean Room Design]]
 - [[Testability]]
 - [[Branch by Abstraction]]
 - [[Ariane 5 Flight 501]]

@@ -24,7 +24,7 @@ The practice scales down well — it is close to what a single developer natural
 
 ## Related
 - [[Branch by Abstraction]]
-- [[Feature Branch]]
+- [[Gitflow]]
 - [[Git Revert]]
 - [[Cherry-Pick]]
 - [[Walking Skeleton]]

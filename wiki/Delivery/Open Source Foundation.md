@@ -22,6 +22,6 @@ Foundations don't solve everything. They can't make volunteers maintain unglamor
 Projects without a foundation often rely on a single founder as final decision-maker, a model with its own risks; see [[Benevolent Dictator for Life]]. Foundations also typically require a code of conduct for hosted projects; see [[Code of Conduct]].
 
 ## See also
-- [[Free Software]]
+- [[Open Source Program Office]]
 - [[The Cathedral and the Bazaar]]
-- [[Web Server]]
+- [[Software Patent]]

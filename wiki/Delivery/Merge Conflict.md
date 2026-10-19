@@ -21,7 +21,7 @@ Several practical points recur:
 
 ## See also
 - [[Three-Way Merge]]
-- [[Staging Area]]
+- [[Gitflow]]
 - [[Semantic Conflict]]
 - [[Jujutsu]]
 - [[Stacked Pull Requests]]

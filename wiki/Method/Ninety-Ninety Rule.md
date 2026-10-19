@@ -30,7 +30,7 @@ Recognizing the pattern doesn't make the tail shorter, but it makes it less of a
 
 ## See also
 - [[Crunch]]
-- [[Cone of Uncertainty]]
+- [[Waterfall Model]]
 - [[Definition of Done]]
 - [[Walking Skeleton]]
 - [[Burndown Chart]]

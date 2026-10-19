@@ -16,7 +16,7 @@ Two mechanical notes. Changing only the target branch of a pull request does not
 
 ## See also
 - [[Law of Triviality]]
-- [[Feature Branch]]
+- [[Gitflow]]
 - [[Code of Conduct]]
 - [[Software Forge]]
 - [[Good First Issue]]

@@ -29,7 +29,7 @@ The rule that matters is never to move a published tag. Git does not fetch a cha
 Tags are also cheap to make, so teams use them for other fixed points: a deploy marker, the state before a large migration, or the commit a paper's results were produced from.
 
 ## See also
-- [[Subversion]]
+- [[Gitflow]]
 - [[GNU Privacy Guard]]
 - [[Detached HEAD]]
 - [[Git Object Model]]

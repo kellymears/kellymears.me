@@ -4,7 +4,6 @@ aliases:
   - Agile Manifesto
   - Scrum
   - Sprint
-  - Waterfall
   - Retrospective
 tags:
   - delivery
@@ -35,7 +34,7 @@ Agile's ideas fed into later movements. DevOps extended the feedback loop past d
 
 ## See also
 - [[After-Action Review]]
-- [[Spiral Model]]
+- [[Scaled Agile Framework]]
 - [[OODA Loop]]
-- [[Healthcare.gov Launch]]
+- [[Waterfall Model]]
 - [[Fresh Start Effect]]

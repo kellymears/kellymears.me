@@ -28,3 +28,4 @@ Patch Tuesday reflects a basic trade-off in delivering fixes. Batching updates o
 - [[Equifax Data Breach]]
 - [[Computer Virus]]
 - [[Ransomware]]
+- [[Maintenance Window]]

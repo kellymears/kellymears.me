@@ -30,6 +30,6 @@ Alternatives aim to show progress more honestly. Some teams prefer charts of com
 A burndown works best as a prompt for conversation, not a verdict. When the line diverges, the useful question is why.
 
 ## See also
-- [[Gantt Chart]]
+- [[Scaled Agile Framework]]
 - [[Value Stream Mapping]]
-- [[Product Backlog]]
+- [[Waterfall Model]]

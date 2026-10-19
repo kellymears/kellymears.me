@@ -31,4 +31,4 @@ The essay's lasting point is that openness and frequent feedback can beat carefu
 - [[Open Source Definition]]
 - [[Email Patch Workflow]]
 - [[Benevolent Dictator for Life]]
-- [[Open Source Foundation]]
+- [[Software Patent]]

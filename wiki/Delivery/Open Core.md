@@ -21,8 +21,8 @@ These are **source-available** licenses: the code can be read, but the restricti
 The episode shows that a license is also a promise about the future. Developers choose dependencies partly on whether the terms will hold, and a project owned by one company carries a risk that one governed by a foundation does not; see [[Open Source Sustainability]] and [[Path Dependence]].
 
 ## See also
-- [[Open Source Definition]]
+- [[Open Source Program Office]]
 - [[Open Source Foundation]]
 - [[License Compatibility]]
 - [[Single Sign-On]]
-- [[Free Software]]
+- [[Software Patent]]

@@ -31,7 +31,7 @@ In practice, many organizations keep short, targeted freezes for genuinely high-
 
 ## See also
 - [[Release Engineering]]
-- [[Software Release Life Cycle]]
+- [[Maintenance Window]]
 - [[Year 2000 Problem]]
-- [[Change Advisory Board]]
+- [[Waterfall Model]]
 - [[Release Candidate]]
