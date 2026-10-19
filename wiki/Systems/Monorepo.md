@@ -22,7 +22,7 @@ Package managers support the pattern through *workspaces*: a root manifest listi
 
 ## Related
 - [[Perforce]]
-- [[Semantic Versioning]]
+- [[Codemod]]
 - [[Bundler]]
 - [[Inner Source]]
 - [[Test Impact Analysis]]

@@ -23,3 +23,4 @@ Its characteristic failure mode is the **deadlock**: transaction A holds a lock 
 - [[Bitmap Index]]
 - [[File Locking]]
 - [[Two-Phase Locking]]
+- [[Source Code Control System]]

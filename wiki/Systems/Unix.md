@@ -25,5 +25,5 @@ Unix also fixed small conventions that persist, such as counting time in seconds
 Its simplicity was sometimes criticized as cutting corners, leaving complexity to the user, and Unix has been a standard example of a simple, good-enough design spreading faster than a more complete one; see [[Worse Is Better]].
 
 ## See also
-- [[Common Gateway Interface]]
-- [[Teleprinter]]
+- [[Source Code Control System]]
+- [[Free Software]]

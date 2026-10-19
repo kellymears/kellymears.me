@@ -29,4 +29,4 @@ Self-hosted and community-run forges respond to those concerns. Gitea and its co
 Inside companies, forges also host private code, and their features support practices like opening internal code to other teams; see [[Inner Source]]. For maintainers, the forge is where much of the unpaid labor of open source happens, answering issues, triaging duplicates, and reviewing contributions from strangers; see [[Open Source Sustainability]].
 
 ## See also
-- [[Good First Issue]]
+- [[Free Software]]

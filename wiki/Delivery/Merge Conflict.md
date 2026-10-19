@@ -21,7 +21,7 @@ Several practical points recur:
 
 ## See also
 - [[Three-Way Merge]]
-- [[Rebase]]
+- [[Staging Area]]
 - [[Semantic Conflict]]
 - [[Jujutsu]]
 - [[Stacked Pull Requests]]
@@ -31,7 +31,7 @@ Several practical points recur:
 - [[Goto Fail]]
 - [[Small Batches]]
 - [[Fast-Forward Merge]]
-- [[Software Fork]]
+- [[Feature Branch]]
 - [[Local-First Software]]
 - [[Darcs]]
 - [[Git Stash]]

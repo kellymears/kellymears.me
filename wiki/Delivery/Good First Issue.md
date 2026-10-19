@@ -26,5 +26,6 @@ The label has limits. Popular issues can be claimed within minutes, sometimes by
 Welcoming newcomers involves more than labels: clear contribution guides, respectful review, and enforced standards of conduct all matter; see [[Code of Conduct]]. Companies applying open source practices internally use similar techniques to let engineers contribute across team boundaries; see [[Inner Source]].
 
 ## See also
-- [[The Cathedral and the Bazaar]]
+- [[Open Source Foundation]]
 - [[Docs as Code]]
+- [[Open Source Definition]]

@@ -32,6 +32,6 @@ Compatibility has real costs. Old behavior must be kept, tested, and reasoned ab
 The right balance depends on who pays. A library with a few users can break freely; an operating system or a web standard cannot. Large rewrites often avoid breaking anything at once by using the [[Strangler Fig Pattern]], replacing a system piece by piece behind a stable interface.
 
 ## See also
-- [[OpenAPI]]
+- [[Codemod]]
 - [[Calendar Versioning]]
 - [[PCI Express]]

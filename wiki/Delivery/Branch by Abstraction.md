@@ -25,4 +25,4 @@ The costs are real. For a while the code has two implementations to maintain, a 
 
 ## See also
 - [[Big Rewrite]]
-- [[Atomic Commit]]
+- [[Feature Branch]]

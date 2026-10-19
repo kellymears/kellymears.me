@@ -33,3 +33,4 @@ It came two years after the left-pad removal, which had shown how one maintainer
 - [[XZ Utils Backdoor]]
 - [[Protestware]]
 - [[Yanked Release]]
+- [[License Compatibility]]

@@ -25,3 +25,5 @@ Older workflows built around emailing patches share some of Darcs's spirit; see 
 ## See also
 - [[Version Control]]
 - [[Rebase]]
+- [[Staging Area]]
+- [[Source Code Control System]]

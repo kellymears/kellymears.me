@@ -28,7 +28,7 @@ Line-based diffs know nothing about code structure. Renaming a variable or refor
 ## See also
 - [[Line Ending]]
 - [[Git Blame]]
-- [[Darcs]]
+- [[Staging Area]]
 - [[Mailing List]]
 - [[Patch Tuesday]]
 - [[Histogram]]

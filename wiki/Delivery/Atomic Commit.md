@@ -22,8 +22,8 @@ Two notes for shared working copies. Stage by explicit path — a bulk add captu
 
 ## Related
 - [[Small Batches]]
-- [[Version Control]]
-- [[Pull Request]]
+- [[Source Code Control System]]
+- [[Staging Area]]
 - [[Atomic File Write]]
 - [[Git Bisect]]
 - [[Git Blame]]

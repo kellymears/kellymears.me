@@ -15,7 +15,7 @@ Two operational notes. Branch protection settings that appear to enforce up-to-d
 
 ## See also
 - [[Andon Cord]]
-- [[Continuous Integration]]
+- [[Feature Branch]]
 - [[Stacked Pull Requests]]
 - [[Three-Way Merge]]
 - [[Trunk-Based Development]]

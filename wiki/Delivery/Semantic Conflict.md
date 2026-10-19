@@ -16,7 +16,7 @@ Type systems catch a good share of them, which is a strong argument for them at 
 
 ## See also
 - [[Three-Way Merge]]
-- [[Merge Train]]
+- [[Feature Branch]]
 - [[Continuous Integration]]
 - [[Regression]]
 - [[Merge Conflict]]

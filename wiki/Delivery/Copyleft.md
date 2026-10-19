@@ -20,10 +20,10 @@ Incompatible copyleft terms cannot legally combine in one distributed work, and 
 
 ## See also
 - [[Gift Economy]]
-- [[The Cathedral and the Bazaar]]
+- [[Free Software]]
 - [[Benevolent Dictator for Life]]
-- [[Open Core]]
-- [[Fan Fiction]]
+- [[Open Source Definition]]
+- [[License Compatibility]]
 - [[WordPress]]
 - [[ZFS]]
 - [[Developer Certificate of Origin]]

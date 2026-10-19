@@ -31,5 +31,5 @@ Git originally used the SHA-1 hash. Researchers demonstrated a practical SHA-1 c
 Large binary files fit poorly in this model, since each version is stored in full and fetched with every clone; see [[Git LFS]].
 
 ## See also
-- [[Software Heritage]]
-- [[Darcs]]
+- [[Source Code Control System]]
+- [[Staging Area]]

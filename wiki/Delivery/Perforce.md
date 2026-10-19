@@ -25,6 +25,6 @@ The trade-offs follow from centralization. Branching is heavier, work needs a co
 The same niche was once shared with [[Subversion]], which also offered locking, but Perforce's speed on very large depots kept it ahead in game development; see [[Branching Model]].
 
 ## See also
-- [[Code Review]]
+- [[Source Code Control System]]
 - [[Artifact Repository]]
 - [[Game Engine]]

@@ -33,7 +33,7 @@ Owners do not replace good review practice. A required approval is only as meani
 ## See also
 - [[Developer Certificate of Origin]]
 - [[Inner Source]]
-- [[Team Topologies]]
+- [[Codemod]]
 - [[Software Forge]]
 - [[Extreme Programming]]
 - [[Bug Triage]]

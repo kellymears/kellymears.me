@@ -22,7 +22,7 @@ Flags accumulate. A flag whose feature has fully shipped is dead conditional log
 - [[Progressive Delivery]]
 - [[Git Revert]]
 - [[Knight Capital Incident]]
-- [[Multi-Tenancy]]
+- [[Feature Branch]]
 - [[Draft and Published]]
 - [[Software Release Life Cycle]]
 - [[Small Batches]]

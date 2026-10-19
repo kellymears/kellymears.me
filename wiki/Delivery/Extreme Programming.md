@@ -27,5 +27,5 @@ The Chrysler project itself was canceled in 2000, a fact critics raised for year
 
 ## See also
 - [[Daily Standup]]
-- [[Walking Skeleton]]
+- [[Product Backlog]]
 - [[Big Design Up Front]]

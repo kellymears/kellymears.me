@@ -22,5 +22,6 @@ The archive has also been used as a source for large datasets of code for traini
 The project reflects a broader concern that digital history is surprisingly easy to lose, as the sudden removal of a small package once demonstrated; see [[Left-Pad Incident]].
 
 ## See also
-- [[Distributed Version Control]]
-- [[Open Source Sustainability]]
+- [[Source Code Control System]]
+- [[Software Rot]]
+- [[Free Software]]

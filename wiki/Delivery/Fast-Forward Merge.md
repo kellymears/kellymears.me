@@ -30,3 +30,4 @@ A fast-forward has one practical hazard: because no merge commit is made, there 
 - [[Merge Train]]
 - [[Topological Sort]]
 - [[Reflog]]
+- [[Feature Branch]]

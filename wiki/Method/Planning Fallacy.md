@@ -28,7 +28,7 @@ Adding people late rarely saves a late project, as [[Brooks's Law]] warns, and w
 ## See also
 - [[Burndown Chart]]
 - [[Spiral Model]]
-- [[Sinking of the Vasa]]
+- [[Product Backlog]]
 - [[Time Perception]]
 - [[Delphi Method]]
 - [[Superforecasting]]

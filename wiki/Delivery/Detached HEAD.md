@@ -30,4 +30,4 @@ Other workflows reduce the need to detach at all. Checking out a separate workin
 
 ## See also
 - [[Git Stash]]
-- [[Version Control]]
+- [[Staging Area]]

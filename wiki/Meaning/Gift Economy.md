@@ -24,7 +24,7 @@ These systems have known weaknesses. Many people take without giving, and a few 
 
 ## See also
 - [[Social Capital]]
-- [[Collective Action]]
+- [[Free Software]]
 - [[Tragedy of the Commons]]
 - [[Code of Conduct]]
 - [[Faucets and Sinks]]

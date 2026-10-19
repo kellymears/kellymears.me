@@ -27,6 +27,6 @@ History is also a document. It is the durable answer to *why is this here*, whic
 - [[Data Deduplication]]
 - [[Perforce]]
 - [[Blockchain]]
-- [[Edit Distance]]
-- [[Distributed Version Control]]
+- [[Source Code Control System]]
+- [[Staging Area]]
 - [[Docs as Code]]

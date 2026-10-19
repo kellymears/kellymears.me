@@ -26,4 +26,4 @@ Trackers also shape how work is measured. Counting closed tickets or [[Story Poi
 ## See also
 - [[Software Forge]]
 - [[Good First Issue]]
-- [[Gantt Chart]]
+- [[Product Backlog]]

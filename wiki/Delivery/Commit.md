@@ -17,8 +17,8 @@ Staging deserves care in shared working directories: a bulk "add everything" swe
 - [[Fast-Forward Merge]]
 - [[Conventional Commits]]
 - [[Commit Message]]
-- [[Interactive Rebase]]
-- [[Jujutsu]]
+- [[Staging Area]]
+- [[Source Code Control System]]
 - [[Detached HEAD]]
 
 ## Related

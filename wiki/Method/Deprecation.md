@@ -21,8 +21,8 @@ Version numbering is how deprecations are communicated at the package boundary; 
 
 ## Related
 - [[Architecture Decision Record]]
-- [[Semantic Conflict]]
+- [[Codemod]]
 - [[API Versioning]]
 - [[Changelog]]
 - [[Expand and Contract]]
-- [[Long-Term Support]]
+- [[Software Rot]]

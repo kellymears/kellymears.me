@@ -17,7 +17,7 @@ That reframing points to what actually raises the number. Writing things down is
 - [[Transactive Memory]]
 - [[Good First Issue]]
 - [[WordPress]]
-- [[Single Point of Failure]]
+- [[Open Source Foundation]]
 - [[Heartbleed]]
 - [[Peter Principle]]
 - [[Protestware]]

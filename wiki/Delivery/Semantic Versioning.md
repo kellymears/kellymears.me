@@ -24,7 +24,7 @@ The practical consequences are that a major bump deserves a migration path and a
 - [[API Versioning]]
 - [[Monorepo]]
 - [[Yanked Release]]
-- [[Bundler]]
+- [[Codemod]]
 - [[Changelog]]
 - [[Release Train]]
 - [[Dependency Hell]]

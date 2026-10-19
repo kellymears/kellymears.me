@@ -24,3 +24,4 @@ GPG also became a cautionary tale about funding. In 2015, press reports revealed
 ## See also
 - [[Supply Chain Security]]
 - [[Trusted Platform Module]]
+- [[Free Software]]

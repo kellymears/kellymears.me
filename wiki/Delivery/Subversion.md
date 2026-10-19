@@ -27,3 +27,5 @@ Subversion is still used, especially where its centralized model suits the work:
 ## See also
 - [[Commit]]
 - [[Branching Model]]
+- [[Open Source Foundation]]
+- [[Source Code Control System]]

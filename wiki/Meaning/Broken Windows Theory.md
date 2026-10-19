@@ -16,7 +16,7 @@ The implementation costs are documented separately and little disputed. Enforcem
 
 ## See also
 - [[Lehman's Laws of Software Evolution]]
-- [[Plausible Mechanism]]
+- [[Software Rot]]
 - [[Issue Tracker]]
 - [[Root Cause Analysis]]
 - [[Collective Action]]

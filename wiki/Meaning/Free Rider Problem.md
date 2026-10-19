@@ -33,7 +33,7 @@ Not all free riding is harmful. Knowledge spillovers, where one person's idea be
 ## See also
 - [[Participation Inequality]]
 - [[BitTorrent]]
-- [[Veil of Ignorance]]
+- [[Open Source Foundation]]
 - [[Herd Immunity]]
 - [[Protestware]]
 - [[Napster]]

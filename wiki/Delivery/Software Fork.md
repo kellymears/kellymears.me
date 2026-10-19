@@ -29,9 +29,9 @@ The terms **upstream** and **downstream** describe the flow between related code
 Staying in sync is the practical work of a long-lived fork. The fork adds the original as a second remote, fetches it regularly, and merges or [[Rebase|rebases]] onto it. The further the fork drifts, the harder each sync gets, the same dynamic as a long-lived branch in a [[Branching Model]].
 
 ## See also
-- [[The Cathedral and the Bazaar]]
-- [[Protestware]]
+- [[Open Source Definition]]
+- [[Open Source Foundation]]
 - [[Benevolent Dictator for Life]]
-- [[WordPress]]
-- [[Linux Distribution]]
+- [[License Compatibility]]
+- [[Free Software]]
 - [[Open Core]]

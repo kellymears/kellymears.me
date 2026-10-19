@@ -14,10 +14,10 @@ That last one deserves particular attention, because it is where a modern hazard
 The ordinary defenses still matter: a [[Lockfile]], pinned versions, reviewed updates, and minimal privileges everywhere.
 
 ## See also
-- [[Rootkit]]
+- [[Open Source Definition]]
 - [[Build Provenance]]
 - [[Commit Signing]]
-- [[Release Engineering]]
+- [[License Compatibility]]
 - [[GNU Privacy Guard]]
 - [[Log4Shell]]
 

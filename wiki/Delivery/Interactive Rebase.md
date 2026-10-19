@@ -29,4 +29,4 @@ Replaying commits can cause conflicts at each step, which must be resolved one a
 ## See also
 - [[Darcs]]
 - [[Text Editor]]
-- [[Jujutsu]]
+- [[Staging Area]]

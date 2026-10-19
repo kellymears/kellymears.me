@@ -31,5 +31,5 @@ A hotfix usually belongs to an incident, and the [[Incident Response]] review th
 ## See also
 - [[Patch Tuesday]]
 - [[Code Freeze]]
-- [[Release Engineering]]
+- [[Feature Branch]]
 - [[Live Patching]]

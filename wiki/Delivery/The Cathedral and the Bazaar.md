@@ -27,8 +27,8 @@ The bazaar also depends on someone resolving disagreements. Linux works partly b
 The essay's lasting point is that openness and frequent feedback can beat careful central planning, an idea with parallels well outside software; see [[Commons-Based Peer Production]].
 
 ## See also
-- [[Heartbleed]]
-- [[Software Inspection]]
+- [[Free Software]]
+- [[Open Source Definition]]
 - [[Email Patch Workflow]]
 - [[Benevolent Dictator for Life]]
-- [[Good First Issue]]
+- [[Open Source Foundation]]

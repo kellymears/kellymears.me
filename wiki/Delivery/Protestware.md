@@ -26,4 +26,5 @@ For delivery practice it changes the threat model. A trusted maintainer, not jus
 ## See also
 - [[Event-stream Incident]]
 - [[Bus Factor]]
-- [[Code of Conduct]]
+- [[Open Source Definition]]
+- [[Free Software]]

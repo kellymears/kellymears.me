@@ -25,5 +25,5 @@ Teams that squash each pull request into one commit move the record into the pul
 Larger choices that outlive a single change deserve a fuller document; see [[Architecture Decision Record]]. Reviewers can ask for a better message as part of [[Code Review]], the same as for better code.
 
 ## See also
-- [[Email Patch Workflow]]
-- [[Gerrit]]
+- [[Source Code Control System]]
+- [[Staging Area]]

@@ -25,4 +25,4 @@ The model also determines what a merge means and therefore what history looks li
 - [[Cherry-Pick]]
 - [[Release Train]]
 - [[Fast-Forward Merge]]
-- [[Software Fork]]
+- [[Feature Branch]]

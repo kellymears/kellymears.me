@@ -23,6 +23,6 @@ Teams work on scopes, slices that can be finished and demonstrated on their own,
 Critics note that it depends on senior people with time to shape well, and that a two-week cooldown is a luxury many companies won't fund. The fixed appetite also uses [[Parkinson's Law]]: work expands to fill the time available, so that time is set deliberately. Other teams often adopt parts, such as appetites or hill charts; see [[Story Points]] and [[Issue Tracker]].
 
 ## See also
-- [[Burndown Chart]]
+- [[Product Backlog]]
 - [[Spiral Model]]
 - [[Gantt Chart]]

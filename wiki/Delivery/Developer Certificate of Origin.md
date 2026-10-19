@@ -28,10 +28,11 @@ CLAs also add friction. A first-time contributor who must read a legal agreement
 Both mechanisms record intent rather than prove it. They create a paper trail tying each change to a person who made a claim about it, the same accountability that [[Commit Signing]] adds cryptographically and that a [[Software Bill of Materials]] extends to whole dependency trees.
 
 ## See also
-- [[Copyleft]]
-- [[Software Fork]]
-- [[Supply Chain Security]]
+- [[Open Source Definition]]
+- [[Open Source Foundation]]
+- [[License Compatibility]]
 - [[Code Owners]]
 - [[Commit Message]]
 - [[Open Core]]
 - [[Email Patch Workflow]]
+- [[Free Software]]

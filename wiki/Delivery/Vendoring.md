@@ -30,8 +30,8 @@ Vendoring sits at one end of a spectrum. A [[Lockfile]] pins exact versions but 
 Whatever the approach, the goal is the same: knowing exactly what third-party code runs and where it came from, a core concern of [[Supply Chain Security]]. A vendored copy should still be recorded in a [[Software Bill of Materials]], since copying code in doesn't remove its vulnerabilities or its license obligations, which matter especially for [[Copyleft]] code. Vendoring is one answer to [[Dependency Hell]], but it relocates the work of tracking upstream changes rather than eliminating it.
 
 ## See also
-- [[Left-Pad Incident]]
-- [[Git LFS]]
+- [[License Compatibility]]
+- [[Software Rot]]
 - [[Protestware]]
 - [[Git Submodule]]
 - [[Dynamic Linking]]

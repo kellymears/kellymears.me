@@ -34,3 +34,4 @@ They also explain several familiar temptations. A system grown complex enough in
 - [[Ship of Theseus]]
 - [[Mainframe]]
 - [[Software Crisis]]
+- [[Software Rot]]

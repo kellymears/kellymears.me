@@ -17,7 +17,7 @@ Rot also afflicts prose *inside* source files. A docblock is only attached to a 
 ## See also
 - [[Transactive Memory]]
 - [[Deprecation]]
-- [[Technical Debt]]
+- [[Software Rot]]
 - [[Don't Repeat Yourself]]
 - [[Docs as Code]]
 - [[Chesterton's Fence]]

@@ -32,9 +32,9 @@ Dependencies are also a security surface. Each one can be compromised, typosquat
 
 ## See also
 - [[Technology Radar]]
-- [[Artifact Repository]]
+- [[Software Rot]]
 - [[Node.js]]
-- [[Equifax Data Breach]]
+- [[License Compatibility]]
 - [[Dynamic Linking]]
 - [[Automated Dependency Updates]]
 - [[Build Matrix]]

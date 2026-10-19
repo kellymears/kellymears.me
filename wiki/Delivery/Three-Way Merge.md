@@ -22,15 +22,15 @@ There is also a duplication hazard: two branches that each added the same conten
 - [[Subversion]]
 - [[Rebase]]
 - [[Git Object Model]]
-- [[Version Control]]
+- [[Staging Area]]
 - [[Merge Train]]
 
 ## Related
 - [[Stacked Pull Requests]]
-- [[Trunk-Based Development]]
+- [[Source Code Control System]]
 - [[Regression]]
 - [[Darcs]]
 - [[Edit Distance]]
 - [[Fast-Forward Merge]]
-- [[Diff]]
+- [[Feature Branch]]
 - [[Distributed Version Control]]

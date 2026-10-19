@@ -32,7 +32,7 @@ Distributed teams across time zones often replace it with written updates posted
 Whether a standup is worth holding depends on whether people learn something they would otherwise have found out too late. A team that already talks all day may not need one; see [[Team Topologies]].
 
 ## See also
-- [[User Story]]
+- [[Product Backlog]]
 - [[Two-Pizza Team]]
 - [[Timeboxing]]
 - [[Burndown Chart]]

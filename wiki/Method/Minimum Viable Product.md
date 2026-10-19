@@ -27,6 +27,6 @@ MVP is often confused with "prototype" or "beta," but neither of those implies t
 - [[PDCA Cycle]]
 - [[Jobs to Be Done]]
 - [[Persona]]
-- [[Sturgeon's Law]]
+- [[Product Backlog]]
 - [[Design Thinking]]
 - [[Cone of Uncertainty]]

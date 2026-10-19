@@ -20,7 +20,7 @@ Several things about rebasing are worth knowing concretely.
 
 ## See also
 - [[Three-Way Merge]]
-- [[Merge Conflict]]
+- [[Feature Branch]]
 - [[Semantic Conflict]]
 - [[Detached HEAD]]
 

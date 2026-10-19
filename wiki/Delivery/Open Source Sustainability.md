@@ -31,6 +31,6 @@ None of these fully solves the mismatch between how much value open source creat
 
 ## See also
 - [[Event-stream Incident]]
-- [[Software Heritage]]
-- [[Open Core]]
-- [[GNU Privacy Guard]]
+- [[Open Source Definition]]
+- [[Open Source Foundation]]
+- [[Free Software]]

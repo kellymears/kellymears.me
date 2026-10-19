@@ -37,4 +37,4 @@ These pull against [[Prompt Caching]], which rewards keeping a long, stable pref
 - [[Context Engineering]]
 - [[Frame Problem]]
 - [[ReAct]]
-- [[Distribution Shift]]
+- [[Software Rot]]

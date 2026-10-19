@@ -31,5 +31,5 @@ Automation also creates a [[Supply Chain Security]] risk. If an attacker publish
 Projects that need stability over currency often pair the bots with a [[Long-Term Support]] line of a dependency, receiving only security fixes. Reading the linked [[Changelog]] remains the reviewer's job; the bot can show what changed, not whether it matters.
 
 ## See also
-- [[SolarWinds Hack]]
-- [[Log4Shell]]
+- [[Software Rot]]
+- [[License Compatibility]]

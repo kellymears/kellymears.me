@@ -28,6 +28,6 @@ Parnas recommended designing for change, documenting decisions, and accepting th
 Reliability engineers describe failure rates that rise toward the end of a product's life, a pattern aging software can show as well; see [[Bathtub Curve]]. In both senses, aging is less a bug than a process to manage.
 
 ## See also
-- [[Heisenbug]]
+- [[Software Rot]]
 - [[Garbage Collection]]
 - [[Cellular Senescence]]

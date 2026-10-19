@@ -26,7 +26,7 @@ Small, focused commits pick cleanly, which is one practical argument for an [[At
 
 ## See also
 - [[Darcs]]
-- [[Reflog]]
+- [[Staging Area]]
 - [[Hotfix]]
 - [[Detached HEAD]]
 - [[Interactive Rebase]]
