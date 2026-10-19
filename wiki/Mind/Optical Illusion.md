@@ -23,3 +23,4 @@ Displays and graphics depend on the same properties. Film and video create motio
 ## See also
 - [[Weber-Fechner Law]]
 - [[Inattentional Blindness]]
+- [[Unsharp Masking]]

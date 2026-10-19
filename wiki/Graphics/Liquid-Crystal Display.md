@@ -30,3 +30,4 @@ Their main rival in high-end screens is now OLED, which emits light from each pi
 - [[Color Gamut]]
 - [[Font Rendering]]
 - [[Motion Interpolation]]
+- [[Pixel]]

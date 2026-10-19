@@ -22,4 +22,5 @@ Related techniques vary the shading rate instead of the resolution, spending det
 
 ## See also
 - [[Swap Chain]]
-- [[Input Latency]]
+- [[Unsharp Masking]]
+- [[Pixel]]

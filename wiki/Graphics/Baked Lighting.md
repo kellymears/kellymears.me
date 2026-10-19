@@ -25,9 +25,9 @@ Baking has practical costs. Bake times slow iteration, since every lighting chan
 The idea is the graphics version of a general trade: precompute what doesn't change, and pay only for what does. It is the same reasoning behind [[Memoization]] and [[Static Site Generation]]. Real-time [[Ray Tracing]] and hybrid global illumination systems have reduced the need for baking, letting lighting respond to destruction and moving lights, but at a large cost in performance that [[Temporal Upscaling]] and denoising try to recover. Many games still bake where they can and compute live only where they must. The quality of either approach rests on the same physical models, the realm of [[Physically Based Rendering]], and both feed into [[Deferred Shading]] pipelines in modern engines.
 
 ## See also
-- [[Spherical Harmonics]]
-- [[Ray Tracing]]
+- [[Render Farm]]
+- [[Decal]]
 - [[Radiosity]]
-- [[Memoization]]
+- [[Reyes Rendering]]
 - [[Image-Based Lighting]]
 - [[Rendering Equation]]

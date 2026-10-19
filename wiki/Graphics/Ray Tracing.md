@@ -17,11 +17,11 @@ Real-time ray tracing in games is almost never pure — it is a hybrid where ras
 ## See also
 - [[Ray Casting]]
 - [[Screen Space Reflections]]
-- [[Photon]]
+- [[Reyes Rendering]]
 - [[Portal Rendering]]
 - [[Shadow Volume]]
 - [[Caustics]]
-- [[Spherical Harmonics]]
+- [[Render Farm]]
 - [[Radiosity]]
 - [[Denoising]]
 - [[Rendering Equation]]

@@ -28,5 +28,5 @@ Engines shape the games built with them. A game made in an engine tends to inher
 Owning the engine also means owning a dependency that lasts years. A studio that switches engines mid-project rebuilds much of its work, which gives engine makers leverage over pricing and terms; see [[Path Dependence]]. Long-lived engines also complicate keeping old games playable; see [[Game Preservation]].
 
 ## See also
-- [[Cutscene]]
-- [[First-Person Shooter]]
+- [[Animation Blending]]
+- [[Decal]]

@@ -26,4 +26,4 @@ Raster displays won as memory got cheaper, because a framebuffer can hold any im
 ## See also
 - [[Interlacing]]
 - [[Turtle Graphics]]
-- [[Arcade Game]]
+- [[Clipping]]

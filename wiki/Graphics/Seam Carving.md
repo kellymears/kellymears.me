@@ -30,3 +30,5 @@ Applied heavily, liquid rescaling in GIMP and ImageMagick became an internet jok
 - [[JPEG]]
 - [[Post-Processing]]
 - [[Aspect Ratio]]
+- [[Unsharp Masking]]
+- [[Histogram Equalization]]

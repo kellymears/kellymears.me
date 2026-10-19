@@ -29,3 +29,4 @@ Image editors made the vocabulary standard among designers, and the same names n
 - [[Chroma Key]]
 - [[Post-Processing]]
 - [[Compositor]]
+- [[HSL and HSV]]

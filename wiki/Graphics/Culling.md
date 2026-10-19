@@ -23,7 +23,7 @@ Culling is conservative by design. A false positive, culling something actually 
 Modern engines move culling onto the GPU itself, where compute shaders or mesh shaders test thousands of small clusters of triangles in parallel each frame. Game design meets culling at the level of the map: corridors, doors, and switchback paths are partly occlusion tools, and the [[Fog of War]] of strategy games hides information the renderer would otherwise have to draw. In [[Ray Tracing]], culling becomes the acceleration structure's job, since any ray can travel anywhere in the scene. The general principle, finding the cheapest test that rules out the most work, reappears in [[Bloom Filter]] lookups and database indexes.
 
 ## See also
-- [[Spatial Partitioning]]
+- [[Clipping]]
 - [[Virtual Scrolling]]
 - [[Stencil Buffer]]
 - [[Scene Graph]]

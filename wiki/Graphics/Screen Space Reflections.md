@@ -27,3 +27,4 @@ Older approaches still have their place. **Planar reflections** render the scene
 - [[Volumetric Lighting]]
 - [[Shading Model]]
 - [[Portal Rendering]]
+- [[Decal]]

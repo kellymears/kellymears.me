@@ -29,3 +29,4 @@ Logo's broader legacy is the idea that programming can be a medium for thinking,
 ## See also
 - [[Procedural Generation]]
 - [[Flow]]
+- [[Catmull-Rom Spline]]

@@ -22,7 +22,7 @@ The practical response designers converged on regardless is to route around the 
 - [[Morph Target]]
 - [[Deepfake]]
 - [[Subsurface Scattering]]
-- [[Pareidolia]]
+- [[Animation Blending]]
 - [[Prosopagnosia]]
 - [[Motion Capture]]
 - [[Rotoscoping]]

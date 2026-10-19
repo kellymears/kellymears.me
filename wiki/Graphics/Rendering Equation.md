@@ -28,7 +28,7 @@ The equation also has deliberate omissions. It handles surfaces, not participati
 Real-time graphics spent decades approximating global illumination. Hardware ray tracing and neural denoisers since 2018 made real-time path tracing possible in some games, bringing interactive rendering closer to solving Kajiya's equation directly.
 
 ## See also
-- [[Spherical Harmonics]]
+- [[Reyes Rendering]]
 - [[Caustics]]
-- [[Utah Teapot]]
+- [[Render Farm]]
 - [[Volumetric Lighting]]

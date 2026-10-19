@@ -27,7 +27,7 @@ The same model reached the web. Flash built its animation timeline on keyframes 
 Interpolation also has a perceptual floor. Keys spaced too far apart produce motion that reads as a series of jumps rather than movement; see [[Apparent Motion]].
 
 ## See also
-- [[Soft Body Dynamics]]
+- [[Catmull-Rom Spline]]
 - [[Motion Interpolation]]
-- [[Adobe Flash]]
+- [[Animation Blending]]
 - [[Stop Motion]]

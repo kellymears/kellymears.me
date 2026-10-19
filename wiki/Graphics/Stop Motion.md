@@ -30,3 +30,4 @@ Stop motion survived by changing. Laika's *Coraline* (2009) used thousands of 3D
 - [[Photogrammetry]]
 - [[Smear Frame]]
 - [[Onion Skinning]]
+- [[Render Farm]]

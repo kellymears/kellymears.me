@@ -39,3 +39,4 @@ These formats compress poorly on disk, since they're designed for random access,
 - [[JPEG]]
 - [[Image Format]]
 - [[Texture Streaming]]
+- [[Decal]]

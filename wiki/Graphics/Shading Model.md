@@ -29,7 +29,7 @@ Classic models aren't physically accurate. Phong highlights don't conserve energ
 Shading models are also a stylistic choice. [[Cel Shading]] deliberately quantizes the Lambertian term into a few flat bands for a cartoon look, and many indie games choose flat shading for its clean, low-poly aesthetic. Lighting calculations happen in linear color, not the encoded values stored in images, so [[Gamma Correction]] matters to getting shading right; [[Tone Mapping]] then fits the result to the display. [[Deferred Shading]] reorganizes the work so the cost depends on pixels and lights rather than on scene complexity.
 
 ## See also
-- [[Spherical Harmonics]]
+- [[Reyes Rendering]]
 - [[Subsurface Scattering]]
 - [[Image-Based Lighting]]
 - [[Utah Teapot]]

@@ -23,3 +23,4 @@ Portals work best indoors. Outdoor scenes, with wide views and few natural openi
 ## See also
 - [[Ray Casting]]
 - [[Constructive Solid Geometry]]
+- [[Clipping]]

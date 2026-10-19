@@ -34,6 +34,6 @@ Where in the loop input is sampled, how many frames the CPU queues ahead of the 
 ## See also
 - [[Soft Body Dynamics]]
 - [[Scene Graph]]
-- [[Dynamic Resolution Scaling]]
+- [[Animation Blending]]
 - [[Memory Allocator]]
 - [[Verlet Integration]]

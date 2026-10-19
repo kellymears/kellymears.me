@@ -29,8 +29,8 @@ E-readers and receipt printers, limited to black and white, still halftone every
 
 ## See also
 - [[Color Quantization]]
-- [[Pixel Art]]
-- [[Metamerism]]
+- [[HSL and HSV]]
+- [[Unsharp Masking]]
 - [[ASCII Art]]
 - [[Generative Art]]
 - [[Blend Mode]]

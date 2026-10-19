@@ -33,7 +33,7 @@ Modern upscalers go beyond fixed filters. Machine-learning *super-resolution* mo
 On the web, the best resampling is often none: serving each device an image already sized for it, as described under [[Responsive Images]], avoids both wasted bandwidth and the browser's own scaling.
 
 ## See also
-- [[Seam Carving]]
-- [[Favicon]]
-- [[Image Format]]
+- [[Unsharp Masking]]
+- [[Catmull-Rom Spline]]
+- [[Pixel]]
 - [[Interlacing]]

@@ -24,10 +24,10 @@ Audio uses the same idea. When a recording is reduced from 24-bit to 16-bit for 
 
 ## See also
 - [[Bresenham's Line Algorithm]]
-- [[Halftone]]
+- [[Histogram Equalization]]
 - [[GIF]]
 - [[ASCII Art]]
 - [[Color Cycling]]
-- [[Optical Illusion]]
+- [[Pixel]]
 - [[Blue Noise]]
 - [[Flood Fill]]

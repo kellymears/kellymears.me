@@ -27,5 +27,5 @@ Physics turned into gameplay with titles such as *Half-Life 2* (2004), whose gra
 Simulations must be deterministic for replays and some networked games, which is difficult because floating-point results vary across hardware and compilers; see [[Determinism]].
 
 ## See also
-- [[Soft Body Dynamics]]
+- [[Animation Blending]]
 - [[Entity Component System]]

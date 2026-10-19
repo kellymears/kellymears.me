@@ -28,7 +28,7 @@ Projection sits between geometry and pixels. After it, [[Rasterization]] fills t
 
 ## See also
 - [[Ray Casting]]
-- [[Parallax Scrolling]]
+- [[Clipping]]
 - [[Stereoscopy]]
 - [[Aspect Ratio]]
 - [[Strassen Algorithm]]

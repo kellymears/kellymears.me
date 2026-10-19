@@ -34,5 +34,5 @@ Post-processing also explains some artifacts. Screen-space effects can use only 
 The same pipeline exists outside games. Photo editors, video color grading, and phone cameras apply comparable chains, and [[Dithering]] at the very end hides banding when the final image is reduced to the display's bit depth.
 
 ## See also
-- [[Astigmatism]]
-- [[Frutiger Aero]]
+- [[Unsharp Masking]]
+- [[Histogram Equalization]]

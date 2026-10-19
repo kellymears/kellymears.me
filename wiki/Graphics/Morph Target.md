@@ -25,3 +25,4 @@ The same idea appears outside characters: a sail filling with wind, a door denti
 - [[Twelve Basic Principles of Animation]]
 - [[Onion Skinning]]
 - [[Soft Body Dynamics]]
+- [[Animation Blending]]

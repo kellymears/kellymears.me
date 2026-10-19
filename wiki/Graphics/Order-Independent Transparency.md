@@ -26,7 +26,7 @@ True OIT techniques work per pixel:
 ## See also
 - [[Radix Sort]]
 - [[Blend Mode]]
-- [[Deferred Shading]]
+- [[Decal]]
 - [[Affine Texture Mapping]]
 - [[Doom Engine]]
 - [[Stencil Buffer]]

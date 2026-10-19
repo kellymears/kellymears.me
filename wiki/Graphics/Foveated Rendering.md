@@ -25,5 +25,5 @@ Video encoders apply a similar idea when they spend more bits on faces and other
 
 ## See also
 - [[Stereoscopy]]
-- [[Astigmatism]]
+- [[Pixel]]
 - [[Dynamic Resolution Scaling]]

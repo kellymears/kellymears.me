@@ -24,12 +24,12 @@ GPUs handle sRGB textures and framebuffers in hardware, converting to linear on 
 
 ## See also
 - [[Shading Model]]
-- [[Linear Interpolation]]
+- [[HSL and HSV]]
 - [[Weber-Fechner Law]]
 - [[Image Sensor]]
 - [[Color Scale]]
 - [[Blend Mode]]
 - [[NTSC]]
 - [[Optical Illusion]]
-- [[Alpha Compositing]]
+- [[Histogram Equalization]]
 - [[Chroma Subsampling]]

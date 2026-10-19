@@ -34,8 +34,8 @@ Beyond entertainment, photogrammetry measures construction progress, documents c
 The same camera-solving step now feeds [[Gaussian Splatting]], which skips meshes entirely and represents captured scenes as fitted blobs, handling the reflective and fuzzy surfaces photogrammetry struggles with.
 
 ## See also
-- [[Texture Streaming]]
-- [[Virtualized Geometry]]
+- [[Histogram Equalization]]
+- [[Render Farm]]
 - [[NURBS]]
 - [[Utah Teapot]]
 - [[Chroma Key]]

@@ -26,5 +26,5 @@ In 3D animation, onion skinning shows ghosted copies of a posed model at nearby 
 The technique reflects a general principle of interface design: showing context visually instead of making people hold it in memory. Comparing frames by flipping relies on the brief persistence of what was just seen; overlays make the comparison immediate; see [[Working Memory]].
 
 ## See also
-- [[Motion Design]]
+- [[Catmull-Rom Spline]]
 - [[Morph Target]]

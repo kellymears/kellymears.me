@@ -23,7 +23,7 @@ HDR also changes how UI is designed. Interface elements need a fixed paper-white
 ## See also
 - [[Image Sensor]]
 - [[Image-Based Lighting]]
-- [[OKLCH]]
+- [[Histogram Equalization]]
 - [[Liquid-Crystal Display]]
 - [[OLED]]
 - [[Opponent Process Theory]]

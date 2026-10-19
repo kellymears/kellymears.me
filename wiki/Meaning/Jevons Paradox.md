@@ -27,7 +27,7 @@ Related patterns appear in personal life: a faster commute often leads to living
 ## See also
 - [[Cobra Effect]]
 - [[Baumol's Cost Disease]]
-- [[Moral Licensing]]
+- [[Render Farm]]
 - [[Moore's Law]]
 - [[Second-Order Thinking]]
 - [[Diffusion of Innovations]]

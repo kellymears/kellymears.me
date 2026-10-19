@@ -20,7 +20,7 @@ Two governance problems recur once tokens are shared across teams.
 - [[CSS Preprocessor]]
 - [[Scoped Styling]]
 - [[OKLCH]]
-- [[Dark Mode]]
+- [[HSL and HSV]]
 - [[Utility-First CSS]]
 - [[CSS-in-JS]]
 - [[Ricing]]

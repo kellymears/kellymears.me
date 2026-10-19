@@ -24,3 +24,4 @@ Interpolation adds delay, because the TV must wait for the next frame before it 
 ## See also
 - [[Temporal Upscaling]]
 - [[Suspension of Disbelief]]
+- [[Unsharp Masking]]

@@ -22,12 +22,12 @@ Two practical notes. Precision and compiler optimization settings change results
 - [[Stencil Buffer]]
 - [[Shader Compilation Stutter]]
 - [[WebGPU]]
-- [[Normal Mapping]]
-- [[Domain Warping]]
+- [[Decal]]
+- [[HSL and HSV]]
 
 ## Related
 - [[Metaballs]]
 - [[Fluid Simulation]]
 - [[Cel Shading]]
-- [[L-System]]
+- [[Reyes Rendering]]
 - [[Ray Marching]]

@@ -31,7 +31,7 @@ The broader principle applies outside games: an interface that interprets what s
 - [[Invincibility Frames]]
 - [[Sense of Agency]]
 - [[Lag Compensation]]
-- [[Fighting Game]]
+- [[Animation Blending]]
 - [[Platformer]]
 - [[Hit Stop]]
 - [[Tetris]]

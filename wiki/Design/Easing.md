@@ -29,6 +29,6 @@ Duration still matters and the useful range is narrow. Under roughly 100 millise
 - [[Bézier Curve]]
 - [[Response Time Limits]]
 - [[View Transitions]]
-- [[Linear Interpolation]]
+- [[Catmull-Rom Spline]]
 - [[Simple Harmonic Motion]]
 - [[Twelve Basic Principles of Animation]]

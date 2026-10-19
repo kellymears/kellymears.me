@@ -31,6 +31,6 @@ The underlying idea is separating what is visible from how it looks, decoupling 
 - [[Order-Independent Transparency]]
 - [[Swap Chain]]
 - [[Screen Space Reflections]]
-- [[Graphics Pipeline]]
+- [[Decal]]
 - [[Subsurface Scattering]]
 - [[Dynamic Resolution Scaling]]

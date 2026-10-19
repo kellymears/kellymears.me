@@ -28,10 +28,10 @@ Game engines store object orientations as quaternions internally, even when the 
 
 ## See also
 - [[Motion Capture]]
-- [[Keyframe Animation]]
+- [[Catmull-Rom Spline]]
 - [[Inertial Measurement Unit]]
 - [[Model Merging]]
 - [[Mental Rotation]]
 - [[Numerical Stability]]
 - [[Gyroscope]]
-- [[Transformation Matrix]]
+- [[Animation Blending]]

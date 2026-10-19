@@ -22,4 +22,5 @@ Different characters need different meshes. A large creature can't fit through g
 
 ## See also
 - [[Dijkstra's Algorithm]]
-- [[Procedural Generation]]
+- [[Animation Blending]]
+- [[Catmull-Rom Spline]]

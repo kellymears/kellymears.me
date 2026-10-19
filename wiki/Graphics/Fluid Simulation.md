@@ -28,4 +28,4 @@ Games rely on heavier shortcuts: textures scrolled along flow directions, small 
 
 ## See also
 - [[Graph Neural Network]]
-- [[Domain Warping]]
+- [[Render Farm]]

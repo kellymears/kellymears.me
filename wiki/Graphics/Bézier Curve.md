@@ -30,4 +30,4 @@ Related curves handle cases Béziers handle poorly. B-splines and NURBS, used in
 - [[NURBS]]
 - [[Keyframe Animation]]
 - [[Web Animations API]]
-- [[Linear Interpolation]]
+- [[Catmull-Rom Spline]]

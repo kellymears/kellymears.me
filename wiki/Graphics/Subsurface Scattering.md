@@ -24,7 +24,7 @@ Subsurface scattering is one piece of [[Physically Based Rendering]], which mode
 
 ## See also
 - [[Spherical Harmonics]]
-- [[Uncanny Valley]]
+- [[Reyes Rendering]]
 - [[Ray Tracing]]
 - [[Shader]]
 - [[Volumetric Lighting]]

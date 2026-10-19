@@ -23,5 +23,5 @@ The cost is the number of patch pairs, which grows with the square of the patch 
 Games adopted radiosity for precomputed lighting. Quake II and Half-Life 2 both ran radiosity tools offline to bake indirect light into textures stored with each level; see [[Baked Lighting]]. Film and modern real-time renderers mostly moved to sampling light paths randomly, which handles every kind of surface; see [[Ray Tracing]] and [[Monte Carlo Method]]. Radiosity's ideas survive in light probes and in real-time global illumination systems that divide scenes into coarse patches or grids; see [[Physically Based Rendering]].
 
 ## See also
-- [[Image-Based Lighting]]
-- [[Spherical Harmonics]]
+- [[Render Farm]]
+- [[Reyes Rendering]]

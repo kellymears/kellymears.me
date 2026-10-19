@@ -30,8 +30,8 @@ Interpolating between known samples also lets [[Frame Generation]] and [[Tempora
 
 ## See also
 - [[Bresenham's Line Algorithm]]
-- [[Autoencoder]]
-- [[Lag Compensation]]
+- [[Animation Blending]]
+- [[Catmull-Rom Spline]]
 - [[Morph Target]]
 - [[Barycentric Coordinates]]
 - [[NURBS]]

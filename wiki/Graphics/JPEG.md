@@ -26,6 +26,6 @@ JPEG files also carry metadata, including camera settings and often the GPS coor
 Better formats exist. JPEG 2000, WebP, AVIF, and JPEG XL all compress more efficiently, yet the original remains everywhere, supported by every camera, browser, and program; see [[Path Dependence]]. Sites serve newer formats to browsers that accept them, with JPEG as the fallback; see [[Responsive Images]]. GPUs can't sample JPEGs directly and use their own block formats; see [[Texture Compression]].
 
 ## See also
-- [[Fourier Transform]]
+- [[Unsharp Masking]]
 - [[Seam Carving]]
-- [[Image Format]]
+- [[Histogram Equalization]]

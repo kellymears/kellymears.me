@@ -29,3 +29,4 @@ The Utah teapot, an early test model, was built from Bézier patches; see [[Utah
 ## See also
 - [[Rasterization]]
 - [[Photogrammetry]]
+- [[Catmull-Rom Spline]]

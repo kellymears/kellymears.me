@@ -28,5 +28,5 @@ Sprite animation is laborious, since each frame is hand-drawn, which led many ga
 ## See also
 - [[Color Cycling]]
 - [[Onion Skinning]]
-- [[Mode 7]]
+- [[Decal]]
 - [[Entity Component System]]

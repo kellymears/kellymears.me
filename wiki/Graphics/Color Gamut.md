@@ -28,10 +28,10 @@ When a source color falls outside the destination gamut, **gamut mapping** must 
 
 ## See also
 - [[Color Quantization]]
-- [[Blend Mode]]
+- [[Histogram Equalization]]
 - [[Halftone]]
 - [[Structural Color]]
-- [[Image Sensor]]
+- [[HSL and HSV]]
 - [[OLED]]
 - [[Image Format]]
 - [[NTSC]]

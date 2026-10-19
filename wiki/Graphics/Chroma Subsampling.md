@@ -28,7 +28,7 @@ Displaying subsampled video requires *chroma upsampling*, estimating the missing
 There are subtler errors too. Luma is computed from gamma-encoded values rather than linear light, as described under [[Gamma Correction]], so some brightness information leaks into the chroma channels. When chroma is subsampled, small saturated details, like a thin red line on green, can come out darker than they should. Wider [[Color Gamut]] video standards use updated weightings and offer a constant-luminance variant that reduces the error.
 
 ## See also
-- [[Video Compression]]
+- [[Pixel]]
 - [[Chroma Key]]
 - [[NTSC]]
 - [[Image Format]]
