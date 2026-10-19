@@ -34,6 +34,6 @@ Preattentive pop-out has limits: it tells you *that* something differs, not what
 
 ## See also
 - [[Heads-Up Display]]
-- [[Radar Chart]]
+- [[Bullet Graph]]
 - [[Stroop Effect]]
 - [[Pie Chart]]

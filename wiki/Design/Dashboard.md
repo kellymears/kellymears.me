@@ -33,5 +33,5 @@ Engineering teams often track delivery measures this way; see [[DORA Metrics]].
 Patterns across many items fit well in a [[Heat Map]] panel.
 
 ## See also
-- [[Bar Chart]]
-- [[Heads-Up Display]]
+- [[Bullet Graph]]
+- [[Bento Grid]]

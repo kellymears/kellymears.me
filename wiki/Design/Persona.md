@@ -33,6 +33,6 @@ Personas connect to a broader principle: design for the user's [[Mental Model]],
 
 ## See also
 - [[Affinity Diagram]]
-- [[Heuristic Evaluation]]
+- [[Kano Model]]
 - [[Design Thinking]]
 - [[User Story]]

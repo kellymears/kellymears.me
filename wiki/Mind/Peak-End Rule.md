@@ -31,7 +31,7 @@ The rule interacts with other memory effects. The [[Serial Position Effect]] als
 - [[Reminiscence Bump]]
 - [[Savoring]]
 - [[Affective Forecasting]]
-- [[Aesthetic-Usability Effect]]
+- [[Kano Model]]
 - [[Progress Indicator]]
 - [[Negativity Bias]]
 - [[Cliffhanger]]

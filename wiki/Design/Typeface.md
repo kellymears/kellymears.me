@@ -30,6 +30,6 @@ In a [[Design System]], typefaces are recorded as a [[Design Token]], so they ch
 
 ## See also
 - [[OpenType Features]]
-- [[Fixed-Width File]]
-- [[Paper Size]]
-- [[Form Follows Function]]
+- [[Helvetica]]
+- [[Frutiger Aero]]
+- [[Art Deco]]

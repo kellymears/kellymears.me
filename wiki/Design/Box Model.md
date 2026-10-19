@@ -33,4 +33,4 @@ Boxes also determine painting order and overlap: positioned boxes can form a [[S
 ## See also
 - [[Quirks Mode]]
 - [[Optical Alignment]]
-- [[Browser Wars]]
+- [[Focus Indicator]]

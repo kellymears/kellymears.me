@@ -23,7 +23,7 @@ The signal underpins [[Habit Formation]], where behavior that is reliably reward
 
 ## See also
 - [[Boredom]]
-- [[Cliffhanger]]
+- [[Kano Model]]
 - [[Multi-Armed Bandit]]
 - [[Classical Conditioning]]
 - [[Runner's High]]

@@ -26,4 +26,4 @@ Accessibility testing works best early and continuously. Components built and te
 
 ## See also
 - [[Page Object Model]]
-- [[Alt Text]]
+- [[Focus Indicator]]

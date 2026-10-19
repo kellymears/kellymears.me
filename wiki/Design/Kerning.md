@@ -23,3 +23,4 @@ Good kerning is invisible — it reads as "this text just looks right" rather th
 - [[Text Justification]]
 - [[Drop Cap]]
 - [[Logo]]
+- [[Helvetica]]

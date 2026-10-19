@@ -29,3 +29,4 @@ Coloring the filled areas strongly makes the overlap problem worse; see [[Color 
 - [[Data Visualization]]
 - [[Treemap]]
 - [[Halo Effect]]
+- [[Bullet Graph]]

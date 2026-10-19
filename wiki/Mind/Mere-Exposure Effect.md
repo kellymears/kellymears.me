@@ -27,8 +27,8 @@ Mere exposure helps explain several broader patterns. It contributes to status q
 In design, the effect argues for following conventions, since users arrive already familiar with standard patterns, and for introducing changes gradually. A new design may need time before it can be fairly judged. Testing a change on users for only a few days can mistake unfamiliarity for worse usability; see [[AB Testing]].
 
 ## See also
-- [[Priming]]
-- [[Availability Heuristic]]
+- [[Memphis Group]]
+- [[Frutiger Aero]]
 - [[Logo]]
 - [[Déjà Vu]]
 - [[Earworm]]

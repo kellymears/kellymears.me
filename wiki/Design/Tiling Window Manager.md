@@ -28,7 +28,7 @@ The approach shares principles with layout on the web. A tiling layout is a [[Gr
 - [[CSS Grid]]
 - [[Desktop Metaphor]]
 - [[Terminal Multiplexer]]
-- [[Grid System]]
+- [[Bento Grid]]
 - [[Ricing]]
 - [[Attention Residue]]
 - [[Flexbox]]

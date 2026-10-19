@@ -26,6 +26,6 @@ It sits among a family of feed patterns, alongside endless scrolling, that keep 
 The broader lesson concerns gestures in general. A well-designed gesture can feel inevitable once learned, yet has no visible presence for people who haven't learned it, and its appeal can depend as much on the feeling of the motion as on its function; see [[Gesture]].
 
 ## See also
-- [[Optimistic UI]]
+- [[Bottom Sheet]]
 - [[Motion Design]]
 - [[Pointer Events]]

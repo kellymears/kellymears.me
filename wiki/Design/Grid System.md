@@ -18,14 +18,14 @@ The main risk of a grid system is treating it as decoration rather than constrai
 - [[Golden Ratio]]
 - [[Lorem Ipsum]]
 - [[Paper Size]]
-- [[Dieter Rams]]
+- [[Helvetica]]
 
 ## Related
-- [[Container Query]]
+- [[Bento Grid]]
 - [[Aspect Ratio]]
 - [[Infographic]]
 - [[Optical Alignment]]
 - [[CSS Grid]]
 - [[Flexbox]]
 - [[Box Model]]
-- [[Bauhaus]]
+- [[Masonry Layout]]

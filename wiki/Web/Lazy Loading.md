@@ -28,4 +28,4 @@ Lazy loading interacts with perceived performance rather than just measured perf
 - [[Layout Shift]]
 - [[Intersection Observer]]
 - [[Iframe]]
-- [[Third-Party Script]]
+- [[Masonry Layout]]

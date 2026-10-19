@@ -25,5 +25,5 @@ Newer CSS has reduced the need for breakpoints. [[Flexbox]] and [[CSS Grid]] can
 Fitting the screen is not the whole job. Phones have no hover state, and fingers are much less precise than pointers, so controls need room; see [[Touch Target Size]] and [[Fitts's Law]]. Common mistakes include hiding content on small screens instead of reorganizing it, and testing only a few popular device widths. Zoom matters as well. Accessibility guidelines expect content to reflow into one column at 400% zoom without sideways scrolling, which a responsive layout handles for free; see [[Accessibility]].
 
 ## See also
-- [[Accordion]]
+- [[Masonry Layout]]
 - [[Hamburger Menu]]

@@ -29,3 +29,4 @@ Well-learned gestures become automatic and fast, which explains both their appea
 - [[Pull-to-Refresh]]
 - [[Touch Target Size]]
 - [[Pointer Events]]
+- [[Bottom Sheet]]

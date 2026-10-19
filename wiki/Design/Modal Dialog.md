@@ -35,6 +35,6 @@ Alternatives often serve better: inline editing, an expanding panel, a non-block
 
 ## See also
 - [[Pop-up Ad]]
-- [[Toast Notification]]
+- [[Focus Indicator]]
 - [[Cookie Consent]]
-- [[Popover API]]
+- [[Bottom Sheet]]

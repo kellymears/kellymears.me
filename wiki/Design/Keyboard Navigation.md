@@ -23,9 +23,9 @@ Two design notes worth holding onto. A scrollable region containing nothing focu
 
 ## Related
 - [[Data Table]]
-- [[Popover API]]
+- [[Masonry Layout]]
 - [[Carousel]]
-- [[Pointer Events]]
+- [[Focus Indicator]]
 - [[Accessibility Testing]]
 - [[Command Palette]]
 - [[Tooltip]]

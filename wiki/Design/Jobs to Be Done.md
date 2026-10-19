@@ -32,7 +32,7 @@ The lasting insight is about framing. Teams describe their work in terms of thei
 
 ## See also
 - [[Affinity Diagram]]
-- [[Choice Architecture]]
+- [[Kano Model]]
 - [[Wicked Problem]]
 - [[MDA Framework]]
 - [[Design Thinking]]

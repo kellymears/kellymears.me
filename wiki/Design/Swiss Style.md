@@ -28,8 +28,8 @@ Critics found it cold and formulaic, and later movements reacted against it. Pos
 Its influence on screen design is direct. The flat design that replaced [[Skeuomorphism]] in the early 2010s drew openly on Swiss principles: grids, sans-serif type, flat color, and content over ornament. Responsive web layouts, column grids, and spacing scales all descend from the same habits, and a modern [[Design System]] encodes much the same discipline as reusable rules. Its emphasis on legibility, structure, and consistent alignment also supports [[Accessibility]], and its grouping by alignment and proximity reflects the [[Gestalt Principles]]. Precise spacing between letters, through careful [[Kerning]], was part of the craft, and comfortable [[Line Length]] was a given.
 
 ## See also
-- [[Generative Art]]
-- [[Transit Map]]
-- [[Logo]]
+- [[Art Deco]]
+- [[Memphis Group]]
+- [[Helvetica]]
 - [[Paper Size]]
 - [[Text Justification]]

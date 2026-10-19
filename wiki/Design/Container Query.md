@@ -23,7 +23,7 @@ Where they are not yet practical, the honest fallback is to make components tole
 - [[Headless Component]]
 - [[Design Token]]
 - [[Typographic Scale]]
-- [[Silent Failure]]
+- [[Bento Grid]]
 - [[Line Length]]
 - [[Intersection Observer]]
 - [[CSS Grid]]

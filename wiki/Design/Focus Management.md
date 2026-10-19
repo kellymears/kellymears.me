@@ -30,7 +30,7 @@ Component tests can catch a lot of this, provided the test harness reproduces th
 ## Related
 - [[Sticky Header]]
 - [[Popover API]]
-- [[Single-Page Application]]
-- [[Modal Dialog]]
+- [[Bottom Sheet]]
+- [[Focus Indicator]]
 - [[Toast Notification]]
 - [[Form Design]]

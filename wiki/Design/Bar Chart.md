@@ -27,7 +27,7 @@ Decoration hurts more here than almost anywhere. Three-dimensional bars, shadows
 Bar charts summarize, and can hide what they summarize. A bar showing an average, with an error bar, conceals the spread and shape of the data behind it, which statisticians have criticized as a "dynamite plot"; see [[Box Plot]]. For a distribution of a single measurement, bars of counts become a histogram, a different chart with different rules; see [[Histogram]].
 
 ## See also
-- [[Scatter Plot]]
+- [[Bullet Graph]]
 - [[Benford's Law]]
 - [[Line Chart]]
 - [[Radar Chart]]

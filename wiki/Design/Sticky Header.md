@@ -32,3 +32,4 @@ The design question is whether persistent access outweighs the space it occupies
 ## See also
 - [[Above the Fold]]
 - [[Breadcrumb]]
+- [[Focus Indicator]]

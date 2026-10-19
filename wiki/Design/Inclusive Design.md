@@ -34,4 +34,4 @@ The common objection is cost, but inclusive decisions are cheap when made early 
 - [[Alt Text]]
 - [[Persona]]
 - [[Closed Captions]]
-- [[Signifier]]
+- [[Focus Indicator]]

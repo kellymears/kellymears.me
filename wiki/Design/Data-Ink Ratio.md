@@ -32,7 +32,7 @@ The durable lesson is to make every mark justify itself. Each element of a chart
 ## See also
 - [[Line Chart]]
 - [[Pie Chart]]
-- [[Infographic]]
+- [[Bullet Graph]]
 - [[Radar Chart]]
 - [[Transit Map]]
 - [[Box Plot]]

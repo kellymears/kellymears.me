@@ -31,7 +31,7 @@ For designers, the practical upshot is to invest in aesthetics, test early with 
 
 ## See also
 - [[Golden Ratio]]
-- [[Dieter Rams]]
-- [[Visual Hierarchy]]
+- [[Kano Model]]
+- [[Memphis Group]]
 - [[Skeuomorphism]]
-- [[Processing Fluency]]
+- [[Frutiger Aero]]

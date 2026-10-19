@@ -40,5 +40,5 @@ Observers are cheap, not free: thousands of targets or many thresholds still cos
 ## See also
 - [[Scroll-Driven Animations]]
 - [[Virtual Scrolling]]
-- [[requestAnimationFrame]]
+- [[Masonry Layout]]
 - [[Sticky Header]]

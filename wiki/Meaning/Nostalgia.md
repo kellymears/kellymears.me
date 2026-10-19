@@ -14,10 +14,10 @@ Nostalgia is worth distinguishing from simple sentimentality about old things an
 ## See also
 - [[Affine Texture Mapping]]
 - [[Mood-Congruent Memory]]
-- [[Parasocial Relationship]]
+- [[Art Deco]]
 - [[Terror Management Theory]]
-- [[Context-Dependent Memory]]
-- [[False Memory]]
+- [[Memphis Group]]
+- [[Frutiger Aero]]
 - [[Cozy Game]]
 - [[Mere-Exposure Effect]]
 - [[Awe]]

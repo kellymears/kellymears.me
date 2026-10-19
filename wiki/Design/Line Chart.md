@@ -29,6 +29,6 @@ Removing gridlines, borders, and markers that carry no information usually helps
 ## See also
 - [[Scatter Plot]]
 - [[Data Journalism]]
-- [[Spreadsheet]]
+- [[Bullet Graph]]
 - [[Control Chart]]
 - [[Timeline]]

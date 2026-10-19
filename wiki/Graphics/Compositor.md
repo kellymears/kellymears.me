@@ -32,7 +32,7 @@ Browsers use the same idea inside a page. Elements that animate `transform` or `
 - [[Web Animations API]]
 - [[High Dynamic Range]]
 - [[Background Tab Throttling]]
-- [[Alpha Compositing]]
+- [[Frutiger Aero]]
 - [[Browser Engine]]
 - [[Blend Mode]]
 - [[Swap Chain]]

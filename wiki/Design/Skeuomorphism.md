@@ -14,16 +14,16 @@ The reaction was flat design (iOS 7, Material Design's first version), which str
 Skeuomorphism is the clearest historical case study for [[Affordance]] because it makes the mechanism visible — it borrowed a physical object's affordance on purpose, then had to give it up once the borrowed familiarity stopped paying rent.
 
 ## See also
-- [[Pull-to-Refresh]]
-- [[Glassmorphism]]
-- [[Flat Design]]
+- [[Bullet Graph]]
+- [[Frutiger Aero]]
+- [[Memphis Group]]
 - [[Natural Mapping]]
 
 ## Related
 - [[Conceptual Metaphor]]
 - [[Diegetic Interface]]
 - [[Slider]]
-- [[Aesthetic-Usability Effect]]
+- [[Art Deco]]
 - [[Form Follows Function]]
 - [[Toggle Switch]]
 - [[Retronym]]

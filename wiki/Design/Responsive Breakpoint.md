@@ -27,9 +27,9 @@ Three practical notes recur.
 ## Related
 - [[Logo]]
 - [[Responsive Web Design]]
-- [[Test Fixture]]
+- [[Bento Grid]]
 - [[Paper Size]]
-- [[Stacking Context]]
+- [[Bottom Sheet]]
 - [[Touch Target Size]]
 - [[Line Length]]
 - [[Sticky Header]]

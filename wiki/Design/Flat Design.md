@@ -26,6 +26,6 @@ Later fashions pushed further in each direction. **Neumorphism** (around 2020) r
 The underlying lesson is that style and usability are separable concerns. Any visual style can work if it keeps clear cues for interaction, consistent hierarchy, and sufficient contrast; see [[Visual Hierarchy]]. Flat design succeeded where it kept those cues and failed where it treated them as decoration; see [[Aesthetic-Usability Effect]].
 
 ## See also
-- [[Form Follows Function]]
-- [[Logo]]
-- [[Glassmorphism]]
+- [[Frutiger Aero]]
+- [[Art Deco]]
+- [[Memphis Group]]

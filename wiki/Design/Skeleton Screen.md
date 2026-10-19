@@ -31,7 +31,7 @@ Skeletons are one tool among several for making interfaces feel fast. [[Optimist
 
 ## See also
 - [[Layout Shift]]
-- [[Optimistic UI]]
+- [[Masonry Layout]]
 - [[Lorem Ipsum]]
 - [[Empty State]]
 - [[Wireframe]]

@@ -28,3 +28,4 @@ Knapsack once anchored a cryptosystem. The Merkle-Hellman scheme (1978) hid mess
 - [[Simulated Annealing]]
 - [[Boolean Satisfiability Problem]]
 - [[Approximation Algorithm]]
+- [[Masonry Layout]]

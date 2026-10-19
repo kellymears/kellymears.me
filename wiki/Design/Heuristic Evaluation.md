@@ -37,4 +37,4 @@ That is why heuristic evaluation complements [[Usability Testing]] rather than r
 - [[Command Palette]]
 - [[Principle of Least Astonishment]]
 - [[Design Thinking]]
-- [[Error Message]]
+- [[Kano Model]]

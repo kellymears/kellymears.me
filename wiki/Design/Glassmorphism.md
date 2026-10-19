@@ -27,5 +27,5 @@ Real frosted glass scatters light at a roughened surface, so the transmitted ima
 The style follows a pattern visible across interface history: a reaction against flatness brings back depth, and a reaction against excess depth flattens things again. Each swing tends to begin with an effect and end with the legibility fixes the effect required.
 
 ## See also
-- [[Dark Mode]]
-- [[Brutalist Web Design]]
+- [[Memphis Group]]
+- [[Frutiger Aero]]

@@ -23,7 +23,7 @@ Some designers have used it on purpose. Le Corbusier built his Modulor system of
 That is the practical lesson. Ratios like 3:2, 4:3, or the √2 of A4 paper serve as well, and a page of type is governed far more by [[Line Length]] and [[White Space]] than by any special number. Claims that a logo was "built on the golden ratio" usually describe circles overlaid after the fact.
 
 ## See also
-- [[Visual Hierarchy]]
+- [[Art Deco]]
 - [[Aesthetic-Usability Effect]]
 - [[Bauhaus]]
 - [[Paper Size]]

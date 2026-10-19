@@ -24,7 +24,7 @@ Interface design shapes which one fits. Numbered pages suit search results where
 ## See also
 - [[Collation]]
 - [[Data Table]]
-- [[Doomscrolling]]
+- [[Masonry Layout]]
 - [[Pull-to-Refresh]]
 - [[Optimistic Locking]]
 - [[N+1 Query Problem]]

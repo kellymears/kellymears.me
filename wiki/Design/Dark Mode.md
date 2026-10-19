@@ -18,7 +18,7 @@ Two practical notes. Because the common implementation toggles a class on the ro
 - [[OLED]]
 - [[CSS Custom Property]]
 - [[Scoped Styling]]
-- [[OKLCH]]
+- [[Focus Indicator]]
 
 ## Related
 - [[Utility-First CSS]]

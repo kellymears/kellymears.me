@@ -13,7 +13,7 @@ The axes are just numbers on a defined range: `wght` (weight) commonly runs 100â
 The design payoff beyond file size is that weight and width become animatable and responsive rather than fixed choices baked in at build time: a heading can nudge two points heavier on hover, or a design token can compute `wght` from viewport width the same way a [[Typographic Scale]] computes size from it. That turns typography from a small palette of discrete choices into a continuous parameter, which is also why variable fonts pair naturally with motion work â€” animating between two static weights used to mean a cross-fade or a jarring cut; a variable font can genuinely interpolate the letterforms.
 
 ## See also
-- [[Typographic Scale]]
+- [[Helvetica]]
 - [[Kerning]]
 - [[Design Token]]
 - [[Motion Design]]

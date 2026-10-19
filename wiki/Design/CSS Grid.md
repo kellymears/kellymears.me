@@ -36,8 +36,9 @@ The common rule of thumb is that grid works *layout-in*: you design the structur
 Grids also support visual order beyond layout. Aligning elements to shared lines is one of the strongest grouping cues in [[Gestalt Principles]], and repeated consistent grids are how [[Small Multiples]] stay comparable.
 
 ## See also
-- [[Visual Hierarchy]]
+- [[Masonry Layout]]
 - [[White Space]]
 - [[Tiling Window Manager]]
 - [[Responsive Web Design]]
 - [[Data Table]]
+- [[Bento Grid]]

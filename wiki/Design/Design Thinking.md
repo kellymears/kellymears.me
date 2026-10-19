@@ -35,3 +35,4 @@ Used well, it is less a procedure than a set of habits: talk to the people affec
 - [[Five Whys]]
 - [[Wicked Problem]]
 - [[Affinity Diagram]]
+- [[Kano Model]]

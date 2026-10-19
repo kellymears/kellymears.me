@@ -23,7 +23,7 @@ Two practical notes. Build tools that self-host fonts commonly hash the family n
 
 ## Related
 - [[Code Splitting]]
-- [[Silent Failure]]
+- [[Helvetica]]
 - [[Server-Side Rendering]]
 - [[Module Graph]]
 - [[Line Length]]

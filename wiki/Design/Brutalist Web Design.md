@@ -28,7 +28,7 @@ Harsh colors and clashing text can fail people with low vision; see [[Color Cont
 The impulse continues among personal websites built by hand; see [[IndieWeb]].
 
 ## See also
-- [[Swiss Style]]
+- [[Memphis Group]]
 - [[Bauhaus]]
 - [[Ricing]]
 - [[Glassmorphism]]

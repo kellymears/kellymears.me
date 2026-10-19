@@ -35,5 +35,5 @@ Color is a weak channel for precise values, as rankings of [[Preattentive Proces
 - [[Bar Chart]]
 - [[Rainbow]]
 - [[Treemap]]
-- [[Weber-Fechner Law]]
+- [[Bullet Graph]]
 - [[Choropleth Map]]

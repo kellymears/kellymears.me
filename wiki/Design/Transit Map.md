@@ -30,3 +30,4 @@ The diagram's influence reaches far beyond trains: network diagrams, flowcharts,
 - [[Sankey Diagram]]
 - [[Color Theory]]
 - [[Infographic]]
+- [[Helvetica]]

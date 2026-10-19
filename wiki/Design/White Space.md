@@ -29,6 +29,6 @@ The main failure is too little space, which makes a page feel cluttered and make
 
 ## See also
 - [[Drop Cap]]
-- [[Dieter Rams]]
+- [[Bento Grid]]
 - [[Paper Size]]
 - [[Text Justification]]

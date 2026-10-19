@@ -22,3 +22,5 @@ Together these features replace much of what component libraries shipped as scri
 ## See also
 - [[Focus Management]]
 - [[Hamburger Menu]]
+- [[Bottom Sheet]]
+- [[Focus Indicator]]

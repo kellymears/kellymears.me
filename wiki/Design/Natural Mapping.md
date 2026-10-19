@@ -25,7 +25,7 @@ Mapping also connects to speed. Controls placed near what they affect are easier
 
 ## See also
 - [[Affordance]]
-- [[Skeuomorphism]]
+- [[Bullet Graph]]
 - [[Toggle Switch]]
 - [[Slider]]
 - [[Principle of Least Astonishment]]

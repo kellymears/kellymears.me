@@ -27,6 +27,6 @@ Measure [[Line Length|line length]] too. Readability falls off sharply beyond ro
 - [[Logarithmic Scale]]
 - [[Golden Ratio]]
 - [[Paper Size]]
-- [[Swiss Style]]
+- [[Helvetica]]
 - [[Optical Alignment]]
 - [[Typeface]]

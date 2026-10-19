@@ -28,7 +28,7 @@ Newsrooms now also build interactive and scrolling versions, combining reporting
 
 ## See also
 - [[Venn Diagram]]
-- [[Swiss Style]]
-- [[Attention Economy]]
+- [[Art Deco]]
+- [[Memphis Group]]
 - [[Flowchart]]
-- [[Timeline]]
+- [[Bullet Graph]]

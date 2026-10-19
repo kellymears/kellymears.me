@@ -27,8 +27,8 @@ A coherent icon set follows shared rules:
 Web icons moved from image sprites to **icon fonts**, which scaled but broke accessibility and showed missing-glyph boxes when the font failed, to inline SVG, now standard, since [[Vector Graphics]] scale, take CSS styling, and carry accessible names. An icon is a signifier in the sense of [[Affordance]]: it promises what will happen, and it only works if the promise is understood.
 
 ## See also
-- [[Wayfinding]]
-- [[Drop Cap]]
+- [[Art Deco]]
+- [[Memphis Group]]
 - [[Favicon]]
-- [[Logo]]
+- [[Helvetica]]
 - [[Emoji]]
