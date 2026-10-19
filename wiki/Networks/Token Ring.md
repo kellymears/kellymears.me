@@ -27,3 +27,4 @@ The contest is a standard example of a simpler, cheaper, good-enough technology 
 - [[ALOHAnet]]
 - [[Spanning Tree Protocol]]
 - [[Network Topology]]
+- [[Peterson's Algorithm]]

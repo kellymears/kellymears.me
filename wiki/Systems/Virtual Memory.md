@@ -29,4 +29,4 @@ The same design appears wherever a fixed pool has to be shared among variable de
 - [[Control Groups]]
 - [[Position-Independent Code]]
 - [[Memory Allocator]]
-- [[Page Cache]]
+- [[Tagged Pointer]]

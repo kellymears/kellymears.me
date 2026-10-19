@@ -16,7 +16,7 @@ The trade-off is a small amount of load imbalance even with virtual nodes — th
 ## See also
 - [[Hash Function]]
 - [[Hash Table]]
-- [[Cache Invalidation]]
+- [[Perfect Hashing]]
 - [[Least Recently Used Cache]]
 - [[Database Sharding]]
 - [[Key-Value Store]]

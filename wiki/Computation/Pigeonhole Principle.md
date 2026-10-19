@@ -29,5 +29,5 @@ Arguments like these show that impossibility can often be proved by counting alo
 
 ## See also
 - [[De Bruijn Sequence]]
-- [[Consistent Hashing]]
+- [[Perfect Hashing]]
 - [[Cuckoo Hashing]]

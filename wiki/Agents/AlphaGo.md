@@ -31,3 +31,4 @@ AlphaGo is often cited as evidence for the [[Bitter Lesson]], since learning and
 - [[Elo rating]]
 - [[Moravec's Paradox]]
 - [[World Model]]
+- [[Alpha-Beta Pruning]]

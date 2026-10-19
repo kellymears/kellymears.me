@@ -26,7 +26,7 @@ Cantor's work met fierce resistance. Leopold Kronecker, among others, rejected c
 
 ## See also
 - [[Binary Number]]
-- [[Information Theory]]
+- [[Space-Filling Curve]]
 - [[Kolmogorov Complexity]]
 - [[Prime Number]]
 - [[Russell's Paradox]]

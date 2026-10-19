@@ -30,8 +30,8 @@ Graph coloring shows a common pattern in computing: a problem that's intractable
 
 ## See also
 - [[Wave Function Collapse]]
-- [[Zero-Knowledge Proof]]
+- [[Approximation Algorithm]]
 - [[Union-Find]]
-- [[Sudoku]]
+- [[Stack Machine]]
 - [[Maximum Flow]]
 - [[Seven Bridges of Königsberg]]

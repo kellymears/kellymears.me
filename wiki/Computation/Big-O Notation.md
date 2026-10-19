@@ -19,7 +19,7 @@ It is a vocabulary for reasoning, not a measurement. Treating it as a proxy for 
 ## See also
 - [[Convex Hull]]
 - [[Ackermann Function]]
-- [[Arbitrary-Precision Arithmetic]]
-- [[Suffix Array]]
+- [[Alpha-Beta Pruning]]
+- [[Strassen Algorithm]]
 - [[Radix Sort]]
 - [[Tower of Hanoi]]

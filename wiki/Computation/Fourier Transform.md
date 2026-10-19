@@ -25,6 +25,6 @@ The **fast Fourier transform** made all this practical on computers. A direct co
 The transform also reveals a fundamental trade-off. A signal concentrated in time is spread out in frequency, and the reverse. A short click contains many frequencies. A pure tone must last a long time. Wavelets were developed partly to balance that trade-off.
 
 ## See also
-- [[Simple Harmonic Motion]]
+- [[Strassen Algorithm]]
 - [[Universal Approximation Theorem]]
 - [[Web Audio API]]

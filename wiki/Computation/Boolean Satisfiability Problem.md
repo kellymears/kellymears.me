@@ -26,6 +26,6 @@ Because solvers are so good, many problems are solved by translating them into S
 Local search methods, which flip variables to reduce the number of unsatisfied clauses, work well on some random instances; see [[Simulated Annealing]]. Procedural generators that fill grids under constraints solve closely related problems; see [[Wave Function Collapse]].
 
 ## See also
-- [[Zero-Knowledge Proof]]
+- [[Approximation Algorithm]]
 - [[Logic Programming]]
 - [[Knapsack Problem]]

@@ -32,3 +32,4 @@ The technique is a good example of a common algorithmic move: giving each item a
 ## See also
 - [[Consistent Hashing]]
 - [[Birthday Problem]]
+- [[Perfect Hashing]]

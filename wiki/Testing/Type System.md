@@ -32,5 +32,5 @@ The research frontier pushes types closer to full proofs. [[Type Inference]] rem
 ## See also
 - [[Russell's Paradox]]
 - [[Dependent Types]]
-- [[Mars Climate Orbiter]]
+- [[Tagged Pointer]]
 - [[Gimli Glider]]

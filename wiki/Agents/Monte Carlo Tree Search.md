@@ -28,6 +28,6 @@ Its success with Go is a leading example of a general method that improves with 
 ## See also
 - [[A-Star Search Algorithm]]
 - [[AlphaGo]]
-- [[World Model]]
+- [[Alpha-Beta Pruning]]
 - [[Deep Blue]]
 - [[Elo Rating System]]

@@ -13,7 +13,7 @@ Because the cause is instrumentation rather than laziness, the fix is rarely "lo
 
 ## See also
 - [[Law of the Instrument]]
-- [[Silent Failure]]
+- [[Random Walk]]
 - [[Truncation Bias]]
 - [[Fermi Estimation]]
 - [[Smoke Point]]

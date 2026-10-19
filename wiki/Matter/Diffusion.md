@@ -28,7 +28,7 @@ Diffusion depends on temperature, since warmer particles move faster, and on the
 The idea extends beyond physics. Generative [[Diffusion Model]]s in machine learning learn to reverse a process of gradually adding noise. Ideas and technologies are said to diffuse through populations, a looser analogy, like rumors in a [[Gossip Protocol]].
 
 ## See also
-- [[Solubility]]
+- [[Random Walk]]
 - [[Work Hardening]]
 - [[Henry's Law]]
 - [[Steel]]

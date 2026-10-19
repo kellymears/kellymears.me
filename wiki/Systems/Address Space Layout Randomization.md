@@ -24,7 +24,7 @@ ASLR's weakness is the *information leak*. A single bug that reveals one pointer
 ASLR is therefore one layer among several. **Stack canaries** place a random value before the return address and abort if it changes. Control-flow integrity restricts indirect jumps to valid targets, and hardware shadow stacks keep a protected copy of return addresses. The kernel randomizes its own layout as KASLR. Each mitigation raises the cost of an exploit rather than removing the bug, which is why [[Fuzzing]], [[Sanitizer]] builds, and memory-safe languages attack the cause instead. The idea fits [[Least Privilege]]: assume something will break, and limit what the break can reach.
 
 ## See also
-- [[Memory Safety]]
+- [[Tagged Pointer]]
 - [[Call Stack]]
 - [[Virtual Memory]]
 - [[Penetration Testing]]

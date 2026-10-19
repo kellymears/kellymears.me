@@ -33,4 +33,4 @@ Outside computing, greedy choices explain a lot of [[Path Dependence]]: each loc
 - [[Maximum Flow]]
 - [[Minimum Spanning Tree]]
 - [[Knapsack Problem]]
-- [[No Free Lunch Theorem]]
+- [[Approximation Algorithm]]

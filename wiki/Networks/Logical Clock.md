@@ -30,7 +30,7 @@ Version control already lives by these ideas. A commit graph is a happens-before
 
 ## See also
 - [[Local-First Software]]
-- [[Unix Time]]
+- [[Peterson's Algorithm]]
 - [[Monotonic Clock]]
 - [[Distributed SQL]]
 - [[Distributed Lock]]

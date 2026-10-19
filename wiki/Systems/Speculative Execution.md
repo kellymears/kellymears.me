@@ -28,5 +28,5 @@ Variants have kept appearing, many involving [[Simultaneous Multithreading]], wh
 - [[Cross-Origin Isolation]]
 - [[Address Space Layout Randomization]]
 - [[Rowhammer]]
-- [[Just-in-Time Compilation]]
+- [[RSA]]
 - [[Data Deduplication]]

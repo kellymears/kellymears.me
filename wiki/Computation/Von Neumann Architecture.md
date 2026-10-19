@@ -24,4 +24,4 @@ Modern processors look sequential to programmers but aren't inside. They decode 
 ## See also
 - [[Flowchart]]
 - [[Punched Card]]
-- [[SIMD]]
+- [[Stack Machine]]

@@ -29,6 +29,6 @@ Location data is among the most revealing kinds of [[Personal Data]]. A 2013 stu
 
 ## See also
 - [[Time Series Database]]
-- [[Data Visualization]]
+- [[Space-Filling Curve]]
 - [[Geocoding]]
 - [[Gerrymandering]]

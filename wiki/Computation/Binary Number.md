@@ -28,5 +28,5 @@ Product barcodes encode it too, in dark and light modules; see [[Barcode]].
 ## See also
 - [[De Bruijn Sequence]]
 - [[Analytical Engine]]
-- [[Radix Sort]]
-- [[Gray Code]]
+- [[Space-Filling Curve]]
+- [[Tagged Pointer]]

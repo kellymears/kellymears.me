@@ -28,6 +28,6 @@ The same idea scales up to whole distributed systems, which run every node, netw
 Concurrency bugs that slip through tend to surface as intermittently failing tests; see [[Flaky Test]] and [[Deadlock]].
 
 ## See also
-- [[Property-Based Testing]]
+- [[Peterson's Algorithm]]
 - [[Logical Clock]]
 - [[Northeast Blackout of 2003]]

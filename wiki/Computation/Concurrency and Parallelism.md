@@ -21,7 +21,7 @@ The practical upshot is that solving a slowdown requires diagnosing which one is
 - [[Memory Model]]
 - [[Moore's Law]]
 - [[Prefix Sum]]
-- [[Coroutine]]
+- [[Peterson's Algorithm]]
 - [[SIMD]]
 - [[Amdahl's Law]]
 - [[Clock Signal]]

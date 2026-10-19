@@ -28,7 +28,7 @@ The most effective strategy so far has been writing *new* code in memory-safe la
 ## See also
 - [[Memory Allocator]]
 - [[Heartbleed]]
-- [[Cloudbleed]]
+- [[Tagged Pointer]]
 - [[Morris Worm]]
 - [[Abstract Interpretation]]
 - [[Von Neumann Architecture]]

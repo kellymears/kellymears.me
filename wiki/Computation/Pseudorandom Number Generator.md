@@ -27,6 +27,6 @@ Games show both sides. Players exploit predictable generators through *RNG manip
 In testing, randomness drives [[Property-Based Testing]] and [[Fuzzing]], and recording the seed turns a random failure into a reproducible one.
 
 ## See also
-- [[Debian OpenSSL Bug]]
-- [[Prime Number]]
-- [[One-Time Pad]]
+- [[RSA]]
+- [[Perfect Hashing]]
+- [[Random Walk]]

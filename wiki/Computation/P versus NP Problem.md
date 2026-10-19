@@ -28,9 +28,9 @@ Small changes can cross the line. Finding the shortest path in a graph is easy, 
 
 ## See also
 - [[Stable Matching]]
-- [[Sudoku]]
+- [[Approximation Algorithm]]
 - [[Traveling Salesman Problem]]
-- [[Graph Coloring]]
+- [[RSA]]
 - [[Prime Number]]
 - [[Boolean Satisfiability Problem]]
 - [[Knapsack Problem]]

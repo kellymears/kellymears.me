@@ -37,3 +37,4 @@ Finding cycles requires a [[Graph Traversal]] from known roots, which is exactly
 - [[Copy-on-Write]]
 - [[Immutability]]
 - [[Ownership and Borrowing]]
+- [[Tagged Pointer]]

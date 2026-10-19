@@ -26,3 +26,4 @@ Gray codes protect against one kind of error, ambiguity during a transition, not
 - [[Single-Event Upset]]
 - [[Determinism]]
 - [[De Bruijn Sequence]]
+- [[Space-Filling Curve]]

@@ -41,3 +41,4 @@ Many other problems can be posed as a shortest path through a space of states, i
 - [[Traveling Salesman Problem]]
 - [[Monte Carlo Tree Search]]
 - [[Flood Fill]]
+- [[Alpha-Beta Pruning]]

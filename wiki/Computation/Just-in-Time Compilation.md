@@ -36,5 +36,5 @@ These trade-offs drove alternatives. [[WebAssembly]] ships pre-compiled, lower-l
 - [[PHP]]
 - [[JavaScript]]
 - [[Metaprogramming]]
-- [[Browser Wars]]
-- [[Position-Independent Code]]
+- [[Stack Machine]]
+- [[Tagged Pointer]]

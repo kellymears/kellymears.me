@@ -25,7 +25,7 @@ Superhuman doesn't mean robust. In 2023, researchers trained an adversary that f
 The idea extends well beyond board and video games. A [[Generative Adversarial Network]] pits a generator against a discriminator in a similar loop. Language model research uses models that generate problems for one another, or debate, to create training signal without human labels; see [[Synthetic Data]].
 
 ## See also
-- [[World Model]]
+- [[Alpha-Beta Pruning]]
 - [[AlphaGo]]
 - [[Solved Game]]
 - [[Curriculum Learning]]

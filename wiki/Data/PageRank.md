@@ -22,5 +22,5 @@ The method spread well beyond the web. Variants rank scientific papers, find inf
 
 ## See also
 - [[Canonical URL]]
-- [[Sitemap]]
+- [[Random Walk]]
 - [[Hybrid Search]]

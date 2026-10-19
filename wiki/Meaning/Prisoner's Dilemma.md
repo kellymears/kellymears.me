@@ -28,7 +28,7 @@ The model has critics. Real people cooperate more than the theory predicts in on
 
 ## See also
 - [[Linear Programming]]
-- [[Duverger's Law]]
+- [[Alpha-Beta Pruning]]
 - [[BitTorrent]]
 - [[Blockchain]]
 - [[Dominant Strategy]]

@@ -20,7 +20,7 @@ An interpreter also changes where errors surface: a type or name error in a bran
 - [[Lexical Scope]]
 - [[Common Gateway Interface]]
 - [[PHP]]
-- [[WebAssembly]]
+- [[Stack Machine]]
 - [[Dynamic Dispatch]]
 - [[Just-in-Time Compilation]]
 - [[Shebang]]

@@ -29,6 +29,6 @@ Solving a game rarely ends people's interest in it. Human players can't execute 
 ## See also
 - [[Dominant Strategy]]
 - [[Sudoku]]
-- [[Bushnell's Law]]
+- [[Alpha-Beta Pruning]]
 - [[Deep Blue]]
 - [[Poker]]

@@ -31,6 +31,6 @@ Hardware support appeared in some processors, but at least one major implementat
 In most mainstream languages, STM lost out to other models: [[Lock-Free Data Structure]]s for hot paths, message passing to avoid shared state entirely, and databases for transactional state; see [[Actor Model]] and [[Communicating Sequential Processes]].
 
 ## See also
-- [[Concurrency and Parallelism]]
+- [[Peterson's Algorithm]]
 - [[Memory Model]]
 - [[Isolation Level]]

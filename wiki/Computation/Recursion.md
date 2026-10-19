@@ -15,9 +15,9 @@ Recursion is the natural fit for anything with a recursive shape in the data its
 
 ## See also
 - [[Common Table Expression]]
-- [[Flood Fill]]
+- [[Strassen Algorithm]]
 - [[Dependent Types]]
-- [[Fractal]]
+- [[Space-Filling Curve]]
 - [[Logic Programming]]
 - [[Cantor's Diagonal Argument]]
 - [[Fibonacci Sequence]]

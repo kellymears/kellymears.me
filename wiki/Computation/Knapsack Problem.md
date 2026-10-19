@@ -27,3 +27,4 @@ Knapsack once anchored a cryptosystem. The Merkle-Hellman scheme (1978) hid mess
 - [[Traveling Salesman Problem]]
 - [[Simulated Annealing]]
 - [[Boolean Satisfiability Problem]]
+- [[Approximation Algorithm]]

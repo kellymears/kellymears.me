@@ -32,5 +32,5 @@ Lessons often drawn:
 - **Watchdogs turn hangs into restarts**, which kept the mission alive.
 
 ## See also
-- [[Apollo 11 Program Alarms]]
+- [[Peterson's Algorithm]]
 - [[Record and Replay]]

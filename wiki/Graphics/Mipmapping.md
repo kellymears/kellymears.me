@@ -22,7 +22,7 @@ Filtering sits on top of the level choice:
 The same idea appears elsewhere. [[Level of Detail]] is mipmapping for geometry. [[Responsive Images]] on the web serve the right resolution for the display instead of shrinking a huge image in the browser. Virtual texturing and streaming systems treat the mip chain as a cache hierarchy, loading only the levels a view actually needs. [[Temporal Upscaling]] complicates the picture: rendering at a lower internal resolution and reconstructing upward means textures must be sampled with a bias toward sharper mip levels, or the output looks soft.
 
 ## See also
-- [[Aliasing]]
+- [[Space-Filling Curve]]
 - [[Map Projection]]
 - [[Texture Compression]]
 - [[Memoization]]

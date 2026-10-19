@@ -35,5 +35,5 @@ Data races are notoriously hard to find. They depend on timing, so they appear a
 
 ## See also
 - [[Systematic Concurrency Testing]]
-- [[Cache Coherence]]
+- [[Peterson's Algorithm]]
 - [[Futex]]

@@ -28,8 +28,8 @@ Simulated annealing became a standard tool for problems where exact methods are 
 It belongs to a family of *metaheuristics*, general search strategies that include tabu search and genetic algorithms. Its central idea, a temperature that controls how much randomness is allowed, also appears in [[Temperature Sampling]] for language models, where higher temperatures likewise accept less likely choices. The physical picture underneath, systems settling into low-energy states, connects it to [[Entropy]] and [[Phase Transition|phase transitions]].
 
 ## See also
-- [[Newton's Method]]
+- [[Approximation Algorithm]]
 - [[Linear Programming]]
 - [[Work Hardening]]
 - [[Knapsack Problem]]
-- [[Hopfield Network]]
+- [[Random Walk]]

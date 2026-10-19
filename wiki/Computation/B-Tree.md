@@ -17,7 +17,7 @@ The self-balancing part matters as much as the fan-out: an insert that overflows
 - [[Write-Ahead Logging]]
 - [[SQLite]]
 - [[Bounding Volume Hierarchy]]
-- [[Database Index]]
+- [[Space-Filling Curve]]
 - [[Universally Unique Identifier]]
 - [[Log-Structured Merge Tree]]
 - [[Query Planner]]

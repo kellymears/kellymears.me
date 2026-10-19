@@ -27,6 +27,6 @@ Real-time systems avoid spinning because it makes delays unpredictable; Linux's 
 
 ## See also
 - [[Semaphore]]
-- [[Deadlock]]
+- [[Peterson's Algorithm]]
 - [[Memory Allocator]]
 - [[Futex]]

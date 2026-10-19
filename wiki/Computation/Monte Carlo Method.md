@@ -28,7 +28,7 @@ Results are only as good as the randomness and the model. A weak [[Pseudorandom 
 
 ## See also
 - [[Quantum Computing]]
-- [[Monte Carlo Tree Search]]
-- [[Bootstrap Resampling]]
+- [[Approximation Algorithm]]
+- [[Random Walk]]
 - [[Zero-Knowledge Proof]]
 - [[AlphaGo]]

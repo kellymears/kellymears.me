@@ -32,6 +32,6 @@ Wasm does not replace JavaScript. It joins it as a second target, and a [[Bundle
 
 ## See also
 - [[Cross-Origin Isolation]]
-- [[Origin Private File System]]
+- [[Stack Machine]]
 - [[Web Audio API]]
 - [[WebGPU]]

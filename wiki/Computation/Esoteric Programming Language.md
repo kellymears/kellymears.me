@@ -29,7 +29,7 @@ Their value goes beyond play: stripping out readable syntax, named variables, an
 
 ## See also
 - [[Compiler]]
-- [[Kernighan's Law]]
+- [[Stack Machine]]
 - [[Analytical Engine]]
 - [[Collatz Conjecture]]
 - [[Assembly Language]]

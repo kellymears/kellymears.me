@@ -23,7 +23,7 @@ Applications include airline crew scheduling, freight routing, refinery blending
 
 ## See also
 - [[Newton's Method]]
-- [[Gradient Descent]]
+- [[Approximation Algorithm]]
 - [[Transformation Matrix]]
 - [[Convex Hull]]
 - [[Maximum Flow]]

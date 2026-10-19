@@ -31,5 +31,5 @@ Projection sits between geometry and pixels. After it, [[Rasterization]] fills t
 - [[Parallax Scrolling]]
 - [[Stereoscopy]]
 - [[Aspect Ratio]]
-- [[NURBS]]
+- [[Strassen Algorithm]]
 - [[Isometric Projection]]

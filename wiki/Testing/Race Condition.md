@@ -26,5 +26,5 @@ The general remedies are to remove the shared resource (separate working copies,
 - [[Systematic Concurrency Testing]]
 
 ## Related
-- [[Database Constraint]]
+- [[Peterson's Algorithm]]
 - [[Gray Code]]

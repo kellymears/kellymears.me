@@ -29,3 +29,4 @@ Exact arithmetic avoids rounding at a cost in speed and memory; see [[Arbitrary-
 - [[Integer Overflow]]
 - [[Physics engine]]
 - [[Newton's Method]]
+- [[Strassen Algorithm]]

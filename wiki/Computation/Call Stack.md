@@ -31,6 +31,6 @@ The stack and the heap are the two basic places a program keeps data. The stack 
 ## See also
 - [[Address Space Layout Randomization]]
 - [[Ackermann Function]]
-- [[Flood Fill]]
+- [[Stack Machine]]
 - [[Continuation]]
 - [[Toyota Unintended Acceleration]]

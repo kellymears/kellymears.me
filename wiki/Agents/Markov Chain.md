@@ -20,7 +20,7 @@ The result is text that is locally fluent and globally incoherent. Each transiti
 - [[Hidden Markov Model]]
 - [[Automatic Speech Recognition]]
 - [[Mechanistic Interpretability]]
-- [[Pretraining]]
+- [[Random Walk]]
 - [[Reinforcement Learning]]
 - [[Recurrent Neural Network]]
 - [[Autocomplete]]
