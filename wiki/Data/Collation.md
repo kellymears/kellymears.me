@@ -37,3 +37,4 @@ Inconsistent collation between layers causes subtle bugs. If an application sort
 - [[Inverted Index]]
 - [[Spreadsheet]]
 - [[Postal Address]]
+- [[Mojibake]]

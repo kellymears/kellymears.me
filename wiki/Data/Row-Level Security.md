@@ -29,7 +29,7 @@ Trade-offs:
 Some backend platforms expose the database directly to browsers and rely entirely on RLS for authorization, typically checking a [[JSON Web Token]] issued at login. There, a missing policy is not a hidden bug but an open door, so policies are best written alongside schema in [[Database Migration]] files and reviewed like code.
 
 ## See also
-- [[Personal Data]]
+- [[Data Masking]]
 - [[Stored Procedure]]
 - [[Zero Trust Network]]
 - [[Database Sharding]]

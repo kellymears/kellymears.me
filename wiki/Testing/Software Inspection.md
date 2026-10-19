@@ -31,3 +31,4 @@ Explaining code line by line to a listener is part of why inspections work, and 
 - [[Pair Programming]]
 - [[Exploratory Testing]]
 - [[Mariner 1]]
+- [[Spreadsheet Error]]

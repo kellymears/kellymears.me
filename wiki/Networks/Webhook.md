@@ -23,4 +23,4 @@ Webhooks are also a poor fit for anything that needs a response mid-transaction 
 - [[Delivery Guarantees]]
 - [[Git Hook]]
 - [[Internet Relay Chat]]
-- [[Hypertext Transfer Protocol]]
+- [[Idempotency Key]]

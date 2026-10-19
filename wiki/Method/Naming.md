@@ -19,7 +19,7 @@ Test names are a special case: they should describe the scenario and the expecte
 - [[Refactoring]]
 - [[Retronym]]
 - [[Semantic Change]]
-- [[Code Review]]
+- [[Slug]]
 - [[Documentation Rot]]
 - [[Chesterton's Fence]]
 - [[Information Architecture]]

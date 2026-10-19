@@ -29,7 +29,7 @@ Checking is harder than it looks. Validators that test whether a value "starts w
 "Unvalidated redirects and forwards" appeared on the influential OWASP Top Ten list of web risks in 2010 and 2013. Bug bounty programs still argue over severity: many rate an open redirect alone as low, but pay well when it is chained into one of the attacks above; see [[Threat Modeling]].
 
 ## See also
-- [[Same-Origin Policy]]
+- [[Canonical URL]]
 - [[Content Security Policy]]
 - [[Internationalized Domain Name]]
 - [[Referrer Policy]]

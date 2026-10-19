@@ -17,3 +17,4 @@ The gap is precisely why write-behind is reached for selectively rather than by 
 - [[ACID]]
 - [[Eventual Consistency]]
 - [[Cache-Aside]]
+- [[In-Memory Database]]

@@ -28,8 +28,8 @@ None of this makes spreadsheets bad tools. They're often the right first version
 
 ## See also
 - [[Tidy Data]]
-- [[CSV]]
-- [[Line Chart]]
+- [[Spreadsheet Error]]
+- [[Mojibake]]
 - [[Heat Map]]
 - [[Virtual Scrolling]]
 - [[Pivot Table]]

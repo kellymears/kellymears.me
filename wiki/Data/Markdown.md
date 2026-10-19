@@ -19,7 +19,7 @@ Two authoring points are worth stating.
 ## See also
 - [[Frontmatter]]
 - [[Static Site Generation]]
-- [[Plain Language]]
+- [[Slug]]
 - [[Wiki]]
 - [[RSS]]
 - [[Subtitling]]

@@ -24,5 +24,5 @@ The defenses are mostly about catching garbage at the door. Validating data wher
 The principle has limits. When the kind of error is known, it can be filtered: error-correcting codes recover messages from noisy channels, and robust statistics tolerate outliers; see [[Error-Correcting Code]]. What no method can recover is information that was never collected or a bias nobody measured.
 
 ## See also
-- [[Replication Crisis]]
-- [[Goodhart's Law]]
+- [[Spreadsheet Error]]
+- [[Mojibake]]

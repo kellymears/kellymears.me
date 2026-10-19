@@ -31,5 +31,5 @@ The pattern accepts that distributed systems can't make several services behave 
 - [[Command Query Responsibility Segregation]]
 - [[Distributed Lock]]
 - [[Idempotence]]
-- [[Eventual Consistency]]
+- [[Idempotency Key]]
 - [[Message Queue]]

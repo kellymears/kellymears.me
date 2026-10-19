@@ -26,3 +26,4 @@ That advice has been tested in recent years. Tools stream SQLite's changes to cl
 ## See also
 - [[Key-Value Store]]
 - [[Backup and Restore]]
+- [[In-Memory Database]]

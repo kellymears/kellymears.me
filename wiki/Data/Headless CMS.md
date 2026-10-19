@@ -29,3 +29,4 @@ Two recurring implementation notes. Content that lives outside the page model â€
 - [[WordPress]]
 - [[Blog]]
 - [[Jamstack]]
+- [[Slug]]

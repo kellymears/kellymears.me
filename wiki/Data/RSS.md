@@ -21,10 +21,10 @@ Because the format is machine-readable and low-friction, it is also a decent gen
 - [[Markdown]]
 
 ## Related
-- [[Server-Side Rendering]]
+- [[iCalendar]]
 - [[Semantic HTML]]
 - [[Frontmatter]]
-- [[Progressive Enhancement]]
+- [[Sitemap]]
 - [[Knowledge Graph]]
 - [[Incremental Static Regeneration]]
 - [[Enshittification]]

@@ -20,7 +20,7 @@ History is also a document. It is the durable answer to *why is this here*, whic
 - [[Three-Way Merge]]
 - [[Git Worktree]]
 - [[Subversion]]
-- [[Monorepo]]
+- [[Spreadsheet Error]]
 - [[Regression]]
 
 ## Related

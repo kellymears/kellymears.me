@@ -35,6 +35,6 @@ Good practice:
 Clean data also isn't the same as correct data. A perfectly formatted dataset can still measure the wrong thing; see [[Ground Truth]].
 
 ## See also
-- [[Mean and Median]]
-- [[Outlier]]
-- [[Data Journalism]]
+- [[Data Dictionary]]
+- [[Mojibake]]
+- [[Spreadsheet Error]]

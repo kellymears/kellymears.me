@@ -25,4 +25,4 @@ The outbox is a building block for larger patterns. A [[Saga Pattern]] uses it t
 - [[Command Query Responsibility Segregation]]
 - [[Idempotence]]
 - [[Audit Log]]
-- [[Durable Execution]]
+- [[Idempotency Key]]

@@ -28,6 +28,6 @@ Scent also explains why [[Recognition Rather Than Recall]] matters for navigatio
 - [[Accordion]]
 - [[Hamburger Menu]]
 - [[Hick's Law]]
-- [[Link Rot]]
+- [[Sitemap]]
 - [[Wayfinding]]
 - [[Eye Tracking]]

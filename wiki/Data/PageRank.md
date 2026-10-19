@@ -21,6 +21,6 @@ Once links determined ranking, links became worth money. Link farms, paid links,
 The method spread well beyond the web. Variants rank scientific papers, find influential accounts in social networks, recommend people to follow, and identify key proteins in biological networks; see [[Recommender System]] and [[Small-World Network]]. Wikis and note graphs use the same idea to surface their most central notes; see [[Backlink]].
 
 ## See also
-- [[Webring]]
-- [[Graph Database]]
+- [[Canonical URL]]
+- [[Sitemap]]
 - [[Hybrid Search]]

@@ -29,4 +29,4 @@ The problem sits beside other impossibility results that shape the field, includ
 - [[Delay-Tolerant Networking]]
 - [[Quorum]]
 - [[Thought Experiment]]
-- [[Blockchain]]
+- [[Idempotency Key]]

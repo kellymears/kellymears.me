@@ -28,3 +28,4 @@ The failure mode to watch for is caching that is not request-aware. A value memo
 - [[Hydration]]
 - [[Client-Server Boundary]]
 - [[Jamstack]]
+- [[Sitemap]]

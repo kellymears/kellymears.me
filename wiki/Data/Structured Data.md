@@ -27,7 +27,7 @@ Two practical cautions.
 
 ## Related
 - [[Entity-Attribute-Value]]
-- [[Static Site Generation]]
+- [[iCalendar]]
 - [[Backlink]]
 - [[Open Graph]]
 - [[Web Crawler]]

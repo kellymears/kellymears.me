@@ -17,7 +17,7 @@ The alternatives trade differently. **LFU** evicts by access count, resisting sc
 Eviction is not [[Cache Invalidation]]: dropping an entry is safe because it can be recomputed, while serving a stale one is a correctness bug and a common [[Silent Failure]]. Since a cache changes timing rather than results, a test that passes only when it is warm is a [[Flaky Test]].
 
 ## See also
-- [[Hash Table]]
+- [[In-Memory Database]]
 - [[Cache Invalidation]]
 - [[Big-O Notation]]
 - [[Instrumentation]]

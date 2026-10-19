@@ -28,3 +28,4 @@ The model has limits. It describes structure but not behavior, so rules like "an
 - [[Ontology]]
 - [[Object-Relational Mapping]]
 - [[Information Architecture]]
+- [[Data Dictionary]]

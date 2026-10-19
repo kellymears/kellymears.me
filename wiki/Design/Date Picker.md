@@ -25,6 +25,6 @@ Small calendar cells are also hard to hit on a phone; see [[Touch Target Size]].
 When a date is invalid, such as February 30 or a return before departure, the message should say what's wrong and how to fix it; see [[Error Message]]. Defaulting to today, or to a sensible nearby date, saves effort when that's the likely answer; see [[Microcopy]].
 
 ## See also
-- [[Slider]]
+- [[iCalendar]]
 - [[Daylight Saving Time]]
 - [[Postal Address]]

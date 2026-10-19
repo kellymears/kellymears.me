@@ -20,8 +20,8 @@ For a page whose content is genuinely fixed, static generation dominates on ever
 - [[Jamstack]]
 - [[WordPress]]
 - [[Islands Architecture]]
-- [[Performance Budget]]
-- [[Cache Invalidation]]
+- [[Slug]]
+- [[Sitemap]]
 - [[RSS]]
 
 ## Related

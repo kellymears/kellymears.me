@@ -30,5 +30,5 @@ Entity resolution also works against privacy. Linking supposedly anonymous recor
 ## See also
 - [[Census]]
 - [[ISBN]]
-- [[Persistent Identifier]]
-- [[Geocoding]]
+- [[Canonical URL]]
+- [[Data Masking]]

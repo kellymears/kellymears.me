@@ -31,6 +31,6 @@ The method has relatives in [[Taxonomy]] work, where controlled vocabularies are
 - [[Gestalt Principles]]
 - [[Recognition Rather Than Recall]]
 - [[Hick's Law]]
-- [[Progressive Disclosure]]
+- [[Sitemap]]
 - [[Persona]]
 - [[Design Thinking]]

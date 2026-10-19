@@ -15,7 +15,7 @@ Replication lag is the source of a specific, easy-to-miss class of bug: a user s
 
 ## See also
 - [[Distributed SQL]]
-- [[Eventual Consistency]]
+- [[In-Memory Database]]
 - [[CAP Theorem]]
 - [[Gossip Protocol]]
 - [[Logical Clock]]

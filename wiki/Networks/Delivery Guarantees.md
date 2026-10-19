@@ -25,7 +25,7 @@ What systems actually achieve is **exactly-once effect**: at-least-once delivery
 Products that advertise exactly-once semantics, such as Kafka's, provide this within their own boundaries, where they control both the log and the consumer's position. The guarantee ends at the boundary: a consumer that charges a card or sends an email outside that transaction is back to at-least-once. A [[Saga Pattern]] and [[Durable Execution]] frameworks build on the same foundation, retrying steps and relying on idempotence to make retries safe. The choice of guarantee also shapes [[Backpressure]] and [[Circuit Breaker]] behavior, since aggressive retries can turn one slow consumer into an overload.
 
 ## See also
-- [[Pigeon Post]]
+- [[Idempotency Key]]
 - [[MQTT]]
 - [[Dead Letter Queue]]
 - [[Pager]]

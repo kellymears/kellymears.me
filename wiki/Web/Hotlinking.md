@@ -29,3 +29,4 @@ Because the hotlinking page doesn't control the file, the original host can chan
 ## See also
 - [[Subresource Integrity]]
 - [[URL]]
+- [[Canonical URL]]

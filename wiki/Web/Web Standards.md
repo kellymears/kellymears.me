@@ -33,7 +33,7 @@ For developers, the practical tools are [[Progressive Enhancement]], building on
 
 ## See also
 - [[JavaScript]]
-- [[HTML]]
+- [[iCalendar]]
 - [[Quirks Mode]]
 - [[Encrypted Media Extensions]]
 - [[Internationalized Domain Name]]

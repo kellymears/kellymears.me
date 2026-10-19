@@ -19,7 +19,7 @@ Durable execution makes some hard patterns ordinary. A workflow can sleep for th
 Before such engines, the same reliability was assembled by hand from a [[Message Queue]], a status column, [[Cron]] jobs that hunt for stuck rows, and an implicit [[Finite State Machine]]. Durable execution makes that state machine explicit and the bookkeeping automatic. [[Background Agent|Long-running agents]] are a natural fit, since an agent run is a long sequence of expensive, failure-prone steps.
 
 ## See also
-- [[Write-Ahead Logging]]
+- [[Idempotency Key]]
 - [[Idempotence]]
 - [[Determinism]]
 - [[Message Queue]]

@@ -31,7 +31,7 @@ Every approach accepts [[Eventual Consistency]]: devices may briefly disagree bu
 In the browser, local-first apps store data in [[Web Storage]] such as IndexedDB, use a [[Service Worker]] to load without a network, and coordinate between tabs through [[Cross-Tab Communication]]. Sync engines handle the rest, sending changes as an ordered log, much as [[Event Sourcing]] does, and tracking causality with a [[Logical Clock]]. Schema changes are harder than on a server, since old clients keep running old code, so [[Schema Evolution]] must be planned carefully.
 
 ## See also
-- [[Database Replication]]
+- [[iCalendar]]
 - [[Distributed Version Control]]
 - [[SQLite]]
 - [[Spreadsheet]]

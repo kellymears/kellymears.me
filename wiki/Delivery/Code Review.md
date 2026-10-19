@@ -16,7 +16,7 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 ## See also
 - [[Definition of Done]]
 - [[Inner Source]]
-- [[Peer Review]]
+- [[Spreadsheet Error]]
 - [[Heartbleed]]
 - [[Software Inspection]]
 - [[Email Patch Workflow]]

@@ -20,7 +20,7 @@ Two lessons repeat.
 - [[Database Migration]]
 - [[Test Fixture]]
 - [[Idempotence]]
-- [[Accessibility]]
+- [[Data Masking]]
 
 ## Related
 - [[Relational Database]]

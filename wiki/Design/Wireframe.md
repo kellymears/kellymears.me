@@ -37,6 +37,6 @@ The wireframe's spirit lives on in production: a [[Skeleton Screen]] is essentia
 - [[Atomic Design]]
 - [[Playtesting]]
 - [[Shape Up]]
-- [[Skeleton Screen]]
+- [[Sitemap]]
 - [[Card Sorting]]
 - [[Design Thinking]]

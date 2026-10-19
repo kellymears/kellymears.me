@@ -33,6 +33,7 @@ Inside a [[Wiki]], internal links can be checked mechanically: a link to a page 
 ## See also
 - [[Deep Linking]]
 - [[Webring]]
-- [[GeoCities]]
+- [[Canonical URL]]
 - [[Blog]]
 - [[Microfilm]]
+- [[Slug]]

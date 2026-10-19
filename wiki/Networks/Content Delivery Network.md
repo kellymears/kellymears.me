@@ -20,7 +20,7 @@ The tradeoff CDNs make explicit is between consistency and locality: an edge nod
 - [[Adaptive Bitrate Streaming]]
 - [[Jamstack]]
 - [[Edge Computing]]
-- [[Hotlinking]]
+- [[Canonical URL]]
 - [[Data Sovereignty]]
 - [[Net Neutrality]]
 

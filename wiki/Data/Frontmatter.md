@@ -18,7 +18,7 @@ The same pattern extends beyond publishing. Notes in a personal knowledge system
 - [[Markdown]]
 - [[Blog]]
 - [[Zettelkasten]]
-- [[Taxonomy]]
+- [[Slug]]
 
 ## Related
 - [[Wiki]]

@@ -26,5 +26,5 @@ The same idea covers other expiring things: session tokens and [[OAuth]] access 
 
 ## See also
 - [[DNS Cache Poisoning]]
-- [[Spanning Tree Protocol]]
+- [[In-Memory Database]]
 - [[Cache-Aside]]

@@ -36,6 +36,6 @@ UUIDs let clients create records offline and sync later, as in [[Conflict-Free R
 - [[ISBN]]
 - [[Transactional Outbox]]
 - [[Foreign Key]]
-- [[Entity Resolution]]
-- [[JSON]]
+- [[Idempotency Key]]
+- [[iCalendar]]
 - [[Hot Partition]]

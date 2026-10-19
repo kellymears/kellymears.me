@@ -16,14 +16,14 @@ At scale the interesting problems become taxonomic: whether structure should be 
 
 ## See also
 - [[Hamburger Menu]]
-- [[Docs as Code]]
+- [[Sitemap]]
 - [[Headless CMS]]
 - [[Card Sorting]]
 - [[Rent Strike]]
 - [[Cognitive Map]]
 
 ## Related
-- [[Hierarchical Data]]
+- [[Slug]]
 - [[Transit Map]]
 - [[Breadcrumb]]
 - [[Library Classification]]

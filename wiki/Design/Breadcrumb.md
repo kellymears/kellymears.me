@@ -32,4 +32,4 @@ Breadcrumbs only make sense for sites that are actually hierarchical. A flat sit
 ## See also
 - [[Hierarchical Data]]
 - [[Hamburger Menu]]
-- [[Tabs]]
+- [[Sitemap]]

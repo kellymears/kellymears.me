@@ -28,4 +28,4 @@ Governance is unusual: the open-source project, the nonprofit foundation, and th
 - [[IndieWeb]]
 - [[Web 2.0]]
 - [[Blog]]
-- [[Jamstack]]
+- [[Slug]]

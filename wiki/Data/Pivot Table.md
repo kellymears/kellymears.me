@@ -26,7 +26,7 @@ Common mistakes:
 Statistics uses the same layout under the name contingency table, counting how often two categories occur together to test whether they are related. Turning a pivot into a chart is the usual next step; see [[Data Visualization]].
 
 ## See also
-- [[Materialized View]]
+- [[Spreadsheet Error]]
 - [[Faceted Search]]
 - [[Tidy Data]]
 - [[Data Table]]

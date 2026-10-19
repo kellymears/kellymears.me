@@ -20,7 +20,7 @@ The log doubles as a [[Provenance]] trail for every mutation, which is why it fe
 - [[Atomic File Write]]
 - [[Checksum]]
 - [[Durable Execution]]
-- [[Journaling File System]]
+- [[In-Memory Database]]
 
 ## Related
 - [[SQLite]]

@@ -25,7 +25,7 @@ Rot also afflicts prose *inside* source files. A docblock is only attached to a 
 - [[Context Rot]]
 
 ## Related
-- [[Code Review]]
+- [[Data Dictionary]]
 - [[Agent Memory]]
 - [[Doctest]]
 - [[Map and Territory]]

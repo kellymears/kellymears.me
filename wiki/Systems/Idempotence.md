@@ -27,5 +27,5 @@ The corresponding design work is usually to make the operation *express the desi
 - [[Transactional Outbox]]
 
 ## Related
-- [[WebRTC]]
+- [[Idempotency Key]]
 - [[Signaling Server]]

@@ -28,4 +28,5 @@ They matter most where references must last: citations in research, datasets beh
 
 ## See also
 - [[Natural key]]
-- [[Microfilm]]
+- [[Canonical URL]]
+- [[Slug]]

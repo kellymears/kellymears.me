@@ -37,6 +37,6 @@ Machine learning faces the same risk: models can memorize training examples, and
 - [[Geocoding]]
 - [[Machine Unlearning]]
 - [[Federated Learning]]
-- [[Synthetic Data]]
+- [[Data Masking]]
 - [[Geospatial Data]]
 - [[Panopticon]]

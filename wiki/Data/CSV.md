@@ -30,6 +30,6 @@ For anything beyond simple interchange, better formats exist: JSON Lines for rec
 - [[Serialization]]
 - [[Open Data]]
 - [[Tidy Data]]
-- [[Line Ending]]
+- [[Spreadsheet Error]]
 - [[JSON]]
-- [[Spreadsheet]]
+- [[Mojibake]]

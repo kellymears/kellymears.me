@@ -26,6 +26,6 @@ Games face these problems at scale, with text in tight UI and voice timing, whic
 ## See also
 - [[Character Encoding]]
 - [[Falsehoods Programmers Believe]]
-- [[Visual Regression Testing]]
+- [[Mojibake]]
 - [[Error Message]]
 - [[Text Truncation]]

@@ -15,7 +15,7 @@ The standard defenses are structural, matching the mechanism directly: preregist
 ## See also
 - [[Stereotype Threat]]
 - [[Peer Review]]
-- [[Placebo Effect]]
+- [[Spreadsheet Error]]
 - [[Availability Cascade]]
 - [[AB Testing]]
 - [[Hyperparameter]]

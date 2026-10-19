@@ -33,4 +33,4 @@ The research frontier pushes types closer to full proofs. [[Type Inference]] rem
 - [[Russell's Paradox]]
 - [[Dependent Types]]
 - [[Mars Climate Orbiter]]
-- [[Curry-Howard Correspondence]]
+- [[Spreadsheet Error]]

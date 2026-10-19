@@ -15,7 +15,7 @@ Queues come with delivery guarantees that matter more than they first appear to.
 ## See also
 - [[Model-View-Controller]]
 - [[MQTT]]
-- [[Serialization]]
+- [[Idempotency Key]]
 - [[Dead Letter Queue]]
 - [[Inter-Process Communication]]
 - [[Durable Execution]]

@@ -25,6 +25,6 @@ Writing through a view is possible but restricted. A simple view over one table,
 Views are also a common place for [[Object-Relational Mapping]] layers to point, so application code can treat a read-only reporting shape like any other model.
 
 ## See also
-- [[Database Normalization]]
+- [[Data Masking]]
 - [[Pivot Table]]
 - [[Schema Evolution]]

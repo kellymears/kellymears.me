@@ -16,7 +16,7 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 ## See also
 - [[Garbage In, Garbage Out]]
 - [[XML]]
-- [[Request for Comments]]
+- [[Mojibake]]
 - [[Defensive Programming]]
 - [[POSIX]]
 
@@ -29,4 +29,4 @@ The modern synthesis is roughly: be liberal when the cost of an accepted edge ca
 - [[YAML]]
 - [[API Versioning]]
 - [[MIME Type]]
-- [[HTML]]
+- [[iCalendar]]
