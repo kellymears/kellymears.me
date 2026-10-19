@@ -169,7 +169,7 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
             </div>
             {place && (
               <div className="mt-4">
-                <VaultLocator x={place.x} y={place.y} title={note.title} />
+                <VaultLocator x={place.x} y={place.y} title={note.title} slug={note.slug} />
               </div>
             )}
           </aside>

@@ -2,6 +2,7 @@ import { Accent, SectionHeading } from '@/components/home/SectionHeading'
 import Link from '@/components/Link'
 import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
 import { packGraph } from '@/components/knowledge/packed-graph'
+import { MapLink } from '@/components/knowledge/map/MapLink'
 import { Wander } from '@/components/knowledge/Wander'
 import { NoteCard, topicVars } from '@/components/knowledge/NoteCard'
 import { StatLine } from '@/components/knowledge/StatLine'
@@ -220,7 +221,10 @@ export default async function TopicPage(props: TopicPageProps) {
               Domain {String(index + 1).padStart(2, '0')}
             </span>
           </p>
-          <Wander paths={allNotes.map((n) => n.path)} label="View random note" />
+          <div className="flex flex-wrap gap-2">
+            <MapLink topic={topic.slug} />
+            <Wander paths={allNotes.map((n) => n.path)} label="View random note" />
+          </div>
         </div>
 
         <h1 className="text-[clamp(2.5rem,7vw,5.5rem)] leading-[0.95] font-semibold tracking-[-0.035em] text-gray-900 dark:text-gray-100">

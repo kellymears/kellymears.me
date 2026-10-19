@@ -875,3 +875,26 @@ input:-webkit-autofill:focus {
     animation: none;
   }
 }
+
+/* Knowledge map (`/knowledge/map`): canvas ink, read by `map-engine.ts`. */
+.km {
+  --km-bg: var(--color-paper);
+  --km-edge: var(--color-gray-400);
+  --km-edge-o: 0.2;
+  --km-edge-hot: var(--color-gray-600);
+  --km-label: var(--color-gray-700);
+  --km-ring: var(--color-gray-600);
+  --km-accent: var(--color-primary-500);
+}
+/* Preflight sets buttons to `cursor: default`. */
+.km button {
+  cursor: pointer;
+}
+.dark .km {
+  --km-bg: var(--color-gray-950);
+  --km-edge-o: 0.26;
+  --km-edge-hot: var(--color-gray-300);
+  --km-label: var(--color-gray-300);
+  --km-ring: var(--color-gray-400);
+  --km-accent: var(--color-primary-400);
+}

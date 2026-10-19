@@ -5,6 +5,7 @@ import { packGraph } from '@/components/knowledge/packed-graph'
 import { topicVars } from '@/components/knowledge/NoteCard'
 import { TopicCard } from '@/components/knowledge/TopicCard'
 import { topicSilhouette } from '@/components/knowledge/topic-silhouette'
+import { MapLink } from '@/components/knowledge/map/MapLink'
 import { Wander } from '@/components/knowledge/Wander'
 import siteMetadata from '@/data/siteMetadata'
 import {
@@ -146,7 +147,10 @@ export default function KnowledgePage() {
               {stats.notes} notes · {stats.links.toLocaleString()} links
             </span>
           </p>
-          <Wander paths={allNotes.map((n) => n.path)} label="View random note" />
+          <div className="flex flex-wrap gap-2">
+            <MapLink />
+            <Wander paths={allNotes.map((n) => n.path)} label="View random note" />
+          </div>
         </div>
         <h1 className="text-[clamp(2.75rem,8vw,6rem)] leading-[0.95] font-semibold tracking-[-0.035em] text-gray-900 dark:text-gray-100">
           Notes &amp; <Accent>connections</Accent>
