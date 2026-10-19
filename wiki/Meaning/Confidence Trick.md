@@ -17,7 +17,7 @@ High-status milieus are permeable for structural reasons. Credentials go uncheck
 
 ## See also
 - [[Provenance]]
-- [[Ground Truth]]
+- [[Barnum Effect]]
 - [[Anchoring Effect]]
 - [[Least Privilege]]
 - [[Naming]]

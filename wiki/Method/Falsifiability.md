@@ -17,7 +17,7 @@ It also disciplines prose. "This cast is required because the checker demands it
 ## See also
 - [[Brandolini's Law]]
 - [[Devil's Advocate]]
-- [[Coverage Gate]]
+- [[Barnum Effect]]
 - [[Thought Experiment]]
 - [[Black Swan]]
 - [[Safety Case]]

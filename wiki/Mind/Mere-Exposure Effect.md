@@ -29,6 +29,7 @@ In design, the effect argues for following conventions, since users arrive alrea
 ## See also
 - [[Priming]]
 - [[Availability Heuristic]]
-- [[Skeuomorphism]]
+- [[Reminiscence Bump]]
 - [[Déjà Vu]]
 - [[Earworm]]
+- [[IKEA Effect]]

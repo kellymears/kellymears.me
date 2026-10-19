@@ -32,4 +32,4 @@ Some classic findings have replicated less cleanly than textbooks suggest, but t
 - [[Psychological Reactance]]
 - [[Motivated Reasoning]]
 - [[Fundamental Attribution Error]]
-- [[Cognitive Behavioral Therapy]]
+- [[IKEA Effect]]

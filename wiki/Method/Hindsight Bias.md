@@ -31,7 +31,7 @@ A [[Pre-mortem]] turns the effect into a tool, borrowing the clarity of hindsigh
 
 ## See also
 - [[Five Whys]]
-- [[Rashomon Effect]]
+- [[Self-Serving Bias]]
 - [[Inversion]]
 - [[Hanlon's Razor]]
 - [[Just-World Hypothesis]]

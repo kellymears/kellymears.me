@@ -28,7 +28,7 @@ The condition fits the wider picture of [[Neurodiversity]]: perception is constr
 ## See also
 - [[Aphantasia]]
 - [[Neurodiversity]]
-- [[Sensory Processing]]
+- [[McGurk Effect]]
 - [[Preattentive Processing]]
 - [[Prosopagnosia]]
 - [[Timbre]]

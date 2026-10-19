@@ -30,8 +30,8 @@ Self-efficacy sits between several neighbors:
 Low self-efficacy is a quiet driver of [[Procrastination]] and [[Demand Avoidance]], since a task you expect to fail at is painful to start. For neurodivergent people, years of being told they underperform can lower it across the board, regardless of real capacity, which makes accommodations that produce early successes especially valuable.
 
 ## See also
-- [[Stereotype Threat]]
+- [[Sense of Agency]]
 - [[Choking Under Pressure]]
 - [[Exposure Therapy]]
 - [[Growth Mindset]]
-- [[Self-Fulfilling Prophecy]]
+- [[IKEA Effect]]

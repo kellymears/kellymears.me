@@ -33,3 +33,5 @@ The habit of updating extends beyond formal statistics. Skilled forecasters adju
 - [[Abductive Reasoning]]
 - [[Replication Crisis]]
 - [[Expected Value]]
+- [[Rubber Hand Illusion]]
+- [[McGurk Effect]]

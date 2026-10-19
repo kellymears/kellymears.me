@@ -27,3 +27,4 @@ In practice, the heuristic matters wherever stories are used as evidence. Doctor
 - [[Processing Fluency]]
 - [[Pareidolia]]
 - [[Law of Large Numbers]]
+- [[Barnum Effect]]

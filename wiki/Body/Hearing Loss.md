@@ -30,6 +30,6 @@ The inner ear also houses the [[Vestibular System]], so some damage brings dizzi
 - [[Presbyopia]]
 - [[Reverberation]]
 - [[Myopia]]
-- [[Resonance]]
-- [[Sound]]
+- [[McGurk Effect]]
+- [[Misophonia]]
 - [[Timbre]]

@@ -21,7 +21,7 @@ What helps is mostly recognition and slowing down: naming the reaction ("this is
 
 ## See also
 - [[Loneliness]]
-- [[Self-Compassion]]
+- [[Misophonia]]
 - [[Impostor Syndrome]]
 - [[Attachment Theory]]
 - [[Exposure Therapy]]

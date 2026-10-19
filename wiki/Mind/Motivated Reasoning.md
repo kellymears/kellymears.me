@@ -33,6 +33,7 @@ Countermeasures that have some support:
 
 ## See also
 - [[Just-World Hypothesis]]
-- [[Dual Process Theory]]
-- [[Social Identity Theory]]
+- [[Self-Serving Bias]]
+- [[Barnum Effect]]
 - [[Devil's Advocate]]
+- [[IKEA Effect]]

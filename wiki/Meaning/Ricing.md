@@ -24,7 +24,7 @@ The culture is mostly aesthetic play, and that is the point. It combines craft, 
 ## See also
 - [[Dotfiles]]
 - [[Brutalist Web Design]]
-- [[Design Token]]
+- [[IKEA Effect]]
 - [[Rabbit Hole]]
 - [[Yak Shaving]]
 - [[Desktop Metaphor]]

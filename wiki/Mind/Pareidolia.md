@@ -23,7 +23,7 @@ Designers use pareidolia deliberately. Car fronts are styled as friendly or aggr
 ## See also
 - [[Blind Spot]]
 - [[Sleep Paralysis]]
-- [[ELIZA Effect]]
+- [[Barnum Effect]]
 - [[Golden Ratio]]
 - [[Prosopagnosia]]
-- [[Virtual Pet]]
+- [[McGurk Effect]]

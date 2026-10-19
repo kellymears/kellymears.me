@@ -30,4 +30,4 @@ The signal underpins [[Habit Formation]], where behavior that is reliably reward
 - [[Exposure Therapy]]
 - [[Goosebumps]]
 - [[Curiosity]]
-- [[Neuroplasticity]]
+- [[Sense of Agency]]

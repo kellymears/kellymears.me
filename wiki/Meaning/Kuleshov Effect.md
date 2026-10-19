@@ -24,3 +24,4 @@ What the effect demonstrates regardless is that editing is authorship, not assem
 - [[Death of the Author]]
 - [[Suspension of Disbelief]]
 - [[Rashomon Effect]]
+- [[McGurk Effect]]

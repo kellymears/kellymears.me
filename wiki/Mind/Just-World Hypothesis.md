@@ -26,6 +26,6 @@ The belief can also turn inward. People who experience misfortune may blame them
 Many cultures and religions express versions of the belief, from karma to sayings about getting one's due. Holding onto the belief when evidence contradicts it is a form of [[Cognitive Dissonance]] reduction: changing the interpretation is easier than changing the worldview. Moral panics often follow the same logic, finding someone to blame when something goes wrong; see [[Moral Panic]].
 
 ## See also
-- [[Negativity Bias]]
-- [[Self-Fulfilling Prophecy]]
+- [[Self-Serving Bias]]
+- [[Barnum Effect]]
 - [[Conspiracy Theory]]

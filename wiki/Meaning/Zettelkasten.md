@@ -24,7 +24,7 @@ The modern practice adds tooling — automatic [[Backlink]]s, graph views, full-
 - [[Extended Mind]]
 
 ## Related
-- [[Taxonomy]]
+- [[Source Amnesia]]
 - [[Markdown]]
 - [[Documentation Rot]]
 - [[Levels of Processing]]

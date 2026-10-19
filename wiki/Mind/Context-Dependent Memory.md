@@ -35,6 +35,6 @@ The phenomenon fits a broader view of memory as reconstruction guided by cues ra
 - [[Classical Conditioning]]
 - [[Déjà Vu]]
 - [[Episodic Memory]]
-- [[Desirable Difficulty]]
+- [[Source Amnesia]]
 - [[Prosopagnosia]]
 - [[Priming]]

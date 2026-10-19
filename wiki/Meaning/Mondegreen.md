@@ -15,7 +15,7 @@ The cross-language cousin is *soramimi*, a Japanese term for hearing foreign-lan
 ## See also
 - [[Urban Legend]]
 - [[Portmanteau]]
-- [[Snowclone]]
+- [[McGurk Effect]]
 - [[Earworm]]
 - [[Death of the Author]]
 - [[Predictive Processing]]

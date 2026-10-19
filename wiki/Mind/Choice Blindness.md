@@ -23,9 +23,9 @@ Choice blindness also relates to failures to notice visual changes; see [[Inatte
 The findings have implications for surveys and research that rely on self-reports, and for persuasion, since preferences can shift once people have defended a position; see [[Framing Effect]] and [[Choice Architecture]]. They also inform debates about whether explanations produced by language models reflect how they reached an answer; see [[Chain-of-Thought Prompting]].
 
 ## See also
-- [[Dual Process Theory]]
+- [[Hemispatial Neglect]]
 - [[Inner Speech]]
-- [[Expert Intuition]]
+- [[Sense of Agency]]
 - [[Ideomotor Effect]]
 - [[Motivated Reasoning]]
 - [[Conformity]]

@@ -38,5 +38,5 @@ Recognizing one's own profile, and building a life around it rather than [[Maski
 ## See also
 - [[Haptic Feedback]]
 - [[Capsaicin]]
-- [[Interoception]]
-- [[Neurodiversity]]
+- [[McGurk Effect]]
+- [[Misophonia]]

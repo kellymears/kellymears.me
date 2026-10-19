@@ -30,6 +30,6 @@ Remedies start from taking another's view seriously: restate an opponent's posit
 
 ## See also
 - [[Spotlight Effect]]
-- [[Rashomon Effect]]
-- [[Devil's Advocate]]
+- [[IKEA Effect]]
+- [[Self-Serving Bias]]
 - [[Psychological Distance]]

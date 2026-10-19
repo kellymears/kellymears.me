@@ -35,5 +35,5 @@ People tend to believe others are more gullible than themselves, which makes deb
 
 ## See also
 - [[Meme]]
-- [[Confidence Trick]]
+- [[Source Amnesia]]
 - [[Mariner 1]]

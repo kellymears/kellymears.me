@@ -34,4 +34,4 @@ Averages hide the experience. A system that is usually fast but occasionally tak
 - [[Slider]]
 - [[Progress Indicator]]
 - [[Reaction Time]]
-- [[Peak-End Rule]]
+- [[Sense of Agency]]

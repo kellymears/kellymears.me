@@ -29,7 +29,7 @@ The effect shows up well beyond lab lists:
 A striking item in the middle can escape the slump, which is the [[Von Restorff Effect]]. Together these effects describe memory as selective by design: attention, rehearsal, and distinctiveness decide what gets kept, guided by [[Selective Attention]] rather than by an even record of everything encountered.
 
 ## See also
-- [[Working Memory]]
+- [[Reminiscence Bump]]
 - [[Episodic Memory]]
 - [[Peak-End Rule]]
 - [[Spaced Repetition]]

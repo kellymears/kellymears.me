@@ -39,3 +39,4 @@ Therapy uses the mechanism directly. Exposure-based treatments in [[Cognitive Be
 - [[Window of Tolerance]]
 - [[Neuroplasticity]]
 - [[Exposure Therapy]]
+- [[Misophonia]]

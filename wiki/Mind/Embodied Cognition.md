@@ -26,6 +26,6 @@ Some of the most publicized findings did not hold up. Studies claiming that hold
 The debate has returned with language models. Systems trained only on text have no body or senses, yet they handle many concepts competently, which some take as evidence that much of meaning can be learned from language alone; others argue that the models' gaps, such as weak physical reasoning, show what embodiment provides; see [[Large Language Model]]. Questions about whether thinking requires an inner voice raise related issues; see [[Inner Speech]].
 
 ## See also
-- [[Posture]]
-- [[Mirror Neurons]]
-- [[Mental Rotation]]
+- [[Hemispatial Neglect]]
+- [[Sense of Agency]]
+- [[Rubber Hand Illusion]]

@@ -25,7 +25,7 @@ Regulation isn't purely individual. **Co-regulation**, calming through another p
 ## See also
 - [[Psychological Distance]]
 - [[Misattribution of Arousal]]
-- [[Poker]]
+- [[Misophonia]]
 - [[Attachment Theory]]
 - [[Emotional Granularity]]
 - [[Demand Avoidance]]

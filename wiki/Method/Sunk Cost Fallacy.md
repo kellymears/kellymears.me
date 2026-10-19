@@ -24,7 +24,7 @@ The engineering-specific form is the branch nobody wants to close: hundreds of c
 ## Related
 - [[Yak Shaving]]
 - [[Mental Accounting]]
-- [[Grinding]]
+- [[IKEA Effect]]
 - [[Post Office Horizon Scandal]]
 - [[Gambler's Fallacy]]
 - [[Commitment Device]]

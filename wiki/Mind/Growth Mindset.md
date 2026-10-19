@@ -26,7 +26,7 @@ The concept overlaps with several others. Believing one can succeed at a specifi
 Teams show a similar dynamic. When mistakes are treated as evidence of incompetence, people hide them; when treated as learning, they surface early. Blameless reviews of incidents apply a growth mindset to organizations; see [[Blameless Postmortem]].
 
 ## See also
-- [[Self-Compassion]]
+- [[Self-Serving Bias]]
 - [[Self-Determination Theory]]
 - [[Stereotype Threat]]
 - [[Self-Fulfilling Prophecy]]

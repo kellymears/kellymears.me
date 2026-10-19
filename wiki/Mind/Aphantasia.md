@@ -27,7 +27,7 @@ Inner experience varies along many such dimensions. Some people have little [[In
 
 ## See also
 - [[Mental Rotation]]
-- [[Synesthesia]]
+- [[Hemispatial Neglect]]
 - [[Neurodiversity]]
 - [[Earworm]]
 - [[Prosopagnosia]]

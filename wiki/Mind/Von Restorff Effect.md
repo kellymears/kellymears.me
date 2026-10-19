@@ -28,7 +28,7 @@ The effect connects to broader ideas about memory and attention. Vivid, unusual 
 
 ## See also
 - [[Habituation]]
-- [[Selective Attention]]
+- [[Reminiscence Bump]]
 - [[Visual Hierarchy]]
 - [[Availability Heuristic]]
 - [[Preattentive Processing]]

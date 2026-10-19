@@ -27,6 +27,6 @@ The **contact hypothesis**, proposed by Gordon Allport in 1954, holds that conta
 Social identity helps explain nationalism, sports rivalry, political polarization, and online tribes; see [[Imagined Community]] and [[Filter Bubble]]. Threats to a group can intensify identification, and reminders of mortality strengthen attachment to one's own worldview; see [[Terror Management Theory]] and [[Moral Panic]]. Group identity can also enable cooperation, solidarity, and collective action; see [[Collective Action]].
 
 ## See also
-- [[Diglossia]]
+- [[Self-Serving Bias]]
 - [[Rashomon Effect]]
-- [[Median Voter Theorem]]
+- [[Reminiscence Bump]]

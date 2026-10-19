@@ -31,6 +31,6 @@ Done well, dogfooding sits between automated suites and [[Exploratory Testing]]:
 
 ## See also
 - [[Verification and Validation]]
-- [[Playtesting]]
+- [[IKEA Effect]]
 - [[Smoke Test]]
 - [[Synthetic Monitoring]]

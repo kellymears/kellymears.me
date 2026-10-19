@@ -28,6 +28,7 @@ Some products have exploited the effect outright. Swivel-antenna "detectors" sol
 The same mechanism operates in [[Tarot]] readings and many alternative therapies, where expectations shape outcomes; see [[Placebo Effect]] and [[Confirmation Bias]].
 
 ## See also
-- [[Predictive Processing]]
+- [[Sense of Agency]]
 - [[Self-Fulfilling Prophecy]]
 - [[Mirror Neurons]]
+- [[Rubber Hand Illusion]]

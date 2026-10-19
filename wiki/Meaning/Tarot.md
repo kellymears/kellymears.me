@@ -25,3 +25,4 @@ As software it is a pleasant modeling problem — a small fixed corpus, several 
 - [[Invented Tradition]]
 - [[Hero's Journey]]
 - [[Ideomotor Effect]]
+- [[Barnum Effect]]

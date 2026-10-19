@@ -33,4 +33,4 @@ Voice cloning brings serious risks. Fraudsters have imitated relatives in distre
 - [[Deepfake]]
 - [[Hidden Markov Model]]
 - [[Dyslexia]]
-- [[Screen Reader]]
+- [[McGurk Effect]]

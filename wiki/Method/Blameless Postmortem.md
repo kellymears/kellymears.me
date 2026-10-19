@@ -28,7 +28,7 @@ Blamelessness is not the same as consequence-free — a genuine pattern of disre
 - [[Post Office Horizon Scandal]]
 - [[Status Page]]
 - [[Site Reliability Engineering]]
-- [[Hindsight Bias]]
+- [[Self-Serving Bias]]
 - [[Just Culture]]
 - [[Bug Triage]]
 - [[Git Blame]]

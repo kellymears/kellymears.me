@@ -32,4 +32,4 @@ The most effective remedies change the environment rather than the person. Noise
 - [[Window of Tolerance]]
 - [[Spoon Theory]]
 - [[Autistic Burnout]]
-- [[Emotional Regulation]]
+- [[Misophonia]]

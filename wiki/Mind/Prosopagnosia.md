@@ -34,3 +34,4 @@ At the other end of the range are **super-recognizers**, perhaps 1 to 2 percent 
 - [[Predictive Processing]]
 - [[Sensory Processing]]
 - [[Blindsight]]
+- [[Hemispatial Neglect]]

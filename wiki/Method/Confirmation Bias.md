@@ -26,4 +26,4 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 ## Related
 - [[Availability Heuristic]]
 - [[Safety Case]]
-- [[False Memory]]
+- [[Barnum Effect]]

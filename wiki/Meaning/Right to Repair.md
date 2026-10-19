@@ -16,7 +16,7 @@ Legislative movement has been real: several jurisdictions now require manufactur
 - [[Public Domain]]
 - [[Firmware]]
 - [[Internet of Things]]
-- [[Regulatory Capture]]
+- [[IKEA Effect]]
 
 ## Related
 - [[Encrypted Media Extensions]]

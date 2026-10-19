@@ -23,7 +23,7 @@ For engineers, the practical corollary is to distrust your own confidence exactl
 - [[Curse of Knowledge]]
 
 ## Related
-- [[Anchoring Effect]]
+- [[Self-Serving Bias]]
 - [[Self-Efficacy]]
 - [[Impostor Syndrome]]
 - [[Expert Intuition]]

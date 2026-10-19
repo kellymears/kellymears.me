@@ -32,7 +32,7 @@ Brandolini's law sits alongside other observations about online discourse, such 
 
 ## See also
 - [[Motte and Bailey]]
-- [[Falsifiability]]
+- [[Source Amnesia]]
 - [[Betteridge's Law of Headlines]]
 - [[Burden of Proof]]
 - [[Logical Fallacy]]

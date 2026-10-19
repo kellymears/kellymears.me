@@ -28,4 +28,4 @@ What helps is making evidence count: keeping a record of finished work and feedb
 - [[Social Comparison]]
 - [[Psychological Safety]]
 - [[Stereotype Threat]]
-- [[Self-Compassion]]
+- [[Self-Serving Bias]]

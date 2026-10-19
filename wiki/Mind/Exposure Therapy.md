@@ -34,3 +34,4 @@ The same principle helps with social anxiety and fear of rejection; see [[Reject
 - [[Emotional Regulation]]
 - [[Learned Helplessness]]
 - [[Grief]]
+- [[Misophonia]]

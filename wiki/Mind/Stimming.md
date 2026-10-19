@@ -22,7 +22,7 @@ The commercial fidget toy boom of the late 2010s made stimming mainstream almost
 
 ## See also
 - [[Embodied Cognition]]
-- [[Masking]]
+- [[Misophonia]]
 - [[Proprioception]]
 - [[Itch]]
 - [[Neurodiversity]]

@@ -31,6 +31,6 @@ Self-compassion matters especially for people who spend much of their lives bein
 ## See also
 - [[Attachment Theory]]
 - [[Fresh Start Effect]]
-- [[Loneliness]]
+- [[Self-Serving Bias]]
 - [[Burnout]]
 - [[Grief]]

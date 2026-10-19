@@ -30,3 +30,4 @@ Déjà vu belongs with other glitches of memory and recognition, such as the fru
 - [[Mere-Exposure Effect]]
 - [[Pareidolia]]
 - [[Dreaming]]
+- [[Source Amnesia]]

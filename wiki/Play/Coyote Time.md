@@ -29,7 +29,7 @@ The broader principle applies outside games: an interface that interprets what s
 
 ## See also
 - [[Invincibility Frames]]
-- [[Difficulty Curve]]
+- [[Sense of Agency]]
 - [[Collision Detection]]
 - [[Fighting Game]]
 - [[Platformer]]

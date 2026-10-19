@@ -33,5 +33,5 @@ Long reviews have the same limit, which is why [[Code Review]] catches less when
 
 ## See also
 - [[Reaction Time]]
-- [[Yawning]]
+- [[Hemispatial Neglect]]
 - [[Pomodoro Technique]]
