@@ -28,3 +28,4 @@ For people, the appeal is steady absorption: clear rules, constant small progres
 - [[Crossword]]
 - [[Escape Room]]
 - [[Procedural Generation]]
+- [[Abstract Strategy Game]]

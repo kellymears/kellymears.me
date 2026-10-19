@@ -15,10 +15,10 @@ That shift is expensive, and the expense is mostly in verification. A scripted e
 **The failure mode is a dominant strategy.** If one systemic answer works everywhere, the space collapses to a single path and the simulation becomes ornamentation — the player has optimized the fun out, and [[Goodhart's Law]] has been served by the design's own generality. The countermeasure is not to remove the strategy but to make contexts differ enough that its cost varies. Doing that well requires the world to communicate its rules without a tutorial, which is why the tradition leans so heavily on [[Environmental Storytelling]] and [[Diegetic Interface]] work: a player can only exploit a system they can perceive, and a simulation nobody can read is indistinguishable from a script.
 
 ## See also
-- [[Boss Battle]]
-- [[Fourth Wall]]
+- [[Cutscene]]
+- [[First-Person Shooter]]
 - [[Playtesting]]
-- [[Portal Rendering]]
+- [[Morality System]]
 - [[Walking Simulator]]
 - [[Sequence Breaking]]
 - [[Tabletop Role-Playing Game]]

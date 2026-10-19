@@ -30,4 +30,4 @@ A rating can also become the target instead of the measure. Chess players have a
 - [[Ranked-Choice Voting]]
 - [[Esports]]
 - [[AlphaGo]]
-- [[Arrow's Impossibility Theorem]]
+- [[Abstract Strategy Game]]

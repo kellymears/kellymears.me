@@ -22,4 +22,4 @@ The best side quests often work through what the player finds instead of what th
 
 ## See also
 - [[Multiple Endings]]
-- [[Sequence Breaking]]
+- [[Dialogue Tree]]

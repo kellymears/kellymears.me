@@ -15,7 +15,7 @@ The genre has two ancestors, and they gave different things. [[Sweet Home]] (198
 - [[Checkpoint]]
 - [[Metroidvania]]
 - [[Heads-Up Display]]
-- [[Environmental Storytelling]]
+- [[Cutscene]]
 - [[Game Feel]]
 - [[Cozy Game]]
 - [[Adaptive Music]]

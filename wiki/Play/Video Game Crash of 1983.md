@@ -30,3 +30,5 @@ Nintendo brought the Famicom to North America in 1985 as the Nintendo Entertainm
 - [[Bushnell's Law]]
 - [[Path Dependence]]
 - [[Pinball]]
+- [[Crunch]]
+- [[Extra Life]]

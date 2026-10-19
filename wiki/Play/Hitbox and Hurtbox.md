@@ -24,3 +24,5 @@ This is where [[Frame Data]] and collision meet directly: a hitbox is only "live
 - [[Fighting Game]]
 - [[Shoot 'em Up]]
 - [[Hit Stop]]
+- [[First-Person Shooter]]
+- [[Lag Compensation]]

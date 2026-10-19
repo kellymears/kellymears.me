@@ -17,4 +17,4 @@ Whether the probability is shown changes the relationship to failure more than t
 - [[Bushnell's Law]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Gamebook]]
-- [[Roguelike]]
+- [[Dialogue Tree]]

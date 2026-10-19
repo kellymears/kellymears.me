@@ -26,7 +26,7 @@ For designers, the lesson is to ask what a system implies when someone plays it 
 
 ## See also
 - [[Magic Circle]]
-- [[Emergent Gameplay]]
+- [[Morality System]]
 - [[Immersive Sim]]
 - [[Catch-Up Mechanic]]
 - [[Wargame]]

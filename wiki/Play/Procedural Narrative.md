@@ -22,3 +22,4 @@ The genre's real weakness is a legibility gap between generation and experience.
 - [[Hero's Journey]]
 - [[Gamebook]]
 - [[Non-Player Character]]
+- [[Dialogue Tree]]

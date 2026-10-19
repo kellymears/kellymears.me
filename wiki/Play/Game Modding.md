@@ -18,9 +18,9 @@ Longevity follows from all of it: a game with an active mod scene keeps being pl
 ## See also
 - [[Easter Egg]]
 - [[Cheat Code]]
-- [[Game Engine]]
+- [[Multiplayer Online Battle Arena]]
 - [[Doom Engine]]
 - [[Fan Fiction]]
-- [[Real-Time Strategy]]
+- [[First-Person Shooter]]
 - [[Game Jam]]
 - [[Walking Simulator]]

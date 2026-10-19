@@ -18,5 +18,5 @@ The design argument underneath is that stakes require irreversibility — a thre
 - [[Checkpoint]]
 - [[Virtual Pet]]
 - [[Save Scumming]]
-- [[Magic Circle]]
+- [[Extra Life]]
 - [[Cozy Game]]

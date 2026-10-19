@@ -21,3 +21,5 @@ The convention of a "true ending," gated behind extra conditions and implicitly 
 - [[Legacy Game]]
 - [[Gamebook]]
 - [[Side Quest]]
+- [[Dialogue Tree]]
+- [[Morality System]]

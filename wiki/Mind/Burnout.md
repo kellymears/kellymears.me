@@ -39,3 +39,4 @@ Autistic people describe a related but distinct state brought on by the effort o
 - [[Self-Compassion]]
 - [[Let's Play]]
 - [[Emotional Contagion]]
+- [[Crunch]]

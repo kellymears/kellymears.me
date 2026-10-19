@@ -37,5 +37,5 @@ Common traps:
 Meier's view has critics. Not every game is about decisions. Action games are often about execution, and many players enjoy simple, relaxing activities with no real choices. Richard Bartle's player types suggest that some people play to explore or socialize rather than decide; see [[Bartle Taxonomy]]. Frameworks that start from the player's experience rather than from choices make the same point; see [[MDA Framework]].
 
 ## See also
-- [[Eurogame]]
-- [[Push Your Luck]]
+- [[Abstract Strategy Game]]
+- [[Morality System]]

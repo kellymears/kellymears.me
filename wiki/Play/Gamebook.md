@@ -28,3 +28,4 @@ The second-person voice makes the reader the protagonist and occasionally talks 
 ## See also
 - [[Procedural Narrative]]
 - [[Computer Role-Playing Game]]
+- [[Dialogue Tree]]

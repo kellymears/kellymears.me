@@ -19,3 +19,4 @@ The mode also interacts directly with [[Multiple Endings]]: a game that gates it
 - [[Difficulty Curve]]
 - [[Multiple Endings]]
 - [[Tutorial Design]]
+- [[Morality System]]

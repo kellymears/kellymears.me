@@ -14,7 +14,7 @@ Whether this extends play or distorts it is a live argument, and a clean instanc
 
 ## See also
 - [[Easter Egg]]
-- [[Cheat Code]]
+- [[Morality System]]
 - [[Let's Play]]
 - [[Side Quest]]
 - [[Bartle Taxonomy]]

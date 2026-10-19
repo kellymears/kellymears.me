@@ -31,7 +31,7 @@ Interpolating between known samples also lets [[Frame Generation]] and [[Tempora
 ## See also
 - [[Bresenham's Line Algorithm]]
 - [[Autoencoder]]
-- [[Affine Texture Mapping]]
+- [[Lag Compensation]]
 - [[Morph Target]]
 - [[Barycentric Coordinates]]
 - [[NURBS]]

@@ -19,7 +19,7 @@ Where full determinism is not achievable, the fallback is to isolate the non-det
 - [[Testability]]
 - [[Entropy Pool]]
 - [[Nondeterminism]]
-- [[Bundler]]
+- [[Lag Compensation]]
 - [[Cache Invalidation]]
 - [[Deterministic Simulation Testing]]
 

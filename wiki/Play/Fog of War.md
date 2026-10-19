@@ -16,7 +16,7 @@ Because information is scarce, vision itself becomes a sub-game — wards, scout
 ## See also
 - [[Local Multiplayer]]
 - [[4X Game]]
-- [[Open World Design]]
+- [[Multiplayer Online Battle Arena]]
 - [[Colony Sim]]
 - [[Culling]]
 - [[Ray Casting]]

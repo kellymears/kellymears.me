@@ -29,6 +29,6 @@ Language models have revived old questions. A model can understand any phrasing 
 - [[Multi-User Dungeon]]
 - [[Alternate Reality Game]]
 - [[Gamebook]]
-- [[Point-and-Click Adventure]]
-- [[Walking Simulator]]
+- [[Cutscene]]
+- [[Dialogue Tree]]
 - [[Deus ex Machina]]

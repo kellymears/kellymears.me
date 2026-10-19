@@ -25,5 +25,5 @@ Debate over whether walking simulators count as games has been heated. Critics a
 Because they need no combat systems or large worlds, walking simulators suited small independent studios, and several were made by teams of fewer than ten people. The genre has influenced larger games, which now include quiet stretches of exploration, and it overlaps with other low-pressure forms; see [[Cozy Game]] and [[Visual Novel]].
 
 ## See also
-- [[Indie Game]]
+- [[Cutscene]]
 - [[Let's Play]]

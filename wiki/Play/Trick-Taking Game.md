@@ -30,3 +30,4 @@ As software, this family is unusually pleasant to model: a card type, a move as 
 - [[Perfect Information]]
 - [[Eurogame]]
 - [[Poker]]
+- [[Abstract Strategy Game]]

@@ -29,3 +29,4 @@ Digital pinball recreates the physics in software; see [[Rigid Body Dynamics]] a
 ## See also
 - [[Input and Output Randomness]]
 - [[Esports]]
+- [[Extra Life]]

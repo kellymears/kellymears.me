@@ -26,8 +26,8 @@ Dominance isn't always bad. A simple dominant line in a puzzle is its solution. 
 The concept also helps explain why players optimize the fun out of games. Given a reliable but boring way to win, many players will use it and then blame the game for being dull. Designers often take this as their responsibility, aligning the most effective strategy with the most enjoyable one, since players can't be expected to avoid it; see [[Goodhart's Law]] and [[MDA Framework]].
 
 ## See also
-- [[Power Creep]]
+- [[Morality System]]
 - [[Solved Game]]
 - [[Bushnell's Law]]
-- [[Real-Time Strategy]]
+- [[Abstract Strategy Game]]
 - [[Playtesting]]

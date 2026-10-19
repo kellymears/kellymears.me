@@ -28,5 +28,5 @@ The pattern is at its best where the value is in the connection rather than in s
 - [[Dark Web]]
 - [[Sybil Attack]]
 - [[Distributed Hash Table]]
-- [[Local-First Software]]
+- [[Lag Compensation]]
 - [[Federation]]

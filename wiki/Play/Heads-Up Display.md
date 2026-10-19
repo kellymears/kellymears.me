@@ -29,3 +29,5 @@ The HUD sits between the game and its interface design traditions. Its problems 
 ## See also
 - [[Game Feel]]
 - [[Fog of War]]
+- [[First-Person Shooter]]
+- [[Extra Life]]

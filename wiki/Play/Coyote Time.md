@@ -30,7 +30,7 @@ The broader principle applies outside games: an interface that interprets what s
 ## See also
 - [[Invincibility Frames]]
 - [[Sense of Agency]]
-- [[Collision Detection]]
+- [[Lag Compensation]]
 - [[Fighting Game]]
 - [[Platformer]]
 - [[Hit Stop]]

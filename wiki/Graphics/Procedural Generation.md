@@ -30,7 +30,7 @@ Determinism also enables *incremental* generation: extending a world without reg
 - [[Sudoku]]
 - [[Input and Output Randomness]]
 - [[Turtle Graphics]]
-- [[Perlin Noise]]
+- [[Loot]]
 - [[Domain Warping]]
 - [[Match-Three]]
 - [[Wave Function Collapse]]

@@ -14,7 +14,7 @@ The genre's ideas have migrated widely, most successfully as a *mode* layered on
 
 ## See also
 - [[Seeded Randomness]]
-- [[Procedural Generation]]
+- [[Loot]]
 - [[Game AI]]
 - [[Constraint Propagation]]
 
@@ -24,7 +24,7 @@ The genre's ideas have migrated widely, most successfully as a *mode* layered on
 - [[L-System]]
 - [[Indie Game]]
 - [[Voxel]]
-- [[Shader]]
+- [[Extra Life]]
 - [[Wave Function Collapse]]
 - [[Tile Map]]
 - [[Bresenham's Line Algorithm]]

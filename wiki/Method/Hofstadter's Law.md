@@ -21,7 +21,7 @@ The law pairs naturally with [[Parkinson's Law]]: one says the work will take lo
 - [[Burndown Chart]]
 
 ## Related
-- [[Brooks's Law]]
+- [[Crunch]]
 - [[Gantt Chart]]
 - [[Software Crisis]]
 - [[Agile Software Development]]

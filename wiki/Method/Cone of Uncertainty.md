@@ -26,7 +26,7 @@ Agile methods partly respond to the cone by refusing to estimate distant work in
 The cone also explains why commitments made at the start of a project become sources of pressure later. When the early estimate was low by the usual factor, the gap shows up near the end, often as the long, slow finish described by the [[Ninety-Ninety Rule]], or as quietly accumulated shortcuts; see [[Technical Debt]]. Saying "we don't know yet, and here is when we will" is often the most accurate estimate available.
 
 ## See also
-- [[Sensitivity Analysis]]
+- [[Crunch]]
 - [[Shape Up]]
 - [[Second-Order Thinking]]
 - [[Scenario Planning]]

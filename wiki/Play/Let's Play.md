@@ -30,5 +30,5 @@ Recorded playthroughs have also become a record of how games looked and played, 
 
 ## See also
 - [[Fourth Wall]]
-- [[Achievement Hunting]]
+- [[Cutscene]]
 - [[Indie Game]]

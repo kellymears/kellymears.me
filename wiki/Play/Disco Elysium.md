@@ -14,8 +14,8 @@ The game is often cited for treating [[Ludonarrative Dissonance]] as solved, sin
 ## See also
 - [[Walking Simulator]]
 - [[Unreliable Narrator]]
-- [[Ludonarrative Dissonance]]
-- [[Environmental Storytelling]]
+- [[Dialogue Tree]]
+- [[Morality System]]
 - [[Tabletop Role-Playing Game]]
 - [[Interactive Fiction]]
 - [[Point-and-Click Adventure]]

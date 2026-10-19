@@ -21,3 +21,6 @@ Technically the format is demanding because a hundred players in one contiguous 
 - [[Meta-Progression]]
 - [[Anti-Cheat]]
 - [[Esports]]
+- [[Loot]]
+- [[Multiplayer Online Battle Arena]]
+- [[First-Person Shooter]]

@@ -25,5 +25,5 @@ Players attribute minds to NPCs readily. A few lines and a name are enough to ma
 Escorting a weak NPC through danger is one of the most criticized tasks in game design, largely because the character's behavior is outside the player's control; see [[Escort Mission]]. In text-based multiplayer worlds, NPCs shared space with real players, and telling them apart was sometimes part of the fun; see [[Multi-User Dungeon]].
 
 ## See also
-- [[Navigation Mesh]]
-- [[Procedural Narrative]]
+- [[Dialogue Tree]]
+- [[Morality System]]

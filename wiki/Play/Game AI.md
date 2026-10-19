@@ -29,7 +29,7 @@ Legibility is also a presentation problem, not only a behavior one. If a player 
 - [[Dynamic Difficulty Adjustment]]
 - [[Navigation Mesh]]
 - [[A-Star Search Algorithm]]
-- [[Dijkstra's Algorithm]]
+- [[Abstract Strategy Game]]
 - [[Non-Player Character]]
 - [[Boids]]
 - [[Reinforcement Learning]]

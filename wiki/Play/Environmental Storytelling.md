@@ -16,9 +16,9 @@ Two limits. Legibility depends on placement and sightlines, so the discipline ov
 
 ## See also
 - [[Alternate Reality Game]]
-- [[Portal Rendering]]
-- [[Walking Simulator]]
+- [[Dialogue Tree]]
+- [[First-Person Shooter]]
 - [[Escape Room]]
-- [[Curiosity]]
+- [[Cutscene]]
 - [[Easter Egg]]
 - [[In Medias Res]]

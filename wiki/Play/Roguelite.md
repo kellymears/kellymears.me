@@ -19,3 +19,4 @@ The [[Roguelike Deckbuilder]] hybrid usually leans roguelite in exactly this sen
 - [[Permadeath]]
 - [[Roguelike Deckbuilder]]
 - [[Checkpoint]]
+- [[Loot]]

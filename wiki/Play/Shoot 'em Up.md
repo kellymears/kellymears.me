@@ -37,3 +37,4 @@ Shmups faded from the mainstream as arcades declined, but they influenced later 
 - [[Vector Display]]
 - [[Arcade Game]]
 - [[Boss Battle]]
+- [[Extra Life]]

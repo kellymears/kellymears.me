@@ -20,4 +20,4 @@ Disclosure rules followed. Japan banned "complete gacha" in 2012 under prize-lab
 - [[Mental Accounting]]
 - [[Grinding]]
 - [[Collectible Card Game]]
-- [[Gambler's Fallacy]]
+- [[Loot]]

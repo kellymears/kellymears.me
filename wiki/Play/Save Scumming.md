@@ -12,7 +12,7 @@ Whether it counts as cheating depends entirely on what the save system was desig
 The interesting question isn't whether scumming is possible but whether it's *rational*. A player facing a single unrecoverable dice roll with permanent consequences and no in-fiction justification for retrying is, in a real sense, being asked to gamble with stakes the designer didn't actually want enforced that harshly — reloading in that case reads less like cheating and more like a sane response to a poorly calibrated risk. A design that truly wants its randomness respected has to make the save discipline part of the contract, the same way [[Soulslike]] makes its checkpoints (rather than an undo button) the honest cost of failure.
 
 ## See also
-- [[Permadeath]]
+- [[Extra Life]]
 - [[Cheat Code]]
 - [[Roguelike]]
 - [[Determinism]]

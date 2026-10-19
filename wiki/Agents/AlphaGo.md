@@ -32,4 +32,4 @@ AlphaGo is often cited as evidence for the [[Bitter Lesson]], since learning and
 - [[Moravec's Paradox]]
 - [[World Model]]
 - [[Alpha-Beta Pruning]]
-- [[AlphaFold]]
+- [[Abstract Strategy Game]]

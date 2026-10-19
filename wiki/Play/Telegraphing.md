@@ -27,4 +27,4 @@ Poor telegraphing is a common reason players call a game unfair. When damage com
 
 ## See also
 - [[Boss Rush]]
-- [[Heads-Up Display]]
+- [[First-Person Shooter]]

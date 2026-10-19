@@ -31,7 +31,7 @@ For designers, hidden information is a powerful tool:
 The idea reaches beyond games. Markets where one side knows more than the other behave very differently from open ones; see [[Information Asymmetry]].
 
 ## See also
-- [[Collectible Card Game]]
+- [[Abstract Strategy Game]]
 - [[Matchmaking Rating]]
 - [[Wargame]]
 - [[Elo Rating System]]

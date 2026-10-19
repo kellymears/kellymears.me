@@ -28,4 +28,4 @@ Designers also face a balancing problem. If enemies stay the same while the play
 
 ## See also
 - [[Achievement Hunting]]
-- [[Variable-Ratio Reinforcement]]
+- [[Loot]]

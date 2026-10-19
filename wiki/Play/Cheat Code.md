@@ -27,3 +27,4 @@ Whether cheating spoils a game depends on who is affected. In single-player game
 ## See also
 - [[Sequence Breaking]]
 - [[Difficulty Curve]]
+- [[Extra Life]]

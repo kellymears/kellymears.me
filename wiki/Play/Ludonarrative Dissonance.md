@@ -16,9 +16,9 @@ What survives is a design check. A reward schedule teaches behavior regardless o
 
 ## See also
 - [[Side Quest]]
-- [[Roguelike]]
+- [[Cutscene]]
 - [[Boss Battle]]
-- [[Game AI]]
+- [[Morality System]]
 - [[Cognitive Dissonance]]
 - [[Magic Circle]]
 - [[Procedural Rhetoric]]

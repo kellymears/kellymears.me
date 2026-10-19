@@ -18,3 +18,4 @@ QTEs are worth distinguishing from [[Skill Check]]: a skill check is usually a m
 - [[Frame Data]]
 - [[Difficulty Curve]]
 - [[Attentional Blink]]
+- [[Cutscene]]

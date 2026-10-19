@@ -17,6 +17,6 @@ summary: a narrative form told through text and portraits, where branching is ma
 - [[Metroidvania]]
 - [[Walking Simulator]]
 - [[Gamebook]]
-- [[Spoiler Etiquette]]
-- [[Achievement Hunting]]
+- [[Dialogue Tree]]
+- [[Cutscene]]
 - [[Interactive Fiction]]

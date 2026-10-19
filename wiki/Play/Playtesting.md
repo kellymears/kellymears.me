@@ -34,4 +34,4 @@ Testers also tune difficulty, revealing where a challenge spikes or becomes triv
 ## See also
 - [[Game Jam]]
 - [[Tutorial Design]]
-- [[Cheat Code]]
+- [[Crunch]]

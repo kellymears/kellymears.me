@@ -15,14 +15,14 @@ It's also distinct from [[Procedural Narrative]]: every branch here was written 
 
 ## See also
 - [[Gamebook]]
-- [[Non-Player Character]]
+- [[Dialogue Tree]]
 - [[Disco Elysium]]
 - [[Visual Novel]]
 - [[Side Quest]]
 - [[Tabletop Role-Playing Game]]
 - [[Procedural Rhetoric]]
-- [[Interesting Decisions]]
-- [[Deus ex Machina]]
+- [[Morality System]]
+- [[Cutscene]]
 - [[Hero's Journey]]
 - [[Walking Simulator]]
 - [[Legacy Game]]

@@ -27,5 +27,5 @@ Many genres now have scenes: real-time strategy, team shooters, battle royales, 
 Whether esports are sports remains debated, mostly over physical exertion. They share the essentials of rules, training, competition, and spectators, and the boundary is a matter of convention; see [[Magic Circle]]. Some countries already grant professional players the visas given to traditional athletes.
 
 ## See also
-- [[Local Multiplayer]]
-- [[Real-Time Strategy]]
+- [[Multiplayer Online Battle Arena]]
+- [[First-Person Shooter]]

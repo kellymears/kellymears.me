@@ -13,7 +13,7 @@ Rollback depends entirely on [[Determinism]]: the resimulation only produces the
 
 ## See also
 - [[Local Multiplayer]]
-- [[Determinism]]
+- [[Lag Compensation]]
 - [[Parry and Riposte]]
 - [[Matchmaking Rating]]
 - [[Latency and Jitter]]

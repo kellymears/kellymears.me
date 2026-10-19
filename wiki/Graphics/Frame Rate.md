@@ -27,8 +27,8 @@ Higher rates cost proportionally more work, so renderers buy them in other ways.
 Film has resisted higher rates. *The Hobbit* (2012) was shown in many theaters at 48 fps, and many viewers said it looked like television or a stage set, the so-called **soap opera effect**, which motion-smoothing settings on TVs also produce. Familiarity is probably part of it.
 
 ## See also
-- [[Swap Chain]]
+- [[Lag Compensation]]
 - [[Foveated Rendering]]
 - [[Motion Sickness]]
 - [[Smear Frame]]
-- [[Local Multiplayer]]
+- [[First-Person Shooter]]

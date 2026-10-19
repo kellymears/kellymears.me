@@ -15,7 +15,7 @@ The wager only pays out under a strict condition: **failure has to be legible**.
 The lineage is frequently misread as a case for hostility toward players. It is not. The commitments that make it work — consistent [[Game Feel]], honest tells, no hidden state — are legibility commitments, and legibility is an [[Accessibility]] argument. Difficulty options and clear tells are orthogonal; treating them as a trade is a failure of [[Plausible Mechanism]], not a defense of the form. What is genuinely load-bearing is that the world teaches through arrangement rather than instruction, which puts [[Environmental Storytelling]] at the center of the genre rather than at its edges.
 
 ## See also
-- [[Roguelike]]
+- [[Extra Life]]
 - [[Checkpoint]]
 - [[Meta-Progression]]
 - [[Boss Battle]]

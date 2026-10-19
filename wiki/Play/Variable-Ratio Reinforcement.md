@@ -18,6 +18,6 @@ What is established is the behavioral finding above, replicated across species a
 - [[Poker]]
 - [[Grinding]]
 - [[Pull-to-Refresh]]
-- [[Reward Prediction Error]]
+- [[Loot]]
 - [[Classical Conditioning]]
 - [[Push Your Luck]]

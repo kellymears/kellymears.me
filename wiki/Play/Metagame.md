@@ -16,6 +16,6 @@ Published **[[Tier List]]** rankings are where the metagame becomes visible and 
 - [[Power Creep]]
 - [[MDA Framework]]
 - [[Collectible Card Game]]
-- [[Self-Play]]
+- [[Multiplayer Online Battle Arena]]
 - [[Dominant Strategy]]
 - [[Real-Time Strategy]]

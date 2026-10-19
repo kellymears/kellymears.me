@@ -18,3 +18,4 @@ Cover systems share vocabulary with [[Stealth Mechanics]] — both concern line 
 - [[Companion AI]]
 - [[Quick Time Event]]
 - [[Navigation Mesh]]
+- [[First-Person Shooter]]

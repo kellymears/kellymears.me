@@ -16,9 +16,9 @@ The line worth holding is whether persistence removes obstacles or removes decis
 
 ## See also
 - [[Experience Point]]
-- [[Soulslike]]
+- [[Extra Life]]
 - [[Idle Game]]
-- [[Procedural Generation]]
+- [[Loot]]
 - [[Legacy Game]]
 - [[Skill Tree]]
 - [[Dynamic Difficulty Adjustment]]
