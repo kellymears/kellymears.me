@@ -23,3 +23,4 @@ Hand-set type lasted until the late nineteenth century, when machines that cast 
 - [[Calligraphy]]
 - [[Paper Size]]
 - [[Lorem Ipsum]]
+- [[Writing System]]

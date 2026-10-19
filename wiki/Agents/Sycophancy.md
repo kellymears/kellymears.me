@@ -36,4 +36,4 @@ Sycophancy is related to [[Hallucination]]: both produce fluent, confident text 
 - [[Activation Steering]]
 - [[ELIZA Effect]]
 - [[Scalable Oversight]]
-- [[Socratic Method]]
+- [[Deontology]]

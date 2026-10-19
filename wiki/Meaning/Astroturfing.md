@@ -23,5 +23,5 @@ Its target is often the [[Overton Window]] rather than any single vote — manuf
 - [[Jaywalking]]
 - [[Kayfabe]]
 - [[Poe's Law]]
-- [[Internet Forum]]
+- [[Propaganda]]
 - [[Dog Whistle]]

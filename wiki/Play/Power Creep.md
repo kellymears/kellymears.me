@@ -34,7 +34,7 @@ Designers manage it with several tools:
 Power creep has parallels outside games. Software accumulates features each release because new versions must justify upgrades; see [[Feature Creep]]. Credentials inflate as more people hold them, and metrics drift upward once they become targets; see [[Goodhart's Law]]. The common mechanism is a ratchet: each step is easy to take and hard to undo, the same asymmetry that makes [[Technical Debt]] grow.
 
 ## See also
-- [[Card Drafting]]
+- [[Inflation]]
 - [[Pay-to-Win]]
 - [[Deckbuilder]]
 - [[Collectible Card Game]]

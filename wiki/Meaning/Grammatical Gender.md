@@ -18,5 +18,5 @@ Whether the surviving classes shape thought beyond grammar is contested, and the
 - [[Diglossia]]
 - [[Linguistic Prescriptivism]]
 - [[Constructed Language]]
-- [[Code-Switching]]
+- [[Dialect]]
 - [[Creole Language]]

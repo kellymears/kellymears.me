@@ -30,5 +30,5 @@ Software has a parallel. Rewriting a project's commit history makes the record t
 - [[Cliffhanger]]
 - [[MacGuffin]]
 - [[Bechdel Test]]
-- [[Suspension of Disbelief]]
+- [[Three-Act Structure]]
 - [[Deus ex Machina]]

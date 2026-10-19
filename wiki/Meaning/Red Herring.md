@@ -19,4 +19,4 @@ Investigators meet red herrings without anyone planting them. Debugging is full 
 
 ## See also
 - [[Confidence Trick]]
-- [[Attention Economy]]
+- [[Three-Act Structure]]

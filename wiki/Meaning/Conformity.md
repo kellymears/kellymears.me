@@ -27,7 +27,7 @@ Conformity underlies many group failures. Members of a team who privately doubt 
 Remedies follow from Asch's findings: collect opinions privately before discussion, have junior members speak first, assign someone to argue the other side, and protect people who disagree; see [[Red teaming]] and [[Psychological Safety]].
 
 ## See also
-- [[Obedience to Authority]]
+- [[Civil Disobedience]]
 - [[Need for Closure]]
 - [[Bank Run]]
 - [[Emotional Contagion]]

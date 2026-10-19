@@ -34,7 +34,7 @@ A standard testing technique is **pseudo-localization**: replace every string wi
 Internationalization is a form of [[Inclusive Design]]: most of the world doesn't read English, and software that assumes otherwise excludes them by default.
 
 ## See also
-- [[Calligraphy]]
+- [[Writing System]]
 - [[Subtitling]]
 - [[Blackletter]]
 - [[Collation]]

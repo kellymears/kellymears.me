@@ -27,6 +27,6 @@ The remedy is making private views visible. Anonymous surveys that report actual
 ## See also
 - [[Participation Inequality]]
 - [[Spotlight Effect]]
-- [[Median Voter Theorem]]
+- [[Civil Disobedience]]
 - [[Conformity]]
 - [[Bank Run]]

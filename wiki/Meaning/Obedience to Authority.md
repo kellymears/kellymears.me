@@ -29,5 +29,5 @@ A partial replication in 2009, stopping at 150 volts for ethical reasons, found 
 The practical lesson concerns institutions. Organizations that let people raise concerns without penalty make it easier to refuse harmful instructions; see [[Psychological Safety]].
 
 ## See also
-- [[Devil's Advocate]]
-- [[Trolley Problem]]
+- [[Civil Disobedience]]
+- [[Deontology]]

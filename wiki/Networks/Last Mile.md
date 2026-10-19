@@ -31,6 +31,6 @@ Content networks place servers as close to the last mile as they can, inside pro
 ## See also
 - [[Twisted Pair]]
 - [[Submarine Cable]]
-- [[Emergency Telephone Number]]
+- [[Monopoly]]
 - [[Internet Service Provider]]
 - [[Internet Shutdown]]

@@ -27,7 +27,7 @@ Spotting a bubble beforehand is notoriously hard. Prices can stay irrational for
 Bubbles also spread costs beyond the people who bought in. Debt taken on during the boom forces sales during the bust, which drags down prices for everyone, and banks that lent against inflated collateral can fail; see [[Externality]] and [[Moral hazard]].
 
 ## See also
-- [[Gresham's Law]]
+- [[Supply and Demand]]
 - [[GeoCities]]
-- [[Bank Run]]
+- [[Inflation]]
 - [[Video Game Crash of 1983]]

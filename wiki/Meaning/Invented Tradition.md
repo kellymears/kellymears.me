@@ -25,7 +25,7 @@ The idea suggests some caution with arguments from custom. "We've always done it
 Rituals that mark major life changes are among the most commonly reinvented; see [[Rite of Passage]].
 
 ## See also
-- [[Kayfabe]]
+- [[Social Contract]]
 - [[Cultural Cringe]]
 - [[Schelling Point]]
 - [[Language Death]]

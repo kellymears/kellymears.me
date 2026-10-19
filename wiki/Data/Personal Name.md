@@ -19,6 +19,6 @@ Sorting and matching are hard too. Alphabetical order depends on language, prefi
 The usual design advice, from the W3C's internationalization guidance and government design systems among others, is to use one field for the full name as the person writes it, plus an optional field for what they'd like to be called. Split fields only when a downstream system truly needs them, and accept any character; see [[Form Design]] and [[Internationalization]]. Names are also personal data, often the key that links a person's records across systems; see [[Personal Data]].
 
 ## See also
-- [[Postal Address]]
+- [[Writing System]]
 - [[Census]]
-- [[Gazetteer]]
+- [[Dialect]]

@@ -23,3 +23,4 @@ Where a story starts shapes what it seems to be about. The same events told from
 - [[Chekhov's Gun]]
 - [[Suspension of Disbelief]]
 - [[Event Segmentation]]
+- [[Three-Act Structure]]

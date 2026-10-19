@@ -12,7 +12,7 @@ summary: designing or marketing a product for a shorter useful life than it coul
 The usual exhibit for the strong version is the Phoebus cartel: manufacturers of incandescent light bulbs agreed in the 1920s and 1930s to cap bulb life at around 1,000 hours and fined members whose bulbs lasted longer, an agreement established through surviving cartel records rather than inferred after the fact — one of the few cases where the [[Ground Truth]] of intent is documented at all. Even here the reading is contested: a 1951 UK Monopolies Commission inquiry rejected it, holding that a shorter-lived filament burns hotter and yields more light per watt, making 1,000 hours a defensible compromise between efficacy and lifetime. Nor is it the only documented case — Epson was prosecuted in France in 2018 over printer chips that declared cartridges and waste pads spent before they were. Most accusations of the same pattern — batteries, appliances, the general sense that things used to last — lack anything close to that standard, and are usually [[Plausible Mechanism]] doing the work a citation should: a short lifespan is consistent with a conspiracy story and equally consistent with ordinary wear, cost engineering, or the [[Survivorship Bias]] behind "they don't make them like they used to," which forgets every early appliance that already failed.
 
 ## See also
-- [[Right to Repair]]
+- [[Monopoly]]
 - [[Power Creep]]
 - [[Lump of Labor Fallacy]]
 - [[Hobson's Choice]]

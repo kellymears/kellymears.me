@@ -25,7 +25,7 @@ Critics argue that players often don't read rules as arguments at all, playing t
 For designers, the lesson is to ask what a system implies when someone plays it optimally. Rules, rewards, and failure states say what matters more forcefully than any text; see [[MDA Framework]] and [[Compulsion Loop]].
 
 ## See also
-- [[Magic Circle]]
+- [[Monopoly]]
 - [[Morality System]]
 - [[Immersive Sim]]
 - [[Catch-Up Mechanic]]

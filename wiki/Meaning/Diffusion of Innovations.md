@@ -30,6 +30,6 @@ For technology products, adoption feeds itself when each new user makes the prod
 Diffusion of ideas runs on the same curve. Positions that seem radical can move into the mainstream as more people adopt them; see [[Overton Window]]. Efficiency gains from a new technology can increase total use once it spreads; see [[Jevons Paradox]].
 
 ## See also
-- [[Lindy Effect]]
+- [[Civil Disobedience]]
 - [[Two-Sided Market]]
 - [[Lump of Labor Fallacy]]

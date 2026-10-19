@@ -15,7 +15,7 @@ The design goal is audience indifference. A MacGuffin works because the characte
 Both rely on the same trick as [[Chekhov's Gun]]: an object earns narrative weight from how the story treats it, independent of intrinsic content, which makes it a species of [[Diegesis]] — meaning assigned by framing rather than substance. Games often turn the same emptiness into literal collectible design, a [[Plausible Mechanism]] connecting narrative importance to a counter in the interface.
 
 ## See also
-- [[Ground Truth]]
+- [[Three-Act Structure]]
 - [[Naming]]
 - [[Fair-Play Mystery]]
 - [[Prototype Theory]]

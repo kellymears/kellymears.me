@@ -23,3 +23,4 @@ People also rationalize choices after the fact, explaining a selection in terms 
 ## See also
 - [[Veblen Good]]
 - [[Mental Accounting]]
+- [[Supply and Demand]]

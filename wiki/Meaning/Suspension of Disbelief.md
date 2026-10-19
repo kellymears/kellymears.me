@@ -31,4 +31,4 @@ The same willingness can be exploited outside fiction, when audiences accept imp
 ## See also
 - [[MacGuffin]]
 - [[Bechdel Test]]
-- [[In Medias Res]]
+- [[Three-Act Structure]]

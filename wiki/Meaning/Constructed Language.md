@@ -25,6 +25,6 @@ Constructed languages illuminate natural ones. Designers must make decisions nat
 Unicode has declined to encode the Klingon script in its standard, citing little real use in text, though fans use it in private encodings; see [[Character Encoding]].
 
 ## See also
-- [[Language Death]]
+- [[Writing System]]
 - [[Linguistic Prescriptivism]]
 - [[Jargon]]

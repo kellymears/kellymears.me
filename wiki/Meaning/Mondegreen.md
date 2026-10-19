@@ -18,4 +18,4 @@ The cross-language cousin is *soramimi*, a Japanese term for hearing foreign-lan
 - [[McGurk Effect]]
 - [[Earworm]]
 - [[Death of the Author]]
-- [[Predictive Processing]]
+- [[Dialect]]

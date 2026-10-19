@@ -24,3 +24,4 @@ Practical courtesies matter too. Players expect to be able to pause and skip cut
 ## See also
 - [[Visual Novel]]
 - [[Diegetic Interface]]
+- [[Three-Act Structure]]

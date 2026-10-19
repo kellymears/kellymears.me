@@ -16,11 +16,11 @@ The genuinely hard part is measurement, not theory. Pricing a harm with no marke
 
 ## See also
 - [[Gresham's Law]]
-- [[Jevons Paradox]]
+- [[Supply and Demand]]
 - [[Baumol's Cost Disease]]
 - [[Herd Immunity]]
 - [[Antibiotic Resistance]]
 - [[Universal Basic Income]]
 - [[Jaywalking]]
-- [[Email Spam]]
+- [[Monopoly]]
 - [[Comparative Advantage]]

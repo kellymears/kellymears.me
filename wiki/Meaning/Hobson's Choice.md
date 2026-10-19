@@ -25,5 +25,5 @@ Framing also matters. The same offer, presented as an opportunity instead of an 
 
 ## See also
 - [[Principal-Agent Problem]]
-- [[Opportunity Cost]]
+- [[Deontology]]
 - [[Veil of Ignorance]]

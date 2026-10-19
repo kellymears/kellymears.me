@@ -24,3 +24,4 @@ The result is best read as [[Prototype Theory]] applied to a fictional person in
 - [[Suspension of Disbelief]]
 - [[Fan Fiction]]
 - [[Bechdel Test]]
+- [[Three-Act Structure]]

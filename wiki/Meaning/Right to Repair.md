@@ -12,16 +12,16 @@ summary: the movement for consumer and independent-shop access to the parts, too
 Legislative movement has been real: several jurisdictions now require manufacturers to sell parts, tools, and documentation to owners and independent shops on fair terms, following advocacy that functioned as sustained [[Collective Action]] against a well-resourced industry. Manufacturers' objections deserve a fair hearing: some repairs on lithium batteries or laser assemblies carry genuine safety risk done wrong, and firmware locks are sometimes framed as security against counterfeit components entering the supply chain, the same logic used to justify [[Code Signing]] elsewhere. Critics respond that these justifications also protect a repair monopoly, an incentive structure close to [[Rent-Seeking]], and that the resulting e-waste is an [[Externality]] borne by nobody who profits from it. Both things can be true of the same lock.
 
 ## See also
-- [[Planned Obsolescence]]
+- [[Civil Disobedience]]
 - [[Public Domain]]
 - [[Lump of Labor Fallacy]]
-- [[Internet of Things]]
+- [[Monopoly]]
 - [[IKEA Effect]]
 
 ## Related
 - [[Encrypted Media Extensions]]
 - [[Universal Basic Income]]
-- [[Motherboard]]
+- [[Deontology]]
 - [[Dieter Rams]]
 - [[Hobson's Choice]]
 - [[Baumol's Cost Disease]]

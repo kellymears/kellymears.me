@@ -29,4 +29,4 @@ Memorable bosses often break the rules instead of just being stronger: a fight t
 
 ## See also
 - [[Metroidvania]]
-- [[Asymmetric Multiplayer]]
+- [[Three-Act Structure]]

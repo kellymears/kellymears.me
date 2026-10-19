@@ -32,5 +32,5 @@ The idea reaches well beyond economics. Software users can't inspect what's in t
 - [[Hobson's Choice]]
 - [[Poker]]
 - [[Gresham's Law]]
-- [[Bank Run]]
+- [[Supply and Demand]]
 - [[Status Page]]

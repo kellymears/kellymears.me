@@ -24,3 +24,4 @@ Interactive form changes the convention's enforcement from etiquette to mechanis
 - [[Suspension of Disbelief]]
 - [[Rashomon Effect]]
 - [[Red Herring]]
+- [[Three-Act Structure]]

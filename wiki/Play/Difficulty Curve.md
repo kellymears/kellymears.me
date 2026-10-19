@@ -20,7 +20,7 @@ There's a second, subtler curve worth separating from the authored one: the play
 - [[Boss Rush]]
 - [[Zone of Proximal Development]]
 - [[Learning Curve]]
-- [[Extra Life]]
+- [[Three-Act Structure]]
 - [[Boss Battle]]
 - [[Sudoku]]
 - [[Dynamic Difficulty Adjustment]]

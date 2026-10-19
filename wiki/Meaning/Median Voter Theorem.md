@@ -33,3 +33,4 @@ As with other spatial reasoning, the distribution matters. If voters cluster in 
 - [[Satisficing]]
 - [[Tyranny of the Majority]]
 - [[Veil of Ignorance]]
+- [[Social Contract]]

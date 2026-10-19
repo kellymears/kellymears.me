@@ -17,7 +17,7 @@ A red herring exploits the same convention in reverse, planting false emphasis t
 ## See also
 - [[MacGuffin]]
 - [[Red Herring]]
-- [[Suspension of Disbelief]]
+- [[Three-Act Structure]]
 - [[In Medias Res]]
 - [[Cliffhanger]]
 - [[Telegraphing]]

@@ -17,7 +17,7 @@ The historical record includes outright alteration: religious and violent conten
 
 ## See also
 - [[Constructed Language]]
-- [[Mahjong]]
+- [[Dialect]]
 - [[Creole Language]]
 - [[Crossword]]
 - [[Machine Translation]]

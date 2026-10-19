@@ -24,3 +24,4 @@ The look keeps returning. Album covers, film titles and advertising borrow its a
 ## See also
 - [[Art Deco]]
 - [[Brutalist Web Design]]
+- [[Propaganda]]

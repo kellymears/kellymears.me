@@ -29,4 +29,4 @@ Social identity helps explain nationalism, sports rivalry, political polarizatio
 ## See also
 - [[Bechdel Test]]
 - [[Cultural Capital]]
-- [[Reminiscence Bump]]
+- [[Dialect]]

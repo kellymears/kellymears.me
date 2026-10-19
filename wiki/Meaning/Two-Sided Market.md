@@ -25,7 +25,7 @@ Interoperability is one proposed remedy. If users could take their contacts, his
 Matching markets that run without prices, like school choice and medical residencies, share some of these features; see [[Stable Matching]].
 
 ## See also
-- [[Diffusion of Innovations]]
-- [[Walled Garden]]
+- [[Supply and Demand]]
+- [[Monopoly]]
 - [[Schelling Point]]
 - [[Minitel]]

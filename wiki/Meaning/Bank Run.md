@@ -24,3 +24,4 @@ Runs often follow the bursting of a bubble, when doubts about asset values becom
 - [[Gresham's Law]]
 - [[Modern Monetary Theory]]
 - [[Collective Action]]
+- [[Inflation]]

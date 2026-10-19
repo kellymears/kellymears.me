@@ -20,3 +20,4 @@ The usual remedy is to pair them. Goal frameworks such as [[Objectives and Key R
 ## See also
 - [[Black Swan]]
 - [[Superforecasting]]
+- [[Inflation]]

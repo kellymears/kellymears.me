@@ -18,7 +18,7 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 ## See also
 - [[McNamara Fallacy]]
 - [[Issue Tracker]]
-- [[Leading Indicator]]
+- [[Inflation]]
 - [[Panopticon]]
 - [[Blood Doping]]
 - [[AI Alignment]]

@@ -34,6 +34,6 @@ Brandolini's law sits alongside other observations about online discourse, such 
 - [[Gresham's Law]]
 - [[Source Amnesia]]
 - [[Betteridge's Law of Headlines]]
-- [[Red Herring]]
+- [[Propaganda]]
 - [[Logical Fallacy]]
 - [[Sturgeon's Law]]

@@ -29,6 +29,6 @@ What survives is a modest but useful point: attention for relationships is finit
 ## See also
 - [[Two-Pizza Team]]
 - [[Code of Conduct]]
-- [[Internet Forum]]
+- [[Social Contract]]
 - [[Loneliness]]
 - [[Strength of Weak Ties]]

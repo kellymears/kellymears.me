@@ -30,7 +30,7 @@ Money needs more than exact numbers. An amount without a currency is ambiguous, 
 
 ## See also
 - [[Country Code]]
-- [[JSON]]
+- [[Inflation]]
 - [[Bresenham's Line Algorithm]]
 - [[Double-Entry Bookkeeping]]
 - [[Pentium FDIV Bug]]

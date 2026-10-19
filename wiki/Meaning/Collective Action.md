@@ -16,11 +16,11 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 - [[Rent Strike]]
 - [[Broken Windows Theory]]
 - [[Median Voter Theorem]]
-- [[Bank Run]]
+- [[Social Contract]]
 - [[Drafting]]
 
 ## Related
-- [[Creole Language]]
+- [[Civil Disobedience]]
 - [[Tyranny of the Majority]]
 - [[Cooperative Game]]
 - [[Social Capital]]

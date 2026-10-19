@@ -22,3 +22,6 @@ The device's reach extends beyond Rawls's own conclusions. It protects against m
 - [[Arrow's Impossibility Theorem]]
 - [[Free Rider Problem]]
 - [[Matthew Effect]]
+- [[Social Contract]]
+- [[Deontology]]
+- [[Civil Disobedience]]

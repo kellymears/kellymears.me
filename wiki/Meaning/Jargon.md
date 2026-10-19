@@ -23,3 +23,4 @@ In software design, some methods deliberately cultivate jargon. Teams are encour
 ## See also
 - [[Backronym]]
 - [[Creole Language]]
+- [[Dialect]]

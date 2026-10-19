@@ -26,6 +26,6 @@ The social version can be the stronger one. People who believe their views are u
 The opposite problem also exists. An organized minority can dominate a disengaged majority; see [[Iron Law of Oligarchy]].
 
 ## See also
-- [[Overton Window]]
-- [[Collective Action]]
+- [[Civil Disobedience]]
+- [[Social Contract]]
 - [[Veil of Ignorance]]

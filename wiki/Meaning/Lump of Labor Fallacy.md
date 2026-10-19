@@ -22,3 +22,5 @@ Each wave of automation revives the question of whether this time is different, 
 - [[Opportunity Cost]]
 - [[Brooks's Law]]
 - [[Artificial General Intelligence]]
+- [[Supply and Demand]]
+- [[Inflation]]

@@ -29,4 +29,4 @@ Software can be designed so the question doesn't arise. Applications that keep t
 - [[Data Sovereignty]]
 - [[Freedom of Information]]
 - [[Linked Data]]
-- [[Data Silo]]
+- [[Monopoly]]

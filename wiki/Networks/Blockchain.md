@@ -30,6 +30,6 @@ In the 2010s, companies piloted blockchains for supply chains, land registries, 
 
 ## See also
 - [[Distributed Hash Table]]
-- [[Double-Entry Bookkeeping]]
+- [[Inflation]]
 - [[Generative Art]]
 - [[Gresham's Law]]

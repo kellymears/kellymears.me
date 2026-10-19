@@ -23,3 +23,4 @@ The convention of a "true ending," gated behind extra conditions and implicitly 
 - [[Side Quest]]
 - [[Dialogue Tree]]
 - [[Morality System]]
+- [[Three-Act Structure]]

@@ -25,6 +25,6 @@ Borrowing isn't the only source of new words; speakers also fuse existing ones; 
 
 ## See also
 - [[Jargon]]
-- [[Constructed Language]]
-- [[Euphemism Treadmill]]
+- [[Writing System]]
+- [[Dialect]]
 - [[Linguistic Prescriptivism]]

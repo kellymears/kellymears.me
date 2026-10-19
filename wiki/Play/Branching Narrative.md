@@ -23,6 +23,6 @@ It's also distinct from [[Procedural Narrative]]: every branch here was written 
 - [[Procedural Rhetoric]]
 - [[Morality System]]
 - [[Cutscene]]
-- [[Hero's Journey]]
+- [[Three-Act Structure]]
 - [[Walking Simulator]]
 - [[Legacy Game]]

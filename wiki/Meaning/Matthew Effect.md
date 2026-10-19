@@ -28,7 +28,7 @@ Counterweights exist. Blind review, lotteries for grant funding among qualified 
 
 ## See also
 - [[Citation Index]]
-- [[Catch-Up Mechanic]]
+- [[Monopoly]]
 - [[Two-Sided Market]]
 - [[Cultural Capital]]
 - [[Just-World Hypothesis]]

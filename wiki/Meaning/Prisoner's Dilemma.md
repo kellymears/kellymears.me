@@ -31,5 +31,5 @@ The model has critics. Real people cooperate more than the theory predicts in on
 - [[Alpha-Beta Pruning]]
 - [[BitTorrent]]
 - [[Blockchain]]
-- [[Scalable Oversight]]
+- [[Social Contract]]
 - [[Poker]]

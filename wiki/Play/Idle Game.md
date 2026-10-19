@@ -18,7 +18,7 @@ The form sits uncomfortably close to its own critique. A game engineered so that
 - [[Grinding]]
 - [[Factory Game]]
 - [[Virtual Pet]]
-- [[Roguelike]]
+- [[Inflation]]
 - [[Solitaire]]
 - [[Boredom]]
 - [[Cozy Game]]

@@ -28,5 +28,5 @@ The law is sobering for anyone organizing people toward a shared goal; see [[Col
 
 ## See also
 - [[Gerrymandering]]
-- [[Tyranny of the Majority]]
-- [[Sortition]]
+- [[Social Contract]]
+- [[Monopoly]]

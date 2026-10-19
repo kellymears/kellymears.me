@@ -23,3 +23,4 @@ Streaming changed the rhythm. When the next episode starts automatically within 
 - [[In Medias Res]]
 - [[Chekhov's Gun]]
 - [[Event Segmentation]]
+- [[Three-Act Structure]]

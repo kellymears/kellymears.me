@@ -25,7 +25,7 @@ The opposite is the **self-defeating prophecy**, a prediction that prevents itse
 The concept also explains how labels stick. Treating someone as a troublemaker can push them toward the role, and measured observation changes what is measured; see [[Hawthorne Effect]]. Once a prophecy has fulfilled itself, the outcome seems to confirm that the original belief was right all along; see [[Confirmation Bias]].
 
 ## See also
-- [[Learned Helplessness]]
+- [[Inflation]]
 - [[Year 2000 Problem]]
 - [[Bank Run]]
 - [[Duverger's Law]]

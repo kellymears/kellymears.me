@@ -24,7 +24,7 @@ The system is now being retired. Calls increasingly travel as internet packets, 
 
 ## See also
 - [[Wiretapping]]
-- [[Twisted Pair]]
+- [[Monopoly]]
 - [[Pager]]
 - [[Two-Way Radio]]
 - [[Emergency Telephone Number]]

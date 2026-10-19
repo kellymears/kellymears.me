@@ -28,5 +28,5 @@ The modern practice adds tooling — automatic [[Backlink]]s, graph views, full-
 - [[Markdown]]
 - [[Affinity Diagram]]
 - [[Levels of Processing]]
-- [[Search Engine Optimization]]
+- [[Writing System]]
 - [[Desirable Difficulty]]

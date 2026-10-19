@@ -33,7 +33,7 @@ Tarot readers sometimes read the major arcana as a similar journey, from the Foo
 ## See also
 - [[MacGuffin]]
 - [[Death of the Author]]
-- [[In Medias Res]]
+- [[Three-Act Structure]]
 - [[Cliffhanger]]
 - [[Narrative Fallacy]]
 - [[Bechdel Test]]

@@ -27,7 +27,7 @@ Neighboring practices lack the hidden intent. Speakers shift registers for diffe
 The tactic lives at the edges of acceptable speech, and it tends to move them; see [[Overton Window]].
 
 ## See also
-- [[Astroturfing]]
+- [[Propaganda]]
 - [[Red Herring]]
 - [[Politeness Theory]]
 - [[Numbers Station]]

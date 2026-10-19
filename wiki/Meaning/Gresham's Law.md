@@ -23,3 +23,5 @@ Shared resources degrade similarly when individuals benefit from spending down q
 - [[Speculative Bubble]]
 - [[Veblen Good]]
 - [[Bank Run]]
+- [[Supply and Demand]]
+- [[Inflation]]

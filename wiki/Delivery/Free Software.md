@@ -31,3 +31,4 @@ Most permissively licensed software is also free software by the FSF's definitio
 - [[Developer Certificate of Origin]]
 - [[Gift Economy]]
 - [[Wikipedia]]
+- [[Monopoly]]

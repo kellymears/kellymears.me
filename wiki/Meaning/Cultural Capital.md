@@ -27,3 +27,4 @@ Later research complicated the picture. In the 1990s, American sociologists foun
 - [[Invented Tradition]]
 - [[Halo Effect]]
 - [[Jargon]]
+- [[Dialect]]

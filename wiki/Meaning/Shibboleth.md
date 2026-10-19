@@ -12,7 +12,7 @@ Wartime versions kept the lethal stakes with the same mechanism: passwords chose
 Most shibboleths today are soft rather than lethal, and still do real sorting work. A regional vowel, a word for a soft drink, getting a loanword's [[Grammatical Gender]] wrong, all place a speaker's origin before a sentence finishes. Inside professions, the marker is often a [[Collocation]] rather than a pronunciation — a pairing of words a practitioner reaches for without thinking, harder to fake than vocabulary alone, since [[Ground Truth]] fluency shows up in habits, not a glossary. The same gap that turns an accent into a listener's [[Mondegreen]] turns it into a speaker's shibboleth.
 
 ## See also
-- [[Dog Whistle]]
+- [[Dialect]]
 - [[Language Death]]
 - [[Creole Language]]
 - [[Speech Act]]

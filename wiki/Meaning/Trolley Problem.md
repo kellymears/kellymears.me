@@ -26,7 +26,7 @@ The problem returns in debates over machine values. Deciding how an AI system sh
 Critics argue the scenarios are so artificial that intuitions about them reveal little about real decisions. Defenders reply that thought experiments isolate one variable at a time, as controlled experiments do; see [[Randomized Controlled Trial]].
 
 ## See also
-- [[Autonomous Vehicle]]
+- [[Deontology]]
 - [[Ship of Theseus]]
 - [[Veil of Ignorance]]
 - [[Thought Experiment]]

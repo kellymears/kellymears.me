@@ -31,3 +31,4 @@ Critics note that the questionnaire is easy to misread and that categories assig
 - [[Satisficing]]
 - [[Product Backlog]]
 - [[Decision Matrix]]
+- [[Supply and Demand]]

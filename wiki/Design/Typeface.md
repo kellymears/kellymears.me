@@ -30,6 +30,6 @@ In a [[Design System]], typefaces are recorded as a [[Design Token]], so they ch
 
 ## See also
 - [[Blackletter]]
-- [[Constructivism]]
+- [[Writing System]]
 - [[Arts and Crafts Movement]]
 - [[Art Nouveau]]

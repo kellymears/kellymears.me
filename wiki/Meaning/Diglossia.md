@@ -26,7 +26,7 @@ Digital communication has complicated the picture. Arabic speakers increasingly 
 Shifts between varieties also show how language connects to identity and belonging; see [[Social Identity Theory]]. When a low variety loses speakers to a dominant language altogether, diglossia can be a stage on the way to its disappearance; see [[Language Death]].
 
 ## See also
-- [[Semantic Change]]
+- [[Dialect]]
 - [[Jargon]]
 - [[Grammatical Gender]]
 - [[Linguistic Prescriptivism]]

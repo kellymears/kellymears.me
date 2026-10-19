@@ -23,3 +23,4 @@ The genre's real weakness is a legibility gap between generation and experience.
 - [[Gamebook]]
 - [[Non-Player Character]]
 - [[Dialogue Tree]]
+- [[Three-Act Structure]]

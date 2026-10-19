@@ -16,6 +16,6 @@ What makes the eggcorn worth naming separately is that it is evidence of reasoni
 - [[Linguistic Prescriptivism]]
 - [[Metonymy]]
 - [[Portmanteau]]
-- [[Naming]]
+- [[Dialect]]
 - [[Semantic Change]]
 - [[Meme]]

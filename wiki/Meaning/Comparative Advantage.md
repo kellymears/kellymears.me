@@ -23,3 +23,4 @@ The logic now appears in discussions of automation, where the question is less w
 ## See also
 - [[Gift Economy]]
 - [[Jevons Paradox]]
+- [[Supply and Demand]]

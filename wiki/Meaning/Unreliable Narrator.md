@@ -25,6 +25,6 @@ Unreliable narration resonates because everyday memory is unreliable too. People
 ## See also
 - [[Multiple Endings]]
 - [[Red Herring]]
-- [[MacGuffin]]
+- [[Three-Act Structure]]
 - [[In Medias Res]]
 - [[Bechdel Test]]

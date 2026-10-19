@@ -23,3 +23,4 @@ Some practical advice follows regardless of the debate. Tying behavior to identi
 ## See also
 - [[Self-Determination Theory]]
 - [[Fresh Start Effect]]
+- [[Deontology]]

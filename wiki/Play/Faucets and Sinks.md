@@ -35,6 +35,6 @@ Designers sometimes compare the role to a central bank's: money creation and rem
 
 ## See also
 - [[Engine Building]]
-- [[Pay-to-Win]]
-- [[Crafting System]]
+- [[Inflation]]
+- [[Supply and Demand]]
 - [[Mental Accounting]]

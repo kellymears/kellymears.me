@@ -35,4 +35,4 @@ The idea extends beyond games. The educator Seymour Papert described good learni
 ## See also
 - [[Video Game Crash of 1983]]
 - [[Pinball]]
-- [[Go]]
+- [[Monopoly]]

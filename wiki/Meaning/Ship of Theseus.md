@@ -28,7 +28,7 @@ Museums face the question directly. A restored locomotive or aircraft may contai
 
 ## See also
 - [[Trolley Problem]]
-- [[Semantic Change]]
+- [[Deontology]]
 - [[Retcon]]
 - [[Invented Tradition]]
 - [[Legacy Game]]

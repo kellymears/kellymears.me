@@ -16,7 +16,7 @@ The defense is to track a claim's actual evidentiary history rather than the fee
 
 ## See also
 - [[Source Amnesia]]
-- [[Confirmation Bias]]
+- [[Propaganda]]
 - [[Availability Heuristic]]
 - [[Barnum Effect]]
 - [[Availability Cascade]]

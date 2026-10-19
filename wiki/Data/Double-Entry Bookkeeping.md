@@ -23,3 +23,4 @@ Some cryptocurrency advocates describe a shared public ledger as triple-entry ac
 ## See also
 - [[Bitemporal Data]]
 - [[Idempotency Key]]
+- [[Writing System]]

@@ -23,3 +23,4 @@ Today blackletter is a signal more than a text face. It marks tradition and auth
 ## See also
 - [[Drop Cap]]
 - [[Kerning]]
+- [[Writing System]]

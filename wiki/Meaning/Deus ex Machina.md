@@ -27,7 +27,7 @@ Games face a version of the problem. A scripted rescue after an unwinnable fight
 How much a story owes its audience is partly a question of who decides what it means; see [[Death of the Author]].
 
 ## See also
-- [[Hero's Journey]]
+- [[Three-Act Structure]]
 - [[Diegesis]]
 - [[Suspension of Disbelief]]
 - [[Cliffhanger]]

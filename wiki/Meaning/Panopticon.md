@@ -23,7 +23,7 @@ The **chilling effect** is the self-censorship that follows from expected survei
 Workplace monitoring raises the panopticon's questions directly: keystroke logging, screen captures, and activity scores push workers to optimize what is measured rather than what matters; see [[Goodhart's Law]]. Watching also undermines the trust needed for people to admit mistakes; see [[Psychological Safety]]. Defenses range from law and encryption to technical methods that let data be analyzed without exposing individuals; see [[Differential Privacy]].
 
 ## See also
-- [[Freedom of Information]]
+- [[Social Contract]]
 - [[Wiretapping]]
 - [[Obedience to Authority]]
 - [[Doxing]]

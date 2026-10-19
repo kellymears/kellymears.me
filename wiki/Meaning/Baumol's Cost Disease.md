@@ -35,3 +35,5 @@ The idea raises live questions as AI systems take on tasks once limited by human
 - [[Externality]]
 - [[Comparative Advantage]]
 - [[Lump of Labor Fallacy]]
+- [[Supply and Demand]]
+- [[Inflation]]

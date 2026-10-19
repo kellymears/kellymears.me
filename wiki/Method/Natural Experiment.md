@@ -24,7 +24,7 @@ Each design rests on an assumption that can't be fully tested: that nothing else
 Natural experiments have limits. They answer the question nature happened to pose, about the people nature happened to sort, which may not generalize. And the flexibility to choose comparison groups and time windows creates room for finding effects that aren't there; see [[Multiple Comparisons Problem]]. Joshua Angrist, Guido Imbens, and David Card shared the 2021 economics Nobel for developing these methods.
 
 ## See also
-- [[Causal Inference]]
+- [[Supply and Demand]]
 - [[Sensitivity Analysis]]
 - [[Observational Study]]
 - [[Bradford Hill Criteria]]

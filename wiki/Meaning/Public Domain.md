@@ -29,4 +29,4 @@ Similar debates surround patents, software that can't legally be repaired, and o
 - [[OpenStreetMap]]
 - [[Freedom of Information]]
 - [[Gopher]]
-- [[Open Source Definition]]
+- [[Monopoly]]

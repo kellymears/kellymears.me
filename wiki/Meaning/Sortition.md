@@ -36,3 +36,4 @@ Theorists note that elections face mathematical limits of their own; see [[Arrow
 - [[Gerrymandering]]
 - [[Tyranny of the Majority]]
 - [[Veil of Ignorance]]
+- [[Social Contract]]
