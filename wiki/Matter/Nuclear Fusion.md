@@ -25,7 +25,8 @@ Fusion power has been pursued since the 1950s. The easiest reaction combines deu
 The engineering problems remain hard: fast neutrons damage the reactor walls and make them radioactive, tritium must be bred from lithium, and the plasma is prone to instabilities. The old joke that fusion power is always thirty years away endures; see [[Hofstadter's Law]].
 
 ## See also
-- [[Photon]]
+- [[Supernova]]
 - [[Ionizing Radiation]]
 - [[Black Hole]]
-- [[Big Bang]]
+- [[Plasma]]
+- [[Neutron Star]]

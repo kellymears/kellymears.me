@@ -31,7 +31,7 @@ The alternatives are known. **Constant-current reduction** dims by lowering curr
 - [[Bioluminescence]]
 - [[Circadian Lighting]]
 - [[Sensory Overload]]
-- [[Aliasing]]
+- [[Plasma]]
 - [[Ohm's Law]]
 - [[Semiconductor]]
 - [[Capacitor]]

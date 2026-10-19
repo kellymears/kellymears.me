@@ -29,4 +29,4 @@ In testing, randomness drives [[Property-Based Testing]] and [[Fuzzing]], and re
 ## See also
 - [[RSA]]
 - [[Perfect Hashing]]
-- [[Random Walk]]
+- [[Quantum Entanglement]]

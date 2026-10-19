@@ -24,7 +24,7 @@ The razor pairs naturally with [[Plausible Mechanism]]: prefer the account with 
 ## Related
 - [[KISS Principle]]
 - [[Reductio ad Absurdum]]
-- [[Regularization]]
+- [[Dark Matter]]
 - [[Kolmogorov Complexity]]
 - [[Burden of Proof]]
 - [[Double Descent]]

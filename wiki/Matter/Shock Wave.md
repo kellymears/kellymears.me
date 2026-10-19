@@ -29,7 +29,7 @@ Medicine puts them to use: focused shock waves break up kidney stones without su
 Light has an analogue. Nothing outruns light in a vacuum, but in water it slows to three quarters of that speed, and particles traveling faster than that emit a cone of blue light, the glow in nuclear reactor pools.
 
 ## See also
-- [[Bernoulli's Principle]]
+- [[Supernova]]
 - [[Reynolds Number]]
 - [[Nuclear Fission]]
 - [[Earthquake]]

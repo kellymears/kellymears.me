@@ -28,6 +28,6 @@ A beam still spreads a little. One aimed at the Moon is several kilometers wide 
 That concentration is also the hazard: the eye focuses even a weak beam onto one point of the retina, which can burn it.
 
 ## See also
-- [[Holography]]
-- [[Ionizing Radiation]]
+- [[Quantum Entanglement]]
+- [[Uncertainty Principle]]
 - [[Gyroscope]]

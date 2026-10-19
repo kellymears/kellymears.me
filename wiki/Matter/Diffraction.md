@@ -14,7 +14,7 @@ The classic demonstration is single-slit diffraction: light through a narrow sli
 ## See also
 - [[Dispersion]]
 - [[Doppler Effect]]
-- [[Polarized Light]]
+- [[Uncertainty Principle]]
 - [[Refraction]]
 - [[Wave Interference]]
 - [[Holography]]

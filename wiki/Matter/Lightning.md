@@ -21,8 +21,8 @@ Damage reaches far beyond the strike point. The huge, rapidly changing current i
 Safety advice is short: if thunder is audible, lightning is close enough to strike. Shelter in a building or car, and wait 30 minutes after the last thunder.
 
 ## See also
-- [[Atmospheric Pressure]]
-- [[Magnetism]]
+- [[Plasma]]
+- [[Tropical Cyclone]]
 - [[Shock Wave]]
 - [[Aurora]]
 - [[Faraday Cage]]

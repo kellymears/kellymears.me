@@ -19,7 +19,7 @@ Crossed polarizers also reveal **stress birefringence**: strained plastics and t
 - [[Quantum Computing]]
 - [[Rainbow]]
 - [[Structural Color]]
-- [[Laser]]
+- [[Quantum Entanglement]]
 - [[Lens]]
 - [[Rayleigh Scattering]]
 - [[Glass]]

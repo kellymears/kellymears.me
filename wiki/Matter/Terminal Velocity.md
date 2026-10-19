@@ -21,3 +21,4 @@ Terminal velocity is reached asymptotically, not instantly — an object approac
 - [[Reynolds Number]]
 - [[Gravity]]
 - [[Escape Velocity]]
+- [[Vortex Shedding]]

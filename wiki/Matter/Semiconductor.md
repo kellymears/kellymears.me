@@ -29,6 +29,6 @@ Semiconductor devices obey the same basic physics as other circuits, including [
 ## See also
 - [[Hall Effect]]
 - [[Photovoltaic Effect]]
-- [[Superconductivity]]
-- [[Quantum Tunneling]]
+- [[Plasma]]
+- [[Uncertainty Principle]]
 - [[Liquid-Crystal Display]]

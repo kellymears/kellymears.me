@@ -29,4 +29,4 @@ Gyroscopic effects also matter in everyday motion. Spinning wheels contribute mo
 
 ## See also
 - [[Centripetal Force]]
-- [[Virtual Reality]]
+- [[Neutron Star]]

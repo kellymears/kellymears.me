@@ -28,9 +28,9 @@ The **twin paradox** is the classic thought experiment. One twin travels to a di
 International Atomic Time combines clocks from labs around the world, each corrected for its altitude; see [[Clock synchronization]]. The same physics shifts the frequency of light climbing out of gravity, a cousin of the familiar shift from motion; see [[Doppler Effect]].
 
 ## See also
-- [[Newton's Laws of Motion]]
-- [[Black Hole]]
+- [[Dark Matter]]
+- [[Neutron Star]]
 - [[Inertial Measurement Unit]]
-- [[Thought Experiment]]
+- [[Quantum Entanglement]]
 - [[Single-Event Upset]]
 - [[Atomic Clock]]

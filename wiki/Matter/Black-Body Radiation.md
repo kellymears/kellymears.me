@@ -23,6 +23,6 @@ The most perfect black-body spectrum ever measured is the faint microwave glow l
 - [[Absolute Zero]]
 - [[Black Hole]]
 - [[Bioluminescence]]
-- [[Big Bang]]
+- [[Vacuum Flask]]
 - [[Nuclear Fusion]]
-- [[Lagrange Point]]
+- [[Supernova]]

@@ -30,3 +30,4 @@ Cavitation is probably behind the crack of knuckles. A 2015 study filmed a finge
 - [[Shock Wave]]
 - [[Henry's Law]]
 - [[Siphon]]
+- [[Vortex Shedding]]

@@ -26,3 +26,4 @@ A tumbling body, no matter how it's thrown, always rotates about its own center 
 - [[Gravity]]
 - [[Lever]]
 - [[Lagrange Point]]
+- [[Neutron Star]]

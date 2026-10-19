@@ -26,3 +26,4 @@ The middle ear sits next to the balance organs of the inner ear, and pressure im
 ## See also
 - [[Sound]]
 - [[Motion Sickness]]
+- [[Helmholtz Resonance]]

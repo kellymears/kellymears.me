@@ -32,5 +32,5 @@ Uncertainty also widens with distance; see [[Cone of Uncertainty]].
 ## See also
 - [[Delphi Method]]
 - [[Brier Score]]
-- [[Motivated Reasoning]]
+- [[Tropical Cyclone]]
 - [[Bayesian Inference]]

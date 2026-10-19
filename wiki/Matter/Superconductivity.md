@@ -28,9 +28,11 @@ The catch is cold. Most practical magnets still need liquid helium, which is sca
 That makes a superconductor working at room temperature and ordinary pressure a long-sought goal, and a magnet for hype. Hydrogen-rich compounds squeezed to pressures like those deep inside the Earth do superconduct near room temperature, but several high-profile claims in that field were retracted. In 2023 a preprint claiming a room-temperature superconductor called LK-99 spread widely online; replication attempts within weeks traced its behavior to impurities. The episode showed both the speed of open replication and how far a claim can travel first; see [[Replication Crisis]].
 
 ## See also
-- [[Semiconductor]]
-- [[Electromigration]]
+- [[Vacuum Flask]]
+- [[Plasma]]
 - [[Thermoelectric Effect]]
 - [[Quantum Tunneling]]
 - [[Nuclear Fusion]]
 - [[Absolute Zero]]
+- [[Neutron Star]]
+- [[Quantum Entanglement]]

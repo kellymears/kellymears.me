@@ -22,7 +22,7 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 - [[Goosebumps]]
 - [[Brain Freeze]]
 - [[Hysteresis]]
-- [[Black-Body Radiation]]
+- [[Vacuum Flask]]
 - [[Frostbite]]
 - [[Mammalian Dive Reflex]]
 - [[Fever]]

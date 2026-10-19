@@ -35,3 +35,4 @@ The underlying behavior shows up wherever a system with stored energy responds w
 - [[Specific Heat Capacity]]
 - [[Heat Transfer]]
 - [[Microwave Heating]]
+- [[Vacuum Flask]]

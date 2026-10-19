@@ -28,5 +28,5 @@ Recordings are usually made dry and given reverberation afterward. Studios once 
 Reverberation also shapes how instruments sound, since a room adds its own color to every note; see [[Timbre]].
 
 ## See also
-- [[Web Audio API]]
+- [[Helmholtz Resonance]]
 - [[Diffraction]]

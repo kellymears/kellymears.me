@@ -15,12 +15,12 @@ The rule generalizes to any guard. Before trusting a lint rule, a schema check, 
 It also disciplines prose. "This cast is required because the checker demands it" is a falsifiable claim: delete the cast and typecheck. If you have not run that experiment, the honest sentence is that the cause is not established. Writing the confident version instead is the trap described in [[Plausible Mechanism]].
 
 ## See also
-- [[Brandolini's Law]]
+- [[Dark Matter]]
 - [[Devil's Advocate]]
 - [[Reductio ad Absurdum]]
 - [[Thought Experiment]]
 - [[Pre-registration]]
-- [[Safety Case]]
+- [[Quantum Entanglement]]
 
 ## Related
 - [[Glob]]

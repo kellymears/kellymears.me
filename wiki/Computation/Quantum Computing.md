@@ -26,7 +26,7 @@ Many results are probabilistic and must be repeated; see [[Monte Carlo Method]].
 
 ## See also
 - [[Prime Number]]
-- [[Quantum Tunneling]]
+- [[Quantum Entanglement]]
 - [[Superconductivity]]
 - [[Analytical Engine]]
 - [[RSA]]

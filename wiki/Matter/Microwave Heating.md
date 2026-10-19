@@ -27,3 +27,4 @@ The 2.4 GHz band is shared with [[Wi-Fi]] and Bluetooth, so a leaky microwave ov
 - [[Faraday Cage]]
 - [[Radio Spectrum]]
 - [[Ionizing Radiation]]
+- [[Plasma]]

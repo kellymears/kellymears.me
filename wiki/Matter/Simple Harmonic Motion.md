@@ -27,8 +27,8 @@ Interface design borrows the physics directly. "Spring" animations are damped ha
 
 ## See also
 - [[Atomic Clock]]
-- [[Fourier Transform]]
-- [[Doppler Effect]]
+- [[Vortex Shedding]]
+- [[Helmholtz Resonance]]
 - [[Tide]]
 - [[Verlet Integration]]
 - [[Timbre]]

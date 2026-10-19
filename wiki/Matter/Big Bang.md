@@ -27,3 +27,5 @@ The far future depends on that expansion. One scenario ends in a cold, dilute un
 ## See also
 - [[Phase Transition]]
 - [[Black Hole]]
+- [[Dark Matter]]
+- [[Supernova]]

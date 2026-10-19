@@ -20,6 +20,6 @@ Albert Einstein's general relativity, in 1915, reframed gravity as the curvature
 Games tune gravity for feel rather than accuracy. Platformers often use gravity several times stronger than real, with extra pull on the way down, so jumps feel snappy instead of floaty, and add grace periods to forgive late jumps; see [[Coyote Time]]. Physics engines apply it as a constant acceleration every step; see [[Rigid Body Dynamics]].
 
 ## See also
-- [[Escape Velocity]]
-- [[Black Hole]]
+- [[Neutron Star]]
+- [[Dark Matter]]
 - [[Lagrange Point]]

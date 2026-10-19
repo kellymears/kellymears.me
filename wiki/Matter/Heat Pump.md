@@ -28,3 +28,4 @@ Other devices move heat without compressors. Solid-state thermoelectric coolers 
 ## See also
 - [[Conservation of Energy]]
 - [[Phase Transition]]
+- [[Vacuum Flask]]

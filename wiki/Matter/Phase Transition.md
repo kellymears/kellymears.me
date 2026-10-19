@@ -31,6 +31,6 @@ The kitchen is full of phase transitions. Butter melting into a sauce, sugar cry
 - [[Big Bang]]
 - [[Freezing Point Depression]]
 - [[Heat Pump]]
-- [[Frostbite]]
+- [[Plasma]]
 - [[Superconductivity]]
 - [[Polymerization]]

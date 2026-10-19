@@ -31,5 +31,5 @@ Most added carbon dioxide comes from [[Combustion]] of fossil fuels. Some refrig
 
 ## See also
 - [[Seasons]]
-- [[Plate Tectonics]]
+- [[Tropical Cyclone]]
 - [[Heat Pump]]

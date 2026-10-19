@@ -23,7 +23,7 @@ Drag also sets [[Terminal Velocity]]: a falling object stops accelerating once d
 - [[Reynolds Number]]
 - [[Aurora]]
 - [[Bike Fit]]
-- [[Orbit]]
+- [[Vortex Shedding]]
 - [[Magnus Effect]]
 - [[Shock Wave]]
 - [[Center of Mass]]

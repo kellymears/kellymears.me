@@ -23,6 +23,6 @@ Static electricity is also put to work. Laser printers and photocopiers use char
 ## See also
 - [[Lightning]]
 - [[Faraday Cage]]
-- [[Lithium-Ion Battery]]
+- [[Plasma]]
 - [[Piezoelectric Effect]]
 - [[Capacitor]]

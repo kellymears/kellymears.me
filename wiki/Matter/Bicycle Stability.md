@@ -28,7 +28,7 @@ The lean angle in a steady turn balances gravity against the [[Centripetal Force
 Frame geometry shapes how a bike feels. More trail makes steering slower and steadier, suited to descending and loaded touring; less trail makes it quicker and more nervous. Speed matters too: very slow bikes are unstable and need constant correction, and at some speeds a bike can develop a high-speed wobble, an oscillation related to [[Resonance]] that can be frightening on fast descents.
 
 ## See also
-- [[Angular Momentum]]
+- [[Vortex Shedding]]
 - [[Gyroscope]]
 - [[Cadence]]
 - [[Rolling Resistance]]
