@@ -26,7 +26,7 @@ Related findings support it. Spacing and mixing practice feels harder but produc
 
 ## See also
 - [[Self-Efficacy]]
-- [[Choking Under Pressure]]
-- [[Feedback Loop]]
+- [[Zone of Proximal Development]]
+- [[Learning Curve]]
 - [[Bushnell's Law]]
 - [[Tetris]]

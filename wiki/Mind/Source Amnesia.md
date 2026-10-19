@@ -25,5 +25,5 @@ Source memory is fragile in particular groups. Young children and older adults t
 Practical defenses rely on recording sources rather than trusting memory to keep them. Researchers cite as they write, note-taking systems record where each idea came from, and wikis require references; see [[Zettelkasten]] and [[Wiki]]. Rumors and urban legends spread partly because each retelling sheds the original source until only "I heard somewhere" remains; see [[Urban Legend]]. Knowing that memory loses provenance is a reason to ask where a belief came from; see [[Metacognition]].
 
 ## See also
-- [[Context-Dependent Memory]]
+- [[Flashbulb Memory]]
 - [[Conspiracy Theory]]

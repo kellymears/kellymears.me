@@ -38,3 +38,4 @@ Autistic people describe a related but distinct state brought on by the effort o
 - [[Yerkes-Dodson Law]]
 - [[Self-Compassion]]
 - [[Let's Play]]
+- [[Emotional Contagion]]

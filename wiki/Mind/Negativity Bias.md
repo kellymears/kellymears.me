@@ -34,5 +34,5 @@ The bias isn't simply an error. Taking threats seriously is often wise, and dism
 - [[Sentiment Analysis]]
 - [[Loneliness]]
 - [[Urban Legend]]
-- [[Framing Effect]]
+- [[Mood-Congruent Memory]]
 - [[Savoring]]

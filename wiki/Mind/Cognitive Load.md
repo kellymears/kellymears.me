@@ -21,7 +21,7 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 
 ## See also
 - [[Platform Engineering]]
-- [[Real-Time Strategy]]
+- [[Zone of Proximal Development]]
 - [[Dashboard]]
 - [[Team Topologies]]
 - [[KISS Principle]]

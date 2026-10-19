@@ -27,8 +27,8 @@ Teams show a similar dynamic. When mistakes are treated as evidence of incompete
 
 ## See also
 - [[Self-Serving Bias]]
-- [[Self-Determination Theory]]
+- [[Zone of Proximal Development]]
 - [[Stereotype Threat]]
-- [[Self-Fulfilling Prophecy]]
+- [[Self-Handicapping]]
 - [[Deliberate Practice]]
-- [[Social Comparison]]
+- [[Learning Curve]]

@@ -18,7 +18,7 @@ The critique cuts the other way with equal force: naming something a moral panic
 - [[Godwin's Law]]
 - [[Toyota Unintended Acceleration]]
 - [[Pinball]]
-- [[Tyranny of the Majority]]
+- [[Emotional Contagion]]
 - [[Umami]]
 - [[Urban Legend]]
 - [[Risk Compensation]]

@@ -26,7 +26,7 @@ Infant researchers rely on it. Babies cannot answer questions, but they look lon
 
 ## See also
 - [[Apollo 11 Program Alarms]]
-- [[Exposure Therapy]]
+- [[Multistable Perception]]
 - [[Northeast Blackout of 2003]]
 - [[Web Push]]
 - [[Onboarding]]

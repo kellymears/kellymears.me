@@ -28,5 +28,5 @@ Responses with some evidence include prebunking, which warns people about manipu
 
 ## See also
 - [[Source Amnesia]]
-- [[Red Herring]]
+- [[Need for Closure]]
 - [[Barnum Effect]]

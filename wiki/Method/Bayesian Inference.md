@@ -31,7 +31,7 @@ The habit of updating extends beyond formal statistics. Skilled forecasters adju
 
 ## See also
 - [[Abductive Reasoning]]
-- [[Brier Score]]
+- [[Multistable Perception]]
 - [[Bootstrap Resampling]]
 - [[Rubber Hand Illusion]]
 - [[McGurk Effect]]

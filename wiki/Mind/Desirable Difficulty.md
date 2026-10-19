@@ -28,7 +28,7 @@ The idea reaches beyond classrooms. Explaining a concept aloud, as in [[Rubber D
 
 ## See also
 - [[Levels of Processing]]
-- [[Deliberate Practice]]
+- [[Learning Curve]]
 - [[Functional Fixedness]]
-- [[Growth Mindset]]
+- [[Zone of Proximal Development]]
 - [[Curriculum Learning]]

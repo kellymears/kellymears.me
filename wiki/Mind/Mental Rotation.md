@@ -26,3 +26,4 @@ Mental rotation also figures in navigation, where people must align a map with t
 - [[Method of Loci]]
 - [[Gestalt Principles]]
 - [[Hemispatial Neglect]]
+- [[Multistable Perception]]

@@ -30,6 +30,6 @@ Some classic findings have replicated less cleanly than textbooks suggest, but t
 - [[Choice Blindness]]
 - [[Obedience to Authority]]
 - [[Psychological Reactance]]
-- [[Motivated Reasoning]]
-- [[Fundamental Attribution Error]]
+- [[Ostrich Effect]]
+- [[Need for Closure]]
 - [[IKEA Effect]]

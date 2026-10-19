@@ -34,5 +34,5 @@ Steady stimuli fade further as the senses adapt; see [[Habituation]]. Difference
 
 ## See also
 - [[Radar Chart]]
-- [[Color Theory]]
+- [[Time Perception]]
 - [[Dark Adaptation]]

@@ -26,7 +26,7 @@ Expert patterns are also brittle outside their domain. The chess master's memory
 ## See also
 - [[OODA Loop]]
 - [[Satisficing]]
-- [[Deliberate Practice]]
+- [[Learning Curve]]
 - [[Cynefin Framework]]
-- [[First Principles Thinking]]
+- [[Zone of Proximal Development]]
 - [[Functional Fixedness]]

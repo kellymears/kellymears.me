@@ -28,7 +28,7 @@ Control matters physiologically, too. Uncontrollable stressors produce larger st
 Organizations shape locus of control. Blaming individuals for system failures teaches people that outcomes depend on luck and politics, while reviews that focus on causes teach them what they can actually change; see [[Blameless Postmortem]].
 
 ## See also
-- [[Sense of Agency]]
+- [[Self-Handicapping]]
 - [[Commitment Device]]
 - [[Push Your Luck]]
 - [[Just-World Hypothesis]]

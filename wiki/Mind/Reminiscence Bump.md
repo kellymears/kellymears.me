@@ -33,3 +33,5 @@ The reminiscence bump suggests that a life's memories aren't spread evenly acros
 ## See also
 - [[Default Mode Network]]
 - [[Grief]]
+- [[Flashbulb Memory]]
+- [[Time Perception]]

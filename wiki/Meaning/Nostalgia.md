@@ -13,7 +13,7 @@ Nostalgia is worth distinguishing from simple sentimentality about old things an
 
 ## See also
 - [[Hedonic Treadmill]]
-- [[Cultural Cringe]]
+- [[Mood-Congruent Memory]]
 - [[Parasocial Relationship]]
 - [[Terror Management Theory]]
 - [[Context-Dependent Memory]]

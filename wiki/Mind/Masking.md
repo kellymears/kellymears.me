@@ -19,7 +19,7 @@ Masking is rational. It is usually learned early in response to real social pena
 The social side is the [[Neurodiversity]] paradigm's point in miniature. Masking is a response to an environment, and the most effective way to reduce it is to change the environment so that unmasked behavior isn't penalized. That means accepting stimming, not requiring eye contact, and stating expectations explicitly. Spaces where masking can drop are restorative for this reason. A [[Shibboleth]] marks who belongs. Masking is what people do when they've learned they can't afford to fail one.
 
 ## See also
-- [[Window of Tolerance]]
+- [[Emotional Contagion]]
 - [[Monotropism]]
 - [[Spotlight Effect]]
 - [[Code-Switching]]

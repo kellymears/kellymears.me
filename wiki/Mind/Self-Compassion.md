@@ -33,4 +33,4 @@ Self-compassion matters especially for people who spend much of their lives bein
 - [[Fresh Start Effect]]
 - [[Self-Serving Bias]]
 - [[Burnout]]
-- [[Grief]]
+- [[Self-Handicapping]]

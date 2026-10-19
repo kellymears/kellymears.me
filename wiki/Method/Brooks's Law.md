@@ -14,7 +14,7 @@ The law is frequently misquoted as "more people always makes things slower," whi
 The practical corollary is that a genuinely late project is rescued by removing scope or extending the deadline, not by throwing bodies at the calendar — and that the tell of a team about to learn this the hard way is treating headcount as a lever for schedule at all.
 
 ## See also
-- [[Second-System Effect]]
+- [[Learning Curve]]
 - [[Hofstadter's Law]]
 - [[Parkinson's Law]]
 - [[Mainframe]]

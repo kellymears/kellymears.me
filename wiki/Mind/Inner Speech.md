@@ -30,7 +30,7 @@ At the far end, voices that seem to come from outside, as in some psychiatric co
 ## See also
 - [[Earworm]]
 - [[Psychological Distance]]
-- [[Aphantasia]]
+- [[Zone of Proximal Development]]
 - [[Self-Compassion]]
 - [[Embodied Cognition]]
 - [[Speed Reading]]

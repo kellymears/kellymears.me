@@ -25,8 +25,8 @@ What works follows from the mechanism:
 An unfinished task also keeps nagging, the [[Zeigarnik Effect]], which is why starting anything at all tends to make finishing easier. [[Parkinson's Law]] describes the other side: work expanding to fill the time is often procrastination given room.
 
 ## See also
-- [[Emotional Regulation]]
+- [[Ostrich Effect]]
 - [[Self-Compassion]]
-- [[ADHD]]
+- [[Self-Handicapping]]
 - [[Hyperbolic Discounting]]
 - [[Commitment Device]]

@@ -28,6 +28,6 @@ Remedies follow from Asch's findings: collect opinions privately before discussi
 
 ## See also
 - [[Obedience to Authority]]
-- [[Tyranny of the Majority]]
+- [[Need for Closure]]
 - [[Delphi Method]]
-- [[Median Voter Theorem]]
+- [[Emotional Contagion]]

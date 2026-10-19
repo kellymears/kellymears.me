@@ -32,5 +32,5 @@ Protection comes from good practice: asking open rather than leading questions, 
 - [[Déjà Vu]]
 - [[Rashomon Effect]]
 - [[Source Amnesia]]
-- [[Memory Consolidation]]
+- [[Flashbulb Memory]]
 - [[Unreliable Narrator]]

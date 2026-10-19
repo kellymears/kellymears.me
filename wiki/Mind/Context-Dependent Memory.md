@@ -34,7 +34,7 @@ The phenomenon fits a broader view of memory as reconstruction guided by cues ra
 ## See also
 - [[Classical Conditioning]]
 - [[Déjà Vu]]
-- [[Episodic Memory]]
+- [[Mood-Congruent Memory]]
 - [[Source Amnesia]]
 - [[Prosopagnosia]]
 - [[Priming]]

@@ -25,3 +25,4 @@ Owning a body is related to but different from feeling in control of it. Moving 
 ## See also
 - [[Haptic Feedback]]
 - [[Ideomotor Effect]]
+- [[Multistable Perception]]

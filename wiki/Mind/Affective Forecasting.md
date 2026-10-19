@@ -31,3 +31,5 @@ Affective forecasting matters for anxiety too. Imagining a feared event as overw
 - [[Savoring]]
 - [[Psychological Distance]]
 - [[Grief]]
+- [[Mood-Congruent Memory]]
+- [[Ostrich Effect]]

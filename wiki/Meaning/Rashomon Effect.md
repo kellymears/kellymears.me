@@ -27,6 +27,6 @@ A common misreading is that the effect proves there's no truth at all. Kurosawa'
 Online, the same event can spread as several incompatible stories at once, each reaching an audience inclined to believe it; see [[Context Collapse]] and [[Filter Bubble]].
 
 ## See also
-- [[Death of the Author]]
+- [[Flashbulb Memory]]
 - [[In Medias Res]]
 - [[Source Amnesia]]

@@ -39,4 +39,4 @@ Savoring isn't forced positivity. It doesn't deny bad experiences; it gives good
 ## See also
 - [[Social Comparison]]
 - [[Attention Restoration Theory]]
-- [[Reminiscence Bump]]
+- [[Mood-Congruent Memory]]

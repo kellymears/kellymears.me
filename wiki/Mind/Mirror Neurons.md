@@ -25,7 +25,7 @@ Mirror neurons illustrate a pattern common in neuroscience: a vivid mechanism, f
 The actual role of mirror systems is likely narrower, possibly helping predict and plan actions; see [[Predictive Processing]] and [[Motor Learning]].
 
 ## See also
-- [[Replication Crisis]]
+- [[Emotional Contagion]]
 - [[Body Doubling]]
 - [[Yawning]]
 - [[Morph Target]]

@@ -22,11 +22,11 @@ Flow is not automatically good. It is indifferent to what it attaches to, and a 
 
 ## See also
 - [[Runner's High]]
-- [[Boredom]]
+- [[Time Perception]]
 - [[Sudoku]]
 - [[Dynamic Difficulty Adjustment]]
 - [[Mind-Wandering]]
 - [[Deliberate Practice]]
-- [[Curriculum Learning]]
+- [[Zone of Proximal Development]]
 - [[Savoring]]
 - [[Daily Standup]]

@@ -34,4 +34,4 @@ Large training runs spread minibatches across thousands of GPUs and average thei
 - [[Regularization]]
 - [[Federated Learning]]
 - [[Hyperparameter]]
-- [[Brier Score]]
+- [[Learning Curve]]

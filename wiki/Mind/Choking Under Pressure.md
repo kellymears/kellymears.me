@@ -29,7 +29,7 @@ Research suggests several remedies:
 Choking also connects to [[Ironic Process Theory]]: telling yourself not to miss puts the miss in mind. Fear of being exposed, central to [[Impostor Syndrome]], can raise the stakes of ordinary situations enough to trigger it. A strong sense of [[Self-Efficacy]] seems to buffer against it, perhaps by lowering the threat the situation poses.
 
 ## See also
-- [[Fight-or-Flight Response]]
+- [[Self-Handicapping]]
 - [[Dyscalculia]]
 - [[Stereotype Threat]]
 - [[Diaphragmatic Breathing]]

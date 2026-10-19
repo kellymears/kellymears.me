@@ -32,8 +32,8 @@ Countermeasures that have some support:
 4. **Separate identity from belief**, so changing a mind doesn't feel like betraying a group.
 
 ## See also
-- [[Just-World Hypothesis]]
-- [[Self-Serving Bias]]
+- [[Need for Closure]]
+- [[Ostrich Effect]]
 - [[Barnum Effect]]
 - [[Devil's Advocate]]
 - [[IKEA Effect]]

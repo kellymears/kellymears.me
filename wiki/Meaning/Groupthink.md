@@ -17,7 +17,7 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Obedience to Authority]]
 - [[Naive Realism]]
 - [[Cognitive Dissonance]]
-- [[Motivated Reasoning]]
+- [[Need for Closure]]
 - [[Devil's Advocate]]
 - [[Pluralistic Ignorance]]
 - [[Social Deduction Game]]

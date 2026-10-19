@@ -31,5 +31,5 @@ There is a parallel in software practice. Pair programming, and even [[Rubber Du
 - [[Local Multiplayer]]
 - [[Autistic Inertia]]
 - [[Pair Programming]]
-- [[ADHD]]
+- [[Emotional Contagion]]
 - [[Commitment Device]]

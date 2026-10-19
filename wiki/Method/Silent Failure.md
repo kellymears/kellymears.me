@@ -18,7 +18,7 @@ The rhetorical version is just as costly: an "everything passes" claim assembled
 ## See also
 - [[Principle of Least Astonishment]]
 - [[Defensive Programming]]
-- [[Fail Fast]]
+- [[Ostrich Effect]]
 - [[Dead Letter Queue]]
 - [[Coverage Gate]]
 - [[Backup and Restore]]

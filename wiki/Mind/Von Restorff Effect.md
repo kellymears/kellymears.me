@@ -29,7 +29,7 @@ The effect connects to broader ideas about memory and attention. Vivid, unusual 
 ## See also
 - [[Habituation]]
 - [[Reminiscence Bump]]
-- [[Visual Hierarchy]]
+- [[Flashbulb Memory]]
 - [[Availability Heuristic]]
 - [[Preattentive Processing]]
 - [[Episodic Memory]]

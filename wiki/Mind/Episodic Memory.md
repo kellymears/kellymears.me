@@ -28,9 +28,9 @@ Tulving called episodic memory **mental time travel**, and the same system runs 
 Episodic memory also explains why experiences feel the way they do in retrospect. What remains of an episode is a summary weighted toward its peaks and endings; see [[Peak-End Rule]]. And events that are distinctive or emotional get stored more strongly than routine ones; see [[Von Restorff Effect]]. Memory techniques work by turning abstract material into vivid episodes in imagined places; see [[Method of Loci]].
 
 ## See also
-- [[Reminiscence Bump]]
-- [[Spaced Repetition]]
+- [[Mood-Congruent Memory]]
+- [[Flashbulb Memory]]
 - [[Cognitive Map]]
 - [[Hopfield Network]]
 - [[Grief]]
-- [[Source Amnesia]]
+- [[Time Perception]]

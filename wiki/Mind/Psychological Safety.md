@@ -25,6 +25,6 @@ Leaders shape safety most, by admitting their own uncertainty, asking for input,
 
 ## See also
 - [[Just Culture]]
-- [[Devil's Advocate]]
-- [[Politeness Theory]]
+- [[Ostrich Effect]]
+- [[Emotional Contagion]]
 - [[Transactive Memory]]

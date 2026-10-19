@@ -29,7 +29,7 @@ Practical responses:
 Recognizing the pattern doesn't make the tail shorter, but it makes it less of a surprise, and keeps unfinished edges from being shipped as [[Technical Debt]] by accident.
 
 ## See also
-- [[Parkinson's Law]]
+- [[Learning Curve]]
 - [[Cone of Uncertainty]]
 - [[Definition of Done]]
 - [[Walking Skeleton]]

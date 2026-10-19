@@ -17,7 +17,7 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Law of the Instrument]]
 - [[Devil's Advocate]]
 - [[Affinity Diagram]]
-- [[Texas Sharpshooter Fallacy]]
+- [[Mood-Congruent Memory]]
 - [[Self-Fulfilling Prophecy]]
 - [[Superforecasting]]
 - [[Cognitive Dissonance]]

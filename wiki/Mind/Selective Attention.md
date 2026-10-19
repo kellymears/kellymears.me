@@ -25,5 +25,5 @@ When the filter is narrow, the rest of the scene can vanish, as [[Inattentional 
 ## See also
 - [[Hemispatial Neglect]]
 - [[Attentional Blink]]
-- [[McGurk Effect]]
+- [[Multistable Perception]]
 - [[Stroop Effect]]

@@ -25,7 +25,7 @@ Gestalt grouping is the perceptual substrate that a [[Design System]]'s spacing 
 - [[Smear Frame]]
 - [[Apparent Motion]]
 - [[Optical Alignment]]
-- [[Logo]]
+- [[Multistable Perception]]
 - [[Venn Diagram]]
 - [[Radar Chart]]
 - [[CSS Grid]]

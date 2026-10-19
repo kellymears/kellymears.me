@@ -30,4 +30,4 @@ Games have even built a genre around tolerating it. An [[Idle Game]] turns waiti
 - [[Mere-Exposure Effect]]
 - [[Mind-Wandering]]
 - [[Yawning]]
-- [[Vigilance Decrement]]
+- [[Time Perception]]

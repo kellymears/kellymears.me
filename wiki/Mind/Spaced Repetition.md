@@ -27,5 +27,5 @@ Spaced repetition handles discrete facts best. Understanding comes from connecti
 - [[Deliberate Practice]]
 - [[Levels of Processing]]
 - [[Default Mode Network]]
-- [[Metacognition]]
+- [[Learning Curve]]
 - [[Sleep Stages]]

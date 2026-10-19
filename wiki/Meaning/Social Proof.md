@@ -14,7 +14,7 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 ## See also
 - [[Social Comparison]]
 - [[Sybil Attack]]
-- [[Conformity]]
+- [[Emotional Contagion]]
 - [[Astroturfing]]
 - [[Diffusion of Innovations]]
 - [[Median Voter Theorem]]

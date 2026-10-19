@@ -25,6 +25,6 @@ What helps is mostly recognition and slowing down: naming the reaction ("this is
 - [[Impostor Syndrome]]
 - [[Attachment Theory]]
 - [[Exposure Therapy]]
-- [[Spiral of Silence]]
+- [[Self-Handicapping]]
 - [[Social Comparison]]
 - [[Demand Avoidance]]

@@ -16,7 +16,7 @@ The law pairs naturally with [[Parkinson's Law]]: one says the work will take lo
 ## See also
 - [[Shape Up]]
 - [[Nuclear Fusion]]
-- [[Second-System Effect]]
+- [[Time Perception]]
 - [[Availability Heuristic]]
 - [[Burndown Chart]]
 

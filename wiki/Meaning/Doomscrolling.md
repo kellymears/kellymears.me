@@ -14,11 +14,11 @@ It's distinct from simply staying informed, which has a natural endpoint once th
 ## See also
 - [[Sentiment Analysis]]
 - [[Savoring]]
-- [[Availability Cascade]]
+- [[Ostrich Effect]]
 - [[Meme]]
 - [[Third Place]]
 - [[Cliffhanger]]
-- [[Pull-to-Refresh]]
+- [[Emotional Contagion]]
 - [[Pagination]]
 - [[Attention Restoration Theory]]
 - [[Mindfulness]]

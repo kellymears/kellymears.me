@@ -23,6 +23,6 @@ Strong focus, as in [[Monotropism]] or [[Hyperfocus]], exaggerates both sides: d
 
 ## See also
 - [[Blind Spot]]
-- [[Red Herring]]
+- [[Multistable Perception]]
 - [[Attentional Blink]]
 - [[Choice Blindness]]

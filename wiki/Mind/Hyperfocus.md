@@ -20,7 +20,7 @@ The [[Flow]] comparison is natural and partly misleading. Flow arises from a mat
 Living well with hyperfocus is mostly about the edges. External timers and alarms, water and food within reach, and a written note of where to resume all help. So does choosing what to start in the first place, since the start is often the only point where there is a choice. A [[Rabbit Hole|rabbit hole]] entered on purpose is a feature. One fallen into at 4 p.m. on deadline day is a [[Yak Shaving|yak]].
 
 ## See also
-- [[Flow]]
+- [[Time Perception]]
 - [[Monotropism]]
 - [[ADHD]]
 - [[Mind-Wandering]]

@@ -31,6 +31,6 @@ Curiosity varies between people. *Need for cognition*, the enjoyment of effortfu
 - [[Cliffhanger]]
 - [[Insight]]
 - [[Attachment Theory]]
-- [[In Medias Res]]
+- [[Need for Closure]]
 - [[Boredom]]
 - [[Multi-Armed Bandit]]

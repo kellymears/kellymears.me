@@ -28,3 +28,4 @@ Some construal level effects have proved weaker in larger replications, and the 
 ## See also
 - [[Naive Realism]]
 - [[Mind-Wandering]]
+- [[Time Perception]]
