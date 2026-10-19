@@ -31,6 +31,6 @@ Tracking identifiers such as an [[HTTP Cookie]] count as personal data in Europe
 - [[Data Portability]]
 - [[Geospatial Data]]
 - [[Machine Unlearning]]
-- [[Personal Name]]
+- [[Doxing]]
 - [[Phone Number]]
 - [[Panopticon]]

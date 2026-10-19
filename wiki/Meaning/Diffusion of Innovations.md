@@ -32,3 +32,4 @@ Diffusion of ideas runs on the same curve. Positions that seem radical can move 
 ## See also
 - [[Lindy Effect]]
 - [[Two-Sided Market]]
+- [[Lump of Labor Fallacy]]

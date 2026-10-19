@@ -16,6 +16,6 @@ The folk versions are the ones to distrust. *Posh* was never "port out, starboar
 - [[Portmanteau]]
 - [[Naming]]
 - [[Provenance]]
-- [[Ground Truth]]
+- [[Jargon]]
 - [[Retronym]]
 - [[Invented Tradition]]

@@ -33,3 +33,5 @@ The idea raises live questions as AI systems take on tasks once limited by human
 - [[Jevons Paradox]]
 - [[Modern Monetary Theory]]
 - [[Externality]]
+- [[Comparative Advantage]]
+- [[Lump of Labor Fallacy]]

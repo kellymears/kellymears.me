@@ -23,4 +23,4 @@ The genuinely hard part is measurement, not theory. Pricing a harm with no marke
 - [[Universal Basic Income]]
 - [[Jaywalking]]
 - [[Email Spam]]
-- [[Cost-Benefit Analysis]]
+- [[Comparative Advantage]]

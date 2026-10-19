@@ -30,6 +30,6 @@ The tactic lives at the edges of acceptable speech, and it tends to move them; s
 - [[Astroturfing]]
 - [[Red Herring]]
 - [[Politeness Theory]]
-- [[Social Identity Theory]]
-- [[Meme]]
+- [[Jargon]]
+- [[Agenda-Setting]]
 - [[Median Voter Theorem]]

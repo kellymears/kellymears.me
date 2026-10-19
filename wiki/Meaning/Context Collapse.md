@@ -30,7 +30,7 @@ For autistic and other neurodivergent people, who may already work hard at readi
 - [[Rashomon Effect]]
 - [[Kayfabe]]
 - [[Politeness Theory]]
-- [[Meme]]
+- [[Doxing]]
 - [[Strength of Weak Ties]]
 - [[Third Place]]
 - [[Dog Whistle]]

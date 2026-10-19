@@ -15,7 +15,7 @@ Free software shows the same pattern applied to code rather than prose, and the 
 Governance strains as a project grows. Early contributors often accumulate outsized influence over what gets accepted, reproducing the hierarchy peer production was meant to avoid; a small number of maintainers reviewing everyone else's work recreates [[Bus Factor]] risk even with thousands of contributors, since the real bottleneck is review capacity, not authorship. That bottleneck's shape tends to mirror the shape of the group producing it, an instance of [[Conway's Law]] applying to volunteer structures as readily as to companies. [[Version Control]] solved the mechanical half of coordination — tracking who changed what — without solving the social half of deciding who gets the final say.
 
 ## See also
-- [[Fan Fiction]]
+- [[Participation Inequality]]
 - [[Gift Economy]]
 - [[Open Data]]
 - [[Internet Relay Chat]]

@@ -29,4 +29,4 @@ Remedies aim at keeping private signals visible. Juries and committees can vote 
 - [[Bystander Effect]]
 - [[Duverger's Law]]
 - [[Diffusion of Innovations]]
-- [[Paradigm Shift]]
+- [[Bank Run]]

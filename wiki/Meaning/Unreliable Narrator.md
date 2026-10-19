@@ -27,4 +27,4 @@ Unreliable narration resonates because everyday memory is unreliable too. People
 - [[Red Herring]]
 - [[MacGuffin]]
 - [[In Medias Res]]
-- [[Death of the Author]]
+- [[Bechdel Test]]

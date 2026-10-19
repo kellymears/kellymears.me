@@ -26,6 +26,6 @@ The term carries some snobbery. Newcomers have always been treated as a problem 
 
 ## See also
 - [[Mailing List]]
-- [[Code of Conduct]]
+- [[Participation Inequality]]
 - [[Godwin's Law]]
-- [[Modem]]
+- [[Jargon]]

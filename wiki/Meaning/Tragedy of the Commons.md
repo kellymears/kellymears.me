@@ -22,6 +22,6 @@ The sharpest correction is definitional: Hardin was describing **open access** â
 
 ## Related
 - [[Universal Basic Income]]
-- [[Cost-Benefit Analysis]]
+- [[Comparative Advantage]]
 - [[Jevons Paradox]]
 - [[Jaywalking]]

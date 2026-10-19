@@ -23,7 +23,7 @@ Test names are a special case: they should describe the scenario and the expecte
 - [[Don't Repeat Yourself]]
 - [[Principle of Least Astonishment]]
 - [[Kernighan's Law]]
-- [[Linguistic Relativity]]
+- [[Metonymy]]
 
 ## Related
 - [[Portmanteau]]

@@ -31,5 +31,5 @@ The model has critics. Real people cooperate more than the theory predicts in on
 - [[Alpha-Beta Pruning]]
 - [[BitTorrent]]
 - [[Blockchain]]
-- [[Scenario Planning]]
+- [[Comparative Advantage]]
 - [[Poker]]

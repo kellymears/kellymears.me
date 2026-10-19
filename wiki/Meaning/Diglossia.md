@@ -27,7 +27,7 @@ Shifts between varieties also show how language connects to identity and belongi
 
 ## See also
 - [[Semantic Change]]
-- [[Linguistic Relativity]]
+- [[Jargon]]
 - [[Grammatical Gender]]
 - [[Linguistic Prescriptivism]]
 - [[Cultural Capital]]

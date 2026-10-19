@@ -27,4 +27,4 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 - [[KISS Principle]]
 - [[Tutorial Design]]
 - [[Developer Experience]]
-- [[Extended Mind]]
+- [[Jargon]]

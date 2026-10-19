@@ -29,5 +29,5 @@ Remedies follow from Asch's findings: collect opinions privately before discussi
 ## See also
 - [[Obedience to Authority]]
 - [[Need for Closure]]
-- [[Delphi Method]]
+- [[Bank Run]]
 - [[Emotional Contagion]]

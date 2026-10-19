@@ -19,7 +19,7 @@ High-status milieus are permeable for structural reasons. Credentials go uncheck
 - [[Red Herring]]
 - [[Barnum Effect]]
 - [[Anchoring Effect]]
-- [[Least Privilege]]
+- [[Bank Run]]
 - [[Naming]]
 - [[Email Authentication]]
 - [[Information Asymmetry]]

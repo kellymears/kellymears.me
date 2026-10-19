@@ -30,7 +30,7 @@ It's also a caution against [[Chesterton's Fence]] in reverse: a new interventio
 
 ## See also
 - [[Streisand Effect]]
-- [[Gresham's Law]]
+- [[Bechdel Test]]
 - [[Moral hazard]]
 - [[Risk Compensation]]
 - [[Jevons Paradox]]

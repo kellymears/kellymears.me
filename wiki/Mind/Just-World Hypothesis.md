@@ -28,4 +28,4 @@ Many cultures and religions express versions of the belief, from karma to saying
 ## See also
 - [[Self-Serving Bias]]
 - [[Barnum Effect]]
-- [[Conspiracy Theory]]
+- [[Veil of Ignorance]]

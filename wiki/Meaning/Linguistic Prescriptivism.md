@@ -24,3 +24,4 @@ Languages designed from scratch show what pure prescription looks like, since ev
 ## See also
 - [[Loanword]]
 - [[Politeness Theory]]
+- [[Jargon]]

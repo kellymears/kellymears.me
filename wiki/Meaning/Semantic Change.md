@@ -34,8 +34,8 @@ Semantic change also connects to how categories work, with central meanings shif
 ## See also
 - [[Retronym]]
 - [[Snowclone]]
-- [[Linguistic Prescriptivism]]
-- [[Loanword]]
+- [[Metonymy]]
+- [[Jargon]]
 - [[Ship of Theseus]]
 - [[Emoji]]
 - [[Diglossia]]

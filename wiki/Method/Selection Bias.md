@@ -12,7 +12,7 @@ summary: A sample distorted because inclusion in it was never random.
 The counterintuitive consequence is that a larger biased sample is not safer than a smaller one — it is worse, because it produces a narrower confidence interval around the wrong number, which reads as more certainty rather than less. Checking for selection effects means asking how a record ends up observed at all, not just what the observed records say, in the same spirit as [[Ground Truth]] and the diagnostic habit behind [[Sensitivity and Specificity]].
 
 ## See also
-- [[Precision and Accuracy]]
+- [[Participation Inequality]]
 - [[Natural Experiment]]
 - [[Berkson's Paradox]]
 - [[Percentage Point]]

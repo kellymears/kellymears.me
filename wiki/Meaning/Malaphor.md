@@ -22,3 +22,4 @@ The pattern marks the limit of fluency without a plan: a locally well-formed str
 - [[Linguistic Relativity]]
 - [[Portmanteau]]
 - [[Linguistic Prescriptivism]]
+- [[Metonymy]]

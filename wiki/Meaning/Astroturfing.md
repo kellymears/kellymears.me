@@ -19,7 +19,7 @@ Its target is often the [[Overton Window]] rather than any single vote — manuf
 - [[Sybil Attack]]
 - [[Gerrymandering]]
 - [[Rent Strike]]
-- [[Anchoring Effect]]
+- [[Agenda-Setting]]
 - [[Jaywalking]]
 - [[Kayfabe]]
 - [[Poe's Law]]

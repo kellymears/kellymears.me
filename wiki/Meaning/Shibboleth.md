@@ -18,4 +18,4 @@ Most shibboleths today are soft rather than lethal, and still do real sorting wo
 - [[Speech Act]]
 - [[Cultural Capital]]
 - [[Rite of Passage]]
-- [[Linguistic Prescriptivism]]
+- [[Jargon]]

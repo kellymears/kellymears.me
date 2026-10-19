@@ -25,6 +25,6 @@ Countermeasures are external, since effort alone doesn't cure it. Test explanati
 ## See also
 - [[Transactive Memory]]
 - [[Playtesting]]
-- [[Zone of Proximal Development]]
+- [[Jargon]]
 - [[Functional Fixedness]]
 - [[Spotlight Effect]]

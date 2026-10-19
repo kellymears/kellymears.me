@@ -28,3 +28,4 @@ The opposite problem also exists. An organized minority can dominate a disengage
 ## See also
 - [[Overton Window]]
 - [[Collective Action]]
+- [[Veil of Ignorance]]

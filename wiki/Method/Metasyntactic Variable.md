@@ -27,3 +27,4 @@ Because each set arose locally, the choice of `foo`, `toto`, or `hoge` in a give
 - [[Taxonomy]]
 - [[Plausible Mechanism]]
 - [[Plain Language]]
+- [[Jargon]]

@@ -28,3 +28,4 @@ Its template has been endlessly reused, with variants for other topics and other
 - [[Dog Whistle]]
 - [[Hanlon's Razor]]
 - [[Meme]]
+- [[Doxing]]

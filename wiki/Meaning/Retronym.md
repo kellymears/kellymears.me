@@ -38,3 +38,4 @@ In software, the same pattern shows up in naming versions. When a successor take
 - [[Lindy Effect]]
 - [[Telephone Network]]
 - [[Portmanteau]]
+- [[Metonymy]]

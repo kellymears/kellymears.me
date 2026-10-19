@@ -32,9 +32,9 @@ Commercial online services and then the web emptied the boards in the mid-1990s,
 
 ## See also
 - [[Minitel]]
-- [[Mailing List]]
+- [[Participation Inequality]]
 - [[Multi-User Dungeon]]
-- [[Instant Messaging]]
+- [[Doxing]]
 - [[Telnet]]
 - [[Gopher]]
 - [[Fax]]

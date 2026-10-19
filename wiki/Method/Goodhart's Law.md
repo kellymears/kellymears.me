@@ -23,7 +23,7 @@ Goodhart is not an argument against measurement. It is an argument for keeping t
 - [[Blood Doping]]
 - [[AI Alignment]]
 - [[Brier Score]]
-- [[Morality System]]
+- [[Bechdel Test]]
 
 ## Related
 - [[Wicked Problem]]

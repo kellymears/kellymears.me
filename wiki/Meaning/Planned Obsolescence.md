@@ -14,7 +14,7 @@ The usual exhibit for the strong version is the Phoebus cartel: manufacturers of
 ## See also
 - [[Right to Repair]]
 - [[Power Creep]]
-- [[Art Deco]]
+- [[Lump of Labor Fallacy]]
 - [[Hobson's Choice]]
 - [[Bathtub Curve]]
 - [[Electromigration]]

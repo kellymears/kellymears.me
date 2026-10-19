@@ -27,5 +27,5 @@ The concept also explains how labels stick. Treating someone as a troublemaker c
 ## See also
 - [[Learned Helplessness]]
 - [[Year 2000 Problem]]
-- [[Algorithmic Bias]]
+- [[Bank Run]]
 - [[Duverger's Law]]

@@ -28,7 +28,7 @@ Critics argue the scenarios are so artificial that intuitions about them reveal 
 ## See also
 - [[Prisoner's Dilemma]]
 - [[Ship of Theseus]]
-- [[Tragedy of the Commons]]
+- [[Veil of Ignorance]]
 - [[Thought Experiment]]
 - [[Obedience to Authority]]
 - [[Cost-Benefit Analysis]]

@@ -32,3 +32,4 @@ As with other spatial reasoning, the distribution matters. If voters cluster in 
 - [[Schelling Point]]
 - [[Satisficing]]
 - [[Tyranny of the Majority]]
+- [[Veil of Ignorance]]

@@ -25,7 +25,7 @@ Personal wikis have become common as a private reference — the same mechanics,
 
 ## Related
 - [[Web 2.0]]
-- [[Internet Archive]]
+- [[Participation Inequality]]
 - [[Source Amnesia]]
 - [[Project Xanadu]]
 - [[Open Data]]

@@ -23,3 +23,5 @@ The proposal also has an odd political signature: it draws praise across nearly 
 - [[Free Rider Problem]]
 - [[Baumol's Cost Disease]]
 - [[Ranked-Choice Voting]]
+- [[Veil of Ignorance]]
+- [[Lump of Labor Fallacy]]

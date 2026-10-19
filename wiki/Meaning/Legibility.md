@@ -18,7 +18,7 @@ This is the social-scale sibling of [[Goodhart's Law]]: the same simplification 
 - [[Social Capital]]
 - [[Imagined Community]]
 - [[Panopticon]]
-- [[Chesterton's Fence]]
+- [[Doxing]]
 - [[Gerrymandering]]
 - [[Dunbar's Number]]
 - [[Wayfinding]]

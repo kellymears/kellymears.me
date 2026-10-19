@@ -31,5 +31,5 @@ The defenses share a theme: break the synchronization, or let one actor do the w
 Thundering herds are a classic reason systems fail during recovery rather than during the original incident. [[Load Testing]] rarely reproduces them unless it simulates a cold start, and [[Chaos Engineering]] experiments that restart dependencies are a good way to find them. [[Load Balancing]] can't help much, since every backend receives the same surge at the same time.
 
 ## See also
-- [[Futex]]
+- [[Bank Run]]
 - [[AT&T Network Collapse of 1990]]

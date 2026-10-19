@@ -14,7 +14,7 @@ The concept is often overstated into "money can't buy happiness," which the orig
 
 ## See also
 - [[Affective Forecasting]]
-- [[Learned Helplessness]]
+- [[Lump of Labor Fallacy]]
 - [[Kano Model]]
 - [[Savoring]]
 - [[Polarized Training]]

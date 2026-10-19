@@ -14,11 +14,11 @@ The concept doesn't require the underlying claim to be false — some cascades b
 ## See also
 - [[Conspiracy Theory]]
 - [[Urban Legend]]
-- [[Streisand Effect]]
+- [[Bank Run]]
 - [[Filter Bubble]]
 - [[Spiral of Silence]]
 - [[Pluralistic Ignorance]]
-- [[Matthew Effect]]
+- [[Agenda-Setting]]
 - [[Self-Fulfilling Prophecy]]
 - [[Information Cascade]]
 - [[Herd Immunity]]

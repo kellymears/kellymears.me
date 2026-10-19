@@ -24,7 +24,7 @@ Within a language, borrowed and native words can carry different social weight, 
 Borrowing isn't the only source of new words; speakers also fuse existing ones; see [[Portmanteau]]. Whether a borrowed word changes how speakers think about its subject is debated; see [[Linguistic Relativity]].
 
 ## See also
-- [[Shibboleth]]
+- [[Jargon]]
 - [[Constructed Language]]
 - [[Euphemism Treadmill]]
 - [[Linguistic Prescriptivism]]

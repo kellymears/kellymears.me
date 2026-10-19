@@ -14,7 +14,7 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 ## See also
 - [[Social Comparison]]
 - [[Sybil Attack]]
-- [[Emotional Contagion]]
+- [[Participation Inequality]]
 - [[Astroturfing]]
 - [[Diffusion of Innovations]]
 - [[Median Voter Theorem]]
@@ -24,4 +24,4 @@ The pathological end of the same mechanism is a pluralistic ignorance cascade: i
 - [[Strength of Weak Ties]]
 - [[Social Deduction Game]]
 - [[Eternal September]]
-- [[Information Cascade]]
+- [[Bank Run]]

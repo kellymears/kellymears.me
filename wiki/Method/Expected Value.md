@@ -29,5 +29,5 @@ Rare, extreme outcomes make the estimate fragile, since it depends on probabilit
 
 ## See also
 - [[Cost-Benefit Analysis]]
-- [[Sensitivity Analysis]]
+- [[Veil of Ignorance]]
 - [[Antifragility]]

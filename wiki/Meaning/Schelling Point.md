@@ -24,4 +24,4 @@ Schelling points show up widely. Technical standards create them deliberately; s
 ## See also
 - [[Invented Tradition]]
 - [[Duverger's Law]]
-- [[Arrow's Impossibility Theorem]]
+- [[Bank Run]]

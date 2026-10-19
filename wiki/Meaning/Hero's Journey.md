@@ -36,3 +36,4 @@ Tarot readers sometimes read the major arcana as a similar journey, from the Foo
 - [[In Medias Res]]
 - [[Cliffhanger]]
 - [[Narrative Fallacy]]
+- [[Bechdel Test]]

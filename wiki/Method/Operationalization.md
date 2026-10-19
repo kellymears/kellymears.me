@@ -27,6 +27,6 @@ Practical habits help. State the operational definition explicitly. Use several 
 ## See also
 - [[Sensitivity Analysis]]
 - [[Pre-registration]]
-- [[Precision and Accuracy]]
+- [[Bechdel Test]]
 - [[Ecological Fallacy]]
 - [[McNamara Fallacy]]

@@ -15,7 +15,7 @@ The practical corollary is that a genuinely late project is rescued by removing 
 
 ## See also
 - [[Learning Curve]]
-- [[Hofstadter's Law]]
+- [[Lump of Labor Fallacy]]
 - [[Crunch]]
 - [[Mainframe]]
 - [[Software Crisis]]

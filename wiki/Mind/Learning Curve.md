@@ -28,3 +28,4 @@ Early in the curve, people often overestimate how much they've mastered, since t
 ## See also
 - [[Gradient Descent]]
 - [[Growth Mindset]]
+- [[Comparative Advantage]]

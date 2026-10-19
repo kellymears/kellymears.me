@@ -21,7 +21,7 @@ A red herring exploits the same convention in reverse, planting false emphasis t
 - [[In Medias Res]]
 - [[Cliffhanger]]
 - [[Telegraphing]]
-- [[Unreliable Narrator]]
+- [[Bechdel Test]]
 - [[Retcon]]
 - [[Deus ex Machina]]
 - [[Hero's Journey]]

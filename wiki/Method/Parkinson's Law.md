@@ -27,5 +27,5 @@ The practical use of the law is as a scheduling lever rather than a complaint: a
 - [[Brooks's Law]]
 - [[Daily Standup]]
 - [[Kanban]]
-- [[Opportunity Cost]]
+- [[Lump of Labor Fallacy]]
 - [[Story Points]]

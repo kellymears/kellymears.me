@@ -16,7 +16,7 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 - [[Rent Strike]]
 - [[Broken Windows Theory]]
 - [[Median Voter Theorem]]
-- [[Internet Shutdown]]
+- [[Bank Run]]
 - [[Drafting]]
 
 ## Related

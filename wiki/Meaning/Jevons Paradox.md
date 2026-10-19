@@ -31,3 +31,4 @@ Related patterns appear in personal life: a faster commute often leads to living
 - [[Moore's Law]]
 - [[Second-Order Thinking]]
 - [[Diffusion of Innovations]]
+- [[Comparative Advantage]]

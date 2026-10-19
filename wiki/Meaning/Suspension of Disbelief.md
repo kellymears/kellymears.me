@@ -30,5 +30,5 @@ The same willingness can be exploited outside fiction, when audiences accept imp
 
 ## See also
 - [[MacGuffin]]
-- [[Unreliable Narrator]]
+- [[Bechdel Test]]
 - [[In Medias Res]]

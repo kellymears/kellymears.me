@@ -25,5 +25,5 @@ It's distinct from simply staying informed, which has a natural endpoint once th
 - [[Curiosity]]
 - [[Boredom]]
 - [[Negativity Bias]]
-- [[Recommender System]]
+- [[Agenda-Setting]]
 - [[Calm Technology]]

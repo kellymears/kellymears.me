@@ -20,6 +20,6 @@ The empirical difficulty is real: licensing that exists to seek rent and licensi
 - [[Legibility]]
 - [[Hanlon's Razor]]
 - [[Right to Repair]]
-- [[Enshittification]]
-- [[Matthew Effect]]
+- [[Lump of Labor Fallacy]]
+- [[Comparative Advantage]]
 - [[Baumol's Cost Disease]]

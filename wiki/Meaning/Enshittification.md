@@ -32,4 +32,4 @@ Critics note the term is vivid but loose, sometimes applied to any product chang
 ## See also
 - [[Paywall]]
 - [[Web Search Engine]]
-- [[Programmatic Advertising]]
+- [[Lump of Labor Fallacy]]

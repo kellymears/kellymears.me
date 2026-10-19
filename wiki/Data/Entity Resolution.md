@@ -31,4 +31,4 @@ Entity resolution also works against privacy. Linking supposedly anonymous recor
 - [[Phone Number]]
 - [[Personal Name]]
 - [[Phonetic Algorithm]]
-- [[Transliteration]]
+- [[Doxing]]

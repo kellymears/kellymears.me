@@ -32,5 +32,5 @@ The idea reaches well beyond economics. Software users can't inspect what's in t
 - [[Hobson's Choice]]
 - [[Poker]]
 - [[Gresham's Law]]
-- [[Perfect Information]]
+- [[Bank Run]]
 - [[Status Page]]

@@ -31,3 +31,4 @@ The essay itself has become a shorthand far beyond literary theory, much as a st
 - [[Rashomon Effect]]
 - [[Generative Art]]
 - [[Fan Fiction]]
+- [[Bechdel Test]]

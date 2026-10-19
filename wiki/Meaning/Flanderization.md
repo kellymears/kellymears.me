@@ -23,3 +23,4 @@ The result is best read as [[Prototype Theory]] applied to a fictional person in
 - [[Hero's Journey]]
 - [[Suspension of Disbelief]]
 - [[Fan Fiction]]
+- [[Bechdel Test]]

@@ -32,7 +32,7 @@ The bias isn't simply an error. Taking threats seriously is often wise, and dism
 
 ## See also
 - [[Sentiment Analysis]]
-- [[Loneliness]]
+- [[Agenda-Setting]]
 - [[Urban Legend]]
 - [[Mood-Congruent Memory]]
 - [[Savoring]]

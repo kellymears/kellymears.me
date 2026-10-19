@@ -19,7 +19,7 @@ Every fix compounds the problem rather than resolving it. Add a second metric to
 - [[AI Alignment]]
 - [[Iron Law of Oligarchy]]
 - [[Hanlon's Razor]]
-- [[Sortition]]
+- [[Comparative Advantage]]
 
 ## Related
 - [[Universal Basic Income]]

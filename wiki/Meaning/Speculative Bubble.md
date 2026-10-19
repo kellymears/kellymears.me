@@ -29,5 +29,5 @@ Bubbles also spread costs beyond the people who bought in. Debt taken on during 
 ## See also
 - [[Gresham's Law]]
 - [[GeoCities]]
-- [[Blockchain]]
+- [[Bank Run]]
 - [[Video Game Crash of 1983]]

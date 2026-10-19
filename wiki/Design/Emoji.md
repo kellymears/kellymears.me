@@ -29,6 +29,6 @@ Meaning is set by use rather than design. Emoji soften tone, mark irony, and sta
 In interfaces, emoji can add warmth to [[Microcopy]], but a [[Screen Reader]] reads out each one's full name, so a line of them becomes a long recitation, and they are no substitute for clear [[Iconography]]. Their names and keywords are localized, so search and pickers need care across languages; see [[Internationalization]].
 
 ## See also
-- [[Country Code]]
+- [[Metonymy]]
 - [[OpenType Features]]
 - [[Internationalized Domain Name]]

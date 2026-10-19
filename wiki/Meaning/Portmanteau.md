@@ -32,4 +32,4 @@ Successful portmanteaus spread the way other catchy ideas do: through repetition
 ## See also
 - [[Retronym]]
 - [[Collocation]]
-- [[Mondegreen]]
+- [[Metonymy]]

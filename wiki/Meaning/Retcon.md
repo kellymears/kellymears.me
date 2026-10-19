@@ -29,6 +29,6 @@ Software has a parallel. Rewriting a project's commit history makes the record t
 ## See also
 - [[Cliffhanger]]
 - [[MacGuffin]]
-- [[Fan Fiction]]
+- [[Bechdel Test]]
 - [[Suspension of Disbelief]]
 - [[Deus ex Machina]]

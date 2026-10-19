@@ -31,6 +31,6 @@ Framing also works as a thinking tool. The [[Pre-mortem]] reframes a plan as hav
 
 ## See also
 - [[Choice Blindness]]
-- [[Trolley Problem]]
+- [[Agenda-Setting]]
 - [[Weber-Fechner Law]]
 - [[Multistable Perception]]

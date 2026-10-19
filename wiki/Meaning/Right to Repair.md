@@ -14,7 +14,7 @@ Legislative movement has been real: several jurisdictions now require manufactur
 ## See also
 - [[Planned Obsolescence]]
 - [[Public Domain]]
-- [[Firmware]]
+- [[Lump of Labor Fallacy]]
 - [[Internet of Things]]
 - [[IKEA Effect]]
 

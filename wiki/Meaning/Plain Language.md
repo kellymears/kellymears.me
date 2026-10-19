@@ -20,7 +20,7 @@ Two writing habits are worth naming as failure modes because they are so easy to
 - [[Euphemism Treadmill]]
 - [[Code Comment]]
 - [[Diglossia]]
-- [[Microcopy]]
+- [[Jargon]]
 - [[Linguistic Prescriptivism]]
 - [[Docs as Code]]
 - [[Politeness Theory]]
