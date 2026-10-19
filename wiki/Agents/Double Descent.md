@@ -26,7 +26,7 @@ The practical consequences:
 None of this means overfitting is solved; overparameterized models still memorize training data, which matters for privacy and evaluation; see [[Benchmark Contamination]].
 
 ## See also
-- [[Neural Network]]
+- [[Precision and Accuracy]]
 - [[Superposition]]
 - [[Neural Network Pruning]]
 - [[Hyperparameter]]

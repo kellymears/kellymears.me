@@ -16,7 +16,7 @@ The uncomfortable edge is that the law describes a manipulation tactic as much a
 ## See also
 - [[Peer Review]]
 - [[Devil's Advocate]]
-- [[Collective Action]]
+- [[Sturgeon's Law]]
 - [[Knowledge Graph]]
 - [[Steelmanning]]
 - [[Brandolini's Law]]

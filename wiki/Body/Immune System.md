@@ -30,7 +30,7 @@ Exercise has a complicated reputation. Regular moderate exercise is associated w
 Like other adaptive systems, immunity benefits from manageable challenge, a parallel to [[Hormesis]].
 
 ## See also
-- [[Sneeze]]
+- [[Antifragility]]
 - [[Atherosclerosis]]
 - [[Lymphatic System]]
 - [[Cellular Senescence]]

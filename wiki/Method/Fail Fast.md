@@ -16,9 +16,9 @@ There is a reporting corollary. When a step cannot do its job, it should say so 
 ## See also
 - [[Kernel Panic]]
 - [[Monad]]
-- [[Defensive Programming]]
+- [[After-Action Review]]
 - [[Murphy's Law]]
-- [[Margin of Safety]]
+- [[Antifragility]]
 - [[Garbage In, Garbage Out]]
 - [[Crash-Only Software]]
 

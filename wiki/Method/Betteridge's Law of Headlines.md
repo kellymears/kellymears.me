@@ -14,7 +14,7 @@ As a heuristic for how much weight to give a story before opening it, this earns
 The incentive it names — implying more certainty than a story earns — is not specific to journalism, and shows up anywhere a title or subject line is optimized for attention rather than accuracy, including [[Search Engine Optimization]] framing built purely to bait a click.
 
 ## See also
-- [[Exhaustive Claim]]
+- [[Sturgeon's Law]]
 - [[Plausible Mechanism]]
 - [[Selection Bias]]
 - [[Falsifiability]]

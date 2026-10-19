@@ -21,7 +21,7 @@ The same blindness to pairs explains why coincidences feel more meaningful than 
 
 ## See also
 - [[Law of Large Numbers]]
-- [[Monte Carlo Method]]
+- [[Prosecutor's Fallacy]]
 - [[Random Walk]]
 - [[Git Object Model]]
 - [[Cuckoo Hashing]]

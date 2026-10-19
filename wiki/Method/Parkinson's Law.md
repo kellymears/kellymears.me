@@ -16,7 +16,7 @@ The practical use of the law is as a scheduling lever rather than a complaint: a
 ## See also
 - [[Game Jam]]
 - [[Ninety-Ninety Rule]]
-- [[Feature Creep]]
+- [[Sturgeon's Law]]
 - [[Burndown Chart]]
 - [[Shape Up]]
 - [[Pomodoro Technique]]

@@ -33,3 +33,4 @@ Its basic form is a [[Line Chart]] with limits drawn from the [[Normal Distribut
 ## See also
 - [[Outlier]]
 - [[Observability]]
+- [[Precision and Accuracy]]

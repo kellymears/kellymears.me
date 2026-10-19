@@ -30,8 +30,8 @@ Margins invite erosion. Because a system with a margin usually works fine when p
 Margins also have costs: extra weight, idle capacity, slower schedules. Choosing one is a judgment about how uncertain the estimates are and how much failure would cost, not a fixed rule; see [[Opportunity Cost]].
 
 ## See also
-- [[Murphy's Law]]
-- [[Chernobyl Disaster]]
-- [[Expected Value]]
+- [[Cost-Benefit Analysis]]
+- [[Antifragility]]
+- [[Scenario Planning]]
 - [[Inversion]]
-- [[Earthquake]]
+- [[Sensitivity Analysis]]

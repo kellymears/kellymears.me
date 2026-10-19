@@ -18,7 +18,7 @@ Scaling makes it obvious: with a hundred doors and a host who opens ninety-eight
 - [[Gambler's Fallacy]]
 - [[Falsifiability]]
 - [[Expected Value]]
-- [[Seeded Randomness]]
+- [[Prosecutor's Fallacy]]
 - [[Fermi Estimation]]
 
 ## Related

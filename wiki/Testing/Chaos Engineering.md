@@ -28,7 +28,7 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 - [[GitLab Database Incident]]
 - [[Facebook Outage of 2021]]
 - [[Chernobyl Disaster]]
-- [[Amazon S3 Outage of 2017]]
+- [[Antifragility]]
 - [[Single-Event Upset]]
 - [[Mean Time to Recovery]]
 - [[Murphy's Law]]

@@ -31,3 +31,4 @@ A scored record replaces impressions with evidence, countering the habit of reme
 - [[Confidence Interval]]
 - [[Dunning-Kruger Effect]]
 - [[Conformal Prediction]]
+- [[Prosecutor's Fallacy]]

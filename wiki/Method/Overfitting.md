@@ -23,7 +23,7 @@ The corrective is [[Occam's Razor]] applied over time — prefer the explanation
 ## Related
 - [[Support Vector Machine]]
 - [[Pre-registration]]
-- [[Benchmark Contamination]]
+- [[Precision and Accuracy]]
 - [[Hyperparameter]]
 - [[Expert Intuition]]
 - [[Universal Approximation Theorem]]

@@ -29,5 +29,5 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Linear Regression]]
 - [[Hawthorne Effect]]
 - [[Representativeness Heuristic]]
-- [[Normal Distribution]]
+- [[Narrative Fallacy]]
 - [[Scatter Plot]]

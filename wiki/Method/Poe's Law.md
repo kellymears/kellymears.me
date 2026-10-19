@@ -20,7 +20,7 @@ The law grew more relevant as online audiences lost shared context — the same 
 - [[Cunningham's Law]]
 
 ## Related
-- [[Plausible Mechanism]]
+- [[Sturgeon's Law]]
 - [[Naming]]
 - [[Kayfabe]]
 - [[Regulatory Capture]]

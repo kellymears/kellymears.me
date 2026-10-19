@@ -31,7 +31,7 @@ The habit of updating extends beyond formal statistics. Skilled forecasters adju
 
 ## See also
 - [[Abductive Reasoning]]
-- [[Bayesian Network]]
+- [[Prosecutor's Fallacy]]
 - [[Bootstrap Resampling]]
 - [[Rubber Hand Illusion]]
 - [[McGurk Effect]]

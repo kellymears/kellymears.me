@@ -28,3 +28,4 @@ It pairs naturally with other ways of escaping the default line of thought, such
 ## See also
 - [[Checklist]]
 - [[Thought Experiment]]
+- [[Antifragility]]

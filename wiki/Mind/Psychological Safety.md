@@ -25,6 +25,6 @@ Leaders shape safety most, by admitting their own uncertainty, asking for input,
 
 ## See also
 - [[Just Culture]]
-- [[Space Shuttle Challenger Disaster]]
+- [[After-Action Review]]
 - [[Space Shuttle Columbia Disaster]]
 - [[Transactive Memory]]

@@ -28,6 +28,6 @@ The same model sits at the root of machine learning. Fitting it by repeatedly nu
 
 ## See also
 - [[Line Chart]]
-- [[Effect Size]]
+- [[Sensitivity Analysis]]
 - [[Train-Test Split]]
 - [[Newton's Method]]

@@ -15,7 +15,7 @@ The error matters most where it has consequences: it drives harsher judgments of
 - [[Self-Serving Bias]]
 - [[Learned Helplessness]]
 - [[Bystander Effect]]
-- [[Groupthink]]
+- [[Narrative Fallacy]]
 - [[Self-Handicapping]]
 - [[Theory of Mind]]
 - [[Locus of Control]]

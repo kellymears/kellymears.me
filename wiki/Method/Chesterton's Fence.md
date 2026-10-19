@@ -24,6 +24,6 @@ The principle has a mirror, and both are needed. A fence whose reason has expire
 ## Related
 - [[Debian OpenSSL Bug]]
 - [[Precautionary Principle]]
-- [[Strangler Fig Pattern]]
+- [[Antifragility]]
 - [[Git Blame]]
 - [[Reversible Decision]]

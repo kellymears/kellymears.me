@@ -26,3 +26,4 @@ The effect is worth distinguishing from ordinary correlation, where traits reall
 - [[Radar Chart]]
 - [[Delphi Method]]
 - [[Cultural Capital]]
+- [[Narrative Fallacy]]

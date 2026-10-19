@@ -16,7 +16,7 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 ## See also
 - [[Lehman's Laws of Software Evolution]]
 - [[Definition of Done]]
-- [[You Aren't Gonna Need It]]
+- [[Cost-Benefit Analysis]]
 - [[Big Rewrite]]
 - [[Year 2000 Problem]]
 - [[Software Aging]]

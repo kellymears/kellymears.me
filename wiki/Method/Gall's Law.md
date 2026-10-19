@@ -24,7 +24,7 @@ The corollary for software architecture is to build the smallest version that ac
 - [[Strangler Fig Pattern]]
 - [[Spiral Model]]
 - [[Big Design Up Front]]
-- [[Request for Comments]]
+- [[Antifragility]]
 - [[You Aren't Gonna Need It]]
 - [[Big Rewrite]]
 - [[First Principles Thinking]]

@@ -29,8 +29,8 @@ The cure is to state the hypothesis before looking at the data:
 The fallacy pairs naturally with [[Confirmation Bias]] and [[Hindsight Bias]]: once a pattern has been noticed, supporting cases stand out and the story of why it happened feels obvious.
 
 ## See also
-- [[Gambler's Fallacy]]
-- [[Streetlight Effect]]
+- [[Prosecutor's Fallacy]]
+- [[Narrative Fallacy]]
 - [[Fisher-Yates Shuffle]]
 - [[Golden Ratio]]
 - [[Multiple Comparisons Problem]]

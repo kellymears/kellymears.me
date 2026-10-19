@@ -31,6 +31,6 @@ A summary number also hides spread, so two groups with the same median can be ve
 In probability, the mean of a distribution is its expected value, and sample means settle toward it as samples grow; see [[Expected Value]] and [[Law of Large Numbers]]. Extreme results drift back toward it on remeasurement; see [[Regression to the Mean]].
 
 ## See also
-- [[Statistical Significance]]
+- [[Precision and Accuracy]]
 - [[Percentage Point]]
 - [[Median Voter Theorem]]

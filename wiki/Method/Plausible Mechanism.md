@@ -19,7 +19,7 @@ The rule that survives: before writing "because X", run something that would tel
 - [[Exhaustive Claim]]
 - [[Abductive Reasoning]]
 - [[Code Comment]]
-- [[Hallucination]]
+- [[Narrative Fallacy]]
 - [[Mirror Neurons]]
 - [[Adversarial Review]]
 

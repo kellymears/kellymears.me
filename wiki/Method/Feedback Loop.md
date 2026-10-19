@@ -41,4 +41,4 @@ Many surprises in policy and engineering are loops nobody drew; see [[Second-Ord
 ## See also
 - [[You Build It, You Run It]]
 - [[Dynamic Resolution Scaling]]
-- [[Small Batches]]
+- [[After-Action Review]]

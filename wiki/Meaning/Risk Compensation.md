@@ -36,3 +36,4 @@ Designers sometimes work with the effect rather than against it. Some traffic en
 - [[Trolley Problem]]
 - [[Second-Order Thinking]]
 - [[Normal Accidents]]
+- [[Antifragility]]

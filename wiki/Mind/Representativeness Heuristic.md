@@ -23,8 +23,8 @@ Not everyone accepts this account of the errors. Gerd Gigerenzer argued that peo
 In practice, the heuristic matters wherever stories are used as evidence. Doctors can fixate on a classic presentation and miss a common disease that looks atypical; investors back founders who look like past successes; see [[Survivorship Bias]]. Detailed, vivid scenarios feel more plausible than vague ones, which is why forecasters are taught to check a story's likelihood piece by piece; see [[Dual Process Theory]] and [[Occam's Razor]].
 
 ## See also
-- [[Framing Effect]]
+- [[Narrative Fallacy]]
 - [[Need for Closure]]
-- [[Pareidolia]]
+- [[Prosecutor's Fallacy]]
 - [[Law of Large Numbers]]
 - [[Barnum Effect]]

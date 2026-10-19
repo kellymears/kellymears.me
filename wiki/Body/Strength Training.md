@@ -30,5 +30,5 @@ The adaptations differ by fiber: heavy training enlarges fast-twitch fibers most
 ## See also
 - [[Grip Strength]]
 - [[Muscle Protein Synthesis]]
-- [[Valsalva Maneuver]]
+- [[Antifragility]]
 - [[Periodization]]

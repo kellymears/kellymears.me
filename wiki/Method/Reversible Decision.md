@@ -29,5 +29,5 @@ Not everything that looks reversible is. Trust, reputation, and users' habits re
 
 ## See also
 - [[OODA Loop]]
-- [[Need for Closure]]
-- [[Big Design Up Front]]
+- [[Cost-Benefit Analysis]]
+- [[Scenario Planning]]

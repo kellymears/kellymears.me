@@ -15,7 +15,7 @@ Because the cause is instrumentation rather than laziness, the fix is rarely "lo
 - [[Law of the Instrument]]
 - [[Random Walk]]
 - [[Truncation Bias]]
-- [[Fermi Estimation]]
+- [[Sturgeon's Law]]
 - [[Smoke Point]]
 - [[Inattentional Blindness]]
 - [[Statistical Power]]

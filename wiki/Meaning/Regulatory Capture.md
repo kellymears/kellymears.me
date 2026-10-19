@@ -22,4 +22,4 @@ The word is also overused. "Capture" can function as a [[Plausible Mechanism]] t
 - [[Sortition]]
 - [[Jaywalking]]
 - [[Internet Service Provider]]
-- [[Information Asymmetry]]
+- [[Cost-Benefit Analysis]]

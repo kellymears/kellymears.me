@@ -27,9 +27,9 @@ The exercise has limits. It finds risks people can imagine, not truly novel ones
 ## See also
 - [[Five Whys]]
 - [[Delphi Method]]
-- [[Second-Order Thinking]]
+- [[Scenario Planning]]
 - [[Failure Mode and Effects Analysis]]
 - [[Inversion]]
-- [[Spiral Model]]
+- [[After-Action Review]]
 - [[Architecture Decision Record]]
 - [[Precautionary Principle]]

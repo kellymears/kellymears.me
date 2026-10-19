@@ -30,8 +30,8 @@ Simply knowing about the bias barely reduces it. Better defenses are procedural:
 A [[Pre-mortem]] turns the effect into a tool, borrowing the clarity of hindsight before the outcome instead of after. The bias also illustrates why [[Falsifiability]] matters: an explanation built after the fact can always be made to fit.
 
 ## See also
-- [[Five Whys]]
-- [[Flashbulb Memory]]
+- [[After-Action Review]]
+- [[Narrative Fallacy]]
 - [[Inversion]]
 - [[Hanlon's Razor]]
 - [[Just-World Hypothesis]]

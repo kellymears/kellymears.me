@@ -17,9 +17,9 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 - [[Law of the Instrument]]
 - [[Devil's Advocate]]
 - [[Affinity Diagram]]
-- [[Mood-Congruent Memory]]
+- [[Paradigm Shift]]
 - [[Self-Fulfilling Prophecy]]
-- [[Superforecasting]]
+- [[Narrative Fallacy]]
 - [[Cognitive Dissonance]]
 - [[Naive Realism]]
 

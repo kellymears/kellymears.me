@@ -23,9 +23,9 @@ The fallacy recurs anywhere a rare-category judgment is made from a compelling p
 - [[Birthday Problem]]
 
 ## Related
-- [[Bayesian Network]]
+- [[Prosecutor's Fallacy]]
 - [[Anomaly Detection]]
-- [[Multiple Comparisons Problem]]
+- [[Sturgeon's Law]]
 - [[Choropleth Map]]
 - [[Bayesian Inference]]
 - [[Naive Bayes]]

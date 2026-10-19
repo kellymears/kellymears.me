@@ -30,6 +30,6 @@ The single-session curve is a simplification. Real training overlaps sessions lo
 - [[Detraining]]
 - [[Excess Post-Exercise Oxygen Consumption]]
 - [[Segmented Sleep]]
-- [[Hormesis]]
+- [[Antifragility]]
 - [[Delayed Onset Muscle Soreness]]
 - [[Muscle Fatigue]]

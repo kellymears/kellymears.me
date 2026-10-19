@@ -25,8 +25,8 @@ The choice also affects how studies compare. Two studies of "screen time and wel
 Practical habits help. State the operational definition explicitly. Use several measures when one could mislead, such as pairing a speed metric with a quality one; see [[DORA Metrics]]. Check measures against cases where the answer is known; see [[Ground Truth]]. And report effect sizes in the units of the measure, so readers can judge whether a change matters; see [[Effect Size]].
 
 ## See also
-- [[Slider]]
+- [[Sensitivity Analysis]]
 - [[Pre-registration]]
-- [[Data Labeling]]
+- [[Precision and Accuracy]]
 - [[Ecological Fallacy]]
 - [[McNamara Fallacy]]

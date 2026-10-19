@@ -26,4 +26,4 @@ Critics say the domains are hard to identify in practice and that the framework 
 ## See also
 - [[OODA Loop]]
 - [[Reversible Decision]]
-- [[Need for Closure]]
+- [[Scenario Planning]]

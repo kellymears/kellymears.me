@@ -15,7 +15,7 @@ Five Whys works best as a prompt to keep asking, paired with a [[Blameless Postm
 
 ## See also
 - [[Root Cause Analysis]]
-- [[Blameless Postmortem]]
+- [[After-Action Review]]
 - [[Just Culture]]
 - [[Chesterton's Fence]]
 

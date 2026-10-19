@@ -29,7 +29,7 @@ Combining heavy endurance training with strength training can blunt hypertrophy,
 Muscle matters beyond appearance. It is the body's largest site of glucose disposal, so more muscle supports [[Insulin Sensitivity]]. Loading also strengthens tendons and bone, through [[Tendon and Ligament]] adaptation and [[Bone Remodeling]].
 
 ## See also
-- [[Cold Exposure]]
+- [[Antifragility]]
 - [[Muscle Protein Synthesis]]
 - [[Creatine]]
 - [[Body Composition]]

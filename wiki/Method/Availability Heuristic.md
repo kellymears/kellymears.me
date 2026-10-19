@@ -15,7 +15,7 @@ The corrective is the same move [[Fermi Estimation]] makes explicit: force yours
 
 ## See also
 - [[Representativeness Heuristic]]
-- [[Fermi Estimation]]
+- [[Cost-Benefit Analysis]]
 - [[Anchoring Effect]]
 - [[Confirmation Bias]]
 - [[Selection Bias]]

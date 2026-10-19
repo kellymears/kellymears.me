@@ -29,6 +29,6 @@ What makes one explanation "best" is a mix of criteria: it explains more of the 
 Its risks follow from its speed. Once a plausible story forms, people seek evidence that fits it and stop considering alternatives; see [[Confirmation Bias]]. A pattern found after the fact can look like an explanation without being one; see [[Texas Sharpshooter Fallacy]]. The defense is to hold several hypotheses, look for the observation that would tell them apart, and test before acting.
 
 ## See also
-- [[Logical Fallacy]]
+- [[Narrative Fallacy]]
 - [[No Free Lunch Theorem]]
-- [[Reductio ad Absurdum]]
+- [[Paradigm Shift]]

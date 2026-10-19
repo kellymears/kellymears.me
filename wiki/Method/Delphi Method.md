@@ -33,7 +33,7 @@ Alternatives aggregate judgment differently. Averaging many independent guesses 
 
 ## See also
 - [[Affinity Diagram]]
-- [[Pre-mortem]]
+- [[Scenario Planning]]
 - [[Mean and Median]]
 - [[Arrow's Impossibility Theorem]]
 - [[Ranked-Choice Voting]]

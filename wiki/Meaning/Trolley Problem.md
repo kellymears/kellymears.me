@@ -31,3 +31,4 @@ Critics argue the scenarios are so artificial that intuitions about them reveal 
 - [[Tragedy of the Commons]]
 - [[Thought Experiment]]
 - [[Obedience to Authority]]
+- [[Cost-Benefit Analysis]]

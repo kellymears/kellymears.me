@@ -36,4 +36,4 @@ Designers exploit the same pattern: daily login rewards, timed offers, and insta
 - [[Mental Accounting]]
 - [[Psychological Distance]]
 - [[Affective Forecasting]]
-- [[Time Perception]]
+- [[Cost-Benefit Analysis]]

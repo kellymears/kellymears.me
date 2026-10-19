@@ -35,3 +35,4 @@ Critics note that speed isn't always an advantage, that the loop describes almos
 - [[Dual Process Theory]]
 - [[Fail Fast]]
 - [[ReAct]]
+- [[After-Action Review]]

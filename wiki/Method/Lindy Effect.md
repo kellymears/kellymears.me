@@ -29,8 +29,8 @@ It pairs with [[Chesterton's Fence]], which counsels understanding why something
 
 ## See also
 - [[Technology Radar]]
-- [[Diffusion of Innovations]]
-- [[Bathtub Curve]]
-- [[Radioactive Decay]]
+- [[Sturgeon's Law]]
+- [[Paradigm Shift]]
+- [[Antifragility]]
 - [[Public Domain]]
 - [[Fax]]
