@@ -22,5 +22,4 @@ Interoperability is a recurring problem in emergencies. Agencies that buy differ
 Radio remains essential where phone networks fail or don't reach: at sea, in aviation, in wilderness rescue, and during disasters. Its immediacy is the appeal: press, speak, and everyone on the channel hears at once.
 
 ## See also
-- [[Signaling Server]]
 - [[Bluetooth]]

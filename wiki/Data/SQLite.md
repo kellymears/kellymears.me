@@ -16,8 +16,8 @@ Some of its choices are unusual:
 
 - **Public domain.** SQLite has no license. Its authors dedicated it to the public domain, and source files begin with a short blessing instead of a copyright notice; see [[Public Domain]].
 - **Testing.** The test suite is hundreds of times larger than the library and reaches full branch coverage at the standard required for aviation software.
-- **Flexible types.** By default a column declared as an integer will accept text. Stricter tables became an option in 2021; see [[Type System]].
-- **One writer.** Any number of readers can work at once, but only one connection can write at a time. A write-ahead log mode, added in 2010, lets readers continue while a write is in progress; see [[Write-Ahead Logging]].
+- **Flexible types.** By default a column declared as an integer will accept text. Stricter tables became an option in 2021.
+- **One writer.** Any number of readers can work at once, but only one connection can write at a time. A [[Write-Ahead Logging|write-ahead log]] mode, added in 2010, lets readers continue while a write is in progress.
 
 The single-writer design and file locking limit it. It is a poor fit for many machines writing to one database, and a database file on a network filesystem can be corrupted if locking misbehaves. Hipp's advice is to use a client-server database when data is separated from the application by a network.
 

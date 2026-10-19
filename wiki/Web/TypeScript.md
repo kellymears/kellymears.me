@@ -18,7 +18,7 @@ Its type system is shaped to fit how JavaScript is actually written:
 - **Inference and narrowing.** Most local types are inferred, as in [[Type Inference]], and the checker follows control flow, so inside `if (typeof x === "string")` it knows `x` is a string.
 - **Unions and literal types.** Discriminated unions model the algebraic data type, letting the checker confirm every case is handled. Conditional and mapped types compute new types from old ones, a type language expressive enough to reach Turing Completeness.
 
-TypeScript is **deliberately unsound**. Its designers listed soundness as an explicit non-goal, choosing convenience and compatibility over guarantees. In practice it catches most mistakes a test would, typos, missing properties, wrong arguments, at the moment of typing, and makes [[Static Analysis]] such as rename-across-project reliable. Its real product is arguably the editor's language service, behind autocomplete and navigation even for plain JavaScript.
+TypeScript is **deliberately unsound**. Its designers listed soundness as an explicit non-goal, choosing convenience and compatibility over guarantees. In practice it catches a large class of everyday mistakes (typos, missing properties, wrong arguments) at the moment of typing, and makes [[Static Analysis]] such as rename-across-project reliable. Its real product is arguably the editor's language service, behind autocomplete and navigation even for plain JavaScript.
 
 Flow, Facebook's competing checker, launched in 2014 and lost the ecosystem. By the 2020s most major frameworks and libraries were written in TypeScript, and it ranked among the most used languages on GitHub.
 

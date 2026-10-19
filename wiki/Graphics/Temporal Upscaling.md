@@ -21,4 +21,3 @@ Upscaling is now load-bearing in modern games. Expensive techniques like real-ti
 
 ## See also
 - [[Denoising]]
-- [[Lazy Evaluation]]

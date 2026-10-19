@@ -22,7 +22,7 @@ Hotlinking can be a feature. Image hosts and social sites provide embed codes so
 
 It also leaks information. Every hotlinked file tells the host who's viewing which page. A single invisible image used this way is a tracking pixel.
 
-The law is unsettled. In 2007 a United States appeals court ruled in Perfect 10 v. Amazon that a site displaying images stored on another server doesn't itself copy them, a rule known as the server test. In 2018 a federal court in New York declined to follow it for embedded social media posts, and other courts have disagreed since. Linking to pages, as opposed to embedding files, raised its own disputes; see [[Deep Linking]].
+The law is unsettled. In 2007 a United States appeals court ruled in Perfect 10 v. Amazon that a site displaying images stored on another server doesn't itself copy them, a rule known as the server test. In 2018 a federal court in New York declined to follow it for embedded social media posts, and courts have split on the question since. Linking to pages, as opposed to embedding files, raised its own disputes; see [[Deep Linking]].
 
 Because the hotlinking page doesn't control the file, the original host can change or delete it at any time.
 

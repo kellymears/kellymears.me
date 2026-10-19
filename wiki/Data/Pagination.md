@@ -23,6 +23,5 @@ Interface design shapes which one fits. Numbered pages suit search results where
 
 ## See also
 - [[Data Table]]
-- [[Optimistic Locking]]
 - [[Empty State]]
 - [[Virtual Scrolling]]

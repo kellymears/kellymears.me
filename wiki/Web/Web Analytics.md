@@ -9,9 +9,9 @@ summary: Measuring how people use a website, from parsing server logs to JavaScr
 ---
 **Web analytics** is the measurement of how people find and use a website: how many visit, which pages they view, where they came from, and what they do there. Site owners use it to judge content, test designs, and track sales; see [[A/B testing]].
 
-The first approach read the server's own records. Every request a web server handles is written to a log file, and tools in the mid-1990s summarized those logs into counts of hits, pages, and visitors; see [[Logging]]. Logs see every request, but they can't easily tell people from crawlers, they miss pages served from caches, and they record files rather than actions; see [[Web Crawler]] and [[HTTP Caching]].
+The first approach read the server's own records. Every request a web server handles is written to a log file, and tools in the mid-1990s summarized those logs into counts of hits, pages, and visitors; see [[Logging]]. Logs see every request, but they can't easily tell people from [[Web Crawler|crawlers]], they miss pages served from [[HTTP Caching|caches]], and they record files rather than actions.
 
-**Page tagging** replaced them. A small script on each page sends details of the visit to an analytics service, which can record screen size, time on page, clicks, and other events, and an identifier stored in a cookie links visits into sessions and returning visitors; see [[HTTP Cookie]]. Google bought a company called Urchin in 2005 and relaunched its product as Google Analytics, free of charge. It became the default on a large share of all websites, and it gave Google a view of traffic across much of the web.
+**Page tagging** replaced them. A small script on each page sends details of the visit to an analytics service, which can record screen size, time on page, clicks, and other events, and an identifier stored in a [[HTTP Cookie|cookie]] links visits into sessions and returning visitors. Google bought a company called Urchin in 2005 and relaunched its product as Google Analytics, free of charge. It became the default on a large share of all websites, and it gave Google a view of traffic across much of the web.
 
 Common metrics:
 

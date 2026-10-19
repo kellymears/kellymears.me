@@ -13,7 +13,7 @@ The [[Same-Origin Policy]] does not stop this. It stops the attacking page from 
 
 Defenses, roughly from newest to oldest:
 
-- **`SameSite` cookies.** A session cookie marked `Lax` or `Strict` is not sent on cross-site subrequests, which removes the attack's premise. Browsers now default to `Lax`, which is why CSRF is much rarer than it was.
+- **`SameSite` cookies.** A session cookie marked `Lax` or `Strict` is not sent on cross-site subrequests, which removes the attack's premise. Chrome and other Chromium browsers now default to `Lax`, a large part of why CSRF is much rarer than it was.
 - **Fetch metadata.** Browsers send `Sec-Fetch-Site`, so a server can refuse state-changing requests whose value is `cross-site`.
 - **Origin checking.** Compare the `Origin` (or `Referer`) header to an allowlist of the site's own origins.
 - **Synchronizer tokens.** Embed an unguessable per-session token in every form and require it back. A cross-site page can't read it, so it can't include it.
@@ -26,7 +26,5 @@ Two boundaries are worth knowing. CSRF defenses assume no [[Cross-Site Scripting
 - [[Server-Side Request Forgery]]
 - [[Session Management]]
 - [[Open Redirect]]
-- [[Form Validation]]
 - [[Referrer Policy]]
-- [[Loopback]]
 - [[Clickjacking]]

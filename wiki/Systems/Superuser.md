@@ -8,7 +8,7 @@ tags:
   - systems
 summary: The all-powerful root account on Unix systems, how sudo hands out its power temporarily, and why both attackers and good security design revolve around who gets it.
 ---
-The **superuser** is the account with unrestricted control over a computer. On Unix and Linux it's called **root** and has user ID 0. The kernel skips nearly all permission checks for it: root can read any file, kill any [[Process]], load kernel modules, change other users' passwords, and bind to network ports below 1024, which the system reserves for privileged services; see [[Port]]. Windows has an equivalent in its Administrator and SYSTEM accounts.
+The **superuser** is the account with unrestricted control over a computer. On Unix and Linux it's called **root** and has user ID 0. The kernel skips nearly all permission checks for it: root can read any file, kill any [[Process]], load kernel modules, change other users' passwords, and bind to network [[Port|ports]] below 1024, which the system reserves for privileged services. Windows has an equivalent in its Administrator and SYSTEM accounts.
 
 That power makes root dangerous to use routinely. A typo in a command run as root can erase the system, and any program running as root that gets compromised hands an attacker everything. So the standard practice is to work as an ordinary user and borrow root only when needed, the principle of [[Least Privilege]].
 
@@ -21,9 +21,9 @@ Over time, root's single all-or-nothing power has been split up:
 - **[[Linux Namespaces]]** let a container have its own "root" that has no power outside it, and rootless containers avoid real root entirely; see [[Containerization]]. A [[Chroot]] was an earlier, weaker form of isolation.
 - **Mandatory access control** systems such as SELinux and AppArmor restrict even root, confining each service to the files and actions its policy allows.
 
-**Privilege escalation** is the attacker's step of turning limited access into root. It usually exploits a bug in something already privileged: the kernel, a setuid program, a misconfigured sudo rule, or a root service with a Memory Safety flaw. Escalation bugs are among the most prized in security research and a standard goal of Penetration Testing.
+**Privilege escalation** is the attacker's step of turning limited access into root. It usually exploits a bug in something already privileged: the kernel, a setuid program, a misconfigured sudo rule, or a root service with a memory safety flaw. Escalation bugs are among the most prized in security research and a standard goal of Penetration Testing.
 
-Remote access adds its own rules. Most systems forbid logging in as root directly over [[Secure Shell]], requiring a named user who then uses sudo, so every action is traceable to a person.
+Remote access adds its own rules. Many systems forbid logging in as root directly over [[Secure Shell]], requiring a named user who then uses sudo, so every action is traceable to a person.
 
 The same concern now applies to automated tools and AI agents: running them with full privileges is convenient and risky, which is why they are increasingly confined; see [[Agent Sandbox]].
 

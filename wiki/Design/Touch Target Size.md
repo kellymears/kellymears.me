@@ -23,9 +23,9 @@ The visible element doesn't have to be that big. A 24-pixel icon can sit inside 
 
 Position matters too. Steven Hoober's 2013 observations of people using phones in public found that about half held them in one hand and tapped with a thumb. The thumb reaches the middle and bottom of the screen easily and the top corners poorly, which is why many apps moved primary navigation to the bottom of the screen as phones grew larger.
 
-On the web, the `pointer: coarse` media query detects touch-first devices, letting a layout enlarge targets where needed, alongside changes at each [[Responsive Breakpoint]]. Generous White Space between targets helps as much as size itself. Targets must also be discoverable: a clear [[Affordance]] tells people something is tappable, which flat icon-only designs sometimes fail to do.
+On the web, the `pointer: coarse` media query detects touch-first devices, letting a layout enlarge targets where needed, alongside changes at each [[Responsive Breakpoint]]. Generous white space between targets also helps. Targets must also be discoverable: a clear [[Signifier]] tells people something is tappable, which flat icon-only designs sometimes fail to do.
 
-Small targets are an [[Accessibility]] issue for people with tremors, limited dexterity, or low vision, and for older users, but they frustrate everyone. Small targets also show up in deliberately hostile design, as when a [[Dark Pattern]] makes the close button on an advertisement a tiny, faint X. The same sizing thinking applies beyond touch: large click targets help mouse users, and [[Keyboard Navigation]] needs clearly visible focus on each target, as part of good [[Focus Management]].
+Small targets are an [[Accessibility]] issue for people with tremors, limited dexterity, or low vision, and for older users, but they frustrate everyone. Small targets also show up in deliberately hostile design, as when a [[Dark Pattern]] makes the close button on an advertisement a tiny, faint X. The same sizing thinking applies beyond touch: large click targets help mouse users, and [[Keyboard Navigation]] needs clearly visible focus on each target.
 
 ## See also
 - [[Tooltip]]

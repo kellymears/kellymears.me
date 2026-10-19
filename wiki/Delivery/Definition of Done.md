@@ -10,7 +10,7 @@ A **definition of done** is a team's shared, written list of what must be true b
 
 It exists because "done" means different things to different people. To one developer it means the code runs on their machine; to another it means merged; to a product manager it means customers have it. When a tracker shows an item as complete under the first meaning, the remaining work, review, testing, and release, is still owed but no longer visible. Teams started saying "done-done" to tell the real thing apart.
 
-The definition differs from acceptance criteria, which are specific to one item: this form rejects an empty email address, this report loads in under two seconds; see [[Acceptance criteria]]. The definition of done is general and applies to every item. A story can meet its acceptance criteria and still not be done because nobody reviewed it.
+The definition differs from [[Acceptance criteria|acceptance criteria]], which are specific to one item: this form rejects an empty email address, this report loads in under two seconds. The definition of done is general and applies to every item. A story can meet its acceptance criteria and still not be done because nobody reviewed it.
 
 What it does:
 

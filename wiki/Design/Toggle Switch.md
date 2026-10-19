@@ -7,7 +7,7 @@ tags:
   - design
 summary: An on-screen control for a single on-or-off setting that takes effect immediately, borrowed from light switches, distinct from checkboxes and radio buttons, and notorious for leaving people unsure which state it is in.
 ---
-A **toggle switch** is a control for a single setting that is either on or off and takes effect the moment it changes, like the light switch it imitates; see [[Skeuomorphism]]. The sliding switch became a standard mobile control with the iPhone in 2007 and spread to the web and desktop.
+A **toggle switch** is a control for a single setting that is either on or off and takes effect the moment it changes, like the light switch it imitates. The sliding switch became a standard mobile control with the iPhone in 2007 and spread to the web and desktop.
 
 It sits beside two older controls:
 
@@ -24,7 +24,7 @@ The switch's chronic problem is ambiguity. People can't always tell which state 
 
 Because a switch acts immediately, it must give immediate feedback. When the change depends on a server, the interface can flip the switch at once and quietly revert it if the request fails; see [[Optimistic UI]]. A change that is hard to reverse doesn't belong behind a single tap; see [[Undo]].
 
-Accessibility is easiest with a native checkbox styled to look like a switch, which keeps keyboard and assistive technology support; see [[Semantic HTML]]. A custom switch needs the switch role and a checked state so that a [[Screen Reader]] announces "on" or "off"; see [[ARIA]]. The control must also be large enough to hit; see [[Touch Target Size]].
+Accessibility is easiest with a native checkbox styled to look like a switch, which keeps keyboard and assistive technology support; see [[Semantic HTML]]. A custom switch needs the [[ARIA]] switch role and a checked state so that a [[Screen Reader]] announces "on" or "off". The control must also be large enough to hit; see [[Touch Target Size]].
 
 The starting position of a switch is a decision with consequences. Most people never change defaults, so settings that share data or send notifications are often switched on in advance, sometimes in ways that cross into deception; see [[Dark Pattern]].
 

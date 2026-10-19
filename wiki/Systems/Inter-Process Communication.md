@@ -21,13 +21,13 @@ The main mechanisms:
 
 Most mechanisms copy data through the kernel, which costs time but keeps processes isolated. Shared memory avoids the copy, which is why it carries large data such as video frames and window contents on their way to the screen. Messages crossing any channel must be turned into bytes on one side and rebuilt on the other.
 
-Higher-level systems build on these. **D-Bus**, standard on Linux desktops since the mid-2000s, lets programs call methods on each other and broadcast events, such as a battery running low; see [[Systemd]]. Android routes almost everything through a kernel driver called Binder. These systems look like function calls across process boundaries.
+Higher-level systems build on these. **D-Bus**, standard on Linux desktops since the mid-2000s, lets programs call methods on each other and broadcast events, such as a battery running low. Android routes almost everything through a kernel driver called Binder. These systems look like function calls across process boundaries.
 
 IPC speed shapes operating-system design. Microkernels move drivers and filesystems out of the kernel into separate processes, so every file read becomes several messages. Early microkernels were slow for this reason, until Jochen Liedtke's L4 showed in the 1990s that IPC could be made several times faster with careful design.
 
 IPC is also a security boundary. Browsers run each site's content in a restricted process with almost no privileges, which must ask a more trusted process for anything it needs; see [[Least Privilege]]. Bugs in the code that handles those requests are a common way for attackers to escape the sandbox, so the receiving side must treat every message as untrusted input.
 
-Designs that communicate only by messages, sharing no memory at all, avoid many concurrency bugs; see [[Actor Model]].
+The [[Actor Model]] and other designs that communicate only by messages, sharing no memory at all, avoid many concurrency bugs.
 
 ## See also
 - [[Sound Server]]

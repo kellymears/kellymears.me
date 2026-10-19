@@ -12,7 +12,7 @@ A **motherboard** is the main printed circuit board in a computer. It holds or c
 
 IBM's 1981 PC came with expansion slots and published technical documentation, and the clone industry that followed turned PC parts into interchangeable commodities. Standard board sizes and mounting holes, above all Intel's **ATX** specification of 1995, mean a board from one company fits a case and power supply from others. Phones and most laptops went the other way, with a board designed for one device and its components soldered down, trading upgrades for size and battery life; see [[Right to Repair]].
 
-The **chipset** handles traffic the processor doesn't. Older designs split it in two. A northbridge linked the processor to memory and graphics, and a southbridge handled slower devices. As processors absorbed the memory controller and the main expansion lanes, the northbridge vanished into the CPU package. Today's chipset is mostly a hub for USB, extra storage and networking, joined to the processor by one fast link; see [[Universal Serial Bus]]. Chipset and socket together decide which processors a board accepts and which features it exposes, such as overclocking.
+The **chipset** handles traffic the processor doesn't. Older designs split it in two. A northbridge linked the processor to memory and graphics, and a southbridge handled slower devices. As processors absorbed the memory controller and the main expansion lanes, the northbridge vanished into the CPU package. Today's chipset is mostly a hub for [[Universal Serial Bus|USB]], extra storage and networking, joined to the processor by one fast link. Chipset and socket together decide which processors a board accepts and which features it exposes, such as overclocking.
 
 Power delivery is one of the board's hardest jobs. The power supply provides 12 volts, but a processor core runs at around one volt and can draw well over a hundred amps, ramping up within microseconds. The **voltage regulator modules** around the socket convert one to the other with several switching phases taking turns, and their quality limits sustained performance. Hot or undersized regulators force the processor to slow down; see [[Dynamic Voltage and Frequency Scaling]].
 
@@ -24,5 +24,4 @@ Laptops, servers and single-board computers all follow the same basic plan. On m
 
 ## See also
 - [[Computer Cooling]]
-- [[Watchdog Timer]]
 - [[Serial Port]]

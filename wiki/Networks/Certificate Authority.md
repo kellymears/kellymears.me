@@ -21,11 +21,10 @@ The system's weakness is that any trusted CA can issue a certificate for any dom
 - **Root store policy.** Browser vendors audit CAs and remove ones that misissue, as several large CAs have learned.
 - **CAA records.** A [[Domain Name System]] record lets a domain declare which CAs may issue for it.
 
-How a CA checks that you control a domain is called *domain validation*: you prove control by placing a file on the site or a record in DNS. **Let's Encrypt**, launched in 2015 by a nonprofit, issues these certificates free and fully automatically through the ACME protocol. It changed the web: HTTPS went from a minority of page loads to the large majority within a few years, and certificate lifetimes have kept shrinking since, from years to 90 days and soon fewer, because short-lived certificates limit the damage from stolen keys and broken revocation. Automation became a requirement rather than a convenience, the same shift [[Continuous Deployment]] made for releases.
+How a CA checks that you control a domain is called *domain validation*: you prove control by placing a file on the site or a record in DNS. **Let's Encrypt**, launched in 2015 by a nonprofit, issues these certificates free and fully automatically through the ACME protocol. It changed the web: HTTPS went from a minority of page loads to the large majority within a few years, and certificate lifetimes have kept shrinking since, from years to 90 days and soon fewer, because short-lived certificates limit the damage from stolen keys and broken revocation. Automation became a requirement rather than a convenience.
 
 The same model appears elsewhere: [[Code Signing]] certificates for software, device certificates in an [[eSIM]], and the STIR/SHAKEN certificates behind [[Caller ID Authentication]].
 
 ## See also
 - [[Secure Shell]]
 - [[Web Server]]
-- [[Top-Level Domain]]

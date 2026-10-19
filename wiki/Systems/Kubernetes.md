@@ -14,9 +14,9 @@ The core idea is **declarative desired state**. Rather than issuing commands ("s
 Its main building blocks:
 
 - **Pods.** The smallest unit, one or more containers that share a network address and storage and always run together on one machine.
-- **Deployments.** Manage a set of identical pods and replace them gradually when the image changes, a rolling deployment by default, with automatic rollback if new pods fail health checks.
+- **Deployments.** Manage a set of identical pods and replace them gradually when the image changes, a rolling deployment by default, which stops progressing if new pods fail health checks; rolling back is a separate step.
 - **Services.** Give a changing set of pods one stable address and spread traffic across them; see [[Load Balancing]].
-- **Scheduler.** Places each pod on a machine with enough free CPU and memory, a bin-packing problem. Resource limits are enforced by [[Control Groups]], and a container exceeding its memory limit is killed, as by the [[Out-of-Memory Killer]].
+- **Scheduler.** Places each pod on a machine with enough free CPU and memory, a bin-packing problem. Resource limits are enforced by [[Control Groups]], and a container exceeding its memory limit is killed by the kernel's [[Out-of-Memory Killer]].
 - **ConfigMaps and Secrets.** Inject configuration and credentials, though Secrets are only encoded, not encrypted, by default; see [[Secret Management]].
 
 The cluster's state lives in etcd, a key-value store kept consistent across several machines by the Raft [[Consensus Algorithm]]. Every component reads and writes through a central API server, which also makes Kubernetes extensible: teams define their own resource types and controllers to manage databases, certificates, or anything else the same way.

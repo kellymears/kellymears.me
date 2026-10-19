@@ -14,7 +14,7 @@ The problem it solves comes from how Git works. Every clone gets the full histor
 With LFS, a pointer file in the repository holds only a hash of the content and its size. Behind the scenes:
 
 - **`git lfs track "*.psd"`** adds a pattern to `.gitattributes`, telling Git which files LFS should manage.
-- **On commit**, a filter replaces the file with its pointer and caches the real content locally.
+- **On staging**, a filter replaces the file with its pointer and caches the real content locally.
 - **On push**, the content is uploaded to the LFS server, addressed by its hash, much like the content addressing in a Merkle Tree.
 - **On checkout**, another filter downloads the content for the current commit only, not every past version.
 

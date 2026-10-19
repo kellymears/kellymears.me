@@ -21,7 +21,7 @@ The value of staging depends on how closely it matches production, and it never 
 
 - **Data.** Staging has less data, cleaner data, or old data. Bugs triggered by one customer's odd record, or a table with a hundred million rows, never appear. Copying production data creates privacy risk unless it is masked, since it contains [[Personal Data]], so many teams rely on seed data instead.
 - **Traffic.** Staging sees a few testers, not thousands of concurrent users, so contention, race condition bugs, and capacity problems hide. Load Testing tries to close this gap.
-- **Drift.** Long-lived staging environments are patched by hand and drift from production, the problem described under Configuration Drift. [[Infrastructure as Code]] and immutable infrastructure reduce it.
+- **Drift.** Long-lived staging environments are patched by hand and drift from production, a problem known as configuration drift. [[Infrastructure as Code]] and immutable infrastructure reduce it.
 - **Scale and topology.** Fewer servers, smaller instances, and a single region hide problems that only appear across many.
 
 Shared staging also becomes a bottleneck. Several teams deploy competing changes to one environment, breaking each other's tests and queueing for access. An ephemeral environment, a short-lived copy created for each pull request, avoids the queue.

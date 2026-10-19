@@ -26,11 +26,9 @@ Each approach breaks something:
 - **Partial clones need the network.** Commands that touch old file contents, such as `git log -p` over long ranges, trigger many small downloads and can be slow, and nothing works offline for content not yet fetched.
 - **Sparse checkouts hide dependencies.** A change in an excluded directory can break your build in ways you can't see locally.
 
-For most CI jobs, shallow is fine until something needs history, and then the failure is confusing; a build that uses the [[Changelog]] or a tag-derived version needs at least the tags. For developer machines, Git's own documentation now recommends blobless partial clones over shallow ones, since they keep history intact and fetch content lazily.
+For most CI jobs, shallow is fine until something needs history, and then the failure is confusing; a build that uses the [[Changelog]] or a tag-derived version needs at least the tags. For developer machines, the usual recommendation now is blobless partial clones over shallow ones, since they keep history intact and fetch content lazily.
 
 These techniques reduce how much of a repository you fetch. [[Git LFS]] addresses a different problem, large binaries in history. A [[Git Worktree]] solves another, needing several checkouts of one repository without cloning it twice.
 
 ## See also
 - [[Git Object Model]]
-- [[Build Cache]]
-- [[Reflog]]

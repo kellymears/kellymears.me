@@ -24,7 +24,7 @@ The famous trap is the **ABA problem**. A thread reads value A, gets paused, and
 
 That deferral, *safe memory reclamation*, is the hardest part. In a language with [[Garbage Collection]], the collector already guarantees that a node isn't freed while any thread holds a reference, which is why lock-free structures are easier in Java than in C++. Elsewhere, schemes such as hazard pointers and epoch-based reclamation do the job, or plain Reference Counting at a performance cost.
 
-Lock-free is not automatically faster. Under heavy contention, threads waste effort on failed retries, and many cores hammering one memory location saturate cache traffic, hurting Locality of Reference. Correctness is also notoriously hard to test, since bugs depend on rare interleavings: a [[Race Condition]] may appear once in billions of runs, and tools like ThreadSanitizer, a sanitizer, and model checkers are standard. Most programmers should use well-tested library versions, such as a single-producer [[Ring Buffer]] or a concurrent skip list, rather than write their own.
+Lock-free is not automatically faster. Under heavy contention, threads waste effort on failed retries, and many cores hammering one memory location saturate cache traffic, hurting Locality of Reference. Correctness is also notoriously hard to test, since bugs depend on rare interleavings: a [[Race Condition]] may appear once in billions of runs, and tools like ThreadSanitizer and model checkers are standard. Most programmers should use well-tested library versions, such as a single-producer [[Ring Buffer]] or a concurrent skip list, rather than write their own.
 
 ## See also
 - [[Futex]]

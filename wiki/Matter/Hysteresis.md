@@ -20,7 +20,7 @@ The pattern recurs wherever a decision flips at a boundary:
 - **Software.** Rendering engines swap detailed models for simpler ones at one distance and back at a slightly closer one, so an object hovering at the threshold doesn't flicker; see [[Level of Detail]]. Input handling ignores repeat signals within a window for the same reason; see [[Debouncing]].
 - **Systems.** Autoscalers and [[Circuit Breaker]] logic use different trip and reset conditions to avoid oscillating between states.
 
-In each case, knowing the present input isn't enough to predict the state; you also need to know where it came from; see [[Path Dependence]].
+In each case, knowing the present input isn't enough to predict the state: you also need to know where it came from, the same idea as [[Path Dependence]].
 
 ## See also
 - [[Computer Cooling]]

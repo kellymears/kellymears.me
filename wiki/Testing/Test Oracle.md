@@ -16,7 +16,7 @@ Testers have developed a range of oracles, each trading precision for reach:
 - **Reference implementations.** Compare against another implementation, an older version, or a slow but obviously correct algorithm. That is Differential Testing.
 - **Properties.** Check relationships that must hold rather than exact values: output is sorted, encode then decode returns the input, totals balance. [[Property-Based Testing]] runs on this kind of oracle, and [[Design by Contract]] states them as postconditions.
 - **Implicit oracles.** Some failures need no specification at all: crashes, hangs, memory errors, and failed assertions. Fuzzing relies on these, which is why it scales to millions of inputs.
-- **Humans.** People judge usability, visual quality, and whether text reads well. That judgment is slow and inconsistent but unavoidable for some questions, the territory of Exploratory Testing.
+- **Humans.** People judge usability, visual quality, and whether text reads well. That judgment is slow and inconsistent but unavoidable for some questions, the territory of exploratory testing.
 
 Weak oracles explain a common gap: a test suite with high [[Code Coverage]] that still misses bugs, because the tests execute code without checking much about the results. [[Mutation Testing]] exposes that gap by changing the code and seeing whether any test notices.
 

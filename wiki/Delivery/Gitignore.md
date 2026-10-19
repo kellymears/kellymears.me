@@ -6,7 +6,7 @@ tags:
   - delivery
 summary: The file of patterns telling Git which files to leave untracked, such as build output, dependencies, editor clutter, and local secrets, along with the traps of files that were already tracked and secrets already committed.
 ---
-A **gitignore** file lists patterns for files that Git should leave untracked. Anything that matches won't show up as new in status listings and won't be added by a blanket add command. Every project has files that don't belong in version control: compiled output, downloaded dependencies, logs, caches, editor settings, operating system clutter, and local configuration holding passwords; see [[Version Control]].
+A **gitignore** file lists patterns for files that Git should leave untracked. Anything that matches won't show up as new in status listings and won't be added by a blanket add command. Every project has files that don't belong in version control: compiled output, downloaded dependencies, logs, caches, editor settings, operating system clutter, and local configuration holding passwords.
 
 The file is named .gitignore and usually sits at the root of the repository, though any directory can have one that applies beneath it. Patterns use [[Glob]] syntax:
 
@@ -29,9 +29,8 @@ Large binary assets are a different problem. Ignoring them keeps them out of his
 
 GitHub publishes starter ignore files for common languages, which many projects copy. Ignore patterns also speed up tools beyond Git: search utilities, file watchers, and editors commonly honor them to skip dependency and build directories.
 
-A careful ignore file keeps commits focused on the change at hand and keeps a pre-commit check from tripping over generated files; see [[Atomic Commit]] and [[Git Hook]].
+A careful ignore file keeps commits focused on the change at hand and keeps a pre-commit [[Git Hook]] from tripping over generated files.
 
 ## See also
 - [[Commit]]
-- [[Shallow Clone]]
 - [[Line Ending]]

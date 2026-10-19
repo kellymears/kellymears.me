@@ -12,7 +12,7 @@ Outliers arise for three very different reasons:
 
 1. **Errors.** A typo adds a zero, a sensor glitches, a weight is recorded in pounds instead of kilograms, or a test account leaks into production data. These should be fixed or removed.
 2. **A different population.** A customer who orders a thousand units may be a business mixed into consumer data. The point is real but belongs in a separate analysis.
-3. **Genuine extremes.** Some processes produce rare huge values as a matter of course: wealth, city sizes, earthquake magnitudes, and request latencies all have long tails. Here the outliers may matter more than everything else; see [[Tail Latency]].
+3. **Genuine extremes.** Some processes produce rare huge values as a matter of course: wealth, city sizes, earthquake energies, and request latencies all have long tails. Here the outliers may matter more than everything else; see [[Tail Latency]].
 
 Telling them apart takes investigation, not a rule. Deleting inconvenient points until a result looks clean is one of the easiest ways to manufacture a finding, especially if the rule for deletion is chosen after seeing the data; see [[P-Hacking]].
 

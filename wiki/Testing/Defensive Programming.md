@@ -28,7 +28,7 @@ The usual resolution is to distinguish **boundaries** from **internals**:
 - Inside the system, state assumptions explicitly as contracts and assertions, and treat violations as bugs; see [[Design by Contract]].
 - Parse data into well-typed structures once at the boundary, so internal code can't receive invalid values at all; see [[Type System]].
 
-A related principle, being liberal in what you accept, was once considered good defensive practice for protocols. Experience showed that tolerating malformed input encourages more of it and makes behavior hard to predict, so modern guidance favors strictness; see [[Postel's Law]].
+A related principle, [[Postel's Law]], being liberal in what you accept, was once considered good defensive practice for protocols. Experience showed that tolerating malformed input encourages more of it and makes behavior hard to predict, so modern guidance favors strictness.
 
 Defensive code needs testing too. The branches for bad input and failures are often the least exercised code in a program, and the most likely to be wrong when they finally run.
 

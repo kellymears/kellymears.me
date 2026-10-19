@@ -21,11 +21,11 @@ What a capture can see depends on the network:
 - **Wi-Fi.** Radio reaches everyone in range. A card in monitor mode records every frame on a channel, though modern Wi-Fi encrypts each device's traffic separately; see [[Wi-Fi]].
 - **Encryption.** With TLS, payloads are unreadable, but addresses, packet sizes, timing, and often the requested site name remain visible. To debug their own traffic, developers can have browsers write their session keys to a file that Wireshark uses to decrypt.
 
-Common uses are mundane: checking what a DNS server actually answered, seeing retransmissions that explain a slow transfer, or finding where packets above a certain size vanish. Security teams record traffic for forensics and intrusion detection; see [[Observability]].
+Common uses are mundane: checking what a DNS server actually answered, seeing retransmissions that explain a slow transfer, or finding where packets above a certain size vanish. Security teams record traffic for forensics and intrusion detection.
 
 Capture has a darker side. On unencrypted public Wi-Fi, anyone could sniff session cookies and take over accounts. A 2010 browser extension called Firesheep made that a one-click operation, and the embarrassment pushed major sites to HTTPS everywhere; see [[HTTP Cookie]] and [[Man-in-the-Middle Attack]]. Capturing other people's communications without authorization is illegal wiretapping in many places.
 
-One classic confusion: captures of outgoing traffic often show bad checksums, because the network card computes them after the capture point; see [[Checksum]].
+One classic confusion: captures of outgoing traffic often show a bad [[Checksum|checksum]], because the network card computes it after the capture point.
 
 ## See also
 - [[Port Scanning]]

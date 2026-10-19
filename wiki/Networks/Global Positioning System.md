@@ -11,9 +11,9 @@ The **Global Positioning System** (GPS) is a network of about thirty US satellit
 
 The surprising part is what the satellites send: essentially the time, plus each satellite's own orbital position. Each carries atomic clocks and continuously broadcasts "this is satellite N, my position is this, and the time is exactly this." A receiver compares that timestamp with when the signal arrived. Radio travels at the speed of light, so the delay gives the distance to that satellite.
 
-One distance puts the receiver somewhere on a sphere around the satellite. Three spheres intersect at a point, a method called **trilateration**. A fourth satellite is needed because the receiver's own clock is cheap and inaccurate: an error of one millionth of a second is 300 meters of distance. Solving with four satellites gives three position coordinates plus the correct time.
+One distance puts the receiver somewhere on a sphere around the satellite. Three spheres narrow it to a single plausible point, a method called **trilateration**. A fourth satellite is needed because the receiver's own clock is cheap and inaccurate: an error of one millionth of a second is 300 meters of distance. Solving with four satellites gives three position coordinates plus the correct time.
 
-Precision demands physics corrections. The satellites' clocks run differently from clocks on the ground: slower because of their speed (special relativity) and faster because they're higher up in Earth's gravity (general relativity). The net effect is about 38 microseconds a day, which uncorrected would add kilometers of error daily. The clocks are adjusted for it before launch. The signal is also delayed by the ionosphere and atmosphere, bounced off buildings in cities, and blocked indoors; see [[Latency and Jitter]].
+Precision demands physics corrections. The satellites' clocks run differently from clocks on the ground: slower because of their speed (special relativity) and faster because they're higher up in Earth's gravity (general relativity). The net effect is about 38 microseconds a day, which uncorrected would add kilometers of error daily. The clocks are adjusted for it before launch. The signal is also delayed by the ionosphere and atmosphere, bounced off buildings in cities, and blocked indoors.
 
 Accuracy improves with help:
 

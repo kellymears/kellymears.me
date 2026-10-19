@@ -17,7 +17,7 @@ Emitting per pixel has clear advantages over an LCD:
 - **Speed.** Pixels change state in well under a millisecond, which removes the trails slow crystals leave, though held frames still smear as the eye tracks motion.
 - **Form.** With no backlight, panels can be very thin, curved, or flexible enough to fold.
 
-The organic materials wear with use, and the blue emitters age fastest. A pixel that shows the same bright image for thousands of hours, such as a channel logo or a taskbar, dims relative to its neighbors, leaving a permanent ghost called **burn-in**. Manufacturers fight it by shifting the image a few pixels at a time, dimming static logos, and running compensation cycles while the set is off, and modern panels are far more resistant than early ones. It remains a reason some people choose an LCD for desktop use; see [[Planned Obsolescence]].
+The organic materials wear with use, and the blue emitters age fastest. A pixel that shows the same bright image for thousands of hours, such as a channel logo or a taskbar, dims relative to its neighbors, leaving a permanent ghost called **burn-in**. Manufacturers fight it by shifting the image a few pixels at a time, dimming static logos, and running compensation cycles while the set is off, and modern panels are far more resistant than early ones. It remains a reason some people choose an LCD for desktop use.
 
 Brightness is limited by heat and wear, so an automatic brightness limiter dims the whole screen when most of it is bright. Small highlights can be very bright while a full white page is noticeably dimmer. Many phone OLEDs dim by switching pixels rapidly on and off at low brightness, which some people perceive as flicker.
 

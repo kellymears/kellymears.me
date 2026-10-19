@@ -10,7 +10,7 @@ summary: Deliberately breaking parts of a running system to prove it survives fa
 ---
 **Chaos engineering** is the practice of injecting failures into a system on purpose to learn whether it tolerates them. Servers crash, networks partition, disks fill, and dependencies time out. In a large enough system, something is always failing. Rather than discovering how the system handles that during a real outage, chaos engineering tests it deliberately, at a time of the team's choosing, with people watching.
 
-Netflix made the idea famous with **Chaos Monkey**, released around 2011 during its move to the cloud. It randomly terminated production servers during business hours. Engineers had to build services that shrugged off losing instances, because losing instances became routine. The broader Simian Army followed, adding injected latency and the loss of an entire data center region.
+Netflix made the idea famous with **Chaos Monkey**, built around 2010 during its move to the cloud. It randomly terminated production servers during business hours. Engineers had to build services that shrugged off losing instances, because losing instances became routine. The broader Simian Army followed, adding injected latency and the loss of an entire data center region.
 
 The discipline is framed as experimentation, not vandalism:
 

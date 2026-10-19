@@ -23,7 +23,7 @@ It builds on familiar techniques:
 
 - **[[Canary Release]]** routes a fraction of traffic to new instances at the infrastructure level.
 - **[[Feature Flag]]** systems control exposure in code, per user or per group, so deploying and releasing become separate decisions.
-- **rolling deployment** replaces instances gradually, a coarse form of the same control.
+- **Rolling deployment** replaces instances gradually, a coarse form of the same control.
 - **Shadow Traffic** sends copies of real requests to a new version with no user exposure at all.
 - **[[AB Testing]]** uses the same machinery to measure whether a change helps, not just whether it breaks.
 

@@ -33,6 +33,5 @@ The costs hide in the details. Storing data is cheap, but requests are billed in
 Misconfigured buckets are a recurring source of leaks. A bucket made public by mistake has exposed customer [[Personal Data]] many times, which is why providers now block public access by default and why the [[Least Privilege]] rule applies to bucket policies.
 
 ## See also
-- [[Responsive Images]]
 - [[Server-Side Request Forgery]]
 - [[SQLite]]

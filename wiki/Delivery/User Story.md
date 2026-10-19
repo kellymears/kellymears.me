@@ -23,7 +23,7 @@ Common problems:
 
 - **Fake users.** "As a developer, I want a database table" names a task, not a user need.
 - **Missing reasons.** The "so that" clause is the most useful part, because it lets the team suggest a better way to reach the goal, and it is the part most often left out.
-- **Stories as contracts.** When stories are written by one group and handed to another, the conversation disappears, and the card becomes a thin requirements document; see [[Definition of Done]].
+- **Stories as contracts.** When stories are written by one group and handed to another, the conversation disappears, and the card becomes a thin requirements document.
 
 Jeff Patton's **story mapping** arranges stories along the sequence of steps a user takes, with more detailed or optional stories stacked beneath each step. Cutting horizontally across the map yields a release that works end to end, which helps teams choose a first version; see [[Minimum Viable Product]].
 

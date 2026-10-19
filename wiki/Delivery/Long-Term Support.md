@@ -16,7 +16,7 @@ Well-known examples:
 - **Ubuntu** publishes an LTS release every two years, each supported for five years as standard and longer with paid extensions, alongside interim releases supported for nine months.
 - **Node.js** makes even-numbered major versions LTS, each receiving about 30 months of support, while odd-numbered versions are short-lived.
 - **The Linux kernel** designates one release per year as long-term, maintained for several years.
-- **Java** has LTS versions every two years, which most enterprises adopt while skipping the releases in between.
+- **Java** now has LTS versions every two years, which most enterprises adopt while skipping the releases in between.
 
 The model exists because users differ. A hobbyist wants the newest features. A hospital, bank, or embedded device maker wants software that doesn't change under it, since every upgrade means retesting, retraining, and risk. LTS lets one project serve both.
 

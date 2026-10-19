@@ -17,9 +17,9 @@ Cutscenes can be pre-rendered as video or rendered in-engine, using the game's o
 
 The debate is about control. Critics argue that a game's distinctive power is interaction and that long cutscenes turn players into viewers; when a character in a cutscene acts in ways the player would not, the clash is especially sharp; see [[Ludonarrative Dissonance]]. Metal Gear Solid 4 (2008) became a reference point with cutscenes reportedly totaling hours. Half-Life (1998) took the opposite approach, keeping the player in control during scripted scenes, and many games now tell stories through the world itself; see [[Environmental Storytelling]].
 
-Designers have tried middle paths. Quick time events ask for button presses during a scene, keeping the player nominally involved, though often with little real choice; see [[Quick Time Event]]. Walking simulators let the story play out while the player moves freely. Branching scenes let choices made in dialogue change what follows.
+Designers have tried middle paths. [[Quick Time Event|Quick time events]] ask for button presses during a scene, keeping the player nominally involved, though often with little real choice. Walking simulators let the story play out while the player moves freely. Branching scenes let choices made in dialogue change what follows.
 
-Practical courtesies matter too. Players expect to be able to pause and skip cutscenes, particularly on repeat playthroughs and before difficult fights; speedrunners rely on skips; see [[Speedrun]]. Fans have also used game engines to make films of their own, a form called machinima.
+Practical courtesies matter too. Players expect to be able to pause and skip cutscenes, particularly on repeat playthroughs and before difficult fights, and [[Speedrun|speedrunners]] rely on skips. Fans have also used game engines to make films of their own, a form called machinima.
 
 ## See also
 - [[Visual Novel]]

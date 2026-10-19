@@ -26,7 +26,7 @@ Outer forms of a SQL Join create NULLs for unmatched rows, a nullable [[Foreign 
 
 The modern fix moves absence into the type system. An option type from algebraic data types, such as `Option<User>` or `User | null` with strict checking, forces the caller to handle "nothing" before using the value, and [[Pattern Matching]] makes doing so convenient. Kotlin, Swift, Rust and TypeScript's strict mode all take this route.
 
-Null also leaks into data as text. People with the surname Null have been rejected by forms that treat it as missing, and a driver with the custom plate "NULL" was sent thousands of parking tickets that had no plate recorded. JSON distinguishes `null` from an absent key, which matters for partial updates.
+Null also leaks into data as text. People with the surname Null have been rejected by forms that treat it as missing, and a driver with the custom plate "NULL" was sent thousands of dollars in parking tickets that had no plate recorded. JSON distinguishes `null` from an absent key, which matters for partial updates.
 
 Nulls deserve the same edge-case attention as zero and empty strings in Boundary Value Analysis. Unhandled, they often cause a [[Silent Failure]] rather than a crash. Floating-Point Arithmetic has its own version in NaN, which is also not equal to itself.
 

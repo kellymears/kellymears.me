@@ -19,7 +19,7 @@ The ninth of Jakob Nielsen's usability heuristics, used in heuristic evaluation,
 
 Tone matters. Messages should not blame the person, shout in capitals, or joke about a failure that just cost someone their work. Don Norman's *The Design of Everyday Things* argued that most "human error" is design error, and distinguished **slips**, where the person meant the right thing but did the wrong one, from **mistakes**, where their mental model of the system was wrong. Slips call for forgiving controls; mistakes call for better explanations. The same stance underlies the [[Blameless Postmortem]].
 
-Placement matters as much as wording. An error about a field belongs beside that field, as covered under Form Design, with the person's input preserved so they can correct it rather than retype it. Page-level failures, such as a 404 [[HTTP Status Code]], deserve a real page with a way forward. Errors must be perceivable without color alone and announced to screen readers, typically through an [[ARIA]] live region, and focus can move to the first problem.
+Placement matters as much as wording. An error about a field belongs beside that field, as covered under form design, with the person's input preserved so they can correct it rather than retype it. Page-level failures, such as a 404 [[HTTP Status Code]], deserve a real page with a way forward. Errors must be perceivable without color alone and announced to screen readers, typically through an [[ARIA]] live region, and focus can move to the first problem.
 
 Better still is preventing the error:
 
@@ -34,4 +34,3 @@ Programming tools have shown how much good messages help. The Elm compiler's 201
 ## See also
 - [[Date Picker]]
 - [[Form Validation]]
-- [[Wizard]]

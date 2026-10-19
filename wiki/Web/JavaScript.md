@@ -22,6 +22,5 @@ The rule that governs the language is "don't break the web." Billions of pages d
 Most professional JavaScript is now written in something slightly different and translated before shipping, whether newer syntax for older browsers or types that are erased at build time.
 
 ## See also
-- [[Emoji]]
 - [[TypeScript]]
 - [[Prototype Pollution]]

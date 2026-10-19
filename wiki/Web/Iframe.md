@@ -28,5 +28,4 @@ Iframes have costs. Each is a full document with its own scripts, styles, and me
 
 ## See also
 - [[Single Sign-On]]
-- [[Portal]]
 - [[Hotlinking]]

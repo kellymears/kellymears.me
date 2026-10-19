@@ -28,7 +28,7 @@ The **F1 score** combines them into one number, their harmonic mean, which stays
 
 Why not just measure accuracy, the fraction of predictions that are right? Because of rare classes. If one transaction in a thousand is fraud, a model that never flags anything is 99.9 percent accurate and useless. Precision and recall focus on the rare positive class that matters. Even so, precision depends on how common positives are: the same detector shows lower precision where cases are rarer, a version of the [[Base Rate Fallacy]].
 
-These metrics depend entirely on correct labels for comparison; see [[Ground Truth]]. They also need a fixed test set the model hasn't seen. Language model evaluations often reduce to them, such as how many true facts an answer includes against how many claims are invented; see [[Hallucination]] and [[Evaluation Harness]]. Systems that report a confidence score are also judged on whether those confidences mean what they say.
+These metrics are only as good as the [[Ground Truth]] labels they are compared against. They also need a fixed test set the model hasn't seen. Language model evaluations often reduce to them, such as how many true facts an answer includes against how many claims are invented; see [[Hallucination]] and [[Evaluation Harness]]. Systems that report a confidence score are also judged on whether those confidences mean what they say.
 
 ## See also
 - [[Guardrail]]

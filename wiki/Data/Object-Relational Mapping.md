@@ -32,5 +32,4 @@ A middle ground has grown popular: *query builders* such as Knex and Kysely, and
 Choosing an ORM shapes a codebase for years, much like choosing a framework. Its models often become the de facto domain model, and the database schema evolves with it, which is how [[Schema Drift]] between code and database tends to begin.
 
 ## See also
-- [[Upsert]]
 - [[SQL]]

@@ -7,9 +7,9 @@ tags:
   - delivery
 summary: The listing of changes between two versions of a file, the algorithms that compute it, and the unified format that code review, patches, and merges are built on.
 ---
-A **diff** lists the differences between two versions of a text, usually line by line: which lines were removed and which were added. The name comes from the Unix `diff` utility, written by Douglas McIlroy and James Hunt for Unix in the early 1970s. Diffs are everywhere in software delivery. Every [[Code Review]] is a review of a diff, every [[Commit]] is displayed as one, and merges are computed from them.
+A **diff** lists the differences between two versions of a text, usually line by line: which lines were removed and which were added. The name comes from the Unix `diff` utility, written by Douglas McIlroy and James Hunt for Unix in the mid-1970s. Diffs are everywhere in software delivery. Every [[Code Review]] is a review of a diff, every [[Commit]] is displayed as one, and merges are computed from them.
 
-Computing a diff means finding the smallest set of edits that turns one file into the other, a version of the Edit Distance problem. Equivalently, it means finding the longest sequence of lines the two versions share, the longest common subsequence, and treating everything else as changed. Eugene Myers published an efficient algorithm in 1986 that runs fast when the two files are similar, the usual case, and it remains Git's default.
+Computing a diff means finding the smallest set of edits that turns one file into the other, a version of the edit distance problem. Equivalently, it means finding the longest sequence of lines the two versions share, the longest common subsequence, and treating everything else as changed. Eugene Myers published an efficient algorithm in 1986 that runs fast when the two files are similar, the usual case, and it remains Git's default.
 
 Minimal isn't always readable. A minimal diff of a code change may match a stray closing brace or blank line in the wrong place, so a function's end appears to be in the middle of the change. Git offers alternatives:
 

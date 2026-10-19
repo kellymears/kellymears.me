@@ -27,8 +27,6 @@ Phones brought vertical video. Smartphones are usually held upright, and social 
 
 On the web, images and videos that load without known dimensions cause content to jump as they arrive. Declaring an aspect ratio lets the browser reserve space in advance; see [[Layout Shift]] and [[Responsive Images]]. Changing an image's ratio without distortion means cropping, padding, or content-aware resizing.
 
-Ratios also interact with interlaced broadcast formats.
-
 ## See also
 - [[Grid System]]
 - [[Pixel]]

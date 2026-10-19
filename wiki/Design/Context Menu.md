@@ -18,7 +18,7 @@ Why they work:
 - **Fewer choices.** Showing only actions that apply to this item shortens the list to scan; see [[Hick's Law]].
 - **Acting on the object.** Choosing an action from the thing itself fits the model of grabbing and changing objects directly; see [[Direct Manipulation]].
 
-Their weakness is that nothing on screen says they exist. A context menu has no visible cue, so new users may never find what it holds, and touch users have no right button at all; see [[Discoverability]]. The rule that follows: every action in a context menu should also be reachable some visible way, through a menu bar, toolbar, or button. The context menu is a shortcut, not the only door; see [[Progressive Disclosure]].
+Their weakness is that nothing on screen says they exist. A context menu has no visible cue, so new users may never find what it holds, and touch users have no right button at all; see [[Discoverability]]. The rule that follows: every action in a context menu should also be reachable some visible way, through a menu bar, toolbar, or button. The context menu is a shortcut, not the only door.
 
 **Pie menus** arrange items in a circle around the pointer, so every item is the same short distance away and is chosen by direction. A 1988 study by Jack Callahan, Don Hopkins, Mark Weiser, and Ben Shneiderman found them faster than linear menus. Gordon Kurtenbach and Bill Buxton's **marking menus** built on this: novices wait for the menu to appear, while experts who know the direction simply flick, and the menu never draws. Practice turns a menu into a gesture, moving the user from recognizing options to recalling them. Weapon wheels in games and radial menus in 3D tools descend from them.
 
@@ -26,11 +26,10 @@ On the web, context menus raise their own issues:
 
 - **Hijacking.** Replacing the browser's menu, or blocking it to stop copying, takes away tools people rely on and stops nobody determined.
 - **Keyboard access.** Custom menus need to open from the keyboard, with Shift+F10 or the Menu key, move with arrow keys, and close on Escape with focus returning to the item; see [[Keyboard Navigation]] and [[Focus Management]].
-- **Semantics.** Menu roles tell screen readers what the popup is; see [[ARIA]].
+- **Semantics.** [[ARIA]] menu roles tell screen readers what the popup is.
 
-A searchable list of every command covers the opposite need, finding an action without knowing where it lives; see [[Command Palette]].
+A [[Command Palette]], a searchable list of every command, covers the opposite need: finding an action without knowing where it lives.
 
 ## See also
 - [[Tooltip]]
 - [[Desktop Environment]]
-- [[Tabs]]

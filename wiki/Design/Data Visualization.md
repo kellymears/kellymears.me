@@ -10,7 +10,7 @@ summary: Turning numbers into marks people can see patterns in, which works only
 ---
 **Data visualization** is the practice of representing data visually so people can see patterns, comparisons, and outliers that tables hide. It works by mapping values to visual properties, called *channels*, such as position, length, angle, area, and color, then relying on the visual system to read them back.
 
-The case for it is made by **Anscombe's quartet**, four small datasets published by the statistician Francis Anscombe in 1973. All four have nearly identical means, variances, correlations, and regression lines. Plotted, they look nothing alike: one is a clean line, one a curve, one a line with a single outlier, one a vertical stack with one far point. Summary statistics alone would have called them the same; see [[Simpson's Paradox]].
+The case for it is made by **Anscombe's quartet**, four small datasets published by the statistician Francis Anscombe in 1973. All four have nearly identical means, variances, correlations, and regression lines. Plotted, they look nothing alike: one is a clean line, one a curve, one a line with a single outlier, one a vertical stack with one far point. Summary statistics alone would have called them the same.
 
 Channels aren't equally accurate. In a 1984 study, William Cleveland and Robert McGill measured how precisely people judge different encodings. Position along a common scale was best, then length, then angle and slope, then area, with color saturation and volume worst. That ranking explains much conventional advice:
 
@@ -29,9 +29,9 @@ Chart choice follows from the question:
 
 Many of these forms are old. William Playfair invented the line, bar, and pie chart around 1800. Florence Nightingale's diagrams of soldiers' deaths in the 1850s showed that disease killed far more than battle and helped drive sanitary reform.
 
-Charts can mislead without lying. A truncated axis makes small differences look large; dual axes can make any two series appear correlated; cumulative totals always go up. Edward Tufte's "lie factor" measures how much a graphic exaggerates the change it shows. Color choices can make a chart unreadable to people with Color Vision Deficiency.
+Charts can mislead without lying. A truncated axis makes small differences look large; dual axes can make any two series appear correlated; cumulative totals always go up. Edward Tufte's "lie factor" measures how much a graphic exaggerates the change it shows. Color choices can make a chart unreadable to people with color vision deficiency.
 
-Two purposes differ. *Exploratory* visualization helps an analyst find what's in the data, and is quick and disposable. *Explanatory* visualization communicates one finding to others, so it highlights that finding, labels it directly, and removes everything else; see [[Visual Hierarchy]]. Dashboards sit uneasily between the two, and often fail by showing everything at once; see [[Observability]].
+Two purposes differ. *Exploratory* visualization helps an analyst find what's in the data, and is quick and disposable. *Explanatory* visualization communicates one finding to others, so it highlights that finding, labels it directly, and removes everything else; see [[Visual Hierarchy]]. Dashboards sit uneasily between the two, and often fail by showing everything at once.
 
 ## See also
 - [[Timeline]]

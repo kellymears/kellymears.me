@@ -14,7 +14,7 @@ The term was popularized by designer Luke Wroblewski in 2013, writing about a mo
 
 Skeletons work through a few effects:
 
-- **Perceived progress.** A spinner says only "wait." A skeleton shows the structure immediately, so the page seems to be arriving rather than stalled. People judge speed by how long a wait feels, and a wait with visible progress feels shorter. 
+- **Perceived progress.** A spinner says only "wait." A skeleton shows the structure immediately, so the page seems to be arriving rather than stalled. People judge speed by how long a wait feels, and a wait with visible progress feels shorter.
 - **Orientation.** Users can see where the content will go and start planning where to look, which reduces the jolt when it appears.
 - **Stable layout.** If the placeholders match the size of the final content, nothing moves when it loads. Content that pushes other elements around as it arrives causes layout shift, measured as one of the [[Core Web Vitals]], and makes people tap the wrong thing.
 
@@ -25,7 +25,7 @@ The pattern has limits:
 - **Short waits.** If content arrives in under about a third of a second, flashing a skeleton just adds flicker. Many apps wait briefly before showing one.
 - **Long waits.** For operations taking many seconds, a skeleton can seem stuck. A progress bar or status message is more honest.
 - **Mismatched shapes.** A skeleton that doesn't resemble the final layout causes the same jump it was meant to prevent.
-- **Accessibility.** Screen readers can't see gray boxes. The loading region should be marked busy, for instance with `aria-busy` from [[ARIA]], and the arrival of content announced appropriately. See [[Accessibility]].
+- **Accessibility.** Screen readers can't see gray boxes. The loading region should be marked busy, for instance with `aria-busy` from [[ARIA]], and the arrival of content announced appropriately.
 
 Skeletons are one tool among several for making interfaces feel fast. [[Optimistic UI]] shows the result of an action before the server confirms it. Server rendering and [[Streaming Response]] send the page's frame first and fill in slower parts as they finish, a natural fit for skeleton placeholders. [[Lazy Loading]] defers offscreen content, often with a placeholder of its own, such as a blurred low-resolution image.
 

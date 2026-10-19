@@ -30,9 +30,8 @@ The serial port persists for good reasons:
 - **Embedded systems.** Microcontrollers and single-board computers use UART pins for debugging, and circuit boards inside consumer devices often expose unlabeled serial pins; see [[Internet of Things]].
 - **Instruments.** Lab equipment, industrial machines, and GPS receivers still speak serial protocols.
 
-Adapters that present a serial port over USB are a standard item in technicians' kits. On Linux the port appears as a device file that programs open and read like any other; see [[Device File]].
+Adapters that present a serial port over USB are a standard item in technicians' kits. On Linux the port appears as a [[Device File|device file]] that programs open and read like any other.
 
 ## See also
 - [[Motherboard]]
-- [[Loopback]]
 - [[ANSI Escape Code]]

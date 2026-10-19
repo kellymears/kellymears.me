@@ -17,9 +17,9 @@ How the linear code works:
 
 - **Digits as widths.** Each digit is represented by a fixed-width group of bars and spaces of varying thickness. The scanner measures relative widths, so the code reads at varying distances and angles.
 - **Guard bars** mark the start, middle, and end.
-- **A check digit.** The last digit is computed from the others, so a misread is almost always caught and the scan simply fails rather than charging for the wrong item; see [[Checksum]].
+- **A check digit.** The last digit is a [[Checksum]] computed from the others, so a misread is almost always caught and the scan simply fails rather than charging for the wrong item.
 
-The barcode holds no price. It is a key, an identifier for the product, and the store's own database supplies the price and stock; see [[Key-Value Store]]. A nonprofit standards body, GS1, hands out prefixes to manufacturers so that numbers are unique worldwide; Europe's thirteen-digit EAN, from 1977, extended the American code with a country prefix. That separation made prices easy to change and turned every sale into a record, which fed inventory systems, sales analytics, and loyalty programs; see [[Personal Data]].
+The barcode holds no price. It is a key, an identifier for the product, and the store's own database supplies the price and stock. A nonprofit standards body, GS1, hands out prefixes to manufacturers so that numbers are unique worldwide; Europe's thirteen-digit EAN, from 1977, extended the American code with a country prefix. That separation made prices easy to change and turned every sale into a record, which fed inventory systems, sales analytics, and loyalty programs.
 
 Linear barcodes hold only a few digits. Two-dimensional codes store data in a grid of squares. The **QR code** was invented in 1994 at Denso Wave, a Toyota supplier, to track car parts. Its three corner squares let a camera find and orient it from any angle, and it includes enough redundancy, using a classic error-correcting code, that up to about thirty percent of it can be damaged or covered by a logo and still read. Phone cameras made it universal: boarding passes, payments across much of Asia, and restaurant menus during the COVID-19 pandemic.
 

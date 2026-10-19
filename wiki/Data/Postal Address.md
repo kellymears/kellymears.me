@@ -16,7 +16,7 @@ The usual model is a hierarchy: country, region, city, street, number, and unit.
 - **Many places lack formal addresses.** Rural areas and informal settlements often rely on landmarks, and directions in Costa Rica traditionally count meters from a known building.
 - **Fields vary.** Some countries have no states or provinces, and some have no postal codes.
 
-Postal codes were added to speed sorting. Germany introduced numbered postal zones in 1941; the US ZIP Code, for Zone Improvement Plan, arrived in 1963, and nine-digit ZIP+4 codes in 1983; the UK rolled out alphanumeric postcodes nationwide in the 1970s; and Ireland had almost none outside Dublin until it launched Eircode in 2015, giving each address its own code. A US ZIP code is a set of delivery routes, not an area with a boundary; it can cross county or state lines, and one large building can have its own. The Census Bureau builds approximate areas for them precisely because ZIP codes don't define any.
+Postal codes were added to speed sorting. Germany introduced numbered postal zones in 1941; the US ZIP Code, for Zone Improvement Plan, arrived in 1963, and nine-digit ZIP+4 codes in 1983; the UK rolled out alphanumeric postcodes nationwide between 1959 and 1974; and Ireland had almost none outside Dublin until it launched Eircode in 2015, giving each address its own code. A US ZIP code is a set of delivery routes, not an area with a boundary; it can cross county or state lines, and one large building can have its own. The Census Bureau builds approximate areas for them precisely because ZIP codes don't define any.
 
 For anyone designing a form or schema:
 
@@ -34,5 +34,4 @@ People without a fixed address, including those who are homeless, often struggle
 
 ## See also
 - [[Phone Number]]
-- [[Date Picker]]
 - [[Country Code]]

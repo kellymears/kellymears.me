@@ -30,4 +30,4 @@ The color scale decides whether a heat map informs or misleads:
 
 Even with a good scale, color is one of the least precise ways to show a quantity. People rank lengths and positions far more accurately than shades, so a heat map is better for spotting patterns and outliers than for reading exact values. Labeling cells with numbers, or offering them on hover, helps.
 
-Order matters as much as color. The same table sorted alphabetically looks like noise, and sorted by similarity it shows blocks. Large heat maps work well as Small Multiples and as panels on a dashboard.
+Order matters as much as color. The same table sorted alphabetically looks like noise, and sorted by similarity it shows blocks. Large heat maps work well as small multiples and as panels on a dashboard.

@@ -24,7 +24,7 @@ MQTT offers three **quality of service** levels per message, mapping directly on
 - **QoS 1**, at least once: resend until acknowledged, so duplicates are possible and receivers should be idempotent.
 - **QoS 2**, exactly once: a four-step handshake, rarely needed.
 
-Two features suit unreliable devices. A **retained message** is stored by the broker and delivered immediately to any new subscriber, so a new dashboard learns a light's state immediately. A **last will and testament** is a message the client registers when connecting, which the broker publishes on its behalf if the client disconnects uncleanly, announcing "this sensor went offline".
+Two features suit unreliable devices. A **retained message** is stored by the broker and delivered immediately to any new subscriber, so a new dashboard learns a light's state without waiting for the next update. A **last will and testament** is a message the client registers when connecting, which the broker publishes on its behalf if the client disconnects uncleanly, announcing "this sensor went offline".
 
 Brokers include the open-source Mosquitto, EMQX, and HiveMQ. MQTT is widespread in home automation, where hubs and custom devices share state through a local broker; in industrial telemetry; and in Facebook Messenger, which adopted it in 2011 to save phone battery.
 

@@ -7,7 +7,7 @@ tags:
   - systems
 summary: A complete operating system assembled around the Linux kernel, combining it with system tools, a package manager, and a set of opinions about release cadence, defaults, and freedom, with hundreds in active use.
 ---
-A **Linux distribution** is a complete operating system built around the Linux kernel. The kernel alone runs hardware and schedules programs, but it can't do anything useful by itself; see [[Kernel]]. A distribution adds everything else: a C library, shell and core utilities, a startup system, a package manager, an installer, a desktop or server environment, and thousands of applications, all compiled to work together and kept updated.
+A **Linux distribution** is a complete operating system built around the Linux kernel. The [[Kernel|kernel]] alone runs hardware and schedules programs, but it can't do anything useful by itself. A distribution adds everything else: a C library, shell and core utilities, a startup system, a package manager, an installer, a desktop or server environment, and thousands of applications, all compiled to work together and kept updated.
 
 The first distributions appeared in 1992, the year after the kernel's release, as bundles that saved people from assembling a system by hand. Slackware and Debian both began in 1993, and Red Hat followed shortly after. Many of today's distributions descend from one of those families, often as forks with a different emphasis.
 
@@ -17,7 +17,7 @@ Distributions differ along a handful of axes:
 
 - **Packaging.** Debian-based systems use one package format and Red Hat-based systems another, with different tools and repositories; see [[Package Manager]].
 - **Release model.** Fixed releases freeze versions and backport security fixes, while rolling releases update continuously; see [[Long-Term Support]] and [[Rolling Release]].
-- **Init and services.** Most major distributions use systemd, though some deliberately avoid it; see [[Init System]].
+- **Init and services.** Most major distributions use systemd as their [[Init System|init system]], though some deliberately avoid it.
 - **Core libraries.** Most use the GNU C library, while minimal distributions use smaller alternatives that make tiny container images; see [[Containerization]].
 - **Philosophy.** Some ship only free software, some prioritize the newest versions, some build everything from source, and some describe the entire system declaratively so it can be reproduced exactly.
 
@@ -31,4 +31,3 @@ Linux distributions run most servers, nearly all supercomputers, and, through An
 
 ## See also
 - [[Desktop Environment]]
-- [[Sound Server]]

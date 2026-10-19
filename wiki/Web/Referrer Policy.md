@@ -14,9 +14,9 @@ Sites use it for several things:
 - **Blocking embeds**: refusing images requested by other sites; see [[Hotlinking]].
 - **Security checks**: confirming that a form submission came from the site's own pages, one defense against forged requests; see [[Cross-Site Request Forgery]].
 
-The trouble is that a full [[URL]] can contain private information. Addresses carry search terms, account numbers, password reset tokens, and session identifiers, and the header sent all of it to whatever site a page linked to or loaded scripts from. In 2015 reporters found that a United States government health insurance site was passing details such as age, income, and pregnancy status to advertising and analytics companies through addresses and referrers; see [[Personal Data]]. Tokens in addresses can leak the same way; see [[Session Management]].
+The trouble is that a full [[URL]] can contain private information. Addresses carry search terms, account numbers, password reset tokens, and session identifiers, and the header sent all of it to whatever site a page linked to or loaded scripts from. In 2015 reporters found that a United States government health insurance site was passing [[Personal Data|personal details]] such as age, income, and pregnancy status to advertising and analytics companies through addresses and referrers. Tokens in addresses can leak the same way; see [[Session Management]].
 
-Search engines changed the picture for marketers. In 2011 Google began hiding search terms from the referrer for signed-in users, and later for everyone, so analytics reports filled with the label "not provided"; see [[Search Engine Optimization]].
+Search engines changed the picture for marketers. In 2011 Google began hiding search terms from the referrer for signed-in users, and later for everyone, so the analytics reports used for [[Search Engine Optimization]] filled with the label "not provided".
 
 The **Referrer-Policy** header, standardized by the W3C in the 2010s, lets a site decide what to send. The common settings are:
 
@@ -26,7 +26,7 @@ The **Referrer-Policy** header, standardized by the W3C in the 2010s, lets a sit
 
 Around 2020, the major browsers made that last setting the default, so most cross-site requests now reveal only the domain. Individual links can also opt out with a noreferrer attribute.
 
-Moving from a secure page to an insecure one has dropped the header for decades, which is one reason sites moved to encrypted connections.
+Moving from a secure page to an insecure one has dropped the header for decades, so sites that wanted referral data from secure pages had a reason to move to encrypted connections themselves.
 
 Because the header was never reliable, relying on it alone for security is a mistake. Some browsers, extensions, and privacy tools strip it, and a page that redirects through another address changes it; see [[Open Redirect]]. Sites that need to know where traffic came from now often add campaign tags to their own links instead of relying on the header.
 

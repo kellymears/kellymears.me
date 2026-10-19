@@ -16,7 +16,7 @@ Web browsers made the model famous. Chrome shipped a new stable version every si
 The mechanics usually look like this:
 
 - **Channels.** Code moves through nightly, beta, and stable channels in step. Each new release promotes the beta to stable and the nightly to beta, so every change gets one full cycle of wider testing before it ships, a broad cousin of a [[Canary Release]].
-- **Release branches.** At a cutoff date, a branch is cut from trunk and stabilized. Only fixes are allowed in, usually by [[Cherry-Pick]] from the main line, while new work continues on trunk. See [[Branching Model]].
+- **Release branches.** At a cutoff date, a branch is cut from trunk and stabilized. Only fixes are allowed in, usually by [[Cherry-Pick]] from the main line, while new work continues on trunk, a common [[Branching Model]] for scheduled releases.
 - **Flags for unfinished work.** Incomplete features ship disabled behind a [[Feature Flag]], so the code can merge early, as [[Trunk-Based Development]] encourages, without being exposed.
 
 Predictability is the main benefit. Users, downstream packagers, and documentation teams know when the next version arrives. Missing a train costs weeks, not months, which removes the pressure to rush a feature in and lowers the stakes of each release. Smaller, regular releases also make regressions easier to trace. Each [[Changelog]] entry stays readable, and version numbers under [[Semantic Versioning]] advance steadily.

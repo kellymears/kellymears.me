@@ -8,7 +8,7 @@ tags:
   - web
 summary: Tricking people into handing over passwords, money, or access with messages and websites that impersonate someone they trust, the most common way attackers get in, and why technical defenses beat training.
 ---
-**Phishing** is tricking people into giving up credentials, money, or access by impersonating someone they trust, usually through a message that leads to a fake website. It is the most common first step in breaches, because fooling one person is easier than breaking the software.
+**Phishing** is tricking people into giving up credentials, money, or access by impersonating someone they trust, usually through a message that leads to a fake website. It is among the most common first steps in breaches, because fooling one person is easier than breaking the software.
 
 The term dates from the mid-1990s, when people stealing America Online accounts "fished" for passwords with messages posing as AOL staff, spelled with the "ph" of the earlier phone-hacking culture. The basic pattern hasn't changed: a message creates a reason to act, a link leads to a convincing copy of a real login page, and whatever is typed goes to the attacker.
 
@@ -19,7 +19,7 @@ Variants:
 - **Smishing** and voice phishing use text messages and phone calls, and QR codes now hide links in posters and letters.
 - **Consent phishing** asks the victim to approve a malicious app's access to their account, which works even with strong sign-in; see [[OAuth]].
 
-Deception happens at every layer. Sender addresses can be forged unless domains publish authentication records. Lookalike domains swap letters or add words. A **homograph attack** uses characters from other alphabets that look identical, such as a Cyrillic "а" in place of a Latin "a." A 2017 demonstration registered a domain that displayed as a famous technology company's address in several browsers, which then began showing the encoded form of such names instead; see [[URL]]. Links on legitimate domains that forward elsewhere lend false credibility; see [[Open Redirect]]. Link previews can be faked; see [[Open Graph]]. The padlock icon proves only that the connection is encrypted, not who is on the other end, and free certificates mean most phishing sites now have one.
+Deception happens at every layer. Sender addresses can be forged unless domains publish authentication records. Lookalike domains swap letters or add words. A **homograph attack** uses characters from other alphabets that look identical, such as a Cyrillic "а" in place of a Latin "a." A 2017 demonstration registered a domain that displayed as a famous technology company's address in several browsers, which then began showing the encoded form of such names instead; see [[Internationalized Domain Name]]. Links on legitimate domains that forward elsewhere, through an [[Open Redirect]], lend false credibility, and link previews built from [[Open Graph]] tags can be faked. The padlock icon proves only that the connection is encrypted, not who is on the other end, and free certificates mean most phishing sites now have one.
 
 Urgency, authority, and fear do the rest, crowding out careful checking.
 

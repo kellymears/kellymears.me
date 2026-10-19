@@ -6,11 +6,11 @@ tags:
   - design
 summary: A control that sets a value by dragging a handle along a track, borrowed from the faders of audio equipment, ideal for adjusting something approximate with instant feedback and poor for entering an exact number.
 ---
-**A slider** sets a value by dragging a handle, often called a thumb, along a track. It descends from physical controls such as the faders on audio mixing desks, where an engineer pushes a channel up or down by feel. On screens, sliders set volume, brightness, zoom, price ranges, and image adjustments.
+A **slider** sets a value by dragging a handle, often called a thumb, along a track. It descends from physical controls such as the faders on audio mixing desks, where an engineer pushes a channel up or down by feel. On screens, sliders set volume, brightness, zoom, price ranges, and image adjustments.
 
 Sliders shine when three things are true: the value is approximate, the result is visible immediately, and the range is limited. Dragging a volume slider while music plays lets someone stop when it sounds right, with no need to know the number; see [[Direct Manipulation]]. The feedback has to be fast, or the person overshoots and hunts back and forth.
 
-They're a poor fit for precise values. A slider covering 1 to 1,000 on a track 300 pixels wide skips several values per pixel, so landing on exactly 437 is nearly impossible, especially with a finger; see [[Touch Target Size]] and [[Fitts's Law]]. Common fixes:
+They're a poor fit for precise values. A slider covering 1 to 1,000 on a track 300 pixels wide skips several values per pixel, so landing on exactly 437 is nearly impossible, especially with a finger, whose imprecision [[Touch Target Size]] describes. Common fixes:
 
 - **Pair it with a number field** that updates as the thumb moves and accepts typed input.
 - **Use steps** so the thumb snaps to meaningful values.

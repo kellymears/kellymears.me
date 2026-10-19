@@ -15,7 +15,7 @@ Compatibility is a promise to people you cannot see. Once software has users, ot
 
 Some platforms treat compatibility as nearly sacred:
 
-- **Windows.** Raymond Chen has described Windows 95 detecting the game SimCity, which used memory after freeing it, and running the memory allocator in a special mode so the game would not crash.
+- **Windows.** In a widely retold story from Joel Spolsky, Windows 95 detected the game SimCity, which used memory after freeing it, and ran the memory allocator in a special mode so the game would not crash.
 - **Linux.** Linus Torvalds' rule is "we do not break userspace": a kernel change that breaks a working program is a kernel bug, whatever the program did wrong.
 - **The web.** Browsers cannot break existing sites. In 2018 a proposed JavaScript array method named `flatten` broke old sites using the MooTools library, so it was renamed `flat`, a controversy nicknamed SmooshGate. New features arrive gradually, filled in with a polyfill for older browsers.
 
@@ -33,5 +33,3 @@ The right balance depends on who pays. A library with a few users can break free
 
 ## See also
 - [[OpenAPI]]
-- [[Referrer Policy]]
-- [[Shebang]]

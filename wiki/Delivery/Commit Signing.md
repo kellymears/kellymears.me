@@ -15,8 +15,8 @@ Because a commit's hash covers its tree, its parents, and its message, signing a
 Three kinds of keys are common:
 
 - **GPG keys.** The original mechanism, supported since 2012, using OpenPGP. Powerful but notoriously awkward to set up, manage, and rotate.
-- **SSH keys.** Supported since Git 2.34 in 2021. Most developers already have an SSH key for pushing, so signing with it removes most of the friction. See [[Secure Shell]].
-- **Keyless signing.** Sigstore's gitsign issues short-lived certificates tied to an identity from a login provider such as GitHub or Google, and records each signature in a public transparency log. There is no long-lived key to lose or leak, an approach borrowed from [[Certificate Authority]] transparency.
+- **SSH keys.** Supported since Git 2.34 in 2021. Most developers already have an [[Secure Shell|SSH]] key for pushing, so signing with it removes most of the friction.
+- **Keyless signing.** Sigstore's gitsign issues short-lived certificates tied to an identity from a login provider such as GitHub or Google, and records each signature in a public transparency log, an idea borrowed from the Certificate Transparency logs that watch each [[Certificate Authority]]. There is no long-lived key to lose or leak.
 
 All of these rest on Public-Key Cryptography: the private key signs, and the public key, registered with the hosting platform or published elsewhere, verifies. Hosting platforms show verified commits with a badge, and can flag unsigned commits claiming to be from a user who usually signs.
 

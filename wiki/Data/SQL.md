@@ -13,11 +13,11 @@ Its roots are in Edgar Codd's 1970 paper proposing that data be stored as tables
 
 A query is a handful of clauses: which columns to select, from which tables, filtered how, grouped and sorted how. Combining tables is done with joins, and later standards added recursive queries and analytic functions that compute running totals and rankings across rows. Because the query says nothing about method, the database's planner chooses which indexes to use and in what order to join, and the same query can run in milliseconds or hours depending on that choice.
 
-The language has well-known rough edges. Missing values follow a logic with three outcomes, true, false and unknown, so a comparison with an empty value is neither true nor false and rows quietly disappear from results; see [[Three-valued logic]]. Every major database speaks its own dialect, so code written for one rarely runs unchanged on another. Building queries by pasting user input into strings remains one of the most common security holes on the web; see [[SQL Injection]].
+The language has well-known rough edges. Missing values follow a logic with three outcomes, true, false and unknown, so a comparison with a missing value is neither true nor false and rows quietly disappear from results; see [[Three-valued logic]]. Every major database speaks its own dialect, so code written for one rarely runs unchanged on another. Building queries by pasting user input into strings remains one of the most common security holes on the web; see [[SQL Injection]].
 
-Application programmers have often tried to hide SQL behind libraries that map tables to objects, with mixed results; see [[Object-Relational Mapping]]. In the late 2000s, the NoSQL movement argued that relational databases couldn't scale to web workloads and dropped the language along with the tables. Many of those systems later added query languages that look a lot like SQL, and newer distributed databases offer SQL on top of horizontally scaled storage; see [[NoSQL]].
+Application programmers have often tried to hide SQL behind [[Object-Relational Mapping]] libraries that map tables to objects, with mixed results. In the late 2000s, the NoSQL movement argued that relational databases couldn't scale to web workloads and dropped the language along with the tables. Many of those systems later added query languages that look a lot like SQL, and newer distributed databases offer SQL on top of horizontally scaled storage; see [[NoSQL]].
 
-SQL now runs everywhere from phones to analytics engines over petabytes, often embedded in a single file; see [[SQLite]]. With recursion, it is even Turing complete.
+SQL now runs everywhere from phones, where [[SQLite]] keeps a whole database in a single file, to analytics engines over petabytes. With recursion, it is even Turing complete.
 
 ## See also
 - [[Isolation Level]]

@@ -19,7 +19,7 @@ ES modules differ in ways that matter:
 - **Live bindings.** An import is a live view of the exporting module's variable, not a copy.
 - **Module scope and strict mode.** Each file has its own scope, and strict mode is always on.
 - **Asynchronous loading.** Module scripts are deferred by default and fetched in parallel, and cross-origin modules require [[Cross-Origin Resource Sharing]] headers.
-- **Top-level await.** Since ES2022 a module can await at the top level, pausing modules that depend on it, a direct use of the async machinery described under coroutine.
+- **Top-level await.** Since ES2022 a module can await at the top level, pausing modules that depend on it until it finishes.
 
 **Dynamic `import()`**, added in ES2020, loads a module on demand and returns a promise, the primitive behind [[Code Splitting]]. Modules evaluate in dependency order, a topological sort of the graph, and circular imports work only partially, sometimes exposing a binding before it has been initialized.
 

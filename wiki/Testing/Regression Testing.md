@@ -17,9 +17,9 @@ Several forms of test do regression work:
 - **Functional.** [[Unit Test]], [[Integration Test]], and [[End-to-End Test]] suites check outputs and behavior.
 - **Output comparison.** [[Golden File Testing]] and [[Snapshot Testing]] compare whole outputs against saved versions, catching changes nobody thought to assert.
 - **Visual.** [[Visual Regression Testing]] compares screenshots pixel by pixel.
-- **Performance.** Benchmarks in CI catches a change that makes something slower, a regression no functional test sees.
+- **Performance.** Benchmarks in CI catch a change that makes something slower, a regression no functional test sees.
 
-The cost is time. A suite that grows with every bug eventually takes too long to run on every change, and research since the 1990s, notably by Gregg Rothermel and Mary Jean Harrold, has studied the three strategies:
+The cost is time. A suite that grows with every bug eventually takes too long to run on every change, and research since the 1990s, notably by Gregg Rothermel and Mary Jean Harrold, has studied ways to cut that cost:
 
 - **Retest all.** Run everything. Safest, slowest.
 - **Selection.** Run only tests affected by the change, using dependency or coverage data, as in [[Test Impact Analysis]].

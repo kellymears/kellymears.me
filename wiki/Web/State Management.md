@@ -24,7 +24,7 @@ Redux's verbosity bred a backlash, and the field has since split state by kind:
 
 The deepest shift is in how changes propagate. Rather than re-rendering whole component trees and comparing results ([[Virtual DOM]]), many frameworks now track exactly which values each piece of the page reads and update only those.
 
-Moving data fetching to the server, as with [[React Server Components]] or classic [[Server-Side Rendering]], removes much client state altogether, since data that never reaches the browser needs no management there; see [[Single-Page Application]].
+Moving data fetching to the server, as with [[React Server Components]] or classic [[Server-Side Rendering]], removes much client state altogether, since data that never reaches the browser needs no management there.
 
 ## See also
 - [[Deep Linking]]

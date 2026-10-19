@@ -20,9 +20,9 @@ Common causes:
 
 Linux distinguishes a full panic from an **oops**: an error serious enough to kill the offending process and log a detailed report, but not necessarily fatal to the system. The kernel marks itself "tainted" afterward, since its state is no longer fully trusted, and many servers are configured to escalate any oops into a panic.
 
-What happens next matters more than the panic itself. Systems can be set to reboot automatically after a few seconds, often enforced by a [[Watchdog Timer]] that resets the machine if the kernel stops responding at all. A crash-dump mechanism can boot a small spare kernel that saves the dead kernel's memory to disk for later analysis; see [[Core Dump]].
+What happens next matters more than the panic itself. Systems can be set to reboot automatically after a few seconds, often enforced by a [[Watchdog Timer]] that resets the machine if the kernel stops responding at all. A crash-dump mechanism can boot a small spare kernel that saves the dead kernel's memory to disk for later analysis, a [[Core Dump|core dump]] of the whole system.
 
-Panics are also a fleet-scale risk. In July 2024, a faulty content update to a widely deployed security product loaded by a Windows kernel driver crashed about 8.5 million machines at once, grounding flights and closing hospitals. The driver read malformed input it hadn't validated, and machines crashed again on every boot. It became a textbook case for [[Canary Release]]s and for keeping third-party code out of the kernel.
+Panics are also a fleet-scale risk. In July 2024, a faulty content update to a widely deployed security product loaded by a Windows kernel driver crashed about 8.5 million machines at once, grounding flights and disrupting hospitals. The driver read malformed input it hadn't validated, and machines crashed again on every boot. It became a textbook case for [[Canary Release]]s and for keeping third-party code out of the kernel.
 
 ## See also
 - [[Graphics Driver]]

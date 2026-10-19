@@ -21,7 +21,7 @@ The approach is a compromise between two extremes:
 
 Vocabulary size is the main dial. Larger vocabularies, now often 100,000 to 250,000 entries, compress text better but make the embedding table bigger, with each token getting its own learned [[Embedding]].
 
-Related algorithms include WordPiece, used by BERT, and the unigram method in Taku Kudo's SentencePiece library from 2018, which treats spaces as ordinary symbols so it works for languages written without them. Merging the most frequent pair at each step is a greedy algorithm.
+Related algorithms include WordPiece, used by BERT, and the unigram method in Taku Kudo's SentencePiece library from 2018, which treats spaces as ordinary symbols so it works for languages written without them.
 
 Many odd model behaviors trace back to the tokenizer:
 

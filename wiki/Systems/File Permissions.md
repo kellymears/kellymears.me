@@ -25,7 +25,7 @@ The *umask* sets which permissions new files lack by default; 022 keeps them unw
 
 The basic model has well-known limits. It allows one owner and one group per file. **Access control lists (ACLs)** extend it with per-user and per-group entries. The *root* user bypasses permissions entirely, which [[Least Privilege]] designs counter by splitting root's power into finer *capabilities* and adding mandatory controls such as SELinux and AppArmor, which restrict even root.
 
-Permissions cause everyday errors. A private SSH key readable by others is refused by [[Secure Shell]] as a safety measure, a script without the execute bit won't run directly, and files created inside a container as root may be unwritable by the host user, a common snag with Docker volumes. [[Secret Management]] files and configuration in [[Dotfiles]] usually need tight modes such as 600. Every permission check is performed by the [[Kernel]] when a program opens a file through a [[System Call]], which is what makes the scheme enforceable.
+Permissions cause everyday errors. A private SSH key readable by others is refused by [[Secure Shell]] as a safety measure, a script without the execute bit won't run directly, and files created inside a container as root may be unwritable by the host user, a common snag with Docker volumes. Files holding secrets usually need tight modes such as 600; see [[Secret Management]]. Every permission check is performed by the [[Kernel]] when a program opens a file through a [[System Call]], which is what makes the scheme enforceable.
 
 ## See also
 - [[Archive File]]

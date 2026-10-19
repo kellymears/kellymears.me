@@ -10,14 +10,14 @@ summary: Tricking a server into making requests on an attacker's behalf, reachin
 
 A typical vulnerable feature: "Paste an image URL and we'll import it." Instead of an image URL, the attacker enters an address on the internal network: an admin panel bound to localhost, a database's HTTP interface, or an internal API that was never meant to face the internet. The server fetches it and, depending on the feature, returns the contents or at least reveals whether it exists.
 
-The richest target is in the cloud. Cloud virtual machines can query a **metadata service** at a fixed internal address, which returns details about the machine, often including temporary credentials for the machine's cloud account; see [[Secret Management]]. An SSRF that reaches it can turn a link-preview bug into control of storage buckets and databases. This is how a 2019 breach at a major US bank exposed records of about 100 million people: a misconfigured firewall in front of a web app allowed requests to the metadata service, and the stolen credentials reached storage holding customer data; see [[Object Storage]].
+The richest target is in the cloud. Cloud virtual machines can query a **metadata service** at a fixed internal address, which returns details about the machine, often including temporary credentials for the machine's cloud account; see [[Secret Management]]. An SSRF that reaches it can turn a link-preview bug into control of storage buckets and databases. This is how a 2019 breach at a major US bank exposed records of about 100 million people: a misconfigured firewall in front of a web app allowed requests to the metadata service, and the stolen credentials reached [[Object Storage|storage buckets]] holding customer data.
 
 It's the server-side cousin of [[Cross-Site Request Forgery]], in which the victim's browser is tricked into making requests with the victim's cookies. Both exploit a trusted party acting on an attacker's instructions, a version of the confused deputy problem; see [[Least Privilege]].
 
 Defenses, ideally layered:
 
 - **Allowlists.** Only fetch from domains the feature needs. Blocklists of internal addresses are fragile, since addresses can be written many ways, and [[Domain Name System]] records can point a harmless-looking name at an internal address, or change after the check; see [[Race Condition]].
-- **Resolve, then check, then connect to that exact address**, and refuse redirects or re-check each one; see [[HTTP Status Code]].
+- **Resolve, then check, then connect to that exact address**, and refuse redirects or re-check each one.
 - **Network segmentation.** Make the fetching service unable to reach anything internal at all, for instance by running it in an isolated network with only outbound internet access; see [[Firewall]] and [[Zero Trust Network]].
 - **Harden the metadata service.** Cloud providers added a second version requiring a session token obtained with a special request, which simple SSRF can't produce.
 

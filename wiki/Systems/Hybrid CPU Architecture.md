@@ -28,8 +28,7 @@ Mixed cores caused other surprises:
 - **Copy protection.** At launch, an anti-piracy system used by many games mistook the E-cores for a second computer, refusing to run until patched.
 - **Benchmarks.** Results depend on where a test happens to land, so measurements vary more than on uniform chips.
 
-On Intel's designs, only P-cores support Simultaneous Multithreading, so core count, thread count, and speed no longer line up in a simple way. Heat adds another layer, since sustained load on large cores triggers Thermal Throttling, one more reason to keep background work on the small ones.
+On Intel's early hybrid desktop chips, only P-cores support Simultaneous Multithreading, so core count, thread count, and speed no longer line up in a simple way. Heat adds another layer, since sustained load on large cores triggers Thermal Throttling, one more reason to keep background work on the small ones.
 
 ## See also
-- [[Thread Pool]]
 - [[Computer Cooling]]

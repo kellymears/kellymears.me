@@ -9,7 +9,7 @@ tags:
   - testing
 summary: Checking that software does what its users and stakeholders actually need, the criteria agreed before building, and the gap between passing every test and building the right thing.
 ---
-**Acceptance testing** checks whether software meets the needs of the people it was built for, rather than whether its code works as the developers intended. Other tests ask "did we build it right?" Acceptance tests ask "did we build the right thing?" A system can pass every unit test and still fail acceptance because it solves the wrong problem, an outcome close to the [[XY Problem]].
+**Acceptance testing** checks whether software meets the needs of the people it was built for, rather than whether its code works as the developers intended. Other tests ask "did we build it right?" Acceptance tests ask "did we build the right thing?" A system can pass every unit test and still fail acceptance because it solves the wrong problem.
 
 The term covers a few related practices:
 
@@ -20,7 +20,7 @@ The term covers a few related practices:
 
 **Acceptance test-driven development** writes the acceptance tests first, together with stakeholders, and builds until they pass, the outer loop around [[Test-Driven Development]]. Ward Cunningham's Framework for Integrated Test (FIT), released in 2002, let business staff write test cases as tables in documents. Behavior-Driven Development grew from the same impulse, with scenarios written in Given/When/Then form that double as documentation.
 
-The hard part is not automation but agreement. Stakeholders often know what they want only when they see it, and criteria written in advance miss what nobody thought to say. A [[Test Oracle]] for "is this what users need?" does not exist in code. That is why automated acceptance tests are paired with human judgment: Exploratory Testing to find what the criteria missed, and Usability Testing to see whether users can actually complete the task. A feature can meet every criterion and still clash with users' mental model of how it should work.
+The hard part is not automation but agreement. Stakeholders often know what they want only when they see it, and criteria written in advance miss what nobody thought to say. A [[Test Oracle]] for "is this what users need?" does not exist in code. That is why automated acceptance tests are paired with human judgment: exploratory testing to find what the criteria missed, and Usability Testing to see whether users can actually complete the task. A feature can meet every criterion and still clash with users' mental model of how it should work.
 
 Automated acceptance tests are expensive. They are slow, they break when the interface changes, and they sit at the narrow top of the test pyramid. Good practice keeps them few, covering the most important user journeys, while detail is tested further down.
 

@@ -23,5 +23,4 @@ HDR also changes how UI is designed. Interface elements need a fixed paper-white
 ## See also
 - [[Graphics Driver]]
 - [[OLED]]
-- [[Opponent Process Theory]]
 - [[Image Format]]

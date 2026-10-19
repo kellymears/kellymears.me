@@ -17,7 +17,7 @@ The [[CAP Theorem]] states the core trade-off: during a partition, a system must
 
 The worst outcome is **split brain**: each side elects its own leader, both accept writes, and the data diverges in ways that may be impossible to merge cleanly. Two database primaries each taking orders, or two nodes each believing they hold a lock, can corrupt data or double-process work. The defenses:
 
-- **Quorums.** A group may act only if it contains a majority of the cluster. Two halves can't both hold a majority, so at most one side continues. [[Consensus Algorithm]] protocols such as Raft and Paxos are built on this, which is why clusters use odd numbers of nodes. 
+- **Quorums.** A group may act only if it contains a majority of the cluster. Two halves can't both hold a majority, so at most one side continues. [[Consensus Algorithm]] protocols such as Raft and Paxos are built on this, which is why clusters use odd numbers of nodes.
 - **Leases.** A leader holds authority only for a limited time and must renew it, so a cut-off leader steps down when its lease runs out, as long as clocks behave. See [[Leader Election]].
 - **Fencing tokens.** Each new leader gets a higher number, and storage rejects writes carrying an older one, so a stale leader that wakes up late can't do damage.
 - **STONITH.** "Shoot the other node in the head": the surviving side cuts power to the node it can't reach before taking over, guaranteeing it really is gone.

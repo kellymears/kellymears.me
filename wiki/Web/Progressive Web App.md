@@ -25,7 +25,7 @@ The case for a PWA:
 - **Links.** Every screen has a URL, so content can be shared and found by search engines.
 - **Size.** A PWA often weighs a fraction of its native equivalent, which matters on slow networks and cheap phones.
 
-The limits come from the platforms. Browser vendors decide which device APIs the web gets, and support is uneven. Safari added web push only in 2023, and only for apps added to the home screen. In 2024 Apple announced it would drop home-screen web apps in the EU to comply with the Digital Markets Act, then reversed after objections. Background work is also constrained: mobile systems suspend web apps aggressively, and [[Background Tab Throttling]] applies on desktop. Discoverability is weaker without a store listing, so some developers wrap a PWA for the stores anyway.
+The limits come from the platforms. Browser vendors decide which device APIs the web gets, and support is uneven. Safari on iOS added web push only in 2023, and only for apps added to the home screen. In 2024 Apple announced it would drop home-screen web apps in the EU to comply with the Digital Markets Act, then reversed after objections. Background work is also constrained: mobile systems suspend web apps aggressively, and [[Background Tab Throttling]] applies on desktop. Discoverability is weaker without a store listing, so some developers wrap a PWA for the stores anyway.
 
 Building one well means planning for the network being absent. Assets come from the cache, data lives in [[Web Storage]] such as IndexedDB, and edits made offline queue up and sync later. Pairing that with an [[Single-Page Application|app shell]] that loads instantly from cache gives the near-instant start that makes an installed web app feel native.
 

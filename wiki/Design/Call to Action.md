@@ -14,7 +14,7 @@ Most advice concerns prominence and clarity:
 - **Contrast and size.** The button should stand out from its surroundings and be easy to hit, especially on touchscreens; see [[Color Contrast]], [[Fitts's Law]], and [[Touch Target Size]].
 - **Context.** A call to action placed after the explanation that motivates it tends to do better than one shown before the reader knows what's on offer, which is why the advice to put everything at the top of the page is weaker than its reputation; see [[Above the Fold]].
 
-Calls to action are among the most tested elements on the web, since a change in clicks is easy to measure; see [[AB Testing]]. Folklore from such tests, such as one button color always beating another, rarely generalizes. Many reported wins come from small samples or from testing many variants until one looks good by chance.
+Calls to action are among the most [[AB Testing|A/B tested]] elements on the web, since a change in clicks is easy to measure. Folklore from such tests, such as one button color always beating another, rarely generalizes. Many reported wins come from small samples or from testing many variants until one looks good by chance.
 
 The pressure to raise click rates pushes toward manipulation. Common tactics include:
 
@@ -22,6 +22,6 @@ The pressure to raise click rates pushes toward manipulation. Common tactics inc
 - **False urgency.** Countdown timers that reset and stock warnings that are never true.
 - **Disguised options.** The option the business prefers is bright while the alternative is pale gray and hard to find.
 
-These raise short-term conversions while eroding trust, and regulators increasingly treat some of them as deceptive; see [[Dark Pattern]]. A click rate chosen as a target tends to be optimized at the expense of what it was supposed to indicate; see [[Goodhart's Law]].
+These [[Dark Pattern|dark patterns]] raise short-term conversions while eroding trust, and regulators increasingly treat some of them as deceptive. A click rate chosen as a target tends to be optimized at the expense of what it was supposed to indicate, as [[Goodhart's Law]] predicts.
 
 Users also learn to ignore elements that look like advertising, so calls to action styled as banners can become invisible. The most dependable approach is plain: make the next step obvious, describe it accurately, and make the alternative just as easy to find.

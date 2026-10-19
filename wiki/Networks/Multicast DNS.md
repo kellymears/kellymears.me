@@ -30,7 +30,7 @@ Its main limitation is scope. Multicast traffic stays on the local network segme
 
 On large networks mDNS gets chatty, since every query reaches every device, so enterprises restrict or proxy it. It also leaks information: devices announce names that often include their owner's first name and model, visible to anyone on the same network.
 
-Smart-home protocols such as Matter use DNS-SD over mDNS to find devices on the local network, an example of the decentralized, [[Peer-to-Peer]] design the protocol family made routine.
+Smart-home protocols such as Matter use DNS-SD over mDNS to find devices on the local network.
 
 ## See also
 - [[Multicast]]

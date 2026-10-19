@@ -29,8 +29,7 @@ Registries are a frequent target of attacks, which makes them central to [[Suppl
 
 Defenses include signing artifacts, attaching build provenance and a Software Bill of Materials to each one, pinning dependencies by hash in a [[Lockfile]], and scoping private package names so they can't collide with public ones.
 
-Storage grows quickly, since every build of every branch produces artifacts. Retention policies delete old snapshots while keeping anything released, much as [[Garbage Collection]] keeps only what is still referenced.
+Storage grows quickly, since every build of every branch produces artifacts. Retention policies delete old snapshots while keeping anything released.
 
 ## See also
-- [[Archive File]]
 - [[Git LFS]]

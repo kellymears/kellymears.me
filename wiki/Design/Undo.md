@@ -13,7 +13,7 @@ summary: Letting people reverse what they just did, which makes interfaces safe 
 
 The Bravo editor at Xerox PARC had an undo command in the mid-1970s, and the original Macintosh made single-level undo a standard command. Multi-level undo became expected as memory grew cheaper.
 
-**Undo versus confirmation.** The common alternative is a confirmation dialog: "Are you sure you want to delete this?" Confirmations work poorly. People see them so often that clicking "OK" becomes automatic, a form of Habit Formation, and the dialog stops protecting anything. Each one also interrupts, as any [[Modal Dialog]] does. Undo protects without interrupting: the action happens immediately, and a brief notice offers to reverse it. Email "undo send" works by simply delaying the send for a few seconds. Deletion is often a [[Soft Delete]] under the hood, so the item can come back.
+**Undo versus confirmation.** The common alternative is a confirmation dialog: "Are you sure you want to delete this?" Confirmations work poorly. People see them so often that clicking "OK" becomes automatic, a form of habituation, and the dialog stops protecting anything. Each one also interrupts, as any [[Modal Dialog]] does. Undo protects without interrupting: the action happens immediately, and a brief notice offers to reverse it. Email "undo send" works by simply delaying the send for a few seconds. Deletion is often a [[Soft Delete]] under the hood, so the item can come back.
 
 Some actions can't be undone: a sent payment, a published message others have read, a dropped database. For those, a deliberate obstacle is appropriate, such as typing the project's name to confirm deletion. The friction is worth it when the action is both rare and irreversible.
 

@@ -33,7 +33,7 @@ Common traps:
 
 The usual division of labor: flexbox for one-dimensional, content-sized arrangements, where items determine the layout; grid for two-dimensional page structure, where the layout determines where items go. Most interfaces nest both.
 
-Flexbox reflects a broader shift from fixed pixel layouts to declaring relationships and letting the browser solve for sizes, the same idea as [[Container Query]] and intrinsic sizing. Native app frameworks adopted the flex model too, so the same mental model now describes layout on phones and desktops. A [[Tiling Window Manager]] applies similar rules to whole windows: split the available space among items by rule rather than placing each by hand.
+Flexbox reflects a broader shift from fixed pixel layouts to declaring relationships and letting the browser solve for sizes, the same idea as [[Container Query]] and intrinsic sizing. Native app frameworks adopted the flex model too, so the same mental model now describes layout on phones and desktops.
 
 ## See also
 - [[Cascading Style Sheets]]

@@ -11,7 +11,7 @@ A **checklist** is a written list of steps or checks to confirm at a set point i
 
 The modern history starts with a crash. In 1935 the Boeing Model 299, the prototype of the B-17 bomber, took off for an evaluation flight and crashed, killing two of the crew. The cause was a locked elevator control that the experienced test pilot had forgotten to release. Rather than demand more training, test pilots wrote a short card of steps for takeoff, landing, and taxiing. The aircraft went on to fly long distances without a serious accident, and the checklist became standard practice in aviation.
 
-The surgeon Atul Gawande popularized the idea in *The Checklist Manifesto* (2009). He helped the World Health Organization develop a nineteen-item surgical safety checklist, covering checks such as confirming the patient's identity and procedure, and having team members introduce themselves. In a study across eight hospitals in different countries, deaths after surgery fell by more than a third and complications by about the same.
+The surgeon Atul Gawande popularized the idea in *The Checklist Manifesto* (2009). He helped the World Health Organization develop a nineteen-item surgical safety checklist, covering checks such as confirming the patient's identity and procedure, and having team members introduce themselves. In a study across eight hospitals in different countries, deaths after surgery fell by almost half and major complications by more than a third.
 
 Why they work:
 
@@ -23,7 +23,7 @@ Good checklists are short, usually five to nine items, and limited to the critic
 
 In software, the same ideas appear in release procedures, incident runbooks, and pull-request templates; see [[Code Review]]. They help most for rare, high-stakes operations, such as a database failover performed twice a year, where nobody remembers the steps. Automation goes further: a check that can run on every change, like a test or a lint rule, beats a box someone must remember to tick; see [[Continuous Integration]].
 
-Checklists also have failure modes. Ticking boxes without performing the checks turns them into ritual; see [[Cargo Cult]]. Lists that grow after every incident become too long to use; see [[Feature Creep]].
+Checklists also have failure modes. Ticking boxes without performing the checks turns them into ritual, a kind of [[Cargo Cult]]. Lists that grow after every incident become too long to use; see [[Feature Creep]].
 
 ## See also
 - [[Definition of Done]]

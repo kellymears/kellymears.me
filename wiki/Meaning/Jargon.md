@@ -18,7 +18,7 @@ Speakers move between registers depending on audience, using shop talk with coll
 
 Computing has a well-documented example. The **Jargon File** began in 1975 as a shared glossary of hacker slang at Stanford's artificial intelligence lab and MIT, later published as The Hacker's Dictionary and then The New Hacker's Dictionary. It recorded terms such as "kludge," "cruft" and the placeholder names "foo" and "bar"; see [[Metasyntactic Variable]]. Later editions were criticized for drifting from describing the culture to prescribing it.
 
-In software design, some methods deliberately cultivate jargon. Teams are encouraged to adopt the vocabulary used by the domain's experts and use it consistently in conversation and in code, so names mean the same thing everywhere; see [[Naming]]. The aim is to keep jargon's precision while making sure everyone involved shares it. Newcomers arriving in large numbers can strain a community whose vocabulary they haven't learned.
+In software design, some methods deliberately cultivate jargon. Teams are encouraged to adopt the vocabulary used by the domain's experts and use it consistently in conversation and in code, so names mean the same thing everywhere; see [[Naming]]. The aim is to keep jargon's precision while making sure everyone involved shares it.
 
 ## See also
 - [[Backronym]]

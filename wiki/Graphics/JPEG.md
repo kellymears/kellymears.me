@@ -19,7 +19,7 @@ The pipeline:
 
 Decoding reverses the steps but can't restore the rounded-away detail, which shows up as JPEG's characteristic artifacts: visible 8×8 **blocking** in flat areas like sky, and **ringing**, faint halos around sharp edges, because sharp edges need exactly the high frequencies that were discarded. That's why JPEG suits photos but mangles text, line art, and screenshots.
 
-Re-saving a JPEG compounds the loss. Each round of decoding, editing, and re-encoding quantizes again, so images passed around the internet degrade, a **generation loss** sometimes called "deep-frying." Archivists keep lossless masters for this reason. The same traces help forensics: inconsistent compression across an image can reveal that part of it was pasted in; see [[Provenance]].
+Re-saving a JPEG compounds the loss. Each round of decoding, editing, and re-encoding quantizes again, so images passed around the internet degrade with each copy, a process called **generation loss**. Archivists keep lossless masters for this reason. The same traces help forensics: inconsistent compression across an image can reveal that part of it was pasted in; see [[Provenance]].
 
 JPEG files also carry metadata, including camera settings and often the [[GPS]] coordinates where the photo was taken, which has revealed people's home addresses when photos were posted online; see [[Personal Data]].
 

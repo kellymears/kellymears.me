@@ -17,7 +17,7 @@ The same page often lives at many addresses without anyone intending it:
 - as a printer-friendly or mobile version;
 - as a copy republished on another site.
 
-To a search engine, each address is potentially a separate page; see [[URL]] and [[Web Crawler]]. Duplicates waste a crawler's limited attention on a site, split incoming links among several versions, and can lead the engine to show an unintended address, such as one with a stranger's tracking code; see [[Search Engine Optimization]].
+To a search engine's [[Web Crawler]], each distinct [[URL]] is potentially a separate page. Duplicates waste a crawler's limited attention on a site, split incoming links among several versions, and can lead the engine to show an unintended address, such as one with a stranger's tracking code; see [[Search Engine Optimization]].
 
 Google, Yahoo, and Microsoft announced support for the canonical link together in February 2009, a rare joint move among competitors. Search engines treat the declaration as a strong hint, not a command. If the pages differ substantially, or the site's other signals contradict it, the engine may pick a different canonical itself.
 
@@ -25,8 +25,8 @@ Other tools reinforce or replace the hint:
 
 - **Permanent redirects** send visitors and crawlers from duplicate addresses to the preferred one, and are stronger than a hint where the duplicates have no reason to exist; see [[HTTP Status Code]].
 - **Consistent internal links** point to the preferred address everywhere on the site.
-- **Sitemaps** list only canonical addresses; see [[Sitemap]].
-- **Social previews** carry their own preferred address, which should agree; see [[Open Graph]].
+- **[[Sitemap|Sitemaps]]** list only canonical addresses.
+- **Social previews** carry their own preferred address in [[Open Graph]] tags, which should agree.
 
 Cross-domain canonicals help syndication. A publisher that lets partners republish an article can ask them to point their copies back to the original, so the original keeps the credit.
 
@@ -35,5 +35,4 @@ The underlying problem is identity: deciding when two things are really the same
 Readable addresses make the preferred version obvious to people, too; see [[Slug]]. When pages move, canonical addresses should change with them, or old links will lead nowhere.
 
 ## See also
-- [[Hotlinking]]
 - [[Web Search Engine]]

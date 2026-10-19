@@ -14,12 +14,12 @@ The first part is harder than it looks. Text must be normalized ("Dr." as doctor
 
 The technology went through several generations:
 
-- **Formant synthesis.** Rules model the resonances of the vocal tract. Bell Labs demonstrated the Voder in 1939, and DECtalk, from 1984, gave Stephen Hawking his famous voice. Intelligible and tiny, but robotic.
+- **Formant synthesis.** Rules model the resonances of the vocal tract. Bell Labs demonstrated the Voder in 1939. Dennis Klatt's synthesis research underlies both DECtalk, from 1984, and the device that gave Stephen Hawking a famous voice. Intelligible and tiny, but robotic.
 - **Concatenative synthesis.** Recorded speech is chopped into small units and stitched together, selecting pieces that join smoothly. Natural on familiar phrases, but glitchy at the seams, and every voice needed many hours of studio recording.
 - **Neural synthesis.** DeepMind's WaveNet in 2016 generated audio sample by sample with a neural network, sounding far more human. Tacotron in 2017 learned the mapping from text to sound directly. Later systems generate faster in parallel.
 - **Codec language models.** Audio is compressed into discrete tokens, a form of [[Data Compression]], and a model predicts them the way a [[Large Language Model]] predicts text. Microsoft's VALL-E in 2023 could imitate a voice from a three-second sample.
 
-Some current systems are diffusion model variants, and native multimodal model systems generate speech directly, hearing a user's tone and answering with expression rather than reading out text.
+Some current systems use diffusion models, and natively multimodal models generate speech directly, hearing a user's tone and answering with expression rather than reading out text.
 
 For voice agents, **latency** decides whether conversation feels natural. People take turns with gaps of roughly 200 milliseconds, so systems stream audio as soon as the first words are generated rather than waiting for the full reply, and handle interruptions when the user talks over them. Every pipeline stage adds delay, as with [[Latency and Jitter]] elsewhere.
 

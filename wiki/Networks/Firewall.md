@@ -23,7 +23,7 @@ Good rule sets start from **default deny**: block everything, then allow what is
 
 Firewalls have well-known failure modes:
 
-- **Breaking things silently.** Blocking ICMP wholesale breaks path discovery and causes black holes in Maximum Transmission Unit handling. Blocking a port a service needs causes timeouts rather than clear errors, a classic [[Silent Failure]]. Many "the network is broken" mysteries are firewall rules, from LAN discovery protocols such as [[Multicast]] to peer-to-peer media.
+- **Breaking things silently.** Blocking ICMP wholesale breaks path discovery and causes black holes in Maximum Transmission Unit handling. Blocking a port a service needs causes timeouts rather than clear errors, a classic [[Silent Failure]]. Many "the network is broken" mysteries are firewall rules, from LAN discovery protocols such as [[Multicast DNS]] to peer-to-peer media.
 - **Rule rot.** Rules accumulate over years, nobody remembers why each exists, and nobody dares remove them, a [[Chesterton's Fence]] problem at scale.
 - **The perimeter fallacy.** A firewall at the edge protects only against traffic that crosses the edge. Once an attacker is inside, through phishing, a compromised laptop, or a cloud service, a flat internal network offers no resistance.
 

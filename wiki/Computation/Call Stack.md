@@ -29,5 +29,4 @@ Not every language keeps calls on one contiguous stack. A [[Closure]] that outli
 The stack and the heap are the two basic places a program keeps data. The stack is fast, automatic, and limited in size and lifetime; the heap is flexible and must be managed.
 
 ## See also
-- [[Logging]]
 - [[Core Dump]]

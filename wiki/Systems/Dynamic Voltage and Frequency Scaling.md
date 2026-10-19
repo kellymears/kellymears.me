@@ -26,6 +26,5 @@ DVFS can also be a source of instability. A chip that needs more voltage than th
 - [[Motherboard]]
 - [[Computer Cooling]]
 - [[CPU Affinity]]
-- [[Performance Budget]]
 - [[Microcode]]
 - [[Suspend and Hibernation]]

@@ -18,7 +18,7 @@ A good indicator is easy to see against every background it might appear on. A t
 
 Focus must also go somewhere sensible. When a dialog opens, focus should move into it, and when it closes, focus should return to what opened it; see [[Focus Management]] and [[Focus Trap]]. Focus that jumps unexpectedly or lands on invisible elements breaks the indicator's usefulness even if it's styled well.
 
-The indicator is a clear example of a design detail that matters little to most users and enormously to some, and of how serving everyone often helps more people than expected; see [[Signifier]].
+The indicator is a clear example of a design detail that matters little to most users and enormously to some, and of how serving everyone often helps more people than expected.
 
 ## See also
 - [[Visual Hierarchy]]

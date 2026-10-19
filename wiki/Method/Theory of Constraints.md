@@ -20,7 +20,7 @@ Goldratt proposed five focusing steps:
 
 The third step is the counterintuitive one. Keeping every machine and person fully busy, which looks efficient, only increases work-in-progress, lengthens queues, and hides the real limit. Queueing theory backs this up: wait times climb steeply as any stage nears full utilization. The scheduling method Goldratt derived, **drum-buffer-rope**, sets the pace by the constraint (the drum), keeps a small buffer of work in front of it so it never starves, and releases new work only as fast as the constraint can take it (the rope).
 
-The ideas transfer directly to software delivery. If code review is the slowest step, writing code faster just grows the review queue; see [[Code Review]] and [[Pull Request]]. Limiting work in progress, a core rule of Kanban, is subordination in practice. Measuring the time from commit to production often shows that waiting, not working, dominates.
+The ideas transfer directly to software delivery. If [[Code Review|code review]] is the slowest step, writing code faster just grows the review queue. Limiting work in progress, a core rule of Kanban, is subordination in practice. Measuring the time from commit to production often shows that waiting, not working, dominates.
 
 Performance engineering is the same idea at a smaller scale. Speeding up code that isn't on the critical path changes nothing, which is why measuring comes before optimizing; see [[Premature Optimization]]. Amdahl's Law gives the arithmetic: the part that can't be sped up caps the overall gain.
 

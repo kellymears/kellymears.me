@@ -14,7 +14,7 @@ The original proposal suggested sections such as:
 
 - **Intended use.** What the model is for, who it's for, and uses that are out of scope.
 - **Training data.** Where the data came from and what it covers.
-- **Evaluation.** Which benchmarks and metrics were used; see [[Evaluation Harness]] and [[Precision and Recall]].
+- **Evaluation.** Which benchmarks and metrics were used, such as an [[Evaluation Harness]] score or [[Precision and Recall]].
 - **Disaggregated results.** Performance broken down by group, such as age, skin tone, or dialect, since an overall average can hide large gaps.
 - **Ethical considerations and caveats.** Known risks, limitations, and conditions under which results may not hold.
 
@@ -24,6 +24,6 @@ Model cards became routine on model hubs, where a model's repository page displa
 
 Critics note that cards are self-reported and uneven. Some are thorough; others are a few lines of marketing. Training data is often described vaguely, partly for competitive and legal reasons, and evaluations can be affected by test data leaking into training. A card is only as useful as its honesty and completeness, and readers can't easily check either.
 
-The idea parallels documentation practices in software. A bill of materials lists the components in a build, and a changelog records what changed between versions; see [[Changelog]]. Model cards apply that habit to systems whose behavior is learned rather than written, where knowing the data and its gaps matters as much as knowing the code.
+The idea parallels documentation practices in software. A bill of materials lists the components in a build, and a [[Changelog]] records what changed between versions. Model cards apply that habit to systems whose behavior is learned rather than written, where knowing the data and its gaps matters as much as knowing the code.
 
-Documentation also addresses an imbalance between builders and users, who know far less about a model than its makers.
+Documentation also narrows the gap between a model's makers and its users, who know far less about it.

@@ -7,7 +7,7 @@ tags:
   - web
 summary: The header every browser sends to identify itself, which grew into a pile of mutual impersonations because sites served different pages to different browsers, and why it's being frozen.
 ---
-The **user agent string** is the text a browser sends with every request, in the `User-Agent` header, to identify itself. A current Chrome on Windows sends something like: `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36`. That names four browser engines and three companies, and it's a product of thirty years of browsers pretending to be each other.
+The **user agent string** is the text a browser sends with every request, in the `User-Agent` header, to identify itself. A current Chrome on Windows sends something like: `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36`. Most of those names belong to other browsers and engines, the product of thirty years of browsers pretending to be each other.
 
 The history:
 

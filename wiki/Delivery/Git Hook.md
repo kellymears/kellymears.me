@@ -27,7 +27,7 @@ A few habits keep hooks useful:
 - **Treat them as a convenience, not a gate.** Anyone can bypass client hooks with `git commit --no-verify`, so every rule that matters must also run in [[Continuous Integration]]. Local hooks just catch problems earlier, the [[Fail Fast]] principle at the smallest scale.
 - **Fix, don't just complain.** Hooks that run a formatter and restage the result are less irritating than ones that only report errors.
 
-Hooks are shared by every [[Git Worktree]] of a repository, since they live in the common Git directory. They also suit an [[Atomic Commit]] habit, since checks run on exactly what is staged.
+Hooks are shared by every [[Git Worktree]] of a repository, since they live in the common Git directory.
 
 ## See also
 - [[Staging Area]]

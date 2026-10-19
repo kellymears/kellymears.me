@@ -11,7 +11,7 @@ A graphics card is useless without a driver. Programs speak standard interfaces 
 
 Modern drivers come in two halves:
 
-- **A kernel part** runs with full privileges. It allocates video memory, schedules work from different programs onto the GPU, handles interrupts when work finishes, and recovers the GPU when a program hangs it. It also sets display modes, choosing resolution and refresh rate for each monitor. Linux moved mode setting into the kernel, as **kernel mode setting**, around 2008, so the console and the graphical desktop no longer fought over the hardware; see [[Kernel]].
+- **A kernel part** runs with full privileges. It allocates video memory, schedules work from different programs onto the GPU, handles interrupts when work finishes, and recovers the GPU when a program hangs it. It also sets display modes, choosing resolution and refresh rate for each monitor. Linux moved mode setting into the kernel, as **kernel mode setting**, around 2008, so the console and the graphical desktop no longer fought over the hardware.
 - **A user-space part** loads into each program. It implements the API, tracks state, and compiles shaders from portable intermediate code into the GPU's machine code; see [[Shader]]. Because compilation happens on the user's machine, games can stutter the first time they meet a new effect; see [[Shader Compilation Stutter]].
 
 Drivers do much more than translate. They contain workarounds for hardware bugs and frequently detect specific popular games and swap in tuned code paths, which is one reason new driver releases advertise performance gains in particular titles. They manage power, raising and lowering clock speeds as load changes; see [[Dynamic Voltage and Frequency Scaling]]. And they coordinate with the display system to present finished frames without tearing; see [[Display Server]].
@@ -20,7 +20,7 @@ On Linux, open-source drivers for most hardware live in two places: the kernel a
 
 Driver quality matters enormously. A driver bug can corrupt rendering, leak memory or freeze the machine, and some kinds of instability that look like hardware failure turn out to be driver issues, and the reverse. When problems appear after an upgrade, rolling back or holding a driver at a known-good version is a standard response; see [[Package Manager]].
 
-Translation layers stack on top: a Direct3D game can run on Vulkan through a library that converts its calls; see [[API Translation Layer]].
+Translation layers stack on top: a Direct3D game can run on Vulkan through an [[API Translation Layer]] that converts its calls.
 
 ## See also
 - [[Firmware]]

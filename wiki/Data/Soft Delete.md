@@ -26,7 +26,7 @@ The costs arrive later and spread everywhere:
 
 Alternatives often fit better. Moving deleted rows to a separate archive table keeps live tables clean. [[Event Sourcing]] records deletion as an event, keeping history without a flag on current state. Some systems simply hard delete and rely on backups, or on [[Change Data Capture]] streams, for recovery.
 
-Distributed systems use a related idea under the name *tombstone*: a marker that records a deletion so replicas learn about it, since simply removing data would look like data that was never received. [[Conflict-Free Replicated Data Type]] designs and [[Database Replication]] depend on tombstones, which in turn need garbage collection. [[Draft and Published]] workflows face a similar question of what "removed" means for content, and [[Immutability]] answers it by never removing anything at all.
+Distributed systems use a related idea under the name *tombstone*: a marker that records a deletion so replicas learn about it, since simply removing data would look like data that was never received. [[Conflict-Free Replicated Data Type]] designs and [[Database Replication]] depend on tombstones, which in turn need garbage collection.
 
 ## See also
 - [[Audit Log]]

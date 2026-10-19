@@ -18,12 +18,11 @@ Regional formats cause errors. The string 03/04/2025 means March 4 in the United
 
 Time zones produce a classic bug. A date with no time, such as a birthday, is sometimes stored as midnight in one time zone. When it's displayed in a time zone further west, it shifts to the previous day, so a person born on the fifth sees the fourth; see [[Time Zone]]. Dates that mean a calendar day should be stored as a calendar day, not as a moment in time.
 
-Browsers include a native date input, which on phones opens the system's own picker. Support arrived unevenly; desktop Safari added it only in 2021, and the native controls are hard to style, so many sites built their own. Custom pickers often fail people who navigate by keyboard or use a [[Screen Reader]], because a calendar grid needs careful handling of arrow keys and focus; see [[Keyboard Navigation]] and [[ARIA]]. Allowing typed input alongside the calendar is a reliable fallback; see [[Progressive Enhancement]].
+Browsers include a native date input, which on phones opens the system's own picker. Support arrived unevenly; desktop Safari added it only in 2021, and the native controls are hard to style, so many sites built their own. Custom pickers often fail people who navigate by keyboard or use a [[Screen Reader]], because a calendar grid needs careful handling of arrow keys and focus; see [[Keyboard Navigation]] and [[ARIA]]. Allowing typed input alongside the calendar is a reliable fallback.
 
 Small calendar cells are also hard to hit on a phone; see [[Touch Target Size]].
 
 When a date is invalid, such as February 30 or a return before departure, the message should say what's wrong and how to fix it; see [[Error Message]]. Defaulting to today, or to a sensible nearby date, saves effort when that's the likely answer.
 
 ## See also
-- [[Input Method]]
 - [[Postal Address]]

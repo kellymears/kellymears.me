@@ -16,7 +16,7 @@ Mechanically, a cherry-pick is a [[Three-Way Merge]] using the picked commit's p
 
 Cherry-picking has known hazards:
 
-- **Duplicate history.** The same change now exists as two commits with different hashes. Git usually recognizes identical patches when branches later merge, but if the code has been edited since, the merge may conflict or apply the change twice.
+- **Duplicate history.** The same change now exists as two commits with different hashes. When the branches later merge, identical changes on both sides usually combine cleanly, but if the code has been edited since, the merge may conflict or apply the change twice.
 - **Lost provenance.** Without a note, nobody can tell where the copy came from. `git cherry-pick -x` appends "(cherry picked from commit …)" to the message, which most backport policies require.
 - **Fixes forgotten upstream.** If a fix is made directly on a release branch and never picked back, it quietly regresses in the next release.
 
@@ -26,5 +26,4 @@ Small, focused commits pick cleanly, which is one practical argument for an [[At
 
 ## See also
 - [[Hotfix]]
-- [[Detached HEAD]]
 - [[Interactive Rebase]]

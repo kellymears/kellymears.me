@@ -18,7 +18,7 @@ Toasts are easy to misuse:
 
 - **Critical information.** Anything people must read or act on should not disappear on a timer. Errors that block progress belong next to the problem, as described under [[Error Message]].
 - **Too short.** A two-second toast is gone before slow readers, screen-magnifier users, or anyone glancing away can read it. Durations should scale with text length, and toasts should pause while hovered or focused.
-- **Too many.** A stream of confirmations for trivial actions teaches people to ignore the whole channel, a form of Habituation that Banner Blindness describes for ads.
+- **Too many.** A stream of confirmations for trivial actions teaches people to ignore the whole channel, a form of Habituation that banner blindness describes for ads.
 - **Stealing focus.** Moving keyboard focus into a toast interrupts typing; focus should stay where it is, following [[Focus Management]].
 - **Covering controls.** Toasts that sit over the button someone needs next, often a bottom navigation bar on phones, block the very next action.
 

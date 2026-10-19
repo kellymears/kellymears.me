@@ -23,10 +23,10 @@ Browser developer tools draw this as nested rectangles, which answers most "wher
 Other rules shape the box:
 
 - **Display type.** Block boxes stack vertically and fill the available width. Inline boxes flow within a line of text and ignore vertical margins and set heights.
-- **Outlines and shadows** draw outside the border without taking space, so a focus outline never shifts layout; see [[Focus Management]].
+- **Outlines and shadows** draw outside the border without taking space, so a [[Focus Indicator|focus outline]] never shifts layout.
 - **Logical properties** such as `margin-inline-start` replace left and right with start and end, so spacing flips correctly for right-to-left languages.
 
-Spacing, in design terms White Space, is mostly decided through padding, margins, and gaps. Design systems usually restrict these to a fixed scale so spacing stays consistent; see [[Design Token]]. Utility-class frameworks expose the same scale as short class names; see [[Utility-First CSS]].
+Spacing, in design terms white space, is mostly decided through padding, margins, and gaps. Design systems usually restrict these to a fixed scale so spacing stays consistent; see [[Design Token]]. Utility-class frameworks expose the same scale as short class names; see [[Utility-First CSS]].
 
 Boxes also determine painting order and overlap: positioned boxes can form a [[Stacking Context]], and the [[Cascade]] decides which box properties apply in the first place.
 

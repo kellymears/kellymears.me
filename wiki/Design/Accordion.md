@@ -22,9 +22,9 @@ A rule of thumb is that accordions suit content where readers need a few section
 
 The web gained a native accordion when browsers added the details and summary elements, first in Chrome around 2011 and in all major browsers by 2020. They work without JavaScript, are announced correctly to assistive technology, and can be operated from the keyboard; see [[Semantic HTML]] and [[Progressive Enhancement]]. Browsers later added a way to group them so only one opens at a time, and a hidden-until-found setting that lets find in page open a collapsed section when it finds a match.
 
-Custom accordions built from generic elements need the same behavior added by hand: a real button for each heading, an attribute telling screen readers whether it's expanded, and correct handling of focus; see [[ARIA]], [[Screen Reader]], and [[Keyboard Navigation]]. A small icon, usually a chevron or a plus sign, signals that a heading can be opened; see [[Signifier]].
+Custom accordions built from generic elements need the same behavior added by hand: a real button for each heading, an attribute telling screen readers whether it's expanded, and correct handling of focus; see [[ARIA]], [[Screen Reader]], and [[Keyboard Navigation]]. A small icon, usually a chevron or a plus sign, is the [[Signifier]] that a heading can be opened.
 
-Animated opening helps readers follow what moved but should be quick and respect a reduced motion preference; see [[Reduced Motion]].
+Animated opening helps readers follow what moved but should be quick and respect a [[Reduced Motion|reduced motion]] preference.
 
 ## See also
 - [[Tabs]]

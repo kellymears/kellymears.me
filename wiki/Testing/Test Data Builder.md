@@ -12,7 +12,7 @@ A **test data builder** is a helper that constructs objects for tests from sensi
 
 The problem it solves is noise. Tests need objects, and real objects have many required fields. If each test constructs them inline, every test is mostly irrelevant setup, the one field that matters is hard to spot, and adding a required field breaks hundreds of tests at once. A builder centralizes the defaults, so the test reads as a statement of what is special about this case.
 
-Its predecessor is the **Object Mother**, named at ThoughtWorks around 2001: a class with factory methods for standard test objects, such as a typical customer or an overdue invoice. Object Mothers tend to bloat into dozens of near-duplicate methods, one per variation, and tests become coupled to shared objects whose details are hidden. That is the *mystery guest* listed under test smell, where the meaning of a test depends on data defined somewhere else. Builders keep the variation in the test, where a reader can see it.
+Its predecessor is the **Object Mother**, named at ThoughtWorks around 2001: a class with factory methods for standard test objects, such as a typical customer or an overdue invoice. Object Mothers tend to bloat into dozens of near-duplicate methods, one per variation, and tests become coupled to shared objects whose details are hidden. That is the *mystery guest* test smell, where the meaning of a test depends on data defined somewhere else. Builders keep the variation in the test, where a reader can see it.
 
 Common practices:
 

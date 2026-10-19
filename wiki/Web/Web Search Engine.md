@@ -16,7 +16,7 @@ Search became a business through advertising sold against queries. Advertisers b
 
 Every ranking system invites manipulation. A whole industry tries to move pages up the results; see [[Search Engine Optimization]]. Link farms, content farms, and spam pages exist mainly to be found. Personalized ranking raised the worry that people see only results confirming what they already believe; see [[Filter Bubble]].
 
-Since 2023, engines have added generated answers above the links, summarizing retrieved pages with a language model; see [[Retrieval-Augmented Generation]]. This keeps more visitors on the results page and reduces the traffic that sites receive, unsettling the arrangement in which sites let themselves be crawled in exchange for being found. How well any engine performs is usually measured with the trade-off between finding all relevant pages and showing only relevant ones; see [[Precision and Recall]].
+Since 2023, engines have added generated answers above the links, summarizing retrieved pages with a language model; see [[Retrieval-Augmented Generation]]. This keeps more visitors on the results page and reduces the traffic that sites receive, unsettling the arrangement in which sites let themselves be crawled in exchange for being found. Search quality is often framed as the trade-off between finding all relevant pages and showing only relevant ones; see [[Precision and Recall]].
 
 ## See also
 - [[Autocomplete]]

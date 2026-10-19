@@ -13,7 +13,7 @@ summary: The ways a client learns that something changed on a server, from askin
 There are several approaches, in roughly historical order:
 
 - **Short polling.** The client asks "anything new?" on a fixed interval. It's easy and works everywhere, but it trades freshness against waste: poll every 30 seconds and updates arrive up to 30 seconds late, poll every second and most requests return nothing while costing a full round trip, headers included.
-- **Long polling.** The client sends a request, and the server doesn't answer until it has something to say or a timeout passes, often around 30 seconds. On a response, the client immediately sends the next request. Updates arrive almost as soon as they happen, and empty responses become rare. Gmail and early Facebook chat used it in the mid-2000s under the name *Comet*.
+- **Long polling.** The client sends a request, and the server doesn't answer until it has something to say or a timeout passes, often around 30 seconds. On a response, the client immediately sends the next request. Updates arrive almost as soon as they happen, and empty responses become rare. Gmail's chat and early Facebook chat relied on it in the late 2000s, when the family of server-push techniques was nicknamed *Comet*.
 - **Server-sent events.** One long HTTP response stays open and the server writes events down it as they happen, as described in [[Streaming Response]]. It's one-way, server to client, and reconnects automatically.
 - **[[WebSocket]].** A full two-way connection upgraded from HTTP, for chat, games, and collaborative editing.
 

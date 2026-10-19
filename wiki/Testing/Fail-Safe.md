@@ -17,9 +17,9 @@ What counts as safe depends on the hazard. An electronic door lock that unlocks 
 
 Some systems have no safe state to fall into. An airliner in flight can't simply stop, so its flight controls are **fail-operational**: they keep working through a failure using redundant computers and sensors.
 
-In software, the same thinking shows up in several forms. A program that hits an impossible state can halt rather than continue with corrupted data; see [[Fail Fast]]. Access controls should default to deny when a check errors. A watchdog timer restarts a frozen system automatically; see [[Watchdog Timer]]. A circuit breaker stops calling a failing service rather than piling on requests; see [[Circuit Breaker]].
+In software, the same thinking shows up in several forms. A program that hits an impossible state can halt rather than continue with corrupted data; see [[Fail Fast]]. Access controls should default to deny when a check errors. A [[Watchdog Timer|watchdog timer]] restarts a frozen system automatically. A [[Circuit Breaker|circuit breaker]] stops calling a failing service rather than piling on requests.
 
-Fail-safe design is closely related to designing so errors are physically hard to make. It's checked by analyzing each way a component can fail and the resulting state. Its limits show in cases where the safe default was disabled or overridden; see [[Defensive Programming]].
+Fail-safe design is closely related to designing so errors are physically hard to make. It's checked by analyzing each way a component can fail and the resulting state. Its limits show in cases where the safe default was disabled or overridden.
 
 ## See also
 - [[Progressive Enhancement]]

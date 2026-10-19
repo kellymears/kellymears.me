@@ -28,8 +28,7 @@ Pipelines are a common trap. In a Unix Pipeline, the status is that of the *last
 
 Good command-line tools treat the exit status as part of their interface. Returning distinct codes for "invalid input", "not found", and "internal error" lets callers react differently, and reserving a code for "nothing to do" lets scripts skip work cleanly. Printing an error but exiting 0 breaks every caller that checks properly.
 
-Exit statuses carry no detail. They report that something failed, not what; the explanation belongs on standard error, a stream described under file descriptor. Wrapping commands in [[Idempotence|idempotent]] scripts that check statuses at every step is the basis of reliable automation, from [[Cron]] jobs to deployment pipelines.
+Exit statuses carry no detail. They report that something failed, not what; the explanation belongs on standard error. Wrapping commands in [[Idempotence|idempotent]] scripts that check statuses at every step is the basis of reliable automation, from [[Cron]] jobs to deployment pipelines.
 
 ## See also
 - [[Command-Line Interface]]
-- [[Kernel Panic]]

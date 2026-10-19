@@ -10,7 +10,7 @@ summary: The smallest addressable element of a digital image or screen, better u
 ---
 A **pixel**, short for picture element, is the smallest addressable unit of a digital image or display. An image file stores a grid of them, each holding a color value, usually three numbers for red, green and blue and sometimes a fourth for transparency; see [[Alpha Compositing]]. A screen has its own grid of physical pixels, and showing an image means mapping one grid onto the other.
 
-The word appeared in the mid-1960s among engineers processing pictures from space probes, and it beat a rival abbreviation, "pel," which survives in some video standards. The first scanned digital photograph is usually credited to Russell Kirsch, who in 1957 scanned a photo of an infant son at 176 pixels on a side.
+The word appeared in the mid-1960s among engineers processing pictures from space probes, and it beat a rival abbreviation, "pel," which survives in some video standards. The first scanned digital photograph is usually credited to Russell Kirsch, who in 1957 scanned a photo of their infant son at 176 pixels on a side.
 
 A common mental model treats a pixel as a tiny colored square. Alvy Ray Smith argued against this in a 1995 memo titled "A Pixel Is Not a Little Square." A pixel is a point sample of a continuous image, and squares appear only because of how a display reconstructs the samples. The distinction matters whenever an image is resized, rotated or drawn at fractional positions. Treating pixels as samples explains why edges shimmer when detail is finer than the grid, and why resizing needs filtering rather than copying squares.
 

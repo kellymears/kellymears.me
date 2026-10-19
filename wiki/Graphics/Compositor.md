@@ -22,7 +22,7 @@ For fullscreen games, compositors use *direct scanout* (sometimes called unredir
 
 On Linux, the architecture differs by [[Display Server]]. Under X11, compositing was an optional add-on that intercepted the server's output. Under Wayland, the compositor *is* the display server, so every Wayland desktop composites, and the window manager, input routing, and effects live in one program.
 
-Browsers use the same idea inside a page. Elements that animate `transform` or `opacity` can be promoted to their own layers and moved by the compositor thread without layout or paint, which is why those properties animate smoothly while animating `top` or `width` causes Layout Thrashing. A [[Stacking Context]] is the browser's grouping unit for this kind of layered painting.
+Browsers use the same idea inside a page. Elements that animate `transform` or `opacity` can be promoted to their own layers and moved by the compositor thread without layout or paint, which is why those properties animate smoothly while animating `top` or `width` forces layout and paint on every frame. A [[Stacking Context]] is the browser's grouping unit for this kind of layered painting.
 
 ## See also
 - [[Desktop Environment]]

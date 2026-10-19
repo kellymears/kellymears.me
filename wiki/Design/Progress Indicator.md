@@ -27,7 +27,7 @@ Indicators change perception more than speed. Several findings shape how they ar
 
 Honest indicators matter. A bar that sits at 99 percent, or one that jumps from 10 to 100, teaches people to ignore it. If the length is truly unknown, an indeterminate indicator is more honest than an invented percentage.
 
-Indicators have accessibility needs too. Spinning and pulsing animation should respect [[Reduced Motion]], screen readers need status announced through [[ARIA]], and determinate progress helps people with Time Blindness who struggle to judge how long they've been waiting. A load that shifts content when it completes is measured by [[Core Web Vitals]] and punished in search ranking.
+Indicators have accessibility needs too. Spinning and pulsing animation should respect [[Reduced Motion]], screen readers need status announced through [[ARIA]], and determinate progress helps people with time blindness who struggle to judge how long they've been waiting. A load that shifts content when it completes is measured by [[Core Web Vitals]] and can count against a page in search ranking.
 
 ## See also
 - [[Wizard]]

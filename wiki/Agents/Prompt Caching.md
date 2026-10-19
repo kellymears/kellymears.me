@@ -16,7 +16,7 @@ The rule that governs everything is that **the match is on an exact prefix**. Th
 
 In an [[Agentic Loop]], each turn's prompt is the previous turn's prompt plus a little more, so caching can cut the cost of a long session by most of an order of magnitude. Rewriting or summarizing earlier history to save [[Context Window]] space breaks the prefix from that point on, so the cache cost belongs in that trade-off.
 
-Caches expire after minutes of inactivity and are evicted under memory pressure, much like a [[Least Recently Used Cache]]. Treat a hit as an optimization rather than a guarantee, and measure the hit rate rather than assume it. The same reasoning applies to a [[Fingerprint]] used as a cache key: whatever goes into the key decides what counts as a repeat.
+Caches expire after minutes of inactivity and are evicted under memory pressure, much like a [[Least Recently Used Cache]]. Treat a hit as an optimization rather than a guarantee, and measure the hit rate rather than assume it.
 
 ## See also
 - [[Token Budget]]

@@ -26,7 +26,7 @@ The benefits come from decoupling:
 - **Flexibility.** Swapping a storage backend or a payment provider means changing the wiring, not the code that uses it.
 - **Explicit dependencies.** A constructor's parameters list everything a component needs, making hidden coupling visible.
 
-It has costs. Over-injected code passes many tiny interfaces around and becomes hard to follow. Heavy mocking can test the wiring instead of behavior, a test smell discussed under Solitary and Sociable Tests. The humble object pattern and functional core, imperative shell offer an alternative: move logic into [[Pure Function]] code that needs no injection, and keep side effects in a thin outer layer.
+It has costs. Over-injected code passes many tiny interfaces around and becomes hard to follow. Heavy mocking can test the wiring instead of behavior. The humble object pattern and functional core, imperative shell offer an alternative: move logic into [[Pure Function]] code that needs no injection, and keep side effects in a thin outer layer.
 
 Dependency injection is also a Seam, in Michael Feathers's sense: a place where behavior can be changed without editing the code, which is how legacy code gets brought under test with a characterization test.
 

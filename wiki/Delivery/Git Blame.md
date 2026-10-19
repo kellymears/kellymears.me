@@ -26,6 +26,4 @@ The name invites misuse. Treating blame output as evidence of who to fault disco
 Where history is thin, as in code copied in from elsewhere or after a migration from another system, blame has nothing to offer, which is an argument for preserving history when moving repositories.
 
 ## See also
-- [[Reflog]]
-- [[Staging Area]]
 - [[Commit Message]]

@@ -14,15 +14,15 @@ The need arises because real dependencies are inconvenient to test against:
 - **Availability.** The service may be down, rate limited, or not built yet.
 - **Cost and side effects.** Calls may charge money, send email, or change real data.
 - **Control.** It's hard to make a real service return a specific error, a slow response, or an unusual edge case on demand.
-- **Speed and stability.** Network calls make tests slow and flaky; see [[Flaky Test]].
+- **Speed and stability.** Network calls make tests slow and [[Flaky Test|flaky]].
 
-A simulated service fixes all of these. Tests can run offline and in parallel, and they can exercise failure paths like timeouts, malformed responses, and 500 errors that are almost impossible to trigger against the real thing; see [[Timeout]] and [[HTTP Status Code]].
+A simulated service fixes all of these. Tests can run offline and in parallel, and they can exercise failure paths like [[Timeout|timeouts]], malformed responses, and 500 [[HTTP Status Code|errors]] that are almost impossible to trigger against the real thing.
 
 Several approaches exist:
 
 - **Stub servers** like WireMock run as separate processes and match requests to canned responses, configured in code or files.
 - **In-process interception** tools such as Mock Service Worker in JavaScript catch outgoing requests inside the test or browser itself, so application code is unchanged.
-- **Record and replay** captures real traffic once, then serves it back; see [[Record and Replay]].
+- **[[Record and Replay|Record and replay]]** captures real traffic once, then serves it back.
 - **Commercial virtualization platforms** simulate whole enterprise systems, including mainframes and message queues, with stateful behavior.
 
 The central risk is **drift**. A simulation reflects what someone believed the real service did when it was written. When the real service changes, the simulation doesn't, and tests keep passing against behavior that no longer exists. Strategies to manage drift include:

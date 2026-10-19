@@ -8,15 +8,15 @@ summary: The network address a computer uses to talk to itself, where packets go
 ---
 **Loopback** is a virtual network interface through which a computer sends traffic to itself. Packets addressed to it never reach a network card or a cable. The operating system's network stack hands them straight back as if they had arrived from outside.
 
-In IPv4, the whole block of addresses starting with 127 is reserved for loopback, more than sixteen million addresses, of which almost everyone uses only 127.0.0.1. IPv6 reserved a single address, written ::1; see [[Subnet]] and [[IPv6]]. The name **localhost** resolves to these addresses, and internet standards reserve it so it can never point anywhere else; see [[Domain Name System]].
+In IPv4, the whole block of addresses starting with 127 is reserved for loopback, more than sixteen million addresses, of which almost everyone uses only 127.0.0.1. [[IPv6]] reserved a single address, written ::1. The name **localhost** resolves to these addresses, and internet standards reserve it in the [[Domain Name System]] so it can never point anywhere else.
 
 Because loopback uses the full network stack, programs written to talk over a network work unchanged when both ends are on one machine:
 
 - **Development.** A web developer runs a server on localhost at some port and opens it in a browser; see [[Network Socket]].
 - **Local services.** Databases, caches, and helper daemons often listen only on loopback, so they can be reached by programs on the same machine but not from the network.
-- **Testing.** A protocol can be tested end to end without any network at all; see [[Inter-Process Communication]].
+- **Testing.** A protocol can be tested end to end without any network at all.
 
-The distinction between listening on 127.0.0.1 and on every interface, often written 0.0.0.0, is a common source of trouble. A service bound only to loopback is unreachable from other machines, which confuses people running it inside a container, where loopback belongs to the container itself; see [[Linux Namespaces]]. A service bound to every interface is exposed to the network, which is how many databases have ended up openly reachable on the internet; see [[Firewall]].
+The distinction between listening on 127.0.0.1 and on every interface, often written 0.0.0.0, is a common source of trouble. A service bound only to loopback is unreachable from other machines, which confuses people running it inside a container, where loopback belongs to the container's own [[Linux Namespaces|network namespace]]. A service bound to every interface is exposed to the network, which is how many databases have ended up openly reachable on the internet; see [[Firewall]].
 
 Loopback is often treated as a trust boundary, and attackers have repeatedly found ways across it:
 

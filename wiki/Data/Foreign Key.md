@@ -27,5 +27,4 @@ Foreign keys interact with other choices. A [[Soft Delete]] leaves rows in place
 
 ## See also
 - [[Relational Database]]
-- [[Upsert]]
 - [[Object-Relational Mapping]]

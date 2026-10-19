@@ -16,13 +16,13 @@ The usual implementation has three parts:
 - **A window.** On each scroll, the code works out which rows are visible. With fixed row heights that is simple division: the scroll offset divided by the row height gives the first index.
 - **Recycling.** Only those rows, plus a few above and below so fast scrolling doesn't show gaps, are rendered and positioned within the spacer. Rows that scroll out of view are reused for rows coming in.
 
-Native mobile toolkits built this in from the start; iOS table views and Android's RecyclerView reuse row views the same way. Games do the equivalent with geometry, skipping whatever the camera can't see; see [[Level of Detail]].
+Native mobile toolkits built this in from the start; iOS table views and Android's RecyclerView reuse row views the same way. Games do the equivalent with geometry, skipping whatever the camera can't see.
 
-Rows of varying height are the hard case. The code must estimate heights for rows it hasn't rendered, measure them when they appear, and correct the spacer, and each correction can nudge the content under the reader; see [[Layout Shift]]. Very fast scrolling can outrun rendering and show blank space, often filled with placeholder rows; see [[Skeleton Screen]].
+Rows of varying height are the hard case. The code must estimate heights for rows it hasn't rendered, measure them when they appear, and correct the spacer, and each correction can nudge the content under the reader, a [[Layout Shift]]. Very fast scrolling can outrun rendering and show blank space, often filled with [[Skeleton Screen|placeholder rows]].
 
-Virtualization also removes things the browser normally provides. The browser's find-in-page can't see rows that don't exist. A [[Screen Reader]] can't announce how long the list is unless the code says so with attributes like `aria-rowcount`; see [[ARIA]]. Selecting text across many rows and printing the page both break.
+Virtualization also removes things the browser normally provides. The browser's find-in-page can't see rows that don't exist. A [[Screen Reader]] can't announce how long the list is unless the code says so with [[ARIA]] attributes like `aria-rowcount`. Selecting text across many rows and printing the page both break.
 
-It pairs with [[Infinite scroll]]: infinite scroll loads more items as the reader nears the end, and virtualization unloads the ones they have passed, so memory stays flat. Scroll handlers should batch their work into one update per frame; see [[requestAnimationFrame]]. A lighter alternative is the CSS property `content-visibility: auto`, which lets the browser skip rendering off-screen sections while keeping them in the page, so find and screen readers still work.
+It pairs with [[Infinite scroll]]: infinite scroll loads more items as the reader nears the end, and virtualization unloads the ones they have passed, so memory stays flat. Scroll handlers should batch their work into one update per frame with [[requestAnimationFrame]]. A lighter alternative is the CSS property `content-visibility: auto`, which lets the browser skip rendering off-screen sections while keeping them in the page, so find and screen readers still work.
 
 Spreadsheets and code editors virtualize as a matter of course. For ordinary lists of a few hundred items the plain approach is usually fast enough, so measure before adding the complexity; see [[Premature Optimization]].
 

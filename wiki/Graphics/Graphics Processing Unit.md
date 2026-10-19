@@ -25,9 +25,8 @@ Programs don't call the GPU directly. They record commands through a graphics AP
 
 **General-purpose GPU computing** began when researchers disguised calculations as graphics. NVIDIA's CUDA platform (2007) and *compute shaders* made it direct. In 2012, the AlexNet image classifier, trained on two consumer gaming GPUs, won the ImageNet competition by a wide margin and started the deep learning boom. Training and running a [[Large Language Model]] is mostly matrix multiplication, an ideal GPU workload, and VRAM limits on running models locally drive [[Quantization]].
 
-The work a GPU does each frame is a pipeline: transform vertices of a polygon mesh with Perspective Projection, rasterize triangles, apply Texture Mapping and lighting in shaders, then run Post-Processing. High-end cards now draw 450 watts or more under load, so cooling and Thermal Throttling shape their sustained performance as much as their specifications do.
+The work a GPU does each frame is a pipeline: transform vertices of a polygon mesh with Perspective Projection, rasterize triangles, apply texture mapping and lighting in shaders, then run Post-Processing. High-end cards now draw 450 watts or more under load, so cooling and Thermal Throttling shape their sustained performance as much as their specifications do.
 
 ## See also
 - [[Graphics Driver]]
 - [[Glassmorphism]]
-- [[Recurrent Neural Network]]

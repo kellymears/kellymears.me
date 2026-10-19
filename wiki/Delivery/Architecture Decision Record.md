@@ -22,10 +22,10 @@ Records are **immutable**. When a decision is reversed, the old ADR isn't edited
 
 Keeping ADRs in the repository has practical advantages. They're versioned with the code, proposed and discussed through the normal review process, and found by searching the same place; see [[Pull Request]] and [[Code Review]]. They complement [[Commit Message]]s, which explain individual changes but not choices that span hundreds of commits.
 
-ADRs are one kind of design documentation. Many organizations write longer **design docs** before building something big, circulating them for comment. The idea traces back to the internet's Request for Comments series. Larger open-source projects use formal proposal processes, such as Python's PEPs and Rust's RFCs, that work the same way.
+ADRs are one kind of design documentation. Many organizations write longer **design docs** before building something big, circulating them for comment, much as the internet's Request for Comments series did. Larger open-source projects use formal proposal processes, such as Python's PEPs and Rust's RFCs, that work the same way.
 
-The common failure is neglect. Teams write a burst of ADRs, then stop, and the log becomes misleading. Keeping them short, a page or less, helps. So does writing one whenever a decision is hard to reverse, would surprise a newcomer, or took real argument to settle; see [[Technical Debt]] and [[Conway's Law]].
+The common failure is neglect. Teams write a burst of ADRs, then stop, and the log becomes misleading. Keeping them short, a page or less, helps. So does writing one whenever a decision is hard to reverse, would surprise a newcomer, or took real argument to settle.
 
 ## See also
 - [[Deprecation]]
-- [[Zettelkasten]]
+- [[Technical Debt]]

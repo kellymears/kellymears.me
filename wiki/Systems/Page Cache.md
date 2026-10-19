@@ -27,4 +27,3 @@ The page cache is a cache like any other: it relies on Locality of Reference, an
 ## See also
 - [[System Call]]
 - [[Atomic File Write]]
-- [[Device File]]

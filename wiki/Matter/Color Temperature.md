@@ -18,6 +18,3 @@ The naming runs backwards from intuition. "Warm" light, the amber of a candle (a
 Dimming used to change color for free. An incandescent filament dimmed to 10% runs cooler and glows redder, so a dimmed room turned amber, like firelight. LEDs hold the same color at every level, so a dimmed cool-white LED reads as gray and clinical. *Dim-to-warm* lamps reintroduce the old behavior on purpose by blending warmer emitters as brightness falls. Arie Kruithof's 1941 curve, which proposed that low light levels feel pleasant only at warm temperatures and bright ones only at cool temperatures, is shaky as science but describes the effect most people notice.
 
 Color temperature also matters for the body. Cooler, bluer light at night delays the [[Circadian Rhythm]] more than warm light of the same brightness, the basis of Circadian Lighting and of night modes on screens. Displays and cameras use the same scale for their *white point*: the reference white a [[Color Gamut]] is built around, typically 6,500 K (D65) for screens.
-
-## See also
-- [[Dispersion]]

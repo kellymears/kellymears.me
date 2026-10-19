@@ -26,12 +26,11 @@ SSH does much more than remote shells:
 
 - **File transfer.** `scp`, `sftp`, and `rsync` copy files over SSH connections.
 - **Git.** Pushing to and pulling from hosted repositories commonly uses SSH keys for authentication, and Git can also sign commits with them, a lightweight form of [[Code Signing]].
-- **Port forwarding.** SSH can carry other traffic through its encrypted connection. Local forwarding makes a remote service, such as a database bound to a private [[Port]], appear on the local machine; remote forwarding does the reverse. This makes SSH a simple [[Virtual Private Network]].
+- **Port forwarding.** SSH can carry other traffic through its encrypted connection. Local forwarding makes a remote service, such as a database bound to a private [[Port]], appear on the local machine; remote forwarding does the reverse. This makes SSH a lightweight stand-in for a [[Virtual Private Network]].
 - **Jump hosts.** Connections can hop through a *bastion* server into a private network.
 
 Because SSH is powerful, its servers are constant targets. Internet-facing servers see password-guessing bots within minutes. Common hardening disables password login and direct root login, limits which users may connect, and puts SSH behind a [[Firewall]] or a mesh network, moving toward a [[Zero Trust Network]] model where access depends on identity rather than network location. A 2024 backdoor planted in the xz compression library, aimed at OpenSSH, was caught shortly before wide release.
 
 ## See also
-- [[Dotfiles]]
 - [[Pseudoterminal]]
 - [[Command-Line Interface]]

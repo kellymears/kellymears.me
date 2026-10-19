@@ -17,7 +17,7 @@ The statistics are easy to misuse:
 
 - **Peeking.** Checking results daily and stopping as soon as the difference looks significant inflates false positives dramatically, since random fluctuations cross the threshold sooner or later. Either fix the sample size in advance or use sequential methods designed for continuous monitoring. Stopping early when results look good is a form of [[P-Hacking]].
 - **Too little traffic.** Small effects need large samples. An underpowered test mostly measures noise, and the "winners" it finds tend to shrink on rollout through [[Regression to the Mean]].
-- **Many metrics.** Checking twenty metrics guarantees that about one looks significant by chance.
+- **Many metrics.** Checking twenty metrics at the usual 5% threshold means about one is expected to look significant by chance.
 - **Novelty effects.** Users click a new design because it is new. The lift fades after a few weeks.
 - **Segment reversals.** A variant can win overall while losing in every segment, or the reverse, as [[Simpson's Paradox]] shows when groups are mixed unevenly.
 

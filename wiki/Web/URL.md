@@ -25,7 +25,7 @@ URLs are restricted to a small set of ASCII characters. Anything else, such as s
 
 **URI** is the broader term for any identifier with this syntax, including names that don't say where to fetch anything. In practice the words are used interchangeably.
 
-Parsing is harder than it looks. The original specification (RFC 3986) and the WHATWG URL Standard that browsers follow disagree on edge cases such as backslashes, extra slashes, and embedded credentials. When a server-side validator and the code that actually fetches a URL parse it differently, attackers can slip past allow-lists, a common route to open redirects and requests to internal services. The safe pattern is to parse once with a standard library and check the parsed host, never the raw string.
+Parsing is harder than it looks. The IETF's generic syntax (RFC 3986) and the WHATWG URL Standard that browsers follow disagree on edge cases such as backslashes, extra slashes, and embedded credentials. When a server-side validator and the code that actually fetches a URL parse it differently, attackers can slip past allow-lists, a common route to open redirects and requests to internal services. The safe pattern is to parse once with a standard library and check the parsed host, never the raw string.
 
 URLs are also an interface. People read them, share them, and bookmark them, so a URL is a promise that the resource will stay there. Breaking that promise is Link Rot. Clean, stable, readable paths help both users and search engines; see [[Search Engine Optimization]]. Encoding application state in the URL, such as filters and the current page, makes views shareable and keeps the back button working.
 

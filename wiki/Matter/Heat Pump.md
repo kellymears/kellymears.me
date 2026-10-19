@@ -6,11 +6,11 @@ tags:
   - matter
 summary: A machine that moves heat from a colder place to a warmer one using a little work, delivering several units of heat for each unit of electricity, which makes it far more efficient than burning fuel or running a resistance heater.
 ---
-**A heat pump** moves heat from a colder place to a warmer one. Heat naturally flows from hot to cold, so pushing it the other way takes work; see [[Entropy]]. But moving heat takes much less energy than creating it, which is why heat pumps can deliver three or four times as much heat as the electricity they use.
+A **heat pump** moves heat from a colder place to a warmer one. Heat naturally flows from hot to cold, so pushing it the other way takes work; see [[Entropy]]. But moving heat takes much less energy than creating it, which is why heat pumps can deliver three or four times as much heat as the electricity they use.
 
 A refrigerator is a heat pump. It takes heat from inside the cabinet and releases it into the kitchen. An air conditioner moves heat from a room to the outdoors. A heat pump used for heating does the same thing in reverse, pulling heat from cold outdoor air, the ground, or water and releasing it indoors. Many units can switch direction and do both.
 
-Most heat pumps use the vapor-compression cycle; see [[Vapor-Compression Refrigeration]]:
+Most heat pumps use the [[Vapor-Compression Refrigeration|vapor-compression cycle]]:
 
 1. A refrigerant at low pressure evaporates in a coil exposed to the cold source. Evaporation absorbs heat even when the source is below freezing, because the refrigerant boils at a very low temperature.
 2. A compressor squeezes the vapor, raising its pressure and temperature.

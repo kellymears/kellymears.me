@@ -15,7 +15,7 @@ Reviews are also a skewed sample. People who loved or hated something are far mo
 
 Because reviews sell things, they get manipulated:
 
-- **Fake reviews** are written by sellers, paid services or friends. Large-scale review-for-pay operations have been uncovered repeatedly, and language models make plausible text cheap to produce; see [[Astroturfing]] and [[Large Language Model]].
+- **Fake reviews** are written by sellers, paid services or friends. Large-scale review-for-pay operations have been uncovered repeatedly, and [[Large Language Model|language models]] make plausible text cheap to produce; see [[Astroturfing]].
 - **Incentivized reviews** offer free products or refunds in exchange for a review, which tends to inflate ratings even without explicit instructions.
 - **Review bombing** floods a product with negative ratings for reasons unrelated to its quality, such as a game studio's political statement or a business owner's viral controversy.
 - **Suppression** includes contracts that forbid customers from posting negative reviews, which the US banned in 2016 for consumer contracts.

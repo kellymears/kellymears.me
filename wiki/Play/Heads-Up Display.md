@@ -24,7 +24,7 @@ Removing information has costs. A HUD-free game must teach players to read the w
 
 Map markers are a particular debate. Open-world games that place an icon on every point of interest make navigation easy but turn exploration into following arrows; see [[Open World Design]]. Some games deliberately give only directions and landmarks, trusting players to find their own way.
 
-The HUD sits between the game and its interface design traditions. Its problems are the same as those of any dashboard that must surface the state of a complex system quickly. Progress toward a goal, such as a filling meter, is another borrowed convention; see [[Progress bar]].
+The HUD's problems are those of any dashboard that must surface the state of a complex system quickly, and its filling meters are [[Progress bar|progress bars]] under another name.
 
 ## See also
 - [[Fog of War]]

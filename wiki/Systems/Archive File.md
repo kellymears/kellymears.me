@@ -8,7 +8,7 @@ summary: Files that bundle many files and their metadata into one, from tape-era
 ---
 **An archive file** bundles many files, with their names and metadata, into one. Two designs dominate, and their differences come from what each was built for.
 
-**Tar**, short for tape archive, appeared in Version 7 Unix in 1979. It writes a plain stream for tape drives: a 512-byte header for a file, then its contents, then the next header, with no index anywhere. A stream can be written as it's produced and read as it arrives, so tar fits in a pipe, to compress, to copy over a network, or to unpack on another machine without an intermediate file; see [[Secure Shell]]. Tar records Unix details faithfully: permissions, owners, timestamps, and both kinds of links; see [[File Permissions]] and [[Symbolic Link]].
+**Tar**, short for tape archive, appeared in Version 7 Unix in 1979. It writes a plain stream for tape drives: a 512-byte header for a file, then its contents, then the next header, with no index anywhere. A stream can be written as it's produced and read as it arrives, so tar fits in a pipe, to compress, to copy over a network, or to unpack on another machine without an intermediate file. Tar records Unix details faithfully: permissions, owners, timestamps, and both kinds of links; see [[File Permissions]] and [[Symbolic Link]].
 
 Tar doesn't compress. A **tarball** is usually piped through gzip, xz, or zstd as a whole, which compresses well because similar files sit next to each other in one stream, but listing the contents or extracting one file then requires reading everything before it; see [[Data Compression]].
 

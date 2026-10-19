@@ -24,4 +24,3 @@ Shifts also hurt aiming. Pointing at a target takes a predictable amount of time
 
 ## See also
 - [[Virtual Scrolling]]
-- [[Accordion]]

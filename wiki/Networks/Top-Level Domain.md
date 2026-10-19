@@ -27,7 +27,7 @@ In 2012 ICANN opened applications for new generic names and received nearly two 
 
 Names have also been fought over in court. Registering someone else's trademark to sell it back led to an international dispute process in 1999. Domains in non-Latin scripts became possible in the 2000s; see [[Internationalized Domain Name]].
 
-Registrars sell names under each top-level domain, while a registry runs each one, so trust depends on both; see [[Certificate Authority]].
+Registrars sell names under each top-level domain, while a registry runs each one.
 
 ## See also
 - [[URL]]

@@ -15,7 +15,7 @@ The **second law of thermodynamics** says the total entropy of an isolated syste
 Everyday consequences follow:
 
 - **Heat flows downhill.** Energy moves from hotter to colder objects until they match, the basis of Heat Transfer. Moving heat the other way, as a [[Vapor-Compression Refrigeration]] cycle does, costs work and dumps even more heat outside.
-- **No engine is perfect.** Sadi Carnot showed in 1824 that an engine running between a hot and a cold reservoir can convert at most 1 − T_cold/T_hot of its heat into work. The rest must be shed as waste heat. Every engine, power plant, and chip produces heat for this reason, which is why processors need cooling and slow down under Thermal Throttling.
+- **No engine is perfect.** Sadi Carnot showed in 1824 that the best possible efficiency of an engine running between a hot and a cold reservoir depends only on their temperatures; in modern terms, at most 1 − T_cold/T_hot of its heat can become work. The rest must be shed as waste heat. Every engine, power plant, and chip produces heat for this reason, which is why processors need cooling and slow down under Thermal Throttling.
 - **Friction is a one-way street.** [[Friction]] turns ordered motion into disordered heat, and that heat never spontaneously reassembles into motion.
 - **Mixing and dissolving.** Osmosis is driven by entropy: water moves toward the more concentrated solution because the mixed state has more arrangements.
 

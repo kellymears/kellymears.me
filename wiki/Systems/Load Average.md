@@ -21,10 +21,9 @@ Common misreadings:
 - **Load above core count means trouble.** Briefly, it is normal. Sustained, with rising latency, it matters.
 - **Low load means healthy.** A single-threaded process can be stuck at 100 percent of one core on a 32-core machine and barely move the load.
 
-Better signals now exist. [[Pressure Stall Information]] reports what fraction of time tasks were stalled waiting for CPU, memory, or I/O, separately, which answers the question load averages were trying to answer. Application metrics such as request latency, and the [[Tail Latency]] in particular, say what users feel.
+Better signals now exist. [[Pressure Stall Information]] reports what fraction of time tasks were stalled waiting for CPU, memory, or I/O, separately, which answers the question load averages were trying to answer. Application metrics such as request latency, and [[Tail Latency]] in particular, say what users feel.
 
 Load averages remain useful as a quick smoke alarm. A glance at `uptime` when a machine feels slow says whether the system is under pressure at all and whether it is getting worse. They also catch runaway situations quickly: a fork bomb, a memory leak driving heavy [[Swap]] use, or a storm of stuck I/O. The next step is always to find out which resource is saturated, using Profiling and per-resource tools.
 
 ## See also
-- [[Computer Cooling]]
 - [[CPU Scheduler]]

@@ -27,8 +27,6 @@ Pipeline state objects bundle shaders with fixed settings so they can be compile
 
 Most developers never touch these APIs directly. Game engines and frameworks abstract over them so one codebase targets every platform. On the other side, an [[API Translation Layer]] converts one API into another, such as Direct3D into Vulkan, which is how Windows games run on Linux. Shader languages differ too, GLSL, HLSL, and Metal Shading Language, and toolchains cross-compile between them through an intermediate representation, much as a [[Compiler]] targets several machines.
 
-The API also shapes how frames reach the screen, through the swap chain and its presentation modes.
-
 ## See also
 - [[Rasterization]]
 - [[Graphics Driver]]

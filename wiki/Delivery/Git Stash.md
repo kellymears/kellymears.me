@@ -13,7 +13,7 @@ Under the hood, a stash is an ordinary commit, or rather two or three of them: o
 
 Common operations:
 
-- **`git stash push -m "message"`** saves with a description. Without one, stashes are labeled only with the commit they were made on, and a pile of them quickly becomes unreadable.
+- **`git stash push -m "message"`** saves with a description. Without one, stashes are labeled only with the branch and commit they were made on, and a pile of them quickly becomes unreadable.
 - **`git stash list`** shows the shelf. **`git stash show -p`** shows a stash as a [[Diff]].
 - **`git stash apply`** restores changes but keeps the stash; **`pop`** restores and drops it.
 - **`git stash -u`** includes untracked files, which are otherwise left behind.
@@ -32,7 +32,4 @@ For anything longer than a quick interruption, alternatives often work better:
 Stash still earns daily use for small moves: pulling with a dirty tree, carrying a change to a different branch, or briefly testing whether a bug exists without your edits. Treat it as a short-term shelf rather than storage, and the forgotten-stash problem largely goes away.
 
 ## See also
-- [[Rebase]]
-- [[Gitignore]]
-- [[Cherry-Pick]]
 - [[Staging Area]]

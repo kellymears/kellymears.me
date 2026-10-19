@@ -24,7 +24,7 @@ A coherent icon set follows shared rules:
 - **Pixel alignment.** At small sizes, strokes snapped to whole pixels render crisply instead of blurring, a concern of Font Rendering.
 - **One metaphor per meaning.** The same idea always gets the same icon across the product, managed through the [[Design System]].
 
-Web icons moved from image sprites to **icon fonts**, which scaled but broke accessibility and showed missing-glyph boxes when the font failed, to inline SVG, now standard, since [[Vector Graphics]] scale, take CSS styling, and carry accessible names. An icon is a signifier in the sense of [[Affordance]]: it promises what will happen, and it only works if the promise is understood.
+Web icons moved from image sprites to **icon fonts**, which scaled but broke accessibility and showed missing-glyph boxes when the font failed, to inline SVG, now standard, since [[Vector Graphics]] scale, take CSS styling, and carry accessible names. An icon is a [[Signifier]]: it promises what will happen, and it only works if the promise is understood.
 
 ## See also
 - [[Favicon]]

@@ -13,11 +13,11 @@ The pattern trades flexibility for guidance. Each step shows only what matters a
 
 Wizards work best for tasks that are infrequent, unfamiliar and have a natural order. Someone setting up a router once every few years doesn't know which settings matter and is grateful to be asked questions in plain language. Applied to tasks people do often, the same structure becomes a cage. Experts know what they want to change and resent clicking through five screens to reach it, so many products offer a wizard alongside a direct settings screen for the same options.
 
-Several details separate good wizards from bad ones. A visible list of steps, or a progress bar, tells people how far they've come and how much remains; see [[Progress Indicator]]. Going back must preserve what was entered, and errors should be caught on the step where they occur rather than at the end; see [[Error Message]]. A summary before the final step lets people review everything at once. Long forms split into steps can improve completion compared with one overwhelming page, though splitting a short form only adds clicks.
+Several details separate good wizards from bad ones. A visible list of steps, or a progress bar, tells people how far they've come and how much remains, the job of a [[Progress Indicator]]. Going back must preserve what was entered, and errors should be caught on the step where they occur rather than at the end; see [[Error Message]]. A summary before the final step lets people review everything at once. Long forms split into steps can improve completion compared with one overwhelming page, though splitting a short form only adds clicks.
 
 Psychology works on both sides. Once people have invested effort in early steps, they're more likely to finish, and an unfinished process nags at them; see [[Sunk Cost Fallacy]]. That same pull can be abused: cancellation flows that lead people through screen after screen of offers before letting them leave are a well-known deceptive pattern; see [[Dark Pattern]].
 
-Wizards often run inside a dialog that blocks the rest of the application; see [[Modal Dialog]]. First-run tours that introduce a product share their structure; see [[Onboarding]]. Command-line tools use the same idea when they prompt for one answer at a time; see [[Command-Line Interface]].
+Wizards often run inside a [[Modal Dialog]] that blocks the rest of the application. First-run tours that introduce a product share their structure; see [[Onboarding]]. [[Command-Line Interface|Command-line tools]] use the same idea when they prompt for one answer at a time.
 
 ## See also
 - [[Hick's Law]]

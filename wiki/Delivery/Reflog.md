@@ -33,4 +33,3 @@ Remote repositories have their own protections. Force-pushing over a shared bran
 - [[Interactive Rebase]]
 - [[Detached HEAD]]
 - [[Force Push]]
-- [[Git Blame]]

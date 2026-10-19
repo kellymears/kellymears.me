@@ -30,11 +30,10 @@ Good logging takes judgment:
 - **Never log secrets.** Passwords, tokens, and full payment details in logs are a common source of breaches; see [[Secret Management]]. Logs containing [[Personal Data]] fall under privacy law.
 - **Log errors once, with context.** The same failure logged at every layer of the [[Call Stack]] creates duplicates without adding information.
 
-Logs are central to debugging. Print debugging is logging's simplest form, and the debugger note describes when each fits. Crash Reporting tools capture error-level events with stack traces automatically, and [[Instrumentation]] is the broader practice of adding hooks to see inside a program.
+Logs are central to debugging. Print debugging is logging's simplest form. Crash Reporting tools capture error-level events with stack traces automatically, and [[Instrumentation]] is the broader practice of adding hooks to see inside a program.
 
 During Incident Response, logs are often the primary evidence, which is why logging decisions made in calm times shape how quickly problems get solved later.
 
 ## See also
 - [[Middleware]]
-- [[Web Analytics]]
 - [[Audit Log]]

@@ -35,5 +35,4 @@ Deadlocks, like a [[Race Condition]], depend on timing and are hard to reproduce
 
 ## See also
 - [[Thread Pool]]
-- [[Upsert]]
 - [[Lock-Free Data Structure]]

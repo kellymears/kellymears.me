@@ -28,11 +28,11 @@ Libraries and tools such as Facebook's Watchman paper over the differences.
 
 The pitfalls are many. inotify isn't recursive: watching a project means adding a watch for every subdirectory, and large dependency trees can exhaust the per-user limit on watches, producing confusing "no space left on device" errors with plenty of disk free. Event queues can overflow during bulk operations, at which point a watcher must fall back to rescanning everything.
 
-Editors complicate things. Many save by writing a new file and renaming it over the old one, so the change looks like a deletion followed by a creation, and a watch attached to the old file's [[Inode]] silently stops working; see [[Atomic File Write]]. A single save can also fire several events in a burst, so watchers usually wait a few milliseconds for activity to settle before acting; see [[Debouncing]].
+Editors complicate things. Many save by writing a new file and renaming it over the old one, so the change looks like a deletion followed by a creation, and a watch attached to the old file's [[Inode]] silently stops working; see [[Atomic File Write]]. A single save can also fire several events in a burst, so watchers usually [[Debouncing|debounce]], waiting a few milliseconds for activity to settle before acting.
 
 Boundaries break notification entirely. Network filesystems don't propagate events from other machines, and folders shared into virtual machines or containers on macOS and Windows often deliver none, so tools there fall back to polling; see [[Containerization]].
 
-The payoff is the tight loop modern development depends on: save a file, and within a fraction of a second the change is compiled and shown; see [[Hot Module Replacement]] and [[Build Cache]]. A long-running [[Daemon]] that reloads its configuration when the file changes uses the same mechanism.
+The payoff is the tight loop modern development depends on: save a file, and within a fraction of a second the change is compiled and shown, as with [[Hot Module Replacement]]. A long-running [[Daemon]] that reloads its configuration when the file changes uses the same mechanism.
 
 ## See also
 - [[Long Polling]]

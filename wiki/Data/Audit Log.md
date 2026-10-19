@@ -16,16 +16,16 @@ A useful entry records:
 - **Time and place.** A timestamp and the request's origin, such as an IP address or device.
 - **Outcome.** Whether it succeeded, and often the values before and after.
 
-Audit logs differ from debugging logs in what they demand; see [[Logging]]:
+Audit logs make demands that ordinary [[Logging]] doesn't:
 
-- **Completeness.** A debug log can drop lines under load. An audit log with gaps can't be trusted, so writes are usually part of the same transaction as the change they record; see [[ACID]].
+- **Completeness.** A debug log can drop lines under load. An audit log with gaps can't be trusted, so writes usually join the same [[ACID]] transaction as the change they record.
 - **Retention.** Regulations in finance, healthcare, and payments require keeping them for years.
 - **Immutability.** Entries are only ever appended, never edited or deleted.
 
 **Tamper evidence** matters because the people most able to alter records, administrators, are sometimes the people under investigation. Two techniques help:
 
 - **Separation.** Ship entries immediately to a separate system that the audited system's operators can't modify.
-- **Hash chaining.** Each entry includes a hash of the previous one, so changing or removing any entry breaks every hash after it; see [[Hash Function]]. Periodically publishing or signing the latest hash anchors the chain. Organizing entries as a Merkle Tree allows efficient proofs that a given entry is included, the design behind public certificate logs; see [[Certificate Authority]].
+- **Hash chaining.** Each entry includes a [[Hash Function|hash]] of the previous one, so changing or removing any entry breaks every hash after it. Periodically publishing or signing the latest hash anchors the chain. Organizing entries as a Merkle Tree allows efficient proofs that a given entry is included, the design behind public certificate logs; see [[Certificate Authority]].
 
 Common failures:
 

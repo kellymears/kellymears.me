@@ -24,7 +24,7 @@ Causes of tail latency are usually brief and random rather than steady:
 - **Contention.** Noisy neighbors on shared hardware, lock waits, and a saturated [[Connection Pool]].
 - **Cold paths.** A cache miss, a cold start, or a retransmitted packet in [[TCP and UDP]].
 
-Dean and Barroso's remedies accept that variability can't be eliminated and work around it:
+The usual remedies, several of them from Dean and Barroso, accept that variability can't be eliminated and work around it:
 
 - **Hedged requests.** Send a request to one replica, and if it hasn't answered within, say, the p95 time, send it to a second and use whichever answers first.
 - **Tied requests.** Send to two replicas at once, each told about the other, so the second cancels when the first starts.
@@ -34,6 +34,5 @@ Dean and Barroso's remedies accept that variability can't be eliminated and work
 Measuring the tail takes care. Percentiles can't be averaged across servers, and many tools measure only from when a request was served rather than when it was sent, hiding queueing time, a flaw Gil Tene called *coordinated omission*. Good [[Observability]] keeps full histograms. Tail percentiles are the usual target of a [[Performance Budget]] and of Load Testing, and [[Core Web Vitals]] are judged at the 75th percentile of real visits for a similar reason.
 
 ## See also
-- [[Big-O Notation]]
 - [[Failure Detection]]
 - [[Timeout]]

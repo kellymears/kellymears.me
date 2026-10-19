@@ -28,6 +28,4 @@ Tooling can automate much of it. With [[Conventional Commits]], a `feat:` or `fi
 *Release notes* are the companion form: a narrative summary of a release's highlights, often with screenshots and context, aimed at a broader audience. Large projects publish both. A changelog that isn't kept up is a form of [[Documentation Rot]], and an inaccurate one is worse than none, because readers trust it when deciding what to upgrade. Regular releases on a [[Release Train]] keep each entry short.
 
 ## See also
-- [[Model Card]]
 - [[Commit Message]]
-- [[Shallow Clone]]

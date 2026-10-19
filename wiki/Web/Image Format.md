@@ -7,7 +7,7 @@ tags:
   - web
 summary: The file formats the web uses for pictures, from the GIF, JPEG, and PNG generation to newer formats derived from video codecs, and the slow, politics-laden process by which a new one becomes safe to use.
 ---
-An **image format** defines how a picture is encoded as bytes. Images usually make up most of a typical web page's weight, so the format chosen affects load time more than almost any other decision; see [[Core Web Vitals]].
+An **image format** defines how a picture is encoded as bytes. Images are often the largest share of a web page's weight, so the format chosen affects load time more than almost any other decision; see [[Core Web Vitals]].
 
 The web's first generation of formats lasted for decades:
 
@@ -19,7 +19,7 @@ Newer formats borrowed from video. A single frame of a video is a still image, a
 
 - **WebP**, released by Google in 2010, is based on the VP8 video codec. It supports lossy and lossless compression, transparency, and animation, and typically produces files noticeably smaller than equivalent JPEGs or PNGs. Universal browser support took a decade, arriving when Safari added it in 2020.
 - **AVIF**, published in 2019, is based on AV1, a royalty-free codec from a consortium of technology companies. It compresses better than WebP at similar quality and supports high dynamic range and wide color, but encoding is slow; see [[High Dynamic Range]] and [[Color Gamut]].
-- **JPEG XL**, standardized around 2022, can losslessly repack existing JPEG files about a fifth smaller and decode progressively. Chrome removed experimental support in 2023, citing insufficient interest, while Safari added it the same year. Whether a format succeeds depends on browser vendors as much as on technical merit; see [[Network Effect]].
+- **JPEG XL**, standardized around 2022, can losslessly repack existing JPEG files about a fifth smaller and decode progressively. Chrome removed experimental support in 2023, citing insufficient interest, while Safari added it the same year. Whether a format succeeds depends on browser vendors as much as on technical merit.
 
 Because support arrives unevenly, sites serve several formats. A picture element lists alternatives and the browser picks the first it understands. Alternatively, the server reads the browser's Accept header and chooses; see [[Responsive Images]]. Image CDNs automate this, resizing and converting on the fly.
 

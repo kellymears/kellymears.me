@@ -17,7 +17,7 @@ Behind the box are three problems: finding candidates fast, ranking them, and pr
 
 **Ranking.** Many strings share a prefix, so the order decides usefulness. Common signals are popularity, the user's own history, recency, and context, such as the current page or Faceted Search filters. Search engines rank by how often a query is typed and how often it leads to a click. Predictive text on phones uses a language model, a much larger version of the same idea as a [[Markov Chain]] predicting the next word.
 
-**Tolerating mistakes.** People mistype, so good autocomplete matches approximately, using Edit Distance to accept "recieve" for "receive." Fuzzy matching on initials, typing "gcm" for "git commit," is common in editors and [[Command Palette]] tools.
+**Tolerating mistakes.** People mistype, so good autocomplete matches approximately, using edit distance to accept "recieve" for "receive." Fuzzy matching on initials, typing "gcm" for "git commit," is common in editors and [[Command Palette]] tools.
 
 The latency budget is tight. Suggestions must arrive faster than the next keystroke, or the list flickers behind the typing. Clients use [[Debounce and Throttle]] to avoid a request per key, cancel stale requests so an old response can't overwrite a newer one, a kind of race condition, and cache earlier prefixes. Servers keep suggestion indexes small and in memory.
 

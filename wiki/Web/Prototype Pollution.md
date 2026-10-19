@@ -29,7 +29,7 @@ Defenses:
 
 Static analysis tools and Fuzzing find many cases, and dependency scanners flag known vulnerable versions; see [[Supply Chain Security]] and [[Automated Dependency Updates]].
 
-It belongs to a family of bugs where data is interpreted as structure, alongside [[SQL Injection]] and unsafe deserialization. Each is a case of the language's flexibility, here, prototypes that any code can modify, becoming the attack surface; see [[Duck Typing]].
+It belongs to a family of bugs where data is interpreted as structure, alongside [[SQL Injection]] and unsafe deserialization. Each is a case of the language's flexibility (here, prototypes that any code can modify) becoming the attack surface.
 
 ## See also
 - [[JavaScript]]

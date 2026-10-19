@@ -10,7 +10,7 @@ tags:
   - testing
 summary: The rules a language uses to classify values and reject operations that don't fit, checked before the program runs or as it runs, and the cheapest form of verification most programmers use every day.
 ---
-A **type system** is a set of rules that assigns a *type*, such as integer, string, or list of users, to each value and expression in a program, and rejects operations that don't make sense for those types. Adding a number to a date, calling a method that doesn't exist, or passing a string where a function expects a list are type errors. A type system is a lightweight proof: every program that passes the checker is guaranteed free of a whole class of bugs.
+A **type system** is a set of rules that assigns a *type*, such as integer, string, or list of users, to each value and expression in a program, and rejects operations that don't make sense for those types. Adding a number to a date, calling a method that doesn't exist, or passing a string where a function expects a list are type errors. A type system is a lightweight proof: if the system is sound, every program that passes the checker is guaranteed free of a whole class of bugs.
 
 The main divide is when checking happens:
 
@@ -32,4 +32,3 @@ The research frontier pushes types closer to full proofs. [[Type Inference]] rem
 ## See also
 - [[PHP]]
 - [[JavaScript]]
-- [[SQLite]]

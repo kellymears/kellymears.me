@@ -12,11 +12,11 @@ A **command palette** is a search box, summoned by a keyboard shortcut, that lis
 
 The idea is old. Emacs has offered `M-x`, run any command by name, since the 1970s, and a [[Shell]] is a command palette with a stricter grammar. Apple's Spotlight, in 2005, brought typed launching to the desktop. Sublime Text, around 2011, popularized the modern form: Goto Anything for files and a Command Palette for actions, both fuzzy-matched. VS Code adopted it, and from there it spread into web apps, where `⌘K` became the conventional shortcut in tools such as Slack, Linear, Notion, and GitHub.
 
-Palettes work because they trade recall for recognition. Nobody remembers where a menu item lives or which of forty keyboard shortcuts does what, but most people can type a few letters of what they want. Recognition rather than recall is one of the heuristics used in heuristic evaluation, and it relieves Working Memory.
+Palettes work because they trade recall for recognition. Nobody remembers where a menu item lives or which of forty keyboard shortcuts does what, but most people can type a few letters of what they want. Recognition rather than recall is one of the heuristics used in heuristic evaluation, and it relieves working memory.
 
 Several design details decide whether a palette feels fast or frustrating:
 
-- **Fuzzy matching.** Matching non-contiguous letters, so "gtf" finds "Go to file", and tolerating typos, using ideas from Edit Distance. Matches at word starts should rank higher.
+- **Fuzzy matching.** Matching non-contiguous letters, so "gtf" finds "Go to file", and tolerating typos, using ideas from edit distance. Matches at word starts should rank higher.
 - **Ranking by use.** Recently and frequently run commands float to the top.
 - **Showing shortcuts.** Listing each command's keyboard shortcut beside it teaches the faster path, letting the palette work as a tutor rather than a crutch.
 - **Scope and context.** Commands irrelevant to the current selection are hidden or demoted, and prefixes such as `>` or `@` can switch between commands, files, and symbols.
@@ -28,5 +28,4 @@ The palette's weakness is discoverability. People cannot search for a feature th
 
 ## See also
 - [[Desktop Environment]]
-- [[Input Method]]
 - [[Context Menu]]

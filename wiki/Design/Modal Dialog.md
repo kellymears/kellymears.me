@@ -25,7 +25,7 @@ Building one accessibly takes several pieces:
 
 - **Trap focus inside.** Keyboard focus must move into the dialog when it opens and stay there, a [[Focus Trap]], so Tab doesn't wander into the hidden page.
 - **Return focus.** On close, focus goes back to the element that opened it, part of broader [[Focus Management]].
-- **Escape closes it**, and there is always a visible close control for [[Keyboard Navigation]] and pointer users alike.
+- **Escape closes it**, as [[Keyboard Navigation]] users expect, and a visible close control is always present for everyone else.
 - **Hide the background.** The content behind must be inert and hidden from assistive technology, signaled with `aria-modal` per [[ARIA]].
 - **Render on top.** The dialog must appear above every other layer regardless of where it sits in the code, which is why frameworks render modals through a [[Portal]] to escape any [[Stacking Context]].
 

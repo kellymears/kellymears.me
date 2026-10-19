@@ -17,7 +17,7 @@ James Driscoll, Neil Sarnak, Daniel Sleator, and Robert Tarjan formalized genera
 
 - **Linked lists.** The simplest case: adding to the front creates one new node pointing to the old list, which stays intact.
 - **Balanced trees.** Path copying, as above, gives persistent maps and sets with logarithmic updates.
-- **Hash array mapped tries (HAMTs).** Phil Bagwell's 2001 design is a [[Trie]] keyed on chunks of each key's hash, with nodes of up to 32 children. Trees are so shallow that lookups take only a few steps. Clojure, introduced in 2007, made HAMT-based vectors and maps its defaults.
+- **Hash array mapped tries (HAMTs).** Phil Bagwell's 2001 design is a [[Trie]] keyed on chunks of each key's hash, with nodes of up to 32 children. Trees are so shallow that lookups take only a few steps. Clojure, introduced in 2007, made HAMT-based maps and similar trie-based vectors its defaults.
 
 Persistence is what makes [[Immutability]] practical. In functional languages values never change, so data structures must be persistent to be efficient. The benefits follow directly:
 

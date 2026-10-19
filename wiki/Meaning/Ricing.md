@@ -19,7 +19,7 @@ A typical rice is assembled from parts:
 - **A palette** applied consistently across every program. Tools now generate a palette from the wallpaper and render templates for each application, which is the same idea as [[Design Token|design tokens]]: name the colors once and derive every surface from them.
 - **[[Dotfiles]]** in a public repository, so the whole setup is reproducible and shareable.
 
-The culture is mostly aesthetic play, and that is the point. It combines craft, identity, and a [[Shibboleth]]-like literacy in tools that most computer users never see. It also has recognizable failure modes. Ricing makes an excellent rabbit hole, and a common joke is spending a weekend perfecting a setup instead of using it, a form of [[Yak Shaving]]. Showcase screenshots invite [[Social Proof]] dynamics, and the latest popular look spreads quickly through a community. Polish chases polish in the manner of a [[Hedonic Treadmill]]. The more practical upside is real, though: someone who has riced a desktop understands, in detail, how its parts fit together.
+The culture is mostly aesthetic play, and that is the point. It combines craft, identity, and a [[Shibboleth]]-like literacy in tools that most computer users never see. It also has recognizable failure modes. Ricing makes an excellent rabbit hole, and a common joke is spending a weekend perfecting a setup instead of using it, a form of [[Yak Shaving]]. Showcase screenshots invite [[Social Proof]] dynamics, and the latest popular look spreads quickly through a community. The more practical upside is real, though: someone who has riced a desktop understands, in detail, how its parts fit together.
 
 ## See also
 - [[Dotfiles]]

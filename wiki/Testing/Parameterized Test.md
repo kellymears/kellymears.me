@@ -18,7 +18,7 @@ The benefits come from separating cases from logic:
 - **Cheap additions.** A new case, such as a bug report reproduced, is one more row, which makes [[Regression Testing]] habits easy to keep.
 - **Separate reporting.** A good framework names each case, so a failure says which row broke instead of halting at the first failing assertion inside a loop. Hand-written loops over cases lose this, which is one reason to use the framework's feature.
 
-Naming matters. Rows with descriptive names, such as "leap day in a non-leap year," turn the test report into documentation, an application of careful [[Naming]]. Rows identified only by index make failures hard to interpret.
+Naming matters. Rows with descriptive names, such as "leap day in a non-leap year," turn the test report into documentation. Rows identified only by index make failures hard to interpret.
 
 The pattern has limits, and stretching it produces a test smell:
 

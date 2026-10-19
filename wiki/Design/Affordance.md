@@ -5,7 +5,7 @@ tags:
   - design
 summary: A property an object's design communicates about how it can be used, before any instruction is read.
 ---
-**Affordance** is a term from perceptual psychology (James Gibson, 1966) for the action possibilities an object's physical properties suggest — a chair affords sitting, a handle affords pulling — independent of whether anyone consciously reasons about it. Don Norman's *The Design of Everyday Things* (1988) imported the term into design and, in the process, subtly narrowed it: Norman cared about *perceived* affordance, the cues a design gives about its use, which is why the term in UI contexts usually means "what does this look like it does" rather than Gibson's stricter "what can it actually do."
+**Affordance** is a term from perceptual psychology (James Gibson, 1966) for the action possibilities an object's physical properties suggest — a chair affords sitting, a handle affords pulling — independent of whether anyone consciously reasons about it. Don Norman's *The Design of Everyday Things* (1988) imported the term into design and, in the process, subtly narrowed it: Norman cared about *perceived* affordance, the cues a design gives about its use, which is why the term in UI contexts usually means "what does this look like it does" rather than Gibson's stricter "what can it actually do." Norman later said the loose usage had muddled things and coined *signifier* for the visible cue, keeping affordance for the action itself; see [[Signifier]]. The everyday sense below is the loose one.
 
 In interface work, affordance is the reason a raised, shadowed rectangle reads as clickable and a flat one doesn't, why an underline still signals "link" decades after blue underlined text stopped being the only way to make one, and why a horizontal scrollbar sliver at a container's edge tells you there's more to see without a single word of instruction. Skeuomorphic design leaned on affordance heavily by literally reproducing the visual cues of a physical object it was replacing — see [[Skeuomorphism]] — but affordance survives the flattening of visual style precisely because it's about the cue, not the realism.
 
@@ -19,4 +19,3 @@ Affordance is downstream of the same perceptual machinery [[Gestalt Principles]]
 - [[Fitts's Law]]
 - [[Touch Target Size]]
 - [[Iconography]]
-- [[Signifier]]

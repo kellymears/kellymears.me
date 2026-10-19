@@ -10,7 +10,7 @@ tags:
   - networks
 summary: How the nodes of a distributed system decide that a peer has died, using heartbeats and timeouts, when a crashed node and a slow one look exactly the same from outside.
 ---
-**Failure detection** is how a distributed system decides that one of its members has died, so that its work can move elsewhere. The difficulty is fundamental: over a network, a crashed node, a slow node and a lost message all look the same, because no reply arrives. Fischer, Lynch and Paterson proved in 1985 that in a fully asynchronous system no algorithm can always tell them apart. Every practical detector guesses, and must choose which wrong guess is worse.
+**Failure detection** is how a distributed system decides that one of its members has died, so that its work can move elsewhere. The difficulty is fundamental: over a network, a crashed node, a slow node and a lost message all look the same, because no reply arrives. In a fully asynchronous system no algorithm can always tell them apart, the indistinguishability behind Fischer, Lynch and Paterson's 1985 proof that deterministic consensus is impossible there. Every practical detector guesses, and must choose which wrong guess is worse.
 
 The basic tool is the **heartbeat**: each node sends a periodic "I'm alive" message, or answers periodic pings, and peers declare it dead after a timeout with no response. The timeout sets the trade-off:
 

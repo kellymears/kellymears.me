@@ -7,7 +7,7 @@ aliases:
   - Rulesets
 tags:
   - delivery
-summary: Server-side rules that stop anyone, including administrators by default, from pushing straight to important branches, requiring reviews, passing checks, and intact history instead.
+summary: Server-side rules that stop people from pushing straight to important branches, requiring reviews, passing checks, and intact history instead.
 ---
 **Branch protection** is a set of rules a Git hosting platform enforces on important branches, typically the main branch and release branches. Instead of allowing anyone with write access to push anything, the platform requires that changes arrive by [[Pull Request]] and meet conditions before merging. It turns team agreements, such as "everything gets reviewed" and "never merge red builds," into rules the server enforces.
 
@@ -36,4 +36,3 @@ Strict rules have costs:
 ## See also
 - [[Force Push]]
 - [[Fast-Forward Merge]]
-- [[Code Formatter]]

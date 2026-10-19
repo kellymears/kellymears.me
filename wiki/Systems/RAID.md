@@ -28,6 +28,6 @@ Rebuilding is the dangerous moment. When a drive fails, the array must read ever
 
 A subtler problem is the **write hole**: if power fails midway through updating data and parity, they no longer agree, and the array may silently rebuild corrupt data later. Hardware controllers use battery-backed caches to prevent it, and filesystems such as ZFS and Btrfs build redundancy into the filesystem itself, using [[Copy-on-Write]] and checksums so they can tell which copy is correct, rather than trusting whichever disk answers.
 
-The most important rule: **RAID is not a backup**. It protects against a drive dying, not against deleting a file, ransomware, a filesystem bug, a fire, or a controller writing garbage to every disk at once, since every mistake is faithfully mirrored. Real protection needs separate copies, ideally offsite, as in the 3-2-1 rule; see [[Filesystem Snapshot]].
+The most important rule: **RAID is not a backup**. It protects against a drive dying, not against deleting a file, ransomware, a filesystem bug, a fire, or a controller writing garbage to every disk at once, since every mistake is faithfully mirrored. Real protection needs separate copies, ideally offsite, as in the 3-2-1 rule.
 
 With solid-state drives, some trade-offs shift: rebuilds are faster and striping matters less for speed, but identical SSDs given identical writes can wear out at nearly the same moment. The same ideas, redundancy, parity, and rebuilding, appear at larger scale in [[Database Replication]] and in erasure coding in [[Object Storage]].

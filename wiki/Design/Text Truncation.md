@@ -12,7 +12,7 @@ summary: Cutting text that doesn't fit and marking the cut with an ellipsis, a l
 Interfaces truncate in a few ways:
 
 - **End truncation.** The usual form: "Quarterly report for the north…" CSS does this for a single line with `text-overflow: ellipsis`, combined with `overflow: hidden` and `white-space: nowrap`.
-- **Multi-line clamping.** Cutting after a set number of lines, common for previews of posts and product descriptions, now done with the `line-clamp` property.
+- **Multi-line clamping.** Cutting after a set number of lines, common for previews of posts and product descriptions, now done with the `-webkit-line-clamp` property, which all major browsers support despite the prefix.
 - **Middle truncation.** Keeping both ends, as in "IMG_2041…final_v3.jpg," which suits file names and paths, where the start and the end are the parts that tell items apart. Mac Finder does this by default.
 - **Fading.** A gradient over the last line instead of a character, which reads as "there is more" without a hard cut.
 

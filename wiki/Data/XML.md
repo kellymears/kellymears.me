@@ -20,15 +20,15 @@ A whole family of standards grew around it:
 
 For roughly a decade XML was the default way to move data between systems. Web services exchanged SOAP envelopes, configuration lived in XML files, and the "X" in AJAX stood for it. It remains underneath many formats people use daily without seeing it: Word and Excel files are zipped folders of XML, and so are EPUB books. Feeds use it; see [[RSS]]. So do vector images, as [[SVG]], and much of the Semantic Web.
 
-Through the 2000s, JSON displaced it for most data exchange. JSON maps directly onto the objects and arrays of programming languages, while XML's split between attributes and child elements has no natural equivalent, and its verbosity and namespace handling made simple tasks laborious. XML remains stronger for **documents**, where text with markup interleaved, called mixed content, is the point; see [[Markdown]] and [[Semantic HTML]].
+From the late 2000s, JSON displaced it for most data exchange. JSON maps directly onto the objects and arrays of programming languages, while XML's split between attributes and child elements has no natural equivalent, and its verbosity and namespace handling made simple tasks laborious. XML remains stronger for **documents**, where text with markup interleaved, called mixed content, is the point.
 
 XML parsers are also a classic security risk, because DTDs allow **entities**, named substitutions defined in the document itself:
 
 - **External entities (XXE).** An entity can point to a file path or URL, so a parser that resolves them will read local files or make network requests on an attacker's behalf; see [[Server-Side Request Forgery]].
 - **Billion laughs.** Entities defined in terms of other entities expand exponentially, so a few hundred bytes become gigabytes in memory.
 
-Modern parsers disable both by default, but older libraries and configurations still expose them.
+Many modern parsers disable both by default, but not all do, and older libraries and configurations still expose them.
 
 ## See also
-- [[Base64]]
+- [[Semantic HTML]]
 - [[Single Sign-On]]

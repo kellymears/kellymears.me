@@ -19,12 +19,12 @@ The 2020 GPT-3 paper, titled "Language Models are Few-Shot Learners," made the a
 
 Larger models benefited much more from examples than smaller ones, and few-shot performance on some tasks approached models that had been specifically trained for them. In-context learning made [[Prompt Engineering]] a practical alternative to training a separate model for every task.
 
-How it works is still studied. [[Mechanistic Interpretability]] research at Anthropic in 2022 identified *induction heads*, attention circuits that find an earlier occurrence of the current pattern and copy what came next. They form at a specific point in training, at the same moment in-context learning ability jumps, which suggests they are part of the mechanism.
+How it works is still studied. [[Mechanistic Interpretability]] research at Anthropic in 2021 and 2022 identified *induction heads*, attention circuits that find an earlier occurrence of the current pattern and copy what came next. They form at a specific point in training, at the same moment in-context learning ability jumps, which suggests they are part of the mechanism.
 
 Experiments show that examples teach less, and differently, than one might expect:
 
 - **Format matters more than labels.** A 2022 study found that few-shot examples helped even when their answers were randomly wrong, because the model mostly learned the format and the range of possible outputs.
-- **Order and balance matter.** Results shift depending on which example comes last and how often each answer appears, an effect like the [[Anchoring Effect]] in people.
+- **Order and balance matter.** Results shift depending on which example comes last and how often each answer appears.
 - **Examples get copied.** Models imitate surface features such as length, phrasing, and topic, so three similar examples can narrow output more than intended. Varied examples generalize better.
 
 Larger [[Context Window]] sizes enabled *many-shot* learning with hundreds or thousands of examples, which can rival [[Fine-Tuning]] for some tasks without the training. The same capacity has a downside: Anthropic showed in 2024 that many-shot examples of harmful answers could override safety training, a jailbreak technique. Long example sets are expensive per call, which [[Prompt Caching]] helps by reusing the processed prefix.
