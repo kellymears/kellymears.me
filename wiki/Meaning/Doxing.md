@@ -22,3 +22,4 @@ Responses vary. Some jurisdictions have made doxing a crime, raising hard questi
 - [[Panopticon]]
 - [[Bulletin Board System]]
 - [[Internet Forum]]
+- [[Emergency Telephone Number]]

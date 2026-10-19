@@ -36,5 +36,5 @@ Smart-home protocols such as Matter use DNS-SD over mDNS to find devices on the 
 - [[Virtual LAN]]
 - [[Multicast]]
 - [[Subnet]]
-- [[Mesh Network]]
+- [[Universal Plug and Play]]
 - [[Service Discovery]]

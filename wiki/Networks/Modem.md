@@ -25,6 +25,6 @@ Broadband kept the name. DSL runs much higher frequencies over the same copper p
 - [[Fax]]
 - [[Spread Spectrum]]
 - [[Amateur Radio]]
-- [[Teleprinter]]
-- [[Last Mile]]
+- [[Signal-to-Noise Ratio]]
+- [[Twisted Pair]]
 - [[Multiplexing]]

@@ -20,7 +20,7 @@ Latency itself splits into components worth naming separately: propagation delay
 - [[Sneakernet]]
 - [[Pneumatic Tube]]
 - [[Delay-Tolerant Networking]]
-- [[Memory Hierarchy]]
+- [[Mix Network]]
 - [[Internet Control Message Protocol]]
 - [[Head-of-Line Blocking]]
 - [[Sliding Window Protocol]]

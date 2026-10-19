@@ -26,7 +26,7 @@ The weak point is binding a public key to an identity. A public key proves only 
 ## See also
 - [[Timing Attack]]
 - [[Encrypted Media Extensions]]
-- [[Ransomware]]
+- [[Mix Network]]
 - [[Entropy Pool]]
 - [[Debian OpenSSL Bug]]
 - [[Elliptic Curve Cryptography]]

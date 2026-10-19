@@ -23,5 +23,5 @@ Strong solar storms compress and shake the magnetosphere, inducing currents in l
 Many animals sense the field. Migrating birds, sea turtles and salmon appear to use it for navigation, through mechanisms still debated. Mars lost most of its global field billions of years ago, and the solar wind is thought to have stripped away much of its atmosphere as a result; see [[Atmospheric Pressure]] and [[Hall Effect]].
 
 ## See also
-- [[Ozone Layer]]
+- [[Radio Propagation]]
 - [[Lightning]]

@@ -32,6 +32,6 @@ Digital audio samples sound pressure many thousands of times a second. CD audio 
 
 ## See also
 - [[Rhythm Game]]
-- [[Vortex Shedding]]
+- [[Signal-to-Noise Ratio]]
 - [[Helmholtz Resonance]]
 - [[Shock Wave]]

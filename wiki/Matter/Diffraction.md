@@ -16,7 +16,7 @@ The classic demonstration is single-slit diffraction: light through a narrow sli
 - [[Doppler Effect]]
 - [[Uncertainty Principle]]
 - [[Astigmatism]]
-- [[Wave Interference]]
+- [[Radio Propagation]]
 - [[Holography]]
 - [[Sound]]
 - [[Structural Color]]

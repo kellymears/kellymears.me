@@ -23,8 +23,8 @@ The lasting lesson is that a cipher should stay secure even when the enemy knows
 
 ## See also
 - [[Analytical Engine]]
-- [[Caesar Cipher]]
-- [[Diffie-Hellman Key Exchange]]
+- [[Traffic Analysis]]
+- [[Numbers Station]]
 - [[One-Time Pad]]
 - [[Crossword]]
 - [[RSA]]

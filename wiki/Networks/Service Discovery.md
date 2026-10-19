@@ -31,3 +31,4 @@ Discovery is a quiet dependency. If the registry goes down, new connections can'
 - [[Service Mesh]]
 - [[Microservices]]
 - [[API Gateway]]
+- [[Universal Plug and Play]]

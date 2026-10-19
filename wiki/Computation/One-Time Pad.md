@@ -26,7 +26,7 @@ Earlier machine ciphers fell because their keys repeated in patterns; see [[Enig
 
 ## See also
 - [[Kolmogorov Complexity]]
-- [[Diffie-Hellman Key Exchange]]
+- [[Numbers Station]]
 - [[RSA]]
 - [[Quantum Entanglement]]
 - [[Caesar Cipher]]

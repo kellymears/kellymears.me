@@ -26,5 +26,5 @@ The same quality makes metadata useful to investigators. Document properties hav
 Metadata also decays. Fields go unfilled, formats change, and links in records stop resolving; see [[Link Rot]]. Systems that generate metadata automatically at the moment of creation, rather than asking people to add it later, tend to end up with more of it.
 
 ## See also
-- [[Doxing]]
-- [[Wikidata]]
+- [[Wiretapping]]
+- [[Traffic Analysis]]

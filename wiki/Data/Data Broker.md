@@ -32,6 +32,6 @@ Regulation is patchy, especially in the US. Vermont created the first broker reg
 Broker databases concentrate risk, holding everything in one place for whoever breaks in; see [[Data Breach]]. The trade is the commercial engine of the [[Attention Economy]], and its raw material outlives the reason it was gathered; see [[Data Retention]].
 
 ## See also
-- [[Data Masking]]
+- [[Mix Network]]
 - [[Doxing]]
-- [[Paywall]]
+- [[Traffic Analysis]]

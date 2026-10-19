@@ -31,3 +31,4 @@ Defenses include closing unused services, denying inbound traffic by default, an
 - [[Packet Capture]]
 - [[Threat Modeling]]
 - [[Telnet]]
+- [[Universal Plug and Play]]

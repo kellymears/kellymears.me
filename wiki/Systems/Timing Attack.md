@@ -24,3 +24,4 @@ Related channels measure power use, electromagnetic emissions or sound instead o
 ## See also
 - [[Rowhammer]]
 - [[Hash Function]]
+- [[Traffic Analysis]]

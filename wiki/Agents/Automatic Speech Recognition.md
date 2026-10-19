@@ -17,7 +17,7 @@ Real accuracy is dominated by what the headline number omits: proper nouns and r
 ## See also
 - [[Beam Search]]
 - [[Fourier Transform]]
-- [[Tensor Processing Unit]]
+- [[Signal-to-Noise Ratio]]
 - [[Optical Character Recognition]]
 - [[Closed Captions]]
 - [[Hidden Markov Model]]

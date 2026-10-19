@@ -31,5 +31,5 @@ That last weakness drove the move to [[Zero Trust Network]] designs, which treat
 
 ## See also
 - [[File Transfer Protocol]]
-- [[Air Gap]]
+- [[Universal Plug and Play]]
 - [[Honeypot]]

@@ -24,6 +24,6 @@ Safety advice is short: if thunder is audible, lightning is close enough to stri
 - [[Plasma]]
 - [[Tropical Cyclone]]
 - [[Shock Wave]]
-- [[Magnetosphere]]
+- [[Radio Propagation]]
 - [[Faraday Cage]]
 - [[Uninterruptible Power Supply]]

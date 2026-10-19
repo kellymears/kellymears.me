@@ -29,8 +29,8 @@ Even a fast line can feel slow. The connection between a home router and the pro
 Content networks place servers as close to the last mile as they can, inside providers' own facilities, so popular content crosses as little of the network as possible; see [[Content Delivery Network]] and [[Internet Exchange Point]].
 
 ## See also
-- [[Pneumatic Tube]]
+- [[Twisted Pair]]
 - [[Submarine Cable]]
-- [[Quality of Service]]
+- [[Emergency Telephone Number]]
 - [[Internet Service Provider]]
 - [[Internet Shutdown]]

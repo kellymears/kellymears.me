@@ -30,7 +30,7 @@ Resilience comes from redundancy: many cables on different paths, with [[Border 
 - [[Earthquake]]
 - [[Internet Shutdown]]
 - [[Data Sovereignty]]
-- [[Optical Fiber]]
+- [[Wiretapping]]
 - [[Sneakernet]]
 - [[Satellite Internet]]
 - [[Multiplexing]]

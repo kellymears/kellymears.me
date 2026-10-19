@@ -27,7 +27,7 @@ Encryption alone is not the defense. If two parties agree a key with [[Public-Ke
 The middle isn't always hostile. Corporate networks and antivirus products install their own root certificate and decrypt traffic deliberately to inspect it, and a [[Reverse Proxy]] terminates TLS on a server's behalf. Both are structurally the same as the attack, with consent, and both weaken the end-to-end guarantee that the [[End-to-End Principle]] argues for. Encrypting DNS lookups and assuming the network is hostile, as in a [[Zero Trust Network]], remove more of the places an attacker can stand.
 
 ## See also
-- [[Diffie-Hellman Key Exchange]]
+- [[Wiretapping]]
 - [[Encrypted Client Hello]]
 - [[Certificate Revocation]]
 - [[Near-Field Communication]]

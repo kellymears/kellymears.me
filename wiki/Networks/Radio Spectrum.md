@@ -30,6 +30,6 @@ Neighbors in the spectrum can collide. In 2022 the US rollout of new 5G frequenc
 Squeezing more from the same frequencies is a constant project: smaller cells reuse them more often, and smarter antennas aim energy where it is needed; see [[Antenna]].
 
 ## See also
-- [[Multiplexing]]
-- [[Two-Way Radio]]
-- [[ALOHAnet]]
+- [[Radio Propagation]]
+- [[Radio Broadcasting]]
+- [[Numbers Station]]

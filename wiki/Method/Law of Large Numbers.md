@@ -27,6 +27,6 @@ The law also has conditions. Trials must be independent, and a sample that isn't
 
 ## See also
 - [[Bootstrap Resampling]]
-- [[Timing Attack]]
+- [[Signal-to-Noise Ratio]]
 - [[Random Walk]]
 - [[Histogram]]

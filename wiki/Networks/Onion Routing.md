@@ -33,8 +33,8 @@ Compared with a [[Virtual Private Network]], which moves trust from your ISP to 
 Its users range from journalists and abuse survivors to criminals, the dual-use tension of any strong privacy tool. Its design is a lesson in the [[End-to-End Principle]]: the network carries opaque traffic, and the protection lives at the edges.
 
 ## See also
-- [[Diffie-Hellman Key Exchange]]
+- [[Mix Network]]
 - [[Dark Web]]
 - [[DNS over HTTPS]]
 - [[Encrypted Client Hello]]
-- [[Sybil Attack]]
+- [[Traffic Analysis]]

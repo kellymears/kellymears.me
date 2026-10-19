@@ -30,9 +30,9 @@ The service's public justification is emergencies. When storms destroy power, ph
 The hobby's culture, of tinkering, exchanging technical knowledge freely, and contacting strangers far away, overlapped heavily with early computing; see [[Bulletin Board System]].
 
 ## See also
-- [[Delay-Tolerant Networking]]
-- [[Spread Spectrum]]
+- [[Numbers Station]]
+- [[Radio Propagation]]
 - [[Carrier-Sense Multiple Access]]
 - [[Pager]]
 - [[Tropical Cyclone]]
-- [[Two-Way Radio]]
+- [[Radio Broadcasting]]

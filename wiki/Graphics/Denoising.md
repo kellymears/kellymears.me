@@ -26,7 +26,7 @@ Denoising also changed how renderers are designed. Rather than tracing enough ra
 
 ## See also
 - [[Screen Space Reflections]]
-- [[Unsharp Masking]]
+- [[Signal-to-Noise Ratio]]
 - [[Histogram Equalization]]
 - [[Render Farm]]
 - [[Spherical Harmonics]]

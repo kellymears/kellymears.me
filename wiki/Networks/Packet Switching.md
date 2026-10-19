@@ -36,4 +36,4 @@ The two approaches have converged in places. Telephone calls now travel as packe
 - [[Pigeon Post]]
 - [[ALOHAnet]]
 - [[OSI Model]]
-- [[Multiplexing]]
+- [[Mix Network]]

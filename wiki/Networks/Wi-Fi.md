@@ -31,6 +31,6 @@ At the network layers, Wi-Fi is another link: devices get addresses on a [[Subne
 ## See also
 - [[Bluetooth]]
 - [[Captive Portal]]
-- [[Packet Loss]]
+- [[Signal-to-Noise Ratio]]
 - [[ALOHAnet]]
-- [[Virtual LAN]]
+- [[Radio Propagation]]

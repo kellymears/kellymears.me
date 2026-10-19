@@ -26,5 +26,5 @@ Coordinates are also a privacy risk. A home address geocoded alongside a health 
 Practical concerns come with commercial services: per-request charges, rate limits, and terms that sometimes forbid storing results, which pushes some organizations toward open reference data and self-hosted geocoders; see [[Rate Limiting]] and [[Open Data]].
 
 ## See also
-- [[Doxing]]
+- [[Emergency Telephone Number]]
 - [[Map Projection]]

@@ -30,4 +30,4 @@ The cost is complexity: proofs are expensive to generate, and a bug in the circu
 - [[Elliptic Curve Cryptography]]
 - [[Boolean Satisfiability Problem]]
 - [[RSA]]
-- [[Scalable Oversight]]
+- [[Mix Network]]

@@ -34,7 +34,7 @@ Layering lets each layer change independently: the same TCP runs over fiber, Wi-
 - **Middleboxes.** [[Network Address Translation]] rewrites layer 3 and 4 headers, and many devices inspect traffic above the layer they nominally work at. That inspection freezes protocols in place, which is why new ones are encrypted and why the [[End-to-End Principle]] argues for keeping the middle of the network simple.
 
 ## See also
-- [[Ethernet]]
+- [[Twisted Pair]]
 - [[Hourglass Model]]
 - [[IP Routing]]
 - [[Leaky Abstraction]]

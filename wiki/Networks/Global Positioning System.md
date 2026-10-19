@@ -30,8 +30,8 @@ The system was built for the US military and opened fully to civilian accuracy i
 ## See also
 - [[Data Broker]]
 - [[Pigeon Post]]
-- [[Plasma]]
-- [[Time Dilation]]
+- [[Signal-to-Noise Ratio]]
+- [[Radio Propagation]]
 - [[Spread Spectrum]]
 - [[Geospatial Data]]
-- [[Plate Tectonics]]
+- [[Emergency Telephone Number]]

@@ -26,4 +26,4 @@ Choosing a random sample from a stream of unknown length is a close relative; se
 
 ## See also
 - [[Caesar Cipher]]
-- [[Birthday Problem]]
+- [[Mix Network]]

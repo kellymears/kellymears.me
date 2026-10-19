@@ -29,5 +29,5 @@ Video streams step down to a lower quality when loss and delay rise; see [[Adapt
 Loss is measured with tools that send test packets and count replies, though some routers deprioritize those probes, so apparent loss at a middle hop is often harmless; see [[Internet Control Message Protocol]]. Capturing traffic at both ends shows where packets actually disappear; see [[Packet Capture]].
 
 ## See also
-- [[Sliding Window Protocol]]
+- [[Signal-to-Noise Ratio]]
 - [[Head-of-Line Blocking]]

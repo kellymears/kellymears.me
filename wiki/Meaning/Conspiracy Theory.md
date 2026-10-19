@@ -27,6 +27,6 @@ Conspiracy theories have real consequences: lower vaccination rates, harassment 
 Responses with some evidence include prebunking, which warns people about manipulation techniques before they encounter them; addressing underlying distrust, which often has real causes; and avoiding ridicule, which pushes believers toward their community. Simpler explanations deserve preference until evidence demands more, and the question to ask of any theory is what would show it wrong; see [[Occam's Razor]].
 
 ## See also
-- [[Agenda-Setting]]
+- [[Numbers Station]]
 - [[Need for Closure]]
 - [[Barnum Effect]]

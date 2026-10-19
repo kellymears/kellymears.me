@@ -26,7 +26,7 @@ Sensitive electronics are protected from static the same way: bags made with a t
 
 ## See also
 - [[Specific Absorption Rate]]
-- [[Inverse-Square Law]]
+- [[Twisted Pair]]
 - [[Bluetooth]]
 - [[Magnetosphere]]
 - [[Air Gap]]

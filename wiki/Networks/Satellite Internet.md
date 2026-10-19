@@ -30,5 +30,5 @@ Satellites also connect directly to ordinary phones in some areas, merging with 
 - [[ALOHAnet]]
 - [[Internet Shutdown]]
 - [[Delay-Tolerant Networking]]
-- [[Last Mile]]
+- [[Radio Propagation]]
 - [[Aurora]]

@@ -28,7 +28,7 @@ Rendering engines model refraction to draw water, glass, and gems. [[Ray Tracing
 ## See also
 - [[Glassmorphism]]
 - [[Allotrope]]
-- [[Fresnel Effect]]
+- [[Radio Propagation]]
 - [[Black Hole]]
 - [[Myopia]]
 - [[Rainbow]]

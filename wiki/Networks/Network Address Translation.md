@@ -35,4 +35,4 @@ NAT also appears inside machines. [[Containerization]] tools usually give contai
 - [[Port Scanning]]
 - [[Captive Portal]]
 - [[File Transfer Protocol]]
-- [[Wake-on-LAN]]
+- [[Universal Plug and Play]]

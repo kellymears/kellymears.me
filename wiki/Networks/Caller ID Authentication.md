@@ -19,6 +19,6 @@ Spoofing persists for reasons the design does not address. Gateway providers acc
 - [[Voice over IP]]
 - [[Telephone Network]]
 - [[SMS]]
-- [[Certificate Authority]]
+- [[Emergency Telephone Number]]
 - [[Email Authentication]]
 - [[Phone Number]]

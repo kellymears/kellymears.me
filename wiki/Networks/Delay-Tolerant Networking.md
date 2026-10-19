@@ -29,5 +29,5 @@ Terrestrial uses share the problem of intermittent links. Projects in the early 
 It trades immediacy for reliability; see [[Message Queue]].
 
 ## See also
-- [[Internet Shutdown]]
+- [[Mix Network]]
 - [[Pneumatic Tube]]

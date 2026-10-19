@@ -26,4 +26,4 @@ A wargame is a structured thought experiment with an opponent. Its value lies le
 - [[Perfect Information]]
 - [[Real-Time Strategy]]
 - [[After-Action Review]]
-- [[Abstract Strategy Game]]
+- [[Numbers Station]]

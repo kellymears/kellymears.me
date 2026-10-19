@@ -18,7 +18,7 @@ The pattern is at its best where the value is in the connection rather than in s
 - [[Signaling Server]]
 - [[Strength of Weak Ties]]
 - [[Bulletin Board System]]
-- [[Voice over IP]]
+- [[Universal Plug and Play]]
 
 ## Related
 - [[BitTorrent]]

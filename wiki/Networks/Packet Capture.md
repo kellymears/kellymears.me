@@ -28,6 +28,6 @@ Capture has a darker side. On unencrypted public Wi-Fi, anyone could sniff sessi
 One classic confusion: captures of outgoing traffic often show bad checksums, because the network card computes them after the capture point; see [[Checksum]].
 
 ## See also
-- [[Internet Control Message Protocol]]
-- [[Packet Loss]]
+- [[Traffic Analysis]]
+- [[Wiretapping]]
 - [[Telnet]]

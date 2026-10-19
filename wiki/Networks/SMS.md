@@ -23,6 +23,6 @@ Text messages also carry fraud: fake delivery notices and bank alerts with links
 ## See also
 - [[eSIM]]
 - [[Federation]]
-- [[End-to-End Encryption]]
+- [[Wiretapping]]
 - [[Minitel]]
-- [[URL Shortener]]
+- [[Emergency Telephone Number]]

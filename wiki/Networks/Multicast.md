@@ -24,3 +24,5 @@ This is why multicast has historically mattered for things like live TV distribu
 - [[Ethernet]]
 - [[Wake-on-LAN]]
 - [[Mailing List]]
+- [[Radio Broadcasting]]
+- [[Universal Plug and Play]]
