@@ -26,4 +26,4 @@ Deep hierarchies have costs. Walking a tree jumps around memory, and engines tha
 
 ## See also
 - [[Game Loop]]
-- [[Polygon Mesh]]
+- [[Portal Rendering]]

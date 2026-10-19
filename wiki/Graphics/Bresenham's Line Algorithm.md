@@ -27,7 +27,7 @@ The algorithm is a classic of efficient computing: it replaces arithmetic the ha
 
 ## See also
 - [[Turtle Graphics]]
-- [[Vector Graphics]]
+- [[Affine Texture Mapping]]
 - [[Bitwise Operation]]
 - [[Vector Display]]
 - [[Numerical Stability]]

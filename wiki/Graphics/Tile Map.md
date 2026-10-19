@@ -27,6 +27,6 @@ The style constraints of old hardware have become an aesthetic in their own righ
 ## See also
 - [[Isometric Projection]]
 - [[Platformer]]
-- [[Ray Casting]]
+- [[Mode 7]]
 - [[Flood Fill]]
 - [[Color Cycling]]

@@ -29,7 +29,7 @@ Buffers also hold more than color. Renderers use many intermediate images per fr
 
 ## See also
 - [[Motion Interpolation]]
-- [[High Dynamic Range]]
+- [[Dynamic Resolution Scaling]]
 - [[Racing the Beam]]
 - [[Frame Rate]]
 - [[Graphics Pipeline]]

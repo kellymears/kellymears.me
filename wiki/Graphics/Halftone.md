@@ -33,3 +33,4 @@ E-readers and receipt printers, limited to black and white, still halftone every
 - [[Metamerism]]
 - [[ASCII Art]]
 - [[Generative Art]]
+- [[Blend Mode]]

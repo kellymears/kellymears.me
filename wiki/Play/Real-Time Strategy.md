@@ -26,3 +26,4 @@ Through the 2010s, large-budget RTS releases became rare. The genre is hard to l
 ## See also
 - [[4X Game]]
 - [[Game AI]]
+- [[Navigation Mesh]]

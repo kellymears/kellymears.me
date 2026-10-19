@@ -29,4 +29,4 @@ Arcade design still echoes in modern games: short loops of play and reward, scor
 
 ## See also
 - [[Heads-Up Display]]
-- [[Boss Battle]]
+- [[Mode 7]]

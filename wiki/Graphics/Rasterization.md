@@ -18,7 +18,7 @@ Performance work in a rasterizer is mostly about reducing [[Draw Call|draw calls
 - [[Shadow Volume]]
 - [[Barycentric Coordinates]]
 - [[Graphics Pipeline]]
-- [[Culling]]
+- [[Affine Texture Mapping]]
 - [[Deferred Shading]]
 
 ## Related

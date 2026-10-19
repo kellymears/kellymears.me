@@ -28,7 +28,7 @@ The buffer is useful for more than visibility. Shadow maps are depth buffers ren
 - [[Isometric Projection]]
 - [[Ray Casting]]
 - [[Lens Flare]]
-- [[Particle System]]
+- [[Affine Texture Mapping]]
 - [[Shadow Volume]]
 - [[Stencil Buffer]]
 - [[Order-Independent Transparency]]

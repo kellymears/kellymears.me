@@ -28,5 +28,5 @@ They have practical uses too. Fluid simulations that track liquid as particles o
 Their main drawbacks are control and cost. Exact shapes are hard to design by moving points around, and evaluating the field for many balls at many sample points is expensive without spatial acceleration; see [[Spatial Partitioning]].
 
 ## See also
-- [[Procedural Generation]]
+- [[Soft Body Dynamics]]
 - [[Linear Interpolation]]

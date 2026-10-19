@@ -30,6 +30,6 @@ The captured range far exceeds what displays show, so a [[Tone Mapping]] step co
 ## See also
 - [[Shadow Volume]]
 - [[Chroma Key]]
-- [[Photogrammetry]]
+- [[Spherical Harmonics]]
 - [[Gaussian Splatting]]
 - [[Radiosity]]

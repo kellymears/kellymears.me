@@ -28,5 +28,5 @@ Generative art drew mainstream attention around 2021, when platforms sold algori
 Image generators driven by machine learning raised sharper questions about authorship. In earlier generative art, the artist wrote the system. With large trained models, the system encodes the work of many other artists, and the person's role shrinks to a prompt; see [[Diffusion Model]] and [[Death of the Author]].
 
 ## See also
-- [[Procedural Generation]]
+- [[Domain Warping]]
 - [[Blue Noise]]

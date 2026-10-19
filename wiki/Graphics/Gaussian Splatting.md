@@ -33,7 +33,7 @@ Uses have spread quickly: real estate and tourism walkthroughs, film and TV prev
 It is part of a broader move toward representations learned from data, alongside learned [[Temporal Upscaling]] and [[Frame Generation]]. Its scenes look like photographs because they are, in a sense, made of photographs.
 
 ## See also
-- [[Diffusion Model]]
+- [[Spherical Harmonics]]
 - [[Holography]]
 - [[Image-Based Lighting]]
 - [[Stereoscopy]]

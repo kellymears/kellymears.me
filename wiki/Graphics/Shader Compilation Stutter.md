@@ -20,10 +20,10 @@ It is a caching problem with an awkward cache key. The compiled result depends o
 The general shape is [[Memoization]] where the key includes the environment, and [[Cache Invalidation]] driven by changes the application cannot see. Because the stutter happens once per combination, a benchmark run twice in a row understates it badly, a measurement trap that favors the second run.
 
 ## See also
-- [[Shader]]
+- [[Dynamic Resolution Scaling]]
 - [[Frame Pacing]]
 - [[Compiler]]
-- [[Cache Invalidation]]
+- [[Texture Streaming]]
 - [[Memoization]]
 - [[Lazy Evaluation]]
 - [[Amortized Analysis]]

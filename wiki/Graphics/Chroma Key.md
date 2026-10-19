@@ -29,3 +29,4 @@ A newer approach drops the screen. LED volumes surround the set with giant video
 - [[Color Theory]]
 - [[Video Compression]]
 - [[Aspect Ratio]]
+- [[Blend Mode]]

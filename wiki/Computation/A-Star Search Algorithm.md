@@ -36,7 +36,7 @@ A\* is the default for pathfinding in video games, where characters need routes 
 Many other problems can be posed as a shortest path through a space of states, including puzzle solving, planning, and parsing. A\* applies whenever a good lower-bound estimate of the remaining cost exists. When the space is too large to search, or no path needs to be optimal, local search methods take over; see [[Simulated Annealing]] and [[Backtracking]].
 
 ## See also
-- [[Graph Traversal]]
+- [[Navigation Mesh]]
 - [[Spatial Partitioning]]
 - [[Traveling Salesman Problem]]
 - [[Monte Carlo Tree Search]]

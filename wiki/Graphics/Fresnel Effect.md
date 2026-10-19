@@ -31,5 +31,5 @@ Artists also borrow Fresnel terms for stylized rim glows and force-field shimmer
 - [[Rendering Equation]]
 - [[Holography]]
 - [[Screen Space Reflections]]
-- [[Ray Tracing]]
+- [[Spherical Harmonics]]
 - [[Caustics]]

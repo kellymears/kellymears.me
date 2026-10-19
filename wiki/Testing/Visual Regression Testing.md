@@ -18,7 +18,7 @@ Two traps recur. A static server that rewrites URLs can silently serve an error 
 - [[Cross-Browser Testing]]
 - [[Component Story]]
 - [[Headless Browser]]
-- [[Determinism]]
+- [[Blend Mode]]
 - [[Regression]]
 - [[Responsive Breakpoint]]
 - [[Test Fixture]]

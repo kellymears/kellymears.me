@@ -24,5 +24,5 @@ Two cautions apply. Position Verlet assumes a constant time step, since a change
 ## See also
 - [[Orbit]]
 - [[Newton's Method]]
-- [[Skeletal Animation]]
+- [[Soft Body Dynamics]]
 - [[Metaballs]]

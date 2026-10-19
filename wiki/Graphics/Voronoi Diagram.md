@@ -32,6 +32,6 @@ Weighted variants give some seeds more pull, modeling crystal grains and the mar
 ## See also
 - [[K-Means Clustering]]
 - [[Treemap]]
-- [[Generative Art]]
+- [[Navigation Mesh]]
 - [[Convex Hull]]
-- [[Blue Noise]]
+- [[Domain Warping]]

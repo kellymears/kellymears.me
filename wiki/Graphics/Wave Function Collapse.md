@@ -26,7 +26,7 @@ WFC has clear limits. It enforces only local rules, so it can't guarantee that a
 
 ## See also
 - [[Flood Fill]]
-- [[Procedural Generation]]
+- [[Domain Warping]]
 - [[Tile Map]]
 - [[Backtracking]]
 - [[Graph Coloring]]

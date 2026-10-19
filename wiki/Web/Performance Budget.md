@@ -15,7 +15,7 @@ Making one requires deciding what to measure, and that is harder than it sounds.
 Budgets should also be revisable with reasoning attached. A deliberate, understood increase is fine; the value of the gate is that raising it is a decision rather than an accident.
 
 ## See also
-- [[Core Web Vitals]]
+- [[Dynamic Resolution Scaling]]
 - [[Code Splitting]]
 - [[Time to First Byte]]
 - [[Brutalist Web Design]]

@@ -29,3 +29,4 @@ Denoising also changed how renderers are designed. Rather than tracing enough ra
 - [[Dithering]]
 - [[Image Sensor]]
 - [[Photon]]
+- [[Spherical Harmonics]]

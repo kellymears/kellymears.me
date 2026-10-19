@@ -27,7 +27,7 @@ In games, the fixed tessellation stages have been largely overtaken. Mesh shader
 
 ## See also
 - [[NURBS]]
-- [[Normal Mapping]]
+- [[Affine Texture Mapping]]
 - [[Marching Cubes]]
 - [[Draw Call]]
 - [[Barycentric Coordinates]]

@@ -28,4 +28,4 @@ Normal mapping is one input to [[Physically Based Rendering]], where it works to
 - [[Ambient Occlusion]]
 - [[Fast Inverse Square Root]]
 - [[Texture Mapping]]
-- [[Polygon Mesh]]
+- [[Spherical Harmonics]]

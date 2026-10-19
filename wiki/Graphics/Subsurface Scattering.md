@@ -23,7 +23,7 @@ Different rendering approaches handle it differently:
 Subsurface scattering is one piece of [[Physically Based Rendering]], which models how a surface reflects light at its boundary and, for translucent materials, how light behaves just beneath it. It interacts with the detail added by [[Normal Mapping]]: pores and wrinkles look sharper in reflections than in the soft diffuse glow underneath, and good skin shaders deliberately treat the two layers differently. It is distinct from [[Rayleigh Scattering]], which scatters light off tiny particles in open air, and from [[Refraction]], the bending of light at a clear surface, though real materials often combine all three. [[Ambient Occlusion]] darkens creases where scattered light can't reach.
 
 ## See also
-- [[Physically Based Rendering]]
+- [[Spherical Harmonics]]
 - [[Uncanny Valley]]
 - [[Ray Tracing]]
 - [[Shader]]

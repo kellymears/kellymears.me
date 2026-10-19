@@ -26,7 +26,7 @@ The aesthetic dimension is separable from the technical one. Voxel art is a deli
 - [[Roguelike]]
 - [[L-System]]
 - [[Volumetric Lighting]]
-- [[Game AI]]
+- [[Navigation Mesh]]
 - [[Perlin Noise]]
 - [[Spatial Partitioning]]
 - [[Gaussian Splatting]]

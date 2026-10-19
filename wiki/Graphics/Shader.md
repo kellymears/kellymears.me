@@ -23,7 +23,7 @@ Two practical notes. Precision and compiler optimization settings change results
 - [[Shader Compilation Stutter]]
 - [[WebGPU]]
 - [[Normal Mapping]]
-- [[Deferred Shading]]
+- [[Domain Warping]]
 
 ## Related
 - [[Metaballs]]

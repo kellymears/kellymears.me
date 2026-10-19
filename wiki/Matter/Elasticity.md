@@ -31,7 +31,7 @@ The body exploits elasticity constantly. The Achilles tendon stretches on landin
 - [[Non-Newtonian Fluid]]
 - [[Work Hardening]]
 - [[Hyatt Regency Walkway Collapse]]
-- [[Space Shuttle Challenger Disaster]]
+- [[Soft Body Dynamics]]
 - [[Hysteresis]]
 - [[Timbre]]
 - [[Presbyopia]]

@@ -24,4 +24,4 @@ Games adopted radiosity for precomputed lighting. Quake II and Half-Life 2 both 
 
 ## See also
 - [[Image-Based Lighting]]
-- [[Volumetric Lighting]]
+- [[Spherical Harmonics]]

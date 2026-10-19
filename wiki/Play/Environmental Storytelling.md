@@ -16,7 +16,7 @@ Two limits. Legibility depends on placement and sightlines, so the discipline ov
 
 ## See also
 - [[Alternate Reality Game]]
-- [[Hero's Journey]]
+- [[Portal Rendering]]
 - [[Walking Simulator]]
 - [[Escape Room]]
 - [[Curiosity]]

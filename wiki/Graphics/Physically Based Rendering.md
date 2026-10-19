@@ -18,7 +18,7 @@ The discipline this imposes is as important as the math: an albedo texture must 
 - [[Volumetric Lighting]]
 - [[Shading Model]]
 - [[Rendering Equation]]
-- [[High Dynamic Range]]
+- [[Spherical Harmonics]]
 - [[Tone Mapping]]
 - [[Normal Mapping]]
 - [[Gamma Correction]]

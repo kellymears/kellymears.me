@@ -27,6 +27,6 @@ Pixar's predecessors at Lucasfilm used fractal terrain for the 1982 *Star Trek I
 Real objects are fractal only over limited ranges. A coastline stops being self-similar at the scale of sand grains.
 
 ## See also
-- [[Random Walk]]
+- [[Domain Warping]]
 - [[Space-Filling Curve]]
 - [[Tower of Hanoi]]

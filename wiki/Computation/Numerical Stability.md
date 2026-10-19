@@ -26,7 +26,7 @@ Accumulated error has had real consequences:
 Exact arithmetic avoids rounding at a cost in speed and memory; see [[Arbitrary-Precision Arithmetic]].
 
 ## See also
-- [[Integer Overflow]]
+- [[Soft Body Dynamics]]
 - [[Physics engine]]
 - [[Newton's Method]]
 - [[Strassen Algorithm]]

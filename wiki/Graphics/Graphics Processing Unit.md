@@ -29,4 +29,4 @@ The work a GPU does each frame is a pipeline: transform vertices of a [[Polygon 
 
 ## See also
 - [[Strassen Algorithm]]
-- [[Fast Inverse Square Root]]
+- [[Affine Texture Mapping]]

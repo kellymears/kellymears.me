@@ -24,5 +24,5 @@ Game level editors relied on CSG for decades. In *Quake* and *Unreal*, designers
 Programmers' modeling tools such as OpenSCAD describe objects for 3D printing entirely as code, combining primitives with these operations, so a part can be resized by changing one parameter; see [[Procedural Generation]].
 
 ## See also
-- [[NURBS]]
+- [[Portal Rendering]]
 - [[Tessellation]]

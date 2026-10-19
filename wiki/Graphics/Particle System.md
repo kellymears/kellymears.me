@@ -24,5 +24,5 @@ Modern engines simulate particles on the GPU with compute [[Shader]] programs, h
 In games, particles do much of the work of making actions feel powerful. A hit spark, a dust puff on landing, and a burst of light on a critical hit are central to [[Game Feel]], and genres built on spectacle, such as the [[Bullet Heaven]] games that fill the screen with projectiles and effects, depend on particle budgets. Overused, they become visual noise that obscures what the player needs to see, and fast-moving particles are often blurred with [[Motion Blur]] to smooth them out.
 
 ## See also
-- [[Order-Independent Transparency]]
-- [[Metaballs]]
+- [[Blend Mode]]
+- [[Soft Body Dynamics]]

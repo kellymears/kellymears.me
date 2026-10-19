@@ -23,3 +23,4 @@ The technique faded when displays moved to direct color, where each pixel stores
 - [[Tile Map]]
 - [[Game Preservation]]
 - [[NTSC]]
+- [[Mode 7]]

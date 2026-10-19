@@ -33,4 +33,4 @@ The underlying idea is separating what is visible from how it looks, decoupling 
 - [[Screen Space Reflections]]
 - [[Graphics Pipeline]]
 - [[Subsurface Scattering]]
-- [[Post-Processing]]
+- [[Dynamic Resolution Scaling]]

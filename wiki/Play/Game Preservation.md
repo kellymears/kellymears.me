@@ -18,7 +18,7 @@ Legal ambiguity slows all of it down, the same [[Right to Repair]]-adjacent terr
 - [[Indie Game]]
 - [[Public Domain]]
 - [[Vector Display]]
-- [[Let's Play]]
+- [[Affine Texture Mapping]]
 - [[Point-and-Click Adventure]]
 - [[Video Game Crash of 1983]]
 - [[Doom Engine]]

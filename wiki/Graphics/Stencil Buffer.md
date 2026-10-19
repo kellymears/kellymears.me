@@ -24,3 +24,4 @@ Depth and stencil usually share memory, typically 24 bits of depth and 8 of sten
 ## See also
 - [[Order-Independent Transparency]]
 - [[Culling]]
+- [[Portal Rendering]]

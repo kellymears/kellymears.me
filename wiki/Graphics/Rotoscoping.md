@@ -22,5 +22,5 @@ Software increasingly automates it. Tracking follows shapes from frame to frame 
 
 ## See also
 - [[Onion Skinning]]
-- [[Chroma Key]]
+- [[Blend Mode]]
 - [[Morph Target]]

@@ -29,6 +29,6 @@ Tone mapping is a perceptual problem, not a mathematical one, so its references 
 - [[Dark Adaptation]]
 - [[Color Gamut]]
 - [[Gamma Correction]]
-- [[Dithering]]
+- [[Spherical Harmonics]]
 - [[Post-Processing]]
 - [[Cel Shading]]

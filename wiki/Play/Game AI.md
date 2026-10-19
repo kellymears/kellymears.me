@@ -27,7 +27,7 @@ Legibility is also a presentation problem, not only a behavior one. If a player 
 - [[Cellular Automaton]]
 - [[L-System]]
 - [[Dynamic Difficulty Adjustment]]
-- [[Voxel]]
+- [[Navigation Mesh]]
 - [[A-Star Search Algorithm]]
 - [[Dijkstra's Algorithm]]
 - [[Non-Player Character]]

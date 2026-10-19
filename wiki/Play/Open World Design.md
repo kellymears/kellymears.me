@@ -21,3 +21,5 @@ Open world design shares [[Fog of War]]'s reveal-the-map instinct at a meta leve
 - [[Terrain Generation]]
 - [[Heads-Up Display]]
 - [[Side Quest]]
+- [[Navigation Mesh]]
+- [[Texture Streaming]]

@@ -26,5 +26,5 @@ The released source also made Doom the standard test of whether a device can run
 The game's recorded demo files store inputs, not video, and replay deterministically, which made Doom an early center of competitive [[Speedrun]] culture; see [[Seeded Randomness]].
 
 ## See also
-- [[Perspective Projection]]
-- [[Fast Inverse Square Root]]
+- [[Mode 7]]
+- [[Portal Rendering]]

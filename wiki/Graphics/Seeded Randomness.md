@@ -23,7 +23,7 @@ Two cautions. A generator's *quality* matters for simulation and not much for ga
 - [[Generative Art]]
 - [[L-System]]
 - [[Entropy Pool]]
-- [[Deterministic Simulation Testing]]
+- [[Domain Warping]]
 
 ## Related
 - [[Turtle Graphics]]

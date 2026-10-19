@@ -19,7 +19,7 @@ The failure mode of *not* modeling something explicitly as a state machine is sc
 - [[Gray Code]]
 - [[Actor Model]]
 - [[Flowchart]]
-- [[Exploratory Testing]]
+- [[Navigation Mesh]]
 - [[Non-Player Character]]
 - [[Cloudbleed]]
 - [[Algebraic Data Type]]

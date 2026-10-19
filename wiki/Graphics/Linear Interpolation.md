@@ -31,7 +31,7 @@ Interpolating between known samples also lets [[Frame Generation]] and [[Tempora
 ## See also
 - [[Bresenham's Line Algorithm]]
 - [[Autoencoder]]
-- [[Web Animations API]]
+- [[Affine Texture Mapping]]
 - [[Morph Target]]
 - [[Barycentric Coordinates]]
 - [[NURBS]]

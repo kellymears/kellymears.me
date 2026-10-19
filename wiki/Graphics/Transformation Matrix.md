@@ -29,5 +29,5 @@ Matrices are the core of linear algebra, which underlies far more than graphics:
 
 ## See also
 - [[Strassen Algorithm]]
-- [[Numerical Stability]]
+- [[Mode 7]]
 - [[Linear Programming]]

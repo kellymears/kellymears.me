@@ -25,7 +25,7 @@ Desktop environments face the same problem. A [[Compositor]] that assembles ever
 
 ## See also
 - [[Motion Interpolation]]
-- [[Compositor]]
+- [[Dynamic Resolution Scaling]]
 - [[Latency and Jitter]]
 - [[requestAnimationFrame]]
 - [[Rasterization]]

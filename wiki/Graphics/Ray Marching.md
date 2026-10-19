@@ -28,5 +28,5 @@ Games also ray-march against the [[Depth Buffer]] for screen-space reflections, 
 - [[Constructive Solid Geometry]]
 - [[Marching Cubes]]
 - [[Screen Space Reflections]]
-- [[Ray Casting]]
+- [[Domain Warping]]
 - [[Volumetric Lighting]]

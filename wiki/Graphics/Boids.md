@@ -26,7 +26,7 @@ Real birds turned out to work slightly differently. A 2008 study of starling flo
 Rendering a large flock is usually done with instancing, drawing thousands of copies of one mesh in a single [[Draw Call]], and a [[Particle System]] often handles the smallest swarms, such as insects.
 
 ## See also
-- [[Emergent Gameplay]]
+- [[Navigation Mesh]]
 - [[Game AI]]
 - [[Cellular Automaton]]
 - [[Spatial Partitioning]]

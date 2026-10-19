@@ -29,5 +29,5 @@ Modern engines move culling onto the GPU itself, where compute shaders or mesh s
 - [[Scene Graph]]
 - [[Virtualized Geometry]]
 - [[Shadow Volume]]
-- [[Draw Call]]
+- [[Portal Rendering]]
 - [[Baked Lighting]]

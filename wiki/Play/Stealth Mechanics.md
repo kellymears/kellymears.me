@@ -20,3 +20,4 @@ Stealth mechanics are worth distinguishing from a [[Cover System]], though the t
 - [[Companion AI]]
 - [[Adaptive Music]]
 - [[Non-Player Character]]
+- [[Navigation Mesh]]

@@ -28,4 +28,4 @@ Overdone AO is one of the recognizable looks of late-2000s games, with heavy gri
 - [[Shadow Volume]]
 - [[Utah Teapot]]
 - [[Blue Noise]]
-- [[Baked Lighting]]
+- [[Spherical Harmonics]]

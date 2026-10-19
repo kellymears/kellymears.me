@@ -22,11 +22,11 @@ The general lesson applies outside graphics: for interactive systems, **variance
 
 ## See also
 - [[Sense of Agency]]
-- [[Game Loop]]
+- [[Dynamic Resolution Scaling]]
 - [[Swap Chain]]
 - [[Frame Rate]]
 - [[Debounce and Throttle]]
 - [[Racing the Beam]]
-- [[Resource Starvation]]
+- [[Texture Streaming]]
 - [[Interlacing]]
 - [[Screen Tearing]]

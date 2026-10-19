@@ -13,8 +13,8 @@ summary: The racing genre spectrum running from arcade handling to full physical
 The spectrum is also a choice about who the [[Metagame]] serves. Setup tuning — camber, gear ratios, brake bias — rewards a driver willing to reproduce a lap with the [[Determinism]] a fair leaderboard requires, the same discipline a [[Speedrun]] rewards elsewhere. Arcade racers keep that layer hidden so the fantasy of driving stays immediate.
 
 ## See also
-- [[Game Modding]]
-- [[Assist Mode]]
+- [[Soft Body Dynamics]]
+- [[Mode 7]]
 - [[Rolling Resistance]]
 - [[Determinism]]
 - [[Metagame]]

@@ -24,7 +24,7 @@ BVHs serve far beyond ray tracing. [[Culling]] uses them to reject whole regions
 ## See also
 - [[Convex Hull]]
 - [[Scene Graph]]
-- [[B-Tree]]
+- [[Soft Body Dynamics]]
 - [[Object Detection]]
 - [[Collision Detection]]
 - [[Big-O Notation]]

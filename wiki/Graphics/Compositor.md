@@ -34,5 +34,5 @@ Browsers use the same idea inside a page. Elements that animate `transform` or `
 - [[Background Tab Throttling]]
 - [[Alpha Compositing]]
 - [[Browser Engine]]
-- [[Long Task]]
+- [[Blend Mode]]
 - [[Swap Chain]]

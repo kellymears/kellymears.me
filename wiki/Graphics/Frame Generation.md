@@ -19,7 +19,7 @@ Genres sorted by sensitivity to latency, from [[Rhythm Game|rhythm]] and fightin
 
 ## See also
 - [[Denoising]]
-- [[Frame Rate]]
+- [[Dynamic Resolution Scaling]]
 - [[Interlacing]]
 - [[Motion Interpolation]]
 - [[Rollback Netcode]]

@@ -19,8 +19,8 @@ Emulation is also the practical route for [[Game Preservation]]: it is how a con
 
 ## See also
 - [[Vector Display]]
-- [[Disk Image]]
-- [[Adobe Flash]]
+- [[Mode 7]]
+- [[Affine Texture Mapping]]
 - [[Pinball]]
 - [[Futex]]
 - [[Point-and-Click Adventure]]

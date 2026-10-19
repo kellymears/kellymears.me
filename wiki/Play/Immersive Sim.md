@@ -18,7 +18,7 @@ That shift is expensive, and the expense is mostly in verification. A scripted e
 - [[Boss Battle]]
 - [[Fourth Wall]]
 - [[Playtesting]]
-- [[Ludonarrative Dissonance]]
+- [[Portal Rendering]]
 - [[Walking Simulator]]
 - [[Sequence Breaking]]
 - [[Tabletop Role-Playing Game]]
