@@ -26,6 +26,6 @@ Matching markets that run without prices, like school choice and medical residen
 
 ## See also
 - [[Diffusion of Innovations]]
-- [[Decoy Effect]]
+- [[Walled Garden]]
 - [[Schelling Point]]
 - [[Minitel]]

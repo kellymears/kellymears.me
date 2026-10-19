@@ -29,5 +29,5 @@ Transpilers also feed the language itself. Proposed features are implemented as 
 
 ## See also
 - [[Just-in-Time Compilation]]
-- [[Interpreter]]
+- [[Template Engine]]
 - [[CSS Preprocessor]]

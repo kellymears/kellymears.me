@@ -24,6 +24,6 @@ It's a close cousin of [[Backpressure]], but the direction of control is differe
 - [[Middleware]]
 - [[Sliding Window Protocol]]
 - [[Denial-of-Service Attack]]
-- [[Web Crawler]]
+- [[Slashdot Effect]]
 - [[Load Shedding]]
 - [[Semaphore]]

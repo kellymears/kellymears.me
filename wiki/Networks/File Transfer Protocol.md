@@ -27,5 +27,5 @@ The web gradually absorbed FTP's public role, since HTTP downloads pass through 
 FTP persists in older industrial systems, hosting providers, and data exchange between organizations, where scripts written decades ago still upload nightly files. It is a reminder of how long protocols outlive the assumptions they were built on; see [[Path Dependence]].
 
 ## See also
-- [[Archive File]]
+- [[Web Hosting]]
 - [[Hourglass Model]]

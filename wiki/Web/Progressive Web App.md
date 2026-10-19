@@ -30,7 +30,7 @@ The limits come from the platforms. Browser vendors decide which device APIs the
 Building one well means planning for the network being absent. Assets come from the cache, data lives in [[Web Storage]] such as IndexedDB, and edits made offline queue up and sync later. Pairing that with an [[Single-Page Application|app shell]] that loads instantly from cache gives the near-instant start that makes an installed web app feel native.
 
 ## See also
-- [[Service Worker]]
+- [[Walled Garden]]
 - [[Web Storage]]
 - [[Progressive Enhancement]]
 - [[HTTP Caching]]

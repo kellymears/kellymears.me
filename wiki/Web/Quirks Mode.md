@@ -28,3 +28,4 @@ One quirk was later adopted on purpose. The CSS property `box-sizing: border-box
 - [[User Agent String]]
 - [[HTML]]
 - [[Principle of Least Astonishment]]
+- [[Cascading Style Sheets]]

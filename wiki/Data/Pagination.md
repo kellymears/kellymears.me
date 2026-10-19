@@ -28,7 +28,7 @@ Interface design shapes which one fits. Numbered pages suit search results where
 - [[Pull-to-Refresh]]
 - [[Optimistic Locking]]
 - [[N+1 Query Problem]]
-- [[Boundary Value Analysis]]
+- [[Internet Forum]]
 - [[Empty State]]
 - [[Intersection Observer]]
 - [[Window Function]]

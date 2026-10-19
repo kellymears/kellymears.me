@@ -22,6 +22,6 @@ Other prompts now fill the same role. Cookie consent banners block content on fi
 Ads loaded in frames remain a security concern too, since an ad script can try to redirect the whole page or trick users into clicking hidden buttons; see [[Iframe]] and [[Clickjacking]]. The cycle of new intrusion, user annoyance, and browser countermeasure has repeated with each format; see [[Enshittification]].
 
 ## See also
-- [[Programmatic Advertising]]
+- [[Clickbait]]
 - [[Web Analytics]]
 - [[GeoCities]]

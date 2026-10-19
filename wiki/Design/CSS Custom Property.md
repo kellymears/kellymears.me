@@ -25,3 +25,4 @@ Two further practical notes. A `var()` that resolves to nothing fails *quietly*:
 - [[OKLCH]]
 - [[CSS Preprocessor]]
 - [[CSS-in-JS]]
+- [[Cascading Style Sheets]]

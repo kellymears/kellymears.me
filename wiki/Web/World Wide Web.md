@@ -29,6 +29,6 @@ The web's history since has been a negotiation between openness and control:
 The web's founding tolerance for imperfection still shows. Browsers render broken markup instead of refusing it, following [[Postel's Law]], and a page from 1995 generally still displays today. Building pages that work at a basic level everywhere and better where supported is the principle of [[Progressive Enhancement]].
 
 ## See also
-- [[File Transfer Protocol]]
+- [[Walled Garden]]
 - [[HTTP2 and HTTP3]]
-- [[Linked Data]]
+- [[Web Server]]

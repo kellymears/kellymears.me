@@ -15,7 +15,7 @@ Where they are not yet practical, the honest fallback is to make components tole
 
 ## See also
 - [[CSS Preprocessor]]
-- [[Design System]]
+- [[Cascading Style Sheets]]
 - [[UI Primitive]]
 
 ## Related

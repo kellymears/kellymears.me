@@ -24,6 +24,6 @@ A subtler hazard: content rendered by the server and then mutated directly by th
 - [[Jamstack]]
 - [[CSS-in-JS]]
 - [[Reactive Signals]]
-- [[Long Task]]
+- [[Template Engine]]
 - [[Layout Shift]]
 - [[Flash of Unstyled Content]]

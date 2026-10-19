@@ -19,13 +19,13 @@ For a page whose content is genuinely fixed, static generation dominates on ever
 ## See also
 - [[Jamstack]]
 - [[WordPress]]
-- [[Islands Architecture]]
+- [[Slashdot Effect]]
 - [[Slug]]
 - [[Sitemap]]
-- [[RSS]]
+- [[Template Engine]]
 
 ## Related
-- [[React Server Components]]
+- [[Web Hosting]]
 - [[Blog]]
 - [[Baked Lighting]]
 - [[Time to First Byte]]

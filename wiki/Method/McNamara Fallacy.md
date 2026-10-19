@@ -31,7 +31,7 @@ The fallacy is not an argument against measurement. Unmeasured judgment has its 
 A screen of numbers invites the fallacy by presenting what is countable as the whole picture; see [[Dashboard]].
 
 ## See also
-- [[Cholesterol]]
+- [[Clickbait]]
 - [[Law of the Instrument]]
 - [[Pulse Oximetry]]
 - [[Cost-Benefit Analysis]]

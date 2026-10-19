@@ -17,7 +17,7 @@ Understanding the cascade also explains a class of cross-application bugs: style
 ## See also
 - [[CSS Custom Property]]
 - [[Scoped Styling]]
-- [[Utility-First CSS]]
+- [[Cascading Style Sheets]]
 - [[Root Cause Analysis]]
 
 ## Related

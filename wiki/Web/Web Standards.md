@@ -32,11 +32,11 @@ Standards are also how the web keeps its compatibility promise. Browsers almost 
 For developers, the practical tools are [[Progressive Enhancement]], building on what works everywhere and adding what newer engines support, and the [[Polyfill]] for filling gaps. Features such as [[View Transitions]], the [[Container Query]], and [[Web Components]] each spent years in this pipeline before Baseline status.
 
 ## See also
-- [[Masonry Layout]]
+- [[Walled Garden]]
 - [[iCalendar]]
 - [[Quirks Mode]]
 - [[Encrypted Media Extensions]]
-- [[Internationalized Domain Name]]
+- [[Cascading Style Sheets]]
 - [[Mosaic]]
 - [[Web Animations API]]
 - [[Cross-Browser Testing]]

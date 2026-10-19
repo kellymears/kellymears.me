@@ -31,5 +31,5 @@ The debate concerns the same thing as other platform fights: who controls access
 ## See also
 - [[Quality of Service]]
 - [[Internet Service Provider]]
-- [[Internet Shutdown]]
+- [[Walled Garden]]
 - [[Last Mile]]

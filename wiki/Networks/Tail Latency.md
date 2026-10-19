@@ -38,4 +38,4 @@ Measuring the tail takes care. Percentiles can't be averaged across servers, and
 - [[Gray Failure]]
 - [[Inference Serving]]
 - [[Hedged Requests]]
-- [[Distributed Training]]
+- [[Slashdot Effect]]

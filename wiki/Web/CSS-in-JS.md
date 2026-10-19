@@ -21,5 +21,5 @@ These problems pushed the field toward **zero-runtime** libraries, such as vanil
 The debate has a long history. Keeping styles separate from markup was once the web's answer to presentational HTML, and critics saw CSS-in-JS as abandoning it; defenders argued that the meaningful separation is between components, not file types; see [[Shadow DOM]].
 
 ## See also
-- [[CSS Preprocessor]]
+- [[Cascading Style Sheets]]
 - [[Virtual DOM]]

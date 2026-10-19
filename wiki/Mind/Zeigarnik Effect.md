@@ -27,7 +27,7 @@ For people whose [[Working Memory]] is already loaded, [[Extended Mind|offloadin
 - [[Progress Indicator]]
 - [[Fresh Start Effect]]
 - [[Cliffhanger]]
-- [[Product Backlog]]
+- [[Clickbait]]
 - [[Legacy Game]]
 - [[Match-Three]]
 - [[Earworm]]

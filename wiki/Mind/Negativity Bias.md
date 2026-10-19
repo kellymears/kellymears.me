@@ -32,7 +32,7 @@ The bias isn't simply an error. Taking threats seriously is often wise, and dism
 
 ## See also
 - [[Sentiment Analysis]]
-- [[Agenda-Setting]]
+- [[Clickbait]]
 - [[Identifiable Victim Effect]]
 - [[Mood-Congruent Memory]]
 - [[Savoring]]

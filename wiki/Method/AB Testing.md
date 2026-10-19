@@ -27,7 +27,7 @@ A/B testing also carries ethical and strategic risks. Optimizing a single metric
 - [[Multi-Armed Bandit]]
 - [[PDCA Cycle]]
 - [[Call to Action]]
-- [[Decoy Effect]]
+- [[Clickbait]]
 - [[Multiple Comparisons Problem]]
 - [[Web Analytics]]
 - [[Hawthorne Effect]]

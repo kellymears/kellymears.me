@@ -25,3 +25,4 @@ The common criticism is that the boundaries blur. Controllers accumulate logic u
 ## See also
 - [[Hypermedia]]
 - [[Web Components]]
+- [[Template Engine]]

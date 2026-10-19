@@ -35,4 +35,4 @@ Base64 interacts badly with compression. Encoded data looks random to a compress
 
 ## See also
 - [[Line Ending]]
-- [[Checksum]]
+- [[URL Shortener]]

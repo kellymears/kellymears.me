@@ -33,7 +33,7 @@ SLOs depend on good measurement, the territory of [[Observability]]. They also d
 - [[Status Page]]
 - [[Dashboard]]
 - [[Andon Cord]]
-- [[Margin of Safety]]
+- [[Web Hosting]]
 - [[Gray Failure]]
 - [[Site Reliability Engineering]]
 - [[Control Chart]]

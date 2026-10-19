@@ -26,7 +26,7 @@ The security problem is breadth. A prompt reading "read and change all your data
 
 ## See also
 - [[Password Manager]]
-- [[Browser Engine]]
+- [[Walled Garden]]
 - [[Content Security Policy]]
 - [[Browser DevTools]]
 - [[Pop-up Ad]]

@@ -25,6 +25,6 @@ Platforms in this economy usually serve two groups at once, users and advertiser
 Responses range from personal to structural. Individuals use blockers, grayscale screens, and app timers. Some designers argue for technology that respects stopping points and says when there's nothing new. Regulators have targeted tracking and addictive design aimed at children. Subscription models, which tie revenue to satisfaction rather than time spent, are one partial alternative.
 
 ## See also
-- [[Identifiable Victim Effect]]
+- [[Clickbait]]
 - [[Programmatic Advertising]]
 - [[Cliffhanger]]

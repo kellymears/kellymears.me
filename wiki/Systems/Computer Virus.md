@@ -21,5 +21,5 @@ The motives changed with the economy around them. Early viruses were mostly pran
 The biological vocabulary stuck because the dynamics really are similar. Infections spread fastest through populations running identical software, and a flaw shared by millions of machines behaves like a disease in a population with no immunity.
 
 ## See also
-- [[Phishing]]
+- [[URL Shortener]]
 - [[Memory Safety]]

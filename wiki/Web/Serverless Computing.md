@@ -30,7 +30,7 @@ Other traps:
 Serverless is one point on a spectrum. [[Containerization]] gives more control while still offloading machines; a plain server gives the most. A variant runs functions in lightweight isolates at many locations near users rather than in one region; see [[Edge Computing]]. Many web frameworks now deploy server-rendered routes as serverless functions automatically, so developers use the model without choosing it; see [[Server-Side Rendering]].
 
 ## See also
-- [[Common Gateway Interface]]
+- [[Slashdot Effect]]
 - [[PHP]]
 - [[MicroVM]]
-- [[Time to First Byte]]
+- [[Web Hosting]]

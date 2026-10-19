@@ -23,7 +23,7 @@ The tools split on a real distinction: declarative tools (Terraform) describe th
 - [[Works on My Machine]]
 - [[Configuration Drift]]
 - [[Don't Repeat Yourself]]
-- [[Platform Engineering]]
+- [[Template Engine]]
 - [[YAML]]
 - [[Kubernetes]]
 - [[DevOps]]

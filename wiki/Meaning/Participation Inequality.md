@@ -22,5 +22,5 @@ Nielsen's suggestions for flattening the curve included making contribution easi
 Communities also change when newcomers arrive faster than existing members can teach norms, and the mix of contributors shifts; see [[Eternal September]].
 
 ## See also
-- [[Web 2.0]]
-- [[Survivorship Bias]]
+- [[Wikipedia]]
+- [[Internet Forum]]

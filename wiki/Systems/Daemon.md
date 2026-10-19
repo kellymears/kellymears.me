@@ -27,7 +27,7 @@ Scheduled work is the daemon's near relative; see [[Cron]].
 - [[File Watching]]
 - [[Truncation Bias]]
 - [[Uninterruptible Power Supply]]
-- [[Instrumentation]]
+- [[Web Server]]
 - [[Network Time Protocol]]
 - [[Pseudoterminal]]
 - [[Watchdog Timer]]

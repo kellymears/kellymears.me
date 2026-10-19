@@ -29,7 +29,7 @@ The same model appears elsewhere: [[Code Signing]] certificates for software, de
 - [[Equifax Data Breach]]
 - [[DNS Cache Poisoning]]
 - [[Mutual TLS]]
-- [[Air Gap]]
+- [[Web Server]]
 - [[Build Provenance]]
 - [[Heartbleed]]
 - [[HTTP Strict Transport Security]]

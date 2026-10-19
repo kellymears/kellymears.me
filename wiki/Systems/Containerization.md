@@ -29,5 +29,5 @@ Containers also concentrate the [[Port]] problem: published ports are host ports
 - [[Resource Limit]]
 - [[Pets vs Cattle]]
 - [[Disk Image]]
-- [[WebAssembly]]
+- [[Web Hosting]]
 - [[Works on My Machine]]

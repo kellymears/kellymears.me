@@ -17,7 +17,7 @@ Recent versions push configuration into CSS itself, defining the theme in a styl
 ## See also
 - [[CSS-in-JS]]
 - [[Cascade]]
-- [[UI Primitive]]
+- [[Cascading Style Sheets]]
 - [[Design System]]
 
 ## Related

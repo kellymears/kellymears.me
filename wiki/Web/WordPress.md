@@ -26,6 +26,6 @@ Governance is unusual: the open-source project, the nonprofit foundation, and th
 
 ## See also
 - [[IndieWeb]]
-- [[Web 2.0]]
+- [[Web Hosting]]
 - [[Blog]]
-- [[Slug]]
+- [[Template Engine]]

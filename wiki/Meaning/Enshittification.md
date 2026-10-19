@@ -31,5 +31,5 @@ Critics note the term is vivid but loose, sometimes applied to any product chang
 
 ## See also
 - [[Paywall]]
-- [[Web Search Engine]]
+- [[Walled Garden]]
 - [[Lump of Labor Fallacy]]

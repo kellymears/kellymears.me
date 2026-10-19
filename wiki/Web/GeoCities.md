@@ -30,6 +30,6 @@ The closure became a standard warning about building on a platform you don't con
 GeoCities is now remembered with some fondness. Its amateur pages, made by people with no commercial goal, are often contrasted with feeds built around engagement, and its aesthetic is copied on purpose by personal sites that want to feel handmade; see [[IndieWeb]].
 
 ## See also
-- [[Internet Archive]]
+- [[Web Hosting]]
 - [[Favicon]]
 - [[Brutalist Web Design]]

@@ -22,8 +22,8 @@ This layer is orthogonal to [[Cache Invalidation]] inside an application's own d
 ## Related
 - [[Time to First Byte]]
 - [[Time to Live]]
-- [[Thundering Herd]]
+- [[Slashdot Effect]]
 - [[Cloudbleed]]
-- [[Hypertext Transfer Protocol]]
+- [[Web Server]]
 - [[Back-Forward Cache]]
 - [[HTTP Compression]]

@@ -26,4 +26,4 @@ Practical defenses rely on recording sources rather than trusting memory to keep
 
 ## See also
 - [[Flashbulb Memory]]
-- [[Eidetic Memory]]
+- [[Wikipedia]]

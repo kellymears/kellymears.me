@@ -28,6 +28,6 @@ IRC conventions passed into later chat apps: channels with hash names, `/me` act
 - [[Minitel]]
 - [[MQTT]]
 - [[Instant Messaging]]
-- [[Bulletin Board System]]
+- [[Internet Forum]]
 - [[Multi-User Dungeon]]
 - [[SMS]]

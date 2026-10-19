@@ -20,7 +20,7 @@ Incompatible copyleft terms cannot legally combine in one distributed work, and 
 
 ## See also
 - [[Gift Economy]]
-- [[Free Software]]
+- [[Wikipedia]]
 - [[Benevolent Dictator for Life]]
 - [[Open Source Definition]]
 - [[License Compatibility]]

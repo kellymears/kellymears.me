@@ -25,6 +25,6 @@ The catch is data. Code at the edge is close to the user but usually far from th
 Outside the web, "edge computing" also means processing data on or near the devices that produce it, such as factory sensors, cameras, and vehicles, to save bandwidth and keep working when the network drops. The shared idea is the same: move computation to where the data or the user already is, because moving bytes across distance costs time; see [[Tail Latency]].
 
 ## See also
-- [[Tensor Processing Unit]]
+- [[Web Hosting]]
 - [[Time to First Byte]]
 - [[PHP]]

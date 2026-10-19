@@ -24,6 +24,6 @@ Security was another cost. CGI scripts handled raw user input, and careless ones
 CGI's ideas outlived it. Later standards for connecting web servers to applications in Python and Ruby kept the same shape: a request described as a set of variables in, a status, headers, and body out. Serverless functions revive its model of a short-lived handler per request with no memory between calls, and they share its start-up cost; see [[Serverless Computing]] and [[Hypertext Transfer Protocol]].
 
 ## See also
-- [[Middleware]]
-- [[Webring]]
+- [[Web Server]]
+- [[Template Engine]]
 - [[Mosaic]]

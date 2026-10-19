@@ -37,7 +37,7 @@ Grids also support visual order beyond layout. Aligning elements to shared lines
 
 ## See also
 - [[Masonry Layout]]
-- [[White Space]]
+- [[Cascading Style Sheets]]
 - [[Tiling Window Manager]]
 - [[Responsive Web Design]]
 - [[Data Table]]

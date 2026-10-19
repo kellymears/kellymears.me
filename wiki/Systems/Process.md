@@ -20,7 +20,7 @@ Diagnosing contention needs per-process detail rather than an aggregate load fig
 
 ## See also
 - [[Fork and Exec]]
-- [[Daemon]]
+- [[Web Server]]
 - [[Thread Pool]]
 - [[Inter-Process Communication]]
 - [[Connection Pool]]

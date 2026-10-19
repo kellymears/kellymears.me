@@ -25,7 +25,7 @@ Deciding what to shed matters as much. Not all requests are equal: a checkout or
 Load shedding works with other defenses rather than replacing them. [[Backpressure]] slows producers when the protocol allows it; a [[Circuit Breaker]] stops callers from hammering a service that's already failing; autoscaling adds capacity, but takes minutes, while shedding works instantly. A system shedding load is degrading gracefully: serving fewer users well instead of all users badly.
 
 ## See also
-- [[Tail Latency]]
+- [[Slashdot Effect]]
 - [[Thundering Herd]]
 - [[Service Level Objective]]
 - [[Northeast Blackout of 2003]]

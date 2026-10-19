@@ -28,4 +28,4 @@ The term carries some snobbery. Newcomers have always been treated as a problem 
 - [[Mailing List]]
 - [[Participation Inequality]]
 - [[Godwin's Law]]
-- [[Jargon]]
+- [[Internet Forum]]

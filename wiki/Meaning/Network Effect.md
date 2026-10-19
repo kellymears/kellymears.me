@@ -16,11 +16,11 @@ Network effects are often confused with switching costs, and the two are related
 
 ## See also
 - [[Napster]]
-- [[Comparative Advantage]]
+- [[Walled Garden]]
 - [[Fax]]
 - [[Universal Serial Bus]]
 - [[Hobson's Choice]]
 - [[Stable Matching]]
 - [[Gopher]]
-- [[Web 2.0]]
+- [[Slashdot Effect]]
 - [[Gresham's Law]]

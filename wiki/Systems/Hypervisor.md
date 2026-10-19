@@ -19,7 +19,7 @@ The isolation a hypervisor provides is stronger than a container's, because each
 - [[Chroot]]
 - [[Disk Image]]
 - [[Microcode]]
-- [[Speculative Execution]]
+- [[Web Hosting]]
 - [[Translation Lookaside Buffer]]
 - [[Serverless Computing]]
 - [[Spinlock]]

@@ -30,7 +30,7 @@ Checking is harder than it looks. Validators that test whether a value "starts w
 
 ## See also
 - [[Canonical URL]]
-- [[Content Security Policy]]
+- [[URL Shortener]]
 - [[Internationalized Domain Name]]
 - [[Referrer Policy]]
 - [[Deep Linking]]

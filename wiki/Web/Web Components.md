@@ -14,7 +14,7 @@ The pitch is framework independence: a Web Component built once works inside Rea
 The practical friction is that most application frameworks bring their own, more ergonomic component model — [[React Server Components]] or a Vue single-file component — and reaching for native Web Components inside one of those means giving up that framework's own state and reactivity conveniences in exchange for standards compliance most teams don't end up needing.
 
 ## See also
-- [[Shadow DOM]]
+- [[Template Engine]]
 - [[Virtual DOM]]
 - [[Document Object Model]]
 - [[Islands Architecture]]

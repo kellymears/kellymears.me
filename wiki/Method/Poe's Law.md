@@ -21,7 +21,7 @@ The law grew more relevant as online audiences lost shared context — the same 
 
 ## Related
 - [[Sturgeon's Law]]
-- [[Naming]]
+- [[Internet Forum]]
 - [[Kayfabe]]
 - [[Regulatory Capture]]
 - [[Steelmanning]]

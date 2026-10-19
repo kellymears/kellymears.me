@@ -15,7 +15,7 @@ Implementation is simple enough to be worth doing by hand: generate the XML in t
 Because the format is machine-readable and low-friction, it is also a decent general-purpose data channel: any list of dated items with links can be published this way.
 
 ## See also
-- [[Static Site Generation]]
+- [[Walled Garden]]
 - [[Structured Data]]
 - [[Blog]]
 - [[Markdown]]

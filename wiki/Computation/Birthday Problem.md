@@ -20,7 +20,7 @@ The general rule is that among N equally likely values, a repeat becomes likely 
 The same blindness to pairs explains why coincidences feel more meaningful than they are. With enough people and enough possible matches, some striking coincidence somewhere is nearly certain, even when any particular one is rare; see [[Texas Sharpshooter Fallacy]] and [[Multiple Comparisons Problem]].
 
 ## See also
-- [[Law of Large Numbers]]
+- [[URL Shortener]]
 - [[Prosecutor's Fallacy]]
 - [[Random Walk]]
 - [[Git Object Model]]

@@ -14,9 +14,9 @@ Caching introduces its own correctness problems. Static assets (images, JS bundl
 The tradeoff CDNs make explicit is between consistency and locality: an edge node can serve a slightly stale copy fast, or fetch a fresh one slowly. That's the same tension [[Eventual Consistency]] names in distributed databases, just applied to HTTP responses instead of replicated state.
 
 ## See also
-- [[Internet Exchange Point]]
+- [[Web Hosting]]
 - [[Subresource Integrity]]
-- [[Sneakernet]]
+- [[Slashdot Effect]]
 - [[Adaptive Bitrate Streaming]]
 - [[Jamstack]]
 - [[Zero-Copy]]

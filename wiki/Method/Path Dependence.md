@@ -21,5 +21,5 @@ That caution generalizes past keyboards. "Nobody would design it this way today"
 - [[Video Game Crash of 1983]]
 - [[Diffusion of Innovations]]
 - [[Encrypted Media Extensions]]
-- [[Paradigm Shift]]
+- [[Walled Garden]]
 - [[Boeing 737 MAX Groundings]]

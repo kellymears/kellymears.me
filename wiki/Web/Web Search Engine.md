@@ -21,5 +21,6 @@ Since 2023, engines have added generated answers above the links, summarizing re
 ## See also
 - [[Autocomplete]]
 - [[Attention Economy]]
-- [[Link Rot]]
+- [[Walled Garden]]
 - [[Dark Web]]
+- [[Wikipedia]]

@@ -24,4 +24,4 @@ Projects without a foundation often rely on a single founder as final decision-m
 ## See also
 - [[Free Software]]
 - [[The Cathedral and the Bazaar]]
-- [[Tragedy of the Commons]]
+- [[Web Server]]

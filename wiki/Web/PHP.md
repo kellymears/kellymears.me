@@ -22,6 +22,6 @@ PHP itself improved substantially. An attempted PHP 6 with built-in Unicode was 
 PHP's design choice of a fresh process per request returned in serverless functions and edge platforms, where code runs per request with no shared state; see [[Edge Computing]]. Its long survival is a case of a technology winning on ease of deployment rather than elegance; see [[Path Dependence]].
 
 ## See also
-- [[Node.js]]
-- [[Middleware]]
-- [[GeoCities]]
+- [[Web Server]]
+- [[Template Engine]]
+- [[Internet Forum]]

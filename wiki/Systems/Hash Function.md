@@ -16,7 +16,7 @@ And a hash used to derive a value from a small space — a port number, a bucket
 
 ## See also
 - [[String-Searching Algorithm]]
-- [[Timing Attack]]
+- [[URL Shortener]]
 - [[Entropy Pool]]
 - [[Password Manager]]
 - [[Zero-Knowledge Proof]]
