@@ -24,7 +24,7 @@ Two implementation notes. **Simultaneity is load-bearing**: updating in place le
 
 ## Related
 - [[Roguelike]]
-- [[Determinism]]
+- [[Flood Fill]]
 - [[Voxel]]
 - [[Game AI]]
 - [[Turing Completeness]]

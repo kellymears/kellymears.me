@@ -26,3 +26,4 @@ Page proportions shape layout traditions too. Book designers have long used othe
 ## See also
 - [[Swiss Style]]
 - [[White Space]]
+- [[Aspect Ratio]]

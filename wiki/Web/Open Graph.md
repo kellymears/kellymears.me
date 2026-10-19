@@ -36,4 +36,4 @@ The name reflects Facebook's original ambition, a "social graph" in which every 
 ## See also
 - [[Hotlinking]]
 - [[Web 2.0]]
-- [[Canonical URL]]
+- [[Aspect Ratio]]

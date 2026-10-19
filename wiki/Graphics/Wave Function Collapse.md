@@ -25,7 +25,7 @@ Oskar Stålberg made it famous in games. *Bad North* (2018) builds its islands w
 WFC has clear limits. It enforces only local rules, so it can't guarantee that a dungeon is connected or that a level has a beginning and an end. Those global properties need a separate check or a hybrid generator, which is why [[Roguelike]] level generators usually combine it with other methods, as they do [[Cellular Automaton]] caves. With [[Seeded Randomness]], a given seed always yields the same result, which helps testing and sharing.
 
 ## See also
-- [[Constraint Propagation]]
+- [[Flood Fill]]
 - [[Procedural Generation]]
 - [[Tile Map]]
 - [[Backtracking]]

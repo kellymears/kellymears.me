@@ -22,7 +22,7 @@ The main risk of a grid system is treating it as decoration rather than constrai
 
 ## Related
 - [[Container Query]]
-- [[White Space]]
+- [[Aspect Ratio]]
 - [[Infographic]]
 - [[Optical Alignment]]
 - [[CSS Grid]]

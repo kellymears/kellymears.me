@@ -24,7 +24,7 @@ Because the whole scene is one function evaluated per pixel, ray marching fits n
 Games also ray-march against the [[Depth Buffer]] for screen-space reflections, a [[Post-Processing]] effect that treats the visible frame as a crude height field.
 
 ## See also
-- [[Newton's Method]]
+- [[Metaballs]]
 - [[Constructive Solid Geometry]]
 - [[Marching Cubes]]
 - [[Screen Space Reflections]]

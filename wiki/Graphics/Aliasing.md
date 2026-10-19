@@ -27,7 +27,7 @@ The remedies all amount to either sampling more or [[Image Resampling|filtering 
 ## See also
 - [[Halftone]]
 - [[Interlacing]]
-- [[Bresenham's Line Algorithm]]
+- [[NTSC]]
 - [[Foveated Rendering]]
 - [[Fourier Transform]]
 - [[Screen Tearing]]

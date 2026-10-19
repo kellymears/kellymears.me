@@ -31,6 +31,6 @@ Curiosity varies between people. *Need for cognition*, the enjoyment of effortfu
 - [[Awe]]
 - [[Insight]]
 - [[Attachment Theory]]
-- [[Desirable Difficulty]]
+- [[Turtle Graphics]]
 - [[Boredom]]
 - [[Multi-Armed Bandit]]

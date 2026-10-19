@@ -26,7 +26,7 @@ Line drawing is the simplest case of [[Rasterization]], and modern GPUs fill tri
 The algorithm is a classic of efficient computing: it replaces arithmetic the hardware does badly with arithmetic it does well, without giving up exactness; see [[Fixed-point arithmetic]].
 
 ## See also
-- [[Pixel Art]]
+- [[Turtle Graphics]]
 - [[Vector Graphics]]
 - [[Bitwise Operation]]
 - [[Vector Display]]

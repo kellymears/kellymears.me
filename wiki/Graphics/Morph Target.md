@@ -23,3 +23,4 @@ The same idea appears outside characters: a sail filling with wind, a door denti
 ## See also
 - [[Photogrammetry]]
 - [[Twelve Basic Principles of Animation]]
+- [[Onion Skinning]]

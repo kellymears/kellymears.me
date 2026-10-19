@@ -6,7 +6,7 @@ Open the folder directly as a vault in Obsidian. Start at [[Home]].
 
 ## What's in here
 
-2226 concept notes across sixteen domains: method and epistemics, computation, language-model systems, the web platform, design and interface, testing, version control and delivery, systems and tooling, data and content, graphics and rendering, play and games, networks, matter, body, mind and attention, and meaning and society.
+2236 concept notes across sixteen domains: method and epistemics, computation, language-model systems, the web platform, design and interface, testing, version control and delivery, systems and tooling, data and content, graphics and rendering, play and games, networks, matter, body, mind and attention, and meaning and society.
 
 Every note is atomic — one concept, 200–400 words, written to make sense on its own to a reader who knows nothing about any particular codebase. Nothing here documents a specific application, employer, or repository. Where a note gets concrete, the concreteness exists to make the idea usable.
 

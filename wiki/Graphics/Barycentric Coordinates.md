@@ -31,3 +31,4 @@ They generalize: a point in a tetrahedron has four weights, and blending between
 - [[Tessellation]]
 - [[Graphics Pipeline]]
 - [[Transformation Matrix]]
+- [[NURBS]]

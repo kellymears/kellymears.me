@@ -26,7 +26,7 @@ Two practical notes. Precision and compiler optimization settings change results
 - [[Deferred Shading]]
 
 ## Related
-- [[Demoscene]]
+- [[Metaballs]]
 - [[Fluid Simulation]]
 - [[Cel Shading]]
 - [[L-System]]

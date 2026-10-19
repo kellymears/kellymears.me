@@ -15,7 +15,7 @@ The same idea generalizes past meshes: **impostors** replace a whole complex obj
 
 ## See also
 - [[Foveated Rendering]]
-- [[Rasterization]]
+- [[NURBS]]
 - [[Physically Based Rendering]]
 - [[Morph Target]]
 - [[Hysteresis]]

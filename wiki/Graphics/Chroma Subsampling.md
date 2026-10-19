@@ -30,7 +30,7 @@ There are subtler errors too. Luma is computed from gamma-encoded values rather 
 ## See also
 - [[Video Compression]]
 - [[Chroma Key]]
-- [[Font Rendering]]
+- [[NTSC]]
 - [[Image Resampling]]
 - [[Texture Compression]]
 - [[JPEG]]

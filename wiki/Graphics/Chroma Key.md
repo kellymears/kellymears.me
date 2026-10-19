@@ -28,3 +28,4 @@ A newer approach drops the screen. LED volumes surround the set with giant video
 - [[Stop Motion]]
 - [[Color Theory]]
 - [[Video Compression]]
+- [[Aspect Ratio]]

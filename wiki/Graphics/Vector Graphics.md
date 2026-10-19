@@ -28,8 +28,8 @@ Vectors are poor at photographs and natural textures, where detail doesn't reduc
 The line between the two has blurred. A [[Signed Distance Field]] stores shapes in a texture as distances to the nearest edge, letting games render text and icons with near-vector sharpness at any scale using a simple [[Shader]]. 3D graphics is fundamentally vector, built from triangles described by coordinates, until the final step turns it into pixels. A raster image scaled down needs [[Mipmapping]] or filtering to avoid shimmer, a problem vector art doesn't have.
 
 ## See also
-- [[Scene Graph]]
+- [[Turtle Graphics]]
 - [[Vector Display]]
 - [[HTML Canvas]]
-- [[Bresenham's Line Algorithm]]
+- [[NURBS]]
 - [[Data URI]]

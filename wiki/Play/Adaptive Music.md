@@ -29,6 +29,6 @@ Sound design overlaps with music here. Combat music and effects need to fit toge
 ## See also
 - [[Diegetic Interface]]
 - [[Walking Simulator]]
-- [[Game Loop]]
+- [[Generative Art]]
 - [[Earworm]]
 - [[Goosebumps]]

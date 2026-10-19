@@ -32,7 +32,7 @@ A fixed step has its own trap, the *spiral of death*: if one step takes longer t
 Where in the loop input is sampled, how many frames the CPU queues ahead of the GPU, and how frames reach the display all shape [[Input Latency]] and [[Frame Pacing]]. A loop that hitches, taking one long frame after many short ones, feels worse than one running steadily slower, which is why [[Game Feel]] depends on the loop as much as on the design.
 
 ## See also
-- [[Game Engine]]
+- [[Motion Interpolation]]
 - [[Scene Graph]]
 - [[Entity Component System]]
 - [[Memory Allocator]]

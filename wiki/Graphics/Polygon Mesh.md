@@ -31,4 +31,4 @@ Some uses need meshes to be *manifold*, or watertight: every edge shared by exac
 
 ## See also
 - [[Morph Target]]
-- [[Scene Graph]]
+- [[NURBS]]

@@ -26,6 +26,6 @@ That is the general lesson of NPR. Realism has an objective target, the way ligh
 - [[Halftone]]
 - [[Rotoscoping]]
 - [[Stencil Buffer]]
-- [[Color Quantization]]
+- [[Metaballs]]
 - [[Shading Model]]
 - [[Smear Frame]]

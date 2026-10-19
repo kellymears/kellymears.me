@@ -29,5 +29,5 @@ Flash's ideas, rich interactive applications in the browser, won even though Fla
 
 ## See also
 - [[jQuery]]
-- [[Path Dependence]]
+- [[Onion Skinning]]
 - [[Encrypted Media Extensions]]

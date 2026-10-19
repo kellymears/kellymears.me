@@ -28,6 +28,6 @@ Animation also has gameplay consequences. Attack and dodge timing in action game
 - [[Motion Capture]]
 - [[Morph Target]]
 - [[Keyframe Animation]]
-- [[Scene Graph]]
+- [[Onion Skinning]]
 - [[Stop Motion]]
 - [[Verlet Integration]]

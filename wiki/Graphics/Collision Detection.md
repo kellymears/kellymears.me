@@ -33,5 +33,5 @@ The same algorithms serve beyond games. Robotics uses collision checking for mot
 ## See also
 - [[Convex Hull]]
 - [[Quantum Tunneling]]
-- [[Radix Sort]]
+- [[Metaballs]]
 - [[Magnus Effect]]

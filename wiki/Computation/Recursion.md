@@ -15,7 +15,7 @@ Recursion is the natural fit for anything with a recursive shape in the data its
 
 ## See also
 - [[Common Table Expression]]
-- [[Radix Sort]]
+- [[Flood Fill]]
 - [[Dependent Types]]
 - [[Fractal]]
 - [[Logic Programming]]
@@ -23,5 +23,5 @@ Recursion is the natural fit for anything with a recursive shape in the data its
 - [[Fibonacci Sequence]]
 - [[Tower of Hanoi]]
 - [[Quine]]
-- [[Combinatory Logic]]
+- [[Turtle Graphics]]
 - [[Ackermann Function]]

@@ -36,5 +36,5 @@ Colors produced by interference rather than pigment are called structural colors
 - [[Spread Spectrum]]
 - [[Quantum Tunneling]]
 - [[Quantum Computing]]
-- [[Black Hole]]
+- [[Holography]]
 - [[Rainbow]]

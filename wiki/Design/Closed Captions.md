@@ -29,3 +29,4 @@ For still images, the parallel is alt text; for people who are blind, the parall
 ## See also
 - [[Reduced Motion]]
 - [[Typeface]]
+- [[NTSC]]

@@ -30,6 +30,6 @@ Projection sits between geometry and pixels. After it, [[Rasterization]] fills t
 - [[Ray Casting]]
 - [[Parallax Scrolling]]
 - [[Stereoscopy]]
-- [[Lens]]
-- [[Doom Engine]]
+- [[Aspect Ratio]]
+- [[NURBS]]
 - [[Isometric Projection]]

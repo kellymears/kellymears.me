@@ -30,5 +30,5 @@ Lisp was the dominant language of artificial intelligence research for decades. 
 Greenspun's tenth rule, a joke, holds that any sufficiently complicated program contains a slow, buggy, informally specified implementation of half of Common Lisp. Its point is that large systems end up building the dynamic features Lisp had from the start.
 
 ## See also
-- [[Combinatory Logic]]
+- [[Turtle Graphics]]
 - [[Dartmouth Workshop]]

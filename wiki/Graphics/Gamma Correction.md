@@ -29,7 +29,7 @@ GPUs handle sRGB textures and framebuffers in hardware, converting to linear on 
 - [[Image Sensor]]
 - [[Color Scale]]
 - [[Aliasing]]
-- [[Color Contrast]]
+- [[NTSC]]
 - [[Dithering]]
 - [[Alpha Compositing]]
 - [[Chroma Subsampling]]

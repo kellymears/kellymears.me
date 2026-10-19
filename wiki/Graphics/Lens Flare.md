@@ -24,3 +24,4 @@ Flare belongs with the other simulated camera imperfections, such as glow around
 ## See also
 - [[Image Sensor]]
 - [[Motion Blur]]
+- [[Aspect Ratio]]

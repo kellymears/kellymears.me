@@ -34,4 +34,4 @@ When a source color falls outside the destination gamut, **gamut mapping** must 
 - [[Image Sensor]]
 - [[OLED]]
 - [[Gamma Correction]]
-- [[Dithering]]
+- [[NTSC]]

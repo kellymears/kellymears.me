@@ -21,7 +21,7 @@ The aesthetic dimension is separable from the technical one. Voxel art is a deli
 - [[Polygon Mesh]]
 
 ## Related
-- [[Seeded Randomness]]
+- [[Flood Fill]]
 - [[Cellular Automaton]]
 - [[Roguelike]]
 - [[L-System]]

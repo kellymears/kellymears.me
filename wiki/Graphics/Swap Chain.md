@@ -28,7 +28,7 @@ On desktop systems, the swap chain doesn't usually go straight to the screen. A 
 Buffers also hold more than color. Renderers use many intermediate images per frame, a [[Depth Buffer]] and the targets of [[Deferred Shading]] and [[Post-Processing]], but only the final image enters the swap chain.
 
 ## See also
-- [[Game Loop]]
+- [[Motion Interpolation]]
 - [[High Dynamic Range]]
 - [[Racing the Beam]]
 - [[Frame Rate]]

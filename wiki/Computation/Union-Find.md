@@ -38,3 +38,4 @@ Its appeal is the ratio of power to code. A dozen lines give near-constant conne
 - [[Consistent Hashing]]
 - [[Minimum Spanning Tree]]
 - [[Ackermann Function]]
+- [[Flood Fill]]

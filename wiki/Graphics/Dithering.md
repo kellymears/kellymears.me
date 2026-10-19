@@ -30,4 +30,4 @@ Audio uses the same idea. When a recording is reduced from 24-bit to 16-bit for 
 - [[Color Cycling]]
 - [[Color Quantization]]
 - [[Blue Noise]]
-- [[Video Compression]]
+- [[Flood Fill]]

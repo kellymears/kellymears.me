@@ -24,5 +24,5 @@ Rendering large terrain needs care. Distant ground is drawn with fewer triangles
 Terrain shapes gameplay: sightlines, routes, and landmarks matter more than geological accuracy; see [[Open World Design]] and [[Level Design]]. Many games combine generated terrain with hand placement. Real elevation data from satellites and surveys provides another source, used in flight simulators and maps; see [[Photogrammetry]].
 
 ## See also
-- [[Sandbox Game]]
+- [[Flood Fill]]
 - [[Fluid Simulation]]

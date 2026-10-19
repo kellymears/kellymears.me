@@ -25,7 +25,7 @@ Generating good blue noise is slow, so it is usually precomputed into a small ti
 
 ## See also
 - [[Foveated Rendering]]
-- [[Aliasing]]
+- [[Generative Art]]
 - [[Halftone]]
 - [[Denoising]]
 - [[Volumetric Lighting]]

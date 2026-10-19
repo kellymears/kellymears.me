@@ -29,7 +29,7 @@ People have copied the idea in color-shifting paint on banknotes and cars, anti-
 Structural color is a reminder that color describes how light interacts with a surface, not a substance in it; see [[Electromagnetic Spectrum]] and [[Metamerism]].
 
 ## See also
-- [[Refraction]]
+- [[Holography]]
 - [[Fluorescence]]
 - [[Color Gamut]]
 - [[Rainbow]]

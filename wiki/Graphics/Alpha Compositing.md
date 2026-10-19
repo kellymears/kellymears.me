@@ -27,5 +27,5 @@ Alpha has limits in what it can represent. A single value per pixel can't expres
 - [[Lens Flare]]
 - [[Sprite]]
 - [[GIF]]
-- [[Stencil Buffer]]
+- [[Onion Skinning]]
 - [[Order-Independent Transparency]]

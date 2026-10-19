@@ -30,3 +30,4 @@ The rainbow's order of hues has a poorer reputation in data visualization. Rainb
 - [[Structural Color]]
 - [[Spectroscopy]]
 - [[Eclipse]]
+- [[Holography]]

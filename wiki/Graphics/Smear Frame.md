@@ -28,3 +28,4 @@ Smears show that the eye perceives motion from cues rather than accurate snapsho
 ## See also
 - [[Rotoscoping]]
 - [[Pixel Art]]
+- [[Onion Skinning]]

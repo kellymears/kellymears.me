@@ -26,3 +26,4 @@ Subpixel layouts vary. Many phones use arrangements with more green subpixels th
 ## See also
 - [[Color Gamut]]
 - [[Fluorescence]]
+- [[Motion Interpolation]]

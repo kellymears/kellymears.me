@@ -34,6 +34,6 @@ It is part of a broader move toward representations learned from data, alongside
 
 ## See also
 - [[Diffusion Model]]
-- [[Signed Distance Field]]
+- [[Holography]]
 - [[Image-Based Lighting]]
 - [[Stereoscopy]]

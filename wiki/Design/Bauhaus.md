@@ -26,7 +26,7 @@ The Nazis, who considered the school politically suspect, forced it to close in 
 The legacy is mixed. Critics argue that functionalism became a style of its own, that "universal" forms ignored local culture, and that stripped-down housing blocks failed the people living in them. But its core idea, that designers should understand how things are made and used, underlies modern interface design; see [[Visual Hierarchy]], [[White Space]], and [[Flat Design]].
 
 ## See also
-- [[Gestalt Principles]]
+- [[Generative Art]]
 - [[Design System]]
 - [[Affordance]]
 - [[Color Theory]]

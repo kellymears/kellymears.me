@@ -29,3 +29,4 @@ SDFs also back most GPU and game-engine text rendering (Valve's 2007 technique a
 - [[Demoscene]]
 - [[Constructive Solid Geometry]]
 - [[Newton's Method]]
+- [[Metaballs]]

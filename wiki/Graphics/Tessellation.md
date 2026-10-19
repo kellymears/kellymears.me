@@ -26,7 +26,7 @@ The film industry got there first. Pixar's REYES architecture, behind RenderMan 
 In games, the fixed tessellation stages have been largely overtaken. Mesh shaders, introduced with NVIDIA's Turing architecture in 2018, let a compute-style [[Shader]] generate geometry in any pattern. Unreal Engine 5's Nanite goes further, streaming clusters of pre-built micro-triangles and drawing the smallest with a software rasterizer, because hardware [[Rasterization]] handles pixel-sized triangles poorly. The goal hasn't changed: put triangles where the viewer can see them and nowhere else.
 
 ## See also
-- [[Level of Detail]]
+- [[NURBS]]
 - [[Normal Mapping]]
 - [[Marching Cubes]]
 - [[Draw Call]]

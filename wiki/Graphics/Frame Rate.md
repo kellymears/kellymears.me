@@ -31,4 +31,4 @@ Film has resisted higher rates. *The Hobbit* (2012) was shown in many theaters a
 - [[Foveated Rendering]]
 - [[Motion Sickness]]
 - [[Smear Frame]]
-- [[Interlacing]]
+- [[Motion Interpolation]]

@@ -29,3 +29,4 @@ Applied heavily, liquid rescaling in GIMP and ImageMagick became an internet jok
 ## See also
 - [[JPEG]]
 - [[Post-Processing]]
+- [[Aspect Ratio]]

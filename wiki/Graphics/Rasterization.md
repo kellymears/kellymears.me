@@ -26,5 +26,5 @@ Performance work in a rasterizer is mostly about reducing [[Draw Call|draw calls
 - [[Transformation Matrix]]
 - [[Stencil Buffer]]
 - [[Virtualized Geometry]]
-- [[Vector Graphics]]
+- [[Flood Fill]]
 - [[L-System]]

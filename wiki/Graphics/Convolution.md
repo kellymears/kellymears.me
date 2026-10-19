@@ -33,7 +33,7 @@ Convolution reaches well beyond photo filters. The filters used in [[Image Resam
 - [[Seam Carving]]
 - [[Reverberation]]
 - [[Fourier Transform]]
-- [[ImageNet]]
+- [[Generative Art]]
 - [[Prosopagnosia]]
 - [[Generative Adversarial Network]]
 - [[Object Detection]]

@@ -31,6 +31,6 @@ Graphics usually pretends lenses don't exist, imagining a perfect pinhole camera
 
 ## See also
 - [[Lens Flare]]
-- [[Black Hole]]
+- [[Aspect Ratio]]
 - [[Eclipse]]
 - [[Microfilm]]

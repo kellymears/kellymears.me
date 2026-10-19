@@ -21,7 +21,7 @@ Upscaling is now load-bearing in modern games. Expensive techniques like real-ti
 
 ## See also
 - [[Blue Noise]]
-- [[Rasterization]]
+- [[Motion Interpolation]]
 - [[Level of Detail]]
 - [[Video Compression]]
 - [[Frame Rate]]

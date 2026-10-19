@@ -29,3 +29,4 @@ The word is also used for a different idea in image files. An interlaced GIF or 
 - [[Vector Display]]
 - [[Chroma Subsampling]]
 - [[Closed Captions]]
+- [[NTSC]]

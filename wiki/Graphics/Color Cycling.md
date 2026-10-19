@@ -22,3 +22,4 @@ The technique faded when displays moved to direct color, where each pixel stores
 ## See also
 - [[Tile Map]]
 - [[Game Preservation]]
+- [[NTSC]]

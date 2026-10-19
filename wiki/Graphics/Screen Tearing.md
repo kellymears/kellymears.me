@@ -24,7 +24,7 @@ The variants trade those costs differently:
 Desktop environments face the same problem. A [[Compositor]] that assembles every window into one image can present it on a VSync schedule, which is why modern compositing desktops are usually tear-free by default. Because competitive players often prefer tearing to added latency, some compositors let fullscreen games opt back into tearing. Browsers hide the whole question behind [[requestAnimationFrame]], which runs a page's animation code in step with the display's refresh.
 
 ## See also
-- [[Frame Pacing]]
+- [[Motion Interpolation]]
 - [[Compositor]]
 - [[Latency and Jitter]]
 - [[requestAnimationFrame]]

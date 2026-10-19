@@ -27,5 +27,5 @@ Oceans are usually not simulated at all. Instead, renderers sum thousands of wav
 Games rely on heavier shortcuts: textures scrolled along flow directions, small simulations confined to a pool or a puff of smoke, and [[Shader]] tricks. Running real simulations on the [[Graphics Processing Unit]] has made more of them interactive. Erosion in generated landscapes uses simplified water flow; see [[Terrain Generation]]. Flames add temperature and buoyancy to the same equations.
 
 ## See also
-- [[Caustics]]
+- [[Metaballs]]
 - [[Cavitation]]

@@ -27,7 +27,7 @@ Related curves handle cases Béziers handle poorly. B-splines and NURBS, used in
 ## See also
 - [[Twelve Basic Principles of Animation]]
 - [[Utah Teapot]]
-- [[Rasterization]]
+- [[NURBS]]
 - [[Keyframe Animation]]
 - [[Font Rendering]]
 - [[Linear Interpolation]]

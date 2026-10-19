@@ -20,13 +20,13 @@ Two cautions. A generator's *quality* matters for simulation and not much for ga
 - [[Input and Output Randomness]]
 - [[Reservoir Sampling]]
 - [[Fisher-Yates Shuffle]]
-- [[Constraint Propagation]]
+- [[Generative Art]]
 - [[L-System]]
 - [[Entropy Pool]]
 - [[Deterministic Simulation Testing]]
 
 ## Related
-- [[Voxel]]
+- [[Turtle Graphics]]
 - [[Trick-Taking Game]]
 - [[Perlin Noise]]
 - [[Tetris]]

@@ -34,4 +34,4 @@ Interpolating between known samples also lets [[Frame Generation]] and [[Tempora
 - [[Line Chart]]
 - [[Morph Target]]
 - [[Barycentric Coordinates]]
-- [[Transformation Matrix]]
+- [[NURBS]]

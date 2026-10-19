@@ -29,7 +29,7 @@ Artists also borrow Fresnel terms for stylized rim glows and force-field shimmer
 
 ## See also
 - [[Rendering Equation]]
-- [[Refraction]]
+- [[Holography]]
 - [[Screen Space Reflections]]
 - [[Ray Tracing]]
 - [[Caustics]]

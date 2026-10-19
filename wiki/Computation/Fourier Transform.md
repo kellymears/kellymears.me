@@ -27,3 +27,4 @@ The transform also reveals a fundamental trade-off. A signal concentrated in tim
 ## See also
 - [[Simple Harmonic Motion]]
 - [[Wave Interference]]
+- [[Holography]]

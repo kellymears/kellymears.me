@@ -29,7 +29,7 @@ Several constraints shape any real implementation.
 - [[requestAnimationFrame]]
 
 ## Related
-- [[Component Story]]
+- [[Onion Skinning]]
 - [[Twelve Basic Principles of Animation]]
 - [[Bézier Curve]]
 - [[View Transitions]]

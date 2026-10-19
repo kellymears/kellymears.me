@@ -17,7 +17,7 @@ Duration still matters and the useful range is narrow. Under roughly 100 millise
 ## See also
 - [[Motion Design]]
 - [[Staggered Animation]]
-- [[Reduced Motion]]
+- [[Onion Skinning]]
 - [[Rhythm Game]]
 
 ## Related
