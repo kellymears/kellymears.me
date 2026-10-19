@@ -22,3 +22,6 @@ The same collagen-remodeling logic explains why [[Fracture Nonunion]] and proble
 - [[Fascia]]
 - [[Plantar Fasciitis]]
 - [[Frostbite]]
+- [[Ankle Sprain]]
+- [[Blister]]
+- [[Bruise]]

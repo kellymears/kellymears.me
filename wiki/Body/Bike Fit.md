@@ -30,5 +30,5 @@ Good fitters change one thing at a time, in small steps of a few millimeters, an
 - [[Ulnar Neuropathy]]
 - [[Posture]]
 - [[Exercise Economy]]
-- [[Low Back Pain]]
-- [[Paresthesia]]
+- [[Iliotibial Band Syndrome]]
+- [[Blister]]

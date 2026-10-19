@@ -29,4 +29,4 @@ Expectation and attention also modulate pain, as [[Predictive Processing]] and t
 - [[Concussion]]
 - [[Itch]]
 - [[Brain Freeze]]
-- [[Capsaicin]]
+- [[Osteoarthritis]]

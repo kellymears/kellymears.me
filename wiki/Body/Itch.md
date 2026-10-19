@@ -24,5 +24,5 @@ Some people scratch or pick at their skin compulsively, a pattern related to oth
 
 ## See also
 - [[Capsaicin]]
-- [[Paresthesia]]
+- [[Restless Legs Syndrome]]
 - [[Scar Tissue]]

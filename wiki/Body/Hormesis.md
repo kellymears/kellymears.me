@@ -25,6 +25,6 @@ Hormesis is also contested. Radiation hormesis, the claim that low radiation dos
 Engineers apply the same logic to systems. [[Chaos Engineering]] injects small, controlled failures so systems and teams develop resilience before a large one arrives, and [[Fuzzing]] uses a stream of malformed input to harden software.
 
 ## See also
-- [[Capsaicin]]
+- [[Blister]]
 - [[Bradford Hill Criteria]]
 - [[Runner's High]]

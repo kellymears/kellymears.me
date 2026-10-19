@@ -28,4 +28,4 @@ Several findings run against intuition:
 Games are an intensive motor-learning environment. Tight [[Game Feel]] gives the instant, consistent feedback the cerebellum learns best from. Fighting game players drill execution against [[Frame Data]], speedrunners grind segments of a [[Speedrun]] until routes run automatically, and a [[Rhythm Game]] is motor learning presented as a game. Good tutorials follow the stages, introducing one mechanic at a time and then mixing them along the [[Difficulty Curve]].
 
 ## See also
-- [[Reaction Time]]
+- [[Ankle Sprain]]

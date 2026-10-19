@@ -31,7 +31,7 @@ Cramps are different from [[Delayed Onset Muscle Soreness]], the ache that arriv
 - [[Hiccup]]
 - [[Proprioception]]
 - [[Muscle Fiber Types]]
-- [[Heat Acclimation]]
+- [[Restless Legs Syndrome]]
 - [[Stretching]]
 - [[Warm-Up]]
 - [[Side Stitch]]

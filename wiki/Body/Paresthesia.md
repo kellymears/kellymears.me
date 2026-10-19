@@ -24,5 +24,5 @@ Paresthesia that persists or keeps returning deserves attention. Diabetes damage
 Tingling shows that the nervous system builds sensation from patterns of activity, not from direct contact with the world. Nerves that fire without a stimulus produce real feelings, a principle seen at its extreme in sensations from a missing limb; see [[Phantom Limb]] and [[Nociception]].
 
 ## See also
-- [[Itch]]
-- [[Watershed Blood Supply]]
+- [[Blister]]
+- [[Restless Legs Syndrome]]

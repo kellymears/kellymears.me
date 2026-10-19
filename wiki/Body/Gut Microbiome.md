@@ -34,6 +34,6 @@ Gut signals also contribute to the body sense of [[Interoception]], which may ex
 - [[Lymphatic System]]
 - [[Antibiotic Resistance]]
 - [[Umami]]
-- [[Immune System]]
+- [[Asthma]]
 - [[Appetite Regulation]]
 - [[Allergy]]

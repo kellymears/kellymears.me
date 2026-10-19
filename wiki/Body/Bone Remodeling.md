@@ -17,11 +17,11 @@ Imaging lags the biology, so a radiograph is a proxy and not [[Ground Truth]] fo
 ## See also
 - [[Shin Splints]]
 - [[Plantar Fasciitis]]
-- [[Sarcopenia]]
+- [[Bruise]]
 - [[Vitamin D]]
 - [[Osteoporosis]]
 - [[Stress Fracture]]
-- [[Hormesis]]
+- [[Osteoarthritis]]
 
 ## Related
 - [[Sensitivity and Specificity]]

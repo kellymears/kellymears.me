@@ -31,6 +31,6 @@ Water also travels with fuel. Each gram of stored [[Glycogen]] binds about three
 - [[Heat Stroke]]
 - [[Endocrine System]]
 - [[Side Stitch]]
-- [[Lymphatic System]]
+- [[Syncope]]
 - [[Dew Point]]
-- [[Blood Pressure]]
+- [[Blister]]

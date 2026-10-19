@@ -30,5 +30,5 @@ Lifestyle changes have real effects. Regular aerobic exercise lowers systolic pr
 - [[Brain Freeze]]
 - [[Lymphatic System]]
 - [[Reynolds Number]]
-- [[Cardiac Output]]
+- [[Syncope]]
 - [[Atmospheric Pressure]]

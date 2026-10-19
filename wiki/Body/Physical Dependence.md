@@ -19,7 +19,7 @@ Folk comparisons — "X is basically the same as Y" — collapse these axes into
 - [[Insomnia]]
 - [[Hangover]]
 - [[Taxonomy]]
-- [[Prototype Theory]]
+- [[Restless Legs Syndrome]]
 - [[Segmented Sleep]]
 - [[Fracture Nonunion]]
 - [[Central Sensitization]]

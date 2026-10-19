@@ -28,3 +28,5 @@ Massage marketed as "lymphatic drainage" has a real basis for treating lymphedem
 ## See also
 - [[Allergy]]
 - [[Gut Microbiome]]
+- [[Blister]]
+- [[Bruise]]

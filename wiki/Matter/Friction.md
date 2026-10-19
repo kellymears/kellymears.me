@@ -22,3 +22,5 @@ That static-to-kinetic gap also produces **stick-slip**, an oscillation where an
 - [[Electrostatic Discharge]]
 - [[Rigid Body Dynamics]]
 - [[Lever]]
+- [[Iliotibial Band Syndrome]]
+- [[Blister]]

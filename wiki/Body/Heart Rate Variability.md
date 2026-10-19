@@ -27,6 +27,6 @@ HRV is also used as a broad index of stress physiology, linking it to [[Allostat
 
 ## See also
 - [[Mammalian Dive Reflex]]
-- [[Diaphragmatic Breathing]]
+- [[Syncope]]
 - [[Hiccup]]
 - [[Autonomic Nervous System]]

@@ -28,6 +28,6 @@ Shoes are the newest factor. Carbon-plated shoes with resilient foams, introduce
 
 ## See also
 - [[Critical Power]]
-- [[Functional Threshold Power]]
+- [[Iliotibial Band Syndrome]]
 - [[Shin Splints]]
 - [[Cardiac Output]]

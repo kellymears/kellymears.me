@@ -34,7 +34,7 @@ Stretching is pleasant for many people and a reasonable way to unwind, and it do
 ## See also
 - [[Proprioception]]
 - [[Plantar Fasciitis]]
-- [[Strength Training]]
-- [[Tendon and Ligament]]
+- [[Restless Legs Syndrome]]
+- [[Iliotibial Band Syndrome]]
 - [[Warm-Up]]
 - [[Fascia]]

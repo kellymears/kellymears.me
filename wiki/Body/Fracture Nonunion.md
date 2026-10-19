@@ -21,7 +21,7 @@ Detection is imperfect: plain radiographs are moderately sensitive, and computed
 - [[Fracture Fixation]]
 - [[Vitamin D]]
 - [[Stress Fracture]]
-- [[Sensitivity and Specificity]]
+- [[Ankle Sprain]]
 
 ## Related
 - [[Ground Truth]]

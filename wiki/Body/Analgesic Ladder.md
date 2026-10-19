@@ -25,3 +25,4 @@ The ladder's underlying premise — that pain severity should be matched, not ex
 - [[Gate Control Theory]]
 - [[Hangover]]
 - [[Capsaicin]]
+- [[Osteoarthritis]]

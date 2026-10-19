@@ -29,11 +29,11 @@ Disruptions alter the architecture. Alcohol helps people fall asleep but suppres
 Consumer wearables estimate stages from movement and heart rate rather than brain waves. They track total sleep reasonably well but classify individual stages much less accurately than a lab study, so nightly stage breakdowns are best read as rough trends. The [[Circadian Rhythm]] sets when the night falls, and [[Segmented Sleep]] shows the cycles can be split into two blocks.
 
 ## See also
-- [[Sleep Deprivation]]
+- [[Restless Legs Syndrome]]
 - [[Sleep Paralysis]]
 - [[Dreaming]]
 - [[Napping]]
 - [[Sleep Apnea]]
 - [[Hangover]]
 - [[Lymphatic System]]
-- [[Immune System]]
+- [[Microsleep]]

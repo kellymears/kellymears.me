@@ -27,5 +27,5 @@ Checklists also have failure modes. Ticking boxes without performing the checks 
 
 ## See also
 - [[Just Culture]]
-- [[Cynefin Framework]]
+- [[Ankle Sprain]]
 - [[Failure Mode and Effects Analysis]]

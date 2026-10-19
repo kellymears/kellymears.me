@@ -17,9 +17,9 @@ Practical technique. **Irrigate** with clean water or saline at adequate volume 
 ## See also
 - [[Nociception]]
 - [[Frostbite]]
-- [[Regional Nerve Block]]
+- [[Blister]]
 - [[Bone Remodeling]]
-- [[Plausible Mechanism]]
+- [[Bruise]]
 - [[Fracture Fixation]]
 - [[Retinoid]]
 

@@ -22,3 +22,4 @@ Risk factors track anything that causes swelling in a sealed space fast: long bo
 - [[Rhabdomyolysis]]
 - [[Frostbite]]
 - [[Lymphatic System]]
+- [[Bruise]]

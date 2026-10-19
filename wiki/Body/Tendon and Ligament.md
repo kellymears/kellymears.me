@@ -13,7 +13,7 @@ Both tissue types share a frustrating property: they are relatively **poorly vas
 
 ## See also
 - [[Scar Tissue]]
-- [[Bone Remodeling]]
+- [[Osteoarthritis]]
 - [[Compartment Syndrome]]
 - [[Fracture Fixation]]
 - [[Plantar Fasciitis]]
@@ -21,7 +21,7 @@ Both tissue types share a frustrating property: they are relatively **poorly vas
 - [[Delayed Onset Muscle Soreness]]
 - [[Hormesis]]
 - [[Repetitive Strain Injury]]
-- [[Strength Training]]
+- [[Ankle Sprain]]
 - [[Stretching]]
 - [[Elasticity]]
 - [[Material Fatigue]]

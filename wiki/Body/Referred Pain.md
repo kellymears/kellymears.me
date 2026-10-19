@@ -26,3 +26,4 @@ Referred pain is distinct from radiating pain, which travels along a single nerv
 - [[Phantom Limb]]
 - [[Side Stitch]]
 - [[Brain Freeze]]
+- [[Iliotibial Band Syndrome]]

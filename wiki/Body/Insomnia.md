@@ -32,7 +32,7 @@ Some people believe they barely sleep while sleep studies show near-normal sleep
 Waking in the middle of the night is not always a disorder. Historical records suggest people once routinely slept in two blocks with a waking interval; see [[Segmented Sleep]]. Insomnia can also mask other conditions, including a shifted body clock in night owls and [[Sleep Apnea]].
 
 ## See also
-- [[Sleep Deprivation]]
+- [[Restless Legs Syndrome]]
 - [[Napping]]
 - [[Chronotype]]
 - [[Hangover]]

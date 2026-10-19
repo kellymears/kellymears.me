@@ -27,3 +27,4 @@ Stories of children surviving long submersion in icy water are sometimes credite
 ## See also
 - [[Heart Rate Variability]]
 - [[Diaphragmatic Breathing]]
+- [[Syncope]]

@@ -23,7 +23,7 @@ The commercial fidget toy boom of the late 2010s made stimming mainstream almost
 ## See also
 - [[Embodied Cognition]]
 - [[Misophonia]]
-- [[Proprioception]]
+- [[Restless Legs Syndrome]]
 - [[Itch]]
 - [[Neurodiversity]]
 - [[Body Doubling]]

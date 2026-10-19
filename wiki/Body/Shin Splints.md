@@ -24,5 +24,5 @@ Treatment is mostly reducing load. Running is cut back or replaced with cycling 
 Prevention is the same idea in reverse: increase running volume gradually, mix hard days with easy ones, and add strength work for the calves and hips, which absorb some of the impact; see [[Periodization]] and [[Strength Training]]. Shin splints are one of a family of overuse injuries where tissue fails from repetition, not a single event; see [[Repetitive Strain Injury]] and [[Tendinopathy]].
 
 ## See also
-- [[Exercise Economy]]
+- [[Iliotibial Band Syndrome]]
 - [[Warm-Up]]

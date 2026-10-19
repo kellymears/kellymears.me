@@ -27,7 +27,7 @@ The labels can be overstated. Chronotype is a spectrum rather than a set of type
 
 ## See also
 - [[Sleep Stages]]
-- [[Executive Function]]
+- [[Microsleep]]
 - [[Time Blindness]]
 - [[Napping]]
 - [[Insomnia]]

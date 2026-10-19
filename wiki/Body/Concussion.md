@@ -32,7 +32,8 @@ The brain's ability to recover, described under [[Neuroplasticity]], is substant
 
 ## See also
 - [[Brain Freeze]]
-- [[Central Sensitization]]
-- [[Neuroplasticity]]
-- [[Sensory Overload]]
+- [[Ankle Sprain]]
+- [[Vertigo]]
+- [[Bruise]]
 - [[Creatine]]
+- [[Syncope]]

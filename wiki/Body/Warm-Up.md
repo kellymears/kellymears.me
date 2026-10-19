@@ -26,9 +26,9 @@ Psychological effects are real too. A familiar routine settles nerves and focuse
 The **cool-down** is the warm-up's popular partner, and the evidence is less kind to it. An easy period after hard exercise helps clear lactate from the blood faster, but lactate clears within an hour anyway and doesn't cause soreness. Studies find cool-downs do little for [[Delayed Onset Muscle Soreness]], injury rates, or next-day performance. They do let heart rate and breathing settle gradually, which can prevent dizziness after hard efforts as blood pools in the legs, and they're a reasonable place for easy volume. Most of their reputation rests on habit.
 
 ## See also
-- [[Heart Rate Zones]]
+- [[Ankle Sprain]]
 - [[Muscle Cramp]]
 - [[Cold Exposure]]
-- [[Shin Splints]]
+- [[Asthma]]
 - [[Fascia]]
 - [[Side Stitch]]

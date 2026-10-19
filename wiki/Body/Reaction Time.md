@@ -27,3 +27,5 @@ The limits show up in rules and designs. In sprinting, a start less than a tenth
 ## See also
 - [[Proprioception]]
 - [[Rhythm Game]]
+- [[Vertigo]]
+- [[Microsleep]]

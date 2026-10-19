@@ -29,7 +29,7 @@ Popular claims about "vagal tone" often outrun the evidence. Polyvagal theory, p
 
 ## See also
 - [[Hiccup]]
-- [[Autonomic Nervous System]]
+- [[Syncope]]
 - [[Mammalian Dive Reflex]]
 - [[Cold Exposure]]
 - [[Awe]]

@@ -34,3 +34,4 @@ Cooling strategies before and during exercise overlap with cold-water practices;
 ## See also
 - [[Homeostasis]]
 - [[Sunburn]]
+- [[Syncope]]

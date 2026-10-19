@@ -27,3 +27,4 @@ Survivors often have lasting sensitivity to cold, numbness, and pain in affected
 ## See also
 - [[Sunburn]]
 - [[Moist Wound Healing]]
+- [[Blister]]

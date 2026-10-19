@@ -22,7 +22,7 @@ Naps discharge some pressure. A short nap of 20 minutes or so restores alertness
 Low pressure and a misaligned clock are both reasons people can't sleep, and light exposure is the main lever on the clock side (see [[Circadian Lighting]]). Accumulated sleep loss degrades [[Working Memory]] and [[Executive Function]] before people notice, and it slows recovery from training, since adaptation (see [[Supercompensation]]) happens mostly during rest.
 
 ## See also
-- [[Yawning]]
+- [[Restless Legs Syndrome]]
 - [[Sleep Paralysis]]
-- [[Chronotype]]
+- [[Microsleep]]
 - [[Napping]]

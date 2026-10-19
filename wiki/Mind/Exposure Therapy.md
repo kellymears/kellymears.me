@@ -31,7 +31,7 @@ Exposure works within limits. Pushing too far too fast overwhelms a person rathe
 The same principle helps with social anxiety and fear of rejection; see [[Rejection Sensitivity]].
 
 ## See also
-- [[Emotional Regulation]]
+- [[Syncope]]
 - [[Learned Helplessness]]
 - [[Grief]]
 - [[Misophonia]]

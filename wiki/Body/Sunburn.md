@@ -26,7 +26,7 @@ There is a trade-off with sunlight's benefits. UVB is also what lets skin make v
 Treatment for sunburn is supportive: cool compresses, moisturizer, fluids, and pain relief. Severe burns over large areas can cause fever and dehydration; see [[Fluid Balance]] and [[Thermoregulation]]. Some medications and skin treatments make skin more sensitive to sunlight; see [[Retinoid]].
 
 ## See also
-- [[Photon]]
+- [[Blister]]
 - [[Immune System]]
 - [[Moist Wound Healing]]
 - [[Heat Stroke]]

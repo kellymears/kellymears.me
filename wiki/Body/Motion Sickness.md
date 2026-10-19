@@ -43,3 +43,4 @@ Feeling the stomach churn is itself a form of internal sensing; see [[Interocept
 - [[Stereoscopy]]
 - [[Fight-or-Flight Response]]
 - [[Yawning]]
+- [[Vertigo]]

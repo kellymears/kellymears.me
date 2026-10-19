@@ -33,3 +33,4 @@ Repeated muscle damage at manageable doses is how muscles adapt, through repair 
 ## See also
 - [[Muscle Fiber Types]]
 - [[Creatine]]
+- [[Bruise]]
