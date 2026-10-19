@@ -18,7 +18,7 @@ Eviction is not [[Cache Invalidation]]: dropping an entry is safe because it can
 
 ## See also
 - [[In-Memory Database]]
-- [[Cache Invalidation]]
+- [[Cuckoo Hashing]]
 - [[Big-O Notation]]
 - [[Instrumentation]]
 - [[Ground Truth]]

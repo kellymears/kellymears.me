@@ -28,7 +28,7 @@ Compression has a security catch: the compressed length reveals something about 
 The principle underneath comes from [[Information Theory]]: compression removes redundancy, so how much it removes is itself information.
 
 ## See also
-- [[Data Compression]]
+- [[Burrows-Wheeler Transform]]
 - [[HTTP Caching]]
 - [[Minification]]
 - [[HTTP2 and HTTP3]]

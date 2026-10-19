@@ -19,3 +19,4 @@ The cost is ergonomic, not conceptual: a curried function called with the wrong 
 - [[Pattern Matching]]
 - [[Pure Function]]
 - [[Lambda Calculus]]
+- [[Combinatory Logic]]

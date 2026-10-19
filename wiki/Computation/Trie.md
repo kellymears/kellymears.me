@@ -26,3 +26,5 @@ Tries also underlie IP routing tables (longest-prefix match over binary strings)
 - [[IP Routing]]
 - [[Autocomplete]]
 - [[String-Searching Algorithm]]
+- [[Burrows-Wheeler Transform]]
+- [[Suffix Array]]

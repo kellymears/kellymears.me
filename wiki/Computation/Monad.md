@@ -21,7 +21,7 @@ The word is the obstacle. It arrives from category theory, and the definitions i
 - [[Defensive Default]]
 - [[Naming]]
 - [[Idempotence]]
-- [[Fail Fast]]
+- [[Combinatory Logic]]
 - [[Algebraic Data Type]]
 - [[Promise]]
 - [[Generics]]

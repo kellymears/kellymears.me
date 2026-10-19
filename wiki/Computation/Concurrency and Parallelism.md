@@ -20,7 +20,7 @@ The practical upshot is that solving a slowdown requires diagnosing which one is
 - [[Software Transactional Memory]]
 - [[Memory Model]]
 - [[Moore's Law]]
-- [[Deadlock]]
+- [[Prefix Sum]]
 - [[Coroutine]]
 - [[SIMD]]
 - [[Amdahl's Law]]

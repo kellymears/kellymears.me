@@ -34,6 +34,6 @@ Still, DHTs proved a directory for millions can work with no one in charge.
 ## See also
 - [[Blockchain]]
 - [[Federation]]
-- [[Sybil Attack]]
+- [[Cuckoo Hashing]]
 - [[Napster]]
 - [[BitTorrent]]

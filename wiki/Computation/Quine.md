@@ -28,7 +28,7 @@ A quine's output has a short description, its own source, which bounds its compl
 
 ## See also
 - [[Recursion]]
-- [[Russell's Paradox]]
+- [[Combinatory Logic]]
 - [[Interpreter]]
 - [[Cantor's Diagonal Argument]]
 - [[Morris Worm]]

@@ -27,3 +27,4 @@ Archives outlive the programs that made them, which is why open, documented form
 ## See also
 - [[Filesystem]]
 - [[Backup and Restore]]
+- [[Burrows-Wheeler Transform]]

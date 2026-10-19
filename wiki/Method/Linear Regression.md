@@ -30,3 +30,4 @@ The same model sits at the root of machine learning. Fitting it by repeatedly nu
 - [[Line Chart]]
 - [[Effect Size]]
 - [[Train-Test Split]]
+- [[Newton's Method]]

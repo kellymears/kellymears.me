@@ -17,7 +17,7 @@ The failure modes are a cache with no eviction policy — a memoized function ca
 - [[Dynamic Programming]]
 - [[Pure Function]]
 - [[Recursion]]
-- [[Least Recently Used Cache]]
+- [[Prefix Sum]]
 - [[KV Cache]]
 - [[Baked Lighting]]
 - [[Reactive Signals]]

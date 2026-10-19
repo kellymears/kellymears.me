@@ -27,7 +27,7 @@ The technique has limits. It selects combinations but doesn't say what the corre
 
 ## See also
 - [[Pentium FDIV Bug]]
-- [[Feature Flag]]
+- [[De Bruijn Sequence]]
 - [[Property-Based Testing]]
 - [[Test Oracle]]
 - [[Parameterized Test]]

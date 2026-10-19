@@ -30,7 +30,7 @@ Data usually reaches a warehouse from transactional databases through [[Change D
 - [[Pivot Table]]
 - [[Big Data]]
 - [[Object Storage]]
-- [[In-Memory Database]]
+- [[Burrows-Wheeler Transform]]
 - [[DataFrame]]
 - [[Wide-Column Store]]
 - [[Data Lake]]

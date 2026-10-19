@@ -27,4 +27,4 @@ The game's recorded demo files store inputs, not video, and replay deterministic
 
 ## See also
 - [[Perspective Projection]]
-- [[Pixel Art]]
+- [[Fast Inverse Square Root]]

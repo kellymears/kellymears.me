@@ -29,6 +29,6 @@ The remedies all amount to either sampling more or [[Image Resampling|filtering 
 - [[Interlacing]]
 - [[Bresenham's Line Algorithm]]
 - [[Foveated Rendering]]
-- [[Timbre]]
+- [[Fourier Transform]]
 - [[Screen Tearing]]
 - [[Apparent Motion]]

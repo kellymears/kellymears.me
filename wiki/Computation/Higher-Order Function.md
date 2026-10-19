@@ -25,3 +25,4 @@ The risk is indirection outrunning its benefit — a codebase where every operat
 - [[Lisp]]
 - [[Metaprogramming]]
 - [[Lexical Scope]]
+- [[Combinatory Logic]]

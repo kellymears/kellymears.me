@@ -18,7 +18,7 @@ The halving generalizes to any predicate that is false then true, which is why [
 
 ## See also
 - [[Divide and Conquer]]
-- [[Hash Table]]
+- [[Newton's Method]]
 - [[Loop Invariant]]
-- [[Boundary Value Analysis]]
+- [[Suffix Array]]
 - [[Integer Overflow]]

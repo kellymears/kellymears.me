@@ -22,7 +22,7 @@ Many real problems need whole-number answers: you can't schedule half a flight. 
 Applications include airline crew scheduling, freight routing, refinery blending, and the classic diet problem of meeting nutritional needs at the lowest cost. Hard combinatorial problems are often attacked by combining integer programming with heuristics; see [[Traveling Salesman Problem]], [[Simulated Annealing]], and [[Boolean Satisfiability Problem]].
 
 ## See also
-- [[Greedy Algorithm]]
+- [[Newton's Method]]
 - [[Gradient Descent]]
 - [[Transformation Matrix]]
 - [[Convex Hull]]

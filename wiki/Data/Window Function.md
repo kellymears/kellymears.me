@@ -35,6 +35,6 @@ They are central to analytics, where [[Columnar Storage]] engines and [[Dimensio
 - [[SQL Join]]
 - [[Pagination]]
 - [[MapReduce]]
-- [[Training Load]]
+- [[Prefix Sum]]
 - [[Pivot Table]]
 - [[DataFrame]]

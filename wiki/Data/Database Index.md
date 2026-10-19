@@ -25,4 +25,4 @@ Indexes are not free. Every insert, update, and delete must update every index o
 - [[Library Classification]]
 - [[Denormalization]]
 - [[Collation]]
-- [[Binary Search]]
+- [[Suffix Array]]

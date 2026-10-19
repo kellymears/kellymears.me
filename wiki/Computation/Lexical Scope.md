@@ -23,3 +23,4 @@ Dynamic scope survives where it's useful. Environment variables are inherited by
 - [[Lambda Calculus]]
 - [[Scoped Styling]]
 - [[Linux Namespaces]]
+- [[Combinatory Logic]]

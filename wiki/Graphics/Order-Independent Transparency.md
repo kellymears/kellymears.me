@@ -24,7 +24,7 @@ True OIT techniques work per pixel:
 [[Ray Tracing]] sidesteps much of this, since a ray meets surfaces in depth order along its own path. [[Gaussian Splatting]] lives with it: millions of semi-transparent splats are re-sorted by depth every frame, using a fast GPU [[Sorting Algorithm]].
 
 ## See also
-- [[Alpha Compositing]]
+- [[Radix Sort]]
 - [[Depth Buffer]]
 - [[Deferred Shading]]
 - [[Particle System]]

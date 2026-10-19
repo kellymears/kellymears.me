@@ -34,5 +34,5 @@ The idea extends beyond algorithms. Spatial structures such as the [[Bounding Vo
 
 ## See also
 - [[Convex Hull]]
-- [[Tower of Hanoi]]
-- [[Fibonacci Sequence]]
+- [[Radix Sort]]
+- [[Fourier Transform]]

@@ -26,7 +26,7 @@ Long runs of bits are hard to read, so programmers use bases that convert cleanl
 Product barcodes encode it too, in dark and light modules; see [[Barcode]].
 
 ## See also
-- [[Modular Arithmetic]]
+- [[De Bruijn Sequence]]
 - [[Analytical Engine]]
-- [[Error-Correcting Code]]
+- [[Radix Sort]]
 - [[Gray Code]]

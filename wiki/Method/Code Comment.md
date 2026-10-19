@@ -27,3 +27,4 @@ Two mechanical hazards. A comment stating a causal mechanism nobody verified is 
 - [[Technical Debt]]
 - [[Linguistic Relativity]]
 - [[Doctest]]
+- [[Fast Inverse Square Root]]

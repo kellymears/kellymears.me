@@ -16,7 +16,7 @@ Two practical notes. Precision and compiler optimization settings change results
 
 ## See also
 - [[Graphics Pipeline]]
-- [[Voxel]]
+- [[Fast Inverse Square Root]]
 - [[Graphics API]]
 - [[Shading Model]]
 - [[Stencil Buffer]]

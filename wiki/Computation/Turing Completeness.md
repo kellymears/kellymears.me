@@ -26,6 +26,6 @@ This motivates the **rule of least power**, articulated by Tim Berners-Lee: choo
 Turing completeness also underlies [[Emulation]]: any complete system can, given enough resources, imitate any other, which is why one computer can run software written for another, and why an [[Interpreter]] can run any program its language allows.
 
 ## See also
-- [[Russell's Paradox]]
+- [[Combinatory Logic]]
 - [[Context-Free Grammar]]
 - [[Analytical Engine]]

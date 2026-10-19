@@ -30,3 +30,4 @@ Everyday languages get smaller doses. A generic function's type can guarantee wh
 ## See also
 - [[Russell's Paradox]]
 - [[Pure Function]]
+- [[Combinatory Logic]]

@@ -14,7 +14,7 @@ The corrective isn't "never think about performance" — it's sequencing: write 
 The rule has a real boundary, worth stating so it doesn't get taken as absolute: some decisions are far cheaper to make well upfront than to retrofit later — a database schema, a public API's shape, an algorithm with quadratic behavior on inputs you already know will be large. Premature optimization is about micro-tuning ahead of evidence, not about ignoring an architectural choice whose cost is already knowable without a profiler.
 
 ## See also
-- [[Ground Truth]]
+- [[Fast Inverse Square Root]]
 - [[Streetlight Effect]]
 - [[Big-O Notation]]
 - [[Overfitting]]

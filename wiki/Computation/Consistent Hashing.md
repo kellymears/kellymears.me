@@ -26,3 +26,4 @@ The trade-off is a small amount of load imbalance even with virtual nodes — th
 - [[Hot Partition]]
 - [[Modular Arithmetic]]
 - [[Pigeonhole Principle]]
+- [[Cuckoo Hashing]]

@@ -28,5 +28,6 @@ The principle has a generalized form: if n items go into k boxes, some box holds
 Arguments like these show that impossibility can often be proved by counting alone. Claims of a universal compressor, a collision-free short hash, or a lossless encoding into fewer bits fail on arithmetic before any code needs examining; see [[Information Theory]].
 
 ## See also
-- [[Binary Number]]
+- [[De Bruijn Sequence]]
 - [[Consistent Hashing]]
+- [[Cuckoo Hashing]]

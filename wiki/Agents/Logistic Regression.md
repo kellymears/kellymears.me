@@ -26,5 +26,5 @@ Logistic regression draws a straight boundary between classes, so it misses inte
 It's the standard baseline. A complex model that can't beat a well-built logistic regression on a table of data probably isn't worth deploying.
 
 ## See also
-- [[Precision and Recall]]
+- [[Newton's Method]]
 - [[Linear Regression]]

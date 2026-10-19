@@ -28,3 +28,4 @@ SDFs also back most GPU and game-engine text rendering (Valve's 2007 technique a
 - [[Ray Marching]]
 - [[Demoscene]]
 - [[Constructive Solid Geometry]]
+- [[Newton's Method]]

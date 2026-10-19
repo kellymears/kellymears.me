@@ -26,3 +26,4 @@ Most languages are strict by default (arguments evaluated before a call) and opt
 - [[Boolean Algebra]]
 - [[DataFrame]]
 - [[Fibonacci Sequence]]
+- [[Combinatory Logic]]

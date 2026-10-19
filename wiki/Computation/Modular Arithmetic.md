@@ -29,4 +29,4 @@ Days of the week are arithmetic modulo 7, and the twelve pitch classes of Wester
 
 ## See also
 - [[One-Time Pad]]
-- [[Prime Number]]
+- [[De Bruijn Sequence]]

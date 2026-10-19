@@ -27,7 +27,7 @@ The ear does a similar analysis mechanically, with each region of the cochlea tu
 Hearing differs from sight here. The eye reduces a whole spectrum of light to three signals, so very different spectra can look identical; see [[Metamerism]]. The ear keeps far more spectral detail, so two sounds with different overtones rarely sound the same. Lossy audio formats drop quiet overtones hidden behind louder ones; see [[Data Compression]].
 
 ## See also
-- [[Adaptive Music]]
+- [[Fourier Transform]]
 - [[Synesthesia]]
 - [[JPEG]]
 - [[Reverberation]]

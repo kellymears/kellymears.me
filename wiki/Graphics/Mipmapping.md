@@ -26,7 +26,7 @@ The same idea appears elsewhere. [[Level of Detail]] is mipmapping for geometry.
 - [[Map Projection]]
 - [[Texture Compression]]
 - [[Memoization]]
-- [[Temporal Upscaling]]
+- [[Prefix Sum]]
 - [[Shader]]
 - [[Normal Mapping]]
 - [[Baked Lighting]]

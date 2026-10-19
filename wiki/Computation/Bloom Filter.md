@@ -24,4 +24,4 @@ The false-positive rate is tunable by trading memory: more bits per element and 
 - [[Pigeonhole Principle]]
 - [[Superposition]]
 - [[Bitwise Operation]]
-- [[Monte Carlo Method]]
+- [[Cuckoo Hashing]]

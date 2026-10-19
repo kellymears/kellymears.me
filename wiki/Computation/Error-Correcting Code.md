@@ -33,7 +33,7 @@ Redundancy and [[Data Compression]] pull in opposite directions. Compression rem
 - [[Rowhammer]]
 - [[Prime Number]]
 - [[Checksum]]
-- [[N-Version Programming]]
+- [[De Bruijn Sequence]]
 - [[Gray Code]]
 - [[RAID]]
 - [[Pigeonhole Principle]]

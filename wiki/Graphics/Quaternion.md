@@ -33,5 +33,5 @@ Game engines store object orientations as quaternions internally, even when the 
 - [[Model Merging]]
 - [[Mental Rotation]]
 - [[Numerical Stability]]
-- [[Linear Interpolation]]
+- [[Fast Inverse Square Root]]
 - [[Transformation Matrix]]

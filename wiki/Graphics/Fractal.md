@@ -28,5 +28,5 @@ Real objects are fractal only over limited ranges. A coastline stops being self-
 
 ## See also
 - [[Cellular Automaton]]
-- [[Level of Detail]]
+- [[Newton's Method]]
 - [[Tower of Hanoi]]

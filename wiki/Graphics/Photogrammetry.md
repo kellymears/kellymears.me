@@ -36,6 +36,6 @@ The same camera-solving step now feeds [[Gaussian Splatting]], which skips meshe
 ## See also
 - [[Stereoscopy]]
 - [[Virtualized Geometry]]
-- [[Morph Target]]
+- [[De Bruijn Sequence]]
 - [[Utah Teapot]]
 - [[Chroma Key]]

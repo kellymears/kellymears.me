@@ -26,6 +26,6 @@ Normal mapping is one input to [[Physically Based Rendering]], where it works to
 - [[Texture Compression]]
 - [[Shadow Volume]]
 - [[Ambient Occlusion]]
-- [[Skeuomorphism]]
+- [[Fast Inverse Square Root]]
 - [[Texture Mapping]]
 - [[Polygon Mesh]]

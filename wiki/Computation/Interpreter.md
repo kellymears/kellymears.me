@@ -15,7 +15,7 @@ An interpreter also changes where errors surface: a type or name error in a bran
 
 ## See also
 - [[Esoteric Programming Language]]
-- [[Type Inference]]
+- [[Combinatory Logic]]
 - [[Metaprogramming]]
 - [[Lexical Scope]]
 - [[Common Gateway Interface]]

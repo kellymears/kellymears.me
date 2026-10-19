@@ -35,4 +35,4 @@ The trade-off must be acceptable. Approximate counts suit dashboards and capacit
 - [[Monte Carlo Method]]
 - [[Locality-Sensitive Hashing]]
 - [[Pigeonhole Principle]]
-- [[Information Theory]]
+- [[Cuckoo Hashing]]

@@ -29,6 +29,6 @@ Motion vectors have uses beyond compression. Game renderers produce similar per-
 
 ## See also
 - [[Encrypted Media Extensions]]
-- [[Foveated Rendering]]
+- [[Fourier Transform]]
 - [[Chroma Key]]
 - [[Adobe Flash]]

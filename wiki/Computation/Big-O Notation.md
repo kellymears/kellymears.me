@@ -20,6 +20,6 @@ It is a vocabulary for reasoning, not a measurement. Treating it as a proxy for 
 - [[Convex Hull]]
 - [[Ackermann Function]]
 - [[Arbitrary-Precision Arithmetic]]
-- [[Logarithmic Scale]]
-- [[Fibonacci Sequence]]
+- [[Suffix Array]]
+- [[Radix Sort]]
 - [[Tower of Hanoi]]

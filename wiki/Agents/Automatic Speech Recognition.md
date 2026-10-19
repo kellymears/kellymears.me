@@ -16,7 +16,7 @@ Real accuracy is dominated by what the headline number omits: proper nouns and r
 
 ## See also
 - [[Beam Search]]
-- [[Subtitling]]
+- [[Fourier Transform]]
 - [[Moravec's Paradox]]
 - [[Optical Character Recognition]]
 - [[Closed Captions]]

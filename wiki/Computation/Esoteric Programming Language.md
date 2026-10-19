@@ -29,7 +29,7 @@ Their value goes beyond play: stripping out readable syntax, named variables, an
 
 ## See also
 - [[Compiler]]
-- [[Regular Expression]]
+- [[Combinatory Logic]]
 - [[Analytical Engine]]
 - [[Collatz Conjecture]]
 - [[Assembly Language]]
