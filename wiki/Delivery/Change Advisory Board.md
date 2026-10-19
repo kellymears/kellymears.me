@@ -34,6 +34,6 @@ CABs persist partly because they feel safe and are easy to explain to auditors, 
 ## See also
 - [[Code Freeze]]
 - [[DevOps]]
-- [[Gerrit]]
+- [[Hyatt Regency Walkway Collapse]]
 - [[Value Stream Mapping]]
 - [[Patch Tuesday]]

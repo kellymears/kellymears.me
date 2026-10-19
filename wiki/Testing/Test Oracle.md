@@ -23,5 +23,5 @@ Weak oracles explain a common gap: a test suite with high [[Code Coverage]] that
 The problem has become central to systems built on language models, whose output is open-ended and varies between runs. Exact-match assertions don't work, so teams use rubrics, reference answers, and [[LLM-as-Judge]] scoring inside an [[Evaluation Harness]]. Each is a weaker, statistical oracle, and the old question returns: who checks the judge? Ultimately every oracle rests on some [[Ground Truth]], and its quality caps the quality of the tests built on it.
 
 ## See also
-- [[Hubble Mirror Flaw]]
+- [[Debian OpenSSL Bug]]
 - [[Post Office Horizon Scandal]]

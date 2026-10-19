@@ -26,4 +26,4 @@ Electronics fight the same battle. A chip conducts heat into a metal heat spread
 - [[Thermoelectric Effect]]
 - [[Plate Tectonics]]
 - [[Seasons]]
-- [[Heat Pump]]
+- [[Space Shuttle Columbia Disaster]]

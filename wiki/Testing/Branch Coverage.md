@@ -20,7 +20,7 @@ There is also a measurement artifact worth recognizing. When two runners instrum
 - [[Coverage Gate]]
 
 ## Related
-- [[Silent Failure]]
+- [[Goto Fail]]
 - [[Mariner 1]]
 - [[Chesterton's Fence]]
 - [[Vacuous Truth]]

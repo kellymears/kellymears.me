@@ -23,8 +23,8 @@ The bug became a reference case for several arguments:
 In response, the Linux Foundation set up the Core Infrastructure Initiative to fund critical open source projects, and OpenBSD developers forked OpenSSL as LibreSSL, removing large amounts of old code; see [[Bus Factor]].
 
 ## See also
-- [[XZ Utils Backdoor]]
-- [[Certificate Revocation]]
+- [[Debian OpenSSL Bug]]
+- [[Goto Fail]]
 - [[Bug bounty]]
-- [[Patch Tuesday]]
+- [[Cloudbleed]]
 - [[Log4Shell]]

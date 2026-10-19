@@ -29,4 +29,4 @@ The common record types are few: an address record, an alias record pointing one
 - [[Dependency Confusion]]
 - [[DNS Cache Poisoning]]
 - [[Internationalized Domain Name]]
-- [[Time to Live]]
+- [[Facebook Outage of 2021]]

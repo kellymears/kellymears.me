@@ -18,7 +18,7 @@ Coverage also behaves oddly across multiple test environments measuring the same
 ## See also
 - [[Cobra Effect]]
 - [[Black-Box and White-Box Testing]]
-- [[Unreachable Code]]
+- [[Goto Fail]]
 - [[Modified Condition Decision Coverage]]
 - [[Pesticide Paradox]]
 - [[Fault Seeding]]

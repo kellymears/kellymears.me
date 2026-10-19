@@ -15,7 +15,7 @@ The standard countermeasure Janis proposed — and the reason the concept gets c
 - [[Rite of Passage]]
 - [[Bystander Effect]]
 - [[Obedience to Authority]]
-- [[Naive Realism]]
+- [[Space Shuttle Challenger Disaster]]
 - [[Cognitive Dissonance]]
 - [[Need for Closure]]
 - [[Devil's Advocate]]

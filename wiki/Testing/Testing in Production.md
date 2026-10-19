@@ -28,5 +28,5 @@ Testing in production doesn't replace earlier testing. Unit, integration, and en
 
 ## See also
 - [[Non-Destructive Testing]]
-- [[Mars Pathfinder Priority Inversion]]
+- [[Chernobyl Disaster]]
 - [[GitLab Database Incident]]

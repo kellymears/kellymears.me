@@ -30,3 +30,4 @@ Software teams use a similar check, with the same tension between catching probl
 - [[Meta-Analysis]]
 - [[Falsifiability]]
 - [[Adversarial Review]]
+- [[Hyatt Regency Walkway Collapse]]

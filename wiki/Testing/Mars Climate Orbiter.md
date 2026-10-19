@@ -20,7 +20,7 @@ The same class of error shows up wherever units cross a boundary. Medication err
 ## See also
 - [[Ariane 5 Flight 501]]
 - [[Interface definition language]]
-- [[Verification and Validation]]
+- [[Space Shuttle Columbia Disaster]]
 - [[Mariner 1]]
 - [[Mars Polar Lander]]
 - [[Hubble Mirror Flaw]]

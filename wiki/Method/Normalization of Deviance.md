@@ -30,7 +30,8 @@ Normalization of deviance also explains why [[Hindsight Bias]] is so tempting af
 
 ## See also
 - [[Therac-25]]
-- [[Mars Polar Lander]]
+- [[Space Shuttle Challenger Disaster]]
 - [[Ostrich Effect]]
 - [[Gimli Glider]]
 - [[Checklist]]
+- [[Hyatt Regency Walkway Collapse]]

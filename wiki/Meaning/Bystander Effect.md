@@ -24,3 +24,4 @@ The effect has been replicated across dozens of experimental setups, from staged
 - [[Conformity]]
 - [[Obedience to Authority]]
 - [[Mailing List]]
+- [[Hyatt Regency Walkway Collapse]]

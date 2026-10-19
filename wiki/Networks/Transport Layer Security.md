@@ -28,7 +28,7 @@ TLS encrypts content but not everything. The server's IP address is visible, and
 
 ## See also
 - [[HTTP Compression]]
-- [[Certificate Revocation]]
+- [[Goto Fail]]
 - [[Zero-Knowledge Proof]]
 - [[End-to-End Encryption]]
 - [[HTTP Strict Transport Security]]

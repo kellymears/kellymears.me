@@ -28,5 +28,6 @@ Fission products are intensely radioactive, and they keep producing heat after a
 
 ## See also
 - [[Nuclear Fusion]]
-- [[Electromagnetic Spectrum]]
+- [[Three Mile Island Accident]]
 - [[Earthquake]]
+- [[Chernobyl Disaster]]

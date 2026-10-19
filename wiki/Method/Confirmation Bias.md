@@ -25,5 +25,5 @@ The practical countermeasure is cheap and specific: before accepting an explanat
 
 ## Related
 - [[Availability Heuristic]]
-- [[Safety Case]]
+- [[Three Mile Island Accident]]
 - [[Barnum Effect]]

@@ -26,8 +26,8 @@ Critics in the high-reliability school pointed to aircraft carriers and air traf
 For software, the theory explains why large distributed systems fail in surprising ways despite thorough testing. Tests examine anticipated interactions; normal accidents come from unanticipated ones. Engineers respond by adding slack, through [[Backpressure]], timeouts, and the [[Circuit Breaker]], and by provoking failures deliberately to find hidden interactions before they find themselves; see [[Chaos Engineering]]. After an accident, the theory warns against blaming the last operator in the chain; see [[Hindsight Bias]].
 
 ## See also
-- [[Gray Failure]]
-- [[Black Swan]]
+- [[Space Shuttle Challenger Disaster]]
+- [[Three Mile Island Accident]]
 - [[Cynefin Framework]]
 - [[Just Culture]]
-- [[Gimli Glider]]
+- [[Chernobyl Disaster]]

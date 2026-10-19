@@ -26,7 +26,7 @@ Cookies compete with bearer tokens such as a [[JSON Web Token]] in a header. Hea
 ## See also
 - [[Session Management]]
 - [[Internationalized Domain Name]]
-- [[Third-Party Cookie]]
+- [[Cloudbleed]]
 - [[Referrer Policy]]
 - [[Passkey]]
 - [[Packet Capture]]

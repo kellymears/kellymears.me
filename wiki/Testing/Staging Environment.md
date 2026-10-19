@@ -32,5 +32,5 @@ The trade-off is cost and confidence. A staging environment that mirrors product
 
 ## See also
 - [[GitLab Database Incident]]
-- [[Year 2000 Problem]]
+- [[Chernobyl Disaster]]
 - [[Testing in Production]]

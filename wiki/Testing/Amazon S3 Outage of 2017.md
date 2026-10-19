@@ -31,3 +31,4 @@ The postmortem avoided blaming the engineer, focusing instead on the tool and th
 ## See also
 - [[GitLab Database Incident]]
 - [[Cloudflare Outage of 2019]]
+- [[Facebook Outage of 2021]]

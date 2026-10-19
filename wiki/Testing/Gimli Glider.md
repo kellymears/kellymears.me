@@ -31,3 +31,5 @@ It's also an example of how individual skill can recover from systemic failure; 
 ## See also
 - [[Fault Tree Analysis]]
 - [[Automation Bias]]
+- [[Three Mile Island Accident]]
+- [[Air France Flight 447]]

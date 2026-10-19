@@ -23,7 +23,7 @@ This layer is orthogonal to [[Cache Invalidation]] inside an application's own d
 - [[Time to First Byte]]
 - [[Time to Live]]
 - [[Thundering Herd]]
-- [[HTTP Status Code]]
+- [[Cloudbleed]]
 - [[Hypertext Transfer Protocol]]
 - [[Back-Forward Cache]]
 - [[HTTP Compression]]

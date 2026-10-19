@@ -29,5 +29,5 @@ Inspection also catches what the failure curve predicts. Manufacturing flaws fou
 Software testing has close parallels. Inspecting a running system without taking it down is the logic of [[Testing in Production]] and [[Synthetic Monitoring]], and choosing whether to look inside the part or only probe its surface echoes [[Black-Box and White-Box Testing]].
 
 ## See also
-- [[Hubble Mirror Flaw]]
+- [[Space Shuttle Columbia Disaster]]
 - [[Risk-Based Testing]]

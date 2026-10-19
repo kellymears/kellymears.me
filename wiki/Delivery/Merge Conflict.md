@@ -28,7 +28,7 @@ Several practical points recur:
 
 ## Related
 - [[Merge Train]]
-- [[Continuous Integration]]
+- [[Goto Fail]]
 - [[Trunk-Based Development]]
 - [[Fast-Forward Merge]]
 - [[Software Fork]]

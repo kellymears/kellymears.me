@@ -25,6 +25,6 @@ Leaders shape safety most, by admitting their own uncertainty, asking for input,
 
 ## See also
 - [[Just Culture]]
-- [[Ostrich Effect]]
-- [[Emotional Contagion]]
+- [[Space Shuttle Challenger Disaster]]
+- [[Space Shuttle Columbia Disaster]]
 - [[Transactive Memory]]

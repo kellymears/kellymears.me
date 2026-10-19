@@ -31,3 +31,4 @@ The general lesson applies beyond certificates: once a credential is out in the 
 ## See also
 - [[Code Signing]]
 - [[Mutual TLS]]
+- [[Debian OpenSSL Bug]]

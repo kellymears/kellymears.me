@@ -38,4 +38,4 @@ Gradual exposure has limits. Some failures, such as a database migration or a ch
 - [[CrowdStrike Outage]]
 - [[Site Reliability Engineering]]
 - [[Cloudflare Outage of 2019]]
-- [[Software Release Life Cycle]]
+- [[Facebook Outage of 2021]]

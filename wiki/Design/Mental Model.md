@@ -36,3 +36,4 @@ The concept reaches well beyond interfaces. [[Information Architecture]] organiz
 - [[Natural Mapping]]
 - [[Conceptual Metaphor]]
 - [[World Model]]
+- [[Air France Flight 447]]

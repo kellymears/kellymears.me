@@ -31,7 +31,7 @@ Margins also have costs: extra weight, idle capacity, slower schedules. Choosing
 
 ## See also
 - [[Murphy's Law]]
-- [[Precautionary Principle]]
+- [[Chernobyl Disaster]]
 - [[Expected Value]]
 - [[Inversion]]
 - [[Earthquake]]

@@ -32,3 +32,4 @@ Static fluids follow simpler rules: pressure spreads evenly through an enclosed 
 - [[Shock Wave]]
 - [[Magnus Effect]]
 - [[Sleep Apnea]]
+- [[Air France Flight 447]]

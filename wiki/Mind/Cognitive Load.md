@@ -20,8 +20,8 @@ The theory generalizes well beyond classrooms. In interface design it explains w
 "Mental load" has also come to mean the ongoing, invisible work of tracking a household's or team's open loops: remembering, anticipating, scheduling. It is the same mechanism stretched over weeks instead of seconds. That load drains [[Executive Function]] whether or not anyone can see it, and when unevenly shared it is a real cost that never shows up in a task list.
 
 ## See also
-- [[Platform Engineering]]
-- [[Zone of Proximal Development]]
+- [[Three Mile Island Accident]]
+- [[Air France Flight 447]]
 - [[Dashboard]]
 - [[Team Topologies]]
 - [[KISS Principle]]

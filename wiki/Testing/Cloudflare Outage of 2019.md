@@ -32,5 +32,5 @@ The broader lessons:
 The outage joined a family of internet-wide failures that spread through shared infrastructure; see [[CrowdStrike Outage]] and [[Cascading Failure]].
 
 ## See also
-- [[Static Analysis]]
+- [[Cloudbleed]]
 - [[Shadow Traffic]]

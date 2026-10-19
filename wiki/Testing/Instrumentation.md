@@ -15,7 +15,7 @@ Instrumentation also has its own failure modes to distinguish from real ones: a 
 
 ## See also
 - [[Code Coverage]]
-- [[Observability]]
+- [[Three Mile Island Accident]]
 - [[Resource Starvation]]
 - [[Flaky Test]]
 - [[Branch Coverage]]

@@ -20,7 +20,7 @@ There is also an environmental cost worth knowing about. A unit test that import
 - [[Component Story]]
 - [[Test Pyramid]]
 - [[Test Isolation]]
-- [[Boundary Value Analysis]]
+- [[Goto Fail]]
 - [[Characterization Test]]
 
 ## Related

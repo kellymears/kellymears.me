@@ -29,4 +29,5 @@ It is also useful, in X-ray imaging, radiotherapy, and sterilizing medical equip
 
 ## See also
 - [[Nuclear Fission]]
-- [[Spectroscopy]]
+- [[Chernobyl Disaster]]
+- [[Three Mile Island Accident]]

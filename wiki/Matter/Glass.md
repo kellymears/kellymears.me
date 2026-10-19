@@ -26,7 +26,7 @@ Borosilicate glass, sold as Pyrex, expands so little when heated that it survive
 Glass forms naturally too: volcanic obsidian, which made the sharpest stone tools, and fulgurites, fused when [[Lightning]] strikes sand. Some butterfly scales are colored by glassy nanostructures; see [[Structural Color]].
 
 ## See also
-- [[Elasticity]]
+- [[Space Shuttle Challenger Disaster]]
 - [[Steel]]
 - [[Lens]]
 - [[Work Hardening]]

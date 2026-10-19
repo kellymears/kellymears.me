@@ -26,8 +26,8 @@ Typical findings are the failures that resilience mechanisms were supposed to pr
 
 ## See also
 - [[GitLab Database Incident]]
-- [[Failure Mode and Effects Analysis]]
-- [[Gray Failure]]
+- [[Facebook Outage of 2021]]
+- [[Chernobyl Disaster]]
 - [[Amazon S3 Outage of 2017]]
 - [[Single-Event Upset]]
 - [[Mean Time to Recovery]]

@@ -28,3 +28,4 @@ Bruce Sterling's 1992 book on the computer crime crackdowns of that era opens wi
 ## See also
 - [[Crash-Only Software]]
 - [[Regression Testing]]
+- [[Facebook Outage of 2021]]

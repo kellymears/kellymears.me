@@ -28,6 +28,6 @@ The lessons echo through testing practice:
 Similar failures of trusted instruments appear in other disasters; see [[Mars Climate Orbiter]] and [[Mars Polar Lander]].
 
 ## See also
-- [[Safety Case]]
+- [[Space Shuttle Columbia Disaster]]
 - [[Ariane 5 Flight 501]]
 - [[Lagrange Point]]

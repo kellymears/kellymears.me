@@ -28,4 +28,4 @@ Checklists also have failure modes. Ticking boxes without performing the checks 
 ## See also
 - [[Side Quest]]
 - [[Apollo 11 Program Alarms]]
-- [[Failure Mode and Effects Analysis]]
+- [[Air France Flight 447]]

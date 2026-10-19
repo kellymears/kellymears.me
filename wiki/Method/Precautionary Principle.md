@@ -24,3 +24,6 @@ Weaker versions survive these criticisms better. Read as "don't use uncertainty 
 ## See also
 - [[Chesterton's Fence]]
 - [[Defensive Default]]
+- [[Space Shuttle Columbia Disaster]]
+- [[Three Mile Island Accident]]
+- [[Chernobyl Disaster]]

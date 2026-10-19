@@ -22,7 +22,7 @@ The principle has a mirror, and both are needed. A fence whose reason has expire
 - [[Invented Tradition]]
 
 ## Related
-- [[Burden of Proof]]
+- [[Debian OpenSSL Bug]]
 - [[Precautionary Principle]]
 - [[Strangler Fig Pattern]]
 - [[Git Blame]]

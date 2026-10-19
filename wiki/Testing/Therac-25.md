@@ -24,3 +24,4 @@ The lessons Leveson drew are still cited. Reusing software doesn't make it safe,
 - [[Ariane 5 Flight 501]]
 - [[Assertion]]
 - [[Blameless Postmortem]]
+- [[Space Shuttle Challenger Disaster]]

@@ -27,5 +27,5 @@ In 1948 Claude Shannon defined *information entropy*, the average uncertainty in
 - [[Lehman's Laws of Software Evolution]]
 - [[One-Time Pad]]
 - [[Black Hole]]
-- [[Heat Pump]]
+- [[Debian OpenSSL Bug]]
 - [[Big Bang]]

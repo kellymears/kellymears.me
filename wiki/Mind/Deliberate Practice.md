@@ -26,7 +26,7 @@ Related findings support it. Spacing and mixing practice feels harder but produc
 
 ## See also
 - [[Self-Efficacy]]
-- [[Zone of Proximal Development]]
+- [[Air France Flight 447]]
 - [[Learning Curve]]
 - [[Bushnell's Law]]
 - [[Tetris]]

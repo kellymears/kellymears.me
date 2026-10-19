@@ -29,6 +29,6 @@ The attacker's identity remains unknown. The patience, two years of trust-buildi
 
 ## See also
 - [[Archive File]]
-- [[Build Provenance]]
+- [[Debian OpenSSL Bug]]
 - [[Event-stream Incident]]
 - [[Email Patch Workflow]]

@@ -30,7 +30,7 @@ Teams practice before real outages. Game days and [[Chaos Engineering]] inject f
 
 ## See also
 - [[Status Page]]
-- [[GitLab Database Incident]]
+- [[Cloudbleed]]
 - [[Knight Capital Incident]]
 - [[Git Revert]]
-- [[ChatOps]]
+- [[Facebook Outage of 2021]]
