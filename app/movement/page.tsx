@@ -20,14 +20,14 @@ import type { Metadata } from 'next'
 type SearchParams = Promise<{ type?: string | string[] }>
 
 // Resolve the active group: explicit ?type= wins, else the remembered cookie,
-// else default to foot (the reason this page exists right now).
+// else default to cycling.
 async function resolveGroup(searchParams: SearchParams): Promise<ActivityGroup> {
   const { type } = await searchParams
   const param = Array.isArray(type) ? type[0] : type
   if (param === 'cycling' || param === 'foot') return param
   const remembered = (await cookies()).get('movement-view')?.value
   if (remembered === 'cycling' || remembered === 'foot') return remembered
-  return 'foot'
+  return 'cycling'
 }
 
 export async function generateMetadata({
