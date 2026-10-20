@@ -17,8 +17,8 @@ import {
   X,
 } from 'lucide-react'
 import { useRouter } from 'next/navigation'
-import { useEffect, useId, useMemo, useRef, useState } from 'react'
-import { buildAdjacency, KnowledgeMapEngine } from './map-engine'
+import { useEffect, useId, useLayoutEffect, useMemo, useRef, useState } from 'react'
+import { buildAdjacency, KnowledgeMapEngine, type Insets } from './map-engine'
 
 interface Props {
   graph: PackedGraph
@@ -57,6 +57,32 @@ function withinHops(origin: number, hops: number, n: number, start: Uint32Array,
   return seen
 }
 
+/**
+ * How much of the canvas the panels cover. A panel narrower than half the
+ * screen sits at a side (desktop); a wider one spans the top or bottom (phone).
+ */
+function coveredInsets(
+  root: HTMLElement | null,
+  controls: HTMLElement | null,
+  card: HTMLElement | null
+): Insets {
+  const insets = { top: 0, right: 0, bottom: 0, left: 0 }
+  if (!root) return insets
+  const r = root.getBoundingClientRect()
+  const side = (box: DOMRect) => box.width < r.width / 2
+  if (controls) {
+    const c = controls.getBoundingClientRect()
+    if (side(c)) insets.left = c.right - r.left
+    else insets.top = c.bottom - r.top
+  }
+  if (card) {
+    const c = card.getBoundingClientRect()
+    if (side(c)) insets.right = r.right - c.left
+    else insets.bottom = r.bottom - c.top
+  }
+  return insets
+}
+
 const notePath = (graph: PackedGraph, i: number) =>
   `/knowledge/${graph.nodes[i]![2]}/${graph.nodes[i]![0]}`
 
@@ -71,6 +97,10 @@ export function KnowledgeMap({ graph, topics }: Props) {
   const canvasRef = useRef<HTMLCanvasElement>(null)
   const rootRef = useRef<HTMLDivElement>(null)
   const engineRef = useRef<KnowledgeMapEngine | null>(null)
+  const controlsRef = useRef<HTMLDivElement>(null)
+  const cardRef = useRef<HTMLElement>(null)
+  /** A flight waiting for the selected note's card to render, so it can frame around it. */
+  const pendingFly = useRef<{ index: number; animate: boolean } | null>(null)
 
   const [selected, setSelected] = useState(-1)
   const [topicFilter, setTopicFilter] = useState<ReadonlySet<string>>(new Set())
@@ -125,6 +155,7 @@ export function KnowledgeMap({ graph, topics }: Props) {
       onSelect: setSelected,
       onOpen: (i) => router.push(notePath(graph, i)),
       onDeformed: setDeformed,
+      insets: () => coveredInsets(rootRef.current, controlsRef.current, cardRef.current),
     })
     engineRef.current = engine
 
@@ -139,7 +170,7 @@ export function KnowledgeMap({ graph, topics }: Props) {
       setSelected(focus)
       setOrigin(notePath(graph, focus))
       engine.setSelected(focus)
-      engine.flyTo(focus, false)
+      pendingFly.current = { index: focus, animate: false }
     } else if (wanted.size) {
       const indices = graph.nodes.flatMap((node, i) => (wanted.has(node[2]) ? [i] : []))
       engine.fit(indices, false)
@@ -150,6 +181,13 @@ export function KnowledgeMap({ graph, topics }: Props) {
       engineRef.current = null
     }
   }, [graph, bySlug, router])
+
+  useLayoutEffect(() => {
+    const fly = pendingFly.current
+    if (!fly || fly.index !== selected) return
+    pendingFly.current = null
+    engineRef.current?.flyTo(fly.index, fly.animate)
+  }, [selected])
 
   useEffect(() => engineRef.current?.setVisible(visible), [visible])
   useEffect(() => engineRef.current?.setSelected(selected), [selected])
@@ -165,8 +203,11 @@ export function KnowledgeMap({ graph, topics }: Props) {
   }, [ready, selected, topicFilter, graph.nodes])
 
   const choose = (i: number) => {
-    setSelected(i)
-    engineRef.current?.flyTo(i)
+    if (i === selected) engineRef.current?.flyTo(i)
+    else {
+      pendingFly.current = { index: i, animate: true }
+      setSelected(i)
+    }
   }
 
   const isolate = (value: number) => {
@@ -212,7 +253,10 @@ export function KnowledgeMap({ graph, topics }: Props) {
         className="absolute inset-0 h-full w-full touch-none outline-none"
       />
 
-      <div className="pointer-events-none absolute inset-x-3 top-3 flex flex-col items-start gap-2 sm:inset-x-auto sm:top-4 sm:left-4 sm:w-80">
+      <div
+        ref={controlsRef}
+        className="pointer-events-none absolute inset-x-3 top-3 flex flex-col items-start gap-2 sm:inset-x-auto sm:top-4 sm:left-4 sm:w-80"
+      >
         <div className="pointer-events-auto flex w-full items-center gap-2">
           <Link href={origin ?? '/knowledge'} className={PILL}>
             <ArrowLeft size={14} aria-hidden="true" />
@@ -319,6 +363,7 @@ export function KnowledgeMap({ graph, topics }: Props) {
 
       {node && (
         <section
+          ref={cardRef}
           aria-label="Selected note"
           className={clsx(
             PANEL,

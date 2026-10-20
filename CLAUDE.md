@@ -111,6 +111,7 @@ The `/games` route has been removed from the public site. The Steam import, `lib
   - `ANCHOR_K` must stay well above ~0.006. Weaker anchors let a dragged hub haul the whole connected network along, and memory then keeps that global shift.
   - Collision radius (`space`) is capped at half each node's nearest-neighbour distance at home. The server layout packs some notes closer than their dots are wide; full-size collisions shoved the entire field apart on the first wake.
   - Isolate (1 or 2 hops from the selection) overrides the topic and link-count filters.
+  - Framing (`flyTo`, `fit`) centers in the part of the canvas the panels leave uncovered. The engine reads that lazily through the `insets` callback (`coveredInsets()`), and a flight to a newly selected note waits in `pendingFly` until its card has rendered. On a phone the card covers the bottom half, so a deep-linked note centered in the window sat under it. `FOCUS_K` sets a minimum absolute zoom, because a multiple of the fit-everything zoom is far too wide on a narrow screen.
   - The headless check is cheap: stub `ResizeObserver`/`MutationObserver`/`matchMedia`/`document`, construct the engine with a dummy canvas, then drive `step()` via `npx tsx`.
 - **Frontmatter hazard**: an unquoted colon in a `summary:` breaks YAML. `parseNote()` falls back to a lenient reader and `console.warn`s the filename at build time.
 - **Sitemap**: `lib/source-dates.ts` derives `lastModified` from one batched `git log` pass, falling back to file mtime when git is absent or the checkout is shallow.

@@ -12,7 +12,18 @@ export interface MapCallbacks {
   onOpen: (index: number) => void
   /** Whether the layout has kept any of the reader's pulling. */
   onDeformed: (deformed: boolean) => void
+  /** Screen px along each edge covered by UI, read whenever the camera frames something. */
+  insets?: () => Insets
 }
+
+export interface Insets {
+  top: number
+  right: number
+  bottom: number
+  left: number
+}
+
+const NO_INSETS: Insets = { top: 0, right: 0, bottom: 0, left: 0 }
 
 /*
  * Physics, per fixed 1/60 s step. Every edge is a spring whose rest length is
@@ -60,6 +71,8 @@ const HIDDEN_ALPHA = 0.07
 const FADED_ALPHA = 0.16
 const ZOOM_MIN = 0.6
 const ZOOM_MAX = 14
+/** Least zoom (screen px per layout unit) a focused note gets, so small screens see detail too. */
+const FOCUS_K = 1.5
 
 const TAU = Math.PI * 2
 
@@ -274,11 +287,11 @@ export class KnowledgeMapEngine {
     this.refocus()
   }
 
-  /** Centers a node, zooming in if the view is still wide. */
+  /** Centers a node in the uncovered view, zooming in if the view is still wide. */
   flyTo(index: number, animate = true) {
     this.whenSized(() => {
-      const k = Math.max(this.cam.k, this.fitK * 2.6)
-      this.moveCamera({ x: this.px[index]!, y: this.py[index]!, k }, animate)
+      const k = this.clampK(Math.max(this.cam.k, this.fitK * 2.6, FOCUS_K))
+      this.moveCamera(this.centering(this.px[index]!, this.py[index]!, k), animate)
     })
   }
 
@@ -296,8 +309,11 @@ export class KnowledgeMapEngine {
           y1 = Math.max(y1, this.py[i]! + MAX_R)
         }
       }
-      const k = this.clampK(this.frameK(x1 - x0, y1 - y0))
-      this.moveCamera({ x: (x0 + x1) / 2, y: (y0 + y1) / 2, k }, animate)
+      const { top, right, bottom, left } = this.cb.insets?.() ?? NO_INSETS
+      const k = this.clampK(
+        this.frameK(x1 - x0, y1 - y0, this.w - left - right, this.h - top - bottom)
+      )
+      this.moveCamera(this.centering((x0 + x1) / 2, (y0 + y1) / 2, k), animate)
     })
   }
 
@@ -404,10 +420,16 @@ export class KnowledgeMapEngine {
     else this.pendingView = fn
   }
 
-  /** Scale that fits a world box in the viewport with a margin. */
-  private frameK(bw: number, bh: number) {
-    const pad = Math.min(72, this.w * 0.06)
-    return Math.min((this.w - pad * 2) / Math.max(bw, 1), (this.h - pad * 2) / Math.max(bh, 1))
+  /** Scale that fits a world box in a `w`×`h` view (the whole canvas by default) with a margin. */
+  private frameK(bw: number, bh: number, w = this.w, h = this.h) {
+    const pad = Math.min(72, w * 0.06)
+    return Math.min((w - pad * 2) / Math.max(bw, 1), (h - pad * 2) / Math.max(bh, 1))
+  }
+
+  /** The camera that puts world point (x, y) at the center of the uncovered view. */
+  private centering(x: number, y: number, k: number) {
+    const { top, right, bottom, left } = this.cb.insets?.() ?? NO_INSETS
+    return { x: x - (left - right) / 2 / k, y: y - (top - bottom) / 2 / k, k }
   }
 
   private clampK(k: number) {
