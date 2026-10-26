@@ -15,8 +15,6 @@ The trade-off is real. Extraction routinely surfaces unreleased content before a
 Datamined numbers also age unevenly. A figure pulled from a [[Live Service Game]]'s client is accurate until the next patch overwrites it, so [[Provenance]] — which version a number came from — matters as much as the number itself; a value shared without it can circulate as stale long after the mechanic it describes has changed.
 
 ## See also
-- [[Poise]]
-- [[Provenance]]
-- [[Spoiler Etiquette]]
-- [[Emulation]]
-- [[Game Modding]]
+- [[Metagame]]
+- [[Speedrun]]
+- [[Achievement Hunting]]

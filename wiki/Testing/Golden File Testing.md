@@ -17,3 +17,5 @@ Golden files are close kin to [[Snapshot Testing]] — the underlying mechanism 
 - [[Integration Test]]
 - [[Visual Regression Testing]]
 - [[Assertion]]
+- [[Test Oracle]]
+- [[Record and Replay]]

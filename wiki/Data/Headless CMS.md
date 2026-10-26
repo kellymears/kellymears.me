@@ -26,3 +26,6 @@ Two recurring implementation notes. Content that lives outside the page model â€
 - [[Knowledge Graph]]
 - [[Feature Flag]]
 - [[Backlink]]
+- [[WordPress]]
+- [[Blog]]
+- [[Slug]]

@@ -18,8 +18,10 @@ The design constraint it imposes is real and worth stating. An entrance animatio
 - [[Server-Side Rendering]]
 - [[Accessibility]]
 - [[Hydration]]
-
-## Related
 - [[React Server Components]]
 - [[Document Object Model]]
 - [[Static Site Generation]]
+- [[Form Validation]]
+- [[Accordion]]
+- [[Progressive Web App]]
+- [[Fail-Safe]]

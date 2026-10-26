@@ -14,10 +14,16 @@ The root cause across all three is the same: untrusted input rendered into a con
 [[Content Security Policy]] is the layer that limits damage after an injection succeeds anyway — it's a mitigation, not a substitute for escaping.
 
 ## See also
-- [[Content Security Policy]]
-- [[Document Object Model]]
+- [[Form Validation]]
 - [[Same-Origin Policy]]
 - [[Cross-Origin Resource Sharing]]
+- [[Cross-Site Request Forgery]]
 
 ## Related
 - [[JSON Web Token]]
+- [[SQL Injection]]
+- [[MIME Type]]
+- [[ANSI Escape Code]]
+- [[Session Management]]
+- [[Open Redirect]]
+- [[PHP]]

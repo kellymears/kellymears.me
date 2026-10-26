@@ -17,8 +17,6 @@ Elinor Ostrom's work on commons governance added the most hopeful finding: real 
 - [[Broken Windows Theory]]
 - [[Wiki]]
 - [[Plain Language]]
-
-## Related
 - [[Naming]]
 - [[Markdown]]
 - [[Information Architecture]]

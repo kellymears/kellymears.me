@@ -12,6 +12,5 @@ The mechanism is a variant of reactance plus a media logic: censorship is itself
 It is not a universal law — plenty of suppression works exactly as intended, quietly, because no one was watching for a story. The effect requires an audience primed to notice and share the *act* of suppression, which is why it shows up most reliably online, where the mechanics of removal (a 404, a notice-and-takedown, a court order) are themselves screenshottable content. It's worth distinguishing from the [[Availability Cascade]], where attention snowballs from ordinary salience rather than from a suppression attempt; the Streisand Effect specifically needs someone trying to make information go away.
 
 ## See also
-- [[Availability Cascade]]
-- [[Moral Panic]]
 - [[Confidence Trick]]
+- [[Moral Panic]]

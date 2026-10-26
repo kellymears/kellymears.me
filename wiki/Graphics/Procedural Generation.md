@@ -18,15 +18,12 @@ Two structural concerns recur.
 Determinism also enables *incremental* generation: extending a world without regenerating what already exists requires that the same inputs always produce the same region.
 
 ## See also
-- [[Seeded Randomness]]
 - [[L-System]]
+- [[Colony Sim]]
 - [[Determinism]]
 - [[Voxel]]
 - [[Cellular Automaton]]
 - [[Roguelike]]
-- [[Colony Sim]]
-
-## Related
 - [[Shader]]
 - [[Constraint Propagation]]
 - [[Reproducible Case]]

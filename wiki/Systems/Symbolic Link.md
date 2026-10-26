@@ -16,15 +16,14 @@ Version control treats a symlink as a file containing a path, which means commit
 Careless linking of a home directory's important files is a genuinely destructive operation, which is the argument for a script that is reviewable and idempotent rather than a sequence of ad-hoc commands.
 
 ## See also
-- [[Dotfiles]]
 - [[XDG Base Directory Specification]]
 - [[Idempotence]]
-
-## Related
 - [[Environment Variable]]
 - [[Shell]]
 - [[Terminal User Interface]]
-- [[Silent Failure]]
 - [[Time Zone]]
 - [[Containerization]]
 - [[Secret Management]]
+- [[Silent Failure]]
+- [[Archive File]]
+- [[Time-of-Check to Time-of-Use]]

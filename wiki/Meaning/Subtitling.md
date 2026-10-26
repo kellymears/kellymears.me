@@ -16,13 +16,11 @@ Because a subtitle file is plain text with stable indices, a change log keyed to
 
 ## See also
 - [[Plain Language]]
-- [[Accessibility]]
 - [[Markdown]]
 - [[Automatic Speech Recognition]]
 - [[Environmental Storytelling]]
 - [[Diegesis]]
-
-## Related
-- [[Game Feel]]
 - [[Assist Mode]]
 - [[Video Game Localization]]
+- [[Accessibility]]
+- [[Game Feel]]

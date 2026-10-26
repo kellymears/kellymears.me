@@ -20,3 +20,5 @@ Most languages are strict by default (arguments evaluated before a call) and opt
 - [[Pure Function]]
 - [[Recursion]]
 - [[Determinism]]
+- [[Object-Relational Mapping]]
+- [[Iterator]]

@@ -15,13 +15,11 @@ The visible behavior while a font is pending is controlled by `font-display`. Th
 Two practical notes. Build tools that self-host fonts commonly hash the family name, so any test asserting on a literal family name will fail — assert on the fallback stack instead. And preloading the specific files needed for first paint removes a full round trip from the [[Critical Rendering Path]].
 
 ## See also
-- [[Critical Rendering Path]]
 - [[Typographic Scale]]
 - [[Performance Budget]]
-- [[Ground Truth]]
-
-## Related
 - [[Code Splitting]]
-- [[Silent Failure]]
 - [[Server-Side Rendering]]
 - [[Module Graph]]
+- [[Ground Truth]]
+- [[Silent Failure]]
+- [[Layout Shift]]

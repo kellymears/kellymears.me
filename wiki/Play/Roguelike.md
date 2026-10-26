@@ -14,14 +14,12 @@ The genre's ideas have migrated widely, most successfully as a *mode* layered on
 
 ## See also
 - [[Seeded Randomness]]
-- [[Procedural Generation]]
 - [[Game AI]]
 - [[Constraint Propagation]]
-
-## Related
 - [[Cellular Automaton]]
 - [[Trick-Taking Game]]
 - [[L-System]]
-- [[Determinism]]
 - [[Voxel]]
+- [[Procedural Generation]]
+- [[Determinism]]
 - [[Shader]]

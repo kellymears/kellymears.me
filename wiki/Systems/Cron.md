@@ -15,13 +15,12 @@ They also fail *silently* by default. Output goes nowhere unless directed somewh
 The practical rules: use absolute paths, set the environment explicitly, log to a known location, make the job [[Idempotence|idempotent]] so a double run is harmless, and provide a way to trigger it manually so it can be tested without waiting for the schedule.
 
 ## See also
+- [[Truncation Bias]]
 - [[Daemon]]
 - [[Environment Variable]]
-- [[Idempotence]]
-- [[Silent Failure]]
-
-## Related
 - [[Fail Fast]]
-- [[Truncation Bias]]
 - [[Secret Management]]
 - [[Root Cause Analysis]]
+- [[Shebang]]
+- [[Background Agent]]
+- [[Fake Clock]]

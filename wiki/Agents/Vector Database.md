@@ -14,6 +14,7 @@ The metadata-filtering problem is where most real deployments spend their engine
 
 ## See also
 - [[Embedding]]
-- [[Retrieval-Augmented Generation]]
 - [[Context Window]]
 - [[Token Budget]]
+- [[Reranking]]
+- [[Stemming and Lemmatization]]

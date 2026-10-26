@@ -12,7 +12,6 @@ The mechanism is a difference in vantage point: an observer sees the other perso
 The error matters most where it has consequences: it drives harsher judgments of poverty, crime, and unemployment as failures of character rather than circumstance, and it's a routine source of conflict in close relationships, where a partner's lapse reads as "who they are" while your own identical lapse reads as "a bad day." It's worth distinguishing from the [[Halo Effect]], which contaminates trait judgments with an unrelated positive impression; the attribution error is specifically about *where* you locate the cause of a behavior, not about whether the overall impression is favorable.
 
 ## See also
-- [[Halo Effect]]
 - [[Learned Helplessness]]
 - [[Bystander Effect]]
 - [[Groupthink]]

@@ -15,13 +15,10 @@ There is also a measurement artifact worth recognizing. When two runners instrum
 
 ## See also
 - [[Code Coverage]]
-- [[Unreachable Code]]
 - [[Instrumentation]]
 - [[Coverage Gate]]
-
-## Related
-- [[Silent Failure]]
-- [[Goodhart's Law]]
 - [[Chesterton's Fence]]
 - [[Vacuous Truth]]
 - [[Fail Fast]]
+- [[Silent Failure]]
+- [[Goodhart's Law]]

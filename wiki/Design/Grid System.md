@@ -15,10 +15,10 @@ Grids interact directly with [[Responsive Breakpoint]]s — a 12-column grid at 
 The main risk of a grid system is treating it as decoration rather than constraint — a grid that every layout quietly ignores whenever it's inconvenient isn't providing consistency, it's providing the appearance of a system without the discipline one requires.
 
 ## See also
-- [[Responsive Breakpoint]]
-- [[Gestalt Principles]]
 - [[Typographic Scale]]
 - [[Design System]]
-
-## Related
 - [[Container Query]]
+- [[Lorem Ipsum]]
+- [[Aspect Ratio]]
+- [[Flexbox]]
+- [[Box Model]]

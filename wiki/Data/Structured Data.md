@@ -18,14 +18,16 @@ Two practical cautions.
 **Structured data is a claim about content, not a substitute for it.** Markup describing something the page does not contain is a policy violation as well as a lie.
 
 ## See also
+- [[RSS]]
+- [[Headless CMS]]
 - [[Search Engine Optimization]]
 - [[Semantic HTML]]
 - [[JSON Schema]]
 - [[Knowledge Graph]]
-- [[RSS]]
-- [[Headless CMS]]
-
-## Related
 - [[Information Architecture]]
 - [[Static Site Generation]]
 - [[Backlink]]
+- [[Breadcrumb]]
+- [[Barcode]]
+- [[Open Graph]]
+- [[Web Search Engine]]

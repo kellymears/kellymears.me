@@ -15,13 +15,11 @@ Deployment is also where a whole category of environment-specific failure lives,
 The only honest verification is to reproduce the deployment path end to end — reset, migrate, build, start in production mode, and request the real thing. See [[Database Migration]] and [[Ground Truth]].
 
 ## See also
-- [[Continuous Integration]]
-- [[Feature Flag]]
-- [[Database Migration]]
 - [[Secret Management]]
-- [[Containerization]]
-
-## Related
 - [[Vacuous Truth]]
 - [[Trunk-Based Development]]
+- [[Continuous Integration]]
+- [[Containerization]]
 - [[Silent Failure]]
+- [[Definition of Done]]
+- [[Progressive Delivery]]

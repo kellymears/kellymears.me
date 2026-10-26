@@ -12,9 +12,9 @@ The appeal is that sharding is close to the only way to scale write throughput p
 The partitioning key is the single decision the whole design hangs on, and it's hard to change later without a live data migration. A key that distributes load evenly ([[Consistent Hashing|hashing]] a customer ID) scales cleanly but kills range queries; a key chosen for query locality (a date range, a region) scales unevenly if one shard's traffic outgrows the rest — the classic "hot shard" problem, where one partition becomes the bottleneck the whole design was meant to avoid.
 
 ## See also
-- [[Database Replication]]
-- [[Two-Phase Commit]]
 - [[Multi-Tenancy]]
 
 ## Related
 - [[CAP Theorem]]
+- [[Foreign Key]]
+- [[Key-Value Store]]

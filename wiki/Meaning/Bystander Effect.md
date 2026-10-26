@@ -13,7 +13,6 @@ Latané and Darley identified two separate mechanisms working together. Diffusio
 The effect has been replicated across dozens of experimental setups, from staged emergencies to online forums where a request for help gets slower responses in a crowded channel than a nearly empty one. It is a claim about each individual's probability of acting, though, not about the crowd's total response: CCTV studies of real public conflicts (Philpot and colleagues, 2019) found that *someone* intervened in roughly nine out of ten incidents, and that a larger crowd made it more likely the victim got help at all. The practical countermeasure follows directly from the mechanism: singling out one bystander by description ("you, in the blue jacket, call an ambulance") breaks the diffusion by assigning specific, unshareable responsibility, which is why first-aid training teaches exactly that phrasing instead of a general appeal to the crowd.
 
 ## See also
-- [[Social Proof]]
-- [[Groupthink]]
 - [[Fundamental Attribution Error]]
 - [[Spiral of Silence]]
+- [[Groupthink]]

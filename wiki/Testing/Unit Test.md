@@ -15,12 +15,10 @@ There is also an environmental cost worth knowing about. A unit test that import
 
 ## See also
 - [[Integration Test]]
-- [[Test Double]]
 - [[Test-Driven Development]]
 - [[Component Story]]
-
-## Related
 - [[Test Fixture]]
 - [[Regression]]
 - [[Module Graph]]
 - [[Property-Based Testing]]
+- [[Test Isolation]]

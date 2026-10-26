@@ -14,12 +14,12 @@ Two further notes. Fixtures should be *local and deterministic* where the assert
 
 ## See also
 - [[Test Double]]
-- [[Determinism]]
 - [[Seed Data]]
 - [[Visual Regression Testing]]
 - [[Record and Replay Testing]]
 - [[Integration Test]]
-
-## Related
 - [[Unit Test]]
 - [[Nondeterminism]]
+- [[Determinism]]
+- [[Test Isolation]]
+- [[Test Data Builder]]

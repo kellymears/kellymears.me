@@ -15,15 +15,8 @@ When perfusion fails outright the result is **avascular necrosis**: bone dies, l
 This anatomy drives clinical caution. Scaphoid fractures are notoriously invisible on initial radiographs, a plain [[Sensitivity and Specificity]] problem, so a suggestive examination is often immobilized and re-imaged rather than cleared. It also justifies early [[Fracture Fixation]] in fragments at risk, and it explains why perfusion governs outcomes in soft tissue too, as in [[Moist Wound Healing]].
 
 ## See also
-- [[Fracture Nonunion]]
-- [[Bone Remodeling]]
-- [[Fracture Fixation]]
-- [[Sensitivity and Specificity]]
-- [[Moist Wound Healing]]
-
-## Related
 - [[Nociception]]
-- [[Ground Truth]]
 - [[Plausible Mechanism]]
 - [[Regional Nerve Block]]
 - [[Physical Dependence]]
+- [[Ground Truth]]

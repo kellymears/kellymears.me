@@ -16,13 +16,11 @@ Poor observability produces a characteristic waste: hours spent reconstructing s
 ## See also
 - [[Instrumentation]]
 - [[Ground Truth]]
-- [[Silent Failure]]
 - [[Reproducible Case]]
 - [[Resource Starvation]]
 - [[Root Cause Analysis]]
 - [[Cron]]
 - [[Fail Fast]]
-
-## Related
 - [[Daemon]]
 - [[Vacuous Truth]]
+- [[Web Analytics]]

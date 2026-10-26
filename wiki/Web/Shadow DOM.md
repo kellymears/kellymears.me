@@ -20,3 +20,5 @@ The tradeoff mirrors [[Web Components]]' own: real isolation, at the cost of the
 
 ## Related
 - [[Portal]]
+- [[Screen Reader]]
+- [[CSS-in-JS]]

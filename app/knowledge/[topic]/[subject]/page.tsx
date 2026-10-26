@@ -1,5 +1,6 @@
 import Backlinks from '@/components/knowledge/Backlinks'
 import { KnowledgeGraph } from '@/components/knowledge/KnowledgeGraph'
+import { packGraph } from '@/components/knowledge/packed-graph'
 import LinkGroup from '@/components/knowledge/LinkGroup'
 import NoteFooterNav from '@/components/knowledge/NoteFooterNav'
 import NoteHeader from '@/components/knowledge/NoteHeader'
@@ -149,7 +150,7 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
               </h2>
               <div className="mt-3">
                 <KnowledgeGraph
-                  graph={localGraph}
+                  graph={packGraph(localGraph)}
                   variant="local"
                   activeId={note.slug}
                   height={300}
@@ -168,7 +169,7 @@ const Page = async (props: { params: Promise<RouteParams> }) => {
             </div>
             {place && (
               <div className="mt-4">
-                <VaultLocator x={place.x} y={place.y} title={note.title} />
+                <VaultLocator x={place.x} y={place.y} title={note.title} slug={note.slug} />
               </div>
             )}
           </aside>

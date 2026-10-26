@@ -20,13 +20,16 @@ Several things about rebasing are worth knowing concretely.
 
 ## See also
 - [[Three-Way Merge]]
-- [[Merge Conflict]]
 - [[Semantic Conflict]]
-- [[Commit]]
-
-## Related
 - [[Merge Train]]
-- [[Version Control]]
 - [[Regression]]
+- [[Merge Conflict]]
+- [[Commit]]
+- [[Version Control]]
 - [[Continuous Integration]]
 - [[Trunk-Based Development]]
+- [[Feature Branch]]
+- [[Detached HEAD]]
+- [[Cherry-Pick]]
+- [[Reflog]]
+- [[Fast-Forward Merge]]

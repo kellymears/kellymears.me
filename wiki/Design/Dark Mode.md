@@ -15,13 +15,16 @@ The robust shape is: define the complete light palette on the bare root selector
 Two practical notes. Because the common implementation toggles a class on the root element, code that needs to *observe* the current theme must watch that element rather than the media query — the media query reports the system preference, not the applied theme. And dark mode is not an inversion: shadows, image treatment, and contrast ratios all need separate consideration; see [[Color Contrast]].
 
 ## See also
-- [[Design Token]]
 - [[CSS Custom Property]]
 - [[Scoped Styling]]
-- [[OKLCH]]
-
-## Related
 - [[Utility-First CSS]]
+- [[Design Token]]
+- [[OKLCH]]
 - [[Silent Failure]]
 - [[Portal]]
 - [[Motion Design]]
+- [[OLED]]
+- [[Focus Indicator]]
+- [[Glassmorphism]]
+- [[HSL and HSV]]
+- [[Favicon]]

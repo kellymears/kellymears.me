@@ -20,11 +20,11 @@ The principle is stated easily and applied poorly, because broad permissions are
 
 ## See also
 - [[Secret Management]]
-- [[Supply Chain Security]]
 - [[Guardrail]]
 - [[Same-Origin Policy]]
 - [[Code Signing]]
 - [[Model Context Protocol]]
-
-## Related
 - [[System Prompt]]
+- [[Browser Extension]]
+- [[Server-Side Request Forgery]]
+- [[Time-of-Check to Time-of-Use]]

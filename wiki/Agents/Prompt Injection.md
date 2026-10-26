@@ -18,13 +18,13 @@ The defenses that hold are architectural rather than linguistic:
 **Confirm before acting outward.** See [[Human in the Loop]].
 
 ## See also
+- [[Model Context Protocol]]
+- [[Prompt]]
 - [[Guardrail]]
 - [[Secret Management]]
 - [[Supply Chain Security]]
-- [[Least Privilege]]
-- [[Model Context Protocol]]
-- [[Prompt]]
-
-## Related
 - [[Tool Use]]
 - [[Large Language Model]]
+- [[Threat Modeling]]
+- [[Server-Side Request Forgery]]
+- [[Agent Sandbox]]

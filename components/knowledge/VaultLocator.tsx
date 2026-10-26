@@ -6,6 +6,7 @@ interface Props {
   x: number
   y: number
   title: string
+  slug: string
 }
 
 /**
@@ -15,10 +16,10 @@ interface Props {
  * and marker share the 1900×1000 box with `contain`/`meet` fitting, so they
  * stay registered at any width.
  */
-export function VaultLocator({ x, y, title }: Props) {
+export function VaultLocator({ x, y, title, slug }: Props) {
   return (
     <Link
-      href="/knowledge"
+      href={`/knowledge/map?focus=${slug}`}
       aria-label={`${title} in the whole knowledge map`}
       className="group block rounded-xl border border-gray-200 px-3 py-4 transition-colors hover:border-[var(--topic)] dark:border-gray-800 dark:hover:border-[var(--topic-dark)]"
     >

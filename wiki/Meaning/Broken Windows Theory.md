@@ -15,9 +15,9 @@ The critical case is equally specific. Reanalyses of the Moving to Opportunity e
 The implementation costs are documented separately and little disputed. Enforcement-heavy programs concentrated stops and arrests on young men in poor and minority neighborhoods, producing court debt and records with long consequences, and one city's stop-and-frisk program was ruled unconstitutional as practiced. A screen with a low hit rate puts most of its burden on innocent people, a question of [[Sensitivity and Specificity]]; and once stop counts became the performance measure, [[Goodhart's Law]] did the rest. A hypothesis compatible with every outcome is weak on [[Falsifiability]] before anyone disputes its data.
 
 ## See also
-- [[Falsifiability]]
+- [[Collective Action]]
 - [[Plausible Mechanism]]
 - [[Ground Truth]]
 - [[Root Cause Analysis]]
-- [[Collective Action]]
-- [[Goodhart's Law]]
+- [[Static Analysis]]
+- [[Entropy]]

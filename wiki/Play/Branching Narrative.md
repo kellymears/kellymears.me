@@ -14,7 +14,6 @@ This is worth separating from [[Multiple Endings]], which concerns only a story'
 It's also distinct from [[Procedural Narrative]]: every branch here was written by a person, where a procedural system's outputs have no individual author behind them at all.
 
 ## See also
-- [[Multiple Endings]]
-- [[Procedural Narrative]]
 - [[Disco Elysium]]
 - [[Visual Novel]]
+- [[Cutscene]]

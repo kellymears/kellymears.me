@@ -15,14 +15,15 @@ The consequence for anyone sharing a small tool informally is concrete: an ad-ho
 Testing this requires a machine other than the one that built it, since a local build has no quarantine attribute and a development-path fallback can mask the failure entirely. See [[Ground Truth]].
 
 ## See also
-- [[Supply Chain Security]]
 - [[Letterlocking]]
 - [[Daemon]]
+- [[Supply Chain Security]]
 - [[Least Privilege]]
-
-## Related
 - [[Secret Management]]
 - [[Prompt Injection]]
 - [[Observability]]
 - [[Silent Failure]]
 - [[Cron]]
+- [[Dual Boot]]
+- [[Commit Signing]]
+- [[GNU Privacy Guard]]

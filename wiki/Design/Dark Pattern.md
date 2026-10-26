@@ -15,7 +15,10 @@ The distinction that matters in practice is intent and asymmetry, not mere persu
 
 ## See also
 - [[Affordance]]
-- [[Hick's Law]]
 - [[Progressive Disclosure]]
 - [[Accessibility]]
 - [[Compulsion Loop]]
+- [[Call to Action]]
+- [[Toggle Switch]]
+- [[Carousel]]
+- [[Clickjacking]]

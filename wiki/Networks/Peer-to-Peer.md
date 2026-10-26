@@ -14,13 +14,11 @@ That last point is a design decision rather than a defect. For a game among frie
 The pattern is at its best where the value is in the connection rather than in stored state, and where "no server I run" is a goal in itself rather than merely a cost saving.
 
 ## See also
-- [[WebRTC]]
 - [[Signaling Server]]
-- [[Conflict-Free Replicated Data Type]]
+- [[Battle Royale]]
+- [[WebRTC]]
 - [[Eventual Consistency]]
-
-## Related
 - [[Idempotence]]
 - [[Virtual Private Network]]
 - [[Network Effect]]
-- [[Battle Royale]]
+- [[BitTorrent]]

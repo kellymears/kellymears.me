@@ -17,3 +17,4 @@ The mechanism is best understood as damage control on [[Variable-Ratio Reinforce
 - [[Variable-Ratio Reinforcement]]
 - [[Free-to-Play]]
 - [[Compulsion Loop]]
+- [[Pseudorandom Number Generator]]

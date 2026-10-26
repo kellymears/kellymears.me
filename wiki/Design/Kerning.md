@@ -12,6 +12,5 @@ This is the detail that trips people up: kerning is not the same thing as **trac
 Good kerning is invisible — it reads as "this text just looks right" rather than as a feature anyone notices — which makes it a craft detail that separates a font tested at production sizes from one that was never checked at display scale, where kerning errors are most visible (logotypes, headlines, anywhere letters get large enough that a gap becomes conspicuous). It's also one of the areas [[Variable Fonts]] complicate: a kerning table built for one weight doesn't necessarily hold at another, so a variable font's kerning has to interpolate across the same axes the letterforms do, or gaps reappear at intermediate weights nobody explicitly tested.
 
 ## See also
-- [[Variable Fonts]]
 - [[Typographic Scale]]
 - [[Grid System]]

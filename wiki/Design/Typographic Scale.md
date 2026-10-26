@@ -15,14 +15,13 @@ Scale is also contextual. Application chrome — toolbars, menus, controls — g
 Measure line length too. Readability falls off sharply beyond roughly seventy-five characters, and in a terminal or a narrow column it must be derived from the available width rather than assumed. See [[Terminal User Interface]].
 
 ## See also
+- [[Web Font Loading]]
+- [[Utility-First CSS]]
+- [[UI Primitive]]
 - [[Design System]]
 - [[Design Token]]
-- [[Web Font Loading]]
 - [[Plain Language]]
-
-## Related
-- [[Utility-First CSS]]
 - [[Naming]]
-- [[UI Primitive]]
 - [[Taxonomy]]
 - [[Silent Failure]]
+- [[Lorem Ipsum]]

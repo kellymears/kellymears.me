@@ -13,8 +13,6 @@ This makes "it was never part of the documented contract" a weak defense when a 
 Versioning schemes exist partly to manage this. A [[Semantic Versioning]] major bump signals that behavior, documented or not, may change, and a [[Deprecation]] window gives dependents time to notice and adjust before it does. Neither eliminates Hyrum's law — a minor version can still break someone who relied on accidental behavior — but both convert a [[Silent Failure]] into an announced one, which is the most a maintainer can reasonably offer.
 
 ## See also
-- [[Semantic Versioning]]
-- [[Deprecation]]
-- [[Chesterton's Fence]]
-- [[Documentation Rot]]
-- [[Regression]]
+- [[User Agent String]]
+- [[Postel's Law]]
+- [[API Translation Layer]]

@@ -501,7 +501,11 @@ input:-webkit-autofill:focus {
 
 /* ——— Home: knowledge constellation ——— */
 
+/* Chrome restyles every running animation each frame, on screen or off, so the
+   field's are skipped while it is out of view. Its height is set in CSS, so
+   the size containment this implies cannot shift the layout. */
 .kc-field {
+  content-visibility: auto;
   mask-image: radial-gradient(ellipse 72% 78% at 50% 48%, #000 45%, transparent 100%);
 }
 @media (min-width: 1024px) {
@@ -510,12 +514,50 @@ input:-webkit-autofill:focus {
   }
 }
 
-.kc-signals path {
-  stroke: var(--color-primary-500);
-  stroke-dasharray: 0.12 0.88;
-  stroke-dashoffset: 1;
+/* The SVG's 1900×1000 frame under preserveAspectRatio="xMidYMid slice":
+   centered, and scaled so it covers the field in both directions. */
+.kc-signals {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  width: max(100%, 190cqh);
+  aspect-ratio: 19 / 10;
+  translate: -50% -50%;
+}
+
+/* One edge: a 2-unit band from hub to neighbor, rotated into place inline.
+   The inner span carries both dashes and is the only animated element (Chrome
+   restyles every animated element each frame, composited or not). Together
+   they reproduce the old dashoffset sweep (1 → -0.12, period 1): one dash runs
+   the length and exits past the far end while the next enters behind it at the
+   hub, as the repeating pattern did. */
+.kc-signal {
+  position: absolute;
+  height: 0.2%;
+  overflow: hidden;
+  transform-origin: 0 50%;
+}
+.kc-signal > span {
+  position: absolute;
+  inset: 0;
   opacity: 0;
   animation: kc-signal 6s cubic-bezier(0.45, 0, 0.2, 1) infinite;
+  animation-delay: inherit;
+}
+/* Each dash: 12% of the edge plus its round caps, one stroke-width longer. */
+.kc-signal > span::before,
+.kc-signal > span::after {
+  content: '';
+  position: absolute;
+  inset-block: 0;
+  left: calc(var(--cap) * -0.5%);
+  width: calc((12 + var(--cap)) * 1%);
+  border-radius: 999px;
+  background: var(--color-primary-500);
+}
+.kc-signal > span::after {
+  left: calc(-100% - var(--cap) * 0.5%);
 }
 
 .kc-hubs circle {
@@ -546,25 +588,26 @@ input:-webkit-autofill:focus {
 }
 
 .kc-drift {
+  container-type: size;
   animation: kc-drift 60s ease-in-out infinite alternate;
   transform-origin: 50% 50%;
 }
 
 @keyframes kc-signal {
   0% {
-    stroke-dashoffset: 1;
+    transform: translateX(0);
     opacity: 0;
   }
   10% {
     opacity: 1;
   }
   55% {
-    stroke-dashoffset: -0.12;
+    transform: translateX(112%);
     opacity: 1;
   }
   60%,
   100% {
-    stroke-dashoffset: -0.12;
+    transform: translateX(112%);
     opacity: 0;
   }
 }
@@ -628,13 +671,35 @@ input:-webkit-autofill:focus {
 
 /* ——— Movement: route heat field ——— */
 
-.rf-root {
-  mask-image: radial-gradient(ellipse 70% 75% at 50% 50%, #000 40%, transparent 100%);
+/*
+ * The canvas field (RouteFieldCanvas) bakes this edge fade in, and the glow,
+ * gradient and streaks with it. These mask rules and the `.rf-heat` /
+ * `.rf-glow` layers are the no-JS fallback only: as live CSS they cost most of
+ * a frame of GPU time while the field drifted.
+ */
+.rf-fallback {
+  display: none;
 }
-@media (min-width: 1024px) {
+@media (scripting: none) {
+  .rf-fallback {
+    display: block;
+  }
+  .rf-root {
+    mask-image: radial-gradient(ellipse 70% 75% at 50% 50%, #000 40%, transparent 100%);
+  }
+}
+@media (scripting: none) and (min-width: 1024px) {
   .rf-root--right {
     mask-image: radial-gradient(ellipse 58% 80% at 64% 50%, #000 40%, transparent 100%);
   }
+}
+
+.rf-canvas {
+  opacity: 0;
+  transition: opacity 0.8s ease-out;
+}
+.rf-canvas[data-ready] {
+  opacity: 1;
 }
 
 /* The field SVG is a mask; the color is ours, so it tracks the page palette. */
@@ -668,28 +733,6 @@ input:-webkit-autofill:focus {
   opacity: 0.8;
 }
 
-.rf-streaks g {
-  animation-delay: inherit;
-}
-.rf-streak,
-.rf-streak-glow {
-  stroke-dasharray: 0.07 0.93;
-  animation: rf-streak 14s linear infinite;
-  animation-delay: inherit;
-}
-.rf-streak {
-  stroke: var(--color-primary-500);
-  stroke-width: 2.5;
-}
-.dark .rf-streak {
-  stroke: var(--color-primary-300);
-}
-.rf-streak-glow {
-  stroke: var(--color-primary-400);
-  stroke-width: 9;
-  stroke-opacity: 0.25;
-}
-
 .rf-latest-path {
   stroke: var(--color-primary-700);
   stroke-width: 3;
@@ -708,14 +751,6 @@ input:-webkit-autofill:focus {
 .dark .rf-latest-dot {
   fill: var(--color-primary-300);
   stroke: var(--color-gray-950);
-}
-.rf-latest-ring {
-  fill: none;
-  stroke: var(--color-primary-500);
-  stroke-width: 2;
-  transform-box: fill-box;
-  transform-origin: center;
-  animation: kc-ring 2.8s ease-out infinite;
 }
 .rf-latest-label {
   font-family: var(--font-sans);
@@ -752,22 +787,9 @@ input:-webkit-autofill:focus {
   transform-origin: 50% 50%;
 }
 
-@keyframes rf-streak {
-  from {
-    stroke-dashoffset: 0;
-  }
-  to {
-    stroke-dashoffset: -1;
-  }
-}
-
 @media (prefers-reduced-motion: reduce) {
-  .rf-drift,
-  .rf-latest-ring {
+  .rf-drift {
     animation: none;
-  }
-  .rf-streaks {
-    display: none;
   }
   .rf-latest-path {
     animation: none;
@@ -852,4 +874,27 @@ input:-webkit-autofill:focus {
   .vault-marker-ring {
     animation: none;
   }
+}
+
+/* Knowledge map (`/knowledge/map`): canvas ink, read by `map-engine.ts`. */
+.km {
+  --km-bg: var(--color-paper);
+  --km-edge: var(--color-gray-400);
+  --km-edge-o: 0.2;
+  --km-edge-hot: var(--color-gray-600);
+  --km-label: var(--color-gray-700);
+  --km-ring: var(--color-gray-600);
+  --km-accent: var(--color-primary-500);
+}
+/* Preflight sets buttons to `cursor: default`. */
+.km button {
+  cursor: pointer;
+}
+.dark .km {
+  --km-bg: var(--color-gray-950);
+  --km-edge-o: 0.26;
+  --km-edge-hot: var(--color-gray-300);
+  --km-label: var(--color-gray-300);
+  --km-ring: var(--color-gray-400);
+  --km-accent: var(--color-primary-400);
 }

@@ -17,11 +17,9 @@ The complementary practice is honest reporting: a gate is only as good as the ac
 ## See also
 - [[Guardrail]]
 - [[Agentic Loop]]
-- [[Code Review]]
 - [[Multi-Agent Orchestration]]
 - [[Prompt Injection]]
 - [[Pull Request]]
-
-## Related
 - [[Context Window]]
 - [[Tool Use]]
+- [[Background Agent]]

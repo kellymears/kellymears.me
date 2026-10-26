@@ -16,6 +16,5 @@ The same collagen-remodeling logic explains why [[Fracture Nonunion]] and proble
 
 ## See also
 - [[Moist Wound Healing]]
-- [[Fracture Nonunion]]
 - [[Tendon and Ligament]]
 - [[Inflammation]]

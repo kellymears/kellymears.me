@@ -19,6 +19,5 @@ The practical corollary is that a genuinely late project is rescued by removing 
 - [[Parkinson's Law]]
 - [[Bus Factor]]
 - [[Conway's Law]]
-
-## Related
 - [[Technical Debt]]
+- [[Theory of Constraints]]

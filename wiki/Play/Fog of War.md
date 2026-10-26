@@ -14,7 +14,5 @@ Because information is scarce, vision itself becomes a sub-game — wards, scout
 [[Open World Design]] borrows the same reveal-the-map instinct at a structural level: a tower climbed to unfog a region of an open-world map is fog of war's core idea, repurposed as a traversal reward rather than an information contest.
 
 ## See also
-- [[Grand Strategy Game]]
-- [[4X Game]]
-- [[Open World Design]]
 - [[Colony Sim]]
+- [[Heads-Up Display]]

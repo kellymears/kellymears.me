@@ -14,14 +14,15 @@ That is why the strictest systems ban the escape hatches outright rather than di
 The maintenance question is not whether the system covers everything but whether extending it is easier than bypassing it. When it is not, people bypass it, and the bypass is invisible to any check that only inspects the sanctioned path.
 
 ## See also
-- [[Design Token]]
 - [[UI Primitive]]
 - [[Headless Component]]
-- [[Naming]]
-- [[Taxonomy]]
 - [[Utility-First CSS]]
 - [[Container Query]]
+- [[Design Token]]
+- [[Naming]]
+- [[Taxonomy]]
 - [[Typographic Scale]]
-
-## Related
 - [[Plain Language]]
+- [[Empty State]]
+- [[Iconography]]
+- [[Focus Indicator]]

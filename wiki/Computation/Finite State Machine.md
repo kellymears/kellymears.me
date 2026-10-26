@@ -15,7 +15,6 @@ A [[Regular Expression]] is exactly a finite state machine in another notation �
 The failure mode of *not* modeling something explicitly as a state machine is scattering the same state logic across a pile of boolean flags — `isLoading`, `isError`, `hasData` — that combinatorially permit invalid combinations no single state should allow (`isLoading && isError` both true), a bug a proper FSM makes structurally impossible rather than merely untested. This is the usual argument for a library like XState over ad hoc flags: not extra power, but ruling out invalid states by construction.
 
 ## See also
-- [[Pattern Matching]]
-- [[Regular Expression]]
 - [[Actor Model]]
 - [[Determinism]]
+- [[Flowchart]]

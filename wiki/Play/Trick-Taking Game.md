@@ -18,11 +18,10 @@ As software, this family is unusually pleasant to model: a card type, a move as 
 - [[Game AI]]
 - [[Seeded Randomness]]
 - [[Terminal User Interface]]
-
-## Related
 - [[Tarot]]
 - [[Roguelike]]
 - [[Constraint Propagation]]
-- [[Procedural Generation]]
 - [[Cellular Automaton]]
 - [[L-System]]
+- [[Procedural Generation]]
+- [[Party Game]]

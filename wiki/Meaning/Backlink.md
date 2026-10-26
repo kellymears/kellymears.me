@@ -20,10 +20,9 @@ The same idea, at web scale, was the basis of link-based search ranking: a page'
 - [[Wiki]]
 - [[Knowledge Graph]]
 - [[Zettelkasten]]
-- [[Search Engine Optimization]]
-
-## Related
 - [[Structured Data]]
+- [[Agent Memory]]
+- [[Search Engine Optimization]]
 - [[Information Architecture]]
 - [[Core Web Vitals]]
-- [[Agent Memory]]
+- [[Blog]]

@@ -22,14 +22,17 @@ The behaviors that produce the most wasted time are worth learning explicitly.
 Exit status is the shell's only universal signal, and it means "the program returned zero", which frequently is not the same as "the thing you wanted happened". See [[Vacuous Truth]].
 
 ## See also
-- [[Environment Variable]]
 - [[Glob]]
-- [[Process]]
 - [[Dotfiles]]
+- [[Terminal User Interface]]
+- [[Environment Variable]]
+- [[Process]]
 - [[Port]]
 - [[Character Encoding]]
-- [[Terminal User Interface]]
-
-## Related
 - [[Silent Failure]]
 - [[Ground Truth]]
+- [[Terminal Multiplexer]]
+- [[Command-Line Interface]]
+- [[Shebang]]
+- [[Exit Status]]
+- [[Pseudoterminal]]

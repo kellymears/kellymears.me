@@ -23,3 +23,4 @@ Two testing notes. Automated accessibility checks that run immediately after an 
 - [[Accessibility]]
 - [[Progressive Enhancement]]
 - [[Focus Management]]
+- [[View Transitions]]

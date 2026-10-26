@@ -24,8 +24,7 @@ Practical design centers on a few pressures.
 - [[Human in the Loop]]
 - [[Token Budget]]
 - [[Guardrail]]
-- [[Large Language Model]]
-
-## Related
 - [[Token]]
 - [[Model Context Protocol]]
+- [[Large Language Model]]
+- [[Background Agent]]

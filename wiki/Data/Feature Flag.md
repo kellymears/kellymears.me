@@ -19,14 +19,11 @@ Two implementation notes matter more than the mechanism.
 Flags accumulate. A flag whose feature has fully shipped is dead conditional logic in every path it touches, and removing it is real work that has to be scheduled.
 
 ## See also
-- [[Trunk-Based Development]]
-- [[Continuous Deployment]]
+- [[Draft and Published]]
+- [[Headless CMS]]
 - [[Technical Debt]]
 - [[Multi-Tenancy]]
-- [[Draft and Published]]
-
-## Related
 - [[Relational Database]]
-- [[Headless CMS]]
 - [[Continuous Integration]]
 - [[Documentation Rot]]
+- [[Progressive Delivery]]

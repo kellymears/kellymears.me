@@ -15,6 +15,6 @@ Referred pain is distinct from radiating pain, which travels along a single nerv
 
 ## See also
 - [[Nociception]]
-- [[Proprioception]]
 - [[Compartment Syndrome]]
 - [[Analgesic Ladder]]
+- [[Proprioception]]

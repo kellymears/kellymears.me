@@ -16,14 +16,13 @@ The same structure appears in type inference, scheduling, layout solvers, and de
 
 ## See also
 - [[Game AI]]
-- [[Seeded Randomness]]
 - [[Roguelike]]
 - [[Cellular Automaton]]
-
-## Related
-- [[Procedural Generation]]
 - [[Trick-Taking Game]]
 - [[L-System]]
-- [[Determinism]]
 - [[Voxel]]
+- [[Seeded Randomness]]
+- [[Procedural Generation]]
+- [[Determinism]]
 - [[Shader]]
+- [[Backtracking]]

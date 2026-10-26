@@ -16,12 +16,10 @@ Where full determinism is not achievable, the fallback is to isolate the non-det
 
 ## See also
 - [[Fingerprint]]
+- [[Nondeterminism]]
+- [[Cache Invalidation]]
+- [[Reproducible Case]]
 - [[Hash Function]]
 - [[Flaky Test]]
-- [[Nondeterminism]]
 - [[Bundler]]
-- [[Cache Invalidation]]
-
-## Related
 - [[Procedural Generation]]
-- [[Reproducible Case]]

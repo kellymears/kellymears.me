@@ -15,11 +15,9 @@ This is easy to say and surprisingly easy to violate in the writing, not just th
 Blamelessness is not the same as consequence-free — a genuine pattern of disregard for known procedure is a different problem, addressed differently and separately from the incident review whose only job is to find out what the system let happen.
 
 ## See also
+- [[Hanlon's Razor]]
 - [[Root Cause Analysis]]
 - [[Five Whys]]
 - [[Silent Failure]]
-- [[Hanlon's Razor]]
 - [[Fundamental Attribution Error]]
-
-## Related
 - [[Bus Factor]]

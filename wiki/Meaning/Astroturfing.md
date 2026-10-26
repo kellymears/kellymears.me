@@ -15,11 +15,9 @@ Astroturfing works because it exploits a real and usually reliable heuristic: if
 Its target is often the [[Overton Window]] rather than any single vote — manufactured volume can make a fringe position look like an existing, arguable-with constituency, which pairs naturally with a manufactured [[Moral Panic]], where synthetic volume supplies apparent urgency as well as apparent consensus.
 
 ## See also
-- [[Collective Action]]
-- [[Confidence Trick]]
-- [[Overton Window]]
 - [[Rent Strike]]
-- [[Anchoring Effect]]
 - [[Jaywalking]]
 - [[Kayfabe]]
 - [[Poe's Law]]
+- [[Anchoring Effect]]
+- [[Online Review]]

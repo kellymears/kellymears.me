@@ -26,7 +26,9 @@ Three practical notes.
 - [[Defensive Default]]
 - [[Prompt Injection]]
 - [[Continuous Deployment]]
-
-## Related
 - [[Observability]]
 - [[Ground Truth]]
+- [[Gitignore]]
+- [[Server-Side Request Forgery]]
+- [[Clipboard]]
+- [[GNU Privacy Guard]]

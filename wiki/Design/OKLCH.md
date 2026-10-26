@@ -15,15 +15,14 @@ It also handles wide-gamut displays. OKLCH can express colors outside sRGB, with
 The practical caution is that perceptual uniformity is not the same as *contrast compliance*. Two colors with equal OKLCH lightness may still fail an accessibility contrast ratio, because that ratio is computed from relative luminance under a different formula. Use OKLCH to build the ramp and a contrast check to validate the pairs; see [[Color Contrast]].
 
 ## See also
-- [[Design Token]]
-- [[Color Contrast]]
 - [[Dark Mode]]
-- [[Shader]]
-
-## Related
 - [[Scoped Styling]]
 - [[Motion Design]]
 - [[CSS Custom Property]]
 - [[Utility-First CSS]]
-- [[Silent Failure]]
 - [[Cascade]]
+- [[Design Token]]
+- [[Shader]]
+- [[Silent Failure]]
+- [[HSL and HSV]]
+- [[Heat Map]]

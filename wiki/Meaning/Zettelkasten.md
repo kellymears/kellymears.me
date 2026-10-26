@@ -16,14 +16,11 @@ The modern practice adds tooling — automatic [[Backlink]]s, graph views, full-
 
 ## See also
 - [[Wiki]]
-- [[Knowledge Graph]]
-- [[Backlink]]
 - [[Agent Memory]]
 - [[Frontmatter]]
-
-## Related
-- [[Taxonomy]]
 - [[Markdown]]
+- [[Taxonomy]]
 - [[Documentation Rot]]
 - [[Naming]]
 - [[Search Engine Optimization]]
+- [[Architecture Decision Record]]

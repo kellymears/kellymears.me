@@ -26,3 +26,5 @@ Cancellation deserves particular attention in agent systems, where a timeout typ
 - [[React Server Components]]
 - [[Islands Architecture]]
 - [[Critical Rendering Path]]
+- [[Skeleton Screen]]
+- [[Long Polling]]

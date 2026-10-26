@@ -22,3 +22,6 @@ Two design consequences follow. **Room identity is signaling's concern**: peers 
 - [[Eventual Consistency]]
 - [[Idempotence]]
 - [[Virtual Private Network]]
+- [[Network Address Translation]]
+- [[Two-Way Radio]]
+- [[Videoconferencing]]

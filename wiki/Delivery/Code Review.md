@@ -15,12 +15,10 @@ A reviewer's own reasoning deserves the same skepticism they apply to the change
 
 ## See also
 - [[Pull Request]]
-- [[Adversarial Review]]
 - [[Atomic Commit]]
 - [[Human in the Loop]]
 - [[Code Comment]]
 - [[Provenance]]
-
-## Related
 - [[Documentation Rot]]
 - [[Squash Merge]]
+- [[Theory of Constraints]]

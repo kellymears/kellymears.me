@@ -24,3 +24,4 @@ Two habits keep repros honest. Write the reproduction *before* the fix, so you h
 ## Related
 - [[Vacuous Truth]]
 - [[Truncation Bias]]
+- [[Git Bisect]]

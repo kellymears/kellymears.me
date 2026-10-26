@@ -15,13 +15,10 @@ Where duplication cannot be removed, it can be *checked*. A rule requiring every
 Rot also afflicts prose *inside* source files. A docblock is only attached to a declaration by adjacency, so inserting anything above it silently reassigns it to the wrong neighbor — see [[Code Comment]].
 
 ## See also
-- [[Code Comment]]
 - [[Deprecation]]
+- [[Chesterton's Fence]]
+- [[Agent Memory]]
 - [[Technical Debt]]
 - [[Provenance]]
 - [[Plausible Mechanism]]
-- [[Chesterton's Fence]]
-
-## Related
 - [[Code Review]]
-- [[Agent Memory]]

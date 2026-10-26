@@ -16,14 +16,13 @@ The same pattern extends beyond publishing. Notes in a personal knowledge system
 
 ## See also
 - [[Markdown]]
-- [[Static Site Generation]]
 - [[Zettelkasten]]
-- [[Taxonomy]]
-
-## Related
 - [[Wiki]]
 - [[RSS]]
 - [[Knowledge Graph]]
 - [[Search Engine Optimization]]
-- [[Naming]]
 - [[Structured Data]]
+- [[Taxonomy]]
+- [[Naming]]
+- [[Blog]]
+- [[Slug]]

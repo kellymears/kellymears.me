@@ -14,10 +14,7 @@ RAG's core failure mode is retrieval quality, not generation quality: if the wro
 RAG competes conceptually with just widening the [[Context Window]] and pasting everything in, and the tradeoff is mostly [[Token Budget]]: retrieval costs an indexing pipeline and adds a failure mode, but scales to corpora far larger than any context window, while a big-enough window with no retrieval is simpler until the corpus outgrows it.
 
 ## See also
-- [[Embedding]]
-- [[Vector Database]]
-- [[Context Window]]
-- [[Hallucination]]
+- [[Reranking]]
+- [[Web Search Engine]]
+- [[In-Context Learning]]
 
-## Related
-- [[Token Budget]]

@@ -14,12 +14,13 @@ The productive form of the principle is not conservatism but *investigation*: fi
 The principle has a mirror, and both are needed. A fence whose reason has expired should come down; keeping it forever is [[Technical Debt]] with a good story. And a fence nobody can explain because nobody wrote it down is why [[Documentation Rot]] is a correctness problem, not a tidiness one.
 
 ## See also
+- [[Unreachable Code]]
 - [[Defensive Default]]
 - [[Root Cause Analysis]]
 - [[Naming]]
 - [[Code Review]]
-- [[Unreachable Code]]
-
-## Related
 - [[Plausible Mechanism]]
 - [[Silent Failure]]
+- [[Commit Message]]
+- [[Architecture Decision Record]]
+- [[Git Blame]]

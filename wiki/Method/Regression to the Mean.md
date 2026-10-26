@@ -18,6 +18,4 @@ The discipline is to ask, before crediting an intervention: was the starting poi
 - [[Correlation and Causation]]
 - [[Overfitting]]
 - [[Simpson's Paradox]]
-
-## Related
 - [[Survivorship Bias]]

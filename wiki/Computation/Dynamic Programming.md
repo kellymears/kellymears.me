@@ -14,7 +14,5 @@ Two properties are required for a problem to be a DP candidate at all: optimal s
 The common mistake is reaching for DP on a problem that only has optimal substructure but no overlap — the memoization table then never gets a cache hit, and the "optimization" is pure overhead over plain recursion.
 
 ## See also
-- [[Recursion]]
-- [[Memoization]]
-- [[Big-O Notation]]
 - [[Amortized Analysis]]
+- [[Big-O Notation]]

@@ -15,15 +15,13 @@ Two practical cautions. A hash covers exactly what was fed into it — including
 And a hash used to derive a value from a small space — a port number, a bucket index — collides regularly. Hashing does not eliminate collisions; it only makes them uniform.
 
 ## See also
+- [[Caller ID Authentication]]
 - [[Determinism]]
-- [[Fingerprint]]
 - [[Cache Invalidation]]
 - [[Version Control]]
-
-## Related
 - [[Record and Replay Testing]]
 - [[Provenance]]
 - [[LLM-as-Judge]]
 - [[Write-Ahead Logging]]
-- [[Caller ID Authentication]]
 - [[Hash Table]]
+- [[Multi-Factor Authentication]]

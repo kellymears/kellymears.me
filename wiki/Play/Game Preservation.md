@@ -15,8 +15,6 @@ Two different things are being preserved and they diverge quickly. Preserving th
 Legal ambiguity slows all of it down, the same [[Right to Repair]]-adjacent territory modding and emulation projects work in without a settled rule protecting them.
 
 ## See also
-- [[Live Service Game]]
-- [[Provenance]]
-- [[Emulation]]
 - [[Deprecation]]
-- [[Right to Repair]]
+- [[API Translation Layer]]
+- [[Speedrun]]

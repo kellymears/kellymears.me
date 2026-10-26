@@ -16,6 +16,6 @@ What the effect demonstrates regardless is that editing is authorship, not assem
 
 ## See also
 - [[Chekhov's Gun]]
-- [[Falsifiability]]
 - [[Prototype Theory]]
 - [[Naming]]
+- [[Falsifiability]]

@@ -13,6 +13,6 @@ Both tissue types share a frustrating property: they are relatively **poorly vas
 
 ## See also
 - [[Scar Tissue]]
-- [[Bone Remodeling]]
 - [[Compartment Syndrome]]
 - [[Fracture Fixation]]
+- [[Bone Remodeling]]

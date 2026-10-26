@@ -14,6 +14,6 @@ The technique has since been absorbed into models themselves: so-called "reasoni
 
 ## See also
 - [[Prompt Engineering]]
-- [[Agentic Loop]]
 - [[Mechanistic Interpretability]]
 - [[Large Language Model]]
+- [[Reasoning Model]]

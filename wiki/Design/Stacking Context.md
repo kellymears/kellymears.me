@@ -21,11 +21,14 @@ Occlusion is nearly invisible to component tests: role queries and accessibility
 - [[Focus Trap]]
 - [[Motion Design]]
 - [[Visual Regression Testing]]
-
-## Related
 - [[Focus Management]]
 - [[Component Story]]
+- [[Headless Component]]
 - [[ARIA]]
 - [[Keyboard Navigation]]
-- [[Headless Component]]
 - [[Document Object Model]]
+- [[Compositor]]
+- [[Alpha Compositing]]
+- [[Glassmorphism]]
+- [[Modal Dialog]]
+- [[Clickjacking]]

@@ -14,7 +14,9 @@ This is a different failure mode than a plain timeout. A timeout still pays the 
 Circuit breakers are usually scoped per dependency, not globally — a failing payment provider shouldn't trip a breaker that also gates calls to an unrelated, healthy service.
 
 ## See also
-- [[Backpressure]]
-- [[Rate Limiting]]
 - [[Load Balancing]]
 - [[Race Condition]]
+- [[Service Virtualization]]
+- [[Hysteresis]]
+- [[Fail-Safe]]
+- [[Failure Detection]]

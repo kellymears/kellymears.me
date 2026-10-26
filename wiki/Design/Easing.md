@@ -15,14 +15,18 @@ Most "the animation feels off" complaints are easing complaints rather than dura
 Duration still matters and the useful range is narrow. Under roughly 100 milliseconds motion is not perceived as motion; beyond roughly 500 it begins to feel like waiting. Larger objects and longer distances justify longer durations, which is why a single global duration rarely serves everything — and why two deliberately different durations in one composite animation can be correct rather than a bug.
 
 ## See also
-- [[Motion Design]]
 - [[Staggered Animation]]
-- [[Reduced Motion]]
 - [[Rhythm Game]]
-
-## Related
 - [[Component Story]]
+- [[Motion Design]]
+- [[Reduced Motion]]
 - [[Color Contrast]]
 - [[Accessibility]]
 - [[Progressive Enhancement]]
 - [[Game Feel]]
+- [[Bottom Sheet]]
+- [[Web Animations API]]
+- [[Keyframe Animation]]
+- [[Slider]]
+- [[Bézier Curve]]
+- [[View Transitions]]

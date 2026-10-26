@@ -16,12 +16,14 @@ The aesthetic ceiling is higher than most people assume. Color, spacing, and res
 
 ## See also
 - [[Shell]]
-- [[Character Encoding]]
-- [[Plain Language]]
 - [[Keyboard Navigation]]
 - [[Typographic Scale]]
 - [[Tarot]]
 - [[Trick-Taking Game]]
-
-## Related
 - [[Environment Variable]]
+- [[Character Encoding]]
+- [[Plain Language]]
+- [[Command-Line Interface]]
+- [[Pseudoterminal]]
+- [[ANSI Escape Code]]
+- [[Terminal Multiplexer]]

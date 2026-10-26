@@ -22,6 +22,7 @@ Because a prompt change cannot be type-checked, the only way to know whether it 
 ## See also
 - [[System Prompt]]
 - [[Prompt]]
+- [[Chain-of-Thought Prompting]]
 - [[Tool Use]]
 - [[Nondeterminism]]
-- [[Chain-of-Thought Prompting]]
+- [[In-Context Learning]]

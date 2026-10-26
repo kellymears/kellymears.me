@@ -20,7 +20,7 @@ Live evaluation costs money and time, which is why most harnesses replay; see [[
 - [[Nondeterminism]]
 - [[Prompt Engineering]]
 - [[Guardrail]]
-
-## Related
 - [[Tool Use]]
 - [[Test Double]]
+- [[Model Card]]
+- [[Ablation Study]]

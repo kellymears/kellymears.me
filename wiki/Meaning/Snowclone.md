@@ -14,9 +14,5 @@ Templates spread faster than novel phrasings because most of the cognitive work 
 It is deliberate where its cousins are accidents of production — nobody sets out to mishear a lyric into a [[Mondegreen]] — and unlike the [[Backronym]], which repurposes existing letters, the snowclone repurposes an existing frame.
 
 ## See also
-- [[Malaphor]]
-- [[Eggcorn]]
-- [[Mondegreen]]
-- [[Folk Etymology]]
-- [[Constrained Decoding]]
-- [[Network Effect]]
+- [[Collocation]]
+- [[Semantic Satiation]]

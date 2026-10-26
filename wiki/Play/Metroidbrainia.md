@@ -12,8 +12,4 @@ The gate has consequences a mechanical unlock does not. **The first playthrough 
 The term itself is fan-coined, first circulating in enthusiast criticism rather than trade taxonomy, and its boundaries are contested: reasonable people disagree about whether a given puzzle box belongs here or is simply a well-clued [[Fair-Play Mystery]] with better [[Environmental Storytelling]]. What holds the category together is the gate, not the genre it happens to be grafted onto.
 
 ## See also
-- [[Metroidvania]]
-- [[Spoiler Etiquette]]
-- [[Fair-Play Mystery]]
 - [[Ground Truth]]
-- [[Environmental Storytelling]]

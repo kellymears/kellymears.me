@@ -25,6 +25,7 @@ Each fix removes the branch rather than testing it, which is the distinction tha
 - [[Coverage Gate]]
 - [[Schema Validation]]
 - [[Code Coverage]]
+- [[Static Analysis]]
 
 ## Related
 - [[Silent Failure]]

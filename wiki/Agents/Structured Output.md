@@ -22,3 +22,4 @@ Two consequences follow. Put the intended target in the description and keep any
 ## Related
 - [[Token]]
 - [[Model Routing]]
+- [[OpenAPI]]

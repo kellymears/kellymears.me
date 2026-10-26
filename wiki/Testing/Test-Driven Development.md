@@ -18,9 +18,8 @@ The main misuse is treating it as a mandate to test every function in isolation.
 - [[Unit Test]]
 - [[Assertion]]
 - [[Regression]]
-- [[Code Coverage]]
-
-## Related
 - [[Vacuous Truth]]
 - [[Tree Shaking]]
+- [[Code Coverage]]
 - [[Root Cause Analysis]]
+- [[Refactoring]]

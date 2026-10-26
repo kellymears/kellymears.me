@@ -16,13 +16,15 @@ Validation is the natural boundary for a system taking model output; see [[Struc
 
 ## See also
 - [[JSON Schema]]
-- [[Structured Output]]
 - [[Fail Fast]]
 - [[Schema Drift]]
 - [[Constrained Decoding]]
 - [[Tool Use]]
 - [[Unreachable Code]]
-
-## Related
 - [[Prompt Engineering]]
 - [[Large Language Model]]
+- [[Design by Contract]]
+- [[Form Validation]]
+- [[SQL Injection]]
+- [[Type System]]
+- [[Prototype Pollution]]

@@ -12,10 +12,8 @@ The guarantee it buys is real: no participant commits unless all of them can, wh
 Modern distributed systems mostly route around it rather than fixing it: [[Event Sourcing]] and the [[Change Data Capture|outbox pattern]] achieve cross-service consistency through eventual, retryable delivery instead of a blocking vote, and systems that do need synchronous cross-node agreement typically reach for a [[Consensus Algorithm]] like Raft, which tolerates a failed coordinator without freezing.
 
 ## See also
-- [[ACID]]
-- [[Consensus Algorithm]]
-- [[Event Sourcing]]
 - [[Eventual Consistency]]
 
 ## Related
 - [[CAP Theorem]]
+- [[Isolation Level]]

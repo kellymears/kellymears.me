@@ -14,13 +14,17 @@ That last distinction is the one most often missed. Within a composite, Tab shou
 Two design notes worth holding onto. A scrollable region containing nothing focusable is unreachable by keyboard and needs to be made focusable explicitly — a real failure that is invisible until something frames the region at a height that scrolls. And custom shortcuts should be discoverable and non-conflicting; single-letter accelerators are pleasant in a focused application and hostile anywhere text can be typed.
 
 ## See also
+- [[Focus Trap]]
 - [[Focus Management]]
 - [[Accessibility]]
 - [[Semantic HTML]]
 - [[Terminal User Interface]]
-- [[Focus Trap]]
-
-## Related
 - [[ARIA]]
 - [[Portal]]
 - [[Document Object Model]]
+- [[Context Menu]]
+- [[Direct Manipulation]]
+- [[Accordion]]
+- [[Tiling Window Manager]]
+- [[Data Table]]
+- [[Carousel]]

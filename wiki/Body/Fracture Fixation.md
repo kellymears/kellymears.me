@@ -17,8 +17,6 @@ Fixation also changes the pain course: an incision adds its own [[Nociception]] 
 ## See also
 - [[Bone Remodeling]]
 - [[Fracture Nonunion]]
-- [[Watershed Blood Supply]]
-- [[Regional Nerve Block]]
 - [[Moist Wound Healing]]
 
 ## Related

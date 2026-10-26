@@ -14,10 +14,11 @@ Namespaces isolate what a process can *see*; they say nothing about what it can 
 Namespaces are also not a security boundary on their own. The kernel underneath is shared, and a bug in a syscall a namespaced process can still reach is a path out of the container — the reason container runtimes layer seccomp filters and capability drops on top rather than trusting namespaces alone.
 
 ## See also
-- [[Control Groups]]
-- [[Containerization]]
 - [[Chroot]]
-- [[Least Privilege]]
-
-## Related
 - [[Process]]
+- [[Least Privilege]]
+- [[Loopback]]
+- [[Agent Sandbox]]
+- [[Kubernetes]]
+- [[Superuser]]
+- [[Time-of-Check to Time-of-Use]]

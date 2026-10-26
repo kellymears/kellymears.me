@@ -14,9 +14,6 @@ Replication is either synchronous or asynchronous, and the difference is the who
 Replication lag is the source of a specific, easy-to-miss class of bug: a user submits a form, the write commits to the primary, the very next request reads from a lagging replica, and the user's own change appears to have vanished. Systems that care about this either route a user's own reads back to the primary for a short window after their write, or accept the staleness as part of the [[Eventual Consistency]] contract and design the UI not to promise otherwise.
 
 ## See also
-- [[Database Sharding]]
-- [[Eventual Consistency]]
 - [[CAP Theorem]]
-
-## Related
 - [[Write-Ahead Logging]]
+- [[Network Partition]]

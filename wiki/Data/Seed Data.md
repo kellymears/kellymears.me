@@ -20,10 +20,13 @@ Two lessons repeat.
 - [[Database Migration]]
 - [[Test Fixture]]
 - [[Idempotence]]
-- [[Accessibility]]
-
-## Related
 - [[Relational Database]]
-- [[Determinism]]
 - [[Write-Ahead Logging]]
 - [[Hash Table]]
+- [[Accessibility]]
+- [[Determinism]]
+- [[Lorem Ipsum]]
+- [[Foreign Key]]
+- [[Empty State]]
+- [[Test Data Builder]]
+- [[CSV]]

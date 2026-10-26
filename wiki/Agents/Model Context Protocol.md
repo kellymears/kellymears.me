@@ -23,3 +23,4 @@ The same architecture appears wherever an application platform wants to expose i
 - [[System Prompt]]
 - [[Prompt]]
 - [[Guardrail]]
+- [[OpenAPI]]

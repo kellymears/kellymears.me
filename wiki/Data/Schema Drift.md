@@ -15,13 +15,14 @@ Drift also travels along the type graph in ways a diff cannot show. Relaxing a r
 A related asymmetry causes real bugs: a system may *advertise* a richer schema through its introspection surface than its write path actually accepts. Readers then learn about fields that writes reject. Keeping the two in lockstep — ideally with a test asserting the read model equals the write model — is what closes it.
 
 ## See also
-- [[Relational Database]]
 - [[Schema Validation]]
-- [[Documentation Rot]]
-- [[Database Migration]]
 - [[Deprecation]]
 - [[Client-Server Boundary]]
-
-## Related
 - [[Tool Use]]
+- [[Relational Database]]
+- [[Documentation Rot]]
+- [[Database Migration]]
 - [[Technical Debt]]
+- [[Object-Relational Mapping]]
+- [[ETL Pipeline]]
+- [[Schema Evolution]]

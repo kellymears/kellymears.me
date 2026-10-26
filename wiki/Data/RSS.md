@@ -15,15 +15,16 @@ Implementation is simple enough to be worth doing by hand: generate the XML in t
 Because the format is machine-readable and low-friction, it is also a decent general-purpose data channel: any list of dated items with links can be published this way.
 
 ## See also
-- [[Static Site Generation]]
 - [[Structured Data]]
-- [[Search Engine Optimization]]
 - [[Markdown]]
-
-## Related
-- [[Server-Side Rendering]]
-- [[Semantic HTML]]
 - [[Frontmatter]]
-- [[Progressive Enhancement]]
 - [[Knowledge Graph]]
 - [[Incremental Static Regeneration]]
+- [[Static Site Generation]]
+- [[Search Engine Optimization]]
+- [[Server-Side Rendering]]
+- [[Semantic HTML]]
+- [[Progressive Enhancement]]
+- [[Blog]]
+- [[Sitemap]]
+- [[XML]]

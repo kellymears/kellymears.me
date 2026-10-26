@@ -23,9 +23,10 @@ Git's *rerere* helps disproportionately here, since stacked branches share early
 - [[Rebase]]
 - [[Merge Conflict]]
 - [[Merge Train]]
-
-## Related
 - [[Three-Way Merge]]
 - [[Semantic Conflict]]
-- [[Continuous Integration]]
 - [[Branching Model]]
+- [[Continuous Integration]]
+- [[Force Push]]
+- [[Interactive Rebase]]
+- [[Feature Branch]]

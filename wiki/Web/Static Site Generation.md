@@ -18,12 +18,14 @@ For a page whose content is genuinely fixed, static generation dominates on ever
 
 ## See also
 - [[Server-Side Rendering]]
-- [[Incremental Static Regeneration]]
 - [[Islands Architecture]]
 - [[Performance Budget]]
 - [[Cache Invalidation]]
 - [[RSS]]
-
-## Related
 - [[React Server Components]]
 - [[Search Engine Optimization]]
+- [[WordPress]]
+- [[Slug]]
+- [[Sitemap]]
+- [[Web Hosting]]
+- [[Blog]]

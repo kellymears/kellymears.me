@@ -12,7 +12,10 @@ The tradeoff is precision loss: every weight is now represented by fewer possibl
 Quantization is largely orthogonal to [[Fine-Tuning]] — a model can be fine-tuned, then quantized, or quantized and then fine-tuned further with quantization-aware methods like QLoRA, which fine-tunes on top of a quantized base to keep the memory savings during training as well as inference. It's also the reason a locally-run open-weight model (an "Ollama model" running on someone's own GPU) is very often a quantized version of a larger release rather than the full-precision original — the full-precision weights are frequently too large to run outside a datacenter, and quantization is what makes local inference on consumer hardware feasible at all.
 
 ## See also
-- [[Fine-Tuning]]
+- [[Temperature Sampling]]
 - [[Large Language Model]]
 - [[Token Budget]]
-- [[Temperature Sampling]]
+- [[Mixture of Experts]]
+- [[KV Cache]]
+- [[Wake Word]]
+- [[Regularization]]

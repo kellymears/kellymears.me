@@ -19,9 +19,9 @@ Two practices keep it visible. Record *why* a shortcut was taken and what would 
 - [[Code Review]]
 - [[Root Cause Analysis]]
 - [[Feature Flag]]
-
-## Related
 - [[Plausible Mechanism]]
 - [[Naming]]
 - [[Code Comment]]
 - [[Premature Optimization]]
+- [[Definition of Done]]
+- [[Architecture Decision Record]]

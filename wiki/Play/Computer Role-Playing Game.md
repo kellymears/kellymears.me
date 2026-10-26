@@ -14,7 +14,4 @@ summary: the isometric, party-based tradition whose hardest unsolved problem is 
 
 ## See also
 - [[Disco Elysium]]
-- [[Immersive Sim]]
-- [[Visual Novel]]
-- [[Skill Check]]
-- [[Constraint Propagation]]
+- [[Sweet Home]]

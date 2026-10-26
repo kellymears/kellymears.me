@@ -19,3 +19,5 @@ CORS is routinely confused with [[Content Security Policy]] because both gate cr
 
 ## Related
 - [[Cross-Site Scripting]]
+- [[Hotlinking]]
+- [[Middleware]]

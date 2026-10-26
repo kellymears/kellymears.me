@@ -20,10 +20,10 @@ Frameworks that keep a virtual model of the tree add a fourth: the framework's p
 ## See also
 - [[Semantic HTML]]
 - [[Portal]]
-- [[Accessibility]]
 - [[Focus Management]]
-
-## Related
 - [[Progressive Enhancement]]
 - [[Keyboard Navigation]]
 - [[Headless Component]]
+- [[Accessibility]]
+- [[HTML]]
+- [[Virtual Scrolling]]

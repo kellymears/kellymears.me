@@ -17,3 +17,7 @@ This is why multicast has historically mattered for things like live TV distribu
 - [[Anycast]]
 - [[IPv6]]
 - [[Streaming Response]]
+- [[Subnet]]
+- [[Multicast DNS]]
+- [[Bluetooth]]
+- [[Ethernet]]

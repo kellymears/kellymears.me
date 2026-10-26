@@ -16,7 +16,5 @@ The structure also solves a narrative problem that resource economies cannot. Be
 
 ## See also
 - [[Meta-Progression]]
-- [[Ludonarrative Dissonance]]
 - [[Idle Game]]
-- [[Goodhart's Law]]
 - [[Game Feel]]

@@ -13,8 +13,5 @@ What the system buys is agreement machinery. A noun's class ripples to its artic
 Whether the surviving classes shape thought beyond grammar is contested, and the evidence is thinner than the popular claim. Studies asking speakers of gendered languages to describe objects have sometimes found gender-congruent adjectives — a bridge called elegant where its gender is feminine, sturdy where it is masculine — but effect sizes are small and inconsistent across replications, inside the broader, mixed record of [[Linguistic Relativity]]. The [[Ground Truth]] here is a weak, task-dependent nudge, not a difference in perception.
 
 ## See also
-- [[Linguistic Relativity]]
-- [[Taxonomy]]
-- [[Shibboleth]]
-- [[Collocation]]
-- [[Folk Etymology]]
+- [[Video Game Localization]]
+- [[Metasyntactic Variable]]

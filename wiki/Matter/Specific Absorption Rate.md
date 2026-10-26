@@ -17,6 +17,6 @@ Certification is narrower than it is usually read to be. A device is tested at m
 ## See also
 - [[Polarized Light]]
 - [[Dispersion]]
-- [[Goodhart's Law]]
 - [[Falsifiability]]
 - [[Plain Language]]
+- [[Goodhart's Law]]

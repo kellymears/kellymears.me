@@ -15,14 +15,7 @@ The dispute is over universality. Ekirch's evidence is documentary and drawn lar
 What electric light changed is not in doubt. Evening illumination suppresses melatonin and delays circadian phase, compressing the biological night, an effect compounded by clock conventions covered in [[Time Zone]]. Nocturnal waking is common and usually benign; sedative-hypnotics used against it carry the issues in [[Physical Dependence]].
 
 ## See also
-- [[Plausible Mechanism]]
-- [[Provenance]]
-- [[Falsifiability]]
-- [[Physical Dependence]]
-- [[Time Zone]]
-
-## Related
 - [[Root Cause Analysis]]
 - [[Inertial Frame of Reference]]
-- [[Ground Truth]]
 - [[Adversarial Review]]
+- [[Ground Truth]]

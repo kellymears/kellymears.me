@@ -12,8 +12,6 @@ The definition hinges on what survives the swap: a working semantic logic the sp
 What makes the eggcorn worth naming separately is that it is evidence of reasoning, not its absence. The speaker has parsed an opaque idiom into parts, found one obscure, and swapped in a part that resolves the obscurity — the same [[Plausible Mechanism]] that drives folk etymology at word scale. Its [[Provenance]] is always recoverable to a sensible guess, which is what makes eggcorns collectible rather than merely wrong, and why the right comparison is a word's [[Ground Truth]] meaning, not what sounds nearly right.
 
 ## See also
-- [[Folk Etymology]]
-- [[Malaphor]]
-- [[Mondegreen]]
-- [[Plausible Mechanism]]
 - [[Naming]]
+- [[Backronym]]
+- [[Collocation]]

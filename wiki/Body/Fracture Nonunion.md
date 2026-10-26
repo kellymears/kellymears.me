@@ -19,9 +19,6 @@ Detection is imperfect: plain radiographs are moderately sensitive, and computed
 ## See also
 - [[Bone Remodeling]]
 - [[Fracture Fixation]]
-- [[Watershed Blood Supply]]
-- [[Root Cause Analysis]]
-- [[Sensitivity and Specificity]]
 
 ## Related
 - [[Ground Truth]]

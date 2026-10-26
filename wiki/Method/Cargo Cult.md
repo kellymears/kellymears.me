@@ -14,8 +14,8 @@ Richard Feynman borrowed the phrase for **cargo cult science**: research that fo
 Calling something a cargo cult is only useful if it is followed by naming the missing mechanism — what the ritual was supposed to cause, and why this instance of it does not cause that. Without that step the label is just [[Plausible Mechanism]]'s failure mode aimed at other people: a confident-sounding explanation with the actual explaining left out. A [[Code Review]] that checks for approval rather than for correctness, or a [[Test-Driven Development]] cycle where the test is written to already pass, are the same failure with the paperwork intact.
 
 ## See also
+- [[Not Invented Here]]
 - [[Root Cause Analysis]]
 - [[Documentation Rot]]
 - [[Naming]]
 - [[Ground Truth]]
-- [[Not Invented Here]]

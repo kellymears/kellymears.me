@@ -17,12 +17,10 @@ The practice scales down well — it is close to what a single developer natural
 
 ## See also
 - [[Branching Model]]
-- [[Continuous Integration]]
-- [[Feature Flag]]
 - [[Merge Train]]
 - [[Squash Merge]]
-
-## Related
 - [[Pull Request]]
 - [[Three-Way Merge]]
 - [[Documentation Rot]]
+- [[Fast-Forward Merge]]
+- [[Cherry-Pick]]

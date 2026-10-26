@@ -15,6 +15,8 @@ The trade-off inference introduces is an error message pointing to where a const
 
 ## See also
 - [[Pattern Matching]]
-- [[Duck Typing]]
-- [[Compiler]]
 - [[Schema Validation]]
+- [[Compiler]]
+- [[TypeScript]]
+- [[Type System]]
+- [[Generics]]

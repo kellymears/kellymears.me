@@ -16,8 +16,6 @@ Regulation splits along the same seam: a compound may be approved as a fragrance
 
 ## See also
 - [[Nociception]]
-- [[Xenobiotic Metabolism]]
-- [[Prototype Theory]]
 - [[Linguistic Relativity]]
 - [[Taxonomy]]
 

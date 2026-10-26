@@ -19,3 +19,4 @@ Two limits. Legibility depends on placement and sightlines, so the discipline ov
 - [[Game AI]]
 - [[Voxel]]
 - [[Taxonomy]]
+- [[Cutscene]]

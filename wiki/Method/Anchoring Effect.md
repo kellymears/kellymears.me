@@ -18,8 +18,8 @@ Anchoring also explains why an early, confident wrong diagnosis is so expensive:
 - [[Structured Output]]
 - [[Root Cause Analysis]]
 - [[Plausible Mechanism]]
-
-## Related
 - [[Tool Use]]
 - [[Nondeterminism]]
 - [[System Prompt]]
+- [[In-Context Learning]]
+- [[Slider]]

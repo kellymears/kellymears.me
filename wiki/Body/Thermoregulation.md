@@ -15,3 +15,4 @@ Below the set point, the body conserves and generates heat: blood vessels near t
 - [[Circadian Rhythm]]
 - [[Vestibular System]]
 - [[Vapor-Compression Refrigeration]]
+- [[Hysteresis]]

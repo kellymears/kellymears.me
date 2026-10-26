@@ -13,8 +13,6 @@ summary: a genre that judges player input against a musical beat, where calibrat
 **Charts**, the authored map of which input lands on which beat, are still mostly hand-built by ear despite attempts at algorithmic generation from raw audio, because a good chart interprets a song's feel rather than its onsets; [[Procedural Generation]] gets close on simple tracks and badly wrong on syncopated ones. Nearly all of these games play a pre-composed track and ask the player to meet it, including the ones that sound improvised: *Thumper* (2016, Drool) was scored by Brian Gibson level by level around fixed time signatures, and the player hits lit notes in time with music that is already there, adding percussion on top. *Tetris Effect* (2018) works the same way, layering effects over a composed backing. Genuinely generative audio is rarer — *Everyday Shooter* (2007) builds its guitar score out of the enemies the player destroys — but in either arrangement, chasing a clean run, a tight [[Compulsion Loop]] feeding full-combo [[Achievement Hunting]], starts to feel like composing.
 
 ## See also
-- [[Skill Check]]
-- [[Game Feel]]
-- [[Accessibility]]
-- [[Assist Mode]]
-- [[Procedural Generation]]
+- [[Party Game]]
+- [[Easing]]
+- [[Frame Generation]]

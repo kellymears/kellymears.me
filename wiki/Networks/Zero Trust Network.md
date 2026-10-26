@@ -15,7 +15,5 @@ This also composes naturally with [[API Gateway]] architecture: a gateway is alr
 The honest cost is operational complexity: every service now needs to participate in authentication and policy checks that used to be implicit, which is a real tax on anything not built with it in mind from the start.
 
 ## See also
-- [[Virtual Private Network]]
-- [[API Gateway]]
 - [[Caller ID Authentication]]
 - [[IPv6]]

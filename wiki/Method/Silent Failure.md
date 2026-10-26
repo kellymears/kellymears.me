@@ -16,8 +16,11 @@ A type-level defense exists too. An operation returning a value that may be abse
 The rhetorical version is just as costly: an "everything passes" claim assembled from checks that never ran. See [[Vacuous Truth]].
 
 ## See also
+- [[Coverage Gate]]
 - [[Root Cause Analysis]]
 - [[Ground Truth]]
 - [[Fail Fast]]
 - [[Observability]]
-- [[Coverage Gate]]
+- [[Defensive Programming]]
+- [[HTTP Status Code]]
+- [[Error Message]]

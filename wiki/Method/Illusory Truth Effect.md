@@ -15,12 +15,9 @@ This is the mechanism that makes disinformation and internal misinformation both
 The defense is to track a claim's actual evidentiary history rather than the feeling it produces — ask when and how many independent times it was checked, not how many times it's been said, and treat "I've seen this stated several times" as a fact about circulation, not about truth.
 
 ## See also
-- [[Ground Truth]]
-- [[Confirmation Bias]]
 - [[Availability Heuristic]]
-- [[Anchoring Effect]]
 - [[Availability Cascade]]
 - [[Social Proof]]
-
-## Related
 - [[Poe's Law]]
+- [[Confirmation Bias]]
+- [[Anchoring Effect]]

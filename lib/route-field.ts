@@ -2,18 +2,19 @@ import fs from 'fs'
 import path from 'path'
 import type { RawRoutesFile } from './cycling-atlas'
 import { GROUP_SPORT_TYPES, type ActivityGroup } from './cycling-constants'
+import { FIELD_H, FIELD_W } from './route-field-frame'
 
 /**
  * Every recorded route for an activity group, projected onto one shared
  * 1900×1000 frame so they pile up into a heat field of the streets actually
- * travelled. Used as a CSS mask (see `/constellation/rides-<group>.svg`), so
- * it carries shape only — color comes from the page.
+ * travelled. Shipped as path text for the canvas field
+ * (`/constellation/rides-<group>.txt`) and as an SVG mask for the no-JS
+ * fallback (`.svg`); both carry shape only — color comes from the page.
  *
  * Deterministic: same data in, byte-identical output out.
  */
 
-export const FIELD_W = 1900
-export const FIELD_H = 1000
+export { FIELD_H, FIELD_W }
 
 export interface FieldRoute {
   id: string
@@ -153,7 +154,12 @@ export function getRouteField(group: ActivityGroup): RouteField {
   return field
 }
 
-/** Standalone SVG for the mask image: black strokes, alpha builds with overlap. */
+/** The same paths for the canvas field: one per line, newest first. */
+export function renderRouteFieldText(group: ActivityGroup): string {
+  return getRouteField(group).paths.join('\n')
+}
+
+/** Standalone SVG for the no-JS mask image: black strokes, alpha builds with overlap. */
 export function renderRouteFieldSvg(group: ActivityGroup): string {
   const { paths } = getRouteField(group)
   return (

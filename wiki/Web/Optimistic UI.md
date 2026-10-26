@@ -15,9 +15,15 @@ It's a close cousin of client-side prediction in networked games (see [[Rollback
 
 ## See also
 - [[Debounce and Throttle]]
-- [[WebSocket]]
-- [[Rollback]]
-- [[Cache Invalidation]]
-
-## Related
 - [[Virtual DOM]]
+- [[WebSocket]]
+- [[Cache Invalidation]]
+- [[Toggle Switch]]
+- [[State Management]]
+- [[Direct Manipulation]]
+- [[Skeleton Screen]]
+- [[Idempotency Key]]
+- [[Toast Notification]]
+- [[Promise]]
+- [[Long Polling]]
+- [[Progress Indicator]]

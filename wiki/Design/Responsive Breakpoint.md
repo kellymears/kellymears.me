@@ -19,14 +19,16 @@ Three practical notes recur.
 **Fewer breakpoints is usually better.** Maintaining the same spatial arrangement across sizes, where it works, removes a whole dimension from everyone's mental model.
 
 ## See also
-- [[Container Query]]
 - [[Component Story]]
 - [[Headless Browser]]
 - [[Visual Regression Testing]]
-
-## Related
 - [[Integration Test]]
 - [[Unit Test]]
 - [[Test Fixture]]
 - [[Test Double]]
 - [[Stacking Context]]
+- [[Pointer Events]]
+- [[Bottom Sheet]]
+- [[Touch Target Size]]
+- [[CSS Grid]]
+- [[Flexbox]]

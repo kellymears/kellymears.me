@@ -18,14 +18,12 @@ Legibility is also a presentation problem, not only a behavior one. If a player 
 
 ## See also
 - [[Trick-Taking Game]]
+- [[L-System]]
 - [[Constraint Propagation]]
 - [[Seeded Randomness]]
 - [[Roguelike]]
-
-## Related
 - [[Procedural Generation]]
 - [[Cellular Automaton]]
-- [[L-System]]
 - [[Determinism]]
 - [[Voxel]]
 - [[Shader]]

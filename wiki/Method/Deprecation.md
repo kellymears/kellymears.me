@@ -15,11 +15,9 @@ Version numbering is how deprecations are communicated at the package boundary; 
 
 ## See also
 - [[Documentation Rot]]
-- [[Technical Debt]]
-- [[Semantic Versioning]]
 - [[Regression]]
-
-## Related
 - [[Root Cause Analysis]]
 - [[Semantic Conflict]]
 - [[Package Manager]]
+- [[Architecture Decision Record]]
+- [[Changelog]]

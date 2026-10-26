@@ -15,13 +15,10 @@ The mechanism is representativeness: a description resembling a stereotype is ju
 The fallacy recurs anywhere a rare-category judgment is made from a compelling profile: forecasting, screening, and [[Automation Bias]] toward a system's specific output over its known error rate. The [[Monty Hall Problem]] is a neighbor rather than an instance: it turns not on a neglected base rate but on failing to condition on the host's constrained choice of door, which carries information. Stating the base rate explicitly, as a habit rather than an afterthought, is most of the fix.
 
 ## See also
-- [[Sensitivity and Specificity]]
 - [[Fermi Estimation]]
 - [[Anchoring Effect]]
 - [[Selection Bias]]
 - [[Streetlight Effect]]
-
-## Related
 - [[Ground Truth]]
 - [[Truncation Bias]]
 - [[Survivorship Bias]]

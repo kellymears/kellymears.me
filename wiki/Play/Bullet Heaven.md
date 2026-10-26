@@ -13,8 +13,6 @@ The challenge curve runs on minute-scale power curves rather than encounter-scal
 That the genre keeps real build expression despite near-zero input complexity — no aiming, minimal reaction skill, movement as the only verb — is its most-argued design claim, and it sits close enough to an [[Idle Game]] that the boundary is genuinely contested: both automate moment-to-moment action and ask the player to optimize a system rather than execute inputs. What separates them for most players is that positioning stays live and lethal throughout, where an idle game eventually removes the player's presence altogether — helped by a [[Game Feel]] dense enough with automatic kills that it has to work to stay legible, closing a short, replayable [[Compulsion Loop]].
 
 ## See also
-- [[Roguelike Deckbuilder]]
 - [[Idle Game]]
-- [[Time as Resource]]
 - [[Meta-Progression]]
 - [[Variable-Ratio Reinforcement]]

@@ -7,7 +7,7 @@ summary: A guarantee that replicas converge given no further updates, without gu
 ---
 **Eventual consistency** is the weakest useful consistency guarantee: in the absence of new updates, all replicas will eventually agree. It says nothing about how long that takes or what anyone sees meanwhile.
 
-It exists because of the CAP theorem's trade: a distributed system experiencing a network partition must choose between remaining available and remaining consistent. Choosing availability means accepting that different participants temporarily see different things.
+It exists because of the CAP theorem's trade: a distributed system experiencing a [[Network Partition|network partition]] must choose between remaining available and remaining consistent. Choosing availability means accepting that different participants temporarily see different things.
 
 For many systems that is obviously correct. A cached page, a feed, a counter, a search index — all tolerate being briefly behind. For others it is obviously wrong; a balance check that can be stale is not a balance check.
 
@@ -17,12 +17,10 @@ A specific, easily-missed instance: a cache whose scope is a single process beha
 
 ## See also
 - [[Conflict-Free Replicated Data Type]]
-- [[Cache Invalidation]]
 - [[Peer-to-Peer]]
-- [[Idempotence]]
-
-## Related
 - [[WebRTC]]
 - [[Signaling Server]]
-- [[Determinism]]
 - [[Write-Ahead Logging]]
+- [[Idempotence]]
+- [[Determinism]]
+- [[Key-Value Store]]

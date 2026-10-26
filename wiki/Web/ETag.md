@@ -20,3 +20,4 @@ ETags are the revalidation half of [[HTTP Caching]]: `max-age` handles *how long
 
 ## Related
 - [[Core Web Vitals]]
+- [[HTTP Status Code]]

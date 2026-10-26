@@ -15,14 +15,15 @@ Two consequences matter constantly. **Anything committed is recoverable**, even 
 History is also a document. It is the durable answer to *why is this here*, which is what makes a change description part of the deliverable rather than paperwork; see [[Provenance]].
 
 ## See also
-- [[Commit]]
+- [[Git Worktree]]
 - [[Branching Model]]
 - [[Three-Way Merge]]
-- [[Git Worktree]]
 - [[Hash Function]]
 - [[Monorepo]]
 - [[Regression]]
-
-## Related
 - [[Squash Merge]]
 - [[Pull Request]]
+- [[Gitignore]]
+- [[Timeline]]
+- [[Detached HEAD]]
+- [[Staging Area]]

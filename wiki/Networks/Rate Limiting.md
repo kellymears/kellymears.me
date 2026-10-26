@@ -14,7 +14,8 @@ Rate limiting is enforced at multiple layers for different reasons. An [[API Gat
 It's a close cousin of [[Backpressure]], but the direction of control is different: rate limiting is a hard cap imposed from outside a client's control, while backpressure is a signal a struggling receiver sends so a well-behaved sender can slow itself down voluntarily.
 
 ## See also
-- [[Backpressure]]
-- [[API Gateway]]
 - [[Circuit Breaker]]
 - [[Load Balancing]]
+- [[Multi-Factor Authentication]]
+- [[Middleware]]
+- [[Denial-of-Service Attack]]

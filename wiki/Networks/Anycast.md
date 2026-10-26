@@ -14,8 +14,9 @@ This is exactly how most [[Domain Name System]] root servers and major [[Content
 The tradeoff is that anycast routing can be unstable for long-lived connections: BGP paths can change mid-session and silently redirect a client to a different physical server, which is fine for stateless UDP lookups (DNS queries) but awkward for a stateful TCP connection expecting to keep talking to the same backend for its whole lifetime — one reason CDNs still terminate TCP at the edge and manage state carefully behind it.
 
 ## See also
-- [[Content Delivery Network]]
 - [[Domain Name System]]
 - [[Multicast]]
 - [[Load Balancing]]
 - [[IPv6]]
+- [[Denial-of-Service Attack]]
+- [[Top-Level Domain]]

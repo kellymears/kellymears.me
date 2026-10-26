@@ -12,7 +12,8 @@ This is why a B-tree, not a binary search tree, is the default index structure i
 The self-balancing part matters as much as the fan-out: an insert that overflows a node's capacity splits it and promotes a key upward, keeping every leaf at the same depth no matter the insertion order — unlike an unbalanced binary search tree, which degrades to a linked list (and linear lookup) on already-sorted input. [[Big-O Notation]] states this as O(log n) with a very large base for the logarithm, which is the whole point: the same asymptotic class as a binary tree, but with a constant factor small enough that "logarithmic" means single digits of disk reads even at enormous scale.
 
 ## See also
-- [[Hash Table]]
 - [[Trie]]
 - [[Write-Ahead Logging]]
-- [[Big-O Notation]]
+- [[Hash Table]]
+- [[SQLite]]
+- [[Universally Unique Identifier]]

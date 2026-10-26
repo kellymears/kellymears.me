@@ -16,8 +16,6 @@ The legal position is unsettled rather than tidy. Modding tools a developer ship
 Longevity follows from all of it: a game with an active mod scene keeps being played and rebuilt years after its official support ends — [[Sim Racing]] titles are a clear case, still raced on cars and tracks the base game never shipped — while a [[Live Service Game]] is mostly closed to modding, not because the player lacks a local client but because the state that matters is held server-side, kernel-level anti-cheat blocks injection into the client outright, and the terms of service make the attempt an account risk.
 
 ## See also
-- [[Sim Racing]]
-- [[Package Manager]]
-- [[Live Service Game]]
-- [[Right to Repair]]
 - [[Game Preservation]]
+- [[Datamining]]
+- [[Emulation]]

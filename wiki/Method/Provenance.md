@@ -20,10 +20,9 @@ Physical documents solved the adjacent problem — proving a record was not alte
 - [[Version Control]]
 - [[Commit]]
 - [[Documentation Rot]]
-- [[Fingerprint]]
 - [[Code Review]]
 - [[Code Comment]]
-
-## Related
 - [[Atomic Commit]]
 - [[Technical Debt]]
+- [[Internet Archive]]
+- [[ETL Pipeline]]

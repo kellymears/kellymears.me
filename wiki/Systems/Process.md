@@ -16,17 +16,19 @@ Working with them from a script has a few sharp edges.
 
 **Something may restart it.** A process under a supervisor comes back immediately when killed, so "stop" and "kill" are different operations: a clean quit exits successfully and stays down, while a signal looks like a crash and triggers a restart.
 
-Diagnosing contention needs per-process detail rather than an aggregate load figure, which lags and never says which program is responsible. See [[Resource Starvation]].
+Diagnosing contention needs per-process detail rather than an aggregate load figure, which lags and never says which program is responsible. See [[Resource Starvation]]; [[Pressure Stall Information]] measures the waiting directly, per resource.
 
 ## See also
+- [[Truncation Bias]]
 - [[Shell]]
 - [[Daemon]]
 - [[Port]]
 - [[Observability]]
-
-## Related
 - [[Instrumentation]]
 - [[Cron]]
 - [[Vacuous Truth]]
-- [[Truncation Bias]]
 - [[Silent Failure]]
+- [[Web Server]]
+- [[Thread Pool]]
+- [[Inter-Process Communication]]
+- [[Connection Pool]]

@@ -20,10 +20,11 @@ Two limits are worth knowing in advance. Synthetic events are not real user inpu
 - [[contenteditable]]
 - [[Responsive Breakpoint]]
 - [[Integration Test]]
-
-## Related
-- [[Unit Test]]
 - [[Test Fixture]]
 - [[Focus Management]]
 - [[Test Double]]
 - [[Stacking Context]]
+- [[Unit Test]]
+- [[requestAnimationFrame]]
+- [[End-to-End Test]]
+- [[User Agent String]]

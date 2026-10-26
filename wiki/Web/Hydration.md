@@ -18,7 +18,8 @@ A subtler hazard: content rendered by the server and then mutated directly by th
 - [[contenteditable]]
 - [[Critical Rendering Path]]
 - [[Progressive Enhancement]]
-
-## Related
 - [[Lazy Loading]]
 - [[Performance Budget]]
+- [[HTML]]
+- [[CSS-in-JS]]
+- [[Layout Shift]]

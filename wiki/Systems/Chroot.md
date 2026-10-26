@@ -16,3 +16,4 @@ The isolation it provides is narrower than it sounds. Chroot changes only the fi
 - [[Containerization]]
 - [[Control Groups]]
 - [[Least Privilege]]
+- [[Superuser]]

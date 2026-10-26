@@ -16,13 +16,11 @@ Two mechanical notes. Changing only the target branch of a pull request does not
 
 ## See also
 - [[Law of Triviality]]
+- [[Branching Model]]
+- [[Merge Train]]
 - [[Code Review]]
 - [[Continuous Integration]]
-- [[Squash Merge]]
 - [[Human in the Loop]]
-- [[Branching Model]]
-
-## Related
 - [[Trunk-Based Development]]
-- [[Merge Train]]
 - [[Provenance]]
+- [[Branch Protection]]

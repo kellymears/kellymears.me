@@ -15,7 +15,11 @@ Generational collection is the standard optimization: most objects die young, so
 Rust is the notable outlier: it reclaims memory deterministically via ownership and the borrow checker at compile time, with no runtime collector and no pause, at the cost of a stricter compile-time discipline about who owns what.
 
 ## See also
+- [[Closure]]
 - [[Compiler]]
 - [[Immutability]]
 - [[Process]]
-- [[Closure]]
+- [[Git Object Model]]
+- [[Persistent Data Structure]]
+- [[Reflog]]
+- [[Lock-Free Data Structure]]

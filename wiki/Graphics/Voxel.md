@@ -15,14 +15,12 @@ The aesthetic dimension is separable from the technical one. Voxel art is a deli
 
 ## See also
 - [[Rasterization]]
-- [[Procedural Generation]]
-- [[Shader]]
-- [[Determinism]]
-
-## Related
-- [[Seeded Randomness]]
 - [[Cellular Automaton]]
 - [[Roguelike]]
 - [[L-System]]
+- [[Procedural Generation]]
+- [[Shader]]
+- [[Determinism]]
+- [[Seeded Randomness]]
 - [[Reproducible Case]]
 - [[Game AI]]

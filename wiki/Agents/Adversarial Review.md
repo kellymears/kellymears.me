@@ -17,12 +17,11 @@ Two structural requirements make it work.
 The same discipline applies to humans reviewing machine output, and to the reviewer's own reasoning: a lint rule set to error plus a clean run *feels* like execution, but it is configuration plus an inference across a gap nobody tested. See [[Plausible Mechanism]] and [[Code Review]].
 
 ## See also
-- [[LLM-as-Judge]]
 - [[Subagent]]
 - [[Multi-Agent Orchestration]]
+- [[LLM-as-Judge]]
 - [[Falsifiability]]
-
-## Related
 - [[Provenance]]
 - [[Ground Truth]]
 - [[Exhaustive Claim]]
+- [[Model Card]]

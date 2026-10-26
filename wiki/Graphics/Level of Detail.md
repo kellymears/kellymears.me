@@ -19,3 +19,5 @@ The same idea generalizes past meshes: **impostors** replace a whole complex obj
 - [[Physically Based Rendering]]
 - [[Procedural Generation]]
 - [[Performance Budget]]
+- [[Hysteresis]]
+- [[Virtual Scrolling]]

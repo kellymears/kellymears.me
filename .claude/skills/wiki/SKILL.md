@@ -94,7 +94,7 @@ Non-negotiables:
 - **No `# Heading`** — the filename is the title.
 - **200–400 words.** If it wants more, it is two notes.
 - **8–15 links**, worked into the prose where the connection is real, plus a `See also` list. Every `[[link]]` must resolve to a real note or an alias.
-- **Filename is the display title**, in the folder matching its tag: `Method`, `Agents`, `Web`, `Design`, `Testing`, `Delivery`, `Systems`, `Data`, `Graphics`, `Networks`, `Meaning`.
+- **Filename is the display title**, in the folder matching its tag: `Method`, `Computation`, `Agents`, `Web`, `Design`, `Testing`, `Delivery`, `Systems`, `Data`, `Graphics`, `Play`, `Networks`, `Matter`, `Body`, `Meaning`.
 - **they/them** for any person referenced.
 - Prose flows unwrapped — one paragraph per line, blank line between.
 

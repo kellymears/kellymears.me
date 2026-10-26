@@ -12,9 +12,8 @@ The mechanism is a rational shortcut that becomes irrational at the edges: in ge
 The pathological end of the same mechanism is a pluralistic ignorance cascade: if everyone privately doubts something but assumes everyone else's calm confidence reflects real certainty, a crowd can unanimously act on a belief that not one member of it actually holds — the same structure behind the [[Bystander Effect]], where each onlooker reads the others' inaction as evidence there's no real emergency. Social proof is also the load-bearing mechanism behind an [[Availability Cascade]], which is essentially social proof compounding across a whole population rather than within one room.
 
 ## See also
-- [[Bystander Effect]]
 - [[Groupthink]]
-- [[Availability Cascade]]
 - [[Astroturfing]]
 - [[Halo Effect]]
 - [[Spiral of Silence]]
+- [[Online Review]]

@@ -19,12 +19,13 @@ Two authoring points are worth stating.
 ## See also
 - [[Frontmatter]]
 - [[Static Site Generation]]
-- [[Plain Language]]
 - [[Wiki]]
 - [[RSS]]
 - [[Subtitling]]
-
-## Related
 - [[Zettelkasten]]
+- [[Plain Language]]
 - [[Search Engine Optimization]]
 - [[Naming]]
+- [[Slug]]
+- [[Blog]]
+- [[HTML]]

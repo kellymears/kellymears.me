@@ -16,13 +16,16 @@ Version managers for the underlying runtime are a related and separate concern, 
 Ecosystems also have their own gotchas that no gate catches: a configuration key that is valid in one context and unsupported in another is typically ignored rather than rejected. See [[Silent Failure]].
 
 ## See also
-- [[Lockfile]]
 - [[Monorepo]]
 - [[Semantic Versioning]]
 - [[Supply Chain Security]]
 - [[Bundler]]
 - [[Dotfiles]]
-
-## Related
 - [[Secret Management]]
 - [[Module Graph]]
+- [[Artifact Repository]]
+- [[Archive File]]
+- [[Dynamic Linking]]
+- [[Linux Distribution]]
+- [[GNU Privacy Guard]]
+- [[Automated Dependency Updates]]

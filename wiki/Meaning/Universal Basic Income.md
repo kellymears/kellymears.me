@@ -16,7 +16,7 @@ The proposal also has an odd political signature: it draws praise across nearly 
 
 ## See also
 - [[Regulatory Capture]]
-- [[Collective Action]]
-- [[Naming]]
 - [[Fermi Estimation]]
 - [[Externality]]
+- [[Collective Action]]
+- [[Naming]]

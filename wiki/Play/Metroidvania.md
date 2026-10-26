@@ -17,6 +17,3 @@ Two forces pull against the form. Sequence breaking — reaching a gate's far si
 ## See also
 - [[Soulslike]]
 - [[Environmental Storytelling]]
-- [[Game Feel]]
-- [[Procedural Generation]]
-- [[Knowledge Graph]]

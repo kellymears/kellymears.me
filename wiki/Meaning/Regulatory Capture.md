@@ -13,11 +13,8 @@ The **revolving door** — regulators hired from the industry they oversee, and 
 The word is also overused. "Capture" can function as a [[Plausible Mechanism]] that ends an inquiry rather than starting one — any regulatory outcome an observer dislikes gets attributed to capture without tracing the actual channel, which slides toward a [[Motte and Bailey]]: the defensible claim, that industries have disproportionate influence over their regulators, stands in for the much larger one, that this specific rule proves capture occurred. Distinguishing real capture from ordinary [[Rent-Seeking]], technical constraint, or a genuinely hard trade-off requires tracing who wrote the rule and who benefits, a [[Ground Truth]] question rather than a label to reach for.
 
 ## See also
-- [[Rent-Seeking]]
-- [[Principal-Agent Problem]]
+- [[Hanlon's Razor]]
+- [[Jaywalking]]
 - [[Externality]]
 - [[Falsifiability]]
-- [[Motte and Bailey]]
-- [[Hanlon's Razor]]
 - [[Right to Repair]]
-- [[Jaywalking]]

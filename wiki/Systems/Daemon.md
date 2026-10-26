@@ -15,15 +15,17 @@ Registration is where the subtle failures live. A supervisor records the path it
 Scheduled work is the daemon's near relative; see [[Cron]].
 
 ## See also
+- [[Truncation Bias]]
 - [[Process]]
-- [[Cron]]
 - [[Code Signing]]
 - [[Observability]]
-
-## Related
 - [[Silent Failure]]
 - [[Resource Starvation]]
 - [[Ground Truth]]
-- [[Truncation Bias]]
 - [[Root Cause Analysis]]
 - [[Instrumentation]]
+- [[Terminal Multiplexer]]
+- [[Sound Server]]
+- [[File Watching]]
+- [[Web Server]]
+- [[Pseudoterminal]]

@@ -20,14 +20,13 @@ Several properties separate a useful assertion from a decorative one.
 A related discipline: when a test is written after a fix, revert the fix and watch the assertion go red before trusting it. The counts confirm it — a suite going from two failing to zero is evidence; a suite that was already green is not.
 
 ## See also
-- [[Falsifiability]]
-- [[Vacuous Truth]]
 - [[Test-Driven Development]]
 - [[LLM-as-Judge]]
+- [[Regression]]
 - [[Fail Fast]]
 - [[Nondeterminism]]
-
-## Related
 - [[Silent Failure]]
-- [[Regression]]
 - [[Hallucination]]
+- [[Defensive Programming]]
+- [[Design by Contract]]
+- [[Core Dump]]

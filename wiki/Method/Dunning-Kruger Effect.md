@@ -15,10 +15,8 @@ For engineers, the practical corollary is to distrust your own confidence exactl
 
 ## See also
 - [[Automation Bias]]
+- [[Illusory Truth Effect]]
 - [[Confirmation Bias]]
 - [[Regression to the Mean]]
 - [[Base Rate Fallacy]]
-- [[Illusory Truth Effect]]
-
-## Related
 - [[Anchoring Effect]]

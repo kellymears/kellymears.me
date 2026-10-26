@@ -16,3 +16,5 @@ Its characteristic failure mode is the **deadlock**: transaction A holds a lock 
 - [[Race Condition]]
 - [[ACID]]
 - [[Two-Phase Commit]]
+- [[Deadlock]]
+- [[Isolation Level]]

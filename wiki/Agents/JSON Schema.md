@@ -23,3 +23,5 @@ Descriptions are a first-class part of the schema, not decoration. They are the 
 - [[Prompt Engineering]]
 - [[Token]]
 - [[Model Routing]]
+- [[Schema Evolution]]
+- [[OpenAPI]]

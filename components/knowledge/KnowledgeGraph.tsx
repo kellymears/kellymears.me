@@ -10,12 +10,12 @@ import type {
 } from 'react'
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'
 
-import type { KnowledgeGraph as KnowledgeGraphData } from '@/lib/knowledge'
-
 import { FALLBACK_TOPIC_COLOR, TOPIC_COLORS, TOPIC_ORDER, topicCssVar } from './graph-colors'
+import { type PackedGraph, unpackGraph } from './packed-graph'
 
 export interface KnowledgeGraphProps {
-  graph: KnowledgeGraphData
+  /** From `packGraph()` — the compact form keeps the RSC payload small. */
+  graph: PackedGraph
   variant: 'constellation' | 'local'
   /** The note currently being read — drawn larger, ringed, never dimmed. */
   activeId?: string
@@ -79,6 +79,9 @@ const MAX_HOME_ZOOM = 3.2
  * They are placed for the home region; much beyond it they collide on screen.
  */
 const LABEL_FADE_RATIO = 1.35
+
+/** Interleaved stroke batches per edge style; see `drawEdges`. */
+const EDGE_BATCHES = 32
 
 /**
  * Resting zoom for a graph of `count` nodes. Scales with the square root of the
@@ -231,15 +234,19 @@ const GRAPH_CSS = `
 }
 ${topicFillRules}
 
-.kg-svg{display:block;width:100%;height:100%;overflow:visible;touch-action:auto;}
+.kg-svg{position:relative;display:block;width:100%;height:100%;overflow:visible;touch-action:auto;}
+.kg-svg-static{position:absolute;inset:0;width:100%;height:100%;overflow:visible;}
 /* Reveal. The server paints the whole-vault fit; the client then zooms to a
    region it picks itself and re-places labels once the webfont is in. Both
    would read as a jump, so the canvas stays hidden until \`data-ready\` (camera
    placed, labels measured) and then settles in. Scripting-gated: without JS
-   the server framing is final and must stay visible. */
+   the server framing is final and must stay visible. The fade sits on an HTML
+   wrapper, not on the SVG: there it runs on the compositor, where on the SVG
+   root it re-layerized the whole drawing every frame (~300ms of blocking time
+   at 4x CPU throttle). */
 @media (scripting:enabled){
-  .kg-svg{transition:opacity .6s ease;}
-  .kg:not([data-ready]) .kg-svg{opacity:0;}
+  .kg-stage{transition:opacity .6s ease;}
+  .kg:not([data-ready]) .kg-stage{opacity:0;}
 }
 /* Bleed frame: feathered by gradient overlays (.kg-feather), not a mask. A
    mask on this layer forces the whole ~3.7k-element SVG through an offscreen
@@ -261,13 +268,9 @@ ${topicFillRules}
 .kg--constellation .kg-svg[data-panning='1']{cursor:grabbing;}
 
 /*
- * Edge width is derived from --kg-zoom rather than vector-effect:non-scaling-stroke.
- * Both hold a 1px on-screen stroke at any zoom, but non-scaling-stroke makes the
- * engine re-derive stroke geometry in screen space per element per frame, and at
- * 2.3k edges that alone cost 35ms/frame unthrottled and 122ms at 4x CPU throttle
- * (measured). Reading a single inherited custom property is ~5x cheaper and, more
- * importantly, has flat variance — the pathological frames disappear entirely.
- * Any stroke-width on an edge must therefore be expressed in --kg-zoom units.
+ * Edges are drawn on .kg-edges, a canvas under the SVG (see drawEdges), which
+ * reads these tokens. This rule styles only the no-JS fallback path: one CSS
+ * px at the server's framing, via --kg-zoom rather than non-scaling-stroke.
  */
 .kg-edge{stroke:var(--kg-edge);stroke-width:calc(var(--kg-zoom) * 1px);stroke-linecap:round;fill:none;}
 .kg--constellation .kg-edge{opacity:var(--kg-edge-o);}
@@ -277,9 +280,15 @@ ${topicFillRules}
 
 .kg-hit{fill:transparent;stroke:none;}
 .kg-dot{fill:var(--kg-c,var(--kg-fallback));}
-.kg-ring{fill:none;stroke:var(--kg-ring);stroke-width:1.25;opacity:0;}
+/* Rings are display:none until shown, not opacity:0. At zero opacity each of
+   the ~900 still painted as its own chunk, and every pan frame paid to lay out,
+   pre-paint and layerize all of them. They fade both ways via allow-discrete. */
+.kg-ring{
+  fill:none;stroke:var(--kg-ring);stroke-width:1.25;opacity:0;display:none;
+  transition:opacity 180ms ease,display 180ms allow-discrete;
+}
 .kg-node{cursor:pointer;outline:none;transition:opacity 180ms ease;}
-.kg-node .kg-dot,.kg-node .kg-ring{transition:opacity 180ms ease;}
+.kg-node .kg-dot{transition:opacity 180ms ease;}
 
 .kg-label{
   fill:var(--kg-label);
@@ -291,36 +300,40 @@ ${topicFillRules}
   stroke-width:calc(var(--kg-zoom) * 3px);
   stroke-linejoin:round;
   pointer-events:none;
-  opacity:0;
-  visibility:hidden;
+  display:none;
   transition:opacity 110ms ease;
 }
-.kg-label--pinned{opacity:1;visibility:visible;}
+/* Hidden labels are display:none, not visibility:hidden — most of the vault's
+   ~900 labels are hidden at any moment, and hidden ones were still restyled and
+   laid out on every zoom frame. A label coming back fades in from here. */
+@starting-style{.kg-label{opacity:0;}}
+.kg-label--pinned{display:inline;}
 
 /* Resting labels are placed for the home region. Zoomed well out of it they
    would collide on screen, so they stand down and leave the shape of the map. */
-.kg[data-far] .kg-label--pinned:not(.kg-label--active){opacity:0;visibility:hidden;}
+.kg[data-far] .kg-label--pinned:not(.kg-label--active){display:none;}
 
 /* Node focus: the hovered/focused node plus its direct neighbors stay lit. */
 .kg[data-focus] .kg-node:not(.kg-on){opacity:.1;}
 .kg[data-focus] .kg-label:not(.kg-on){opacity:0;}
-.kg[data-focus] .kg-edge:not(.kg-on){opacity:.05;}
-.kg[data-focus] .kg-edge.kg-on{opacity:.95;stroke:var(--kg-edge-hot);stroke-width:calc(var(--kg-zoom) * 1.6px);}
 .kg[data-focus] .kg-node--active:not(.kg-on){opacity:1;}
 .kg[data-focus] .kg-label.kg-hot,
-.kg[data-focus] .kg-label--active{opacity:1;visibility:visible;}
+.kg[data-focus] .kg-label--active{display:inline;opacity:1;}
 
 .kg-node.kg-hot .kg-ring,
 .kg-node--active .kg-ring,
-.kg-node:focus-visible .kg-ring{opacity:1;}
+.kg-node:focus-visible .kg-ring{opacity:1;display:inline;}
+@starting-style{
+  .kg-node.kg-hot .kg-ring,
+  .kg-node--active .kg-ring,
+  .kg-node:focus-visible .kg-ring{opacity:0;}
+}
 .kg-node:focus-visible .kg-ring{stroke:var(--color-primary-500,var(--kg-ring));stroke-width:2.5;}
 
 /*
  * Filtering. Both modes classify every element the same way — inside the
- * selection, reaching out of it (one endpoint in), or outside — and differ only
- * in how hard they mute. Edges have to be judged by *both* endpoints, which is
- * why this is applied per element rather than by an attribute selector on the
- * root.
+ * selection or outside — and differ only in how hard they mute. Edges, judged
+ * by *both* endpoints, follow the same rules on the canvas (see drawEdges).
  *
  * Forced, because these have to beat the focus layer: an excluded node is still
  * the neighbor of an included one, and would otherwise light up with it.
@@ -331,9 +344,7 @@ ${topicFillRules}
  * clicked through the emptiness.
  */
 .kg[data-mode='hard'] .kg-node.kg-out{opacity:.05 !important;pointer-events:none !important;}
-.kg[data-mode='hard'] .kg-edge.kg-out{opacity:.03 !important;}
-.kg[data-mode='hard'] .kg-label.kg-out{opacity:0 !important;visibility:hidden !important;}
-.kg[data-mode='hard'] .kg-edge.kg-reach{opacity:.16 !important;}
+.kg[data-mode='hard'] .kg-label.kg-out{display:none !important;}
 
 /*
  * soft — a topic page showing what its domain touches. Those neighbors are
@@ -341,8 +352,6 @@ ${topicFillRules}
  */
 .kg[data-mode='soft'] .kg-node.kg-out{opacity:.3 !important;}
 .kg[data-mode='soft'] .kg-label.kg-out{opacity:.55 !important;}
-.kg[data-mode='soft'] .kg-edge.kg-out{opacity:.06 !important;}
-.kg[data-mode='soft'] .kg-edge.kg-reach{opacity:.3 !important;}
 
 @keyframes kg-node-in{from{opacity:0;transform:scale(.35);}to{opacity:1;transform:scale(1);}}
 @keyframes kg-fade-in{from{opacity:0;}to{opacity:1;}}
@@ -353,7 +362,7 @@ ${topicFillRules}
 
 @media (prefers-reduced-motion:reduce){
   .kg-node,.kg-edges{animation:none !important;}
-  .kg-node,.kg-label,.kg-edge{transition:none !important;}
+  .kg-node,.kg-label,.kg-ring{transition:none !important;}
 }
 `
 
@@ -420,6 +429,44 @@ const inflate = (b: Box, dx: number, dy: number): Box => ({
   y1: b.y1 + dy,
 })
 
+/**
+ * Placed label boxes, bucketed on a uniform grid so a candidate is tested only
+ * against boxes sharing a cell with it. Same answer as scanning every placed
+ * box — anything that intersects must overlap one of the candidate's cells —
+ * but the full vault offers ~7k candidates against up to ~1.8k boxes, and the
+ * linear scan was most of a 650ms hydration task at 4x CPU throttle.
+ */
+class BoxGrid {
+  private cells = new Map<number, Box[]>()
+
+  constructor(private cell: number) {}
+
+  /** Every cell key the box overlaps. Rows are offset so keys never collide. */
+  private keys(b: Box): number[] {
+    const keys: number[] = []
+    const c = this.cell
+    for (let y = Math.floor(b.y0 / c); y <= Math.floor(b.y1 / c); y++) {
+      for (let x = Math.floor(b.x0 / c); x <= Math.floor(b.x1 / c); x++) keys.push(y * 1e5 + x)
+    }
+    return keys
+  }
+
+  add(b: Box) {
+    for (const key of this.keys(b)) {
+      const list = this.cells.get(key)
+      if (list) list.push(b)
+      else this.cells.set(key, [b])
+    }
+  }
+
+  hits(b: Box): boolean {
+    for (const key of this.keys(b)) {
+      if (this.cells.get(key)?.some((other) => intersects(other, b))) return true
+    }
+    return false
+  }
+}
+
 /** A label candidate: anchor point plus the box it would occupy. */
 const boxed = (
   tx: number,
@@ -467,7 +514,7 @@ interface RenderEdge {
 }
 
 export function KnowledgeGraph({
-  graph,
+  graph: packed,
   variant,
   activeId,
   focusTopic,
@@ -477,6 +524,7 @@ export function KnowledgeGraph({
   frame: frameKind = 'card',
   overlay,
 }: KnowledgeGraphProps) {
+  const graph = useMemo(() => unpackGraph(packed), [packed])
   const bleed = frameKind === 'bleed'
   const router = useRouter()
   const rootRef = useRef<HTMLDivElement>(null)
@@ -685,12 +733,15 @@ export function KnowledgeGraph({
      * an isolated topic sparsely labeled for no visible reason — its titles
      * were being turned away by nodes the selection had already hidden.
      */
-    const taken: Box[] = eligible.map((node) => ({
-      x0: node.x - node.r,
-      x1: node.x + node.r,
-      y0: node.y - node.r,
-      y1: node.y + node.r,
-    }))
+    const taken = new BoxGrid(Math.max(fontUser * 6, 1))
+    for (const node of eligible) {
+      taken.add({
+        x0: node.x - node.r,
+        x1: node.x + node.r,
+        y0: node.y - node.r,
+        y1: node.y + node.r,
+      })
+    }
     /*
      * The note being read gets first pick, then this page's own domain, then
      * the best connected (`nodes` already arrives in descending-degree order).
@@ -760,13 +811,11 @@ export function KnowledgeGraph({
         // Must clear every label already placed AND sit inside the frame, so
         // nothing clips at an edge. If no slot fits it loses its label rather
         // than overprint a better-connected note.
-        const free = candidates.find(
-          (c) => inside(c.box, bounds) && !taken.some((box) => intersects(box, c.box))
-        )
+        const free = candidates.find((c) => inside(c.box, bounds) && !taken.hits(c.box))
         if (free) {
           // Store the box with breathing room so near-misses still count as a
           // clash — the width estimate is only an average glyph advance.
-          taken.push(inflate(free.box, fontUser * 0.2, fontUser * 0.12))
+          taken.add(inflate(free.box, fontUser * 0.2, fontUser * 0.12))
           chosen = free
           pinned = true
         }
@@ -811,6 +860,37 @@ export function KnowledgeGraph({
     return edges
   }, [graph.edges, nodeById])
 
+  /* ---- edge canvas ------------------------------------------------------- */
+
+  /*
+   * Edges are one canvas under the SVG rather than ~5.8k <line>s. As elements
+   * they were most of the drawing's DOM: ~630KB of server HTML to parse and
+   * hydrate, and every pan frame re-laid-out and repainted all of them, every
+   * zoom frame restyled them through --kg-zoom, and every hover restyled them
+   * for the dim. The canvas redraws only the edges in view, batched into one
+   * stroke per style, in well under 1ms.
+   *
+   * It draws from the same state the classes on nodes and labels express, kept
+   * in refs so nothing here re-renders: the focused node and the filter.
+   */
+  const edgeCanvasRef = useRef<HTMLCanvasElement>(null)
+  const focusId = useRef<string | null>(null)
+  const edgeFilter = useRef<{ ids: Set<string>; mode: 'hard' | 'soft' } | null>(null)
+  /** Resolved edge tokens; cleared when the theme flips. */
+  const edgeInk = useRef<{ edge: string; hot: string; opacity: number } | null>(null)
+  /** Repaints the canvas. Assigned below, once the view refs it reads exist. */
+  const drawEdges = useRef<() => void>(() => {})
+  const edgeFrame = useRef(0)
+  /**
+   * Hover, filter and theme changes repaint on the next frame, so a burst of
+   * them (a fast sweep across nodes) costs one draw. View changes draw directly
+   * from `commitView`, which is already frame-aligned, and absorb any pending.
+   */
+  const scheduleEdges = useCallback(() => {
+    if (edgeFrame.current || typeof requestAnimationFrame === 'undefined') return
+    edgeFrame.current = requestAnimationFrame(() => drawEdges.current())
+  }, [])
+
   /* ---- hard filter — applied imperatively, zero re-render ----------------- */
 
   /**
@@ -850,19 +930,9 @@ export function KnowledgeGraph({
       el.classList.toggle('kg-out', !!filterIds && !filterIds.has(el.getAttribute('data-node')!))
     }
 
-    for (const el of root.querySelectorAll('.kg-edge')) {
-      if (!filterIds) {
-        el.classList.remove('kg-out', 'kg-reach')
-        continue
-      }
-      const a = filterIds.has(el.getAttribute('data-s')!)
-      const b = filterIds.has(el.getAttribute('data-t')!)
-      // Both ends inside: the selection's own structure, drawn normally. One end
-      // inside: where the selection reaches, kept faint. Neither: muted.
-      el.classList.toggle('kg-out', !a && !b)
-      el.classList.toggle('kg-reach', a !== b)
-    }
-  }, [filterIds])
+    edgeFilter.current = filterIds && filterMode ? { ids: filterIds, mode: filterMode } : null
+    scheduleEdges()
+  }, [filterIds, filterMode, scheduleEdges])
 
   /* ---- focus (hover / keyboard) — driven imperatively, zero re-render ----- */
 
@@ -874,6 +944,9 @@ export function KnowledgeGraph({
       for (const el of root.querySelectorAll('.kg-on, .kg-hot')) {
         el.classList.remove('kg-on', 'kg-hot')
       }
+
+      focusId.current = id
+      scheduleEdges()
 
       if (!id) {
         delete root.dataset.focus
@@ -891,17 +964,35 @@ export function KnowledgeGraph({
         }
       }
 
-      const escaped = cssEscape(id)
-      const incident = `.kg-edge[data-s="${escaped}"], .kg-edge[data-t="${escaped}"]`
-      for (const el of root.querySelectorAll(incident)) el.classList.add('kg-on')
-
       root.dataset.focus = id
     },
-    [neighbors]
+    [neighbors, scheduleEdges]
   )
 
   // Focus references live DOM nodes; drop it whenever the graph is swapped out.
   useEffect(() => setFocus(null), [setFocus])
+
+  /*
+   * The hover dim and the filter fade every node at once, and each fade fires
+   * transition events that React's document-level listener walks the fiber
+   * tree for, though nothing here listens: ~1.8k events and ~100ms of main
+   * thread per legend click at 4x CPU. Stopped at the window, which sits above
+   * React's listener, and only for events from inside this graph.
+   */
+  useEffect(() => {
+    const root = rootRef.current
+    if (!root) return
+    const types = ['transitionrun', 'transitionstart', 'transitionend', 'transitioncancel']
+    const stop = (event: Event) => {
+      if (event.target instanceof Node && root.contains(event.target)) {
+        event.stopImmediatePropagation()
+      }
+    }
+    for (const type of types) window.addEventListener(type, stop, true)
+    return () => {
+      for (const type of types) window.removeEventListener(type, stop, true)
+    }
+  }, [])
 
   /*
    * Pointer hover, with intent. Isolating a note dims every other element, so
@@ -1151,6 +1242,8 @@ export function KnowledgeGraph({
   const size = useRef({ w: 0, h: 0 })
   /** Last `--kg-zoom` written, so a pan does not rewrite an unchanged value. */
   const zoomUnits = useRef<number | null>(null)
+  const stageRef = useRef<HTMLDivElement>(null)
+  const labelsRef = useRef<SVGGElement>(null)
   const [zoomed, setZoomed] = useState(false)
   const zoomedRef = useRef(false)
 
@@ -1166,18 +1259,19 @@ export function KnowledgeGraph({
     frame.current = 0
     const v = view.current
     const root = rootRef.current
+    const { h: ph } = size.current
 
     svgRef.current?.setAttribute('viewBox', `${v.x} ${v.y} ${v.w} ${v.h}`)
-    // User units per CSS px — labels and edges multiply by it to hold a constant
-    // size on screen at any container size or zoom level. Written only when it
-    // actually moves: a pan leaves it untouched, and rewriting it would dirty
-    // the stroke-width of every edge and the font-size of every label for a
-    // value that did not change.
-    const unitsPerPx = size.current.h > 0 ? v.h / size.current.h : 1
+    // User units per CSS px — labels multiply by it to hold a constant size on
+    // screen at any container size or zoom level. Set on the label group, not
+    // the root, so a zoom restyles the labels and nothing else; and only when it
+    // actually moves, since a pan leaves it untouched.
+    const unitsPerPx = ph > 0 ? v.h / ph : 1
     if (unitsPerPx !== zoomUnits.current) {
       zoomUnits.current = unitsPerPx
-      root?.style.setProperty('--kg-zoom', String(unitsPerPx))
+      labelsRef.current?.style.setProperty('--kg-zoom', String(unitsPerPx))
     }
+    drawEdges.current()
 
     // Resting labels are placed for the home region; once the view is much
     // wider than that they would collide on screen, so they step aside and
@@ -1232,7 +1326,7 @@ export function KnowledgeGraph({
   )
 
   const resetView = useCallback(() => {
-    const rect = svgRef.current?.getBoundingClientRect()
+    const rect = stageRef.current?.getBoundingClientRect()
     if (rect && rect.width > 0 && rect.height > 0) {
       size.current = { w: rect.width, h: rect.height }
       // Feed the real aspect back into label placement. Guarded so the
@@ -1288,6 +1382,133 @@ export function KnowledgeGraph({
     applyView(true)
   }, [applyView, bounds, renderNodes, opensOnRegion])
 
+  /*
+   * The SVG's own mapping (viewBox `view`, xMidYMid meet) and the old per-line
+   * stylesheet, replayed. Opacity follows the old cascade: a filter's out/reach
+   * mute wins over the focus dim, while an edge touching the focused node keeps
+   * the hot ink and weight.
+   *
+   * Overlapping edges have to compound, as separate <line>s did: that build-up
+   * is what makes dense regions and hubs glow, and one path per style would
+   * flatten it to an even gray. A stroke per edge keeps it but costs the GPU
+   * thousands of draws a frame. So each style is dealt round-robin into
+   * EDGE_BATCHES interleaved paths: two crossing edges almost never share one,
+   * and the result matches per-edge strokes to within 1% of ink.
+   * Hot edges go last, so they sit on top of the dimmed rest.
+   */
+  useIsomorphicLayoutEffect(() => {
+    drawEdges.current = () => {
+      if (edgeFrame.current) {
+        cancelAnimationFrame(edgeFrame.current)
+        edgeFrame.current = 0
+      }
+      const canvas = edgeCanvasRef.current
+      const root = rootRef.current
+      const { w, h } = size.current
+      const ctx = canvas?.getContext('2d')
+      if (!canvas || !root || !ctx || w === 0 || h === 0) return
+
+      const dpr = window.devicePixelRatio || 1
+      const bw = Math.round(w * dpr)
+      const bh = Math.round(h * dpr)
+      if (canvas.width !== bw || canvas.height !== bh) {
+        canvas.width = bw
+        canvas.height = bh
+      } else {
+        ctx.setTransform(1, 0, 0, 1, 0, 0)
+        ctx.clearRect(0, 0, bw, bh)
+      }
+
+      if (!edgeInk.current) {
+        const style = getComputedStyle(root)
+        edgeInk.current = {
+          edge: style.getPropertyValue('--kg-edge').trim(),
+          hot: style.getPropertyValue('--kg-edge-hot').trim(),
+          opacity: parseFloat(style.getPropertyValue('--kg-edge-o')) || 0.2,
+        }
+      }
+      const ink = edgeInk.current
+
+      const v = view.current
+      const scale = Math.min(w / v.w, h / v.h)
+      const ox = (w - v.w * scale) / 2 - v.x * scale
+      const oy = (h - v.h * scale) / 2 - v.y * scale
+      ctx.setTransform(dpr * scale, 0, 0, dpr * scale, dpr * ox, dpr * oy)
+      ctx.lineCap = 'round'
+
+      // One CSS px in user units — the old --kg-zoom stroke.
+      const unit = v.h / h
+      // The visible rect in user units, padded by a stroke so caps are not cut.
+      const x0 = -ox / scale - 2 * unit
+      const y0 = -oy / scale - 2 * unit
+      const x1 = (w - ox) / scale + 2 * unit
+      const y1 = (h - oy) / scale + 2 * unit
+
+      const focus = focusId.current
+      const filter = edgeFilter.current
+      const base = isConstellation ? ink.opacity : ink.opacity + 0.46
+      // Segment endpoints per batch. The style is alpha in hundredths, +1000 if
+      // hot; the key appends the edge's batch, fixed by its index.
+      const batches = new Map<number, number[]>()
+
+      for (let i = 0; i < renderEdges.length; i++) {
+        const e = renderEdges[i]!
+        if (
+          (e.x1 < x0 && e.x2 < x0) ||
+          (e.x1 > x1 && e.x2 > x1) ||
+          (e.y1 < y0 && e.y2 < y0) ||
+          (e.y1 > y1 && e.y2 > y1)
+        )
+          continue
+
+        const on = focus !== null && (e.source === focus || e.target === focus)
+        let a = focus ? (on ? 0.95 : 0.05) : base
+        if (filter) {
+          const s = filter.ids.has(e.source)
+          const t = filter.ids.has(e.target)
+          // Both ends inside: the selection's own structure, drawn normally. One
+          // end inside: where the selection reaches, kept faint. Neither: muted.
+          if (!s && !t) a = filter.mode === 'hard' ? 0.03 : 0.06
+          else if (s !== t) a = filter.mode === 'hard' ? 0.16 : 0.3
+        }
+
+        const key = (Math.round(a * 100) + (on ? 1000 : 0)) * EDGE_BATCHES + (i % EDGE_BATCHES)
+        let segments = batches.get(key)
+        if (!segments) batches.set(key, (segments = []))
+        segments.push(e.x1, e.y1, e.x2, e.y2)
+      }
+
+      for (const key of [...batches.keys()].sort((a, b) => a - b)) {
+        const style = Math.floor(key / EDGE_BATCHES)
+        const on = style >= 1000
+        const segments = batches.get(key)!
+        ctx.strokeStyle = on ? ink.hot : ink.edge
+        ctx.lineWidth = unit * (on ? 1.6 : 1)
+        ctx.globalAlpha = (style % 1000) / 100
+        ctx.beginPath()
+        for (let i = 0; i < segments.length; i += 4) {
+          ctx.moveTo(segments[i]!, segments[i + 1]!)
+          ctx.lineTo(segments[i + 2]!, segments[i + 3]!)
+        }
+        ctx.stroke()
+      }
+    }
+    drawEdges.current()
+  }, [renderEdges, isConstellation])
+
+  // Theme flips swap the edge tokens; same class observer as the rest of the site.
+  useEffect(() => {
+    const observer = new MutationObserver(() => {
+      edgeInk.current = null
+      scheduleEdges()
+    })
+    observer.observe(document.documentElement, { attributes: true, attributeFilter: ['class'] })
+    return () => {
+      observer.disconnect()
+      if (edgeFrame.current) cancelAnimationFrame(edgeFrame.current)
+    }
+  }, [scheduleEdges])
+
   // Fit before first paint so the SSR'd viewBox never flashes.
   useIsomorphicLayoutEffect(() => {
     resetView()
@@ -1298,9 +1519,12 @@ export function KnowledgeGraph({
     return () => observer.disconnect()
   }, [resetView])
 
-  /** Screen px per user unit, plus the on-screen origin of the viewBox. */
+  /**
+   * Screen px per user unit, plus the on-screen origin of the view. Measured on
+   * the stage, which the SVG fills: the SVG's own rect moves with a pan offset.
+   */
   const viewMetrics = useCallback(() => {
-    const rect = svgRef.current?.getBoundingClientRect()
+    const rect = stageRef.current?.getBoundingClientRect()
     if (!rect || rect.width === 0 || rect.height === 0) return null
     const v = view.current
     const scale = Math.min(rect.width / v.w, rect.height / v.h)
@@ -1413,28 +1637,21 @@ export function KnowledgeGraph({
   /* ---- render ------------------------------------------------------------ */
 
   /*
-   * Three separately memoized layers. Edges and nodes depend only on the graph,
-   * so a legend toggle, a pan, or a zoom never reconciles those ~2.7k elements —
-   * the selection reaches them through `kg-out` instead. Labels are the one
-   * layer that genuinely has to re-place when the selection moves.
+   * Separately memoized layers. Nodes depend only on the graph, so a legend
+   * toggle, a pan, or a zoom never reconciles them — the selection reaches them
+   * through `kg-out` instead. Labels are the one layer that genuinely has to
+   * re-place when the selection moves.
    */
-  const edgeLayer = useMemo(
-    () => (
-      <g className="kg-edges" aria-hidden="true">
-        {renderEdges.map((edge) => (
-          <line
-            key={edge.key}
-            className="kg-edge"
-            data-s={edge.source}
-            data-t={edge.target}
-            x1={edge.x1}
-            y1={edge.y1}
-            x2={edge.x2}
-            y2={edge.y2}
-          />
-        ))}
-      </g>
-    ),
+  /*
+   * Without JS there is no canvas, so the server also emits every edge as one
+   * path inside <noscript>. With JS that markup is never parsed as elements, and
+   * React does not hydrate it, so the client skips building the string at all.
+   */
+  const fallbackEdges = useMemo(
+    () =>
+      typeof window === 'undefined'
+        ? renderEdges.map((e) => `M${e.x1} ${e.y1}L${e.x2} ${e.y2}`).join('')
+        : '',
     [renderEdges]
   )
 
@@ -1484,7 +1701,7 @@ export function KnowledgeGraph({
 
   const labelLayer = useMemo(
     () => (
-      <g className="kg-labels" aria-hidden="true">
+      <g ref={labelsRef} className="kg-labels" aria-hidden="true">
         {renderLabels.map((label) => (
           <text
             key={label.id}
@@ -1531,6 +1748,7 @@ export function KnowledgeGraph({
     )
   }
 
+  const serverViewBox = `${round(bounds.x)} ${round(bounds.y)} ${round(bounds.w)} ${round(bounds.h)}`
   const description = `Knowledge graph: ${graph.nodes.length} ${
     graph.nodes.length === 1 ? 'note' : 'notes'
   }, ${renderEdges.length} ${renderEdges.length === 1 ? 'link' : 'links'}.`
@@ -1540,9 +1758,8 @@ export function KnowledgeGraph({
       ref={rootRef}
       data-mode={filterMode}
       data-ready={measured || undefined}
-      // Seeded for SSR / no-JS; the layout effect replaces it with the measured
-      // units-per-px once the SVG has a size. Constant, so React never rewrites
-      // it and clobbers that measurement.
+      // Seeded for SSR / no-JS. Once the SVG has a size, `commitView` writes the
+      // measured units-per-px on the label group, which overrides this.
       style={{ '--kg-zoom': String(bounds.h / canvasHeight) } as CSSProperties}
       className={clsx(
         'kg relative',
@@ -1561,37 +1778,56 @@ export function KnowledgeGraph({
         )}
         style={bleed ? undefined : { height: canvasHeight }}
       >
-        <svg
-          ref={svgRef}
-          className="kg-svg"
-          // The content box, so SSR and no-JS already frame the graph. Stable
-          // per graph, so React does not rewrite it and clobber the measured
-          // viewBox the layout effect writes.
-          viewBox={`${round(bounds.x)} ${round(bounds.y)} ${round(bounds.w)} ${round(bounds.h)}`}
-          preserveAspectRatio="xMidYMid meet"
-          width="100%"
-          height="100%"
-          role="group"
-          aria-label={`${description} ${KEYBOARD_HELP}`}
-          // Focusable only programmatically — Escape parks focus here on the
-          // way out of the graph. Never a tab stop of its own.
-          tabIndex={-1}
-          onPointerDown={onPointerDown}
-          onPointerMove={onPointerMove}
-          onPointerUp={onPointerUp}
-          onPointerCancel={onPointerUp}
-          onPointerLeave={() => hoverFocus(null)}
-          onBlur={unpark}
-        >
-          <title>{description}</title>
-          <desc>
-            Each dot is a note, sized by how many links it has and colored by topic. Focus or hover
-            a dot to isolate it and its neighbors; activate it to open the note. {KEYBOARD_HELP}
-          </desc>
-          {edgeLayer}
-          {nodeLayer}
-          {labelLayer}
-        </svg>
+        <div ref={stageRef} className="kg-stage absolute inset-0">
+          <canvas
+            ref={edgeCanvasRef}
+            className="kg-edges absolute inset-0 h-full w-full"
+            aria-hidden="true"
+          />
+          <noscript>
+            <svg
+              className="kg-svg-static"
+              viewBox={serverViewBox}
+              preserveAspectRatio="xMidYMid meet"
+              width="100%"
+              height="100%"
+              aria-hidden="true"
+            >
+              <path className="kg-edge" d={fallbackEdges} />
+            </svg>
+          </noscript>
+          <svg
+            ref={svgRef}
+            className="kg-svg"
+            // The content box, so SSR and no-JS already frame the graph. Stable
+            // per graph, so React does not rewrite it and clobber the measured
+            // viewBox the layout effect writes.
+            viewBox={serverViewBox}
+            preserveAspectRatio="xMidYMid meet"
+            width="100%"
+            height="100%"
+            role="group"
+            aria-label={`${description} ${KEYBOARD_HELP}`}
+            // Focusable only programmatically — Escape parks focus here on the
+            // way out of the graph. Never a tab stop of its own.
+            tabIndex={-1}
+            onPointerDown={onPointerDown}
+            onPointerMove={onPointerMove}
+            onPointerUp={onPointerUp}
+            onPointerCancel={onPointerUp}
+            onPointerLeave={() => hoverFocus(null)}
+            onBlur={unpark}
+          >
+            <title>{description}</title>
+            <desc>
+              Each dot is a note, sized by how many links it has and colored by topic. Focus or
+              hover a dot to isolate it and its neighbors; activate it to open the note.{' '}
+              {KEYBOARD_HELP}
+            </desc>
+            {nodeLayer}
+            {labelLayer}
+          </svg>
+        </div>
 
         {isConstellation && zoomed && (
           <button

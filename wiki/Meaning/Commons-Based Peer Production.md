@@ -19,3 +19,4 @@ Governance strains as a project grows. Early contributors often accumulate outsi
 - [[Zettelkasten]]
 - [[Knowledge Graph]]
 - [[Taxonomy]]
+- [[Open Core]]

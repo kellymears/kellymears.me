@@ -12,10 +12,8 @@ How fast a rollback is depends entirely on what has to move to make it happen. R
 The alternative discipline is "fix forward": rather than reverting, ship a fix as fast as possible on top of the bad release. Fixing forward is sometimes forced — when the bad release already committed side effects (sent emails, charged cards) that reverting the code can't undo — and sometimes chosen, when the team judges a targeted fix is faster or safer than an untested revert. Neither approach is universally correct; picking between them under incident pressure is exactly the kind of decision a rehearsed rollback plan exists to make routine instead of improvised.
 
 ## See also
-- [[Blue-Green Deployment]]
-- [[Canary Release]]
-- [[Database Migration]]
-
-## Related
 - [[Zero-Downtime Deployment]]
+- [[Canary Release]]
 - [[Immutable Infrastructure]]
+- [[Hotfix]]
+- [[Progressive Delivery]]

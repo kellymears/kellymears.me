@@ -17,8 +17,5 @@ Reliability sets the trap. A system right ninety-nine times in a hundred teaches
 Countermeasures concern ordering and visibility: give the basis and the confidence, not the verdict alone; record the reviewer's own judgment before showing the recommendation so it cannot anchor them ([[Anchoring Effect]]); publish known failure modes; and never measure agreement rate, which is [[Goodhart's Law]] aimed at the last safeguard.
 
 ## See also
-- [[Human in the Loop]]
-- [[Silent Failure]]
-- [[Hallucination]]
 - [[Adversarial Review]]
 - [[Ground Truth]]

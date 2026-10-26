@@ -23,3 +23,4 @@ Both versions are transparent to application code — no request or response for
 
 ## Related
 - [[Critical Rendering Path]]
+- [[Data Compression]]

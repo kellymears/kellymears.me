@@ -14,9 +14,8 @@ The trade-off is that message passing is asynchronous and ordering between diffe
 Akka (JVM), Erlang/OTP, and Orleans (.NET) are the systems most associated with the model in production; it's a heavier commitment than the [[Event Loop]]'s callback queue, since it requires structuring an entire application's state around actor boundaries rather than adding async callbacks to otherwise ordinary code, but it scales to distributed systems more naturally — a message to a remote actor and a message to a local one look the same to the sender.
 
 ## See also
-- [[Event Loop]]
-- [[Race Condition]]
 - [[Process]]
 - [[Concurrency and Parallelism]]
 - [[Finite State Machine]]
 - [[Message Queue]]
+- [[Inter-Process Communication]]

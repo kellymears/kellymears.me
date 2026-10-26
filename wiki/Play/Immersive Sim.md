@@ -16,7 +16,5 @@ That shift is expensive, and the expense is mostly in verification. A scripted e
 
 ## See also
 - [[Game AI]]
-- [[Environmental Storytelling]]
-- [[Diegetic Interface]]
 - [[Ludonarrative Dissonance]]
 - [[Procedural Generation]]

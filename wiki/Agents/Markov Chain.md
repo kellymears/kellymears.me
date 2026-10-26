@@ -15,8 +15,9 @@ The order tradeoff is the instructive part. Low order produces novel but nonsens
 The result is text that is locally fluent and globally incoherent. Each transition is well formed because it was observed; nothing survives beyond the window, so no referent, claim or intention is tracked across sentences. Attention changed exactly this — a [[Large Language Model]] can condition on any earlier [[Token]] within its [[Context Window]], which is why agreement holds over long spans. What did not change is the shape: sampling one token at a time from a conditional distribution is the same operation, worth remembering when explaining [[Hallucination]] or [[Nondeterminism]]. Fluency is cheap; coherence is the part that needs structure.
 
 ## See also
-- [[Large Language Model]]
+- [[Automatic Speech Recognition]]
 - [[Seeded Randomness]]
 - [[Procedural Generation]]
-- [[Automatic Speech Recognition]]
 - [[Mechanistic Interpretability]]
+- [[Recurrent Neural Network]]
+- [[Autocomplete]]

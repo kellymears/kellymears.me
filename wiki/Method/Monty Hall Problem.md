@@ -15,10 +15,7 @@ summary: A conditional-probability puzzle in which switching wins twice as often
 Scaling makes it obvious: with a hundred doors and a host who opens ninety-eight goats, nobody stays. Conditioning on evidence requires knowing how the evidence was selected, the failure behind [[Truncation Bias]] and behind the inverted conditionals of [[Sensitivity and Specificity]]. Where argument stalls, a short simulation under [[Seeded Randomness]] settles it, turning intuition into [[Falsifiability]] and disagreement into a [[Reproducible Case]].
 
 ## See also
-- [[Sensitivity and Specificity]]
 - [[Falsifiability]]
-- [[Truncation Bias]]
-- [[Seeded Randomness]]
 - [[Fermi Estimation]]
 
 ## Related

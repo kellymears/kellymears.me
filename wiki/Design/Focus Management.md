@@ -18,14 +18,17 @@ Component tests can catch a lot of this, provided the test harness reproduces th
 
 ## See also
 - [[Focus Trap]]
-- [[Keyboard Navigation]]
-- [[Accessibility]]
 - [[Component Story]]
 - [[Portal]]
-- [[Document Object Model]]
 - [[Headless Component]]
 - [[contenteditable]]
-
-## Related
+- [[Keyboard Navigation]]
+- [[Accessibility]]
+- [[Document Object Model]]
 - [[ARIA]]
 - [[Semantic HTML]]
+- [[Carousel]]
+- [[Tabs]]
+- [[Bottom Sheet]]
+- [[Focus Indicator]]
+- [[Toast Notification]]

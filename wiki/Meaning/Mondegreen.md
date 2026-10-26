@@ -13,8 +13,6 @@ Music and unfamiliar accents both produce mondegreens because the acoustic strea
 The cross-language cousin is *soramimi*, a Japanese term for hearing foreign-language lyrics as differently meaningful phrases in the listener's own language, exploited deliberately in parody dubs. The closer relative is the [[Eggcorn]]: both preserve sense through reanalysis, but a mondegreen dissolves once the [[Ground Truth]] lyric is known, where an eggcorn survives as the speaker's lasting analysis — a distinction [[Folk Etymology]] blurs at the level of whole languages.
 
 ## See also
-- [[Eggcorn]]
-- [[Malaphor]]
-- [[Snowclone]]
-- [[Folk Etymology]]
-- [[Automatic Speech Recognition]]
+- [[Shibboleth]]
+- [[Backronym]]
+- [[Collocation]]

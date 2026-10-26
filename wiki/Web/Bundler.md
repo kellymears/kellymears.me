@@ -16,11 +16,10 @@ Bundlers are worth understanding because their behavior is *observable in produc
 They also complicate development in a specific way: a development server keeps a cache and reloads when its dependency scan finds something new mid-run. That reload aborts in-flight work, which surfaces as a random test file failing on a slow machine and never reproducing on a fast one. See [[Flaky Test]] and [[Race Condition]].
 
 ## See also
-- [[Module Graph]]
-- [[Code Splitting]]
 - [[Determinism]]
 - [[Package Manager]]
-
-## Related
 - [[Reproducible Case]]
 - [[Ground Truth]]
+- [[TypeScript]]
+- [[ES Modules]]
+- [[Hot Module Replacement]]

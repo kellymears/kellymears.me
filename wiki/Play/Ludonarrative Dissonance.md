@@ -19,3 +19,4 @@ What survives is a design check. A reward schedule teaches behavior regardless o
 - [[Roguelike]]
 - [[Procedural Generation]]
 - [[Game AI]]
+- [[Cutscene]]

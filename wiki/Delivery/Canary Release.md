@@ -15,10 +15,7 @@ Canary releases only work if the metrics being watched are the ones that would a
 It composes naturally with [[Continuous Deployment]]: a pipeline that ships every merged commit to production needs exactly this kind of graduated, monitored exposure to make "every commit" survivable.
 
 ## See also
-- [[Blue-Green Deployment]]
-- [[Feature Flag]]
-- [[Rollback]]
-- [[Continuous Deployment]]
-
-## Related
 - [[Zero-Downtime Deployment]]
+- [[Rollback]]
+- [[Staging Environment]]
+- [[Progressive Delivery]]

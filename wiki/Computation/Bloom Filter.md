@@ -12,7 +12,6 @@ This asymmetry is what makes it useful, not a limitation to route around: it's a
 The false-positive rate is tunable by trading memory: more bits per element and more hash functions both lower it, following a known formula, so a system can dial in "one false positive per million checks" against a known memory budget rather than guessing. What a Bloom filter cannot do at all is removal — clearing a bit to "unadd" one element might also clear a bit another element still depends on, since bits are shared across elements by design; a counting Bloom filter (bytes instead of bits, incremented and decremented) is the standard fix when deletion is required, at proportionally higher memory cost.
 
 ## See also
-- [[Hash Function]]
 - [[Hash Table]]
 - [[Trie]]
 - [[Cache Invalidation]]

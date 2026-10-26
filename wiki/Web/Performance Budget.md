@@ -15,14 +15,13 @@ Making one requires deciding what to measure, and that is harder than it sounds.
 Budgets should also be revisable with reasoning attached. A deliberate, understood increase is fine; the value of the gate is that raising it is a decision rather than an accident.
 
 ## See also
-- [[Core Web Vitals]]
 - [[Code Splitting]]
-- [[Continuous Integration]]
-- [[Goodhart's Law]]
 - [[React Server Components]]
 - [[Web Font Loading]]
 - [[Islands Architecture]]
-
-## Related
 - [[Server-Side Rendering]]
 - [[Lazy Loading]]
+- [[Core Web Vitals]]
+- [[Continuous Integration]]
+- [[Goodhart's Law]]
+- [[Benchmarking]]

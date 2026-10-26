@@ -16,14 +16,9 @@ Two mechanical facts save a lot of confusion. **A failing test yields no coverag
 Coverage also behaves oddly across multiple test environments measuring the same files, where a single logical position can end up recorded twice; see [[Branch Coverage]].
 
 ## See also
-- [[Branch Coverage]]
-- [[Coverage Gate]]
 - [[Unreachable Code]]
-- [[Instrumentation]]
 - [[Module Graph]]
 - [[Regression]]
 - [[Test-Driven Development]]
-
-## Related
 - [[Unit Test]]
 - [[Vacuous Truth]]

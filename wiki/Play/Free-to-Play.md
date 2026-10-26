@@ -15,8 +15,5 @@ The load-bearing distinction is **cosmetic versus competitive monetization**. Se
 Design bends around the paying minority in ways non-paying players absorb without noticing — a bundle's [[Anchoring Effect]] against which a smaller purchase reads as restraint. Once revenue per player becomes the metric a studio optimizes, [[Goodhart's Law]] takes hold, and the constant tuning that requires is what the [[Live Service Game]] cadence exists to support.
 
 ## See also
-- [[Gacha Monetization]]
-- [[Live Service Game]]
-- [[Compulsion Loop]]
-- [[Meta-Progression]]
-- [[Time as Resource]]
+- [[Open Core]]
+- [[Pity Timer]]

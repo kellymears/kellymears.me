@@ -14,14 +14,12 @@ Its weakness is that compatibility is a judgment, not a property a tool can comp
 The practical consequences are that a major bump deserves a migration path and a [[Deprecation]] window rather than a note, and that pinning exact versions is a reasonable posture for anything where reproducibility matters more than automatic updates. See [[Lockfile]].
 
 ## See also
-- [[Deprecation]]
-- [[Lockfile]]
 - [[Conventional Commits]]
 - [[Package Manager]]
-
-## Related
 - [[Supply Chain Security]]
 - [[Silent Failure]]
 - [[Monorepo]]
 - [[Secret Management]]
 - [[Bundler]]
+- [[Changelog]]
+- [[Release Train]]

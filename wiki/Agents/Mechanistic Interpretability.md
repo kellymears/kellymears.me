@@ -15,8 +15,6 @@ The limits are real. Recovered dictionaries are incomplete, reconstruction is lo
 What none of this licenses is folk prompting advice. Discovering that a [[Large Language Model]] carries a feature for a concept says nothing about which phrasing recruits it, and no published result yet justifies an incantation. Claims about [[Prompt Engineering]] still need an [[Evaluation Harness]] and measured outcomes; interpretability supplies an explanation to be earned, not a [[Plausible Mechanism]] to be assumed. Its firmest practical contribution so far is negative — showing that intuitive stories about why a model produced an output, including many about [[Hallucination]], are simply wrong.
 
 ## See also
-- [[Large Language Model]]
 - [[Context Window]]
-- [[Evaluation Harness]]
 - [[Falsifiability]]
 - [[Markov Chain]]

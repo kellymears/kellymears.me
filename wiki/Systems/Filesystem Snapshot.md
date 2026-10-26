@@ -12,7 +12,9 @@ This is what makes snapshotting practical for routine use rather than an occasio
 A snapshot is not a backup by itself, even though it's often confused for one, because it typically lives on the same physical disks as the data it's a snapshot of — a drive failure takes both down together. Its real value is as a fast, cheap rollback point and as a *consistent* source to back up *from*: streaming a snapshot to another host produces a backup that can't be caught mid-write, which copying a live filesystem directly cannot guarantee.
 
 ## See also
-- [[Copy-on-Write]]
 - [[Inode]]
 - [[Database Migration]]
 - [[Idempotence]]
+- [[Disk Image]]
+- [[Boot Process]]
+- [[RAID]]

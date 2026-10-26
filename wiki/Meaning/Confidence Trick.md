@@ -16,8 +16,7 @@ Three mechanisms do most of the work. **Assumed identity** costs nothing to clai
 High-status milieus are permeable for structural reasons. Credentials go unchecked because checking reads as an insult, membership is treated as transitive, and each gatekeeper assumes an earlier one verified. [[Prompt Injection]] has the same shape — instructions inheriting authority from the channel that carried them — and the remedy is the same: check against [[Ground Truth]] rather than against confidence.
 
 ## See also
-- [[Provenance]]
-- [[Ground Truth]]
 - [[Anchoring Effect]]
-- [[Least Privilege]]
 - [[Naming]]
+- [[Least Privilege]]
+- [[Red Herring]]

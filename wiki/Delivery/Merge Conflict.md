@@ -21,12 +21,13 @@ Several practical points recur:
 
 ## See also
 - [[Three-Way Merge]]
-- [[Rebase]]
 - [[Semantic Conflict]]
-- [[Ground Truth]]
 - [[Stacked Pull Requests]]
-
-## Related
 - [[Merge Train]]
+- [[Rebase]]
+- [[Ground Truth]]
 - [[Continuous Integration]]
 - [[Trunk-Based Development]]
+- [[Fast-Forward Merge]]
+- [[Feature Branch]]
+- [[Git Stash]]

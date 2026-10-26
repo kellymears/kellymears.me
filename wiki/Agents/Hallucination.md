@@ -18,7 +18,5 @@ Mitigations that work are all about grounding. Give the model tools to *look* ra
 - [[Tool Use]]
 - [[Guardrail]]
 - [[Nondeterminism]]
-
-## Related
 - [[Vacuous Truth]]
 - [[Prompt Engineering]]

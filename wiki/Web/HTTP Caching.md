@@ -14,10 +14,10 @@ Static-asset caching pushes this further by making the URL itself change wheneve
 This layer is orthogonal to [[Cache Invalidation]] inside an application's own data layer — HTTP caching governs whether a *response* gets reused, application caching governs whether *computed data* does, and the two commonly disagree about what's fresh at the same moment.
 
 ## See also
-- [[ETag]]
-- [[Cache Invalidation]]
-- [[Preload and Prefetch]]
 - [[Service Worker]]
-
-## Related
 - [[Core Web Vitals]]
+- [[Favicon]]
+- [[Data URI]]
+- [[Time to Live]]
+- [[Web Server]]
+- [[Back-Forward Cache]]

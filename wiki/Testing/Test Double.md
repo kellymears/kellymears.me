@@ -18,11 +18,12 @@ The second risk is that a double drifts from the real interface, so the tests pa
 ## See also
 - [[Test Fixture]]
 - [[Record and Replay Testing]]
-- [[Unit Test]]
-- [[Vacuous Truth]]
-
-## Related
-- [[Nondeterminism]]
-- [[Large Language Model]]
 - [[Integration Test]]
 - [[Fingerprint]]
+- [[Unit Test]]
+- [[Vacuous Truth]]
+- [[Nondeterminism]]
+- [[Large Language Model]]
+- [[Service Virtualization]]
+- [[Fake Clock]]
+- [[Dependency Injection]]
